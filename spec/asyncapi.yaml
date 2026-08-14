@@ -1,0 +1,285 @@
+asyncapi: 3.0.0
+
+info:
+  title: Match Play Events real-time API (unofficial)
+  version: 1.0.0
+  description: |
+    The Pusher websocket channel that carries live tournament updates.
+
+    Reconstructed from captured traffic. Match Play's own real-time page is marked "still a
+    work in progress" and names the events without documenting a single field.
+
+    **Read the accompanying prose reference before building on this.** The most important
+    facts about this channel are things it does *not* send: starting a round never announces
+    its games, manual strike adjustments emit no event at all, player and arena events carry
+    ids only, reconnecting replays nothing, tournament completion is often never sent, and
+    deleting a round does not delete its games. Every one of those requires a REST call to
+    work around.
+
+    Not affiliated with or endorsed by Match Play Events.
+  license:
+    name: CC BY 4.0
+
+defaultContentType: application/json
+
+servers:
+  production:
+    host: ws.app.matchplay.events:443
+    protocol: wss
+    pathname: /app/tnrxzkahdeullnwje83e
+    description: |
+      Pusher-protocol websocket. The app key `tnrxzkahdeullnwje83e` is public — Match Play's
+      own web app uses it — and channels require no authentication.
+
+      Connect with query string `?protocol=7&client=js&version=8.5.0&flash=false`.
+
+      `activity_timeout` is delivered as 30 seconds in `pusher:connection_established`.
+      Honour the server value and ping early. Close codes 4000-4099 mean do not reconnect,
+      4100-4199 reconnect with backoff, 4200-4299 reconnect immediately.
+
+channels:
+  tournament:
+    address: 'tournaments.{tournamentId}'
+    title: Tournament channel
+    description: |
+      All live updates for one tournament. Subscribe by sending
+      `{"event":"pusher:subscribe","data":{"auth":"","channel":"tournaments.<id>"}}`.
+
+      A single socket may hold many of these subscriptions.
+
+      Event names arrive namespaced as `App\Events\<Name>`; strip the prefix. The `data`
+      field is sometimes a JSON string and sometimes an object — parse conditionally.
+    parameters:
+      tournamentId:
+        description: The numeric tournament id.
+    messages:
+      TournamentUpdated:
+        $ref: '#/components/messages/TournamentUpdated'
+      RoundCreatedOrUpdated:
+        $ref: '#/components/messages/RoundCreatedOrUpdated'
+      RoundsDeleted:
+        $ref: '#/components/messages/RoundsDeleted'
+      GameCreatedOrUpdated:
+        $ref: '#/components/messages/GameCreatedOrUpdated'
+      GamesDeleted:
+        $ref: '#/components/messages/GamesDeleted'
+      SinglePlayerGameCreatedOrUpdated:
+        $ref: '#/components/messages/SinglePlayerGameCreatedOrUpdated'
+      SinglePlayerGamesDeleted:
+        $ref: '#/components/messages/SinglePlayerGamesDeleted'
+      PlayersAdded:
+        $ref: '#/components/messages/PlayersAdded'
+      PlayersChanged:
+        $ref: '#/components/messages/PlayersChanged'
+      ArenasAdded:
+        $ref: '#/components/messages/ArenasAdded'
+      ArenasChanged:
+        $ref: '#/components/messages/ArenasChanged'
+      QueueChanged:
+        $ref: '#/components/messages/QueueChanged'
+
+operations:
+  receiveTournamentEvents:
+    action: receive
+    channel:
+      $ref: '#/channels/tournament'
+    summary: Receive live updates for a subscribed tournament
+    messages:
+      - $ref: '#/channels/tournament/messages/TournamentUpdated'
+      - $ref: '#/channels/tournament/messages/RoundCreatedOrUpdated'
+      - $ref: '#/channels/tournament/messages/RoundsDeleted'
+      - $ref: '#/channels/tournament/messages/GameCreatedOrUpdated'
+      - $ref: '#/channels/tournament/messages/GamesDeleted'
+      - $ref: '#/channels/tournament/messages/SinglePlayerGameCreatedOrUpdated'
+      - $ref: '#/channels/tournament/messages/SinglePlayerGamesDeleted'
+      - $ref: '#/channels/tournament/messages/PlayersAdded'
+      - $ref: '#/channels/tournament/messages/PlayersChanged'
+      - $ref: '#/channels/tournament/messages/ArenasAdded'
+      - $ref: '#/channels/tournament/messages/ArenasChanged'
+      - $ref: '#/channels/tournament/messages/QueueChanged'
+
+components:
+  messages:
+    TournamentUpdated:
+      name: TournamentUpdated
+      title: Tournament updated
+      summary: The full tournament model, replacing prior state wholesale.
+      description: |
+        Carries the complete tournament object.
+
+        Two differences from the REST representation: `pointsMap` arrives as an **object
+        keyed by stringified group size** rather than an array of arrays, and
+        `linkedTournaments` is **never** included — only a REST call with
+        `includeLinkedTournaments=true` returns that.
+      payload:
+        type: object
+        x-evidence: verified
+
+    RoundCreatedOrUpdated:
+      name: RoundCreatedOrUpdated
+      title: Round created or updated
+      description: |
+        The full round model.
+
+        Two cautions. A `status: "started"` event for a round you have not seen **does not
+        announce its games** — you must fetch `GET /tournaments/{id}/games` yourself. And
+        `index` on a `completed` event is sometimes one too high, a rolling off-by-one as
+        the next round starts, so freeze a round's index when first seen.
+      payload:
+        type: object
+        x-evidence: verified
+        properties:
+          roundId: { type: integer }
+          tournamentId: { type: integer }
+          index: { type: integer, description: Zero-based. }
+          name: { type: string }
+          status: { type: string, enum: [started, completed] }
+          duration: { type: [integer, 'null'], description: Elapsed seconds. }
+          arenaId: { type: [integer, 'null'] }
+          score: { type: [number, 'null'] }
+          size: { type: [integer, 'null'] }
+          description: { type: [string, 'null'] }
+          createdAt: { type: string }
+          completedAt: { type: [string, 'null'] }
+
+    RoundsDeleted:
+      name: RoundsDeleted
+      title: Rounds deleted
+      description: |
+        Ids of deleted rounds. **Games belonging to those rounds emit no event** — cascade
+        the deletion locally by `roundId`.
+      payload:
+        type: object
+        x-evidence: verified
+        properties:
+          tournamentId: { type: integer }
+          roundIds: { type: array, items: { type: integer } }
+
+    GameCreatedOrUpdated:
+      name: GameCreatedOrUpdated
+      title: Game created or updated
+      description: |
+        The full game model — the same shape as `GET /tournaments/{id}/games`, **plus an
+        embedded `arena` object including its name**, which the REST endpoint does not
+        provide.
+
+        An in-progress game carries `resultPositions` as a populated array of `null`s, not
+        an absent or empty array. Gate on `status === "completed"` before reading any result
+        field.
+      payload:
+        type: object
+        x-evidence: verified
+        properties:
+          gameId: { type: integer }
+          roundId: { type: integer }
+          tournamentId: { type: integer }
+          status: { type: string, enum: [started, completed] }
+          bye: { type: boolean }
+          playerIds: { type: array, items: { type: integer } }
+          userIds: { type: array, items: { type: [integer, 'null'] } }
+          resultPositions: { type: array, items: { type: [integer, 'null'] } }
+          resultPoints: { type: array, items: { type: [string, 'null'] } }
+          resultScores: { type: array, items: { type: [string, number, 'null'] } }
+          arena:
+            type: ['object', 'null']
+            description: Embedded arena, not present on REST game objects.
+            properties:
+              arenaId: { type: integer }
+              name: { type: string }
+              status: { type: string }
+              opdbId: { type: [string, 'null'] }
+              categoryId: { type: [integer, 'null'] }
+              organizerId: { type: integer }
+
+    GamesDeleted:
+      name: GamesDeleted
+      title: Games deleted
+      description: Ids of deleted games. Rare; shape inferred rather than captured.
+      payload:
+        type: object
+        x-evidence: unverified
+        properties:
+          gameIds: { type: array, items: { type: integer } }
+
+    SinglePlayerGameCreatedOrUpdated:
+      name: SinglePlayerGameCreatedOrUpdated
+      title: Single-player game created or updated
+      description: For best-game and pingolf formats. Not observed in captured traffic.
+      payload:
+        type: object
+        x-evidence: unverified
+
+    SinglePlayerGamesDeleted:
+      name: SinglePlayerGamesDeleted
+      title: Single-player games deleted
+      description: Not observed in captured traffic.
+      payload:
+        type: object
+        x-evidence: unverified
+        properties:
+          gameIds: { type: array, items: { type: integer } }
+
+    PlayersAdded:
+      name: PlayersAdded
+      title: Players added
+      description: |
+        Player ids only, with no detail. Resolve with
+        `GET /tournaments/{id}/players/resolve-unknown?players=<csv>`, 25 ids per call.
+
+        These often arrive in bursts during registration, so coalescing before resolving is
+        worthwhile.
+      payload:
+        type: object
+        x-evidence: verified
+        properties:
+          tournamentId: { type: integer }
+          playerIds: { type: array, items: { type: integer } }
+
+    PlayersChanged:
+      name: PlayersChanged
+      title: Players changed
+      description: |
+        Identical shape to `PlayersAdded`, and it **does not say what changed**. Usually a
+        deactivation, claim or label edit. Resolve promptly rather than coalescing.
+
+        Note that manual `pointsAdjustment` changes fire **no event at all** — this is not
+        it. Refetch the roster periodically to catch those.
+      payload:
+        type: object
+        x-evidence: verified
+        properties:
+          tournamentId: { type: integer }
+          playerIds: { type: array, items: { type: integer } }
+
+    ArenasAdded:
+      name: ArenasAdded
+      title: Arenas added
+      description: Arena ids only. Resolve via the tournament-scoped arena resolver. Not observed live.
+      payload:
+        type: object
+        x-evidence: derived
+        properties:
+          tournamentId: { type: integer }
+          arenaIds: { type: array, items: { type: integer } }
+
+    ArenasChanged:
+      name: ArenasChanged
+      title: Arenas changed
+      description: Arena ids only. Not observed live.
+      payload:
+        type: object
+        x-evidence: derived
+        properties:
+          tournamentId: { type: integer }
+          arenaIds: { type: array, items: { type: integer } }
+
+    QueueChanged:
+      name: QueueChanged
+      title: Queue changed
+      description: |
+        The machine queue used by best-game formats. The payload **may omit the queue models
+        entirely** when the queue is too large, so treat this as a signal to refetch rather
+        than as data. Not observed in captured traffic.
+      payload:
+        type: object
+        x-evidence: unverified

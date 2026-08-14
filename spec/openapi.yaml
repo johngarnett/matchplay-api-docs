@@ -1,0 +1,1808 @@
+openapi: 3.1.0
+
+info:
+  title: Match Play Events API (unofficial)
+  version: 1.0.0
+  summary: Read-only REST API for pinball tournament data from matchplay.events
+  description: |
+    An unofficial, reconstructed OpenAPI description of the Match Play Events API.
+
+    Match Play publishes a handbook at https://docs.matchplay.events/ that lists request
+    paths and query parameters but documents **no response fields**. The vendor's own
+    machine-readable spec is gone: https://app.matchplay.events/api-docs/ now redirects to
+    the handbook. This document fills that gap.
+
+    Every schema here was reconstructed by observation — from live probe responses and from
+    six independent applications that consume the API. Each property carries an
+    `x-evidence` extension recording how well it is attested:
+
+      * `verified`   — seen in a real captured response
+      * `derived`    — known only from application code that reads it
+      * `unverified` — asserted somewhere but not confirmed
+
+    Treat `verified` as reliable and the others as best-effort. Some endpoints below are
+    documented by Match Play but had no captured response at the time of writing; those are
+    marked at the operation level.
+
+    **Not affiliated with or endorsed by Match Play Events.**
+
+    Behaviour that cannot be expressed in OpenAPI — silently ignored query parameters,
+    result arrays that are null-filled rather than absent while a game is in progress,
+    tournament statuses that do not mean what they say — is covered in the prose reference
+    that accompanies this spec. Read both.
+  license:
+    name: CC BY 4.0
+    identifier: CC-BY-4.0
+  contact:
+    name: Match Play Events (the service itself)
+    url: https://app.matchplay.events
+
+externalDocs:
+  description: Official Match Play handbook
+  url: https://docs.matchplay.events/
+
+servers:
+  - url: https://app.matchplay.events/api
+    description: Production
+
+security:
+  - bearerAuth: []
+
+tags:
+  - name: Tournaments
+    description: Tournaments are the top-level object. Everything else hangs off one.
+  - name: Rounds & games
+    description: Round and game results for direct-play formats.
+  - name: Single player
+    description: Games and cards for best-game, pingolf and card-based formats.
+  - name: Standings
+    description: Computed placements.
+  - name: Summaries
+    description: Aggregated per-tournament statistics, available once a tournament completes.
+  - name: Identity
+    description: Resolving player, arena and user identifiers.
+  - name: Ratings
+    description: Match Play Ratings, a Glicko implementation.
+  - name: Search
+    description: Global search across users and tournaments.
+  - name: Machines
+    description: OPDB machine metadata and PinTips playing tips.
+  - name: IFPA
+    description: WPPR estimation.
+
+paths:
+  # ---------------------------------------------------------------- Tournaments
+  /tournaments:
+    get:
+      tags: [Tournaments]
+      operationId: listTournaments
+      summary: List tournaments
+      description: |
+        Returns a page of tournaments, newest first. This is the **only** endpoint that uses
+        Laravel's `simplePaginate`, so the envelope has no `total` and no `last_page`, and
+        `links.last` is always `null`. Terminate by testing `links.next`.
+
+        Query parameters are **stripped** from `links.next` and `meta.path`, so following
+        `links.next` verbatim silently drops your filters. Rebuild the URL yourself.
+
+        There is no date filter. Paginating deeply is actively blocked — see the `401`
+        response.
+      parameters:
+        - $ref: '#/components/parameters/Page'
+        - name: limit
+          in: query
+          description: Results per page. Defaults to 25, maximum 100.
+          schema: { type: integer, minimum: 1, maximum: 100, default: 25 }
+        - name: played
+          in: query
+          description: |
+            Filter to tournaments played by this **user** id (not a player id). An empty
+            `data` array is ambiguous: it means either an unknown user id or a known user
+            with no tournaments. Returns `403` if the user opted out of sharing history.
+          schema: { type: integer }
+          example: 17637
+        - name: owner
+          in: query
+          description: Filter to tournaments created by this user id.
+          schema: { type: integer }
+        - name: status
+          in: query
+          description: |
+            Filter by status. Note that `started` does **not** reliably mean "in progress" —
+            most started tournaments are finished but were never marked complete.
+          schema: { $ref: '#/components/schemas/TournamentStatus' }
+        - name: series
+          in: query
+          description: Filter to tournaments belonging to this series id.
+          schema: { type: integer }
+          example: 6140
+      responses:
+        '200':
+          description: A page of tournaments.
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  data:
+                    type: array
+                    items: { $ref: '#/components/schemas/Tournament' }
+                  links: { $ref: '#/components/schemas/SimplePaginationLinks' }
+                  meta: { $ref: '#/components/schemas/SimplePaginationMeta' }
+        '401':
+          description: |
+            Returned with the body `{"message":"Do not scrape data by paginating deeply."}`
+            when `page` exceeds what the server is willing to serve. Confirmed at
+            `page=9999`. The status code is misleading — this is a scraping guard, not an
+            authentication failure.
+          content:
+            application/json:
+              schema: { $ref: '#/components/schemas/Error' }
+        '403':
+          $ref: '#/components/responses/OptedOut'
+
+  /tournaments/{tournamentId}:
+    get:
+      tags: [Tournaments]
+      operationId: getTournament
+      summary: Get one tournament
+      description: |
+        Returns a single tournament wrapped in `{ "data": { ... } }` — note `data` is a bare
+        object here, not an array.
+
+        `organizer` and `locationId` are always present with no flag. Only six of the eleven
+        documented `include*` flags actually add anything; the rest are accepted and
+        **silently ignored**, returning an unchanged payload with no error. Undocumented
+        flag names such as `includeRounds` and `includeGames` behave the same way — verified
+        by a byte-identical response.
+      parameters:
+        - $ref: '#/components/parameters/TournamentId'
+        - name: includePlayers
+          in: query
+          description: Adds `players[]`, each with its `tournamentPlayer` pivot. Accepts `true` or `1`.
+          schema: { type: boolean }
+        - name: includeArenas
+          in: query
+          description: Adds `arenas[]`, each with its `tournamentArena` pivot.
+          schema: { type: boolean }
+        - name: includeBanks
+          in: query
+          description: Adds `banks[]`. Empty array when the tournament uses no banks.
+          schema: { type: boolean }
+        - name: includeScorekeepers
+          in: query
+          description: Adds `scorekeepers[]`.
+          schema: { type: boolean }
+        - name: includeLocation
+          in: query
+          description: Adds the `location` object. Already embedded on list responses.
+          schema: { type: boolean }
+        - name: includeLinkedTournaments
+          in: query
+          description: |
+            Adds `linkedTournaments[]` (qualifying/playoff links). Only the **plural** name
+            works; `includeLinkedTournament` is silently ignored. The scalar
+            `linkedTournamentId` field is always `null` and must not be relied on.
+          schema: { type: boolean }
+        - name: includeSeries
+          in: query
+          description: Adds the `series` object when `seriesId` is non-null.
+          schema: { type: boolean }
+        - name: includeEntryConfiguration
+          in: query
+          description: Adds `entryConfiguration` for best-game formats. Observed `null` even on a best-game tournament.
+          schema: { type: boolean }
+        - name: includeRsvpConfiguration
+          in: query
+          description: Adds `rsvpConfiguration` when player registration is configured.
+          schema: { type: boolean }
+        - name: includeEvent
+          in: query
+          description: Adds `event` when the tournament belongs to a multi-tournament event.
+          schema: { type: boolean }
+        - name: includeShortcut
+          in: query
+          description: Adds `shortcut`, the tournament's custom link.
+          schema: { type: boolean }
+      responses:
+        '200':
+          description: The tournament.
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  data: { $ref: '#/components/schemas/Tournament' }
+        '404':
+          $ref: '#/components/responses/NotFound'
+
+  /tournaments/{tournamentId}/standings:
+    get:
+      tags: [Standings]
+      operationId: getStandings
+      summary: Get tournament standings
+      description: |
+        Returns a **bare JSON array** — the only endpoint with no envelope at all. Rows are
+        ordered by `position`, and tied players share a position number.
+
+        Rows are keyed by `playerId`, not `userId`. Do not poll more than once every 15
+        seconds for a live tournament; for a completed tournament fetch once and cache
+        forever, as standings never change afterwards.
+      parameters:
+        - $ref: '#/components/parameters/TournamentId'
+      responses:
+        '200':
+          description: Standings rows, best first. May legitimately be empty.
+          content:
+            application/json:
+              schema:
+                type: array
+                items: { $ref: '#/components/schemas/StandingsRow' }
+        '404':
+          $ref: '#/components/responses/NotFound'
+
+  # ------------------------------------------------------------ Rounds & games
+  /tournaments/{tournamentId}/rounds:
+    get:
+      tags: [Rounds & games]
+      operationId: getRounds
+      summary: Get all rounds of a tournament
+      description: |
+        Returns every round in one unpaginated `{ "data": [...] }` response. Rounds are
+        collections of games played at the same time; in pingolf they represent holes.
+
+        Score-based formats (golf, best_game) return rounds that contain **no games at all**.
+      parameters:
+        - $ref: '#/components/parameters/TournamentId'
+      responses:
+        '200':
+          description: All rounds.
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  data:
+                    type: array
+                    items: { $ref: '#/components/schemas/Round' }
+        '404':
+          $ref: '#/components/responses/NotFound'
+
+  /tournaments/{tournamentId}/games:
+    get:
+      tags: [Rounds & games]
+      operationId: getTournamentGames
+      summary: Get games for a tournament (full detail)
+      description: |
+        **Undocumented by Match Play, and the only way to learn who played a game.**
+
+        This endpoint returns complete game objects including `playerIds`, `userIds`,
+        `resultPositions`, `resultPoints`, `resultScores`, `resultCountMismatch` and
+        `suggestions`. The documented global `/games` endpoint omits every one of those.
+
+        Unpaginated: a 135-game tournament came back in a single response with no `links` or
+        `meta`. The `round` parameter accepts a comma-separated list, so all rounds of a
+        tournament can be fetched at once.
+      parameters:
+        - $ref: '#/components/parameters/TournamentId'
+        - name: round
+          in: query
+          description: |
+            Comma-separated round ids to restrict the response to. Omit for every game in
+            the tournament. Keep the list to a sane length (25 is a commonly used chunk
+            size) to avoid an over-long URL.
+          schema: { type: string }
+          example: "1162406,1162407,1162410"
+        - name: player
+          in: query
+          description: Restrict to games involving this tournament-scoped player id.
+          schema: { type: integer }
+        - name: status
+          in: query
+          schema: { $ref: '#/components/schemas/GameStatus' }
+      responses:
+        '200':
+          description: Games, fully populated.
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  data:
+                    type: array
+                    items: { $ref: '#/components/schemas/Game' }
+        '404':
+          $ref: '#/components/responses/NotFound'
+
+  /games:
+    get:
+      tags: [Rounds & games]
+      operationId: listGames
+      summary: List games (global, reduced detail)
+      description: |
+        The endpoint Match Play documents — and a trap. It returns only 17 of the 25 game
+        fields, omitting **`playerIds`, `userIds`, `resultPositions`, `resultPoints`,
+        `resultScores`, `resultCountMismatch` and `suggestions`**.
+
+        You cannot determine who played a game or who won it from this endpoint. Use
+        `GET /tournaments/{tournamentId}/games` instead unless you specifically need
+        cross-tournament filtering.
+
+        Unlike `/tournaments`, this uses full length-aware pagination.
+      parameters:
+        - $ref: '#/components/parameters/Page'
+        - name: tournaments
+          in: query
+          description: Comma-separated tournament ids, up to 25. Provide this or `series`.
+          schema: { type: string }
+          example: "258562"
+        - name: series
+          in: query
+          description: Comma-separated series ids, up to 5. Provide this or `tournaments`.
+          schema: { type: string }
+        - name: ids
+          in: query
+          description: Comma-separated game ids, up to 50.
+          schema: { type: string }
+        - name: status
+          in: query
+          schema: { $ref: '#/components/schemas/GameStatus' }
+        - name: round
+          in: query
+          description: Round id to filter on.
+          schema: { type: integer }
+        - name: player
+          in: query
+          description: Tournament-scoped player id to filter on.
+          schema: { type: integer }
+        - name: arena
+          in: query
+          schema: { type: integer }
+        - name: bank
+          in: query
+          schema: { type: integer }
+      responses:
+        '200':
+          description: A page of reduced game objects.
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  data:
+                    type: array
+                    items: { $ref: '#/components/schemas/GameSummary' }
+                  links: { $ref: '#/components/schemas/PaginationLinks' }
+                  meta: { $ref: '#/components/schemas/PaginationMeta' }
+
+  # ------------------------------------------------------------- Single player
+  /tournaments/{tournamentId}/single-player-games:
+    get:
+      tags: [Single player]
+      operationId: getSinglePlayerGames
+      summary: Get single-player games
+      description: |
+        Games for best-game and pingolf formats, where a player posts a score alone rather
+        than competing head to head in a group. These tournaments have rounds but **no**
+        entries in the multi-player games endpoint.
+      parameters:
+        - $ref: '#/components/parameters/TournamentId'
+        - $ref: '#/components/parameters/Page'
+        - name: limit
+          in: query
+          description: Results per page. Defaults to 25, maximum 500.
+          schema: { type: integer, minimum: 1, maximum: 500, default: 25 }
+        - name: ids
+          in: query
+          description: Comma-separated game ids, up to 50.
+          schema: { type: string }
+        - name: status
+          in: query
+          schema: { $ref: '#/components/schemas/SinglePlayerGameStatus' }
+        - name: bestGame
+          in: query
+          description: Only return games flagged as a counting "best game".
+          schema: { type: boolean }
+        - name: voided
+          in: query
+          description: Set true to include voided games.
+          schema: { type: boolean }
+        - name: round
+          in: query
+          schema: { type: integer }
+        - name: player
+          in: query
+          schema: { type: integer }
+        - name: arena
+          in: query
+          schema: { type: integer }
+      responses:
+        '200':
+          description: A page of single-player games.
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  data:
+                    type: array
+                    items: { $ref: '#/components/schemas/SinglePlayerGame' }
+                  links: { $ref: '#/components/schemas/PaginationLinks' }
+                  meta: { $ref: '#/components/schemas/PaginationMeta' }
+
+  /tournaments/{tournamentId}/cards:
+    get:
+      tags: [Single player]
+      operationId: getCards
+      summary: Get cards
+      description: |
+        Cards for card-based best-game tournaments, where a player buys a card covering a
+        fixed set of games. Returns an empty page for tournaments of any other type.
+      parameters:
+        - $ref: '#/components/parameters/TournamentId'
+        - $ref: '#/components/parameters/Page'
+        - name: limit
+          in: query
+          schema: { type: integer, minimum: 1, maximum: 500, default: 25 }
+        - name: status
+          in: query
+          schema: { $ref: '#/components/schemas/SinglePlayerGameStatus' }
+        - name: bestGame
+          in: query
+          schema: { type: boolean }
+        - name: voided
+          in: query
+          schema: { type: boolean }
+        - name: player
+          in: query
+          schema: { type: integer }
+      responses:
+        '200':
+          description: A page of cards. Empty for non-card tournaments.
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  data: { type: array, items: { type: object } }
+                  links: { $ref: '#/components/schemas/PaginationLinks' }
+                  meta: { $ref: '#/components/schemas/PaginationMeta' }
+
+  # ----------------------------------------------------------------- Summaries
+  /tournaments/{tournamentId}/summary/arenas:
+    get:
+      tags: [Summaries]
+      operationId: getArenaSummary
+      summary: Per-arena play counts
+      description: |
+        One row per arena, with how many times it was played. Available only once the
+        tournament is completed. Defaults to `per_page: 5000`, so a single request usually
+        returns everything.
+      parameters:
+        - $ref: '#/components/parameters/TournamentId'
+        - $ref: '#/components/parameters/Page'
+      responses:
+        '200':
+          description: Arena summary rows.
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  data:
+                    type: array
+                    items: { $ref: '#/components/schemas/ArenaSummaryRow' }
+                  links: { $ref: '#/components/schemas/PaginationLinks' }
+                  meta: { $ref: '#/components/schemas/PaginationMeta' }
+
+  /tournaments/{tournamentId}/summary/player-arenas:
+    get:
+      tags: [Summaries]
+      operationId: getPlayerArenaSummary
+      summary: Per-player-per-arena record
+      description: One row per player/arena pair, with games played and the player's win/loss record on it.
+      parameters:
+        - $ref: '#/components/parameters/TournamentId'
+        - $ref: '#/components/parameters/Page'
+      responses:
+        '200':
+          description: Player/arena summary rows.
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  data:
+                    type: array
+                    items: { $ref: '#/components/schemas/PlayerArenaSummaryRow' }
+                  links: { $ref: '#/components/schemas/PaginationLinks' }
+                  meta: { $ref: '#/components/schemas/PaginationMeta' }
+
+  /tournaments/{tournamentId}/summary/matches:
+    get:
+      tags: [Summaries]
+      operationId: getMatchSummary
+      summary: Per-player-per-opponent-per-arena record
+      description: |
+        One row per player/opponent/arena combination. The data is **intentionally
+        duplicated**: if A played B on machine X there is both an `A-B-X` row and a `B-A-X`
+        row, so you can filter by either player without a union.
+      parameters:
+        - $ref: '#/components/parameters/TournamentId'
+        - $ref: '#/components/parameters/Page'
+      responses:
+        '200':
+          description: Match summary rows.
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  data:
+                    type: array
+                    items: { $ref: '#/components/schemas/MatchSummaryRow' }
+                  links: { $ref: '#/components/schemas/PaginationLinks' }
+                  meta: { $ref: '#/components/schemas/PaginationMeta' }
+
+  # ------------------------------------------------------------------ Identity
+  /tournaments/{tournamentId}/players/resolve-unknown:
+    get:
+      tags: [Identity]
+      operationId: resolveTournamentPlayers
+      summary: Resolve player ids within a tournament
+      description: |
+        Batch-resolve tournament-scoped player ids to full player objects **including the
+        `tournamentPlayer` pivot** (seed, per-tournament status, points adjustment).
+
+        Use this rather than the global `/players/resolve-unknown`, which omits the pivot.
+        Ids that do not resolve are simply absent from the response — no error is raised.
+      parameters:
+        - $ref: '#/components/parameters/TournamentId'
+        - name: players
+          in: query
+          required: true
+          description: Comma-separated player ids, no more than 25 per request.
+          schema: { type: string }
+          example: "135991,135992"
+      responses:
+        '200':
+          description: Resolved players with pivots.
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  data:
+                    type: array
+                    items: { $ref: '#/components/schemas/TournamentPlayerEntry' }
+
+  /tournaments/{tournamentId}/arenas/resolve-unknown:
+    get:
+      tags: [Identity]
+      operationId: resolveTournamentArenas
+      summary: Resolve arena ids within a tournament
+      description: Batch-resolve arena ids to full arena objects including the `tournamentArena` pivot.
+      parameters:
+        - $ref: '#/components/parameters/TournamentId'
+        - name: arenas
+          in: query
+          required: true
+          description: Comma-separated arena ids, no more than 25 per request.
+          schema: { type: string }
+          example: "56443"
+      responses:
+        '200':
+          description: Resolved arenas with pivots.
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  data:
+                    type: array
+                    items: { $ref: '#/components/schemas/TournamentArenaEntry' }
+
+  /players/resolve-unknown:
+    get:
+      tags: [Identity]
+      operationId: resolvePlayers
+      summary: Resolve player ids globally
+      description: |
+        Like the tournament-scoped variant but **without** the `tournamentPlayer` pivot.
+        Useful only when you need a player's name and identity, not their standing in a
+        specific tournament.
+      parameters:
+        - name: players
+          in: query
+          required: true
+          description: Comma-separated player ids, no more than 25.
+          schema: { type: string }
+      responses:
+        '200':
+          description: Resolved players, no pivot.
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  data:
+                    type: array
+                    items: { $ref: '#/components/schemas/Player' }
+
+  /arenas/resolve-unknown:
+    get:
+      tags: [Identity]
+      operationId: resolveArenas
+      summary: Resolve arena ids globally
+      description: Like the tournament-scoped variant but without the `tournamentArena` pivot.
+      parameters:
+        - name: arenas
+          in: query
+          required: true
+          description: Comma-separated arena ids, no more than 25.
+          schema: { type: string }
+      responses:
+        '200':
+          description: Resolved arenas, no pivot.
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  data:
+                    type: array
+                    items: { $ref: '#/components/schemas/Arena' }
+
+  /users/resolve-unknown:
+    get:
+      tags: [Identity]
+      operationId: resolveUsers
+      summary: Resolve user ids
+      description: Batch-resolve global user ids to profile objects.
+      parameters:
+        - name: users
+          in: query
+          required: true
+          description: Comma-separated user ids, no more than 25.
+          schema: { type: string }
+          example: "17637"
+      responses:
+        '200':
+          description: Resolved user profiles.
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  data:
+                    type: array
+                    items: { $ref: '#/components/schemas/User' }
+
+  /players:
+    get:
+      tags: [Identity]
+      operationId: listPlayers
+      summary: List players (global)
+      description: |
+        Undocumented by Match Play. Takes tournament-scoped **player** ids, not user ids —
+        passing a user id returns an empty page rather than an error. Uses full length-aware
+        pagination.
+      parameters:
+        - $ref: '#/components/parameters/Page'
+        - name: players
+          in: query
+          description: Comma-separated player ids.
+          schema: { type: string }
+        - name: status
+          in: query
+          schema: { $ref: '#/components/schemas/ActiveStatus' }
+      responses:
+        '200':
+          description: A page of players.
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  data:
+                    type: array
+                    items: { $ref: '#/components/schemas/Player' }
+                  links: { $ref: '#/components/schemas/PaginationLinks' }
+                  meta: { $ref: '#/components/schemas/PaginationMeta' }
+
+  /users/{userId}:
+    get:
+      tags: [Identity]
+      operationId: getUser
+      summary: Get a user profile
+      description: |
+        Returns a **custom envelope** with eight top-level keys rather than the usual `data`
+        wrapper. Considerably richer than the profile object embedded elsewhere: it bundles
+        the user's current Match Play Rating, their IFPA standing, club membership and
+        activity counts in one call.
+      parameters:
+        - name: userId
+          in: path
+          required: true
+          schema: { type: integer }
+          example: 17637
+      responses:
+        '200':
+          description: The user profile bundle.
+          content:
+            application/json:
+              schema: { $ref: '#/components/schemas/UserProfileBundle' }
+        '404':
+          $ref: '#/components/responses/NotFound'
+
+  /users/profile:
+    get:
+      tags: [Identity]
+      operationId: getSelfProfile
+      summary: Get the authenticated user's profile
+      description: Returns the profile of whoever owns the API token, wrapped in `data`.
+      responses:
+        '200':
+          description: The authenticated user.
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  data: { $ref: '#/components/schemas/User' }
+
+  # -------------------------------------------------------------------- Search
+  /search:
+    get:
+      tags: [Search]
+      operationId: search
+      summary: Search users or tournaments
+      description: |
+        Undocumented by Match Play. `type` is **required** — omitting it returns `422` with
+        `"The type field is required."`
+
+        Only `users` and `tournaments` are valid. `arenas` and `locations` return `422`
+        `"The selected type is invalid."`, so there is no way to search machines or venues
+        through this API.
+      parameters:
+        - name: query
+          in: query
+          required: true
+          description: Free-text search string.
+          schema: { type: string }
+          example: Jones
+        - name: type
+          in: query
+          required: true
+          schema: { $ref: '#/components/schemas/SearchType' }
+        - $ref: '#/components/parameters/Page'
+      responses:
+        '200':
+          description: |
+            A page of results. Element type depends on `type`: `User` objects for
+            `type=users`, `Tournament` objects for `type=tournaments`.
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  data:
+                    type: array
+                    items:
+                      oneOf:
+                        - $ref: '#/components/schemas/User'
+                        - $ref: '#/components/schemas/Tournament'
+                  links: { $ref: '#/components/schemas/PaginationLinks' }
+                  meta: { $ref: '#/components/schemas/PaginationMeta' }
+        '422':
+          description: Missing or invalid `type`.
+          content:
+            application/json:
+              schema: { $ref: '#/components/schemas/ValidationError' }
+
+  # ------------------------------------------------------------------- Ratings
+  /ratings/users/{userId}:
+    get:
+      tags: [Ratings]
+      operationId: getRatingByUser
+      summary: Get a Match Play Rating by user id
+      description: |
+        Undocumented by Match Play. Returns the player's current rating, their IFPA rank,
+        and a **full rating history time series** — 369 periods in one observed response.
+
+        For bulk rating data use the CSV export on the CDN instead; this endpoint is for
+        single-player lookups.
+      parameters:
+        - name: userId
+          in: path
+          required: true
+          schema: { type: integer }
+          example: 5750
+      responses:
+        '200':
+          description: Rating, IFPA standing and history.
+          content:
+            application/json:
+              schema: { $ref: '#/components/schemas/RatingBundle' }
+        '404':
+          $ref: '#/components/responses/NotFound'
+
+  /ratings/ifpa/{ifpaId}:
+    get:
+      tags: [Ratings]
+      operationId: getRatingByIfpa
+      summary: Get a Match Play Rating by IFPA id
+      description: |
+        The same bundle keyed by IFPA id instead of Match Play user id. This resolves
+        players who have an IFPA record and a rating but **no Match Play account** — in that
+        case `rating.userId` is `null`. It is the bridge between the two id namespaces.
+      parameters:
+        - name: ifpaId
+          in: path
+          required: true
+          schema: { type: integer }
+          example: 31811
+      responses:
+        '200':
+          description: Rating, IFPA standing and history.
+          content:
+            application/json:
+              schema: { $ref: '#/components/schemas/RatingBundle' }
+        '404':
+          $ref: '#/components/responses/NotFound'
+
+  # ------------------------------------------------------------------ Machines
+  /opdb/entries/{opdbId}:
+    get:
+      tags: [Machines]
+      operationId: getOpdbEntry
+      summary: Get one OPDB machine entry
+      description: |
+        Machine metadata from the Open Pinball Database, plus tutorial videos. For more than
+        a handful of machines download the whole OPDB dataset from the CDN instead.
+      parameters:
+        - name: opdbId
+          in: path
+          required: true
+          description: An OPDB id, formatted `G<group>[-M<machine>[-A<alias>]]`.
+          schema: { type: string }
+          example: G4do5-MDlN7
+      responses:
+        '200':
+          description: The OPDB entry with videos.
+          content:
+            application/json:
+              schema: { $ref: '#/components/schemas/OpdbEntryBundle' }
+
+  /opdb/changelog:
+    get:
+      tags: [Machines]
+      operationId: getOpdbChangelog
+      summary: Get the OPDB changelog
+      description: Records of OPDB ids that were moved or deleted, so stored ids can be migrated.
+      responses:
+        '200':
+          description: Changelog entries.
+          content:
+            application/json:
+              schema: { type: object }
+
+  /pintips:
+    get:
+      tags: [Machines]
+      operationId: getPinTips
+      summary: Get PinTips for a machine
+      description: Short playing tips for one OPDB entry or one Match Play arena.
+      parameters:
+        - name: opdbId
+          in: query
+          description: OPDB id to fetch tips for. Provide this or `arenaId`.
+          schema: { type: string }
+          example: G4do5-MDlN7
+        - name: arenaId
+          in: query
+          description: Match Play arena id to fetch tips for.
+          schema: { type: integer }
+      responses:
+        '200':
+          description: Tips plus the machine they belong to.
+          content:
+            application/json:
+              schema: { $ref: '#/components/schemas/PinTipsBundle' }
+
+  # ---------------------------------------------------------------------- IFPA
+  /ifpa/wppr-estimator:
+    post:
+      tags: [IFPA]
+      operationId: estimateWppr
+      summary: Estimate WPPR value
+      description: |
+        The API's only non-GET operation. It **computes** an estimate and stores nothing, so
+        it is safe to call on a read-only integration.
+
+        Supply exactly one of `tournamentId` or `seriesId`.
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              type: object
+              properties:
+                tournamentId:
+                  type: integer
+                  description: Tournament to estimate. Mutually exclusive with `seriesId`.
+                seriesId:
+                  type: integer
+                  description: Series to estimate. Mutually exclusive with `tournamentId`.
+      responses:
+        '200':
+          description: The estimate, with a per-player breakdown.
+          content:
+            application/json:
+              schema: { $ref: '#/components/schemas/WpprEstimate' }
+
+components:
+  securitySchemes:
+    bearerAuth:
+      type: http
+      scheme: bearer
+      description: |
+        A personal API token from https://app.matchplay.events/account/tokens, sent as
+        `Authorization: Bearer <token>`. Tokens are Laravel Sanctum style — `<id>|<secret>`.
+
+        Some endpoints answer without authentication, but Match Play warn that unauthenticated
+        use can get your IP blocked. Always send the header.
+
+  parameters:
+    TournamentId:
+      name: tournamentId
+      in: path
+      required: true
+      schema: { type: integer }
+      example: 261001
+    Page:
+      name: page
+      in: query
+      description: 1-based page number.
+      schema: { type: integer, minimum: 1, default: 1 }
+
+  responses:
+    NotFound:
+      description: |
+        No such record. The body names the Laravel model, e.g.
+        `{"message":"No query results for model [App\\Models\\Tournament] 99999999"}`.
+      content:
+        application/json:
+          schema: { $ref: '#/components/schemas/Error' }
+    OptedOut:
+      description: |
+        The player has hidden their tournament history. Detect this by matching the body
+        against `/opted out/i` — it is a stable, per-user condition worth caching, not a
+        transient failure.
+      content:
+        application/json:
+          schema: { $ref: '#/components/schemas/Error' }
+
+  schemas:
+    # ------------------------------------------------------------- Envelopes
+    Error:
+      type: object
+      x-evidence: verified
+      properties:
+        message:
+          type: string
+          x-evidence: verified
+          description: Human-readable error text.
+
+    ValidationError:
+      type: object
+      x-evidence: verified
+      properties:
+        message:
+          type: string
+          x-evidence: verified
+          example: The selected type is invalid.
+        errors:
+          type: object
+          x-evidence: verified
+          description: Field name to array of messages.
+          additionalProperties:
+            type: array
+            items: { type: string }
+
+    PaginationLinks:
+      type: object
+      description: Length-aware pagination links. Used by every collection except `/tournaments`.
+      properties:
+        first: { type: [string, 'null'], x-evidence: verified }
+        last:
+          type: [string, 'null']
+          x-evidence: verified
+          description: Populated here, unlike the simple-pagination variant.
+        prev: { type: [string, 'null'], x-evidence: verified }
+        next: { type: [string, 'null'], x-evidence: verified }
+
+    PaginationMeta:
+      type: object
+      description: Length-aware pagination metadata.
+      properties:
+        current_page: { type: integer, x-evidence: verified }
+        from: { type: [integer, 'null'], x-evidence: verified, description: Null when the page is empty. }
+        to: { type: [integer, 'null'], x-evidence: verified }
+        last_page: { type: integer, x-evidence: verified }
+        per_page:
+          type: integer
+          x-evidence: verified
+          description: A **number** here. On `/tournaments` the same field is a string.
+        total: { type: integer, x-evidence: verified }
+        path: { type: string, x-evidence: verified }
+        links:
+          type: array
+          x-evidence: verified
+          description: Renderable page descriptors. Labels contain HTML entities such as `&laquo; Previous`.
+          items:
+            type: object
+            properties:
+              url: { type: [string, 'null'] }
+              label: { type: string }
+              page: { type: [integer, 'null'] }
+              active: { type: boolean }
+
+    SimplePaginationLinks:
+      type: object
+      description: |
+        `simplePaginate` links, used **only** by `/tournaments`. Query parameters are
+        stripped, so following `next` verbatim drops your filters.
+      properties:
+        first: { type: [string, 'null'], x-evidence: verified }
+        last:
+          type: 'null'
+          x-evidence: verified
+          description: Always null — the server does not know the last page.
+        prev: { type: [string, 'null'], x-evidence: verified }
+        next:
+          type: [string, 'null']
+          x-evidence: verified
+          description: Null on the final page. This is the only reliable termination signal.
+
+    SimplePaginationMeta:
+      type: object
+      description: |
+        `simplePaginate` metadata. Note the absent `total` and `last_page`, and that
+        `per_page` is a **string** here but a number on every other collection.
+      properties:
+        current_page: { type: integer, x-evidence: verified }
+        current_page_url: { type: string, x-evidence: verified, description: Present only on this endpoint. }
+        from: { type: [integer, 'null'], x-evidence: verified }
+        to: { type: [integer, 'null'], x-evidence: verified }
+        per_page: { type: string, x-evidence: verified, example: "100" }
+        path: { type: string, x-evidence: verified, description: Query parameters are stripped. }
+
+    # ------------------------------------------------------------- Enums
+    TournamentStatus:
+      type: string
+      enum: [planned, started, completed]
+      description: |
+        `started` is unreliable as a liveness signal — most started tournaments are finished
+        but were never marked complete. The only definitive signal is a game with
+        `status: "started"`.
+
+    GameStatus:
+      type: string
+      enum: [started, completed]
+
+    SinglePlayerGameStatus:
+      type: string
+      enum: [pending, started, completed]
+
+    ActiveStatus:
+      type: string
+      enum: [active, inactive]
+
+    SearchType:
+      type: string
+      enum: [users, tournaments]
+      description: The only accepted values. `arenas` and `locations` return 422.
+
+    TournamentType:
+      type: string
+      description: |
+        Tournament format. The set below merges values observed live with values named in
+        consuming application code. Which configuration fields a tournament carries depends
+        on this value — irrelevant keys are **absent**, not null.
+      enum:
+        - knockout
+        - group_knockout
+        - matchplay
+        - group_matchplay
+        - max_matchplay
+        - pace_matchplay
+        - manual_matchplay
+        - round_robin
+        - double_round_robin
+        - bracket
+        - double_bracket
+        - group_bracket
+        - ladder
+        - frenzy
+        - target
+        - golf
+        - golf_bracket
+        - best_game
+        - card_best_game
+        - bowling
+        - amazingrace
+
+    # ------------------------------------------------------------- Tournament
+    Tournament:
+      type: object
+      description: |
+        A tournament. The property set is **type-dependent**: a `best_game` tournament has no
+        `seeding`, `pairing`, `byes` or `arenaAssignment` key at all, rather than nulls.
+        Expansion objects appear only when their `include*` flag is supplied.
+      properties:
+        tournamentId: { type: integer, x-evidence: verified }
+        name: { type: string, x-evidence: verified }
+        status: { $ref: '#/components/schemas/TournamentStatus', x-evidence: verified }
+        type: { $ref: '#/components/schemas/TournamentType', x-evidence: verified }
+        description: { type: [string, 'null'], x-evidence: verified }
+        startUtc:
+          type: string
+          x-evidence: verified
+          description: 'ISO 8601 with six-digit microseconds, e.g. `2026-08-14T02:00:00.000000Z`.'
+        startLocal:
+          type: string
+          x-evidence: verified
+          description: 'Local wall clock, space separated, **no zone**, e.g. `2026-08-13 19:00:00`. Use this for calendar-day grouping.'
+        endUtc: { type: [string, 'null'], x-evidence: verified, description: Advisory only — tournaments routinely run past it. }
+        endLocal: { type: [string, 'null'], x-evidence: verified }
+        completedAt: { type: [string, 'null'], x-evidence: verified, description: ISO 8601. Null until marked complete. }
+        createdAt: { type: string, x-evidence: verified, description: 'Space separated, no `Z` — a third format.' }
+        updatedAt: { type: string, x-evidence: verified }
+        timezone: { type: string, x-evidence: verified, example: America/Los_Angeles }
+        organizerId: { type: integer, x-evidence: verified }
+        locationId: { type: [integer, 'null'], x-evidence: verified }
+        seriesId: { type: [integer, 'null'], x-evidence: verified }
+        test: { type: boolean, x-evidence: verified, description: Sandbox tournament. Exclude from statistics. }
+        link: { type: [string, 'null'], x-evidence: verified }
+        linkedTournamentId:
+          type: 'null'
+          x-evidence: verified
+          description: '**A decoy.** Always null, even when a playoff link exists. Use `linkedTournaments`.'
+        estimatedTgp: { type: [number, 'null'], x-evidence: verified, description: Estimated Tournament Grading Percentage for IFPA. }
+        pointsMap:
+          type: array
+          x-evidence: verified
+          description: |
+            Points awarded by finishing position, indexed by group size minus one. Values are
+            numbers for integer scoring and **strings** for fractional. Over the websocket the
+            same field arrives as an object keyed by stringified group size.
+          items: { type: array, items: { type: [number, string] } }
+        tiebreakerPointsMap: { type: array, x-evidence: verified, items: { type: array, items: { type: string } } }
+        pointsMapCustom: { type: [array, 'null'], x-evidence: verified }
+        primaryConfigSettings:
+          type: array
+          x-evidence: verified
+          description: Names of the configuration fields a UI should surface — self-describing metadata pointing at other keys in this same object.
+          items: { type: string }
+        playoffsCutoffs:
+          type: array
+          x-evidence: verified
+          items: { $ref: '#/components/schemas/PlayoffCutoff' }
+        prizePool: { oneOf: [{ $ref: '#/components/schemas/PrizePool' }, { type: 'null' }], x-evidence: verified }
+        motdText: { type: [string, 'null'], x-evidence: verified, description: Announcement banner text. }
+        motdColor: { type: [string, 'null'], x-evidence: verified }
+        motdExpiration: { type: [string, 'null'], x-evidence: verified }
+        managers: { type: array, x-evidence: verified, items: { type: object } }
+        organizer: { $ref: '#/components/schemas/User', x-evidence: verified, description: Always present — no expansion flag needed. }
+        location: { oneOf: [{ $ref: '#/components/schemas/Location' }, { type: 'null' }], x-evidence: verified, description: Embedded on list responses whenever `locationId` is set. }
+        series: { oneOf: [{ $ref: '#/components/schemas/Series' }, { type: 'null' }], x-evidence: verified, description: Requires `includeSeries`. }
+        players: { type: array, x-evidence: verified, description: 'Requires `includePlayers`.', items: { $ref: '#/components/schemas/TournamentPlayerEntry' } }
+        arenas: { type: array, x-evidence: verified, description: 'Requires `includeArenas`.', items: { $ref: '#/components/schemas/TournamentArenaEntry' } }
+        banks: { type: array, x-evidence: verified, description: 'Requires `includeBanks`.', items: { type: object } }
+        scorekeepers: { type: array, x-evidence: verified, description: 'Requires `includeScorekeepers`.', items: { type: object } }
+        linkedTournaments: { type: [array, 'null'], x-evidence: verified, description: 'Requires `includeLinkedTournaments`. Null, not `[]`, when there are none.', items: { $ref: '#/components/schemas/LinkedTournament' } }
+        rsvpConfiguration: { oneOf: [{ $ref: '#/components/schemas/RsvpConfiguration' }, { type: 'null' }], x-evidence: verified }
+        entryConfiguration: { type: ['object', 'null'], x-evidence: unverified, description: Requires `includeEntryConfiguration`. Observed null even on a best-game tournament; a populated example was not captured. }
+        event: { type: ['object', 'null'], x-evidence: unverified, description: Requires `includeEvent`. No populated example captured. }
+        shortcut: { type: ['object', 'null'], x-evidence: unverified, description: Requires `includeShortcut`. No populated example captured. }
+        seeding: { type: [string, 'null'], x-evidence: verified, enum: [random, manual, ifpa, mp_rating, mp_rating_rating, series_seed, null] }
+        pairing: { type: [string, 'null'], x-evidence: verified, enum: [swiss, strictswiss, balanced, balanced_series, random, null] }
+        firstRoundPairing: { type: [string, 'null'], x-evidence: verified, enum: [random, adjacent, cross, slaughter, null] }
+        playerOrder: { type: [string, 'null'], x-evidence: verified, enum: [balanced, random, rotating, seed, disabled, null] }
+        playerOrderOpen: { type: [string, 'null'], x-evidence: verified, enum: [players, scorekeepers, null] }
+        arenaAssignment: { type: [string, 'null'], x-evidence: verified, enum: [balanced, random, manual, banks, category_banks, disabled, null] }
+        scorekeeping: { type: [string, 'null'], x-evidence: verified, enum: [user, disabled, null] }
+        suggestions: { type: [string, 'null'], x-evidence: verified, enum: [automatic, restricted, disabled, null] }
+        byes: { type: [string, 'null'], x-evidence: verified, enum: [full, half, zero, null] }
+        tiebreaker: { type: [string, 'null'], x-evidence: verified, enum: [standard, placement, placement_last, wins, losses, disabled, null] }
+        scoring: { type: [string, 'null'], x-evidence: verified, enum: [ifpa, papa, dcleague, winnerbonus, winwinlossloss, null] }
+        duration: { type: [integer, 'null'], x-evidence: verified, description: 'Planned round count for fixed-round formats. **Not** seconds — the identically named field on `Round` is seconds.' }
+        gamesPerRound: { type: [integer, 'null'], x-evidence: verified }
+        knockoutStrikeCount: { type: [integer, 'null'], x-evidence: verified, description: Strikes required for elimination. }
+        knockoutThreePlayerStrikes: { type: [integer, 'null'], x-evidence: verified }
+        knockoutFourPlayerStrikes: { type: [integer, 'null'], x-evidence: verified, description: 'Encoded strike schedule. Observed 2 (standard), 100 (progressive), 101 (fair).' }
+        knockoutFair: { type: [boolean, 'null'], x-evidence: verified, description: Fair-strikes group knockout. Mutually exclusive with `knockoutProgressive`. }
+        knockoutProgressive: { type: [boolean, 'null'], x-evidence: verified, description: Progressive-strikes group knockout. }
+        useQueues: { type: [boolean, 'null'], x-evidence: verified }
+        bestGameScoring: { type: [string, 'null'], x-evidence: verified, enum: [bg_linear, bg_papa, bg_circuit, bg_indisc, bg_50_percent_de, bg_95_pct_mod_de, null] }
+        bestGameArenasCounted: { type: [integer, 'null'], x-evidence: verified }
+        bestGameAttemptsOnArena: { type: [integer, 'null'], x-evidence: verified }
+        bestGameNumberOfBestGames: { type: [integer, 'null'], x-evidence: verified }
+        bestGameOverallAttempts: { type: [integer, 'null'], x-evidence: verified }
+        cardBestGameCardsCounted: { type: [integer, 'null'], x-evidence: verified }
+        cardBestGameGamesCounted: { type: [integer, 'null'], x-evidence: verified }
+        cardBestGameGamesPerCard: { type: [integer, 'null'], x-evidence: verified }
+        cardBestGameScoring: { type: [string, 'null'], x-evidence: verified }
+        roundCount: { type: [integer, 'null'], x-evidence: derived, description: Present on `group_bracket` only. }
+        bracketSize: { type: [integer, 'null'], x-evidence: derived }
+        groupBracketDoubleByes: { type: [boolean, 'null'], x-evidence: derived }
+        roundRobinGroupSize: { type: [integer, 'null'], x-evidence: derived }
+        frenzyDuration: { type: [integer, 'null'], x-evidence: derived }
+        frenzyQueueSize: { type: [integer, 'null'], x-evidence: derived }
+        frenzyStandings: { type: [integer, 'null'], x-evidence: derived }
+        frenzyPausedSecondsLeft: { type: [integer, 'null'], x-evidence: derived }
+        golfDuration: { type: [integer, 'null'], x-evidence: verified }
+        golfHolesCounted: { type: [integer, 'null'], x-evidence: verified }
+        golfParScore: { type: [integer, 'null'], x-evidence: verified }
+        golfStrokeLimit: { type: [integer, 'null'], x-evidence: verified }
+        targetPoints: { type: [integer, 'null'], x-evidence: verified }
+        maxMatchplayDuration: { type: [integer, 'null'], x-evidence: verified }
+        maxMatchplayMaxActive: { type: [integer, 'null'], x-evidence: verified }
+        maxMatchplayScorekeeperCreate: { type: [integer, 'null'], x-evidence: verified }
+
+    PlayoffCutoff:
+      type: object
+      properties:
+        index: { type: integer, x-evidence: verified }
+        value: { type: integer, x-evidence: verified, description: Players in this band. }
+        cumulative: { type: integer, x-evidence: verified }
+        text: { type: string, x-evidence: verified, description: Free-form organizer text. May contain emoji. }
+        color: { type: [string, 'null'], x-evidence: verified }
+
+    PrizePool:
+      type: object
+      properties:
+        type: { type: string, x-evidence: verified, example: standard }
+        private: { type: boolean, x-evidence: verified }
+        currency: { type: string, x-evidence: verified, example: '$' }
+        rounding: { type: [integer, 'null'], x-evidence: verified }
+        fixedAddition: { type: [number, 'null'], x-evidence: verified }
+        fixedReduction: { type: [number, 'null'], x-evidence: verified }
+        perPlayerAddition: { type: [number, 'null'], x-evidence: verified }
+        perPlayerReduction: { type: [number, 'null'], x-evidence: verified }
+        bounties: { type: array, x-evidence: verified, items: { type: object } }
+        distributions:
+          type: array
+          x-evidence: verified
+          items:
+            type: object
+            properties:
+              title: { type: string }
+              percentage: { type: number }
+              pool:
+                type: array
+                items:
+                  type: object
+                  properties:
+                    percentage: { type: [number, 'null'] }
+                    extra: { type: [number, 'null'] }
+                    adjustment: { type: [number, 'null'] }
+
+    LinkedTournament:
+      type: object
+      description: A qualifying or playoff tournament linked to this one.
+      properties:
+        tournamentId: { type: integer, x-evidence: verified }
+        name: { type: string, x-evidence: derived }
+        status: { $ref: '#/components/schemas/TournamentStatus', x-evidence: derived }
+        linkType: { type: string, enum: [qualifying, playoff], x-evidence: verified }
+        linkIndex: { type: [integer, 'null'], x-evidence: derived }
+        test: { type: [boolean, 'null'], x-evidence: derived }
+
+    Series:
+      type: object
+      description: A recurring series a tournament belongs to. Requires `includeSeries`.
+      properties:
+        seriesId: { type: integer, x-evidence: verified }
+        name: { type: string, x-evidence: verified }
+        status: { $ref: '#/components/schemas/ActiveStatus', x-evidence: verified }
+        organizerId: { type: integer, x-evidence: verified }
+        test: { type: boolean, x-evidence: verified }
+        removedResults:
+          type: [integer, 'null']
+          x-evidence: verified
+          description: 'Dropped-results rule. Negative means "drop this many worst results", e.g. `-5`.'
+        playoffsCutoffs: { type: array, x-evidence: verified, items: { $ref: '#/components/schemas/PlayoffCutoff' } }
+        scoring: { type: [string, 'null'], x-evidence: verified, example: bg_papa }
+        scoringCustom: { type: ['object', 'null'], x-evidence: verified }
+        estimatedTgp: { type: [number, 'null'], x-evidence: verified }
+
+    RsvpConfiguration:
+      type: object
+      description: Player registration settings. Requires `includeRsvpConfiguration`.
+      properties:
+        tournamentId: { type: [integer, 'null'], x-evidence: verified }
+        seriesId: { type: [integer, 'null'], x-evidence: verified }
+        userId: { type: integer, x-evidence: verified }
+        status: { $ref: '#/components/schemas/ActiveStatus', x-evidence: verified }
+        type: { type: string, x-evidence: verified, example: direct }
+        selfCheckinStatus: { type: string, x-evidence: verified }
+        hasSelfCheckin: { type: boolean, x-evidence: verified }
+        requestEmail: { type: boolean, x-evidence: verified }
+        requestPhone: { type: boolean, x-evidence: verified }
+        playerLimit: { type: [integer, 'null'], x-evidence: verified }
+        hasWaitlist: { type: boolean, x-evidence: verified }
+        publicList: { type: boolean, x-evidence: verified }
+        showDescription: { type: [integer, boolean], x-evidence: verified }
+        custom1: { type: [string, 'null'], x-evidence: verified }
+        custom2: { type: [string, 'null'], x-evidence: verified }
+        custom3: { type: [string, 'null'], x-evidence: verified }
+        openAtUtc: { type: [string, 'null'], x-evidence: verified }
+        openAtLocal: { type: [string, 'null'], x-evidence: verified }
+        closeAtUtc: { type: [string, 'null'], x-evidence: verified }
+        closeAtLocal: { type: [string, 'null'], x-evidence: verified }
+        timezone: { type: [string, 'null'], x-evidence: verified }
+
+    Location:
+      type: object
+      description: A venue. Carries join keys into Pinball Map and Scorbit.
+      properties:
+        locationId: { type: integer, x-evidence: verified }
+        name: { type: string, x-evidence: verified }
+        address: { type: [string, 'null'], x-evidence: verified, description: Single free-text line including city, region and country. }
+        lat: { type: [number, 'null'], x-evidence: verified }
+        lng: { type: [number, 'null'], x-evidence: verified }
+        status: { $ref: '#/components/schemas/ActiveStatus', x-evidence: verified }
+        organizerId: { type: integer, x-evidence: verified }
+        pinballmapId: { type: [integer, 'null'], x-evidence: verified, description: Pinball Map location id. }
+        scorbitVenueId: { type: [integer, 'null'], x-evidence: verified }
+        scorbitVenueUuid: { type: [string, 'null'], x-evidence: verified }
+
+    # ------------------------------------------------------------- Round & game
+    Round:
+      type: object
+      description: A set of games played at the same time. In pingolf, a hole.
+      properties:
+        roundId: { type: integer, x-evidence: verified }
+        tournamentId: { type: integer, x-evidence: verified }
+        index: { type: integer, x-evidence: verified, description: '**Zero-based**, while `name` is one-based — `index: 9` is "Round 10".' }
+        name: { type: string, x-evidence: verified, example: Round 11 }
+        status: { $ref: '#/components/schemas/GameStatus', x-evidence: verified }
+        duration:
+          type: [integer, 'null']
+          x-evidence: verified
+          description: 'Elapsed **seconds** (`completedAt` − `createdAt`). The identically named field on `Tournament` is a round count.'
+        createdAt: { type: string, x-evidence: verified, description: 'Space separated **with** a trailing `Z` — different again from the tournament format.' }
+        completedAt: { type: [string, 'null'], x-evidence: verified, description: May predate the websocket event announcing it. Trust `status`. }
+        arenaId: { type: [integer, 'null'], x-evidence: verified, description: Set for arena-scoped rounds. }
+        score: { type: [number, 'null'], x-evidence: verified }
+        size: { type: [integer, 'null'], x-evidence: verified }
+        description: { type: [string, 'null'], x-evidence: verified }
+
+    GameSummary:
+      type: object
+      description: |
+        The reduced game object returned by the global `/games` endpoint. It deliberately
+        omits everything identifying who played or who won.
+      properties:
+        gameId: { type: integer, x-evidence: verified }
+        roundId: { type: integer, x-evidence: verified }
+        tournamentId: { type: integer, x-evidence: verified }
+        arenaId: { type: [integer, 'null'], x-evidence: verified }
+        bankId: { type: [integer, 'null'], x-evidence: verified }
+        challengeId: { type: [integer, 'null'], x-evidence: verified }
+        index: { type: [integer, 'null'], x-evidence: verified, description: Position within the round, not the round number. Null for byes. }
+        set: { type: integer, x-evidence: verified, description: 'Sub-group index within the round. `9999` is a sentinel marking a bye.' }
+        status: { $ref: '#/components/schemas/GameStatus', x-evidence: verified }
+        startedAt: { type: [string, 'null'], x-evidence: verified }
+        duration: { type: [integer, 'null'], x-evidence: verified, description: Elapsed seconds. }
+        bye: { type: boolean, x-evidence: verified }
+        playerIdAdvantage: { type: [integer, 'null'], x-evidence: verified, description: Player holding position advantage. }
+        scorekeeperId: { type: [integer, 'null'], x-evidence: verified }
+        scorbitId: { type: [integer, 'null'], x-evidence: verified }
+        scorbitLog: { type: ['object', 'null'], x-evidence: verified }
+        scorbitVerified: { type: boolean, x-evidence: verified }
+
+    Game:
+      allOf:
+        - $ref: '#/components/schemas/GameSummary'
+        - type: object
+          description: |
+            The full game object, returned only by `GET /tournaments/{id}/games` and by
+            websocket game events.
+
+            `playerIds`, `userIds`, `resultPoints` and `resultScores` are **slot-aligned**:
+            index *i* refers to the same player in all four. `resultPositions` is **not** —
+            it is a separate best-to-worst ordering of player ids.
+          properties:
+            playerIds:
+              type: array
+              x-evidence: verified
+              description: Tournament-scoped player ids, one per slot.
+              items: { type: integer }
+            userIds:
+              type: array
+              x-evidence: verified
+              description: Global user ids, slot-aligned with `playerIds`. An entry is `null` when the player entry is unclaimed.
+              items: { type: [integer, 'null'] }
+            resultPositions:
+              type: array
+              x-evidence: verified
+              description: |
+                Player ids in finishing order, best first. **Not** slot-aligned with
+                `playerIds`. While a game is in progress this is a populated array of
+                `null`s rather than being absent — always gate on
+                `status === "completed"` before reading it. In formats that permit ties
+                it stays partially null even after completion; use `resultPoints` there.
+              items: { type: [integer, 'null'] }
+            resultPoints:
+              type: array
+              x-evidence: verified
+              description: |
+                Points per slot, as **strings**. Higher is better. Meaning depends on the
+                format: a win/loss flag in standard strike knockouts (`1.00`/`0.00`), an
+                ordinal in fair strikes, and a point award in IFPA/PAPA scoring.
+              items: { type: [string, 'null'] }
+            resultScores:
+              type: array
+              x-evidence: verified
+              description: Raw machine scores per slot. Null throughout most formats, which record only a winner.
+              items: { type: [string, number, 'null'] }
+            resultCountMismatch: { type: boolean, x-evidence: verified, description: Submitted results disagreed. }
+            suggestions:
+              type: array
+              x-evidence: verified
+              items: { $ref: '#/components/schemas/Suggestion' }
+
+    Suggestion:
+      type: object
+      description: A submitted result proposal, embedded on REST game objects.
+      properties:
+        suggestionId: { type: integer, x-evidence: verified }
+        gameId: { type: integer, x-evidence: verified }
+        roundId: { type: integer, x-evidence: verified }
+        tournamentId: { type: integer, x-evidence: verified }
+        playerId: { type: [integer, 'null'], x-evidence: verified, description: Who submitted it. }
+        userId: { type: [integer, 'null'], x-evidence: verified }
+        results: { type: array, x-evidence: verified, description: Player ids in proposed finishing order. May contain nulls when partial., items: { type: [integer, 'null'] } }
+        scores: { type: ['object', 'null'], x-evidence: verified, description: 'Map of **stringified** player id to score — unlike `resultScores`, which is a parallel array.' }
+        arenaId: { type: [integer, 'null'], x-evidence: verified }
+        scorbitData: { type: ['object', 'null'], x-evidence: verified }
+        partial: { type: boolean, x-evidence: verified, description: True when the submitter left a slot blank. }
+
+    SinglePlayerGame:
+      type: object
+      description: One scored attempt in a best-game or pingolf tournament.
+      properties:
+        singlePlayerGameId: { type: integer, x-evidence: verified }
+        tournamentId: { type: integer, x-evidence: verified }
+        roundId: { type: [integer, 'null'], x-evidence: verified }
+        arenaId: { type: [integer, 'null'], x-evidence: verified }
+        playerId: { type: integer, x-evidence: verified }
+        scorekeeperId: { type: [integer, 'null'], x-evidence: verified }
+        status: { $ref: '#/components/schemas/SinglePlayerGameStatus', x-evidence: verified }
+        points: { type: [string, 'null'], x-evidence: verified, description: Awarded points, as a string. }
+        score: { type: [string, number, 'null'], x-evidence: verified, description: Raw machine score. }
+        bestGame: { type: boolean, x-evidence: verified, description: Whether this attempt counts toward the player's total. }
+        voided: { type: boolean, x-evidence: verified }
+        index: { type: [integer, 'null'], x-evidence: verified }
+        duration: { type: [integer, 'null'], x-evidence: verified }
+        createdAt: { type: string, x-evidence: verified }
+        updatedAt: { type: string, x-evidence: verified }
+        scorbitId: { type: [integer, 'null'], x-evidence: verified }
+        scorbitLog: { type: ['object', 'null'], x-evidence: verified }
+        scorbitVerified: { type: boolean, x-evidence: verified }
+
+    # ------------------------------------------------------------- Standings
+    StandingsRow:
+      type: object
+      description: |
+        One player's placement. Keyed by `playerId` — to map to a global user you need the
+        roster from `includePlayers` or the `userIds` on game objects.
+      properties:
+        playerId: { type: integer, x-evidence: verified }
+        position: { type: integer, x-evidence: verified, description: Finishing rank. Tied players share a number. }
+        points: { type: [string, 'null'], x-evidence: verified, description: Total points, as a **string**. }
+        pointsWithTiebreaker: { type: [string, 'null'], x-evidence: verified }
+        tiebreakers: { type: [array, 'null'], x-evidence: verified, description: 'Heterogeneous — strings and numbers mixed, e.g. `["45.00", 5, 2]`.', items: { type: [string, number] } }
+        gamesPlayed: { type: integer, x-evidence: verified }
+        strikeCount: { type: [integer, 'null'], x-evidence: verified, description: Knockout formats. }
+        adjustment:
+          type: [number, 'null']
+          x-evidence: verified
+          description: '**Scoring** adjustment. Unrelated to `tournamentPlayer.pointsAdjustment`, which is strikes in knockout formats.'
+        entriesPlayed: { type: [integer, 'null'], x-evidence: verified, description: Best-game formats. }
+        entriesAvailable: { type: [integer, 'null'], x-evidence: verified }
+        cardsCounted: { type: [integer, 'null'], x-evidence: verified, description: Card-based formats. }
+        pointsList: { type: [array, 'null'], x-evidence: verified }
+        frenzyWins: { type: [integer, 'null'], x-evidence: verified, description: Flip Frenzy only. }
+        frenzyLosses: { type: [integer, 'null'], x-evidence: verified }
+        activeGames: { type: array, x-evidence: verified, description: In-progress games, for live standings display., items: { type: [integer, object] } }
+        activeGameColor: { type: [string, 'null'], x-evidence: verified }
+        onPaceBubble: { type: [boolean, 'null'], x-evidence: verified }
+        onCutoffBubble: { type: [boolean, 'null'], x-evidence: verified, description: Pairs with the tournament's `playoffsCutoffs`. }
+        onCutoffBubble2: { type: [boolean, 'null'], x-evidence: verified }
+        cutoffBubbleColor: { type: [string, 'null'], x-evidence: verified }
+        manualTiebreakerGroup: { type: [integer, 'null'], x-evidence: verified }
+
+    # ------------------------------------------------------------- Identity
+    User:
+      type: object
+      description: A global Match Play account. Also embedded as `organizer` on tournaments.
+      properties:
+        userId: { type: integer, x-evidence: verified }
+        name: { type: string, x-evidence: verified }
+        firstName: { type: [string, 'null'], x-evidence: verified }
+        lastName: { type: [string, 'null'], x-evidence: verified }
+        ifpaId: { type: [integer, 'null'], x-evidence: verified, description: IFPA player number, when linked. }
+        role: { type: string, enum: [player, organizer], x-evidence: verified }
+        initials:
+          type: [string, 'null']
+          x-evidence: verified
+          description: |
+            Display initials. **Unset is represented inconsistently** — observed as both an
+            empty string and as `null` across different users in the same response. Treat
+            both as "not set".
+        pronouns:
+          type: [string, 'null']
+          x-evidence: verified
+          description: Free text. Like `initials`, unset appears as either `""` or `null`.
+        flag:
+          type: [string, 'null']
+          x-evidence: verified
+          description: 'Lowercase ISO 3166-1 alpha-2 country code. Empty string or null when unset.'
+        location:
+          type: [string, 'null']
+          x-evidence: verified
+          description: Free-text home location. Empty string or null when unset.
+        avatar: { type: [string, 'null'], x-evidence: verified, description: 'CDN URL, `avatar-U<userId>-<epoch>.jpg`.' }
+        banner: { type: [string, 'null'], x-evidence: verified }
+        tournamentAvatar: { type: [string, 'null'], x-evidence: verified }
+        clubId: { type: [integer, 'null'], x-evidence: verified }
+        businessProfileId: { type: [integer, 'null'], x-evidence: verified }
+        createdAt: { type: string, x-evidence: verified }
+        ratingsOptOut: { type: boolean, x-evidence: verified }
+        statsOptOut: { type: boolean, x-evidence: verified }
+        videoOptOut: { type: boolean, x-evidence: verified }
+        profileOptOut: { type: boolean, x-evidence: verified }
+        historyOptOut: { type: boolean, x-evidence: verified, description: 'When true, `/tournaments?played=` returns 403 for this user.' }
+        historyOnlyCompleted: { type: boolean, x-evidence: verified }
+
+    Player:
+      type: object
+      description: |
+        A player **entry**, scoped to an organizer's roster rather than global. `claimedBy`
+        is the bridge to a global `User`.
+      properties:
+        playerId: { type: integer, x-evidence: verified }
+        name: { type: string, x-evidence: verified }
+        ifpaId: { type: [integer, 'null'], x-evidence: verified }
+        claimedBy: { type: [integer, 'null'], x-evidence: verified, description: The `userId` that claimed this entry, or null if unclaimed. }
+        organizerId: { type: integer, x-evidence: verified }
+        status: { $ref: '#/components/schemas/ActiveStatus', x-evidence: verified, description: '**Global account** status. Not the per-tournament status — see `tournamentPlayer.status`.' }
+        labels: { type: array, x-evidence: verified, items: { type: string } }
+        labelColor: { type: [string, 'null'], x-evidence: verified }
+
+    TournamentPlayerEntry:
+      allOf:
+        - $ref: '#/components/schemas/Player'
+        - type: object
+          properties:
+            tournamentPlayer: { $ref: '#/components/schemas/TournamentPlayerPivot' }
+
+    TournamentPlayerPivot:
+      type: object
+      description: A player's state *within one tournament*. Present only on tournament-scoped responses.
+      properties:
+        status: { $ref: '#/components/schemas/ActiveStatus', x-evidence: verified, description: '`inactive` means the player left this tournament. The parent `Player.status` stays `active`.' }
+        seed: { type: [integer, 'null'], x-evidence: verified, description: '0 when unseeded.' }
+        pointsAdjustment:
+          type: [number, 'null']
+          x-evidence: verified
+          description: |
+            Manual adjustment, and its meaning depends on the format: **strikes** in knockouts,
+            **points** elsewhere. May be negative. Changes to it emit no websocket event at all.
+        subscription: { type: [string, 'null'], x-evidence: verified, description: 'Notification channel, e.g. `discord` or `sms`.' }
+        labels: { type: array, x-evidence: verified, items: { type: string } }
+        labelColor: { type: [string, 'null'], x-evidence: verified }
+
+    Arena:
+      type: object
+      description: A machine. "Arena" is Match Play's term for a playfield in a tournament.
+      properties:
+        arenaId: { type: integer, x-evidence: verified }
+        name: { type: string, x-evidence: verified }
+        opdbId: { type: [string, 'null'], x-evidence: verified, description: 'Open Pinball Database id, `G<group>-M<machine>[-A<alias>]`. Null for homebrew machines.' }
+        categoryId: { type: [integer, 'null'], x-evidence: verified, description: Machine era/category. }
+        organizerId: { type: integer, x-evidence: verified }
+        status: { $ref: '#/components/schemas/ActiveStatus', x-evidence: verified, description: Global status, distinct from the per-tournament pivot. }
+        labels: { type: array, x-evidence: verified, items: { type: string } }
+        labelColor: { type: [string, 'null'], x-evidence: verified }
+
+    TournamentArenaEntry:
+      allOf:
+        - $ref: '#/components/schemas/Arena'
+        - type: object
+          properties:
+            tournamentArena: { $ref: '#/components/schemas/TournamentArenaPivot' }
+
+    TournamentArenaPivot:
+      type: object
+      description: A machine's state within one tournament.
+      properties:
+        status: { $ref: '#/components/schemas/ActiveStatus', x-evidence: verified, description: '`inactive` means out of play for this tournament.' }
+        preferred: { type: [boolean, 'null'], x-evidence: verified }
+        amazingRaceSeed: { type: [integer, 'null'], x-evidence: verified }
+        bestGameBlocked: { type: [boolean, 'null'], x-evidence: verified }
+        bestGameQueueClosed: { type: [boolean, 'null'], x-evidence: verified }
+        scorbitVenuemachineId: { type: [integer, 'null'], x-evidence: verified, description: 'Note the lowercase `m` in `Venuemachine`.' }
+        scorbitVenuemachineUuid: { type: [string, 'null'], x-evidence: verified }
+        scorbitronInstalled: { type: [boolean, 'null'], x-evidence: verified }
+        labels: { type: array, x-evidence: verified, description: Often used as bank or section names., items: { type: string } }
+        labelColor: { type: [string, 'null'], x-evidence: verified }
+
+    UserProfileBundle:
+      type: object
+      description: |
+        The `/users/{userId}` envelope. Note it has no `data` key — eight named sections
+        instead.
+      properties:
+        user: { $ref: '#/components/schemas/User', x-evidence: verified }
+        rating: { oneOf: [{ $ref: '#/components/schemas/Rating' }, { type: 'null' }], x-evidence: verified }
+        ifpa: { type: ['object', 'null'], x-evidence: verified, description: IFPA standing. Null when the user has no linked IFPA record. }
+        club: { type: ['object', 'null'], x-evidence: verified }
+        plan: { type: ['object', 'null'], x-evidence: verified, description: Subscription plan. }
+        planFeatures: { type: ['object', 'null'], x-evidence: verified }
+        shortcut: { type: ['object', 'null'], x-evidence: verified, description: Custom profile link. }
+        userCounts: { $ref: '#/components/schemas/UserCounts', x-evidence: verified }
+
+    UserCounts:
+      type: object
+      properties:
+        tournamentPlayCount: { type: integer, x-evidence: verified }
+        tournamentOrganizedCount: { type: integer, x-evidence: verified }
+        seriesOrganizedCount: { type: integer, x-evidence: verified }
+
+    # ------------------------------------------------------------- Ratings
+    Rating:
+      type: object
+      description: A Match Play Rating — a Glicko implementation maintained by Match Play.
+      properties:
+        ratingId: { type: integer, x-evidence: verified }
+        userId: { type: [integer, 'null'], x-evidence: verified, description: Null for IFPA-only players with no Match Play account. }
+        ifpaId: { type: [integer, 'null'], x-evidence: verified }
+        name: { type: string, x-evidence: verified }
+        rating: { type: number, x-evidence: verified, description: Glicko rating. }
+        rd: { type: number, x-evidence: verified, description: Rating deviation at the last rating period. }
+        calculatedRd: { type: number, x-evidence: verified, description: RD advanced to today. Grows while a player is inactive. }
+        ratingClass: { type: [integer, 'null'], x-evidence: verified, description: Tier bucket. }
+        delta: { type: [string, 'null'], x-evidence: verified, description: Change at the most recent rating period, as a string. }
+        lowerBound: { type: number, x-evidence: verified, description: 'Conservative rating, `rating − 2·rd`. Match Play ranks on this.' }
+        gameCount: { type: integer, x-evidence: verified }
+        winCount: { type: integer, x-evidence: verified }
+        lossCount: { type: integer, x-evidence: verified }
+        resultCount: { type: integer, x-evidence: verified }
+        efficiencyPercent: { type: number, x-evidence: verified, description: 'Win efficiency, 0–1.' }
+        firstRatingPeriod: { type: [string, 'null'], x-evidence: verified }
+        lastRatingPeriod: { type: [string, 'null'], x-evidence: verified }
+
+    RatingHistoryPoint:
+      type: object
+      properties:
+        ratingPeriod: { type: string, x-evidence: verified, description: 'Date, `YYYY-MM-DD`.' }
+        rating: { type: number, x-evidence: verified }
+        lowerBound: { type: number, x-evidence: verified }
+        upperBound: { type: number, x-evidence: verified }
+
+    RatingBundle:
+      type: object
+      description: The `/ratings/*` envelope. No `data` wrapper.
+      properties:
+        rating: { $ref: '#/components/schemas/Rating', x-evidence: verified }
+        ifpaInfo:
+          type: ['object', 'null']
+          x-evidence: verified
+          properties:
+            rank: { type: [integer, 'null'] }
+            womensRank: { type: [integer, 'null'] }
+        ratingHistory:
+          type: array
+          x-evidence: verified
+          description: One point per rating period the player's rating changed. 369 points in one observed response.
+          items: { $ref: '#/components/schemas/RatingHistoryPoint' }
+
+    # ------------------------------------------------------------- Summaries
+    ArenaSummaryRow:
+      type: object
+      properties:
+        tournamentId: { type: integer, x-evidence: verified }
+        userId: { type: integer, x-evidence: verified, description: The tournament organizer. }
+        arenaId: { type: integer, x-evidence: verified }
+        tournamentDate: { type: string, x-evidence: verified, description: '`YYYY-MM-DD`.' }
+        games: { type: integer, x-evidence: verified }
+        singlePlayerGames: { type: integer, x-evidence: verified }
+        totalGames: { type: integer, x-evidence: verified }
+        opdbId: { type: [string, 'null'], x-evidence: verified }
+        opdbGroup: { type: [string, 'null'], x-evidence: verified, description: Group prefix, shared across Pro/Premium/LE editions of a title. }
+
+    PlayerArenaSummaryRow:
+      allOf:
+        - $ref: '#/components/schemas/ArenaSummaryRow'
+        - type: object
+          properties:
+            playerId: { type: integer, x-evidence: verified }
+            wins: { type: integer, x-evidence: verified }
+            losses: { type: integer, x-evidence: verified }
+
+    MatchSummaryRow:
+      type: object
+      description: |
+        One player/opponent/arena combination. Rows are intentionally duplicated in both
+        directions, so filtering by either player works without a union.
+      properties:
+        tournamentId: { type: integer, x-evidence: verified }
+        userId: { type: integer, x-evidence: verified }
+        arenaId: { type: integer, x-evidence: verified }
+        playerId: { type: integer, x-evidence: verified }
+        opponentId: { type: integer, x-evidence: verified }
+        tournamentDate: { type: string, x-evidence: verified }
+        games: { type: integer, x-evidence: verified }
+        wins: { type: integer, x-evidence: verified }
+        losses: { type: integer, x-evidence: verified }
+        opdbId: { type: [string, 'null'], x-evidence: verified }
+        opdbGroup: { type: [string, 'null'], x-evidence: verified }
+
+    # ------------------------------------------------------------- Machines
+    OpdbEntryBundle:
+      type: object
+      description: The `/opdb/entries/{opdbId}` envelope.
+      properties:
+        entry: { type: object, x-evidence: verified, description: OPDB machine record. }
+        type: { type: [string, 'null'], x-evidence: verified }
+        videos: { type: array, x-evidence: verified, items: { type: object } }
+
+    PinTipsBundle:
+      type: object
+      description: The `/pintips` envelope.
+      properties:
+        pintips: { type: array, x-evidence: verified, items: { type: object } }
+        opdbInfo: { type: ['object', 'null'], x-evidence: verified }
+
+    # ------------------------------------------------------------- IFPA
+    WpprEstimate:
+      type: object
+      description: Estimated WPPR value for a tournament or series.
+      properties:
+        wpprValue: { type: number, x-evidence: verified }
+        baseValue: { type: number, x-evidence: verified }
+        rankValue: { type: number, x-evidence: verified }
+        ratingValue: { type: number, x-evidence: verified }
+        womensWpprValue: { type: number, x-evidence: verified }
+        womensBaseValue: { type: number, x-evidence: verified }
+        womensRankValue: { type: number, x-evidence: verified }
+        standingsOrder: { type: [array, 'null'], x-evidence: verified }
+        unresolvedNames: { type: array, x-evidence: verified, description: Player names that could not be matched to an IFPA record., items: { type: string } }
+        players:
+          type: array
+          x-evidence: verified
+          items:
+            type: object
+            properties:
+              ifpaId: { type: integer }
+              name: { type: string }
+              rank: { type: [integer, 'null'] }
+              womensRank: { type: [integer, 'null'] }
+              rating: { type: [number, 'null'] }
+              totalEvents: { type: [integer, 'null'] }
+              updatedAt: { type: [string, 'null'] }
+              baseValue: { type: number }
+              womensBaseValue: { type: number }
+              ratingValue: { type: number }
+              ratingValueIncluded: { type: boolean }
+              rankValue: { type: number }
+              rankValueIncluded: { type: boolean }
+              womensRankValue: { type: number }
+              womensRankValueIncluded: { type: boolean }
+              wpprValue: { type: number }
+              womensWpprValue: { type: number }
