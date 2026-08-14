@@ -72,7 +72,7 @@ The complete game objects. Unpaginated — a 135-game tournament returns whole, 
 | Parameter | Type | Notes |
 | --- | --- | --- |
 | `round` | string | Comma-separated round ids. Omit for the whole tournament |
-| `player` | integer | Tournament-scoped player id |
+| `player` | integer | A `playerId` (organizer-scoped, not a `userId`) |
 | `status` | string | `started` or `completed` |
 
 </div>
@@ -252,7 +252,7 @@ The documented endpoint. Useful for cross-tournament queries; useless for result
 | `series` | string | Comma-separated, up to 5 |
 | `ids` | string | Comma-separated game ids, up to 50 |
 | `round` | integer | Round id |
-| `player` | integer | Tournament-scoped player id |
+| `player` | integer | A `playerId` (organizer-scoped, not a `userId`) |
 | `arena` | integer | Arena id |
 | `bank` | integer | Bank id |
 | `status` | string | `started` or `completed` |

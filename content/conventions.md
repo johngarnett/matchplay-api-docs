@@ -179,7 +179,7 @@ Three separate id spaces are in play, and confusing them is the most common sour
 | Id | Scope | Where it appears |
 | --- | --- | --- |
 | `userId` | Global Match Play account | `game.userIds[]`, `organizer.userId`, `/users/{id}`, `?played=` |
-| `playerId` | An organizer's roster entry | `standings[].playerId`, `game.playerIds[]`, `?player=` |
+| `playerId` | An organizer's roster entry — one person has one per organizer | `standings[].playerId`, `game.playerIds[]`, `?player=` |
 | `ifpaId` | IFPA, external | `player.ifpaId`, `user.ifpaId`, `/ratings/ifpa/{id}` |
 
 </div>

@@ -47,9 +47,9 @@ change after completion.
 
 ## Keyed by `playerId`, not `userId`
 
-Every row identifies its player by tournament-scoped `playerId`. If you're tracking a global
-Match Play account you have to map across, and how you do that depends on the format — see
-[Identity](/identity.html).
+Every row identifies its player by `playerId`, which is scoped to the **organizer**, not to
+the tournament or to Match Play as a whole. If you're tracking a global account you have to
+map across, and how you do that depends on the format — see [Identity](/identity.html).
 
 ## Ties share a position
 

@@ -18,14 +18,34 @@ did *this person* do?" is surprisingly hard to answer.
 | Id | Scope | Stable across tournaments? |
 | --- | --- | --- |
 | **`userId`** | A global Match Play account | Yes |
-| **`playerId`** | An entry on one organizer's roster | No — a person has many |
+| **`playerId`** | An entry on one **organizer’s** roster | No — one per organizer, reused across that organizer’s tournaments |
 | **`ifpaId`** | An IFPA competitor record, external | Yes, but not everyone has one |
 
 </div>
 
-A single human being might be `userId 6912`, appear as `playerId 135991` in one organizer's
-tournaments and `playerId 447203` in another's, and separately be `ifpaId 52614` in IFPA's
-database.
+Here is one real person across four tournaments — the same human being every time:
+
+<div class="table-scroll">
+
+| Tournament | `organizerId` | `playerId` | `claimedBy` | `ifpaId` | `tournamentPlayer.seed` |
+| --- | --- | --- | --- | --- | --- |
+| 265276 | 5750 | **102677** | 5750 | 32819 | 29 |
+| 265105 | 93 | **37273** | 5750 | 32819 | 2020 |
+| 264541 | 17637 | **334483** | 5750 | 32819 | 5 |
+| 263364 | 17637 | **334483** | 5750 | 32819 | 8 |
+
+</div>
+
+Three things to read out of that table:
+
+1. **`playerId` changes with the organizer**, not the tournament. Three organizers, three
+   different player ids for one person.
+2. **The last two rows share a `playerId`** because they share an organizer — so a player id
+   is *not* unique per tournament, and you cannot use it as a per-tournament key.
+3. **`tournamentPlayer.seed` still differs between those two rows**, because the pivot *is*
+   per-tournament even when the player entry is not.
+
+`claimedBy` and `ifpaId` are the only columns stable across all four.
 
 ## `claimedBy` is the bridge
 
@@ -34,15 +54,26 @@ roster entry, or `null`:
 
 ```json
 {
-  "playerId": 135991, "name": "Vanessa Ish", "ifpaId": 52614,
-  "status": "active", "organizerId": 14223,
-  "claimedBy": 6912,
+  "playerId": 334483, "name": "John Garnett", "ifpaId": 32819,
+  "status": "active", "organizerId": 17637,
+  "claimedBy": 5750,
   "labels": [], "labelColor": null
 }
 ```
 
 `claimedBy: null` means an organizer typed a name in and no account ever claimed it. Those
-players are invisible to any user-centric query — they exist only within that tournament.
+players are invisible to any user-centric query — they exist only on that organizer's
+roster.
+
+<div class="callout callout-warn">
+<span class="callout-title">Never key your own storage on <code>playerId</code> alone</span>
+
+Because a person has one `playerId` per organizer, aggregating a player's history means
+resolving every one of them back to a single `claimedBy`. Storing statistics keyed on
+`playerId` will silently split one competitor into several.
+
+`(organizerId, playerId)` identifies a roster entry. `claimedBy` identifies the person.
+</div>
 
 ## Which endpoints give you what
 
@@ -113,9 +144,9 @@ object, you are handling the absence of the objects entirely.
 Batch-resolve ids to full objects. Four variants exist, and the choice between them matters
 more than it looks.
 
-<div class="endpoint"><span class="method">GET</span> <span>/tournaments/{tournamentId}/players/resolve-unknown?players=1,2,3</span></div>
-<div class="endpoint"><span class="method">GET</span> <span>/tournaments/{tournamentId}/arenas/resolve-unknown?arenas=7,8</span></div>
-<div class="endpoint"><span class="method">GET</span> <span>/players/resolve-unknown?players=1,2,3</span></div>
+<div class="endpoint"><span class="method">GET</span> <span>/tournaments/{tournamentId}/players/resolve-unknown?players=334483</span></div>
+<div class="endpoint"><span class="method">GET</span> <span>/tournaments/{tournamentId}/arenas/resolve-unknown?arenas=56443</span></div>
+<div class="endpoint"><span class="method">GET</span> <span>/players/resolve-unknown?players=334483</span></div>
 <div class="endpoint"><span class="method">GET</span> <span>/users/resolve-unknown?users=5750</span></div>
 
 Rules:
@@ -131,18 +162,20 @@ Rules:
 The global `/players/resolve-unknown` omits the `tournamentPlayer` pivot — so no `seed`, no
 per-tournament `status`, no `pointsAdjustment`.
 
-Compare. Global:
+Compare, for the same player id. Global — `GET /players/resolve-unknown?players=334483`:
 
 ```json
-{ "playerId": 135991, "name": "Vanessa Ish", "ifpaId": 52614,
-  "status": "active", "organizerId": 14223, "claimedBy": 6912 }
+{ "playerId": 334483, "name": "John Garnett", "ifpaId": 32819,
+  "status": "active", "organizerId": 17637, "claimedBy": 5750,
+  "labels": [], "labelColor": null }
 ```
 
-Tournament-scoped — same plus:
+Tournament-scoped — `GET /tournaments/264541/players/resolve-unknown?players=334483`
+returns everything above **plus**:
 
 ```json
   "tournamentPlayer": {
-    "status": "active", "seed": 15, "pointsAdjustment": 0,
+    "status": "active", "seed": 5, "pointsAdjustment": 0,
     "subscription": null, "labels": [], "labelColor": null
   }
 ```

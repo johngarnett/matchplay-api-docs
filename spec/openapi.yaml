@@ -295,7 +295,7 @@ paths:
           example: "1162406,1162407,1162410"
         - name: player
           in: query
-          description: Restrict to games involving this tournament-scoped player id.
+          description: Restrict to games involving this playerId (organizer-scoped, not a userId).
           schema: { type: integer }
         - name: status
           in: query
@@ -353,7 +353,7 @@ paths:
           schema: { type: integer }
         - name: player
           in: query
-          description: Tournament-scoped player id to filter on.
+          description: A playerId to filter on (organizer-scoped, not a userId).
           schema: { type: integer }
         - name: arena
           in: query
@@ -551,7 +551,7 @@ paths:
       operationId: resolveTournamentPlayers
       summary: Resolve player ids within a tournament
       description: |
-        Batch-resolve tournament-scoped player ids to full player objects **including the
+        Batch-resolve player ids to full player objects **including the
         `tournamentPlayer` pivot** (seed, per-tournament status, points adjustment).
 
         Use this rather than the global `/players/resolve-unknown`, which omits the pivot.
@@ -684,7 +684,7 @@ paths:
       operationId: listPlayers
       summary: List players (global)
       description: |
-        Undocumented by Match Play. Takes tournament-scoped **player** ids, not user ids —
+        Undocumented by Match Play. Takes **player** ids (organizer-scoped), not user ids —
         passing a user id returns an empty page rather than an error. Uses full length-aware
         pagination.
       parameters:
@@ -1426,7 +1426,7 @@ components:
             playerIds:
               type: array
               x-evidence: verified
-              description: Tournament-scoped player ids, one per slot.
+              description: Player ids, one per slot. Scoped to the tournament organizer, not global.
               items: { type: integer }
             userIds:
               type: array

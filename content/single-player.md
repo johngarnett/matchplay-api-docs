@@ -45,7 +45,7 @@ Which types are affected: `best_game`, `card_best_game`, `golf`, `golf_bracket`,
 | `bestGame` | boolean | Only games counting toward the player's total |
 | `voided` | boolean | Include voided games |
 | `round` | integer | Round id |
-| `player` | integer | Tournament-scoped player id |
+| `player` | integer | A `playerId` (organizer-scoped, not a `userId`) |
 | `arena` | integer | Arena id |
 
 </div>

@@ -50,7 +50,7 @@ way to search machines or venues through this API**. Combined with the absence o
 
 <div class="endpoint"><span class="method">GET</span> <span>/players?players={csv}&status=active</span></div>
 
-Undocumented. Takes tournament-scoped **`playerId`s**, not `userId`s — passing a user id
+Undocumented. Takes **`playerId`s** (organizer-scoped), not `userId`s — passing a user id
 returns an empty page rather than an error, which makes mistakes here silent.
 
 Uses full length-aware pagination, unlike `/tournaments`.
