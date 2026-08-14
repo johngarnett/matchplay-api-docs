@@ -81,27 +81,32 @@ The comma-separated `round` list lets you fetch many rounds in one call. Chunk i
 ids per request is a commonly used size that keeps the URL sane.
 
 ```bash
-curl -s "https://app.matchplay.events/api/tournaments/258562/games?round=1154935,1154936" \
+curl -s "https://app.matchplay.events/api/tournaments/258965/games?round=1188153" \
   -H "Authorization: Bearer YOUR_API_TOKEN"
 ```
 
 ```json
 {
-  "gameId": 7696295, "roundId": 1154935, "tournamentId": 258562,
-  "arenaId": 133517, "bankId": null, "challengeId": null,
-  "index": 0, "set": 0, "playerIdAdvantage": 162405, "scorekeeperId": 9024,
-  "status": "completed", "startedAt": "2026-06-27T03:51:18.000000Z",
-  "duration": 609, "bye": false,
-  "playerIds": [162405, 251302],
-  "userIds": [9024, 8988],
-  "resultPositions": [162405, 251302],
-  "resultPoints": ["1.00", "0.00"],
+  "gameId": 7920009, "roundId": 1188153, "tournamentId": 258965,
+  "arenaId": null, "bankId": null, "challengeId": null,
+  "index": 0, "set": 4, "playerIdAdvantage": 242648, "scorekeeperId": 17637,
+  "status": "completed", "startedAt": "2026-08-14T02:36:40.000000Z",
+  "duration": 878, "bye": false,
+  "playerIds": [242648, 586924],
+  "userIds": [17637, 56155],
+  "resultPositions": [586924, 242648],
+  "resultPoints": ["0.00", "1.00"],
   "resultScores": [null, null],
   "resultCountMismatch": false,
   "scorbitId": null, "scorbitLog": null, "scorbitVerified": false,
   "suggestions": [ … ]
 }
 ```
+
+Look closely at that payload — the winner is **not** the player in slot 0. Player `242648`
+occupies slot 0 of `playerIds` and scored `"0.00"`, while `resultPositions` puts `586924`
+first. That mismatch is the subject of the next section, and it is the single easiest thing
+to get wrong.
 
 ## The parallel-array contract
 
@@ -131,6 +136,16 @@ but to find their placement you look up their position in a different array:
 ```js
 const place = game.resultPositions.indexOf(playerId)   // 0 = won
 ```
+
+Applied to the two-player game above, for player `242648`:
+
+```js
+game.playerIds.indexOf(242648)        // 0  -> resultPoints[0] === "0.00"
+game.resultPositions.indexOf(242648)  // 1  -> finished second, i.e. lost
+```
+
+Reading `resultPositions[0]` and assuming it lines up with `playerIds[0]` would have
+reported the opposite result.
 
 Worked example from a real IFPA-scored three-player game:
 
@@ -210,9 +225,10 @@ Submitted result proposals, embedded inline:
 
 ```json
 {
-  "suggestionId": 1838464, "gameId": 7696295, "playerId": 162405, "userId": 9024,
-  "results": [162405, 251302],
-  "scores": { "162405": null, "251302": null },
+  "suggestionId": 1921032, "gameId": 7920009, "roundId": 1188153, "tournamentId": 258965,
+  "playerId": 242648, "userId": 17637,
+  "results": [586924, 242648],
+  "scores": { "242648": null, "586924": null },
   "arenaId": null, "scorbitData": null, "partial": false
 }
 ```
