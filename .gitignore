@@ -1,0 +1,14 @@
+node_modules/
+dist/
+.env
+
+# Raw API captures — carry real player names, pronouns, avatar URLs and privacy
+# flags. Only hand-trimmed excerpts under samples/ (not samples/raw/) are published.
+samples/raw/
+
+# Playwright
+test-results/
+playwright-report/
+
+.DS_Store
+*.log
