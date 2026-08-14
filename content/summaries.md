@@ -126,19 +126,20 @@ curl -s -X POST "https://app.matchplay.events/api/ifpa/wppr-estimator" \
 
 ```json
 {
-  "wpprValue": 4.62, "baseValue": 2.5,
-  "rankValue": 0.61, "ratingValue": 1.51,
-  "womensWpprValue": 0.5, "womensBaseValue": 0.5, "womensRankValue": 0,
+  "wpprValue": 6.872732923485131,
+  "baseValue": 6, "rankValue": 0.4049227672351303, "ratingValue": 0.46781015625000044,
+  "womensWpprValue": 6.872732923485131, "womensBaseValue": 6, "womensRankValue": 0.404922767,
   "standingsOrder": [ … ],
-  "unresolvedNames": [],
+  "unresolvedNames": ["…", "…", "…"],
   "players": [
-    { "ifpaId": 89391, "name": "Ben Fodor",
-      "rank": 5475, "womensRank": null, "rating": 1108.3, "totalEvents": 418,
-      "updatedAt": "2026-08-03 23:32:18Z",
-      "baseValue": 0.5, "ratingValue": 0, "ratingValueIncluded": true,
+    { "ifpaId": 32819, "name": "John Garnett",
+      "rank": 2020, "womensRank": null, "rating": 1432.69, "totalEvents": 320,
+      "updatedAt": "2026-08-02 20:24:55Z",
+      "baseValue": 0.5,
+      "ratingValue": 0.08037734375000005, "ratingValueIncluded": true,
       "rankValue": 0, "rankValueIncluded": true,
       "womensRankValue": 0, "womensRankValueIncluded": true,
-      "wpprValue": 0.5, "womensWpprValue": 0.5 }
+      "wpprValue": 0.58037734375, "womensWpprValue": 0.58037734375 }
   ]
 }
 ```
@@ -147,21 +148,31 @@ The per-player breakdown shows each competitor's contribution and the `*Included
 which components counted — useful for explaining to an organizer *why* their event is worth
 what it is.
 
-**`unresolvedNames`** lists players who could not be matched to an IFPA record. A long list
-here means the tournament's roster has unclaimed or misspelled entries, and the estimate is
-correspondingly less reliable.
+**`unresolvedNames`** lists players who could not be matched to an IFPA record — real names
+are elided above. A long list means the tournament's roster has unclaimed or misspelled
+entries, and the estimate is correspondingly less reliable. In the 13-player tournament
+sampled here, three names went unresolved.
 
-<div class="callout">
-<span class="callout-title">Names here come from IFPA, not Match Play</span>
+<div class="callout callout-trap">
+<span class="callout-title">Every player field here is IFPA's, not Match Play's</span>
 
-`players[].name` is the **IFPA** record's name, which frequently differs from the same
-person's Match Play profile name. One player returned as `"Ben Fodor"` here is
-`"Benjamin Fodor U.S.A"` on their Match Play account.
+This payload is assembled from IFPA data, and three fields collide confusingly with Match
+Play's own:
 
-There is also no `userId` in this payload — only `ifpaId`. To reach a Match Play account
-from an estimator row, bridge through
+- **`rating` is the IFPA rating**, not the Match Play Rating. For the player above the
+  estimator reports `1432.69`, while the same person's Match Play Rating on the same day is
+  `1599.74` — a 167-point gap. Two different systems, one field name. Never compare them or
+  substitute one for the other.
+- **`rank` is the IFPA WPPR rank**, matching `ifpaInfo.rank` from the
+  [ratings endpoints](/profile-search.html#match-play-ratings).
+- **`name` is the IFPA record's name**, which often differs from the same person's Match
+  Play profile name — one observed player's IFPA name omitted a suffix their Match Play
+  account carries.
+
+There is also **no `userId`** anywhere in the payload, only `ifpaId`. To reach a Match Play
+account from an estimator row, bridge through
 [`/ratings/ifpa/{ifpaId}`](/profile-search.html#match-play-ratings), whose `rating.userId`
-gives you the link (or `null` if they have no account).
+gives you the link — or `null` if they have no Match Play account at all.
 </div>
 
 The related passive field `estimatedTgp` on the tournament object gives Match Play's stored

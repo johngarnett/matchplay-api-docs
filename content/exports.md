@@ -59,9 +59,13 @@ const match = headerLine.match(/Data from:\s*(\d{4}-\d{2}-\d{2})/)
 Full header and a sample row:
 
 ```
-Name,User ID,IFPA ID,Rating,RD,Lower Bound,Last Rating Period (Data from: 2026-07-18),Rating class
-"Craig Jones",57051,34433,1675.99,38.47,1599.05,2026-06-14,3
+Name,User ID,IFPA ID,Rating,RD,Lower Bound,Last Rating Period (Data from: 2026-08-11),Rating class
+"John Garnett",5750,32819,1599.74,24.23,1551.28,2026-08-03,4
 ```
+
+Note the two different dates in that snippet. The one in the **column name** is when the
+file was generated; the one in the **row** is when that player's rating last changed. They
+are unrelated, and the row date will often be days or weeks older.
 
 <div class="table-scroll">
 

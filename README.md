@@ -119,19 +119,26 @@ names, pronouns, avatar URLs and privacy flags for hundreds of people.
 values are kept verbatim, because rewriting them would defeat the point of proving the
 schemas match reality.
 
-Four people are named in the prose — John Garnett, Vanessa Ish, Craig Jones and Ben Fodor —
-and **each was checked against `/users/{userId}` to confirm all six opt-out flags are
-`false`**. Someone who set `historyOptOut` should not become the illustrative example in
-public API documentation.
+**Exactly one person is named in the prose: John Garnett, the repo owner**, whose account is
+used deliberately as the demo user throughout. Third-party names were removed rather than
+merely vetted. Anyone who set `historyOptOut` should certainly not become the illustrative
+example in public API documentation — but not appearing at all is a better default.
 
-Re-run that audit after changing any example:
+Re-run this audit after changing any example — it should return only the repo owner and
+non-person names such as machines, venues and rounds:
 
 ```bash
-grep -rho '"name": *"[^"]*"' content/    # every name the docs display
+grep -rho '"name": *"[^"]*"' content/
 ```
 
-then check each against `GET /users/{userId}`. Ben Fodor appears only with an `ifpaId`, so
-his account is reached via `GET /ratings/ifpa/{ifpaId}` → `rating.userId`.
+If a third party does appear, check their opt-out flags with `GET /users/{userId}` before
+publishing. Where only an `ifpaId` is available — the WPPR estimator carries no `userId` —
+reach the account via `GET /ratings/ifpa/{ifpaId}` → `rating.userId`.
+
+Two payloads need extra care beyond trimming, both handled by `trim-samples.js`: the WPPR
+estimator's `players[]` is filtered to the single documented row, and its `unresolvedNames`
+is emptied, since that field lists real people who have **no** IFPA record and so appear in
+no other object.
 
 ## Tests
 

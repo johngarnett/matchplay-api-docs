@@ -18,6 +18,9 @@ const RAW_DIR = path.join(__dirname, '..', 'samples', 'raw')
 const OUT_DIR = path.join(__dirname, '..', 'samples')
 const RECORD_LIMIT = 2
 
+// The IFPA id whose row the documentation quotes from the WPPR estimator.
+const DOCUMENTED_IFPA_ID = 32819
+
 // Files worth committing, and how to find the records inside each envelope.
 // `envelope: 'data'` keeps {data, links, meta} intact but truncates data;
 // 'array' is a bare array; 'whole' is a single-object response kept as-is.
@@ -39,7 +42,10 @@ const FIXTURES = [
    { file: 'summary-matches.json', envelope: 'data' },
    { file: 'ratings-by-user.json', envelope: 'whole', truncate: { ratingHistory: 3 } },
    { file: 'user.json', envelope: 'whole' },
-   { file: 'wppr-estimator.json', envelope: 'whole', truncate: { players: 2 } }
+   // The estimator returns every entrant. Keep only the row the docs quote, and
+   // drop unresolvedNames, which is a list of real names of people who have no
+   // IFPA record and therefore never appeared in any API object we published.
+   { file: 'wppr-estimator.json', envelope: 'whole', pick: { players: p => p.ifpaId === DOCUMENTED_IFPA_ID }, clear: ['unresolvedNames'], truncate: { standingsOrder: 2 } }
 ]
 
 // Cap named array properties on a single-object response so a long history or
@@ -53,11 +59,35 @@ function truncateFields(record, limits) {
    return out
 }
 
+// Keep only the elements of a named array that a predicate selects, so a fixture
+// carries the record the docs quote rather than whichever happened to be first.
+function pickFields(record, pickers) {
+   if (!pickers) return record
+   const out = { ...record }
+   for (const [key, predicate] of Object.entries(pickers)) {
+      if (Array.isArray(out[key])) out[key] = out[key].filter(predicate)
+   }
+   return out
+}
+
+// Blank named properties outright — for data we hold but must not publish.
+function clearFields(record, keys) {
+   if (!keys) return record
+   const out = { ...record }
+   for (const key of keys) {
+      if (Array.isArray(out[key])) out[key] = []
+      else if (out[key] !== undefined) out[key] = null
+   }
+   return out
+}
+
 function trim(body, fixture) {
    if (fixture.envelope === 'array') return body.slice(0, RECORD_LIMIT)
 
    if (fixture.envelope === 'whole') {
-      const trimmed = truncateFields(body, fixture.truncate)
+      let trimmed = truncateFields(body, fixture.truncate)
+      trimmed = pickFields(trimmed, fixture.pick)
+      trimmed = clearFields(trimmed, fixture.clear)
       // The single-tournament endpoint nests everything under `data`.
       if (trimmed.data && !Array.isArray(trimmed.data)) {
          trimmed.data = truncateFields(trimmed.data, { players: 2, arenas: 2, scorekeepers: 2 })
