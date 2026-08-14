@@ -115,9 +115,13 @@ Raw captures land in `samples/raw/`, which is **gitignored** — those payloads 
 names, pronouns, avatar URLs and privacy flags for hundreds of people.
 
 `npm run trim-samples` reduces them to at most two records per endpoint in `samples/`, which
-*is* committed so the spec tests run on a fresh clone. Trimming is the privacy control:
-values are kept verbatim, because rewriting them would defeat the point of proving the
-schemas match reality.
+*is* committed so the spec tests run on a fresh clone. It also **anonymizes third parties**:
+display names and initials become placeholders and avatar URLs are neutralized, while ids,
+enums, nulls, numbers and structure stay verbatim — those are what the schema tests prove,
+and a name is a string either way.
+
+Tournament, venue and machine names are untouched; only records carrying a `userId`,
+`playerId`, `claimedBy` or `ifpaId` are treated as people.
 
 **Exactly one person is named in the prose: John Garnett, the repo owner**, whose account is
 used deliberately as the demo user throughout. Third-party names were removed rather than

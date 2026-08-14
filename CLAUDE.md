@@ -65,12 +65,38 @@ the name to publishing it.
    grep -rho '"name": *"[^"]*"' content/
    ```
 
-`samples/raw/` is git-ignored because raw captures carry names, pronouns, avatar URLs and
-privacy flags for hundreds of people. Only `npm run trim-samples` output is committed. Two
-payloads need care beyond trimming, already handled in `scripts/trim-samples.js`: the WPPR
+### Committed fixtures are anonymized
+
+**This repository is public.** `samples/raw/` is git-ignored because raw captures carry
+names, pronouns, avatar URLs and privacy flags for hundreds of people. Only
+`npm run trim-samples` output is committed, and that script **anonymizes third parties
+automatically**:
+
+- `name`, `firstName`, `lastName` and `initials` on any person-shaped record become
+  placeholders.
+- Avatar, banner and tournament-avatar URLs get their timestamp zeroed.
+- Records belonging to `CONSENTING_USER_IDS` / `CONSENTING_IFPA_IDS` (currently John
+  Garnett) pass through unchanged.
+- Tournament, arena, location and series names are **not** touched — only records carrying
+  a `userId`, `playerId`, `claimedBy` or `ifpaId` are treated as people.
+
+Everything else stays verbatim: ids, enums, nulls, numbers, structure. Those are what the
+schema tests actually prove; a display name is a string either way, so nothing is lost as
+evidence. **Do not hand-edit fixtures to restore a real name.**
+
+Two payloads need care beyond that, also handled in `scripts/trim-samples.js`: the WPPR
 estimator's `players[]` is filtered to the single documented row, and its `unresolvedNames`
 is emptied — that field lists real people with **no** IFPA record, who appear in no other
 object.
+
+Verify before any push that adds or regenerates fixtures:
+
+```bash
+jq -r '.. | objects | select(has("name")) | .name' samples/*.json | sort -u
+```
+
+Only John Garnett plus non-person names (machines, venues, tournaments, rounds) should
+appear.
 
 ## The spec is the source of truth
 

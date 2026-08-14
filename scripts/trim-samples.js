@@ -21,6 +21,66 @@ const RECORD_LIMIT = 2
 // The IFPA id whose row the documentation quotes from the WPPR estimator.
 const DOCUMENTED_IFPA_ID = 32819
 
+// This repository is public, so third parties' display names and avatar URLs are
+// replaced with placeholders. Ids, flags, enums, nulls and structure are kept
+// verbatim — those are what the schema tests actually prove, and a name is a
+// string either way, so nothing is lost as evidence.
+//
+// The repo owner consented to appearing, so his records pass through unchanged.
+const CONSENTING_USER_IDS = new Set([5750])
+const CONSENTING_IFPA_IDS = new Set([32819])
+const PLACEHOLDER_NAME = 'Player Name'
+const PLACEHOLDER_FIRST_NAME = 'Player'
+const PLACEHOLDER_LAST_NAME = 'Name'
+const PLACEHOLDER_INITIALS = 'PN'
+
+// Keys whose values name or depict a person.
+const PERSON_NAME_KEYS = new Set(['name', 'firstName', 'lastName', 'initials'])
+const AVATAR_KEYS = new Set(['avatar', 'banner', 'tournamentAvatar'])
+
+// Does this object describe a person? Tournaments, arenas and locations also have
+// a `name`, and theirs must survive — only person-shaped records are rewritten.
+function isPersonRecord(node) {
+   if (!node || typeof node !== 'object') return false
+   return 'userId' in node || 'playerId' in node || 'claimedBy' in node || 'ifpaId' in node
+}
+
+function isConsenting(node) {
+   return CONSENTING_USER_IDS.has(node.userId)
+      || CONSENTING_USER_IDS.has(node.claimedBy)
+      || CONSENTING_IFPA_IDS.has(node.ifpaId)
+}
+
+// Blank the timestamp in an avatar URL so it points at nothing retrievable while
+// keeping the documented `avatar-U<userId>-<epoch>.jpg` shape intact.
+function neutralizeAvatar(url) {
+   if (typeof url !== 'string') return url
+   return url.replace(/-(\d{6,})\./, '-0000000000.')
+}
+
+// Walk a payload, replacing third parties' names and avatars in place.
+function anonymize(node) {
+   if (Array.isArray(node)) return node.map(anonymize)
+   if (!node || typeof node !== 'object') return node
+
+   const person = isPersonRecord(node) && !isConsenting(node)
+   const out = {}
+
+   for (const [key, value] of Object.entries(node)) {
+      if (person && PERSON_NAME_KEYS.has(key) && typeof value === 'string' && value !== '') {
+         if (key === 'firstName') out[key] = PLACEHOLDER_FIRST_NAME
+         else if (key === 'lastName') out[key] = PLACEHOLDER_LAST_NAME
+         else if (key === 'initials') out[key] = PLACEHOLDER_INITIALS
+         else out[key] = PLACEHOLDER_NAME
+      } else if (person && AVATAR_KEYS.has(key)) {
+         out[key] = neutralizeAvatar(value)
+      } else {
+         out[key] = anonymize(value)
+      }
+   }
+   return out
+}
+
 // Files worth committing, and how to find the records inside each envelope.
 // `envelope: 'data'` keeps {data, links, meta} intact but truncates data;
 // 'array' is a bare array; 'whole' is a single-object response kept as-is.
@@ -112,7 +172,7 @@ function main() {
          continue
       }
 
-      const trimmed = trim(JSON.parse(fs.readFileSync(source, 'utf8')), fixture)
+      const trimmed = anonymize(trim(JSON.parse(fs.readFileSync(source, 'utf8')), fixture))
       fs.writeFileSync(path.join(OUT_DIR, fixture.file), JSON.stringify(trimmed, null, 2))
       written += 1
    }
