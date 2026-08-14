@@ -61,8 +61,15 @@ connection each.
   ```js
   const payload = typeof message.data === 'string' ? JSON.parse(message.data) : message.data
   ```
-- **`activity_timeout` is 30 seconds**, delivered in `pusher:connection_established`. Honour
-  the server's value and ping a few seconds early rather than hardcoding it.
+- **`activity_timeout` is 30 seconds**, delivered in `pusher:connection_established` —
+  confirmed first-hand:
+  ```json
+  {"event":"pusher:connection_established",
+   "data":{"socket_id":"833819024.909562457","activity_timeout":30}}
+  ```
+  Honour the server's value and ping a few seconds early rather than hardcoding it. A
+  successful subscribe answers with `pusher_internal:subscription_succeeded` and an empty
+  payload; `pusher:pong` carries `data: null`.
 - **Close codes carry meaning**: `4000`–`4099` do **not** reconnect, `4100`–`4199` reconnect
   with backoff, `4200`–`4299` reconnect immediately.
 - **There is no replay.** No `Last-Event-ID`, no history, no catch-up. Anything that happened
@@ -85,7 +92,7 @@ connection each.
 | `ArenasChanged` | `{ arenaIds: [...] }` — ids only | Not observed |
 | `SinglePlayerGameCreatedOrUpdated` | Game model | Not observed |
 | `SinglePlayerGamesDeleted` | Game ids | Not observed |
-| `QueueChanged` | Queue models, **may be omitted if the queue is large** | Not observed |
+| `QueueChanged` | Queue models, **may be omitted if the queue is large** | Not observed — needs `useQueues: true` |
 
 </div>
 

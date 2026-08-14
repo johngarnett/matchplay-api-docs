@@ -277,9 +277,11 @@ components:
       name: QueueChanged
       title: Queue changed
       description: |
-        The machine queue used by best-game formats. The payload **may omit the queue models
-        entirely** when the queue is too large, so treat this as a signal to refetch rather
-        than as data. Not observed in captured traffic.
+        The queue of players waiting for a machine in a best-game format.
+
+        **Opt-in**: a tournament with `useQueues: false` never emits this, which is why it
+        remains unobserved. The payload **may omit the queue models entirely** when the
+        queue is large, so treat it as a signal to refetch rather than as data.
       payload:
         type: object
         x-evidence: unverified

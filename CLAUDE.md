@@ -212,11 +212,35 @@ document it and update the badge:
   emitted ~1,300 messages, which suggests not, but nobody has confirmed it.
 - Populated examples of **`entryConfiguration`, `event` and `shortcut`** — all three
   expansions returned null or nothing on every tournament tried.
-- The **`SinglePlayerGameCreatedOrUpdated`, `SinglePlayerGamesDeleted`, `QueueChanged`,
-  `ArenasAdded` and `ArenasChanged`** websocket payloads — named in the docs, never observed.
-- The **`GamesDeleted`** payload shape.
+- The **`SinglePlayerGameCreatedOrUpdated`, `SinglePlayerGamesDeleted`, `ArenasAdded`,
+  `ArenasChanged` and `GamesDeleted`** websocket payloads — named in the docs, never
+  observed. See "Capturing websocket events" below.
+- **`QueueChanged`** specifically needs a tournament with **`useQueues: true`**; a tournament
+  with it false never emits the event at all.
 - Whether `/tournaments/{id}/games` has an **upper item limit**. 135 came back in one
   response; the ceiling is unknown.
+
+## Capturing websocket events
+
+`scripts/listen.js <tournamentId> [seconds]` subscribes to a tournament's Pusher channel and
+appends every frame to `samples/raw/ws-<id>.jsonl`. It uses no REST calls, so it costs no
+rate budget.
+
+The hard part is finding a tournament that is **actually being played right now**.
+`status: "started"` is nearly useless — most such tournaments finished long ago and were
+never marked complete. Better signals, cheapest first:
+
+1. `endLocal` in the future *and* a recent `updatedAt` on the tournament.
+2. Recent `updatedAt` on its most recent games — this is the reliable one. A tournament whose
+   newest game was updated days ago is idle no matter what its status says.
+3. A standings row with a non-empty `activeGames` array — definitive proof of a live game.
+
+For the single-player and queue events specifically, you need a live **`best_game` or
+`card_best_game`** tournament, and `useQueues: true` for `QueueChanged`.
+
+A listen against an idle tournament still confirms the handshake but captures nothing —
+`263252` was tried on 2026-08-14 and yielded only `connection_established`,
+`subscription_succeeded` and `pong`.
 
 ## Gotchas that have already cost time
 

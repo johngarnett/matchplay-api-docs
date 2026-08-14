@@ -194,7 +194,10 @@ Two websocket events cover these formats — `SinglePlayerGameCreatedOrUpdated` 
 `SinglePlayerGamesDeleted` — carrying the game model and deleted ids respectively. Neither
 was observed in captured traffic, so their exact payloads are **unverified**.
 
-`QueueChanged` is also relevant: best-game tournaments often run a machine queue, configured
-via `useQueues` on the tournament and `bestGameBlocked` / `bestGameQueueClosed` on each
-arena's pivot. The event's payload *may be omitted* when the queue is too large, so treat it
-as a hint to refetch rather than as data.
+`QueueChanged` is also relevant: best-game tournaments can run a queue of players waiting for
+a machine. **It is opt-in** — a tournament with `useQueues: false` will never emit the event,
+which is why it stays unobserved. Per-machine control comes from `bestGameBlocked` and
+`bestGameQueueClosed` on each arena's pivot.
+
+The event's payload *may be omitted entirely* when the queue is too large, so treat it as a
+signal to refetch rather than as data.
