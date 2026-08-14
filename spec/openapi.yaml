@@ -458,13 +458,15 @@ paths:
           schema: { type: integer }
       responses:
         '200':
-          description: A page of cards. Empty for non-card tournaments.
+          description: A page of cards. Empty for tournaments of any other type.
           content:
             application/json:
               schema:
                 type: object
                 properties:
-                  data: { type: array, items: { type: object } }
+                  data:
+                    type: array
+                    items: { $ref: '#/components/schemas/Card' }
                   links: { $ref: '#/components/schemas/PaginationLinks' }
                   meta: { $ref: '#/components/schemas/PaginationMeta' }
 
@@ -1240,7 +1242,7 @@ components:
         cardBestGameCardsCounted: { type: [integer, 'null'], x-evidence: verified }
         cardBestGameGamesCounted: { type: [integer, 'null'], x-evidence: verified }
         cardBestGameGamesPerCard: { type: [integer, 'null'], x-evidence: verified }
-        cardBestGameScoring: { type: [string, 'null'], x-evidence: verified }
+        cardBestGameScoring: { type: [integer, string, 'null'], x-evidence: verified, description: 'Observed as the integer `0`. Note its best-game sibling `bestGameScoring` is a string enum instead.' }
         roundCount: { type: [integer, 'null'], x-evidence: derived, description: Present on `group_bracket` only. }
         bracketSize: { type: [integer, 'null'], x-evidence: derived }
         groupBracketDoubleByes: { type: [boolean, 'null'], x-evidence: derived }
@@ -1478,13 +1480,64 @@ components:
         scorbitData: { type: ['object', 'null'], x-evidence: verified }
         partial: { type: boolean, x-evidence: verified, description: True when the submitter left a slot blank. }
 
+    Card:
+      type: object
+      description: |
+        A card in a card-based best-game tournament: a fixed set of attempts bought and
+        scored as a unit.
+
+        Unusually for this API, a card **embeds its games in full** — `singlePlayerGames[]`
+        holds complete game objects, not ids. One call to `/cards` therefore returns every
+        attempt on every card, making a separate `/single-player-games` call redundant.
+
+        `singlePlayerGameIds`, `arenaIds` and `pointsList` are **index-aligned with**
+        `singlePlayerGames[]`, verified across all six slots of a captured card.
+      properties:
+        cardId: { type: integer, x-evidence: verified }
+        tournamentId: { type: integer, x-evidence: verified }
+        playerId: { type: integer, x-evidence: verified }
+        status: { $ref: '#/components/schemas/SinglePlayerGameStatus', x-evidence: verified }
+        bestGame: { type: boolean, x-evidence: verified, description: Whether this card counts toward the player's total. }
+        voided: { type: boolean, x-evidence: verified }
+        createdAt: { type: string, x-evidence: verified }
+        updatedAt: { type: string, x-evidence: verified }
+        singlePlayerGames:
+          type: array
+          x-evidence: verified
+          description: The card's attempts, embedded in full rather than referenced.
+          items: { $ref: '#/components/schemas/SinglePlayerGame' }
+        singlePlayerGameIds:
+          type: array
+          x-evidence: verified
+          description: Ids of the embedded games, in the same order.
+          items: { type: integer }
+        arenaIds:
+          type: array
+          x-evidence: verified
+          description: The machine played in each slot, in the same order.
+          items: { type: [integer, 'null'] }
+        pointsList:
+          type: array
+          x-evidence: verified
+          description: |
+            Points per slot, in the same order. **These are JSON numbers**, while the
+            `points` field on each embedded game holds the same value as a **string** —
+            `200` here versus `"200.00"` there, within one payload.
+          items: { type: [number, 'null'] }
+
     SinglePlayerGame:
       type: object
-      description: One scored attempt in a best-game or pingolf tournament.
+      description: |
+        One scored attempt in a best-game, card-based or pingolf tournament.
+
+        `roundId` and `cardId` are mutually exclusive. A game fetched from
+        `/single-player-games` carries `roundId` and no `cardId`; a game embedded in a card
+        carries `cardId` and no `roundId`.
       properties:
         singlePlayerGameId: { type: integer, x-evidence: verified }
         tournamentId: { type: integer, x-evidence: verified }
-        roundId: { type: [integer, 'null'], x-evidence: verified }
+        roundId: { type: [integer, 'null'], x-evidence: verified, description: Round-based games only. Absent on games embedded in a card. }
+        cardId: { type: [integer, 'null'], x-evidence: verified, description: Card-embedded games only. Absent on round-based games. }
         arenaId: { type: [integer, 'null'], x-evidence: verified }
         playerId: { type: integer, x-evidence: verified }
         scorekeeperId: { type: [integer, 'null'], x-evidence: verified }

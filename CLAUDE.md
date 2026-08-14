@@ -197,6 +197,7 @@ Known-good ids for probing, covering distinct formats:
 | `258965` | matchplay, in series `6140` — use for `includeSeries` |
 | `259350` | golf — rounds with **zero** games |
 | `261295` | best_game — has `rsvpConfiguration` |
+| `239557` | card_best_game, completed — 530 cards |
 | `264541` | knockout John Garnett played, organizer 17637 |
 
 Tournament id `1` **exists**, so it is useless as a "definitely missing" test value. Use
@@ -209,8 +210,6 @@ document it and update the badge:
 
 - Whether **websocket traffic counts against the 120/minute REST budget**. A busy tournament
   emitted ~1,300 messages, which suggests not, but nobody has confirmed it.
-- The **`/tournaments/{id}/cards` payload shape** — every probe returned an empty page. Needs
-  a real `card_best_game` tournament.
 - Populated examples of **`entryConfiguration`, `event` and `shortcut`** — all three
   expansions returned null or nothing on every tournament tried.
 - The **`SinglePlayerGameCreatedOrUpdated`, `SinglePlayerGamesDeleted`, `QueueChanged`,

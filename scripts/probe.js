@@ -27,6 +27,7 @@ const BODY_PREVIEW_LIMIT = 300
 const KNOCKOUT_TOURNAMENT = 261001
 const GROUP_KNOCKOUT_TOURNAMENT = 258562
 const GOLF_TOURNAMENT = 259350
+const CARD_BEST_GAME_TOURNAMENT = 239557   // completed, 530 cards
 const SERIES_TOURNAMENT = 258965        // belongs to series 6140
 const BEST_GAME_TOURNAMENT = 261295     // type best_game
 const SAMPLE_USER = 5750
@@ -58,7 +59,9 @@ const PROBES = [
 
    // --- Single-player formats ----------------------------------------------
    { name: 'single-player-games', path: `/tournaments/${GOLF_TOURNAMENT}/single-player-games?limit=5` },
-   { name: 'cards', path: `/tournaments/${GOLF_TOURNAMENT}/cards?limit=5` },
+   // A golf tournament has no cards; 239557 is the real card_best_game example.
+   { name: 'cards-empty', path: `/tournaments/${GOLF_TOURNAMENT}/cards?limit=5` },
+   { name: 'cards', path: `/tournaments/${CARD_BEST_GAME_TOURNAMENT}/cards?limit=3` },
 
    // --- Summaries (completed tournaments only) ------------------------------
    { name: 'summary-arenas', path: `/tournaments/${KNOCKOUT_TOURNAMENT}/summary/arenas` },

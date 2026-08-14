@@ -7,9 +7,13 @@
 // a couple of records per endpoint, which is enough for the spec tests to run
 // on a fresh clone without shipping a directory of personal data.
 //
-// Records are kept verbatim rather than scrubbed: the point of the fixtures is
-// to prove the schemas match reality, and rewriting values would defeat that.
-// Trimming is the privacy control, so keep RECORD_LIMIT small.
+// Two privacy controls apply. Trimming keeps the record count small, so keep
+// RECORD_LIMIT low. Anonymizing replaces third parties' display names and avatar
+// URLs — see anonymize() below.
+//
+// Everything the schema tests actually prove is kept verbatim: ids, enums, nulls,
+// numbers and structure. A display name is a string either way, so anonymizing
+// costs nothing as evidence.
 
 const fs = require('node:fs')
 const path = require('node:path')
@@ -97,6 +101,7 @@ const FIXTURES = [
    { file: 'resolve-users-global.json', envelope: 'data' },
    { file: 'search-users.json', envelope: 'data' },
    { file: 'single-player-games.json', envelope: 'data' },
+   { file: 'cards.json', envelope: 'data', limit: 1 },
    { file: 'summary-arenas.json', envelope: 'data' },
    { file: 'summary-player-arenas.json', envelope: 'data' },
    { file: 'summary-matches.json', envelope: 'data' },
@@ -155,7 +160,7 @@ function trim(body, fixture) {
       return trimmed
    }
 
-   return { ...body, data: (body.data || []).slice(0, RECORD_LIMIT) }
+   return { ...body, data: (body.data || []).slice(0, fixture.limit || RECORD_LIMIT) }
 }
 
 function main() {

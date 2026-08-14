@@ -117,6 +117,7 @@ const SAMPLE_EXPECTATIONS = [
    { file: 'resolve-users-global.json', schema: 'User', pick: body => body.data },
    { file: 'search-users.json', schema: 'User', pick: body => body.data },
    { file: 'single-player-games.json', schema: 'SinglePlayerGame', pick: body => body.data },
+   { file: 'cards.json', schema: 'Card', pick: body => body.data },
    { file: 'summary-arenas.json', schema: 'ArenaSummaryRow', pick: body => body.data },
    { file: 'summary-player-arenas.json', schema: 'PlayerArenaSummaryRow', pick: body => body.data },
    { file: 'summary-matches.json', schema: 'MatchSummaryRow', pick: body => body.data },

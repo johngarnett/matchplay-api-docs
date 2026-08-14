@@ -107,11 +107,71 @@ games and the card is scored as a unit.
 </div>
 
 Calling this on a tournament of any other type returns an empty page rather than an error —
-a golf tournament returned `{"data": [], "meta": {"total": 0}}`. No populated example was
-captured, so the card object's shape is **unverified**.
+a golf tournament returned `{"data": [], "meta": {"total": 0}}`.
+
+```bash
+curl -s "https://app.matchplay.events/api/tournaments/239557/cards?limit=3" \
+  -H "Authorization: Bearer YOUR_API_TOKEN"
+```
+
+```json
+{
+  "cardId": 33857, "tournamentId": 239557, "playerId": 15377,
+  "status": "completed", "bestGame": true, "voided": false,
+  "createdAt": "2026-06-18T11:46:54.000000Z",
+  "updatedAt": "2026-06-18T12:03:54.000000Z",
+  "singlePlayerGames": [
+    { "singlePlayerGameId": 2493748, "cardId": 33857, "arenaId": 228035,
+      "playerId": 15377, "status": "completed",
+      "points": "200.00", "score": 5109360, "bestGame": true,
+      "index": 0, "duration": 931, "voided": false, … },
+    …
+  ],
+  "singlePlayerGameIds": [2493748, 2493762, 2493773, 2493787, 2493801, 2493815],
+  "arenaIds":            [228035,  71140,   45705,   13830,   149748,  228052],
+  "pointsList":          [200,     141,     149,     123,     173,     42]
+}
+```
+
+<div class="callout">
+<span class="callout-title">A card embeds its games in full</span>
+
+`singlePlayerGames[]` holds **complete game objects, not ids**. This is the only place in
+the API where a collection inlines its children like this.
+
+So one call to `/cards` returns every attempt on every card, and calling
+`/single-player-games` separately for the same tournament is redundant. For a
+`card_best_game` tournament, `/cards` is the cheaper and more complete route.
+</div>
+
+The three flat arrays — `singlePlayerGameIds`, `arenaIds`, `pointsList` — are
+**index-aligned with `singlePlayerGames[]`**, the same parallel-array contract that governs
+[multi-player games](/games.html#the-parallel-array-contract). Verified across all six slots
+of the card above.
+
+<div class="callout callout-trap">
+<span class="callout-title">The same number appears as both a number and a string</span>
+
+`pointsList` holds JSON **numbers**, while the `points` field on each embedded game holds
+the same value as a **string**:
+
+```json
+"pointsList": [200, 141, …]
+"singlePlayerGames": [{ "points": "200.00", … }, { "points": "141.00", … }]
+```
+
+`200` and `"200.00"`, in one payload, for one attempt. Coerce before comparing.
+</div>
+
+Note also that embedded games carry **`cardId` and no `roundId`**, the mirror image of games
+fetched from `/single-player-games`, which carry `roundId` and no `cardId`. The two are
+mutually exclusive.
 
 Relevant tournament configuration: `cardBestGameCardsCounted`, `cardBestGameGamesCounted`,
-`cardBestGameGamesPerCard`, `cardBestGameScoring`.
+`cardBestGameGamesPerCard`, `cardBestGameScoring` (observed as the integer `0` — note its
+best-game sibling `bestGameScoring` is a string enum instead).
+
+{{schema:Card}}
 
 ## Standings for these formats
 
