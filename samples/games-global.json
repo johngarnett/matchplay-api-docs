@@ -1,0 +1,83 @@
+{
+  "data": [
+    {
+      "gameId": 7696931,
+      "roundId": 1155062,
+      "tournamentId": 258562,
+      "challengeId": null,
+      "arenaId": null,
+      "bankId": null,
+      "index": null,
+      "set": 9999,
+      "playerIdAdvantage": null,
+      "scorekeeperId": null,
+      "status": "completed",
+      "startedAt": null,
+      "duration": null,
+      "bye": false,
+      "scorbitId": null,
+      "scorbitLog": null,
+      "scorbitVerified": false
+    },
+    {
+      "gameId": 7696932,
+      "roundId": 1155062,
+      "tournamentId": 258562,
+      "challengeId": null,
+      "arenaId": 103337,
+      "bankId": null,
+      "index": 0,
+      "set": 0,
+      "playerIdAdvantage": 163537,
+      "scorekeeperId": 10102,
+      "status": "completed",
+      "startedAt": "2026-06-27T06:29:15.000000Z",
+      "duration": 359,
+      "bye": false,
+      "scorbitId": null,
+      "scorbitLog": null,
+      "scorbitVerified": false
+    }
+  ],
+  "links": {
+    "first": "https://app.matchplay.events/api/games?page=1",
+    "last": "https://app.matchplay.events/api/games?page=2",
+    "prev": null,
+    "next": "https://app.matchplay.events/api/games?page=2"
+  },
+  "meta": {
+    "current_page": 1,
+    "from": 1,
+    "last_page": 2,
+    "links": [
+      {
+        "url": null,
+        "label": "&laquo; Previous",
+        "page": null,
+        "active": false
+      },
+      {
+        "url": "https://app.matchplay.events/api/games?page=1",
+        "label": "1",
+        "page": 1,
+        "active": true
+      },
+      {
+        "url": "https://app.matchplay.events/api/games?page=2",
+        "label": "2",
+        "page": 2,
+        "active": false
+      },
+      {
+        "url": "https://app.matchplay.events/api/games?page=2",
+        "label": "Next &raquo;",
+        "page": 2,
+        "active": false
+      }
+    ],
+    "path": "https://app.matchplay.events/api/games",
+    "per_page": 100,
+    "to": 100,
+    "total": 135
+  }
+}

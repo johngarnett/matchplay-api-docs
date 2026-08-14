@@ -1,0 +1,45 @@
+{
+  "rating": {
+    "ratingId": 2593,
+    "userId": 5750,
+    "ifpaId": 32819,
+    "name": "John Garnett",
+    "rating": 1600,
+    "rd": 24,
+    "calculatedRd": 24,
+    "ratingClass": 4,
+    "delta": "-9.12",
+    "gameCount": 2470,
+    "winCount": 2838,
+    "lossCount": 2657,
+    "resultCount": 5495,
+    "efficiencyPercent": 0.5164695177434031,
+    "lowerBound": 1551,
+    "firstRatingPeriod": "2016-05-04T00:00:00.000000Z",
+    "lastRatingPeriod": "2026-08-03T00:00:00.000000Z"
+  },
+  "ratingHistory": [
+    {
+      "ratingPeriod": "2025-07-30",
+      "rating": 1597,
+      "upperBound": 1646,
+      "lowerBound": 1549
+    },
+    {
+      "ratingPeriod": "2025-07-31",
+      "rating": 1597,
+      "upperBound": 1645,
+      "lowerBound": 1549
+    },
+    {
+      "ratingPeriod": "2025-08-01",
+      "rating": 1597,
+      "upperBound": 1647,
+      "lowerBound": 1547
+    }
+  ],
+  "ifpaInfo": {
+    "rank": 2020,
+    "womensRank": null
+  }
+}

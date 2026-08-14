@@ -13,7 +13,22 @@ const YAML = require('yaml')
 const Ajv = require('ajv')
 
 const ROOT = path.join(__dirname, '..')
-const SAMPLE_DIR = path.join(ROOT, 'samples', 'raw')
+
+// Committed fixtures live in samples/; the richer raw captures in samples/raw/
+// are gitignored and only present on a machine that has run `npm run probe`.
+// Prefer raw when available, fall back to the committed trims, so this suite
+// still validates on a fresh clone.
+const COMMITTED_SAMPLES = path.join(ROOT, 'samples')
+const RAW_SAMPLES = path.join(ROOT, 'samples', 'raw')
+
+// Resolve one fixture, preferring the fuller raw capture.
+function sampleFile(name) {
+   for (const dir of [RAW_SAMPLES, COMMITTED_SAMPLES]) {
+      const candidate = path.join(dir, name)
+      if (fs.existsSync(candidate)) return candidate
+   }
+   return null
+}
 
 const spec = YAML.parse(fs.readFileSync(path.join(ROOT, 'spec', 'openapi.yaml'), 'utf8'))
 
@@ -110,12 +125,15 @@ const SAMPLE_EXPECTATIONS = [
    { file: 'wppr-estimator.json', schema: 'WpprEstimate', pick: body => [body] }
 ]
 
-test('captured samples validate against the schemas the spec claims describe them', t => {
-   if (!fs.existsSync(SAMPLE_DIR)) {
-      t.skip('no samples/raw — run `npm run probe` to capture them')
-      return
-   }
+test('every expectation has a committed fixture to check against', () => {
+   const missing = SAMPLE_EXPECTATIONS
+      .filter(({ file }) => !fs.existsSync(path.join(COMMITTED_SAMPLES, file)))
+      .map(({ file }) => file)
 
+   assert.deepEqual(missing, [], 'run `node scripts/trim-samples.js` to regenerate fixtures')
+})
+
+test('captured samples validate against the schemas the spec claims describe them', () => {
    // Ajv wants a plain JSON Schema document; hand it the components as
    // definitions and point $refs at them.
    const ajv = new Ajv({ strict: false, allErrors: true, validateFormats: false })
@@ -123,9 +141,11 @@ test('captured samples validate against the schemas the spec claims describe the
       JSON.stringify(spec.components.schemas).replaceAll('#/components/schemas/', '#/definitions/')
    )
 
+   let checked = 0
+
    for (const { file, schema, pick } of SAMPLE_EXPECTATIONS) {
-      const samplePath = path.join(SAMPLE_DIR, file)
-      if (!fs.existsSync(samplePath)) continue
+      const samplePath = sampleFile(file)
+      if (!samplePath) continue
 
       const validate = ajv.compile({ $ref: `#/definitions/${schema}`, definitions })
       const records = pick(JSON.parse(fs.readFileSync(samplePath, 'utf8'))) || []
@@ -136,22 +156,20 @@ test('captured samples validate against the schemas the spec claims describe the
             valid,
             `${file}[${index}] does not match ${schema}: ${ajv.errorsText(validate.errors)}`
          )
+         checked += 1
       }
    }
+
+   assert.ok(checked > 0, 'no records were validated')
 })
 
-test('no sample carries a property the schema does not document', t => {
-   if (!fs.existsSync(SAMPLE_DIR)) {
-      t.skip('no samples/raw — run `npm run probe` to capture them')
-      return
-   }
-
+test('no sample carries a property the schema does not document', () => {
    const { collectProperties } = require('../src/schemaTables')
    const undocumented = []
 
    for (const { file, schema, pick } of SAMPLE_EXPECTATIONS) {
-      const samplePath = path.join(SAMPLE_DIR, file)
-      if (!fs.existsSync(samplePath)) continue
+      const samplePath = sampleFile(file)
+      if (!samplePath) continue
 
       const { properties } = collectProperties(spec, spec.components.schemas[schema])
       const known = new Set(Object.keys(properties))

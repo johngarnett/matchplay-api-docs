@@ -13,9 +13,9 @@ order: 5
 
 `GET /games` — the endpoint in Match Play's handbook — returns **17 fields**.
 
-`GET /tournaments/{tournamentId}/games` — undocumented — returns **25**.
+`GET /tournaments/{tournamentId}/games` — undocumented — returns **24**.
 
-The eight missing fields are exactly the ones that say who played and who won:
+The seven missing fields are exactly the ones that say who played and who won:
 `playerIds`, `userIds`, `resultPositions`, `resultPoints`, `resultScores`,
 `resultCountMismatch`, `suggestions`.
 

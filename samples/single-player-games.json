@@ -1,0 +1,150 @@
+{
+  "data": [
+    {
+      "singlePlayerGameId": 2515032,
+      "arenaId": 232643,
+      "playerId": 573866,
+      "scorekeeperId": 24895,
+      "status": "completed",
+      "points": "4.00",
+      "score": null,
+      "bestGame": false,
+      "index": 0,
+      "duration": null,
+      "createdAt": "2026-06-28T02:34:59.000000Z",
+      "updatedAt": "2026-06-28T04:31:45.000000Z",
+      "voided": false,
+      "scorbitId": null,
+      "scorbitLog": null,
+      "scorbitVerified": false,
+      "tournamentId": 259350,
+      "roundId": 1156019
+    },
+    {
+      "singlePlayerGameId": 2515033,
+      "arenaId": 232644,
+      "playerId": 573866,
+      "scorekeeperId": 24895,
+      "status": "completed",
+      "points": "1.00",
+      "score": null,
+      "bestGame": false,
+      "index": 1,
+      "duration": null,
+      "createdAt": "2026-06-28T02:34:59.000000Z",
+      "updatedAt": "2026-06-28T04:31:45.000000Z",
+      "voided": false,
+      "scorbitId": null,
+      "scorbitLog": null,
+      "scorbitVerified": false,
+      "tournamentId": 259350,
+      "roundId": 1156020
+    }
+  ],
+  "links": {
+    "first": "https://app.matchplay.events/api/tournaments/259350/single-player-games?page=1",
+    "last": "https://app.matchplay.events/api/tournaments/259350/single-player-games?page=27",
+    "prev": null,
+    "next": "https://app.matchplay.events/api/tournaments/259350/single-player-games?page=2"
+  },
+  "meta": {
+    "current_page": 1,
+    "from": 1,
+    "last_page": 27,
+    "links": [
+      {
+        "url": null,
+        "label": "&laquo; Previous",
+        "page": null,
+        "active": false
+      },
+      {
+        "url": "https://app.matchplay.events/api/tournaments/259350/single-player-games?page=1",
+        "label": "1",
+        "page": 1,
+        "active": true
+      },
+      {
+        "url": "https://app.matchplay.events/api/tournaments/259350/single-player-games?page=2",
+        "label": "2",
+        "page": 2,
+        "active": false
+      },
+      {
+        "url": "https://app.matchplay.events/api/tournaments/259350/single-player-games?page=3",
+        "label": "3",
+        "page": 3,
+        "active": false
+      },
+      {
+        "url": "https://app.matchplay.events/api/tournaments/259350/single-player-games?page=4",
+        "label": "4",
+        "page": 4,
+        "active": false
+      },
+      {
+        "url": "https://app.matchplay.events/api/tournaments/259350/single-player-games?page=5",
+        "label": "5",
+        "page": 5,
+        "active": false
+      },
+      {
+        "url": "https://app.matchplay.events/api/tournaments/259350/single-player-games?page=6",
+        "label": "6",
+        "page": 6,
+        "active": false
+      },
+      {
+        "url": "https://app.matchplay.events/api/tournaments/259350/single-player-games?page=7",
+        "label": "7",
+        "page": 7,
+        "active": false
+      },
+      {
+        "url": "https://app.matchplay.events/api/tournaments/259350/single-player-games?page=8",
+        "label": "8",
+        "page": 8,
+        "active": false
+      },
+      {
+        "url": "https://app.matchplay.events/api/tournaments/259350/single-player-games?page=9",
+        "label": "9",
+        "page": 9,
+        "active": false
+      },
+      {
+        "url": "https://app.matchplay.events/api/tournaments/259350/single-player-games?page=10",
+        "label": "10",
+        "page": 10,
+        "active": false
+      },
+      {
+        "url": null,
+        "label": "...",
+        "active": false
+      },
+      {
+        "url": "https://app.matchplay.events/api/tournaments/259350/single-player-games?page=26",
+        "label": "26",
+        "page": 26,
+        "active": false
+      },
+      {
+        "url": "https://app.matchplay.events/api/tournaments/259350/single-player-games?page=27",
+        "label": "27",
+        "page": 27,
+        "active": false
+      },
+      {
+        "url": "https://app.matchplay.events/api/tournaments/259350/single-player-games?page=2",
+        "label": "Next &raquo;",
+        "page": 2,
+        "active": false
+      }
+    ],
+    "path": "https://app.matchplay.events/api/tournaments/259350/single-player-games",
+    "per_page": 5,
+    "to": 5,
+    "total": 135
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "userId": 17637,
+      "businessProfileId": null,
+      "clubId": 57,
+      "name": "Elliott Johnson",
+      "firstName": "Elliott",
+      "lastName": "Johnson",
+      "ifpaId": 70949,
+      "role": "player",
+      "flag": "us",
+      "location": "Seattle",
+      "pronouns": "he",
+      "initials": "ATM",
+      "ratingsOptOut": false,
+      "statsOptOut": false,
+      "videoOptOut": false,
+      "profileOptOut": false,
+      "historyOptOut": false,
+      "historyOnlyCompleted": false,
+      "avatar": null,
+      "banner": null,
+      "tournamentAvatar": null,
+      "createdAt": "2021-05-29T04:22:02.000000Z"
+    }
+  ]
+}

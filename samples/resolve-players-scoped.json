@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "playerId": 135991,
+      "name": "Vanessa Ish",
+      "ifpaId": 52614,
+      "status": "active",
+      "organizerId": 14223,
+      "claimedBy": 6912,
+      "labels": [],
+      "labelColor": null,
+      "tournamentPlayer": {
+        "status": "active",
+        "seed": 15,
+        "pointsAdjustment": 0,
+        "subscription": null,
+        "labels": [],
+        "labelColor": null
+      }
+    }
+  ]
+}

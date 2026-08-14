@@ -132,8 +132,15 @@ player with few games can't top the list on a small sample.
 <div class="callout">
 <span class="callout-title"><code>/ratings/ifpa/</code> reaches players with no Match Play account</span>
 
-Querying by IFPA id returned a rating whose `rating.userId` was **`null`** — a player IFPA
-knows about and Match Play rates, but who has never created a Match Play account.
+Querying by IFPA id returned a rating whose `rating.userId` was **`null`**:
+
+```json
+{ "ratingId": 135, "userId": null, "ifpaId": 31811,
+  "rating": 1552, "rd": 36, "calculatedRd": 41, "ratingClass": 4 }
+```
+
+That is a player IFPA knows about and Match Play rates, but who has never created a Match
+Play account — so there is no profile, and none of the opt-out flags exist for them.
 
 This makes it the bridge between the two identifier namespaces, and the only way to look up
 some players at all.

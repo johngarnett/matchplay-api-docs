@@ -1,0 +1,214 @@
+{
+  "data": {
+    "tournamentId": 258965,
+    "name": "Walk on the Beach - Week 8 of 9 (Aug 13, 2026)",
+    "status": "completed",
+    "type": "matchplay",
+    "startUtc": "2026-08-14T02:00:00.000000Z",
+    "startLocal": "2026-08-13 19:00:00",
+    "endUtc": "2026-08-14T02:00:00.000000Z",
+    "endLocal": "2026-08-13 19:00:00",
+    "completedAt": "2026-08-14T05:52:58.000000Z",
+    "organizerId": 18724,
+    "locationId": 11022,
+    "seriesId": 6140,
+    "description": "Walk on the Beach: Summer Pinball Series.9 Thursdays across Gary's Place + West Seattle Arcade on Alki.\n\n* Pick-your-game head-to-head.\n* 5 rounds, 2 games each.\n* Win = 1 pt, sweep both = 3. \n* Extra balls play 30 sec. \n* When picking: No repeat games, no in-use machines.\n\n* Top 3 paid tonight.\n\nSERIES: placement points (PAPA scale), your best 5 of 9 nights count. Top half make the Aug 27 Finals; the pot grows $5/player every night. Jump in any week, best nights count. $5, all ages.",
+    "pointsMap": [
+      [
+        1
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0,
+        0
+      ],
+      [
+        1,
+        0,
+        0
+      ]
+    ],
+    "tiebreakerPointsMap": [
+      [
+        "0.50"
+      ],
+      [
+        "0.50",
+        "0.00"
+      ],
+      [
+        "0.50",
+        "0.25",
+        "0.00"
+      ],
+      [
+        "0.50",
+        "0.25",
+        "0.12",
+        "0.00"
+      ]
+    ],
+    "test": false,
+    "timezone": "America/Los_Angeles",
+    "scorekeeping": "disabled",
+    "link": null,
+    "linkedTournamentId": null,
+    "estimatedTgp": null,
+    "prizePool": {
+      "type": "standard",
+      "private": false,
+      "bounties": [],
+      "currency": "$",
+      "rounding": 1,
+      "distributions": [
+        {
+          "pool": [
+            {
+              "extra": null,
+              "adjustment": null,
+              "percentage": 50
+            },
+            {
+              "extra": null,
+              "adjustment": null,
+              "percentage": 30
+            },
+            {
+              "extra": null,
+              "adjustment": null,
+              "percentage": 20
+            }
+          ],
+          "title": "Prize pool",
+          "percentage": 100
+        }
+      ],
+      "fixedAddition": 0,
+      "fixedReduction": 0,
+      "perPlayerAddition": 5,
+      "perPlayerReduction": 0
+    },
+    "pointsMapCustom": null,
+    "createdAt": "2026-06-26 00:40:31",
+    "updatedAt": "2026-08-14 05:55:05",
+    "motdText": "No waiting for machines. No repeat picks. 30 second extra balls. No booze leaves Gary's! Your drinks can safely be left with the bartender before heading over to the Arcade. OUT = Xenon",
+    "motdColor": "orange",
+    "motdExpiration": null,
+    "managers": [],
+    "primaryConfigSettings": [],
+    "organizer": {
+      "userId": 18724,
+      "businessProfileId": null,
+      "clubId": 57,
+      "name": "Matty PinPin",
+      "firstName": "Matty",
+      "lastName": "PinPin",
+      "ifpaId": 83183,
+      "role": "organizer",
+      "flag": "us",
+      "location": "Seattle",
+      "pronouns": "he",
+      "initials": "OMG",
+      "ratingsOptOut": false,
+      "statsOptOut": false,
+      "videoOptOut": false,
+      "profileOptOut": false,
+      "historyOptOut": false,
+      "historyOnlyCompleted": false,
+      "avatar": "https://mp-avatars.sfo3.cdn.digitaloceanspaces.com/avatar-U18724-1687919626.jpg",
+      "banner": null,
+      "tournamentAvatar": null,
+      "createdAt": "2021-08-27T02:44:37.000000Z"
+    },
+    "linkedTournaments": [],
+    "location": {
+      "locationId": 11022,
+      "scorbitVenueId": null,
+      "scorbitVenueUuid": null,
+      "pinballmapId": null,
+      "name": "Gary's Place",
+      "organizerId": 18724,
+      "status": "active",
+      "address": "2820 Alki Ave SW, Seattle, WA 98116",
+      "lat": null,
+      "lng": null
+    },
+    "series": {
+      "seriesId": 6140,
+      "name": "Walk on the Beach",
+      "status": "active",
+      "organizerId": 18724,
+      "test": false,
+      "removedResults": -5,
+      "playoffsCutoffs": [],
+      "scoring": "bg_papa",
+      "estimatedTgp": null,
+      "scoringCustom": null
+    },
+    "arenas": [],
+    "banks": [],
+    "players": [
+      {
+        "playerId": 199818,
+        "name": "Matty PinPin",
+        "ifpaId": 83183,
+        "status": "active",
+        "organizerId": 18724,
+        "claimedBy": 18724,
+        "labels": [],
+        "labelColor": null,
+        "tournamentPlayer": {
+          "status": "active",
+          "seed": 1549,
+          "pointsAdjustment": 10,
+          "subscription": null,
+          "labels": [],
+          "labelColor": null
+        }
+      },
+      {
+        "playerId": 225854,
+        "name": "Erin Malysa",
+        "ifpaId": 53444,
+        "status": "active",
+        "organizerId": 18724,
+        "claimedBy": 4441,
+        "labels": [],
+        "labelColor": null,
+        "tournamentPlayer": {
+          "status": "active",
+          "seed": 1537,
+          "pointsAdjustment": 10,
+          "subscription": null,
+          "labels": [],
+          "labelColor": null
+        }
+      }
+    ],
+    "scorekeepers": [],
+    "seeding": "mp_rating",
+    "firstRoundPairing": "random",
+    "pairing": "balanced_series",
+    "playerOrder": "balanced",
+    "playerOrderOpen": "scorekeepers",
+    "arenaAssignment": "disabled",
+    "suggestions": "automatic",
+    "duration": 0,
+    "gamesPerRound": 2,
+    "playoffsCutoffs": [
+      {
+        "index": 0,
+        "value": 3,
+        "cumulative": 3,
+        "text": "TOP 3 PAYOUT",
+        "color": "green"
+      }
+    ],
+    "tiebreaker": "standard",
+    "byes": "full"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "roundId": 1162410,
+      "tournamentId": 261001,
+      "arenaId": null,
+      "score": null,
+      "size": null,
+      "description": null,
+      "index": 10,
+      "name": "Round 11",
+      "status": "completed",
+      "duration": 1902,
+      "createdAt": "2026-07-08 06:30:13Z",
+      "completedAt": "2026-07-08 07:01:55Z"
+    },
+    {
+      "roundId": 1162409,
+      "tournamentId": 261001,
+      "arenaId": null,
+      "score": null,
+      "size": null,
+      "description": null,
+      "index": 9,
+      "name": "Round 10",
+      "status": "completed",
+      "duration": 682,
+      "createdAt": "2026-07-08 06:18:49Z",
+      "completedAt": "2026-07-08 06:30:11Z"
+    }
+  ]
+}

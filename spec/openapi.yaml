@@ -320,7 +320,7 @@ paths:
       operationId: listGames
       summary: List games (global, reduced detail)
       description: |
-        The endpoint Match Play documents — and a trap. It returns only 17 of the 25 game
+        The endpoint Match Play documents — and a trap. It returns only 17 of the 24 game
         fields, omitting **`playerIds`, `userIds`, `resultPositions`, `resultPoints`,
         `resultScores`, `resultCountMismatch` and `suggestions`**.
 

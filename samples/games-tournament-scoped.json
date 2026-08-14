@@ -1,0 +1,126 @@
+{
+  "data": [
+    {
+      "gameId": 7696295,
+      "roundId": 1154935,
+      "tournamentId": 258562,
+      "challengeId": null,
+      "arenaId": 133517,
+      "bankId": null,
+      "index": 0,
+      "set": 0,
+      "playerIdAdvantage": 162405,
+      "scorekeeperId": 9024,
+      "status": "completed",
+      "startedAt": "2026-06-27T03:51:18.000000Z",
+      "duration": 609,
+      "bye": false,
+      "scorbitId": null,
+      "scorbitLog": null,
+      "playerIds": [
+        162405,
+        251302
+      ],
+      "userIds": [
+        9024,
+        8988
+      ],
+      "resultPositions": [
+        162405,
+        251302
+      ],
+      "resultPoints": [
+        "1.00",
+        "0.00"
+      ],
+      "resultScores": [
+        null,
+        null
+      ],
+      "scorbitVerified": false,
+      "resultCountMismatch": false,
+      "suggestions": [
+        {
+          "suggestionId": 1838464,
+          "gameId": 7696295,
+          "roundId": 1154935,
+          "tournamentId": 258562,
+          "playerId": 162405,
+          "userId": 9024,
+          "results": [
+            162405,
+            251302
+          ],
+          "arenaId": null,
+          "scores": {
+            "162405": null,
+            "251302": null
+          },
+          "scorbitData": null,
+          "partial": false
+        }
+      ]
+    },
+    {
+      "gameId": 7696296,
+      "roundId": 1154935,
+      "tournamentId": 258562,
+      "challengeId": null,
+      "arenaId": 123365,
+      "bankId": null,
+      "index": 0,
+      "set": 1,
+      "playerIdAdvantage": 403884,
+      "scorekeeperId": 40608,
+      "status": "completed",
+      "startedAt": "2026-06-27T03:51:18.000000Z",
+      "duration": 432,
+      "bye": false,
+      "scorbitId": null,
+      "scorbitLog": null,
+      "playerIds": [
+        403884,
+        470798
+      ],
+      "userIds": [
+        47683,
+        40608
+      ],
+      "resultPositions": [
+        470798,
+        403884
+      ],
+      "resultPoints": [
+        "0.00",
+        "1.00"
+      ],
+      "resultScores": [
+        null,
+        null
+      ],
+      "scorbitVerified": false,
+      "resultCountMismatch": false,
+      "suggestions": [
+        {
+          "suggestionId": 1838437,
+          "gameId": 7696296,
+          "roundId": 1154935,
+          "tournamentId": 258562,
+          "playerId": 470798,
+          "userId": 40608,
+          "results": [
+            470798,
+            403884
+          ],
+          "arenaId": null,
+          "scores": {
+            "403884": null,
+            "470798": null
+          },
+          "scorbitData": null,
+          "partial": false
+        }
+      ]
+    }
+  ]
+}

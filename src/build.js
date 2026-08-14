@@ -22,7 +22,11 @@ const CONTENT_DIR = path.join(ROOT, 'content')
 const PUBLIC_DIR = path.join(ROOT, 'public')
 const SPEC_PATH = path.join(ROOT, 'spec', 'openapi.yaml')
 const DIST_DIR = path.join(ROOT, 'dist')
-const BASE_URL = 'https://matchplay-api-docs.local'
+// Absolute URLs in llms.txt only make sense once the site has a home. Until
+// then links stay site-relative, which is correct for any host. Set SITE_URL at
+// build time (e.g. SITE_URL=https://example.com npm run build) to emit absolute
+// ones, which some agent tooling prefers.
+const BASE_URL = (process.env.SITE_URL || '').replace(/\/$/, '')
 
 const FRONT_MATTER_RE = /^---\n([\s\S]*?)\n---\n/
 

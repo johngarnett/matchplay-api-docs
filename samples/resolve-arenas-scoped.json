@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "arenaId": 56443,
+      "name": "Cheetah",
+      "status": "inactive",
+      "opdbId": "GR6kW-Mo1W3",
+      "categoryId": 2,
+      "organizerId": 14223,
+      "labels": [],
+      "labelColor": null,
+      "tournamentArena": {
+        "status": "active",
+        "preferred": null,
+        "scorbitVenuemachineId": null,
+        "scorbitVenuemachineUuid": null,
+        "scorbitronInstalled": null,
+        "amazingRaceSeed": null,
+        "bestGameBlocked": false,
+        "bestGameQueueClosed": false,
+        "labels": [
+          "Pinball Alley"
+        ],
+        "labelColor": "purple"
+      }
+    }
+  ]
+}

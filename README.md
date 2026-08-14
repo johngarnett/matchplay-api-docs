@@ -31,14 +31,23 @@ npm start              # build, then preview at http://localhost:3100
 `dist/` is a self-contained static site. Deploy it anywhere — GitHub Pages, S3, Netlify,
 nginx — with no Node runtime.
 
+Links in `llms.txt` are site-relative by default. Set `SITE_URL` at build time to emit
+absolute ones, which some agent tooling prefers:
+
+```bash
+SITE_URL=https://docs.example.com npm run build
+```
+
 ## Layout
 
 ```
 spec/openapi.yaml      SOURCE OF TRUTH for every schema
 spec/asyncapi.yaml     the Pusher websocket channel and its events
 content/*.md           prose, one file per section, ordered by front matter
-samples/raw/           captured API payloads (gitignored — see Privacy)
+samples/*.json         committed fixtures the tests validate against
+samples/raw/           full captures (gitignored)
 scripts/probe.js       rate-limited prober that populates samples/raw
+scripts/trim-samples.js  raw captures -> committable fixtures
 src/build.js           the build
 public/site.css        theme, copied to dist/assets/
 server.js              local preview only
@@ -88,9 +97,10 @@ vendor. Readers deserve to know which parts to trust blindly.
 ## Capturing samples
 
 ```bash
-cp .env.example .env      # add MATCHPLAY_API_TOKEN
-npm run probe             # ~20 calls, one every 2 seconds
-npm run probe tournament  # only probes whose name matches
+cp .env.example .env       # add MATCHPLAY_API_TOKEN
+npm run probe              # 46 calls, one every 2 seconds
+npm run probe tournament   # only probes whose name matches
+npm run trim-samples       # samples/raw -> committable fixtures in samples/
 ```
 
 <!-- markdownlint-disable-next-line -->
@@ -101,12 +111,17 @@ npm run probe tournament  # only probes whose name matches
 
 ### Privacy
 
-Raw captures land in `samples/raw/`, which is **gitignored**. Payloads carry real names,
-pronouns, avatar URLs and privacy flags.
+Raw captures land in `samples/raw/`, which is **gitignored** — those payloads carry real
+names, pronouns, avatar URLs and privacy flags for hundreds of people.
 
-Only hand-trimmed excerpts get committed, and worked examples are drawn from users whose
-opt-out flags are all `false`. Someone who set `historyOptOut` should not become the
-illustrative example in public API documentation.
+`npm run trim-samples` reduces them to at most two records per endpoint in `samples/`, which
+*is* committed so the spec tests run on a fresh clone. Trimming is the privacy control:
+values are kept verbatim, because rewriting them would defeat the point of proving the
+schemas match reality.
+
+Every person named in the documentation was checked to have all six opt-out flags `false`.
+Someone who set `historyOptOut` should not become the illustrative example in public API
+documentation.
 
 ## Tests
 

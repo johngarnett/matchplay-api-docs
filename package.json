@@ -12,7 +12,8 @@
       "start": "npm run build && node server.js",
       "dev": "node --watch src/build.js",
       "probe": "node scripts/probe.js",
-      "test": "node --test 'tests/*.test.js'"
+      "test": "node --test 'tests/*.test.js'",
+      "trim-samples": "node scripts/trim-samples.js"
    },
    "dependencies": {
       "express": "^5.1.0",

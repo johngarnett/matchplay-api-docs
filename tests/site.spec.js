@@ -55,12 +55,16 @@ test.describe('navigation', () => {
       await page.goto('/')
 
       const sidebar = page.locator('.sidebar')
+      const scrim = page.locator('.scrim')
       await expect(sidebar).not.toHaveClass(/open/)
 
       await page.locator('.menu-toggle').click()
       await expect(sidebar).toHaveClass(/open/)
 
-      await page.locator('.scrim').click()
+      // Wait for the slide-in transition to settle before clicking the scrim,
+      // so the click can't land while the drawer is still animating.
+      await expect(scrim).toBeVisible()
+      await scrim.click()
       await expect(sidebar).not.toHaveClass(/open/)
    })
 

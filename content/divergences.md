@@ -21,7 +21,7 @@ behaviour wins** — but the handbook's claim is recorded alongside it.
 
 | Topic | Handbook | Observed |
 | --- | --- | --- |
-| Games endpoint | Documents `GET /games` as the games endpoint | It omits `playerIds`, `userIds`, `resultPositions`, `resultPoints`, `resultScores`, `resultCountMismatch`, `suggestions`. The undocumented `GET /tournaments/{id}/games` returns all 25 fields |
+| Games endpoint | Documents `GET /games` as the games endpoint | It omits `playerIds`, `userIds`, `resultPositions`, `resultPoints`, `resultScores`, `resultCountMismatch`, `suggestions`. The undocumented `GET /tournaments/{id}/games` returns all 24 |
 | Response fields | Not documented at all | Every schema on this site was reconstructed by observation |
 | Machine-readable spec | Points at `app.matchplay.events/api-docs/` | That URL redirects to the handbook. No vendor spec exists |
 | Expansion flags | Lists 11 `include*` flags without qualification | Six add data; the rest were `null` or unpopulated in every test. Unknown flags are silently ignored |
