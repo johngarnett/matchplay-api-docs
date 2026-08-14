@@ -39,11 +39,12 @@ curl -f https://mp-ratings.sfo3.cdn.digitaloceanspaces.com/latest-ratings.csv -o
 The seventh column is not named `Last Rating Period`. It is named:
 
 ```
-Last Rating Period (Data from: 2026-07-18)
+Last Rating Period (Data from: 2026-07-18)     ← one download
+Last Rating Period (Data from: 2026-08-11)     ← the same column, a few weeks later
 ```
 
-and that date changes with every refresh. Matching the column name by equality will work
-today and break tomorrow. Match by **prefix**:
+Both of those are real observations of the same file. Matching the column name by equality
+will work today and break tomorrow. Match by **prefix**:
 
 ```js
 const columnIndex = header.findIndex(name => name.startsWith('Last Rating Period'))
@@ -71,19 +72,71 @@ are unrelated, and the row date will often be days or weeks older.
 
 | Column | Notes |
 | --- | --- |
-| `Name` | Quoted |
-| `User ID` | Match Play `userId`. **May be empty** — skip those rows for user-keyed lookups |
-| `IFPA ID` | May be empty |
+| `Name` | Quoted. The **only** identifier on most rows — see below |
+| `User ID` | Match Play `userId`. Often empty |
+| `IFPA ID` | Often empty |
 | `Rating` | Glicko rating |
 | `RD` | Rating deviation at the last rating period |
 | `Lower Bound` | `Rating − 2·RD`. Derivable, so you can drop it |
 | `Last Rating Period (…)` | Date of the player's last rating change |
-| `Rating class` | Tier bucket |
+| `Rating class` | Tier bucket. Occasionally empty |
 
 </div>
 
-Scale: about 33,500 players. Build lookups keyed by **both** `User ID` and `IFPA ID` — plenty
-of players have one and not the other.
+<div class="callout callout-trap">
+<span class="callout-title">Most rated players have no id at all</span>
+
+Match Play rates anyone who plays a rated tournament, whether or not they ever created an
+account or linked an IFPA record. Across the 141,962 rows in one download:
+
+| Ids present | Rows | Share |
+| --- | --- | --- |
+| Both `User ID` and `IFPA ID` | 24,908 | 17.5% |
+| `IFPA ID` only | 28,676 | 20.2% |
+| `User ID` only | 9,309 | 6.6% |
+| **Neither** | **79,069** | **55.7%** |
+
+Keying a lookup on `User ID` and `IFPA ID` therefore **silently discards more than half the
+file**. If you are matching a name from a tournament roster against ratings, those id-less
+rows are exactly the players you most need — a claimed account already gives you
+[better routes](/profile-search.html#match-play-ratings).
+</div>
+
+<div class="callout callout-warn">
+<span class="callout-title">The API cannot see these players at all</span>
+
+`GET /search?type=users` searches **user accounts**, so a rated player without one is
+invisible to it. Verified against two id-less names from the CSV: neither returned an exact
+match, while a control name with a `User ID` did.
+
+There is no endpoint that lists them, and no id to resolve. **The CSV export is the only
+route to more than half of Match Play's rated players.**
+</div>
+
+For id-less rows, `Name` is the only key available, and it is *nearly* unique but not safe:
+
+- **1,073 names are shared by more than one row** across the whole file, affecting 2,249 rows
+  (~1.6%). Among id-less rows alone, 66 names are shared, affecting 135 rows.
+- Treat a name match as a strong hint, not an identity. Where a collision matters, fall back
+  to something else or surface the ambiguity.
+
+<div class="callout">
+<span class="callout-title">Id-less players are mostly provisional ratings</span>
+
+Their `RD` is revealing. Median rating deviation by group:
+
+| Group | Median `RD` |
+| --- | --- |
+| Both ids | 39.87 |
+| `User ID` only | 69.61 |
+| `IFPA ID` only | 75.00 |
+| Neither | 75.00 |
+
+`75.00` is the ceiling — maximum uncertainty. So the id-less majority are overwhelmingly
+players with one or two rated results, sitting near the 1500 starting rating. Useful for
+completeness, but their ratings carry little information, and
+[`Lower Bound`](/profile-search.html#reading-the-numbers) correctly ranks them low because of it.
+</div>
 
 <div class="callout callout-warn">
 <span class="callout-title">The file lags by a couple of days</span>

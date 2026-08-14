@@ -36,6 +36,19 @@ Results are full objects, not stubs: `type=users` returns complete
 pages.
 
 <div class="callout callout-warn">
+<span class="callout-title">Matching is fuzzy, and account-only</span>
+
+A search for a full two-word name returned **223 results**, so this is loose token matching
+rather than exact lookup. A non-empty result set means nothing on its own — filter for the
+exact name yourself.
+
+More importantly, `type=users` only sees **user accounts**. Match Play rates many players who
+never created one, and those are unreachable here: two names drawn from id-less rows of the
+[ratings CSV](/exports.html) returned no exact match, while a control name with an account
+did. If you need those players, the CSV is the only source.
+</div>
+
+<div class="callout callout-warn">
 <span class="callout-title">Only two types exist</span>
 
 `type` is mandatory — omitting it gives `422 "The type field is required."`

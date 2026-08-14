@@ -23,6 +23,18 @@ did *this person* do?" is surprisingly hard to answer.
 
 </div>
 
+<div class="callout callout-warn">
+<span class="callout-title">A rated player may have none of the three</span>
+
+Match Play rates anyone who plays a rated tournament, account or not. In one
+[ratings export](/exports.html), **55.7% of rated players had neither a `User ID` nor an
+`IFPA ID`** — they exist only as a name and a rating, are invisible to `/search`, and can be
+reached through no endpoint at all.
+
+Within a tournament they still have a `playerId`, so results and standings work normally.
+It is only the *global* identity that is missing.
+</div>
+
 Here is one real person across four tournaments — the same human being every time:
 
 <div class="table-scroll">
