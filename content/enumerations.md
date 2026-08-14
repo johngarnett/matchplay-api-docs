@@ -90,7 +90,7 @@ remember that on many tournaments the key is [absent entirely](/tournaments.html
 | Field | Observed values |
 | --- | --- |
 | `seeding` | `random` (91), `mp_rating_rating` (4), `mp_rating` (2), `ifpa`, `manual`, `series_seed` |
-| `pairing` | `swiss` (63), `strictswiss` (22), `balanced` (10), `balanced_series` (2), `random` |
+| `pairing` | `swiss` (63), `strictswiss` (22), `balanced` (10), `balanced_series` (2), `tiers`, `random` |
 | `firstRoundPairing` | `random` (83), `slaughter` (10), `adjacent` (4), `cross` |
 | `playerOrder` | `balanced` (96), `random` (2), `rotating`, `seed`, `disabled` |
 | `playerOrderOpen` | `scorekeepers` (96), `players` (2) |
@@ -187,6 +187,7 @@ next round's pairings, seed a bracket, advance a rating deviation — this is th
 | `pairing: swiss` | `HeadToHeadSwissPairing` | Balanced pairings within sub-groups |
 | `pairing: strictswiss` | `HeadToHeadStrictSwissPairing` | Strict Swiss ordering |
 | `pairing: balanced` | `BalancedPairing`, `BalancedGreedyPairing` | Minimises repeat opponents |
+| `pairing: tiers` | `GroupTieredSwissPairing` | Seed-tiered four-player groups, Pinburgh style |
 | `firstRoundPairing: adjacent` | `AdjacentPairing` | #1 v #2, #3 v #4 |
 | `firstRoundPairing: cross` | `CrossPairing` | Top half's best v bottom half's best |
 | `firstRoundPairing: slaughter` | `SlaughterPairing` | #1 v last seed |

@@ -116,7 +116,7 @@ more than it looks.
 <div class="endpoint"><span class="method">GET</span> <span>/tournaments/{tournamentId}/players/resolve-unknown?players=1,2,3</span></div>
 <div class="endpoint"><span class="method">GET</span> <span>/tournaments/{tournamentId}/arenas/resolve-unknown?arenas=7,8</span></div>
 <div class="endpoint"><span class="method">GET</span> <span>/players/resolve-unknown?players=1,2,3</span></div>
-<div class="endpoint"><span class="method">GET</span> <span>/users/resolve-unknown?users=17637</span></div>
+<div class="endpoint"><span class="method">GET</span> <span>/users/resolve-unknown?users=5750</span></div>
 
 Rules:
 
@@ -212,20 +212,39 @@ it is far richer than the profile object embedded on tournaments:
 
 ```json
 {
-  "user": { "userId": 17637, "name": "Elliott Johnson", "ifpaId": 70949, … },
+  "user": {
+    "userId": 5750, "name": "John Garnett", "firstName": "John", "lastName": "Garnett",
+    "ifpaId": 32819, "role": "player", "flag": "us", "location": "Seattle",
+    "pronouns": "he", "initials": "JWG", "clubId": 25,
+    "avatar": null, "banner": null, "tournamentAvatar": null,
+    "ratingsOptOut": false, "statsOptOut": false, "videoOptOut": false,
+    "profileOptOut": false, "historyOptOut": false, "historyOnlyCompleted": false,
+    "createdAt": "2017-12-02T06:25:40.000000Z"
+  },
   "rating": {
-    "rating": 1568, "rd": 15, "calculatedRd": 15, "ratingClass": 4,
-    "delta": "-1.61", "gameCount": 5746, "winCount": 4740, "lossCount": 4666,
-    "efficiencyPercent": 0.5039336593663619, "lowerBound": 1537
+    "rating": 1600, "rd": 24, "calculatedRd": 24, "ratingClass": 4,
+    "delta": "-9.12", "gameCount": 2470, "winCount": 2838, "lossCount": 2657,
+    "efficiencyPercent": 0.5164695177434031, "lowerBound": 1551
   },
   "ifpa": null, "club": null, "plan": null, "planFeatures": null, "shortcut": null,
   "userCounts": { "tournamentPlayCount": 0, "tournamentOrganizedCount": 0, "seriesOrganizedCount": 0 }
 }
 ```
 
-One call gets you the account, their current Match Play Rating with a lifetime win/loss
-record, and activity counts. It returns a clean `404` for an unknown id, which makes it the
-best way to **validate a user id** — unlike `?played=`, whose empty result is ambiguous.
+One call gets you the account and their current Match Play Rating with a lifetime win/loss
+record. It returns a clean `404` for an unknown id, which makes it the best way to
+**validate a user id** — unlike `?played=`, whose empty result is ambiguous.
+
+<div class="callout callout-warn">
+<span class="callout-title"><code>userCounts</code> is not a play count</span>
+
+In the response above every `userCounts` value is `0` — for an account whose own `rating`
+block reports 2,470 games and 5,495 results.
+
+Whatever these count, it is not lifetime activity. Don't display them as "tournaments
+played". If you need a real count, use `rating.gameCount` / `rating.resultCount`, or the
+length of `/tournaments?played=`.
+</div>
 
 <div class="callout callout-warn">
 <span class="callout-title">"Unset" is represented two different ways</span>

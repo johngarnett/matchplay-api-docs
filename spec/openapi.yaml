@@ -100,7 +100,7 @@ paths:
             `data` array is ambiguous: it means either an unknown user id or a known user
             with no tournaments. Returns `403` if the user opted out of sharing history.
           schema: { type: integer }
-          example: 17637
+          example: 5750
         - name: owner
           in: query
           description: Filter to tournaments created by this user id.
@@ -665,7 +665,7 @@ paths:
           required: true
           description: Comma-separated user ids, no more than 25.
           schema: { type: string }
-          example: "17637"
+          example: "5750"
       responses:
         '200':
           description: Resolved user profiles.
@@ -725,7 +725,7 @@ paths:
           in: path
           required: true
           schema: { type: integer }
-          example: 17637
+          example: 5750
       responses:
         '200':
           description: The user profile bundle.
@@ -1171,14 +1171,21 @@ components:
           description: '**A decoy.** Always null, even when a playoff link exists. Use `linkedTournaments`.'
         estimatedTgp: { type: [number, 'null'], x-evidence: verified, description: Estimated Tournament Grading Percentage for IFPA. }
         pointsMap:
-          type: array
+          type: [array, 'null']
           x-evidence: verified
           description: |
             Points awarded by finishing position, indexed by group size minus one. Values are
-            numbers for integer scoring and **strings** for fractional. Over the websocket the
-            same field arrives as an object keyed by stringified group size.
+            numbers for integer scoring and **strings** for fractional.
+
+            `null` for score-based formats such as golf, which award no positional points.
+            Over the websocket the same field arrives as an **object** keyed by stringified
+            group size rather than an array.
           items: { type: array, items: { type: [number, string] } }
-        tiebreakerPointsMap: { type: array, x-evidence: verified, items: { type: array, items: { type: string } } }
+        tiebreakerPointsMap:
+          type: [array, 'null']
+          x-evidence: verified
+          description: Null for formats with no positional scoring.
+          items: { type: array, items: { type: string } }
         pointsMapCustom: { type: [array, 'null'], x-evidence: verified }
         primaryConfigSettings:
           type: array
@@ -1207,7 +1214,7 @@ components:
         event: { type: ['object', 'null'], x-evidence: unverified, description: Requires `includeEvent`. No populated example captured. }
         shortcut: { type: ['object', 'null'], x-evidence: unverified, description: Requires `includeShortcut`. No populated example captured. }
         seeding: { type: [string, 'null'], x-evidence: verified, enum: [random, manual, ifpa, mp_rating, mp_rating_rating, series_seed, null] }
-        pairing: { type: [string, 'null'], x-evidence: verified, enum: [swiss, strictswiss, balanced, balanced_series, random, null] }
+        pairing: { type: [string, 'null'], x-evidence: verified, enum: [swiss, strictswiss, balanced, balanced_series, tiers, random, null] }
         firstRoundPairing: { type: [string, 'null'], x-evidence: verified, enum: [random, adjacent, cross, slaughter, null] }
         playerOrder: { type: [string, 'null'], x-evidence: verified, enum: [balanced, random, rotating, seed, disabled, null] }
         playerOrderOpen: { type: [string, 'null'], x-evidence: verified, enum: [players, scorekeepers, null] }

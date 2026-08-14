@@ -1,38 +1,20 @@
 {
   "data": [
     {
-      "tournamentId": 258965,
-      "name": "Walk on the Beach - Week 8 of 9 (Aug 13, 2026)",
+      "tournamentId": 265276,
+      "name": "Pinarchy in Parkwood",
       "status": "completed",
-      "type": "matchplay",
-      "startUtc": "2026-08-14T02:00:00.000000Z",
-      "startLocal": "2026-08-13 19:00:00",
-      "endUtc": "2026-08-14T02:00:00.000000Z",
-      "endLocal": "2026-08-13 19:00:00",
-      "completedAt": "2026-08-14T05:52:58.000000Z",
-      "organizerId": 18724,
-      "locationId": 11022,
-      "seriesId": 6140,
-      "description": "Walk on the Beach: Summer Pinball Series.9 Thursdays across Gary's Place + West Seattle Arcade on Alki.\n\n* Pick-your-game head-to-head.\n* 5 rounds, 2 games each.\n* Win = 1 pt, sweep both = 3. \n* Extra balls play 30 sec. \n* When picking: No repeat games, no in-use machines.\n\n* Top 3 paid tonight.\n\nSERIES: placement points (PAPA scale), your best 5 of 9 nights count. Top half make the Aug 27 Finals; the pot grows $5/player every night. Jump in any week, best nights count. $5, all ages.",
-      "pointsMap": [
-        [
-          1
-        ],
-        [
-          1,
-          0
-        ],
-        [
-          1,
-          0,
-          0
-        ],
-        [
-          1,
-          0,
-          0
-        ]
-      ],
+      "type": "golf",
+      "startUtc": "2026-08-08T18:00:00.000000Z",
+      "startLocal": "2026-08-08 11:00:00",
+      "endUtc": "2026-08-08T18:00:00.000000Z",
+      "endLocal": "2026-08-08 11:00:00",
+      "completedAt": "2026-08-08T23:29:20.000000Z",
+      "organizerId": 5750,
+      "locationId": null,
+      "seriesId": null,
+      "description": "18-hole Pingolf course featuring mainly pre-DMD machines. No practicing on tourney machines. Players will play single player games.  Play extra balls. Max score is 6 on pre-DMD machines and 4 on DMD machines. Players will keep their own scorecards. Players must ask a witness to initial each score prior to leaving a machine.\n\nThe course should take around 90 minutes to complete. The top 16 will advance to semi-finals. The winner of each semi-final group will advance to the final 4.",
+      "pointsMap": null,
       "tiebreakerPointsMap": [
         [
           "0.50"
@@ -55,140 +37,91 @@
       ],
       "test": false,
       "timezone": "America/Los_Angeles",
-      "scorekeeping": "disabled",
+      "scorekeeping": "user",
       "link": null,
       "linkedTournamentId": null,
       "estimatedTgp": null,
-      "prizePool": {
-        "type": "standard",
-        "private": false,
-        "bounties": [],
-        "currency": "$",
-        "rounding": 1,
-        "distributions": [
-          {
-            "pool": [
-              {
-                "extra": null,
-                "adjustment": null,
-                "percentage": 50
-              },
-              {
-                "extra": null,
-                "adjustment": null,
-                "percentage": 30
-              },
-              {
-                "extra": null,
-                "adjustment": null,
-                "percentage": 20
-              }
-            ],
-            "title": "Prize pool",
-            "percentage": 100
-          }
-        ],
-        "fixedAddition": 0,
-        "fixedReduction": 0,
-        "perPlayerAddition": 5,
-        "perPlayerReduction": 0
-      },
+      "prizePool": null,
       "pointsMapCustom": null,
-      "createdAt": "2026-06-26 00:40:31",
-      "updatedAt": "2026-08-14 05:55:05",
-      "motdText": "No waiting for machines. No repeat picks. 30 second extra balls. No booze leaves Gary's! Your drinks can safely be left with the bartender before heading over to the Arcade. OUT = Xenon",
-      "motdColor": "orange",
+      "createdAt": "2026-08-03 16:32:18",
+      "updatedAt": "2026-08-09 02:43:37",
+      "motdText": null,
+      "motdColor": null,
       "motdExpiration": null,
       "managers": [],
       "primaryConfigSettings": [],
       "organizer": {
-        "userId": 18724,
+        "userId": 5750,
         "businessProfileId": null,
-        "clubId": 57,
-        "name": "Matty PinPin",
-        "firstName": "Matty",
-        "lastName": "PinPin",
-        "ifpaId": 83183,
-        "role": "organizer",
+        "clubId": 25,
+        "name": "John Garnett",
+        "firstName": "John",
+        "lastName": "Garnett",
+        "ifpaId": 32819,
+        "role": "player",
         "flag": "us",
         "location": "Seattle",
         "pronouns": "he",
-        "initials": "OMG",
+        "initials": "JWG",
         "ratingsOptOut": false,
         "statsOptOut": false,
         "videoOptOut": false,
         "profileOptOut": false,
         "historyOptOut": false,
         "historyOnlyCompleted": false,
-        "avatar": "https://mp-avatars.sfo3.cdn.digitaloceanspaces.com/avatar-U18724-1687919626.jpg",
+        "avatar": null,
         "banner": null,
         "tournamentAvatar": null,
-        "createdAt": "2021-08-27T02:44:37.000000Z"
+        "createdAt": "2017-12-02T06:25:40.000000Z"
       },
-      "location": {
-        "locationId": 11022,
-        "scorbitVenueId": null,
-        "scorbitVenueUuid": null,
-        "pinballmapId": null,
-        "name": "Gary's Place",
-        "organizerId": 18724,
-        "status": "active",
-        "address": "2820 Alki Ave SW, Seattle, WA 98116",
-        "lat": null,
-        "lng": null
-      },
-      "seeding": "mp_rating",
-      "firstRoundPairing": "random",
-      "pairing": "balanced_series",
-      "playerOrder": "balanced",
-      "playerOrderOpen": "scorekeepers",
-      "arenaAssignment": "disabled",
-      "suggestions": "automatic",
-      "duration": 0,
-      "gamesPerRound": 2,
+      "golfDuration": 18,
+      "tiebreaker": "standard",
+      "suggestions": "disabled",
       "playoffsCutoffs": [
         {
           "index": 0,
-          "value": 3,
-          "cumulative": 3,
-          "text": "TOP 3 PAYOUT",
+          "value": 16,
+          "cumulative": 16,
+          "text": "FINALS CUTOFF",
           "color": "green"
         }
       ],
-      "tiebreaker": "standard",
-      "byes": "full"
+      "golfParScore": 3,
+      "golfStrokeLimit": 6,
+      "golfHolesCounted": 0
     },
     {
-      "tournamentId": 266842,
-      "name": "Houndstooth Wednesday Night Weekly 8/12/2026",
+      "tournamentId": 265105,
+      "name": "Ice Box Mixed Matchplay - 2026/08",
       "status": "completed",
-      "type": "knockout",
-      "startUtc": "2026-08-13T03:45:00.000000Z",
-      "startLocal": "2026-08-12 20:45:00",
-      "endUtc": "2026-08-13T03:45:00.000000Z",
-      "endLocal": "2026-08-12 20:45:00",
-      "completedAt": "2026-08-13T07:26:37.000000Z",
-      "organizerId": 17637,
-      "locationId": 11192,
+      "type": "group_matchplay",
+      "startUtc": "2026-08-02T20:30:00.000000Z",
+      "startLocal": "2026-08-02 13:30:00",
+      "endUtc": "2026-08-02T20:30:00.000000Z",
+      "endLocal": "2026-08-02 13:30:00",
+      "completedAt": "2026-08-03T00:40:17.000000Z",
+      "organizerId": 93,
+      "locationId": 1893,
       "seriesId": null,
-      "description": null,
+      "description": "5 rounds of qualifying with 2 games per round, one Modern game and one Classic game. Each round will be scored 5-3-2-1 for a 4-player game with the top 16 players making the finals (to meet the 50% rule).",
       "pointsMap": [
         [
+          5
+        ],
+        [
+          5,
           1
         ],
         [
-          1,
-          0
+          5,
+          3,
+          1
         ],
         [
-          1,
-          0,
-          0
-        ],
-        [
-          1,
-          0,
-          0
+          5,
+          3,
+          2,
+          1
         ]
       ],
       "tiebreakerPointsMap": [
@@ -216,106 +149,72 @@
       "scorekeeping": "user",
       "link": null,
       "linkedTournamentId": null,
-      "estimatedTgp": 50,
-      "prizePool": {
-        "type": "standard",
-        "private": false,
-        "bounties": [],
-        "currency": "$",
-        "rounding": 5,
-        "distributions": [
-          {
-            "pool": [
-              {
-                "extra": null,
-                "adjustment": null,
-                "percentage": 55
-              },
-              {
-                "extra": null,
-                "adjustment": null,
-                "percentage": 30
-              },
-              {
-                "extra": null,
-                "adjustment": null,
-                "percentage": 15
-              }
-            ],
-            "title": "Prize pool",
-            "percentage": 100
-          }
-        ],
-        "fixedAddition": 55,
-        "fixedReduction": 0,
-        "perPlayerAddition": 5,
-        "perPlayerReduction": 0
-      },
+      "estimatedTgp": 200,
+      "prizePool": null,
       "pointsMapCustom": null,
-      "createdAt": "2026-08-13 01:18:41",
-      "updatedAt": "2026-08-13 07:26:59",
-      "motdText": "DONT FORGET YOUR JELL-O SHOT!!!!!!",
+      "createdAt": "2026-08-02 04:03:40",
+      "updatedAt": "2026-08-05 09:00:10",
+      "motdText": "***NEW*** for your 2nd game in each round, player order is decided based on game 1 results backward. Player that finished last decide its position 1st, etc... Ignore Matchplay initial position for game #2 and update them manually.",
       "motdColor": "lime",
       "motdExpiration": null,
       "managers": [],
-      "primaryConfigSettings": [
-        "knockoutStrikeCount",
-        "pairing"
-      ],
+      "primaryConfigSettings": [],
       "organizer": {
-        "userId": 17637,
+        "userId": 93,
         "businessProfileId": null,
-        "clubId": 57,
-        "name": "Elliott Johnson",
-        "firstName": "Elliott",
-        "lastName": "Johnson",
-        "ifpaId": 70949,
-        "role": "player",
-        "flag": "us",
-        "location": "Seattle",
+        "clubId": null,
+        "name": "Germain Mariolle",
+        "firstName": "Germain",
+        "lastName": "Mariolle",
+        "ifpaId": 29141,
+        "role": "organizer",
+        "flag": "",
+        "location": "Redmond",
         "pronouns": "he",
-        "initials": "ATM",
+        "initials": "GER",
         "ratingsOptOut": false,
         "statsOptOut": false,
         "videoOptOut": false,
         "profileOptOut": false,
         "historyOptOut": false,
         "historyOnlyCompleted": false,
-        "avatar": null,
-        "banner": null,
-        "tournamentAvatar": null,
-        "createdAt": "2021-05-29T04:22:02.000000Z"
+        "avatar": "https://mp-avatars.sfo3.cdn.digitaloceanspaces.com/avatar-U93-1679946194.jpg",
+        "banner": "https://mp-avatars.sfo3.cdn.digitaloceanspaces.com/banner-U93-1679946223.jpg",
+        "tournamentAvatar": "https://mp-avatars.sfo3.cdn.digitaloceanspaces.com/t-avatar-U93-1679946363.jpg",
+        "createdAt": "2015-07-02T20:45:26.000000Z"
       },
       "location": {
-        "locationId": 11192,
+        "locationId": 1893,
         "scorbitVenueId": null,
         "scorbitVenueUuid": null,
         "pinballmapId": null,
-        "name": "Houndstooth Public House",
-        "organizerId": 17637,
+        "name": "The Ice Box",
+        "organizerId": 93,
         "status": "active",
-        "address": "8551 Greenwood Ave N, Seattle, WA 98103, USA",
-        "lat": null,
-        "lng": null
+        "address": "615 NW Bright St, Seattle, WA 98107, USA",
+        "lat": 47.659835,
+        "lng": -122.364756
       },
-      "seeding": "random",
-      "firstRoundPairing": "adjacent",
-      "pairing": "swiss",
+      "seeding": "ifpa",
+      "firstRoundPairing": "random",
+      "pairing": "tiers",
       "playerOrder": "balanced",
-      "playerOrderOpen": "scorekeepers",
-      "arenaAssignment": "balanced",
-      "knockoutStrikeCount": 3,
+      "playerOrderOpen": "players",
+      "arenaAssignment": "banks",
+      "suggestions": "automatic",
+      "duration": 5,
+      "gamesPerRound": 2,
       "playoffsCutoffs": [
         {
           "index": 0,
-          "value": 3,
-          "cumulative": 3,
-          "text": "👆👉IN THE MONEY👈 👆",
-          "color": "green"
+          "value": 16,
+          "cumulative": 16,
+          "text": "FINALS CUTOFF",
+          "color": "red"
         }
       ],
-      "suggestions": "automatic",
-      "byes": "full"
+      "tiebreaker": "standard",
+      "scoring": "winnerbonus"
     }
   ],
   "links": {

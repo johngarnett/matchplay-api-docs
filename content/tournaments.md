@@ -36,7 +36,7 @@ own `next` link. Read [Conventions](/conventions.html#tournaments-strips-your-qu
 before paginating it.
 
 ```bash
-curl -s "https://app.matchplay.events/api/tournaments?played=17637&limit=5" \
+curl -s "https://app.matchplay.events/api/tournaments?played=5750&limit=5" \
   -H "Authorization: Bearer YOUR_API_TOKEN"
 ```
 
@@ -189,6 +189,9 @@ Integer scoring gives you **numbers**; fractional scoring gives you **strings**:
 ```json
 "pointsMap": [["1.00"], ["1.00", "0.01"], ["1.00", "0.02", "0.01"]]
 ```
+
+Score-based formats such as golf award no positional points, so both `pointsMap` and
+`tiebreakerPointsMap` are **`null`** there — not an empty array.
 
 <div class="callout callout-trap">
 <span class="callout-title">It changes type over the websocket</span>

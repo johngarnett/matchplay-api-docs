@@ -29,7 +29,7 @@ const GROUP_KNOCKOUT_TOURNAMENT = 258562
 const GOLF_TOURNAMENT = 259350
 const SERIES_TOURNAMENT = 258965        // belongs to series 6140
 const BEST_GAME_TOURNAMENT = 261295     // type best_game
-const SAMPLE_USER = 17637
+const SAMPLE_USER = 5750
 const REAL_PLAYER_ID = 135991
 
 // Every expansion flag the handbook documents, requested in one call so we can
@@ -112,7 +112,7 @@ const PROBES = [
    { name: 'error-404-standings', path: '/tournaments/99999999/standings' },
    { name: 'error-404-user', path: '/users/999999999' },
    { name: 'error-unauth', path: `/tournaments/${KNOCKOUT_TOURNAMENT}`, noAuth: true },
-   { name: 'error-page-past-end', path: '/tournaments?played=17637&limit=5&page=9999' }
+   { name: 'error-page-past-end', path: '/tournaments?played=5750&limit=5&page=9999' }
 ]
 
 let lastCallAt = 0

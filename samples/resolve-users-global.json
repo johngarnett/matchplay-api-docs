@@ -1,18 +1,18 @@
 {
   "data": [
     {
-      "userId": 17637,
+      "userId": 5750,
       "businessProfileId": null,
-      "clubId": 57,
-      "name": "Elliott Johnson",
-      "firstName": "Elliott",
-      "lastName": "Johnson",
-      "ifpaId": 70949,
+      "clubId": 25,
+      "name": "John Garnett",
+      "firstName": "John",
+      "lastName": "Garnett",
+      "ifpaId": 32819,
       "role": "player",
       "flag": "us",
       "location": "Seattle",
       "pronouns": "he",
-      "initials": "ATM",
+      "initials": "JWG",
       "ratingsOptOut": false,
       "statsOptOut": false,
       "videoOptOut": false,
@@ -22,7 +22,7 @@
       "avatar": null,
       "banner": null,
       "tournamentAvatar": null,
-      "createdAt": "2021-05-29T04:22:02.000000Z"
+      "createdAt": "2017-12-02T06:25:40.000000Z"
     }
   ]
 }

@@ -92,7 +92,7 @@ The two paginators differ in ways that matter.
 ### `/tournaments` strips your query parameters
 
 This is the one that catches people. Given a request to
-`/tournaments?played=17637&limit=5`, the response contains:
+`/tournaments?played=5750&limit=5`, the response contains:
 
 ```json
 {
