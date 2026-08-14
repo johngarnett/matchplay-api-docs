@@ -119,9 +119,19 @@ names, pronouns, avatar URLs and privacy flags for hundreds of people.
 values are kept verbatim, because rewriting them would defeat the point of proving the
 schemas match reality.
 
-Every person named in the documentation was checked to have all six opt-out flags `false`.
-Someone who set `historyOptOut` should not become the illustrative example in public API
-documentation.
+Four people are named in the prose — John Garnett, Vanessa Ish, Craig Jones and Ben Fodor —
+and **each was checked against `/users/{userId}` to confirm all six opt-out flags are
+`false`**. Someone who set `historyOptOut` should not become the illustrative example in
+public API documentation.
+
+Re-run that audit after changing any example:
+
+```bash
+grep -rho '"name": *"[^"]*"' content/    # every name the docs display
+```
+
+then check each against `GET /users/{userId}`. Ben Fodor appears only with an `ifpaId`, so
+his account is reached via `GET /ratings/ifpa/{ifpaId}` → `rating.userId`.
 
 ## Tests
 

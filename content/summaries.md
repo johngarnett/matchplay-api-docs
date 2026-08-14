@@ -151,6 +151,19 @@ what it is.
 here means the tournament's roster has unclaimed or misspelled entries, and the estimate is
 correspondingly less reliable.
 
+<div class="callout">
+<span class="callout-title">Names here come from IFPA, not Match Play</span>
+
+`players[].name` is the **IFPA** record's name, which frequently differs from the same
+person's Match Play profile name. One player returned as `"Ben Fodor"` here is
+`"Benjamin Fodor U.S.A"` on their Match Play account.
+
+There is also no `userId` in this payload — only `ifpaId`. To reach a Match Play account
+from an estimator row, bridge through
+[`/ratings/ifpa/{ifpaId}`](/profile-search.html#match-play-ratings), whose `rating.userId`
+gives you the link (or `null` if they have no account).
+</div>
+
 The related passive field `estimatedTgp` on the tournament object gives Match Play's stored
 Tournament Grading Percentage estimate without a call.
 
