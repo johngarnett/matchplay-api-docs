@@ -127,23 +127,34 @@ given event costs nothing.
 
 ### Deciding when a tournament is final
 
-`status: "completed"` is the obvious signal but it under-counts badly, because organizers
-routinely forget to mark tournaments complete. See
-[Tournaments](/tournaments.html#status-started-usually-means-finished).
+`status: "completed"` is the obvious signal, but it under-counts: organizers routinely
+forget to mark tournaments complete, and Match Play only
+[auto-closes them after two idle days](/tournaments.html#status-started).
 
-A workable rule used in production: treat a `started` tournament as effectively final once
-**two days** have passed since `startLocal`. Before that, fetch it fresh every time and
-don't persist it.
+A two-day rule therefore matches Match Play's own behaviour — a `started` tournament idle
+that long is about to be closed anyway. Before that, fetch it fresh every time and don't
+persist it.
+
+The exception is long-running formats. A `best_game` or `card_best_game` tournament can sit
+`started` and idle for weeks while its scheduled window is open, so gate on `endLocal` too
+rather than age alone.
 
 ```js
-const STARTED_TOURNAMENT_CACHE_MIN_AGE_DAYS = 2
+const AUTO_CLOSE_IDLE_DAYS = 2
 
 function isImmutable(tournament) {
    if (tournament.status === 'completed') return true
    if (tournament.status !== 'started') return false
-   return daysSince(tournament.startLocal) >= STARTED_TOURNAMENT_CACHE_MIN_AGE_DAYS
+
+   // Long-running formats sit idle by design while their window is open.
+   if (tournament.endLocal && new Date(tournament.endLocal) > new Date()) return false
+
+   return daysSince(tournament.updatedAt) >= AUTO_CLOSE_IDLE_DAYS
 }
 ```
+
+Prefer `updatedAt` over `startLocal` here: a multi-round tournament can run for hours past
+its start, and it is idleness the auto-close measures, not age.
 
 ## Coalesce concurrent work
 

@@ -1085,9 +1085,15 @@ components:
       type: string
       enum: [planned, started, completed]
       description: |
-        `started` is unreliable as a liveness signal — most started tournaments are finished
-        but were never marked complete. The only definitive signal is a game with
-        `status: "started"`.
+        Match Play **auto-closes a `started` tournament after two days with no activity**, so
+        the value is reasonably current for ordinary formats.
+
+        The exception is long-running asynchronous formats — `best_game`, `card_best_game`,
+        `golf` — which stay `started` and idle for weeks while their scheduled window
+        (`endLocal`) is open; one observed example had been idle 25 days.
+
+        For "is someone playing right now", neither is sufficient: use a game with
+        `status: "started"`, or a non-empty `activeGames` on a standings row.
 
     GameStatus:
       type: string

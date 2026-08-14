@@ -67,7 +67,7 @@ Match Play add formats. Code defensively — an unrecognised `type` should degra
 
 | Object | Values | Notes |
 | --- | --- | --- |
-| Tournament | `planned`, `started`, `completed` | [`started` usually means finished](/tournaments.html#status-started-usually-means-finished) |
+| Tournament | `planned`, `started`, `completed` | [auto-closed after 2 idle days](/tournaments.html#status-started), unless still inside its scheduled window |
 | Round | `started`, `completed` | |
 | Game | `started`, `completed` | Gate on `completed` before reading results |
 | Single-player game | `pending`, `started`, `completed` | Extra `pending` state |

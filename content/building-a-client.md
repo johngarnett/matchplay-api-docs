@@ -37,7 +37,7 @@ GET /tournaments?played={userId}&limit=100
 
 Deliberately **omit `status=completed`**. That filter would drop tournaments the organizer
 finished but never marked complete — which is most `started` tournaments
-([why](/tournaments.html#status-started-usually-means-finished)).
+([why](/tournaments.html#status-started)).
 
 Handle `403` matching `/opted out/i` as a normal outcome, not an error.
 
@@ -165,7 +165,7 @@ See [the six silences](/realtime.html#the-six-silences) for why each REST call i
 | `resultPositions` is not slot-aligned | Index `resultPoints` by `playerIds.indexOf()` |
 | Progressive knockouts never score `0.00` | Branch on `knockoutProgressive` first |
 | Byes inflate records | Skip `bye === true` |
-| `status=completed` drops finished tournaments | Accept `started` too |
+| `status=completed` drops tournaments still in their 2-day grace period | Accept `started` too |
 | `links.next` on `/tournaments` drops filters | Build page URLs yourself |
 | Deep pagination returns `401` | Don't page deeply; use exports |
 | Misspelled `include*` flags are ignored | Diff payloads when an expansion "doesn't work" |

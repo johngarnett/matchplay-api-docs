@@ -165,13 +165,17 @@ largest burst of API usage, so make sure your rate limiter is shared with it.
 
 ### 5. Completion is often never sent
 
-Organizers frequently just stop. No `TournamentUpdated` with `status: "completed"` ever
-arrives — which is the same behaviour that makes
-[`status: "started"` unreliable](/tournaments.html#status-started-usually-means-finished) in
-REST.
+Organizers frequently just stop, and no `TournamentUpdated` with `status: "completed"`
+arrives when they do.
+
+Match Play [auto-closes an idle tournament after two days](/tournaments.html#status-started),
+so completion does eventually happen server-side — but two days later, and **whether that
+auto-close emits an event has not been observed**. Either way it is far too late to drive a
+live display.
 
 **Workaround:** synthesize completion yourself — no activity for N minutes past the expected
-end, or a manual signal. Don't wait for an event that may never come.
+end, or a manual signal. Don't wait for an event that may never come, and don't wait for the
+auto-close.
 
 ### 6. `RoundsDeleted` does not delete the round's games
 

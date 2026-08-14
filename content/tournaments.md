@@ -121,23 +121,56 @@ When there are no links the array is `null`, not `[]`.
 
 `linkType` is `qualifying` or `playoff`.
 
-### `status: "started"` usually means finished
+### `status: "started"` and the two-day auto-close {#status-started}
 
-This is the most misleading value in the API. Organizers start a tournament, run it, and
-then simply close the laptop — the tournament stays `started` forever.
+Organizers routinely start a tournament, run it, and then just close the laptop without
+marking it complete. Match Play cleans up after them: **a `started` tournament with no
+activity for two days is closed automatically.**
 
-Measured on a live sample: **74 of 77** `started` tournaments were actually over, several by
-more than a month.
+Measured against the live `status=started` list:
 
-Consequences:
+<div class="table-scroll">
 
-- Filtering on `status=completed` **loses real, finished tournaments**. If you're computing
-  a player's record, you must include `started` too.
-- Filtering on `status=started` to find live events gives you mostly stale ones.
+| Group | Count | Longest idle |
+| --- | --- | --- |
+| Scheduled window closed (`endLocal` in the past) | 77 | **1.68 days** |
+| Scheduled window still open (`endLocal` in the future) | 23 | 24.85 days |
 
-The only definitive liveness signal is a **game with `status: "started"`**. Age is a weak
-proxy: a `started` tournament more than a couple of days past its `startLocal` is almost
-certainly done.
+</div>
+
+Not one tournament past its scheduled end had been idle for even two days — a clean cliff,
+exactly where the auto-close predicts. The long-idle exceptions are all still inside their
+scheduled window, and all long-running asynchronous formats: `best_game` ×13,
+`card_best_game` ×2, `golf`, `group_matchplay`. A month-long best-game competition is
+*supposed* to sit quiet between sessions.
+
+This sample cannot separate whether the exemption keys on `endLocal` or on the format type,
+since those two overlap almost perfectly here.
+
+<div class="callout callout-warn">
+<span class="callout-title">Older guidance on this is wrong</span>
+
+Documentation and code written before the auto-close — including earlier notes behind this
+site — describe `started` as mostly meaning "finished but abandoned", citing samples with
+tournaments idle for over a month. **That no longer holds.** In the sample above, zero
+tournaments were idle more than 25 days and none at all past their scheduled end.
+
+The auto-close was described by Match Play's author as a recent policy change, which is
+consistent with what older captures show.
+</div>
+
+What this means in practice:
+
+- **`started` is now a reasonable liveness signal** for ordinary formats — a knockout or
+  match play tournament in that state was active within the last two days.
+- **It is not a signal at all for long-running formats.** A `best_game` tournament can be
+  `started` and untouched for weeks.
+- **Filtering on `status=completed` still loses tournaments** — the ones currently inside
+  their two-day grace period, plus every long-running event still in its window. Include
+  `started` when computing a player's record.
+- **For "is someone playing right now"**, `started` is not enough. Use a game with
+  `status: "started"`, or a non-empty `activeGames` on a
+  [standings row](/standings.html#live-display-columns).
 
 ### The field set depends on the type
 

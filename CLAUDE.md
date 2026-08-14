@@ -227,13 +227,18 @@ appends every frame to `samples/raw/ws-<id>.jsonl`. It uses no REST calls, so it
 rate budget.
 
 The hard part is finding a tournament that is **actually being played right now**.
-`status: "started"` is nearly useless — most such tournaments finished long ago and were
-never marked complete. Better signals, cheapest first:
 
-1. `endLocal` in the future *and* a recent `updatedAt` on the tournament.
-2. Recent `updatedAt` on its most recent games — this is the reliable one. A tournament whose
-   newest game was updated days ago is idle no matter what its status says.
-3. A standings row with a non-empty `activeGames` array — definitive proof of a live game.
+Match Play auto-closes an idle tournament after two days, so `status: "started"` now means
+"active within the last 48 hours" for ordinary formats — a much better filter than it used
+to be. Long-running formats (`best_game`, `card_best_game`, `golf`) are exempt while their
+`endLocal` window is open and can sit idle for weeks, which is exactly the trap: they are
+the formats whose events we still need, and they are the ones most likely to be dormant.
+
+Signals, cheapest first — the list response carries `updatedAt`, so step 1 is free:
+
+1. `updatedAt` within the last hour or two on the tournament object itself.
+2. Recent `updatedAt` on its newest games. Definitive for idleness.
+3. A standings row with a non-empty `activeGames` array — proof a game is in progress now.
 
 For the single-player and queue events specifically, you need a live **`best_game` or
 `card_best_game`** tournament, and `useQueues: true` for `QueueChanged`.
