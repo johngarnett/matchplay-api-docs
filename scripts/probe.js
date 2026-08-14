@@ -1,0 +1,189 @@
+// Rate-limited prober for the Match Play Events API.
+//
+// Captures one real response per endpoint into samples/raw/ so the OpenAPI spec
+// can be written against observed payloads rather than guesses. Run manually --
+// it is deliberately not part of the build.
+//
+//    node scripts/probe.js              run every probe in PROBES
+//    node scripts/probe.js tournament   run only probes whose name matches
+//
+// GETs only, except the WPPR estimator which is a POST that computes rather
+// than mutates. Requests are spaced at least CALL_INTERVAL_MS apart -- four
+// times more conservative than the API's own 120/min ceiling, as a courtesy to
+// a small operator.
+
+const fs = require('node:fs')
+const path = require('node:path')
+
+process.loadEnvFile(path.join(__dirname, '..', '.env'))
+
+const API_BASE = 'https://app.matchplay.events/api'
+const CALL_INTERVAL_MS = 2000
+const RAW_DIR = path.join(__dirname, '..', 'samples', 'raw')
+const BODY_PREVIEW_LIMIT = 300
+
+// Tournaments chosen to cover distinct formats, all completed so their data is
+// stable. Discovered from the caches and fixtures of the sibling projects.
+const KNOCKOUT_TOURNAMENT = 261001
+const GROUP_KNOCKOUT_TOURNAMENT = 258562
+const GOLF_TOURNAMENT = 259350
+const SERIES_TOURNAMENT = 258965        // belongs to series 6140
+const BEST_GAME_TOURNAMENT = 261295     // type best_game
+const SAMPLE_USER = 17637
+const REAL_PLAYER_ID = 135991
+
+// Every expansion flag the handbook documents, requested in one call so we can
+// see which ones actually change the payload.
+const ALL_EXPANSIONS = [
+   'includePlayers', 'includeArenas', 'includeBanks', 'includeScorekeepers',
+   'includeLocation', 'includeEntryConfiguration', 'includeRsvpConfiguration',
+   'includeLinkedTournaments', 'includeEvent', 'includeShortcut', 'includeSeries'
+].map(flag => `${flag}=true`).join('&')
+
+const PROBES = [
+   // --- Tournaments ---------------------------------------------------------
+   { name: 'tournaments-played', path: `/tournaments?played=${SAMPLE_USER}&limit=5` },
+   { name: 'tournaments-status-started', path: '/tournaments?status=started&limit=3' },
+   { name: 'tournaments-status-planned', path: '/tournaments?status=planned&limit=3' },
+   { name: 'tournament-bare', path: `/tournaments/${KNOCKOUT_TOURNAMENT}` },
+   { name: 'tournament-all-expansions', path: `/tournaments/${KNOCKOUT_TOURNAMENT}?${ALL_EXPANSIONS}` },
+   { name: 'tournament-players-only', path: `/tournaments/${KNOCKOUT_TOURNAMENT}?includePlayers=true` },
+   { name: 'tournament-bogus-expansion', path: `/tournaments/${KNOCKOUT_TOURNAMENT}?includeRounds=true&includeGames=true` },
+
+   // --- Rounds, games, standings -------------------------------------------
+   { name: 'rounds', path: `/tournaments/${KNOCKOUT_TOURNAMENT}/rounds` },
+   { name: 'games-tournament-scoped', path: `/tournaments/${GROUP_KNOCKOUT_TOURNAMENT}/games` },
+   { name: 'games-global', path: `/games?tournaments=${GROUP_KNOCKOUT_TOURNAMENT}` },
+   { name: 'standings', path: `/tournaments/${KNOCKOUT_TOURNAMENT}/standings` },
+
+   // --- Single-player formats ----------------------------------------------
+   { name: 'single-player-games', path: `/tournaments/${GOLF_TOURNAMENT}/single-player-games?limit=5` },
+   { name: 'cards', path: `/tournaments/${GOLF_TOURNAMENT}/cards?limit=5` },
+
+   // --- Summaries (completed tournaments only) ------------------------------
+   { name: 'summary-arenas', path: `/tournaments/${KNOCKOUT_TOURNAMENT}/summary/arenas` },
+   { name: 'summary-player-arenas', path: `/tournaments/${KNOCKOUT_TOURNAMENT}/summary/player-arenas` },
+   { name: 'summary-matches', path: `/tournaments/${KNOCKOUT_TOURNAMENT}/summary/matches` },
+
+   // --- Resolvers -----------------------------------------------------------
+   { name: 'resolve-players-scoped', path: `/tournaments/${GROUP_KNOCKOUT_TOURNAMENT}/players/resolve-unknown?players=135991` },
+   { name: 'resolve-arenas-scoped', path: `/tournaments/${GROUP_KNOCKOUT_TOURNAMENT}/arenas/resolve-unknown?arenas=56443` },
+   { name: 'resolve-players-global', path: '/players/resolve-unknown?players=135991' },
+   { name: 'resolve-users-global', path: `/users/resolve-unknown?users=${SAMPLE_USER}` },
+
+   // --- Profile, search, ratings -------------------------------------------
+   { name: 'user', path: `/users/${SAMPLE_USER}` },
+   { name: 'user-self-profile', path: '/users/profile' },
+   { name: 'search-users', path: '/search?query=Jones&type=users' },
+   { name: 'players-global', path: '/players?players=5750&status=active' },
+   { name: 'ratings-by-user', path: '/ratings/users/5750' },
+   { name: 'ratings-by-ifpa', path: '/ratings/ifpa/31811' },
+
+   // --- OPDB / PinTips ------------------------------------------------------
+   { name: 'pintips', path: '/pintips?opdbId=G4do5-MDlN7' },
+   { name: 'opdb-entry', path: '/opdb/entries/G4do5-MDlN7' },
+
+   // --- Series and format-specific expansions -------------------------------
+   // 261001 has no series, so includeSeries cannot be judged from it alone.
+   { name: 'tournament-series-expansions', path: `/tournaments/${SERIES_TOURNAMENT}?${ALL_EXPANSIONS}` },
+   { name: 'tournament-bestgame-expansions', path: `/tournaments/${BEST_GAME_TOURNAMENT}?${ALL_EXPANSIONS}` },
+   { name: 'tournaments-by-series', path: '/tournaments?series=6140&limit=5' },
+   { name: 'games-live-tournament', path: `/tournaments/${BEST_GAME_TOURNAMENT}/single-player-games?status=started&limit=5` },
+
+   // --- Search parameter validation ----------------------------------------
+   { name: 'search-tournaments', path: '/search?query=Monday&type=tournaments' },
+   { name: 'search-arenas', path: '/search?query=Godzilla&type=arenas' },
+   { name: 'search-locations', path: '/search?query=Seattle&type=locations' },
+   { name: 'search-notype', path: '/search?query=Jones' },
+   { name: 'search-bogus-type', path: '/search?query=Jones&type=bananas' },
+
+   // The `players` param wants tournament playerIds, not userIds.
+   { name: 'players-global-real', path: `/players?players=${REAL_PLAYER_ID}` },
+
+   { name: 'opdb-changelog', path: '/opdb/changelog' },
+
+   // The API's only POST. Computes an estimate; stores nothing.
+   { name: 'wppr-estimator', path: '/ifpa/wppr-estimator', body: { tournamentId: KNOCKOUT_TOURNAMENT } },
+
+   // --- Error shapes --------------------------------------------------------
+   // Note: tournament id 1 exists, so a high id is needed for a real 404.
+   { name: 'error-404-tournament', path: '/tournaments/1' },
+   { name: 'error-404-tournament-high', path: '/tournaments/99999999' },
+   { name: 'error-404-standings', path: '/tournaments/99999999/standings' },
+   { name: 'error-404-user', path: '/users/999999999' },
+   { name: 'error-unauth', path: `/tournaments/${KNOCKOUT_TOURNAMENT}`, noAuth: true },
+   { name: 'error-page-past-end', path: '/tournaments?played=17637&limit=5&page=9999' }
+]
+
+let lastCallAt = 0
+
+// Wait until at least CALL_INTERVAL_MS has passed since the previous request.
+async function pace() {
+   const wait = lastCallAt + CALL_INTERVAL_MS - Date.now()
+   if (wait > 0) await new Promise(resolve => setTimeout(resolve, wait))
+   lastCallAt = Date.now()
+}
+
+// Perform one probe, writing the raw body to samples/raw/<name>.json and
+// returning a short console-friendly summary.
+async function runProbe(probe) {
+   await pace()
+
+   const method = probe.body ? 'POST' : 'GET'
+   const headers = { Accept: 'application/json' }
+
+   // A few probes deliberately omit auth to record what the API does without it.
+   if (!probe.noAuth) headers.Authorization = `Bearer ${process.env.MATCHPLAY_API_TOKEN}`
+
+   const options = { method, headers }
+   if (probe.body) {
+      headers['Content-Type'] = 'application/json'
+      options.body = JSON.stringify(probe.body)
+   }
+
+   const response = await fetch(`${API_BASE}${probe.path}`, options)
+   const text = await response.text()
+
+   fs.writeFileSync(path.join(RAW_DIR, `${probe.name}.json`), text)
+   fs.writeFileSync(
+      path.join(RAW_DIR, `${probe.name}.meta.json`),
+      JSON.stringify({
+         name: probe.name,
+         method,
+         path: probe.path,
+         status: response.status,
+         contentType: response.headers.get('content-type'),
+         bytes: text.length
+      }, null, 2)
+   )
+
+   return { status: response.status, bytes: text.length, preview: text.slice(0, BODY_PREVIEW_LIMIT) }
+}
+
+async function main() {
+   fs.mkdirSync(RAW_DIR, { recursive: true })
+
+   const filter = process.argv[2]
+   const probes = filter ? PROBES.filter(p => p.name.includes(filter)) : PROBES
+   if (!probes.length) {
+      console.error(`No probe matches "${filter}"`)
+      process.exit(1)
+   }
+
+   console.log(`Running ${probes.length} probes at ${CALL_INTERVAL_MS}ms spacing (~${Math.ceil(probes.length * CALL_INTERVAL_MS / 1000)}s)\n`)
+
+   for (const probe of probes) {
+      try {
+         const result = await runProbe(probe)
+         const flag = result.status >= 400 ? '!' : ' '
+         console.log(`${flag} ${String(result.status).padEnd(4)} ${probe.name.padEnd(28)} ${String(result.bytes).padStart(8)}b`)
+         if (result.status >= 400) console.log(`       ${result.preview.replace(/\s+/g, ' ')}`)
+      } catch (err) {
+         console.log(`! ERR  ${probe.name.padEnd(28)} ${err.message}`)
+      }
+   }
+
+   console.log(`\nRaw captures in ${RAW_DIR}`)
+}
+
+main()
