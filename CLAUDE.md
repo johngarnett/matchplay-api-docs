@@ -113,6 +113,98 @@ This project's entire value is that its claims are verified, so:
 - When a change is driven by new evidence, say so in the commit message and cite the
   evidence.
 
+## Adding a new endpoint
+
+Documenting an endpoint touches five files, and half-doing it fails the tests. In order:
+
+1. **Add a probe** to `PROBES` in `scripts/probe.js`, then `npm run probe <name>` to capture
+   a real response. Never write a schema from guesswork.
+2. **Add the path and schemas** to `spec/openapi.yaml` — `operationId`, `summary`, a `200`
+   response, and `x-evidence` on every property. Tests enforce the first three.
+3. **Write the prose** in `content/`, using `{{schema:Name}}` where a field table belongs.
+4. **Register the fixture** in `SAMPLE_EXPECTATIONS` in `tests/spec.test.js` — the `file`,
+   the `schema` it should match, and a `pick` that reaches the records inside the envelope.
+5. **Register it for trimming** in `FIXTURES` in `scripts/trim-samples.js`, then
+   `npm run trim-samples` and commit the result. A missing fixture fails the suite.
+
+Then `npm run build && npm test && npx playwright test`.
+
+## Adding a new page
+
+Create `content/<slug>.md` with front matter:
+
+```yaml
+---
+title: Full title
+navTitle: Short sidebar label   # optional
+description: One line, used in llms.txt and the meta description
+group: Core resources           # sidebar heading
+order: 7                        # must be unique, and keep groups contiguous
+---
+```
+
+Pages sort by `order`. Because the sidebar only prints a group heading when the group
+*changes*, a page whose `order` puts it away from its group-mates makes that heading appear
+twice. `index.md` becomes `/`; everything else becomes `/<slug>.html`.
+
+## Where the evidence lives
+
+Before probing the API, check whether the answer is already captured. These sibling projects
+hold far more data than a probe run will get you:
+
+| Path | What's in it |
+| --- | --- |
+| `../mptools/data/cache.sqlite` | 6,148 real games across 131 tournaments — tables `round_games`, `tournament_rounds`, `tournament_standings`, `tournament_players` |
+| `../monitor-matchplay/debug/` | 17 captures incl. 102 live tournaments spanning 13 formats, a 135-game unpaginated response, a live game, a deactivated roster |
+| `../monitor-matchplay/logs/events-*.log` | ~1,800 lines of real websocket traffic |
+| `../monitor-matchplay/docs/realtime-events.md` | Capture-transcribed websocket reference |
+| `../matchplay-live/debug/` | 15 captures across five tournament formats |
+| `../matchplay-live/docs/realtime-api-gaps.md` | The six websocket silences, with timelines |
+| `../waveshare/design.md` | Pagination, corpus sizes, Pusher close codes |
+
+Known-good ids for probing, covering distinct formats:
+
+| Id | What |
+| --- | --- |
+| `261001` | knockout, completed |
+| `258562` | group_knockout, 135 games in one response |
+| `258965` | matchplay, in series `6140` — use for `includeSeries` |
+| `259350` | golf — rounds with **zero** games |
+| `261295` | best_game — has `rsvpConfiguration` |
+| `264541` | knockout John Garnett played, organizer 17637 |
+
+Tournament id `1` **exists**, so it is useless as a "definitely missing" test value. Use
+`99999999`.
+
+## Still unverified — gaps worth closing
+
+Marked `unverified` in the spec, or flagged as open in the prose. If you find evidence,
+document it and update the badge:
+
+- Whether **websocket traffic counts against the 120/minute REST budget**. A busy tournament
+  emitted ~1,300 messages, which suggests not, but nobody has confirmed it.
+- The **`/tournaments/{id}/cards` payload shape** — every probe returned an empty page. Needs
+  a real `card_best_game` tournament.
+- Populated examples of **`entryConfiguration`, `event` and `shortcut`** — all three
+  expansions returned null or nothing on every tournament tried.
+- The **`SinglePlayerGameCreatedOrUpdated`, `SinglePlayerGamesDeleted`, `QueueChanged`,
+  `ArenasAdded` and `ArenasChanged`** websocket payloads — named in the docs, never observed.
+- The **`GamesDeleted`** payload shape.
+- Whether `/tournaments/{id}/games` has an **upper item limit**. 135 came back in one
+  response; the ceiling is unknown.
+
+## Gotchas that have already cost time
+
+- **Kill a stale preview server.** Playwright reuses an already-running one, so after
+  changing the build you can test the old output. If results look impossible:
+  `lsof -ti tcp:3100 | xargs kill`.
+- **`trim-samples` truncation takes the first N records**, which may not be the record the
+  prose quotes. Use a `pick` predicate instead when a specific row matters — see the WPPR
+  estimator entry.
+- **Never commit a real API token**, and never copy one out of a sibling project's scratch
+  scripts. Examples use the literal `YOUR_API_TOKEN`; the real one lives only in a
+  git-ignored `.env`.
+
 ## Conventions
 
 - Node 24+. **3-space indent, no semicolons** in JS. Named constants, not magic numbers.
