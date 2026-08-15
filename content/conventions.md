@@ -158,7 +158,7 @@ Because there is no `last_page`, the only correct termination test is:
 while (payload.links?.next) { /* fetch page + 1 */ }
 ```
 
-<div class="callout callout-warn">
+<div class="callout callout-warn" id="deep-pagination-is-blocked">
 <span class="callout-title">Deep pagination is blocked</span>
 
 Requesting a high page number returns **`401`** with:

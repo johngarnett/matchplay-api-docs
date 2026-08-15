@@ -299,6 +299,10 @@ The site deploys to https://johngarnett.github.io/matchplay-api-docs/ via
 `.github/workflows/pages.yml` on every push to `main`. The workflow runs `npm test` first, so
 a broken spec or missing fixture fails the deploy instead of publishing a bad page.
 
+Descriptions inside `spec/*.yaml` are rendered into the site by `{{openapi-reference}}`, so
+any Markdown link in them must resolve **here** — `/series.html`, not a Redoc-style
+`#tag/Series`. The Playwright link checker catches these.
+
 **Keep links root-relative in source** — write `/games.html`, not `./games.html`. A project
 repo is served from a subpath, and `applyBasePath()` in `src/build.js` prefixes every
 `href="/…"` and `src="/…"` once, on the finished document. Writing relative links by hand

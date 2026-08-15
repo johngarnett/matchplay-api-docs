@@ -623,7 +623,7 @@ paths:
       description: |
         Undocumented by Match Play. An event groups several tournaments into one multi-day
         happening — a festival or championship weekend — as distinct from a
-        [series](#tag/Series), which groups them over time.
+        series, which groups them over time.
 
         Length-aware pagination, 25 per page.
       parameters:
