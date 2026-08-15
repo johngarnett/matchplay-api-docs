@@ -172,6 +172,12 @@ non-empty result set is not a match; filter for the exact name.
   directions.
 - **Where code and the official handbook disagree, document observed behaviour** and record
   the divergence in `content/divergences.md`.
+- **When correcting a claim, grep for every place that restates it.** Overview bullets,
+  "what you get here" teasers and the divergences lists all paraphrase claims made in
+  depth elsewhere, and a correction applied only to the detailed page leaves them behind.
+  This has happened twice: the index still described `status: "started"` as meaning the
+  opposite of what it says long after the auto-close correction, and the divergences page
+  ended up contradicting itself about the same field on one screen.
 - **Claim only what was checked.** Avoid superlatives and statements about the whole world:
   "the only X in existence", "nowhere else", "no such thing exists". Absence is nearly
   impossible to verify and ages badly — Match Play could publish a spec tomorrow. Prefer

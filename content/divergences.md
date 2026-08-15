@@ -40,8 +40,10 @@ Not contradictions — gaps. Each is documented here from observation:
 - **Query parameters stripped** from `/tournaments` pagination links.
 - **Five timestamp formats**, two of which appear in the same object.
 - **Scoring semantics** — the four regimes for reading `resultPoints` and `resultPositions`.
-- **`status: "started"` mostly meaning finished** — measured at 74 of 77.
-- **`linkedTournamentId` always being null.**
+- **The two-day auto-close** on idle tournaments, and what it means for reading
+  `status: "started"`.
+- **`linkedTournamentId` being populated inconsistently** — null on recent tournaments,
+  set on older ones.
 - **Type-dependent field sets** where irrelevant keys are absent rather than null.
 - **`pointsMap` changing type** between REST and websocket.
 - **In-progress games returning null-filled result arrays.**

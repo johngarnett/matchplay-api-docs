@@ -51,7 +51,8 @@ attested it is.
   losses, which differs by format in ways that will silently corrupt your data if you get
   them wrong.
 - **The traps.** Silently ignored parameters, fields that change type between REST and
-  websocket, a status value that usually means the opposite of what it says.
+  websocket, and result arrays that are full of nulls rather than absent while a game is
+  still being played.
 
 ## Start here
 
