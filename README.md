@@ -51,7 +51,16 @@ which prefixes every root-relative link and asset. Local builds leave `BASE_PATH
 serve from `/` as before. Moving to a custom domain later means simply removing the variable
 from the workflow.
 
-One-time setup, if the repo is ever recreated: **Settings → Pages → Source: GitHub Actions**.
+Pages must be enabled on the repository before the workflow can deploy. It already is here;
+if the repo is ever recreated, enable it once via **Settings → Pages → Source: GitHub
+Actions**, or from the CLI:
+
+```bash
+gh api -X POST /repos/OWNER/REPO/pages -f build_type=workflow
+```
+
+The workflow cannot do this itself — `configure-pages` has an `enablement` option, but the
+default `GITHUB_TOKEN` lacks the admin rights to create a Pages site.
 
 ## Layout
 

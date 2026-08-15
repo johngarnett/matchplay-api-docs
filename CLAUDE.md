@@ -289,6 +289,11 @@ would defeat it.
 `BASE_PATH` is set only in CI. If the repo is renamed, or the site moves to a custom domain
 (which serves from the root), update or remove it in the workflow — nothing else changes.
 
+Pages must be enabled on the repo before the workflow can deploy, and **the workflow cannot
+do it itself** — `configure-pages`' `enablement` option fails with "Resource not accessible
+by integration" because the default `GITHUB_TOKEN` has no admin rights. Enable it once with
+`gh api -X POST /repos/OWNER/REPO/pages -f build_type=workflow`.
+
 ## Gotchas that have already cost time
 
 - **Kill a stale preview server.** Playwright reuses an already-running one, so after

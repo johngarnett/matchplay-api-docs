@@ -55,12 +55,14 @@ jobs:
         env:
           BASE_PATH: /matchplay-api-docs
 
-      # enablement: true turns Pages on via the API if it is not already
-      # configured, so a fresh clone of this repo deploys without anyone visiting
-      # the settings page first.
+      # Pages must already be enabled on the repository. `enablement: true` looks
+      # like it would handle that, but the default GITHUB_TOKEN cannot create a
+      # Pages site ("Resource not accessible by integration") — it needs admin
+      # rights the workflow token does not have. Enable it once instead, either
+      # in Settings -> Pages -> Source: GitHub Actions, or with:
+      #
+      #     gh api -X POST /repos/OWNER/REPO/pages -f build_type=workflow
       - uses: actions/configure-pages@v5
-        with:
-          enablement: true
 
       - uses: actions/upload-pages-artifact@v3
         with:
