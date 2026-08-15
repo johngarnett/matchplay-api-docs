@@ -64,6 +64,8 @@ tags:
     description: Aggregated per-tournament statistics, available once a tournament completes.
   - name: Series
     description: Recurring competitions that group tournaments together.
+  - name: Events
+    description: Multi-day events and the clubs that run tournaments.
   - name: Identity
     description: Resolving player, arena and user identifiers.
   - name: Ratings
@@ -609,6 +611,89 @@ paths:
                 type: object
                 properties:
                   data: { $ref: '#/components/schemas/Series' }
+        '404':
+          $ref: '#/components/responses/NotFound'
+
+  # ------------------------------------------------------------- Events & clubs
+  /events:
+    get:
+      tags: [Events]
+      operationId: listEvents
+      summary: List events
+      description: |
+        Undocumented by Match Play. An event groups several tournaments into one multi-day
+        happening — a festival or championship weekend — as distinct from a
+        [series](#tag/Series), which groups them over time.
+
+        Length-aware pagination, 25 per page.
+      parameters:
+        - $ref: '#/components/parameters/Page'
+      responses:
+        '200':
+          description: A page of events.
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  data:
+                    type: array
+                    items: { $ref: '#/components/schemas/Event' }
+                  links: { $ref: '#/components/schemas/PaginationLinks' }
+                  meta: { $ref: '#/components/schemas/PaginationMeta' }
+
+  /events/{eventId}:
+    get:
+      tags: [Events]
+      operationId: getEvent
+      summary: Get one event
+      description: |
+        Undocumented by Match Play. Returns the event with its `organizer`, `location`,
+        `links` and constituent `tournaments` embedded.
+      parameters:
+        - name: eventId
+          in: path
+          required: true
+          schema: { type: integer }
+          example: 1
+      responses:
+        '200':
+          description: The event.
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  data: { $ref: '#/components/schemas/Event' }
+        '404':
+          $ref: '#/components/responses/NotFound'
+
+  /clubs/{clubId}:
+    get:
+      tags: [Events]
+      operationId: getClub
+      summary: Get one club
+      description: |
+        Undocumented by Match Play. A club is an organisation that runs tournaments; a user's
+        `clubId` points here.
+
+        The list form, `GET /clubs`, answers `401 {"message":"Not allowed (token)"}` with an
+        ordinary token — the route exists but needs permissions a personal token lacks.
+      parameters:
+        - name: clubId
+          in: path
+          required: true
+          schema: { type: integer }
+          example: 57
+      responses:
+        '200':
+          description: The club.
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  data: { $ref: '#/components/schemas/Club' }
         '404':
           $ref: '#/components/responses/NotFound'
 
@@ -1240,9 +1325,13 @@ components:
         test: { type: boolean, x-evidence: verified, description: Sandbox tournament. Exclude from statistics. }
         link: { type: [string, 'null'], x-evidence: verified }
         linkedTournamentId:
-          type: 'null'
+          type: [integer, 'null']
           x-evidence: verified
-          description: '**A decoy.** Always null, even when a playoff link exists. Use `linkedTournaments`.'
+          description: |
+            Null on every one of 102 recent tournaments sampled, but **populated on older
+            ones** — 3 of 6 tournaments inside a 2023 event carried a value. Treat it as
+            unreliable rather than always absent, and prefer `linkedTournaments` from
+            `includeLinkedTournaments`, which is populated consistently.
         estimatedTgp: { type: [number, 'null'], x-evidence: verified, description: Estimated Tournament Grading Percentage for IFPA. }
         pointsMap:
           type: [array, 'null']
@@ -1297,7 +1386,7 @@ components:
         suggestions: { type: [string, 'null'], x-evidence: verified, enum: [automatic, restricted, disabled, null] }
         byes: { type: [string, 'null'], x-evidence: verified, enum: [full, half, zero, null] }
         tiebreaker: { type: [string, 'null'], x-evidence: verified, enum: [standard, placement, placement_last, wins, losses, disabled, null] }
-        scoring: { type: [string, 'null'], x-evidence: verified, enum: [ifpa, papa, dcleague, winnerbonus, winwinlossloss, null] }
+        scoring: { type: [string, 'null'], x-evidence: verified, enum: [ifpa, papa, pinburgh, dcleague, winnerbonus, winwinlossloss, '', null] }
         duration: { type: [integer, 'null'], x-evidence: verified, description: 'Planned round count for fixed-round formats. **Not** seconds — the identically named field on `Round` is seconds.' }
         gamesPerRound: { type: [integer, 'null'], x-evidence: verified }
         knockoutStrikeCount: { type: [integer, 'null'], x-evidence: verified, description: Strikes required for elimination. }
@@ -1380,6 +1469,59 @@ components:
         linkType: { type: string, enum: [qualifying, playoff], x-evidence: verified }
         linkIndex: { type: [integer, 'null'], x-evidence: derived }
         test: { type: [boolean, 'null'], x-evidence: derived }
+
+    Event:
+      type: object
+      description: |
+        A multi-day happening grouping several tournaments — a festival or championship
+        weekend. Distinct from a series, which groups tournaments over time rather than
+        into one occasion.
+      properties:
+        eventId: { type: integer, x-evidence: verified }
+        name: { type: string, x-evidence: verified }
+        status: { type: string, x-evidence: verified, example: active }
+        organizerId: { type: integer, x-evidence: verified }
+        locationId: { type: [integer, 'null'], x-evidence: verified }
+        contactEmail:
+          type: [string, 'null']
+          x-evidence: verified
+          description: 'Organiser contact address. Real addresses appear here — 17 of 25 events on one page carried one.'
+        startUtc: { type: string, x-evidence: verified }
+        startLocal: { type: string, x-evidence: verified }
+        endUtc: { type: [string, 'null'], x-evidence: verified }
+        endLocal: { type: [string, 'null'], x-evidence: verified }
+        registrationUtc: { type: [string, 'null'], x-evidence: verified, description: When registration opens. }
+        registrationLocal: { type: [string, 'null'], x-evidence: verified }
+        timezone: { type: [string, 'null'], x-evidence: verified }
+        description: { type: [string, 'null'], x-evidence: verified }
+        descriptionHtml: { type: [string, 'null'], x-evidence: verified, description: The description rendered to HTML by Match Play. }
+        descriptionPreviewHtml: { type: [string, 'null'], x-evidence: verified }
+        descriptionCollapse: { type: [integer, 'null'], x-evidence: verified }
+        banner: { type: [string, 'null'], x-evidence: verified }
+        layout: { type: [string, 'null'], x-evidence: verified }
+        layoutOrder: { type: [string, 'null'], x-evidence: verified }
+        isFavorite: { type: [boolean, 'null'], x-evidence: verified }
+        shortcutId: { type: [integer, 'null'], x-evidence: verified }
+        shortcutSlug: { type: [string, 'null'], x-evidence: verified, description: The custom link segment for this event. }
+        organizer: { $ref: '#/components/schemas/User', x-evidence: verified }
+        location: { oneOf: [{ $ref: '#/components/schemas/Location' }, { type: 'null' }], x-evidence: verified }
+        links: { type: array, x-evidence: verified, description: Organiser-supplied external links., items: { type: object } }
+        linkIds: { type: array, x-evidence: verified, items: { type: integer } }
+        tournaments: { type: array, x-evidence: verified, items: { $ref: '#/components/schemas/Tournament' } }
+        eventTournaments: { type: array, x-evidence: verified, description: Join records between the event and its tournaments., items: { type: object } }
+        eventTournamentIds: { type: array, x-evidence: verified, items: { type: integer } }
+
+    Club:
+      type: object
+      description: |
+        An organisation that runs tournaments. A user's `clubId` points at one.
+      properties:
+        clubId: { type: integer, x-evidence: verified }
+        name: { type: string, x-evidence: verified }
+        userId: { type: integer, x-evidence: verified, description: The account that owns the club. }
+        logo: { type: [string, 'null'], x-evidence: verified, description: 'CDN URL, `club-C<clubId>-<epoch>.jpg`.' }
+        description: { type: [string, 'null'], x-evidence: verified }
+        location: { type: [string, 'null'], x-evidence: verified, description: Free-text location. }
 
     SeriesBase:
       type: object

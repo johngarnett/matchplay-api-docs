@@ -22,10 +22,11 @@ try { message = JSON.parse(body).message } catch { message = body }
 
 | Code | Meaning | Cache the failure? |
 | --- | --- | --- |
-| `401` | Bad token — **or** deep pagination. See below | No |
+| `401` | Bad token, deep pagination, **or** a route your token cannot read. Match on the body | No |
 | `403` | Player opted out of sharing history | **Yes** |
 | `404` | No such record | **Yes** |
 | `410` | Gone | **Yes** |
+| `405` | The route exists but not for this method | **Yes** |
 | `422` | Invalid or missing query parameter | No — fix the request |
 | `429` | Rate limited | No — back off |
 | `5xx` | Server error | No |
@@ -76,6 +77,22 @@ if (!payload || !payload.meta || !Array.isArray(payload.data)) {
    return   // stop paging
 }
 ```
+
+## `405` and `401 Not allowed (token)`
+
+Two responses confirm that a route exists even though it did not answer:
+
+- **`405`** — `The GET method is not supported for route api/players/135991`. The path is
+  real, but not readable this way. Look for a sibling: `/api/players/resolve-unknown` works.
+- **`401 {"message":"Not allowed (token)"}`** — the route is real but a personal token cannot
+  read it. Seen on `/api/locations/{id}` and on the `/api/clubs` list, while
+  `/api/clubs/{id}` returns `200`.
+
+Both are more informative than a `404`, which means the route simply is not there. See
+[finding an endpoint](/conventions.html#finding-an-endpoint-insert-api).
+
+Note this `401` is a **different condition** from the deep-pagination guard above, which
+shares the status code but returns a different message. Match on the body.
 
 ## `403` — opted out {#opted-out}
 

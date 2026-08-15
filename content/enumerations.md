@@ -99,7 +99,7 @@ remember that on many tournaments the key is [absent entirely](/tournaments.html
 | `suggestions` | `automatic` (78), `restricted` (17), `disabled` (5) |
 | `byes` | `full` (82), `half`, `zero` |
 | `tiebreaker` | `standard` (7), `disabled` (2), `placement_last` (1), `placement`, `wins`, `losses` |
-| `scoring` | `ifpa` (7), `papa` (3), `winnerbonus` (1), `dcleague`, `winwinlossloss` |
+| `scoring` | `ifpa` (7), `papa` (3), `winnerbonus` (1), `pinburgh`, `dcleague`, `winwinlossloss`, and the empty string |
 | `bestGameScoring` | `bg_linear`, `bg_papa`, `bg_circuit`, `bg_indisc`, `bg_50_percent_de`, `bg_95_pct_mod_de` |
 | `organizer.role` | `player`, `organizer` |
 | `linkedTournaments[].linkType` | `qualifying`, `playoff` |

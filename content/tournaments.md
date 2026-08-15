@@ -104,11 +104,19 @@ curl -s "https://app.matchplay.events/api/tournaments/261001?includePlayers=true
 
 ## Three things that will bite you
 
-### `linkedTournamentId` is a decoy
+### `linkedTournamentId` is unreliable
 
-The scalar `linkedTournamentId` field is **always `null`** — on all 102 tournaments in one
-sample, including ones with a demonstrable playoff link. Only the plural
-`linkedTournaments[]` array, behind `includeLinkedTournaments`, carries the real link.
+The scalar `linkedTournamentId` was `null` on **all 102 tournaments** in a sample of recent
+ones, including tournaments with a demonstrable playoff link — which is why it is easy to
+conclude it is never used.
+
+It is used. Three of the six tournaments inside a 2023 event carried real values. The
+difference appears to be age: those tournaments have ids around 113,000 against roughly
+266,000 for the recent sample.
+
+Whatever the cause, the field is populated inconsistently, so **don't branch on it**. The
+plural `linkedTournaments[]` array, behind `includeLinkedTournaments`, is populated
+consistently and carries the link type as well as the id.
 
 When there are no links the array is `null`, not `[]`.
 

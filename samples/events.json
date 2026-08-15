@@ -1,0 +1,916 @@
+{
+  "data": {
+    "eventId": 1,
+    "organizerId": 334,
+    "locationId": 6703,
+    "name": "Seaside Champ III",
+    "status": "active",
+    "contactEmail": "organizer@example.com",
+    "startUtc": "2023-12-15T03:00:00.000000Z",
+    "startLocal": "2023-12-14 19:00:00",
+    "endUtc": "2023-12-18T06:00:00.000000Z",
+    "endLocal": "2023-12-17 22:00:00",
+    "registrationUtc": "2023-11-01T17:00:00.000000Z",
+    "registrationLocal": "2023-11-01 10:00:00",
+    "timezone": "America/Los_Angeles",
+    "layout": "default",
+    "layoutOrder": "description,tournaments,videos",
+    "description": "Seaside Champ is the two day annual open group match play championship organized by Monterey Flipper Pinball at Lynn's Arcade in [Seaside, CA](https://goo.gl/maps/rTKkq6ea7n3QUvKz7). Seaside Champ III is an IFPA endorsed tournament limited to 72 players.\n\nThis year we're extending the Seaside Sideshows with one additional tournament during the day on Friday. The sideshows are organized independently from Seaside Champ while respecting the schedule of the main event. Thursday Night Strikes is a weekly tournament for the folks who want to show up early and spend time on the games and hang out in the arcade.\n\nSupport the event with [official merch from DRI374](https://www.teepublic.com/user/dri374/t-shirts/albums/263669-seaside-champ) (t-shirts, hoodies, stickers and more!)",
+    "descriptionCollapse": 1,
+    "descriptionPreviewHtml": "<p>Seaside Champ is the two day annual open group match play championship organized by Monterey Flipper Pinball at Lynn's Arcade in <a href=\"https://goo.gl/maps/rTKkq6ea7n3QUvKz7\">Seaside, CA</a>. Seaside Champ III is an IFPA endorsed tournament limited to 72 players.</p>\n",
+    "descriptionHtml": "<p>Seaside Champ is the two day annual open group match play championship organized by Monterey Flipper Pinball at Lynn's Arcade in <a href=\"https://goo.gl/maps/rTKkq6ea7n3QUvKz7\">Seaside, CA</a>. Seaside Champ III is an IFPA endorsed tournament limited to 72 players.</p>\n<p>This year we're extending the Seaside Sideshows with one additional tournament during the day on Friday. The sideshows are organized independently from Seaside Champ while respecting the schedule of the main event. Thursday Night Strikes is a weekly tournament for the folks who want to show up early and spend time on the games and hang out in the arcade.</p>\n<p>Support the event with <a href=\"https://www.teepublic.com/user/dri374/t-shirts/albums/263669-seaside-champ\">official merch from DRI374</a> (t-shirts, hoodies, stickers and more!)</p>\n",
+    "banner": "https://mp-avatars.sfo3.cdn.digitaloceanspaces.com/banner-E1-1701467972.jpg",
+    "isFavorite": false,
+    "organizer": {
+      "userId": 334,
+      "businessProfileId": null,
+      "clubId": 58,
+      "name": "Player Name",
+      "firstName": "Player",
+      "lastName": "Name",
+      "ifpaId": 11575,
+      "role": "organizer",
+      "flag": "se",
+      "location": "Santa Cruz, CA",
+      "pronouns": "he",
+      "initials": "PN",
+      "ratingsOptOut": false,
+      "statsOptOut": false,
+      "videoOptOut": false,
+      "profileOptOut": false,
+      "historyOptOut": false,
+      "historyOnlyCompleted": false,
+      "avatar": "https://mp-avatars.sfo3.cdn.digitaloceanspaces.com/avatar-U334-0000000000.jpg",
+      "banner": "https://mp-avatars.sfo3.cdn.digitaloceanspaces.com/banner-U334-0000000000.jpg",
+      "tournamentAvatar": "https://mp-avatars.sfo3.cdn.digitaloceanspaces.com/t-avatar-U334-0000000000.jpg",
+      "createdAt": "2015-10-13T15:47:11.000000Z"
+    },
+    "location": {
+      "locationId": 6703,
+      "scorbitVenueId": 827,
+      "scorbitVenueUuid": "0dd24f89-61f5-493c-a87b-b36ef32516dc",
+      "pinballmapId": 12883,
+      "name": "Lynn's Arcade: A Pinball Parlor and Can Slangery",
+      "organizerId": 334,
+      "status": "active",
+      "address": "1760 Fremont Boulevard, Suite D1, Seaside, California 93955, US",
+      "lat": 36.612429,
+      "lng": -121.837776
+    },
+    "links": [
+      {
+        "linkId": 1,
+        "userId": 334,
+        "label": "Stream",
+        "url": "https://twitch.tv/lynnsarcade",
+        "isRegistration": 0,
+        "embed": 0
+      },
+      {
+        "linkId": 2,
+        "userId": 334,
+        "label": "Registration",
+        "url": "https://www.eventbrite.com/e/seaside-champ-iii-tickets-732213258567",
+        "isRegistration": 1,
+        "embed": 0
+      },
+      {
+        "linkId": 3,
+        "userId": 334,
+        "label": "Merch",
+        "url": "https://www.teepublic.com/user/dri374/t-shirts/albums/263669-seaside-champ",
+        "isRegistration": 0,
+        "embed": 0
+      },
+      {
+        "linkId": 23,
+        "userId": 334,
+        "label": "Games",
+        "url": "http://lynnsarcade.com/sciiigamelist",
+        "isRegistration": 0,
+        "embed": 0
+      }
+    ],
+    "linkIds": [
+      1,
+      23,
+      3,
+      2
+    ],
+    "eventTournaments": [
+      {
+        "eventTournamentId": 1,
+        "eventId": 1,
+        "userId": 334,
+        "tournamentId": 113558,
+        "labels": [
+          "Sideshow"
+        ],
+        "labelColor": "sky",
+        "playerLimit": 40,
+        "tgp": null,
+        "externalName": null,
+        "externalLink": null,
+        "externalLocation": null,
+        "externalStartUtc": null,
+        "externalStartLocal": null,
+        "externalEndUtc": null,
+        "externalEndLocal": null
+      },
+      {
+        "eventTournamentId": 2,
+        "eventId": 1,
+        "userId": 334,
+        "tournamentId": 113556,
+        "labels": [
+          "Sideshow"
+        ],
+        "labelColor": "sky",
+        "playerLimit": null,
+        "tgp": null,
+        "externalName": null,
+        "externalLink": null,
+        "externalLocation": null,
+        "externalStartUtc": null,
+        "externalStartLocal": null,
+        "externalEndUtc": null,
+        "externalEndLocal": null
+      },
+      {
+        "eventTournamentId": 3,
+        "eventId": 1,
+        "userId": 334,
+        "tournamentId": 113553,
+        "labels": [
+          "Sideshow"
+        ],
+        "labelColor": "sky",
+        "playerLimit": null,
+        "tgp": null,
+        "externalName": null,
+        "externalLink": null,
+        "externalLocation": null,
+        "externalStartUtc": null,
+        "externalStartLocal": null,
+        "externalEndUtc": null,
+        "externalEndLocal": null
+      },
+      {
+        "eventTournamentId": 4,
+        "eventId": 1,
+        "userId": 334,
+        "tournamentId": 113552,
+        "labels": [
+          "Sideshow"
+        ],
+        "labelColor": "sky",
+        "playerLimit": null,
+        "tgp": null,
+        "externalName": null,
+        "externalLink": null,
+        "externalLocation": null,
+        "externalStartUtc": null,
+        "externalStartLocal": null,
+        "externalEndUtc": null,
+        "externalEndLocal": null
+      },
+      {
+        "eventTournamentId": 13,
+        "eventId": 1,
+        "userId": 334,
+        "tournamentId": 123200,
+        "labels": [
+          "Main"
+        ],
+        "labelColor": "lime",
+        "playerLimit": 72,
+        "tgp": null,
+        "externalName": null,
+        "externalLink": null,
+        "externalLocation": null,
+        "externalStartUtc": null,
+        "externalStartLocal": null,
+        "externalEndUtc": null,
+        "externalEndLocal": null
+      },
+      {
+        "eventTournamentId": 14,
+        "eventId": 1,
+        "userId": 334,
+        "tournamentId": 123201,
+        "labels": [
+          "Weekly"
+        ],
+        "labelColor": "gray",
+        "playerLimit": null,
+        "tgp": null,
+        "externalName": null,
+        "externalLink": null,
+        "externalLocation": null,
+        "externalStartUtc": null,
+        "externalStartLocal": null,
+        "externalEndUtc": null,
+        "externalEndLocal": null
+      }
+    ],
+    "eventTournamentIds": [
+      14,
+      4,
+      3,
+      13,
+      2,
+      1
+    ],
+    "tournaments": [
+      {
+        "tournamentId": 113558,
+        "name": "Seaside Sideshow: Turf Masters Pingolf 2023",
+        "status": "completed",
+        "type": "golf",
+        "startUtc": "2023-12-17T20:00:00.000000Z",
+        "startLocal": "2023-12-17 12:00:00",
+        "endUtc": "2023-12-17T20:00:00.000000Z",
+        "endLocal": "2023-12-17 12:00:00",
+        "completedAt": "2023-12-18T03:59:59.000000Z",
+        "organizerId": 334,
+        "locationId": 6703,
+        "seriesId": null,
+        "description": "9 holes objective-based Pingolf. Objectives announced at tee time. Games will be clearly marked with Turf Masters. Practice is not allowed. Objectives must be observed by another player in the group. Top 4 players present at 8pm advance to playoffs.",
+        "pointsMap": null,
+        "tiebreakerPointsMap": [
+          [
+            "0.50"
+          ],
+          [
+            "0.50",
+            "0.00"
+          ],
+          [
+            "0.50",
+            "0.25",
+            "0.00"
+          ],
+          [
+            "0.50",
+            "0.25",
+            "0.12",
+            "0.00"
+          ]
+        ],
+        "test": false,
+        "timezone": "America/Los_Angeles",
+        "scorekeeping": "user",
+        "link": "https://www.ifpapinball.com/tournaments/view.php?t=67065",
+        "linkedTournamentId": 125129,
+        "estimatedTgp": null,
+        "prizePool": null,
+        "pointsMapCustom": null,
+        "createdAt": "2023-09-03 16:42:29",
+        "updatedAt": "2024-09-09 00:56:43",
+        "motdText": null,
+        "motdColor": null,
+        "motdExpiration": null,
+        "managers": [],
+        "primaryConfigSettings": [],
+        "organizer": {
+          "userId": 334,
+          "businessProfileId": null,
+          "clubId": 58,
+          "name": "Player Name",
+          "firstName": "Player",
+          "lastName": "Name",
+          "ifpaId": 11575,
+          "role": "organizer",
+          "flag": "se",
+          "location": "Santa Cruz, CA",
+          "pronouns": "he",
+          "initials": "PN",
+          "ratingsOptOut": false,
+          "statsOptOut": false,
+          "videoOptOut": false,
+          "profileOptOut": false,
+          "historyOptOut": false,
+          "historyOnlyCompleted": false,
+          "avatar": "https://mp-avatars.sfo3.cdn.digitaloceanspaces.com/avatar-U334-0000000000.jpg",
+          "banner": "https://mp-avatars.sfo3.cdn.digitaloceanspaces.com/banner-U334-0000000000.jpg",
+          "tournamentAvatar": "https://mp-avatars.sfo3.cdn.digitaloceanspaces.com/t-avatar-U334-0000000000.jpg",
+          "createdAt": "2015-10-13T15:47:11.000000Z"
+        },
+        "location": {
+          "locationId": 6703,
+          "scorbitVenueId": 827,
+          "scorbitVenueUuid": "0dd24f89-61f5-493c-a87b-b36ef32516dc",
+          "pinballmapId": 12883,
+          "name": "Lynn's Arcade: A Pinball Parlor and Can Slangery",
+          "organizerId": 334,
+          "status": "active",
+          "address": "1760 Fremont Boulevard, Suite D1, Seaside, California 93955, US",
+          "lat": 36.612429,
+          "lng": -121.837776
+        },
+        "golfDuration": 9,
+        "tiebreaker": "standard",
+        "suggestions": "automatic",
+        "playoffsCutoffs": [
+          {
+            "index": 0,
+            "value": 4,
+            "cumulative": 4,
+            "text": "FINALS CUTOFF",
+            "color": "red"
+          }
+        ],
+        "golfParScore": 0,
+        "golfStrokeLimit": 6,
+        "golfHolesCounted": 0
+      },
+      {
+        "tournamentId": 113556,
+        "name": "Seaside Sideshow: Fair Strikes Group Knockout",
+        "status": "completed",
+        "type": "group_knockout",
+        "startUtc": "2023-12-17T02:00:00.000000Z",
+        "startLocal": "2023-12-16 18:00:00",
+        "endUtc": "2023-12-17T02:00:00.000000Z",
+        "endLocal": "2023-12-16 18:00:00",
+        "completedAt": "2023-12-17T10:21:59.000000Z",
+        "organizerId": 334,
+        "locationId": 6703,
+        "seriesId": null,
+        "description": "Tournament starts 30 minutes after the last group finishes Main qualification, including potential tiebreakers. Last person standing wins this 0/1/1/2 fair strikes tournament. Get 8 strikes and you're out!",
+        "pointsMap": [
+          [
+            "1.00"
+          ],
+          [
+            "1.00",
+            "0.01"
+          ],
+          [
+            "1.00",
+            "0.02",
+            "0.01"
+          ],
+          [
+            "1.00",
+            "0.02",
+            "0.02",
+            "0.01"
+          ]
+        ],
+        "tiebreakerPointsMap": [
+          [
+            "0.50"
+          ],
+          [
+            "0.50",
+            "0.00"
+          ],
+          [
+            "0.50",
+            "0.25",
+            "0.00"
+          ],
+          [
+            "0.50",
+            "0.25",
+            "0.12",
+            "0.00"
+          ]
+        ],
+        "test": false,
+        "timezone": "America/Los_Angeles",
+        "scorekeeping": "user",
+        "link": "https://www.ifpapinball.com/tournaments/view.php?t=67069",
+        "linkedTournamentId": null,
+        "estimatedTgp": null,
+        "prizePool": null,
+        "pointsMapCustom": null,
+        "createdAt": "2023-09-03 16:32:07",
+        "updatedAt": "2026-04-08 09:24:40",
+        "motdText": null,
+        "motdColor": null,
+        "motdExpiration": null,
+        "managers": [],
+        "primaryConfigSettings": [
+          "knockoutStrikeCount",
+          "knockoutFourPlayerStrikes"
+        ],
+        "organizer": {
+          "userId": 334,
+          "businessProfileId": null,
+          "clubId": 58,
+          "name": "Player Name",
+          "firstName": "Player",
+          "lastName": "Name",
+          "ifpaId": 11575,
+          "role": "organizer",
+          "flag": "se",
+          "location": "Santa Cruz, CA",
+          "pronouns": "he",
+          "initials": "PN",
+          "ratingsOptOut": false,
+          "statsOptOut": false,
+          "videoOptOut": false,
+          "profileOptOut": false,
+          "historyOptOut": false,
+          "historyOnlyCompleted": false,
+          "avatar": "https://mp-avatars.sfo3.cdn.digitaloceanspaces.com/avatar-U334-0000000000.jpg",
+          "banner": "https://mp-avatars.sfo3.cdn.digitaloceanspaces.com/banner-U334-0000000000.jpg",
+          "tournamentAvatar": "https://mp-avatars.sfo3.cdn.digitaloceanspaces.com/t-avatar-U334-0000000000.jpg",
+          "createdAt": "2015-10-13T15:47:11.000000Z"
+        },
+        "location": {
+          "locationId": 6703,
+          "scorbitVenueId": 827,
+          "scorbitVenueUuid": "0dd24f89-61f5-493c-a87b-b36ef32516dc",
+          "pinballmapId": 12883,
+          "name": "Lynn's Arcade: A Pinball Parlor and Can Slangery",
+          "organizerId": 334,
+          "status": "active",
+          "address": "1760 Fremont Boulevard, Suite D1, Seaside, California 93955, US",
+          "lat": 36.612429,
+          "lng": -121.837776
+        },
+        "seeding": "random",
+        "firstRoundPairing": "random",
+        "pairing": "swiss",
+        "playerOrder": "balanced",
+        "playerOrderOpen": "scorekeepers",
+        "arenaAssignment": "balanced",
+        "knockoutStrikeCount": 8,
+        "playoffsCutoffs": [],
+        "suggestions": "restricted",
+        "knockoutProgressive": false,
+        "knockoutFair": true,
+        "knockoutThreePlayerStrikes": 0,
+        "knockoutFourPlayerStrikes": 101
+      },
+      {
+        "tournamentId": 113553,
+        "name": "Seaside Sideshow: Target Match Play 2023",
+        "status": "completed",
+        "type": "target",
+        "startUtc": "2023-12-16T03:00:00.000000Z",
+        "startLocal": "2023-12-15 19:00:00",
+        "endUtc": "2023-12-16T03:00:00.000000Z",
+        "endLocal": "2023-12-15 19:00:00",
+        "completedAt": "2023-12-16T08:25:46.000000Z",
+        "organizerId": 334,
+        "locationId": 6703,
+        "seriesId": null,
+        "description": "Warm up to Seaside Champ in this group target match play tournament with 3/2/1/0 scoring. First person to reach 24 ends the tournament. There is no playoffs and ties will only be broken for first place on a randomly selected game.",
+        "pointsMap": [
+          [
+            "3"
+          ],
+          [
+            "3",
+            "0"
+          ],
+          [
+            "3",
+            "1.5",
+            "0"
+          ],
+          [
+            "3",
+            "2",
+            "1",
+            "0"
+          ]
+        ],
+        "tiebreakerPointsMap": [
+          [
+            "0.50"
+          ],
+          [
+            "0.50",
+            "0.00"
+          ],
+          [
+            "0.50",
+            "0.25",
+            "0.00"
+          ],
+          [
+            "0.50",
+            "0.25",
+            "0.12",
+            "0.00"
+          ]
+        ],
+        "test": false,
+        "timezone": "America/Los_Angeles",
+        "scorekeeping": "user",
+        "link": "https://www.ifpapinball.com/tournaments/view.php?t=67062",
+        "linkedTournamentId": null,
+        "estimatedTgp": null,
+        "prizePool": null,
+        "pointsMapCustom": null,
+        "createdAt": "2023-09-03 16:21:19",
+        "updatedAt": "2026-04-08 09:24:17",
+        "motdText": null,
+        "motdColor": null,
+        "motdExpiration": null,
+        "managers": [],
+        "primaryConfigSettings": [],
+        "organizer": {
+          "userId": 334,
+          "businessProfileId": null,
+          "clubId": 58,
+          "name": "Player Name",
+          "firstName": "Player",
+          "lastName": "Name",
+          "ifpaId": 11575,
+          "role": "organizer",
+          "flag": "se",
+          "location": "Santa Cruz, CA",
+          "pronouns": "he",
+          "initials": "PN",
+          "ratingsOptOut": false,
+          "statsOptOut": false,
+          "videoOptOut": false,
+          "profileOptOut": false,
+          "historyOptOut": false,
+          "historyOnlyCompleted": false,
+          "avatar": "https://mp-avatars.sfo3.cdn.digitaloceanspaces.com/avatar-U334-0000000000.jpg",
+          "banner": "https://mp-avatars.sfo3.cdn.digitaloceanspaces.com/banner-U334-0000000000.jpg",
+          "tournamentAvatar": "https://mp-avatars.sfo3.cdn.digitaloceanspaces.com/t-avatar-U334-0000000000.jpg",
+          "createdAt": "2015-10-13T15:47:11.000000Z"
+        },
+        "location": {
+          "locationId": 6703,
+          "scorbitVenueId": 827,
+          "scorbitVenueUuid": "0dd24f89-61f5-493c-a87b-b36ef32516dc",
+          "pinballmapId": 12883,
+          "name": "Lynn's Arcade: A Pinball Parlor and Can Slangery",
+          "organizerId": 334,
+          "status": "active",
+          "address": "1760 Fremont Boulevard, Suite D1, Seaside, California 93955, US",
+          "lat": 36.612429,
+          "lng": -121.837776
+        },
+        "seeding": "random",
+        "firstRoundPairing": "random",
+        "pairing": "swiss",
+        "playerOrder": "balanced",
+        "playerOrderOpen": "scorekeepers",
+        "arenaAssignment": "balanced",
+        "suggestions": "restricted",
+        "duration": 0,
+        "gamesPerRound": 1,
+        "playoffsCutoffs": [],
+        "scoring": "pinburgh",
+        "targetPoints": 24
+      },
+      {
+        "tournamentId": 113552,
+        "name": "Seaside Sidehow: Max Match Play 2023",
+        "status": "completed",
+        "type": "max_matchplay",
+        "startUtc": "2023-12-15T21:00:00.000000Z",
+        "startLocal": "2023-12-15 13:00:00",
+        "endUtc": "2023-12-15T21:00:00.000000Z",
+        "endLocal": "2023-12-15 13:00:00",
+        "completedAt": "2023-12-16T01:03:56.000000Z",
+        "organizerId": 334,
+        "locationId": 6703,
+        "seriesId": null,
+        "description": "Warm up to Seaside Champ in this Max Match Play tournament where we go head-to-head for three hours and then take top 8 with the most wins to a head-to-head best 2 out of 3 single elimination bracket on randomly assigned games from qualifying.",
+        "pointsMap": [
+          [
+            1
+          ],
+          [
+            1,
+            0
+          ],
+          [
+            1,
+            0,
+            0
+          ],
+          [
+            1,
+            0,
+            0
+          ]
+        ],
+        "tiebreakerPointsMap": [
+          [
+            "0.50"
+          ],
+          [
+            "0.50",
+            "0.00"
+          ],
+          [
+            "0.50",
+            "0.25",
+            "0.00"
+          ],
+          [
+            "0.50",
+            "0.25",
+            "0.12",
+            "0.00"
+          ]
+        ],
+        "test": false,
+        "timezone": "America/Los_Angeles",
+        "scorekeeping": "user",
+        "link": "https://www.ifpapinball.com/tournaments/view.php?t=67064",
+        "linkedTournamentId": 124839,
+        "estimatedTgp": null,
+        "prizePool": null,
+        "pointsMapCustom": null,
+        "createdAt": "2023-09-03 16:13:44",
+        "updatedAt": "2026-04-08 09:24:17",
+        "motdText": null,
+        "motdColor": null,
+        "motdExpiration": null,
+        "managers": [],
+        "primaryConfigSettings": [
+          "maxMatchplayDuration",
+          "maxMatchplayMaxActive"
+        ],
+        "organizer": {
+          "userId": 334,
+          "businessProfileId": null,
+          "clubId": 58,
+          "name": "Player Name",
+          "firstName": "Player",
+          "lastName": "Name",
+          "ifpaId": 11575,
+          "role": "organizer",
+          "flag": "se",
+          "location": "Santa Cruz, CA",
+          "pronouns": "he",
+          "initials": "PN",
+          "ratingsOptOut": false,
+          "statsOptOut": false,
+          "videoOptOut": false,
+          "profileOptOut": false,
+          "historyOptOut": false,
+          "historyOnlyCompleted": false,
+          "avatar": "https://mp-avatars.sfo3.cdn.digitaloceanspaces.com/avatar-U334-0000000000.jpg",
+          "banner": "https://mp-avatars.sfo3.cdn.digitaloceanspaces.com/banner-U334-0000000000.jpg",
+          "tournamentAvatar": "https://mp-avatars.sfo3.cdn.digitaloceanspaces.com/t-avatar-U334-0000000000.jpg",
+          "createdAt": "2015-10-13T15:47:11.000000Z"
+        },
+        "location": {
+          "locationId": 6703,
+          "scorbitVenueId": 827,
+          "scorbitVenueUuid": "0dd24f89-61f5-493c-a87b-b36ef32516dc",
+          "pinballmapId": 12883,
+          "name": "Lynn's Arcade: A Pinball Parlor and Can Slangery",
+          "organizerId": 334,
+          "status": "active",
+          "address": "1760 Fremont Boulevard, Suite D1, Seaside, California 93955, US",
+          "lat": 36.612429,
+          "lng": -121.837776
+        },
+        "maxMatchplayDuration": 16,
+        "maxMatchplayMaxActive": 0,
+        "maxMatchplayScorekeeperCreate": 0,
+        "playerOrder": "balanced",
+        "playerOrderOpen": "scorekeepers",
+        "arenaAssignment": "balanced",
+        "playoffsCutoffs": [
+          {
+            "index": 0,
+            "value": 8,
+            "cumulative": 8,
+            "text": "FINALS CUTOFF",
+            "color": "red"
+          }
+        ],
+        "suggestions": "restricted",
+        "tiebreaker": "disabled"
+      },
+      {
+        "tournamentId": 123200,
+        "name": "Seaside Champ III",
+        "status": "completed",
+        "type": "group_matchplay",
+        "startUtc": "2023-12-16T19:04:00.000000Z",
+        "startLocal": "2023-12-16 11:04:00",
+        "endUtc": "2023-12-18T04:00:00.000000Z",
+        "endLocal": "2023-12-17 20:00:00",
+        "completedAt": "2023-12-17T02:30:54.000000Z",
+        "organizerId": 60,
+        "locationId": null,
+        "seriesId": null,
+        "description": "12 Round Group Match Play Qualifier\nBalanced Arena Draws\nTiered Swiss Pairing\nTop 24 Move on to Sunday Finals\nTop 8 get a Bye round Sunday",
+        "pointsMap": [
+          [
+            7
+          ],
+          [
+            7,
+            1
+          ],
+          [
+            7,
+            4,
+            1
+          ],
+          [
+            7,
+            5,
+            3,
+            1
+          ]
+        ],
+        "tiebreakerPointsMap": [
+          [
+            "0.50"
+          ],
+          [
+            "0.50",
+            "0.00"
+          ],
+          [
+            "0.50",
+            "0.25",
+            "0.00"
+          ],
+          [
+            "0.50",
+            "0.25",
+            "0.12",
+            "0.00"
+          ]
+        ],
+        "test": false,
+        "timezone": "America/Los_Angeles",
+        "scorekeeping": "disabled",
+        "link": null,
+        "linkedTournamentId": 124993,
+        "estimatedTgp": null,
+        "prizePool": null,
+        "pointsMapCustom": null,
+        "createdAt": "2023-12-01 21:09:05",
+        "updatedAt": "2026-04-08 09:24:40",
+        "motdText": null,
+        "motdColor": null,
+        "motdExpiration": null,
+        "managers": [],
+        "primaryConfigSettings": [],
+        "organizer": {
+          "userId": 60,
+          "businessProfileId": null,
+          "clubId": null,
+          "name": "Player Name",
+          "firstName": "Player",
+          "lastName": "Name",
+          "ifpaId": 19422,
+          "role": "organizer",
+          "flag": "us-ca",
+          "location": "Seaside, CA",
+          "pronouns": "he",
+          "initials": "PN",
+          "ratingsOptOut": false,
+          "statsOptOut": false,
+          "videoOptOut": false,
+          "profileOptOut": false,
+          "historyOptOut": false,
+          "historyOnlyCompleted": false,
+          "avatar": "https://mp-avatars.sfo3.cdn.digitaloceanspaces.com/avatar-U60-0000000000.jpg",
+          "banner": null,
+          "tournamentAvatar": null,
+          "createdAt": "2015-05-31T19:59:43.000000Z"
+        },
+        "seeding": "random",
+        "firstRoundPairing": "random",
+        "pairing": "tiers",
+        "playerOrder": "balanced",
+        "playerOrderOpen": "scorekeepers",
+        "arenaAssignment": "balanced",
+        "suggestions": "restricted",
+        "duration": 12,
+        "gamesPerRound": 1,
+        "playoffsCutoffs": [
+          {
+            "index": 0,
+            "value": 24,
+            "cumulative": 24,
+            "text": "FINALS CUTOFF",
+            "color": "red"
+          }
+        ],
+        "tiebreaker": "disabled",
+        "scoring": "ifpa"
+      },
+      {
+        "tournamentId": 123201,
+        "name": "Thursday Night Strikes - Seaside Champ Edition",
+        "status": "completed",
+        "type": "knockout",
+        "startUtc": "2023-12-15T03:30:00.000000Z",
+        "startLocal": "2023-12-14 19:30:00",
+        "endUtc": "2023-12-15T03:30:00.000000Z",
+        "endLocal": "2023-12-14 19:30:00",
+        "completedAt": "2023-12-15T06:20:17.000000Z",
+        "organizerId": 60,
+        "locationId": null,
+        "seriesId": null,
+        "description": "Head to Head Strikes\n3 strikes\nPlayer Listed first chooses game\nCan’t choose the same game twice",
+        "pointsMap": [
+          [
+            1
+          ],
+          [
+            1,
+            0
+          ],
+          [
+            1,
+            0,
+            0
+          ],
+          [
+            1,
+            0,
+            0
+          ]
+        ],
+        "tiebreakerPointsMap": [
+          [
+            "0.50"
+          ],
+          [
+            "0.50",
+            "0.00"
+          ],
+          [
+            "0.50",
+            "0.25",
+            "0.00"
+          ],
+          [
+            "0.50",
+            "0.25",
+            "0.12",
+            "0.00"
+          ]
+        ],
+        "test": false,
+        "timezone": "America/Los_Angeles",
+        "scorekeeping": "disabled",
+        "link": null,
+        "linkedTournamentId": null,
+        "estimatedTgp": null,
+        "prizePool": null,
+        "pointsMapCustom": null,
+        "createdAt": "2023-12-01 21:11:54",
+        "updatedAt": "2026-04-08 09:23:50",
+        "motdText": null,
+        "motdColor": null,
+        "motdExpiration": null,
+        "managers": [],
+        "primaryConfigSettings": [
+          "knockoutStrikeCount",
+          "pairing"
+        ],
+        "organizer": {
+          "userId": 60,
+          "businessProfileId": null,
+          "clubId": null,
+          "name": "Player Name",
+          "firstName": "Player",
+          "lastName": "Name",
+          "ifpaId": 19422,
+          "role": "organizer",
+          "flag": "us-ca",
+          "location": "Seaside, CA",
+          "pronouns": "he",
+          "initials": "PN",
+          "ratingsOptOut": false,
+          "statsOptOut": false,
+          "videoOptOut": false,
+          "profileOptOut": false,
+          "historyOptOut": false,
+          "historyOnlyCompleted": false,
+          "avatar": "https://mp-avatars.sfo3.cdn.digitaloceanspaces.com/avatar-U60-0000000000.jpg",
+          "banner": null,
+          "tournamentAvatar": null,
+          "createdAt": "2015-05-31T19:59:43.000000Z"
+        },
+        "seeding": "random",
+        "firstRoundPairing": "random",
+        "pairing": "swiss",
+        "playerOrder": "balanced",
+        "playerOrderOpen": "scorekeepers",
+        "arenaAssignment": "manual",
+        "knockoutStrikeCount": 3,
+        "playoffsCutoffs": [],
+        "suggestions": "disabled",
+        "byes": "full"
+      }
+    ],
+    "shortcutId": 1555,
+    "shortcutSlug": "seaside-champ-iii"
+  }
+}

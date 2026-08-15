@@ -61,6 +61,7 @@ Claims that circulate among API consumers which observation does not support:
 | Score-based formats return games without `userIds` | They return **no games at all**. Across 6,148 cached games, none lacked `userIds`; golf tournaments 259350, 256439 and 257742 each had multiple rounds holding zero games |
 | Paging past the end returns an empty body | Returns `401` with a scraping message. An empty body may occur in other circumstances, so guard for both |
 | There is no standalone series endpoint | **Wrong.** `GET /series/{id}` and `GET /series` both exist and are undocumented. See [Series](/series.html) |
+| `linkedTournamentId` is a decoy that is always null | **Only true of recent tournaments.** Null across 102 sampled recent ones, but populated on 3 of 6 tournaments inside a 2023 event. Unreliable rather than unused — see [Tournaments](/tournaments.html) |
 | `data` may collapse to a bare object on collections | Never observed on a collection. It *is* a bare object on `/tournaments/{id}`. Normalising defensively remains sensible |
 | `status: "started"` mostly means "finished but abandoned", with tournaments idle for over a month | **No longer true.** Match Play now auto-closes an idle tournament after two days. Measured across the live `status=started` list: of 77 tournaments past their scheduled end, the longest idle was 1.68 days. The 23 exceeding two days were all still inside their scheduled window and all long-running formats. Older captures predate this policy |
 

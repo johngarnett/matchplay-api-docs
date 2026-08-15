@@ -40,7 +40,13 @@ const PLACEHOLDER_INITIALS = 'PN'
 
 // Keys whose values name or depict a person.
 const PERSON_NAME_KEYS = new Set(['name', 'firstName', 'lastName', 'initials'])
-const AVATAR_KEYS = new Set(['avatar', 'banner', 'tournamentAvatar'])
+const AVATAR_KEYS = new Set(['avatar', 'banner', 'tournamentAvatar', 'logo'])
+
+// Contact details are scrubbed wherever they appear, regardless of whether the
+// surrounding record looks like a person. An event carries a real organiser's
+// email address but has no userId, so the person heuristic below never sees it.
+const CONTACT_KEYS = new Set(['contactEmail', 'email', 'phone'])
+const PLACEHOLDER_EMAIL = 'organizer@example.com'
 
 // Does this object describe a person? Tournaments, arenas and locations also have
 // a `name`, and theirs must survive — only person-shaped records are rewritten.
@@ -71,7 +77,9 @@ function anonymize(node) {
    const out = {}
 
    for (const [key, value] of Object.entries(node)) {
-      if (person && PERSON_NAME_KEYS.has(key) && typeof value === 'string' && value !== '') {
+      if (CONTACT_KEYS.has(key) && typeof value === 'string' && value !== '') {
+         out[key] = PLACEHOLDER_EMAIL
+      } else if (person && PERSON_NAME_KEYS.has(key) && typeof value === 'string' && value !== '') {
          if (key === 'firstName') out[key] = PLACEHOLDER_FIRST_NAME
          else if (key === 'lastName') out[key] = PLACEHOLDER_LAST_NAME
          else if (key === 'initials') out[key] = PLACEHOLDER_INITIALS
@@ -102,6 +110,9 @@ const FIXTURES = [
    { file: 'search-users.json', envelope: 'data' },
    { file: 'series.json', envelope: 'whole' },
    { file: 'series-list.json', envelope: 'data' },
+   { file: 'events.json', envelope: 'whole' },
+   { file: 'events-list.json', envelope: 'data', limit: 1 },
+   { file: 'clubs.json', envelope: 'whole' },
    { file: 'single-player-games.json', envelope: 'data' },
    { file: 'cards.json', envelope: 'data', limit: 1 },
    { file: 'summary-arenas.json', envelope: 'data' },

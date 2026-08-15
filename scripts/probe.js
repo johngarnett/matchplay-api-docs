@@ -109,6 +109,15 @@ const PROBES = [
 
    { name: 'opdb-changelog', path: '/opdb/changelog' },
 
+   // Found by inserting /api into a website path — see content/conventions.md.
+   { name: 'events', path: '/events/1' },
+   { name: 'events-list', path: '/events' },
+   { name: 'clubs', path: '/clubs/57' },
+   // The three diagnostic failures that identify a real-but-unreadable route.
+   { name: 'error-405-players', path: '/players/135991' },
+   { name: 'error-401-locations', path: '/locations/10993' },
+   { name: 'error-401-clubs-list', path: '/clubs' },
+
    // The API's only POST. Computes an estimate; stores nothing.
    { name: 'wppr-estimator', path: '/ifpa/wppr-estimator', body: { tournamentId: KNOCKOUT_TOURNAMENT } },
 

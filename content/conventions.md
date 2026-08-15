@@ -31,6 +31,46 @@ and are Laravel Sanctum style: `<id>|<secret>`.
 The rate budget is charged against the **token**, not your IP — see
 [Rate limits](/rate-limits.html).
 
+## Finding an endpoint: insert `/api`
+
+Match Play's API paths mirror its website paths. If a page exists on the site, the same path
+under `/api` usually returns the same thing as JSON:
+
+<div class="table-scroll">
+
+| Web page | API |
+| --- | --- |
+| `app.matchplay.events/tournaments/261001` | `app.matchplay.events/api/tournaments/261001` |
+| `app.matchplay.events/series/6224` | `app.matchplay.events/api/series/6224` |
+| `app.matchplay.events/users/5750` | `app.matchplay.events/api/users/5750` |
+
+</div>
+
+This is how several of the undocumented endpoints on this site were found. If you need data
+you can see on the website but cannot find in any documentation, look at the URL of the page
+showing it and try the same path under `/api`.
+
+<div class="callout">
+<span class="callout-title">The failure modes tell you what you found</span>
+
+The four responses are a useful diagnostic. Guessing costs one request each:
+
+| Response | Meaning |
+| --- | --- |
+| `200` | The endpoint exists and your token can read it |
+| `404` `The route api/… could not be found.` | No such route — the guess was wrong |
+| `405` `The GET method is not supported for route …` | **The route exists**, but not for `GET`. Try a sibling path — `/api/players/{id}` is a 405 while `/api/players/resolve-unknown` works |
+| `401` `Not allowed (token)` | **The route exists**, but a personal token lacks permission. `/api/locations/{id}` and `/api/clubs` both answer this |
+
+`405` and `401` are the interesting ones: both confirm a route is really there, which a
+`404` does not. Note that `401 Not allowed (token)` is a different condition from the
+[deep-pagination guard](#deep-pagination-is-blocked), which shares the status code but says
+something else entirely.
+</div>
+
+Please guess gently — space attempts out like any other call, and see
+[Rate limits](/rate-limits.html).
+
 ## The five response envelopes
 
 <div class="table-scroll">

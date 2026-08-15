@@ -118,6 +118,9 @@ const SAMPLE_EXPECTATIONS = [
    { file: 'search-users.json', schema: 'User', pick: body => body.data },
    { file: 'series.json', schema: 'Series', pick: body => [body.data] },
    { file: 'series-list.json', schema: 'SeriesListItem', pick: body => body.data },
+   { file: 'events.json', schema: 'Event', pick: body => [body.data] },
+   { file: 'events-list.json', schema: 'Event', pick: body => body.data },
+   { file: 'clubs.json', schema: 'Club', pick: body => [body.data] },
    { file: 'single-player-games.json', schema: 'SinglePlayerGame', pick: body => body.data },
    { file: 'cards.json', schema: 'Card', pick: body => body.data },
    { file: 'summary-arenas.json', schema: 'ArenaSummaryRow', pick: body => body.data },
@@ -164,6 +167,23 @@ test('captured samples validate against the schemas the spec claims describe the
    }
 
    assert.ok(checked > 0, 'no records were validated')
+})
+
+test('no committed fixture contains a contact address', () => {
+   // Events carry a real organiser email and have no userId, so the person
+   // heuristic in trim-samples.js does not cover them on its own.
+   const EMAIL_RE = /[\w.+-]+@[\w-]+\.[\w.]+/g
+   const ALLOWED = new Set(['organizer@example.com'])
+   const offenders = []
+
+   for (const file of fs.readdirSync(COMMITTED_SAMPLES).filter(f => f.endsWith('.json'))) {
+      const text = fs.readFileSync(path.join(COMMITTED_SAMPLES, file), 'utf8')
+      for (const match of text.match(EMAIL_RE) || []) {
+         if (!ALLOWED.has(match)) offenders.push(`${file}: ${match}`)
+      }
+   }
+
+   assert.deepEqual(offenders, [], 'a committed fixture leaks a contact address')
 })
 
 test('no sample carries a property the schema does not document', () => {

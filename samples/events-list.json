@@ -1,0 +1,145 @@
+{
+  "data": [
+    {
+      "eventId": 520,
+      "organizerId": 26655,
+      "locationId": 12330,
+      "name": "Pinball in Stockholm 2027",
+      "status": "active",
+      "contactEmail": null,
+      "startUtc": "2027-02-11T14:00:00.000000Z",
+      "startLocal": "2027-02-11 15:00:00",
+      "endUtc": "2027-02-14T18:00:00.000000Z",
+      "endLocal": "2027-02-14 19:00:00",
+      "registrationUtc": "2026-09-27T18:00:00.000000Z",
+      "registrationLocal": "2026-09-27 20:00:00",
+      "timezone": "Europe/Stockholm",
+      "layout": "default",
+      "layoutOrder": "description,tournaments,video",
+      "description": "Four days of silverball madness in February 2027 for up to 144 players at Flipperdoktorn where the main tournament has a TGP of 300% (f 128 or more players IFPA certified +) and which culminates in a Grand Final on Valentine's Day.\n\nHosted at the legendary Flipperdoktorn — a Stockholm sanctuary for the silverball, with approx. 80 meticulously tuned machines under one roof.\n\nRegistration opens on the 27th of September at 20:00 (CET) and payment must reach us within 14 days of registration (or you'll end up at the end of the waiting list) via Swish to 123 315 15 94, or by bank transfer to Handelsbanken, clearing number XXXX, account number XXX XXX XXX. The payment recipient is Nacka Pinball (remember to include your name and IFPA ID). Registration for Main equals registration for the whole event.\n\nFor participants outside of Sweden see https://pinball-in-stockholm.lovable.app/ for more information on how to make your payment.\n\nThe full tournament pass is 1,000 SEK for Swedish players and 100 euros for international players. This covers all four days of play, including qualifying rounds and the Grand Finals. When we have received the payment, your name will be marked as “PAID” at Matchplay.\n\nAny registration that has not been paid by within 14 days will be moved to a potential waiting list and replaced by a waiting‑list participant who has completed payment.\n\nNo refunds will be issued for cancellations after December 31.",
+      "descriptionCollapse": 0,
+      "descriptionPreviewHtml": "",
+      "descriptionHtml": "<p>Four days of silverball madness in February 2027 for up to 144 players at Flipperdoktorn where the main tournament has a TGP of 300% (f 128 or more players IFPA certified +) and which culminates in a Grand Final on Valentine's Day.</p>\n<p>Hosted at the legendary Flipperdoktorn — a Stockholm sanctuary for the silverball, with approx. 80 meticulously tuned machines under one roof.</p>\n<p>Registration opens on the 27th of September at 20:00 (CET) and payment must reach us within 14 days of registration (or you'll end up at the end of the waiting list) via Swish to 123 315 15 94, or by bank transfer to Handelsbanken, clearing number XXXX, account number XXX XXX XXX. The payment recipient is Nacka Pinball (remember to include your name and IFPA ID). Registration for Main equals registration for the whole event.</p>\n<p>For participants outside of Sweden see https://pinball-in-stockholm.lovable.app/ for more information on how to make your payment.</p>\n<p>The full tournament pass is 1,000 SEK for Swedish players and 100 euros for international players. This covers all four days of play, including qualifying rounds and the Grand Finals. When we have received the payment, your name will be marked as “PAID” at Matchplay.</p>\n<p>Any registration that has not been paid by within 14 days will be moved to a potential waiting list and replaced by a waiting‑list participant who has completed payment.</p>\n<p>No refunds will be issued for cancellations after December 31.</p>\n",
+      "banner": "https://mp-avatars.sfo3.cdn.digitaloceanspaces.com/banner-E520-1781951623.jpg",
+      "isFavorite": null,
+      "location": {
+        "locationId": 12330,
+        "scorbitVenueId": null,
+        "scorbitVenueUuid": null,
+        "pinballmapId": null,
+        "name": "Flipperdoktorn",
+        "organizerId": 26655,
+        "status": "active",
+        "address": "Sundbyberg",
+        "lat": null,
+        "lng": null
+      }
+    }
+  ],
+  "links": {
+    "first": "https://app.matchplay.events/api/events?page=1",
+    "last": "https://app.matchplay.events/api/events?page=18",
+    "prev": null,
+    "next": "https://app.matchplay.events/api/events?page=2"
+  },
+  "meta": {
+    "current_page": 1,
+    "from": 1,
+    "last_page": 18,
+    "links": [
+      {
+        "url": null,
+        "label": "&laquo; Previous",
+        "page": null,
+        "active": false
+      },
+      {
+        "url": "https://app.matchplay.events/api/events?page=1",
+        "label": "1",
+        "page": 1,
+        "active": true
+      },
+      {
+        "url": "https://app.matchplay.events/api/events?page=2",
+        "label": "2",
+        "page": 2,
+        "active": false
+      },
+      {
+        "url": "https://app.matchplay.events/api/events?page=3",
+        "label": "3",
+        "page": 3,
+        "active": false
+      },
+      {
+        "url": "https://app.matchplay.events/api/events?page=4",
+        "label": "4",
+        "page": 4,
+        "active": false
+      },
+      {
+        "url": "https://app.matchplay.events/api/events?page=5",
+        "label": "5",
+        "page": 5,
+        "active": false
+      },
+      {
+        "url": "https://app.matchplay.events/api/events?page=6",
+        "label": "6",
+        "page": 6,
+        "active": false
+      },
+      {
+        "url": "https://app.matchplay.events/api/events?page=7",
+        "label": "7",
+        "page": 7,
+        "active": false
+      },
+      {
+        "url": "https://app.matchplay.events/api/events?page=8",
+        "label": "8",
+        "page": 8,
+        "active": false
+      },
+      {
+        "url": "https://app.matchplay.events/api/events?page=9",
+        "label": "9",
+        "page": 9,
+        "active": false
+      },
+      {
+        "url": "https://app.matchplay.events/api/events?page=10",
+        "label": "10",
+        "page": 10,
+        "active": false
+      },
+      {
+        "url": null,
+        "label": "...",
+        "active": false
+      },
+      {
+        "url": "https://app.matchplay.events/api/events?page=17",
+        "label": "17",
+        "page": 17,
+        "active": false
+      },
+      {
+        "url": "https://app.matchplay.events/api/events?page=18",
+        "label": "18",
+        "page": 18,
+        "active": false
+      },
+      {
+        "url": "https://app.matchplay.events/api/events?page=2",
+        "label": "Next &raquo;",
+        "page": 2,
+        "active": false
+      }
+    ],
+    "path": "https://app.matchplay.events/api/events",
+    "per_page": 25,
+    "to": 25,
+    "total": 426
+  }
+}
