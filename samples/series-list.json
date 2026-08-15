@@ -1,0 +1,154 @@
+{
+  "data": [
+    {
+      "seriesId": 6346,
+      "name": "Vermont Pinball League Season 11 (VPL11) @ The Pinball Co-op",
+      "status": "active",
+      "organizerId": 8932,
+      "test": false,
+      "removedResults": 0,
+      "playoffsCutoffs": [
+        {
+          "index": 0,
+          "value": 24,
+          "cumulative": 24,
+          "text": "FINALS CUTOFF",
+          "color": "red"
+        }
+      ],
+      "scoring": "points",
+      "estimatedTgp": null,
+      "scoringCustom": null,
+      "tournamentIds": [
+        267037
+      ]
+    },
+    {
+      "seriesId": 6345,
+      "name": "BR.cade Pinball League - Round 5",
+      "status": "active",
+      "organizerId": 42780,
+      "test": false,
+      "removedResults": -4,
+      "playoffsCutoffs": [
+        {
+          "index": 0,
+          "value": 8,
+          "cumulative": 8,
+          "text": "FINALS CUTOFF",
+          "color": "red"
+        }
+      ],
+      "scoring": "points",
+      "estimatedTgp": null,
+      "scoringCustom": null,
+      "tournamentIds": []
+    }
+  ],
+  "links": {
+    "first": "https://app.matchplay.events/api/series?page=1",
+    "last": "https://app.matchplay.events/api/series?page=188",
+    "prev": null,
+    "next": "https://app.matchplay.events/api/series?page=2"
+  },
+  "meta": {
+    "current_page": 1,
+    "from": 1,
+    "last_page": 188,
+    "links": [
+      {
+        "url": null,
+        "label": "&laquo; Previous",
+        "page": null,
+        "active": false
+      },
+      {
+        "url": "https://app.matchplay.events/api/series?page=1",
+        "label": "1",
+        "page": 1,
+        "active": true
+      },
+      {
+        "url": "https://app.matchplay.events/api/series?page=2",
+        "label": "2",
+        "page": 2,
+        "active": false
+      },
+      {
+        "url": "https://app.matchplay.events/api/series?page=3",
+        "label": "3",
+        "page": 3,
+        "active": false
+      },
+      {
+        "url": "https://app.matchplay.events/api/series?page=4",
+        "label": "4",
+        "page": 4,
+        "active": false
+      },
+      {
+        "url": "https://app.matchplay.events/api/series?page=5",
+        "label": "5",
+        "page": 5,
+        "active": false
+      },
+      {
+        "url": "https://app.matchplay.events/api/series?page=6",
+        "label": "6",
+        "page": 6,
+        "active": false
+      },
+      {
+        "url": "https://app.matchplay.events/api/series?page=7",
+        "label": "7",
+        "page": 7,
+        "active": false
+      },
+      {
+        "url": "https://app.matchplay.events/api/series?page=8",
+        "label": "8",
+        "page": 8,
+        "active": false
+      },
+      {
+        "url": "https://app.matchplay.events/api/series?page=9",
+        "label": "9",
+        "page": 9,
+        "active": false
+      },
+      {
+        "url": "https://app.matchplay.events/api/series?page=10",
+        "label": "10",
+        "page": 10,
+        "active": false
+      },
+      {
+        "url": null,
+        "label": "...",
+        "active": false
+      },
+      {
+        "url": "https://app.matchplay.events/api/series?page=187",
+        "label": "187",
+        "page": 187,
+        "active": false
+      },
+      {
+        "url": "https://app.matchplay.events/api/series?page=188",
+        "label": "188",
+        "page": 188,
+        "active": false
+      },
+      {
+        "url": "https://app.matchplay.events/api/series?page=2",
+        "label": "Next &raquo;",
+        "page": 2,
+        "active": false
+      }
+    ],
+    "path": "https://app.matchplay.events/api/series",
+    "per_page": 25,
+    "to": 25,
+    "total": 4678
+  }
+}

@@ -3,7 +3,7 @@ title: Profiles, search & ratings
 navTitle: Profiles & ratings
 description: Undocumented endpoints for search, global players, and Match Play Ratings
 group: Reference
-order: 14
+order: 15
 ---
 
 # Profiles, search & ratings

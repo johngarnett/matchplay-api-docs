@@ -2,7 +2,7 @@
 title: Legacy endpoints
 description: The older unauthenticated API on the bare matchplay.events host
 group: Reference
-order: 16
+order: 17
 ---
 
 # Legacy endpoints

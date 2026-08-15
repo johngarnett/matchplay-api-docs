@@ -3,7 +3,7 @@ title: Summaries & WPPR
 navTitle: Summaries & WPPR
 description: Pre-aggregated per-tournament statistics, and the WPPR estimator
 group: Reference
-order: 13
+order: 14
 ---
 
 # Summaries & WPPR

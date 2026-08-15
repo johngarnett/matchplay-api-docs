@@ -3,7 +3,7 @@ title: Differences from the handbook
 navTitle: Divergences
 description: Where this documentation contradicts the official docs, and why
 group: Guides
-order: 19
+order: 20
 ---
 
 # Differences from the handbook
@@ -46,8 +46,8 @@ Not contradictions — gaps. Each is documented here from observation:
 - **`pointsMap` changing type** between REST and websocket.
 - **In-progress games returning null-filled result arrays.**
 - **The six websocket silences.**
-- **`/search`, `/players`, `/ratings/users/{id}`, `/ratings/ifpa/{id}`** — four undocumented
-  endpoints.
+- **`/search`, `/players`, `/ratings/users/{id}`, `/ratings/ifpa/{id}`, `/series`,
+  `/series/{id}`** — six undocumented endpoints.
 - **The legacy unauthenticated API** on the bare `matchplay.events` host.
 
 ## Corrections to earlier community understanding
@@ -60,6 +60,7 @@ Claims that circulate among API consumers which observation does not support:
 | --- | --- |
 | Score-based formats return games without `userIds` | They return **no games at all**. Across 6,148 cached games, none lacked `userIds`; golf tournaments 259350, 256439 and 257742 each had multiple rounds holding zero games |
 | Paging past the end returns an empty body | Returns `401` with a scraping message. An empty body may occur in other circumstances, so guard for both |
+| There is no standalone series endpoint | **Wrong.** `GET /series/{id}` and `GET /series` both exist and are undocumented. See [Series](/series.html) |
 | `data` may collapse to a bare object on collections | Never observed on a collection. It *is* a bare object on `/tournaments/{id}`. Normalising defensively remains sensible |
 | `status: "started"` mostly means "finished but abandoned", with tournaments idle for over a month | **No longer true.** Match Play now auto-closes an idle tournament after two days. Measured across the live `status=started` list: of 77 tournaments past their scheduled end, the longest idle was 1.68 days. The 23 exceeding two days were all still inside their scheduled window and all long-running formats. Older captures predate this policy |
 

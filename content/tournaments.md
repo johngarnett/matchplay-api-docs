@@ -292,8 +292,8 @@ Requires `includeSeries`, and only populates when `seriesId` is non-null:
 }
 ```
 
-`removedResults: -5` means "drop the five worst results". There is no standalone series
-endpoint — use `GET /tournaments?series={id}` to enumerate a series' tournaments.
+There **is** a standalone series endpoint, and a list of every series — see
+[Series](/series.html). The embed here is the leanest of the three shapes a series takes.
 
 ## Field reference
 

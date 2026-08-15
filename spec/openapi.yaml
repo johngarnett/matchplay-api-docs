@@ -59,6 +59,8 @@ tags:
     description: Computed placements.
   - name: Summaries
     description: Aggregated per-tournament statistics, available once a tournament completes.
+  - name: Series
+    description: Recurring competitions that group tournaments together.
   - name: Identity
     description: Resolving player, arena and user identifiers.
   - name: Ratings
@@ -545,6 +547,66 @@ paths:
                     items: { $ref: '#/components/schemas/MatchSummaryRow' }
                   links: { $ref: '#/components/schemas/PaginationLinks' }
                   meta: { $ref: '#/components/schemas/PaginationMeta' }
+
+  # -------------------------------------------------------------------- Series
+  /series:
+    get:
+      tags: [Series]
+      operationId: listSeries
+      summary: List series
+      description: |
+        Undocumented by Match Play. Returns a page of series — 4,678 across 188 pages when
+        sampled, 25 per page.
+
+        List items carry **`tournamentIds`**, which the single-series endpoint does not, so
+        this is the cheapest way to learn which tournaments belong to a series.
+      parameters:
+        - $ref: '#/components/parameters/Page'
+      responses:
+        '200':
+          description: A page of series.
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  data:
+                    type: array
+                    items: { $ref: '#/components/schemas/SeriesListItem' }
+                  links: { $ref: '#/components/schemas/PaginationLinks' }
+                  meta: { $ref: '#/components/schemas/PaginationMeta' }
+
+  /series/{seriesId}:
+    get:
+      tags: [Series]
+      operationId: getSeries
+      summary: Get one series
+      description: |
+        Undocumented by Match Play. Returns the series with its `organizer` and
+        `rsvpConfiguration` embedded — neither of which appears on the list.
+
+        It does **not** return `tournamentIds`, so use `GET /tournaments?series={id}` or the
+        list endpoint to enumerate a series' tournaments.
+
+        Expansion parameters are ignored here: `?includeTournaments=true&includePlayers=true`
+        returned a byte-identical response to the bare request.
+      parameters:
+        - name: seriesId
+          in: path
+          required: true
+          schema: { type: integer }
+          example: 6224
+      responses:
+        '200':
+          description: The series.
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  data: { $ref: '#/components/schemas/Series' }
+        '404':
+          $ref: '#/components/responses/NotFound'
 
   # ------------------------------------------------------------------ Identity
   /tournaments/{tournamentId}/players/resolve-unknown:
@@ -1315,23 +1377,69 @@ components:
         linkIndex: { type: [integer, 'null'], x-evidence: derived }
         test: { type: [boolean, 'null'], x-evidence: derived }
 
-    Series:
+    SeriesBase:
       type: object
-      description: A recurring series a tournament belongs to. Requires `includeSeries`.
+      description: |
+        A recurring competition grouping tournaments together.
+
+        The same series arrives in **three different shapes** depending on where you fetch
+        it — see `Series` and `SeriesListItem`. These are the fields common to all three.
       properties:
         seriesId: { type: integer, x-evidence: verified }
         name: { type: string, x-evidence: verified }
-        status: { $ref: '#/components/schemas/ActiveStatus', x-evidence: verified }
+        status: { $ref: '#/components/schemas/ActiveStatus', x-evidence: verified, description: Only `active` observed. }
         organizerId: { type: integer, x-evidence: verified }
         test: { type: boolean, x-evidence: verified }
         removedResults:
           type: [integer, 'null']
           x-evidence: verified
-          description: 'Dropped-results rule. Negative means "drop this many worst results", e.g. `-5`.'
+          description: |
+            Dropped-results rule. Observed values span **-6 to 2 including 0**, so the sign
+            is not a simple "drop N worst" flag; the exact semantics are unconfirmed.
         playoffsCutoffs: { type: array, x-evidence: verified, items: { $ref: '#/components/schemas/PlayoffCutoff' } }
-        scoring: { type: [string, 'null'], x-evidence: verified, example: bg_papa }
+        scoring:
+          type: [string, 'null']
+          x-evidence: verified
+          description: |
+            **A different enum from a tournament's `scoring`.** Observed: `points`,
+            `bg_linear`, `bg_papa`, `pingolf`.
+          example: bg_linear
         scoringCustom: { type: ['object', 'null'], x-evidence: verified }
         estimatedTgp: { type: [number, 'null'], x-evidence: verified }
+
+    Series:
+      allOf:
+        - $ref: '#/components/schemas/SeriesBase'
+        - type: object
+          description: |
+            The shape returned by `GET /series/{seriesId}`, and — minus `organizer` and
+            `rsvpConfiguration` — the shape embedded on a tournament under `includeSeries`.
+
+            Note it carries **no `tournamentIds`**; only the list endpoint does.
+          properties:
+            organizer:
+              $ref: '#/components/schemas/User'
+              x-evidence: verified
+              description: Present on `GET /series/{id}` only, not on the list or the tournament embed.
+            rsvpConfiguration:
+              oneOf: [{ $ref: '#/components/schemas/RsvpConfiguration' }, { type: 'null' }]
+              x-evidence: verified
+              description: Present on `GET /series/{id}` only.
+
+    SeriesListItem:
+      allOf:
+        - $ref: '#/components/schemas/SeriesBase'
+        - type: object
+          description: The shape returned by `GET /series`.
+          properties:
+            tournamentIds:
+              type: array
+              x-evidence: verified
+              description: |
+                The series' tournaments. **Only the list endpoint returns this** — neither
+                `GET /series/{id}` nor the tournament embed does, which makes the list the
+                cheapest route from a series to its tournaments.
+              items: { type: integer }
 
     RsvpConfiguration:
       type: object

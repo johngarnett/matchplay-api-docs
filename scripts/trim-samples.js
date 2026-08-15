@@ -100,6 +100,8 @@ const FIXTURES = [
    { file: 'resolve-players-global.json', envelope: 'data' },
    { file: 'resolve-users-global.json', envelope: 'data' },
    { file: 'search-users.json', envelope: 'data' },
+   { file: 'series.json', envelope: 'whole' },
+   { file: 'series-list.json', envelope: 'data' },
    { file: 'single-player-games.json', envelope: 'data' },
    { file: 'cards.json', envelope: 'data', limit: 1 },
    { file: 'summary-arenas.json', envelope: 'data' },

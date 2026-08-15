@@ -226,6 +226,7 @@ Known-good ids for probing, covering distinct formats:
 | `259350` | golf — rounds with **zero** games |
 | `261295` | best_game — has `rsvpConfiguration` |
 | `239557` | card_best_game, completed — 530 cards |
+| series `6224` | a series with an organizer; `GET /series` lists 4,678 of them |
 | `264541` | knockout John Garnett played, organizer 17637 |
 
 Tournament id `1` **exists**, so it is useless as a "definitely missing" test value. Use

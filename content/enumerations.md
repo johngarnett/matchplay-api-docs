@@ -2,7 +2,7 @@
 title: Enumerations
 description: Every observed value for every enum field, and the algorithms behind them
 group: Reference
-order: 11
+order: 12
 ---
 
 # Enumerations

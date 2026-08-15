@@ -2,7 +2,7 @@
 title: Errors
 description: Status codes, what they mean, and which are safe to cache
 group: Reference
-order: 10
+order: 11
 ---
 
 # Errors

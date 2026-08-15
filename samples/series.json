@@ -1,0 +1,39 @@
+{
+  "data": {
+    "seriesId": 6224,
+    "name": "Whatcom Pinball League Season 8",
+    "status": "active",
+    "organizerId": 17565,
+    "test": false,
+    "removedResults": 1,
+    "playoffsCutoffs": [],
+    "scoring": "bg_linear",
+    "estimatedTgp": null,
+    "scoringCustom": null,
+    "organizer": {
+      "userId": 17565,
+      "businessProfileId": null,
+      "clubId": 23,
+      "name": "Player Name",
+      "firstName": "Player",
+      "lastName": "Name",
+      "ifpaId": 38895,
+      "role": "organizer",
+      "flag": "",
+      "location": "Bellingham, WA",
+      "pronouns": "they",
+      "initials": "PN",
+      "ratingsOptOut": false,
+      "statsOptOut": false,
+      "videoOptOut": false,
+      "profileOptOut": false,
+      "historyOptOut": false,
+      "historyOnlyCompleted": false,
+      "avatar": null,
+      "banner": null,
+      "tournamentAvatar": null,
+      "createdAt": "2021-05-19T16:10:47.000000Z"
+    },
+    "rsvpConfiguration": null
+  }
+}

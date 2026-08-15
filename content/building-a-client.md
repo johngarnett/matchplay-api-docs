@@ -2,7 +2,7 @@
 title: Building a client
 description: A worked walkthrough — call budget, caching, and the traps in order
 group: Guides
-order: 18
+order: 19
 ---
 
 # Building a client

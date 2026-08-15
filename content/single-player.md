@@ -3,7 +3,7 @@ title: Single-player formats
 navTitle: Single player
 description: Best game, pingolf and card formats — where the games endpoint returns nothing
 group: Reference
-order: 12
+order: 13
 ---
 
 # Single-player formats

@@ -91,6 +91,10 @@ const PROBES = [
    { name: 'tournament-series-expansions', path: `/tournaments/${SERIES_TOURNAMENT}?${ALL_EXPANSIONS}` },
    { name: 'tournament-bestgame-expansions', path: `/tournaments/${BEST_GAME_TOURNAMENT}?${ALL_EXPANSIONS}` },
    { name: 'tournaments-by-series', path: '/tournaments?series=6140&limit=5' },
+   { name: 'series', path: '/series/6224' },
+   { name: 'series-list', path: '/series' },
+   // Expansions are ignored here — this returns the same bytes as the bare request.
+   { name: 'series-expansions', path: '/series/6224?includeTournaments=true&includePlayers=true' },
    { name: 'games-live-tournament', path: `/tournaments/${BEST_GAME_TOURNAMENT}/single-player-games?status=started&limit=5` },
 
    // --- Search parameter validation ----------------------------------------
