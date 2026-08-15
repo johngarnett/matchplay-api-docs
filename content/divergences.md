@@ -102,8 +102,14 @@ The evidence base:
 
 ## Reporting a correction
 
-This documentation describes a moving target that makes no compatibility promises to third
-parties. Behaviour recorded here was observed in **August 2026** and may have changed.
+This documentation describes a moving target. The API makes no compatibility promises to
+third parties, and **nothing here is guaranteed to be correct** — it is a best-effort record
+of behaviour observed in **August 2026**, which may since have changed.
+
+That is not false modesty. This site has already had to correct its own claims about the
+games endpoint's field count, what `status: "started"` means, the size of the ratings
+export, and whether a series endpoint exists. Each was found by checking against the live
+API. **Do the same before depending on anything here.**
 
 If something here is wrong, the most useful correction includes the request you made and the
 response you got — the same standard applied throughout this site.

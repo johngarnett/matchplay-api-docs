@@ -16,7 +16,9 @@ info:
     deleting a round does not delete its games. Every one of those requires a REST call to
     work around.
 
-    Not affiliated with or endorsed by Match Play Events.
+    Not affiliated with or endorsed by Match Play Events, and not guaranteed to be correct.
+    This is a best-effort record of observed behaviour; matchplay.events is a live service
+    that can change without notice. Verify against real traffic before depending on it.
   license:
     name: CC BY 4.0
 

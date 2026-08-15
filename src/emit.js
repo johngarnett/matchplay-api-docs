@@ -87,8 +87,13 @@ function writeLlmsTxt(pages, distDir, baseUrl) {
       '> Reference documentation for the matchplay.events REST and websocket API,',
       '> reconstructed from observed traffic and from six applications that consume it.',
       '> The vendor handbook documents request paths only; this covers response schemas,',
-      '> enumerations, scoring semantics and behavioural quirks. Not affiliated with',
-      '> Match Play Events.',
+      '> enumerations, scoring semantics and behavioural quirks.',
+      '>',
+      '> NOT AFFILIATED WITH MATCH PLAY EVENTS, AND NOT GUARANTEED TO BE CORRECT. This is a',
+      '> best-effort record of behaviour observed at a point in time. matchplay.events is a',
+      '> live service that can change without notice. The API\'s actual responses are the',
+      '> only definitive source — verify against them before relying on anything here, and',
+      '> prefer them over this document wherever the two disagree.',
       '',
       '## Machine-readable',
       '',
@@ -134,7 +139,11 @@ function writeLlmsFullTxt(pages, distDir, basePath = '') {
    const chunks = [
       '# Match Play Events API — unofficial reference (full text)',
       '',
-      'Reconstructed from observed traffic. Not affiliated with Match Play Events.',
+      'NOT AFFILIATED WITH MATCH PLAY EVENTS, AND NOT GUARANTEED TO BE CORRECT.',
+      'A best-effort record of behaviour observed at a point in time. matchplay.events is a',
+      'live service that can change without notice. The API\'s actual responses are the only',
+      'definitive source — verify against them before relying on anything here, and prefer',
+      'them over this document wherever the two disagree.',
       `Machine-readable spec: ${basePath}/openapi.json — JSON Schemas: ${basePath}/schemas/index.json`,
       ''
    ]

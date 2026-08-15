@@ -15,7 +15,13 @@ Every machine-readable artifact also has a human-readable view: the
 and [websocket reference](https://johngarnett.github.io/matchplay-api-docs/reference-websocket.html)
 are generated from the specs at build time.
 
-**Not affiliated with or endorsed by Match Play Events.**
+> [!IMPORTANT]
+> **Not affiliated with Match Play Events, and not guaranteed to be correct.**
+>
+> This is a best-effort record of how the API behaved when it was observed.
+> matchplay.events is a live service that can change at any time without notice.
+> **Trust but verify** — the API's actual responses are the only definitive source. Where
+> they disagree with this documentation, the API is right.
 
 ## Why this exists
 

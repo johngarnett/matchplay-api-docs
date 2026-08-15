@@ -24,7 +24,10 @@ info:
     documented by Match Play but had no captured response at the time of writing; those are
     marked at the operation level.
 
-    **Not affiliated with or endorsed by Match Play Events.**
+    **Not affiliated with or endorsed by Match Play Events, and not guaranteed to be
+    correct.** This is a best-effort record of observed behaviour. matchplay.events is a live
+    service that can change without notice, so treat the API's actual responses as the only
+    definitive source and verify before depending on anything here.
 
     Behaviour that cannot be expressed in OpenAPI — silently ignored query parameters,
     result arrays that are null-filled rather than absent while a game is in progress,

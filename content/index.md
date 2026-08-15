@@ -23,6 +23,21 @@ This site fills the gap. Every schema here was reconstructed by observation — 
 responses and from six independent applications that consume the API in production.
 </div>
 
+<div class="callout callout-warn">
+<span class="callout-title">Trust, but verify</span>
+
+**This documentation is not guaranteed to be correct.** It is a best-effort record of how
+the API behaved when it was observed, and Match Play Events is a live service that can
+change at any time without notice.
+
+**The API's actual responses are the only definitive source.** Check what an endpoint really
+returns before depending on anything written here — and if it differs, the API is right and
+this page is wrong.
+
+Every claim carries an [evidence badge](#how-claims-here-are-marked) so you can see how well
+attested it is.
+</div>
+
 ## What you get here that the handbook doesn't have
 
 - **Complete response schemas** for every object, with types, nullability, and real examples.
@@ -104,6 +119,10 @@ divergence is listed in [Differences from the handbook](/divergences.html).
 <span class="callout-title">Not affiliated with Match Play Events</span>
 
 This is independent documentation written by API consumers. It is not endorsed by or
-connected to Match Play Events. Behaviour described here was observed at a point in time and
-may change without notice — the API makes no compatibility promises to third parties.
+connected to Match Play Events, and nothing here is authoritative.
+
+Behaviour described was observed at a point in time. The API makes no compatibility promises
+to third parties, carries no version in its path, and has already changed in ways this site
+had to correct. Treat every page as a well-researched starting point, not a contract —
+**verify against live responses before you rely on it.**
 </div>
