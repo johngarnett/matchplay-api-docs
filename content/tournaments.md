@@ -22,7 +22,7 @@ twenty-odd wildly different formats.
 | `played` | integer | Tournaments played by this **user** id (not a player id) |
 | `owner` | integer | Tournaments created by this user id |
 | `status` | string | `planned`, `started` or `completed` |
-| `series` | integer | Tournaments in this series |
+| `series` | integer | Tournaments in this [series](/series.html) |
 | `page` | integer | 1-based |
 | `limit` | integer | Default 25, maximum 100 |
 
@@ -75,7 +75,7 @@ Match Play document eleven `include*` flags. Six of them actually add data:
 | `includeScorekeepers` | `scorekeepers[]` | Yes |
 | `includeLocation` | `location` | Yes |
 | `includeLinkedTournaments` | `linkedTournaments[]` | Yes |
-| `includeSeries` | `series` | Yes, when `seriesId` is set |
+| `includeSeries` | [`series`](/series.html) | Yes, when `seriesId` is set |
 | `includeRsvpConfiguration` | `rsvpConfiguration` | Yes, when registration is configured |
 | `includeEntryConfiguration` | `entryConfiguration` | Observed `null` even on a best-game tournament |
 | `includeEvent` | `event` | No populated example captured |
@@ -283,7 +283,9 @@ there is no way to search by venue.
 
 ### `series`
 
-Requires `includeSeries`, and only populates when `seriesId` is non-null:
+Requires `includeSeries`, and only populates when `seriesId` is non-null. This is the
+**leanest of the three shapes a series takes** — see [Series](/series.html) for the other
+two and for the standalone endpoints:
 
 ```json
 {
@@ -292,16 +294,20 @@ Requires `includeSeries`, and only populates when `seriesId` is non-null:
 }
 ```
 
-There **is** a standalone series endpoint, and a list of every series — see
-[Series](/series.html). The embed here is the leanest of the three shapes a series takes.
+Note what the embed does **not** carry: `organizer`, `rsvpConfiguration` (both on
+`GET /series/{id}`) or `tournamentIds` (on `GET /series`). If you need any of those, one of
+the [series endpoints](/series.html) is a second call — there is no expansion for it.
 
 ## Field reference
 
 {{schema:Tournament}}
 
-### Series
+### Series (as embedded here)
 
-{{schema:Series}}
+The embed is the base shape only. The [Series page](/series.html) documents the two richer
+forms returned by the standalone endpoints.
+
+{{schema:SeriesBase}}
 
 ### Playoff cutoff
 
