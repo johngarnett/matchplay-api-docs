@@ -128,8 +128,36 @@ session. Bulk ratings, OPDB and PinTips data comes from the CDN exports, never t
 
 This project's entire value is that its claims are verified, so:
 
-- **Count things rather than asserting them.** A field-count claim in the docs was once
-  wrong because it came from a secondary source; `jq '.data[0]|keys|length'` settled it.
+- **Count things rather than asserting them.** Run the query, then write the number.
+
+### Re-measure anything inherited from a sibling project
+
+The sibling repos under `../` are the richest evidence available, but **each of them filtered
+the API for its own purposes**, and figures copied out of them have been wrong three times in
+this project's short history:
+
+| Claimed | Actual | Why it was wrong |
+| --- | --- | --- |
+| The full games endpoint returns 25 fields, 8 more than `/games` | 24 and 7 | Copied from another repo's inventory instead of counted |
+| `status: "started"` mostly means finished, some idle over a month | Auto-closed after 2 idle days; none idle past its scheduled end | The capture predated a policy change |
+| The ratings CSV holds ~33,500 players | 141,962 | That repo's importer **skips rows with no `User ID`**, which is 55.7% of the file |
+
+The last is the sharpest lesson: a consumer's dataset reflects what that consumer needed, not
+what the API returns. Treat sibling projects as a source of *payloads and behaviour*, and
+re-derive every count, ratio and distribution from the raw file or a live response.
+
+### The identity model has four cases, not three
+
+`userId`, `playerId` and `ifpaId` are the documented namespaces, but **a rated player may have
+none of them**. 55.7% of rows in the ratings CSV carry neither a `User ID` nor an `IFPA ID`;
+those players exist only as a name and a rating.
+
+They are unreachable through the API — `/search?type=users` only sees user accounts — so the
+CSV export is the sole route to them. Don't write examples or client guidance that assume
+every player resolves to a global id.
+
+Also note `/search` matches **fuzzily**: a full two-word name returned 223 results. A
+non-empty result set is not a match; filter for the exact name.
 - **Never invent or edit values inside a captured payload.** If an example needs different
   data, capture a real payload that has it. Fabricated examples break
   `tests/spec.test.js`, which validates every committed fixture against its schema in both
