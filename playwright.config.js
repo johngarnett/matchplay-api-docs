@@ -11,7 +11,14 @@ module.exports = defineConfig({
    testDir: './tests',
    testMatch: '**/*.spec.js',
    fullyParallel: true,
-   reporter: process.env.CI ? 'github' : 'list',
+   reporter: process.env.CI ? [['github'], ['html', { open: 'never' }]] : 'list',
+
+   // A deploy is gated on these tests, so a flake would block publication. Two
+   // retries in CI, none locally where a flake should be seen and fixed.
+   retries: process.env.CI ? 2 : 0,
+
+   // Fail rather than silently skipping the suite if a .only is committed.
+   forbidOnly: !!process.env.CI,
    use: {
       baseURL: BASE_URL,
       trace: 'on-first-retry'

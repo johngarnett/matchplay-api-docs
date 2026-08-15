@@ -1,4 +1,4 @@
-# Build the documentation site and publish it to GitHub Pages.
+# Test the site, then build it and publish to GitHub Pages.
 #
 # dist/ is deliberately gitignored — building here rather than committing output
 # means the published site can never drift from the sources it came from.
@@ -9,6 +9,8 @@ name: Deploy to GitHub Pages
 
 on:
   push:
+    branches: [main]
+  pull_request:
     branches: [main]
   workflow_dispatch:
 
@@ -24,7 +26,64 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
+  # Everything that can say "this site is wrong" runs here, and the deploy waits
+  # on it. Publishing first and finding out afterwards is the failure this job
+  # exists to prevent — a broken internal link used to reach production because
+  # only the unit tests gated the deploy.
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          cache: npm
+
+      - run: npm ci
+
+      # Validates both specs, checks every committed fixture against the schema
+      # that claims to describe it, and fails on an unresolvable {{schema:...}}
+      # placeholder or a fixture containing a contact address.
+      - name: Unit tests
+        run: npm test
+
+      # Only Chromium is needed, and caching the download keeps this to seconds
+      # on repeat runs.
+      - name: Cache Playwright browsers
+        id: playwright-cache
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/ms-playwright
+          key: playwright-${{ runner.os }}-${{ hashFiles('package-lock.json') }}
+
+      - name: Install Chromium
+        if: steps.playwright-cache.outputs.cache-hit != 'true'
+        run: npx playwright install --with-deps chromium
+
+      # Renders the site and checks what the unit tests cannot: that every
+      # internal link and anchor resolves, that wide tables scroll inside their
+      # container rather than the page, and that both colour schemes work at
+      # phone, tablet and desktop widths.
+      #
+      # Deliberately built without BASE_PATH. The link checker resolves
+      # root-relative hrefs against files in dist/, which a subpath prefix would
+      # break; applyBasePath is covered by unit tests instead.
+      - name: Browser tests
+        run: npx playwright test
+
+      - name: Upload report on failure
+        if: failure()
+        uses: actions/upload-artifact@v4
+        with:
+          name: playwright-report
+          path: playwright-report/
+          retention-days: 7
+
   deploy:
+    needs: test
+    # A pull request should be checked but not published.
+    if: github.event_name != 'pull_request'
     runs-on: ubuntu-latest
     environment:
       name: github-pages
@@ -39,13 +98,6 @@ jobs:
           cache: npm
 
       - run: npm ci
-
-      # Validates the OpenAPI spec, checks every committed fixture against the
-      # schema that claims to describe it, and fails on an unresolvable
-      # {{schema:...}} placeholder. A broken spec fails the deploy rather than
-      # publishing a wrong page.
-      - name: Test
-        run: npm test
 
       # A project repo is served from /<repo>, so every root-relative link needs
       # prefixing. Drop this if the site ever moves to a custom domain, which
