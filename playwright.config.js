@@ -4,7 +4,11 @@
 
 const { defineConfig, devices } = require('@playwright/test')
 
-const PORT = 3100
+// A dedicated port, separate from the 3100 `npm start` uses. Sharing one meant
+// Playwright reused a manually started server and therefore skipped its own
+// build step, quietly testing whatever was last in dist/ — a broken link added
+// to content/ passed because the page under test had never been rebuilt.
+const PORT = 3101
 const BASE_URL = `http://localhost:${PORT}`
 
 module.exports = defineConfig({
@@ -27,9 +31,10 @@ module.exports = defineConfig({
       { name: 'chromium', use: { ...devices['Desktop Chrome'] } }
    ],
    webServer: {
-      command: 'npm run build && node server.js',
+      command: `PORT=${PORT} npm run build && PORT=${PORT} node server.js`,
       url: BASE_URL,
-      reuseExistingServer: !process.env.CI,
+      // Never reuse: the point of the command above is that it rebuilds first.
+      reuseExistingServer: false,
       timeout: 60000
    }
 })

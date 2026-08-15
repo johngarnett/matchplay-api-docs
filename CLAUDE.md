@@ -318,9 +318,12 @@ by integration" because the default `GITHUB_TOKEN` has no admin rights. Enable i
 
 ## Gotchas that have already cost time
 
-- **Kill a stale preview server.** Playwright reuses an already-running one, so after
-  changing the build you can test the old output. If results look impossible:
-  `lsof -ti tcp:3100 | xargs kill`.
+- **Playwright and the preview server no longer share a port.** Tests run on 3101 and always
+  rebuild; `npm start` uses 3100. They previously shared one, which meant Playwright reused a
+  manually started server and *skipped its own build step* — a broken link added to
+  `content/` passed the link checker because the page under test had never been rebuilt. If
+  you ever see a test pass that clearly should not, check that what you edited actually
+  reached `dist/`.
 - **`trim-samples` truncation takes the first N records**, which may not be the record the
   prose quotes. Use a `pick` predicate instead when a specific row matters — see the WPPR
   estimator entry.

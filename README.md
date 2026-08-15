@@ -193,6 +193,10 @@ npm test              # node:test — build logic and spec integrity
 npx playwright test   # rendering, responsive layout, link integrity
 ```
 
+Both run in CI on every push and pull request, and **the deploy waits on them**, so a broken
+link cannot reach the published site. Playwright builds the site itself on port 3101, which
+is separate from the 3100 `npm start` uses, so the two never interfere.
+
 The unit suite includes the check that keeps this project honest: **every captured sample is
 validated against the schema the spec claims describes it**, in both directions — no sample
 may violate its schema, and no sample may contain a field the schema omits. If the API
