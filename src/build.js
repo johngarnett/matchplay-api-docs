@@ -130,6 +130,10 @@ function build() {
    }
 
    const spec = YAML.parse(fs.readFileSync(SPEC_PATH, 'utf8'))
+   const asyncApiPath = path.join(ROOT, 'spec', 'asyncapi.yaml')
+   const asyncApiSpec = fs.existsSync(asyncApiPath)
+      ? YAML.parse(fs.readFileSync(asyncApiPath, 'utf8'))
+      : null
    const pages = loadPages()
    if (!pages.length) throw new Error('No Markdown files found in content/')
 
@@ -139,7 +143,7 @@ function build() {
    const generatedAt = new Date().toISOString().slice(0, 10)
 
    for (const page of pages) {
-      page.expandedMarkdown = expandSchemaPlaceholders(page.body, spec)
+      page.expandedMarkdown = expandSchemaPlaceholders(page.body, spec, asyncApiSpec)
       const bodyHtml = md.render(page.expandedMarkdown)
       const html = renderPage({
          title: page.title,
@@ -156,7 +160,6 @@ function build() {
    fs.writeFileSync(path.join(DIST_DIR, '.nojekyll'), '')
    fs.copyFileSync(SPEC_PATH, path.join(DIST_DIR, 'openapi.yaml'))
 
-   const asyncApiPath = path.join(ROOT, 'spec', 'asyncapi.yaml')
    if (fs.existsSync(asyncApiPath)) {
       fs.copyFileSync(asyncApiPath, path.join(DIST_DIR, 'asyncapi.yaml'))
    }

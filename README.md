@@ -10,6 +10,11 @@ API, published as a static site with a machine-readable OpenAPI spec.
 [AsyncAPI (websocket)](https://johngarnett.github.io/matchplay-api-docs/asyncapi.yaml) ·
 [llms-full.txt](https://johngarnett.github.io/matchplay-api-docs/llms-full.txt)
 
+Every machine-readable artifact also has a human-readable view: the
+[REST endpoint reference](https://johngarnett.github.io/matchplay-api-docs/reference-rest.html)
+and [websocket reference](https://johngarnett.github.io/matchplay-api-docs/reference-websocket.html)
+are generated from the specs at build time.
+
 **Not affiliated with or endorsed by Match Play Events.**
 
 ## Why this exists
@@ -118,7 +123,7 @@ vendor. Readers deserve to know which parts to trust blindly.
 
 | Path | What |
 | --- | --- |
-| `dist/*.html` | The documentation site |
+| `dist/*.html` | The documentation site, including the generated REST and websocket references |
 | `dist/openapi.yaml`, `dist/openapi.json` | OpenAPI 3.1 |
 | `dist/asyncapi.yaml` | AsyncAPI 3.0 for the websocket |
 | `dist/schemas/*.json` | One standalone JSON Schema per object, plus `index.json` listing them |

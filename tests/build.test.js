@@ -14,6 +14,8 @@ const { rewriteRefs } = require('../src/emit')
 
 const ROOT = path.join(__dirname, '..')
 const spec = YAML.parse(fs.readFileSync(path.join(ROOT, 'spec', 'openapi.yaml'), 'utf8'))
+const asyncApiSpec = YAML.parse(fs.readFileSync(path.join(ROOT, 'spec', 'asyncapi.yaml'), 'utf8'))
+const { renderOpenApiReference, renderAsyncApiReference } = require('../src/specRender')
 
 test('parseFrontMatter splits attributes from body', () => {
    const { attributes, body } = parseFrontMatter('---\ntitle: Hi\norder: 3\n---\n# Heading\n')
@@ -91,9 +93,33 @@ test('expandSchemaPlaceholders substitutes a table', () => {
 test('every {{schema:...}} placeholder in content resolves', () => {
    for (const page of loadPages()) {
       assert.doesNotThrow(
-         () => expandSchemaPlaceholders(page.body, spec),
+         () => expandSchemaPlaceholders(page.body, spec, asyncApiSpec),
          `unresolvable schema placeholder in ${page.slug}.md`
       )
+   }
+})
+
+test('the OpenAPI reference renders every operation', () => {
+   const md = renderOpenApiReference(spec)
+   for (const [route, methods] of Object.entries(spec.paths)) {
+      for (const method of Object.keys(methods)) {
+         assert.ok(
+            md.includes(`\`${method.toUpperCase()} ${route}\``),
+            `${method.toUpperCase()} ${route} is missing from the reference`
+         )
+      }
+   }
+})
+
+test('the OpenAPI reference links response schemas to the schema index', () => {
+   const md = renderOpenApiReference(spec)
+   assert.match(md, /\[Tournament\]\(\/schemas\.html#schema-tournament\)/)
+})
+
+test('the AsyncAPI reference renders every message', () => {
+   const md = renderAsyncApiReference(asyncApiSpec)
+   for (const name of Object.keys(asyncApiSpec.components.messages)) {
+      assert.ok(md.includes(`\`${name}\``), `${name} is missing from the websocket reference`)
    }
 })
 

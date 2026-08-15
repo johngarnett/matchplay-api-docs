@@ -106,7 +106,15 @@ belongs with a placeholder:
 ```markdown
 {{schema:Tournament}}     one schema's field table
 {{schema-index}}          every schema (used by content/schemas.md)
+{{openapi-reference}}     every path, method, parameter and response
+{{asyncapi-reference}}    the websocket server, channel and messages
 ```
+
+The last two are rendered by `src/specRender.js`. They exist so no artifact is published
+only in a machine format — every spec has a human-readable view. Redoc and the AsyncAPI
+generator were tried and rejected: they add ~70s to the build, need a vendored CDN bundle,
+look nothing like the site, and — the deciding reason — cannot link an endpoint to the prose
+page explaining its traps.
 
 **Never hand-write or hand-edit a field table.** Edit the spec and rebuild — one change
 updates the prose, the JSON Schemas and the text digests together.

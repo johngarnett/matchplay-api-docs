@@ -10,6 +10,8 @@
 
 const PLACEHOLDER_RE = /^\{\{schema:([A-Za-z0-9_]+)\}\}$/gm
 const INDEX_PLACEHOLDER_RE = /^\{\{schema-index\}\}$/gm
+const OPENAPI_PLACEHOLDER_RE = /^\{\{openapi-reference\}\}$/gm
+const ASYNCAPI_PLACEHOLDER_RE = /^\{\{asyncapi-reference\}\}$/gm
 
 // Evidence classes, rendered as coloured badges. `verified` means the field was
 // seen in a real captured payload; `derived` means it is only known from code
@@ -199,10 +201,21 @@ function renderSchemaIndex(doc) {
    return sections.join('\n\n')
 }
 
-// Replace {{schema:Name}} and {{schema-index}} placeholders in a Markdown source.
-function expandSchemaPlaceholders(markdown, doc) {
+// Replace every generated-content placeholder in a Markdown source.
+//
+// `asyncApiDoc` is optional; only the websocket reference page needs it.
+function expandSchemaPlaceholders(markdown, doc, asyncApiDoc) {
+   // Required lazily: specRender depends on this module, so a top-level require
+   // would be circular.
+   const { renderOpenApiReference, renderAsyncApiReference } = require('./specRender')
+
    return markdown
       .replace(INDEX_PLACEHOLDER_RE, () => renderSchemaIndex(doc))
+      .replace(OPENAPI_PLACEHOLDER_RE, () => renderOpenApiReference(doc))
+      .replace(ASYNCAPI_PLACEHOLDER_RE, () => {
+         if (!asyncApiDoc) throw new Error('{{asyncapi-reference}} used but spec/asyncapi.yaml was not loaded')
+         return renderAsyncApiReference(asyncApiDoc)
+      })
       .replace(PLACEHOLDER_RE, (_match, name) => renderSchemaTable(doc, name))
 }
 

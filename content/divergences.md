@@ -3,7 +3,7 @@ title: Differences from the handbook
 navTitle: Divergences
 description: Where this documentation contradicts the official docs, and why
 group: Guides
-order: 20
+order: 22
 ---
 
 # Differences from the handbook

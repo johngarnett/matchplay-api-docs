@@ -2,7 +2,7 @@
 title: Schema index
 description: Every documented object in one place, generated from the OpenAPI spec
 group: Reference
-order: 18
+order: 20
 ---
 
 # Schema index
