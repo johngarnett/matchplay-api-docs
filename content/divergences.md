@@ -68,8 +68,8 @@ Claims that circulate among API consumers which observation does not support:
 
 ## Where the handbook remains authoritative
 
-It is the only source for what tournament features **mean**, and this site does not
-duplicate that:
+It is the authority on what tournament features **mean**, and this site does not duplicate
+that:
 
 - What each format actually is, and how to run one.
 - Scoring system definitions and their point tables.

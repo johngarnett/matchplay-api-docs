@@ -48,7 +48,7 @@ Or over a raw socket, subscribe by sending:
 }
 ```
 
-`tournaments.{tournamentId}` is the only channel namespace. **One socket multiplexes any
+`tournaments.{tournamentId}` is the only channel namespace observed. **One socket multiplexes any
 number of tournaments** — subscribe to as many channels as you need rather than opening a
 connection each.
 

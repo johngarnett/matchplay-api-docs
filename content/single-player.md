@@ -136,8 +136,8 @@ curl -s "https://app.matchplay.events/api/tournaments/239557/cards?limit=3" \
 <div class="callout">
 <span class="callout-title">A card embeds its games in full</span>
 
-`singlePlayerGames[]` holds **complete game objects, not ids**. This is the only place in
-the API where a collection inlines its children like this.
+`singlePlayerGames[]` holds **complete game objects, not ids** — the only place in this
+documentation where a collection inlines its children rather than referencing them.
 
 So one call to `/cards` returns every attempt on every card, and calling
 `/single-player-games` separately for the same tournament is redundant. For a

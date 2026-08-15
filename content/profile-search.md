@@ -45,7 +45,8 @@ exact name yourself.
 More importantly, `type=users` only sees **user accounts**. Match Play rates many players who
 never created one, and those are unreachable here: two names drawn from id-less rows of the
 [ratings CSV](/exports.html) returned no exact match, while a control name with an account
-did. If you need those players, the CSV is the only source.
+did. For those players the CSV is the practical source — no endpoint found here reaches
+them.
 </div>
 
 <div class="callout callout-warn">
@@ -116,7 +117,7 @@ Both return the same bundle. Neither uses a `data` wrapper.
 
 `ratingHistory` returned **369 points** in one observed response — one per rating period
 where the player's rating changed. That is enough to plot a career trajectory from a single
-call, and it appears nowhere in Match Play's documentation.
+call, and it is not in Match Play's documentation.
 
 It complements the [rating revisions CSV](/exports.html), which covers all players but only
 the past year.
@@ -155,8 +156,8 @@ Querying by IFPA id returned a rating whose `rating.userId` was **`null`**:
 That is a player IFPA knows about and Match Play rates, but who has never created a Match
 Play account — so there is no profile, and none of the opt-out flags exist for them.
 
-This makes it the bridge between the two identifier namespaces, and the only way to look up
-some players at all.
+This makes it the bridge between the two identifier namespaces, and the route to players who
+cannot be reached by Match Play `userId`.
 </div>
 
 ### Use the CDN for bulk

@@ -109,8 +109,8 @@ rows are exactly the players you most need — a claimed account already gives y
 invisible to it. Verified against two id-less names from the CSV: neither returned an exact
 match, while a control name with a `User ID` did.
 
-There is no endpoint that lists them, and no id to resolve. **The CSV export is the only
-route to more than half of Match Play's rated players.**
+No endpoint was found that lists them, and they have no id to resolve. **For more than half
+of Match Play's rated players, the CSV export is the practical route.**
 </div>
 
 For id-less rows, `Name` is the only key available, and it is *nearly* unique but not safe:

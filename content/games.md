@@ -19,8 +19,9 @@ The seven missing fields are exactly the ones that say who played and who won:
 `playerIds`, `userIds`, `resultPositions`, `resultPoints`, `resultScores`,
 `resultCountMismatch`, `suggestions`.
 
-Unless you specifically need cross-tournament filtering, always use the tournament-scoped
-endpoint.
+Unless you specifically need cross-tournament filtering, use the tournament-scoped endpoint.
+The websocket's `GameCreatedOrUpdated` also carries the full shape, so a live client has a
+second route to it.
 </div>
 
 ## Rounds

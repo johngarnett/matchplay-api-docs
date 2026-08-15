@@ -227,7 +227,8 @@ paths:
       operationId: getStandings
       summary: Get tournament standings
       description: |
-        Returns a **bare JSON array** — the only endpoint with no envelope at all. Rows are
+        Returns a **bare JSON array**, with no envelope. No other endpoint documented here
+        does this. Rows are
         ordered by `position`, and tied players share a position number.
 
         Rows are keyed by `playerId`, not `userId`. Do not poll more than once every 15
@@ -279,7 +280,7 @@ paths:
       operationId: getTournamentGames
       summary: Get games for a tournament (full detail)
       description: |
-        **Undocumented by Match Play, and the only way to learn who played a game.**
+        **Undocumented by Match Play, and the REST route to who played a game.**
 
         This endpoint returns complete game objects including `playerIds`, `userIds`,
         `resultPositions`, `resultPoints`, `resultScores`, `resultCountMismatch` and

@@ -44,9 +44,9 @@ attested it is.
 - **A browsable [REST endpoint reference](/reference-rest.html) and
   [websocket reference](/reference-websocket.html)**, generated from the specs so they cannot
   drift, and cross-linked into the prose that explains each endpoint's traps.
-- **An [OpenAPI 3.1 spec](/openapi.yaml)** — currently the only machine-readable description
-  of this API in existence. Plus an [AsyncAPI spec](/asyncapi.yaml),
-  [JSON Schemas](/schemas/index.json) and [`llms-full.txt`](/llms-full.txt) for coding agents.
+- **A machine-readable description of this API**: an [OpenAPI 3.1 spec](/openapi.yaml), an
+  [AsyncAPI spec](/asyncapi.yaml) for the websocket, [JSON Schemas](/schemas/index.json) per
+  object, and [`llms-full.txt`](/llms-full.txt) for coding agents.
 - **Scoring semantics.** How to turn `resultPoints` and `resultPositions` into wins and
   losses, which differs by format in ways that will silently corrupt your data if you get
   them wrong.

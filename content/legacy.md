@@ -71,8 +71,8 @@ Human-facing HTML pages, not APIs. Existing integrations scrape them:
 - `/live/ratings/search` — a results table whose second cell holds `"{rating} ±{delta}"`, from
   which `rd = floor(delta / 2)` and the bounds are derived.
 
-The search page is the only route to a rating **by player name** rather than by id, which is
-why it survives — the JSON API has no name-based ratings lookup.
+The search page takes a rating lookup **by player name** rather than by id. No equivalent
+was found in the JSON API, which is probably why it survives.
 
 <div class="callout">
 <span class="callout-title">If you must scrape, be polite</span>

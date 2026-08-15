@@ -172,6 +172,15 @@ non-empty result set is not a match; filter for the exact name.
   directions.
 - **Where code and the official handbook disagree, document observed behaviour** and record
   the divergence in `content/divergences.md`.
+- **Claim only what was checked.** Avoid superlatives and statements about the whole world:
+  "the only X in existence", "nowhere else", "no such thing exists". Absence is nearly
+  impossible to verify and ages badly — Match Play could publish a spec tomorrow. Prefer
+  "no endpoint was found that…", "the only value observed", "not in Match Play's
+  documentation". Being matter-of-fact costs nothing and cannot become false.
+
+  This is not hypothetical: the spec once claimed the tournament-scoped games endpoint was
+  "the only way to learn who played a game", which was simply wrong — the websocket carries
+  the same fields.
 - When a change is driven by new evidence, say so in the commit message and cite the
   evidence.
 
