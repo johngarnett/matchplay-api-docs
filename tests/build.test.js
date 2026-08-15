@@ -123,6 +123,25 @@ test('applyBasePath is a no-op without a base path', () => {
    assert.equal(applyBasePath(html, ''), html)
 })
 
+test('the schema manifest lists every component schema', () => {
+   // Static hosts serve no directory listing, so /schemas/ 404s and the manifest
+   // is the only way to enumerate what is published there.
+   const manifestPath = path.join(ROOT, 'dist', 'schemas', 'index.json')
+   if (!fs.existsSync(manifestPath)) return   // dist/ only exists after a build
+
+   const manifest = JSON.parse(fs.readFileSync(manifestPath, 'utf8'))
+   const names = Object.keys(spec.components.schemas)
+   assert.equal(manifest.count, names.length)
+   assert.deepEqual(manifest.schemas.map(s => s.name).sort(), names.slice().sort())
+
+   for (const entry of manifest.schemas) {
+      assert.ok(
+         fs.existsSync(path.join(ROOT, 'dist', 'schemas', entry.file)),
+         `${entry.file} is listed in the manifest but was not written`
+      )
+   }
+})
+
 test('rewriteRefs makes component refs relative for standalone schemas', () => {
    const rewritten = rewriteRefs({ $ref: '#/components/schemas/Player' })
    assert.equal(rewritten.$ref, './Player.json')

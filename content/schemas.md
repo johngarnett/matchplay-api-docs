@@ -11,10 +11,10 @@ Every object the API returns, generated directly from
 [`openapi.yaml`](/openapi.yaml). The narrative pages link here whenever a field
 references another object.
 
-Each schema is also published as a standalone JSON Schema under
-[`/schemas/`](/schemas/) — for example
+Each schema is also published as a standalone JSON Schema — for example
 [`/schemas/Tournament.json`](/schemas/Tournament.json) — usable for runtime
 validation with any JSON Schema validator.
+[`/schemas/index.json`](/schemas/index.json) is a manifest of all of them.
 
 <div class="callout">
 <span class="callout-title">Evidence badges</span>

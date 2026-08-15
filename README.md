@@ -3,6 +3,13 @@
 Unofficial reference documentation for the [matchplay.events](https://app.matchplay.events)
 API, published as a static site with a machine-readable OpenAPI spec.
 
+### 📖 **[Read the documentation →](https://johngarnett.github.io/matchplay-api-docs/)**
+
+[OpenAPI 3.1 spec](https://johngarnett.github.io/matchplay-api-docs/openapi.yaml) ·
+[JSON Schemas](https://johngarnett.github.io/matchplay-api-docs/schemas/index.json) ·
+[AsyncAPI (websocket)](https://johngarnett.github.io/matchplay-api-docs/asyncapi.yaml) ·
+[llms-full.txt](https://johngarnett.github.io/matchplay-api-docs/llms-full.txt)
+
 **Not affiliated with or endorsed by Match Play Events.**
 
 ## Why this exists
@@ -114,7 +121,7 @@ vendor. Readers deserve to know which parts to trust blindly.
 | `dist/*.html` | The documentation site |
 | `dist/openapi.yaml`, `dist/openapi.json` | OpenAPI 3.1 |
 | `dist/asyncapi.yaml` | AsyncAPI 3.0 for the websocket |
-| `dist/schemas/*.json` | One standalone JSON Schema per object |
+| `dist/schemas/*.json` | One standalone JSON Schema per object, plus `index.json` listing them |
 | `dist/llms.txt` | Short index for agents |
 | `dist/llms-full.txt` | Whole reference as flat text, one fetch |
 

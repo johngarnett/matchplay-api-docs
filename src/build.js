@@ -162,7 +162,7 @@ function build() {
    }
 
    writeOpenApiJson(spec, DIST_DIR)
-   const schemaFiles = writeJsonSchemas(spec, DIST_DIR)
+   const schemaFiles = writeJsonSchemas(spec, DIST_DIR, BASE_PATH)
    writeLlmsTxt(pages, DIST_DIR, BASE_URL + BASE_PATH)
    writeLlmsFullTxt(pages, DIST_DIR, BASE_PATH)
 

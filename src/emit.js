@@ -36,13 +36,18 @@ function writeOpenApiJson(spec, distDir) {
    return target
 }
 
-// Write one self-contained JSON Schema per component schema.
-function writeJsonSchemas(spec, distDir) {
+// Write one self-contained JSON Schema per component schema, plus a manifest.
+//
+// The manifest matters: static hosts do not serve directory listings, so
+// `/schemas/` is a 404 and something has to enumerate what is there.
+function writeJsonSchemas(spec, distDir, basePath = '') {
    const schemas = (spec.components && spec.components.schemas) || {}
    const schemaDir = path.join(distDir, 'schemas')
    fs.mkdirSync(schemaDir, { recursive: true })
 
    const written = []
+   const manifest = []
+
    for (const [name, schema] of Object.entries(schemas)) {
       const document = {
          $schema: JSON_SCHEMA_DIALECT,
@@ -53,7 +58,23 @@ function writeJsonSchemas(spec, distDir) {
       const target = path.join(schemaDir, `${name}.json`)
       fs.writeFileSync(target, JSON.stringify(document, null, JSON_INDENT))
       written.push(target)
+      manifest.push({
+         name,
+         file: `${name}.json`,
+         url: `${basePath}/schemas/${name}.json`,
+         description: (schema.description || '').trim().split('\n')[0]
+      })
    }
+
+   fs.writeFileSync(
+      path.join(schemaDir, 'index.json'),
+      JSON.stringify({
+         $comment: 'Manifest of the JSON Schemas in this directory. Generated from spec/openapi.yaml.',
+         count: manifest.length,
+         schemas: manifest.sort((a, b) => a.name.localeCompare(b.name))
+      }, null, JSON_INDENT)
+   )
+
    return written
 }
 
@@ -72,7 +93,7 @@ function writeLlmsTxt(pages, distDir, baseUrl) {
       '## Machine-readable',
       '',
       `- [OpenAPI 3.1 spec](${baseUrl}/openapi.json): every documented endpoint, parameter and response schema`,
-      `- [JSON Schemas](${baseUrl}/schemas/): one standalone schema per object`,
+      `- [JSON Schemas](${baseUrl}/schemas/index.json): manifest; one standalone schema per object`,
       `- [Full text](${baseUrl}/llms-full.txt): the entire reference in a single file`,
       ''
    ]
@@ -100,7 +121,7 @@ function writeLlmsFullTxt(pages, distDir, basePath = '') {
       '# Match Play Events API — unofficial reference (full text)',
       '',
       'Reconstructed from observed traffic. Not affiliated with Match Play Events.',
-      'Machine-readable spec: /openapi.json — JSON Schemas: /schemas/',
+      `Machine-readable spec: ${basePath}/openapi.json — JSON Schemas: ${basePath}/schemas/index.json`,
       ''
    ]
 
