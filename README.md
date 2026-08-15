@@ -38,6 +38,21 @@ absolute ones, which some agent tooling prefers:
 SITE_URL=https://docs.example.com npm run build
 ```
 
+## Deployment
+
+Published at **https://johngarnett.github.io/matchplay-api-docs/**.
+
+`.github/workflows/pages.yml` runs the tests, builds, and deploys `dist/` to GitHub Pages on
+every push to `main`. `dist/` stays gitignored — building in CI means the published site
+cannot drift from its sources.
+
+A project repo is served from a subpath, so CI builds with `BASE_PATH=/matchplay-api-docs`,
+which prefixes every root-relative link and asset. Local builds leave `BASE_PATH` unset and
+serve from `/` as before. Moving to a custom domain later means simply removing the variable
+from the workflow.
+
+One-time setup, if the repo is ever recreated: **Settings → Pages → Source: GitHub Actions**.
+
 ## Layout
 
 ```

@@ -1,0 +1,65 @@
+# Build the documentation site and publish it to GitHub Pages.
+#
+# dist/ is deliberately gitignored — building here rather than committing output
+# means the published site can never drift from the sources it came from.
+#
+# Requires a one-time repository setting: Settings -> Pages -> Source: GitHub Actions.
+
+name: Deploy to GitHub Pages
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# Let a running deploy finish rather than cancelling it, so a half-published
+# site is never left behind.
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          cache: npm
+
+      - run: npm ci
+
+      # Validates the OpenAPI spec, checks every committed fixture against the
+      # schema that claims to describe it, and fails on an unresolvable
+      # {{schema:...}} placeholder. A broken spec fails the deploy rather than
+      # publishing a wrong page.
+      - name: Test
+        run: npm test
+
+      # A project repo is served from /<repo>, so every root-relative link needs
+      # prefixing. Drop this if the site ever moves to a custom domain, which
+      # serves from the root.
+      - name: Build
+        run: npm run build
+        env:
+          BASE_PATH: /matchplay-api-docs
+
+      - uses: actions/configure-pages@v5
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+
+      - id: deployment
+        uses: actions/deploy-pages@v4

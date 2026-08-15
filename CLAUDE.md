@@ -275,6 +275,20 @@ A listen against an idle tournament still confirms the handshake but captures no
 `263252` was tried on 2026-08-14 and yielded only `connection_established`,
 `subscription_succeeded` and `pong`.
 
+## Publishing
+
+The site deploys to https://johngarnett.github.io/matchplay-api-docs/ via
+`.github/workflows/pages.yml` on every push to `main`. The workflow runs `npm test` first, so
+a broken spec or missing fixture fails the deploy instead of publishing a bad page.
+
+**Keep links root-relative in source** — write `/games.html`, not `./games.html`. A project
+repo is served from a subpath, and `applyBasePath()` in `src/build.js` prefixes every
+`href="/…"` and `src="/…"` once, on the finished document. Writing relative links by hand
+would defeat it.
+
+`BASE_PATH` is set only in CI. If the repo is renamed, or the site moves to a custom domain
+(which serves from the root), update or remove it in the workflow — nothing else changes.
+
 ## Gotchas that have already cost time
 
 - **Kill a stale preview server.** Playwright reuses an already-running one, so after

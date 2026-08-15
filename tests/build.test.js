@@ -7,7 +7,7 @@ const fs = require('node:fs')
 const path = require('node:path')
 const YAML = require('yaml')
 
-const { parseFrontMatter, loadPages } = require('../src/build')
+const { parseFrontMatter, loadPages, applyBasePath } = require('../src/build')
 const { renderSchemaTable, collectProperties, describeType, expandSchemaPlaceholders } = require('../src/schemaTables')
 const { rewriteRefs } = require('../src/emit')
 
@@ -94,6 +94,33 @@ test('every {{schema:...}} placeholder in content resolves', () => {
          `unresolvable schema placeholder in ${page.slug}.md`
       )
    }
+})
+
+test('applyBasePath prefixes root-relative href and src', () => {
+   const html = '<a href="/games.html">g</a><link href="/assets/site.css"><img src="/x.png">'
+   const out = applyBasePath(html, '/base')
+   assert.ok(out.includes('href="/base/games.html"'))
+   assert.ok(out.includes('href="/base/assets/site.css"'))
+   assert.ok(out.includes('src="/base/x.png"'))
+})
+
+test('applyBasePath prefixes the bare root link', () => {
+   assert.equal(applyBasePath('<a href="/">home</a>', '/base'), '<a href="/base/">home</a>')
+})
+
+test('applyBasePath leaves absolute and protocol-relative URLs alone', () => {
+   const html = '<a href="https://example.com/x">a</a><a href="//cdn.example.com/y">b</a>'
+   assert.equal(applyBasePath(html, '/base'), html)
+})
+
+test('applyBasePath leaves fragments and relative links alone', () => {
+   const html = '<a href="#anchor">a</a><a href="games.html">b</a>'
+   assert.equal(applyBasePath(html, '/base'), html)
+})
+
+test('applyBasePath is a no-op without a base path', () => {
+   const html = '<a href="/games.html">g</a>'
+   assert.equal(applyBasePath(html, ''), html)
 })
 
 test('rewriteRefs makes component refs relative for standalone schemas', () => {

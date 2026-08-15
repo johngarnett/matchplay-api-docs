@@ -28,7 +28,27 @@ const DIST_DIR = path.join(ROOT, 'dist')
 // ones, which some agent tooling prefers.
 const BASE_URL = (process.env.SITE_URL || '').replace(/\/$/, '')
 
+// GitHub Pages serves a project repo from a subpath, so every root-relative link
+// in the site needs prefixing. Empty locally, `/matchplay-api-docs` in CI. Drop
+// it again if the site ever moves to a custom domain, which serves from the root.
+const BASE_PATH = (process.env.BASE_PATH || '').replace(/\/$/, '')
+
 const FRONT_MATTER_RE = /^---\n([\s\S]*?)\n---\n/
+
+// Prefix every root-relative href/src with BASE_PATH.
+//
+// Done once on the finished document rather than at each of the ~100 places a
+// link is produced — the nav, the stylesheet, prose links written by hand, and
+// the schema-index links generated from the spec all flow through here.
+//
+// The negative lookahead guards protocol-relative URLs: `//example.com` must not
+// be rewritten. Absolute `https://…` links never match, having no `="/` prefix.
+// The lookahead form (rather than a character class) also catches the bare
+// `href="/"` home link, which has nothing following the slash.
+function applyBasePath(html, basePath = BASE_PATH) {
+   if (!basePath) return html
+   return html.replace(/\b(href|src)="\/(?!\/)/g, `$1="${basePath}/`)
+}
 
 // html:true is safe here: content/ is first-party prose, and the generated
 // schema tables emit <span> badges that must survive to the output.
@@ -129,10 +149,11 @@ function build() {
          currentSlug: page.slug,
          generatedAt
       })
-      fs.writeFileSync(path.join(DIST_DIR, page.outputName), html)
+      fs.writeFileSync(path.join(DIST_DIR, page.outputName), applyBasePath(html))
    }
 
    copyAssets()
+   fs.writeFileSync(path.join(DIST_DIR, '.nojekyll'), '')
    fs.copyFileSync(SPEC_PATH, path.join(DIST_DIR, 'openapi.yaml'))
 
    const asyncApiPath = path.join(ROOT, 'spec', 'asyncapi.yaml')
@@ -142,8 +163,8 @@ function build() {
 
    writeOpenApiJson(spec, DIST_DIR)
    const schemaFiles = writeJsonSchemas(spec, DIST_DIR)
-   writeLlmsTxt(pages, DIST_DIR, BASE_URL)
-   writeLlmsFullTxt(pages, DIST_DIR)
+   writeLlmsTxt(pages, DIST_DIR, BASE_URL + BASE_PATH)
+   writeLlmsFullTxt(pages, DIST_DIR, BASE_PATH)
 
    console.log(`Built ${pages.length} pages, ${schemaFiles.length} JSON schemas -> dist/`)
    for (const page of pages) console.log(`  ${page.outputName.padEnd(28)} ${page.title}`)
@@ -151,4 +172,4 @@ function build() {
 
 if (require.main === module) build()
 
-module.exports = { build, parseFrontMatter, loadPages, md }
+module.exports = { build, parseFrontMatter, loadPages, applyBasePath, md }

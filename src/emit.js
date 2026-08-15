@@ -95,7 +95,7 @@ function writeLlmsTxt(pages, distDir, baseUrl) {
 
 // The whole reference as one plain-text file: every page's Markdown source,
 // concatenated with separators, so an agent can retrieve it in a single fetch.
-function writeLlmsFullTxt(pages, distDir) {
+function writeLlmsFullTxt(pages, distDir, basePath = '') {
    const chunks = [
       '# Match Play Events API — unofficial reference (full text)',
       '',
@@ -109,7 +109,7 @@ function writeLlmsFullTxt(pages, distDir) {
          '',
          '='.repeat(76),
          `# ${page.title}`,
-         `Source: ${page.href}`,
+         `Source: ${basePath}${page.href}`,
          '='.repeat(76),
          '',
          page.expandedMarkdown
