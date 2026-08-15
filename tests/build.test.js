@@ -9,6 +9,7 @@ const YAML = require('yaml')
 
 const { parseFrontMatter, loadPages, applyBasePath } = require('../src/build')
 const { renderSchemaTable, collectProperties, describeType, expandSchemaPlaceholders } = require('../src/schemaTables')
+const { renderPage } = require('../src/layout')
 const { rewriteRefs } = require('../src/emit')
 
 const ROOT = path.join(__dirname, '..')
@@ -121,6 +122,17 @@ test('applyBasePath leaves fragments and relative links alone', () => {
 test('applyBasePath is a no-op without a base path', () => {
    const html = '<a href="/games.html">g</a>'
    assert.equal(applyBasePath(html, ''), html)
+})
+
+test('the footer links to the repository, and the link survives BASE_PATH', () => {
+   const html = renderPage({
+      title: 'T', description: '', bodyHtml: '', pages: [], currentSlug: 'x', generatedAt: '2026-01-01'
+   })
+   const footer = html.slice(html.indexOf('page-footer'))
+   assert.match(footer, /href="https:\/\/github\.com\/[^"]+"/)
+
+   // Absolute URLs must not be rewritten when the site is served from a subpath.
+   assert.equal(applyBasePath(footer, '/base'), footer)
 })
 
 test('the schema manifest lists every component schema', () => {

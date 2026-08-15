@@ -7,6 +7,10 @@ const SITE_TITLE = 'Match Play Events API'
 const SITE_TAGLINE = 'Unofficial reference documentation'
 const REPO_NOTE = 'Reconstructed from observed traffic. Not affiliated with Match Play Events.'
 
+// Absolute, so it survives the BASE_PATH rewrite untouched and works wherever
+// the site is hosted.
+const REPO_URL = 'https://github.com/johngarnett/matchplay-api-docs'
+
 // Escape a string for safe interpolation into HTML text or an attribute.
 function escapeHtml(text) {
    return String(text)
@@ -65,7 +69,10 @@ ${bodyHtml}
          </main>
          <footer class="page-footer">
             <span>${REPO_NOTE}</span>
-            <span>Generated ${escapeHtml(generatedAt)}</span>
+            <span>
+               <a href="${REPO_URL}">Source on GitHub</a>
+               · Generated ${escapeHtml(generatedAt)}
+            </span>
          </footer>
       </div>
    </div>
