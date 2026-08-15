@@ -92,16 +92,29 @@ function writeLlmsTxt(pages, distDir, baseUrl) {
       '',
       '## Machine-readable',
       '',
-      `- [OpenAPI 3.1 spec](${baseUrl}/openapi.json): every documented endpoint, parameter and response schema`,
+      `- [OpenAPI 3.1 spec, JSON](${baseUrl}/openapi.json): every documented endpoint, parameter and response schema`,
+      `- [OpenAPI 3.1 spec, YAML](${baseUrl}/openapi.yaml): the same document, as the editable source`,
+      `- [AsyncAPI 3.0 spec](${baseUrl}/asyncapi.yaml): the Pusher websocket channel and its twelve events`,
       `- [JSON Schemas](${baseUrl}/schemas/index.json): manifest; one standalone schema per object`,
       `- [Full text](${baseUrl}/llms-full.txt): the entire reference in a single file`,
+      '',
+      '## Rendered views of the specs',
+      '',
+      '> Generated from the specs above at build time, so they cannot drift from them, and',
+      "> cross-linked into the prose that explains each endpoint's behaviour.",
+      '',
+      `- [REST endpoint reference](${baseUrl}/reference-rest.html): every path and method from the OpenAPI spec, as HTML`,
+      `- [Websocket reference](${baseUrl}/reference-websocket.html): the channel and every event from the AsyncAPI spec, as HTML`,
+      `- [Schema index](${baseUrl}/schemas.html): every object shape, as HTML`,
       ''
    ]
 
    let lastGroup = null
    for (const page of pages) {
       if (page.group && page.group !== lastGroup) {
-         lines.push(`## ${page.group}`, '')
+         // A heading needs a blank line before it, or a parser reads it as more
+         // list text rather than a new section.
+         lines.push('', `## ${page.group}`, '')
          lastGroup = page.group
       }
       const blurb = page.description ? `: ${page.description}` : ''
@@ -110,7 +123,8 @@ function writeLlmsTxt(pages, distDir, baseUrl) {
    lines.push('')
 
    const target = path.join(distDir, 'llms.txt')
-   fs.writeFileSync(target, lines.join('\n'))
+   // Collapse runs of blank lines left by section boundaries meeting each other.
+   fs.writeFileSync(target, lines.join('\n').replace(/\n{3,}/g, '\n\n'))
    return target
 }
 

@@ -161,6 +161,35 @@ test('the footer links to the repository, and the link survives BASE_PATH', () =
    assert.equal(applyBasePath(footer, '/base'), footer)
 })
 
+test('llms.txt lists every page and both rendered spec views', () => {
+   const llmsPath = path.join(ROOT, 'dist', 'llms.txt')
+   if (!fs.existsSync(llmsPath)) return   // dist/ only exists after a build
+   const llms = fs.readFileSync(llmsPath, 'utf8')
+
+   for (const page of loadPages()) {
+      assert.ok(llms.includes(`](${page.href})`), `${page.slug} is missing from llms.txt`)
+   }
+   for (const artifact of ['/openapi.json', '/openapi.yaml', '/asyncapi.yaml',
+                           '/schemas/index.json', '/llms-full.txt',
+                           '/reference-rest.html', '/reference-websocket.html']) {
+      assert.ok(llms.includes(`](${artifact})`), `${artifact} is missing from llms.txt`)
+   }
+})
+
+test('llms.txt headings are well-formed Markdown', () => {
+   const llmsPath = path.join(ROOT, 'dist', 'llms.txt')
+   if (!fs.existsSync(llmsPath)) return
+
+   // A heading directly after a list item is read as list text by many parsers.
+   const lines = fs.readFileSync(llmsPath, 'utf8').split('\n')
+   const malformed = lines
+      .map((line, index) => ({ line, index }))
+      .filter(({ line, index }) => line.startsWith('## ') && index > 0 && lines[index - 1].trim())
+      .map(({ line }) => line)
+
+   assert.deepEqual(malformed, [], 'headings need a blank line before them')
+})
+
 test('the schema manifest lists every component schema', () => {
    // Static hosts serve no directory listing, so /schemas/ 404s and the manifest
    // is the only way to enumerate what is published there.
