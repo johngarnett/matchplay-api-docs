@@ -1,0 +1,24 @@
+{
+  "data": [
+    {
+      "playerId": 505540,
+      "name": "Player Name",
+      "ifpaId": 144424,
+      "status": "active",
+      "organizerId": 18724,
+      "claimedBy": 45388,
+      "labels": [],
+      "labelColor": null
+    },
+    {
+      "playerId": 427248,
+      "name": "Player Name",
+      "ifpaId": null,
+      "status": "active",
+      "organizerId": 18724,
+      "claimedBy": 46495,
+      "labels": [],
+      "labelColor": null
+    }
+  ]
+}

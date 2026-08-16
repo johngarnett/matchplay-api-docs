@@ -1,0 +1,126 @@
+{
+  "series": {
+    "seriesId": 6140,
+    "name": "Walk on the Beach",
+    "status": "active",
+    "organizerId": 18724,
+    "test": false,
+    "removedResults": -5,
+    "playoffsCutoffs": [],
+    "scoring": "bg_papa",
+    "estimatedTgp": null,
+    "scoringCustom": null
+  },
+  "overall": {
+    "sum": 111,
+    "max": 19,
+    "min": 11,
+    "mean": 13.875,
+    "median": 13.5,
+    "count": 8
+  },
+  "members": {
+    "sum": 111,
+    "max": 19,
+    "min": 11,
+    "mean": 13.875,
+    "median": 13.5,
+    "count": 8
+  },
+  "guests": {
+    "sum": 0,
+    "max": null,
+    "min": null,
+    "mean": null,
+    "median": null,
+    "count": 0
+  },
+  "tournaments": {
+    "258953": {
+      "name": "Walk on the Beach - Week 1 of 9 (June 25, 2026)",
+      "total": 14,
+      "members": 14,
+      "guests": 0
+    },
+    "258958": {
+      "name": "Walk on the Beach - Week 2 of 9 (July 2, 2026)",
+      "total": 14,
+      "members": 14,
+      "guests": 0
+    },
+    "258959": {
+      "name": "Walk on the Beach - Week 3 of 9 (July 9, 2026)",
+      "total": 19,
+      "members": 19,
+      "guests": 0
+    },
+    "258960": {
+      "name": "Walk on the Beach - Week 4 of 9 (July 16, 2026)",
+      "total": 14,
+      "members": 14,
+      "guests": 0
+    },
+    "258961": {
+      "name": "Walk on the Beach - Week 5 of 9 (July 23, 2026)",
+      "total": 13,
+      "members": 13,
+      "guests": 0
+    },
+    "258963": {
+      "name": "Walk on the Beach - Week 6 of 9 (July 30, 2026)",
+      "total": 13,
+      "members": 13,
+      "guests": 0
+    },
+    "258964": {
+      "name": "Walk on the Beach - Week 7 of 9 (Aug 6, 2026)",
+      "total": 13,
+      "members": 13,
+      "guests": 0
+    },
+    "258965": {
+      "name": "Walk on the Beach - Week 8 of 9 (Aug 13, 2026)",
+      "total": 11,
+      "members": 11,
+      "guests": 0
+    }
+  },
+  "playerAttendances": {
+    "1": 12,
+    "2": 4,
+    "3": 3,
+    "4": 1,
+    "5": 3,
+    "6": 3,
+    "7": 3,
+    "8": 3
+  },
+  "opponentCounts": [
+    {
+      "199818": 2,
+      "225854": 2,
+      "237550": 2,
+      "238363": 2,
+      "242641": 2,
+      "242648": 2,
+      "243612": 2,
+      "272106": 2,
+      "308179": 2,
+      "326856": 2,
+      "427242": 4,
+      "427248": 2,
+      "496910": 2,
+      "527444": 2,
+      "538465": 4,
+      "573018": 4,
+      "573020": 4,
+      "573024": 2,
+      "575223": 2,
+      "577209": 2,
+      "577215": 2,
+      "playerId": 505540,
+      "name": "Player Name"
+    }
+  ],
+  "arenaCounts": []
+}

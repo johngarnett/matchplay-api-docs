@@ -33,6 +33,20 @@ const BEST_GAME_TOURNAMENT = 261295     // type best_game
 const SAMPLE_USER = 5750
 const REAL_PLAYER_ID = 135991
 
+// Format-specific endpoints reject any tournament of the wrong type, so each
+// needs a subject of its own. Both completed, found via the `type=` filter.
+const FRENZY_TOURNAMENT = 153436
+const MAX_MATCHPLAY_TOURNAMENT = 258970
+
+// Item-level GETs need a known-good child id. Taken from the collection
+// fixtures already in samples/ so they stay consistent with them.
+const SAMPLE_GAME = 7696295             // in GROUP_KNOCKOUT_TOURNAMENT
+const SAMPLE_CARD = 33857               // in CARD_BEST_GAME_TOURNAMENT
+const SAMPLE_SINGLE_PLAYER_GAME = 2515032   // in GOLF_TOURNAMENT
+const SAMPLE_IFPA_ID = 32819            // John Garnett
+const SAMPLE_SERIES = 6140
+const SERIES_ATTENDANCE_COUNT = 5
+
 // Every expansion flag the handbook documents, requested in one call so we can
 // see which ones actually change the payload.
 const ALL_EXPANSIONS = [
@@ -120,6 +134,57 @@ const PROBES = [
 
    // The API's only POST. Computes an estimate; stores nothing.
    { name: 'wppr-estimator', path: '/ifpa/wppr-estimator', body: { tournamentId: KNOCKOUT_TOURNAMENT } },
+
+   // --- Statistics family ---------------------------------------------------
+   // Distinct from /summary/* despite the overlapping names: different shapes,
+   // and these return no envelope at all.
+   { name: 'stats-matchplay', path: `/tournaments/${KNOCKOUT_TOURNAMENT}/stats/matchplay` },
+   { name: 'stats-rounds', path: `/tournaments/${KNOCKOUT_TOURNAMENT}/stats/rounds` },
+   { name: 'stats-arenas', path: `/tournaments/${KNOCKOUT_TOURNAMENT}/stats/arenas` },
+   { name: 'stats-players', path: `/tournaments/${KNOCKOUT_TOURNAMENT}/stats/players` },
+   { name: 'stats-bestgame', path: `/tournaments/${CARD_BEST_GAME_TOURNAMENT}/stats/bestgame` },
+   // Errors unless the tournament has a definite duration — captured for the shape.
+   { name: 'stats-matches-error', path: `/tournaments/${KNOCKOUT_TOURNAMENT}/stats/matches` },
+
+   // --- Format-specific -----------------------------------------------------
+   { name: 'frenzy', path: `/tournaments/${FRENZY_TOURNAMENT}/frenzy` },
+   { name: 'max-matchplay', path: `/tournaments/${MAX_MATCHPLAY_TOURNAMENT}/max-matchplay` },
+   // 400/403 on a tournament of the wrong type — the type gate itself.
+   { name: 'frenzy-wrong-type', path: `/tournaments/${KNOCKOUT_TOURNAMENT}/frenzy` },
+   { name: 'queues-wrong-type', path: `/tournaments/${KNOCKOUT_TOURNAMENT}/queues` },
+   { name: 'queues', path: `/tournaments/${CARD_BEST_GAME_TOURNAMENT}/queues` },
+   { name: 'bgsummary', path: `/tournaments/${CARD_BEST_GAME_TOURNAMENT}/arenas/bgsummary` },
+   { name: 'single-player-top-scores', path: `/tournaments/${CARD_BEST_GAME_TOURNAMENT}/single-player-games/top-scores` },
+
+   // --- Item-level GETs -----------------------------------------------------
+   { name: 'game-single', path: `/tournaments/${GROUP_KNOCKOUT_TOURNAMENT}/games/${SAMPLE_GAME}` },
+   { name: 'card-single', path: `/tournaments/${CARD_BEST_GAME_TOURNAMENT}/cards/${SAMPLE_CARD}` },
+   { name: 'single-player-game-single', path: `/tournaments/${GOLF_TOURNAMENT}/single-player-games/${SAMPLE_SINGLE_PLAYER_GAME}` },
+
+   // --- Organizer resources -------------------------------------------------
+   { name: 'arenas-list', path: '/arenas?page=1' },
+   { name: 'locations-list', path: '/locations?page=1' },
+
+   // --- Series statistics ---------------------------------------------------
+   { name: 'series-stats', path: `/series/${SAMPLE_SERIES}/stats` },
+   { name: 'series-stats-attendance', path: `/series/${SAMPLE_SERIES}/stats/attendance?count=${SERIES_ATTENDANCE_COUNT}` },
+   { name: 'series-include-details', path: `/series/${SAMPLE_SERIES}?includeDetails=true` },
+
+   // --- Ratings extensions --------------------------------------------------
+   { name: 'ifpa-rating-history', path: `/ifpa/${SAMPLE_IFPA_ID}/rating-history?limit=5` },
+   { name: 'ratings-compare', path: '/ratings/compare', body: { userIds: [SAMPLE_USER] } },
+   // Route exists but the token is not privileged enough — 401, not 404.
+   { name: 'rating-periods', path: '/rating-periods?page=1' },
+
+   // --- Newly found query parameters ----------------------------------------
+   { name: 'tournament-parent-playoffs', path: `/tournaments/${KNOCKOUT_TOURNAMENT}?includeParent=true&includePlayoffs=true` },
+   { name: 'user-include-ifpa', path: `/users/${SAMPLE_USER}?includeIfpa=true&includeCounts=true` },
+   { name: 'tournaments-by-type', path: '/tournaments?type=frenzy&status=completed&limit=3' },
+   // An unknown `type` yields an empty set rather than being ignored, unlike `status`.
+   { name: 'tournaments-bogus-type', path: '/tournaments?type=bogusnonsense&limit=3' },
+
+   // Removed from the API: 404s as of 2026-08-15.
+   { name: 'error-404-dashboard', path: '/dashboard' },
 
    // --- Error shapes --------------------------------------------------------
    // Note: tournament id 1 exists, so a high id is needed for a real 404.

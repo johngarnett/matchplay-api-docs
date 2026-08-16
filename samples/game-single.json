@@ -1,0 +1,73 @@
+{
+  "data": {
+    "gameId": 7696295,
+    "roundId": 1154935,
+    "tournamentId": 258562,
+    "challengeId": null,
+    "arenaId": 133517,
+    "bankId": null,
+    "index": 0,
+    "set": 0,
+    "playerIdAdvantage": 162405,
+    "scorekeeperId": 9024,
+    "status": "completed",
+    "startedAt": "2026-06-27T03:51:18.000000Z",
+    "duration": 609,
+    "bye": false,
+    "scorbitId": null,
+    "scorbitLog": null,
+    "playerIds": [
+      162405,
+      251302
+    ],
+    "userIds": [
+      9024,
+      8988
+    ],
+    "resultPositions": [
+      162405,
+      251302
+    ],
+    "resultPoints": [
+      "1.00",
+      "0.00"
+    ],
+    "resultScores": [
+      null,
+      null
+    ],
+    "scorbitVerified": false,
+    "resultCountMismatch": false,
+    "arena": {
+      "arenaId": 133517,
+      "name": "Seawitch",
+      "status": "active",
+      "opdbId": "GR6kB-MDz81",
+      "categoryId": 2,
+      "organizerId": 14223,
+      "labels": [],
+      "labelColor": null
+    },
+    "suggestions": [
+      {
+        "suggestionId": 1838464,
+        "gameId": 7696295,
+        "roundId": 1154935,
+        "tournamentId": 258562,
+        "playerId": 162405,
+        "userId": 9024,
+        "results": [
+          162405,
+          251302
+        ],
+        "arenaId": null,
+        "scores": {
+          "162405": null,
+          "251302": null
+        },
+        "scorbitData": null,
+        "partial": false
+      }
+    ]
+  }
+}

@@ -123,7 +123,39 @@ const FIXTURES = [
    // The estimator returns every entrant. Keep only the row the docs quote, and
    // drop unresolvedNames, which is a list of real names of people who have no
    // IFPA record and therefore never appeared in any API object we published.
-   { file: 'wppr-estimator.json', envelope: 'whole', pick: { players: p => p.ifpaId === DOCUMENTED_IFPA_ID }, clear: ['unresolvedNames'], truncate: { standingsOrder: 2 } }
+   { file: 'wppr-estimator.json', envelope: 'whole', pick: { players: p => p.ifpaId === DOCUMENTED_IFPA_ID }, clear: ['unresolvedNames'], truncate: { standingsOrder: 2 } },
+
+   // --- Statistics family. Carry ids and counts but no person names. ---------
+   { file: 'stats-matchplay.json', envelope: 'whole' },
+   { file: 'stats-rounds.json', envelope: 'array' },
+   { file: 'stats-arenas.json', envelope: 'array' },
+   { file: 'stats-players.json', envelope: 'whole', truncate: { positionCounts: 2, arenaCounts: 2, opponentCounts: 2 } },
+   { file: 'stats-bestgame.json', envelope: 'whole' },
+
+   // --- Format-specific ------------------------------------------------------
+   { file: 'frenzy.json', envelope: 'whole' },
+   { file: 'max-matchplay.json', envelope: 'whole', truncate: { players: 2, games: 2 } },
+   { file: 'bgsummary.json', envelope: 'array', limit: 2 },
+   { file: 'queues.json', envelope: 'data' },
+
+   // --- Item-level GETs ------------------------------------------------------
+   { file: 'game-single.json', envelope: 'whole' },
+   { file: 'card-single.json', envelope: 'whole', truncate: { singlePlayerGames: 2 } },
+   { file: 'single-player-game-single.json', envelope: 'whole' },
+   { file: 'single-player-top-scores.json', envelope: 'data', limit: 2 },
+
+   // --- Organizer resources. Organizer 5750 is the consenting demo user. -----
+   { file: 'arenas-list.json', envelope: 'data', limit: 2 },
+   { file: 'locations-list.json', envelope: 'data', limit: 1 },
+
+   // --- Series statistics. opponentCounts rows carry real names; the
+   // anonymizer replaces them, and the fixture is trimmed hard besides. -------
+   { file: 'series-stats.json', envelope: 'whole', truncate: { opponentCounts: 1, arenaCounts: 1 } },
+   { file: 'series-stats-attendance.json', envelope: 'data', limit: 2 },
+
+   // --- Ratings extensions. Both are the demo user's own records. ------------
+   { file: 'ifpa-rating-history.json', envelope: 'data', limit: 3 },
+   { file: 'ratings-compare.json', envelope: 'whole' }
 ]
 
 // Cap named array properties on a single-object response so a long history or

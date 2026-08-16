@@ -1,0 +1,44 @@
+{
+  "data": [
+    {
+      "singlePlayerGameId": 2486165,
+      "arenaId": 48840,
+      "playerId": 34992,
+      "scorekeeperId": 10297,
+      "status": "completed",
+      "points": "200.00",
+      "score": 11396549120,
+      "bestGame": true,
+      "index": 0,
+      "duration": 527,
+      "createdAt": "2026-06-17T04:31:52.000000Z",
+      "updatedAt": "2026-06-18T12:01:50.000000Z",
+      "voided": false,
+      "scorbitId": null,
+      "scorbitLog": null,
+      "scorbitVerified": false,
+      "tournamentId": 239557,
+      "cardId": 33379
+    },
+    {
+      "singlePlayerGameId": 2485277,
+      "arenaId": 48840,
+      "playerId": 208611,
+      "scorekeeperId": 4300,
+      "status": "completed",
+      "points": "190.00",
+      "score": 11105811510,
+      "bestGame": true,
+      "index": 0,
+      "duration": 1872,
+      "createdAt": "2026-06-17T01:47:24.000000Z",
+      "updatedAt": "2026-06-18T12:01:50.000000Z",
+      "voided": false,
+      "scorbitId": null,
+      "scorbitLog": null,
+      "scorbitVerified": false,
+      "tournamentId": 239557,
+      "cardId": 33307
+    }
+  ]
+}

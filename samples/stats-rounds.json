@@ -1,0 +1,22 @@
+[
+  {
+    "roundId": 1162317,
+    "tournamentId": 261001,
+    "index": 0,
+    "name": "Round 1",
+    "duration": 994,
+    "createdAt": "2026-07-08 03:32:26Z",
+    "completedAt": "2026-07-08 03:49:00Z",
+    "gameCount": 9
+  },
+  {
+    "roundId": 1162335,
+    "tournamentId": 261001,
+    "index": 1,
+    "name": "Round 2",
+    "duration": 1263,
+    "createdAt": "2026-07-08 03:49:04Z",
+    "completedAt": "2026-07-08 04:10:07Z",
+    "gameCount": 10
+  }
+]

@@ -1,0 +1,46 @@
+{
+  "games": [
+    {
+      "gameId": 4933385,
+      "roundId": 0,
+      "tournamentId": 153436,
+      "challengeId": null,
+      "arenaId": 158827,
+      "bankId": null,
+      "index": null,
+      "set": 0,
+      "playerIdAdvantage": null,
+      "scorekeeperId": null,
+      "status": "started",
+      "startedAt": "2024-10-25T14:37:06.000000Z",
+      "duration": null,
+      "bye": false,
+      "scorbitId": null,
+      "scorbitLog": null,
+      "playerIds": [
+        394159,
+        389873
+      ],
+      "userIds": [
+        null,
+        null
+      ],
+      "resultPositions": [
+        null,
+        null
+      ],
+      "resultPoints": [
+        null,
+        null
+      ],
+      "resultScores": [
+        null,
+        null
+      ],
+      "scorbitVerified": false,
+      "resultCountMismatch": false
+    }
+  ],
+  "queue": [],
+  "avgQueueDuration": 130
+}

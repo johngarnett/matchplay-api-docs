@@ -132,7 +132,29 @@ const SAMPLE_EXPECTATIONS = [
    { file: 'summary-matches.json', schema: 'MatchSummaryRow', pick: body => body.data },
    { file: 'ratings-by-user.json', schema: 'RatingBundle', pick: body => [body] },
    { file: 'user.json', schema: 'UserProfileBundle', pick: body => [body] },
-   { file: 'wppr-estimator.json', schema: 'WpprEstimate', pick: body => [body] }
+   { file: 'wppr-estimator.json', schema: 'WpprEstimate', pick: body => [body] },
+
+   // Endpoints found in third-party clients and then verified live. The bare
+   // shapes below are why `pick` is not always `body.data` — these return the
+   // resource at the top level with no envelope.
+   { file: 'stats-matchplay.json', schema: 'MatchplayStats', pick: body => [body] },
+   { file: 'stats-rounds.json', schema: 'RoundStatsRow', pick: body => body },
+   { file: 'stats-arenas.json', schema: 'ArenaStatsRow', pick: body => body },
+   { file: 'stats-players.json', schema: 'PlayerStats', pick: body => [body] },
+   { file: 'stats-bestgame.json', schema: 'BestGameStats', pick: body => [body] },
+   { file: 'frenzy.json', schema: 'FrenzyState', pick: body => [body] },
+   { file: 'max-matchplay.json', schema: 'MaxMatchplayState', pick: body => [body] },
+   { file: 'bgsummary.json', schema: 'BestGameSummaryRow', pick: body => body },
+   { file: 'game-single.json', schema: 'Game', pick: body => [body.data] },
+   { file: 'card-single.json', schema: 'Card', pick: body => [body.data] },
+   { file: 'single-player-game-single.json', schema: 'SinglePlayerGame', pick: body => [body.data] },
+   { file: 'single-player-top-scores.json', schema: 'SinglePlayerGame', pick: body => body.data },
+   { file: 'arenas-list.json', schema: 'Arena', pick: body => body.data },
+   { file: 'locations-list.json', schema: 'Location', pick: body => body.data },
+   { file: 'series-stats.json', schema: 'SeriesStats', pick: body => [body] },
+   { file: 'series-stats-attendance.json', schema: 'Player', pick: body => body.data },
+   { file: 'ifpa-rating-history.json', schema: 'IfpaRatingHistoryPoint', pick: body => body.data },
+   { file: 'ratings-compare.json', schema: 'RatingComparison', pick: body => [body] }
 ]
 
 test('every expectation has a committed fixture to check against', () => {
