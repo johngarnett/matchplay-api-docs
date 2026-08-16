@@ -6,6 +6,14 @@ dist/
 # flags. Only hand-trimmed excerpts under samples/ (not samples/raw/) are published.
 samples/raw/
 
+# Working datasets used as evidence: a community-analysis export and a SQLite
+# dump of cached API responses. Kept locally because they are genuinely useful
+# for verifying schemas at scale, but not published — between them they carry
+# ~15,800 real player names, and the same reasoning that gitignores samples/raw/
+# applies here.
+data/
+*.tgz
+
 # Playwright
 test-results/
 playwright-report/
