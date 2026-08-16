@@ -180,10 +180,29 @@ non-empty result set is not a match; filter for the exact name.
 
   If the canonical statement lives in a callout rather than a heading, give the callout an
   explicit `id` so other pages can link to it. `{#custom-id}` works on headings only.
-### Claim tags
+### Before writing a claim, check whether it already exists
 
-Cross-cutting claims carry a source-only marker so the places that must agree can be found
-mechanically rather than by memory:
+**Any time you state something factual about the API — a measurement, a behaviour, a limit —
+search for it first:**
+
+```bash
+npm run claims -- -f "resultPositions"    # is this already stated somewhere?
+```
+
+The output shows every page whose prose mentions it, and which claim tags those pages
+already carry. Then:
+
+- **It already exists somewhere.** Do not restate the specifics. Either link to the existing
+  statement, or if this page genuinely needs its own mention, keep it to a sentence and tag
+  both sites with the shared key.
+- **Nothing similar exists.** It is a new claim. If it is the sort of thing that will be
+  referenced elsewhere — a trap, a limit, a correction — tag it `canonical` now, so the
+  second mention has something to point at.
+
+This step is the point. Tagging after the fact only happens when someone already notices the
+duplication, which is exactly the thing that keeps being missed.
+
+### Claim tags
 
 ```markdown
 <!-- claim:auto-close canonical -->   the page that states it in full
@@ -196,12 +215,12 @@ npm run claims auto-close   just that one
 ```
 
 **Run it before changing a tagged claim** — it lists every page that has to change with it.
-Tag a claim when you first write it down in more than one place; the cost is one comment,
-and nothing has to be kept in sync because the tags *are* the index.
+Nothing is kept in sync by hand: the tags *are* the index. Hand-written "see also" lists
+would go stale exactly like the claims they describe.
 
-The build strips them, so they reach neither the HTML nor `llms-full.txt`. Two tests
-enforce the scheme: exactly one canonical per key with no orphan references, and no tag
-leaking into the output.
+The build strips them, so they reach neither the HTML nor `llms-full.txt`. Two tests enforce
+the scheme: exactly one canonical per key with no orphan references, and no tag leaking into
+output.
 
 This exists because every stale claim in this repository's history was a restatement whose
 original had already been corrected. The tags do not prevent that — they make the blast

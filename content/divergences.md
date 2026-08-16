@@ -46,6 +46,7 @@ Not contradictions — gaps. Each is documented here from observation:
   set on older ones.
 - **Type-dependent field sets** where irrelevant keys are absent rather than null.
 - **`pointsMap` changing type** between REST and websocket.
+<!-- claim:live-result-arrays -->
 - **In-progress games returning null-filled result arrays.**
 - **The six websocket silences.**
 - **Nine undocumented endpoints**: `/search`, `/players`, `/ratings/users/{id}`,

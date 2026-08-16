@@ -190,6 +190,7 @@ no other object.
 
 ```bash
 npm run claims        # where each cross-cutting claim is stated and referenced
+npm run claims -- -f "resultPositions"   # is this claim already stated somewhere?
 npm test              # node:test — build logic and spec integrity
 npx playwright test   # rendering, responsive layout, link integrity
 ```

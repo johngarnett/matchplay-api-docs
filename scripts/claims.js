@@ -1,7 +1,8 @@
 // List every claim tag and where it appears.
 //
-//    npm run claims              every claim, with its locations
-//    npm run claims auto-close   just that one
+//    npm run claims                    every claim, with its locations
+//    npm run claims auto-close         just that one
+//    npm run claims -- -f "resultPos"  search the prose for an existing claim
 //
 // Prose repeats itself: a measurement explained in depth on one page is
 // referenced by teasers, tables and checklists on others. Correcting the
@@ -38,8 +39,48 @@ function collect() {
    return claims
 }
 
+// Search the prose for a phrase, so a new claim can be checked against what is
+// already written before it is written again. Reports each match with the claim
+// tags already present in that file, so an existing claim is easy to join.
+function search(term) {
+   const needle = term.toLowerCase()
+   const claims = collect()
+   const tagsByFile = new Map()
+   for (const [key, sites] of claims) {
+      for (const site of sites) {
+         if (!tagsByFile.has(site.file)) tagsByFile.set(site.file, new Set())
+         tagsByFile.get(site.file).add(key + (site.canonical ? ' (canonical)' : ''))
+      }
+   }
+
+   let found = 0
+   for (const file of fs.readdirSync(CONTENT_DIR).filter(name => name.endsWith('.md'))) {
+      const lines = fs.readFileSync(path.join(CONTENT_DIR, file), 'utf8').split('\n')
+      const hits = lines
+         .map((line, index) => ({ line: line.trim(), number: index + 1 }))
+         .filter(({ line }) => line.toLowerCase().includes(needle) && !line.startsWith('<!-- claim:'))
+
+      if (!hits.length) continue
+      found += hits.length
+      const tags = tagsByFile.get(file)
+      console.log(`\n${file}${tags ? `   [tagged: ${[...tags].join(', ')}]` : '   [no claim tags]'}`)
+      for (const hit of hits.slice(0, 4)) {
+         console.log(`  ${String(hit.number).padStart(4)}: ${hit.line.slice(0, 96)}`)
+      }
+      if (hits.length > 4) console.log(`        …and ${hits.length - 4} more`)
+   }
+
+   console.log(found
+      ? '\nIf one of these states the same claim, tag both sites with a shared key.'
+      : `\nNothing in the prose mentions "${term}" — this looks like a new claim.`)
+}
+
 function main() {
-   const filter = process.argv[2]
+   const args = process.argv.slice(2)
+   const searchIndex = args.findIndex(arg => arg === '-f' || arg === '--find')
+   if (searchIndex !== -1) return search(args[searchIndex + 1] || '')
+
+   const filter = args[0]
    const claims = collect()
    const keys = [...claims.keys()].sort().filter(key => !filter || key.includes(filter))
 

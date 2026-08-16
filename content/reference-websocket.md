@@ -11,6 +11,7 @@ order: 19
 The server, channel and every message in [`asyncapi.yaml`](/asyncapi.yaml), rendered for
 reading and **generated from the spec at build time**.
 
+<!-- claim:live-result-arrays -->
 <div class="callout callout-trap">
 <span class="callout-title">The events that never arrive matter more than the ones that do</span>
 
