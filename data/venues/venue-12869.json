@@ -1,0 +1,323 @@
+{
+  "locationId": "12869",
+  "name": "Mum's Arcade",
+  "address": "17738 Mack Ave, Grosse Pointe, MI 48230, US",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 21,
+  "relatedVenues": [
+    {
+      "locationId": "5287",
+      "name": "ULEKstore's Pinball and Classic Arcade",
+      "address": "2121 North Monroe St, Monroe, MI, 48162, US",
+      "count": 49
+    },
+    {
+      "locationId": "10357",
+      "name": "Offworld Arcade",
+      "address": "1420 E Fisher Fwy, Detroit, MI 48207",
+      "count": 31
+    },
+    {
+      "locationId": "12620",
+      "name": "Pinball Playhouse",
+      "address": "3642 W Eleven Mile Road, Berkley, MI 48072",
+      "count": 29
+    },
+    {
+      "locationId": "12444",
+      "name": "Sparks Pinball Museum & Arcade",
+      "address": "412 W 14 Mile Rd, Troy, MI 48083, US",
+      "count": 19
+    },
+    {
+      "locationId": "5718",
+      "name": "Barcade Detroit",
+      "address": "666 Selden St, Detroit, MI, 48201, US",
+      "count": 18
+    },
+    {
+      "locationId": "12723",
+      "name": "Dr. Tilt’s Arcade",
+      "address": "20734 Chesley Dr",
+      "count": 15
+    },
+    {
+      "locationId": "6137",
+      "name": "The Avenue Cafe",
+      "address": "2021 E Michigan Ave, Lansing, MI 48912, USA",
+      "count": 9
+    },
+    {
+      "locationId": "10767",
+      "name": "Crazy Quarters Arcade",
+      "address": "401 Center Ave, Bay City, MI 48708",
+      "count": 9
+    },
+    {
+      "locationId": "7606",
+      "name": "Starlite Arcade",
+      "address": "69345 Main Street, Richmond, MI 48062, US",
+      "count": 7
+    },
+    {
+      "locationId": "11709",
+      "name": "US12 Bar & Grill",
+      "address": "34824 W Michigan Ave, Wayne, MI 48184",
+      "count": 5
+    }
+  ],
+  "players": [
+    {
+      "id": "i8407",
+      "name": "Brandon Blake",
+      "rating": 1778.25,
+      "rd": 28.88,
+      "ratingClass": "Expert",
+      "homeLocation": "Pinball Playhouse",
+      "homeLocationId": "12620",
+      "percentile": 99.27796152233661,
+      "changeDisplay": "-0.9",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m12194",
+      "name": "Marco Vendetti",
+      "rating": 1725.32,
+      "rd": 33.08,
+      "ratingClass": "Expert",
+      "homeLocation": "Mum's Arcade",
+      "homeLocationId": "12869",
+      "percentile": 97.94102576046956,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m21002",
+      "name": "Aaron Wilburn Jr.",
+      "rating": 1691.91,
+      "rd": 24.29,
+      "ratingClass": "A",
+      "homeLocation": "Barcade Detroit",
+      "homeLocationId": "5718",
+      "percentile": 96.0544090930265,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m21726",
+      "name": "Jeff Catenacci",
+      "rating": 1647.58,
+      "rd": 20.27,
+      "ratingClass": "A",
+      "homeLocation": "ULEKstore's Pinball and Classic Arcade",
+      "homeLocationId": "5287",
+      "percentile": 91.37746308287137,
+      "changeDisplay": "+11.5",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m25776",
+      "name": "Uber Hubris",
+      "rating": 1640.66,
+      "rd": 18.84,
+      "ratingClass": "A",
+      "homeLocation": "ULEKstore's Pinball and Classic Arcade",
+      "homeLocationId": "5287",
+      "percentile": 90.42716728001118,
+      "changeDisplay": "-4.4",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m2023",
+      "name": "Pat Maurer",
+      "rating": 1627.13,
+      "rd": 22.9,
+      "ratingClass": "A",
+      "homeLocation": "ULEKstore's Pinball and Classic Arcade",
+      "homeLocationId": "5287",
+      "percentile": 88.00018633251037,
+      "changeDisplay": "-2.7",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m56276",
+      "name": "Greg Barrus",
+      "rating": 1626.63,
+      "rd": 19.54,
+      "ratingClass": "A",
+      "homeLocation": "Offworld Arcade",
+      "homeLocationId": "10357",
+      "percentile": 87.92565332836446,
+      "changeDisplay": "+13.5",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m28708",
+      "name": "Andy Raisanen",
+      "rating": 1594.17,
+      "rd": 20.25,
+      "ratingClass": "B",
+      "homeLocation": "ULEKstore's Pinball and Classic Arcade",
+      "homeLocationId": "5287",
+      "percentile": 80.60278567102995,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m33849",
+      "name": "Jamie",
+      "rating": 1585.71,
+      "rd": 19.25,
+      "ratingClass": "B",
+      "homeLocation": "Offworld Arcade",
+      "homeLocationId": "10357",
+      "percentile": 78.25033772767503,
+      "changeDisplay": "-0.1",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m27748",
+      "name": "Peter Spivak",
+      "rating": 1566.81,
+      "rd": 26.39,
+      "ratingClass": "B",
+      "homeLocation": "Dr. Tilt’s Arcade",
+      "homeLocationId": "12723",
+      "percentile": 72.52061303395911,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m46596",
+      "name": "Chris Landry",
+      "rating": 1547.9,
+      "rd": 33.5,
+      "ratingClass": "B",
+      "homeLocation": "Mum's Arcade",
+      "homeLocationId": "12869",
+      "percentile": 65.92910047980621,
+      "changeDisplay": "-10.9",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m1131",
+      "name": "Tim Grand",
+      "rating": 1543.09,
+      "rd": 27.44,
+      "ratingClass": "B",
+      "homeLocation": "Pinball Playhouse",
+      "homeLocationId": "12620",
+      "percentile": 64.26142451204174,
+      "changeDisplay": "-0.9",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m20985",
+      "name": "Heather Catenacci",
+      "rating": 1538.88,
+      "rd": 21.23,
+      "ratingClass": "B",
+      "homeLocation": "ULEKstore's Pinball and Classic Arcade",
+      "homeLocationId": "5287",
+      "percentile": 62.65896492290493,
+      "changeDisplay": "-8.8",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m4761",
+      "name": "Tim Carpenter MI",
+      "rating": 1534.45,
+      "rd": 22.67,
+      "ratingClass": "B",
+      "homeLocation": "Barcade Detroit",
+      "homeLocationId": "5718",
+      "percentile": 60.77234825546187,
+      "changeDisplay": "+11.5",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m48007",
+      "name": "Chris Arsenault",
+      "rating": 1520.59,
+      "rd": 25.09,
+      "ratingClass": "B",
+      "homeLocation": "The Avenue Cafe",
+      "homeLocationId": "6137",
+      "percentile": 55.40597195695719,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i144257",
+      "name": "Riley Docter",
+      "rating": 1519.02,
+      "rd": 31.97,
+      "ratingClass": "B",
+      "homeLocation": "Mum's Arcade",
+      "homeLocationId": "12869",
+      "percentile": 54.73051660688498,
+      "changeDisplay": "-0.2",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m55626",
+      "name": "Wes Kerstens",
+      "rating": 1513.58,
+      "rd": 23.85,
+      "ratingClass": "B",
+      "homeLocation": "ULEKstore's Pinball and Classic Arcade",
+      "homeLocationId": "5287",
+      "percentile": 52.60632598872689,
+      "changeDisplay": "+6.0",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m28467",
+      "name": "Brendan Kuras",
+      "rating": 1507.75,
+      "rd": 22.3,
+      "ratingClass": "B",
+      "homeLocation": "Starlite Arcade",
+      "homeLocationId": "7606",
+      "percentile": 50.32841104951786,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i159459",
+      "name": "Will Atkin",
+      "rating": 1500.68,
+      "rd": 24.78,
+      "ratingClass": "B",
+      "homeLocation": "Starlite Arcade",
+      "homeLocationId": "7606",
+      "percentile": 47.39833232403223,
+      "changeDisplay": "-3.2",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "i46518",
+      "name": "mark walz",
+      "rating": 1466.79,
+      "rd": 56.48,
+      "ratingClass": "C",
+      "homeLocation": "Mum's Arcade",
+      "homeLocationId": "12869",
+      "percentile": 33.56314342944985,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m60336",
+      "name": "Shelby Atkin",
+      "rating": 1399.03,
+      "rd": 33.49,
+      "ratingClass": "D",
+      "homeLocation": "Sparks Pinball Museum & Arcade",
+      "homeLocationId": "12444",
+      "percentile": 12.28862905855499,
+      "changeDisplay": "+10.2",
+      "changeClass": "change-positive"
+    }
+  ]
+}

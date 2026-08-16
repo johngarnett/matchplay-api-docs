@@ -1,0 +1,44 @@
+{
+  "locationId": "5442",
+  "venueName": "Magoo's Sports Bar and Billards",
+  "venueAddress": "5002 S Memorial Dr, Tulsa, OK 74145, USA",
+  "tournaments": [
+    {
+      "id": 263807,
+      "name": "Finals for Hangar Pinball's - Stern Army Transformers Launch Party",
+      "date": "7/25/2026",
+      "playerCount": 8,
+      "qualifying": {
+        "id": 258264,
+        "name": "Hangar Pinball's - Stern Army Transformers Launch Party",
+        "playerCount": 31
+      },
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m9011",
+          "name": "Brian Easterwood",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m26027",
+          "name": "Alan Hamby",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m18557",
+          "name": "Darla Eades",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m5335",
+          "name": "Mike Denton",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

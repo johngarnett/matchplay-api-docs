@@ -1,0 +1,299 @@
+{
+  "locationId": "8090",
+  "name": "The Basement Arcade Bar",
+  "address": "14 Union St S, Concord, NC 28025, US",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 19,
+  "relatedVenues": [
+    {
+      "locationId": "7837",
+      "name": "Super Abari Game Bar",
+      "address": "1015 Seigle Ave, Charlotte, NC, 2820, US",
+      "count": 12
+    },
+    {
+      "locationId": "8970",
+      "name": "CityCade Arcade Bar",
+      "address": "122 South Oakland Street, Gastonia NC 28052",
+      "count": 8
+    },
+    {
+      "locationId": "5106",
+      "name": "Player 1UP",
+      "address": "140 E Main St Suite 140, Rock Hill, SC 29730, United States",
+      "count": 7
+    },
+    {
+      "locationId": "5315",
+      "name": "Enterrium",
+      "address": "2 Woodfield Mall Unit A, Schaumburg, IL 60173, USA",
+      "count": 6
+    },
+    {
+      "locationId": "12978",
+      "name": "The Pinball Capital",
+      "address": "3200 W Le Moyne St, Stone Park, IL 60165",
+      "count": 5
+    },
+    {
+      "locationId": "8601",
+      "name": "Bowlero",
+      "address": "1611 S Randall Rd, Algonquin, IL 60102, US",
+      "count": 4
+    },
+    {
+      "locationId": "11191",
+      "name": "The Flipper Room",
+      "address": "221新北市汐止區大同路一段94號",
+      "count": 4
+    },
+    {
+      "locationId": "8950",
+      "name": "The Pinball Barn",
+      "address": "250 Stoneybrook Road, Pelzer, SC  29669",
+      "count": 3
+    },
+    {
+      "locationId": "2469",
+      "name": "Fellowship of the silver ball clubhouse",
+      "address": "",
+      "count": 2
+    },
+    {
+      "locationId": "5770",
+      "name": "ORD",
+      "address": "",
+      "count": 2
+    }
+  ],
+  "players": [
+    {
+      "id": "m1947",
+      "name": "Joe Albertson",
+      "rating": 1699.32,
+      "rd": 30.63,
+      "ratingClass": "A",
+      "homeLocation": "The Basement Arcade Bar",
+      "homeLocationId": "8090",
+      "percentile": 96.59477337308427,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m16804",
+      "name": "Jake Crimmins",
+      "rating": 1697.82,
+      "rd": 26.68,
+      "ratingClass": "A",
+      "homeLocation": "The Flipper Room",
+      "homeLocationId": "11191",
+      "percentile": 96.46899892858806,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m9284",
+      "name": "Matt Highley",
+      "rating": 1566.09,
+      "rd": 43.64,
+      "ratingClass": "B",
+      "homeLocation": "The Basement Arcade Bar",
+      "homeLocationId": "8090",
+      "percentile": 72.29235570876229,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m6037",
+      "name": "Jacque Hall",
+      "rating": 1565.38,
+      "rd": 27.96,
+      "ratingClass": "B",
+      "homeLocation": "The Basement Arcade Bar",
+      "homeLocationId": "8090",
+      "percentile": 72.05944007080636,
+      "changeDisplay": "+12.0",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m25053",
+      "name": "Kelly Walker",
+      "rating": 1557.33,
+      "rd": 27.53,
+      "ratingClass": "B",
+      "homeLocation": "The Basement Arcade Bar",
+      "homeLocationId": "8090",
+      "percentile": 69.47873480225462,
+      "changeDisplay": "-7.0",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m43833",
+      "name": "Brandon Gwinn",
+      "rating": 1552.79,
+      "rd": 26.89,
+      "ratingClass": "B",
+      "homeLocation": "Super Abari Game Bar",
+      "homeLocationId": "7837",
+      "percentile": 67.76913401965808,
+      "changeDisplay": "+3.3",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m50409",
+      "name": "Scot Coyle",
+      "rating": 1547.97,
+      "rd": 20.27,
+      "ratingClass": "B",
+      "homeLocation": "Enterrium",
+      "homeLocationId": "5315",
+      "percentile": 65.9523920436018,
+      "changeDisplay": "-4.8",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m57822",
+      "name": "Luis Cortes",
+      "rating": 1520.99,
+      "rd": 24.79,
+      "ratingClass": "B",
+      "homeLocation": "CityCade Arcade Bar",
+      "homeLocationId": "8970",
+      "percentile": 55.569012903526335,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m47638",
+      "name": "Frank Harris",
+      "rating": 1515.85,
+      "rd": 40.22,
+      "ratingClass": "B",
+      "homeLocation": "The Basement Arcade Bar",
+      "homeLocationId": "8090",
+      "percentile": 53.547305166068845,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m35201",
+      "name": "Tattoo Joe",
+      "rating": 1514.01,
+      "rd": 32.71,
+      "ratingClass": "B",
+      "homeLocation": "The Basement Arcade Bar",
+      "homeLocationId": "8090",
+      "percentile": 52.79265849909163,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m29547",
+      "name": "Mike Cole",
+      "rating": 1497.04,
+      "rd": 40.58,
+      "ratingClass": "C",
+      "homeLocation": "The Basement Arcade Bar",
+      "homeLocationId": "8090",
+      "percentile": 45.91698886663251,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m28815",
+      "name": "Brian Jones NC",
+      "rating": 1474.71,
+      "rd": 40.23,
+      "ratingClass": "C",
+      "homeLocation": "The Basement Arcade Bar",
+      "homeLocationId": "8090",
+      "percentile": 36.80067079703731,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m44858",
+      "name": "Kyra Beveridge",
+      "rating": 1418.88,
+      "rd": 23.44,
+      "ratingClass": "C",
+      "homeLocation": "Super Abari Game Bar",
+      "homeLocationId": "7837",
+      "percentile": 17.305631900125775,
+      "changeDisplay": "-2.8",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "i88832",
+      "name": "William Colbert",
+      "rating": 1415.95,
+      "rd": 44.69,
+      "ratingClass": "C",
+      "homeLocation": "The Basement Arcade Bar",
+      "homeLocationId": "8090",
+      "percentile": 16.56030185866679,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m60691",
+      "name": "Daniel Cortes",
+      "rating": 1400.65,
+      "rd": 36.42,
+      "ratingClass": "C",
+      "homeLocation": "CityCade Arcade Bar",
+      "homeLocationId": "8970",
+      "percentile": 12.638002515488889,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m12517",
+      "name": "Kelsey Grant",
+      "rating": 1396.18,
+      "rd": 50.97,
+      "ratingClass": "D",
+      "homeLocation": "The Basement Arcade Bar",
+      "homeLocationId": "8090",
+      "percentile": 11.561932268132482,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i156747",
+      "name": "James Morrison",
+      "rating": 1392.97,
+      "rd": 47.7,
+      "ratingClass": "D",
+      "homeLocation": "Arkadium Retro Arcade",
+      "homeLocationId": "7211",
+      "percentile": 10.88181860530116,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m50384",
+      "name": "Paige Lane",
+      "rating": 1391.3,
+      "rd": 31.87,
+      "ratingClass": "D",
+      "homeLocation": "The Basement Arcade Bar",
+      "homeLocationId": "8090",
+      "percentile": 10.541761773885499,
+      "changeDisplay": "-0.4",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "i96703",
+      "name": "Jeff Latham",
+      "rating": null,
+      "rd": null,
+      "ratingClass": "N/A",
+      "homeLocation": "Player 1UP",
+      "homeLocationId": "5106",
+      "percentile": null,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

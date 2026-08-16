@@ -1,0 +1,191 @@
+{
+  "locationId": "13309",
+  "name": "Urban House",
+  "address": "York",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 10,
+  "relatedVenues": [
+    {
+      "locationId": "13397",
+      "name": "Romano House",
+      "address": "Harrisburg",
+      "count": 20
+    },
+    {
+      "locationId": "13499",
+      "name": "Dodds House",
+      "address": "Middletown",
+      "count": 20
+    },
+    {
+      "locationId": "13318",
+      "name": "Fauth House",
+      "address": "Lancaster",
+      "count": 19
+    },
+    {
+      "locationId": "12658",
+      "name": "61PinBar / Cointaker",
+      "address": "1437 State Route 61 Sunbury, Pa 17801",
+      "count": 9
+    },
+    {
+      "locationId": "5785",
+      "name": "Delaware Pinball Collective",
+      "address": "1100 First State Blvd. Wilmington, DE 19804",
+      "count": 5
+    },
+    {
+      "locationId": "9897",
+      "name": "Urban House",
+      "address": "",
+      "count": 4
+    },
+    {
+      "locationId": "11249",
+      "name": "The Manor",
+      "address": "1329 Kings Highway, Pilesgrove, NJ 08098",
+      "count": 3
+    },
+    {
+      "locationId": "13541",
+      "name": "Dodds House",
+      "address": "921 timber lane Middletown",
+      "count": 3
+    },
+    {
+      "locationId": "11570",
+      "name": "TPDC Pinball at The Red Rocker",
+      "address": "15 Hershey Rd. Shippensburg, PA 17257",
+      "count": 2
+    },
+    {
+      "locationId": "11813",
+      "name": "Mountaineer Meat Smokers",
+      "address": "45 Monroe St, Martinsburg, WV 25404, US",
+      "count": 2
+    }
+  ],
+  "players": [
+    {
+      "id": "m8052",
+      "name": "Kathy Bobeck",
+      "rating": 1578.19,
+      "rd": 21.87,
+      "ratingClass": "B",
+      "homeLocation": "Delaware Pinball Collective",
+      "homeLocationId": "5785",
+      "percentile": 76.06093073088928,
+      "changeDisplay": "+4.7",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m26753",
+      "name": "Sara Romano",
+      "rating": 1568.72,
+      "rd": 27.51,
+      "ratingClass": "B",
+      "homeLocation": "Urban House",
+      "homeLocationId": "13309",
+      "percentile": 73.10290212884894,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m30069",
+      "name": "Bobbi Urban",
+      "rating": 1540.7,
+      "rd": 27.25,
+      "ratingClass": "B",
+      "homeLocation": "Urban House",
+      "homeLocationId": "13309",
+      "percentile": 63.38566171332744,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i140048",
+      "name": "Kaylee Fauth",
+      "rating": 1511.37,
+      "rd": 33.73,
+      "ratingClass": "B",
+      "homeLocation": "Urban House",
+      "homeLocationId": "13309",
+      "percentile": 51.781804630362885,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m36110",
+      "name": "Sarah Landau",
+      "rating": 1511.2,
+      "rd": 28.62,
+      "ratingClass": "B",
+      "homeLocation": "61PinBar / Cointaker",
+      "homeLocationId": "12658",
+      "percentile": 51.74453812828993,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m28662",
+      "name": "Wendy Dunn",
+      "rating": 1489.7,
+      "rd": 21.98,
+      "ratingClass": "C",
+      "homeLocation": "Delaware Pinball Collective",
+      "homeLocationId": "5785",
+      "percentile": 42.889085573205385,
+      "changeDisplay": "+0.7",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m33022",
+      "name": "Kristy Abbe",
+      "rating": 1433.62,
+      "rd": 23.7,
+      "ratingClass": "C",
+      "homeLocation": "61PinBar / Cointaker",
+      "homeLocationId": "12658",
+      "percentile": 21.66581264266083,
+      "changeDisplay": "-18.5",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m48514",
+      "name": "Angie Fauth",
+      "rating": 1413.35,
+      "rd": 34.78,
+      "ratingClass": "C",
+      "homeLocation": "Urban House",
+      "homeLocationId": "13309",
+      "percentile": 16.024595891368147,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m48627",
+      "name": "Missy Dodds",
+      "rating": 1386.98,
+      "rd": 33.31,
+      "ratingClass": "D",
+      "homeLocation": "Urban House",
+      "homeLocationId": "13309",
+      "percentile": 9.67531560068943,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m59821",
+      "name": "Ruth Fritz",
+      "rating": 1274.23,
+      "rd": 43.46,
+      "ratingClass": "E",
+      "homeLocation": "Romano House",
+      "homeLocationId": "13397",
+      "percentile": 0.5310476545395258,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

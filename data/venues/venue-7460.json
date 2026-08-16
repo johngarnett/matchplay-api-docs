@@ -1,0 +1,401 @@
+{
+  "locationId": "7460",
+  "name": "The Brewtique",
+  "address": "401 Cypress Creek Road, Cedar Park, TX 78613, US",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 28,
+  "relatedVenues": [
+    {
+      "locationId": "11561",
+      "name": "Austin Pinball Collective",
+      "address": "1106 Clayton Ln, Austin, TX 78723, US",
+      "count": 68
+    },
+    {
+      "locationId": "9186",
+      "name": "Pinballz Arcade",
+      "address": "8940 Research Blvd, Austin, TX 78758, US",
+      "count": 35
+    },
+    {
+      "locationId": "8994",
+      "name": "Bender Bar and Grill",
+      "address": "321 W Ben White Blvd Ste 300, Austin, TX 78704, US",
+      "count": 31
+    },
+    {
+      "locationId": "10631",
+      "name": "Austin Beerworks - Sprinkle Valley",
+      "address": "10300 Springdale Rd, Austin, TX 78754, US",
+      "count": 8
+    },
+    {
+      "locationId": "9302",
+      "name": "AREA 254",
+      "address": "901 S Fort Hood St, Killeen, TX 76541, US",
+      "count": 7
+    },
+    {
+      "locationId": "2123",
+      "name": "What's Brewing? Coffee Roasters",
+      "address": "138 West Rhapsody Drive, San Antonio, TX, 78216, US",
+      "count": 6
+    },
+    {
+      "locationId": "3790",
+      "name": "Cactus Jacks",
+      "address": "",
+      "count": 4
+    },
+    {
+      "locationId": "66",
+      "name": "Cactus Jack's",
+      "address": "",
+      "count": 2
+    },
+    {
+      "locationId": "11295",
+      "name": "Kristof's Entertainment Center",
+      "address": "421 West Rollins Road, Round Lake Beach, IL 60073, US",
+      "count": 1
+    }
+  ],
+  "players": [
+    {
+      "id": "m39331",
+      "name": "Paul Young",
+      "rating": 1702.66,
+      "rd": 19.02,
+      "ratingClass": "Expert",
+      "homeLocation": "Bender Bar and Grill",
+      "homeLocationId": "8994",
+      "percentile": 96.7531560068943,
+      "changeDisplay": "-8.0",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m486",
+      "name": "Brad Holliday",
+      "rating": 1686.1,
+      "rd": 26.61,
+      "ratingClass": "A",
+      "homeLocation": "Pinballz Arcade",
+      "homeLocationId": "9186",
+      "percentile": 95.60721106815112,
+      "changeDisplay": "+18.4",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m2804",
+      "name": "Jonathon Morales",
+      "rating": 1685.68,
+      "rd": 17.65,
+      "ratingClass": "A",
+      "homeLocation": "Austin Pinball Collective",
+      "homeLocationId": "11561",
+      "percentile": 95.5792611915964,
+      "changeDisplay": "+5.1",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m1048",
+      "name": "Jason Newman",
+      "rating": 1657.89,
+      "rd": 19.47,
+      "ratingClass": "A",
+      "homeLocation": "The Brewtique",
+      "homeLocationId": "7460",
+      "percentile": 92.79359016164346,
+      "changeDisplay": "+12.3",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m38896",
+      "name": "Daniel Watkins",
+      "rating": 1634.74,
+      "rd": 44.81,
+      "ratingClass": "A",
+      "homeLocation": "The Brewtique",
+      "homeLocationId": "7460",
+      "percentile": 89.40699678576419,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m39395",
+      "name": "Eryn Mullins",
+      "rating": 1630.88,
+      "rd": 33.83,
+      "ratingClass": "A",
+      "homeLocation": "The Brewtique",
+      "homeLocationId": "7460",
+      "percentile": 88.75949131224671,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m11619",
+      "name": "J Goldberg",
+      "rating": 1621.98,
+      "rd": 24.34,
+      "ratingClass": "A",
+      "homeLocation": "Austin Pinball Collective",
+      "homeLocationId": "11561",
+      "percentile": 87.04989052965017,
+      "changeDisplay": "+0.2",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m11854",
+      "name": "Justin Weaver",
+      "rating": 1606.28,
+      "rd": 34.71,
+      "ratingClass": "A",
+      "homeLocation": "The Brewtique",
+      "homeLocationId": "7460",
+      "percentile": 83.50957283272,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m28542",
+      "name": "TJ Lewis",
+      "rating": 1593.09,
+      "rd": 23.32,
+      "ratingClass": "B",
+      "homeLocation": "Austin Pinball Collective",
+      "homeLocationId": "11561",
+      "percentile": 80.27204546513252,
+      "changeDisplay": "+1.9",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m51009",
+      "name": "Joey Demple",
+      "rating": 1589.01,
+      "rd": 23.53,
+      "ratingClass": "B",
+      "homeLocation": "The Brewtique",
+      "homeLocationId": "7460",
+      "percentile": 79.20529184329436,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m13131",
+      "name": "Christopher Welch",
+      "rating": 1588.45,
+      "rd": 21.82,
+      "ratingClass": "B",
+      "homeLocation": "The Brewtique",
+      "homeLocationId": "7460",
+      "percentile": 79.03293427120697,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m21773",
+      "name": "Owen DeGreve",
+      "rating": 1569.99,
+      "rd": 28.83,
+      "ratingClass": "B",
+      "homeLocation": "The Brewtique",
+      "homeLocationId": "7460",
+      "percentile": 73.45227558578283,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m22757",
+      "name": "Cayman Kai",
+      "rating": 1560.46,
+      "rd": 18.06,
+      "ratingClass": "B",
+      "homeLocation": "Austin Pinball Collective",
+      "homeLocationId": "11561",
+      "percentile": 70.42903060511483,
+      "changeDisplay": "+3.5",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "i111513",
+      "name": "Remington Donelson",
+      "rating": 1540.99,
+      "rd": 29.59,
+      "ratingClass": "B",
+      "homeLocation": "The Brewtique",
+      "homeLocationId": "7460",
+      "percentile": 63.5021195323054,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m25374",
+      "name": "Matt Oldfield",
+      "rating": 1538.61,
+      "rd": 26.56,
+      "ratingClass": "B",
+      "homeLocation": "Austin Pinball Collective",
+      "homeLocationId": "11561",
+      "percentile": 62.51455722737225,
+      "changeDisplay": "-18.0",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m19324",
+      "name": "Grant Birdwell",
+      "rating": 1531.78,
+      "rd": 23.09,
+      "ratingClass": "B",
+      "homeLocation": "AREA 254",
+      "homeLocationId": "9302",
+      "percentile": 59.77081101225137,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m40319",
+      "name": "Brandon Venes",
+      "rating": 1528.27,
+      "rd": 33.49,
+      "ratingClass": "B",
+      "homeLocation": "The Brewtique",
+      "homeLocationId": "7460",
+      "percentile": 58.36400055899753,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m40931",
+      "name": "Caroline Bassett",
+      "rating": 1519.33,
+      "rd": 18.06,
+      "ratingClass": "B",
+      "homeLocation": "Bender Bar and Grill",
+      "homeLocationId": "8994",
+      "percentile": 54.91219080449061,
+      "changeDisplay": "-0.2",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "i155020",
+      "name": "Joel Miner",
+      "rating": 1515.33,
+      "rd": 28.64,
+      "ratingClass": "B",
+      "homeLocation": "The Brewtique",
+      "homeLocationId": "7460",
+      "percentile": 53.30507290259469,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m58509",
+      "name": "Chris Knapp",
+      "rating": 1497.81,
+      "rd": 19.7,
+      "ratingClass": "C",
+      "homeLocation": "Pinballz Arcade",
+      "homeLocationId": "9186",
+      "percentile": 46.23375413425258,
+      "changeDisplay": "-19.3",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m33890",
+      "name": "Keaton Trainer",
+      "rating": 1495.57,
+      "rd": 44.25,
+      "ratingClass": "C",
+      "homeLocation": "The Brewtique",
+      "homeLocationId": "7460",
+      "percentile": 45.33004145898356,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m60465",
+      "name": "Jaye Cerda",
+      "rating": 1492.54,
+      "rd": 28.37,
+      "ratingClass": "C",
+      "homeLocation": "Pinballz Arcade",
+      "homeLocationId": "9186",
+      "percentile": 44.062980388503284,
+      "changeDisplay": "+4.5",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m54504",
+      "name": "Henry Wilton",
+      "rating": 1478.63,
+      "rd": 19.71,
+      "ratingClass": "C",
+      "homeLocation": "Pinballz Arcade",
+      "homeLocationId": "9186",
+      "percentile": 38.407788698933246,
+      "changeDisplay": "-14.5",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m52333",
+      "name": "Chris Harden",
+      "rating": 1430.89,
+      "rd": 44.4,
+      "ratingClass": "C",
+      "homeLocation": "The Brewtique",
+      "homeLocationId": "7460",
+      "percentile": 20.855266222574183,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m27436",
+      "name": "Brandon Welch",
+      "rating": 1426.33,
+      "rd": 62.26,
+      "ratingClass": "C",
+      "homeLocation": "The Brewtique",
+      "homeLocationId": "7460",
+      "percentile": 19.51833046070713,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m60464",
+      "name": "Bayley Graham",
+      "rating": 1412.67,
+      "rd": 29.05,
+      "ratingClass": "C",
+      "homeLocation": "Pinballz Arcade",
+      "homeLocationId": "9186",
+      "percentile": 15.81031350444869,
+      "changeDisplay": "+3.3",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "i161498",
+      "name": "Rodney \"HotRod\" Ford",
+      "rating": null,
+      "rd": null,
+      "ratingClass": "N/A",
+      "homeLocation": "The Brewtique",
+      "homeLocationId": "7460",
+      "percentile": null,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i160801",
+      "name": "Jaye Cerda",
+      "rating": null,
+      "rd": null,
+      "ratingClass": "N/A",
+      "homeLocation": "The Brewtique",
+      "homeLocationId": "7460",
+      "percentile": null,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

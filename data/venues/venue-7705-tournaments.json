@@ -1,0 +1,85 @@
+{
+  "locationId": "7705",
+  "venueName": "Pop's Pinball - Bow Market",
+  "venueAddress": "1 Bow Market Wy, Somerville, MA, 02143, US",
+  "tournaments": [
+    {
+      "id": 265806,
+      "name": "Thursdays at Pop's - Bow Market #35",
+      "date": "8/6/2026",
+      "playerCount": 27,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m29185",
+          "name": "Harry Nelken",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m32130",
+          "name": "Matt Randall",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m40830",
+          "name": "Scott Ehrmann",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m43140",
+          "name": "nathan wentworth",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 263413,
+      "name": "Thursdays at Pop's - Bow Market #33",
+      "date": "7/23/2026",
+      "playerCount": 20,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m65",
+          "name": "Zoe Vrabel",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "p307250",
+          "name": "Nolan Boomer",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m40667",
+          "name": "Micah Weston",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "p403407",
+          "name": "the house",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m43974",
+          "name": "Clay Sarafin",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "p384917",
+          "name": "Alex Bosak",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

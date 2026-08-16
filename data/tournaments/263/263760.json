@@ -1,0 +1,67 @@
+{
+  "tournamentId": 263760,
+  "name": "Sierra Vista Monthly - July 2026",
+  "date": "2026-07-25",
+  "locationId": "10388",
+  "locationName": "Urban Axe Yard",
+  "playerCount": 8,
+  "ratingsDate": "2026-07-25",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m32346",
+      "name": "Eric Anderson AZ",
+      "rating": 1694.98,
+      "dailyRatingChange": 5
+    },
+    {
+      "position": 2,
+      "playerId": "m5995",
+      "name": "John Finnegan",
+      "rating": 1716.1,
+      "dailyRatingChange": -2.56
+    },
+    {
+      "position": 3,
+      "playerId": "m42240",
+      "name": "Heather Hocker",
+      "rating": 1492.74,
+      "dailyRatingChange": 5.56
+    },
+    {
+      "position": 4,
+      "playerId": "m22034",
+      "name": "Scott Fite",
+      "rating": 1490.62,
+      "dailyRatingChange": -1.91
+    },
+    {
+      "position": 4,
+      "playerId": "m61690",
+      "name": "Riley Conklin",
+      "rating": 1403.51,
+      "dailyRatingChange": 1.24
+    },
+    {
+      "position": 6,
+      "playerId": "m45591",
+      "name": "Steve Ogle",
+      "rating": 1482.22,
+      "dailyRatingChange": -4.96
+    },
+    {
+      "position": 7,
+      "playerId": "m54924",
+      "name": "Matthew Ogle",
+      "rating": 1345.86,
+      "dailyRatingChange": -1.67
+    },
+    {
+      "position": 7,
+      "playerId": "i89916",
+      "name": "Kathy Fite",
+      "rating": 1369.55,
+      "dailyRatingChange": -4.03
+    }
+  ]
+}

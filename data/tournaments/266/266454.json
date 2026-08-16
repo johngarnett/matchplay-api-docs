@@ -1,0 +1,53 @@
+{
+  "tournamentId": 266454,
+  "name": "DJ'S Dive Monday Night Pinball",
+  "date": "2026-08-10",
+  "locationId": null,
+  "locationName": null,
+  "playerCount": 6,
+  "ratingsDate": "2026-08-10",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m6118",
+      "name": "Samantha Bacon",
+      "rating": 1738.19,
+      "dailyRatingChange": 0.69
+    },
+    {
+      "position": 2,
+      "playerId": "m37830",
+      "name": "Steve Bevilacqua",
+      "rating": 1589.97,
+      "dailyRatingChange": 8.18
+    },
+    {
+      "position": 3,
+      "playerId": "m586228",
+      "name": "Chase",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 4,
+      "playerId": "m37832",
+      "name": "Tessa Bevilacqua",
+      "rating": 1439.63,
+      "dailyRatingChange": -0.22
+    },
+    {
+      "position": 4,
+      "playerId": "m586229",
+      "name": "Mary",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 6,
+      "playerId": "m586224",
+      "name": "Jaiden Hordosillo",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

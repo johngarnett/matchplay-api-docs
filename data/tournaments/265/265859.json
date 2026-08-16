@@ -1,0 +1,67 @@
+{
+  "tournamentId": 265859,
+  "name": "Finals for Whitewater 8/6/26",
+  "date": "2026-08-07",
+  "locationId": "12057",
+  "locationName": "Pinball Capital at Whitewater Cinemas",
+  "playerCount": 8,
+  "ratingsDate": "2026-08-07",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "i146789",
+      "name": "Bob Jenski",
+      "rating": 1387.15,
+      "dailyRatingChange": 26.81
+    },
+    {
+      "position": 2,
+      "playerId": "m28862",
+      "name": "Trae Vance",
+      "rating": 1679.34,
+      "dailyRatingChange": -0.98
+    },
+    {
+      "position": 3,
+      "playerId": "i156644",
+      "name": "Justin Beales",
+      "rating": 1560.17,
+      "dailyRatingChange": -1.24
+    },
+    {
+      "position": 4,
+      "playerId": "m57086",
+      "name": "Hunter Riedel",
+      "rating": 1480.22,
+      "dailyRatingChange": 9.18
+    },
+    {
+      "position": 5,
+      "playerId": "m58123",
+      "name": "Josh Nast",
+      "rating": 1629.03,
+      "dailyRatingChange": -7.6
+    },
+    {
+      "position": 5,
+      "playerId": "m49530",
+      "name": "Sean Kirkeng",
+      "rating": 1606.29,
+      "dailyRatingChange": 2.78
+    },
+    {
+      "position": 7,
+      "playerId": "i133516",
+      "name": "Simon Kirkeng",
+      "rating": 1521.46,
+      "dailyRatingChange": -0.99
+    },
+    {
+      "position": 7,
+      "playerId": "m57084",
+      "name": "Maddie Pfeiffer",
+      "rating": 1444.73,
+      "dailyRatingChange": 4.01
+    }
+  ]
+}

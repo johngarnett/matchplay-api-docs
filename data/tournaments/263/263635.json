@@ -1,0 +1,67 @@
+{
+  "tournamentId": 263635,
+  "name": "Finals for 8-Bit Beans Summer Series 2026",
+  "date": "2026-07-29",
+  "locationId": "10209",
+  "locationName": "8-Bit Beans",
+  "playerCount": 8,
+  "ratingsDate": "2026-07-29",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m48883",
+      "name": "Chase Ivany",
+      "rating": 1592.54,
+      "dailyRatingChange": 2.8
+    },
+    {
+      "position": 2,
+      "playerId": "m504144",
+      "name": "Dalton Young",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 3,
+      "playerId": "m48948",
+      "name": "Mark Anderson",
+      "rating": 1536.24,
+      "dailyRatingChange": -0.16
+    },
+    {
+      "position": 4,
+      "playerId": "i137203",
+      "name": "Stacey Cooper",
+      "rating": 1539.01,
+      "dailyRatingChange": -0.46
+    },
+    {
+      "position": 5,
+      "playerId": "i147148",
+      "name": "Brian Phillips",
+      "rating": 1533.68,
+      "dailyRatingChange": -1.51
+    },
+    {
+      "position": 5,
+      "playerId": "m530950",
+      "name": "Gary Janes",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 7,
+      "playerId": "i151446",
+      "name": "Matt Rauch",
+      "rating": 1466.47,
+      "dailyRatingChange": -2.98
+    },
+    {
+      "position": 7,
+      "playerId": "m568214",
+      "name": "Will Squires",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

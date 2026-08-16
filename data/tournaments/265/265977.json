@@ -1,0 +1,39 @@
+{
+  "tournamentId": 265977,
+  "name": "Finals for Szybki wieczór",
+  "date": "2026-08-07",
+  "locationId": "4889",
+  "locationName": "Pinballium.pl",
+  "playerCount": 4,
+  "ratingsDate": "2026-08-07",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m57641",
+      "name": "Aleksander Drajling",
+      "rating": 1492.57,
+      "dailyRatingChange": 19.71
+    },
+    {
+      "position": 2,
+      "playerId": "m60111",
+      "name": "Angelika Koralewska",
+      "rating": 1527.32,
+      "dailyRatingChange": 5.69
+    },
+    {
+      "position": 3,
+      "playerId": "m33178",
+      "name": "Antoni Brodziak",
+      "rating": 1416.62,
+      "dailyRatingChange": -0.92
+    },
+    {
+      "position": 4,
+      "playerId": "m60844",
+      "name": "Jakub Kochaniak",
+      "rating": 1521.1,
+      "dailyRatingChange": 0.04
+    }
+  ]
+}

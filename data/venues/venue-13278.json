@@ -1,0 +1,137 @@
+{
+  "locationId": "13278",
+  "name": "4Bs Tavern",
+  "address": "4300 Leary Way NW, Seattle, WA 98107, US",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 7,
+  "relatedVenues": [
+    {
+      "locationId": "10993",
+      "name": "Gary’s Place",
+      "address": "2820 Alki Ave SW, Seattle, WA 98116, US",
+      "count": 3
+    },
+    {
+      "locationId": "7491",
+      "name": "Jupiter Gameroom",
+      "address": "2126 2nd Ave Suite A, Seattle, WA 98121, US",
+      "count": 2
+    },
+    {
+      "locationId": "8755",
+      "name": "Eastlake Zoo Tavern",
+      "address": "2301 Eastlake Avenue East, Seattle, WA 98102, US",
+      "count": 2
+    },
+    {
+      "locationId": "8014",
+      "name": "Georgetown Pizza & Arcade",
+      "address": "5513 Airport Way S, Seattle, WA 98108, US",
+      "count": 1
+    },
+    {
+      "locationId": "8582",
+      "name": "ADD-A-Ball",
+      "address": "315 N 36th St, Seattle, WA 98103, US",
+      "count": 1
+    },
+    {
+      "locationId": "11192",
+      "name": "Houndstooth Public House",
+      "address": "8551 Greenwood Ave N, Seattle, WA 98103, USA",
+      "count": 1
+    },
+    {
+      "locationId": "11892",
+      "name": "Locust Cider HarborCade",
+      "address": "3207 57th St Ct, Gig Harbor, WA 98335",
+      "count": 1
+    }
+  ],
+  "players": [
+    {
+      "id": "m9337",
+      "name": "Brooke Borcherding",
+      "rating": 1585.03,
+      "rd": 29.21,
+      "ratingClass": "B",
+      "homeLocation": "Gary’s Place",
+      "homeLocationId": "10993",
+      "percentile": 78.07332184282852,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m9242",
+      "name": "Andrew Cole WA",
+      "rating": 1546.92,
+      "rd": 39.45,
+      "ratingClass": "B",
+      "homeLocation": "4Bs Tavern",
+      "homeLocationId": "13278",
+      "percentile": 65.54246052079937,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m11175",
+      "name": "Isaac Kaplan-Woolner",
+      "rating": 1540.98,
+      "rd": 40.74,
+      "ratingClass": "B",
+      "homeLocation": "4Bs Tavern",
+      "homeLocationId": "13278",
+      "percentile": 63.48814459402804,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m24557",
+      "name": "Jason Boekeloo",
+      "rating": 1537.33,
+      "rd": 40.89,
+      "ratingClass": "B",
+      "homeLocation": "4Bs Tavern",
+      "homeLocationId": "13278",
+      "percentile": 62.0021428238692,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m6175",
+      "name": "Andy Yarritu",
+      "rating": 1529.07,
+      "rd": 40.68,
+      "ratingClass": "B",
+      "homeLocation": "4Bs Tavern",
+      "homeLocationId": "13278",
+      "percentile": 58.676107513858476,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m25371",
+      "name": "Chelsea Rakonza",
+      "rating": 1499.89,
+      "rd": 41.9,
+      "ratingClass": "C",
+      "homeLocation": "4Bs Tavern",
+      "homeLocationId": "13278",
+      "percentile": 47.044300554339216,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i20139",
+      "name": "Brian Kirk WA",
+      "rating": 1478.79,
+      "rd": 41.66,
+      "ratingClass": "C",
+      "homeLocation": "4Bs Tavern",
+      "homeLocationId": "13278",
+      "percentile": 38.482321703079144,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

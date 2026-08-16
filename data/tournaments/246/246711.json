@@ -1,0 +1,95 @@
+{
+  "tournamentId": 246711,
+  "name": "Bumper's Thumpin' Thursday July",
+  "date": "2026-07-24",
+  "locationId": "12864",
+  "locationName": "Bumpers Pinball",
+  "playerCount": 12,
+  "ratingsDate": "2026-07-24",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m52816",
+      "name": "Nick Lauritano",
+      "rating": 1453.16,
+      "dailyRatingChange": 49.47
+    },
+    {
+      "position": 2,
+      "playerId": "m547433",
+      "name": "Gene Apley",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 3,
+      "playerId": "m528094",
+      "name": "John Neagos",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 4,
+      "playerId": "m564647",
+      "name": "Allen Saenz",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 5,
+      "playerId": "m536546",
+      "name": "Hayley DeWitte",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 6,
+      "playerId": "m527761",
+      "name": "Dan Nelson",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 7,
+      "playerId": "m58114",
+      "name": "DJ Nelson",
+      "rating": 1592,
+      "dailyRatingChange": -19.07
+    },
+    {
+      "position": 8,
+      "playerId": "m536543",
+      "name": "Leo Sosa",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 9,
+      "playerId": "m39569",
+      "name": "Jerry Glattfelt",
+      "rating": 1452.11,
+      "dailyRatingChange": -16.34
+    },
+    {
+      "position": 10,
+      "playerId": "m572919",
+      "name": "Vanessa Gilman",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 11,
+      "playerId": "m528072",
+      "name": "Jack Bliss",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 12,
+      "playerId": "m45019",
+      "name": "Julie Glattfelt",
+      "rating": 1414.47,
+      "dailyRatingChange": -37.14
+    }
+  ]
+}

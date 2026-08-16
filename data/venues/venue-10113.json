@@ -1,0 +1,359 @@
+{
+  "locationId": "10113",
+  "name": "Chieftain Pool & Pinball",
+  "address": "38005 Cleveland Ave Squamish BC V8B 0c3",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 24,
+  "relatedVenues": [
+    {
+      "locationId": "8645",
+      "name": "The American",
+      "address": "926 Main St, Vancouver, BC V6A 2W1, CA",
+      "count": 17
+    },
+    {
+      "locationId": "11477",
+      "name": "Outlanes Pinball Lounge",
+      "address": "2555 West Alamo Ave. Littleton, CO 80120",
+      "count": 17
+    },
+    {
+      "locationId": "12634",
+      "name": "The Outpost",
+      "address": "1773 Kingsway, Vancouver, BC V5N 2S5, US",
+      "count": 14
+    },
+    {
+      "locationId": "8817",
+      "name": "The Library Square Pub",
+      "address": "300 W Georgia St, Vancouver, BC V6B 6B1, CA",
+      "count": 10
+    },
+    {
+      "locationId": "13055",
+      "name": "VanCity Pinball & Arcade",
+      "address": "1739 Venables St, Vancouver, BC V5L 2H3, CA",
+      "count": 5
+    },
+    {
+      "locationId": "11252",
+      "name": "Aim & Game",
+      "address": "5610 Barrett Rd, Ferndale, WA 98248, US",
+      "count": 4
+    },
+    {
+      "locationId": "13493",
+      "name": "TMC Amusements",
+      "address": "21102 117 avenue. Maple Ridge, BC, Canada",
+      "count": 4
+    },
+    {
+      "locationId": "6223",
+      "name": "Flip⚡️Side",
+      "address": "1349 Autumn Ave, Memphis, TN 38104, USA",
+      "count": 3
+    },
+    {
+      "locationId": "6901",
+      "name": "Ruckus Room",
+      "address": "1423 Railroad Ave, Bellingham, WA 98225, USA",
+      "count": 3
+    },
+    {
+      "locationId": "8625",
+      "name": "LITT Pinball Bar",
+      "address": "2021 Hennepin Ave S, Minneapolis, MN, 55405, US",
+      "count": 3
+    }
+  ],
+  "players": [
+    {
+      "id": "m44612",
+      "name": "Robert Gagno",
+      "rating": 1798.07,
+      "rd": 23.11,
+      "ratingClass": "Expert",
+      "homeLocation": "Chieftain Pool & Pinball",
+      "homeLocationId": "10113",
+      "percentile": 99.49690222201518,
+      "changeDisplay": "+12.3",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m27029",
+      "name": "Ryan German",
+      "rating": 1740.19,
+      "rd": 30.9,
+      "ratingClass": "Expert",
+      "homeLocation": "Chieftain Pool & Pinball",
+      "homeLocationId": "10113",
+      "percentile": 98.43946522569526,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m1295",
+      "name": "Brennan Lloyd",
+      "rating": 1708.41,
+      "rd": 19.6,
+      "ratingClass": "Expert",
+      "homeLocation": "The American",
+      "homeLocationId": "8645",
+      "percentile": 97.09321283830997,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m17800",
+      "name": "Matthew Sitko",
+      "rating": 1672.3,
+      "rd": 18.33,
+      "ratingClass": "A",
+      "homeLocation": "Flip⚡️Side",
+      "homeLocationId": "6223",
+      "percentile": 94.32617505939349,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m4296",
+      "name": "Dion Bellay",
+      "rating": 1655.22,
+      "rd": 20.46,
+      "ratingClass": "A",
+      "homeLocation": "Chieftain Pool & Pinball",
+      "homeLocationId": "10113",
+      "percentile": 92.43490007919132,
+      "changeDisplay": "+3.2",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m10129",
+      "name": "David Brocklebank",
+      "rating": 1644.45,
+      "rd": 23.39,
+      "ratingClass": "A",
+      "homeLocation": "Chieftain Pool & Pinball",
+      "homeLocationId": "10113",
+      "percentile": 90.95355662179159,
+      "changeDisplay": "-2.9",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m3471",
+      "name": "Billy Gordon",
+      "rating": 1638.96,
+      "rd": 21.4,
+      "ratingClass": "A",
+      "homeLocation": "The American",
+      "homeLocationId": "8645",
+      "percentile": 90.16630176550053,
+      "changeDisplay": "-16.9",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m38686",
+      "name": "Sean Mahog",
+      "rating": 1616.11,
+      "rd": 34.92,
+      "ratingClass": "A",
+      "homeLocation": "Chieftain Pool & Pinball",
+      "homeLocationId": "10113",
+      "percentile": 85.78282945916989,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i114475",
+      "name": "Kerry John Nendick",
+      "rating": 1604.98,
+      "rd": 31.76,
+      "ratingClass": "A",
+      "homeLocation": "Chieftain Pool & Pinball",
+      "homeLocationId": "10113",
+      "percentile": 83.14156612474962,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i109568",
+      "name": "Gabe lewinski",
+      "rating": 1582.25,
+      "rd": 44.58,
+      "ratingClass": "B",
+      "homeLocation": "Chieftain Pool & Pinball",
+      "homeLocationId": "10113",
+      "percentile": 77.28140867377836,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i104319",
+      "name": "Carl Taylor",
+      "rating": 1577.03,
+      "rd": 29.07,
+      "ratingClass": "B",
+      "homeLocation": "Chieftain Pool & Pinball",
+      "homeLocationId": "10113",
+      "percentile": 75.7674570270648,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m30881",
+      "name": "Brooks Coble",
+      "rating": 1574.62,
+      "rd": 47.06,
+      "ratingClass": "B",
+      "homeLocation": "Chieftain Pool & Pinball",
+      "homeLocationId": "10113",
+      "percentile": 74.96156891973727,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i112466",
+      "name": "Pat samson",
+      "rating": 1563.38,
+      "rd": 25.55,
+      "ratingClass": "B",
+      "homeLocation": "Chieftain Pool & Pinball",
+      "homeLocationId": "10113",
+      "percentile": 71.4445427866027,
+      "changeDisplay": "+9.2",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m28269",
+      "name": "Michelle Rich",
+      "rating": 1510.97,
+      "rd": 23.44,
+      "ratingClass": "B",
+      "homeLocation": "Outlanes Pinball Lounge",
+      "homeLocationId": "11477",
+      "percentile": 51.62342199655286,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i99408",
+      "name": "Baltimore Loth",
+      "rating": 1492.93,
+      "rd": 40.2,
+      "ratingClass": "C",
+      "homeLocation": "Chieftain Pool & Pinball",
+      "homeLocationId": "10113",
+      "percentile": 44.258629524386265,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i104311",
+      "name": "Popper AL",
+      "rating": 1491.79,
+      "rd": 47.67,
+      "ratingClass": "C",
+      "homeLocation": "Chieftain Pool & Pinball",
+      "homeLocationId": "10113",
+      "percentile": 43.76019005916057,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i127135",
+      "name": "Brett binnersley",
+      "rating": 1487.15,
+      "rd": 28.74,
+      "ratingClass": "C",
+      "homeLocation": "Chieftain Pool & Pinball",
+      "homeLocationId": "10113",
+      "percentile": 41.79904038757162,
+      "changeDisplay": "-12.1",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "i112475",
+      "name": "Drew Almonte",
+      "rating": 1486.41,
+      "rd": 47.39,
+      "ratingClass": "C",
+      "homeLocation": "Chieftain Pool & Pinball",
+      "homeLocationId": "10113",
+      "percentile": 41.49625005822891,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i112463",
+      "name": "Kelsey Clarke",
+      "rating": 1464.11,
+      "rd": 34.58,
+      "ratingClass": "C",
+      "homeLocation": "Chieftain Pool & Pinball",
+      "homeLocationId": "10113",
+      "percentile": 32.48241486933433,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m44652",
+      "name": "Justin Rich",
+      "rating": 1458.01,
+      "rd": 24.32,
+      "ratingClass": "C",
+      "homeLocation": "Outlanes Pinball Lounge",
+      "homeLocationId": "11477",
+      "percentile": 30.16257511529324,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i104313",
+      "name": "Lexus Hagymasy",
+      "rating": 1453.77,
+      "rd": 39.33,
+      "ratingClass": "C",
+      "homeLocation": "Chieftain Pool & Pinball",
+      "homeLocationId": "10113",
+      "percentile": 28.592723715470257,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i104310",
+      "name": "Evan matthews",
+      "rating": 1452.28,
+      "rd": 30.45,
+      "ratingClass": "C",
+      "homeLocation": "Chieftain Pool & Pinball",
+      "homeLocationId": "10113",
+      "percentile": 28.024409558857784,
+      "changeDisplay": "-3.6",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "i108548",
+      "name": "Dave Emann",
+      "rating": 1451.9,
+      "rd": 37.14,
+      "ratingClass": "C",
+      "homeLocation": "Chieftain Pool & Pinball",
+      "homeLocationId": "10113",
+      "percentile": 27.852051986770395,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i103949",
+      "name": "Alex Grabowski",
+      "rating": null,
+      "rd": null,
+      "ratingClass": "N/A",
+      "homeLocation": "Chieftain Pool & Pinball",
+      "homeLocationId": "10113",
+      "percentile": null,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

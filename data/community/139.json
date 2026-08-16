@@ -1,0 +1,52 @@
+{
+  "communityId": "139",
+  "playerCount": 3,
+  "ratingsDate": "2026-08-12",
+  "relatedCommunities": [],
+  "topVenues": [
+    {
+      "locationId": "unknown",
+      "name": "Unknown",
+      "address": "",
+      "count": 6
+    }
+  ],
+  "players": [
+    {
+      "id": "m24342",
+      "name": "Sean Mericle",
+      "rating": 1536.19,
+      "rd": 48.36,
+      "ratingClass": "B",
+      "homeLocation": "N/A",
+      "homeLocationId": null,
+      "percentile": 61.522336609679975,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m25007",
+      "name": "John Wellman",
+      "rating": 1468.99,
+      "rd": 46.2,
+      "ratingClass": "C",
+      "homeLocation": "N/A",
+      "homeLocationId": null,
+      "percentile": 34.48083104299623,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m24062",
+      "name": "Mike Mericle",
+      "rating": 1400.32,
+      "rd": 45.47,
+      "ratingClass": "C",
+      "homeLocation": "N/A",
+      "homeLocationId": null,
+      "percentile": 12.540177947547399,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "locationId": "7307",
+  "name": "Firehouse Grill",
+  "address": "",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 5,
+  "relatedVenues": [
+    {
+      "locationId": "9024",
+      "name": "Elbow Room",
+      "address": "2002 Victorian Ave, Sparks NV 89431",
+      "count": 4
+    },
+    {
+      "locationId": "12950",
+      "name": "Highway to the Gaming Zone",
+      "address": "1430 Main St, Susanville, CA 96130, US",
+      "count": 3
+    },
+    {
+      "locationId": "11549",
+      "name": "Flight Deck NC",
+      "address": "9521 Lumley Rd, Morrisville, NC 27560, US",
+      "count": 2
+    },
+    {
+      "locationId": "8514",
+      "name": "Press Start",
+      "address": "600 S Center St, Reno, NV 89501, US",
+      "count": 1
+    },
+    {
+      "locationId": "12448",
+      "name": "Super Rad Retro Lounge",
+      "address": "106 Glenwood Ave, Raleigh, NC 27603, US",
+      "count": 1
+    },
+    {
+      "locationId": "13026",
+      "name": "Golden State Pinball Festival",
+      "address": "413 E Lockeford Street Lodi, CA 95240",
+      "count": 1
+    },
+    {
+      "locationId": "13043",
+      "name": "GSPF",
+      "address": "413 E. Rockford Street, Lodi, CA 95240",
+      "count": 1
+    }
+  ],
+  "players": [
+    {
+      "id": "m27042",
+      "name": "Isaiah Jimenez",
+      "rating": 1643.26,
+      "rd": 23.19,
+      "ratingClass": "A",
+      "homeLocation": "Elbow Room",
+      "homeLocationId": "9024",
+      "percentile": 90.81380723901803,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m24842",
+      "name": "Nick Thomas",
+      "rating": 1603.39,
+      "rd": 37.79,
+      "ratingClass": "A",
+      "homeLocation": "Firehouse Grill",
+      "homeLocationId": "7307",
+      "percentile": 82.81548423161131,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m33252",
+      "name": "Crystal Jimenez",
+      "rating": 1525.78,
+      "rd": 25.43,
+      "ratingClass": "B",
+      "homeLocation": "Elbow Room",
+      "homeLocationId": "9024",
+      "percentile": 57.362463315787025,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m37832",
+      "name": "Tessa Bevilacqua",
+      "rating": 1439.63,
+      "rd": 29.94,
+      "ratingClass": "C",
+      "homeLocation": "Flight Deck NC",
+      "homeLocationId": "11549",
+      "percentile": 23.566404248381236,
+      "changeDisplay": "-0.2",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "i142511",
+      "name": "Dainelle Jimenez",
+      "rating": 1409.16,
+      "rd": 39.58,
+      "ratingClass": "C",
+      "homeLocation": "Firehouse Grill",
+      "homeLocationId": "7307",
+      "percentile": 14.869334327106722,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

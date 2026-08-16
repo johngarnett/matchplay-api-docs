@@ -1,0 +1,137 @@
+{
+  "locationId": "319",
+  "name": "Duluth, GA",
+  "address": "",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 8,
+  "relatedVenues": [
+    {
+      "locationId": "9921",
+      "name": "Renaissance Atlanta Waverly Hotel & Convention Center",
+      "address": "2450 Galleria Pkwy Atlanta, GA 30339",
+      "count": 2
+    },
+    {
+      "locationId": "6570",
+      "name": "My Parents' Basement",
+      "address": "22 North Avondale Road, Atlanta, GA 30002, US",
+      "count": 1
+    },
+    {
+      "locationId": "8425",
+      "name": "Swampfire Lounge",
+      "address": "Duluth, GA",
+      "count": 1
+    },
+    {
+      "locationId": "9460",
+      "name": "Melt Yard",
+      "address": "800 Whitlock Ave NW, Marietta, GA 30064, US",
+      "count": 1
+    },
+    {
+      "locationId": "10197",
+      "name": "The Space Place",
+      "address": "Marietta, GA",
+      "count": 1
+    }
+  ],
+  "players": [
+    {
+      "id": "m1361",
+      "name": "Eric Green",
+      "rating": 1630.77,
+      "rd": 44.24,
+      "ratingClass": "A",
+      "homeLocation": "Duluth, GA",
+      "homeLocationId": "319",
+      "percentile": 88.74085806121023,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m52",
+      "name": "John Schlarb",
+      "rating": 1578.56,
+      "rd": 28.46,
+      "ratingClass": "B",
+      "homeLocation": "Renaissance Atlanta Waverly Hotel & Convention Center",
+      "homeLocationId": "9921",
+      "percentile": 76.20068011366283,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m3591",
+      "name": "Steven Mazur",
+      "rating": 1568.52,
+      "rd": 68.48,
+      "ratingClass": "B",
+      "homeLocation": "Duluth, GA",
+      "homeLocationId": "319",
+      "percentile": 73.05166068849861,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i16068",
+      "name": "Al Warner",
+      "rating": 1553.67,
+      "rd": 66.57,
+      "ratingClass": "B",
+      "homeLocation": "Duluth, GA",
+      "homeLocationId": "319",
+      "percentile": 68.22564867005171,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m2913",
+      "name": "Greg Banister",
+      "rating": 1547.44,
+      "rd": 56.48,
+      "ratingClass": "B",
+      "homeLocation": "Duluth, GA",
+      "homeLocationId": "319",
+      "percentile": 65.74276796944147,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m2912",
+      "name": "Daniel Debusschere",
+      "rating": 1505.02,
+      "rd": 52.56,
+      "ratingClass": "B",
+      "homeLocation": "Duluth, GA",
+      "homeLocationId": "319",
+      "percentile": 49.30358224251176,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m101",
+      "name": "Mica Critchfield",
+      "rating": 1451.83,
+      "rd": 67.58,
+      "ratingClass": "C",
+      "homeLocation": "Duluth, GA",
+      "homeLocationId": "319",
+      "percentile": 27.828760422974796,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m1851",
+      "name": "Jon Luetschwager",
+      "rating": 1436.3,
+      "rd": 67.39,
+      "ratingClass": "C",
+      "homeLocation": "Duluth, GA",
+      "homeLocationId": "319",
+      "percentile": 22.457725811711,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

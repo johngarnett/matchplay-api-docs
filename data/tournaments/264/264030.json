@@ -1,0 +1,158 @@
+{
+  "tournamentId": 264030,
+  "name": "Silverball Sunday 7/26",
+  "date": "2026-07-27",
+  "locationId": "7961",
+  "locationName": "Blairalley",
+  "playerCount": 21,
+  "ratingsDate": "2026-07-27",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m23596",
+      "name": "Jon Cunningham",
+      "rating": 1578.67,
+      "dailyRatingChange": 4.32
+    },
+    {
+      "position": 2,
+      "playerId": "m23834",
+      "name": "Michael Veirs",
+      "rating": 1700.69,
+      "dailyRatingChange": 3.11
+    },
+    {
+      "position": 2,
+      "playerId": "m20993",
+      "name": "Eric Merchant",
+      "rating": 1676.11,
+      "dailyRatingChange": 2.19
+    },
+    {
+      "position": 4,
+      "playerId": "m29812",
+      "name": "Augie Nielson",
+      "rating": 1541.45,
+      "dailyRatingChange": -2.01
+    },
+    {
+      "position": 5,
+      "playerId": "m44610",
+      "name": "Leo Stephens",
+      "rating": 1465.61,
+      "dailyRatingChange": 6.93
+    },
+    {
+      "position": 5,
+      "playerId": "m25569",
+      "name": "Ardy Guinn",
+      "rating": 1433.27,
+      "dailyRatingChange": 62.62
+    },
+    {
+      "position": 7,
+      "playerId": "m45503",
+      "name": "Joe (Chris) Christensen",
+      "rating": 1518.77,
+      "dailyRatingChange": 5.05
+    },
+    {
+      "position": 8,
+      "playerId": "i160674",
+      "name": "Chris Jemal",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 9,
+      "playerId": "m48348",
+      "name": "Uriah Harding",
+      "rating": 1479.23,
+      "dailyRatingChange": 0.42
+    },
+    {
+      "position": 9,
+      "playerId": "m58353",
+      "name": "cassie brown",
+      "rating": 1495.19,
+      "dailyRatingChange": -1.65
+    },
+    {
+      "position": 11,
+      "playerId": "m56180",
+      "name": "Taylor Graham",
+      "rating": 1493.28,
+      "dailyRatingChange": 8.3
+    },
+    {
+      "position": 11,
+      "playerId": "m50884",
+      "name": "Derek Brenden",
+      "rating": 1580.47,
+      "dailyRatingChange": -2.75
+    },
+    {
+      "position": 11,
+      "playerId": "m23980",
+      "name": "Terra Maund",
+      "rating": 1428.92,
+      "dailyRatingChange": -0.53
+    },
+    {
+      "position": 14,
+      "playerId": "m50714",
+      "name": "Liam Berry",
+      "rating": 1433.84,
+      "dailyRatingChange": 2.25
+    },
+    {
+      "position": 14,
+      "playerId": "m22910",
+      "name": "Sean Kato",
+      "rating": 1505.97,
+      "dailyRatingChange": -3.36
+    },
+    {
+      "position": 16,
+      "playerId": "m9276",
+      "name": "Dan Ranck",
+      "rating": 1456.04,
+      "dailyRatingChange": -4.44
+    },
+    {
+      "position": 17,
+      "playerId": "m41608",
+      "name": "Richard Jesser",
+      "rating": 1289.34,
+      "dailyRatingChange": -0.96
+    },
+    {
+      "position": 17,
+      "playerId": "i49692",
+      "name": "Travis Kerr",
+      "rating": 1381.64,
+      "dailyRatingChange": -6.48
+    },
+    {
+      "position": 19,
+      "playerId": "m49901",
+      "name": "Kristie Spears",
+      "rating": 1364.69,
+      "dailyRatingChange": -4.43
+    },
+    {
+      "position": 19,
+      "playerId": "i147044",
+      "name": "Jeremy Sayer",
+      "rating": 1463.21,
+      "dailyRatingChange": -36.94
+    },
+    {
+      "position": 21,
+      "playerId": "m582311",
+      "name": "kristie sayer",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

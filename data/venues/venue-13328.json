@@ -1,0 +1,299 @@
+{
+  "locationId": "13328",
+  "name": "Marquee Pinball Arcade",
+  "address": "1030 Clinton St, Napa, CA 94559, US",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 19,
+  "relatedVenues": [
+    {
+      "locationId": "11556",
+      "name": "Marquee Pinball Lounge",
+      "address": "1311 1st St, Napa, CA 94559, US",
+      "count": 85
+    },
+    {
+      "locationId": "5173",
+      "name": "The Flipper Room",
+      "address": "1033 Shary Cir, Concord, CA 94518, USA",
+      "count": 25
+    },
+    {
+      "locationId": "10931",
+      "name": "Fore Play Simulators",
+      "address": "601 Orange Dr. Suite G. Vacaville, CA 95687",
+      "count": 22
+    },
+    {
+      "locationId": "12904",
+      "name": "Solano 1st Friday Tournament",
+      "address": "7404 Timm Road, Vacaville, 95688",
+      "count": 11
+    },
+    {
+      "locationId": "9542",
+      "name": "Capital Pinball Parlor",
+      "address": "117 J St, Sacramento, CA 95814, US",
+      "count": 10
+    },
+    {
+      "locationId": "1412",
+      "name": "Pacific Pinball Museum",
+      "address": "1510 Webster St, Alameda, CA 94501, USA",
+      "count": 9
+    },
+    {
+      "locationId": "6612",
+      "name": "Lynn's Arcade: A Pinball Parlor and Can Slangery",
+      "address": "1760 Fremont Boulevard, Suite D1, Seaside, California 93955, US",
+      "count": 9
+    },
+    {
+      "locationId": "10131",
+      "name": "The Rewind Arcade",
+      "address": "6780 Depot St, Sebastopol, CA 95472, US",
+      "count": 7
+    },
+    {
+      "locationId": "938",
+      "name": "Jason D. in Fairfield",
+      "address": "Fairfield",
+      "count": 5
+    },
+    {
+      "locationId": "981",
+      "name": "Loren & Yvette in Vacaville",
+      "address": "Vacaville",
+      "count": 5
+    }
+  ],
+  "players": [
+    {
+      "id": "m34729",
+      "name": "Jack Slovacek",
+      "rating": 1908.3,
+      "rd": 20.34,
+      "ratingClass": "Wizard",
+      "homeLocation": "Das Flipperhaus",
+      "homeLocationId": "7008",
+      "percentile": 99.98136674896352,
+      "changeDisplay": "+23.9",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m7260",
+      "name": "Nic Stein",
+      "rating": 1800.71,
+      "rd": 23.79,
+      "ratingClass": "Master",
+      "homeLocation": "Millennium Place",
+      "homeLocationId": "6453",
+      "percentile": 99.52951041132901,
+      "changeDisplay": "+6.5",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m5244",
+      "name": "Scott Miles",
+      "rating": 1653.3,
+      "rd": 24.47,
+      "ratingClass": "A",
+      "homeLocation": "Marquee Pinball Lounge",
+      "homeLocationId": "11556",
+      "percentile": 92.16471793916243,
+      "changeDisplay": "+7.2",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m62848",
+      "name": "Mitch Clemens",
+      "rating": 1609.03,
+      "rd": 30.04,
+      "ratingClass": "A",
+      "homeLocation": "Marquee Pinball Arcade",
+      "homeLocationId": "13328",
+      "percentile": 84.21763637210601,
+      "changeDisplay": "★",
+      "changeClass": "change-new"
+    },
+    {
+      "id": "m49746",
+      "name": "Goran Loncar",
+      "rating": 1602.53,
+      "rd": 19.54,
+      "ratingClass": "A",
+      "homeLocation": "The Flipper Room",
+      "homeLocationId": "5173",
+      "percentile": 82.61517678296921,
+      "changeDisplay": "+6.4",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m20322",
+      "name": "Peach Ruiz",
+      "rating": 1586.78,
+      "rd": 16.68,
+      "ratingClass": "B",
+      "homeLocation": "The Flipper Room",
+      "homeLocationId": "5173",
+      "percentile": 78.53915311874039,
+      "changeDisplay": "+0.6",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m57519",
+      "name": "Jaimie Riggs",
+      "rating": 1585.34,
+      "rd": 28.69,
+      "ratingClass": "B",
+      "homeLocation": "Marquee Pinball Lounge",
+      "homeLocationId": "11556",
+      "percentile": 78.12922159593795,
+      "changeDisplay": "-9.1",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m49005",
+      "name": "Tim Cutting",
+      "rating": 1578.13,
+      "rd": 31.99,
+      "ratingClass": "B",
+      "homeLocation": "Marquee Pinball Lounge",
+      "homeLocationId": "11556",
+      "percentile": 76.04695579261191,
+      "changeDisplay": "+13.1",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m60814",
+      "name": "Miles Quesenberry",
+      "rating": 1556.38,
+      "rd": 30.95,
+      "ratingClass": "B",
+      "homeLocation": "Marquee Pinball Lounge",
+      "homeLocationId": "11556",
+      "percentile": 69.16662784739367,
+      "changeDisplay": "+11.4",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m55933",
+      "name": "Naomi Fetty",
+      "rating": 1548.02,
+      "rd": 27.67,
+      "ratingClass": "B",
+      "homeLocation": "Marquee Pinball Lounge",
+      "homeLocationId": "11556",
+      "percentile": 65.96636698187916,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m36439",
+      "name": "Nina Lucas",
+      "rating": 1527.54,
+      "rd": 22.92,
+      "ratingClass": "B",
+      "homeLocation": "Marquee Pinball Lounge",
+      "homeLocationId": "11556",
+      "percentile": 58.014627102063635,
+      "changeDisplay": "+9.1",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m36443",
+      "name": "Jose Aguilar",
+      "rating": 1523.86,
+      "rd": 21.4,
+      "ratingClass": "B",
+      "homeLocation": "Fore Play Simulators",
+      "homeLocationId": "10931",
+      "percentile": 56.659058089160105,
+      "changeDisplay": "-3.0",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m52285",
+      "name": "Nicasio Yeend",
+      "rating": 1487.84,
+      "rd": 30.77,
+      "ratingClass": "C",
+      "homeLocation": "Marquee Pinball Arcade",
+      "homeLocationId": "13328",
+      "percentile": 42.08785577863698,
+      "changeDisplay": "★",
+      "changeClass": "change-new"
+    },
+    {
+      "id": "m58263",
+      "name": "David Price",
+      "rating": 1484.9,
+      "rd": 24.92,
+      "ratingClass": "C",
+      "homeLocation": "Marquee Pinball Lounge",
+      "homeLocationId": "11556",
+      "percentile": 40.84874458471142,
+      "changeDisplay": "-5.3",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "i155044",
+      "name": "Damon Hudson",
+      "rating": 1477.56,
+      "rd": 62.38,
+      "ratingClass": "C",
+      "homeLocation": "Fore Play Simulators",
+      "homeLocationId": "10931",
+      "percentile": 37.95127404853962,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m49079",
+      "name": "Ely Redmayne",
+      "rating": 1416.7,
+      "rd": 27.72,
+      "ratingClass": "C",
+      "homeLocation": "Marquee Pinball Lounge",
+      "homeLocationId": "11556",
+      "percentile": 16.788559183863605,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m55932",
+      "name": "Hillary Hight",
+      "rating": 1406.07,
+      "rd": 30.09,
+      "ratingClass": "C",
+      "homeLocation": "Marquee Pinball Lounge",
+      "homeLocationId": "11556",
+      "percentile": 14.04481296874272,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i147793",
+      "name": "Manuel Astacio",
+      "rating": 1362.39,
+      "rd": 32.83,
+      "ratingClass": "D",
+      "homeLocation": "Marquee Pinball Lounge",
+      "homeLocationId": "11556",
+      "percentile": 5.711091442679461,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i147794",
+      "name": "Nicasio Yeend",
+      "rating": null,
+      "rd": null,
+      "ratingClass": "N/A",
+      "homeLocation": "Marquee Pinball Lounge",
+      "homeLocationId": "11556",
+      "percentile": null,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

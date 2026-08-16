@@ -1,0 +1,407 @@
+{
+  "locationId": "12439",
+  "name": "First Turn Games",
+  "address": "3625 1st Ave SE, Cedar Rapids, IA 52402, US",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 28,
+  "relatedVenues": [
+    {
+      "locationId": "12739",
+      "name": "Tap Tap | Double Tap Beercade",
+      "address": "121 E College St, Iowa City, IA 52240, US",
+      "count": 56
+    },
+    {
+      "locationId": "6610",
+      "name": "Jay’s Silver Ballroom",
+      "address": "10161 Blue Spruce",
+      "count": 38
+    },
+    {
+      "locationId": "11066",
+      "name": "Double Tap Beercade",
+      "address": "312 Main St, Cedar Falls, IA 50613, US",
+      "count": 28
+    },
+    {
+      "locationId": "8498",
+      "name": "Jay's Silver Ballroom",
+      "address": "10161 Blue Spruce Dr. Peosta, IA 52068",
+      "count": 27
+    },
+    {
+      "locationId": "8631",
+      "name": "Kingpin Social at Maple Lanes",
+      "address": "2608 University Ave Suite B, Waterloo, IA 50701",
+      "count": 25
+    },
+    {
+      "locationId": "10292",
+      "name": "Backpocket Taproom",
+      "address": "333 East 10th Street, Dubuque, IA 52001, US",
+      "count": 11
+    },
+    {
+      "locationId": "9681",
+      "name": "Midwest Ale Works",
+      "address": "537 12th Ave, East Moline, IL 61244, US",
+      "count": 9
+    },
+    {
+      "locationId": "11875",
+      "name": "Hawk’s Nest",
+      "address": "4025 W Lombard St. Davenport, IA 52804",
+      "count": 5
+    },
+    {
+      "locationId": "12985",
+      "name": "Legends Draft Haus & Sports Bar",
+      "address": "2118 Harrison Dr, Clinton, IA 52732, US",
+      "count": 3
+    },
+    {
+      "locationId": "6223",
+      "name": "Flip⚡️Side",
+      "address": "1349 Autumn Ave, Memphis, TN 38104, USA",
+      "count": 2
+    }
+  ],
+  "players": [
+    {
+      "id": "m29800",
+      "name": "Scott Millman",
+      "rating": 1639.02,
+      "rd": 21.45,
+      "ratingClass": "A",
+      "homeLocation": "Double Tap Beercade",
+      "homeLocationId": "11066",
+      "percentile": 90.18493501653701,
+      "changeDisplay": "+2.4",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m56415",
+      "name": "Ben Stupar",
+      "rating": 1636.85,
+      "rd": 21.35,
+      "ratingClass": "A",
+      "homeLocation": "Tap Tap | Double Tap Beercade",
+      "homeLocationId": "12739",
+      "percentile": 89.82624493408487,
+      "changeDisplay": "+2.9",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m43932",
+      "name": "Jordan Dorrington",
+      "rating": 1625.79,
+      "rd": 22,
+      "ratingClass": "A",
+      "homeLocation": "First Turn Games",
+      "homeLocationId": "12439",
+      "percentile": 87.72534587972235,
+      "changeDisplay": "-3.6",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m32173",
+      "name": "Cam Edwards",
+      "rating": 1621.22,
+      "rd": 21.28,
+      "ratingClass": "A",
+      "homeLocation": "Jay’s Silver Ballroom",
+      "homeLocationId": "6610",
+      "percentile": 86.89150789584012,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m23520",
+      "name": "Aaron Van Noy",
+      "rating": 1619.94,
+      "rd": 21.04,
+      "ratingClass": "A",
+      "homeLocation": "Tap Tap | Double Tap Beercade",
+      "homeLocationId": "12739",
+      "percentile": 86.59803419201565,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m56418",
+      "name": "Todd A. Miller",
+      "rating": 1612.59,
+      "rd": 18.81,
+      "ratingClass": "A",
+      "homeLocation": "Tap Tap | Double Tap Beercade",
+      "homeLocationId": "12739",
+      "percentile": 84.97694135184236,
+      "changeDisplay": "-8.4",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m17392",
+      "name": "Sean Clarke",
+      "rating": 1608.4,
+      "rd": 27.56,
+      "ratingClass": "A",
+      "homeLocation": "Kingpin Social at Maple Lanes",
+      "homeLocationId": "8631",
+      "percentile": 84.09186192760983,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m47198",
+      "name": "Chris Farmer",
+      "rating": 1580.28,
+      "rd": 22.36,
+      "ratingClass": "B",
+      "homeLocation": "Jay’s Silver Ballroom",
+      "homeLocationId": "6610",
+      "percentile": 76.70377789164763,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m53348",
+      "name": "Ryan Schloss",
+      "rating": 1558.42,
+      "rd": 22.34,
+      "ratingClass": "B",
+      "homeLocation": "Tap Tap | Double Tap Beercade",
+      "homeLocationId": "12739",
+      "percentile": 69.8234499464294,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m35161",
+      "name": "Judi Neswick",
+      "rating": 1553.15,
+      "rd": 24.61,
+      "ratingClass": "B",
+      "homeLocation": "The Operating Room Ankeny",
+      "homeLocationId": "6860",
+      "percentile": 67.97409978105931,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m825",
+      "name": "Robert RedViper",
+      "rating": 1551.82,
+      "rd": 31.82,
+      "ratingClass": "B",
+      "homeLocation": "Flip⚡️Side",
+      "homeLocationId": "6223",
+      "percentile": 67.45236875203801,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m319",
+      "name": "David Klionsky",
+      "rating": 1543.81,
+      "rd": 37.03,
+      "ratingClass": "B",
+      "homeLocation": "Flight Deck NC",
+      "homeLocationId": "11549",
+      "percentile": 64.51297340103415,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m59909",
+      "name": "Nathan Matta",
+      "rating": 1542.35,
+      "rd": 58.07,
+      "ratingClass": "B",
+      "homeLocation": "First Turn Games",
+      "homeLocationId": "12439",
+      "percentile": 64.02850887408582,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m54687",
+      "name": "Jay Bubenyak",
+      "rating": 1536.02,
+      "rd": 35.97,
+      "ratingClass": "B",
+      "homeLocation": "First Turn Games",
+      "homeLocationId": "12439",
+      "percentile": 61.41985372897937,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m59001",
+      "name": "Joel Averkamp",
+      "rating": 1534.71,
+      "rd": 23.07,
+      "ratingClass": "B",
+      "homeLocation": "Jay's Silver Ballroom",
+      "homeLocationId": "8498",
+      "percentile": 60.88880607443984,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m42039",
+      "name": "Greg M Smith",
+      "rating": 1529.16,
+      "rd": 22.36,
+      "ratingClass": "B",
+      "homeLocation": "Jay’s Silver Ballroom",
+      "homeLocationId": "6610",
+      "percentile": 58.7320072669679,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m56416",
+      "name": "Victoria Trembath",
+      "rating": 1511.03,
+      "rd": 28.54,
+      "ratingClass": "B",
+      "homeLocation": "Tap Tap | Double Tap Beercade",
+      "homeLocationId": "12739",
+      "percentile": 51.67000512414403,
+      "changeDisplay": "+18.4",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m55600",
+      "name": "Eric Kuennen",
+      "rating": 1485.36,
+      "rd": 27.99,
+      "ratingClass": "C",
+      "homeLocation": "First Turn Games",
+      "homeLocationId": "12439",
+      "percentile": 41.05371034611264,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m40015",
+      "name": "Jeff Hedley",
+      "rating": 1475.9,
+      "rd": 20.06,
+      "ratingClass": "C",
+      "homeLocation": "Jay’s Silver Ballroom",
+      "homeLocationId": "6610",
+      "percentile": 37.191969068803274,
+      "changeDisplay": "-8.4",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "i126944",
+      "name": "Dave Leeper",
+      "rating": 1471.52,
+      "rd": 34.16,
+      "ratingClass": "C",
+      "homeLocation": "First Turn Games",
+      "homeLocationId": "12439",
+      "percentile": 35.45907672241114,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m37125",
+      "name": "Jake Snyder",
+      "rating": 1459.13,
+      "rd": 22.35,
+      "ratingClass": "C",
+      "homeLocation": "Jay’s Silver Ballroom",
+      "homeLocationId": "6610",
+      "percentile": 30.628406391205104,
+      "changeDisplay": "-2.9",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "i119601",
+      "name": "Eric Baumgartner",
+      "rating": 1453.57,
+      "rd": 35.41,
+      "ratingClass": "C",
+      "homeLocation": "Satellite Pinball",
+      "homeLocationId": "9620",
+      "percentile": 28.490240834769647,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i82151",
+      "name": "Jonathan Neswick",
+      "rating": 1448.24,
+      "rd": 60.06,
+      "ratingClass": "C",
+      "homeLocation": "First Turn Games",
+      "homeLocationId": "12439",
+      "percentile": 26.51511622490334,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m57460",
+      "name": "Sheena Foster IA",
+      "rating": 1448.22,
+      "rd": 46.15,
+      "ratingClass": "C",
+      "homeLocation": "First Turn Games",
+      "homeLocationId": "12439",
+      "percentile": 26.505799599385107,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i155943",
+      "name": "Steven Jensen IA",
+      "rating": 1447.98,
+      "rd": 45.89,
+      "ratingClass": "C",
+      "homeLocation": "First Turn Games",
+      "homeLocationId": "12439",
+      "percentile": 26.431266595239205,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m57157",
+      "name": "Darrin Wireman",
+      "rating": 1360.17,
+      "rd": 46.69,
+      "ratingClass": "D",
+      "homeLocation": "First Turn Games",
+      "homeLocationId": "12439",
+      "percentile": 5.445567615409699,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m34286",
+      "name": "Isaac Millman",
+      "rating": 1337.02,
+      "rd": 22.06,
+      "ratingClass": "D",
+      "homeLocation": "Double Tap Beercade",
+      "homeLocationId": "11066",
+      "percentile": 2.953370289281222,
+      "changeDisplay": "+1.2",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "i104799",
+      "name": "Teresa Jones",
+      "rating": 1335.15,
+      "rd": 45.15,
+      "ratingClass": "D",
+      "homeLocation": "First Turn Games",
+      "homeLocationId": "12439",
+      "percentile": 2.8182792192667816,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

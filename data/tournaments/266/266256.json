@@ -1,0 +1,39 @@
+{
+  "tournamentId": 266256,
+  "name": "Basement Belles & Chimes #38",
+  "date": "2026-08-09",
+  "locationId": null,
+  "locationName": null,
+  "playerCount": 4,
+  "ratingsDate": "2026-08-09",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m6037",
+      "name": "Jacque Hall",
+      "rating": 1565.38,
+      "dailyRatingChange": 11.97
+    },
+    {
+      "position": 2,
+      "playerId": "m25053",
+      "name": "Kelly Walker",
+      "rating": 1557.33,
+      "dailyRatingChange": -6.97
+    },
+    {
+      "position": 3,
+      "playerId": "m44858",
+      "name": "Kyra Beveridge",
+      "rating": 1418.35,
+      "dailyRatingChange": -3.29
+    },
+    {
+      "position": 3,
+      "playerId": "m50384",
+      "name": "Paige Lane",
+      "rating": 1391.3,
+      "dailyRatingChange": -0.41
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "tournamentId": 261181,
+  "name": "The Vista Ridge Mall Lewisville July 17, 2026 - Head-to-Head Match Play & Strikes",
+  "date": "2026-07-18",
+  "locationId": "13102",
+  "locationName": "Pinball in the Mall",
+  "playerCount": 11,
+  "ratingsDate": "2026-07-18",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m571900",
+      "name": "Curtiss Carroll",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 2,
+      "playerId": "m571953",
+      "name": "Jason D",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 3,
+      "playerId": "m36789",
+      "name": "Michael Hew",
+      "rating": 1661.33,
+      "dailyRatingChange": -4.29
+    },
+    {
+      "position": 4,
+      "playerId": "m579224",
+      "name": "Jason Duncan",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 5,
+      "playerId": "m558245",
+      "name": "Chase Ferguson",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 6,
+      "playerId": "m579222",
+      "name": "Kylen",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 7,
+      "playerId": "m579228",
+      "name": "Jacob Ryle",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 8,
+      "playerId": "m579225",
+      "name": "Anne Duncan",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 9,
+      "playerId": "m579226",
+      "name": "Emmanuel J",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 10,
+      "playerId": "m571904",
+      "name": "Manuel Rivero",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 11,
+      "playerId": "m579246",
+      "name": "Demitris D",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

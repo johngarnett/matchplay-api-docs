@@ -1,0 +1,95 @@
+{
+  "tournamentId": 261909,
+  "name": "Div A Finals - Monday League #4",
+  "date": "2026-07-20",
+  "locationId": "10800",
+  "locationName": "Illawarra Pinball Clubhouse",
+  "playerCount": 12,
+  "ratingsDate": "2026-07-20",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "i12064",
+      "name": "Stuart Hunt",
+      "rating": 1734.91,
+      "dailyRatingChange": 6.61
+    },
+    {
+      "position": 2,
+      "playerId": "m57831",
+      "name": "Peter Godfrey",
+      "rating": 1614.6,
+      "dailyRatingChange": 4.72
+    },
+    {
+      "position": 3,
+      "playerId": "m34995",
+      "name": "Chad Mulheron",
+      "rating": 1590.31,
+      "dailyRatingChange": 5.73
+    },
+    {
+      "position": 4,
+      "playerId": "i143453",
+      "name": "Chris Hodson",
+      "rating": 1512.63,
+      "dailyRatingChange": 2.03
+    },
+    {
+      "position": 5,
+      "playerId": "m52577",
+      "name": "Alex Williams AUS",
+      "rating": 1626.51,
+      "dailyRatingChange": -2.31
+    },
+    {
+      "position": 6,
+      "playerId": "m48552",
+      "name": "Ron Lengling",
+      "rating": 1623.98,
+      "dailyRatingChange": -1.44
+    },
+    {
+      "position": 6,
+      "playerId": "m29929",
+      "name": "Paul Soutter",
+      "rating": 1609,
+      "dailyRatingChange": -2.82
+    },
+    {
+      "position": 8,
+      "playerId": "m29363",
+      "name": "JayTee Saward",
+      "rating": 1596.79,
+      "dailyRatingChange": -0.27
+    },
+    {
+      "position": 9,
+      "playerId": "i156305",
+      "name": "Gerry Barranquero",
+      "rating": 1555.67,
+      "dailyRatingChange": -3.74
+    },
+    {
+      "position": 9,
+      "playerId": "m30040",
+      "name": "Kris Forner",
+      "rating": 1540.27,
+      "dailyRatingChange": -1.68
+    },
+    {
+      "position": 11,
+      "playerId": "m57885",
+      "name": "Sienna Wilson",
+      "rating": 1532.11,
+      "dailyRatingChange": -5.8
+    },
+    {
+      "position": 12,
+      "playerId": "m48278",
+      "name": "Ben Greig",
+      "rating": 1491,
+      "dailyRatingChange": -3.96
+    }
+  ]
+}

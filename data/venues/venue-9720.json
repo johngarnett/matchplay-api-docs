@@ -1,0 +1,347 @@
+{
+  "locationId": "9720",
+  "name": "Pinball Republic",
+  "address": "Unit 60, Lower Ground Floor,  Centrale Westfields Mall, Croydon",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 23,
+  "relatedVenues": [
+    {
+      "locationId": "11885",
+      "name": "Pinball Republic",
+      "address": "Unit 60 Centrale Shopping Centre, Lower Ground Floor, London, England CR0 1TY, GB",
+      "count": 37
+    },
+    {
+      "locationId": "5471",
+      "name": "Domino Arcade",
+      "address": "Darroch, Wych Hill Lane, Woking, England, GU22 0AA, GB",
+      "count": 14
+    },
+    {
+      "locationId": "13241",
+      "name": "The Pinball Factory",
+      "address": "Gibb St, Birmingham, B9 4AT, GB",
+      "count": 10
+    },
+    {
+      "locationId": "12748",
+      "name": "The Pinball Office",
+      "address": "Unit T2, Allen House Business Centre, Sawbridgeworth, CM21 9JX, United Kingdom",
+      "count": 9
+    },
+    {
+      "locationId": "12894",
+      "name": "Pinball Factory",
+      "address": "Zellig Building, Gibb St, Deritend, Birmingham B9 4AT",
+      "count": 6
+    },
+    {
+      "locationId": "12474",
+      "name": "Retroids Arcade Bar",
+      "address": "8/9 College St, Worcestershire, England WR1 2LU, GB",
+      "count": 5
+    },
+    {
+      "locationId": "269",
+      "name": "Special When Lit",
+      "address": "Salisbury, Wiltshire SP2 7NS, UK",
+      "count": 4
+    },
+    {
+      "locationId": "10566",
+      "name": "Pinball Republic",
+      "address": "Centrale Shopping Centre, Unit 60, 21 Lower Mall, N End, Croydon CR0 1TY",
+      "count": 4
+    },
+    {
+      "locationId": "13710",
+      "name": "Retroids Arcade Bar",
+      "address": "8/9 College St, Worcester, WR1 2LU, GB",
+      "count": 4
+    },
+    {
+      "locationId": "1696",
+      "name": "LPA",
+      "address": "Vårvädersvägen 4i, Lund, Sweden",
+      "count": 3
+    }
+  ],
+  "players": [
+    {
+      "id": "m11299",
+      "name": "Matt Vince",
+      "rating": 1714.83,
+      "rd": 27.23,
+      "ratingClass": "Expert",
+      "homeLocation": "Domino Arcade",
+      "homeLocationId": "5471",
+      "percentile": 97.40997810593002,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m21837",
+      "name": "Pete Bennett",
+      "rating": 1620.04,
+      "rd": 22.31,
+      "ratingClass": "A",
+      "homeLocation": "Pinball Republic",
+      "homeLocationId": "11885",
+      "percentile": 86.62598406857036,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m12832",
+      "name": "David Tucker",
+      "rating": 1609.58,
+      "rd": 25.15,
+      "ratingClass": "A",
+      "homeLocation": "Domino Arcade",
+      "homeLocationId": "5471",
+      "percentile": 84.36204406763869,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m6910",
+      "name": "Ed Rojas",
+      "rating": 1602.12,
+      "rd": 27.89,
+      "ratingClass": "A",
+      "homeLocation": "Pinball Republic",
+      "homeLocationId": "9720",
+      "percentile": 82.53132715330507,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m26768",
+      "name": "Daniel O'Neill",
+      "rating": 1599.09,
+      "rd": 21.78,
+      "ratingClass": "B",
+      "homeLocation": "Martyn Iles's House",
+      "homeLocationId": "9690",
+      "percentile": 81.76270554805049,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m16434",
+      "name": "Anton Stewart",
+      "rating": 1596.34,
+      "rd": 26.36,
+      "ratingClass": "B",
+      "homeLocation": "Pinball Republic",
+      "homeLocationId": "11885",
+      "percentile": 81.15246657660595,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m8538",
+      "name": "Nick Hamill",
+      "rating": 1586.72,
+      "rd": 23.5,
+      "ratingClass": "B",
+      "homeLocation": "Pinball Republic",
+      "homeLocationId": "9720",
+      "percentile": 78.52051986770392,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m26595",
+      "name": "Ian clarricoats",
+      "rating": 1574.94,
+      "rd": 23.65,
+      "ratingClass": "B",
+      "homeLocation": "Pinball Republic",
+      "homeLocationId": "11885",
+      "percentile": 75.05473517491964,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m31807",
+      "name": "Ulf Rokkan",
+      "rating": 1574.74,
+      "rd": 22.1,
+      "ratingClass": "B",
+      "homeLocation": "Pinball Republic",
+      "homeLocationId": "11885",
+      "percentile": 74.99883542181021,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m22062",
+      "name": "Dan Prachar",
+      "rating": 1571,
+      "rd": 22.21,
+      "ratingClass": "B",
+      "homeLocation": "Special When Lit",
+      "homeLocationId": "269",
+      "percentile": 73.85754879582616,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m40574",
+      "name": "Glen Cockell",
+      "rating": 1557.74,
+      "rd": 19.52,
+      "ratingClass": "B",
+      "homeLocation": "The Pinball Factory",
+      "homeLocationId": "13241",
+      "percentile": 69.63711743606466,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m43331",
+      "name": "Dean Tillson",
+      "rating": 1544.37,
+      "rd": 24.69,
+      "ratingClass": "B",
+      "homeLocation": "Pinball Factory",
+      "homeLocationId": "12894",
+      "percentile": 64.71793916243537,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m48932",
+      "name": "Alec Dunn",
+      "rating": 1537.84,
+      "rd": 27.69,
+      "ratingClass": "B",
+      "homeLocation": "Pinball Republic",
+      "homeLocationId": "11885",
+      "percentile": 62.19313364699306,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m30357",
+      "name": "Phil Stokes",
+      "rating": 1535.01,
+      "rd": 23.16,
+      "ratingClass": "B",
+      "homeLocation": "LPA",
+      "homeLocationId": "1696",
+      "percentile": 61.01458051893604,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m27071",
+      "name": "Martin Bedford",
+      "rating": 1534.47,
+      "rd": 21.92,
+      "ratingClass": "B",
+      "homeLocation": "The Pinball Office",
+      "homeLocationId": "12748",
+      "percentile": 60.78166488098012,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m16515",
+      "name": "Lucy Vince",
+      "rating": 1534.41,
+      "rd": 26.65,
+      "ratingClass": "B",
+      "homeLocation": "Domino Arcade",
+      "homeLocationId": "5471",
+      "percentile": 60.76303162994363,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m20206",
+      "name": "Conrad Chambers",
+      "rating": 1527.72,
+      "rd": 23.16,
+      "ratingClass": "B",
+      "homeLocation": "Pinball Republic",
+      "homeLocationId": "11885",
+      "percentile": 58.10313504448688,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m34088",
+      "name": "Daniel Vince",
+      "rating": 1527.61,
+      "rd": 27.83,
+      "ratingClass": "B",
+      "homeLocation": "Pinball Republic",
+      "homeLocationId": "11885",
+      "percentile": 58.05189360413658,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m23716",
+      "name": "Ian Clarke",
+      "rating": 1524.88,
+      "rd": 24.97,
+      "ratingClass": "B",
+      "homeLocation": "Pinball Republic",
+      "homeLocationId": "9720",
+      "percentile": 57.04569804816695,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m22382",
+      "name": "Tony Greenwood",
+      "rating": 1477.22,
+      "rd": 24.87,
+      "ratingClass": "C",
+      "homeLocation": "Pinball Republic",
+      "homeLocationId": "11885",
+      "percentile": 37.81618297852518,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m16478",
+      "name": "Sarah Vince",
+      "rating": 1470.28,
+      "rd": 28.1,
+      "ratingClass": "C",
+      "homeLocation": "Pinball Republic",
+      "homeLocationId": "11885",
+      "percentile": 34.974612195462804,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m18429",
+      "name": "Roy Smith",
+      "rating": 1460.56,
+      "rd": 23.47,
+      "ratingClass": "C",
+      "homeLocation": "Pinball Republic",
+      "homeLocationId": "9720",
+      "percentile": 31.182745609540223,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m55274",
+      "name": "Lorna Clarricoats",
+      "rating": 1250.02,
+      "rd": 31.54,
+      "ratingClass": "E",
+      "homeLocation": "Domino Arcade",
+      "homeLocationId": "5471",
+      "percentile": 0.21894069967857643,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

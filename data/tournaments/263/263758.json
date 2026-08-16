@@ -1,0 +1,123 @@
+{
+  "tournamentId": 263758,
+  "name": "Finals for Atlas Premiär",
+  "date": "2026-07-25",
+  "locationId": "13759",
+  "locationName": "Atlas",
+  "playerCount": 16,
+  "ratingsDate": "2026-07-25",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m7425",
+      "name": "Johnny Mårtensson",
+      "rating": 1698.98,
+      "dailyRatingChange": 10.21
+    },
+    {
+      "position": 2,
+      "playerId": "m3656",
+      "name": "Mats Grehn",
+      "rating": 1646.47,
+      "dailyRatingChange": 31.73
+    },
+    {
+      "position": 3,
+      "playerId": "m22106",
+      "name": "Izabelle Hugosson",
+      "rating": 1629.96,
+      "dailyRatingChange": 14.36
+    },
+    {
+      "position": 4,
+      "playerId": "m32866",
+      "name": "Henrik Hedberg",
+      "rating": 1638.52,
+      "dailyRatingChange": 10.55
+    },
+    {
+      "position": 5,
+      "playerId": "m89",
+      "name": "Peter Franck",
+      "rating": 1716.16,
+      "dailyRatingChange": 19.4
+    },
+    {
+      "position": 6,
+      "playerId": "m7444",
+      "name": "Claes Wikner",
+      "rating": 1640.01,
+      "dailyRatingChange": 8.28
+    },
+    {
+      "position": 7,
+      "playerId": "m1220",
+      "name": "Jan Anders Nilsson",
+      "rating": 1670.32,
+      "dailyRatingChange": 8.72
+    },
+    {
+      "position": 7,
+      "playerId": "m3670",
+      "name": "Mattias Jeppsson",
+      "rating": 1654.8,
+      "dailyRatingChange": 5.27
+    },
+    {
+      "position": 9,
+      "playerId": "m1812",
+      "name": "Pontus Qvarfordh",
+      "rating": 1693.55,
+      "dailyRatingChange": 2.97
+    },
+    {
+      "position": 9,
+      "playerId": "m6134",
+      "name": "Thomas Näslund",
+      "rating": 1649.98,
+      "dailyRatingChange": 16.27
+    },
+    {
+      "position": 11,
+      "playerId": "m14398",
+      "name": "Patrik Nilsson",
+      "rating": 1643.67,
+      "dailyRatingChange": 9.07
+    },
+    {
+      "position": 11,
+      "playerId": "m22067",
+      "name": "Edvard Kummel",
+      "rating": 1644.49,
+      "dailyRatingChange": -1.21
+    },
+    {
+      "position": 11,
+      "playerId": "m28851",
+      "name": "Andrew Adler",
+      "rating": 1588.61,
+      "dailyRatingChange": 6.66
+    },
+    {
+      "position": 14,
+      "playerId": "m13355",
+      "name": "Jerker Ottosson",
+      "rating": 1616.55,
+      "dailyRatingChange": -0.62
+    },
+    {
+      "position": 15,
+      "playerId": "m5793",
+      "name": "Marcus Hugosson",
+      "rating": 1714.41,
+      "dailyRatingChange": -22.88
+    },
+    {
+      "position": 15,
+      "playerId": "m15303",
+      "name": "Tobias Kummel",
+      "rating": 1696.8,
+      "dailyRatingChange": -6.32
+    }
+  ]
+}

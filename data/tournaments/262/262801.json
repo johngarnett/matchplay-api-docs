@@ -1,0 +1,109 @@
+{
+  "tournamentId": 262801,
+  "name": "Pinsomniacs July Open",
+  "date": "2026-07-19",
+  "locationId": "7501",
+  "locationName": "Tepey’s Taps & Tacos",
+  "playerCount": 14,
+  "ratingsDate": "2026-07-19",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m37538",
+      "name": "Tank Koscinski",
+      "rating": 1688.81,
+      "dailyRatingChange": 2.22
+    },
+    {
+      "position": 2,
+      "playerId": "m3753",
+      "name": "Jokton Strealy",
+      "rating": 1646.87,
+      "dailyRatingChange": -4.09
+    },
+    {
+      "position": 3,
+      "playerId": "m35986",
+      "name": "Ian Crusan",
+      "rating": 1655.63,
+      "dailyRatingChange": 13.92
+    },
+    {
+      "position": 4,
+      "playerId": "m47307",
+      "name": "Derrick Smith",
+      "rating": 1584.46,
+      "dailyRatingChange": 6.56
+    },
+    {
+      "position": 5,
+      "playerId": "m53677",
+      "name": "Alex Johnson",
+      "rating": 1505.71,
+      "dailyRatingChange": 11.31
+    },
+    {
+      "position": 6,
+      "playerId": "m44416",
+      "name": "Eric Moorhouse",
+      "rating": 1448.4,
+      "dailyRatingChange": 10.58
+    },
+    {
+      "position": 6,
+      "playerId": "m44415",
+      "name": "Melissa Paley",
+      "rating": 1499.71,
+      "dailyRatingChange": -4.18
+    },
+    {
+      "position": 8,
+      "playerId": "m53379",
+      "name": "Kevin Sechrist",
+      "rating": 1620.23,
+      "dailyRatingChange": -16.67
+    },
+    {
+      "position": 9,
+      "playerId": "m45073",
+      "name": "Tina Riel",
+      "rating": 1507.91,
+      "dailyRatingChange": -4.44
+    },
+    {
+      "position": 9,
+      "playerId": "i158892",
+      "name": "Matthew Curnutte",
+      "rating": 1495.92,
+      "dailyRatingChange": null
+    },
+    {
+      "position": 9,
+      "playerId": "i148290",
+      "name": "Ryan Phelps",
+      "rating": 1430.92,
+      "dailyRatingChange": 2.2
+    },
+    {
+      "position": 12,
+      "playerId": "m47521",
+      "name": "Frank Sanabria",
+      "rating": 1499.49,
+      "dailyRatingChange": -10.33
+    },
+    {
+      "position": 12,
+      "playerId": "m52044",
+      "name": "Peter Choquette",
+      "rating": 1463.63,
+      "dailyRatingChange": -8.58
+    },
+    {
+      "position": 12,
+      "playerId": "m46291",
+      "name": "Luke Steel",
+      "rating": 1429.09,
+      "dailyRatingChange": -2.94
+    }
+  ]
+}

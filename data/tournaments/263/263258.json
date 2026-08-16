@@ -1,0 +1,67 @@
+{
+  "tournamentId": 263258,
+  "name": "Finals for Cactus Jack's Summer League 2026 (Order)",
+  "date": "2026-08-12",
+  "locationId": "5624",
+  "locationName": "Cactus Jack's Family Fun Center",
+  "playerCount": 8,
+  "ratingsDate": "2026-08-12",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m1241",
+      "name": "Austin Trent",
+      "rating": 1750.37,
+      "dailyRatingChange": 2.41
+    },
+    {
+      "position": 2,
+      "playerId": "m31680",
+      "name": "Rayce Watson",
+      "rating": 1655.23,
+      "dailyRatingChange": 5
+    },
+    {
+      "position": 3,
+      "playerId": "m14206",
+      "name": "Adam Nickel",
+      "rating": 1675.92,
+      "dailyRatingChange": 7.28
+    },
+    {
+      "position": 4,
+      "playerId": "m33397",
+      "name": "Michael Hendrick",
+      "rating": 1652.09,
+      "dailyRatingChange": -4.99
+    },
+    {
+      "position": 5,
+      "playerId": "m51855",
+      "name": "Sam Lee",
+      "rating": 1620.79,
+      "dailyRatingChange": -0.45
+    },
+    {
+      "position": 6,
+      "playerId": "m37941",
+      "name": "Mark Olandese",
+      "rating": 1562.47,
+      "dailyRatingChange": -0.41
+    },
+    {
+      "position": 6,
+      "playerId": "m1051",
+      "name": "Chad Lower",
+      "rating": 1691.77,
+      "dailyRatingChange": -6.54
+    },
+    {
+      "position": 8,
+      "playerId": "m350",
+      "name": "Michael Brown",
+      "rating": 1600.7,
+      "dailyRatingChange": -4.06
+    }
+  ]
+}

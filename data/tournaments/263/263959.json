@@ -1,0 +1,67 @@
+{
+  "tournamentId": 263959,
+  "name": "A Division Finals for FPPL - Season 20 - Arlington",
+  "date": "2026-07-31",
+  "locationId": "13259",
+  "locationName": "Tokyo Station",
+  "playerCount": 8,
+  "ratingsDate": "2026-07-31",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m24795",
+      "name": "Brian Perlick",
+      "rating": 1549.84,
+      "dailyRatingChange": 6.17
+    },
+    {
+      "position": 2,
+      "playerId": "m25466",
+      "name": "John Richardson",
+      "rating": 1656.34,
+      "dailyRatingChange": 0.83
+    },
+    {
+      "position": 3,
+      "playerId": "m26400",
+      "name": "Daniel Martin",
+      "rating": 1637.66,
+      "dailyRatingChange": -1.85
+    },
+    {
+      "position": 4,
+      "playerId": "m19204",
+      "name": "Colin Wood",
+      "rating": 1563.76,
+      "dailyRatingChange": 0.2
+    },
+    {
+      "position": 5,
+      "playerId": "m12627",
+      "name": "Andrew Ortega",
+      "rating": 1541.72,
+      "dailyRatingChange": -0.36
+    },
+    {
+      "position": 6,
+      "playerId": "m54147",
+      "name": "Ryan Perlick",
+      "rating": 1514.33,
+      "dailyRatingChange": -3.06
+    },
+    {
+      "position": 7,
+      "playerId": "m60589",
+      "name": "Abel Cardona",
+      "rating": 1502.15,
+      "dailyRatingChange": -3.34
+    },
+    {
+      "position": 8,
+      "playerId": "m583146",
+      "name": "Bye Player",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

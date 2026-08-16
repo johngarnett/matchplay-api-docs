@@ -1,0 +1,154 @@
+{
+  "locationId": "9620",
+  "venueName": "Satellite Pinball",
+  "venueAddress": "3501 N Dixie Hwy, Oakland Park, FL 33334",
+  "tournaments": [
+    {
+      "id": 265373,
+      "name": "Satellite Pinball - Monday League Match 3 of 6 (Aug 10, 2026) - Season 15",
+      "date": "8/10/2026",
+      "playerCount": 35,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m11155",
+          "name": "Stephen Krogman",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 1,
+          "playerId": "m15741",
+          "name": "Sebastian Bobbio",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m36224",
+          "name": "Sean Palmer",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m48008",
+          "name": "Johnny Troy",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 263520,
+      "name": "Satellite Pinball - Monday League Match 2 of 6 (Aug 3, 2026) - Season 15",
+      "date": "8/3/2026",
+      "playerCount": 37,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m36224",
+          "name": "Sean Palmer",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m41062",
+          "name": "Mark Ward",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "i122641",
+          "name": "Ayrton Offeney",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m7320",
+          "name": "Amanda De Luca",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 263522,
+      "name": "Satellite Pinball - Monday League Match 1 of 6 (July 27, 2026) - Season 15",
+      "date": "7/27/2026",
+      "playerCount": 38,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m15741",
+          "name": "Sebastian Bobbio",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m36224",
+          "name": "Sean Palmer",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m49913",
+          "name": "Owen Holmes",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m5869",
+          "name": "Dane Tullock",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 262592,
+      "name": "Season 14 Finals - A Division",
+      "date": "7/20/2026",
+      "playerCount": 17,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 4,
+          "playerId": "m44801",
+          "name": "John Troy",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 262593,
+      "name": "Season 14 Finals - B Division",
+      "date": "7/20/2026",
+      "playerCount": 20,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m22498",
+          "name": "Nicolas Blum",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m5869",
+          "name": "Dane Tullock",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m39828",
+          "name": "Gerred Yska",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m45297",
+          "name": "Seth Kreid",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

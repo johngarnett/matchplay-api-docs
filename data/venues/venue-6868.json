@@ -1,0 +1,179 @@
+{
+  "locationId": "6868",
+  "name": "Dana's Blacklight Paradise",
+  "address": "281 W Whipp Road, Washington Township, OH 45459",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 9,
+  "relatedVenues": [
+    {
+      "locationId": "5479",
+      "name": "Canal Street Arcade and Deli",
+      "address": "308 East 1st St, Dayton, OH, 45402, US",
+      "count": 24
+    },
+    {
+      "locationId": "11788",
+      "name": "The Game Haven",
+      "address": "5570 Airway Rd, Dayton OH 45431",
+      "count": 24
+    },
+    {
+      "locationId": "9290",
+      "name": "Randy Wesig",
+      "address": "4340 Delco Dell Rd, Kettering, OH 45429",
+      "count": 8
+    },
+    {
+      "locationId": "9322",
+      "name": "Tyler Wyant",
+      "address": "5017 Wheaton St., Dayton, OH 45429",
+      "count": 8
+    },
+    {
+      "locationId": "11147",
+      "name": "The Warehouse",
+      "address": "221 E. Helena St, Dayton, OH 45404",
+      "count": 8
+    },
+    {
+      "locationId": "9362",
+      "name": "James McCloskey",
+      "address": "10993 Green Apple Rd, Miamisburg, OH 45342",
+      "count": 7
+    },
+    {
+      "locationId": "9545",
+      "name": "Tom Donohue",
+      "address": "1477 Huntland Ct. N, Xenia, OH 45385",
+      "count": 7
+    },
+    {
+      "locationId": "13688",
+      "name": "The Game Haven",
+      "address": "5570 Airway Rd, Riverside, OH 45431, US",
+      "count": 6
+    },
+    {
+      "locationId": "13500",
+      "name": "Sherwood Forest",
+      "address": "1451 Robinhood Dr  West Carrollton OH 45449",
+      "count": 4
+    },
+    {
+      "locationId": "12428",
+      "name": "Riverside BBQ Company",
+      "address": "915 North Summit Street Toledo, OH",
+      "count": 2
+    }
+  ],
+  "players": [
+    {
+      "id": "m36497",
+      "name": "Randy Wesig",
+      "rating": 1639.9,
+      "rd": 34.31,
+      "ratingClass": "A",
+      "homeLocation": "Dana's Blacklight Paradise",
+      "homeLocationId": "6868",
+      "percentile": 90.31070946103321,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m24838",
+      "name": "True Houser",
+      "rating": 1591.28,
+      "rd": 29.71,
+      "ratingClass": "B",
+      "homeLocation": "The Game Haven",
+      "homeLocationId": "11788",
+      "percentile": 79.82018912749803,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i113714",
+      "name": "James McCloskey",
+      "rating": 1577.91,
+      "rd": 33.89,
+      "ratingClass": "B",
+      "homeLocation": "Dana's Blacklight Paradise",
+      "homeLocationId": "6868",
+      "percentile": 75.97708110122514,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m13962",
+      "name": "Dana Studebaker",
+      "rating": 1575.07,
+      "rd": 42,
+      "ratingClass": "B",
+      "homeLocation": "Dana's House of Fun",
+      "homeLocationId": "6784",
+      "percentile": 75.08734336423348,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i93846",
+      "name": "Tyler Wyant",
+      "rating": 1555.92,
+      "rd": 33.68,
+      "ratingClass": "B",
+      "homeLocation": "The Game Haven",
+      "homeLocationId": "11788",
+      "percentile": 69.00358690082452,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i118255",
+      "name": "Mark Knapke",
+      "rating": 1536.07,
+      "rd": 37.5,
+      "ratingClass": "B",
+      "homeLocation": "Dana's Blacklight Paradise",
+      "homeLocationId": "6868",
+      "percentile": 61.43848698001584,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m27207",
+      "name": "Jason Johnson",
+      "rating": 1528.44,
+      "rd": 24.07,
+      "ratingClass": "B",
+      "homeLocation": "Canal Street Arcade and Deli",
+      "homeLocationId": "5479",
+      "percentile": 58.419900312106954,
+      "changeDisplay": "-8.4",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m24683",
+      "name": "Jessica Valle",
+      "rating": 1497.14,
+      "rd": 27.21,
+      "ratingClass": "C",
+      "homeLocation": "The Game Haven",
+      "homeLocationId": "11788",
+      "percentile": 45.949597055946334,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m48987",
+      "name": "Bec Roderer",
+      "rating": 1444.97,
+      "rd": 22.88,
+      "ratingClass": "C",
+      "homeLocation": "Canal Street Arcade and Deli",
+      "homeLocationId": "5479",
+      "percentile": 25.397121162714864,
+      "changeDisplay": "+4.7",
+      "changeClass": "change-positive"
+    }
+  ]
+}

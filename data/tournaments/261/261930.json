@@ -1,0 +1,116 @@
+{
+  "tournamentId": 261930,
+  "name": "Tuesday Matchplay at CFSB",
+  "date": "2026-08-12",
+  "locationId": "4593",
+  "locationName": "Cape fear wine and beer",
+  "playerCount": 15,
+  "ratingsDate": "2026-08-12",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m30719",
+      "name": "Mark Szuch",
+      "rating": 1457.64,
+      "dailyRatingChange": 20.12
+    },
+    {
+      "position": 2,
+      "playerId": "m33431",
+      "name": "Marty Henion",
+      "rating": 1499.9,
+      "dailyRatingChange": 14.61
+    },
+    {
+      "position": 2,
+      "playerId": "m10116",
+      "name": "Luke Faulkenberry",
+      "rating": 1757.54,
+      "dailyRatingChange": -4.13
+    },
+    {
+      "position": 4,
+      "playerId": "m9400",
+      "name": "eric sutton",
+      "rating": 1686.51,
+      "dailyRatingChange": -0.34
+    },
+    {
+      "position": 5,
+      "playerId": "m14498",
+      "name": "Jared M Cline",
+      "rating": 1514.07,
+      "dailyRatingChange": 8.87
+    },
+    {
+      "position": 6,
+      "playerId": "m60727",
+      "name": "TJ Christensen",
+      "rating": 1479.08,
+      "dailyRatingChange": 13.12
+    },
+    {
+      "position": 7,
+      "playerId": "i142999",
+      "name": "JP Cmejrek",
+      "rating": 1550.83,
+      "dailyRatingChange": 1.41
+    },
+    {
+      "position": 8,
+      "playerId": "m23129",
+      "name": "Gary Dean",
+      "rating": 1541.1,
+      "dailyRatingChange": 2.05
+    },
+    {
+      "position": 8,
+      "playerId": "m26475",
+      "name": "Tory MacQueen",
+      "rating": 1461.35,
+      "dailyRatingChange": 4.78
+    },
+    {
+      "position": 10,
+      "playerId": "m10629",
+      "name": "David MacQueen",
+      "rating": 1600.33,
+      "dailyRatingChange": -7.93
+    },
+    {
+      "position": 11,
+      "playerId": "m20116",
+      "name": "Ryan Kirkendall",
+      "rating": 1545.55,
+      "dailyRatingChange": -10.2
+    },
+    {
+      "position": 12,
+      "playerId": "m38745",
+      "name": "Joe Gras",
+      "rating": 1464.81,
+      "dailyRatingChange": -5.16
+    },
+    {
+      "position": 13,
+      "playerId": "m12314",
+      "name": "Kimberly Faulkenberry",
+      "rating": 1412.82,
+      "dailyRatingChange": -5.82
+    },
+    {
+      "position": 14,
+      "playerId": "i143001",
+      "name": "Jared D. Cline",
+      "rating": 1419.11,
+      "dailyRatingChange": -12.37
+    },
+    {
+      "position": 15,
+      "playerId": "m44960",
+      "name": "Trofe Campbell",
+      "rating": 1476.4,
+      "dailyRatingChange": -15.9
+    }
+  ]
+}

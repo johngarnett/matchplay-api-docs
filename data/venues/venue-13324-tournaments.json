@@ -1,0 +1,157 @@
+{
+  "locationId": "13324",
+  "venueName": "The Cruz Room",
+  "venueAddress": "1520 Mission St, Santa Cruz, CA, 95060",
+  "tournaments": [
+    {
+      "id": 257301,
+      "name": "SCPL Westside Weekly’s @ The Cruz Room #5",
+      "date": "8/12/2026",
+      "playerCount": 9,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m43720",
+          "name": "Mike Hill",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m51277",
+          "name": "Missy Wools",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m52019",
+          "name": "Banyan Wools",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "p568584",
+          "name": "Kai Peterson",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m50075",
+          "name": "Dean Wools",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m49534",
+          "name": "Joachim Deguara",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m60838",
+          "name": "Patrick Kelleher",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 257300,
+      "name": "SCPL Westside Weekly’s @ The Cruz Room #4",
+      "date": "8/5/2026",
+      "playerCount": 15,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m43720",
+          "name": "Mike Hill",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m49534",
+          "name": "Joachim Deguara",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m50075",
+          "name": "Dean Wools",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m52019",
+          "name": "Banyan Wools",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 257299,
+      "name": "SCPL Westside Weekly’s @ The Cruz Room #3",
+      "date": "7/29/2026",
+      "playerCount": 10,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m50075",
+          "name": "Dean Wools",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "p558388",
+          "name": "DCheng",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m52019",
+          "name": "Banyan Wools",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m49534",
+          "name": "Joachim Deguara",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 257297,
+      "name": "SCPL Westside Weekly’s @ The Cruz Room #2",
+      "date": "7/22/2026",
+      "playerCount": 8,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m60838",
+          "name": "Patrick Kelleher",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m60070",
+          "name": "Joe Quadara",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "p558381",
+          "name": "Matisse Selman",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "i150513",
+          "name": "Pete Schwab",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

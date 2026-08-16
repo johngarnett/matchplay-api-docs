@@ -1,0 +1,39 @@
+{
+  "tournamentId": 265571,
+  "name": "Tournament Tuesdays #7 finals",
+  "date": "2026-08-05",
+  "locationId": "13328",
+  "locationName": "Marquee Pinball Arcade",
+  "playerCount": 4,
+  "ratingsDate": "2026-08-05",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m20322",
+      "name": "Peach Ruiz",
+      "rating": 1586.19,
+      "dailyRatingChange": 7.3
+    },
+    {
+      "position": 2,
+      "playerId": "m5244",
+      "name": "Scott Miles",
+      "rating": 1646.15,
+      "dailyRatingChange": -1.7
+    },
+    {
+      "position": 3,
+      "playerId": "m36439",
+      "name": "Nina Lucas",
+      "rating": 1518.41,
+      "dailyRatingChange": 9.1
+    },
+    {
+      "position": 4,
+      "playerId": "m477063",
+      "name": "Chris Chang",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

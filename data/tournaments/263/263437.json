@@ -1,0 +1,102 @@
+{
+  "tournamentId": 263437,
+  "name": "RIPH 7.1 (7/23/2026)",
+  "date": "2026-07-24",
+  "locationId": "9188",
+  "locationName": "Rock Island Public House",
+  "playerCount": 13,
+  "ratingsDate": "2026-07-24",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m30303",
+      "name": "Wyatt Ollestad",
+      "rating": 1562.62,
+      "dailyRatingChange": 9.9
+    },
+    {
+      "position": 2,
+      "playerId": "m29741",
+      "name": "John Mason",
+      "rating": 1540.19,
+      "dailyRatingChange": 8.92
+    },
+    {
+      "position": 3,
+      "playerId": "m328354",
+      "name": "Exoteric Brew",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 3,
+      "playerId": "m328357",
+      "name": "Jessica Zaniolo",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 5,
+      "playerId": "m560382",
+      "name": "Matt F.",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 6,
+      "playerId": "m30707",
+      "name": "John Everson",
+      "rating": 1460.9,
+      "dailyRatingChange": -6.79
+    },
+    {
+      "position": 6,
+      "playerId": "m59911",
+      "name": "sarah stone",
+      "rating": 1397.84,
+      "dailyRatingChange": 5.33
+    },
+    {
+      "position": 8,
+      "playerId": "m47820",
+      "name": "Morgan Clarke",
+      "rating": 1536.22,
+      "dailyRatingChange": -4.86
+    },
+    {
+      "position": 9,
+      "playerId": "m36316",
+      "name": "Ron Stone",
+      "rating": 1478.8,
+      "dailyRatingChange": -17.63
+    },
+    {
+      "position": 10,
+      "playerId": "m560381",
+      "name": "Doug W.",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 11,
+      "playerId": "m568799",
+      "name": "erin_",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 12,
+      "playerId": "m47412",
+      "name": "Brian L",
+      "rating": 1475.96,
+      "dailyRatingChange": 7.3
+    },
+    {
+      "position": 13,
+      "playerId": "m581268",
+      "name": "Larry from NY",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

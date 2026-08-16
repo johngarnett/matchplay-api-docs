@@ -1,0 +1,53 @@
+{
+  "tournamentId": 266623,
+  "name": "Space City Pinball: PhysXXX - Extra Credit",
+  "date": "2026-08-12",
+  "locationId": "7171",
+  "locationName": "Einstein's Pub",
+  "playerCount": 6,
+  "ratingsDate": "2026-08-12",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m32037",
+      "name": "Matt Katsarelis",
+      "rating": 1527.4,
+      "dailyRatingChange": 3.74
+    },
+    {
+      "position": 2,
+      "playerId": "m10010",
+      "name": "Dani Wade 🍀",
+      "rating": 1482.97,
+      "dailyRatingChange": 0.19
+    },
+    {
+      "position": 3,
+      "playerId": "m45623",
+      "name": "Heatherleigh Juarez",
+      "rating": 1388.48,
+      "dailyRatingChange": -4.37
+    },
+    {
+      "position": 4,
+      "playerId": "m25959",
+      "name": "Cindi Brennan 💗",
+      "rating": 1456.24,
+      "dailyRatingChange": 2.85
+    },
+    {
+      "position": 5,
+      "playerId": "m62383",
+      "name": "Omar Aburizeck",
+      "rating": 1505.11,
+      "dailyRatingChange": -25.88
+    },
+    {
+      "position": 6,
+      "playerId": "m33978",
+      "name": "Darrin Schonefeld",
+      "rating": 1567.46,
+      "dailyRatingChange": -1.48
+    }
+  ]
+}

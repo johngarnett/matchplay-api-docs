@@ -1,0 +1,67 @@
+{
+  "tournamentId": 265993,
+  "name": "Friday Night Pinball",
+  "date": "2026-08-08",
+  "locationId": "9122",
+  "locationName": "Remi’s Arcade & Bistro",
+  "playerCount": 8,
+  "ratingsDate": "2026-08-08",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m17973",
+      "name": "Dalton Briggs",
+      "rating": 1613.95,
+      "dailyRatingChange": 15.34
+    },
+    {
+      "position": 2,
+      "playerId": "m27396",
+      "name": "Emmanuel Turinetti",
+      "rating": 1516.54,
+      "dailyRatingChange": 3.32
+    },
+    {
+      "position": 3,
+      "playerId": "i157184",
+      "name": "Deep Bhari",
+      "rating": 1369.24,
+      "dailyRatingChange": 17.17
+    },
+    {
+      "position": 4,
+      "playerId": "i107502",
+      "name": "Cynthia Turinetti",
+      "rating": 1458.54,
+      "dailyRatingChange": -5.82
+    },
+    {
+      "position": 5,
+      "playerId": "m61381",
+      "name": "Daniel Whitworth",
+      "rating": 1404.4,
+      "dailyRatingChange": -9.57
+    },
+    {
+      "position": 6,
+      "playerId": "m549556",
+      "name": "Nick Stokes",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 6,
+      "playerId": "m28087",
+      "name": "David Turinetti",
+      "rating": 1378.14,
+      "dailyRatingChange": -7.58
+    },
+    {
+      "position": 6,
+      "playerId": "m583386",
+      "name": "Rebecca Carr",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

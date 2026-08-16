@@ -1,0 +1,46 @@
+{
+  "tournamentId": 264554,
+  "name": "HT Final",
+  "date": "2026-07-30",
+  "locationId": "8429",
+  "locationName": "Hungry Tiger",
+  "playerCount": 5,
+  "ratingsDate": "2026-07-30",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m7530",
+      "name": "Mathew Peterson",
+      "rating": 1710.02,
+      "dailyRatingChange": 1.9
+    },
+    {
+      "position": 2,
+      "playerId": "m7407",
+      "name": "Dawnda Durbin",
+      "rating": 1550.96,
+      "dailyRatingChange": 7.07
+    },
+    {
+      "position": 3,
+      "playerId": "m53328",
+      "name": "Emily Dombrosky",
+      "rating": 1514.08,
+      "dailyRatingChange": 10.71
+    },
+    {
+      "position": 4,
+      "playerId": "i8473",
+      "name": "David Morell",
+      "rating": 1571.65,
+      "dailyRatingChange": 4.22
+    },
+    {
+      "position": 5,
+      "playerId": "m13654",
+      "name": "Bill Lascher",
+      "rating": 1571.27,
+      "dailyRatingChange": -0.91
+    }
+  ]
+}

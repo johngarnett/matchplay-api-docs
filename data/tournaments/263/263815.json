@@ -1,0 +1,32 @@
+{
+  "tournamentId": 263815,
+  "name": "Prayer & Pinball monthly tournament",
+  "date": "2026-07-25",
+  "locationId": "13295",
+  "locationName": "Prayer & Pinball",
+  "playerCount": 3,
+  "ratingsDate": "2026-07-25",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "i110083",
+      "name": "Ezekiel Wright",
+      "rating": 1472.43,
+      "dailyRatingChange": 5.19
+    },
+    {
+      "position": 2,
+      "playerId": "m37526",
+      "name": "Joshua Singleton",
+      "rating": 1526.92,
+      "dailyRatingChange": -4.82
+    },
+    {
+      "position": 2,
+      "playerId": "i36218",
+      "name": "Chipper Hughes",
+      "rating": 1455.54,
+      "dailyRatingChange": -1.88
+    }
+  ]
+}

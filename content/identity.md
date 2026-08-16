@@ -89,6 +89,37 @@ resolving every one of them back to a single `claimedBy`. Storing statistics key
 `(organizerId, playerId)` identifies a roster entry. `claimedBy` identifies the person.
 </div>
 
+## A pattern: one prefixed id
+
+Three namespaces, any of which may be missing, is awkward to store. One approach in
+production use is to collapse them into a single string keyed by which namespace it came
+from, preferring the most stable:
+
+```js
+function canonicalId(player) {
+   if (player.claimedBy) return `m${player.claimedBy}`   // a Match Play account
+   if (player.ifpaId)    return `i${player.ifpaId}`      // IFPA, no Match Play account
+   return `p${player.playerId}`                          // neither: roster entry only
+}
+```
+
+One column holds any player, the prefix says how much you know about them, and the
+preference order means a person who later claims their account collapses from `i…` to `m…`
+rather than fragmenting.
+
+<div class="callout callout-warn">
+<span class="callout-title">The third case is the one that gets dropped</span>
+
+In a 30-day global snapshot of 2,755 tournaments, the standings resolved to **38,284 `m`
+ids and 4,102 `i` ids — and zero `p` ids**. Not because unclaimed players are rare, but
+because that pipeline discards players with neither identifier before writing its output.
+
+So the id-less players are missing from the derived data entirely, and nothing in it says
+so. If you build a mirror this way, decide deliberately whether `p…` rows are stored or
+dropped — and if dropped, record that they were, because a later reader cannot tell the
+difference between "no unclaimed players" and "unclaimed players removed".
+</div>
+
 ## Which endpoints give you what
 
 <div class="table-scroll">

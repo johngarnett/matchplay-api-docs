@@ -1,0 +1,67 @@
+{
+  "tournamentId": 263782,
+  "name": "Finals for illegal Stern Army Juli",
+  "date": "2026-07-25",
+  "locationId": "10477",
+  "locationName": "Illegal Pinball",
+  "playerCount": 8,
+  "ratingsDate": "2026-07-25",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m37260",
+      "name": "Haakon Galaasen",
+      "rating": 1678.1,
+      "dailyRatingChange": 15.6
+    },
+    {
+      "position": 2,
+      "playerId": "m9426",
+      "name": "Espen Andresen",
+      "rating": 1714.32,
+      "dailyRatingChange": 8.75
+    },
+    {
+      "position": 3,
+      "playerId": "m13001",
+      "name": "Solfrid Nordmark",
+      "rating": 1610.54,
+      "dailyRatingChange": 7.35
+    },
+    {
+      "position": 4,
+      "playerId": "m10609",
+      "name": "Kim Degerth",
+      "rating": 1681.17,
+      "dailyRatingChange": -0.96
+    },
+    {
+      "position": 5,
+      "playerId": "m1264",
+      "name": "Olav Hjelmstadstuen",
+      "rating": 1653.3,
+      "dailyRatingChange": -1.54
+    },
+    {
+      "position": 6,
+      "playerId": "i128565",
+      "name": "Karsten Jensen",
+      "rating": 1555.35,
+      "dailyRatingChange": 57.56
+    },
+    {
+      "position": 6,
+      "playerId": "m34087",
+      "name": "Valemon Sending",
+      "rating": 1562.82,
+      "dailyRatingChange": 6.67
+    },
+    {
+      "position": 8,
+      "playerId": "m15305",
+      "name": "Henrik Friden",
+      "rating": 1647.37,
+      "dailyRatingChange": 5.98
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "tournamentId": 265484,
+  "name": "Finals for MMG = Pre CAX Tournament / Pins and Spins",
+  "date": "2026-08-08",
+  "locationId": "9842",
+  "locationName": "MarTEEnez Minigolf & Arcade",
+  "playerCount": 5,
+  "ratingsDate": "2026-08-08",
+  "standings": [
+    {
+      "position": 3,
+      "playerId": "m486811",
+      "name": "Chip Ostler",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 5,
+      "playerId": "m54754",
+      "name": "Laura Ebbert",
+      "rating": 1382.26,
+      "dailyRatingChange": 7.64
+    },
+    {
+      "position": 5,
+      "playerId": "m585374",
+      "name": "HOOV",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 5,
+      "playerId": "m38875",
+      "name": "Ryan Matthews",
+      "rating": 1525.32,
+      "dailyRatingChange": 3.78
+    },
+    {
+      "position": 5,
+      "playerId": "m47711",
+      "name": "Melissa Hatlen",
+      "rating": 1381.55,
+      "dailyRatingChange": 0.39
+    }
+  ]
+}

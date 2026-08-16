@@ -1,0 +1,67 @@
+{
+  "tournamentId": 264366,
+  "name": "Finals for Tuesday Pinball at the Vault 7/28/26",
+  "date": "2026-07-29",
+  "locationId": "9015",
+  "locationName": "Morristown Game Vault",
+  "playerCount": 8,
+  "ratingsDate": "2026-07-29",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m6036",
+      "name": "Anthony Lambos Jr",
+      "rating": 1838.62,
+      "dailyRatingChange": 0.13
+    },
+    {
+      "position": 2,
+      "playerId": "m18298",
+      "name": "Drew Greco",
+      "rating": 1574.89,
+      "dailyRatingChange": 10.65
+    },
+    {
+      "position": 3,
+      "playerId": "m35537",
+      "name": "Will Gordon",
+      "rating": 1663.54,
+      "dailyRatingChange": 3.38
+    },
+    {
+      "position": 4,
+      "playerId": "m25667",
+      "name": "Steve Drabik",
+      "rating": 1635.86,
+      "dailyRatingChange": 6.72
+    },
+    {
+      "position": 5,
+      "playerId": "m39898",
+      "name": "Jake Polachek",
+      "rating": 1630.93,
+      "dailyRatingChange": 1.35
+    },
+    {
+      "position": 6,
+      "playerId": "m6071",
+      "name": "Craig Cash",
+      "rating": 1662.79,
+      "dailyRatingChange": -5.19
+    },
+    {
+      "position": 7,
+      "playerId": "m17950",
+      "name": "Josh Frye",
+      "rating": 1586.84,
+      "dailyRatingChange": 0.52
+    },
+    {
+      "position": 8,
+      "playerId": "m39126",
+      "name": "Spencer McGovern",
+      "rating": 1568.41,
+      "dailyRatingChange": -0.03
+    }
+  ]
+}

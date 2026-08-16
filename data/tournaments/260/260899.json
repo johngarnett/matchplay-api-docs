@@ -1,0 +1,60 @@
+{
+  "tournamentId": 260899,
+  "name": "Summer Strikes Thursdays @ Funspot #7",
+  "date": "2026-08-14",
+  "locationId": "11761",
+  "locationName": "Funspot",
+  "playerCount": 7,
+  "ratingsDate": null,
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "i139515",
+      "name": "James Polichronopoulos",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 2,
+      "playerId": "m33063",
+      "name": "Sean Sturgill",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 3,
+      "playerId": "m28693",
+      "name": "Eva Ashton",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 4,
+      "playerId": "m30609",
+      "name": "John Bolton",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 4,
+      "playerId": "m24570",
+      "name": "Dave Lawton",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 6,
+      "playerId": "m33302",
+      "name": "Dave Tardif",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 7,
+      "playerId": "m34936",
+      "name": "Craig Barkal",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

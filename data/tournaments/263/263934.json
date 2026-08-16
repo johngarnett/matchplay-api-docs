@@ -1,0 +1,39 @@
+{
+  "tournamentId": 263934,
+  "name": "Stern Army Halifax July 26 2026 Playoffs",
+  "date": "2026-07-26",
+  "locationId": "9616",
+  "locationName": "Best Western Plus Chocolate Lake Hotel",
+  "playerCount": 4,
+  "ratingsDate": "2026-07-26",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "i103654",
+      "name": "Rodney Durling",
+      "rating": 1539.96,
+      "dailyRatingChange": 22.98
+    },
+    {
+      "position": 2,
+      "playerId": "m21305",
+      "name": "John Greatwich",
+      "rating": 1580.13,
+      "dailyRatingChange": 13.66
+    },
+    {
+      "position": 3,
+      "playerId": "m33935",
+      "name": "Avi Adamski",
+      "rating": 1512.54,
+      "dailyRatingChange": 27.13
+    },
+    {
+      "position": 4,
+      "playerId": "m26947",
+      "name": "Fred Lai",
+      "rating": 1548.92,
+      "dailyRatingChange": 2.02
+    }
+  ]
+}

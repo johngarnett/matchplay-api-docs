@@ -1,0 +1,67 @@
+{
+  "tournamentId": 266700,
+  "name": "Finals for Game Galaxy August 11 2026 2nd Tuesday Monthly",
+  "date": "2026-08-12",
+  "locationId": "3448",
+  "locationName": "Game Galaxy Arcade",
+  "playerCount": 8,
+  "ratingsDate": "2026-08-12",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m18644",
+      "name": "Trent Leach",
+      "rating": 1632.21,
+      "dailyRatingChange": 11.81
+    },
+    {
+      "position": 2,
+      "playerId": "m47047",
+      "name": "Tommy Thompson",
+      "rating": 1610.18,
+      "dailyRatingChange": 5.09
+    },
+    {
+      "position": 2,
+      "playerId": "m21145",
+      "name": "Ryan Nole",
+      "rating": 1587.86,
+      "dailyRatingChange": 5.75
+    },
+    {
+      "position": 2,
+      "playerId": "i51149",
+      "name": "Charles \"Beatemup\" Haley",
+      "rating": 1590.42,
+      "dailyRatingChange": 10.07
+    },
+    {
+      "position": 5,
+      "playerId": "m39788",
+      "name": "Alyssa Thompson TN",
+      "rating": 1536.24,
+      "dailyRatingChange": 6.99
+    },
+    {
+      "position": 6,
+      "playerId": "m30480",
+      "name": "Josh philpott",
+      "rating": 1587.68,
+      "dailyRatingChange": -2.7
+    },
+    {
+      "position": 6,
+      "playerId": "m19529",
+      "name": "David Hagan",
+      "rating": 1604.24,
+      "dailyRatingChange": -8.08
+    },
+    {
+      "position": 6,
+      "playerId": "m9538",
+      "name": "Mike Mattox",
+      "rating": 1625,
+      "dailyRatingChange": -3.3
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "tournamentId": 263524,
+  "name": "Finals for Fertile Ground 07.23.26 Stern Army",
+  "date": "2026-07-24",
+  "locationId": "12399",
+  "locationName": "Fertile Ground Beer Co.",
+  "playerCount": 8,
+  "ratingsDate": "2026-07-24",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m20181",
+      "name": "Leslie Sinclair",
+      "rating": 1507.36,
+      "dailyRatingChange": 14.16
+    },
+    {
+      "position": 2,
+      "playerId": "m13928",
+      "name": "Emma King",
+      "rating": 1610.61,
+      "dailyRatingChange": -3.87
+    },
+    {
+      "position": 3,
+      "playerId": "m13631",
+      "name": "John McNaughton",
+      "rating": 1640.4,
+      "dailyRatingChange": 3.75
+    },
+    {
+      "position": 4,
+      "playerId": "m23367",
+      "name": "Brandon Chapman",
+      "rating": 1574.02,
+      "dailyRatingChange": 8.51
+    },
+    {
+      "position": 5,
+      "playerId": "m23652",
+      "name": "Richard Chapman",
+      "rating": 1468.26,
+      "dailyRatingChange": 5.36
+    },
+    {
+      "position": 6,
+      "playerId": "m19506",
+      "name": "Brian T King",
+      "rating": 1422.4,
+      "dailyRatingChange": 21.51
+    },
+    {
+      "position": 6,
+      "playerId": "m10953",
+      "name": "Jessica Thaxton",
+      "rating": 1591.88,
+      "dailyRatingChange": -2.2
+    },
+    {
+      "position": 8,
+      "playerId": "m23651",
+      "name": "Tristin Chapman",
+      "rating": 1464.93,
+      "dailyRatingChange": 9.24
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "tournamentId": 227472,
+  "name": "Pinball At The Pig: Weekly Head to Head Match Play Tournament - 8/11/2026",
+  "date": "2026-08-12",
+  "locationId": "10577",
+  "locationName": "South Bay Dickerson's BBQ",
+  "playerCount": 14,
+  "ratingsDate": "2026-08-12",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m18779",
+      "name": "Mark Beerbower",
+      "rating": 1665.02,
+      "dailyRatingChange": 8.36
+    },
+    {
+      "position": 2,
+      "playerId": "m60072",
+      "name": "Willy shaughnessy",
+      "rating": 1492.38,
+      "dailyRatingChange": 7.12
+    },
+    {
+      "position": 3,
+      "playerId": "m46674",
+      "name": "Chris sierra",
+      "rating": 1575.08,
+      "dailyRatingChange": 3.91
+    },
+    {
+      "position": 4,
+      "playerId": "m13886",
+      "name": "Kirk Leonard",
+      "rating": 1665.48,
+      "dailyRatingChange": 0.12
+    },
+    {
+      "position": 5,
+      "playerId": "m58806",
+      "name": "Jayden Gregory",
+      "rating": 1584.83,
+      "dailyRatingChange": -0.68
+    },
+    {
+      "position": 6,
+      "playerId": "m55175",
+      "name": "Mandy McCullough",
+      "rating": 1451.36,
+      "dailyRatingChange": 2.78
+    },
+    {
+      "position": 7,
+      "playerId": "m45663",
+      "name": "Alex Lyon",
+      "rating": 1533.63,
+      "dailyRatingChange": -3.1
+    },
+    {
+      "position": 8,
+      "playerId": "m55032",
+      "name": "Tom McCullough",
+      "rating": 1593.72,
+      "dailyRatingChange": -4.7
+    },
+    {
+      "position": 9,
+      "playerId": "m44189",
+      "name": "Jay Levy",
+      "rating": 1372.41,
+      "dailyRatingChange": 6.49
+    },
+    {
+      "position": 10,
+      "playerId": "m50571",
+      "name": "Brittany Gillia",
+      "rating": 1486.03,
+      "dailyRatingChange": -1.26
+    },
+    {
+      "position": 11,
+      "playerId": "m46353",
+      "name": "Levi Robischon",
+      "rating": 1442.17,
+      "dailyRatingChange": -5.06
+    },
+    {
+      "position": 12,
+      "playerId": "m31906",
+      "name": "Jackson Hamner",
+      "rating": 1456.52,
+      "dailyRatingChange": -6.32
+    },
+    {
+      "position": 13,
+      "playerId": "m468516",
+      "name": "Keanu Lane",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 14,
+      "playerId": "m52464",
+      "name": "Evelyn Gutierrez",
+      "rating": 1289.63,
+      "dailyRatingChange": -4.77
+    }
+  ]
+}

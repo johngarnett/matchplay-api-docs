@@ -1,0 +1,67 @@
+{
+  "tournamentId": 262928,
+  "name": "Semi Finals for Sunday Night Fights at The L.A.B. 19 JUL 26",
+  "date": "2026-07-20",
+  "locationId": "8296",
+  "locationName": "The L.A.B.",
+  "playerCount": 8,
+  "ratingsDate": "2026-07-20",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m41915",
+      "name": "Cade Vincent",
+      "rating": 1638.75,
+      "dailyRatingChange": 6.82
+    },
+    {
+      "position": 2,
+      "playerId": "m12131",
+      "name": "Nate Smith CO",
+      "rating": 1761.38,
+      "dailyRatingChange": -2.29
+    },
+    {
+      "position": 2,
+      "playerId": "m23050",
+      "name": "Dallin Hudson",
+      "rating": 1627.72,
+      "dailyRatingChange": 13.32
+    },
+    {
+      "position": 4,
+      "playerId": "m29418",
+      "name": "Stacy Shaffer",
+      "rating": 1500.08,
+      "dailyRatingChange": 6.96
+    },
+    {
+      "position": 5,
+      "playerId": "m30818",
+      "name": "Simone Bateman",
+      "rating": 1549.16,
+      "dailyRatingChange": -1.28
+    },
+    {
+      "position": 6,
+      "playerId": "m44125",
+      "name": "Cado Hernandez",
+      "rating": 1533.76,
+      "dailyRatingChange": 0.49
+    },
+    {
+      "position": 7,
+      "playerId": "m20943",
+      "name": "Paige Peck",
+      "rating": 1605.81,
+      "dailyRatingChange": -8.52
+    },
+    {
+      "position": 7,
+      "playerId": "m62094",
+      "name": "JJ Hinton",
+      "rating": 1350.69,
+      "dailyRatingChange": 27.93
+    }
+  ]
+}

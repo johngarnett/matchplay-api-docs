@@ -1,0 +1,167 @@
+{
+  "locationId": "13814",
+  "name": "Julia's Place",
+  "address": "",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 8,
+  "relatedVenues": [
+    {
+      "locationId": "7008",
+      "name": "Das Flipperhaus",
+      "address": "4835 Granite Dr, Rocklin, Ca",
+      "count": 14
+    },
+    {
+      "locationId": "8715",
+      "name": "Jack’s Cameron Park",
+      "address": "",
+      "count": 14
+    },
+    {
+      "locationId": "9542",
+      "name": "Capital Pinball Parlor",
+      "address": "117 J St, Sacramento, CA 95814, US",
+      "count": 10
+    },
+    {
+      "locationId": "12032",
+      "name": "Jeanette and Ricks House",
+      "address": "Elk Grove, CA",
+      "count": 6
+    },
+    {
+      "locationId": "12836",
+      "name": "Giao's House",
+      "address": "Woodland, CA",
+      "count": 6
+    },
+    {
+      "locationId": "12982",
+      "name": "Christina N.",
+      "address": "",
+      "count": 6
+    },
+    {
+      "locationId": "12916",
+      "name": "Courtney Claybaugh",
+      "address": "Orangevale",
+      "count": 5
+    },
+    {
+      "locationId": "7428",
+      "name": "David's House",
+      "address": "Edison Ave",
+      "count": 4
+    },
+    {
+      "locationId": "7431",
+      "name": "Justin's House",
+      "address": "",
+      "count": 4
+    },
+    {
+      "locationId": "8050",
+      "name": "Hector's House",
+      "address": "Nicolson",
+      "count": 4
+    }
+  ],
+  "players": [
+    {
+      "id": "m44465",
+      "name": "Ripley Randall",
+      "rating": 1562.03,
+      "rd": 24.8,
+      "ratingClass": "B",
+      "homeLocation": "Capital Pinball Parlor",
+      "homeLocationId": "9542",
+      "percentile": 71.01131970000466,
+      "changeDisplay": "+10.2",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m34340",
+      "name": "Julia Randall",
+      "rating": 1519.35,
+      "rd": 19.7,
+      "ratingClass": "B",
+      "homeLocation": "Das Flipperhaus",
+      "homeLocationId": "7008",
+      "percentile": 54.9354823682862,
+      "changeDisplay": "-0.6",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m43058",
+      "name": "Jenn Adamson",
+      "rating": 1501.19,
+      "rd": 31.53,
+      "ratingClass": "B",
+      "homeLocation": "Das Flipperhaus",
+      "homeLocationId": "7008",
+      "percentile": 47.612614710951696,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m13541",
+      "name": "Kendra Bishop",
+      "rating": 1470.07,
+      "rd": 33.16,
+      "ratingClass": "C",
+      "homeLocation": "Giao's House",
+      "homeLocationId": "12836",
+      "percentile": 34.90939581683514,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m37884",
+      "name": "Amanda Beuse",
+      "rating": 1424.59,
+      "rd": 38.86,
+      "ratingClass": "C",
+      "homeLocation": "Jeanette and Ricks House",
+      "homeLocationId": "12032",
+      "percentile": 18.996599431685844,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i103073",
+      "name": "Barbie Hope",
+      "rating": 1394.11,
+      "rd": 46.98,
+      "ratingClass": "D",
+      "homeLocation": "Jack’s Cameron Park",
+      "homeLocationId": "8715",
+      "percentile": 11.100759304979736,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m29148",
+      "name": "Jenn Jarrett",
+      "rating": 1376.06,
+      "rd": 39.42,
+      "ratingClass": "D",
+      "homeLocation": "Jack’s Cameron Park",
+      "homeLocationId": "8715",
+      "percentile": 7.630316299436345,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i58513",
+      "name": "Roxie Eberhard",
+      "rating": 1353,
+      "rd": 49.72,
+      "ratingClass": "D",
+      "homeLocation": "Jeanette and Ricks House",
+      "homeLocationId": "12032",
+      "percentile": 4.621046257045698,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

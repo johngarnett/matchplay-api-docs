@@ -1,0 +1,39 @@
+{
+  "tournamentId": 265710,
+  "name": "Finals for Pollyanna 8/5/26",
+  "date": "2026-08-06",
+  "locationId": "10431",
+  "locationName": "Pollyanna Brewing & Distilling Company - St Charles",
+  "playerCount": 4,
+  "ratingsDate": "2026-08-06",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m43986",
+      "name": "Matt Michels",
+      "rating": 1642.77,
+      "dailyRatingChange": 8.71
+    },
+    {
+      "position": 2,
+      "playerId": "m49970",
+      "name": "Gavin Miller",
+      "rating": 1720.63,
+      "dailyRatingChange": 7.9
+    },
+    {
+      "position": 3,
+      "playerId": "m54367",
+      "name": "Joe winans",
+      "rating": 1645.48,
+      "dailyRatingChange": 0.56
+    },
+    {
+      "position": 4,
+      "playerId": "m54368",
+      "name": "Valerie Anderson",
+      "rating": 1508.1,
+      "dailyRatingChange": 9.56
+    }
+  ]
+}

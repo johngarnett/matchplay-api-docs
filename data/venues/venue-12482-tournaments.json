@@ -1,0 +1,106 @@
+{
+  "locationId": "12482",
+  "venueName": "Hyper Beer Co",
+  "venueAddress": "150 W Center Street Promenade, Anaheim, CA 92805, US",
+  "tournaments": [
+    {
+      "id": 259984,
+      "name": "Hyper Beer Co. Season IV #6",
+      "date": "8/12/2026",
+      "playerCount": 42,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "i97200",
+          "name": "Lars Milberger",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 1,
+          "playerId": "m6232",
+          "name": "Dennis Eichhorn",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m52606",
+          "name": "Brian Diaz",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m23777",
+          "name": "Kyle Nahas",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 259983,
+      "name": "Hyper Beer Co. Season IV #5",
+      "date": "8/5/2026",
+      "playerCount": 38,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m21157",
+          "name": "John Nau",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m984",
+          "name": "Jack Wasserman",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m23777",
+          "name": "Kyle Nahas",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m56257",
+          "name": "Lisa Gaddis",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 259982,
+      "name": "Hyper Beer Co. Season IV #4",
+      "date": "7/29/2026",
+      "playerCount": 36,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m6232",
+          "name": "Dennis Eichhorn",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 1,
+          "playerId": "m984",
+          "name": "Jack Wasserman",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m16625",
+          "name": "Ian Maddux",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m4742",
+          "name": "Jonathan Soon",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

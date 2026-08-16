@@ -1,0 +1,145 @@
+{
+  "locationId": "13712",
+  "venueName": "Nerd Alert Carriage Crossing",
+  "venueAddress": "4680 Merchants Park Cir, Collierville, TN 38017, US",
+  "tournaments": [
+    {
+      "id": 266465,
+      "name": "Nerd Alert Ballbusters 8/10/2026",
+      "date": "8/10/2026",
+      "playerCount": 6,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "p580312",
+          "name": "James Anderson",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "p580363",
+          "name": "Tyler Oswald",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m24144",
+          "name": "Dustin Gibeson",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "p578262",
+          "name": "Tristen McCormick",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "p580299",
+          "name": "Marcus Sorensen",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 265272,
+      "name": "Nerd Alert Ballbusters 8/3/2026",
+      "date": "8/3/2026",
+      "playerCount": 8,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m35622",
+          "name": "Cam Sczerba",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "p584313",
+          "name": "Tristen McCormick",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "p580312",
+          "name": "James Anderson",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "p580299",
+          "name": "Marcus Sorensen",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 264126,
+      "name": "Nerd Alert Ballbusters 7/27/2026",
+      "date": "7/27/2026",
+      "playerCount": 10,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m3600",
+          "name": "Tanner Wade",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "p580312",
+          "name": "James Anderson",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "p582530",
+          "name": "Joel Martin",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "p580299",
+          "name": "Marcus Sorensen",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 262974,
+      "name": "Nerd Alert Ballbusters 7/20",
+      "date": "7/20/2026",
+      "playerCount": 8,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m24144",
+          "name": "Dustin Gibeson",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m35622",
+          "name": "Cam Sczerba",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "p580299",
+          "name": "Marcus Sorensen",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "p580308",
+          "name": "Paul R.",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

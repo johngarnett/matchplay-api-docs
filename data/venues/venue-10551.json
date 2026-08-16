@@ -1,0 +1,299 @@
+{
+  "locationId": "10551",
+  "name": "Alex Huffman’s place",
+  "address": "",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 19,
+  "relatedVenues": [
+    {
+      "locationId": "3488",
+      "name": "BumperNets ",
+      "address": "2000 Galleria Cir, Birmingham, AL 35244, USA",
+      "count": 18
+    },
+    {
+      "locationId": "9921",
+      "name": "Renaissance Atlanta Waverly Hotel & Convention Center",
+      "address": "2450 Galleria Pkwy Atlanta, GA 30339",
+      "count": 18
+    },
+    {
+      "locationId": "6337",
+      "name": "Chris Harris @ Silver Lakes",
+      "address": "",
+      "count": 9
+    },
+    {
+      "locationId": "12135",
+      "name": "Leo's House",
+      "address": "",
+      "count": 6
+    },
+    {
+      "locationId": "12262",
+      "name": "Chris' house",
+      "address": "",
+      "count": 6
+    },
+    {
+      "locationId": "12261",
+      "name": "Duane's house",
+      "address": "",
+      "count": 5
+    },
+    {
+      "locationId": "12221",
+      "name": "Michael's Place",
+      "address": "",
+      "count": 4
+    },
+    {
+      "locationId": "3374",
+      "name": "Portal Pinball Arcade",
+      "address": "3335 Cobb Pkwy Suite 800, Acworth, GA, 30101, US",
+      "count": 3
+    },
+    {
+      "locationId": "5035",
+      "name": "Rock 'N Roll Pinball",
+      "address": "815 S Railroad Ave, Opelika, AL 36801, USA",
+      "count": 3
+    },
+    {
+      "locationId": "9586",
+      "name": "Cool Dogs Sports Pub",
+      "address": "3025 E Desert Inn Rd, Las Vegas, NV 89121",
+      "count": 3
+    }
+  ],
+  "players": [
+    {
+      "id": "m316",
+      "name": "Chris Warren AL",
+      "rating": 1726.33,
+      "rd": 19.36,
+      "ratingClass": "Expert",
+      "homeLocation": "BumperNets ",
+      "homeLocationId": "3488",
+      "percentile": 97.98760888806073,
+      "changeDisplay": "+10.7",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m11537",
+      "name": "Alex Huffman",
+      "rating": 1643.42,
+      "rd": 28.15,
+      "ratingClass": "A",
+      "homeLocation": "Alex Huffman’s place",
+      "homeLocationId": "10551",
+      "percentile": 90.84175711557275,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m24861",
+      "name": "Jason Wilson AL",
+      "rating": 1633.65,
+      "rd": 22.39,
+      "ratingClass": "A",
+      "homeLocation": "BumperNets ",
+      "homeLocationId": "3488",
+      "percentile": 89.22998090091768,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m26409",
+      "name": "Hank Patton",
+      "rating": 1586.9,
+      "rd": 23.08,
+      "ratingClass": "B",
+      "homeLocation": "Cool Dogs Sports Pub",
+      "homeLocationId": "9586",
+      "percentile": 78.57176130805422,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m54858",
+      "name": "Johnnie Ellis",
+      "rating": 1579.25,
+      "rd": 26.45,
+      "ratingClass": "B",
+      "homeLocation": "BumperNets ",
+      "homeLocationId": "3488",
+      "percentile": 76.39632924954581,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m11554",
+      "name": "Todd Michard",
+      "rating": 1571.27,
+      "rd": 22.43,
+      "ratingClass": "B",
+      "homeLocation": "BumperNets ",
+      "homeLocationId": "3488",
+      "percentile": 73.93674011273117,
+      "changeDisplay": "+9.7",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m6192",
+      "name": "David Wurst",
+      "rating": 1568.88,
+      "rd": 23.79,
+      "ratingClass": "B",
+      "homeLocation": "BumperNets ",
+      "homeLocationId": "3488",
+      "percentile": 73.14948525644012,
+      "changeDisplay": "-8.7",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m23362",
+      "name": "Eric McLendon",
+      "rating": 1568.63,
+      "rd": 23.72,
+      "ratingClass": "B",
+      "homeLocation": "Rock 'N Roll Pinball",
+      "homeLocationId": "5035",
+      "percentile": 73.07961056505333,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m5908",
+      "name": "Frank Williamson",
+      "rating": 1563.09,
+      "rd": 23.33,
+      "ratingClass": "B",
+      "homeLocation": "BumperNets ",
+      "homeLocationId": "3488",
+      "percentile": 71.33740159314297,
+      "changeDisplay": "-5.3",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m11555",
+      "name": "Rick Pecot",
+      "rating": 1561.29,
+      "rd": 34.84,
+      "ratingClass": "B",
+      "homeLocation": "Alex Huffman’s place",
+      "homeLocationId": "10551",
+      "percentile": 70.79237900032608,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m20685",
+      "name": "Charles Childress",
+      "rating": 1550.48,
+      "rd": 32.73,
+      "ratingClass": "B",
+      "homeLocation": "Alex Huffman’s place",
+      "homeLocationId": "10551",
+      "percentile": 66.88871290818466,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m54209",
+      "name": "Joseph Olejniczak",
+      "rating": 1538.06,
+      "rd": 20.42,
+      "ratingClass": "B",
+      "homeLocation": "Portal Pinball Arcade",
+      "homeLocationId": "3374",
+      "percentile": 62.29561652769367,
+      "changeDisplay": "-7.4",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m11567",
+      "name": "Michael Murdoch",
+      "rating": 1487.81,
+      "rd": 23.12,
+      "ratingClass": "C",
+      "homeLocation": "Renaissance Atlanta Waverly Hotel & Convention Center",
+      "homeLocationId": "9921",
+      "percentile": 42.0692225276005,
+      "changeDisplay": "-1.9",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m28998",
+      "name": "Rebecca Byrd",
+      "rating": 1468.8,
+      "rd": 25.81,
+      "ratingClass": "C",
+      "homeLocation": "Renaissance Atlanta Waverly Hotel & Convention Center",
+      "homeLocationId": "9921",
+      "percentile": 34.39698141333209,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m42713",
+      "name": "Shawn Oliver",
+      "rating": 1428.91,
+      "rd": 24.28,
+      "ratingClass": "C",
+      "homeLocation": "BumperNets ",
+      "homeLocationId": "3488",
+      "percentile": 20.268318814925234,
+      "changeDisplay": "+15.5",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m49596",
+      "name": "Justin Philpot",
+      "rating": 1409.65,
+      "rd": 30.81,
+      "ratingClass": "C",
+      "homeLocation": "BumperNets ",
+      "homeLocationId": "3488",
+      "percentile": 14.990450458843807,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m28999",
+      "name": "Michael Byrd",
+      "rating": 1403.32,
+      "rd": 28.97,
+      "ratingClass": "C",
+      "homeLocation": "Renaissance Atlanta Waverly Hotel & Convention Center",
+      "homeLocationId": "9921",
+      "percentile": 13.336749429356686,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m59773",
+      "name": "Susan Mollica",
+      "rating": 1397.4,
+      "rd": 27.67,
+      "ratingClass": "D",
+      "homeLocation": "BumperNets ",
+      "homeLocationId": "3488",
+      "percentile": 11.841431033679601,
+      "changeDisplay": "+3.1",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "i65653",
+      "name": "Steve Murdoch",
+      "rating": 1277.51,
+      "rd": 29.19,
+      "ratingClass": "E",
+      "homeLocation": "Chris Harris @ Silver Lakes",
+      "homeLocationId": "6337",
+      "percentile": 0.568314156612475,
+      "changeDisplay": "-22.4",
+      "changeClass": "change-negative"
+    }
+  ]
+}

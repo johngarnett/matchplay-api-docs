@@ -1,0 +1,215 @@
+{
+  "communityId": "19",
+  "locations": [
+    {
+      "id": "7439",
+      "name": "Arcade Legacy Sharonville",
+      "address": "2241 Crowne Point Dr, Cincinnati, OH 45241, US",
+      "tournaments": [
+        {
+          "id": 266689,
+          "name": "Arcade Legacy's Thursday Throwdown 8/13/26",
+          "date": "8/13/2026",
+          "playerCount": 88,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m6760",
+              "name": "Jesse Baker",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m39177",
+              "name": "Charles Jackson",
+              "isCommunityMember": false
+            },
+            {
+              "position": 3,
+              "playerId": "m36501",
+              "name": "Doug Kuykendoll",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m20818",
+              "name": "Gregorius J Hall",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m49398",
+              "name": "Sara Burkhalter",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m3317",
+              "name": "Stuart Nyswonger",
+              "isCommunityMember": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5479",
+      "name": "Canal Street Arcade and Deli",
+      "address": "308 East 1st St, Dayton, OH, 45402, US",
+      "tournaments": [
+        {
+          "id": 265305,
+          "name": "Gem City Pinball League Season 18 Week 2",
+          "date": "8/10/2026",
+          "playerCount": 39,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m38141",
+              "name": "Steve Mills",
+              "isCommunityMember": true
+            },
+            {
+              "position": 1,
+              "playerId": "m19563",
+              "name": "Chad Marsh",
+              "isCommunityMember": false
+            },
+            {
+              "position": 3,
+              "playerId": "i73109",
+              "name": "Casey Barber",
+              "isCommunityMember": false
+            },
+            {
+              "position": 4,
+              "playerId": "m40173",
+              "name": "Matt Juhascik",
+              "isCommunityMember": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "11500",
+      "name": "Logan Street Market",
+      "address": "1001 Logan Street, Louisville, KY 40204, US",
+      "tournaments": [
+        {
+          "id": 266268,
+          "name": "Bad Cats Monthly @ Logan Street Market",
+          "date": "8/9/2026",
+          "playerCount": 3,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m43328",
+              "name": "Stephanie Braun",
+              "isCommunityMember": false
+            },
+            {
+              "position": 2,
+              "playerId": "m51227",
+              "name": "Julie Crosslin",
+              "isCommunityMember": false
+            },
+            {
+              "position": 3,
+              "playerId": "m31173",
+              "name": "Mandy Haysley",
+              "isCommunityMember": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "13564",
+      "name": "Nostalgic Video Games & Arcade",
+      "address": "8449 US-42 ste L, Florence, KY 41042, US",
+      "tournaments": [
+        {
+          "id": 266124,
+          "name": "Saturday Night Smash Masters 8/8/26",
+          "date": "8/8/2026",
+          "playerCount": 7,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "p577850",
+              "name": "Aj",
+              "isCommunityMember": false
+            },
+            {
+              "position": 2,
+              "playerId": "p573786",
+              "name": "Joshua Llamas",
+              "isCommunityMember": false
+            },
+            {
+              "position": 3,
+              "playerId": "m7259",
+              "name": "Adam Wright",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "p573761",
+              "name": "Charlie Scott",
+              "isCommunityMember": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8555",
+      "name": "Past Times Arcade",
+      "address": "419 N State St, Girard, OH, 44420, US",
+      "tournaments": [
+        {
+          "id": 266192,
+          "name": "Div A Finals for Steel Valley Pinball Classics GIGA Match Play Tournament OFFICIAL",
+          "date": "8/9/2026",
+          "playerCount": 24,
+          "qualifying": {
+            "id": 261482,
+            "name": "Steel Valley Pinball Classics GIGA Match Play Tournament OFFICIAL",
+            "playerCount": 48
+          },
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m39602",
+              "name": "Nolan Liem",
+              "isCommunityMember": false
+            },
+            {
+              "position": 2,
+              "playerId": "m34910",
+              "name": "Ethan Smilg",
+              "isCommunityMember": false
+            },
+            {
+              "position": 3,
+              "playerId": "m157",
+              "name": "Sean Campbell OH",
+              "isCommunityMember": false
+            },
+            {
+              "position": 4,
+              "playerId": "m1483",
+              "name": "Evan Bingham",
+              "isCommunityMember": true
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

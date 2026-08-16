@@ -1,0 +1,167 @@
+{
+  "locationId": "13668",
+  "name": "Faction brewery",
+  "address": "2501 monarch st, alameda ca",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 8,
+  "relatedVenues": [
+    {
+      "locationId": "11141",
+      "name": "Slingshot Pinball",
+      "address": "460 Lincoln Ave #70, San Jose, CA 95126, US",
+      "count": 16
+    },
+    {
+      "locationId": "9939",
+      "name": "Berryland",
+      "address": "2318 telegraph ave Oakland ca 94612",
+      "count": 12
+    },
+    {
+      "locationId": "603",
+      "name": "Free Gold Watch",
+      "address": "1767 Waller St, San Francisco, CA 94117, USA",
+      "count": 10
+    },
+    {
+      "locationId": "11373",
+      "name": "The Detour",
+      "address": "2200 Market St #102, San Francisco, CA 94114, US",
+      "count": 7
+    },
+    {
+      "locationId": "1412",
+      "name": "Pacific Pinball Museum",
+      "address": "1510 Webster St, Alameda, CA 94501, USA",
+      "count": 4
+    },
+    {
+      "locationId": "5173",
+      "name": "The Flipper Room",
+      "address": "1033 Shary Cir, Concord, CA 94518, USA",
+      "count": 4
+    },
+    {
+      "locationId": "6047",
+      "name": "EmporiumSF",
+      "address": "616 Divisadero St, San Francisco, CA 94117, USA",
+      "count": 4
+    },
+    {
+      "locationId": "7008",
+      "name": "Das Flipperhaus",
+      "address": "4835 Granite Dr, Rocklin, Ca",
+      "count": 3
+    },
+    {
+      "locationId": "13026",
+      "name": "Golden State Pinball Festival",
+      "address": "413 E Lockeford Street Lodi, CA 95240",
+      "count": 2
+    },
+    {
+      "locationId": "13388",
+      "name": "Hesher's Pizza",
+      "address": "206 Broadway, Oakland, CA 94607, US",
+      "count": 2
+    }
+  ],
+  "players": [
+    {
+      "id": "m26157",
+      "name": "Max Plotkin",
+      "rating": 1620.03,
+      "rd": 46.51,
+      "ratingClass": "A",
+      "homeLocation": "Pacific Pinball Museum",
+      "homeLocationId": "1412",
+      "percentile": 86.62132575581124,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m47159",
+      "name": "Kristi Reinert",
+      "rating": 1562.89,
+      "rd": 19.68,
+      "ratingClass": "B",
+      "homeLocation": "Slingshot Pinball",
+      "homeLocationId": "11141",
+      "percentile": 71.28150184003354,
+      "changeDisplay": "-14.6",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m40450",
+      "name": "Isabel Muenzel",
+      "rating": 1553.41,
+      "rd": 25.13,
+      "ratingClass": "B",
+      "homeLocation": "Free Gold Watch",
+      "homeLocationId": "603",
+      "percentile": 68.08124097451903,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m1844",
+      "name": "Brandy Thompson",
+      "rating": 1544.51,
+      "rd": 28.09,
+      "ratingClass": "B",
+      "homeLocation": "Free Gold Watch",
+      "homeLocationId": "603",
+      "percentile": 64.77383891554479,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m25825",
+      "name": "Charissa Raufmann",
+      "rating": 1537.34,
+      "rd": 34.43,
+      "ratingClass": "B",
+      "homeLocation": "Das Flipperhaus",
+      "homeLocationId": "7008",
+      "percentile": 62.01611776214655,
+      "changeDisplay": "+3.4",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m50895",
+      "name": "Flipper",
+      "rating": 1525.8,
+      "rd": 25.96,
+      "ratingClass": "B",
+      "homeLocation": "Berryland",
+      "homeLocationId": "9939",
+      "percentile": 57.371779941305256,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m57180",
+      "name": "Lauren Russo",
+      "rating": 1502.39,
+      "rd": 39.4,
+      "ratingClass": "B",
+      "homeLocation": "Free Gold Watch",
+      "homeLocationId": "603",
+      "percentile": 48.036521172031485,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m30721",
+      "name": "Michelle GORTHY",
+      "rating": 1428.64,
+      "rd": 32.51,
+      "ratingClass": "C",
+      "homeLocation": "Berryland",
+      "homeLocationId": "9939",
+      "percentile": 20.193785810779335,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

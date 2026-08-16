@@ -1,0 +1,215 @@
+{
+  "locationId": "6814",
+  "name": "Super Abari ",
+  "address": "Charlotte, NC 28205, USA",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 12,
+  "relatedVenues": [
+    {
+      "locationId": "11003",
+      "name": "Abari Game Bar",
+      "address": "1721 N Davidson St, Charlotte, NC 28206, US",
+      "count": 113
+    },
+    {
+      "locationId": "7837",
+      "name": "Super Abari Game Bar",
+      "address": "1015 Seigle Ave, Charlotte, NC, 2820, US",
+      "count": 22
+    },
+    {
+      "locationId": "5106",
+      "name": "Player 1UP",
+      "address": "140 E Main St Suite 140, Rock Hill, SC 29730, United States",
+      "count": 5
+    },
+    {
+      "locationId": "9921",
+      "name": "Renaissance Atlanta Waverly Hotel & Convention Center",
+      "address": "2450 Galleria Pkwy Atlanta, GA 30339",
+      "count": 5
+    },
+    {
+      "locationId": "7528",
+      "name": "Bang Back Pinball Lounge",
+      "address": "741 Saluda Ave, Columbia, SC, 29205, US",
+      "count": 3
+    },
+    {
+      "locationId": "8946",
+      "name": "Craft And Draft Irmo",
+      "address": "7583 Saint Andrews Road, Irmo, SC 29063, US",
+      "count": 3
+    },
+    {
+      "locationId": "5040",
+      "name": "Transmission Arcade",
+      "address": "1712 Main St, Columbia, SC 29201, USA",
+      "count": 2
+    },
+    {
+      "locationId": "13534",
+      "name": "Belles Basement",
+      "address": "803 Colonial Dr, Rock Hill, SC 29730",
+      "count": 2
+    },
+    {
+      "locationId": "13633",
+      "name": "Kennebunk's- Belles Takeover",
+      "address": "3923 West Georgia Road Pelzer SC",
+      "count": 2
+    },
+    {
+      "locationId": "8950",
+      "name": "The Pinball Barn",
+      "address": "250 Stoneybrook Road, Pelzer, SC  29669",
+      "count": 1
+    }
+  ],
+  "players": [
+    {
+      "id": "m4657",
+      "name": "Abby Terhune",
+      "rating": 1611.56,
+      "rd": 33,
+      "ratingClass": "A",
+      "homeLocation": "Renaissance Atlanta Waverly Hotel & Convention Center",
+      "homeLocationId": "9921",
+      "percentile": 84.79992546699584,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m39144",
+      "name": "Kristen Weirich",
+      "rating": 1605.95,
+      "rd": 17.84,
+      "ratingClass": "A",
+      "homeLocation": "Abari Game Bar",
+      "homeLocationId": "11003",
+      "percentile": 83.41640657753761,
+      "changeDisplay": "+2.7",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m12315",
+      "name": "Amanda Lax",
+      "rating": 1552.71,
+      "rd": 26.28,
+      "ratingClass": "B",
+      "homeLocation": "Abari Game Bar",
+      "homeLocationId": "11003",
+      "percentile": 67.73186751758513,
+      "changeDisplay": "+6.9",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m11021",
+      "name": "Aimee Carlton",
+      "rating": 1524.55,
+      "rd": 23.14,
+      "ratingClass": "B",
+      "homeLocation": "Abari Game Bar",
+      "homeLocationId": "11003",
+      "percentile": 56.88731541435692,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m7443",
+      "name": "Becky Flores",
+      "rating": 1519.34,
+      "rd": 26.19,
+      "ratingClass": "B",
+      "homeLocation": "Abari Game Bar",
+      "homeLocationId": "11003",
+      "percentile": 54.92616574276797,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m23847",
+      "name": "Cupcake",
+      "rating": 1509.7,
+      "rd": 30.93,
+      "ratingClass": "B",
+      "homeLocation": "Abari Game Bar",
+      "homeLocationId": "11003",
+      "percentile": 51.138957469604506,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m10125",
+      "name": "Kirsten Nicholson",
+      "rating": 1480.68,
+      "rd": 39.16,
+      "ratingClass": "C",
+      "homeLocation": "Super Abari ",
+      "homeLocationId": "6814",
+      "percentile": 39.115852238319285,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m5834",
+      "name": "Pants",
+      "rating": 1472.66,
+      "rd": 20.76,
+      "ratingClass": "C",
+      "homeLocation": "Abari Game Bar",
+      "homeLocationId": "11003",
+      "percentile": 35.92490799832301,
+      "changeDisplay": "-4.4",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m7599",
+      "name": "Katie Wise",
+      "rating": 1442.15,
+      "rd": 22.68,
+      "ratingClass": "C",
+      "homeLocation": "Abari Game Bar",
+      "homeLocationId": "11003",
+      "percentile": 24.428192108818187,
+      "changeDisplay": "+3.4",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m19926",
+      "name": "Sarah Gathings",
+      "rating": 1441.53,
+      "rd": 24.26,
+      "ratingClass": "C",
+      "homeLocation": "Abari Game Bar",
+      "homeLocationId": "11003",
+      "percentile": 24.232542972935203,
+      "changeDisplay": "+0.7",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "i139597",
+      "name": "Luno Blanco",
+      "rating": 1420.72,
+      "rd": 26.67,
+      "ratingClass": "C",
+      "homeLocation": "Abari Game Bar",
+      "homeLocationId": "11003",
+      "percentile": 17.845996180183537,
+      "changeDisplay": "+22.0",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m58834",
+      "name": "Noa Coben",
+      "rating": 1380.3,
+      "rd": 22.93,
+      "ratingClass": "D",
+      "homeLocation": "Abari Game Bar",
+      "homeLocationId": "11003",
+      "percentile": 8.361671402617972,
+      "changeDisplay": "+15.6",
+      "changeClass": "change-positive"
+    }
+  ]
+}

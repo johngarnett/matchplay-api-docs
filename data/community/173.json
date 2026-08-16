@@ -1,0 +1,52 @@
+{
+  "communityId": "173",
+  "playerCount": 3,
+  "ratingsDate": "2026-08-12",
+  "relatedCommunities": [],
+  "topVenues": [
+    {
+      "locationId": "12273",
+      "name": "BB's Amusements - Flashbax Arcade",
+      "address": "4130 Arendell Street, Morehead City, NC 28557, US",
+      "count": 4
+    }
+  ],
+  "players": [
+    {
+      "id": "i111699",
+      "name": "Evan Otto",
+      "rating": 1675.4,
+      "rd": 36.92,
+      "ratingClass": "A",
+      "homeLocation": "BB's Amusements - Flashbax Arcade",
+      "homeLocationId": "12273",
+      "percentile": 94.63362370149532,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i36375",
+      "name": "David Luttrell",
+      "rating": 1530.33,
+      "rd": 51.6,
+      "ratingClass": "B",
+      "homeLocation": "BB's Amusements - Flashbax Arcade",
+      "homeLocationId": "12273",
+      "percentile": 59.179205291843296,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i39416",
+      "name": "Alicia Luttrell",
+      "rating": 1346.86,
+      "rd": 64.94,
+      "ratingClass": "D",
+      "homeLocation": "BB's Amusements - Flashbax Arcade",
+      "homeLocationId": "12273",
+      "percentile": 3.9036660921414263,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

@@ -1,0 +1,455 @@
+{
+  "locationId": "13495",
+  "name": "Maltese Brewery",
+  "address": "11800 Main Street Bld 3 Fredericksburg, Va",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 32,
+  "relatedVenues": [
+    {
+      "locationId": "4194",
+      "name": "Maltese Brewing",
+      "address": "11800 Main St. Building #3, Fredericksburg VA 22408",
+      "count": 164
+    },
+    {
+      "locationId": "12832",
+      "name": "Reclaim Arcade",
+      "address": "2324 Plank Road, Fredericksburg, VA 22401, US",
+      "count": 104
+    },
+    {
+      "locationId": "9292",
+      "name": "Maltese Brewing Company",
+      "address": "11047 Pierson Dr, VA 22408",
+      "count": 34
+    },
+    {
+      "locationId": "7953",
+      "name": "Richmond Pinball Collective",
+      "address": "9550 Midlothian Turnpike, Unit 112, Midlothian, VA 23235, US",
+      "count": 23
+    },
+    {
+      "locationId": "11175",
+      "name": "Decades Arcade",
+      "address": "418 E Main St, Charlottesville, VA, 22902, US",
+      "count": 6
+    },
+    {
+      "locationId": "11970",
+      "name": "Richmond Pinball Collective",
+      "address": "9550 Midlothian Tpke #106, Richmond, VA 23235",
+      "count": 6
+    },
+    {
+      "locationId": "13314",
+      "name": "Center of the Universe Brewing Company",
+      "address": "11293 Air Park Road, Ashland, VA 23005, US",
+      "count": 6
+    },
+    {
+      "locationId": "6661",
+      "name": "Ocelot Brewing Company",
+      "address": "23600 Overland Drive, Sterling, VA 20166, US",
+      "count": 5
+    },
+    {
+      "locationId": "7053",
+      "name": "CarPool",
+      "address": "900 North Glebe Road, Arlington, VA 22203, US",
+      "count": 3
+    },
+    {
+      "locationId": "8931",
+      "name": "Wax Moon",
+      "address": "1310 Altamont Avenue, Richmond, VA 23230, US",
+      "count": 2
+    }
+  ],
+  "players": [
+    {
+      "id": "m380",
+      "name": "Dale Geiger",
+      "rating": 1697.31,
+      "rd": 20.96,
+      "ratingClass": "A",
+      "homeLocation": "Maltese Brewing",
+      "homeLocationId": "4194",
+      "percentile": 96.42707411375599,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m2615",
+      "name": "Malik Berger",
+      "rating": 1690.37,
+      "rd": 19.92,
+      "ratingClass": "A",
+      "homeLocation": "Maltese Brewery",
+      "homeLocationId": "13495",
+      "percentile": 95.94726789956678,
+      "changeDisplay": "+6.5",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m18776",
+      "name": "Matt Larsen",
+      "rating": 1677.95,
+      "rd": 19.43,
+      "ratingClass": "A",
+      "homeLocation": "Maltese Brewing",
+      "homeLocationId": "4194",
+      "percentile": 94.92243909256068,
+      "changeDisplay": "-1.4",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m13042",
+      "name": "James Allen",
+      "rating": 1666.65,
+      "rd": 22.97,
+      "ratingClass": "A",
+      "homeLocation": "Maltese Brewery",
+      "homeLocationId": "13495",
+      "percentile": 93.79978571761308,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m30212",
+      "name": "Lance Keylon",
+      "rating": 1663.15,
+      "rd": 19.92,
+      "ratingClass": "A",
+      "homeLocation": "Maltese Brewing",
+      "homeLocationId": "4194",
+      "percentile": 93.39451250756976,
+      "changeDisplay": "+2.6",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m33285",
+      "name": "Lauren Cooley",
+      "rating": 1648.8,
+      "rd": 18.31,
+      "ratingClass": "A",
+      "homeLocation": "Maltese Brewing",
+      "homeLocationId": "4194",
+      "percentile": 91.57311221875437,
+      "changeDisplay": "+0.0",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m41965",
+      "name": "James Matarrese",
+      "rating": 1647.82,
+      "rd": 20.5,
+      "ratingClass": "A",
+      "homeLocation": "Maltese Brewing",
+      "homeLocationId": "4194",
+      "percentile": 91.41472958494433,
+      "changeDisplay": "+8.1",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m4825",
+      "name": "Bayless Rutherford",
+      "rating": 1602.41,
+      "rd": 23.52,
+      "ratingClass": "A",
+      "homeLocation": "Maltese Brewing",
+      "homeLocationId": "4194",
+      "percentile": 82.5918852191736,
+      "changeDisplay": "-1.6",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m17104",
+      "name": "Francis Cooke",
+      "rating": 1595.22,
+      "rd": 21.13,
+      "ratingClass": "B",
+      "homeLocation": "Maltese Brewing",
+      "homeLocationId": "4194",
+      "percentile": 80.82172637070852,
+      "changeDisplay": "-0.3",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m17067",
+      "name": "Tim Owens",
+      "rating": 1579.62,
+      "rd": 23.5,
+      "ratingClass": "B",
+      "homeLocation": "Maltese Brewing",
+      "homeLocationId": "4194",
+      "percentile": 76.48949550472818,
+      "changeDisplay": "-4.2",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m12962",
+      "name": "Phil Irey",
+      "rating": 1540.04,
+      "rd": 20.38,
+      "ratingClass": "B",
+      "homeLocation": "Maltese Brewing",
+      "homeLocationId": "4194",
+      "percentile": 63.12013788605767,
+      "changeDisplay": "-1.8",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m29752",
+      "name": "Neil Jablonski",
+      "rating": 1538.91,
+      "rd": 21.66,
+      "ratingClass": "B",
+      "homeLocation": "Maltese Brewing",
+      "homeLocationId": "4194",
+      "percentile": 62.66828154842317,
+      "changeDisplay": "-0.2",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m8732",
+      "name": "Cameron Talbott",
+      "rating": 1530.8,
+      "rd": 28.09,
+      "ratingClass": "B",
+      "homeLocation": "Maltese Brewery",
+      "homeLocationId": "13495",
+      "percentile": 59.36553780220804,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m29734",
+      "name": "Mark Migliaccio",
+      "rating": 1519.54,
+      "rd": 25.16,
+      "ratingClass": "B",
+      "homeLocation": "Maltese Brewery",
+      "homeLocationId": "13495",
+      "percentile": 55.0333069362277,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m24191",
+      "name": "Kate Hernandez",
+      "rating": 1508.95,
+      "rd": 24.64,
+      "ratingClass": "B",
+      "homeLocation": "Maltese Brewery",
+      "homeLocationId": "13495",
+      "percentile": 50.79890063818885,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m22948",
+      "name": "Jena Heddings",
+      "rating": 1493.83,
+      "rd": 22.56,
+      "ratingClass": "C",
+      "homeLocation": "Reclaim Arcade",
+      "homeLocationId": "12832",
+      "percentile": 44.66390273442959,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m8731",
+      "name": "Ashley Talbott",
+      "rating": 1490.13,
+      "rd": 21.47,
+      "ratingClass": "C",
+      "homeLocation": "Reclaim Arcade",
+      "homeLocationId": "12832",
+      "percentile": 43.08007639632925,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m52877",
+      "name": "Jacob Traunero",
+      "rating": 1475.56,
+      "rd": 24.65,
+      "ratingClass": "C",
+      "homeLocation": "Maltese Brewing",
+      "homeLocationId": "4194",
+      "percentile": 37.08948618810267,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m28600",
+      "name": "Allison Hull",
+      "rating": 1474.22,
+      "rd": 22.01,
+      "ratingClass": "C",
+      "homeLocation": "Reclaim Arcade",
+      "homeLocationId": "12832",
+      "percentile": 36.60036334839521,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m17057",
+      "name": "Selma Al-Salam",
+      "rating": 1473.14,
+      "rd": 22.21,
+      "ratingClass": "C",
+      "homeLocation": "Maltese Brewery",
+      "homeLocationId": "13495",
+      "percentile": 36.19509013835189,
+      "changeDisplay": "+1.0",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m47077",
+      "name": "Jacob Sherman",
+      "rating": 1472.44,
+      "rd": 34.04,
+      "ratingClass": "C",
+      "homeLocation": "Maltese Brewery",
+      "homeLocationId": "13495",
+      "percentile": 35.85037499417711,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m32517",
+      "name": "Drea Keppler",
+      "rating": 1470.18,
+      "rd": 22.85,
+      "ratingClass": "C",
+      "homeLocation": "Richmond Pinball Collective",
+      "homeLocationId": "7953",
+      "percentile": 34.94200400614898,
+      "changeDisplay": "+4.4",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m29729",
+      "name": "Ally Welsh",
+      "rating": 1446.66,
+      "rd": 22.38,
+      "ratingClass": "C",
+      "homeLocation": "Reclaim Arcade",
+      "homeLocationId": "12832",
+      "percentile": 26.03996832347324,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m41715",
+      "name": "Dana McFarren",
+      "rating": 1437.95,
+      "rd": 25.64,
+      "ratingClass": "C",
+      "homeLocation": "Maltese Brewery",
+      "homeLocationId": "13495",
+      "percentile": 23.035356593841712,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m55992",
+      "name": "Amber Traunero",
+      "rating": 1433.23,
+      "rd": 24.8,
+      "ratingClass": "C",
+      "homeLocation": "Maltese Brewing",
+      "homeLocationId": "4194",
+      "percentile": 21.544696510923742,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m40304",
+      "name": "Aaron Purnell",
+      "rating": 1432.31,
+      "rd": 27.74,
+      "ratingClass": "C",
+      "homeLocation": "Maltese Brewing",
+      "homeLocationId": "4194",
+      "percentile": 21.30712256020869,
+      "changeDisplay": "-5.6",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "i119523",
+      "name": "Margaret Fuchs",
+      "rating": 1430.09,
+      "rd": 24.05,
+      "ratingClass": "C",
+      "homeLocation": "Reclaim Arcade",
+      "homeLocationId": "12832",
+      "percentile": 20.608375646340896,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m36700",
+      "name": "Shauna Hendricks",
+      "rating": 1414.17,
+      "rd": 25.29,
+      "ratingClass": "C",
+      "homeLocation": "Reclaim Arcade",
+      "homeLocationId": "12832",
+      "percentile": 16.201611776214655,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m25222",
+      "name": "Angie Cooke",
+      "rating": 1397.44,
+      "rd": 22.38,
+      "ratingClass": "D",
+      "homeLocation": "Maltese Brewing",
+      "homeLocationId": "4194",
+      "percentile": 11.869380910234312,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m36818",
+      "name": "Chris Meyer",
+      "rating": 1351.39,
+      "rd": 39.53,
+      "ratingClass": "D",
+      "homeLocation": "Maltese Brewery",
+      "homeLocationId": "13495",
+      "percentile": 4.40676387012624,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m51149",
+      "name": "Melissa Hennessey",
+      "rating": 1345.24,
+      "rd": 28.27,
+      "ratingClass": "D",
+      "homeLocation": "Maltese Brewery",
+      "homeLocationId": "13495",
+      "percentile": 3.7219918945357993,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i90935",
+      "name": "Liz jones",
+      "rating": 1329.92,
+      "rd": 24.6,
+      "ratingClass": "D",
+      "homeLocation": "Maltese Brewing",
+      "homeLocationId": "4194",
+      "percentile": 2.468905762332883,
+      "changeDisplay": "+0.3",
+      "changeClass": "change-positive"
+    }
+  ]
+}

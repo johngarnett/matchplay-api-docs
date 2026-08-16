@@ -1,0 +1,67 @@
+{
+  "tournamentId": 264231,
+  "name": "Finals for Carpool Pinball League - A Division - Summer 2026",
+  "date": "2026-08-04",
+  "locationId": "7053",
+  "locationName": "CarPool",
+  "playerCount": 8,
+  "ratingsDate": "2026-08-04",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m29462",
+      "name": "Tony Rollins",
+      "rating": 1681.81,
+      "dailyRatingChange": 4.45
+    },
+    {
+      "position": 2,
+      "playerId": "m39280",
+      "name": "Josh Murphy",
+      "rating": 1745.4,
+      "dailyRatingChange": 6.31
+    },
+    {
+      "position": 3,
+      "playerId": "m1157",
+      "name": "Kevin Stone",
+      "rating": 1720.6,
+      "dailyRatingChange": 0.83
+    },
+    {
+      "position": 4,
+      "playerId": "m39284",
+      "name": "Ryan Lugo",
+      "rating": 1662.83,
+      "dailyRatingChange": 2.45
+    },
+    {
+      "position": 5,
+      "playerId": "m4439",
+      "name": "Daniel Reynolds",
+      "rating": 1747.73,
+      "dailyRatingChange": -3.09
+    },
+    {
+      "position": 6,
+      "playerId": "m3146",
+      "name": "Stephanie Traub",
+      "rating": 1683.83,
+      "dailyRatingChange": -1.16
+    },
+    {
+      "position": 7,
+      "playerId": "m9800",
+      "name": "Paul Dreyer",
+      "rating": 1552.8,
+      "dailyRatingChange": -5.74
+    },
+    {
+      "position": 7,
+      "playerId": "m29919",
+      "name": "Andrew Genduso",
+      "rating": 1537.9,
+      "dailyRatingChange": -5.94
+    }
+  ]
+}

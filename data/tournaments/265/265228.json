@@ -1,0 +1,95 @@
+{
+  "tournamentId": 265228,
+  "name": "Still drunk sunday",
+  "date": "2026-08-03",
+  "locationId": "9576",
+  "locationName": "The Kraken Bar & Lounge",
+  "playerCount": 12,
+  "ratingsDate": "2026-08-03",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m28825",
+      "name": "Ben Fodor",
+      "rating": 1533.23,
+      "dailyRatingChange": 5.19
+    },
+    {
+      "position": 2,
+      "playerId": "m14086",
+      "name": "Melanie Meyer WA",
+      "rating": 1535.96,
+      "dailyRatingChange": 2.29
+    },
+    {
+      "position": 3,
+      "playerId": "m33370",
+      "name": "Sarah Munden",
+      "rating": 1472.4,
+      "dailyRatingChange": 7
+    },
+    {
+      "position": 4,
+      "playerId": "m38503",
+      "name": "Hayden McCabe",
+      "rating": 1562.32,
+      "dailyRatingChange": 0.31
+    },
+    {
+      "position": 5,
+      "playerId": "m17637",
+      "name": "Elliott Johnson",
+      "rating": 1566.77,
+      "dailyRatingChange": 5.37
+    },
+    {
+      "position": 5,
+      "playerId": "m584215",
+      "name": "Tamm",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 7,
+      "playerId": "m18234",
+      "name": "Katja Rodgers",
+      "rating": 1532.09,
+      "dailyRatingChange": 11.83
+    },
+    {
+      "position": 7,
+      "playerId": "m23211",
+      "name": "Misha Alexeeff",
+      "rating": 1575.08,
+      "dailyRatingChange": 3
+    },
+    {
+      "position": 9,
+      "playerId": "m12768",
+      "name": "Guadalupe Bryan",
+      "rating": 1563.34,
+      "dailyRatingChange": 0.54
+    },
+    {
+      "position": 9,
+      "playerId": "m26552",
+      "name": "Chaz Simmons",
+      "rating": 1426.89,
+      "dailyRatingChange": -0.31
+    },
+    {
+      "position": 9,
+      "playerId": "m32272",
+      "name": "Hunter Vogt",
+      "rating": 1512.82,
+      "dailyRatingChange": -10.73
+    },
+    {
+      "position": 12,
+      "playerId": "m548063",
+      "name": "Isabelle Taylor",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

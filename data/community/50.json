@@ -1,0 +1,52 @@
+{
+  "communityId": "50",
+  "playerCount": 3,
+  "ratingsDate": "2026-08-12",
+  "relatedCommunities": [],
+  "topVenues": [
+    {
+      "locationId": "3988",
+      "name": "Woopi FreeBallers",
+      "address": "",
+      "count": 3
+    }
+  ],
+  "players": [
+    {
+      "id": "m13158",
+      "name": "Glen Eggins",
+      "rating": 1585,
+      "rd": 55.21,
+      "ratingClass": "B",
+      "homeLocation": "Woopi FreeBallers",
+      "homeLocationId": "3988",
+      "percentile": 78.04537196627382,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m12268",
+      "name": "Neil Ferguson",
+      "rating": 1578.74,
+      "rd": 63.99,
+      "ratingClass": "B",
+      "homeLocation": "Woopi FreeBallers",
+      "homeLocationId": "3988",
+      "percentile": 76.2658964922905,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m11762",
+      "name": "Garry Freeballer",
+      "rating": 1544.21,
+      "rd": 63.73,
+      "ratingClass": "B",
+      "homeLocation": "Woopi FreeBallers",
+      "homeLocationId": "3988",
+      "percentile": 64.67135603484418,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

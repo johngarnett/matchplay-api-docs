@@ -1,0 +1,67 @@
+{
+  "tournamentId": 264537,
+  "name": "Wednesday Night Final",
+  "date": "2026-07-30",
+  "locationId": "13075",
+  "locationName": "Tap Tap | Double Tap Beercade",
+  "playerCount": 8,
+  "ratingsDate": "2026-07-30",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m12080",
+      "name": "Patrick Rhomberg",
+      "rating": 1737.5,
+      "dailyRatingChange": 2.17
+    },
+    {
+      "position": 2,
+      "playerId": "m47200",
+      "name": "Ryan Jerred",
+      "rating": 1560.47,
+      "dailyRatingChange": 21.21
+    },
+    {
+      "position": 3,
+      "playerId": "m56418",
+      "name": "Todd A. Miller",
+      "rating": 1618.02,
+      "dailyRatingChange": 9.36
+    },
+    {
+      "position": 4,
+      "playerId": "m48319",
+      "name": "Jamie Neuwerth",
+      "rating": 1588.74,
+      "dailyRatingChange": 7.68
+    },
+    {
+      "position": 5,
+      "playerId": "m35778",
+      "name": "Seth Van Wert",
+      "rating": 1614.75,
+      "dailyRatingChange": 2.39
+    },
+    {
+      "position": 6,
+      "playerId": "i110183",
+      "name": "Ryan Holtkamp",
+      "rating": 1535.3,
+      "dailyRatingChange": 2.3
+    },
+    {
+      "position": 7,
+      "playerId": "i118004",
+      "name": "Josh Ramos",
+      "rating": 1479.75,
+      "dailyRatingChange": 0.83
+    },
+    {
+      "position": 8,
+      "playerId": "i118002",
+      "name": "Ken Yeggy",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

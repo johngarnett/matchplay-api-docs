@@ -1,0 +1,67 @@
+{
+  "tournamentId": 266154,
+  "name": "tf pro finals",
+  "date": "2026-08-09",
+  "locationId": "9019",
+  "locationName": "Rock Fantasy",
+  "playerCount": 8,
+  "ratingsDate": "2026-08-09",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m20125",
+      "name": "Alan Skvorecz",
+      "rating": 1577.39,
+      "dailyRatingChange": 12.25
+    },
+    {
+      "position": 2,
+      "playerId": "m14116",
+      "name": "Douglas Salamon",
+      "rating": 1672.51,
+      "dailyRatingChange": 3.52
+    },
+    {
+      "position": 3,
+      "playerId": "m10829",
+      "name": "Robert Salamon",
+      "rating": 1598.62,
+      "dailyRatingChange": 0.77
+    },
+    {
+      "position": 4,
+      "playerId": "m32855",
+      "name": "Kate Smith NY",
+      "rating": 1595.8,
+      "dailyRatingChange": -1.2
+    },
+    {
+      "position": 5,
+      "playerId": "m227",
+      "name": "Bryon Estes",
+      "rating": 1577.93,
+      "dailyRatingChange": -0.57
+    },
+    {
+      "position": 5,
+      "playerId": "m220",
+      "name": "JT Harrison",
+      "rating": 1590.42,
+      "dailyRatingChange": -0.8
+    },
+    {
+      "position": 7,
+      "playerId": "i103246",
+      "name": "Amalia Truglio",
+      "rating": 1517.35,
+      "dailyRatingChange": -4.19
+    },
+    {
+      "position": 7,
+      "playerId": "m23157",
+      "name": "Daniel Brennan",
+      "rating": 1708.84,
+      "dailyRatingChange": -7.01
+    }
+  ]
+}

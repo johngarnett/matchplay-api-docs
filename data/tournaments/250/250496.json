@@ -1,0 +1,109 @@
+{
+  "tournamentId": 250496,
+  "name": "Fair-Strike Knockout at Pinball Planet",
+  "date": "2026-07-31",
+  "locationId": "10180",
+  "locationName": "Pinball Planet",
+  "playerCount": 14,
+  "ratingsDate": "2026-07-31",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m28944",
+      "name": "Paul Ellis",
+      "rating": 1653.4,
+      "dailyRatingChange": 9.97
+    },
+    {
+      "position": 2,
+      "playerId": "m43456",
+      "name": "Brianna Weber",
+      "rating": 1576.95,
+      "dailyRatingChange": 6.76
+    },
+    {
+      "position": 3,
+      "playerId": "m5410",
+      "name": "Chris Weber",
+      "rating": 1592.85,
+      "dailyRatingChange": 0.4
+    },
+    {
+      "position": 4,
+      "playerId": "m24574",
+      "name": "Michael London",
+      "rating": 1547.82,
+      "dailyRatingChange": 25.23
+    },
+    {
+      "position": 4,
+      "playerId": "m39602",
+      "name": "Nolan Liem",
+      "rating": 1686.47,
+      "dailyRatingChange": -0.5
+    },
+    {
+      "position": 6,
+      "playerId": "m18069",
+      "name": "Richard Rulong",
+      "rating": 1572.25,
+      "dailyRatingChange": 2.28
+    },
+    {
+      "position": 7,
+      "playerId": "m26263",
+      "name": "Krista Liem",
+      "rating": 1587.55,
+      "dailyRatingChange": -0.84
+    },
+    {
+      "position": 7,
+      "playerId": "m55203",
+      "name": "Erik Abols",
+      "rating": 1551.95,
+      "dailyRatingChange": 1.45
+    },
+    {
+      "position": 9,
+      "playerId": "m33506",
+      "name": "Mike Winzinek",
+      "rating": 1662.82,
+      "dailyRatingChange": -13.01
+    },
+    {
+      "position": 9,
+      "playerId": "m9669",
+      "name": "Brent Reed",
+      "rating": 1608.81,
+      "dailyRatingChange": -4.03
+    },
+    {
+      "position": 9,
+      "playerId": "m26586",
+      "name": "Mark Houghton",
+      "rating": 1538.25,
+      "dailyRatingChange": -0.69
+    },
+    {
+      "position": 12,
+      "playerId": "m54707",
+      "name": "Alex Koler",
+      "rating": 1522.89,
+      "dailyRatingChange": -6.95
+    },
+    {
+      "position": 12,
+      "playerId": "m50471",
+      "name": "Kaitlyn Shoman",
+      "rating": 1524.42,
+      "dailyRatingChange": -2.99
+    },
+    {
+      "position": 14,
+      "playerId": "m27715",
+      "name": "Danette Naftanel",
+      "rating": 1420.72,
+      "dailyRatingChange": -5.17
+    }
+  ]
+}

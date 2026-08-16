@@ -1,0 +1,77 @@
+{
+  "locationId": "10367",
+  "name": "The Waiting Room",
+  "address": "10419 St Charles Rock Road, St Ann MO 63074",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 4,
+  "relatedVenues": [
+    {
+      "locationId": "6583",
+      "name": "Murphy's on 21",
+      "address": "13226 Tesson Ferry Rd, St. Louis, MO 63128, USA",
+      "count": 26
+    },
+    {
+      "locationId": "265",
+      "name": "The Silver Ballroom",
+      "address": "4701 Morganford Rd, St. Louis, MO 63116, USA",
+      "count": 1
+    },
+    {
+      "locationId": "13545",
+      "name": "Lane 25 at West County Lanes",
+      "address": "15727 Manchester Rd. Ellisville, MO 63011",
+      "count": 1
+    }
+  ],
+  "players": [
+    {
+      "id": "m34129",
+      "name": "Julie Glenn",
+      "rating": 1544.8,
+      "rd": 23.16,
+      "ratingClass": "B",
+      "homeLocation": "Murphy's on 21",
+      "homeLocationId": "6583",
+      "percentile": 64.88098010900451,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m23220",
+      "name": "Cori Lyons",
+      "rating": 1494.46,
+      "rd": 26.54,
+      "ratingClass": "C",
+      "homeLocation": "Murphy's on 21",
+      "homeLocationId": "6583",
+      "percentile": 44.88284343410817,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m24988",
+      "name": "Jennifer Howell",
+      "rating": 1469.7,
+      "rd": 62.1,
+      "ratingClass": "C",
+      "homeLocation": "The Waiting Room",
+      "homeLocationId": "10367",
+      "percentile": 34.769646434061585,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m49686",
+      "name": "Kate Logan",
+      "rating": 1356.01,
+      "rd": 28.61,
+      "ratingClass": "D",
+      "homeLocation": "Murphy's on 21",
+      "homeLocationId": "6583",
+      "percentile": 4.933153211906648,
+      "changeDisplay": "-9.3",
+      "changeClass": "change-negative"
+    }
+  ]
+}

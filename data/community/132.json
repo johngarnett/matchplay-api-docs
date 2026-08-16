@@ -1,0 +1,40 @@
+{
+  "communityId": "132",
+  "playerCount": 2,
+  "ratingsDate": "2026-08-12",
+  "relatedCommunities": [],
+  "topVenues": [
+    {
+      "locationId": "12123",
+      "name": "Haskvana Pinball",
+      "address": "",
+      "count": 3
+    }
+  ],
+  "players": [
+    {
+      "id": "m39771",
+      "name": "Steven Haskell",
+      "rating": 1550.98,
+      "rd": 55.47,
+      "ratingClass": "B",
+      "homeLocation": "Haskvana Pinball",
+      "homeLocationId": "12123",
+      "percentile": 67.05641216751292,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i137972",
+      "name": "Luca Haskell",
+      "rating": 1369.34,
+      "rd": 61.16,
+      "ratingClass": "D",
+      "homeLocation": "Haskvana Pinball",
+      "homeLocationId": "12123",
+      "percentile": 6.614804117948479,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "tournamentId": 266677,
+  "name": "2026 Tournament #13",
+  "date": "2026-08-12",
+  "locationId": "8686",
+  "locationName": "Santa Ana River Brewing",
+  "playerCount": 11,
+  "ratingsDate": "2026-08-12",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m301833",
+      "name": "Geoff",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 1,
+      "playerId": "m312412",
+      "name": "Josh Balon",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 3,
+      "playerId": "m466329",
+      "name": "Marcos G",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 4,
+      "playerId": "m586523",
+      "name": "Lawrence L.",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 5,
+      "playerId": "m320178",
+      "name": "Damon",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 6,
+      "playerId": "i62807",
+      "name": "Mike Deyo",
+      "rating": 1528.17,
+      "dailyRatingChange": -0.25
+    },
+    {
+      "position": 6,
+      "playerId": "m509120",
+      "name": "Gabe R",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 8,
+      "playerId": "m513296",
+      "name": "Esme M",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 9,
+      "playerId": "i48845",
+      "name": "Bob Brown",
+      "rating": 1579.32,
+      "dailyRatingChange": -18.54
+    },
+    {
+      "position": 9,
+      "playerId": "m561889",
+      "name": "Reagan F",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 11,
+      "playerId": "m504219",
+      "name": "Gio C",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "tournamentId": 265397,
+  "name": "Finals for Brewhalla Matchplay 8/3/26 (clone)",
+  "date": "2026-08-04",
+  "locationId": "9352",
+  "locationName": "Brewhalla",
+  "playerCount": 4,
+  "ratingsDate": "2026-08-04",
+  "standings": [
+    {
+      "position": 3,
+      "playerId": "m29376",
+      "name": "Andrew Huxley",
+      "rating": 1639.58,
+      "dailyRatingChange": 1.43
+    },
+    {
+      "position": 3,
+      "playerId": "m6843",
+      "name": "Tim Fiechtner",
+      "rating": 1659.07,
+      "dailyRatingChange": -2.11
+    },
+    {
+      "position": 5,
+      "playerId": "m6492",
+      "name": "Mike Moberg",
+      "rating": 1597.42,
+      "dailyRatingChange": 3.17
+    },
+    {
+      "position": 5,
+      "playerId": "m39089",
+      "name": "Jeremy Heinert",
+      "rating": 1627.4,
+      "dailyRatingChange": -14.16
+    }
+  ]
+}

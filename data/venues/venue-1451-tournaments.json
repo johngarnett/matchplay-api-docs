@@ -1,0 +1,221 @@
+{
+  "locationId": "1451",
+  "venueName": "Wizard's World",
+  "venueAddress": "14613 Lima Rd, Fort Wayne, IN 46818, USA",
+  "tournaments": [
+    {
+      "id": 266473,
+      "name": "Finals for Stern Army Fort Wayne Pinball Wizard's World Weekly Aug 10, 2026",
+      "date": "8/10/2026",
+      "playerCount": 8,
+      "qualifying": {
+        "id": 266347,
+        "name": "Stern Army Fort Wayne Pinball Wizard's World Weekly Aug 10, 2026",
+        "playerCount": 41
+      },
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m54838",
+          "name": "Andrew Carey IN",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m23372",
+          "name": "Austin Deventer",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m13190",
+          "name": "Matt Winteregg",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m17652",
+          "name": "Kurt Swank",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 265341,
+      "name": "Finals for Stern Army Fort Wayne Pinball Wizard's World Weekly Aug 3, 2026",
+      "date": "8/3/2026",
+      "playerCount": 8,
+      "qualifying": {
+        "id": 265279,
+        "name": "Stern Army Fort Wayne Pinball Wizard's World Weekly Aug 3, 2026",
+        "playerCount": 41
+      },
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m30541",
+          "name": "Isaac Fingerle",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m14051",
+          "name": "Ryan Quinn",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m30690",
+          "name": "Caleb Anderson",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m29449",
+          "name": "David Marcaurele",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 264164,
+      "name": "Finals for Stern Army Fort Wayne Pinball Wizard's World Weekly July 27, 2026",
+      "date": "7/27/2026",
+      "playerCount": 8,
+      "qualifying": {
+        "id": 264040,
+        "name": "Stern Army Fort Wayne Pinball Wizard's World Weekly July 27, 2026",
+        "playerCount": 42
+      },
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m23372",
+          "name": "Austin Deventer",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m39480",
+          "name": "Kasey Jarvis",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m10906",
+          "name": "Andy Dill",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m7341",
+          "name": "Mattison Ogden",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 263035,
+      "name": "Finals for Stern Army Fort Wayne Pinball Wizard's World Weekly July 20, 2026",
+      "date": "7/20/2026",
+      "playerCount": 8,
+      "qualifying": {
+        "id": 262191,
+        "name": "Stern Army Fort Wayne Pinball Wizard's World Weekly July 20, 2026",
+        "playerCount": 49
+      },
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m39480",
+          "name": "Kasey Jarvis",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m23372",
+          "name": "Austin Deventer",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m23371",
+          "name": "Sydnee Deventer",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m22683",
+          "name": "Chris Friend",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 262832,
+      "name": "Stern Army All Modern Stern Fort Wayne Pinball Wizard's World July 19, 2026",
+      "date": "7/19/2026",
+      "playerCount": 9,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m29645",
+          "name": "Clem Fingerle",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m6235",
+          "name": "Mark Moore IN",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m15930",
+          "name": "Molly Oury",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m30541",
+          "name": "Isaac Fingerle",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 253124,
+      "name": "YOUTH Wizard's World Youth Tournament July 18, 2026",
+      "date": "7/18/2026",
+      "playerCount": 4,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "p339463",
+          "name": "Avery Sloboda",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "i97823",
+          "name": "Silas Riggle",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "i99973",
+          "name": "Riot Riggle",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "p579640",
+          "name": "Reed Castillo Mock",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

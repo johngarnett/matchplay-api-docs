@@ -1,0 +1,116 @@
+{
+  "tournamentId": 263237,
+  "name": "Pokemon Launch Party-GSO Pinball Museum",
+  "date": "2026-07-23",
+  "locationId": "13474",
+  "locationName": "Greensboro Pinball Museum",
+  "playerCount": 15,
+  "ratingsDate": "2026-07-23",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m28956",
+      "name": "Phillip Davis",
+      "rating": 1653.98,
+      "dailyRatingChange": 7.72
+    },
+    {
+      "position": 2,
+      "playerId": "m8888",
+      "name": "Jeremy Weaver",
+      "rating": 1728.02,
+      "dailyRatingChange": 4.08
+    },
+    {
+      "position": 2,
+      "playerId": "m5322",
+      "name": "Tim McCool",
+      "rating": 1824.92,
+      "dailyRatingChange": 3.96
+    },
+    {
+      "position": 4,
+      "playerId": "m60001",
+      "name": "Jeremy Hakes",
+      "rating": 1644.88,
+      "dailyRatingChange": 5.64
+    },
+    {
+      "position": 5,
+      "playerId": "m564270",
+      "name": "Scott Berry",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 6,
+      "playerId": "m324506",
+      "name": "Darius Alston",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 7,
+      "playerId": "m30520",
+      "name": "Stephen Kulin",
+      "rating": 1597.1,
+      "dailyRatingChange": -1.57
+    },
+    {
+      "position": 8,
+      "playerId": "m33071",
+      "name": "Tracey Murray",
+      "rating": 1452.14,
+      "dailyRatingChange": 3.49
+    },
+    {
+      "position": 9,
+      "playerId": "m30437",
+      "name": "Andi Carly",
+      "rating": 1400.8,
+      "dailyRatingChange": 2.94
+    },
+    {
+      "position": 9,
+      "playerId": "m61280",
+      "name": "Howard Bowker",
+      "rating": 1355.44,
+      "dailyRatingChange": 10.67
+    },
+    {
+      "position": 11,
+      "playerId": "m61285",
+      "name": "Chris Icenhour",
+      "rating": 1488.42,
+      "dailyRatingChange": -9.76
+    },
+    {
+      "position": 12,
+      "playerId": "m580840",
+      "name": "Lane Young",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 13,
+      "playerId": "m25874",
+      "name": "Farmers Only",
+      "rating": 1544.76,
+      "dailyRatingChange": -12.76
+    },
+    {
+      "position": 14,
+      "playerId": "m35318",
+      "name": "Donnie Springs",
+      "rating": 1339.08,
+      "dailyRatingChange": -15.1
+    },
+    {
+      "position": 15,
+      "playerId": "m61854",
+      "name": "Amanda Vernon",
+      "rating": 1339.11,
+      "dailyRatingChange": -30.92
+    }
+  ]
+}

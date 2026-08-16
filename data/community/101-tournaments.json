@@ -1,0 +1,128 @@
+{
+  "communityId": "101",
+  "locations": [
+    {
+      "id": "11276",
+      "name": "Bayou Teche Brewing",
+      "address": "1002 Noth Lane, Arnaudville, LA 70512, US",
+      "tournaments": [
+        {
+          "id": 266447,
+          "name": "Acadiana Pinball League - Season 1 - Round 5",
+          "date": "8/11/2026",
+          "playerCount": 9,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m24680",
+              "name": "Bennett Dungan",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "p454798",
+              "name": "coyo showz",
+              "isCommunityMember": false
+            },
+            {
+              "position": 2,
+              "playerId": "m48531",
+              "name": "Michael Burrow",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m20175",
+              "name": "Cedric Broussard",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m48527",
+              "name": "Shane Fontenot",
+              "isCommunityMember": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "12079",
+      "name": "BR.cade",
+      "address": "2963 Government Street, Baton Rouge, LA 70806, US",
+      "tournaments": [
+        {
+          "id": 262483,
+          "name": "BR.cade Pinball League - Round 4 #5",
+          "date": "8/13/2026",
+          "playerCount": 15,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "i144696",
+              "name": "Casey Wells",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m56451",
+              "name": "Josh M.",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "i147863",
+              "name": "Robert Ross",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m42780",
+              "name": "Joseph Felps",
+              "isCommunityMember": true
+            }
+          ]
+        },
+        {
+          "id": 266290,
+          "name": "Finals for BR.cade Monthly - August 2026",
+          "date": "8/9/2026",
+          "playerCount": 8,
+          "qualifying": {
+            "id": 266250,
+            "name": "BR.cade Monthly - August 2026",
+            "playerCount": 18
+          },
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m42780",
+              "name": "Joseph Felps",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m11598",
+              "name": "Rob Burnside",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m56343",
+              "name": "Eric Borowski",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m53806",
+              "name": "CG Gerdes",
+              "isCommunityMember": true
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

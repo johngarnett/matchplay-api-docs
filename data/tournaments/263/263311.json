@@ -1,0 +1,249 @@
+{
+  "tournamentId": 263311,
+  "name": "Second Saturday @ APC - August 2026",
+  "date": "2026-08-08",
+  "locationId": "11561",
+  "locationName": "Austin Pinball Collective",
+  "playerCount": 34,
+  "ratingsDate": "2026-08-08",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m2804",
+      "name": "Jonathon Morales",
+      "rating": 1686.31,
+      "dailyRatingChange": 5.75
+    },
+    {
+      "position": 2,
+      "playerId": "m8000",
+      "name": "Robert Byers",
+      "rating": 1721.49,
+      "dailyRatingChange": 2.16
+    },
+    {
+      "position": 3,
+      "playerId": "m486",
+      "name": "Brad Holliday",
+      "rating": 1685.97,
+      "dailyRatingChange": 18.22
+    },
+    {
+      "position": 4,
+      "playerId": "m1048",
+      "name": "Jason Newman",
+      "rating": 1651.96,
+      "dailyRatingChange": 6.32
+    },
+    {
+      "position": 5,
+      "playerId": "m20287",
+      "name": "Victor Evans",
+      "rating": 1659.89,
+      "dailyRatingChange": 5.33
+    },
+    {
+      "position": 6,
+      "playerId": "m1050",
+      "name": "Nadia Didehbani",
+      "rating": 1601.87,
+      "dailyRatingChange": 4.28
+    },
+    {
+      "position": 7,
+      "playerId": "m39331",
+      "name": "Paul Young",
+      "rating": 1704.54,
+      "dailyRatingChange": -6.15
+    },
+    {
+      "position": 8,
+      "playerId": "m57340",
+      "name": "Bailey Brilley",
+      "rating": 1536.19,
+      "dailyRatingChange": 15.94
+    },
+    {
+      "position": 9,
+      "playerId": "m30986",
+      "name": "Neil Wilson",
+      "rating": 1598.78,
+      "dailyRatingChange": 7.24
+    },
+    {
+      "position": 10,
+      "playerId": "m34971",
+      "name": "Andy Messner",
+      "rating": 1570.93,
+      "dailyRatingChange": 13.49
+    },
+    {
+      "position": 11,
+      "playerId": "m475",
+      "name": "Nikolas Poklitar",
+      "rating": 1683.74,
+      "dailyRatingChange": -5.89
+    },
+    {
+      "position": 12,
+      "playerId": "m11619",
+      "name": "J Goldberg",
+      "rating": 1617.53,
+      "dailyRatingChange": -4.25
+    },
+    {
+      "position": 13,
+      "playerId": "m15035",
+      "name": "Amanda Fincher",
+      "rating": 1643.56,
+      "dailyRatingChange": -2.32
+    },
+    {
+      "position": 14,
+      "playerId": "m28542",
+      "name": "TJ Lewis",
+      "rating": 1593.09,
+      "dailyRatingChange": 1.95
+    },
+    {
+      "position": 15,
+      "playerId": "m1941",
+      "name": "Rachel Morris",
+      "rating": 1605.65,
+      "dailyRatingChange": -2.12
+    },
+    {
+      "position": 16,
+      "playerId": "m22757",
+      "name": "Cayman Kai",
+      "rating": 1560.46,
+      "dailyRatingChange": 3.46
+    },
+    {
+      "position": 17,
+      "playerId": "m36723",
+      "name": "Nicholas de la",
+      "rating": 1561.73,
+      "dailyRatingChange": 1.13
+    },
+    {
+      "position": 18,
+      "playerId": "m1314",
+      "name": "Desmond Byers",
+      "rating": 1517.05,
+      "dailyRatingChange": 9.72
+    },
+    {
+      "position": 19,
+      "playerId": "m40834",
+      "name": "Savy Reyes",
+      "rating": 1469.57,
+      "dailyRatingChange": 21.27
+    },
+    {
+      "position": 20,
+      "playerId": "m2204",
+      "name": "Robert Montanez",
+      "rating": 1579.53,
+      "dailyRatingChange": -2.77
+    },
+    {
+      "position": 21,
+      "playerId": "m1312",
+      "name": "Luke Byers",
+      "rating": 1500.87,
+      "dailyRatingChange": 7.58
+    },
+    {
+      "position": 22,
+      "playerId": "m55724",
+      "name": "Sean Simpson TX",
+      "rating": 1495.56,
+      "dailyRatingChange": 10.7
+    },
+    {
+      "position": 23,
+      "playerId": "m55385",
+      "name": "Zachary Terry",
+      "rating": 1528.7,
+      "dailyRatingChange": -1.84
+    },
+    {
+      "position": 24,
+      "playerId": "m30360",
+      "name": "Kevin Fincher",
+      "rating": 1500.01,
+      "dailyRatingChange": -3.23
+    },
+    {
+      "position": 25,
+      "playerId": "i160807",
+      "name": "Alex Knapp",
+      "rating": 1370.6,
+      "dailyRatingChange": 18.67
+    },
+    {
+      "position": 26,
+      "playerId": "m55384",
+      "name": "Mike Terry",
+      "rating": 1493.96,
+      "dailyRatingChange": -2.98
+    },
+    {
+      "position": 27,
+      "playerId": "m58045",
+      "name": "Bobby Mann",
+      "rating": 1402.51,
+      "dailyRatingChange": 9.98
+    },
+    {
+      "position": 28,
+      "playerId": "m25374",
+      "name": "Matt Oldfield",
+      "rating": 1538.61,
+      "dailyRatingChange": -17.98
+    },
+    {
+      "position": 29,
+      "playerId": "m58509",
+      "name": "Chris Knapp",
+      "rating": 1501.92,
+      "dailyRatingChange": -15.15
+    },
+    {
+      "position": 30,
+      "playerId": "m62062",
+      "name": "Scott Csefai",
+      "rating": 1467.68,
+      "dailyRatingChange": -70.75
+    },
+    {
+      "position": 31,
+      "playerId": "m30987",
+      "name": "Emily Glover-Wilson",
+      "rating": 1466.35,
+      "dailyRatingChange": -6.39
+    },
+    {
+      "position": 32,
+      "playerId": "m58719",
+      "name": "Michael Kinsey",
+      "rating": 1428.78,
+      "dailyRatingChange": -31.27
+    },
+    {
+      "position": 33,
+      "playerId": "m58501",
+      "name": "Claire Knapp",
+      "rating": 1471.64,
+      "dailyRatingChange": -5.58
+    },
+    {
+      "position": 34,
+      "playerId": "m54504",
+      "name": "Henry Wilton",
+      "rating": 1478.63,
+      "dailyRatingChange": -14.47
+    }
+  ]
+}

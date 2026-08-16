@@ -1,0 +1,144 @@
+{
+  "tournamentId": 261825,
+  "name": "Flipper Fellowship Flip Frenzy",
+  "date": "2026-07-23",
+  "locationId": "11119",
+  "locationName": "Bayside Anglican Church Hall",
+  "playerCount": 19,
+  "ratingsDate": "2026-07-23",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m23450",
+      "name": "Jason Bull",
+      "rating": 1642.39,
+      "dailyRatingChange": 12.29
+    },
+    {
+      "position": 2,
+      "playerId": "m24214",
+      "name": "Steve O'Bryan",
+      "rating": 1660.89,
+      "dailyRatingChange": 6.85
+    },
+    {
+      "position": 3,
+      "playerId": "m27797",
+      "name": "Tim Hannah",
+      "rating": 1594.29,
+      "dailyRatingChange": 10.33
+    },
+    {
+      "position": 3,
+      "playerId": "m22190",
+      "name": "Andrew Gliatis",
+      "rating": 1743.44,
+      "dailyRatingChange": 0.04
+    },
+    {
+      "position": 5,
+      "playerId": "m47690",
+      "name": "Theo Charalambous",
+      "rating": 1574.21,
+      "dailyRatingChange": 1.81
+    },
+    {
+      "position": 6,
+      "playerId": "m12726",
+      "name": "Zac Veron",
+      "rating": 1606.54,
+      "dailyRatingChange": -0.27
+    },
+    {
+      "position": 7,
+      "playerId": "m28506",
+      "name": "James Searby",
+      "rating": 1698.08,
+      "dailyRatingChange": -4.76
+    },
+    {
+      "position": 8,
+      "playerId": "m40160",
+      "name": "Sierra Charalambous",
+      "rating": 1642.67,
+      "dailyRatingChange": -3.88
+    },
+    {
+      "position": 9,
+      "playerId": "m44552",
+      "name": "Michael Hagarty",
+      "rating": 1661.21,
+      "dailyRatingChange": -1.56
+    },
+    {
+      "position": 10,
+      "playerId": "m580992",
+      "name": "Gazi Magdalawi",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 11,
+      "playerId": "m3581",
+      "name": "Dejan Golja",
+      "rating": 1556.02,
+      "dailyRatingChange": -0.08
+    },
+    {
+      "position": 12,
+      "playerId": "m48637",
+      "name": "Ian Mcintosh",
+      "rating": 1486.02,
+      "dailyRatingChange": 10.26
+    },
+    {
+      "position": 13,
+      "playerId": "m580993",
+      "name": "Ty Morgan",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 14,
+      "playerId": "m60757",
+      "name": "Gabriel Magdalawi",
+      "rating": 1617.7,
+      "dailyRatingChange": -7.8
+    },
+    {
+      "position": 15,
+      "playerId": "m44996",
+      "name": "Lisa Herrod",
+      "rating": 1480.06,
+      "dailyRatingChange": -6.05
+    },
+    {
+      "position": 16,
+      "playerId": "m55975",
+      "name": "John Porter AUS",
+      "rating": 1438.46,
+      "dailyRatingChange": -10.72
+    },
+    {
+      "position": 17,
+      "playerId": "m61809",
+      "name": "Chris Burrell",
+      "rating": 1434.43,
+      "dailyRatingChange": -7.79
+    },
+    {
+      "position": 18,
+      "playerId": "m54466",
+      "name": "Nikita Charalambous",
+      "rating": 1400.72,
+      "dailyRatingChange": -22.34
+    },
+    {
+      "position": 19,
+      "playerId": "m23404",
+      "name": "Ian Minnett",
+      "rating": 1388.05,
+      "dailyRatingChange": -10.28
+    }
+  ]
+}

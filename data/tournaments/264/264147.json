@@ -1,0 +1,130 @@
+{
+  "tournamentId": 264147,
+  "name": "Sanctum Weekly (Knockout) 7/27/26",
+  "date": "2026-07-28",
+  "locationId": "5908",
+  "locationName": "The Sanctum",
+  "playerCount": 17,
+  "ratingsDate": "2026-07-28",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m9417",
+      "name": "Randall Landau",
+      "rating": 1630.32,
+      "dailyRatingChange": 12.56
+    },
+    {
+      "position": 2,
+      "playerId": "m13850",
+      "name": "Ryan Belisle",
+      "rating": 1674.97,
+      "dailyRatingChange": 1.44
+    },
+    {
+      "position": 3,
+      "playerId": "m45863",
+      "name": "Jason Watts",
+      "rating": 1544.14,
+      "dailyRatingChange": 8.65
+    },
+    {
+      "position": 4,
+      "playerId": "m1163",
+      "name": "George Magyar",
+      "rating": 1608.48,
+      "dailyRatingChange": 0.59
+    },
+    {
+      "position": 4,
+      "playerId": "m34451",
+      "name": "Alec Kehrhahn",
+      "rating": 1602.38,
+      "dailyRatingChange": 5.14
+    },
+    {
+      "position": 6,
+      "playerId": "m271",
+      "name": "Matt Boschert",
+      "rating": 1572.48,
+      "dailyRatingChange": 5.09
+    },
+    {
+      "position": 7,
+      "playerId": "m27920",
+      "name": "Selwyn Wilson",
+      "rating": 1575.87,
+      "dailyRatingChange": -1.09
+    },
+    {
+      "position": 7,
+      "playerId": "m971",
+      "name": "Brenda Kabel",
+      "rating": 1590.97,
+      "dailyRatingChange": -3.9
+    },
+    {
+      "position": 9,
+      "playerId": "m43202",
+      "name": "Dustin Lavoie",
+      "rating": 1519.07,
+      "dailyRatingChange": -0.52
+    },
+    {
+      "position": 9,
+      "playerId": "m582525",
+      "name": "David Angell",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 9,
+      "playerId": "m27749",
+      "name": "Mell Scalzi",
+      "rating": 1430.67,
+      "dailyRatingChange": 3.48
+    },
+    {
+      "position": 9,
+      "playerId": "i55250",
+      "name": "Nick Bettcher",
+      "rating": 1506.31,
+      "dailyRatingChange": -13.22
+    },
+    {
+      "position": 13,
+      "playerId": "m1080",
+      "name": "Steve Longchamps",
+      "rating": 1409.6,
+      "dailyRatingChange": -4.14
+    },
+    {
+      "position": 14,
+      "playerId": "i58361",
+      "name": "Bill Scheibel",
+      "rating": 1392.71,
+      "dailyRatingChange": -5.24
+    },
+    {
+      "position": 14,
+      "playerId": "m484894",
+      "name": "Michael Jake",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 14,
+      "playerId": "m3634",
+      "name": "Jim Obrien USA",
+      "rating": 1501.79,
+      "dailyRatingChange": -8.52
+    },
+    {
+      "position": 14,
+      "playerId": "m21738",
+      "name": "Scott Temple",
+      "rating": 1534.33,
+      "dailyRatingChange": -5.23
+    }
+  ]
+}

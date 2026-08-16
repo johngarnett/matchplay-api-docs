@@ -1,0 +1,200 @@
+{
+  "locationId": "7878",
+  "venueName": "Funspot",
+  "venueAddress": "579 Endicott Street North, Laconia, NH 03246, US",
+  "tournaments": [
+    {
+      "id": 260899,
+      "name": "Summer Strikes Thursdays @ Funspot #7",
+      "date": "8/13/2026",
+      "playerCount": 7,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "i139515",
+          "name": "James Polichronopoulos",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m33063",
+          "name": "Sean Sturgill",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m28693",
+          "name": "Eva Ashton",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m30609",
+          "name": "John Bolton",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m24570",
+          "name": "Dave Lawton",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 260898,
+      "name": "Summer Strikes Thursdays @ Funspot #6",
+      "date": "8/6/2026",
+      "playerCount": 7,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m24570",
+          "name": "Dave Lawton",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m46780",
+          "name": "Tom Fagan",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m33302",
+          "name": "Dave Tardif",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m33063",
+          "name": "Sean Sturgill",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 260897,
+      "name": "Summer Strikes Thursdays @ Funspot #5",
+      "date": "7/30/2026",
+      "playerCount": 7,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m34936",
+          "name": "Craig Barkal",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m41336",
+          "name": "Skye Flanders",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m33302",
+          "name": "Dave Tardif",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m33063",
+          "name": "Sean Sturgill",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 260895,
+      "name": "Summer Strikes Thursdays @ Funspot #4",
+      "date": "7/23/2026",
+      "playerCount": 11,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m49378",
+          "name": "Shaun McIsaac",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m33302",
+          "name": "Dave Tardif",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m24570",
+          "name": "Dave Lawton",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m30609",
+          "name": "John Bolton",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m34936",
+          "name": "Craig Barkal",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m28693",
+          "name": "Eva Ashton",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m42913",
+          "name": "Scott Inman",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 235795,
+      "name": "Finals for Shark Cage Flip Frenzy (Feat. Jaws)",
+      "date": "7/19/2026",
+      "playerCount": 4,
+      "qualifying": {
+        "id": 235794,
+        "name": "Shark Cage Flip Frenzy (Feat. Jaws)",
+        "playerCount": 14
+      },
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m34048",
+          "name": "Joshua Moran",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m33302",
+          "name": "Dave Tardif",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m24570",
+          "name": "Dave Lawton",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m52532",
+          "name": "Arlo McGinty",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

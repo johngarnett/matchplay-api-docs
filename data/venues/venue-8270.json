@@ -1,0 +1,137 @@
+{
+  "locationId": "8270",
+  "name": "Ye Olde Pinball Shoppe",
+  "address": "18A Bond Street, Wellington City, Wellington 6011, NZ",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 7,
+  "relatedVenues": [
+    {
+      "locationId": "6714",
+      "name": "Ye Olde Pinball Shoppe",
+      "address": "18A Bond Street, Wellington City, Wellington, 6011, NZ",
+      "count": 27
+    },
+    {
+      "locationId": "6344",
+      "name": "The Lanes Bar and Bowling",
+      "address": "238 Wakefield St, Wellington City, 6011, NZ",
+      "count": 15
+    },
+    {
+      "locationId": "7450",
+      "name": "The Clubhouse Moorooka",
+      "address": "76 Koala Road, Moorooka, QLD 4105, AU",
+      "count": 5
+    },
+    {
+      "locationId": "4238",
+      "name": "Hastings",
+      "address": "",
+      "count": 3
+    },
+    {
+      "locationId": "7180",
+      "name": "Netherworld",
+      "address": "186 Brunswick St, Fortitude Valley, QLD 4006, AU",
+      "count": 2
+    },
+    {
+      "locationId": "8962",
+      "name": "Matt & Luke's",
+      "address": "mcdonalds brunswick vic",
+      "count": 1
+    },
+    {
+      "locationId": "11430",
+      "name": "Brothers Beer & Juke Joint BBQ | Mount Eden",
+      "address": "5 Akiraho St, Auckland, Auckland 1024, NZ",
+      "count": 1
+    }
+  ],
+  "players": [
+    {
+      "id": "m992",
+      "name": "Esther Ahronheim",
+      "rating": 1611.71,
+      "rd": 18.23,
+      "ratingClass": "A",
+      "homeLocation": "Ye Olde Pinball Shoppe",
+      "homeLocationId": "6714",
+      "percentile": 84.82787534355056,
+      "changeDisplay": "-5.0",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m36685",
+      "name": "Kelly Mitchell",
+      "rating": 1599.24,
+      "rd": 23.72,
+      "ratingClass": "B",
+      "homeLocation": "Ye Olde Pinball Shoppe",
+      "homeLocationId": "6714",
+      "percentile": 81.8139469884008,
+      "changeDisplay": "-2.3",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m60334",
+      "name": "Magda Gianola",
+      "rating": 1587.37,
+      "rd": 35.1,
+      "ratingClass": "B",
+      "homeLocation": "Ye Olde Pinball Shoppe",
+      "homeLocationId": "6714",
+      "percentile": 78.6928774397913,
+      "changeDisplay": "-3.2",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m24824",
+      "name": "Casey Lochead",
+      "rating": 1555.49,
+      "rd": 25.85,
+      "ratingClass": "B",
+      "homeLocation": "The Lanes Bar and Bowling",
+      "homeLocationId": "6344",
+      "percentile": 68.82191270321889,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m25048",
+      "name": "Jennifer Bays",
+      "rating": 1493.76,
+      "rd": 23.57,
+      "ratingClass": "C",
+      "homeLocation": "Ye Olde Pinball Shoppe",
+      "homeLocationId": "6714",
+      "percentile": 44.63129454511576,
+      "changeDisplay": "-7.5",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m19207",
+      "name": "Carly St-Laurent",
+      "rating": 1435.64,
+      "rd": 32.66,
+      "ratingClass": "C",
+      "homeLocation": "Ye Olde Pinball Shoppe",
+      "homeLocationId": "6714",
+      "percentile": 22.313318116178323,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i148177",
+      "name": "Agalia Vijay",
+      "rating": 1382.65,
+      "rd": 39.68,
+      "ratingClass": "D",
+      "homeLocation": "Ye Olde Pinball Shoppe",
+      "homeLocationId": "6714",
+      "percentile": 8.804211114734244,
+      "changeDisplay": "+24.1",
+      "changeClass": "change-positive"
+    }
+  ]
+}

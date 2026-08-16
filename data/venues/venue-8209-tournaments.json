@@ -1,0 +1,40 @@
+{
+  "locationId": "8209",
+  "venueName": "Broken Clock Brewing Cooperative",
+  "venueAddress": "1712 Marshall St NE, Minneapolis, MN 55413, US",
+  "tournaments": [
+    {
+      "id": 262693,
+      "name": "Broken Clock 3-Strike Tournament (July)",
+      "date": "7/18/2026",
+      "playerCount": 39,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m55173",
+          "name": "Zac Juelich",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m23582",
+          "name": "Zach Schuster",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m27146",
+          "name": "George Harris",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m30678",
+          "name": "Jon Sieker",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

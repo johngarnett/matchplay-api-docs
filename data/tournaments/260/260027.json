@@ -1,0 +1,88 @@
+{
+  "tournamentId": 260027,
+  "name": "black squirrel at station 300 summer '26 #6",
+  "date": "2026-08-06",
+  "locationId": "11578",
+  "locationName": "station 300",
+  "playerCount": 11,
+  "ratingsDate": "2026-08-06",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m7302",
+      "name": "Wiener",
+      "rating": 1698.29,
+      "dailyRatingChange": 11.81
+    },
+    {
+      "position": 2,
+      "playerId": "m955",
+      "name": "David Terkel",
+      "rating": 1712.71,
+      "dailyRatingChange": 1.61
+    },
+    {
+      "position": 3,
+      "playerId": "i90040",
+      "name": "Sam Paterson",
+      "rating": 1646.39,
+      "dailyRatingChange": 1.84
+    },
+    {
+      "position": 4,
+      "playerId": "m457790",
+      "name": "glynn ward",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 5,
+      "playerId": "m13856",
+      "name": "TwoDollar Brian",
+      "rating": 1513.97,
+      "dailyRatingChange": 0.1
+    },
+    {
+      "position": 6,
+      "playerId": "m3382",
+      "name": "Jen Ruper",
+      "rating": 1551.59,
+      "dailyRatingChange": -3.59
+    },
+    {
+      "position": 6,
+      "playerId": "m584836",
+      "name": "wade wilcox",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 8,
+      "playerId": "i85931",
+      "name": "Justine Wiener",
+      "rating": 1501.59,
+      "dailyRatingChange": -10.63
+    },
+    {
+      "position": 8,
+      "playerId": "m29320",
+      "name": "Becca Hoffman",
+      "rating": 1404.08,
+      "dailyRatingChange": 1.07
+    },
+    {
+      "position": 10,
+      "playerId": "m28706",
+      "name": "Pat Kupniewski",
+      "rating": 1495.29,
+      "dailyRatingChange": -7.63
+    },
+    {
+      "position": 11,
+      "playerId": "m43889",
+      "name": "Ken Swarm",
+      "rating": 1457.83,
+      "dailyRatingChange": -10.09
+    }
+  ]
+}

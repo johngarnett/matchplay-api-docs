@@ -1,0 +1,67 @@
+{
+  "tournamentId": 263184,
+  "name": "Never Say Drain 07/21",
+  "date": "2026-07-22",
+  "locationId": "13247",
+  "locationName": "Merry Time Restaurant & Lounge",
+  "playerCount": 8,
+  "ratingsDate": "2026-07-22",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m551307",
+      "name": "Jackson Hughston",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 2,
+      "playerId": "i138769",
+      "name": "Eve Willard",
+      "rating": 1500.58,
+      "dailyRatingChange": 11.85
+    },
+    {
+      "position": 3,
+      "playerId": "m50327",
+      "name": "Amy Austin",
+      "rating": 1414.95,
+      "dailyRatingChange": 7.13
+    },
+    {
+      "position": 4,
+      "playerId": "i142549",
+      "name": "Ben Latterell",
+      "rating": 1474.22,
+      "dailyRatingChange": 0.09
+    },
+    {
+      "position": 5,
+      "playerId": "i154890",
+      "name": "Sam Crawford",
+      "rating": 1395.05,
+      "dailyRatingChange": 8.07
+    },
+    {
+      "position": 6,
+      "playerId": "m580613",
+      "name": "Mike Martin",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 7,
+      "playerId": "i154889",
+      "name": "Ginny Fairbanks",
+      "rating": 1373.13,
+      "dailyRatingChange": null
+    },
+    {
+      "position": 8,
+      "playerId": "m551313",
+      "name": "Ryan Vazquez",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

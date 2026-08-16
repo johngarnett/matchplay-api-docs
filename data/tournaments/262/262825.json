@@ -1,0 +1,214 @@
+{
+  "tournamentId": 262825,
+  "name": "IIA Cookout Tournament 2026",
+  "date": "2026-08-08",
+  "locationId": "11386",
+  "locationName": "Ice Ice Arcade",
+  "playerCount": 29,
+  "ratingsDate": "2026-08-08",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m14465",
+      "name": "Noah Crable",
+      "rating": 1855.89,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 2,
+      "playerId": "m13527",
+      "name": "Zheanna Murray",
+      "rating": 1674.63,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 3,
+      "playerId": "m4842",
+      "name": "James McFatter",
+      "rating": 1698.02,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 4,
+      "playerId": "m34048",
+      "name": "Joshua Moran",
+      "rating": 1720.86,
+      "dailyRatingChange": -3.56
+    },
+    {
+      "position": 5,
+      "playerId": "m52532",
+      "name": "Arlo McGinty",
+      "rating": 1647,
+      "dailyRatingChange": 4.46
+    },
+    {
+      "position": 6,
+      "playerId": "m1554",
+      "name": "Alan Maclean",
+      "rating": 1661.51,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 7,
+      "playerId": "m16947",
+      "name": "Derek Correia",
+      "rating": 1625.26,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 8,
+      "playerId": "m398",
+      "name": "Matt Wenger",
+      "rating": 1623.2,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 9,
+      "playerId": "m8932",
+      "name": "Mike Havens",
+      "rating": 1668.23,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 10,
+      "playerId": "m9534",
+      "name": "Jody Stahlman",
+      "rating": 1549.96,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 11,
+      "playerId": "m1178",
+      "name": "Michael Corbett MA",
+      "rating": 1570.62,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 12,
+      "playerId": "m49241",
+      "name": "Andy Hoffman",
+      "rating": 1701.14,
+      "dailyRatingChange": 4.75
+    },
+    {
+      "position": 13,
+      "playerId": "m52484",
+      "name": "Brian McGinty",
+      "rating": 1526.95,
+      "dailyRatingChange": -4.74
+    },
+    {
+      "position": 14,
+      "playerId": "m32555",
+      "name": "Jeremy Gagnon",
+      "rating": 1558,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 15,
+      "playerId": "m23498",
+      "name": "Mike Gaudet",
+      "rating": 1517.57,
+      "dailyRatingChange": 0.34
+    },
+    {
+      "position": 16,
+      "playerId": "m26851",
+      "name": "Will Parks",
+      "rating": 1498.56,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 17,
+      "playerId": "m50162",
+      "name": "Sean Lumaye",
+      "rating": 1449.12,
+      "dailyRatingChange": 2.39
+    },
+    {
+      "position": 18,
+      "playerId": "m53124",
+      "name": "NIcholas Bourassa",
+      "rating": 1468.55,
+      "dailyRatingChange": 3.9
+    },
+    {
+      "position": 19,
+      "playerId": "m13539",
+      "name": "Mitchell Gagnon",
+      "rating": 1545.09,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 20,
+      "playerId": "m431",
+      "name": "Ron Lulfs",
+      "rating": 1501.6,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 20,
+      "playerId": "m61585",
+      "name": "Elias Volpini",
+      "rating": 1446.17,
+      "dailyRatingChange": -18.39
+    },
+    {
+      "position": 22,
+      "playerId": "m18659",
+      "name": "Jordan Knights",
+      "rating": 1448.95,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 23,
+      "playerId": "m57479",
+      "name": "Bruce Casassa",
+      "rating": 1572.2,
+      "dailyRatingChange": 5.58
+    },
+    {
+      "position": 23,
+      "playerId": "m52363",
+      "name": "William Prescott",
+      "rating": 1484.37,
+      "dailyRatingChange": -0.51
+    },
+    {
+      "position": 25,
+      "playerId": "m61196",
+      "name": "Lailee Lundquist",
+      "rating": 1388.71,
+      "dailyRatingChange": -28.41
+    },
+    {
+      "position": 26,
+      "playerId": "m52981",
+      "name": "Frank Deneu",
+      "rating": 1481.03,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 26,
+      "playerId": "m43052",
+      "name": "Steven Weintraub",
+      "rating": 1434.17,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 28,
+      "playerId": "m54470",
+      "name": "Stacie Spenser",
+      "rating": 1359.33,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 29,
+      "playerId": "m62591",
+      "name": "Trevor Connors",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

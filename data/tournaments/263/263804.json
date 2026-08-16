@@ -1,0 +1,67 @@
+{
+  "tournamentId": 263804,
+  "name": "Finals for Flip-Offs XI",
+  "date": "2026-07-25",
+  "locationId": "10233",
+  "locationName": "Flippins Bar/Arcade",
+  "playerCount": 8,
+  "ratingsDate": "2026-07-25",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "i138984",
+      "name": "Chris Nealis",
+      "rating": 1610.08,
+      "dailyRatingChange": 17.29
+    },
+    {
+      "position": 2,
+      "playerId": "i134415",
+      "name": "David Wells CAN",
+      "rating": 1570.11,
+      "dailyRatingChange": 0.56
+    },
+    {
+      "position": 3,
+      "playerId": "m54094",
+      "name": "Nick Ward",
+      "rating": 1582.53,
+      "dailyRatingChange": 3.25
+    },
+    {
+      "position": 4,
+      "playerId": "m570714",
+      "name": "Luke MacMillan",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 5,
+      "playerId": "m56354",
+      "name": "Jaden Shaddick",
+      "rating": 1703.26,
+      "dailyRatingChange": 6.07
+    },
+    {
+      "position": 6,
+      "playerId": "i116901",
+      "name": "Victor Keane",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 7,
+      "playerId": "m49845",
+      "name": "Sam Westfield",
+      "rating": 1619.48,
+      "dailyRatingChange": 17.81
+    },
+    {
+      "position": 8,
+      "playerId": "m15711",
+      "name": "Dylan Papazian-Clare",
+      "rating": 1664.61,
+      "dailyRatingChange": -12.34
+    }
+  ]
+}

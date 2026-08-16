@@ -1,0 +1,85 @@
+{
+  "locationId": "11252",
+  "venueName": "Aim & Game",
+  "venueAddress": "5610 Barrett Rd, Ferndale, WA 98248, US",
+  "tournaments": [
+    {
+      "id": 266245,
+      "name": "Whatcom Pinball League Season 8 #3",
+      "date": "8/11/2026",
+      "playerCount": 25,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "p183915",
+          "name": "Beau haagenson",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "p422154",
+          "name": "Carter davies",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "i10822",
+          "name": "Garrett Dubofsky",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m26178",
+          "name": "Hugh newmark",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m44510",
+          "name": "Jeremy Ritter",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 257773,
+      "name": "Aim & Game Monthly 3-Strike KO Rumble - July 2026",
+      "date": "7/22/2026",
+      "playerCount": 15,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m54445",
+          "name": "Liam watts",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m45827",
+          "name": "Jay Gaunt",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m21283",
+          "name": "Cassie Medici",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m35274",
+          "name": "Ellen Bowles",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m4296",
+          "name": "Dion Bellay",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

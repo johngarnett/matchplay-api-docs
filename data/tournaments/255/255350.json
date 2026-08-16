@@ -1,0 +1,186 @@
+{
+  "tournamentId": 255350,
+  "name": "Atomic Arcade 2026 #4",
+  "date": "2026-08-08",
+  "locationId": "13230",
+  "locationName": "Atomic Arcade",
+  "playerCount": 25,
+  "ratingsDate": "2026-08-08",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m886",
+      "name": "Tony Woods",
+      "rating": 1682.25,
+      "dailyRatingChange": 12
+    },
+    {
+      "position": 2,
+      "playerId": "m18010",
+      "name": "Brett Paton",
+      "rating": 1592.58,
+      "dailyRatingChange": 15.24
+    },
+    {
+      "position": 3,
+      "playerId": "m44628",
+      "name": "Marcus Staples",
+      "rating": 1622.36,
+      "dailyRatingChange": 15.03
+    },
+    {
+      "position": 4,
+      "playerId": "m17095",
+      "name": "Geoff Giblett",
+      "rating": 1687.08,
+      "dailyRatingChange": 5.95
+    },
+    {
+      "position": 5,
+      "playerId": "m23658",
+      "name": "Mark Baraldi",
+      "rating": 1756.8,
+      "dailyRatingChange": -4.86
+    },
+    {
+      "position": 6,
+      "playerId": "m16410",
+      "name": "Jason Matesich",
+      "rating": 1637.85,
+      "dailyRatingChange": 6.02
+    },
+    {
+      "position": 7,
+      "playerId": "m13020",
+      "name": "David Robertson",
+      "rating": 1634.22,
+      "dailyRatingChange": 12.24
+    },
+    {
+      "position": 8,
+      "playerId": "m490336",
+      "name": "Taz Paraskevas",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 9,
+      "playerId": "m13056",
+      "name": "Ash Retzlaff",
+      "rating": 1705.92,
+      "dailyRatingChange": -6.91
+    },
+    {
+      "position": 10,
+      "playerId": "m41474",
+      "name": "Murray Armenti",
+      "rating": 1601.55,
+      "dailyRatingChange": 3.34
+    },
+    {
+      "position": 11,
+      "playerId": "m18161",
+      "name": "Tammy Paton",
+      "rating": 1579.01,
+      "dailyRatingChange": 0.91
+    },
+    {
+      "position": 12,
+      "playerId": "m15183",
+      "name": "Craig Decke",
+      "rating": 1553.44,
+      "dailyRatingChange": 6.9
+    },
+    {
+      "position": 13,
+      "playerId": "m24149",
+      "name": "Clint Kitchin",
+      "rating": 1553.79,
+      "dailyRatingChange": -3.63
+    },
+    {
+      "position": 14,
+      "playerId": "m33547",
+      "name": "Robert Niksic",
+      "rating": 1545.1,
+      "dailyRatingChange": -2.25
+    },
+    {
+      "position": 15,
+      "playerId": "m7415",
+      "name": "Ash Bralich",
+      "rating": 1581.98,
+      "dailyRatingChange": -7.84
+    },
+    {
+      "position": 16,
+      "playerId": "m19266",
+      "name": "Shane Allchurch",
+      "rating": 1573.17,
+      "dailyRatingChange": -9.38
+    },
+    {
+      "position": 17,
+      "playerId": "m33545",
+      "name": "Jeff Guidera",
+      "rating": 1543.99,
+      "dailyRatingChange": 4.64
+    },
+    {
+      "position": 18,
+      "playerId": "m18447",
+      "name": "Glenn Twiddle",
+      "rating": 1576.8,
+      "dailyRatingChange": -11.32
+    },
+    {
+      "position": 19,
+      "playerId": "m47427",
+      "name": "Elizabeth Fox",
+      "rating": 1546.65,
+      "dailyRatingChange": -4.08
+    },
+    {
+      "position": 20,
+      "playerId": "m585387",
+      "name": "Jason Dixon",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 21,
+      "playerId": "m24452",
+      "name": "Rachael Crockett",
+      "rating": 1504.28,
+      "dailyRatingChange": -4.19
+    },
+    {
+      "position": 22,
+      "playerId": "m58665",
+      "name": "Chris Dallavolta",
+      "rating": 1409.07,
+      "dailyRatingChange": 13.42
+    },
+    {
+      "position": 23,
+      "playerId": "m62128",
+      "name": "Julian Nichols",
+      "rating": 1406.84,
+      "dailyRatingChange": -17.74
+    },
+    {
+      "position": 24,
+      "playerId": "m18168",
+      "name": "Shannon Paton",
+      "rating": 1508.51,
+      "dailyRatingChange": -35.53
+    },
+    {
+      "position": 25,
+      "playerId": "m585388",
+      "name": "Cooper Mulder",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

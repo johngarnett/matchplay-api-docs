@@ -1,0 +1,44 @@
+{
+  "locationId": "8117",
+  "venueName": "Evil Horse Brewing Company",
+  "venueAddress": "1338 Main St, Crete, IL 60417, US",
+  "tournaments": [
+    {
+      "id": 264704,
+      "name": "Finals for Evil Horse Brewing - July 2026 Tournament",
+      "date": "7/30/2026",
+      "playerCount": 4,
+      "qualifying": {
+        "id": 264672,
+        "name": "Evil Horse Brewing - July 2026 Tournament",
+        "playerCount": 10
+      },
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m1372",
+          "name": "Todd Rafacz",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m47820",
+          "name": "Morgan Clarke",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "i110591",
+          "name": "Miles Rafacz",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m38712",
+          "name": "Pamela Tusack",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

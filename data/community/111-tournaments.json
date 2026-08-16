@@ -1,0 +1,183 @@
+{
+  "communityId": "111",
+  "locations": [
+    {
+      "id": "7391",
+      "name": "Arrow Lodge Brewing",
+      "address": "720 East Arrow Highway, Covina, CA 91722, US",
+      "tournaments": [
+        {
+          "id": 254679,
+          "name": "SGV Pinball League at the Lodge Season 14 Meet 3 (8/10/26)",
+          "date": "8/10/2026",
+          "playerCount": 18,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m21011",
+              "name": "David Zuckerman",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m46700",
+              "name": "John Brothers",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m12468",
+              "name": "Tom Law CA",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m51477",
+              "name": "Dan Latini",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m26443",
+              "name": "Kevin Saravia",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m22326",
+              "name": "Ben Frank",
+              "isCommunityMember": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7338",
+      "name": "Lake Alice Trading Co.",
+      "address": "3630 University Avenue, Riverside, CA 92501, US",
+      "tournaments": [
+        {
+          "id": 262417,
+          "name": "Inland Empire Pinball League Summer 2026 #5",
+          "date": "8/11/2026",
+          "playerCount": 26,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m11691",
+              "name": "William Ziegler",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m13574",
+              "name": "Jim Belsito",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m11678",
+              "name": "Corey Dunn",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "i12101",
+              "name": "Kerry Wolk",
+              "isCommunityMember": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9744",
+      "name": "Pinbug Pomona",
+      "address": "252 S Main St, Pomona, CA 91766, US",
+      "tournaments": [
+        {
+          "id": 258197,
+          "name": "Pinbug's Pinball League Season 7 Meet 1 (8/7/26)",
+          "date": "8/7/2026",
+          "playerCount": 10,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m4540",
+              "name": "Cecilia Clarizio",
+              "isCommunityMember": true
+            },
+            {
+              "position": 1,
+              "playerId": "m46700",
+              "name": "John Brothers",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m39377",
+              "name": "Roman Lavergne",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m34576",
+              "name": "Carl Alvarez",
+              "isCommunityMember": false
+            },
+            {
+              "position": 4,
+              "playerId": "m26443",
+              "name": "Kevin Saravia",
+              "isCommunityMember": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "10953",
+      "name": "Riverside Game Lab",
+      "address": "3633 Market Street, Riverside, CA 92501, US",
+      "tournaments": [
+        {
+          "id": 260639,
+          "name": "Game Lab Pinball Experiment (8/8/26)",
+          "date": "8/8/2026",
+          "playerCount": 13,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m13289",
+              "name": "Paul Xavier",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m22958",
+              "name": "David acosta",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m21011",
+              "name": "David Zuckerman",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m21684",
+              "name": "Jose Villasana",
+              "isCommunityMember": true
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

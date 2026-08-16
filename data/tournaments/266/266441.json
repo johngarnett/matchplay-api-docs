@@ -1,0 +1,67 @@
+{
+  "tournamentId": 266441,
+  "name": "Finals for Tuesday Weekly at the Vault - Aug 11th",
+  "date": "2026-08-12",
+  "locationId": "6813",
+  "locationName": "Morristown Game Vault",
+  "playerCount": 8,
+  "ratingsDate": "2026-08-12",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m17950",
+      "name": "Josh Frye",
+      "rating": 1592.69,
+      "dailyRatingChange": 5.09
+    },
+    {
+      "position": 2,
+      "playerId": "m6071",
+      "name": "Craig Cash",
+      "rating": 1660.56,
+      "dailyRatingChange": 2.56
+    },
+    {
+      "position": 3,
+      "playerId": "m39514",
+      "name": "Gabriel Julio",
+      "rating": 1537.88,
+      "dailyRatingChange": 14.08
+    },
+    {
+      "position": 4,
+      "playerId": "m39898",
+      "name": "Jake Polachek",
+      "rating": 1636.23,
+      "dailyRatingChange": 5.64
+    },
+    {
+      "position": 5,
+      "playerId": "m35537",
+      "name": "Will Gordon",
+      "rating": 1662.03,
+      "dailyRatingChange": -7.52
+    },
+    {
+      "position": 5,
+      "playerId": "m10829",
+      "name": "Bob Salamon",
+      "rating": 1599.73,
+      "dailyRatingChange": 1.11
+    },
+    {
+      "position": 5,
+      "playerId": "m394",
+      "name": "Joshua Senzer",
+      "rating": 1554.55,
+      "dailyRatingChange": -1.7
+    },
+    {
+      "position": 5,
+      "playerId": "m18298",
+      "name": "Drew Greco",
+      "rating": 1570.19,
+      "dailyRatingChange": -4.7
+    }
+  ]
+}

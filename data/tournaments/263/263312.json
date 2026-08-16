@@ -1,0 +1,39 @@
+{
+  "tournamentId": 263312,
+  "name": "Summer 2026 Women's Bush League at Murphy's on 21 #4",
+  "date": "2026-07-23",
+  "locationId": "6583",
+  "locationName": "Murphy's on 21",
+  "playerCount": 4,
+  "ratingsDate": "2026-07-23",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m34129",
+      "name": "Julie Glenn",
+      "rating": 1564.52,
+      "dailyRatingChange": 5.77
+    },
+    {
+      "position": 2,
+      "playerId": "m25290",
+      "name": "Valerie Iriarte",
+      "rating": 1511.92,
+      "dailyRatingChange": -0.2
+    },
+    {
+      "position": 2,
+      "playerId": "m47442",
+      "name": "Colleen Glattfelt",
+      "rating": 1361.98,
+      "dailyRatingChange": 11.82
+    },
+    {
+      "position": 4,
+      "playerId": "i132102",
+      "name": "Amy Willis",
+      "rating": 1361.54,
+      "dailyRatingChange": -57.24
+    }
+  ]
+}

@@ -1,0 +1,239 @@
+{
+  "locationId": "10984",
+  "name": "Kickback",
+  "address": "",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 14,
+  "relatedVenues": [
+    {
+      "locationId": "3109",
+      "name": "Buttermilk Bar",
+      "address": "577 5th Ave, Brooklyn, NY, 11215, US",
+      "count": 39
+    },
+    {
+      "locationId": "7208",
+      "name": "Rochester Pinball Collective",
+      "address": "349 West Commercial Street, East Rochester, NY 14445, US",
+      "count": 35
+    },
+    {
+      "locationId": "12253",
+      "name": "Barcade FiDi",
+      "address": "10 Cortlandt St, New York, NY 10007, US",
+      "count": 30
+    },
+    {
+      "locationId": "8867",
+      "name": "Mean Max Brew Works Troy Taproom",
+      "address": "251 River St, Troy, NY 12181, US",
+      "count": 24
+    },
+    {
+      "locationId": "11707",
+      "name": "Excelsior Pub",
+      "address": "54 Philip St, Albany, NY 12207",
+      "count": 17
+    },
+    {
+      "locationId": "10759",
+      "name": "Level Zero",
+      "address": "",
+      "count": 14
+    },
+    {
+      "locationId": "12839",
+      "name": "High Score RBK",
+      "address": "6 Garden St, Rhinebeck, NY 12572, US",
+      "count": 7
+    },
+    {
+      "locationId": "8493",
+      "name": "Rullo's",
+      "address": "560 5th Avenue, Brooklyn, NY 11215, US",
+      "count": 6
+    },
+    {
+      "locationId": "13614",
+      "name": "Waypoint",
+      "address": "1225 Jefferson Road, Suite A201, Rochester NY 14623",
+      "count": 6
+    },
+    {
+      "locationId": "5487",
+      "name": "Western Mass Pinball Club",
+      "address": "4 Springfield St, Three Rivers, MA 01080, USA",
+      "count": 5
+    }
+  ],
+  "players": [
+    {
+      "id": "m33825",
+      "name": "Emilia Connelly",
+      "rating": 1606.85,
+      "rd": 17.31,
+      "ratingClass": "A",
+      "homeLocation": "Rochester Pinball Collective",
+      "homeLocationId": "7208",
+      "percentile": 83.67261377928914,
+      "changeDisplay": "+3.2",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m32979",
+      "name": "Monica Weitekamp",
+      "rating": 1597.41,
+      "rd": 17.24,
+      "ratingClass": "B",
+      "homeLocation": "Buttermilk Bar",
+      "homeLocationId": "3109",
+      "percentile": 81.33879908697071,
+      "changeDisplay": "+11.3",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m47959",
+      "name": "Alice Bruso",
+      "rating": 1588.91,
+      "rd": 20.48,
+      "ratingClass": "B",
+      "homeLocation": "Mean Max Brew Works Troy Taproom",
+      "homeLocationId": "8867",
+      "percentile": 79.15870871570317,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m4587",
+      "name": "Lauren Daknis",
+      "rating": 1587.32,
+      "rd": 28.12,
+      "ratingClass": "B",
+      "homeLocation": "Mean Max Brew Works Troy Taproom",
+      "homeLocationId": "8867",
+      "percentile": 78.67424418875484,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m21226",
+      "name": "Nicole Turcotte",
+      "rating": 1567.53,
+      "rd": 20.68,
+      "ratingClass": "B",
+      "homeLocation": "Western Mass Pinball Club",
+      "homeLocationId": "5487",
+      "percentile": 72.67899566776913,
+      "changeDisplay": "-1.7",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m22746",
+      "name": "Morgan Levinson",
+      "rating": 1560.57,
+      "rd": 18.36,
+      "ratingClass": "B",
+      "homeLocation": "Buttermilk Bar",
+      "homeLocationId": "3109",
+      "percentile": 70.48027204546513,
+      "changeDisplay": "+4.0",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m17162",
+      "name": "Kaitlyn Reese",
+      "rating": 1555.09,
+      "rd": 19.13,
+      "ratingClass": "B",
+      "homeLocation": "Buttermilk Bar",
+      "homeLocationId": "3109",
+      "percentile": 68.68682163320446,
+      "changeDisplay": "+2.7",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m12176",
+      "name": "Lauren Burner-Lawrence",
+      "rating": 1548.72,
+      "rd": 23.17,
+      "ratingClass": "B",
+      "homeLocation": "Mean Max Brew Works Troy Taproom",
+      "homeLocationId": "8867",
+      "percentile": 66.20394093259422,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m4956",
+      "name": "Aimee Poulin",
+      "rating": 1505.11,
+      "rd": 21.33,
+      "ratingClass": "B",
+      "homeLocation": "Barcade FiDi",
+      "homeLocationId": "12253",
+      "percentile": 49.36414030838031,
+      "changeDisplay": "-8.3",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m31393",
+      "name": "Kristi Kelsey",
+      "rating": 1482.8,
+      "rd": 24.71,
+      "ratingClass": "C",
+      "homeLocation": "Rochester Pinball Collective",
+      "homeLocationId": "7208",
+      "percentile": 40.033539851865655,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m30338",
+      "name": "Amy Murphy",
+      "rating": 1478.34,
+      "rd": 18.76,
+      "ratingClass": "C",
+      "homeLocation": "Rochester Pinball Collective",
+      "homeLocationId": "7208",
+      "percentile": 38.277355941677925,
+      "changeDisplay": "+4.8",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m2177",
+      "name": "Jess Warren",
+      "rating": 1459.95,
+      "rd": 19.76,
+      "ratingClass": "C",
+      "homeLocation": "Buttermilk Bar",
+      "homeLocationId": "3109",
+      "percentile": 30.987096473657243,
+      "changeDisplay": "+15.6",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m7453",
+      "name": "Deena Ecker",
+      "rating": 1405.33,
+      "rd": 23.9,
+      "ratingClass": "C",
+      "homeLocation": "Barcade FiDi",
+      "homeLocationId": "12253",
+      "percentile": 13.872455396655331,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m50249",
+      "name": "Nancy O'Brien",
+      "rating": 1367.86,
+      "rd": 28.3,
+      "ratingClass": "D",
+      "homeLocation": "Mean Max Brew Works Troy Taproom",
+      "homeLocationId": "8867",
+      "percentile": 6.405180043788141,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

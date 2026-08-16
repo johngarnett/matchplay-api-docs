@@ -1,0 +1,534 @@
+{
+  "communityId": "3",
+  "locations": [
+    {
+      "id": "11003",
+      "name": "Abari Game Bar",
+      "address": "1721 N Davidson St, Charlotte, NC 28206, US",
+      "tournaments": [
+        {
+          "id": 256190,
+          "name": "Belles & Chimes CLT Summer League 2026 - Week 6",
+          "date": "8/12/2026",
+          "playerCount": 10,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m12315",
+              "name": "Amanda Lax",
+              "isCommunityMember": false
+            },
+            {
+              "position": 2,
+              "playerId": "m27925",
+              "name": "Sarah Buchanan",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "i135535",
+              "name": "Parker",
+              "isCommunityMember": false
+            },
+            {
+              "position": 4,
+              "playerId": "m11021",
+              "name": "Aimee Carlton",
+              "isCommunityMember": false
+            },
+            {
+              "position": 4,
+              "playerId": "i141963",
+              "name": "Courtney Schultz",
+              "isCommunityMember": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7528",
+      "name": "Bang Back Pinball Lounge",
+      "address": "741 Saluda Ave, Columbia, SC, 29205, US",
+      "tournaments": [
+        {
+          "id": 266910,
+          "name": "Finals for Stern Army Open Pokemon Launch @ Bang Back Free Ballin Friday- August 14th",
+          "date": "8/14/2026",
+          "playerCount": 8,
+          "qualifying": {
+            "id": 266909,
+            "name": "Stern Army Open Pokemon Launch @ Bang Back Free Ballin Friday- August 14th",
+            "playerCount": 34
+          },
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m58524",
+              "name": "Patrick Bailey",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m45518",
+              "name": "Andrew Taylor SC",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m18180",
+              "name": "Michael Egbert",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m9093",
+              "name": "Todd Reynolds",
+              "isCommunityMember": true
+            }
+          ]
+        },
+        {
+          "id": 265807,
+          "name": "Bang Back Pinball League- The Grateful Summer 2026 #5- A Division",
+          "date": "8/11/2026",
+          "playerCount": 37,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m4775",
+              "name": "Nate Grant",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m58524",
+              "name": "Patrick Bailey",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m28153",
+              "name": "Michael Moore",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m43397",
+              "name": "Jared Wilson",
+              "isCommunityMember": true
+            }
+          ]
+        },
+        {
+          "id": 265812,
+          "name": "Bang Back Pinball League- The Grateful Summer 2026 #5- B Division",
+          "date": "8/11/2026",
+          "playerCount": 14,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m60243",
+              "name": "Jeffrey Cooley",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "p580540",
+              "name": "Rebekah Caceres",
+              "isCommunityMember": false
+            },
+            {
+              "position": 2,
+              "playerId": "m7748",
+              "name": "Krystal Grant",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "i129262",
+              "name": "Krystal Rampalli",
+              "isCommunityMember": true
+            }
+          ]
+        },
+        {
+          "id": 265979,
+          "name": "Stern Army Bang Back Free Ballin Friday- August 7th",
+          "date": "8/7/2026",
+          "playerCount": 11,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m47342",
+              "name": "George Hill",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m17235",
+              "name": "Fallyn Widdis",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m19562",
+              "name": "Gabrielle Baggette",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m43851",
+              "name": "Jon Foster",
+              "isCommunityMember": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "12788",
+      "name": "Pinky's Revenge",
+      "address": "250 Mill Street, Taylors, SC 29687, US",
+      "tournaments": [
+        {
+          "id": 266846,
+          "name": "Finals for Pinky’s Pinball August 2026 (2 of 4)",
+          "date": "8/12/2026",
+          "playerCount": 8,
+          "qualifying": {
+            "id": 266817,
+            "name": "Pinky’s Pinball August 2026 (2 of 4)",
+            "playerCount": 16
+          },
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m50711",
+              "name": "Alex Gowan",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m9093",
+              "name": "Todd Reynolds",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m17856",
+              "name": "Greg Latham",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m23393",
+              "name": "Sari Kitch",
+              "isCommunityMember": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8766",
+      "name": "Radioactive Pinball Arcade",
+      "address": "113 Laurens St SW, Aiken, SC 29801, US",
+      "tournaments": [
+        {
+          "id": 266836,
+          "name": "Finals for Radioactive Bi-weekly Dose Pinball Tournament 8/12/26",
+          "date": "8/12/2026",
+          "playerCount": 4,
+          "qualifying": {
+            "id": 266785,
+            "name": "Radioactive Bi-weekly Dose Pinball Tournament 8/12/26",
+            "playerCount": 9
+          },
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m37729",
+              "name": "Thomas Hozey",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m37402",
+              "name": "Lars Beckner",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m34815",
+              "name": "Charles Percy",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "i125151",
+              "name": "Trent Lee",
+              "isCommunityMember": true
+            }
+          ]
+        },
+        {
+          "id": 266165,
+          "name": "Finals for Transformers: More Than Meets the Eye Launch Party at Radioactive Pinball Arcade",
+          "date": "8/8/2026",
+          "playerCount": 16,
+          "qualifying": {
+            "id": 265648,
+            "name": "Transformers: More Than Meets the Eye Launch Party at Radioactive Pinball Arcade",
+            "playerCount": 47
+          },
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m10184",
+              "name": "Travis Kelly",
+              "isCommunityMember": false
+            },
+            {
+              "position": 2,
+              "playerId": "m22349",
+              "name": "Andrew Foard",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m45518",
+              "name": "Andrew Taylor SC",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m28153",
+              "name": "Michael Moore",
+              "isCommunityMember": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "10825",
+      "name": "The Break",
+      "address": "778 Folly Rd, Charleston, SC 29412, US",
+      "tournaments": [
+        {
+          "id": 266674,
+          "name": "Finals for Bump & Nudge at The Break 8/11/26",
+          "date": "8/11/2026",
+          "playerCount": 4,
+          "qualifying": {
+            "id": 266614,
+            "name": "Bump & Nudge at The Break 8/11/26",
+            "playerCount": 17
+          },
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m1927",
+              "name": "David Benke",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m11900",
+              "name": "Evan Tucker",
+              "isCommunityMember": false
+            },
+            {
+              "position": 3,
+              "playerId": "m27762",
+              "name": "Chad Corcoran",
+              "isCommunityMember": false
+            },
+            {
+              "position": 4,
+              "playerId": "m44878",
+              "name": "Andrew Gushen",
+              "isCommunityMember": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8746",
+      "name": "The Retrocade",
+      "address": "800 Haywood Road, Asheville, NC 28806, US",
+      "tournaments": [
+        {
+          "id": 266863,
+          "name": "Finals for Retrocade Weekly 6 round Group Matchplay with 3 round Finals (8/12/26)",
+          "date": "8/12/2026",
+          "playerCount": 4,
+          "qualifying": {
+            "id": 258659,
+            "name": "Retrocade Weekly 6 round Group Matchplay with 3 round Finals (8/12/26)",
+            "playerCount": 12
+          },
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m33888",
+              "name": "Austin Wayman",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m25151",
+              "name": "Jeff Hittenberger",
+              "isCommunityMember": false
+            },
+            {
+              "position": 3,
+              "playerId": "m30571",
+              "name": "Preston Powell",
+              "isCommunityMember": false
+            },
+            {
+              "position": 3,
+              "playerId": "m30441",
+              "name": "Jason Riggs",
+              "isCommunityMember": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5040",
+      "name": "Transmission Arcade",
+      "address": "1712 Main St, Columbia, SC 29201, USA",
+      "tournaments": [
+        {
+          "id": 258633,
+          "name": "C.R.A.P. S13 - W8",
+          "date": "8/12/2026",
+          "playerCount": 28,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m38183",
+              "name": "Jeffrey LeBlanc",
+              "isCommunityMember": true
+            },
+            {
+              "position": 1,
+              "playerId": "i76388",
+              "name": "Josh Rainwater",
+              "isCommunityMember": true
+            },
+            {
+              "position": 1,
+              "playerId": "m8204",
+              "name": "Steve Bertok",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m36182",
+              "name": "Don Barry",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m18180",
+              "name": "Egbert",
+              "isCommunityMember": true
+            }
+          ]
+        },
+        {
+          "id": 266333,
+          "name": "Finals for T.A. Second Sunday - August '26",
+          "date": "8/9/2026",
+          "playerCount": 8,
+          "qualifying": {
+            "id": 266239,
+            "name": "T.A. Second Sunday - August '26",
+            "playerCount": 21
+          },
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m8204",
+              "name": "Steve Bertok",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "i76388",
+              "name": "Josh Rainwater",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m58524",
+              "name": "Patrick Bailey",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m23592",
+              "name": "Ansley Green",
+              "isCommunityMember": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "unknown",
+      "name": "Unknown Location",
+      "address": "",
+      "tournaments": [
+        {
+          "id": 266495,
+          "name": "Finals for Monday Night Pinball at Kennebunk's 8/10",
+          "date": "8/10/2026",
+          "playerCount": 8,
+          "qualifying": {
+            "id": 266464,
+            "name": "Monday Night Pinball at Kennebunk's 8/10",
+            "playerCount": 29
+          },
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m22349",
+              "name": "Andrew Foard",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m42014",
+              "name": "Christopher Tirro",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m9093",
+              "name": "Todd Reynolds",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "i102641",
+              "name": "Jay Korybski",
+              "isCommunityMember": true
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

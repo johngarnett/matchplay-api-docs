@@ -1,0 +1,214 @@
+{
+  "tournamentId": 263335,
+  "name": "Stooner or Later - Schools Out, Pins in July Tournament",
+  "date": "2026-07-23",
+  "locationId": "10902",
+  "locationName": "The Thirsty Scholar",
+  "playerCount": 29,
+  "ratingsDate": "2026-07-23",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m30330",
+      "name": "Tyler Lawrence",
+      "rating": 1636.69,
+      "dailyRatingChange": 24.23
+    },
+    {
+      "position": 2,
+      "playerId": "m45947",
+      "name": "Josh Pegg",
+      "rating": 1669.36,
+      "dailyRatingChange": 12.04
+    },
+    {
+      "position": 3,
+      "playerId": "m45852",
+      "name": "Cara Gillespie",
+      "rating": 1571.83,
+      "dailyRatingChange": 5.07
+    },
+    {
+      "position": 4,
+      "playerId": "m32177",
+      "name": "Kent Peters",
+      "rating": 1604.34,
+      "dailyRatingChange": 43.84
+    },
+    {
+      "position": 5,
+      "playerId": "m26575",
+      "name": "Troy Sangster",
+      "rating": 1632.75,
+      "dailyRatingChange": 6.13
+    },
+    {
+      "position": 6,
+      "playerId": "m26855",
+      "name": "Jarvis Keindel",
+      "rating": 1620.23,
+      "dailyRatingChange": -12.16
+    },
+    {
+      "position": 7,
+      "playerId": "m45362",
+      "name": "Ethan Gillespie",
+      "rating": 1556.94,
+      "dailyRatingChange": 0.59
+    },
+    {
+      "position": 8,
+      "playerId": "m45997",
+      "name": "Jadin Hopper",
+      "rating": 1610.97,
+      "dailyRatingChange": -19.57
+    },
+    {
+      "position": 9,
+      "playerId": "m23510",
+      "name": "Julian Nahachewsky",
+      "rating": 1588.9,
+      "dailyRatingChange": -20.62
+    },
+    {
+      "position": 10,
+      "playerId": "m60891",
+      "name": "Brayden Cook",
+      "rating": 1531.41,
+      "dailyRatingChange": -15.08
+    },
+    {
+      "position": 11,
+      "playerId": "m580949",
+      "name": "Henk A. G",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 12,
+      "playerId": "m58562",
+      "name": "Jenna Libke",
+      "rating": 1539.07,
+      "dailyRatingChange": 46.72
+    },
+    {
+      "position": 13,
+      "playerId": "m29818",
+      "name": "Josh Pidskalny",
+      "rating": 1665.54,
+      "dailyRatingChange": -14.5
+    },
+    {
+      "position": 13,
+      "playerId": "m20333",
+      "name": "Kevin Elliot",
+      "rating": 1542.33,
+      "dailyRatingChange": 4.09
+    },
+    {
+      "position": 15,
+      "playerId": "m32047",
+      "name": "Shelby Lowe",
+      "rating": 1455.81,
+      "dailyRatingChange": 15.5
+    },
+    {
+      "position": 15,
+      "playerId": "m45998",
+      "name": "Craig Hanson",
+      "rating": 1466.6,
+      "dailyRatingChange": 23.54
+    },
+    {
+      "position": 17,
+      "playerId": "m59285",
+      "name": "Natalie Scott",
+      "rating": 1525.22,
+      "dailyRatingChange": -6.67
+    },
+    {
+      "position": 18,
+      "playerId": "m41475",
+      "name": "Jeff Shmyr",
+      "rating": 1490.92,
+      "dailyRatingChange": -10.8
+    },
+    {
+      "position": 18,
+      "playerId": "m49770",
+      "name": "Harley Rivet",
+      "rating": 1440.76,
+      "dailyRatingChange": 9.09
+    },
+    {
+      "position": 20,
+      "playerId": "m48657",
+      "name": "Tara Schoonbaert",
+      "rating": 1438.46,
+      "dailyRatingChange": -3.06
+    },
+    {
+      "position": 20,
+      "playerId": "m20332",
+      "name": "Ryan Fauchoux",
+      "rating": 1534.94,
+      "dailyRatingChange": -21.08
+    },
+    {
+      "position": 20,
+      "playerId": "m580948",
+      "name": "Crystal Palmer",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 23,
+      "playerId": "m58495",
+      "name": "Adam de Sa",
+      "rating": 1490.63,
+      "dailyRatingChange": -27.2
+    },
+    {
+      "position": 24,
+      "playerId": "m565316",
+      "name": "Johnny Chetyrbuk",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 24,
+      "playerId": "m555115",
+      "name": "Wade Gillespie",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 26,
+      "playerId": "m46007",
+      "name": "Bryan Reiter",
+      "rating": 1343.04,
+      "dailyRatingChange": -0.75
+    },
+    {
+      "position": 26,
+      "playerId": "m48697",
+      "name": "Roxanne Peters",
+      "rating": 1362.35,
+      "dailyRatingChange": -0.99
+    },
+    {
+      "position": 28,
+      "playerId": "m565321",
+      "name": "Michelle Medernach",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 29,
+      "playerId": "i126410",
+      "name": "Jillian Elliot",
+      "rating": 1420.19,
+      "dailyRatingChange": -23.66
+    }
+  ]
+}

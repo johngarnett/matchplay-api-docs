@@ -1,0 +1,130 @@
+{
+  "tournamentId": 263859,
+  "name": "Stern Army @ Game Over 7/25",
+  "date": "2026-07-26",
+  "locationId": "9021",
+  "locationName": "Game Over Arcade Bar",
+  "playerCount": 17,
+  "ratingsDate": "2026-07-26",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m3600",
+      "name": "Tanner Wade",
+      "rating": 1767.83,
+      "dailyRatingChange": 3.16
+    },
+    {
+      "position": 2,
+      "playerId": "m46311",
+      "name": "Whitten Sabbatini",
+      "rating": 1594.24,
+      "dailyRatingChange": 4.45
+    },
+    {
+      "position": 3,
+      "playerId": "m12579",
+      "name": "Keith Richter",
+      "rating": 1614.87,
+      "dailyRatingChange": 1.74
+    },
+    {
+      "position": 4,
+      "playerId": "m35518",
+      "name": "Jason Huie",
+      "rating": 1596.87,
+      "dailyRatingChange": 0.68
+    },
+    {
+      "position": 5,
+      "playerId": "m29666",
+      "name": "Kristin Machalek",
+      "rating": 1551.53,
+      "dailyRatingChange": 1.5
+    },
+    {
+      "position": 5,
+      "playerId": "m43672",
+      "name": "Michael Adams TN2",
+      "rating": 1568.82,
+      "dailyRatingChange": 1.48
+    },
+    {
+      "position": 5,
+      "playerId": "m34663",
+      "name": "Mark Krieger",
+      "rating": 1461.2,
+      "dailyRatingChange": 36.17
+    },
+    {
+      "position": 8,
+      "playerId": "m35622",
+      "name": "Cam Sczerba",
+      "rating": 1563.65,
+      "dailyRatingChange": -2.05
+    },
+    {
+      "position": 9,
+      "playerId": "m50011",
+      "name": "Dustin Spooner",
+      "rating": 1628.37,
+      "dailyRatingChange": -0.88
+    },
+    {
+      "position": 10,
+      "playerId": "m12177",
+      "name": "David Dent",
+      "rating": 1560.36,
+      "dailyRatingChange": -3.86
+    },
+    {
+      "position": 11,
+      "playerId": "m29991",
+      "name": "Rick Dewitt TN",
+      "rating": 1534.55,
+      "dailyRatingChange": -2.45
+    },
+    {
+      "position": 11,
+      "playerId": "m42810",
+      "name": "Brenna Walker",
+      "rating": 1469.98,
+      "dailyRatingChange": -2.68
+    },
+    {
+      "position": 13,
+      "playerId": "m52308",
+      "name": "Sean Andrews",
+      "rating": 1450.22,
+      "dailyRatingChange": -1.08
+    },
+    {
+      "position": 13,
+      "playerId": "m48947",
+      "name": "Mo Cummings",
+      "rating": 1557,
+      "dailyRatingChange": -3.85
+    },
+    {
+      "position": 15,
+      "playerId": "i144154",
+      "name": "Rick Bennett",
+      "rating": 1358.07,
+      "dailyRatingChange": 1.11
+    },
+    {
+      "position": 16,
+      "playerId": "m34208",
+      "name": "Amanda Huetson",
+      "rating": 1482.34,
+      "dailyRatingChange": -4.19
+    },
+    {
+      "position": 17,
+      "playerId": "m47351",
+      "name": "Grahmy Boy",
+      "rating": 1431.63,
+      "dailyRatingChange": -4.76
+    }
+  ]
+}

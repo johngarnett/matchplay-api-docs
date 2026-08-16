@@ -1,0 +1,88 @@
+{
+  "tournamentId": 265173,
+  "name": "August Queer Pinball",
+  "date": "2026-08-02",
+  "locationId": "10377",
+  "locationName": "Capital Pinball",
+  "playerCount": 11,
+  "ratingsDate": "2026-08-02",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m52363",
+      "name": "William Prescott",
+      "rating": 1478.18,
+      "dailyRatingChange": 9.78
+    },
+    {
+      "position": 2,
+      "playerId": "m27329",
+      "name": "Derek Beam",
+      "rating": 1440.65,
+      "dailyRatingChange": 2.74
+    },
+    {
+      "position": 2,
+      "playerId": "m61384",
+      "name": "Jade Dorak-Gertsch",
+      "rating": 1387.12,
+      "dailyRatingChange": 9.59
+    },
+    {
+      "position": 2,
+      "playerId": "m493495",
+      "name": "Jacky Bourdeau",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 5,
+      "playerId": "m29019",
+      "name": "Ivy Beam",
+      "rating": 1382.54,
+      "dailyRatingChange": 5.6
+    },
+    {
+      "position": 6,
+      "playerId": "m48613",
+      "name": "Lake Parker",
+      "rating": 1356.74,
+      "dailyRatingChange": 3.26
+    },
+    {
+      "position": 6,
+      "playerId": "m501335",
+      "name": "emily beatrice",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 8,
+      "playerId": "m59735",
+      "name": "Theo Dorak-Gertsch",
+      "rating": 1369.68,
+      "dailyRatingChange": 3.54
+    },
+    {
+      "position": 9,
+      "playerId": "m30368",
+      "name": "Kayla Neumeyer",
+      "rating": 1499.36,
+      "dailyRatingChange": -7.73
+    },
+    {
+      "position": 10,
+      "playerId": "m60984",
+      "name": "Jennifer Dudko",
+      "rating": 1416.08,
+      "dailyRatingChange": -12.26
+    },
+    {
+      "position": 11,
+      "playerId": "m43910",
+      "name": "Molly Pope",
+      "rating": 1540.04,
+      "dailyRatingChange": -10.29
+    }
+  ]
+}

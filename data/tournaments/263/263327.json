@@ -1,0 +1,221 @@
+{
+  "tournamentId": 263327,
+  "name": "I/O Monthly Stern Army Tournament July",
+  "date": "2026-07-23",
+  "locationId": "12584",
+  "locationName": "I/O Arcade Bar",
+  "playerCount": 30,
+  "ratingsDate": "2026-07-23",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m28141",
+      "name": "Mike Kennedy",
+      "rating": 1651.41,
+      "dailyRatingChange": -1.46
+    },
+    {
+      "position": 1,
+      "playerId": "m22640",
+      "name": "Keith Waz",
+      "rating": 1710.92,
+      "dailyRatingChange": 14.98
+    },
+    {
+      "position": 3,
+      "playerId": "m55164",
+      "name": "Julian Bundy",
+      "rating": 1675.52,
+      "dailyRatingChange": 19.33
+    },
+    {
+      "position": 3,
+      "playerId": "m9062",
+      "name": "Ken Kulig",
+      "rating": 1657.34,
+      "dailyRatingChange": -0.7
+    },
+    {
+      "position": 5,
+      "playerId": "m40402",
+      "name": "Alexander King",
+      "rating": 1631.39,
+      "dailyRatingChange": 15.63
+    },
+    {
+      "position": 5,
+      "playerId": "m38932",
+      "name": "True Garlynd",
+      "rating": 1692.83,
+      "dailyRatingChange": -1.55
+    },
+    {
+      "position": 7,
+      "playerId": "m47572",
+      "name": "Ryan Holcomb",
+      "rating": 1624.16,
+      "dailyRatingChange": 6.1
+    },
+    {
+      "position": 7,
+      "playerId": "m24124",
+      "name": "Kyle Stahl",
+      "rating": 1669.4,
+      "dailyRatingChange": -0.92
+    },
+    {
+      "position": 7,
+      "playerId": "m21915",
+      "name": "Roger Wolkoff",
+      "rating": 1566.94,
+      "dailyRatingChange": 6.68
+    },
+    {
+      "position": 10,
+      "playerId": "m11770",
+      "name": "Jeff Skelly",
+      "rating": 1626.55,
+      "dailyRatingChange": 3.41
+    },
+    {
+      "position": 10,
+      "playerId": "m37114",
+      "name": "Chris Niemcek",
+      "rating": 1531.71,
+      "dailyRatingChange": 18.2
+    },
+    {
+      "position": 10,
+      "playerId": "m5331",
+      "name": "Bryon Schmitz",
+      "rating": 1665.21,
+      "dailyRatingChange": -0.05
+    },
+    {
+      "position": 13,
+      "playerId": "m22653",
+      "name": "Eugene M Craven",
+      "rating": 1711.92,
+      "dailyRatingChange": -12.61
+    },
+    {
+      "position": 14,
+      "playerId": "m39411",
+      "name": "David Slaymaker",
+      "rating": 1691.49,
+      "dailyRatingChange": -1.6
+    },
+    {
+      "position": 15,
+      "playerId": "i108224",
+      "name": "Gryphon Ayers",
+      "rating": 1577.29,
+      "dailyRatingChange": 9.93
+    },
+    {
+      "position": 16,
+      "playerId": "m14981",
+      "name": "Ryan Spindler",
+      "rating": 1721,
+      "dailyRatingChange": -8.18
+    },
+    {
+      "position": 16,
+      "playerId": "m11754",
+      "name": "Sharkey Plender",
+      "rating": 1536.51,
+      "dailyRatingChange": 1.73
+    },
+    {
+      "position": 18,
+      "playerId": "i136753",
+      "name": "Jim Painter",
+      "rating": 1444.5,
+      "dailyRatingChange": 16.22
+    },
+    {
+      "position": 18,
+      "playerId": "m49091",
+      "name": "Jamie Kruser",
+      "rating": 1543.65,
+      "dailyRatingChange": -1.68
+    },
+    {
+      "position": 20,
+      "playerId": "m44890",
+      "name": "Donelle Sauby",
+      "rating": 1550.46,
+      "dailyRatingChange": -0.93
+    },
+    {
+      "position": 20,
+      "playerId": "m38961",
+      "name": "Branden Clark",
+      "rating": 1513.32,
+      "dailyRatingChange": -5.79
+    },
+    {
+      "position": 22,
+      "playerId": "m60611",
+      "name": "James Kirst",
+      "rating": 1503.21,
+      "dailyRatingChange": -6.71
+    },
+    {
+      "position": 22,
+      "playerId": "m39919",
+      "name": "Danni Henry",
+      "rating": 1476.18,
+      "dailyRatingChange": 0.18
+    },
+    {
+      "position": 24,
+      "playerId": "m50665",
+      "name": "Jeff McDonough",
+      "rating": 1451.57,
+      "dailyRatingChange": 2.76
+    },
+    {
+      "position": 24,
+      "playerId": "m12069",
+      "name": "Tom Menge",
+      "rating": 1682.47,
+      "dailyRatingChange": -8.01
+    },
+    {
+      "position": 26,
+      "playerId": "m11635",
+      "name": "Eric Thayer",
+      "rating": 1578.54,
+      "dailyRatingChange": -8.94
+    },
+    {
+      "position": 27,
+      "playerId": "m55616",
+      "name": "James Evans WI",
+      "rating": 1563.3,
+      "dailyRatingChange": -6.98
+    },
+    {
+      "position": 28,
+      "playerId": "m580935",
+      "name": "Andrew Craft",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 28,
+      "playerId": "m42378",
+      "name": "Jim McHale",
+      "rating": 1466.19,
+      "dailyRatingChange": -14
+    },
+    {
+      "position": 30,
+      "playerId": "m45519",
+      "name": "Thomas Kizzar",
+      "rating": 1409.44,
+      "dailyRatingChange": -26.68
+    }
+  ]
+}

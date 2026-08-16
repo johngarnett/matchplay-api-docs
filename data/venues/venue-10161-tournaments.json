@@ -1,0 +1,143 @@
+{
+  "locationId": "10161",
+  "venueName": "Birmingham's Vodka & Ale House",
+  "venueAddress": "2635 Star Lite St, Regina, SK S4V 3E1",
+  "tournaments": [
+    {
+      "id": 248094,
+      "name": "QCPL 2026: Season 2: Final!!!",
+      "date": "8/12/2026",
+      "playerCount": 8,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m25709",
+          "name": "Bob Rhinelander",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m7289",
+          "name": "Shaun Amos",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m26944",
+          "name": "Drew Krieser",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m27189",
+          "name": "Brett Schiissler",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 248096,
+      "name": "QCPL 2026: Season 2: Bside Final!!!",
+      "date": "8/12/2026",
+      "playerCount": 8,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m24428",
+          "name": "Shannon Berry-Krieser",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "i53164",
+          "name": "Colby Hansen",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m24579",
+          "name": "Kevin Lucier",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m11957",
+          "name": "Travis Cameron",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 248093,
+      "name": "QCPL 2026: Season 2 Session 6",
+      "date": "7/29/2026",
+      "playerCount": 19,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m25709",
+          "name": "Bob Rhinelander",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m21485",
+          "name": "Lance Wormsbecker",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m32249",
+          "name": "Dustin Geib",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m7289",
+          "name": "Shaun Amos",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 256491,
+      "name": "QCPinball - 2026/07/25 - Stage 2/2 - Elimination Group Match Play",
+      "date": "7/25/2026",
+      "playerCount": 8,
+      "qualifying": {
+        "id": 256490,
+        "name": "QCPinball - 2026/07/25 - Stage 1/2 - Group Match Play",
+        "playerCount": 28
+      },
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m39147",
+          "name": "Charles Osachoff",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m25709",
+          "name": "Bob Rhinelander",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m7289",
+          "name": "Shaun Amos",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m45947",
+          "name": "Josh Pegg",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

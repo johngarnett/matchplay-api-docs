@@ -1,0 +1,67 @@
+{
+  "tournamentId": 262941,
+  "name": "Finals for Jacks HQ at The Alby July 2026",
+  "date": "2026-07-20",
+  "locationId": "12821",
+  "locationName": "The Alby",
+  "playerCount": 8,
+  "ratingsDate": "2026-07-20",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m52631",
+      "name": "Jose Ciminelli",
+      "rating": 1613.83,
+      "dailyRatingChange": 8.91
+    },
+    {
+      "position": 2,
+      "playerId": "m44000",
+      "name": "Alex Ciminelli",
+      "rating": 1638.85,
+      "dailyRatingChange": 5.37
+    },
+    {
+      "position": 3,
+      "playerId": "m16003",
+      "name": "Ryan Finn",
+      "rating": 1606.53,
+      "dailyRatingChange": 12.29
+    },
+    {
+      "position": 4,
+      "playerId": "m44051",
+      "name": "Thomas Chamberlin",
+      "rating": 1616,
+      "dailyRatingChange": 7.73
+    },
+    {
+      "position": 5,
+      "playerId": "m12581",
+      "name": "Shannon Paull",
+      "rating": 1654.91,
+      "dailyRatingChange": 6.98
+    },
+    {
+      "position": 5,
+      "playerId": "m9285",
+      "name": "Peter Menzel",
+      "rating": 1613.5,
+      "dailyRatingChange": 4.86
+    },
+    {
+      "position": 7,
+      "playerId": "m34297",
+      "name": "Carl Rhodes",
+      "rating": 1565.32,
+      "dailyRatingChange": 2.17
+    },
+    {
+      "position": 7,
+      "playerId": "m6675",
+      "name": "Aaron Draper",
+      "rating": 1599.08,
+      "dailyRatingChange": -2.19
+    }
+  ]
+}

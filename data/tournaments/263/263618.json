@@ -1,0 +1,60 @@
+{
+  "tournamentId": 263618,
+  "name": "Beyond The Cut (GED) - July",
+  "date": "2026-07-25",
+  "locationId": "12172",
+  "locationName": "The Fixin' To",
+  "playerCount": 7,
+  "ratingsDate": "2026-07-25",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m9676",
+      "name": "Rachel Haukkala",
+      "rating": 1562.06,
+      "dailyRatingChange": 7.61
+    },
+    {
+      "position": 2,
+      "playerId": "m38166",
+      "name": "Fuchsia Troutman",
+      "rating": 1567.42,
+      "dailyRatingChange": 5.46
+    },
+    {
+      "position": 3,
+      "playerId": "m57267",
+      "name": "Elle Brooks",
+      "rating": 1483.79,
+      "dailyRatingChange": 9.43
+    },
+    {
+      "position": 4,
+      "playerId": "m37376",
+      "name": "Trish Lockhart",
+      "rating": 1558.25,
+      "dailyRatingChange": 3.26
+    },
+    {
+      "position": 5,
+      "playerId": "m7407",
+      "name": "Dawnda Durbin",
+      "rating": 1543.89,
+      "dailyRatingChange": -1.38
+    },
+    {
+      "position": 6,
+      "playerId": "m44471",
+      "name": "Kim Epling",
+      "rating": 1444.3,
+      "dailyRatingChange": -13.23
+    },
+    {
+      "position": 7,
+      "playerId": "m42079",
+      "name": "Renee Bartley",
+      "rating": 1323.56,
+      "dailyRatingChange": -22.83
+    }
+  ]
+}

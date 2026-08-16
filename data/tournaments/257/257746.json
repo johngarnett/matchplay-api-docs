@@ -1,0 +1,123 @@
+{
+  "tournamentId": 257746,
+  "name": "Finals for Cola Belles and Chimes Ladies Summer League",
+  "date": "2026-07-31",
+  "locationId": "8947",
+  "locationName": "Craft And Draft Irmo",
+  "playerCount": 16,
+  "ratingsDate": "2026-07-31",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m39144",
+      "name": "Kristen Weirich",
+      "rating": 1602.34,
+      "dailyRatingChange": 13.67
+    },
+    {
+      "position": 2,
+      "playerId": "m24008",
+      "name": "Allison Brillhart",
+      "rating": 1547.36,
+      "dailyRatingChange": 17.63
+    },
+    {
+      "position": 3,
+      "playerId": "m18463",
+      "name": "Erin Sweeney",
+      "rating": 1581.5,
+      "dailyRatingChange": -3.02
+    },
+    {
+      "position": 4,
+      "playerId": "m23592",
+      "name": "Ansley Green",
+      "rating": 1503.44,
+      "dailyRatingChange": -3.75
+    },
+    {
+      "position": 5,
+      "playerId": "m44860",
+      "name": "Charlie Foster",
+      "rating": 1535.21,
+      "dailyRatingChange": 6.63
+    },
+    {
+      "position": 6,
+      "playerId": "m27925",
+      "name": "Sarah Buchanan",
+      "rating": 1523.92,
+      "dailyRatingChange": 0.9
+    },
+    {
+      "position": 6,
+      "playerId": "m24005",
+      "name": "Kate Satterfield",
+      "rating": 1500.99,
+      "dailyRatingChange": 1.04
+    },
+    {
+      "position": 8,
+      "playerId": "m7748",
+      "name": "Krystal Grant",
+      "rating": 1559.72,
+      "dailyRatingChange": -2.54
+    },
+    {
+      "position": 9,
+      "playerId": "m17235",
+      "name": "Fallyn Widdis",
+      "rating": 1529.8,
+      "dailyRatingChange": 0.54
+    },
+    {
+      "position": 10,
+      "playerId": "m52821",
+      "name": "Rebecca Drucker",
+      "rating": 1458.11,
+      "dailyRatingChange": -0.79
+    },
+    {
+      "position": 10,
+      "playerId": "m40695",
+      "name": "Jen Floyd",
+      "rating": 1505.6,
+      "dailyRatingChange": -3.02
+    },
+    {
+      "position": 10,
+      "playerId": "m35984",
+      "name": "Angela Hopkins",
+      "rating": 1463.53,
+      "dailyRatingChange": -2.43
+    },
+    {
+      "position": 13,
+      "playerId": "m20640",
+      "name": "Sarah Kelly",
+      "rating": 1454.81,
+      "dailyRatingChange": -3.22
+    },
+    {
+      "position": 13,
+      "playerId": "m24511",
+      "name": "Danielle Hiller",
+      "rating": 1495.43,
+      "dailyRatingChange": -8.56
+    },
+    {
+      "position": 15,
+      "playerId": "m22586",
+      "name": "Ashley Hammer",
+      "rating": 1449.6,
+      "dailyRatingChange": -6.9
+    },
+    {
+      "position": 15,
+      "playerId": "m50921",
+      "name": "Amy Cohan",
+      "rating": 1454.69,
+      "dailyRatingChange": -4.89
+    }
+  ]
+}

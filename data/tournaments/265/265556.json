@@ -1,0 +1,109 @@
+{
+  "tournamentId": 265556,
+  "name": "The Republic Tournament",
+  "date": "2026-08-05",
+  "locationId": "8446",
+  "locationName": "The Republic Bottle Shop",
+  "playerCount": 14,
+  "ratingsDate": "2026-08-05",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m39658",
+      "name": "Joe woodard",
+      "rating": 1582.73,
+      "dailyRatingChange": 6.22
+    },
+    {
+      "position": 2,
+      "playerId": "m40608",
+      "name": "Julie Finco",
+      "rating": 1538.21,
+      "dailyRatingChange": 3.34
+    },
+    {
+      "position": 3,
+      "playerId": "m31191",
+      "name": "Nicholas Kaide",
+      "rating": 1574.22,
+      "dailyRatingChange": 1
+    },
+    {
+      "position": 4,
+      "playerId": "m441375",
+      "name": "chris denton",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 5,
+      "playerId": "m26009",
+      "name": "Nadine Scarlett",
+      "rating": 1504.13,
+      "dailyRatingChange": 0.49
+    },
+    {
+      "position": 6,
+      "playerId": "i48109",
+      "name": "Trent Davis",
+      "rating": 1507.24,
+      "dailyRatingChange": -6.74
+    },
+    {
+      "position": 6,
+      "playerId": "m21233",
+      "name": "Jameson Culler",
+      "rating": 1464.56,
+      "dailyRatingChange": 12.56
+    },
+    {
+      "position": 6,
+      "playerId": "m13443",
+      "name": "Ethan Boggess",
+      "rating": 1386.83,
+      "dailyRatingChange": 6.69
+    },
+    {
+      "position": 9,
+      "playerId": "m22917",
+      "name": "Robert Bissell",
+      "rating": 1565.55,
+      "dailyRatingChange": -2.57
+    },
+    {
+      "position": 10,
+      "playerId": "m441377",
+      "name": "JM",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 10,
+      "playerId": "m27904",
+      "name": "Patrick Willis",
+      "rating": 1511.08,
+      "dailyRatingChange": -4.93
+    },
+    {
+      "position": 10,
+      "playerId": "m13692",
+      "name": "Jobie Allen",
+      "rating": 1580.65,
+      "dailyRatingChange": -5.39
+    },
+    {
+      "position": 13,
+      "playerId": "i93090",
+      "name": "Jenny Cline",
+      "rating": 1481.44,
+      "dailyRatingChange": -3.81
+    },
+    {
+      "position": 13,
+      "playerId": "m20283",
+      "name": "Dan Cevetello",
+      "rating": 1644.18,
+      "dailyRatingChange": -4.19
+    }
+  ]
+}

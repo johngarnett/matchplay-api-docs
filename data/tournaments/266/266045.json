@@ -1,0 +1,67 @@
+{
+  "tournamentId": 266045,
+  "name": "Finals for Pinball Saturday - A.R.C.A.D.E. Stern Army - Agosto 2026",
+  "date": "2026-08-08",
+  "locationId": "10135",
+  "locationName": "Associació A.R.C.A.D.E",
+  "playerCount": 8,
+  "ratingsDate": "2026-08-08",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m45437",
+      "name": "Rafael de Lima",
+      "rating": 1629.08,
+      "dailyRatingChange": 5.42
+    },
+    {
+      "position": 2,
+      "playerId": "m42971",
+      "name": "Danilo barbosa",
+      "rating": 1570.29,
+      "dailyRatingChange": 22.94
+    },
+    {
+      "position": 3,
+      "playerId": "i158454",
+      "name": "Luis Alberto de",
+      "rating": 1564.33,
+      "dailyRatingChange": 39.67
+    },
+    {
+      "position": 4,
+      "playerId": "m96",
+      "name": "Johan Småros",
+      "rating": 1532.1,
+      "dailyRatingChange": 2.55
+    },
+    {
+      "position": 5,
+      "playerId": "m974",
+      "name": "Leif Spångberg",
+      "rating": 1547.04,
+      "dailyRatingChange": -3.39
+    },
+    {
+      "position": 6,
+      "playerId": "m30537",
+      "name": "Pere Vicien",
+      "rating": 1536.48,
+      "dailyRatingChange": 0.71
+    },
+    {
+      "position": 7,
+      "playerId": "m55633",
+      "name": "Miguel Ángel González",
+      "rating": 1579.63,
+      "dailyRatingChange": 5.07
+    },
+    {
+      "position": 8,
+      "playerId": "m46196",
+      "name": "Enric Muraday",
+      "rating": 1466.93,
+      "dailyRatingChange": -15.81
+    }
+  ]
+}

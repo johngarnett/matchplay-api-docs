@@ -1,0 +1,155 @@
+{
+  "locationId": "6645",
+  "name": "1up Lounge",
+  "address": "1121 McKenzie Ave, Bellingham, WA 98225, USA",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 7,
+  "relatedVenues": [
+    {
+      "locationId": "11252",
+      "name": "Aim & Game",
+      "address": "5610 Barrett Rd, Ferndale, WA 98248, US",
+      "count": 10
+    },
+    {
+      "locationId": "5959",
+      "name": "Another Castle Arcade Edition Edmonds",
+      "address": "23303 Hwy 99 c, Edmonds, WA 98026, USA",
+      "count": 9
+    },
+    {
+      "locationId": "6901",
+      "name": "Ruckus Room",
+      "address": "1423 Railroad Ave, Bellingham, WA 98225, USA",
+      "count": 6
+    },
+    {
+      "locationId": "1893",
+      "name": "The Ice Box",
+      "address": "615 NW Bright St, Seattle, WA 98107, USA",
+      "count": 5
+    },
+    {
+      "locationId": "5257",
+      "name": "20th Century Bowl",
+      "address": "1411 N State St, Bellingham, WA 98225, USA",
+      "count": 5
+    },
+    {
+      "locationId": "6346",
+      "name": "NWPAS",
+      "address": "",
+      "count": 5
+    },
+    {
+      "locationId": "8474",
+      "name": "The Triple Knock",
+      "address": "2713 6th Avenue, Tacoma, WA 98406, US",
+      "count": 2
+    },
+    {
+      "locationId": "5246",
+      "name": "Next Level Pinball Museum",
+      "address": "1458 NE 25th Ave, Hillsboro, OR 97124, USA",
+      "count": 1
+    },
+    {
+      "locationId": "5866",
+      "name": "Kiitos Brewing",
+      "address": "",
+      "count": 1
+    },
+    {
+      "locationId": "6312",
+      "name": "Crave 80s Arcade Bar",
+      "address": "",
+      "count": 1
+    }
+  ],
+  "players": [
+    {
+      "id": "m3038",
+      "name": "Joshua Francis",
+      "rating": 1778.12,
+      "rd": 19.81,
+      "ratingClass": "Expert",
+      "homeLocation": "Another Castle Arcade Edition Edmonds",
+      "homeLocationId": "5959",
+      "percentile": 99.27330320957749,
+      "changeDisplay": "+13.9",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m17565",
+      "name": "Mike Wolff",
+      "rating": 1601.03,
+      "rd": 25.47,
+      "ratingClass": "A",
+      "homeLocation": "Ruckus Room",
+      "homeLocationId": "6901",
+      "percentile": 82.27046163879443,
+      "changeDisplay": "-18.6",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m26178",
+      "name": "Hugh newmark",
+      "rating": 1596.77,
+      "rd": 26.03,
+      "ratingClass": "B",
+      "homeLocation": "Aim & Game",
+      "homeLocationId": "11252",
+      "percentile": 81.21768295523361,
+      "changeDisplay": "+18.9",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "i44758",
+      "name": "Whit Warden",
+      "rating": 1553.05,
+      "rd": 37.08,
+      "ratingClass": "B",
+      "homeLocation": "20th Century Bowl",
+      "homeLocationId": "5257",
+      "percentile": 67.92751665346812,
+      "changeDisplay": "-0.9",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m24928",
+      "name": "Laser halprin",
+      "rating": 1535.34,
+      "rd": 38.4,
+      "ratingClass": "B",
+      "homeLocation": "20th Century Bowl",
+      "homeLocationId": "5257",
+      "percentile": 61.11706339963665,
+      "changeDisplay": "-23.0",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m45067",
+      "name": "Ryan Russell",
+      "rating": 1454.95,
+      "rd": 31.7,
+      "ratingClass": "C",
+      "homeLocation": "Kiitos Brewing",
+      "homeLocationId": "5866",
+      "percentile": 29.081846555177716,
+      "changeDisplay": "-5.8",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m45827",
+      "name": "Jay gaunt",
+      "rating": 1430.97,
+      "rd": 27.39,
+      "ratingClass": "C",
+      "homeLocation": "Aim & Game",
+      "homeLocationId": "11252",
+      "percentile": 20.892532724647133,
+      "changeDisplay": "-6.7",
+      "changeClass": "change-negative"
+    }
+  ]
+}

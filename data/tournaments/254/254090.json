@@ -1,0 +1,123 @@
+{
+  "tournamentId": 254090,
+  "name": "KCK Women's League #8",
+  "date": "2026-07-24",
+  "locationId": "7102",
+  "locationName": "403 Club",
+  "playerCount": 16,
+  "ratingsDate": "2026-07-24",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m581243",
+      "name": "Evelyn Arnspiger",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 2,
+      "playerId": "m43026",
+      "name": "Morgan DeSoignie",
+      "rating": 1520.29,
+      "dailyRatingChange": 8.94
+    },
+    {
+      "position": 3,
+      "playerId": "m43033",
+      "name": "Courtney Arnote",
+      "rating": 1478.2,
+      "dailyRatingChange": 6.27
+    },
+    {
+      "position": 4,
+      "playerId": "m556384",
+      "name": "Mandy McKinney",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 4,
+      "playerId": "m62221",
+      "name": "Avery Hobbs",
+      "rating": 1521.82,
+      "dailyRatingChange": null
+    },
+    {
+      "position": 6,
+      "playerId": "m59718",
+      "name": "Micki Welcome Hill",
+      "rating": 1453.44,
+      "dailyRatingChange": 9.33
+    },
+    {
+      "position": 6,
+      "playerId": "m60859",
+      "name": "Linda Holleicke",
+      "rating": 1388.75,
+      "dailyRatingChange": 11.26
+    },
+    {
+      "position": 6,
+      "playerId": "m12524",
+      "name": "Karli Cash",
+      "rating": 1330.46,
+      "dailyRatingChange": 3.04
+    },
+    {
+      "position": 9,
+      "playerId": "m53156",
+      "name": "Cecilia Quick",
+      "rating": 1409.33,
+      "dailyRatingChange": -6.1
+    },
+    {
+      "position": 10,
+      "playerId": "m41254",
+      "name": "Jennifer Waters",
+      "rating": 1481.38,
+      "dailyRatingChange": -10.91
+    },
+    {
+      "position": 10,
+      "playerId": "m40587",
+      "name": "Maria Macias",
+      "rating": 1477.55,
+      "dailyRatingChange": -12.35
+    },
+    {
+      "position": 10,
+      "playerId": "m458372",
+      "name": "Kathy Ripley",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 10,
+      "playerId": "m581245",
+      "name": "Lauren Overton",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 14,
+      "playerId": "m35433",
+      "name": "Liz Wade",
+      "rating": 1390.8,
+      "dailyRatingChange": -4.19
+    },
+    {
+      "position": 14,
+      "playerId": "i141742",
+      "name": "Carol Normandin",
+      "rating": 1257.86,
+      "dailyRatingChange": -6.18
+    },
+    {
+      "position": 16,
+      "playerId": "m522051",
+      "name": "Heather Harrison",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

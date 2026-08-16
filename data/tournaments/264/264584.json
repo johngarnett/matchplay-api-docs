@@ -1,0 +1,102 @@
+{
+  "tournamentId": 264584,
+  "name": "[FINALS] The Pinball Parlour August Tournament",
+  "date": "2026-08-02",
+  "locationId": "11292",
+  "locationName": "The Pinball Parlour",
+  "playerCount": 13,
+  "ratingsDate": "2026-08-02",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m53902",
+      "name": "Michael Khamatgaleev",
+      "rating": 1707.6,
+      "dailyRatingChange": 4.69
+    },
+    {
+      "position": 2,
+      "playerId": "m43768",
+      "name": "Phillip De Bortoli",
+      "rating": 1650.48,
+      "dailyRatingChange": 1.67
+    },
+    {
+      "position": 3,
+      "playerId": "m22789",
+      "name": "Douglas Lewis",
+      "rating": 1664,
+      "dailyRatingChange": 2.9
+    },
+    {
+      "position": 4,
+      "playerId": "m45161",
+      "name": "Suzanne van Strien",
+      "rating": 1536.65,
+      "dailyRatingChange": 27.14
+    },
+    {
+      "position": 5,
+      "playerId": "m42532",
+      "name": "Stuart Rice",
+      "rating": 1601.54,
+      "dailyRatingChange": 4.25
+    },
+    {
+      "position": 6,
+      "playerId": "m1971",
+      "name": "Adrian Wilson",
+      "rating": 1593.49,
+      "dailyRatingChange": 13.48
+    },
+    {
+      "position": 7,
+      "playerId": "m47362",
+      "name": "Tony Pain",
+      "rating": 1532.47,
+      "dailyRatingChange": 14.64
+    },
+    {
+      "position": 8,
+      "playerId": "m45183",
+      "name": "Ariana Coffey",
+      "rating": 1595,
+      "dailyRatingChange": 4.31
+    },
+    {
+      "position": 9,
+      "playerId": "m25621",
+      "name": "Ritsert Harsveld",
+      "rating": 1623.02,
+      "dailyRatingChange": 2.05
+    },
+    {
+      "position": 10,
+      "playerId": "m8961",
+      "name": "Jessica De Mercurio",
+      "rating": 1595.05,
+      "dailyRatingChange": -5.91
+    },
+    {
+      "position": 11,
+      "playerId": "m951",
+      "name": "Stacey Borg",
+      "rating": 1664.42,
+      "dailyRatingChange": -11.08
+    },
+    {
+      "position": 12,
+      "playerId": "m62568",
+      "name": "Aaron Grech",
+      "rating": 1497.75,
+      "dailyRatingChange": null
+    },
+    {
+      "position": 13,
+      "playerId": "m583968",
+      "name": "Patrick Bakersis",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

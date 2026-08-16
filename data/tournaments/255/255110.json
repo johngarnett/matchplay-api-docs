@@ -1,0 +1,81 @@
+{
+  "tournamentId": 255110,
+  "name": "PWO @ Lowertown -  August 2026",
+  "date": "2026-08-06",
+  "locationId": "10920",
+  "locationName": "Lowertown Brewery",
+  "playerCount": 10,
+  "ratingsDate": "2026-08-06",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m14750",
+      "name": "Heather Ryerse",
+      "rating": 1508.3,
+      "dailyRatingChange": 6.33
+    },
+    {
+      "position": 2,
+      "playerId": "m584840",
+      "name": "Chantal Lavigne",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 3,
+      "playerId": "m17823",
+      "name": "Jeanne Klodt",
+      "rating": 1500.4,
+      "dailyRatingChange": 4.53
+    },
+    {
+      "position": 3,
+      "playerId": "m27593",
+      "name": "LC Buckingham",
+      "rating": 1638.14,
+      "dailyRatingChange": -2
+    },
+    {
+      "position": 5,
+      "playerId": "m40932",
+      "name": "Sara Gatien",
+      "rating": 1478.15,
+      "dailyRatingChange": 5.72
+    },
+    {
+      "position": 6,
+      "playerId": "m12648",
+      "name": "Caitlyn Pascal",
+      "rating": 1613.6,
+      "dailyRatingChange": -10.21
+    },
+    {
+      "position": 7,
+      "playerId": "m14751",
+      "name": "Christine Ellsworth",
+      "rating": 1440.42,
+      "dailyRatingChange": 5.56
+    },
+    {
+      "position": 8,
+      "playerId": "m27306",
+      "name": "Pamela Taplay",
+      "rating": 1443.86,
+      "dailyRatingChange": -3.48
+    },
+    {
+      "position": 9,
+      "playerId": "i76072",
+      "name": "Alexis Glaab",
+      "rating": 1322.94,
+      "dailyRatingChange": -11.23
+    },
+    {
+      "position": 10,
+      "playerId": "m424616",
+      "name": "Ash Mitchell",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

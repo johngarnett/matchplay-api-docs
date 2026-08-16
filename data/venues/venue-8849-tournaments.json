@@ -1,0 +1,44 @@
+{
+  "locationId": "8849",
+  "venueName": "Roxy's A4cade",
+  "venueAddress": "292 Massachusetts Avenue, Cambridge, MA 02139, US",
+  "tournaments": [
+    {
+      "id": 265548,
+      "name": "Finals for Tilt Through V3 Flip Frenzy updated",
+      "date": "8/4/2026",
+      "playerCount": 4,
+      "qualifying": {
+        "id": 265525,
+        "name": "Tilt Through V3 Flip Frenzy updated",
+        "playerCount": 17
+      },
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m40667",
+          "name": "Micah Weston",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m29203",
+          "name": "Lindsay Cole",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m22635",
+          "name": "Anne Whipple",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m43974",
+          "name": "Clay Sarafin",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "tournamentId": 262885,
+  "name": "X-Golf July Pinball Wizards",
+  "date": "2026-07-20",
+  "locationId": "13592",
+  "locationName": "X-Golf Kennewick",
+  "playerCount": 14,
+  "ratingsDate": "2026-07-20",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m54158",
+      "name": "Cade Bryan",
+      "rating": 1565.44,
+      "dailyRatingChange": 16.33
+    },
+    {
+      "position": 2,
+      "playerId": "m528141",
+      "name": "Will Bryan",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 3,
+      "playerId": "m580177",
+      "name": "Matthew Williams",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 4,
+      "playerId": "m500105",
+      "name": "James Evans",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 4,
+      "playerId": "m580175",
+      "name": "Aria Miller",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 4,
+      "playerId": "m500057",
+      "name": "Sherry Elizabeth",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 7,
+      "playerId": "m53250",
+      "name": "Jeremy Miller",
+      "rating": 1471.9,
+      "dailyRatingChange": -6.61
+    },
+    {
+      "position": 7,
+      "playerId": "m522706",
+      "name": "Fidel Chavez",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 7,
+      "playerId": "m532858",
+      "name": "Chris Frey",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 7,
+      "playerId": "m545192",
+      "name": "Derek Rhodes",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 11,
+      "playerId": "m569739",
+      "name": "Kevin mendelsohn",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 11,
+      "playerId": "m569740",
+      "name": "Nino zuljevi",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 11,
+      "playerId": "m500106",
+      "name": "Ronda Evans",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 11,
+      "playerId": "m545188",
+      "name": "Collin Schuler",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

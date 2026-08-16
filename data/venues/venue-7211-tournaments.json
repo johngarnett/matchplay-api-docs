@@ -1,0 +1,192 @@
+{
+  "locationId": "7211",
+  "venueName": "Arkadium Retro Arcade",
+  "venueAddress": "180 - 130 Broadway Blvd, Sherwood Park, Alberta T8H2A3, CA",
+  "tournaments": [
+    {
+      "id": 266972,
+      "name": "A Finals for 2026 DHPL League Championship Series #13",
+      "date": "8/14/2026",
+      "playerCount": 16,
+      "qualifying": {
+        "id": 266961,
+        "name": "2026 DHPL League Championship Series #13",
+        "playerCount": 44
+      },
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m44520",
+          "name": "Leighton Blomme",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m2299",
+          "name": "Mike Wieschorster",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m44359",
+          "name": "Gary Wong",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m35214",
+          "name": "Mike Bowman",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 266975,
+      "name": "Novice Finals for 2026 DHPL League Championship Series #13",
+      "date": "8/13/2026",
+      "playerCount": 8,
+      "qualifying": {
+        "id": 266961,
+        "name": "2026 DHPL League Championship Series #13",
+        "playerCount": 44
+      },
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m62696",
+          "name": "Scott Treasure",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m44736",
+          "name": "Caitlyn Lattin",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m27662",
+          "name": "Benjamin Still",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m22915",
+          "name": "Lonni Melvyn",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 266973,
+      "name": "B Finals for 2026 DHPL League Championship Series #13",
+      "date": "8/13/2026",
+      "playerCount": 8,
+      "qualifying": {
+        "id": 266961,
+        "name": "2026 DHPL League Championship Series #13",
+        "playerCount": 44
+      },
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m23545",
+          "name": "Amanda Anderson",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m46225",
+          "name": "Garrett Kruger",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m49112",
+          "name": "Chris Gabber",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m14382",
+          "name": "Scott Stinchcombe",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 265919,
+      "name": "Finals for DHPL's Ark Angels - Ladies Night #9",
+      "date": "8/6/2026",
+      "playerCount": 12,
+      "qualifying": {
+        "id": 228768,
+        "name": "DHPL's Ark Angels - Ladies Night #9",
+        "playerCount": 28
+      },
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m22915",
+          "name": "Lonni Melvyn",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m22692",
+          "name": "Angel Moroz",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m27168",
+          "name": "Ashley Cox",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m14380",
+          "name": "Brenda Yakimets",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 263528,
+      "name": "Finals for DHPL's Ark Angels - Ladies Night #8",
+      "date": "7/23/2026",
+      "playerCount": 12,
+      "qualifying": {
+        "id": 228767,
+        "name": "DHPL's Ark Angels - Ladies Night #8",
+        "playerCount": 37
+      },
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m27168",
+          "name": "Ashley Cox",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m4693",
+          "name": "Christa Lucyk",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m14380",
+          "name": "Brenda Yakimets",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m59869",
+          "name": "Evelyn Lucyk",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

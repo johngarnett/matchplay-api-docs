@@ -1,0 +1,53 @@
+{
+  "tournamentId": 253735,
+  "name": "B Division Finals for KCMO Pinball League - July 22",
+  "date": "2026-07-23",
+  "locationId": "10584",
+  "locationName": "Solid State Pinball Supply",
+  "playerCount": 6,
+  "ratingsDate": "2026-07-23",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m11765",
+      "name": "Grady Noonen",
+      "rating": 1567.57,
+      "dailyRatingChange": 3.14
+    },
+    {
+      "position": 2,
+      "playerId": "m22075",
+      "name": "Justin Erickson",
+      "rating": 1608.06,
+      "dailyRatingChange": 8.06
+    },
+    {
+      "position": 3,
+      "playerId": "m31327",
+      "name": "Tyler Cook",
+      "rating": 1655.12,
+      "dailyRatingChange": -0.38
+    },
+    {
+      "position": 4,
+      "playerId": "m19126",
+      "name": "Jon Johnson",
+      "rating": 1499.96,
+      "dailyRatingChange": 1.12
+    },
+    {
+      "position": 5,
+      "playerId": "m51852",
+      "name": "Thomas Burchell",
+      "rating": 1485.06,
+      "dailyRatingChange": -7.94
+    },
+    {
+      "position": 6,
+      "playerId": "m45077",
+      "name": "Danny Brodie",
+      "rating": 1565.66,
+      "dailyRatingChange": -4.42
+    }
+  ]
+}

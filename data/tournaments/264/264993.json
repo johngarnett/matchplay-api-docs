@@ -1,0 +1,144 @@
+{
+  "tournamentId": 264993,
+  "name": "Saturday Strikes @ Lost Abbey 8.1.26",
+  "date": "2026-08-02",
+  "locationId": "11907",
+  "locationName": "Lost Abbey Brewing Vista",
+  "playerCount": 19,
+  "ratingsDate": "2026-08-02",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m55777",
+      "name": "Gary L Brown",
+      "rating": 1678.19,
+      "dailyRatingChange": 18.87
+    },
+    {
+      "position": 2,
+      "playerId": "m32293",
+      "name": "Gaizah Wagschal",
+      "rating": 1729.89,
+      "dailyRatingChange": 7.18
+    },
+    {
+      "position": 3,
+      "playerId": "m26158",
+      "name": "Robert Potter",
+      "rating": 1786.79,
+      "dailyRatingChange": -4.71
+    },
+    {
+      "position": 3,
+      "playerId": "m25460",
+      "name": "Dean StAntoine",
+      "rating": 1697.92,
+      "dailyRatingChange": 6.72
+    },
+    {
+      "position": 5,
+      "playerId": "m2821",
+      "name": "Mark Maleko Schulz",
+      "rating": 1768.43,
+      "dailyRatingChange": -2.71
+    },
+    {
+      "position": 5,
+      "playerId": "m7115",
+      "name": "Brian Heath",
+      "rating": 1652.79,
+      "dailyRatingChange": 3.62
+    },
+    {
+      "position": 5,
+      "playerId": "m41104",
+      "name": "Clemet Campa",
+      "rating": 1563.32,
+      "dailyRatingChange": 3.88
+    },
+    {
+      "position": 8,
+      "playerId": "m24625",
+      "name": "David Dau",
+      "rating": 1612.11,
+      "dailyRatingChange": -1.83
+    },
+    {
+      "position": 9,
+      "playerId": "m19629",
+      "name": "Jennifer St. Antoine",
+      "rating": 1428.12,
+      "dailyRatingChange": 15.34
+    },
+    {
+      "position": 9,
+      "playerId": "i26465",
+      "name": "Damien Danger",
+      "rating": 1566.32,
+      "dailyRatingChange": -2.25
+    },
+    {
+      "position": 11,
+      "playerId": "m4197",
+      "name": "Ron Rezendes",
+      "rating": 1628.54,
+      "dailyRatingChange": -6.7
+    },
+    {
+      "position": 11,
+      "playerId": "m61041",
+      "name": "Tyler Bruhn",
+      "rating": 1439.62,
+      "dailyRatingChange": 3.34
+    },
+    {
+      "position": 13,
+      "playerId": "m48032",
+      "name": "Kevin Evans",
+      "rating": 1489.88,
+      "dailyRatingChange": 1.15
+    },
+    {
+      "position": 13,
+      "playerId": "m34423",
+      "name": "Jim Fitzgerald",
+      "rating": 1701.95,
+      "dailyRatingChange": -8.65
+    },
+    {
+      "position": 13,
+      "playerId": "i157684",
+      "name": "Phil Debuhr",
+      "rating": 1495.29,
+      "dailyRatingChange": -5.82
+    },
+    {
+      "position": 13,
+      "playerId": "m6902",
+      "name": "Naoko Neikirk",
+      "rating": 1558.27,
+      "dailyRatingChange": -4.86
+    },
+    {
+      "position": 17,
+      "playerId": "i61271",
+      "name": "Kenny Talcove",
+      "rating": 1370.88,
+      "dailyRatingChange": -1.87
+    },
+    {
+      "position": 18,
+      "playerId": "i63944",
+      "name": "Joshua Ankney",
+      "rating": 1392.96,
+      "dailyRatingChange": null
+    },
+    {
+      "position": 19,
+      "playerId": "m577787",
+      "name": "April Palacios",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

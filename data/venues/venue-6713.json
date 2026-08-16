@@ -1,0 +1,269 @@
+{
+  "locationId": "6713",
+  "name": "Highscore Kristiansand",
+  "address": "Kartheia 5, 4626 Kristiansand, Norge",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 20,
+  "relatedVenues": [
+    {
+      "locationId": "10477",
+      "name": "Illegal Pinball",
+      "address": "28A Storgata, Sentrum, Oslo 0184, NO",
+      "count": 5
+    },
+    {
+      "locationId": "634",
+      "name": "Tilt",
+      "address": "Torggata 16, 0181 Oslo, Norway",
+      "count": 4
+    },
+    {
+      "locationId": "3960",
+      "name": "Kristiania Flipperselskap",
+      "address": "Veitvetveien 8, 0596 Oslo, Norge",
+      "count": 1
+    }
+  ],
+  "players": [
+    {
+      "id": "m46910",
+      "name": "Dean Pepshi",
+      "rating": 1630.89,
+      "rd": 24.22,
+      "ratingClass": "A",
+      "homeLocation": "Highscore Kristiansand",
+      "homeLocationId": "6713",
+      "percentile": 88.76414962500583,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m37347",
+      "name": "Jonny Justvik",
+      "rating": 1608.74,
+      "rd": 23.58,
+      "ratingClass": "A",
+      "homeLocation": "Highscore Kristiansand",
+      "homeLocationId": "6713",
+      "percentile": 84.138445055201,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m15258",
+      "name": "Daniel Hedblom",
+      "rating": 1602.13,
+      "rd": 25.77,
+      "ratingClass": "A",
+      "homeLocation": "Highscore Kristiansand",
+      "homeLocationId": "6713",
+      "percentile": 82.53598546606419,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m42226",
+      "name": "Frode Gundersen",
+      "rating": 1579.61,
+      "rd": 22.07,
+      "ratingClass": "B",
+      "homeLocation": "Highscore Kristiansand",
+      "homeLocationId": "6713",
+      "percentile": 76.48017887920994,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m57778",
+      "name": "Trygve Gundersen",
+      "rating": 1572.21,
+      "rd": 25.47,
+      "ratingClass": "B",
+      "homeLocation": "Highscore Kristiansand",
+      "homeLocationId": "6713",
+      "percentile": 74.1929473144827,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m57932",
+      "name": "Maya Heimdal",
+      "rating": 1566.79,
+      "rd": 29.14,
+      "ratingClass": "B",
+      "homeLocation": "Highscore Kristiansand",
+      "homeLocationId": "6713",
+      "percentile": 72.50663809568174,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i90702",
+      "name": "Tue Bundgaard",
+      "rating": 1555.99,
+      "rd": 30.17,
+      "ratingClass": "B",
+      "homeLocation": "Highscore Kristiansand",
+      "homeLocationId": "6713",
+      "percentile": 69.01756183910189,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m20028",
+      "name": "Simen Dørum",
+      "rating": 1552.22,
+      "rd": 23.23,
+      "ratingClass": "B",
+      "homeLocation": "Highscore Kristiansand",
+      "homeLocationId": "6713",
+      "percentile": 67.59211813481157,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m51235",
+      "name": "Nora Sommerfeldt",
+      "rating": 1550.33,
+      "rd": 24.96,
+      "ratingClass": "B",
+      "homeLocation": "Highscore Kristiansand",
+      "homeLocationId": "6713",
+      "percentile": 66.81417990403877,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m57834",
+      "name": "Per Martin Sandvik",
+      "rating": 1541.95,
+      "rd": 23.5,
+      "ratingClass": "B",
+      "homeLocation": "Highscore Kristiansand",
+      "homeLocationId": "6713",
+      "percentile": 63.89807611683048,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m42199",
+      "name": "Jens Olav Bakkland",
+      "rating": 1533.77,
+      "rd": 23.87,
+      "ratingClass": "B",
+      "homeLocation": "Highscore Kristiansand",
+      "homeLocationId": "6713",
+      "percentile": 60.53477430474682,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m55661",
+      "name": "Derek Young",
+      "rating": 1526.36,
+      "rd": 23.67,
+      "ratingClass": "B",
+      "homeLocation": "Highscore Kristiansand",
+      "homeLocationId": "6713",
+      "percentile": 57.562770764429125,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i94096",
+      "name": "Gabriel Johansen",
+      "rating": 1514.83,
+      "rd": 27.6,
+      "ratingClass": "B",
+      "homeLocation": "Highscore Kristiansand",
+      "homeLocationId": "6713",
+      "percentile": 53.13271533050729,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i89381",
+      "name": "Ola Uleberg",
+      "rating": 1512.62,
+      "rd": 46.47,
+      "ratingClass": "B",
+      "homeLocation": "Highscore Kristiansand",
+      "homeLocationId": "6713",
+      "percentile": 52.242977593515626,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m45315",
+      "name": "Åsmund Eikli",
+      "rating": 1507.08,
+      "rd": 26.33,
+      "ratingClass": "B",
+      "homeLocation": "Tilt",
+      "homeLocationId": "634",
+      "percentile": 49.99301253086132,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i114341",
+      "name": "Tor Andreas Johnsen",
+      "rating": 1491.06,
+      "rd": 39.81,
+      "ratingClass": "C",
+      "homeLocation": "Highscore Kristiansand",
+      "homeLocationId": "6713",
+      "percentile": 43.4434247915405,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m37297",
+      "name": "Kenneth Lea",
+      "rating": 1459.11,
+      "rd": 37.82,
+      "ratingClass": "C",
+      "homeLocation": "Highscore Kristiansand",
+      "homeLocationId": "6713",
+      "percentile": 30.62374807844599,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m57835",
+      "name": "Frode Nordgulen",
+      "rating": 1458.78,
+      "rd": 28.74,
+      "ratingClass": "C",
+      "homeLocation": "Highscore Kristiansand",
+      "homeLocationId": "6713",
+      "percentile": 30.502631946708902,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m37301",
+      "name": "Martin Mørch",
+      "rating": 1405.31,
+      "rd": 35.68,
+      "ratingClass": "C",
+      "homeLocation": "Highscore Kristiansand",
+      "homeLocationId": "6713",
+      "percentile": 13.863138771137093,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i89379",
+      "name": "Harald Bransdal",
+      "rating": 1362.18,
+      "rd": 43.27,
+      "ratingClass": "D",
+      "homeLocation": "Highscore Kristiansand",
+      "homeLocationId": "6713",
+      "percentile": 5.678483253365631,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

@@ -1,0 +1,210 @@
+{
+  "communityId": "45",
+  "locations": [
+    {
+      "id": "5866",
+      "name": "Kiitos Brewing",
+      "address": "",
+      "tournaments": [
+        {
+          "id": 266664,
+          "name": "Kiitos Summer Series 8/11/26",
+          "date": "8/11/2026",
+          "playerCount": 42,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "p586467",
+              "name": "Nathan Wright UT",
+              "isCommunityMember": false
+            },
+            {
+              "position": 1,
+              "playerId": "m28108",
+              "name": "Yusuf Yarow",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "i90170",
+              "name": "Aaron Record",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m29053",
+              "name": "Jeff Peters",
+              "isCommunityMember": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "13133",
+      "name": "Talisman Brewing Company",
+      "address": "1258 Gibson Ave, Ogden, UT 84404, US",
+      "tournaments": [
+        {
+          "id": 266862,
+          "name": "Finals for Talisman Pinball Party 12 Aug 26",
+          "date": "8/12/2026",
+          "playerCount": 4,
+          "qualifying": {
+            "id": 266829,
+            "name": "Talisman Pinball Party 12 Aug 26",
+            "playerCount": 10
+          },
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m41915",
+              "name": "Cade Vincent",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m28108",
+              "name": "Yusuf Yarow",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "i54155",
+              "name": "EK Shaffer",
+              "isCommunityMember": false
+            },
+            {
+              "position": 4,
+              "playerId": "m29418",
+              "name": "Stacy Shaffer",
+              "isCommunityMember": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8296",
+      "name": "The L.A.B.",
+      "address": "2432 Washington Blvd, Ogden, UT 84401, US",
+      "tournaments": [
+        {
+          "id": 266426,
+          "name": "The L.A.B. League",
+          "date": "8/10/2026",
+          "playerCount": 35,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m20884",
+              "name": "Rose Milovanovic-Medina",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m30818",
+              "name": "Simone Bateman",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m4565",
+              "name": "Tony Lam",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m28108",
+              "name": "Yusuf Yarow",
+              "isCommunityMember": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "unknown",
+      "name": "Unknown Location",
+      "address": "",
+      "tournaments": [
+        {
+          "id": 266371,
+          "name": "Finals for Sunday Night Fights at the L.A.B. 8 AUG 26",
+          "date": "8/9/2026",
+          "playerCount": 4,
+          "qualifying": {
+            "id": 266369,
+            "name": "Semi Finals for Sunday Night Fights at the L.A.B. 8 AUG 26",
+            "playerCount": 8
+          },
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m12131",
+              "name": "Nate Smith CO",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m26999",
+              "name": "Adam Fleming",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m20357",
+              "name": "Marlin Raphael",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m28108",
+              "name": "Yusuf Yarow",
+              "isCommunityMember": true
+            }
+          ]
+        },
+        {
+          "id": 266123,
+          "name": "Finals for Retro Gaming Xpo Best Game Tournament",
+          "date": "8/8/2026",
+          "playerCount": 10,
+          "qualifying": {
+            "id": 264100,
+            "name": "Retro Gaming Xpo Best Game Tournament",
+            "playerCount": 32
+          },
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m30146",
+              "name": "Marc Jackson",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m24198",
+              "name": "David Youngberg",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m20701",
+              "name": "Crystal Cory",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m4565",
+              "name": "Tony Lam",
+              "isCommunityMember": true
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

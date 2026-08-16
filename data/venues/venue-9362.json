@@ -1,0 +1,239 @@
+{
+  "locationId": "9362",
+  "name": "James McCloskey",
+  "address": "10993 Green Apple Rd, Miamisburg, OH 45342",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 14,
+  "relatedVenues": [
+    {
+      "locationId": "11788",
+      "name": "The Game Haven",
+      "address": "5570 Airway Rd, Dayton OH 45431",
+      "count": 53
+    },
+    {
+      "locationId": "5479",
+      "name": "Canal Street Arcade and Deli",
+      "address": "308 East 1st St, Dayton, OH, 45402, US",
+      "count": 29
+    },
+    {
+      "locationId": "9322",
+      "name": "Tyler Wyant",
+      "address": "5017 Wheaton St., Dayton, OH 45429",
+      "count": 13
+    },
+    {
+      "locationId": "9290",
+      "name": "Randy Wesig",
+      "address": "4340 Delco Dell Rd, Kettering, OH 45429",
+      "count": 12
+    },
+    {
+      "locationId": "11147",
+      "name": "The Warehouse",
+      "address": "221 E. Helena St, Dayton, OH 45404",
+      "count": 12
+    },
+    {
+      "locationId": "9545",
+      "name": "Tom Donohue",
+      "address": "1477 Huntland Ct. N, Xenia, OH 45385",
+      "count": 11
+    },
+    {
+      "locationId": "13688",
+      "name": "The Game Haven",
+      "address": "5570 Airway Rd, Riverside, OH 45431, US",
+      "count": 9
+    },
+    {
+      "locationId": "6868",
+      "name": "Dana's Blacklight Paradise",
+      "address": "281 W Whipp Road, Washington Township, OH 45459",
+      "count": 7
+    },
+    {
+      "locationId": "13500",
+      "name": "Sherwood Forest",
+      "address": "1451 Robinhood Dr  West Carrollton OH 45449",
+      "count": 7
+    },
+    {
+      "locationId": "11454",
+      "name": "Loose Ends Brewing",
+      "address": "890 S Main St, Centerville OH 45458",
+      "count": 5
+    }
+  ],
+  "players": [
+    {
+      "id": "m13057",
+      "name": "Tony Becker",
+      "rating": 1670.89,
+      "rd": 27.61,
+      "ratingClass": "A",
+      "homeLocation": "The Game Haven",
+      "homeLocationId": "11788",
+      "percentile": 94.17245073834258,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m36497",
+      "name": "Randy Wesig",
+      "rating": 1639.9,
+      "rd": 34.31,
+      "ratingClass": "A",
+      "homeLocation": "Dana's Blacklight Paradise",
+      "homeLocationId": "6868",
+      "percentile": 90.31070946103321,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m24838",
+      "name": "True Houser",
+      "rating": 1591.28,
+      "rd": 29.71,
+      "ratingClass": "B",
+      "homeLocation": "The Game Haven",
+      "homeLocationId": "11788",
+      "percentile": 79.82018912749803,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i113714",
+      "name": "James McCloskey",
+      "rating": 1577.91,
+      "rd": 33.89,
+      "ratingClass": "B",
+      "homeLocation": "Dana's Blacklight Paradise",
+      "homeLocationId": "6868",
+      "percentile": 75.97708110122514,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m7284",
+      "name": "David Jones OH",
+      "rating": 1576.73,
+      "rd": 25.81,
+      "ratingClass": "B",
+      "homeLocation": "The Game Haven",
+      "homeLocationId": "11788",
+      "percentile": 75.70224064843714,
+      "changeDisplay": "+3.0",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "i103401",
+      "name": "Jeff Hecht",
+      "rating": 1564.96,
+      "rd": 37.65,
+      "ratingClass": "B",
+      "homeLocation": "Randy Wesig",
+      "homeLocationId": "9290",
+      "percentile": 71.93832393906928,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m44800",
+      "name": "Scott Petrey",
+      "rating": 1562.2,
+      "rd": 25.58,
+      "ratingClass": "B",
+      "homeLocation": "The Game Haven",
+      "homeLocationId": "11788",
+      "percentile": 71.05790282759584,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i93846",
+      "name": "Tyler Wyant",
+      "rating": 1555.92,
+      "rd": 33.68,
+      "ratingClass": "B",
+      "homeLocation": "The Game Haven",
+      "homeLocationId": "11788",
+      "percentile": 69.00358690082452,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i108742",
+      "name": "Marc Masquelier",
+      "rating": 1528.45,
+      "rd": 41.87,
+      "ratingClass": "B",
+      "homeLocation": "Randy Wesig",
+      "homeLocationId": "9290",
+      "percentile": 58.42455862486607,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m27207",
+      "name": "Jason Johnson",
+      "rating": 1528.44,
+      "rd": 24.07,
+      "ratingClass": "B",
+      "homeLocation": "Canal Street Arcade and Deli",
+      "homeLocationId": "5479",
+      "percentile": 58.419900312106954,
+      "changeDisplay": "-8.4",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m24683",
+      "name": "Jessica Valle",
+      "rating": 1497.14,
+      "rd": 27.21,
+      "ratingClass": "C",
+      "homeLocation": "The Game Haven",
+      "homeLocationId": "11788",
+      "percentile": 45.949597055946334,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m48987",
+      "name": "Bec Roderer",
+      "rating": 1444.97,
+      "rd": 22.88,
+      "ratingClass": "C",
+      "homeLocation": "Canal Street Arcade and Deli",
+      "homeLocationId": "5479",
+      "percentile": 25.397121162714864,
+      "changeDisplay": "+4.7",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "i108745",
+      "name": "Tom Donohue",
+      "rating": 1436.26,
+      "rd": 36.94,
+      "ratingClass": "C",
+      "homeLocation": "Tyler Wyant",
+      "homeLocationId": "9322",
+      "percentile": 22.443750873433643,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i136406",
+      "name": "Michael Harris OH",
+      "rating": null,
+      "rd": null,
+      "ratingClass": "N/A",
+      "homeLocation": "James McCloskey",
+      "homeLocationId": "9362",
+      "percentile": null,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

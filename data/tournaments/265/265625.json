@@ -1,0 +1,151 @@
+{
+  "tournamentId": 265625,
+  "name": "OPA Onsdag 05/08",
+  "date": "2026-08-05",
+  "locationId": "5700",
+  "locationName": "Odense Pinball Arkade",
+  "playerCount": 20,
+  "ratingsDate": "2026-08-05",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m17970",
+      "name": "Julian Legind",
+      "rating": 1684.58,
+      "dailyRatingChange": 7.56
+    },
+    {
+      "position": 2,
+      "playerId": "m31567",
+      "name": "Kenny Damm Jacobsen",
+      "rating": 1600.42,
+      "dailyRatingChange": 3.65
+    },
+    {
+      "position": 3,
+      "playerId": "m31586",
+      "name": "Richard Nørgaard",
+      "rating": 1650.63,
+      "dailyRatingChange": 5.4
+    },
+    {
+      "position": 4,
+      "playerId": "m31581",
+      "name": "Morten Yde",
+      "rating": 1539.24,
+      "dailyRatingChange": -6.24
+    },
+    {
+      "position": 5,
+      "playerId": "m31857",
+      "name": "Tordur Debes",
+      "rating": 1541.61,
+      "dailyRatingChange": 5.47
+    },
+    {
+      "position": 6,
+      "playerId": "m31582",
+      "name": "Julian Thy",
+      "rating": 1487.18,
+      "dailyRatingChange": -8.85
+    },
+    {
+      "position": 7,
+      "playerId": "i139570",
+      "name": "Rasmus Nørgaard",
+      "rating": 1512.8,
+      "dailyRatingChange": 8.77
+    },
+    {
+      "position": 8,
+      "playerId": "m31571",
+      "name": "Benjamin Juul Eriksen",
+      "rating": 1426.26,
+      "dailyRatingChange": 28.37
+    },
+    {
+      "position": 9,
+      "playerId": "m38650",
+      "name": "Villads Legind",
+      "rating": 1547.34,
+      "dailyRatingChange": 0.71
+    },
+    {
+      "position": 9,
+      "playerId": "m38652",
+      "name": "Danni Larsen",
+      "rating": 1589.35,
+      "dailyRatingChange": -1.42
+    },
+    {
+      "position": 11,
+      "playerId": "m428002",
+      "name": "Michael Stæhr",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 12,
+      "playerId": "m362938",
+      "name": "Ole Johannesen",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 13,
+      "playerId": "m500171",
+      "name": "Marvin",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 14,
+      "playerId": "m52320",
+      "name": "Jesper Bangsholt",
+      "rating": 1430.22,
+      "dailyRatingChange": -3.53
+    },
+    {
+      "position": 15,
+      "playerId": "m578650",
+      "name": "Josefine Nørgaard",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 16,
+      "playerId": "m584783",
+      "name": "Christian",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 17,
+      "playerId": "m584784",
+      "name": "Benjamin",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 18,
+      "playerId": "m584776",
+      "name": "Anders Metrak Rasmussen",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 19,
+      "playerId": "m584782",
+      "name": "Bjarne",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 20,
+      "playerId": "m504331",
+      "name": "Michael Snepryd",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

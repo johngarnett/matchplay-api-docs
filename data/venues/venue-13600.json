@@ -1,0 +1,407 @@
+{
+  "locationId": "13600",
+  "name": "Morphettville Racecourse",
+  "address": "79 Morphett Rd, Morphettville, South Australia 5043",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 28,
+  "relatedVenues": [
+    {
+      "locationId": "10076",
+      "name": "South Australia Pinball and Arcade",
+      "address": "19 Playford Cres, Salisbury North, SA 5108, AU",
+      "count": 44
+    },
+    {
+      "locationId": "11676",
+      "name": "PinCity Pinball Addicts",
+      "address": "Unit 3, 10 kitawah st Lonsdale",
+      "count": 27
+    },
+    {
+      "locationId": "7450",
+      "name": "The Clubhouse Moorooka",
+      "address": "76 Koala Road, Moorooka, QLD 4105, AU",
+      "count": 24
+    },
+    {
+      "locationId": "12751",
+      "name": "Little Bang Brewing Company",
+      "address": "25 Henry St, Stepney, SA 5069, AU",
+      "count": 18
+    },
+    {
+      "locationId": "11555",
+      "name": "The Ice ArenA",
+      "address": "23 James Congdon Dr, Thebarton, SA 5031, AU",
+      "count": 16
+    },
+    {
+      "locationId": "10472",
+      "name": "The Suburban Brew",
+      "address": "96 Goodwood Rd, Goodwood, SA, 5034, AU",
+      "count": 15
+    },
+    {
+      "locationId": "13611",
+      "name": "Morphettville Racecourse",
+      "address": "79 Morphett Road Morphettville, SA 5043",
+      "count": 15
+    },
+    {
+      "locationId": "13644",
+      "name": "Morphettville Racecourse",
+      "address": "79 Morphett Rd, Adelaide South Australia 5043",
+      "count": 15
+    },
+    {
+      "locationId": "356",
+      "name": "Amusement Worx",
+      "address": "",
+      "count": 11
+    },
+    {
+      "locationId": "9557",
+      "name": "The Suburban Brew - Brewery & Taproom",
+      "address": "30 Provident Ave, Glynde, SA, 5070, AU",
+      "count": 11
+    }
+  ],
+  "players": [
+    {
+      "id": "m17455",
+      "name": "Cesar Federici",
+      "rating": 1664.02,
+      "rd": 22.65,
+      "ratingClass": "A",
+      "homeLocation": "The Suburban Brew",
+      "homeLocationId": "10472",
+      "percentile": 93.49699538827036,
+      "changeDisplay": "-2.9",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m51584",
+      "name": "Trent Reeves",
+      "rating": 1643.87,
+      "rd": 15.94,
+      "ratingClass": "A",
+      "homeLocation": "South Australia Pinball and Arcade",
+      "homeLocationId": "10076",
+      "percentile": 90.89765686868216,
+      "changeDisplay": "+1.7",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m774",
+      "name": "Joe Wade AUS",
+      "rating": 1635.17,
+      "rd": 16.44,
+      "ratingClass": "A",
+      "homeLocation": "Netherworld",
+      "homeLocationId": "7180",
+      "percentile": 89.49550472818744,
+      "changeDisplay": "-4.4",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m36306",
+      "name": "John Forster",
+      "rating": 1621.62,
+      "rd": 21.75,
+      "ratingClass": "A",
+      "homeLocation": "PinCity Pinball Addicts",
+      "homeLocationId": "11676",
+      "percentile": 86.95672427446779,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m60757",
+      "name": "Gabriel Magdalawi",
+      "rating": 1618.15,
+      "rd": 19.19,
+      "ratingClass": "A",
+      "homeLocation": "Bayside Anglican Church Hall",
+      "homeLocationId": "11119",
+      "percentile": 86.23002748404528,
+      "changeDisplay": "+4.3",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m18010",
+      "name": "Brett Paton",
+      "rating": 1592.58,
+      "rd": 18.61,
+      "ratingClass": "B",
+      "homeLocation": "The Clubhouse Moorooka",
+      "homeLocationId": "7450",
+      "percentile": 80.1649042716728,
+      "changeDisplay": "+15.2",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m29188",
+      "name": "Tom Lefebvre",
+      "rating": 1589.76,
+      "rd": 33.02,
+      "ratingClass": "B",
+      "homeLocation": "Morphettville Racecourse",
+      "homeLocationId": "13600",
+      "percentile": 79.41025760469557,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m6632",
+      "name": "Ray Gillett",
+      "rating": 1583.16,
+      "rd": 17.29,
+      "ratingClass": "B",
+      "homeLocation": "Caltowie Memorial Hall",
+      "homeLocationId": "11748",
+      "percentile": 77.5189826244934,
+      "changeDisplay": "+3.9",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m18161",
+      "name": "Tammy Paton",
+      "rating": 1579.01,
+      "rd": 17.61,
+      "ratingClass": "B",
+      "homeLocation": "Atomic Arcade",
+      "homeLocationId": "13042",
+      "percentile": 76.36372106023198,
+      "changeDisplay": "+0.9",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m41089",
+      "name": "Robert Lambert SA",
+      "rating": 1575.84,
+      "rd": 18.46,
+      "ratingClass": "B",
+      "homeLocation": "PinCity Pinball Addicts",
+      "homeLocationId": "11676",
+      "percentile": 75.42740019564914,
+      "changeDisplay": "-8.3",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m35569",
+      "name": "Jack Kirk",
+      "rating": 1574.93,
+      "rd": 16.54,
+      "ratingClass": "B",
+      "homeLocation": "South Australia Pinball and Arcade",
+      "homeLocationId": "10076",
+      "percentile": 75.05007686216054,
+      "changeDisplay": "-0.3",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m17490",
+      "name": "Steve Bartley",
+      "rating": 1557.44,
+      "rd": 19.28,
+      "ratingClass": "B",
+      "homeLocation": "South Australia Pinball and Arcade",
+      "homeLocationId": "10076",
+      "percentile": 69.51134299156845,
+      "changeDisplay": "-16.9",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m57829",
+      "name": "Brett Cooke",
+      "rating": 1553.05,
+      "rd": 19.97,
+      "ratingClass": "B",
+      "homeLocation": "The Clubhouse Moorooka",
+      "homeLocationId": "7450",
+      "percentile": 67.91820002794988,
+      "changeDisplay": "+11.3",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m56999",
+      "name": "Kym Deavin",
+      "rating": 1537.12,
+      "rd": 44.81,
+      "ratingClass": "B",
+      "homeLocation": "The Suburban Brew - Brewery & Taproom",
+      "homeLocationId": "9557",
+      "percentile": 61.94158475800066,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m51118",
+      "name": "Grant Reeves",
+      "rating": 1521.81,
+      "rd": 16.54,
+      "ratingClass": "B",
+      "homeLocation": "South Australia Pinball and Arcade",
+      "homeLocationId": "10076",
+      "percentile": 55.890436483905525,
+      "changeDisplay": "+0.9",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "i98762",
+      "name": "Greg Norriss",
+      "rating": 1512.03,
+      "rd": 19.3,
+      "ratingClass": "B",
+      "homeLocation": "FLOP",
+      "homeLocationId": "8872",
+      "percentile": 52.000745330041454,
+      "changeDisplay": "+4.3",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m45187",
+      "name": "Scott Hayes AUS",
+      "rating": 1491.21,
+      "rd": 38.07,
+      "ratingClass": "C",
+      "homeLocation": "Morphettville Racecourse",
+      "homeLocationId": "13600",
+      "percentile": 43.52727442120464,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i146190",
+      "name": "Benson van Es",
+      "rating": 1477.14,
+      "rd": 34.43,
+      "ratingClass": "C",
+      "homeLocation": "Morphettville Racecourse",
+      "homeLocationId": "13600",
+      "percentile": 37.760283225415755,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i158332",
+      "name": "Steve Wood AUS",
+      "rating": 1475.34,
+      "rd": 39.98,
+      "ratingClass": "C",
+      "homeLocation": "The Suburban Brew - Brewery & Taproom",
+      "homeLocationId": "9557",
+      "percentile": 37.00097824567942,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m7085",
+      "name": "Steve Dite",
+      "rating": 1472.73,
+      "rd": 27.3,
+      "ratingClass": "C",
+      "homeLocation": "Crystal Brook Railway Hotel",
+      "homeLocationId": "11101",
+      "percentile": 35.96683281315507,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i161758",
+      "name": "Rogue K",
+      "rating": 1465.41,
+      "rd": 54.04,
+      "ratingClass": "C",
+      "homeLocation": "Little Bang Brewing Company",
+      "homeLocationId": "12751",
+      "percentile": 32.9994875855965,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m45186",
+      "name": "Lisia Sturm",
+      "rating": 1446.09,
+      "rd": 40.37,
+      "ratingClass": "C",
+      "homeLocation": "Morphettville Racecourse",
+      "homeLocationId": "13600",
+      "percentile": 25.779102808962595,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i162184",
+      "name": "Mel Browne",
+      "rating": 1442.95,
+      "rd": 48.7,
+      "ratingClass": "C",
+      "homeLocation": "Australian Pinball Museum",
+      "homeLocationId": "1231",
+      "percentile": 24.72166581264266,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i100219",
+      "name": "Leighton Page",
+      "rating": 1429.95,
+      "rd": 47.95,
+      "ratingClass": "C",
+      "homeLocation": "Morphettville Racecourse",
+      "homeLocationId": "13600",
+      "percentile": 20.52918432943588,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m28173",
+      "name": "Sammi L",
+      "rating": 1424.52,
+      "rd": 21.3,
+      "ratingClass": "C",
+      "homeLocation": "Little Bang Brewing Company",
+      "homeLocationId": "12751",
+      "percentile": 18.97330786789025,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i162119",
+      "name": "Jean Guttridge",
+      "rating": 1369.09,
+      "rd": 28.82,
+      "ratingClass": "D",
+      "homeLocation": "South Australia Pinball and Arcade",
+      "homeLocationId": "10076",
+      "percentile": 6.568220990357293,
+      "changeDisplay": "-6.3",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "i54939",
+      "name": "Stephen Middleton",
+      "rating": null,
+      "rd": null,
+      "ratingClass": "N/A",
+      "homeLocation": "Amusement Worx",
+      "homeLocationId": "356",
+      "percentile": null,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i162123",
+      "name": "Lakin van Es",
+      "rating": null,
+      "rd": null,
+      "ratingClass": "N/A",
+      "homeLocation": "Morphettville Racecourse",
+      "homeLocationId": "13600",
+      "percentile": null,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

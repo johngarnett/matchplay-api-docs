@@ -1,0 +1,191 @@
+{
+  "locationId": "13365",
+  "name": "Calavida Cantina Corrales",
+  "address": "10200 Corrales Rd, Albuquerque, NM 87114, US",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 10,
+  "relatedVenues": [
+    {
+      "locationId": "12972",
+      "name": "Brew Lab 101 Beer & Cider Co.",
+      "address": "3301 Southern Blvd SE, Rio Rancho, NM 87124, US",
+      "count": 31
+    },
+    {
+      "locationId": "13364",
+      "name": "Rio Bravo Brewing Company",
+      "address": "1912 2nd St NW, Albuquerque, NM 87102, US",
+      "count": 16
+    },
+    {
+      "locationId": "8912",
+      "name": "Sister",
+      "address": "407 Central Ave NW, Albuquerque, NM 87102, US",
+      "count": 13
+    },
+    {
+      "locationId": "10207",
+      "name": "Boxing Bear Brewing Co. Bridges on Tramway Taproom",
+      "address": "12501 Candelaria Rd NE, Albuquerque, NM 87111, US",
+      "count": 8
+    },
+    {
+      "locationId": "13361",
+      "name": "Unhinged Brewing Co",
+      "address": "251 98th St f, Albuquerque, NM 87121, US",
+      "count": 7
+    },
+    {
+      "locationId": "7929",
+      "name": "13008 Desert Moon Pl NE Albuquerque NM.  87110",
+      "address": "",
+      "count": 4
+    },
+    {
+      "locationId": "13460",
+      "name": "Unhinged Brewing & Distilling",
+      "address": "251 98th St NW Suite F, Albuquerque, NM 87121",
+      "count": 3
+    },
+    {
+      "locationId": "8201",
+      "name": "Rad Retrocade",
+      "address": "201 North Main Street, Las Cruces, NM 88001, US",
+      "count": 1
+    },
+    {
+      "locationId": "10641",
+      "name": "Spooky's",
+      "address": "2920 Stanford Dr NE Suite A Albuquerque, NM 87107",
+      "count": 1
+    },
+    {
+      "locationId": "12482",
+      "name": "Hyper Beer Co",
+      "address": "150 W Center Street Promenade, Anaheim, CA 92805, US",
+      "count": 1
+    }
+  ],
+  "players": [
+    {
+      "id": "m52204",
+      "name": "Spencer Butler",
+      "rating": 1727.3,
+      "rd": 28.32,
+      "ratingClass": "Expert",
+      "homeLocation": "Brew Lab 101 Beer & Cider Co.",
+      "homeLocationId": "12972",
+      "percentile": 98.03885032841106,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m30202",
+      "name": "Anthony Myrtle",
+      "rating": 1662.29,
+      "rd": 25.33,
+      "ratingClass": "A",
+      "homeLocation": "Sister",
+      "homeLocationId": "8912",
+      "percentile": 93.31066287790563,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m42394",
+      "name": "Brendan Gonzales",
+      "rating": 1623.09,
+      "rd": 25.66,
+      "ratingClass": "A",
+      "homeLocation": "Brew Lab 101 Beer & Cider Co.",
+      "homeLocationId": "12972",
+      "percentile": 87.25019797829226,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i34962",
+      "name": "Jeffrey Twohig",
+      "rating": 1583.94,
+      "rd": 25.18,
+      "ratingClass": "B",
+      "homeLocation": "Sister",
+      "homeLocationId": "8912",
+      "percentile": 77.72860669865375,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m42399",
+      "name": "Eric Castillo",
+      "rating": 1561.6,
+      "rd": 30.61,
+      "ratingClass": "B",
+      "homeLocation": "Rio Bravo Brewing Company",
+      "homeLocationId": "13364",
+      "percentile": 70.88554525550845,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m56874",
+      "name": "Mike Lujan",
+      "rating": 1546.71,
+      "rd": 28.8,
+      "ratingClass": "B",
+      "homeLocation": "Brew Lab 101 Beer & Cider Co.",
+      "homeLocationId": "12972",
+      "percentile": 65.48190245493083,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m30784",
+      "name": "Rodi Soto",
+      "rating": 1528.8,
+      "rd": 23.01,
+      "ratingClass": "B",
+      "homeLocation": "Brew Lab 101 Beer & Cider Co.",
+      "homeLocationId": "12972",
+      "percentile": 58.55964969488051,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m48146",
+      "name": "Audelio Florez",
+      "rating": 1490.91,
+      "rd": 26.74,
+      "ratingClass": "C",
+      "homeLocation": "Rio Bravo Brewing Company",
+      "homeLocationId": "13364",
+      "percentile": 43.38752503843108,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i144031",
+      "name": "Bruce Yager",
+      "rating": 1422.3,
+      "rd": 34.9,
+      "ratingClass": "C",
+      "homeLocation": "Brew Lab 101 Beer & Cider Co.",
+      "homeLocationId": "12972",
+      "percentile": 18.293194205058928,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i144307",
+      "name": "Jo Bautista",
+      "rating": 1355.62,
+      "rd": 26.98,
+      "ratingClass": "D",
+      "homeLocation": "Brew Lab 101 Beer & Cider Co.",
+      "homeLocationId": "12972",
+      "percentile": 4.858620207760749,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "tournamentId": 262579,
+  "name": "Finals for July 2026 Level 1 Monthly Women's Flippin' Friday",
+  "date": "2026-07-18",
+  "locationId": "7969",
+  "locationName": "Level One Bar + Arcade",
+  "playerCount": 4,
+  "ratingsDate": "2026-07-18",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m16968",
+      "name": "Liz Goode",
+      "rating": 1608.01,
+      "dailyRatingChange": 8.35
+    },
+    {
+      "position": 2,
+      "playerId": "m21446",
+      "name": "Stephanie Zona",
+      "rating": 1550.58,
+      "dailyRatingChange": 4.94
+    },
+    {
+      "position": 3,
+      "playerId": "m1524",
+      "name": "Holly Koskinen",
+      "rating": 1664.59,
+      "dailyRatingChange": -5.2
+    },
+    {
+      "position": 4,
+      "playerId": "m9632",
+      "name": "Heather Binns",
+      "rating": 1445.55,
+      "dailyRatingChange": 11.43
+    }
+  ]
+}

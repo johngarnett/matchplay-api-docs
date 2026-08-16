@@ -1,0 +1,185 @@
+{
+  "locationId": "13538",
+  "name": "Jacque’s House",
+  "address": "",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 10,
+  "relatedVenues": [
+    {
+      "locationId": "10170",
+      "name": "The Kickback",
+      "address": "7622 Lisa Lane, Middleton WI 53562",
+      "count": 53
+    },
+    {
+      "locationId": "12265",
+      "name": "Aftershock Classic Arcade",
+      "address": "1444 East Washington Avenue, Madison, WI 53703, US",
+      "count": 5
+    },
+    {
+      "locationId": "4804",
+      "name": "District 82 Pinball",
+      "address": "800 O Keefe Rd, De Pere, WI 54115, USA",
+      "count": 4
+    },
+    {
+      "locationId": "12584",
+      "name": "I/O Arcade Bar",
+      "address": "924 Williamson St, Madison, WI 53703, US",
+      "count": 2
+    },
+    {
+      "locationId": "5173",
+      "name": "The Flipper Room",
+      "address": "1033 Shary Cir, Concord, CA 94518, USA",
+      "count": 1
+    },
+    {
+      "locationId": "12057",
+      "name": "Pinball Capital at Whitewater Cinemas",
+      "address": "151 East Pearson Ln, Whitewater, WI 53190, US",
+      "count": 1
+    },
+    {
+      "locationId": "12642",
+      "name": "Schwoegler Park Towne Lanes",
+      "address": "444 Grand Canyon Drive, Madison, WI 53719, US",
+      "count": 1
+    },
+    {
+      "locationId": "12684",
+      "name": "Lumberjack Johnny's Appleton",
+      "address": "2701 N. Oneida Street, Appleton, WI 54911",
+      "count": 1
+    },
+    {
+      "locationId": "12978",
+      "name": "The Pinball Capital",
+      "address": "3200 W Le Moyne St, Stone Park, IL 60165",
+      "count": 1
+    }
+  ],
+  "players": [
+    {
+      "id": "m37743",
+      "name": "Tiffany Han",
+      "rating": 1570.74,
+      "rd": 20.34,
+      "ratingClass": "B",
+      "homeLocation": "The Kickback",
+      "homeLocationId": "10170",
+      "percentile": 73.77835747892114,
+      "changeDisplay": "-5.0",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m44890",
+      "name": "Donelle Sauby",
+      "rating": 1547.51,
+      "rd": 20.53,
+      "ratingClass": "B",
+      "homeLocation": "The Kickback",
+      "homeLocationId": "10170",
+      "percentile": 65.7753761587553,
+      "changeDisplay": "-8.1",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "i46717",
+      "name": "Stacie Weis",
+      "rating": 1464.75,
+      "rd": 36.74,
+      "ratingClass": "C",
+      "homeLocation": "The Kickback",
+      "homeLocationId": "10170",
+      "percentile": 32.7246471328085,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m36031",
+      "name": "Jacque Mackey",
+      "rating": 1462.03,
+      "rd": 26.84,
+      "ratingClass": "C",
+      "homeLocation": "The Kickback",
+      "homeLocationId": "10170",
+      "percentile": 31.72310988959799,
+      "changeDisplay": "-2.5",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "i61939",
+      "name": "Brooke Nowaczyk",
+      "rating": 1438.67,
+      "rd": 40.91,
+      "ratingClass": "C",
+      "homeLocation": "The Kickback",
+      "homeLocationId": "10170",
+      "percentile": 23.258955606279404,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m60184",
+      "name": "Jennie Crosby",
+      "rating": 1427.51,
+      "rd": 37.17,
+      "ratingClass": "C",
+      "homeLocation": "The Kickback",
+      "homeLocationId": "10170",
+      "percentile": 19.83975404108632,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m34501",
+      "name": "Nichole Oster",
+      "rating": 1425.19,
+      "rd": 39.38,
+      "ratingClass": "C",
+      "homeLocation": "The Kickback",
+      "homeLocationId": "10170",
+      "percentile": 19.192248567568825,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i110140",
+      "name": "Emma Bernharchdt",
+      "rating": 1413.93,
+      "rd": 38.64,
+      "ratingClass": "C",
+      "homeLocation": "Jacque’s House",
+      "homeLocationId": "13538",
+      "percentile": 16.150370335864352,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m52597",
+      "name": "Amber Gerber",
+      "rating": 1375.63,
+      "rd": 33.2,
+      "ratingClass": "D",
+      "homeLocation": "The Kickback",
+      "homeLocationId": "10170",
+      "percentile": 7.532491731494853,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i119066",
+      "name": "Lauren Malone",
+      "rating": null,
+      "rd": null,
+      "ratingClass": "N/A",
+      "homeLocation": "The Kickback",
+      "homeLocationId": "10170",
+      "percentile": null,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "tournamentId": 263479,
+  "name": "Thursday Nights MAX Matchplay at Nightwave 3: Return of the Pins",
+  "date": "2026-07-24",
+  "locationId": "13099",
+  "locationName": "Nightwave Arcade",
+  "playerCount": 17,
+  "ratingsDate": "2026-07-24",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m21500",
+      "name": "Jana Tzanakos",
+      "rating": 1588.26,
+      "dailyRatingChange": 0.41
+    },
+    {
+      "position": 2,
+      "playerId": "m30981",
+      "name": "Lukasz Szczepkowski",
+      "rating": 1557.49,
+      "dailyRatingChange": -0.82
+    },
+    {
+      "position": 3,
+      "playerId": "m46140",
+      "name": "Donna Gray",
+      "rating": 1572.45,
+      "dailyRatingChange": 9.19
+    },
+    {
+      "position": 4,
+      "playerId": "m30014",
+      "name": "Phil Tremblay",
+      "rating": 1599.57,
+      "dailyRatingChange": 2.69
+    },
+    {
+      "position": 5,
+      "playerId": "m50041",
+      "name": "Ryan Norris",
+      "rating": 1470.45,
+      "dailyRatingChange": 9.44
+    },
+    {
+      "position": 6,
+      "playerId": "m24339",
+      "name": "Matt Inglot",
+      "rating": 1576.99,
+      "dailyRatingChange": 0.14
+    },
+    {
+      "position": 7,
+      "playerId": "m45345",
+      "name": "Brenda Peters",
+      "rating": 1570.15,
+      "dailyRatingChange": 2
+    },
+    {
+      "position": 8,
+      "playerId": "m58351",
+      "name": "Ron Nelson (CAN)",
+      "rating": 1557.63,
+      "dailyRatingChange": 2.34
+    },
+    {
+      "position": 8,
+      "playerId": "m49194",
+      "name": "Cory Bond",
+      "rating": 1496.75,
+      "dailyRatingChange": 4.67
+    },
+    {
+      "position": 10,
+      "playerId": "m581262",
+      "name": "Jason Jones AB",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 11,
+      "playerId": "m41404",
+      "name": "Jenny Nystrom",
+      "rating": 1505.32,
+      "dailyRatingChange": 1.18
+    },
+    {
+      "position": 12,
+      "playerId": "m9510",
+      "name": "Bill Henry",
+      "rating": 1561.95,
+      "dailyRatingChange": -10.91
+    },
+    {
+      "position": 13,
+      "playerId": "m59163",
+      "name": "Allie Yeats",
+      "rating": 1380.81,
+      "dailyRatingChange": 0.22
+    },
+    {
+      "position": 14,
+      "playerId": "m6746",
+      "name": "William Thomson",
+      "rating": 1586.02,
+      "dailyRatingChange": -8.65
+    },
+    {
+      "position": 14,
+      "playerId": "m60863",
+      "name": "Skyler Kakuk",
+      "rating": 1491.48,
+      "dailyRatingChange": -10.61
+    },
+    {
+      "position": 16,
+      "playerId": "m32604",
+      "name": "Kirsi Midyette",
+      "rating": 1608.75,
+      "dailyRatingChange": -7.54
+    },
+    {
+      "position": 17,
+      "playerId": "i103060",
+      "name": "Steve Fugel",
+      "rating": 1383.07,
+      "dailyRatingChange": -7.85
+    }
+  ]
+}

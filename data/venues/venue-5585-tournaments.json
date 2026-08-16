@@ -1,0 +1,73 @@
+{
+  "locationId": "5585",
+  "venueName": "HOTRODS",
+  "venueAddress": "",
+  "tournaments": [
+    {
+      "id": 266114,
+      "name": "TUCSON TIMED MATCH PLAY @HOTRODS AUG 2026",
+      "date": "8/8/2026",
+      "playerCount": 6,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m5995",
+          "name": "John Finnegan",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m3071",
+          "name": "Derek Jordan",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m4009",
+          "name": "Wayne Saeger",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m34244",
+          "name": "BOB BODMAN",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 262723,
+      "name": "Max Match Play @Hotrods JUL 2026",
+      "date": "7/18/2026",
+      "playerCount": 8,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m4009",
+          "name": "Wayne Saeger",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m5995",
+          "name": "John Finnegan",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m10630",
+          "name": "Dave Bell",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m59975",
+          "name": "Jack Layer",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

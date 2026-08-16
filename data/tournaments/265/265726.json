@@ -1,0 +1,88 @@
+{
+  "tournamentId": 265726,
+  "name": "Three Bull 3-Srike Bi-Weekly",
+  "date": "2026-08-06",
+  "locationId": "8713",
+  "locationName": "Three Bull Taphouse",
+  "playerCount": 11,
+  "ratingsDate": "2026-08-06",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m44174",
+      "name": "Aaron Hernandez",
+      "rating": 1584.26,
+      "dailyRatingChange": 21.09
+    },
+    {
+      "position": 2,
+      "playerId": "m8000",
+      "name": "Robert Byers",
+      "rating": 1719.33,
+      "dailyRatingChange": -2.36
+    },
+    {
+      "position": 3,
+      "playerId": "m28359",
+      "name": "Craig Pritzkau",
+      "rating": 1539.18,
+      "dailyRatingChange": 1.63
+    },
+    {
+      "position": 3,
+      "playerId": "m28989",
+      "name": "Ryan Shelton",
+      "rating": 1578.91,
+      "dailyRatingChange": -0.7
+    },
+    {
+      "position": 5,
+      "playerId": "m33341",
+      "name": "Dina Robinson",
+      "rating": 1383.47,
+      "dailyRatingChange": 2.47
+    },
+    {
+      "position": 5,
+      "playerId": "m21300",
+      "name": "Tessi Brumley",
+      "rating": 1501.32,
+      "dailyRatingChange": 1.77
+    },
+    {
+      "position": 7,
+      "playerId": "m584922",
+      "name": "Alex Smith",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 7,
+      "playerId": "m584923",
+      "name": "Richard Kyle",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 9,
+      "playerId": "m584914",
+      "name": "Brandon Kyle",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 9,
+      "playerId": "m47464",
+      "name": "Scott Hansford",
+      "rating": 1424.93,
+      "dailyRatingChange": -4.06
+    },
+    {
+      "position": 11,
+      "playerId": "i127294",
+      "name": "Gary Pritzkau",
+      "rating": 1268.14,
+      "dailyRatingChange": -11.36
+    }
+  ]
+}

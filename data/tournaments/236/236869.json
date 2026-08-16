@@ -1,0 +1,123 @@
+{
+  "tournamentId": 236869,
+  "name": "Belles and Chimes Toronto: Joppin' July!",
+  "date": "2026-07-29",
+  "locationId": "9650",
+  "locationName": "Cabin Fever",
+  "playerCount": 16,
+  "ratingsDate": "2026-07-29",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m59428",
+      "name": "Winnie Fung",
+      "rating": 1562.81,
+      "dailyRatingChange": 13
+    },
+    {
+      "position": 2,
+      "playerId": "m43506",
+      "name": "Kathleen Winona Hyslop",
+      "rating": 1524.14,
+      "dailyRatingChange": 13.75
+    },
+    {
+      "position": 3,
+      "playerId": "m42111",
+      "name": "Emma Hyslop",
+      "rating": 1432.33,
+      "dailyRatingChange": 44.35
+    },
+    {
+      "position": 4,
+      "playerId": "m35956",
+      "name": "Kathy Podwin",
+      "rating": 1523.51,
+      "dailyRatingChange": 14.07
+    },
+    {
+      "position": 5,
+      "playerId": "m41934",
+      "name": "Devra Leibovitz",
+      "rating": 1546.75,
+      "dailyRatingChange": 9.23
+    },
+    {
+      "position": 5,
+      "playerId": "m540536",
+      "name": "Mia Malone",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 5,
+      "playerId": "m11767",
+      "name": "Polly-Jean Vernon",
+      "rating": 1668.71,
+      "dailyRatingChange": -6.65
+    },
+    {
+      "position": 8,
+      "playerId": "m54046",
+      "name": "Tama Samus",
+      "rating": 1541.82,
+      "dailyRatingChange": 3.28
+    },
+    {
+      "position": 9,
+      "playerId": "m43088",
+      "name": "Jessica Babineau",
+      "rating": 1490.05,
+      "dailyRatingChange": -0.11
+    },
+    {
+      "position": 10,
+      "playerId": "m45350",
+      "name": "Feonix Cain",
+      "rating": 1505.38,
+      "dailyRatingChange": -6.92
+    },
+    {
+      "position": 11,
+      "playerId": "m43864",
+      "name": "Addie Sorrell",
+      "rating": 1489.14,
+      "dailyRatingChange": -7.34
+    },
+    {
+      "position": 12,
+      "playerId": "m46153",
+      "name": "Caroline Ross",
+      "rating": 1342.96,
+      "dailyRatingChange": -3.69
+    },
+    {
+      "position": 13,
+      "playerId": "m582663",
+      "name": "Heather Brown",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 13,
+      "playerId": "m582664",
+      "name": "Kasha Visutskie",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 15,
+      "playerId": "m422749",
+      "name": "Christina Gryszkiewicz",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 15,
+      "playerId": "i133254",
+      "name": "Anna Gryszkiewicz",
+      "rating": 1326.2,
+      "dailyRatingChange": -46.17
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "tournamentId": 265437,
+  "name": "Tuesday Night at the Vault August Week 1",
+  "date": "2026-08-05",
+  "locationId": "8957",
+  "locationName": "Morristown Game Vault",
+  "playerCount": 16,
+  "ratingsDate": "2026-08-05",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m6036",
+      "name": "Anthony Lambos Jr",
+      "rating": 1845.54,
+      "dailyRatingChange": 3.27
+    },
+    {
+      "position": 2,
+      "playerId": "m14739",
+      "name": "Kevin Roth",
+      "rating": 1527.28,
+      "dailyRatingChange": 16.46
+    },
+    {
+      "position": 3,
+      "playerId": "m6041",
+      "name": "Cliff Albert",
+      "rating": 1687.78,
+      "dailyRatingChange": -3.41
+    },
+    {
+      "position": 4,
+      "playerId": "m39514",
+      "name": "Gabriel Julio",
+      "rating": 1520.77,
+      "dailyRatingChange": 6.57
+    },
+    {
+      "position": 5,
+      "playerId": "m10829",
+      "name": "Robert Salamon",
+      "rating": 1599.51,
+      "dailyRatingChange": 2.56
+    },
+    {
+      "position": 6,
+      "playerId": "m6071",
+      "name": "Craig Cash",
+      "rating": 1660.32,
+      "dailyRatingChange": -2.47
+    },
+    {
+      "position": 7,
+      "playerId": "m39898",
+      "name": "Jake Polachek",
+      "rating": 1631.17,
+      "dailyRatingChange": 0.36
+    },
+    {
+      "position": 8,
+      "playerId": "m4238",
+      "name": "David Balsamini",
+      "rating": 1545.84,
+      "dailyRatingChange": 2.5
+    },
+    {
+      "position": 9,
+      "playerId": "m25667",
+      "name": "Steve Drabik",
+      "rating": 1632.13,
+      "dailyRatingChange": -3.73
+    },
+    {
+      "position": 10,
+      "playerId": "m14544",
+      "name": "Devin O'leary",
+      "rating": 1450.32,
+      "dailyRatingChange": 4.83
+    },
+    {
+      "position": 11,
+      "playerId": "m394",
+      "name": "Joshua Senzer",
+      "rating": 1556.25,
+      "dailyRatingChange": -3.94
+    },
+    {
+      "position": 12,
+      "playerId": "m31107",
+      "name": "Nathan Boschen",
+      "rating": 1548.07,
+      "dailyRatingChange": -4.87
+    },
+    {
+      "position": 13,
+      "playerId": "m13661",
+      "name": "Dickey Scott",
+      "rating": 1555.95,
+      "dailyRatingChange": -3.62
+    },
+    {
+      "position": 14,
+      "playerId": "m39520",
+      "name": "Christopher Julio",
+      "rating": 1571.79,
+      "dailyRatingChange": -2.96
+    },
+    {
+      "position": 15,
+      "playerId": "m18040",
+      "name": "Todd Dwyer",
+      "rating": 1502.42,
+      "dailyRatingChange": -5.13
+    },
+    {
+      "position": 16,
+      "playerId": "m39126",
+      "name": "Spencer McGovern",
+      "rating": 1561.09,
+      "dailyRatingChange": -7.32
+    }
+  ]
+}

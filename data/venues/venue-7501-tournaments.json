@@ -1,0 +1,77 @@
+{
+  "locationId": "7501",
+  "venueName": "Tepey’s Taps & Tacos",
+  "venueAddress": "2130 Kings Ave, Jacksonville, FL 32207, US",
+  "tournaments": [
+    {
+      "id": 224466,
+      "name": "JAX Pinball League - Season 7 #1",
+      "date": "8/10/2026",
+      "playerCount": 24,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m53379",
+          "name": "Kevin Sechrist",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m53646",
+          "name": "Mark Loveland",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "i140189",
+          "name": "Jesse Knupp",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "i158051",
+          "name": "Ryan Logue",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 262866,
+      "name": "Finals for Pinsomniacs July Open",
+      "date": "7/19/2026",
+      "playerCount": 4,
+      "qualifying": {
+        "id": 262801,
+        "name": "Pinsomniacs July Open",
+        "playerCount": 14
+      },
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m35986",
+          "name": "Ian Crusan",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m37538",
+          "name": "Tank Koscinski",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m47307",
+          "name": "Derrick Smith",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m3753",
+          "name": "Jokton Strealy",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

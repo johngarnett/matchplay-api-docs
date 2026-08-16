@@ -1,0 +1,163 @@
+{
+  "locationId": "6198",
+  "venueName": "Quarter Up",
+  "venueAddress": "Parking lot, 1452 N Portage Path, Akron, OH 44313, USA",
+  "tournaments": [
+    {
+      "id": 266411,
+      "name": "QU Mondays 317",
+      "date": "8/10/2026",
+      "playerCount": 20,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m17883",
+          "name": "Adam Krzeminski",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m21859",
+          "name": "Colin Billings",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m13919",
+          "name": "Mike Grau",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m43715",
+          "name": "Wayne Guk",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m22465",
+          "name": "Warren",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m40607",
+          "name": "Graem",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 265260,
+      "name": "QU Mondays 316",
+      "date": "8/3/2026",
+      "playerCount": 24,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m1060",
+          "name": "Brett Buzek",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m43715",
+          "name": "Wayne Guk",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m17883",
+          "name": "Adam Krzeminski",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m37691",
+          "name": "Paul Gilbert",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 264031,
+      "name": "QU Mondays 315(Transfomers Release Edition)",
+      "date": "7/27/2026",
+      "playerCount": 33,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m955",
+          "name": "David Terkel",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m1060",
+          "name": "Brett Buzek",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m13919",
+          "name": "Mike Grau",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m17883",
+          "name": "Adam Krzeminski",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 262953,
+      "name": "QU Mondays 314",
+      "date": "7/20/2026",
+      "playerCount": 27,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m17883",
+          "name": "Adam Krzeminski",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m40607",
+          "name": "Graem",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m37691",
+          "name": "Paul Gilbert",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m21859",
+          "name": "Colin Billings",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m44511",
+          "name": "Ian Goodnight",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m13919",
+          "name": "Mike Grau",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

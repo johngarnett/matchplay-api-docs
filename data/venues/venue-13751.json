@@ -1,0 +1,107 @@
+{
+  "locationId": "13751",
+  "name": "Pinhalla Pinball Pizzeria",
+  "address": "516 Fisgard St, Victoria, BC V8W 1R4, CA",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 4,
+  "relatedVenues": [
+    {
+      "locationId": "13050",
+      "name": "House Of Flippers",
+      "address": "",
+      "count": 7
+    },
+    {
+      "locationId": "8645",
+      "name": "The American",
+      "address": "926 Main St, Vancouver, BC V6A 2W1, CA",
+      "count": 6
+    },
+    {
+      "locationId": "12634",
+      "name": "The Outpost",
+      "address": "1773 Kingsway, Vancouver, BC V5N 2S5, US",
+      "count": 4
+    },
+    {
+      "locationId": "13756",
+      "name": "Atomic Arcade",
+      "address": "1790 Island Hwy #105, Victoria, BC V9B 1H8, CA",
+      "count": 3
+    },
+    {
+      "locationId": "7159",
+      "name": "The John",
+      "address": "2216Jingle Pot Road Nanaimo B.C. V9R 6T9",
+      "count": 2
+    },
+    {
+      "locationId": "13055",
+      "name": "VanCity Pinball & Arcade",
+      "address": "1739 Venables St, Vancouver, BC V5L 2H3, CA",
+      "count": 2
+    },
+    {
+      "locationId": "10939",
+      "name": "Millennium Place",
+      "address": "2000 Premier Way, Sherwood Park, AB",
+      "count": 1
+    },
+    {
+      "locationId": "11029",
+      "name": "The Outpost",
+      "address": "1773 Kingsway St. Suite 202",
+      "count": 1
+    }
+  ],
+  "players": [
+    {
+      "id": "m28628",
+      "name": "Chantelle Mercier",
+      "rating": 1635.03,
+      "rd": 21.66,
+      "ratingClass": "A",
+      "homeLocation": "The American",
+      "homeLocationId": "8645",
+      "percentile": 89.4582382261145,
+      "changeDisplay": "-3.6",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m48087",
+      "name": "Clayton Harris",
+      "rating": 1588.57,
+      "rd": 26.4,
+      "ratingClass": "B",
+      "homeLocation": "House Of Flippers",
+      "homeLocationId": "13050",
+      "percentile": 79.0655424605208,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m42128",
+      "name": "Tim Bottoni",
+      "rating": 1478.75,
+      "rd": 24.44,
+      "ratingClass": "C",
+      "homeLocation": "House Of Flippers",
+      "homeLocationId": "13050",
+      "percentile": 38.45437182652443,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m48580",
+      "name": "Elijah Burtner",
+      "rating": 1428.9,
+      "rd": 35.46,
+      "ratingClass": "C",
+      "homeLocation": "House Of Flippers",
+      "homeLocationId": "13050",
+      "percentile": 20.259002189406996,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

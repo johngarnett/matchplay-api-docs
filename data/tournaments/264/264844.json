@@ -1,0 +1,116 @@
+{
+  "tournamentId": 264844,
+  "name": "Stern Army Final Friday!",
+  "date": "2026-08-01",
+  "locationId": "12193",
+  "locationName": "The KavaKade",
+  "playerCount": 15,
+  "ratingsDate": "2026-08-01",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "i124774",
+      "name": "Rodney Krug",
+      "rating": 1629.94,
+      "dailyRatingChange": -17.29
+    },
+    {
+      "position": 2,
+      "playerId": "m562334",
+      "name": "Matt Hines",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 3,
+      "playerId": "m40511",
+      "name": "Walt Carothers",
+      "rating": 1550.01,
+      "dailyRatingChange": 12.22
+    },
+    {
+      "position": 4,
+      "playerId": "m59486",
+      "name": "Chris Schrope",
+      "rating": 1639.24,
+      "dailyRatingChange": 14.69
+    },
+    {
+      "position": 5,
+      "playerId": "m29345",
+      "name": "Eric White",
+      "rating": 1654.12,
+      "dailyRatingChange": -3.07
+    },
+    {
+      "position": 6,
+      "playerId": "i142927",
+      "name": "Deanna Schrope",
+      "rating": 1495.94,
+      "dailyRatingChange": 6.41
+    },
+    {
+      "position": 7,
+      "playerId": "m62199",
+      "name": "Dale Strain",
+      "rating": 1452.75,
+      "dailyRatingChange": 10.1
+    },
+    {
+      "position": 8,
+      "playerId": "m57698",
+      "name": "Nichole Carothers",
+      "rating": 1478.21,
+      "dailyRatingChange": 1.96
+    },
+    {
+      "position": 9,
+      "playerId": "m550353",
+      "name": "Luke Gurekovich",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 10,
+      "playerId": "m583345",
+      "name": "Patty Brown",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 11,
+      "playerId": "m23034",
+      "name": "Tim Lee",
+      "rating": 1691.12,
+      "dailyRatingChange": -25.16
+    },
+    {
+      "position": 12,
+      "playerId": "i128854",
+      "name": "Andrik Carothers",
+      "rating": 1380.87,
+      "dailyRatingChange": 3.34
+    },
+    {
+      "position": 13,
+      "playerId": "m583346",
+      "name": "Jed Roland",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 14,
+      "playerId": "m583344",
+      "name": "Dillan Brown",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 15,
+      "playerId": "m562337",
+      "name": "Bruce Lingsch",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

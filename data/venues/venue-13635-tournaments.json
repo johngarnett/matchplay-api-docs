@@ -1,0 +1,44 @@
+{
+  "locationId": "13635",
+  "venueName": "The Pinball Factory",
+  "venueAddress": "33 Veldweg, Herkenbosch, 6075 NL, NL",
+  "tournaments": [
+    {
+      "id": 259480,
+      "name": "Finals for Pinball Factory Summer Tournament",
+      "date": "8/1/2026",
+      "playerCount": 14,
+      "qualifying": {
+        "id": 259479,
+        "name": "Pinball Factory Summer Tournament",
+        "playerCount": 29
+      },
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m16229",
+          "name": "Paul Englert",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m21465",
+          "name": "Roy Wils",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m43915",
+          "name": "Barry Hoeben",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m33671",
+          "name": "Xandro Schellen",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

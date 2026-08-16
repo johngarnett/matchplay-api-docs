@@ -1,0 +1,109 @@
+{
+  "tournamentId": 265264,
+  "name": "tcpinball.org @ The Coin Slot 2026-08-03",
+  "date": "2026-08-04",
+  "locationId": "7370",
+  "locationName": "The Coin Slot",
+  "playerCount": 14,
+  "ratingsDate": "2026-08-04",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m32231",
+      "name": "Johnny G",
+      "rating": 1645.26,
+      "dailyRatingChange": 8.45
+    },
+    {
+      "position": 2,
+      "playerId": "m31152",
+      "name": "Danny Tewers",
+      "rating": 1536.96,
+      "dailyRatingChange": 10.72
+    },
+    {
+      "position": 3,
+      "playerId": "m10803",
+      "name": "Dingo Hilgard",
+      "rating": 1703.56,
+      "dailyRatingChange": 7.06
+    },
+    {
+      "position": 4,
+      "playerId": "m49444",
+      "name": "Troy Kellogg",
+      "rating": 1665.03,
+      "dailyRatingChange": -14.1
+    },
+    {
+      "position": 5,
+      "playerId": "m13877",
+      "name": "Tracy Ward",
+      "rating": 1527.57,
+      "dailyRatingChange": 3.74
+    },
+    {
+      "position": 6,
+      "playerId": "m39327",
+      "name": "Jansen Tolle",
+      "rating": 1631.28,
+      "dailyRatingChange": -0.39
+    },
+    {
+      "position": 7,
+      "playerId": "m44725",
+      "name": "Mike Alfaro",
+      "rating": 1596.47,
+      "dailyRatingChange": -2.54
+    },
+    {
+      "position": 8,
+      "playerId": "m41939",
+      "name": "Marshal McMillan",
+      "rating": 1592.38,
+      "dailyRatingChange": -1.03
+    },
+    {
+      "position": 9,
+      "playerId": "m13782",
+      "name": "Brion roper",
+      "rating": 1470.82,
+      "dailyRatingChange": 3.72
+    },
+    {
+      "position": 10,
+      "playerId": "m34066",
+      "name": "Beth Milligan",
+      "rating": 1508.44,
+      "dailyRatingChange": -2.83
+    },
+    {
+      "position": 11,
+      "playerId": "i100705",
+      "name": "Andy Girrell",
+      "rating": 1460.87,
+      "dailyRatingChange": -4.2
+    },
+    {
+      "position": 12,
+      "playerId": "m58382",
+      "name": "Ryan Barnhart",
+      "rating": 1373.22,
+      "dailyRatingChange": 1.32
+    },
+    {
+      "position": 13,
+      "playerId": "m25014",
+      "name": "Ben Harris",
+      "rating": 1511.4,
+      "dailyRatingChange": -6.83
+    },
+    {
+      "position": 14,
+      "playerId": "m60674",
+      "name": "John Anderson",
+      "rating": 1436.97,
+      "dailyRatingChange": -13.9
+    }
+  ]
+}

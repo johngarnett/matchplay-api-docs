@@ -1,0 +1,173 @@
+{
+  "locationId": "9570",
+  "name": "RobinJo Game Room",
+  "address": "Dubai, UAE",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 13,
+  "relatedVenues": [
+    {
+      "locationId": "9549",
+      "name": "TILT AMUSEMENTS DUBAI",
+      "address": "AL QOUZ INDUSTRIAL AREA 3, DUBAI",
+      "count": 7
+    }
+  ],
+  "players": [
+    {
+      "id": "m36540",
+      "name": "Sahem Azzam",
+      "rating": 1752.24,
+      "rd": 37.7,
+      "ratingClass": "Expert",
+      "homeLocation": "RobinJo Game Room",
+      "homeLocationId": "9570",
+      "percentile": 98.8493967484977,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m36265",
+      "name": "Omar Kawas",
+      "rating": 1635.02,
+      "rd": 41.04,
+      "ratingClass": "A",
+      "homeLocation": "TILT AMUSEMENTS DUBAI",
+      "homeLocationId": "9549",
+      "percentile": 89.45357991335538,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m39161",
+      "name": "Eyad Shihabi",
+      "rating": 1597.23,
+      "rd": 57.03,
+      "ratingClass": "B",
+      "homeLocation": "RobinJo Game Room",
+      "homeLocationId": "9570",
+      "percentile": 81.29687427213864,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m38059",
+      "name": "Amir Azzam",
+      "rating": 1593.18,
+      "rd": 40.64,
+      "ratingClass": "B",
+      "homeLocation": "RobinJo Game Room",
+      "homeLocationId": "9570",
+      "percentile": 80.29533702892813,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m39165",
+      "name": "Anas Naim",
+      "rating": 1581.51,
+      "rd": 44.28,
+      "ratingClass": "B",
+      "homeLocation": "RobinJo Game Room",
+      "homeLocationId": "9570",
+      "percentile": 77.0671262868589,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m38056",
+      "name": "Sven Reinicke",
+      "rating": 1573.74,
+      "rd": 38.88,
+      "ratingClass": "B",
+      "homeLocation": "TILT AMUSEMENTS DUBAI",
+      "homeLocationId": "9549",
+      "percentile": 74.70070340522663,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m36268",
+      "name": "Tom Schmitz",
+      "rating": 1558.97,
+      "rd": 51.26,
+      "ratingClass": "B",
+      "homeLocation": "RobinJo Game Room",
+      "homeLocationId": "9570",
+      "percentile": 70.00512414403504,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m38837",
+      "name": "Faris Azzam",
+      "rating": 1536.67,
+      "rd": 38.77,
+      "ratingClass": "B",
+      "homeLocation": "RobinJo Game Room",
+      "homeLocationId": "9570",
+      "percentile": 61.722644058322075,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m42562",
+      "name": "Rakan Shihabi",
+      "rating": 1472.42,
+      "rd": 68.91,
+      "ratingClass": "C",
+      "homeLocation": "RobinJo Game Room",
+      "homeLocationId": "9570",
+      "percentile": 35.83174174314063,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m53710",
+      "name": "Raphael Beben",
+      "rating": 1427.95,
+      "rd": 61.8,
+      "ratingClass": "C",
+      "homeLocation": "RobinJo Game Room",
+      "homeLocationId": "9570",
+      "percentile": 19.9608701728234,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m50491",
+      "name": "Ali Nimer",
+      "rating": 1421.79,
+      "rd": 63.1,
+      "ratingClass": "C",
+      "homeLocation": "RobinJo Game Room",
+      "homeLocationId": "9570",
+      "percentile": 18.158103135044488,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m39166",
+      "name": "Mustafa Kaddoura",
+      "rating": 1421.58,
+      "rd": 67.58,
+      "ratingClass": "C",
+      "homeLocation": "RobinJo Game Room",
+      "homeLocationId": "9570",
+      "percentile": 18.08822844365771,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m43819",
+      "name": "Natalie Azzam",
+      "rating": 1377.17,
+      "rd": 59.2,
+      "ratingClass": "D",
+      "homeLocation": "RobinJo Game Room",
+      "homeLocationId": "9570",
+      "percentile": 7.811990497041972,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

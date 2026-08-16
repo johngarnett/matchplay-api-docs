@@ -1,0 +1,60 @@
+{
+  "tournamentId": 263841,
+  "name": "SweenDawgs Saturday Night Strikes",
+  "date": "2026-07-26",
+  "locationId": "12193",
+  "locationName": "The KavaKade",
+  "playerCount": 7,
+  "ratingsDate": "2026-07-26",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m50625",
+      "name": "Trey Feathers",
+      "rating": 1685.79,
+      "dailyRatingChange": 10.49
+    },
+    {
+      "position": 2,
+      "playerId": "m51542",
+      "name": "Jaret Sweeney",
+      "rating": 1679.32,
+      "dailyRatingChange": 0.67
+    },
+    {
+      "position": 3,
+      "playerId": "m40511",
+      "name": "Walt Carothers",
+      "rating": 1537.79,
+      "dailyRatingChange": -3.39
+    },
+    {
+      "position": 3,
+      "playerId": "m57698",
+      "name": "Nichole Carothers",
+      "rating": 1476.25,
+      "dailyRatingChange": -0.02
+    },
+    {
+      "position": 5,
+      "playerId": "m62199",
+      "name": "Dale Strain",
+      "rating": 1442.65,
+      "dailyRatingChange": -6.25
+    },
+    {
+      "position": 5,
+      "playerId": "m550353",
+      "name": "Luke Gurekovich",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 7,
+      "playerId": "i128854",
+      "name": "Andrik Carothers",
+      "rating": 1377.53,
+      "dailyRatingChange": -4.44
+    }
+  ]
+}

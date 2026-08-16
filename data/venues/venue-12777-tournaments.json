@@ -1,0 +1,110 @@
+{
+  "locationId": "12777",
+  "venueName": "The Church Arcade",
+  "venueAddress": "32 S 1st Street, Duquesne PA, 15110",
+  "tournaments": [
+    {
+      "id": 266569,
+      "name": "Tuesday Night Strikes",
+      "date": "8/11/2026",
+      "playerCount": 12,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "i146694",
+          "name": "Eric Koren",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "i11863",
+          "name": "Nicholas Stevens",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m34246",
+          "name": "Mike hovraluck",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m42247",
+          "name": "Jeff DeRose",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 263078,
+      "name": "Strikes in the Burgh",
+      "date": "7/21/2026",
+      "playerCount": 20,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m19020",
+          "name": "Daniele Celestino Acciari",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m9803",
+          "name": "Dave DeNardo",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m34246",
+          "name": "Mike hovraluck",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m45232",
+          "name": "Matt Cipperly",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 262759,
+      "name": "Finals for Silverball Saviors July 2026",
+      "date": "7/18/2026",
+      "playerCount": 4,
+      "qualifying": {
+        "id": 262690,
+        "name": "Silverball Saviors July 2026",
+        "playerCount": 6
+      },
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m45230",
+          "name": "Caitlin McCabe",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "p529072",
+          "name": "Jon Snow",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "i110046",
+          "name": "Michael Massaro",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m45232",
+          "name": "Matt Cipperly",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

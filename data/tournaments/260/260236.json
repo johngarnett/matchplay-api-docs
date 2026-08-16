@@ -1,0 +1,137 @@
+{
+  "tournamentId": 260236,
+  "name": "SAPL Summer - Strikes",
+  "date": "2026-08-12",
+  "locationId": "11780",
+  "locationName": "Bender Bar and Grill",
+  "playerCount": 18,
+  "ratingsDate": "2026-08-12",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "i50815",
+      "name": "Mike Yoder",
+      "rating": 1536.49,
+      "dailyRatingChange": 75.22
+    },
+    {
+      "position": 2,
+      "playerId": "m6273",
+      "name": "Nate Bright",
+      "rating": 1573.43,
+      "dailyRatingChange": 10.33
+    },
+    {
+      "position": 3,
+      "playerId": "m36723",
+      "name": "Nicholas de la",
+      "rating": 1566.79,
+      "dailyRatingChange": 5.06
+    },
+    {
+      "position": 3,
+      "playerId": "m15349",
+      "name": "Stevan Reyes",
+      "rating": 1613.88,
+      "dailyRatingChange": -0.44
+    },
+    {
+      "position": 5,
+      "playerId": "m21483",
+      "name": "Josh Pack",
+      "rating": 1569.58,
+      "dailyRatingChange": 0.67
+    },
+    {
+      "position": 5,
+      "playerId": "m45521",
+      "name": "Jake Staehle",
+      "rating": 1510.21,
+      "dailyRatingChange": 4.52
+    },
+    {
+      "position": 7,
+      "playerId": "m20287",
+      "name": "Victor Evans",
+      "rating": 1649.8,
+      "dailyRatingChange": -4.04
+    },
+    {
+      "position": 7,
+      "playerId": "m40931",
+      "name": "Caroline Bassett",
+      "rating": 1519.33,
+      "dailyRatingChange": 0.07
+    },
+    {
+      "position": 7,
+      "playerId": "m26328",
+      "name": "Stephen Jones FL",
+      "rating": 1610.92,
+      "dailyRatingChange": -5.33
+    },
+    {
+      "position": 7,
+      "playerId": "m13560",
+      "name": "Haley Bonds",
+      "rating": 1534.2,
+      "dailyRatingChange": -0.54
+    },
+    {
+      "position": 11,
+      "playerId": "m62835",
+      "name": "SJ Mann",
+      "rating": 1483.58,
+      "dailyRatingChange": null
+    },
+    {
+      "position": 11,
+      "playerId": "m26997",
+      "name": "Erin LeBlanc",
+      "rating": 1438.93,
+      "dailyRatingChange": -0.5
+    },
+    {
+      "position": 11,
+      "playerId": "m10693",
+      "name": "Danielle Barr",
+      "rating": 1475.32,
+      "dailyRatingChange": -0.81
+    },
+    {
+      "position": 14,
+      "playerId": "m58045",
+      "name": "Bobby Mann",
+      "rating": 1400.78,
+      "dailyRatingChange": -1.73
+    },
+    {
+      "position": 14,
+      "playerId": "m2312",
+      "name": "Bobbi Douthitt",
+      "rating": 1585.62,
+      "dailyRatingChange": -6.41
+    },
+    {
+      "position": 16,
+      "playerId": "i147307",
+      "name": "Liz Mayne",
+      "rating": 1339.26,
+      "dailyRatingChange": -6.82
+    },
+    {
+      "position": 16,
+      "playerId": "i150110",
+      "name": "Geoff Glass",
+      "rating": 1504.73,
+      "dailyRatingChange": -8.07
+    },
+    {
+      "position": 16,
+      "playerId": "i162542",
+      "name": "Isaac Quirke",
+      "rating": 1408.69,
+      "dailyRatingChange": null
+    }
+  ]
+}

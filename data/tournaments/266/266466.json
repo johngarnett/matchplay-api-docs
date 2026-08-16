@@ -1,0 +1,81 @@
+{
+  "tournamentId": 266466,
+  "name": "Flips 081026",
+  "date": "2026-08-11",
+  "locationId": "12168",
+  "locationName": "Flip's",
+  "playerCount": 10,
+  "ratingsDate": "2026-08-11",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m32407",
+      "name": "Dan Werry",
+      "rating": 1549.44,
+      "dailyRatingChange": 6.72
+    },
+    {
+      "position": 1,
+      "playerId": "m22370",
+      "name": "Glenn Scharf",
+      "rating": 1649.06,
+      "dailyRatingChange": 2.8
+    },
+    {
+      "position": 3,
+      "playerId": "m4928",
+      "name": "Karl Strode",
+      "rating": 1629.35,
+      "dailyRatingChange": -0.96
+    },
+    {
+      "position": 4,
+      "playerId": "m34444",
+      "name": "David Main",
+      "rating": 1472.13,
+      "dailyRatingChange": 4.14
+    },
+    {
+      "position": 5,
+      "playerId": "m57201",
+      "name": "Michael Anderson FL",
+      "rating": 1489.79,
+      "dailyRatingChange": 6.17
+    },
+    {
+      "position": 6,
+      "playerId": "i106041",
+      "name": "Aaron aitken",
+      "rating": 1546.53,
+      "dailyRatingChange": 1.87
+    },
+    {
+      "position": 6,
+      "playerId": "m51119",
+      "name": "Joe eggers",
+      "rating": 1481.02,
+      "dailyRatingChange": 0.67
+    },
+    {
+      "position": 6,
+      "playerId": "m62043",
+      "name": "Bill Papoosha",
+      "rating": 1541.15,
+      "dailyRatingChange": -5.56
+    },
+    {
+      "position": 9,
+      "playerId": "i58655",
+      "name": "Paul Reed",
+      "rating": 1539.86,
+      "dailyRatingChange": -9.8
+    },
+    {
+      "position": 10,
+      "playerId": "m315719",
+      "name": "Dave turetsky",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

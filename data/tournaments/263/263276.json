@@ -1,0 +1,102 @@
+{
+  "tournamentId": 263276,
+  "name": "LITT Monthly Split Flipper Tournament - July",
+  "date": "2026-07-23",
+  "locationId": "8625",
+  "locationName": "LITT Pinball Bar",
+  "playerCount": 13,
+  "ratingsDate": "2026-07-23",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m23049",
+      "name": "Klark",
+      "rating": 1465.26,
+      "dailyRatingChange": 8.6
+    },
+    {
+      "position": 1,
+      "playerId": "m28155",
+      "name": "M&M",
+      "rating": 1600.53,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 3,
+      "playerId": "m21593",
+      "name": "Dum-Dums",
+      "rating": 1561.87,
+      "dailyRatingChange": -0.83
+    },
+    {
+      "position": 3,
+      "playerId": "m25240",
+      "name": "Bryan & Cori",
+      "rating": 1547.24,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 5,
+      "playerId": "m56950",
+      "name": "Jared & Wilder",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 5,
+      "playerId": "m29245",
+      "name": "Quinton & Dad",
+      "rating": 1557.92,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 7,
+      "playerId": "m58087",
+      "name": "Pinball Babes",
+      "rating": 1549.53,
+      "dailyRatingChange": 11.95
+    },
+    {
+      "position": 7,
+      "playerId": "m567620",
+      "name": "Starbrake",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 9,
+      "playerId": "m45605",
+      "name": "Billy & Jari",
+      "rating": 1437.8,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 10,
+      "playerId": "m57950",
+      "name": "DigiHorse",
+      "rating": 1473.09,
+      "dailyRatingChange": -2.72
+    },
+    {
+      "position": 10,
+      "playerId": "m580926",
+      "name": "Flippin Bitches",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 12,
+      "playerId": "m31525",
+      "name": "Peter & Alicia",
+      "rating": 1375.26,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 12,
+      "playerId": "m580927",
+      "name": "Not Molly and Larri",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

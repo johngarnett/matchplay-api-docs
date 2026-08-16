@@ -1,0 +1,275 @@
+{
+  "locationId": "9990",
+  "name": "Homestead Taproom & Kitchen",
+  "address": "10 S High St, Canal Winchester, OH 43110, US",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 17,
+  "relatedVenues": [
+    {
+      "locationId": "8939",
+      "name": "Grizzlybird Brewing Company",
+      "address": "5901 Chandler Ct, Westerville, OH 43082, US",
+      "count": 52
+    },
+    {
+      "locationId": "9921",
+      "name": "Renaissance Atlanta Waverly Hotel & Convention Center",
+      "address": "2450 Galleria Pkwy Atlanta, GA 30339",
+      "count": 6
+    },
+    {
+      "locationId": "8271",
+      "name": "Rezzanine Esports",
+      "address": "1025 Washington Pike, Bridgeville, PA 15017, US",
+      "count": 5
+    },
+    {
+      "locationId": "7969",
+      "name": "Level One Bar + Arcade",
+      "address": "130 Hutchinson Ave, Columbus, OH 43235, US",
+      "count": 3
+    },
+    {
+      "locationId": "3374",
+      "name": "Portal Pinball Arcade",
+      "address": "3335 Cobb Pkwy Suite 800, Acworth, GA, 30101, US",
+      "count": 2
+    },
+    {
+      "locationId": "7941",
+      "name": "Heart State Brewing",
+      "address": "750 Cross Pointe Rd, Columbus, OH 43230",
+      "count": 2
+    },
+    {
+      "locationId": "11584",
+      "name": "CWF",
+      "address": "Elmhurt Il",
+      "count": 2
+    },
+    {
+      "locationId": "11788",
+      "name": "The Game Haven",
+      "address": "5570 Airway Rd, Dayton OH 45431",
+      "count": 2
+    },
+    {
+      "locationId": "13425",
+      "name": "jay brand",
+      "address": "",
+      "count": 2
+    },
+    {
+      "locationId": "13441",
+      "name": "Tilt Amusment Barn",
+      "address": "3087  russell rd, Ostrander Oh 43061",
+      "count": 2
+    }
+  ],
+  "players": [
+    {
+      "id": "m43200",
+      "name": "Mitchell Banks",
+      "rating": 1675.44,
+      "rd": 26.79,
+      "ratingClass": "A",
+      "homeLocation": "Homestead Taproom & Kitchen",
+      "homeLocationId": "9990",
+      "percentile": 94.65225695253179,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m143",
+      "name": "Chris Wamsley",
+      "rating": 1665.26,
+      "rd": 19.73,
+      "ratingClass": "A",
+      "homeLocation": "Grizzlybird Brewing Company",
+      "homeLocationId": "8939",
+      "percentile": 93.64140308380304,
+      "changeDisplay": "+9.7",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m1640",
+      "name": "Jim Seward",
+      "rating": 1630.76,
+      "rd": 25.4,
+      "ratingClass": "A",
+      "homeLocation": "Homestead Taproom & Kitchen",
+      "homeLocationId": "9990",
+      "percentile": 88.72222481017376,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m16282",
+      "name": "Tom Ceckitti",
+      "rating": 1588.55,
+      "rd": 26.78,
+      "ratingClass": "B",
+      "homeLocation": "Grizzlybird Brewing Company",
+      "homeLocationId": "8939",
+      "percentile": 79.06088414776168,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m6195",
+      "name": "Brent Umina",
+      "rating": 1578.31,
+      "rd": 30.26,
+      "ratingClass": "B",
+      "homeLocation": "Homestead Taproom & Kitchen",
+      "homeLocationId": "9990",
+      "percentile": 76.12614710951692,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m3321",
+      "name": "Rhonda Wamsley",
+      "rating": 1570.99,
+      "rd": 18.21,
+      "ratingClass": "B",
+      "homeLocation": "Grizzlybird Brewing Company",
+      "homeLocationId": "8939",
+      "percentile": 73.85289048306703,
+      "changeDisplay": "+3.9",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m42372",
+      "name": "Shawn McCormick",
+      "rating": 1555.6,
+      "rd": 47.97,
+      "ratingClass": "B",
+      "homeLocation": "Homestead Taproom & Kitchen",
+      "homeLocationId": "9990",
+      "percentile": 68.88247076908743,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i60173",
+      "name": "Joe Sorvillo",
+      "rating": 1521.14,
+      "rd": 36.39,
+      "ratingClass": "B",
+      "homeLocation": "Homestead Taproom & Kitchen",
+      "homeLocationId": "9990",
+      "percentile": 55.634229282154,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i151767",
+      "name": "Wesley Ingram",
+      "rating": 1500.79,
+      "rd": 50.73,
+      "ratingClass": "B",
+      "homeLocation": "Homestead Taproom & Kitchen",
+      "homeLocationId": "9990",
+      "percentile": 47.440257138864304,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i151766",
+      "name": "Tanner Albin",
+      "rating": 1495.14,
+      "rd": 51.9,
+      "ratingClass": "C",
+      "homeLocation": "Homestead Taproom & Kitchen",
+      "homeLocationId": "9990",
+      "percentile": 45.157683886896166,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m56201",
+      "name": "Nate Buccilla",
+      "rating": 1437.92,
+      "rd": 53.89,
+      "ratingClass": "C",
+      "homeLocation": "Homestead Taproom & Kitchen",
+      "homeLocationId": "9990",
+      "percentile": 23.012065030046116,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i17941",
+      "name": "Brian Blankenship",
+      "rating": 1433.16,
+      "rd": 54.17,
+      "ratingClass": "C",
+      "homeLocation": "Homestead Taproom & Kitchen",
+      "homeLocationId": "9990",
+      "percentile": 21.51674663436903,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i151765",
+      "name": "Adrianna Albin",
+      "rating": 1420.95,
+      "rd": 55.06,
+      "ratingClass": "C",
+      "homeLocation": "Homestead Taproom & Kitchen",
+      "homeLocationId": "9990",
+      "percentile": 17.934504122606793,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i136305",
+      "name": "Kirk Camac",
+      "rating": 1412.38,
+      "rd": 42.77,
+      "ratingClass": "C",
+      "homeLocation": "Homestead Taproom & Kitchen",
+      "homeLocationId": "9990",
+      "percentile": 15.717147249266317,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i128953",
+      "name": "Teena Sorvillo",
+      "rating": 1378.93,
+      "rd": 58.18,
+      "ratingClass": "D",
+      "homeLocation": "Homestead Taproom & Kitchen",
+      "homeLocationId": "9990",
+      "percentile": 8.128755764662039,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i136303",
+      "name": "Maddy Camac",
+      "rating": 1320.92,
+      "rd": 49.02,
+      "ratingClass": "D",
+      "homeLocation": "Homestead Taproom & Kitchen",
+      "homeLocationId": "9990",
+      "percentile": 1.8959332929612893,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m55452",
+      "name": "Tanner Albin",
+      "rating": null,
+      "rd": null,
+      "ratingClass": "N/A",
+      "homeLocation": "Homestead Taproom & Kitchen",
+      "homeLocationId": "9990",
+      "percentile": null,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

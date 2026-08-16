@@ -1,0 +1,175 @@
+{
+  "communityId": "13",
+  "locations": [
+    {
+      "id": "11374",
+      "name": "Project Pinball Headquarters",
+      "address": "1562 S Tamiami Trail Ste 3, Venice, FL 34293",
+      "tournaments": [
+        {
+          "id": 266075,
+          "name": "Project Pinball League 2026 Stern Army - IFPA #8",
+          "date": "8/8/2026",
+          "playerCount": 13,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m35099",
+              "name": "Brian Collins FL",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "i58401",
+              "name": "Todd Baxter",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "p471099",
+              "name": "Matt Ramsey",
+              "isCommunityMember": false
+            },
+            {
+              "position": 4,
+              "playerId": "p505228",
+              "name": "Brooke Rakoczy",
+              "isCommunityMember": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8980",
+      "name": "Riptide Brewing Company",
+      "address": "28120 Hunters Ridge Blvd, Bonita Springs, FL 34135",
+      "tournaments": [
+        {
+          "id": 266458,
+          "name": "Riptide Pinball League Q3 2026 Week 8",
+          "date": "8/10/2026",
+          "playerCount": 25,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m35033",
+              "name": "Shaun Purslow",
+              "isCommunityMember": true
+            },
+            {
+              "position": 1,
+              "playerId": "m35035",
+              "name": "Larry Hendricks",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m13702",
+              "name": "Eric Leon",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m38361",
+              "name": "Chris Johnson",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "i65323",
+              "name": "Leila Leon",
+              "isCommunityMember": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9620",
+      "name": "Satellite Pinball",
+      "address": "3501 N Dixie Hwy, Oakland Park, FL 33334",
+      "tournaments": [
+        {
+          "id": 265373,
+          "name": "Satellite Pinball - Monday League Match 3 of 6 (Aug 10, 2026) - Season 15",
+          "date": "8/10/2026",
+          "playerCount": 35,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m11155",
+              "name": "Stephen Krogman",
+              "isCommunityMember": true
+            },
+            {
+              "position": 1,
+              "playerId": "m15741",
+              "name": "Sebastian Bobbio",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m36224",
+              "name": "Sean Palmer",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m48008",
+              "name": "Johnny Troy",
+              "isCommunityMember": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8746",
+      "name": "The Retrocade",
+      "address": "800 Haywood Road, Asheville, NC 28806, US",
+      "tournaments": [
+        {
+          "id": 266863,
+          "name": "Finals for Retrocade Weekly 6 round Group Matchplay with 3 round Finals (8/12/26)",
+          "date": "8/12/2026",
+          "playerCount": 4,
+          "qualifying": {
+            "id": 258659,
+            "name": "Retrocade Weekly 6 round Group Matchplay with 3 round Finals (8/12/26)",
+            "playerCount": 12
+          },
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m33888",
+              "name": "Austin Wayman",
+              "isCommunityMember": false
+            },
+            {
+              "position": 2,
+              "playerId": "m25151",
+              "name": "Jeff Hittenberger",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m30571",
+              "name": "Preston Powell",
+              "isCommunityMember": false
+            },
+            {
+              "position": 3,
+              "playerId": "m30441",
+              "name": "Jason Riggs",
+              "isCommunityMember": false
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

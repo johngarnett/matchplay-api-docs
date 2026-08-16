@@ -1,0 +1,40 @@
+{
+  "locationId": "13403",
+  "venueName": "The Peddler",
+  "venueAddress": "835 Third Ave, Huntington, WV 25701, US",
+  "tournaments": [
+    {
+      "id": 266566,
+      "name": "Huntington Pinball - August Strikes Knockout",
+      "date": "8/11/2026",
+      "playerCount": 8,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m56810",
+          "name": "PaulyP Hesson",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m60693",
+          "name": "Joe McCallister",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m57707",
+          "name": "Jon Insco",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m9232",
+          "name": "Paul Hesson",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

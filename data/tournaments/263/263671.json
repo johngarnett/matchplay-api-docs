@@ -1,0 +1,81 @@
+{
+  "tournamentId": 263671,
+  "name": "Fourth Fridays at the Fix - July - Matchplay",
+  "date": "2026-07-25",
+  "locationId": "9540",
+  "locationName": "The Fixin' To",
+  "playerCount": 10,
+  "ratingsDate": "2026-07-25",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m34520",
+      "name": "Julian Narino",
+      "rating": 1610.31,
+      "dailyRatingChange": 22.67
+    },
+    {
+      "position": 2,
+      "playerId": "i8473",
+      "name": "David Morell",
+      "rating": 1567.43,
+      "dailyRatingChange": 8.86
+    },
+    {
+      "position": 2,
+      "playerId": "m31992",
+      "name": "Noah Sicard",
+      "rating": 1820.7,
+      "dailyRatingChange": -11.56
+    },
+    {
+      "position": 4,
+      "playerId": "m31701",
+      "name": "Zach Singer",
+      "rating": 1582.42,
+      "dailyRatingChange": 3.62
+    },
+    {
+      "position": 5,
+      "playerId": "m37376",
+      "name": "Trish Lockhart",
+      "rating": 1558.25,
+      "dailyRatingChange": 3.26
+    },
+    {
+      "position": 6,
+      "playerId": "m38166",
+      "name": "Fuchsia Troutman",
+      "rating": 1567.42,
+      "dailyRatingChange": 5.46
+    },
+    {
+      "position": 7,
+      "playerId": "m764",
+      "name": "Jeff Hart",
+      "rating": 1677,
+      "dailyRatingChange": -14.44
+    },
+    {
+      "position": 7,
+      "playerId": "m33542",
+      "name": "Vincent Poudrier",
+      "rating": 1683.67,
+      "dailyRatingChange": -13.11
+    },
+    {
+      "position": 9,
+      "playerId": "m44471",
+      "name": "Kim Epling",
+      "rating": 1444.3,
+      "dailyRatingChange": -13.23
+    },
+    {
+      "position": 10,
+      "playerId": "i130670",
+      "name": "Chris Olson OR",
+      "rating": 1492.56,
+      "dailyRatingChange": -9.23
+    }
+  ]
+}

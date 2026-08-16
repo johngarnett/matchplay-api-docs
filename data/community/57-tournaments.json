@@ -1,0 +1,202 @@
+{
+  "communityId": "57",
+  "locations": [
+    {
+      "id": "11748",
+      "name": "Caltowie Memorial Hall",
+      "address": "Charles Street, Caltowie, South Australia 5490",
+      "tournaments": [
+        {
+          "id": 266727,
+          "name": "Caltowie Wednesday August #1 '26",
+          "date": "8/12/2026",
+          "playerCount": 6,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m6632",
+              "name": "Ray Gillett",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m62574",
+              "name": "Mark Easson",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m51737",
+              "name": "Jim Tyas",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "p572052",
+              "name": "Jean Guttridge",
+              "isCommunityMember": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "10076",
+      "name": "South Australia Pinball and Arcade",
+      "address": "19 Playford Cres, Salisbury North, SA 5108, AU",
+      "tournaments": [
+        {
+          "id": 267012,
+          "name": "Drain Your Balls to the Max! #175",
+          "date": "8/14/2026",
+          "playerCount": 19,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "i104963",
+              "name": "Paul Geary",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m17500",
+              "name": "Scottie Taylor",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "i14484",
+              "name": "Rusty Painter",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m646",
+              "name": "Peter Milner",
+              "isCommunityMember": true
+            }
+          ]
+        },
+        {
+          "id": 266041,
+          "name": "Finals for SAPA Pinball Wizard XLVI",
+          "date": "8/8/2026",
+          "playerCount": 12,
+          "qualifying": {
+            "id": 266013,
+            "name": "SAPA Pinball Wizard XLVI",
+            "playerCount": 24
+          },
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m17448",
+              "name": "Robert Britos",
+              "isCommunityMember": false
+            },
+            {
+              "position": 2,
+              "playerId": "m51584",
+              "name": "Trent Reeves",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m25721",
+              "name": "Heath Evans",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m27800",
+              "name": "Luke Loop",
+              "isCommunityMember": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "11555",
+      "name": "The Ice ArenA",
+      "address": "23 James Congdon Dr, Thebarton, SA 5031, AU",
+      "tournaments": [
+        {
+          "id": 219377,
+          "name": "Pinducation \"On Ice\" 2026 @ THE ICE ARENA # 7",
+          "date": "8/12/2026",
+          "playerCount": 13,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m3596",
+              "name": "Gary Regan",
+              "isCommunityMember": false
+            },
+            {
+              "position": 2,
+              "playerId": "m230",
+              "name": "Lou Martire",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m51515",
+              "name": "Jonathan Kovarch",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m17455",
+              "name": "Cesar Federici",
+              "isCommunityMember": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "10472",
+      "name": "The Suburban Brew",
+      "address": "96 Goodwood Rd, Goodwood, SA, 5034, AU",
+      "tournaments": [
+        {
+          "id": 219341,
+          "name": "Pinducation 2026 @ Suburban Brewing GOODWOOD # 7",
+          "date": "8/13/2026",
+          "playerCount": 20,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m17511",
+              "name": "David Clark AUS",
+              "isCommunityMember": false
+            },
+            {
+              "position": 2,
+              "playerId": "m51118",
+              "name": "Grant Reeves",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m1497",
+              "name": "George Choimes",
+              "isCommunityMember": false
+            },
+            {
+              "position": 4,
+              "playerId": "m27094",
+              "name": "Steve Frensch",
+              "isCommunityMember": true
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

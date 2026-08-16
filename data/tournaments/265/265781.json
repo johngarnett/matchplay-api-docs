@@ -1,0 +1,67 @@
+{
+  "tournamentId": 265781,
+  "name": "Finals for tcpinball.org @ Right Brain 2026-08-06",
+  "date": "2026-08-07",
+  "locationId": "6879",
+  "locationName": "Right Brain Brewery",
+  "playerCount": 8,
+  "ratingsDate": "2026-08-07",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m49802",
+      "name": "Annie Dro",
+      "rating": 1632.14,
+      "dailyRatingChange": 18.34
+    },
+    {
+      "position": 2,
+      "playerId": "m31152",
+      "name": "Danny Tewers",
+      "rating": 1549.9,
+      "dailyRatingChange": 12.94
+    },
+    {
+      "position": 2,
+      "playerId": "m49444",
+      "name": "Troy Kellogg",
+      "rating": 1665.21,
+      "dailyRatingChange": 0.18
+    },
+    {
+      "position": 4,
+      "playerId": "i10504",
+      "name": "Leif Gustafson",
+      "rating": 1622.28,
+      "dailyRatingChange": 1.12
+    },
+    {
+      "position": 5,
+      "playerId": "m25014",
+      "name": "Ben Harris",
+      "rating": 1517.87,
+      "dailyRatingChange": 6.47
+    },
+    {
+      "position": 5,
+      "playerId": "m39327",
+      "name": "Jansen Tolle",
+      "rating": 1631.93,
+      "dailyRatingChange": 0.65
+    },
+    {
+      "position": 7,
+      "playerId": "m10803",
+      "name": "Dingo Hilgard",
+      "rating": 1705.25,
+      "dailyRatingChange": 1.69
+    },
+    {
+      "position": 8,
+      "playerId": "m32231",
+      "name": "Johnny G",
+      "rating": 1642.67,
+      "dailyRatingChange": -2.59
+    }
+  ]
+}

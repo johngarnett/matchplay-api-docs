@@ -1,0 +1,155 @@
+{
+  "locationId": "8299",
+  "name": "Wico Street Beer Co",
+  "address": "1100 Wicomico St, Baltimore, MD 21230, US",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 7,
+  "relatedVenues": [
+    {
+      "locationId": "2573",
+      "name": "Crabtowne",
+      "address": "1500 Crain Hwy S, Glen Burnie, MD 21061, USA",
+      "count": 27
+    },
+    {
+      "locationId": "9780",
+      "name": "GameOn Bar+Arcade Columbia",
+      "address": "6000 Merriweather Dr, Columbia, MD, 21044, US",
+      "count": 26
+    },
+    {
+      "locationId": "7109",
+      "name": "Spinners Pinball Arcade",
+      "address": "1301 W Patrick St, Frederick, MD 21701",
+      "count": 14
+    },
+    {
+      "locationId": "6886",
+      "name": "Department of Pinball and Gaming Redundancy Department",
+      "address": "",
+      "count": 10
+    },
+    {
+      "locationId": "8980",
+      "name": "Riptide Brewing Company",
+      "address": "28120 Hunters Ridge Blvd, Bonita Springs, FL 34135",
+      "count": 6
+    },
+    {
+      "locationId": "10483",
+      "name": "Nice Guys Pizza",
+      "address": "1404 Cape Coral Pkwy E, Cape Coral, FL 33904",
+      "count": 3
+    },
+    {
+      "locationId": "11466",
+      "name": "UPSIDE on Moore",
+      "address": "1700 N Moore St level m1, Arlington, VA 22209",
+      "count": 2
+    },
+    {
+      "locationId": "13506",
+      "name": "PinBawlers HQ",
+      "address": "West Friendship MD",
+      "count": 2
+    },
+    {
+      "locationId": "904",
+      "name": "The Pinball Asylum",
+      "address": "13721 Jetport Commerce Parkway, Unit 6 , Fort Myers, FL 33913",
+      "count": 1
+    },
+    {
+      "locationId": "7783",
+      "name": "Lyman's Tavern",
+      "address": "3720 14th St NW, Washington, DC 20011, US",
+      "count": 1
+    }
+  ],
+  "players": [
+    {
+      "id": "m33084",
+      "name": "Dave Reitz",
+      "rating": 1543.82,
+      "rd": 31.62,
+      "ratingClass": "B",
+      "homeLocation": "Wico Street Beer Co",
+      "homeLocationId": "8299",
+      "percentile": 64.51763171379326,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i151435",
+      "name": "Mike Sellick",
+      "rating": 1524.69,
+      "rd": 21.53,
+      "ratingClass": "B",
+      "homeLocation": "Riptide Brewing Company",
+      "homeLocationId": "8980",
+      "percentile": 56.980481669539294,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m52503",
+      "name": "Paul Halliday",
+      "rating": 1512.19,
+      "rd": 19.51,
+      "ratingClass": "B",
+      "homeLocation": "GameOn Bar+Arcade Columbia",
+      "homeLocationId": "9780",
+      "percentile": 52.07527833418736,
+      "changeDisplay": "-12.0",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m51476",
+      "name": "Aaron Quade",
+      "rating": 1498.03,
+      "rd": 21.05,
+      "ratingClass": "C",
+      "homeLocation": "Crabtowne",
+      "homeLocationId": "2573",
+      "percentile": 46.3408953277123,
+      "changeDisplay": "-2.5",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m41741",
+      "name": "Seth Rudesill",
+      "rating": 1438.56,
+      "rd": 22.57,
+      "ratingClass": "C",
+      "homeLocation": "GameOn Bar+Arcade Columbia",
+      "homeLocationId": "9780",
+      "percentile": 23.2077141659291,
+      "changeDisplay": "-4.4",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "i151434",
+      "name": "Squid",
+      "rating": 1422.26,
+      "rd": 40.4,
+      "ratingClass": "C",
+      "homeLocation": "Wico Street Beer Co",
+      "homeLocationId": "8299",
+      "percentile": 18.27921926678157,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m42427",
+      "name": "Lauren Callahan",
+      "rating": 1337.93,
+      "rd": 49.24,
+      "ratingClass": "D",
+      "homeLocation": "Wico Street Beer Co",
+      "homeLocationId": "8299",
+      "percentile": 3.0558531699818325,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "locationId": "8819",
+  "venueName": "Legends Arcade",
+  "venueAddress": "109 State Ave NE, Olympia, WA 98501, US",
+  "tournaments": [
+    {
+      "id": 266798,
+      "name": "Legends Weds free knockout tournament 8/12/2026",
+      "date": "8/12/2026",
+      "playerCount": 10,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m13886",
+          "name": "Kirk Leonard",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m12839",
+          "name": "Aaron Shervin",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m60072",
+          "name": "Willy Shaughnessy",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "i146063",
+          "name": "Levi Robischon",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m49486",
+          "name": "Dirt McGirt",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "i127477",
+          "name": "Sean Harris",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 265640,
+      "name": "Legends August $5 knockout Wednesday tournament 8/5/2026",
+      "date": "8/5/2026",
+      "playerCount": 8,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m13886",
+          "name": "Kirk Leonard",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m30824",
+          "name": "Chris Pierce",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "i146063",
+          "name": "Levi Robischon",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m49538",
+          "name": "Jeff Gregory",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 264478,
+      "name": "Legends July $5 knockout Wednesday tournament 7/29/26",
+      "date": "7/29/2026",
+      "playerCount": 7,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m46674",
+          "name": "Chris sierra",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m13886",
+          "name": "Kirk Leonard",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m60072",
+          "name": "Willy Shaughnessy",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m49538",
+          "name": "Jeff Gregory",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 263261,
+      "name": "Legends Weds free knockout tournament 7/22/2026",
+      "date": "7/22/2026",
+      "playerCount": 11,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m50087",
+          "name": "Bobby Williams",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m13886",
+          "name": "Kirk Leonard",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "i45391",
+          "name": "David Schaffer",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m56396",
+          "name": "Ky Liebau",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

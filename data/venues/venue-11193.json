@@ -1,0 +1,275 @@
+{
+  "locationId": "11193",
+  "name": "Slipstream Brewing Social House",
+  "address": "8 The Avenue, Birtinya, QLD 4575, AU",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 17,
+  "relatedVenues": [
+    {
+      "locationId": "11299",
+      "name": "Burnside Pinball Club",
+      "address": "13 Robertson drive, Burnside",
+      "count": 36
+    },
+    {
+      "locationId": "7450",
+      "name": "The Clubhouse Moorooka",
+      "address": "76 Koala Road, Moorooka, QLD 4105, AU",
+      "count": 25
+    },
+    {
+      "locationId": "7180",
+      "name": "Netherworld",
+      "address": "186 Brunswick St, Fortitude Valley, QLD 4006, AU",
+      "count": 24
+    },
+    {
+      "locationId": "13394",
+      "name": "Pinball Planet",
+      "address": "2 Truro St, Torquay, QLD 4655, AU",
+      "count": 3
+    },
+    {
+      "locationId": "2605",
+      "name": "Empire Alternacade",
+      "address": "409 Flinders St, Townsville City QLD 4810, Australia",
+      "count": 2
+    },
+    {
+      "locationId": "10753",
+      "name": "Empire Alternacade & Events",
+      "address": "409 Flinders St, Townsville, QLD 4810, AU",
+      "count": 2
+    },
+    {
+      "locationId": "13069",
+      "name": "The Fraternity Club",
+      "address": "11 Bourke St, Fairy Meadow",
+      "count": 2
+    },
+    {
+      "locationId": "10800",
+      "name": "Illawarra Pinball Clubhouse",
+      "address": "147 Kembla Street, Wollongong",
+      "count": 1
+    },
+    {
+      "locationId": "11119",
+      "name": "Bayside Anglican Church Hall",
+      "address": "Pitt-Owen Street, Arncliffe",
+      "count": 1
+    },
+    {
+      "locationId": "11704",
+      "name": "Beardy Daves",
+      "address": "5 Chatsworth Circuit - Capalaba",
+      "count": 1
+    }
+  ],
+  "players": [
+    {
+      "id": "i83012",
+      "name": "Chris Murphy AUS",
+      "rating": 1648.05,
+      "rd": 22.84,
+      "ratingClass": "A",
+      "homeLocation": "Burnside Pinball Club",
+      "homeLocationId": "11299",
+      "percentile": 91.45199608701728,
+      "changeDisplay": "+4.9",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m11447",
+      "name": "Justin Hallowes",
+      "rating": 1640.89,
+      "rd": 23.64,
+      "ratingClass": "A",
+      "homeLocation": "Netherworld",
+      "homeLocationId": "7180",
+      "percentile": 90.47840872036149,
+      "changeDisplay": "+4.0",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m20041",
+      "name": "Dane Stotschek",
+      "rating": 1627.09,
+      "rd": 19.52,
+      "ratingClass": "A",
+      "homeLocation": "Burnside Pinball Club",
+      "homeLocationId": "11299",
+      "percentile": 87.99552801975125,
+      "changeDisplay": "-3.5",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m30729",
+      "name": "Jarod Cornish",
+      "rating": 1619.86,
+      "rd": 21.01,
+      "ratingClass": "A",
+      "homeLocation": "The Clubhouse Moorooka",
+      "homeLocationId": "7450",
+      "percentile": 86.57940094097918,
+      "changeDisplay": "+1.6",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m27837",
+      "name": "Tristan Ford",
+      "rating": 1595.33,
+      "rd": 24.17,
+      "ratingClass": "B",
+      "homeLocation": "Burnside Pinball Club",
+      "homeLocationId": "11299",
+      "percentile": 80.86365118554059,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m30463",
+      "name": "Michael Pires",
+      "rating": 1589.34,
+      "rd": 23.46,
+      "ratingClass": "B",
+      "homeLocation": "Slipstream Brewing Social House",
+      "homeLocationId": "11193",
+      "percentile": 79.29845809847673,
+      "changeDisplay": "-1.4",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m10297",
+      "name": "Shane Redfern",
+      "rating": 1588.98,
+      "rd": 19.98,
+      "ratingClass": "B",
+      "homeLocation": "Netherworld",
+      "homeLocationId": "7180",
+      "percentile": 79.18665859225788,
+      "changeDisplay": "+0.2",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m27052",
+      "name": "Douglas Waterman",
+      "rating": 1572.42,
+      "rd": 22.36,
+      "ratingClass": "B",
+      "homeLocation": "Slipstream Brewing Social House",
+      "homeLocationId": "11193",
+      "percentile": 74.30008850794242,
+      "changeDisplay": "+7.9",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m17300",
+      "name": "Jesse Holt",
+      "rating": 1571.39,
+      "rd": 28.39,
+      "ratingClass": "B",
+      "homeLocation": "The Clubhouse Moorooka",
+      "homeLocationId": "7450",
+      "percentile": 73.969348302045,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m17245",
+      "name": "Stephen Bardell",
+      "rating": 1543.29,
+      "rd": 16.56,
+      "ratingClass": "B",
+      "homeLocation": "Burnside Pinball Club",
+      "homeLocationId": "11299",
+      "percentile": 64.33129920342851,
+      "changeDisplay": "-5.0",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m11669",
+      "name": "David Sanders AUS",
+      "rating": 1537.52,
+      "rd": 25.63,
+      "ratingClass": "B",
+      "homeLocation": "The Clubhouse Moorooka",
+      "homeLocationId": "7450",
+      "percentile": 62.062700889737734,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m23000",
+      "name": "Warwick Jones",
+      "rating": 1518.44,
+      "rd": 27.41,
+      "ratingClass": "B",
+      "homeLocation": "Slipstream Brewing Social House",
+      "homeLocationId": "11193",
+      "percentile": 54.572133973074955,
+      "changeDisplay": "+8.1",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m40067",
+      "name": "Lana Pellowe",
+      "rating": 1514.85,
+      "rd": 19.84,
+      "ratingClass": "B",
+      "homeLocation": "Netherworld",
+      "homeLocationId": "7180",
+      "percentile": 53.146690268784646,
+      "changeDisplay": "-1.5",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m54039",
+      "name": "Lucie Dunovska",
+      "rating": 1511.07,
+      "rd": 21.75,
+      "ratingClass": "B",
+      "homeLocation": "Netherworld",
+      "homeLocationId": "7180",
+      "percentile": 51.683980062421384,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m58809",
+      "name": "Lachlan Bougoure",
+      "rating": 1495.86,
+      "rd": 34.6,
+      "ratingClass": "C",
+      "homeLocation": "Burnside Pinball Club",
+      "homeLocationId": "11299",
+      "percentile": 45.427866026925045,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i29617",
+      "name": "Paul Bateman",
+      "rating": 1443.89,
+      "rd": 54.43,
+      "ratingClass": "C",
+      "homeLocation": "Slipstream Brewing Social House",
+      "homeLocationId": "11193",
+      "percentile": 25.052406018540086,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m48071",
+      "name": "Paul O'Leary",
+      "rating": 1392.55,
+      "rd": 34.05,
+      "ratingClass": "D",
+      "homeLocation": "Slipstream Brewing Social House",
+      "homeLocationId": "11193",
+      "percentile": 10.797968975637025,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

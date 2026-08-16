@@ -1,0 +1,395 @@
+{
+  "locationId": "6401",
+  "name": "Kurikan pelihalli",
+  "address": "Keskuspuistikko 17, 61300 Kurikka, Suomi",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 28,
+  "relatedVenues": [
+    {
+      "locationId": "8539",
+      "name": "Flipperikellari",
+      "address": "Pohjolankatu 43, Helsinki, 00610, FI",
+      "count": 63
+    },
+    {
+      "locationId": "10433",
+      "name": "Pinball Union",
+      "address": "Väinölänkatu 2, Tampere, 33100, FI",
+      "count": 17
+    },
+    {
+      "locationId": "3927",
+      "name": "Loosister",
+      "address": "Hämeentie 50, 00500 Helsinki, Suomi",
+      "count": 14
+    },
+    {
+      "locationId": "11158",
+      "name": "Bar Chaplin",
+      "address": "Vuorikatu 14, 00100 Helsinki",
+      "count": 10
+    },
+    {
+      "locationId": "1696",
+      "name": "LPA",
+      "address": "Vårvädersvägen 4i, Lund, Sweden",
+      "count": 5
+    },
+    {
+      "locationId": "10930",
+      "name": "Flipperiparkki",
+      "address": "Hämeenkatu 9,Lahti, Finland",
+      "count": 3
+    },
+    {
+      "locationId": "5583",
+      "name": "Viiskulma",
+      "address": "",
+      "count": 2
+    },
+    {
+      "locationId": "7727",
+      "name": "Pelihelvetti",
+      "address": "Aihtiantie 4, Orivesi, 35300, FI",
+      "count": 2
+    }
+  ],
+  "players": [
+    {
+      "id": "m43450",
+      "name": "Valtteri Kärkäs",
+      "rating": 1671.97,
+      "rd": 20.58,
+      "ratingClass": "A",
+      "homeLocation": "Flipperikellari",
+      "homeLocationId": "8539",
+      "percentile": 94.2795919318023,
+      "changeDisplay": "+11.1",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m42763",
+      "name": "Verneri Miettinen",
+      "rating": 1646.17,
+      "rd": 21.55,
+      "ratingClass": "A",
+      "homeLocation": "Flipperikellari",
+      "homeLocationId": "8539",
+      "percentile": 91.23305538733871,
+      "changeDisplay": "+10.8",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m43069",
+      "name": "Kai Mononen",
+      "rating": 1626.54,
+      "rd": 23.49,
+      "ratingClass": "A",
+      "homeLocation": "Pinball Union",
+      "homeLocationId": "10433",
+      "percentile": 87.89770345180975,
+      "changeDisplay": "+31.0",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m23585",
+      "name": "Kristian Salonen",
+      "rating": 1620.07,
+      "rd": 46.28,
+      "ratingClass": "A",
+      "homeLocation": "Kurikan pelihalli",
+      "homeLocationId": "6401",
+      "percentile": 86.6353006940886,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m54073",
+      "name": "Thomas Storgård",
+      "rating": 1616.86,
+      "rd": 52.76,
+      "ratingClass": "A",
+      "homeLocation": "Kurikan pelihalli",
+      "homeLocationId": "6401",
+      "percentile": 85.97382028229376,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m22696",
+      "name": "Erno Lahdenperä",
+      "rating": 1574.02,
+      "rd": 25.87,
+      "ratingClass": "B",
+      "homeLocation": "Flipperikellari",
+      "homeLocationId": "8539",
+      "percentile": 74.80318628592724,
+      "changeDisplay": "-24.1",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m46786",
+      "name": "Vili Siikakoski",
+      "rating": 1572.13,
+      "rd": 24.36,
+      "ratingClass": "B",
+      "homeLocation": "Pinball Union",
+      "homeLocationId": "10433",
+      "percentile": 74.16033912516886,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m9786",
+      "name": "Veikko Pakkala",
+      "rating": 1547.62,
+      "rd": 21.58,
+      "ratingClass": "B",
+      "homeLocation": "Flipperikellari",
+      "homeLocationId": "8539",
+      "percentile": 65.80332603531001,
+      "changeDisplay": "-15.0",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m23617",
+      "name": "Jarmo Hietikko-Kaukola",
+      "rating": 1547.31,
+      "rd": 47.36,
+      "ratingClass": "B",
+      "homeLocation": "Kurikan pelihalli",
+      "homeLocationId": "6401",
+      "percentile": 65.69618484185028,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m37117",
+      "name": "Daniel Westman",
+      "rating": 1543.61,
+      "rd": 50.14,
+      "ratingClass": "B",
+      "homeLocation": "Kurikan pelihalli",
+      "homeLocationId": "6401",
+      "percentile": 64.43844039688825,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i73254",
+      "name": "Sebastian Hirsimäki",
+      "rating": 1543.25,
+      "rd": 56.3,
+      "ratingClass": "B",
+      "homeLocation": "Kurikan pelihalli",
+      "homeLocationId": "6401",
+      "percentile": 64.3033493268738,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m11514",
+      "name": "Matti MTK Kinnunen",
+      "rating": 1539.13,
+      "rd": 22.55,
+      "ratingClass": "B",
+      "homeLocation": "LPA",
+      "homeLocationId": "1696",
+      "percentile": 62.78008105464201,
+      "changeDisplay": "+0.1",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m33718",
+      "name": "Tuomas Taurula",
+      "rating": 1529.97,
+      "rd": 30.45,
+      "ratingClass": "B",
+      "homeLocation": "Kurikan pelihalli",
+      "homeLocationId": "6401",
+      "percentile": 59.03479759631062,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m41357",
+      "name": "Kimmo Aaltonen",
+      "rating": 1527.51,
+      "rd": 24.06,
+      "ratingClass": "B",
+      "homeLocation": "Flipperikellari",
+      "homeLocationId": "8539",
+      "percentile": 58.000652163786285,
+      "changeDisplay": "-4.8",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "i118488",
+      "name": "Teemu Sundström",
+      "rating": 1513.6,
+      "rd": 38.74,
+      "ratingClass": "B",
+      "homeLocation": "Kurikan pelihalli",
+      "homeLocationId": "6401",
+      "percentile": 52.61564261424512,
+      "changeDisplay": "+12.5",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "i141046",
+      "name": "Mika Tuupola",
+      "rating": 1509.21,
+      "rd": 58.42,
+      "ratingClass": "B",
+      "homeLocation": "Kurikan pelihalli",
+      "homeLocationId": "6401",
+      "percentile": 50.89672520613034,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m35663",
+      "name": "Sami Setälä",
+      "rating": 1497.55,
+      "rd": 24.33,
+      "ratingClass": "C",
+      "homeLocation": "Kurikan pelihalli",
+      "homeLocationId": "6401",
+      "percentile": 46.11263800251549,
+      "changeDisplay": "+6.7",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m39603",
+      "name": "Jukka Uusi-Pohjola",
+      "rating": 1481.92,
+      "rd": 49.95,
+      "ratingClass": "C",
+      "homeLocation": "Kurikan pelihalli",
+      "homeLocationId": "6401",
+      "percentile": 39.70279964596823,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m30865",
+      "name": "Ville Nurmela",
+      "rating": 1481.51,
+      "rd": 34.5,
+      "ratingClass": "C",
+      "homeLocation": "Kurikan pelihalli",
+      "homeLocationId": "6401",
+      "percentile": 39.53044207388084,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i118191",
+      "name": "Westman Ben",
+      "rating": 1473.96,
+      "rd": 59.64,
+      "ratingClass": "C",
+      "homeLocation": "Kurikan pelihalli",
+      "homeLocationId": "6401",
+      "percentile": 36.42800577630782,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m41458",
+      "name": "Aleksanteri Lehtola",
+      "rating": 1461.35,
+      "rd": 44.54,
+      "ratingClass": "C",
+      "homeLocation": "Kurikan pelihalli",
+      "homeLocationId": "6401",
+      "percentile": 31.457586062328225,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m37335",
+      "name": "Kimmo Asikainen",
+      "rating": 1453.82,
+      "rd": 26.49,
+      "ratingClass": "C",
+      "homeLocation": "Flipperikellari",
+      "homeLocationId": "8539",
+      "percentile": 28.625331904784083,
+      "changeDisplay": "-6.3",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m22998",
+      "name": "Jarkko Lehtola",
+      "rating": 1411.69,
+      "rd": 44.29,
+      "ratingClass": "C",
+      "homeLocation": "Kurikan pelihalli",
+      "homeLocationId": "6401",
+      "percentile": 15.507523175105979,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i133870",
+      "name": "Antti Miettinen",
+      "rating": 1408.08,
+      "rd": 46.76,
+      "ratingClass": "C",
+      "homeLocation": "Kurikan pelihalli",
+      "homeLocationId": "6401",
+      "percentile": 14.557227372245773,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i118192",
+      "name": "Westman Anton",
+      "rating": 1391.15,
+      "rd": 59.88,
+      "ratingClass": "D",
+      "homeLocation": "Kurikan pelihalli",
+      "homeLocationId": "6401",
+      "percentile": 10.518470210089905,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i94331",
+      "name": "Minna Pehkonen",
+      "rating": null,
+      "rd": null,
+      "ratingClass": "N/A",
+      "homeLocation": "Kurikan pelihalli",
+      "homeLocationId": "6401",
+      "percentile": null,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i73252",
+      "name": "Janne Leppiniemi",
+      "rating": null,
+      "rd": null,
+      "ratingClass": "N/A",
+      "homeLocation": "Kurikan pelihalli",
+      "homeLocationId": "6401",
+      "percentile": null,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i122855",
+      "name": "Petra Lehtola",
+      "rating": null,
+      "rd": null,
+      "ratingClass": "N/A",
+      "homeLocation": "Kurikan pelihalli",
+      "homeLocationId": "6401",
+      "percentile": null,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

@@ -1,0 +1,222 @@
+{
+  "communityId": "123",
+  "playerCount": 17,
+  "ratingsDate": "2026-08-12",
+  "relatedCommunities": [
+    "98"
+  ],
+  "topVenues": [
+    {
+      "locationId": "9183",
+      "name": "Colorado Canyon",
+      "address": "6110 Folsom Dr. Beaumont, TX 77706",
+      "count": 28
+    }
+  ],
+  "players": [
+    {
+      "id": "m1235",
+      "name": "Preston Moncla",
+      "rating": 1847.88,
+      "rd": 32.25,
+      "ratingClass": "Master",
+      "homeLocation": "Colorado Canyon",
+      "homeLocationId": "9183",
+      "percentile": 99.86490892998556,
+      "changeDisplay": "+7.5",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m2891",
+      "name": "Leon Moncla",
+      "rating": 1692.21,
+      "rd": 31.19,
+      "ratingClass": "A",
+      "homeLocation": "Colorado Canyon",
+      "homeLocationId": "9183",
+      "percentile": 96.0777006568221,
+      "changeDisplay": "+17.1",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m1239",
+      "name": "Dennis Moncla",
+      "rating": 1633.93,
+      "rd": 31.77,
+      "ratingClass": "A",
+      "homeLocation": "Colorado Canyon",
+      "homeLocationId": "9183",
+      "percentile": 89.25327246471329,
+      "changeDisplay": "+10.4",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m6243",
+      "name": "Craig Robinson",
+      "rating": 1609.43,
+      "rd": 31.65,
+      "ratingClass": "A",
+      "homeLocation": "Colorado Canyon",
+      "homeLocationId": "9183",
+      "percentile": 84.32477756556575,
+      "changeDisplay": "+3.5",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "i149079",
+      "name": "Brock Gomez",
+      "rating": 1559.79,
+      "rd": 52.16,
+      "ratingClass": "B",
+      "homeLocation": "Colorado Canyon",
+      "homeLocationId": "9183",
+      "percentile": 70.2473564075092,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i122423",
+      "name": "Tim Sudela",
+      "rating": 1534.64,
+      "rd": 42.39,
+      "ratingClass": "B",
+      "homeLocation": "Colorado Canyon",
+      "homeLocationId": "9183",
+      "percentile": 60.85153957236689,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i119568",
+      "name": "Benjamin McCormick",
+      "rating": 1530.85,
+      "rd": 38.22,
+      "ratingClass": "B",
+      "homeLocation": "Colorado Canyon",
+      "homeLocationId": "9183",
+      "percentile": 59.384171053244515,
+      "changeDisplay": "-7.3",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "i117643",
+      "name": "Bill Williamson",
+      "rating": 1526.12,
+      "rd": 46.94,
+      "ratingClass": "B",
+      "homeLocation": "Colorado Canyon",
+      "homeLocationId": "9183",
+      "percentile": 57.4835794475241,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i142693",
+      "name": "Landon Fabre",
+      "rating": 1491.17,
+      "rd": 43.5,
+      "ratingClass": "C",
+      "homeLocation": "Colorado Canyon",
+      "homeLocationId": "9183",
+      "percentile": 43.50398285740905,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i119567",
+      "name": "Chris McCormick",
+      "rating": 1490.23,
+      "rd": 38.63,
+      "ratingClass": "C",
+      "homeLocation": "Colorado Canyon",
+      "homeLocationId": "9183",
+      "percentile": 43.11268458564308,
+      "changeDisplay": "+9.7",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "i143947",
+      "name": "Charlie Judice",
+      "rating": 1482.94,
+      "rd": 51.2,
+      "ratingClass": "C",
+      "homeLocation": "Colorado Canyon",
+      "homeLocationId": "9183",
+      "percentile": 40.08943960497508,
+      "changeDisplay": "+7.7",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m49968",
+      "name": "Joel Hollier",
+      "rating": 1468.48,
+      "rd": 52.21,
+      "ratingClass": "C",
+      "homeLocation": "Colorado Canyon",
+      "homeLocationId": "9183",
+      "percentile": 34.27586528159501,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m48214",
+      "name": "Zade Delgadillo",
+      "rating": 1411.01,
+      "rd": 61.16,
+      "ratingClass": "C",
+      "homeLocation": "Colorado Canyon",
+      "homeLocationId": "9183",
+      "percentile": 15.367773792332418,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m36811",
+      "name": "Casey Sudela",
+      "rating": 1385.59,
+      "rd": 36.79,
+      "ratingClass": "D",
+      "homeLocation": "Colorado Canyon",
+      "homeLocationId": "9183",
+      "percentile": 9.43308333721526,
+      "changeDisplay": "-5.0",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m48225",
+      "name": "Zion Parker",
+      "rating": 1382.78,
+      "rd": 63.88,
+      "ratingClass": "D",
+      "homeLocation": "Colorado Canyon",
+      "homeLocationId": "9183",
+      "percentile": 8.832160991288955,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i151999",
+      "name": "Addison Luce",
+      "rating": null,
+      "rd": null,
+      "ratingClass": "N/A",
+      "homeLocation": "Colorado Canyon",
+      "homeLocationId": "9183",
+      "percentile": null,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i158627",
+      "name": "Luke Pelt",
+      "rating": null,
+      "rd": null,
+      "ratingClass": "N/A",
+      "homeLocation": "Colorado Canyon",
+      "homeLocationId": "9183",
+      "percentile": null,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

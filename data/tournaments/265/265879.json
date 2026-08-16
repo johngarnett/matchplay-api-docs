@@ -1,0 +1,67 @@
+{
+  "tournamentId": 265879,
+  "name": "A Final for Thursday Night Pinball League Summer Session '26",
+  "date": "2026-08-07",
+  "locationId": "3942",
+  "locationName": "The Arcade",
+  "playerCount": 8,
+  "ratingsDate": "2026-08-07",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m176",
+      "name": "Rob Huffman",
+      "rating": 1626.86,
+      "dailyRatingChange": 10.25
+    },
+    {
+      "position": 2,
+      "playerId": "m44195",
+      "name": "Cody Reynolds",
+      "rating": 1660.33,
+      "dailyRatingChange": 4.92
+    },
+    {
+      "position": 3,
+      "playerId": "m37758",
+      "name": "Jacob Nelson",
+      "rating": 1613.58,
+      "dailyRatingChange": -0.32
+    },
+    {
+      "position": 4,
+      "playerId": "m9164",
+      "name": "Cory Moren",
+      "rating": 1664.3,
+      "dailyRatingChange": -11.31
+    },
+    {
+      "position": 5,
+      "playerId": "m5142",
+      "name": "Conard Bush",
+      "rating": 1576.97,
+      "dailyRatingChange": 0.5
+    },
+    {
+      "position": 5,
+      "playerId": "m2254",
+      "name": "Preston Pywell",
+      "rating": 1720.33,
+      "dailyRatingChange": -5.87
+    },
+    {
+      "position": 7,
+      "playerId": "m2331",
+      "name": "Steve Brown USA",
+      "rating": 1607.8,
+      "dailyRatingChange": -5.99
+    },
+    {
+      "position": 7,
+      "playerId": "i64274",
+      "name": "Dennis Brown",
+      "rating": 1440.42,
+      "dailyRatingChange": 54.28
+    }
+  ]
+}

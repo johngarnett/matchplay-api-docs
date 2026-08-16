@@ -1,0 +1,123 @@
+{
+  "tournamentId": 263672,
+  "name": "The Dive Pinball League #1",
+  "date": "2026-07-25",
+  "locationId": "13172",
+  "locationName": "The Dive",
+  "playerCount": 16,
+  "ratingsDate": "2026-07-25",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m25175",
+      "name": "Andrew Evers",
+      "rating": 1650.65,
+      "dailyRatingChange": 4.99
+    },
+    {
+      "position": 1,
+      "playerId": "m17335",
+      "name": "Greg Duffner",
+      "rating": 1594.83,
+      "dailyRatingChange": 3.47
+    },
+    {
+      "position": 3,
+      "playerId": "m20379",
+      "name": "Steve Rolsing",
+      "rating": 1707.87,
+      "dailyRatingChange": -1.22
+    },
+    {
+      "position": 3,
+      "playerId": "i135461",
+      "name": "Justin Lopez",
+      "rating": 1552.44,
+      "dailyRatingChange": 17.19
+    },
+    {
+      "position": 3,
+      "playerId": "i97172",
+      "name": "Eric Duffner",
+      "rating": 1603.69,
+      "dailyRatingChange": 2.84
+    },
+    {
+      "position": 6,
+      "playerId": "m23781",
+      "name": "Richard Wilke",
+      "rating": 1692.02,
+      "dailyRatingChange": 0.2
+    },
+    {
+      "position": 7,
+      "playerId": "m50191",
+      "name": "Jeff Britton",
+      "rating": 1586.63,
+      "dailyRatingChange": 5.58
+    },
+    {
+      "position": 8,
+      "playerId": "m33855",
+      "name": "Jeff Groh",
+      "rating": 1606.12,
+      "dailyRatingChange": -0.1
+    },
+    {
+      "position": 8,
+      "playerId": "m37174",
+      "name": "John Kruger",
+      "rating": 1524.71,
+      "dailyRatingChange": -2.52
+    },
+    {
+      "position": 10,
+      "playerId": "i157670",
+      "name": "Daniel Rootz",
+      "rating": 1436.25,
+      "dailyRatingChange": 0.69
+    },
+    {
+      "position": 10,
+      "playerId": "m59919",
+      "name": "Tim Hahn",
+      "rating": 1457.4,
+      "dailyRatingChange": -1.04
+    },
+    {
+      "position": 12,
+      "playerId": "i157671",
+      "name": "Dillon Lustick",
+      "rating": 1417.38,
+      "dailyRatingChange": 0.5
+    },
+    {
+      "position": 13,
+      "playerId": "m11806",
+      "name": "Chris Vaught",
+      "rating": 1535.24,
+      "dailyRatingChange": -6.56
+    },
+    {
+      "position": 13,
+      "playerId": "m57568",
+      "name": "Crystal Berry",
+      "rating": 1407.47,
+      "dailyRatingChange": -3.91
+    },
+    {
+      "position": 15,
+      "playerId": "m46864",
+      "name": "Scott Tetmeyer",
+      "rating": 1422.75,
+      "dailyRatingChange": -8.54
+    },
+    {
+      "position": 16,
+      "playerId": "m59922",
+      "name": "Melanie Sloan",
+      "rating": 1283.58,
+      "dailyRatingChange": -9.62
+    }
+  ]
+}

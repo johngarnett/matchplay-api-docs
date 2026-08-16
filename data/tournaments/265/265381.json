@@ -1,0 +1,74 @@
+{
+  "tournamentId": 265381,
+  "name": "Admiral Pub Music Mondays (Electronic)",
+  "date": "2026-08-04",
+  "locationId": "7136",
+  "locationName": "Admiral Pub",
+  "playerCount": 9,
+  "ratingsDate": "2026-08-04",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m14266",
+      "name": "Scott Helgason",
+      "rating": 1656.77,
+      "dailyRatingChange": 5.48
+    },
+    {
+      "position": 2,
+      "playerId": "m11595",
+      "name": "Cory Lampe",
+      "rating": 1675.71,
+      "dailyRatingChange": 4.11
+    },
+    {
+      "position": 3,
+      "playerId": "m45388",
+      "name": "Alec Rodenhauser",
+      "rating": 1571.1,
+      "dailyRatingChange": 4.45
+    },
+    {
+      "position": 4,
+      "playerId": "m8556",
+      "name": "Chris Borgstadt",
+      "rating": 1712.8,
+      "dailyRatingChange": -3.04
+    },
+    {
+      "position": 5,
+      "playerId": "m52288",
+      "name": "Matthew Zalupski",
+      "rating": 1476.2,
+      "dailyRatingChange": 2.67
+    },
+    {
+      "position": 6,
+      "playerId": "m18316",
+      "name": "Michael Tomber",
+      "rating": 1617.64,
+      "dailyRatingChange": -3.17
+    },
+    {
+      "position": 7,
+      "playerId": "m24000",
+      "name": "Sam Wiedmann",
+      "rating": 1502.43,
+      "dailyRatingChange": -1.61
+    },
+    {
+      "position": 7,
+      "playerId": "m13413",
+      "name": "Matt Korsmoe",
+      "rating": 1637.86,
+      "dailyRatingChange": -1.81
+    },
+    {
+      "position": 9,
+      "playerId": "m29008",
+      "name": "Bob Lyman",
+      "rating": 1617.92,
+      "dailyRatingChange": -5.34
+    }
+  ]
+}

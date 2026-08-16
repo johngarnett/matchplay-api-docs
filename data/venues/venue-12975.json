@@ -1,0 +1,461 @@
+{
+  "locationId": "12975",
+  "name": "Klub Flipperowy Retro Underground",
+  "address": "Warszawa, ul Filtrowa 68, domofon 225",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 33,
+  "relatedVenues": [
+    {
+      "locationId": "4889",
+      "name": "Pinballium.pl",
+      "address": "Piotrkowska 10-12, Aleksandrów Łódzki, 95-070, PL",
+      "count": 10
+    },
+    {
+      "locationId": "8617",
+      "name": "Biljardna Hisa Ljubljana - Slovenska",
+      "address": "Slovenska 58, 1000 Ljubljana",
+      "count": 9
+    },
+    {
+      "locationId": "1696",
+      "name": "LPA",
+      "address": "Vårvädersvägen 4i, Lund, Sweden",
+      "count": 4
+    },
+    {
+      "locationId": "9350",
+      "name": "Morlacchi Showroom",
+      "address": "viale Troya 20 , Milan , Italy",
+      "count": 4
+    },
+    {
+      "locationId": "3933",
+      "name": "Marynino",
+      "address": "05-140 Marynino, Polska",
+      "count": 3
+    },
+    {
+      "locationId": "5407",
+      "name": "Albert All games",
+      "address": "",
+      "count": 2
+    },
+    {
+      "locationId": "11426",
+      "name": "Buzas Pinball & Wine Guesthouse",
+      "address": "3013 Ecséd, Kossuth Lajos u. 134. - Hungary",
+      "count": 2
+    },
+    {
+      "locationId": "9707",
+      "name": "Srebrna Kula",
+      "address": "Abrahama 61B Gdynia, Poland",
+      "count": 1
+    },
+    {
+      "locationId": "10431",
+      "name": "Pollyanna Brewing & Distilling Company - St Charles",
+      "address": "106 S Riverside Ave, St. Charles, IL 60174, US",
+      "count": 1
+    }
+  ],
+  "players": [
+    {
+      "id": "m15913",
+      "name": "Sebastian Lasek",
+      "rating": 1698.73,
+      "rd": 18.95,
+      "ratingClass": "A",
+      "homeLocation": "Klub Flipperowy Retro Underground",
+      "homeLocationId": "12975",
+      "percentile": 96.51092374342014,
+      "changeDisplay": "-9.0",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m46707",
+      "name": "Maciej Budzynski",
+      "rating": 1673.42,
+      "rd": 25.46,
+      "ratingClass": "A",
+      "homeLocation": "Morlacchi Showroom",
+      "homeLocationId": "9350",
+      "percentile": 94.44729119113057,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m10088",
+      "name": "Konrad Maslowski",
+      "rating": 1641.27,
+      "rd": 29.32,
+      "ratingClass": "A",
+      "homeLocation": "Klub Flipperowy Retro Underground",
+      "homeLocationId": "12975",
+      "percentile": 90.56225835002563,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m1489",
+      "name": "Jakub Cieplinski",
+      "rating": 1637.04,
+      "rd": 23.28,
+      "ratingClass": "A",
+      "homeLocation": "Biljardna Hisa Ljubljana - Slovenska",
+      "homeLocationId": "8617",
+      "percentile": 89.84953649788046,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m37165",
+      "name": "Cezary Glowala",
+      "rating": 1632.77,
+      "rd": 23.99,
+      "ratingClass": "A",
+      "homeLocation": "Biljardna Hisa Ljubljana - Slovenska",
+      "homeLocationId": "8617",
+      "percentile": 89.11818139469884,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m11445",
+      "name": "Lukasz Stasinski",
+      "rating": 1596.64,
+      "rd": 23.79,
+      "ratingClass": "B",
+      "homeLocation": "Srebrna Kula",
+      "homeLocationId": "9707",
+      "percentile": 81.20370801695626,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m33176",
+      "name": "Dawid Siwicki",
+      "rating": 1594.32,
+      "rd": 26.87,
+      "ratingClass": "B",
+      "homeLocation": "Klub Flipperowy Retro Underground",
+      "homeLocationId": "12975",
+      "percentile": 80.6400521731029,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m15953",
+      "name": "Radoslaw Slotwinski",
+      "rating": 1585.25,
+      "rd": 36.32,
+      "ratingClass": "B",
+      "homeLocation": "Klub Flipperowy Retro Underground",
+      "homeLocationId": "12975",
+      "percentile": 78.11058834490147,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m15789",
+      "name": "Sebastian Gwizdala",
+      "rating": 1577.73,
+      "rd": 36.27,
+      "ratingClass": "B",
+      "homeLocation": "Klub Flipperowy Retro Underground",
+      "homeLocationId": "12975",
+      "percentile": 75.93515628639307,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i9269",
+      "name": "Krzysztof Mamaj",
+      "rating": 1572.81,
+      "rd": 33.99,
+      "ratingClass": "B",
+      "homeLocation": "Klub Flipperowy Retro Underground",
+      "homeLocationId": "12975",
+      "percentile": 74.41654632692038,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m15888",
+      "name": "Aleksander Zurkowski",
+      "rating": 1542.63,
+      "rd": 32.22,
+      "ratingClass": "B",
+      "homeLocation": "Klub Flipperowy Retro Underground",
+      "homeLocationId": "12975",
+      "percentile": 64.12167512926817,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i106937",
+      "name": "Stanislaw Rudowski",
+      "rating": 1536.12,
+      "rd": 74.86,
+      "ratingClass": "B",
+      "homeLocation": "Klub Flipperowy Retro Underground",
+      "homeLocationId": "12975",
+      "percentile": 61.47575348208879,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m25520",
+      "name": "Jaroslaw Rupiewicz",
+      "rating": 1527.74,
+      "rd": 28.52,
+      "ratingClass": "B",
+      "homeLocation": "Klub Flipperowy Retro Underground",
+      "homeLocationId": "12975",
+      "percentile": 58.10779335724601,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m60844",
+      "name": "Jakub Kochaniak",
+      "rating": 1523.91,
+      "rd": 21.43,
+      "ratingClass": "B",
+      "homeLocation": "Pinballium.pl",
+      "homeLocationId": "4889",
+      "percentile": 56.67769134019658,
+      "changeDisplay": "+2.9",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m1492",
+      "name": "Jacek Wenda",
+      "rating": 1522.41,
+      "rd": 32.27,
+      "ratingClass": "B",
+      "homeLocation": "Biljardna Hisa Ljubljana - Slovenska",
+      "homeLocationId": "8617",
+      "percentile": 56.081427307029394,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i112548",
+      "name": "Piotr Derek",
+      "rating": 1521.84,
+      "rd": 28.22,
+      "ratingClass": "B",
+      "homeLocation": "Klub Flipperowy Retro Underground",
+      "homeLocationId": "12975",
+      "percentile": 55.89975310942377,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m21301",
+      "name": "Tomasz Pucynski",
+      "rating": 1517.44,
+      "rd": 27.41,
+      "ratingClass": "B",
+      "homeLocation": "Klub Flipperowy Retro Underground",
+      "homeLocationId": "12975",
+      "percentile": 54.208785577863694,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m36095",
+      "name": "Marek Rutkowski",
+      "rating": 1515.62,
+      "rd": 28.9,
+      "ratingClass": "B",
+      "homeLocation": "Marynino",
+      "homeLocationId": "3933",
+      "percentile": 53.43550565985,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i83298",
+      "name": "Marcin Wrobel",
+      "rating": 1498.37,
+      "rd": 40.74,
+      "ratingClass": "C",
+      "homeLocation": "Klub Flipperowy Retro Underground",
+      "homeLocationId": "12975",
+      "percentile": 46.44803652117203,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i6731",
+      "name": "Arkadiusz Durman",
+      "rating": 1462.08,
+      "rd": 54.99,
+      "ratingClass": "C",
+      "homeLocation": "Klub Flipperowy Retro Underground",
+      "homeLocationId": "12975",
+      "percentile": 31.760376391670935,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m60779",
+      "name": "Jan Liskiewicz",
+      "rating": 1458.49,
+      "rd": 44.4,
+      "ratingClass": "C",
+      "homeLocation": "Klub Flipperowy Retro Underground",
+      "homeLocationId": "12975",
+      "percentile": 30.330274374621514,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i151022",
+      "name": "Konrad Antoniewicz",
+      "rating": 1457.64,
+      "rd": 40.1,
+      "ratingClass": "C",
+      "homeLocation": "Klub Flipperowy Retro Underground",
+      "homeLocationId": "12975",
+      "percentile": 30.013509107001447,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i16622",
+      "name": "Michal Piasecki",
+      "rating": 1448.29,
+      "rd": 47.29,
+      "ratingClass": "C",
+      "homeLocation": "Klub Flipperowy Retro Underground",
+      "homeLocationId": "12975",
+      "percentile": 26.529091163180695,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i107652",
+      "name": "Ignacy Pucynski",
+      "rating": 1442.6,
+      "rd": 38.51,
+      "ratingClass": "C",
+      "homeLocation": "Klub Flipperowy Retro Underground",
+      "homeLocationId": "12975",
+      "percentile": 24.58657474262822,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i12455",
+      "name": "Bernard Knapik",
+      "rating": 1437.02,
+      "rd": 40.97,
+      "ratingClass": "C",
+      "homeLocation": "Klub Flipperowy Retro Underground",
+      "homeLocationId": "12975",
+      "percentile": 22.676666511389577,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m32860",
+      "name": "Joanna Pucynska",
+      "rating": 1424.3,
+      "rd": 32.84,
+      "ratingClass": "C",
+      "homeLocation": "Klub Flipperowy Retro Underground",
+      "homeLocationId": "12975",
+      "percentile": 18.889458238226116,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i151021",
+      "name": "Marcin Knapik",
+      "rating": 1422.3,
+      "rd": 42.09,
+      "ratingClass": "C",
+      "homeLocation": "Klub Flipperowy Retro Underground",
+      "homeLocationId": "12975",
+      "percentile": 18.297852517818047,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i150557",
+      "name": "Jan Grudzinski",
+      "rating": 1406.11,
+      "rd": 62.98,
+      "ratingClass": "C",
+      "homeLocation": "Klub Flipperowy Retro Underground",
+      "homeLocationId": "12975",
+      "percentile": 14.063446219779197,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m34111",
+      "name": "Daniel Gorecki",
+      "rating": 1403.44,
+      "rd": 36.44,
+      "ratingClass": "C",
+      "homeLocation": "Klub Flipperowy Retro Underground",
+      "homeLocationId": "12975",
+      "percentile": 13.374015931429636,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i146883",
+      "name": "Tomasz Tokarczyk",
+      "rating": 1385.76,
+      "rd": 31.33,
+      "ratingClass": "D",
+      "homeLocation": "Klub Flipperowy Retro Underground",
+      "homeLocationId": "12975",
+      "percentile": 9.475008152047328,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i15515",
+      "name": "Aleksandra Mamaj",
+      "rating": 1371.95,
+      "rd": 68.83,
+      "ratingClass": "D",
+      "homeLocation": "Klub Flipperowy Retro Underground",
+      "homeLocationId": "12975",
+      "percentile": 7.029393953510038,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i115924",
+      "name": "Antoni Pucynski",
+      "rating": 1355.78,
+      "rd": 69.57,
+      "ratingClass": "D",
+      "homeLocation": "Klub Flipperowy Retro Underground",
+      "homeLocationId": "12975",
+      "percentile": 4.891228397074579,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i160497",
+      "name": "Angelika Koralewska",
+      "rating": null,
+      "rd": null,
+      "ratingClass": "N/A",
+      "homeLocation": "Klub Flipperowy Retro Underground",
+      "homeLocationId": "12975",
+      "percentile": null,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

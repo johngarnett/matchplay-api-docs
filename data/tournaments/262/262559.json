@@ -1,0 +1,172 @@
+{
+  "tournamentId": 262559,
+  "name": "Fridays @ CUPS",
+  "date": "2026-07-18",
+  "locationId": "12574",
+  "locationName": "Cascade Underground Pinball Society",
+  "playerCount": 23,
+  "ratingsDate": "2026-07-18",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m4071",
+      "name": "Ryan Whitmore",
+      "rating": 1566.09,
+      "dailyRatingChange": 7.45
+    },
+    {
+      "position": 2,
+      "playerId": "m29812",
+      "name": "Augie Nielson",
+      "rating": 1540.79,
+      "dailyRatingChange": 5.43
+    },
+    {
+      "position": 3,
+      "playerId": "m19110",
+      "name": "Mason Kazer",
+      "rating": 1576.66,
+      "dailyRatingChange": 0.08
+    },
+    {
+      "position": 4,
+      "playerId": "m20993",
+      "name": "Eric Merchant",
+      "rating": 1673.92,
+      "dailyRatingChange": -4.68
+    },
+    {
+      "position": 5,
+      "playerId": "m60198",
+      "name": "Michaela Poling",
+      "rating": 1446.78,
+      "dailyRatingChange": 24.66
+    },
+    {
+      "position": 5,
+      "playerId": "m8571",
+      "name": "Mark W. Anderson",
+      "rating": 1430.51,
+      "dailyRatingChange": 13.23
+    },
+    {
+      "position": 5,
+      "playerId": "m45503",
+      "name": "Joe Christensen OR",
+      "rating": 1516.65,
+      "dailyRatingChange": 0.94
+    },
+    {
+      "position": 5,
+      "playerId": "m35591",
+      "name": "Crystall Whitmore",
+      "rating": 1409.36,
+      "dailyRatingChange": 19.04
+    },
+    {
+      "position": 9,
+      "playerId": "m19760",
+      "name": "Chandler Hammerstrom",
+      "rating": 1556.37,
+      "dailyRatingChange": 0.2
+    },
+    {
+      "position": 10,
+      "playerId": "m38505",
+      "name": "Jeremy Vetter",
+      "rating": 1538.72,
+      "dailyRatingChange": -3.21
+    },
+    {
+      "position": 10,
+      "playerId": "m40775",
+      "name": "Stefanie McLaney",
+      "rating": 1361.02,
+      "dailyRatingChange": 9.83
+    },
+    {
+      "position": 10,
+      "playerId": "i160674",
+      "name": "Chris Jemal",
+      "rating": 1413.4,
+      "dailyRatingChange": 6.85
+    },
+    {
+      "position": 10,
+      "playerId": "m60197",
+      "name": "Benjamin Portis",
+      "rating": 1433.29,
+      "dailyRatingChange": 6.3
+    },
+    {
+      "position": 10,
+      "playerId": "m35831",
+      "name": "Kay Schmidt",
+      "rating": 1463.23,
+      "dailyRatingChange": 0.81
+    },
+    {
+      "position": 15,
+      "playerId": "i124945",
+      "name": "Benny Bond",
+      "rating": 1470.17,
+      "dailyRatingChange": -13.78
+    },
+    {
+      "position": 15,
+      "playerId": "i160167",
+      "name": "Sam Nelson OR",
+      "rating": 1456.33,
+      "dailyRatingChange": -31.88
+    },
+    {
+      "position": 17,
+      "playerId": "m41608",
+      "name": "RICHARD JESSER",
+      "rating": 1291.96,
+      "dailyRatingChange": 4.58
+    },
+    {
+      "position": 17,
+      "playerId": "m18491",
+      "name": "Raine Willey",
+      "rating": 1491.9,
+      "dailyRatingChange": -7.54
+    },
+    {
+      "position": 19,
+      "playerId": "m25256",
+      "name": "Jen Daeges",
+      "rating": 1466.16,
+      "dailyRatingChange": -5.57
+    },
+    {
+      "position": 20,
+      "playerId": "m579331",
+      "name": "Chris Godinez",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 20,
+      "playerId": "m20756",
+      "name": "Toby Niles",
+      "rating": 1477.51,
+      "dailyRatingChange": -21.3
+    },
+    {
+      "position": 20,
+      "playerId": "i95587",
+      "name": "Andy Cooper",
+      "rating": 1431,
+      "dailyRatingChange": null
+    },
+    {
+      "position": 23,
+      "playerId": "m579350",
+      "name": "Johnny Ortiz",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

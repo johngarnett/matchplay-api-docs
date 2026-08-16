@@ -1,0 +1,123 @@
+{
+  "tournamentId": 264065,
+  "name": "Finals for SFGE 2026 Side Open Matchplay",
+  "date": "2026-08-01",
+  "locationId": "9921",
+  "locationName": "Renaissance Atlanta Waverly Hotel & Convention Center",
+  "playerCount": 16,
+  "ratingsDate": "2026-08-01",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m2769",
+      "name": "Braden Gentry",
+      "rating": 1808.01,
+      "dailyRatingChange": 11.26
+    },
+    {
+      "position": 2,
+      "playerId": "m143",
+      "name": "Chris Wamsley",
+      "rating": 1669.73,
+      "dailyRatingChange": 14.43
+    },
+    {
+      "position": 3,
+      "playerId": "m6245",
+      "name": "Michael Emlock",
+      "rating": 1547.17,
+      "dailyRatingChange": 28.44
+    },
+    {
+      "position": 4,
+      "playerId": "m18621",
+      "name": "Jacob Gragg",
+      "rating": 1684.84,
+      "dailyRatingChange": -2.18
+    },
+    {
+      "position": 5,
+      "playerId": "m6242",
+      "name": "John Emlock",
+      "rating": 1605.44,
+      "dailyRatingChange": 32.71
+    },
+    {
+      "position": 6,
+      "playerId": "m56245",
+      "name": "Joe Minichowski",
+      "rating": 1526.88,
+      "dailyRatingChange": 21.22
+    },
+    {
+      "position": 7,
+      "playerId": "m47812",
+      "name": "Sarah Warlick",
+      "rating": 1556.95,
+      "dailyRatingChange": 9.96
+    },
+    {
+      "position": 8,
+      "playerId": "m19185",
+      "name": "Paul Budko",
+      "rating": 1666.72,
+      "dailyRatingChange": 0.31
+    },
+    {
+      "position": 9,
+      "playerId": "m26599",
+      "name": "Tucker Godek",
+      "rating": 1605.94,
+      "dailyRatingChange": 7.61
+    },
+    {
+      "position": 10,
+      "playerId": "m38356",
+      "name": "Andrew Meuser",
+      "rating": 1624.63,
+      "dailyRatingChange": 1.36
+    },
+    {
+      "position": 10,
+      "playerId": "m9",
+      "name": "Gene X Hwang",
+      "rating": 1695.84,
+      "dailyRatingChange": -8.49
+    },
+    {
+      "position": 10,
+      "playerId": "m2813",
+      "name": "Jose Chong",
+      "rating": 1632.48,
+      "dailyRatingChange": -0.06
+    },
+    {
+      "position": 13,
+      "playerId": "m15388",
+      "name": "Chris Blake",
+      "rating": 1683.9,
+      "dailyRatingChange": 2.24
+    },
+    {
+      "position": 13,
+      "playerId": "m13631",
+      "name": "John McNaughton",
+      "rating": 1639.6,
+      "dailyRatingChange": -2.51
+    },
+    {
+      "position": 15,
+      "playerId": "m3980",
+      "name": "Neal Wagoner",
+      "rating": 1657.22,
+      "dailyRatingChange": -2.59
+    },
+    {
+      "position": 16,
+      "playerId": "m23362",
+      "name": "Eric McLendon",
+      "rating": 1568.63,
+      "dailyRatingChange": 0.02
+    }
+  ]
+}

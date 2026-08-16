@@ -1,0 +1,209 @@
+{
+  "locationId": "13452",
+  "name": "Hamby's",
+  "address": "437 S Main St, Boerne, TX 78006, US",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 12,
+  "relatedVenues": [
+    {
+      "locationId": "2123",
+      "name": "What's Brewing? Coffee Roasters",
+      "address": "138 West Rhapsody Drive, San Antonio, TX, 78216, US",
+      "count": 157
+    },
+    {
+      "locationId": "11561",
+      "name": "Austin Pinball Collective",
+      "address": "1106 Clayton Ln, Austin, TX 78723, US",
+      "count": 7
+    },
+    {
+      "locationId": "4804",
+      "name": "District 82 Pinball",
+      "address": "800 O Keefe Rd, De Pere, WI 54115, USA",
+      "count": 5
+    },
+    {
+      "locationId": "8994",
+      "name": "Bender Bar and Grill",
+      "address": "321 W Ben White Blvd Ste 300, Austin, TX 78704, US",
+      "count": 3
+    },
+    {
+      "locationId": "3790",
+      "name": "Cactus Jacks",
+      "address": "",
+      "count": 2
+    },
+    {
+      "locationId": "13780",
+      "name": "Pure Joy Toys",
+      "address": "6959 Bandera Rd. San Antonio, Tx. 78238",
+      "count": 2
+    },
+    {
+      "locationId": "66",
+      "name": "Cactus Jack's",
+      "address": "",
+      "count": 1
+    },
+    {
+      "locationId": "5624",
+      "name": "Cactus Jack's Family Fun Center",
+      "address": "1211 N. Council Road, Oklahoma City, OK, 73127, US",
+      "count": 1
+    },
+    {
+      "locationId": "9186",
+      "name": "Pinballz Arcade",
+      "address": "8940 Research Blvd, Austin, TX 78758, US",
+      "count": 1
+    }
+  ],
+  "players": [
+    {
+      "id": "m36589",
+      "name": "Mario Garza",
+      "rating": 1689.99,
+      "rd": 16.38,
+      "ratingClass": "A",
+      "homeLocation": "What's Brewing? Coffee Roasters",
+      "homeLocationId": "2123",
+      "percentile": 95.91465971025295,
+      "changeDisplay": "+6.3",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m38048",
+      "name": "Nicholas Rokey",
+      "rating": 1653.18,
+      "rd": 17.08,
+      "ratingClass": "A",
+      "homeLocation": "What's Brewing? Coffee Roasters",
+      "homeLocationId": "2123",
+      "percentile": 92.1554013136442,
+      "changeDisplay": "-6.0",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m10255",
+      "name": "Trey Keng",
+      "rating": 1600.88,
+      "rd": 17.9,
+      "ratingClass": "A",
+      "homeLocation": "What's Brewing? Coffee Roasters",
+      "homeLocationId": "2123",
+      "percentile": 82.22853682396236,
+      "changeDisplay": "+8.5",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m26633",
+      "name": "Trevor Miller",
+      "rating": 1598.85,
+      "rd": 19.12,
+      "ratingClass": "B",
+      "homeLocation": "What's Brewing? Coffee Roasters",
+      "homeLocationId": "2123",
+      "percentile": 81.70680579494108,
+      "changeDisplay": "-4.3",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m45455",
+      "name": "Marty Lindner",
+      "rating": 1545.35,
+      "rd": 17.96,
+      "ratingClass": "B",
+      "homeLocation": "What's Brewing? Coffee Roasters",
+      "homeLocationId": "2123",
+      "percentile": 65.0533376810919,
+      "changeDisplay": "-4.6",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m26397",
+      "name": "Tricia Gronnevik",
+      "rating": 1541.02,
+      "rd": 16.53,
+      "ratingClass": "B",
+      "homeLocation": "What's Brewing? Coffee Roasters",
+      "homeLocationId": "2123",
+      "percentile": 63.51143615782363,
+      "changeDisplay": "+6.7",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m8316",
+      "name": "John Moore TX",
+      "rating": 1531.05,
+      "rd": 28.55,
+      "ratingClass": "B",
+      "homeLocation": "What's Brewing? Coffee Roasters",
+      "homeLocationId": "2123",
+      "percentile": 59.45870405739041,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m8321",
+      "name": "Emmett Gronnevik",
+      "rating": 1524.96,
+      "rd": 18.22,
+      "ratingClass": "B",
+      "homeLocation": "What's Brewing? Coffee Roasters",
+      "homeLocationId": "2123",
+      "percentile": 57.07830623748078,
+      "changeDisplay": "+7.2",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m46246",
+      "name": "Jill Lindner",
+      "rating": 1496.76,
+      "rd": 18.13,
+      "ratingClass": "C",
+      "homeLocation": "What's Brewing? Coffee Roasters",
+      "homeLocationId": "2123",
+      "percentile": 45.76792285834071,
+      "changeDisplay": "-2.2",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m61064",
+      "name": "Jeff King",
+      "rating": 1432.58,
+      "rd": 55.45,
+      "ratingClass": "C",
+      "homeLocation": "Hamby's",
+      "homeLocationId": "13452",
+      "percentile": 21.353705687799877,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m61069",
+      "name": "Chris DeJesus",
+      "rating": 1408.42,
+      "rd": 54.84,
+      "ratingClass": "C",
+      "homeLocation": "Hamby's",
+      "homeLocationId": "13452",
+      "percentile": 14.645735314669025,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m39208",
+      "name": "Mario Garza I",
+      "rating": 1408.28,
+      "rd": 20.12,
+      "ratingClass": "C",
+      "homeLocation": "What's Brewing? Coffee Roasters",
+      "homeLocationId": "2123",
+      "percentile": 14.613127125355197,
+      "changeDisplay": "-8.7",
+      "changeClass": "change-negative"
+    }
+  ]
+}

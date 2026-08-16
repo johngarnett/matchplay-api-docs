@@ -1,0 +1,130 @@
+{
+  "tournamentId": 261083,
+  "name": "Corvallis Women's Pinball League Season 1 Week #6",
+  "date": "2026-08-12",
+  "locationId": "13489",
+  "locationName": "Back to the Nineties Retro Arcade",
+  "playerCount": 17,
+  "ratingsDate": "2026-08-12",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m60790",
+      "name": "Sally Sheldon",
+      "rating": 1495.17,
+      "dailyRatingChange": 54.87
+    },
+    {
+      "position": 2,
+      "playerId": "m61630",
+      "name": "Ruby Weaver",
+      "rating": 1627.92,
+      "dailyRatingChange": 16.85
+    },
+    {
+      "position": 2,
+      "playerId": "m62623",
+      "name": "Katrina Anderson",
+      "rating": 1587.53,
+      "dailyRatingChange": 20.92
+    },
+    {
+      "position": 4,
+      "playerId": "m61148",
+      "name": "Candi Lopez",
+      "rating": 1526.85,
+      "dailyRatingChange": 15.53
+    },
+    {
+      "position": 4,
+      "playerId": "m61697",
+      "name": "Elizabeth Rudisill",
+      "rating": 1556.09,
+      "dailyRatingChange": 10.84
+    },
+    {
+      "position": 6,
+      "playerId": "m61686",
+      "name": "Bree Abel",
+      "rating": 1555.69,
+      "dailyRatingChange": 6.64
+    },
+    {
+      "position": 7,
+      "playerId": "m61707",
+      "name": "Ana Monreal",
+      "rating": 1504.97,
+      "dailyRatingChange": 9.69
+    },
+    {
+      "position": 8,
+      "playerId": "m60781",
+      "name": "Kalyn Wilson",
+      "rating": 1509.8,
+      "dailyRatingChange": -0.84
+    },
+    {
+      "position": 9,
+      "playerId": "m576713",
+      "name": "Nicole Bushyhead",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 10,
+      "playerId": "m576643",
+      "name": "Stephanie Rasor",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 11,
+      "playerId": "m586497",
+      "name": "Autumn Smith",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 12,
+      "playerId": "m60720",
+      "name": "Lori Bullis",
+      "rating": 1465.73,
+      "dailyRatingChange": -13.11
+    },
+    {
+      "position": 13,
+      "playerId": "m60811",
+      "name": "Teresa Barden",
+      "rating": 1454.53,
+      "dailyRatingChange": -28.28
+    },
+    {
+      "position": 14,
+      "playerId": "m60808",
+      "name": "Samantha Sied",
+      "rating": 1419.37,
+      "dailyRatingChange": -6.79
+    },
+    {
+      "position": 15,
+      "playerId": "m60762",
+      "name": "Dawn Duerksen",
+      "rating": 1469.25,
+      "dailyRatingChange": -42.05
+    },
+    {
+      "position": 15,
+      "playerId": "m60763",
+      "name": "Felecia Richards",
+      "rating": 1375.84,
+      "dailyRatingChange": -14.82
+    },
+    {
+      "position": 17,
+      "playerId": "m60765",
+      "name": "Misty Harwood",
+      "rating": 1408.83,
+      "dailyRatingChange": -23.8
+    }
+  ]
+}

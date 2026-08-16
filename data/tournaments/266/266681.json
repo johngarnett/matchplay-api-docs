@@ -1,0 +1,32 @@
+{
+  "tournamentId": 266681,
+  "name": "Tik Tok's Matchplay 8/11",
+  "date": "2026-08-12",
+  "locationId": "3191",
+  "locationName": "Tik Tok’s Workshop ",
+  "playerCount": 3,
+  "ratingsDate": "2026-08-12",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m3565",
+      "name": "Richard Godwin",
+      "rating": 1549.36,
+      "dailyRatingChange": -2.73
+    },
+    {
+      "position": 2,
+      "playerId": "m456069",
+      "name": "Kelly Frost WA",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 3,
+      "playerId": "m486032",
+      "name": "Kelso Jordan",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

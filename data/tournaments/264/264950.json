@@ -1,0 +1,53 @@
+{
+  "tournamentId": 264950,
+  "name": "Sauwald Pinball League 2026 - Day 6",
+  "date": "2026-08-11",
+  "locationId": "12769",
+  "locationName": "Heli´s Flipperkeller",
+  "playerCount": 6,
+  "ratingsDate": "2026-08-11",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m28071",
+      "name": "Helmut Lechner",
+      "rating": 1594,
+      "dailyRatingChange": 10.77
+    },
+    {
+      "position": 2,
+      "playerId": "m20563",
+      "name": "Josef Gangl",
+      "rating": 1542.87,
+      "dailyRatingChange": 5.41
+    },
+    {
+      "position": 3,
+      "playerId": "m427737",
+      "name": "Aumayr Patric",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 4,
+      "playerId": "m550553",
+      "name": "Ertl Felix",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 5,
+      "playerId": "m578236",
+      "name": "Zarbl Tom",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 6,
+      "playerId": "m586351",
+      "name": "Ertl Margarete",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

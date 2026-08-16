@@ -1,0 +1,73 @@
+{
+  "locationId": "9503",
+  "venueName": "YaYa Brewing",
+  "venueAddress": "11712 E Montgomery Dr Unit F1-3, Spokane Valley, WA 99206",
+  "tournaments": [
+    {
+      "id": 266627,
+      "name": "August 11 2026",
+      "date": "8/11/2026",
+      "playerCount": 24,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "p345693",
+          "name": "Danny Seibert",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "p526999",
+          "name": "Paul Doering",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "p492244",
+          "name": "Libbie",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "p345704",
+          "name": "Brandon Defreese",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 264317,
+      "name": "July28 Transformers Launch Party",
+      "date": "7/28/2026",
+      "playerCount": 24,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m58572",
+          "name": "Jeremy Youngman",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 1,
+          "playerId": "m47368",
+          "name": "Marc Weiland",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "p345696",
+          "name": "Eric Carlson",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m24351",
+          "name": "John Cambareri",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

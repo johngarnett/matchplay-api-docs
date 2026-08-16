@@ -1,0 +1,40 @@
+{
+  "locationId": "10367",
+  "venueName": "The Waiting Room",
+  "venueAddress": "10419 St Charles Rock Road, St Ann MO 63074",
+  "tournaments": [
+    {
+      "id": 264153,
+      "name": "A Strikeout of Their Own",
+      "date": "7/27/2026",
+      "playerCount": 7,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "p412403",
+          "name": "Amy Willis",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m34129",
+          "name": "Julie Glenn",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "p544138",
+          "name": "jen arnold",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "p563842",
+          "name": "Katie Lange",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

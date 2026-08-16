@@ -1,0 +1,172 @@
+{
+  "tournamentId": 265822,
+  "name": "Flippin' Friday at Atomic!",
+  "date": "2026-08-08",
+  "locationId": "6751",
+  "locationName": "Atomic Age Modern",
+  "playerCount": 23,
+  "ratingsDate": "2026-08-08",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m3573",
+      "name": "Jason Barre",
+      "rating": 1682.09,
+      "dailyRatingChange": 6.9
+    },
+    {
+      "position": 2,
+      "playerId": "m24208",
+      "name": "Bob Kennedy",
+      "rating": 1619.9,
+      "dailyRatingChange": 8.05
+    },
+    {
+      "position": 3,
+      "playerId": "m5656",
+      "name": "Jim Smith AZ",
+      "rating": 1642.51,
+      "dailyRatingChange": 2.76
+    },
+    {
+      "position": 3,
+      "playerId": "m11147",
+      "name": "Chris Stoltenberg",
+      "rating": 1582.9,
+      "dailyRatingChange": 3.57
+    },
+    {
+      "position": 5,
+      "playerId": "m44298",
+      "name": "Lucas Wonnacott",
+      "rating": 1491.53,
+      "dailyRatingChange": 12.7
+    },
+    {
+      "position": 5,
+      "playerId": "m3000",
+      "name": "Dave Halley",
+      "rating": 1612.53,
+      "dailyRatingChange": 1.84
+    },
+    {
+      "position": 5,
+      "playerId": "m12332",
+      "name": "Gavin Bowman",
+      "rating": 1611.65,
+      "dailyRatingChange": 2.73
+    },
+    {
+      "position": 8,
+      "playerId": "m37107",
+      "name": "Travis Yoder",
+      "rating": 1603.12,
+      "dailyRatingChange": -0.26
+    },
+    {
+      "position": 8,
+      "playerId": "m35210",
+      "name": "Chris Salmas",
+      "rating": 1600.09,
+      "dailyRatingChange": 2.95
+    },
+    {
+      "position": 8,
+      "playerId": "m41776",
+      "name": "Scott Pobieglo",
+      "rating": 1571.73,
+      "dailyRatingChange": 1.75
+    },
+    {
+      "position": 11,
+      "playerId": "m17593",
+      "name": "Shawn Barnett",
+      "rating": 1591.32,
+      "dailyRatingChange": 1.36
+    },
+    {
+      "position": 12,
+      "playerId": "m11148",
+      "name": "John Magyar",
+      "rating": 1634.59,
+      "dailyRatingChange": -2.16
+    },
+    {
+      "position": 13,
+      "playerId": "m19310",
+      "name": "Miguel Martinez",
+      "rating": 1538.68,
+      "dailyRatingChange": 4.07
+    },
+    {
+      "position": 14,
+      "playerId": "m19042",
+      "name": "Terri Boyd",
+      "rating": 1555.81,
+      "dailyRatingChange": -2.25
+    },
+    {
+      "position": 14,
+      "playerId": "m38970",
+      "name": "Jocelyn Bowers",
+      "rating": 1486.42,
+      "dailyRatingChange": 3.26
+    },
+    {
+      "position": 16,
+      "playerId": "m543429",
+      "name": "Rylie Pugh",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 17,
+      "playerId": "m11151",
+      "name": "Mollie Stoltenberg",
+      "rating": 1528.15,
+      "dailyRatingChange": -1.76
+    },
+    {
+      "position": 18,
+      "playerId": "m17612",
+      "name": "Rachel Buck",
+      "rating": 1448.97,
+      "dailyRatingChange": -4.63
+    },
+    {
+      "position": 19,
+      "playerId": "m56737",
+      "name": "Lori Van Hoff",
+      "rating": 1371.12,
+      "dailyRatingChange": 2.93
+    },
+    {
+      "position": 20,
+      "playerId": "m41831",
+      "name": "Gregg Hopwood",
+      "rating": 1448.67,
+      "dailyRatingChange": -6.4
+    },
+    {
+      "position": 21,
+      "playerId": "m577517",
+      "name": "Penny Padmore",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 22,
+      "playerId": "m59949",
+      "name": "Brent Pugh",
+      "rating": 1553.56,
+      "dailyRatingChange": -35.95
+    },
+    {
+      "position": 23,
+      "playerId": "m458703",
+      "name": "Gracie Van Hoff",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

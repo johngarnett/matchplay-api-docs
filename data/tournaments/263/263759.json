@@ -1,0 +1,151 @@
+{
+  "tournamentId": 263759,
+  "name": "Loosers Västerås",
+  "date": "2026-07-25",
+  "locationId": "12334",
+  "locationName": "Flipperklubben",
+  "playerCount": 20,
+  "ratingsDate": "2026-07-25",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m54618",
+      "name": "Miika Raatikainen",
+      "rating": 1496.1,
+      "dailyRatingChange": 0.4
+    },
+    {
+      "position": 1,
+      "playerId": "m581639",
+      "name": "Claudio Colmet",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 1,
+      "playerId": "m581308",
+      "name": "Ulla Rehnberg 109294",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 1,
+      "playerId": "m34015",
+      "name": "Peter Johansson",
+      "rating": 1551.01,
+      "dailyRatingChange": 11.2
+    },
+    {
+      "position": 5,
+      "playerId": "m466910",
+      "name": "Henrik Samuelsson",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 6,
+      "playerId": "m43024",
+      "name": "Andreas Ek",
+      "rating": 1510.01,
+      "dailyRatingChange": -7.98
+    },
+    {
+      "position": 7,
+      "playerId": "i156940",
+      "name": "Anna-Karin Winge",
+      "rating": 1431.2,
+      "dailyRatingChange": null
+    },
+    {
+      "position": 8,
+      "playerId": "m581737",
+      "name": "Kristoffer Grefberg",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 9,
+      "playerId": "i156938",
+      "name": "Thomas Carlsson",
+      "rating": 1553.46,
+      "dailyRatingChange": null
+    },
+    {
+      "position": 10,
+      "playerId": "m581735",
+      "name": "Alex Carlsson",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 11,
+      "playerId": "m581626",
+      "name": "Linda Lundström",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 12,
+      "playerId": "m33908",
+      "name": "Anders Karlsson",
+      "rating": 1468.66,
+      "dailyRatingChange": 16.47
+    },
+    {
+      "position": 13,
+      "playerId": "m581307",
+      "name": "Henke Andersson 122976",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 14,
+      "playerId": "m62255",
+      "name": "Janeth Carlsson",
+      "rating": 1482.36,
+      "dailyRatingChange": null
+    },
+    {
+      "position": 15,
+      "playerId": "m581737",
+      "name": "Kristoffer Grefberg",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 16,
+      "playerId": "m581313",
+      "name": "Robert Eriksson",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 17,
+      "playerId": "m581749",
+      "name": "Leksingen",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 18,
+      "playerId": "m9150",
+      "name": "Daniel Rinander",
+      "rating": 1468.92,
+      "dailyRatingChange": -6.28
+    },
+    {
+      "position": 19,
+      "playerId": "m39230",
+      "name": "Tina Jansson ROO",
+      "rating": 1441.51,
+      "dailyRatingChange": 3.62
+    },
+    {
+      "position": 20,
+      "playerId": "m428296",
+      "name": "Jonas Persson, 82699",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

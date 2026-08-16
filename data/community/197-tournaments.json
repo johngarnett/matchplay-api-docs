@@ -1,0 +1,93 @@
+{
+  "communityId": "197",
+  "locations": [
+    {
+      "id": "9232",
+      "name": "Levels Arcade",
+      "address": "228 Walnut St, Morgantown, WV 26505, US",
+      "tournaments": [
+        {
+          "id": 266899,
+          "name": "A Finals for WVWPL Season 7",
+          "date": "8/13/2026",
+          "playerCount": 6,
+          "qualifying": {
+            "id": 259477,
+            "name": "WVWPL Season 7 #6",
+            "playerCount": 11
+          },
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m26062",
+              "name": "Beth Howell",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m26756",
+              "name": "Erica Stewart",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m37240",
+              "name": "Grace Fletcher",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m10532",
+              "name": "Sal Sulick",
+              "isCommunityMember": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "unknown",
+      "name": "Unknown Location",
+      "address": "",
+      "tournaments": [
+        {
+          "id": 266332,
+          "name": "Finals for HOT DAWGS AND HIGH SCORES",
+          "date": "8/9/2026",
+          "playerCount": 12,
+          "qualifying": {
+            "id": 266200,
+            "name": "HOT DAWGS AND HIGH SCORES",
+            "playerCount": 27
+          },
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m47003",
+              "name": "Kaitlin Gammack",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m26756",
+              "name": "Erica Stewart",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m8546",
+              "name": "Andy Pickens",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m44423",
+              "name": "Brian Pickens",
+              "isCommunityMember": true
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "locationId": "554",
+  "venueName": "Vegas-Store",
+  "venueAddress": "",
+  "tournaments": [
+    {
+      "id": 264983,
+      "name": "August Open 2026",
+      "date": "8/1/2026",
+      "playerCount": 10,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "i22392",
+          "name": "Detlef Rahlf",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m1756",
+          "name": "Stefan Hoppe",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m7013",
+          "name": "Jan-Christian Kiwus",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "p552766",
+          "name": "Tio Wickel",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

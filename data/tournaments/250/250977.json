@@ -1,0 +1,235 @@
+{
+  "tournamentId": 250977,
+  "name": "Finals for Pinball Union Open 2026 (FINCS)",
+  "date": "2026-07-26",
+  "locationId": "10433",
+  "locationName": "Pinball Union",
+  "playerCount": 32,
+  "ratingsDate": "2026-07-26",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m30162",
+      "name": "Jiro Suvanto",
+      "rating": 1766.31,
+      "dailyRatingChange": 9.81
+    },
+    {
+      "position": 2,
+      "playerId": "m14851",
+      "name": "Markus Virtanen",
+      "rating": 1773.2,
+      "dailyRatingChange": -9.28
+    },
+    {
+      "position": 3,
+      "playerId": "m7254",
+      "name": "Jani Saari",
+      "rating": 1632.72,
+      "dailyRatingChange": 74
+    },
+    {
+      "position": 4,
+      "playerId": "m38799",
+      "name": "Wim Zilliacus",
+      "rating": 1708.61,
+      "dailyRatingChange": 12.11
+    },
+    {
+      "position": 5,
+      "playerId": "m33670",
+      "name": "Roni Valkonen",
+      "rating": null,
+      "dailyRatingChange": 39.36
+    },
+    {
+      "position": 6,
+      "playerId": "m42763",
+      "name": "Verneri Miettinen",
+      "rating": 1635.34,
+      "dailyRatingChange": 4.48
+    },
+    {
+      "position": 7,
+      "playerId": "m107",
+      "name": "Olli-Mikko Ojamies",
+      "rating": null,
+      "dailyRatingChange": -36.53
+    },
+    {
+      "position": 8,
+      "playerId": "m6181",
+      "name": "Esa Ahtiainen",
+      "rating": null,
+      "dailyRatingChange": -16.53
+    },
+    {
+      "position": 9,
+      "playerId": "m43450",
+      "name": "Valtteri Kärkäs",
+      "rating": 1660.83,
+      "dailyRatingChange": -2.41
+    },
+    {
+      "position": 10,
+      "playerId": "m5949",
+      "name": "Mika Marttinen",
+      "rating": 1649.5,
+      "dailyRatingChange": 0.61
+    },
+    {
+      "position": 11,
+      "playerId": "m14168",
+      "name": "Perttu Pesä",
+      "rating": 1615.43,
+      "dailyRatingChange": 20.31
+    },
+    {
+      "position": 12,
+      "playerId": "m48040",
+      "name": "Paavo Pesä",
+      "rating": 1629.17,
+      "dailyRatingChange": -3.51
+    },
+    {
+      "position": 12,
+      "playerId": "m37794",
+      "name": "Jasu Koskivirta",
+      "rating": null,
+      "dailyRatingChange": 7.6
+    },
+    {
+      "position": 14,
+      "playerId": "m43126",
+      "name": "Lassi Vapaakallio",
+      "rating": 1569.5,
+      "dailyRatingChange": 1.53
+    },
+    {
+      "position": 15,
+      "playerId": "m45131",
+      "name": "Jaska Kangasvieri",
+      "rating": 1539,
+      "dailyRatingChange": 5.23
+    },
+    {
+      "position": 16,
+      "playerId": "m24374",
+      "name": "Juha Iijalainen",
+      "rating": null,
+      "dailyRatingChange": -11.56
+    },
+    {
+      "position": 17,
+      "playerId": "m23860",
+      "name": "Luukas Marttinen",
+      "rating": 1762.02,
+      "dailyRatingChange": 3.03
+    },
+    {
+      "position": 18,
+      "playerId": "i2563",
+      "name": "Jussi Kahola",
+      "rating": 1677.63,
+      "dailyRatingChange": -5.28
+    },
+    {
+      "position": 18,
+      "playerId": "m52098",
+      "name": "Joonas Kangasvieri",
+      "rating": 1638.65,
+      "dailyRatingChange": 1.34
+    },
+    {
+      "position": 20,
+      "playerId": "m44231",
+      "name": "Petri Lappalainen",
+      "rating": 1551.62,
+      "dailyRatingChange": 13.91
+    },
+    {
+      "position": 20,
+      "playerId": "m23873",
+      "name": "Topi Ahonen",
+      "rating": 1737.18,
+      "dailyRatingChange": -3.6
+    },
+    {
+      "position": 20,
+      "playerId": "m767",
+      "name": "Marco Suvanto",
+      "rating": 1605.79,
+      "dailyRatingChange": 5.71
+    },
+    {
+      "position": 20,
+      "playerId": "m48776",
+      "name": "Michele Gelmini",
+      "rating": 1667.63,
+      "dailyRatingChange": -6.35
+    },
+    {
+      "position": 24,
+      "playerId": "m33786",
+      "name": "Joonas Tuhkanen",
+      "rating": 1553.23,
+      "dailyRatingChange": -7.04
+    },
+    {
+      "position": 24,
+      "playerId": "m16160",
+      "name": "Tuukka Suontama",
+      "rating": 1575.88,
+      "dailyRatingChange": -18.64
+    },
+    {
+      "position": 26,
+      "playerId": "m43069",
+      "name": "Kai Mononen",
+      "rating": 1586.1,
+      "dailyRatingChange": -11.72
+    },
+    {
+      "position": 26,
+      "playerId": "m19123",
+      "name": "Arsi Rosengren",
+      "rating": 1591.83,
+      "dailyRatingChange": -13.51
+    },
+    {
+      "position": 26,
+      "playerId": "m43255",
+      "name": "Janne Toivonen",
+      "rating": 1543.77,
+      "dailyRatingChange": -5.73
+    },
+    {
+      "position": 26,
+      "playerId": "m52692",
+      "name": "Ville Toivonen",
+      "rating": 1533.86,
+      "dailyRatingChange": -4.51
+    },
+    {
+      "position": 26,
+      "playerId": "m12271",
+      "name": "Mikko Kulmala",
+      "rating": 1597.02,
+      "dailyRatingChange": -11.49
+    },
+    {
+      "position": 31,
+      "playerId": "i98815",
+      "name": "Emil Suontama",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 31,
+      "playerId": "m13691",
+      "name": "Juha Viitanen",
+      "rating": 1557.78,
+      "dailyRatingChange": -8.52
+    }
+  ]
+}

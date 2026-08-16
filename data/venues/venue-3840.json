@@ -1,0 +1,101 @@
+{
+  "locationId": "3840",
+  "name": "Café på bit Skellefteå",
+  "address": "",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 7,
+  "relatedVenues": [
+    {
+      "locationId": "7759",
+      "name": "Ålunds Bygdegård",
+      "address": "Ålund 122, 934 98 Byske, Sweden",
+      "count": 6
+    }
+  ],
+  "players": [
+    {
+      "id": "m32575",
+      "name": "Jonas Pettersson",
+      "rating": 1652.58,
+      "rd": 38.01,
+      "ratingClass": "A",
+      "homeLocation": "Café på bit Skellefteå",
+      "homeLocationId": "3840",
+      "percentile": 92.09484324777566,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m57363",
+      "name": "Totte Aspevind",
+      "rating": 1636.61,
+      "rd": 38.82,
+      "ratingClass": "A",
+      "homeLocation": "Café på bit Skellefteå",
+      "homeLocationId": "3840",
+      "percentile": 89.7563702426981,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i66936",
+      "name": "Thomas Ramsell",
+      "rating": 1619.49,
+      "rd": 37.97,
+      "ratingClass": "A",
+      "homeLocation": "Ålunds Bygdegård",
+      "homeLocationId": "7759",
+      "percentile": 86.49555131131504,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m10806",
+      "name": "Rikard Tjärnström",
+      "rating": 1600.43,
+      "rd": 34.4,
+      "ratingClass": "A",
+      "homeLocation": "Café på bit Skellefteå",
+      "homeLocationId": "3840",
+      "percentile": 82.08412912842968,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i64189",
+      "name": "Gustaf Renström",
+      "rating": 1571.91,
+      "rd": 48.49,
+      "ratingClass": "B",
+      "homeLocation": "Café på bit Skellefteå",
+      "homeLocationId": "3840",
+      "percentile": 74.07183118274561,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i154427",
+      "name": "Emil Ramsell",
+      "rating": 1560.92,
+      "rd": 44.41,
+      "ratingClass": "B",
+      "homeLocation": "Ålunds Bygdegård",
+      "homeLocationId": "7759",
+      "percentile": 70.61070480272046,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i72020",
+      "name": "Christoffer Burén",
+      "rating": 1470.06,
+      "rd": 44.65,
+      "ratingClass": "C",
+      "homeLocation": "Café på bit Skellefteå",
+      "homeLocationId": "3840",
+      "percentile": 34.904737504076024,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

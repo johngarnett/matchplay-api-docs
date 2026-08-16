@@ -1,0 +1,149 @@
+{
+  "locationId": "10230",
+  "name": "The Crystal Saloon",
+  "address": "218 Front St, Juneau, AK 99801, US",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 11,
+  "relatedVenues": [
+    {
+      "locationId": "12599",
+      "name": "JBo's Pizza and Ribs",
+      "address": "1301 Florida Rd Unit E, Durango, CO 81301",
+      "count": 1
+    }
+  ],
+  "players": [
+    {
+      "id": "m11291",
+      "name": "David Elrod",
+      "rating": 1755.37,
+      "rd": 37.21,
+      "ratingClass": "Expert",
+      "homeLocation": "The Crystal Saloon",
+      "homeLocationId": "10230",
+      "percentile": 98.91927143988447,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i100311",
+      "name": "Ettin Briar",
+      "rating": 1689.11,
+      "rd": 36.81,
+      "ratingClass": "A",
+      "homeLocation": "The Crystal Saloon",
+      "homeLocationId": "10230",
+      "percentile": 95.86807658266177,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m30606",
+      "name": "Jon Percy",
+      "rating": 1645.89,
+      "rd": 32.01,
+      "ratingClass": "A",
+      "homeLocation": "The Crystal Saloon",
+      "homeLocationId": "10230",
+      "percentile": 91.14920575767457,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m27599",
+      "name": "Sara Snyder",
+      "rating": 1616.78,
+      "rd": 27.28,
+      "ratingClass": "A",
+      "homeLocation": "The Crystal Saloon",
+      "homeLocationId": "10230",
+      "percentile": 85.95052871849816,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i118891",
+      "name": "Clark Branch",
+      "rating": 1601.62,
+      "rd": 29.71,
+      "ratingClass": "A",
+      "homeLocation": "The Crystal Saloon",
+      "homeLocationId": "10230",
+      "percentile": 82.42418595984535,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m28532",
+      "name": "Carl Petersen",
+      "rating": 1512.19,
+      "rd": 26.75,
+      "ratingClass": "B",
+      "homeLocation": "The Crystal Saloon",
+      "homeLocationId": "10230",
+      "percentile": 52.07062002142824,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m35155",
+      "name": "Kristin Bailey",
+      "rating": 1489.28,
+      "rd": 24.69,
+      "ratingClass": "C",
+      "homeLocation": "The Crystal Saloon",
+      "homeLocationId": "10230",
+      "percentile": 42.72604462663623,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i70186",
+      "name": "Lindsay Gordon",
+      "rating": 1472.88,
+      "rd": 57.79,
+      "ratingClass": "C",
+      "homeLocation": "The Crystal Saloon",
+      "homeLocationId": "10230",
+      "percentile": 36.05068244281921,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i111055",
+      "name": "Luke The Duke",
+      "rating": 1454.78,
+      "rd": 26.41,
+      "ratingClass": "C",
+      "homeLocation": "The Crystal Saloon",
+      "homeLocationId": "10230",
+      "percentile": 28.979363674477103,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m26966",
+      "name": "Kimberly Bray",
+      "rating": 1431.26,
+      "rd": 41.48,
+      "ratingClass": "C",
+      "homeLocation": "The Crystal Saloon",
+      "homeLocationId": "10230",
+      "percentile": 20.96706572879303,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i74820",
+      "name": "Isaac Korce",
+      "rating": 1393.11,
+      "rd": 63.13,
+      "ratingClass": "D",
+      "homeLocation": "The Crystal Saloon",
+      "homeLocationId": "10230",
+      "percentile": 10.923743420133228,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

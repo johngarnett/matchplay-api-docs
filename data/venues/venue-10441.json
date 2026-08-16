@@ -1,0 +1,503 @@
+{
+  "locationId": "10441",
+  "name": "CWF Arcade",
+  "address": "Elmhurst, IL",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 36,
+  "relatedVenues": [
+    {
+      "locationId": "12978",
+      "name": "The Pinball Capital",
+      "address": "3200 W Le Moyne St, Stone Park, IL 60165",
+      "count": 96
+    },
+    {
+      "locationId": "5315",
+      "name": "Enterrium",
+      "address": "2 Woodfield Mall Unit A, Schaumburg, IL 60173, USA",
+      "count": 63
+    },
+    {
+      "locationId": "5770",
+      "name": "ORD",
+      "address": "",
+      "count": 30
+    },
+    {
+      "locationId": "12269",
+      "name": "Rec Haus",
+      "address": "12 N 3rd St, St. Charles, IL, 60174, US",
+      "count": 28
+    },
+    {
+      "locationId": "11295",
+      "name": "Kristof's Entertainment Center",
+      "address": "421 West Rollins Road, Round Lake Beach, IL 60073, US",
+      "count": 25
+    },
+    {
+      "locationId": "8601",
+      "name": "Bowlero",
+      "address": "1611 S Randall Rd, Algonquin, IL 60102, US",
+      "count": 22
+    },
+    {
+      "locationId": "10431",
+      "name": "Pollyanna Brewing & Distilling Company - St Charles",
+      "address": "106 S Riverside Ave, St. Charles, IL 60174, US",
+      "count": 15
+    },
+    {
+      "locationId": "4861",
+      "name": "ORD",
+      "address": "",
+      "count": 14
+    },
+    {
+      "locationId": "8675",
+      "name": "Sew Hop’d",
+      "address": "1 Union Special Plaza, Huntley, IL 60142, US",
+      "count": 13
+    },
+    {
+      "locationId": "10071",
+      "name": "Two Brothers Tap House",
+      "address": "30W315 Calumet Ave W, Warrenville, IL 60555, US",
+      "count": 12
+    }
+  ],
+  "players": [
+    {
+      "id": "m30876",
+      "name": "Christopher Habrelewicz",
+      "rating": 1753.41,
+      "rd": 19.07,
+      "ratingClass": "Expert",
+      "homeLocation": "The Pinball Capital",
+      "homeLocationId": "12978",
+      "percentile": 98.87268831229329,
+      "changeDisplay": "-6.0",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m28462",
+      "name": "Dan Sweeney",
+      "rating": 1717.04,
+      "rd": 22.81,
+      "ratingClass": "Expert",
+      "homeLocation": "ORD",
+      "homeLocationId": "5770",
+      "percentile": 97.48451111007593,
+      "changeDisplay": "+13.9",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m39411",
+      "name": "David Slaymaker",
+      "rating": 1681.94,
+      "rd": 18.51,
+      "ratingClass": "A",
+      "homeLocation": "The Pinball Capital",
+      "homeLocationId": "12978",
+      "percentile": 95.29044580053105,
+      "changeDisplay": "-4.2",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m13977",
+      "name": "Mike Kolman",
+      "rating": 1673.1,
+      "rd": 20.37,
+      "ratingClass": "A",
+      "homeLocation": "Enterrium",
+      "homeLocationId": "5315",
+      "percentile": 94.41002468905762,
+      "changeDisplay": "+7.0",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m45971",
+      "name": "Nik Grosch",
+      "rating": 1669.61,
+      "rd": 18.23,
+      "ratingClass": "A",
+      "homeLocation": "The Pinball Capital",
+      "homeLocationId": "12978",
+      "percentile": 94.0280430428099,
+      "changeDisplay": "+6.2",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m54367",
+      "name": "Joe Winans",
+      "rating": 1645.48,
+      "rd": 21.71,
+      "ratingClass": "A",
+      "homeLocation": "Rec Haus",
+      "homeLocationId": "12269",
+      "percentile": 91.08398937904691,
+      "changeDisplay": "+0.6",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m28207",
+      "name": "Tom Knorst",
+      "rating": 1643.64,
+      "rd": 20.32,
+      "ratingClass": "A",
+      "homeLocation": "Bowlero",
+      "homeLocationId": "8601",
+      "percentile": 90.86504867936833,
+      "changeDisplay": "-5.5",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m26090",
+      "name": "Mike Rivelli",
+      "rating": 1630.17,
+      "rd": 25.25,
+      "ratingClass": "A",
+      "homeLocation": "CWF Arcade",
+      "homeLocationId": "10441",
+      "percentile": 88.60110867843667,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m39102",
+      "name": "Gregory Smith",
+      "rating": 1626.53,
+      "rd": 25.67,
+      "ratingClass": "A",
+      "homeLocation": "The Pinball Capital",
+      "homeLocationId": "12978",
+      "percentile": 87.89304513905064,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m36335",
+      "name": "Cory Carl",
+      "rating": 1625.19,
+      "rd": 25,
+      "ratingClass": "A",
+      "homeLocation": "The Pinball Capital",
+      "homeLocationId": "12978",
+      "percentile": 87.65547118833558,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m34707",
+      "name": "Matt Martino",
+      "rating": 1620.12,
+      "rd": 26.43,
+      "ratingClass": "A",
+      "homeLocation": "The Pinball Capital",
+      "homeLocationId": "12978",
+      "percentile": 86.65393394512508,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m11184",
+      "name": "Quinn Yost",
+      "rating": 1609.38,
+      "rd": 21.61,
+      "ratingClass": "A",
+      "homeLocation": "The Pinball Capital",
+      "homeLocationId": "12978",
+      "percentile": 84.3108026272884,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m53151",
+      "name": "Grant Gembra",
+      "rating": 1603.67,
+      "rd": 25.74,
+      "ratingClass": "A",
+      "homeLocation": "Kristof's Entertainment Center",
+      "homeLocationId": "11295",
+      "percentile": 82.88070061023896,
+      "changeDisplay": "+5.3",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m24950",
+      "name": "Caleb Dushman",
+      "rating": 1595.88,
+      "rd": 41.92,
+      "ratingClass": "B",
+      "homeLocation": "CWF Arcade",
+      "homeLocationId": "10441",
+      "percentile": 81.00340056831415,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m2440",
+      "name": "Vince Giannini",
+      "rating": 1586.33,
+      "rd": 41.06,
+      "ratingClass": "B",
+      "homeLocation": "ORD",
+      "homeLocationId": "4861",
+      "percentile": 78.4180369870033,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m35475",
+      "name": "Don Coons",
+      "rating": 1585.54,
+      "rd": 30.06,
+      "ratingClass": "B",
+      "homeLocation": "CWF Arcade",
+      "homeLocationId": "10441",
+      "percentile": 78.18512134904736,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m43733",
+      "name": "Bill Versen",
+      "rating": 1583.97,
+      "rd": 55.85,
+      "ratingClass": "B",
+      "homeLocation": "CWF Arcade",
+      "homeLocationId": "10441",
+      "percentile": 77.76121488796758,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m38192",
+      "name": "Troy Swanson",
+      "rating": 1583.26,
+      "rd": 20,
+      "ratingClass": "B",
+      "homeLocation": "ORD",
+      "homeLocationId": "5770",
+      "percentile": 77.54227418828901,
+      "changeDisplay": "-1.1",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m13775",
+      "name": "Armando Rodriguez",
+      "rating": 1582.39,
+      "rd": 33.33,
+      "ratingClass": "B",
+      "homeLocation": "Enterrium",
+      "homeLocationId": "5315",
+      "percentile": 77.31401686309218,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m29585",
+      "name": "Mark Faje",
+      "rating": 1575.53,
+      "rd": 27.17,
+      "ratingClass": "B",
+      "homeLocation": "Enterrium",
+      "homeLocationId": "5315",
+      "percentile": 75.30162575115294,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m39962",
+      "name": "Kiegan Lev",
+      "rating": 1569.14,
+      "rd": 22.73,
+      "ratingClass": "B",
+      "homeLocation": "Enterrium",
+      "homeLocationId": "5315",
+      "percentile": 73.23333488610425,
+      "changeDisplay": "+4.0",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m41769",
+      "name": "Brendan Laughlin",
+      "rating": 1567.97,
+      "rd": 20.94,
+      "ratingClass": "B",
+      "homeLocation": "Bowlero",
+      "homeLocationId": "8601",
+      "percentile": 72.85601155261564,
+      "changeDisplay": "+2.6",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m56192",
+      "name": "Charles Hooker",
+      "rating": 1562.65,
+      "rd": 23.52,
+      "ratingClass": "B",
+      "homeLocation": "Enterrium",
+      "homeLocationId": "5315",
+      "percentile": 71.22560208692411,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m39543",
+      "name": "Collin Koko",
+      "rating": 1562.5,
+      "rd": 20.88,
+      "ratingClass": "B",
+      "homeLocation": "Bowlero",
+      "homeLocationId": "8601",
+      "percentile": 71.16504402105558,
+      "changeDisplay": "+0.3",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m19555",
+      "name": "Ryan Kelly",
+      "rating": 1553.47,
+      "rd": 41.72,
+      "ratingClass": "B",
+      "homeLocation": "CWF Arcade",
+      "homeLocationId": "10441",
+      "percentile": 68.13248241486933,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m36843",
+      "name": "John Severin",
+      "rating": 1552.61,
+      "rd": 19.74,
+      "ratingClass": "B",
+      "homeLocation": "The Pinball Capital",
+      "homeLocationId": "12978",
+      "percentile": 67.70391764103042,
+      "changeDisplay": "-9.8",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m39082",
+      "name": "Ron Malenke",
+      "rating": 1538.32,
+      "rd": 19.08,
+      "ratingClass": "B",
+      "homeLocation": "The Pinball Capital",
+      "homeLocationId": "12978",
+      "percentile": 62.40741603391252,
+      "changeDisplay": "+0.8",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m47487",
+      "name": "Erv Rozsypal",
+      "rating": 1536.17,
+      "rd": 23.06,
+      "ratingClass": "B",
+      "homeLocation": "Rec Haus",
+      "homeLocationId": "12269",
+      "percentile": 61.508361671402625,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m34983",
+      "name": "Ed D",
+      "rating": 1533.43,
+      "rd": 28.56,
+      "ratingClass": "B",
+      "homeLocation": "Logan Arcade",
+      "homeLocationId": "8125",
+      "percentile": 60.422974798527974,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m27367",
+      "name": "Victoria Lehman",
+      "rating": 1515.12,
+      "rd": 25.53,
+      "ratingClass": "B",
+      "homeLocation": "Enterrium",
+      "homeLocationId": "5315",
+      "percentile": 53.24917314948525,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m43406",
+      "name": "Tracey Grosch",
+      "rating": 1510.96,
+      "rd": 20.04,
+      "ratingClass": "B",
+      "homeLocation": "Kristof's Entertainment Center",
+      "homeLocationId": "11295",
+      "percentile": 51.61410537103461,
+      "changeDisplay": "+4.3",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m12505",
+      "name": "Chrissy Papnick",
+      "rating": 1475.09,
+      "rd": 34.67,
+      "ratingClass": "C",
+      "homeLocation": "Enterrium",
+      "homeLocationId": "5315",
+      "percentile": 36.90315367773792,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i14705",
+      "name": "Kelly Knorst",
+      "rating": 1471.4,
+      "rd": 43.92,
+      "ratingClass": "C",
+      "homeLocation": "Global Brew",
+      "homeLocationId": "9207",
+      "percentile": 35.40317696930172,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i19244",
+      "name": "Leah Wheatley",
+      "rating": 1468.23,
+      "rd": 63.12,
+      "ratingClass": "C",
+      "homeLocation": "CWF Arcade",
+      "homeLocationId": "10441",
+      "percentile": 34.182699026412635,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i143608",
+      "name": "Kevin Grosch",
+      "rating": 1408.13,
+      "rd": 22.96,
+      "ratingClass": "C",
+      "homeLocation": "Kristof's Entertainment Center",
+      "homeLocationId": "11295",
+      "percentile": 14.571202310523129,
+      "changeDisplay": "+14.1",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "i95435",
+      "name": "Ron Malenke",
+      "rating": null,
+      "rd": null,
+      "ratingClass": "N/A",
+      "homeLocation": "The Pinball Capital",
+      "homeLocationId": "12978",
+      "percentile": null,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

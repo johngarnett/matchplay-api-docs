@@ -1,0 +1,40 @@
+{
+  "communityId": "161",
+  "playerCount": 2,
+  "ratingsDate": "2026-08-12",
+  "relatedCommunities": [],
+  "topVenues": [
+    {
+      "locationId": "10170",
+      "name": "The Kickback",
+      "address": "7622 Lisa Lane, Middleton WI 53562",
+      "count": 2
+    }
+  ],
+  "players": [
+    {
+      "id": "i144710",
+      "name": "Mia Sies",
+      "rating": 1610.02,
+      "rd": 40.31,
+      "ratingClass": "A",
+      "homeLocation": "The Kickback",
+      "homeLocationId": "10170",
+      "percentile": 84.4598686355802,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i133519",
+      "name": "Isaac Torres",
+      "rating": 1489.94,
+      "rd": 44.06,
+      "ratingClass": "C",
+      "homeLocation": "The Kickback",
+      "homeLocationId": "10170",
+      "percentile": 42.977593515628634,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

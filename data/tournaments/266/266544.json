@@ -1,0 +1,298 @@
+{
+  "tournamentId": 266544,
+  "name": "Kristof's Silverball Transformers Pinball Party",
+  "date": "2026-08-12",
+  "locationId": "11295",
+  "locationName": "Kristof's Entertainment Center",
+  "playerCount": 41,
+  "ratingsDate": "2026-08-12",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m28462",
+      "name": "Dan Sweeney",
+      "rating": 1717.04,
+      "dailyRatingChange": 8.24
+    },
+    {
+      "position": 1,
+      "playerId": "m28154",
+      "name": "Ricky Bryant",
+      "rating": 1665.92,
+      "dailyRatingChange": 11.14
+    },
+    {
+      "position": 3,
+      "playerId": "m53151",
+      "name": "Grant Gembra",
+      "rating": 1603.67,
+      "dailyRatingChange": 5.28
+    },
+    {
+      "position": 4,
+      "playerId": "m45971",
+      "name": "Nik Grosch",
+      "rating": 1669.61,
+      "dailyRatingChange": 9.54
+    },
+    {
+      "position": 5,
+      "playerId": "m23648",
+      "name": "Nick Klein",
+      "rating": 1596.79,
+      "dailyRatingChange": 6.45
+    },
+    {
+      "position": 6,
+      "playerId": "m39082",
+      "name": "Ron Malenke",
+      "rating": 1538.32,
+      "dailyRatingChange": 2.56
+    },
+    {
+      "position": 6,
+      "playerId": "m49275",
+      "name": "Rob Kaufman",
+      "rating": 1498.77,
+      "dailyRatingChange": 17.2
+    },
+    {
+      "position": 8,
+      "playerId": "m45169",
+      "name": "Sean Brennan",
+      "rating": 1582.14,
+      "dailyRatingChange": 5.63
+    },
+    {
+      "position": 9,
+      "playerId": "m47344",
+      "name": "Kim Castiglia",
+      "rating": 1429.75,
+      "dailyRatingChange": 8.82
+    },
+    {
+      "position": 9,
+      "playerId": "m16391",
+      "name": "Jason Werdrick",
+      "rating": 1793.73,
+      "dailyRatingChange": 5.07
+    },
+    {
+      "position": 9,
+      "playerId": "m540267",
+      "name": "Justin Beales",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 9,
+      "playerId": "m47341",
+      "name": "Michael Castiglia",
+      "rating": 1527.9,
+      "dailyRatingChange": 7.57
+    },
+    {
+      "position": 13,
+      "playerId": "m24353",
+      "name": "Ric Knopfhart",
+      "rating": 1640.43,
+      "dailyRatingChange": -5.62
+    },
+    {
+      "position": 13,
+      "playerId": "i143608",
+      "name": "Kevin Grosch",
+      "rating": 1408.13,
+      "dailyRatingChange": 11.14
+    },
+    {
+      "position": 15,
+      "playerId": "m523465",
+      "name": "Chris Hill",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 15,
+      "playerId": "i114896",
+      "name": "Gabe Gonzales",
+      "rating": 1491.33,
+      "dailyRatingChange": 3.27
+    },
+    {
+      "position": 15,
+      "playerId": "m61985",
+      "name": "Aaron Brean",
+      "rating": 1501.97,
+      "dailyRatingChange": -14.11
+    },
+    {
+      "position": 18,
+      "playerId": "m43406",
+      "name": "Tracey Grosch",
+      "rating": 1510.96,
+      "dailyRatingChange": 1.71
+    },
+    {
+      "position": 19,
+      "playerId": "m27135",
+      "name": "Michael Urbanski",
+      "rating": 1585.58,
+      "dailyRatingChange": -4.21
+    },
+    {
+      "position": 20,
+      "playerId": "m29140",
+      "name": "Sara Dell",
+      "rating": 1402.01,
+      "dailyRatingChange": 5.81
+    },
+    {
+      "position": 21,
+      "playerId": "m34346",
+      "name": "Frances Mai-Ling",
+      "rating": 1469.83,
+      "dailyRatingChange": -1.26
+    },
+    {
+      "position": 21,
+      "playerId": "m47339",
+      "name": "Walter Page",
+      "rating": 1529.95,
+      "dailyRatingChange": -12.46
+    },
+    {
+      "position": 21,
+      "playerId": "m59858",
+      "name": "Patrick McGovern",
+      "rating": 1427.97,
+      "dailyRatingChange": null
+    },
+    {
+      "position": 21,
+      "playerId": "m486198",
+      "name": "Aaron Mivshek",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 21,
+      "playerId": "m497350",
+      "name": "Robert Magee",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 26,
+      "playerId": "m24151",
+      "name": "Lily Pizza",
+      "rating": 1634.18,
+      "dailyRatingChange": -6.01
+    },
+    {
+      "position": 27,
+      "playerId": "m55462",
+      "name": "Luis Montoya",
+      "rating": 1504.45,
+      "dailyRatingChange": -10.3
+    },
+    {
+      "position": 27,
+      "playerId": "m50250",
+      "name": "Malin Gembra",
+      "rating": 1429.72,
+      "dailyRatingChange": -0.17
+    },
+    {
+      "position": 27,
+      "playerId": "m586396",
+      "name": "Christopher Pena",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 27,
+      "playerId": "i10737",
+      "name": "Craig Mivshek",
+      "rating": 1580.15,
+      "dailyRatingChange": -22.83
+    },
+    {
+      "position": 31,
+      "playerId": "m37855",
+      "name": "Lilly Muska",
+      "rating": 1389.11,
+      "dailyRatingChange": -3.71
+    },
+    {
+      "position": 31,
+      "playerId": "m478635",
+      "name": "Nick Weber Boxxy Bacon Mouth",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 33,
+      "playerId": "m586395",
+      "name": "Chris Pena",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 33,
+      "playerId": "m586397",
+      "name": "Cruz Pena",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 33,
+      "playerId": "m551969",
+      "name": "Gloria Gonzales",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 33,
+      "playerId": "m51856",
+      "name": "Matt C Wilson",
+      "rating": 1425.05,
+      "dailyRatingChange": -19.12
+    },
+    {
+      "position": 33,
+      "playerId": "m486200",
+      "name": "Cristina Perez",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 33,
+      "playerId": "m497351",
+      "name": "Trevin Sell",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 39,
+      "playerId": "m586428",
+      "name": "Luis F Perez",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 39,
+      "playerId": "m461778",
+      "name": "Alex Castiglia",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 41,
+      "playerId": "m33442",
+      "name": "David Drevalas",
+      "rating": 1477.61,
+      "dailyRatingChange": -18.74
+    }
+  ]
+}

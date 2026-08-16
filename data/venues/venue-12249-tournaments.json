@@ -1,0 +1,40 @@
+{
+  "locationId": "12249",
+  "venueName": "Quarterdrop Arcade",
+  "venueAddress": "527 E Main St, Cottage Grove, OR 97424, US",
+  "tournaments": [
+    {
+      "id": 265021,
+      "name": "Saturday Knockout Pinball Tournament at the Quarter Drop Arcade 8/1/26",
+      "date": "8/1/2026",
+      "playerCount": 15,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m49772",
+          "name": "liam king",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "p557187",
+          "name": "Mindy",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m20993",
+          "name": "Eric Merchant",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "p539657",
+          "name": "Max Ingold",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

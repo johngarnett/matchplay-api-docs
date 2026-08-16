@@ -1,0 +1,53 @@
+{
+  "tournamentId": 264177,
+  "name": "Finals for Belles & Chimes Quad Cities July (MAW) Monthly",
+  "date": "2026-07-28",
+  "locationId": "11895",
+  "locationName": "Midwest Ale Works",
+  "playerCount": 6,
+  "ratingsDate": "2026-07-28",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m22225",
+      "name": "Emily Gross",
+      "rating": 1639.42,
+      "dailyRatingChange": 5.59
+    },
+    {
+      "position": 2,
+      "playerId": "m39449",
+      "name": "Lindsay Hannan",
+      "rating": 1567.49,
+      "dailyRatingChange": 13.04
+    },
+    {
+      "position": 3,
+      "playerId": "m582513",
+      "name": "Julie Ross",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 4,
+      "playerId": "m22001",
+      "name": "Zandra Rodriguez",
+      "rating": 1608.65,
+      "dailyRatingChange": 4.03
+    },
+    {
+      "position": 5,
+      "playerId": "m57561",
+      "name": "Amy Morris",
+      "rating": 1464.73,
+      "dailyRatingChange": 8.18
+    },
+    {
+      "position": 6,
+      "playerId": "m44006",
+      "name": "Angelica Villarreal",
+      "rating": 1460.13,
+      "dailyRatingChange": 5.4
+    }
+  ]
+}

@@ -1,0 +1,419 @@
+{
+  "locationId": "10631",
+  "name": "Austin Beerworks - Sprinkle Valley",
+  "address": "10300 Springdale Rd, Austin, TX 78754, US",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 29,
+  "relatedVenues": [
+    {
+      "locationId": "11561",
+      "name": "Austin Pinball Collective",
+      "address": "1106 Clayton Ln, Austin, TX 78723, US",
+      "count": 148
+    },
+    {
+      "locationId": "8994",
+      "name": "Bender Bar and Grill",
+      "address": "321 W Ben White Blvd Ste 300, Austin, TX 78704, US",
+      "count": 108
+    },
+    {
+      "locationId": "7460",
+      "name": "The Brewtique",
+      "address": "401 Cypress Creek Road, Cedar Park, TX 78613, US",
+      "count": 26
+    },
+    {
+      "locationId": "2123",
+      "name": "What's Brewing? Coffee Roasters",
+      "address": "138 West Rhapsody Drive, San Antonio, TX, 78216, US",
+      "count": 16
+    },
+    {
+      "locationId": "9186",
+      "name": "Pinballz Arcade",
+      "address": "8940 Research Blvd, Austin, TX 78758, US",
+      "count": 12
+    },
+    {
+      "locationId": "3790",
+      "name": "Cactus Jacks",
+      "address": "",
+      "count": 2
+    },
+    {
+      "locationId": "66",
+      "name": "Cactus Jack's",
+      "address": "",
+      "count": 1
+    },
+    {
+      "locationId": "7481",
+      "name": "Electric Bat Arcade",
+      "address": "25 W Southern Ave, Tempe, AZ 85282, US",
+      "count": 1
+    },
+    {
+      "locationId": "10530",
+      "name": "Free Play Abilene",
+      "address": "250 Cypress Street, Abilene, TX 79601",
+      "count": 1
+    },
+    {
+      "locationId": "11295",
+      "name": "Kristof's Entertainment Center",
+      "address": "421 West Rollins Road, Round Lake Beach, IL 60073, US",
+      "count": 1
+    }
+  ],
+  "players": [
+    {
+      "id": "m39331",
+      "name": "Paul Young",
+      "rating": 1702.66,
+      "rd": 19.02,
+      "ratingClass": "Expert",
+      "homeLocation": "Bender Bar and Grill",
+      "homeLocationId": "8994",
+      "percentile": 96.7531560068943,
+      "changeDisplay": "-8.0",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m475",
+      "name": "Nikolas Poklitar",
+      "rating": 1683.74,
+      "rd": 18.15,
+      "ratingClass": "A",
+      "homeLocation": "Austin Pinball Collective",
+      "homeLocationId": "11561",
+      "percentile": 95.38827036847253,
+      "changeDisplay": "-5.9",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m24787",
+      "name": "Alex Bayer",
+      "rating": 1662.89,
+      "rd": 31.28,
+      "ratingClass": "A",
+      "homeLocation": "Bender Bar and Grill",
+      "homeLocationId": "8994",
+      "percentile": 93.37587925653328,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m1048",
+      "name": "Jason Newman",
+      "rating": 1657.89,
+      "rd": 19.47,
+      "ratingClass": "A",
+      "homeLocation": "The Brewtique",
+      "homeLocationId": "7460",
+      "percentile": 92.79359016164346,
+      "changeDisplay": "+12.3",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m15035",
+      "name": "Amanda Fincher",
+      "rating": 1639.06,
+      "rd": 16.24,
+      "ratingClass": "A",
+      "homeLocation": "Austin Pinball Collective",
+      "homeLocationId": "11561",
+      "percentile": 90.19890995481437,
+      "changeDisplay": "-7.5",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m26959",
+      "name": "Robie Rowley",
+      "rating": 1637.26,
+      "rd": 22.55,
+      "ratingClass": "A",
+      "homeLocation": "Bender Bar and Grill",
+      "homeLocationId": "8994",
+      "percentile": 89.88680299995342,
+      "changeDisplay": "+0.8",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m51419",
+      "name": "Brian Boettcher",
+      "rating": 1632.94,
+      "rd": 25.12,
+      "ratingClass": "A",
+      "homeLocation": "Austin Beerworks - Sprinkle Valley",
+      "homeLocationId": "10631",
+      "percentile": 89.14147295849443,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m15349",
+      "name": "Stevan Reyes",
+      "rating": 1613.88,
+      "rd": 22.98,
+      "ratingClass": "A",
+      "homeLocation": "Bender Bar and Grill",
+      "homeLocationId": "8994",
+      "percentile": 85.28904830670331,
+      "changeDisplay": "-0.4",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m26328",
+      "name": "Stephen Jones FL",
+      "rating": 1610.92,
+      "rd": 25,
+      "ratingClass": "A",
+      "homeLocation": "Bender Bar and Grill",
+      "homeLocationId": "8994",
+      "percentile": 84.67415102249966,
+      "changeDisplay": "-5.3",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m1050",
+      "name": "Nadia Didehbani",
+      "rating": 1598.64,
+      "rd": 16.3,
+      "ratingClass": "B",
+      "homeLocation": "Austin Pinball Collective",
+      "homeLocationId": "11561",
+      "percentile": 81.67419760562724,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m30986",
+      "name": "Neil Wilson",
+      "rating": 1595.9,
+      "rd": 19.61,
+      "ratingClass": "B",
+      "homeLocation": "Austin Pinball Collective",
+      "homeLocationId": "11561",
+      "percentile": 81.02203381935064,
+      "changeDisplay": "+4.4",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m28542",
+      "name": "TJ Lewis",
+      "rating": 1593.09,
+      "rd": 23.32,
+      "ratingClass": "B",
+      "homeLocation": "Austin Pinball Collective",
+      "homeLocationId": "11561",
+      "percentile": 80.27204546513252,
+      "changeDisplay": "+1.9",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m13131",
+      "name": "Christopher Welch",
+      "rating": 1588.45,
+      "rd": 21.82,
+      "ratingClass": "B",
+      "homeLocation": "The Brewtique",
+      "homeLocationId": "7460",
+      "percentile": 79.03293427120697,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m2312",
+      "name": "Bobbi Douthitt",
+      "rating": 1585.62,
+      "rd": 18.57,
+      "ratingClass": "B",
+      "homeLocation": "Bender Bar and Grill",
+      "homeLocationId": "8994",
+      "percentile": 78.22238785112032,
+      "changeDisplay": "-2.4",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m2204",
+      "name": "Robert Montanez",
+      "rating": 1579.53,
+      "rd": 19.34,
+      "ratingClass": "B",
+      "homeLocation": "Bender Bar and Grill",
+      "homeLocationId": "8994",
+      "percentile": 76.4662039409326,
+      "changeDisplay": "-2.8",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m58954",
+      "name": "Adan Salazar",
+      "rating": 1572.13,
+      "rd": 53.13,
+      "ratingClass": "B",
+      "homeLocation": "Bender Bar and Grill",
+      "homeLocationId": "8994",
+      "percentile": 74.15568081240974,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m22757",
+      "name": "Cayman Kai",
+      "rating": 1560.46,
+      "rd": 18.06,
+      "ratingClass": "B",
+      "homeLocation": "Austin Pinball Collective",
+      "homeLocationId": "11561",
+      "percentile": 70.42903060511483,
+      "changeDisplay": "+3.5",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m43871",
+      "name": "Ellie DeCaprio",
+      "rating": 1551.12,
+      "rd": 21.33,
+      "ratingClass": "B",
+      "homeLocation": "Austin Pinball Collective",
+      "homeLocationId": "11561",
+      "percentile": 67.14492010993618,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m13560",
+      "name": "Haley Bonds",
+      "rating": 1534.2,
+      "rd": 18.15,
+      "ratingClass": "B",
+      "homeLocation": "Bender Bar and Grill",
+      "homeLocationId": "8994",
+      "percentile": 60.679182000279496,
+      "changeDisplay": "+2.4",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m14213",
+      "name": "Alex Copeland",
+      "rating": 1531.96,
+      "rd": 34.14,
+      "ratingClass": "B",
+      "homeLocation": "Austin Beerworks - Sprinkle Valley",
+      "homeLocationId": "10631",
+      "percentile": 59.84534401639726,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m29895",
+      "name": "Meredith Dubose",
+      "rating": 1526.42,
+      "rd": 20.04,
+      "ratingClass": "B",
+      "homeLocation": "Austin Pinball Collective",
+      "homeLocationId": "11561",
+      "percentile": 57.59072064098384,
+      "changeDisplay": "+1.7",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m8030",
+      "name": "Angel Martinez",
+      "rating": 1508.12,
+      "rd": 23.19,
+      "ratingClass": "B",
+      "homeLocation": "Austin Pinball Collective",
+      "homeLocationId": "11561",
+      "percentile": 50.4867936833279,
+      "changeDisplay": "-2.0",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m30360",
+      "name": "Kevin Fincher",
+      "rating": 1500.01,
+      "rd": 19.6,
+      "ratingClass": "B",
+      "homeLocation": "Austin Pinball Collective",
+      "homeLocationId": "11561",
+      "percentile": 47.104858620207764,
+      "changeDisplay": "-3.2",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m59513",
+      "name": "Evan Watkins",
+      "rating": 1498.98,
+      "rd": 33.05,
+      "ratingClass": "C",
+      "homeLocation": "Austin Pinball Collective",
+      "homeLocationId": "11561",
+      "percentile": 46.6902687846462,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i127249",
+      "name": "Ben Bolves",
+      "rating": 1480.73,
+      "rd": 43.59,
+      "ratingClass": "C",
+      "homeLocation": "Austin Beerworks - Sprinkle Valley",
+      "homeLocationId": "10631",
+      "percentile": 39.16243536591047,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m54504",
+      "name": "Henry Wilton",
+      "rating": 1478.63,
+      "rd": 19.71,
+      "ratingClass": "C",
+      "homeLocation": "Pinballz Arcade",
+      "homeLocationId": "9186",
+      "percentile": 38.407788698933246,
+      "changeDisplay": "-14.5",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m30987",
+      "name": "Emily Glover-Wilson",
+      "rating": 1466.35,
+      "rd": 17.93,
+      "ratingClass": "C",
+      "homeLocation": "Austin Pinball Collective",
+      "homeLocationId": "11561",
+      "percentile": 33.38146923184422,
+      "changeDisplay": "-8.2",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "i127250",
+      "name": "Henry Bolves",
+      "rating": 1443.36,
+      "rd": 43.54,
+      "ratingClass": "C",
+      "homeLocation": "Austin Beerworks - Sprinkle Valley",
+      "homeLocationId": "10631",
+      "percentile": 24.880048446452697,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m42672",
+      "name": "Rachel Rae",
+      "rating": 1407.97,
+      "rd": 45.12,
+      "ratingClass": "C",
+      "homeLocation": "Austin Beerworks - Sprinkle Valley",
+      "homeLocationId": "10631",
+      "percentile": 14.529277495691062,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

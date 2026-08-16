@@ -1,0 +1,123 @@
+{
+  "tournamentId": 266067,
+  "name": "Finals for Smålands Månadstävling",
+  "date": "2026-08-08",
+  "locationId": "11166",
+  "locationName": "Pinball inn",
+  "playerCount": 16,
+  "ratingsDate": "2026-08-08",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m11354",
+      "name": "Mattias Borgström",
+      "rating": 1683.97,
+      "dailyRatingChange": 1.6
+    },
+    {
+      "position": 2,
+      "playerId": "m5793",
+      "name": "Marcus Hugosson",
+      "rating": 1728.29,
+      "dailyRatingChange": 7.31
+    },
+    {
+      "position": 3,
+      "playerId": "m19485",
+      "name": "Martin Abelsson",
+      "rating": 1608.07,
+      "dailyRatingChange": 6.13
+    },
+    {
+      "position": 4,
+      "playerId": "m22106",
+      "name": "Izabelle Hugosson",
+      "rating": 1648.34,
+      "dailyRatingChange": 16.55
+    },
+    {
+      "position": 5,
+      "playerId": "m7949",
+      "name": "Joakim Sjöblom",
+      "rating": 1624.26,
+      "dailyRatingChange": -5.9
+    },
+    {
+      "position": 5,
+      "playerId": "m6134",
+      "name": "Thomas Näslund",
+      "rating": 1648.95,
+      "dailyRatingChange": 2.97
+    },
+    {
+      "position": 7,
+      "playerId": "m14182",
+      "name": "Alexander Båth",
+      "rating": 1565.19,
+      "dailyRatingChange": 7.5
+    },
+    {
+      "position": 8,
+      "playerId": "m11127",
+      "name": "Per Gunnarsson",
+      "rating": 1619.28,
+      "dailyRatingChange": -1.3
+    },
+    {
+      "position": 9,
+      "playerId": "m29592",
+      "name": "Theo Söderström",
+      "rating": 1596.97,
+      "dailyRatingChange": 13.2
+    },
+    {
+      "position": 9,
+      "playerId": "m15077",
+      "name": "Daniel Björs",
+      "rating": 1620.06,
+      "dailyRatingChange": -14.11
+    },
+    {
+      "position": 9,
+      "playerId": "m3647",
+      "name": "Mats Barkestam",
+      "rating": 1699.29,
+      "dailyRatingChange": -4.72
+    },
+    {
+      "position": 12,
+      "playerId": "m3690",
+      "name": "Håkan Andersson II",
+      "rating": 1536.09,
+      "dailyRatingChange": 21.83
+    },
+    {
+      "position": 12,
+      "playerId": "m1222",
+      "name": "Christian Holmsten",
+      "rating": 1692.15,
+      "dailyRatingChange": -6.77
+    },
+    {
+      "position": 12,
+      "playerId": "m7425",
+      "name": "Johnny Mårtensson",
+      "rating": 1709,
+      "dailyRatingChange": 3.86
+    },
+    {
+      "position": 15,
+      "playerId": "m30657",
+      "name": "Tobias Isaksson",
+      "rating": 1442.25,
+      "dailyRatingChange": 26.13
+    },
+    {
+      "position": 15,
+      "playerId": "m33553",
+      "name": "Thomas Wibring",
+      "rating": 1619.1,
+      "dailyRatingChange": 14.87
+    }
+  ]
+}

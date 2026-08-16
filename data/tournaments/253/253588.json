@@ -1,0 +1,116 @@
+{
+  "tournamentId": 253588,
+  "name": "North End Pub 2026 Summer League Flip Frenzy Finals",
+  "date": "2026-07-31",
+  "locationId": "1658",
+  "locationName": "North End Pub",
+  "playerCount": 15,
+  "ratingsDate": "2026-07-31",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m13",
+      "name": "Tommy Skinner",
+      "rating": 1750.01,
+      "dailyRatingChange": 6.63
+    },
+    {
+      "position": 2,
+      "playerId": "m30542",
+      "name": "Tony Baldini",
+      "rating": 1564.18,
+      "dailyRatingChange": 2.23
+    },
+    {
+      "position": 3,
+      "playerId": "m27563",
+      "name": "Michael Wertz",
+      "rating": 1553.48,
+      "dailyRatingChange": 2.14
+    },
+    {
+      "position": 3,
+      "playerId": "m1759",
+      "name": "Ryan Donohue",
+      "rating": 1671.42,
+      "dailyRatingChange": -0.34
+    },
+    {
+      "position": 5,
+      "playerId": "m477461",
+      "name": "Brandon Essert",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 6,
+      "playerId": "m26074",
+      "name": "Tony Giron",
+      "rating": 1627.04,
+      "dailyRatingChange": -4.52
+    },
+    {
+      "position": 6,
+      "playerId": "m19511",
+      "name": "Brett Heininger",
+      "rating": 1572.24,
+      "dailyRatingChange": -0.5
+    },
+    {
+      "position": 8,
+      "playerId": "m562955",
+      "name": "Lex Sell",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 8,
+      "playerId": "m1777",
+      "name": "Kerri Donohue",
+      "rating": 1491.99,
+      "dailyRatingChange": 2.23
+    },
+    {
+      "position": 10,
+      "playerId": "m26073",
+      "name": "Lindsey Sickler",
+      "rating": 1546.59,
+      "dailyRatingChange": -0.92
+    },
+    {
+      "position": 11,
+      "playerId": "m216394",
+      "name": "Josh Pierson",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 12,
+      "playerId": "m236115",
+      "name": "Amanda Akers",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 13,
+      "playerId": "m4165",
+      "name": "Scott Sarjent",
+      "rating": 1446.87,
+      "dailyRatingChange": -4.85
+    },
+    {
+      "position": 13,
+      "playerId": "m32923",
+      "name": "Jerry Budd",
+      "rating": 1464.44,
+      "dailyRatingChange": -15.13
+    },
+    {
+      "position": 15,
+      "playerId": "m8076",
+      "name": "Casey Taylor",
+      "rating": 1483.75,
+      "dailyRatingChange": -13.95
+    }
+  ]
+}

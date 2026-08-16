@@ -1,0 +1,711 @@
+{
+  "tournamentId": 258274,
+  "name": "Electric Bat Tuesday Night League- Season 21-1 #5",
+  "date": "2026-07-22",
+  "locationId": "8801",
+  "locationName": "Electric Bat Arcade",
+  "playerCount": 100,
+  "ratingsDate": "2026-07-22",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m19074",
+      "name": "Andrew Roesch",
+      "rating": 1737.01,
+      "dailyRatingChange": 13.58
+    },
+    {
+      "position": 2,
+      "playerId": "m30340",
+      "name": "Brian Pinney",
+      "rating": 1810.29,
+      "dailyRatingChange": 4.83
+    },
+    {
+      "position": 2,
+      "playerId": "m6030",
+      "name": "Wesley Worosello",
+      "rating": 1640.72,
+      "dailyRatingChange": 12.94
+    },
+    {
+      "position": 4,
+      "playerId": "m17685",
+      "name": "Nicholas Zachry",
+      "rating": 1727.29,
+      "dailyRatingChange": 4.41
+    },
+    {
+      "position": 5,
+      "playerId": "m13501",
+      "name": "Walter Dony",
+      "rating": 1667.33,
+      "dailyRatingChange": 6.25
+    },
+    {
+      "position": 5,
+      "playerId": "m25693",
+      "name": "Paul Hoeprich",
+      "rating": 1574.04,
+      "dailyRatingChange": 9.54
+    },
+    {
+      "position": 5,
+      "playerId": "m2465",
+      "name": "John Shopple",
+      "rating": 1797.49,
+      "dailyRatingChange": 0.56
+    },
+    {
+      "position": 5,
+      "playerId": "m2458",
+      "name": "Jeff Barthold",
+      "rating": 1643.57,
+      "dailyRatingChange": 3.57
+    },
+    {
+      "position": 9,
+      "playerId": "m11148",
+      "name": "John Magyar",
+      "rating": 1648.83,
+      "dailyRatingChange": 4.62
+    },
+    {
+      "position": 10,
+      "playerId": "m22937",
+      "name": "Hailey Buhrman",
+      "rating": 1701.29,
+      "dailyRatingChange": 0.71
+    },
+    {
+      "position": 10,
+      "playerId": "m39341",
+      "name": "Geoffrey Cebulski",
+      "rating": 1539,
+      "dailyRatingChange": 10.22
+    },
+    {
+      "position": 10,
+      "playerId": "m14531",
+      "name": "Andrew Kohtz",
+      "rating": 1664.42,
+      "dailyRatingChange": 2.02
+    },
+    {
+      "position": 10,
+      "playerId": "m14305",
+      "name": "Christy Kohtz",
+      "rating": 1519.72,
+      "dailyRatingChange": 6.27
+    },
+    {
+      "position": 10,
+      "playerId": "i118896",
+      "name": "Andre Gierczynski",
+      "rating": 1532.04,
+      "dailyRatingChange": 11.7
+    },
+    {
+      "position": 10,
+      "playerId": "m22306",
+      "name": "Valerie Doucette",
+      "rating": 1494.16,
+      "dailyRatingChange": 8.61
+    },
+    {
+      "position": 10,
+      "playerId": "m24469",
+      "name": "Amber Valdivia",
+      "rating": 1612.24,
+      "dailyRatingChange": 4.6
+    },
+    {
+      "position": 10,
+      "playerId": "m37107",
+      "name": "Travis Yoder",
+      "rating": 1584.15,
+      "dailyRatingChange": 4.99
+    },
+    {
+      "position": 10,
+      "playerId": "m18411",
+      "name": "Cody Winant",
+      "rating": 1658.35,
+      "dailyRatingChange": 4.31
+    },
+    {
+      "position": 10,
+      "playerId": "m12740",
+      "name": "Greg Drewes",
+      "rating": 1674.88,
+      "dailyRatingChange": 2.92
+    },
+    {
+      "position": 20,
+      "playerId": "m6343",
+      "name": "Jack Joy",
+      "rating": 1559.21,
+      "dailyRatingChange": 12.99
+    },
+    {
+      "position": 20,
+      "playerId": "m37085",
+      "name": "Kenny Chan",
+      "rating": 1658.1,
+      "dailyRatingChange": -0.73
+    },
+    {
+      "position": 20,
+      "playerId": "m54567",
+      "name": "Sam Gauck",
+      "rating": 1623.46,
+      "dailyRatingChange": 3.32
+    },
+    {
+      "position": 20,
+      "playerId": "m29986",
+      "name": "Garrett Nelson",
+      "rating": 1597.15,
+      "dailyRatingChange": 3.93
+    },
+    {
+      "position": 20,
+      "playerId": "m38670",
+      "name": "Matt Jackson AZ",
+      "rating": 1667.66,
+      "dailyRatingChange": 0.9
+    },
+    {
+      "position": 20,
+      "playerId": "m18612",
+      "name": "Brandon Passey",
+      "rating": 1597.82,
+      "dailyRatingChange": 5.85
+    },
+    {
+      "position": 20,
+      "playerId": "m5326",
+      "name": "Kevan Carter",
+      "rating": 1660.15,
+      "dailyRatingChange": 0.91
+    },
+    {
+      "position": 27,
+      "playerId": "m3000",
+      "name": "Dave Halley",
+      "rating": 1614.18,
+      "dailyRatingChange": -0.27
+    },
+    {
+      "position": 27,
+      "playerId": "m41776",
+      "name": "Scott Pobieglo",
+      "rating": 1573.49,
+      "dailyRatingChange": 1.39
+    },
+    {
+      "position": 27,
+      "playerId": "m3573",
+      "name": "Jason Barre",
+      "rating": 1672.29,
+      "dailyRatingChange": -0.69
+    },
+    {
+      "position": 27,
+      "playerId": "m31036",
+      "name": "Geoff Bennett",
+      "rating": 1621.32,
+      "dailyRatingChange": 3.65
+    },
+    {
+      "position": 27,
+      "playerId": "m29490",
+      "name": "David Vogt",
+      "rating": 1519.53,
+      "dailyRatingChange": 4.11
+    },
+    {
+      "position": 27,
+      "playerId": "m2414",
+      "name": "Andy Olson",
+      "rating": 1597.9,
+      "dailyRatingChange": 1.39
+    },
+    {
+      "position": 27,
+      "playerId": "m23699",
+      "name": "Loren Silverman",
+      "rating": 1538.41,
+      "dailyRatingChange": 5.91
+    },
+    {
+      "position": 27,
+      "playerId": "m15883",
+      "name": "Paul Blanco",
+      "rating": 1687.2,
+      "dailyRatingChange": -2.13
+    },
+    {
+      "position": 27,
+      "playerId": "m39767",
+      "name": "Stephanie Turner",
+      "rating": 1614.38,
+      "dailyRatingChange": 0.1
+    },
+    {
+      "position": 36,
+      "playerId": "m36991",
+      "name": "Patrick Swazey",
+      "rating": 1486.45,
+      "dailyRatingChange": 10
+    },
+    {
+      "position": 37,
+      "playerId": "i96847",
+      "name": "Katie Adler",
+      "rating": 1548.93,
+      "dailyRatingChange": 3.13
+    },
+    {
+      "position": 37,
+      "playerId": "m31354",
+      "name": "Jeff Wegener",
+      "rating": 1693.08,
+      "dailyRatingChange": -3.43
+    },
+    {
+      "position": 37,
+      "playerId": "m27011",
+      "name": "Matt JohnsonAZ",
+      "rating": 1679.86,
+      "dailyRatingChange": -3.4
+    },
+    {
+      "position": 37,
+      "playerId": "m24202",
+      "name": "Joel Daniel",
+      "rating": 1572.17,
+      "dailyRatingChange": 1.03
+    },
+    {
+      "position": 37,
+      "playerId": "m43309",
+      "name": "Noah Anderson",
+      "rating": 1697.59,
+      "dailyRatingChange": -4.54
+    },
+    {
+      "position": 37,
+      "playerId": "m11581",
+      "name": "Brad Vogus",
+      "rating": 1667.74,
+      "dailyRatingChange": -2.83
+    },
+    {
+      "position": 37,
+      "playerId": "m11062",
+      "name": "Cale Bess Hernandez",
+      "rating": 1590.84,
+      "dailyRatingChange": 0.73
+    },
+    {
+      "position": 37,
+      "playerId": "m49693",
+      "name": "Dena Brooks",
+      "rating": 1489.99,
+      "dailyRatingChange": 3.4
+    },
+    {
+      "position": 37,
+      "playerId": "m2366",
+      "name": "Rachel Bess Hernandez",
+      "rating": 1597.69,
+      "dailyRatingChange": -1.46
+    },
+    {
+      "position": 37,
+      "playerId": "m9076",
+      "name": "Elaine Hecht",
+      "rating": 1454.93,
+      "dailyRatingChange": 3.17
+    },
+    {
+      "position": 37,
+      "playerId": "m58851",
+      "name": "Dan Freeburg",
+      "rating": 1497.01,
+      "dailyRatingChange": 5.58
+    },
+    {
+      "position": 37,
+      "playerId": "m48200",
+      "name": "Adam Schweikart",
+      "rating": 1598.12,
+      "dailyRatingChange": -0.63
+    },
+    {
+      "position": 37,
+      "playerId": "m35621",
+      "name": "Nick Steffen",
+      "rating": 1570.29,
+      "dailyRatingChange": 2.73
+    },
+    {
+      "position": 37,
+      "playerId": "m34217",
+      "name": "Drew Fones",
+      "rating": 1552.52,
+      "dailyRatingChange": 0.4
+    },
+    {
+      "position": 51,
+      "playerId": "m4689",
+      "name": "Mark Pearson",
+      "rating": 1741.39,
+      "dailyRatingChange": -6.97
+    },
+    {
+      "position": 52,
+      "playerId": "m39847",
+      "name": "Xris Rincon",
+      "rating": 1519.46,
+      "dailyRatingChange": 0.81
+    },
+    {
+      "position": 52,
+      "playerId": "m2461",
+      "name": "Henry Hanshaw",
+      "rating": 1693.64,
+      "dailyRatingChange": -11.35
+    },
+    {
+      "position": 52,
+      "playerId": "m48056",
+      "name": "Brittany Adamo",
+      "rating": 1495.18,
+      "dailyRatingChange": 1.75
+    },
+    {
+      "position": 52,
+      "playerId": "m29699",
+      "name": "Katie Mae",
+      "rating": 1485.79,
+      "dailyRatingChange": 5.99
+    },
+    {
+      "position": 52,
+      "playerId": "m39311",
+      "name": "Frankie Estrella",
+      "rating": 1482.65,
+      "dailyRatingChange": 2.17
+    },
+    {
+      "position": 52,
+      "playerId": "m49525",
+      "name": "Peter Velasco",
+      "rating": 1544.85,
+      "dailyRatingChange": 0.23
+    },
+    {
+      "position": 52,
+      "playerId": "m39692",
+      "name": "Forrest Barkley",
+      "rating": 1533.9,
+      "dailyRatingChange": -0.71
+    },
+    {
+      "position": 52,
+      "playerId": "m47570",
+      "name": "Joseph Ippolito",
+      "rating": 1504.35,
+      "dailyRatingChange": 9.34
+    },
+    {
+      "position": 60,
+      "playerId": "m61547",
+      "name": "Barry Vought",
+      "rating": 1512.36,
+      "dailyRatingChange": -13.04
+    },
+    {
+      "position": 60,
+      "playerId": "m43987",
+      "name": "Gabrielle Craft",
+      "rating": 1616.62,
+      "dailyRatingChange": -2.37
+    },
+    {
+      "position": 60,
+      "playerId": "m57205",
+      "name": "Jose Arballo",
+      "rating": 1440.03,
+      "dailyRatingChange": 6.14
+    },
+    {
+      "position": 60,
+      "playerId": "m11147",
+      "name": "Chris Stoltenberg",
+      "rating": 1578.93,
+      "dailyRatingChange": -1.92
+    },
+    {
+      "position": 60,
+      "playerId": "i135244",
+      "name": "Luke Hulsey",
+      "rating": 1555.83,
+      "dailyRatingChange": -22.54
+    },
+    {
+      "position": 60,
+      "playerId": "m44886",
+      "name": "Aric Stults",
+      "rating": 1501.99,
+      "dailyRatingChange": 0.12
+    },
+    {
+      "position": 60,
+      "playerId": "m5067",
+      "name": "Adam Horton",
+      "rating": 1682.02,
+      "dailyRatingChange": -7.27
+    },
+    {
+      "position": 60,
+      "playerId": "m580591",
+      "name": "Pat Roth",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 60,
+      "playerId": "m55492",
+      "name": "Esther Rincon",
+      "rating": 1403.21,
+      "dailyRatingChange": 2.98
+    },
+    {
+      "position": 69,
+      "playerId": "i131487",
+      "name": "Nic Henry",
+      "rating": 1434.58,
+      "dailyRatingChange": 3.28
+    },
+    {
+      "position": 70,
+      "playerId": "i130433",
+      "name": "Punkie Boozer",
+      "rating": 1430.06,
+      "dailyRatingChange": 14.29
+    },
+    {
+      "position": 70,
+      "playerId": "m35750",
+      "name": "Carl Sadowski",
+      "rating": 1447.52,
+      "dailyRatingChange": -1.87
+    },
+    {
+      "position": 70,
+      "playerId": "m40885",
+      "name": "Kevin Geoghan",
+      "rating": 1504.67,
+      "dailyRatingChange": -5.62
+    },
+    {
+      "position": 70,
+      "playerId": "m62152",
+      "name": "Cody Johnson",
+      "rating": 1381.81,
+      "dailyRatingChange": null
+    },
+    {
+      "position": 70,
+      "playerId": "m31786",
+      "name": "Kristofer Jonson AZ",
+      "rating": 1559.67,
+      "dailyRatingChange": -4.37
+    },
+    {
+      "position": 70,
+      "playerId": "m533680",
+      "name": "Trevor Read",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 70,
+      "playerId": "m41980",
+      "name": "Colin Taylor",
+      "rating": 1542.81,
+      "dailyRatingChange": -4.02
+    },
+    {
+      "position": 70,
+      "playerId": "m31526",
+      "name": "Keegan Crandall",
+      "rating": 1653.46,
+      "dailyRatingChange": -10.08
+    },
+    {
+      "position": 70,
+      "playerId": "m52078",
+      "name": "Grant Kroeger",
+      "rating": 1532.23,
+      "dailyRatingChange": -4.7
+    },
+    {
+      "position": 70,
+      "playerId": "m24201",
+      "name": "Brittany Daniel AZ",
+      "rating": 1506.03,
+      "dailyRatingChange": -3.77
+    },
+    {
+      "position": 70,
+      "playerId": "m48061",
+      "name": "Noah Suchoff",
+      "rating": 1630.87,
+      "dailyRatingChange": -8.01
+    },
+    {
+      "position": 81,
+      "playerId": "m18231",
+      "name": "Kevin Burns AZ",
+      "rating": 1624.72,
+      "dailyRatingChange": -12.45
+    },
+    {
+      "position": 81,
+      "playerId": "m48025",
+      "name": "Nick Mesa",
+      "rating": 1546.99,
+      "dailyRatingChange": -10.43
+    },
+    {
+      "position": 81,
+      "playerId": "m21655",
+      "name": "Alex Carlin",
+      "rating": 1546.38,
+      "dailyRatingChange": -9.3
+    },
+    {
+      "position": 81,
+      "playerId": "m58237",
+      "name": "Sid Snow",
+      "rating": 1384.3,
+      "dailyRatingChange": 1.52
+    },
+    {
+      "position": 81,
+      "playerId": "m540340",
+      "name": "Lynnea Read",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 81,
+      "playerId": "m42289",
+      "name": "Kyle Hammonds",
+      "rating": 1466.89,
+      "dailyRatingChange": -6.59
+    },
+    {
+      "position": 81,
+      "playerId": "m2869",
+      "name": "Jon Soares",
+      "rating": 1616.52,
+      "dailyRatingChange": -14.31
+    },
+    {
+      "position": 81,
+      "playerId": "m57941",
+      "name": "Niaya Nava",
+      "rating": 1423.49,
+      "dailyRatingChange": -0.17
+    },
+    {
+      "position": 81,
+      "playerId": "m45905",
+      "name": "Joel Livingston",
+      "rating": 1459.81,
+      "dailyRatingChange": -5.01
+    },
+    {
+      "position": 90,
+      "playerId": "m578595",
+      "name": "Ric Steele",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 91,
+      "playerId": "m3017",
+      "name": "Joe Soares",
+      "rating": 1500.71,
+      "dailyRatingChange": -15.17
+    },
+    {
+      "position": 91,
+      "playerId": "m60806",
+      "name": "James Fischer",
+      "rating": 1495.74,
+      "dailyRatingChange": -31.5
+    },
+    {
+      "position": 91,
+      "playerId": "m62151",
+      "name": "Kyle Erickson",
+      "rating": 1446.81,
+      "dailyRatingChange": null
+    },
+    {
+      "position": 91,
+      "playerId": "m19628",
+      "name": "Mark Kelber",
+      "rating": 1501.85,
+      "dailyRatingChange": -6.33
+    },
+    {
+      "position": 91,
+      "playerId": "m60805",
+      "name": "Amanda Williams",
+      "rating": 1385.4,
+      "dailyRatingChange": -11.11
+    },
+    {
+      "position": 96,
+      "playerId": "m44152",
+      "name": "Alex Kimble",
+      "rating": 1392.35,
+      "dailyRatingChange": 1.55
+    },
+    {
+      "position": 97,
+      "playerId": "m580589",
+      "name": "Thomas Clarkin",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 97,
+      "playerId": "m52469",
+      "name": "Tristin Harp",
+      "rating": 1330.59,
+      "dailyRatingChange": -8.64
+    },
+    {
+      "position": 99,
+      "playerId": "m47357",
+      "name": "Eric Eisenberg",
+      "rating": 1515.65,
+      "dailyRatingChange": -2.51
+    },
+    {
+      "position": 100,
+      "playerId": "m52466",
+      "name": "Louis Rulon",
+      "rating": 1585.54,
+      "dailyRatingChange": -3.5
+    }
+  ]
+}

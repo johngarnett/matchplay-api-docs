@@ -1,0 +1,22 @@
+{
+  "locationId": "13743",
+  "name": "Amigos arcade",
+  "address": "1726 E Gregory Ave, Sunnyside,Wa",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 1,
+  "relatedVenues": [],
+  "players": [
+    {
+      "id": "i161634",
+      "name": "Alec Davis",
+      "rating": 1498.62,
+      "rd": 54.1,
+      "ratingClass": "C",
+      "homeLocation": "Amigos arcade",
+      "homeLocationId": "13743",
+      "percentile": 46.55517771463176,
+      "changeDisplay": "★",
+      "changeClass": "change-new"
+    }
+  ]
+}

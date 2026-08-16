@@ -1,0 +1,263 @@
+{
+  "tournamentId": 249701,
+  "name": "Manitoba SUMMER League 2026 - JULY 23 (S01S06)",
+  "date": "2026-07-24",
+  "locationId": "12260",
+  "locationName": "Smash N Axe Arcade Disco",
+  "playerCount": 36,
+  "ratingsDate": "2026-07-24",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m15423",
+      "name": "Drew Sych",
+      "rating": 1761.61,
+      "dailyRatingChange": 8.4
+    },
+    {
+      "position": 1,
+      "playerId": "m25307",
+      "name": "Jay Woolston",
+      "rating": 1745.91,
+      "dailyRatingChange": 5.99
+    },
+    {
+      "position": 3,
+      "playerId": "m33243",
+      "name": "Tony Warzel",
+      "rating": 1632.38,
+      "dailyRatingChange": 20
+    },
+    {
+      "position": 4,
+      "playerId": "m31218",
+      "name": "John Marquez",
+      "rating": 1575.75,
+      "dailyRatingChange": 9.54
+    },
+    {
+      "position": 4,
+      "playerId": "m10870",
+      "name": "Ian Gomm",
+      "rating": 1756.6,
+      "dailyRatingChange": 0.07
+    },
+    {
+      "position": 6,
+      "playerId": "i112196",
+      "name": "Neil Carrette",
+      "rating": 1440.7,
+      "dailyRatingChange": 16.74
+    },
+    {
+      "position": 6,
+      "playerId": "m45628",
+      "name": "James Kropodra",
+      "rating": 1589.94,
+      "dailyRatingChange": 3.69
+    },
+    {
+      "position": 8,
+      "playerId": "m35972",
+      "name": "David Siwicki",
+      "rating": 1584.76,
+      "dailyRatingChange": 2.11
+    },
+    {
+      "position": 8,
+      "playerId": "m51466",
+      "name": "Tina Reno",
+      "rating": 1399.29,
+      "dailyRatingChange": 22.78
+    },
+    {
+      "position": 8,
+      "playerId": "m38312",
+      "name": "Shimon Leibl",
+      "rating": 1676.29,
+      "dailyRatingChange": -5.73
+    },
+    {
+      "position": 8,
+      "playerId": "m27081",
+      "name": "Joe Lavin",
+      "rating": 1411.65,
+      "dailyRatingChange": 16.37
+    },
+    {
+      "position": 8,
+      "playerId": "m28846",
+      "name": "Marcel Toutant",
+      "rating": 1566.3,
+      "dailyRatingChange": 2.1
+    },
+    {
+      "position": 13,
+      "playerId": "m40311",
+      "name": "Ryan Betesta",
+      "rating": 1553.34,
+      "dailyRatingChange": -0.7
+    },
+    {
+      "position": 14,
+      "playerId": "m5686",
+      "name": "Daryl Gibbons",
+      "rating": 1551.28,
+      "dailyRatingChange": -1.98
+    },
+    {
+      "position": 14,
+      "playerId": "m37828",
+      "name": "Amanda Cowie",
+      "rating": 1553.95,
+      "dailyRatingChange": -1.76
+    },
+    {
+      "position": 14,
+      "playerId": "m44943",
+      "name": "Justin Gensiorek",
+      "rating": 1541.69,
+      "dailyRatingChange": 0.67
+    },
+    {
+      "position": 14,
+      "playerId": "m27611",
+      "name": "Dan Feriolo",
+      "rating": 1533.86,
+      "dailyRatingChange": 0.71
+    },
+    {
+      "position": 18,
+      "playerId": "m546677",
+      "name": "Neil Stewart",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 18,
+      "playerId": "m4645",
+      "name": "David Miller CAN",
+      "rating": 1527.5,
+      "dailyRatingChange": -4.58
+    },
+    {
+      "position": 18,
+      "playerId": "m46181",
+      "name": "Russell Sward",
+      "rating": 1545.53,
+      "dailyRatingChange": -5.7
+    },
+    {
+      "position": 18,
+      "playerId": "m38366",
+      "name": "Trudy Bais",
+      "rating": 1500.49,
+      "dailyRatingChange": -0.84
+    },
+    {
+      "position": 18,
+      "playerId": "m40606",
+      "name": "Rod Betesta",
+      "rating": 1510.4,
+      "dailyRatingChange": -1.32
+    },
+    {
+      "position": 18,
+      "playerId": "m7152",
+      "name": "Jody Linn",
+      "rating": 1543.93,
+      "dailyRatingChange": -3.36
+    },
+    {
+      "position": 24,
+      "playerId": "m47851",
+      "name": "Scott Sullivan",
+      "rating": 1553.43,
+      "dailyRatingChange": -6.94
+    },
+    {
+      "position": 25,
+      "playerId": "m35973",
+      "name": "Samantha Siwicki",
+      "rating": 1413.02,
+      "dailyRatingChange": 3.56
+    },
+    {
+      "position": 25,
+      "playerId": "m45174",
+      "name": "Jeff Baumer",
+      "rating": 1534.55,
+      "dailyRatingChange": -4.07
+    },
+    {
+      "position": 25,
+      "playerId": "m545465",
+      "name": "Blaine Laschuk",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 25,
+      "playerId": "m42742",
+      "name": "Rob Dubecky",
+      "rating": 1622.23,
+      "dailyRatingChange": -12.49
+    },
+    {
+      "position": 25,
+      "playerId": "m557711",
+      "name": "Jessica Hamm",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 30,
+      "playerId": "m47918",
+      "name": "Jim Carrette",
+      "rating": 1447.61,
+      "dailyRatingChange": -1.94
+    },
+    {
+      "position": 30,
+      "playerId": "m59030",
+      "name": "Pamela Robertson",
+      "rating": 1374.87,
+      "dailyRatingChange": 3.32
+    },
+    {
+      "position": 30,
+      "playerId": "i112190",
+      "name": "Mike Hanssen",
+      "rating": 1449.43,
+      "dailyRatingChange": -4.19
+    },
+    {
+      "position": 33,
+      "playerId": "m29118",
+      "name": "John Bear",
+      "rating": 1504.18,
+      "dailyRatingChange": -31.87
+    },
+    {
+      "position": 34,
+      "playerId": "m581224",
+      "name": "Rob Chornley",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 35,
+      "playerId": "m566884",
+      "name": "Kelli Gregory",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 36,
+      "playerId": "m58948",
+      "name": "Jason Robertson WPG",
+      "rating": 1439.89,
+      "dailyRatingChange": -25.07
+    }
+  ]
+}

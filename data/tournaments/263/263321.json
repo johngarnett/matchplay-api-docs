@@ -1,0 +1,235 @@
+{
+  "tournamentId": 263321,
+  "name": "Bat City Monthly @ Bender July '26 (Banks)",
+  "date": "2026-07-27",
+  "locationId": "9877",
+  "locationName": "Bender Bar and Grill",
+  "playerCount": 32,
+  "ratingsDate": "2026-07-27",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m8000",
+      "name": "Robert Byers",
+      "rating": 1718.51,
+      "dailyRatingChange": 8.34
+    },
+    {
+      "position": 2,
+      "playerId": "m18830",
+      "name": "Phillip Pomeroy",
+      "rating": 1595.89,
+      "dailyRatingChange": 20.5
+    },
+    {
+      "position": 3,
+      "playerId": "m2804",
+      "name": "Jonathon Morales",
+      "rating": 1677.7,
+      "dailyRatingChange": 3.01
+    },
+    {
+      "position": 4,
+      "playerId": "m26959",
+      "name": "Robie Rowley",
+      "rating": 1642.61,
+      "dailyRatingChange": 7.71
+    },
+    {
+      "position": 5,
+      "playerId": "m475",
+      "name": "Nikolas Poklitar",
+      "rating": 1696.19,
+      "dailyRatingChange": 2.56
+    },
+    {
+      "position": 6,
+      "playerId": "m29528",
+      "name": "Brandon Borrego",
+      "rating": 1639.83,
+      "dailyRatingChange": 17.98
+    },
+    {
+      "position": 7,
+      "playerId": "m15035",
+      "name": "Amanda Fincher",
+      "rating": 1640.52,
+      "dailyRatingChange": 5.99
+    },
+    {
+      "position": 8,
+      "playerId": "m57340",
+      "name": "Bailey Brilley",
+      "rating": 1520.25,
+      "dailyRatingChange": 22.07
+    },
+    {
+      "position": 9,
+      "playerId": "m30986",
+      "name": "Neil Wilson",
+      "rating": 1591.54,
+      "dailyRatingChange": -1.27
+    },
+    {
+      "position": 10,
+      "playerId": "m45642",
+      "name": "Rob Pelliccia",
+      "rating": 1583.02,
+      "dailyRatingChange": 6.77
+    },
+    {
+      "position": 11,
+      "playerId": "m10255",
+      "name": "Trey Keng",
+      "rating": 1581.57,
+      "dailyRatingChange": 1.8
+    },
+    {
+      "position": 12,
+      "playerId": "m40931",
+      "name": "Caroline Bassett",
+      "rating": 1519.56,
+      "dailyRatingChange": 3.98
+    },
+    {
+      "position": 13,
+      "playerId": "m20287",
+      "name": "Victor Evans",
+      "rating": 1654.56,
+      "dailyRatingChange": -1.38
+    },
+    {
+      "position": 14,
+      "playerId": "m1050",
+      "name": "Nadia Didehbani",
+      "rating": 1598.76,
+      "dailyRatingChange": -1.67
+    },
+    {
+      "position": 15,
+      "playerId": "m13560",
+      "name": "Haley Bonds",
+      "rating": 1528.73,
+      "dailyRatingChange": 1.83
+    },
+    {
+      "position": 16,
+      "playerId": "m43447",
+      "name": "Schuyler Allison",
+      "rating": 1536.57,
+      "dailyRatingChange": 9.57
+    },
+    {
+      "position": 17,
+      "playerId": "m36723",
+      "name": "Nicholas de la Garza",
+      "rating": 1563.11,
+      "dailyRatingChange": 0.32
+    },
+    {
+      "position": 18,
+      "playerId": "i161151",
+      "name": "Evan Staggs",
+      "rating": 1524.65,
+      "dailyRatingChange": -1.44
+    },
+    {
+      "position": 19,
+      "playerId": "m45521",
+      "name": "Jake Staehle",
+      "rating": 1505.69,
+      "dailyRatingChange": 5.72
+    },
+    {
+      "position": 20,
+      "playerId": "m5016",
+      "name": "Wayne Parks",
+      "rating": 1543.68,
+      "dailyRatingChange": -0.57
+    },
+    {
+      "position": 21,
+      "playerId": "m60512",
+      "name": "Brian Ellison",
+      "rating": 1484.75,
+      "dailyRatingChange": 11.66
+    },
+    {
+      "position": 22,
+      "playerId": "m10693",
+      "name": "Danielle Barr",
+      "rating": 1475.4,
+      "dailyRatingChange": 0.59
+    },
+    {
+      "position": 22,
+      "playerId": "m39331",
+      "name": "Paul Young",
+      "rating": 1709.9,
+      "dailyRatingChange": -16.79
+    },
+    {
+      "position": 24,
+      "playerId": "m6273",
+      "name": "Nate Bright",
+      "rating": 1549.39,
+      "dailyRatingChange": -6.66
+    },
+    {
+      "position": 25,
+      "playerId": "m13884",
+      "name": "Valli Irvine",
+      "rating": 1520.77,
+      "dailyRatingChange": -4.76
+    },
+    {
+      "position": 26,
+      "playerId": "m22757",
+      "name": "Cayman Kai",
+      "rating": 1557,
+      "dailyRatingChange": -5.89
+    },
+    {
+      "position": 27,
+      "playerId": "m30360",
+      "name": "Kevin Fincher",
+      "rating": 1507.75,
+      "dailyRatingChange": -6.51
+    },
+    {
+      "position": 28,
+      "playerId": "m58045",
+      "name": "Bobby Mann",
+      "rating": 1392.53,
+      "dailyRatingChange": 1.42
+    },
+    {
+      "position": 29,
+      "playerId": "i71704",
+      "name": "Michael Yoder",
+      "rating": 1454.22,
+      "dailyRatingChange": -15.46
+    },
+    {
+      "position": 30,
+      "playerId": "m31332",
+      "name": "Ruben Sanchez",
+      "rating": 1505.96,
+      "dailyRatingChange": -27.43
+    },
+    {
+      "position": 31,
+      "playerId": "m2204",
+      "name": "Robert Montanez",
+      "rating": 1582.4,
+      "dailyRatingChange": -15.11
+    },
+    {
+      "position": 32,
+      "playerId": "m1314",
+      "name": "Desmond Byers",
+      "rating": 1507.33,
+      "dailyRatingChange": -21.34
+    }
+  ]
+}

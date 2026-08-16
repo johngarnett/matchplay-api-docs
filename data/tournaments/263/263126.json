@@ -1,0 +1,102 @@
+{
+  "tournamentId": 263126,
+  "name": "Propeller League Tues - side tourney night",
+  "date": "2026-07-22",
+  "locationId": "12732",
+  "locationName": "Propeller Brewing Company",
+  "playerCount": 13,
+  "ratingsDate": "2026-07-22",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m32491",
+      "name": "Adam Durling",
+      "rating": 1556.8,
+      "dailyRatingChange": 0.31
+    },
+    {
+      "position": 1,
+      "playerId": "m56164",
+      "name": "Michael Andrea",
+      "rating": 1508.63,
+      "dailyRatingChange": 6.88
+    },
+    {
+      "position": 3,
+      "playerId": "m28221",
+      "name": "Mike Vining",
+      "rating": 1501.35,
+      "dailyRatingChange": 8.1
+    },
+    {
+      "position": 3,
+      "playerId": "m5221",
+      "name": "Tom Taylor",
+      "rating": 1537.07,
+      "dailyRatingChange": 5.27
+    },
+    {
+      "position": 5,
+      "playerId": "m54282",
+      "name": "Dave Andrea",
+      "rating": 1482.05,
+      "dailyRatingChange": -0.12
+    },
+    {
+      "position": 5,
+      "playerId": "m35615",
+      "name": "Brian Audain",
+      "rating": 1580.77,
+      "dailyRatingChange": -2.34
+    },
+    {
+      "position": 7,
+      "playerId": "m52279",
+      "name": "Mike Gniewek",
+      "rating": 1598.01,
+      "dailyRatingChange": -3.46
+    },
+    {
+      "position": 7,
+      "playerId": "m28222",
+      "name": "Aaron MacNeill",
+      "rating": 1489.64,
+      "dailyRatingChange": -1.58
+    },
+    {
+      "position": 7,
+      "playerId": "m33082",
+      "name": "Riley MacDonald",
+      "rating": 1747.6,
+      "dailyRatingChange": -1.02
+    },
+    {
+      "position": 7,
+      "playerId": "m38768",
+      "name": "Ian MacDougall",
+      "rating": 1526.66,
+      "dailyRatingChange": 3.86
+    },
+    {
+      "position": 11,
+      "playerId": "m53014",
+      "name": "Ivan Osnach",
+      "rating": 1487.36,
+      "dailyRatingChange": -22.14
+    },
+    {
+      "position": 11,
+      "playerId": "m35628",
+      "name": "Edward Daniel",
+      "rating": 1515.95,
+      "dailyRatingChange": -2.19
+    },
+    {
+      "position": 11,
+      "playerId": "m38238",
+      "name": "Andrew Harper",
+      "rating": 1623.04,
+      "dailyRatingChange": 0.63
+    }
+  ]
+}

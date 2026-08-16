@@ -1,0 +1,123 @@
+{
+  "tournamentId": 264066,
+  "name": "Finals for SFGE 2026 Classics Unlimited Best Game",
+  "date": "2026-08-02",
+  "locationId": "9921",
+  "locationName": "Renaissance Atlanta Waverly Hotel & Convention Center",
+  "playerCount": 16,
+  "ratingsDate": "2026-08-02",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m23955",
+      "name": "Liam Bradley",
+      "rating": 1810.14,
+      "dailyRatingChange": -5.93
+    },
+    {
+      "position": 2,
+      "playerId": "m30549",
+      "name": "Eric Hedström",
+      "rating": 1662.3,
+      "dailyRatingChange": 21.09
+    },
+    {
+      "position": 3,
+      "playerId": "m2769",
+      "name": "Braden Gentry",
+      "rating": 1799.35,
+      "dailyRatingChange": -8.66
+    },
+    {
+      "position": 4,
+      "playerId": "m2768",
+      "name": "Stephen Gentry",
+      "rating": 1650.2,
+      "dailyRatingChange": 13.67
+    },
+    {
+      "position": 5,
+      "playerId": "m3039",
+      "name": "Roland Nadeau",
+      "rating": 1817.69,
+      "dailyRatingChange": -10.25
+    },
+    {
+      "position": 6,
+      "playerId": "m11586",
+      "name": "Dalton Ely",
+      "rating": 1863.78,
+      "dailyRatingChange": -20.44
+    },
+    {
+      "position": 7,
+      "playerId": "m51057",
+      "name": "Jonathan Zakel",
+      "rating": 1575.9,
+      "dailyRatingChange": 1.33
+    },
+    {
+      "position": 8,
+      "playerId": "m43993",
+      "name": "Christian Artieda Martinez",
+      "rating": 1592.13,
+      "dailyRatingChange": 7.28
+    },
+    {
+      "position": 9,
+      "playerId": "m7556",
+      "name": "Addison Mount",
+      "rating": 1665.72,
+      "dailyRatingChange": 5.68
+    },
+    {
+      "position": 10,
+      "playerId": "m40752",
+      "name": "Guy Pecarro",
+      "rating": 1572.93,
+      "dailyRatingChange": 1.63
+    },
+    {
+      "position": 11,
+      "playerId": "m49922",
+      "name": "Max Woo",
+      "rating": 1607.72,
+      "dailyRatingChange": 1.72
+    },
+    {
+      "position": 11,
+      "playerId": "m16444",
+      "name": "Vince Gelormine",
+      "rating": 1700.16,
+      "dailyRatingChange": 3.36
+    },
+    {
+      "position": 13,
+      "playerId": "m6257",
+      "name": "Chris Henry FL",
+      "rating": 1578.28,
+      "dailyRatingChange": -4.94
+    },
+    {
+      "position": 13,
+      "playerId": "m5967",
+      "name": "Michael Tyler",
+      "rating": 1596.55,
+      "dailyRatingChange": -4.18
+    },
+    {
+      "position": 13,
+      "playerId": "m3146",
+      "name": "Stephanie Traub",
+      "rating": 1684.99,
+      "dailyRatingChange": 4.34
+    },
+    {
+      "position": 13,
+      "playerId": "m51673",
+      "name": "John Bowker",
+      "rating": 1550.13,
+      "dailyRatingChange": -1.19
+    }
+  ]
+}

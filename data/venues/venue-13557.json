@@ -1,0 +1,125 @@
+{
+  "locationId": "13557",
+  "name": "Playground Mini Golf",
+  "address": "300 Pacific Coast Hwy #112, Huntington Beach, CA 92648, US",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 7,
+  "relatedVenues": [
+    {
+      "locationId": "12482",
+      "name": "Hyper Beer Co",
+      "address": "150 W Center Street Promenade, Anaheim, CA 92805, US",
+      "count": 28
+    },
+    {
+      "locationId": "10114",
+      "name": "Long Beach Beer Lab",
+      "address": "518 W Willow St, Long Beach, CA 90806, US",
+      "count": 5
+    },
+    {
+      "locationId": "7481",
+      "name": "Electric Bat Arcade",
+      "address": "25 W Southern Ave, Tempe, AZ 85282, US",
+      "count": 1
+    },
+    {
+      "locationId": "11143",
+      "name": "Hermosa Brewing",
+      "address": "1855 Del Amo Blvd, Torrance, CA 90501, US",
+      "count": 1
+    },
+    {
+      "locationId": "11469",
+      "name": "EightyTwo",
+      "address": "707 East 4th Place, Los Angeles, CA 90013, US",
+      "count": 1
+    }
+  ],
+  "players": [
+    {
+      "id": "i104052",
+      "name": "Andrew Tenbrink",
+      "rating": 1692.23,
+      "rd": 34.82,
+      "ratingClass": "A",
+      "homeLocation": "Playground Mini Golf",
+      "homeLocationId": "13557",
+      "percentile": 96.08701728234034,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m23777",
+      "name": "Kyle Nahas",
+      "rating": 1571.28,
+      "rd": 20.29,
+      "ratingClass": "B",
+      "homeLocation": "Hyper Beer Co",
+      "homeLocationId": "12482",
+      "percentile": 73.94139842549029,
+      "changeDisplay": "+6.2",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m60995",
+      "name": "robert strahler",
+      "rating": 1531.96,
+      "rd": 31.12,
+      "ratingClass": "B",
+      "homeLocation": "Hermosa Brewing",
+      "homeLocationId": "11143",
+      "percentile": 59.85000232915638,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m26091",
+      "name": "Hans Milberger",
+      "rating": 1519.14,
+      "rd": 24.87,
+      "ratingClass": "B",
+      "homeLocation": "Hyper Beer Co",
+      "homeLocationId": "12482",
+      "percentile": 54.80039129827177,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i117515",
+      "name": "Shawn Habibi",
+      "rating": 1500.58,
+      "rd": 65.66,
+      "ratingClass": "B",
+      "homeLocation": "Playground Mini Golf",
+      "homeLocationId": "13557",
+      "percentile": 47.32379931988634,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i92043",
+      "name": "Micah Womack",
+      "rating": 1469.91,
+      "rd": 38.95,
+      "ratingClass": "C",
+      "homeLocation": "Playground Mini Golf",
+      "homeLocationId": "13557",
+      "percentile": 34.85349606372572,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m56257",
+      "name": "Lisa Gaddis",
+      "rating": 1383.91,
+      "rd": 28.54,
+      "ratingClass": "D",
+      "homeLocation": "Hyper Beer Co",
+      "homeLocationId": "12482",
+      "percentile": 9.111659756836074,
+      "changeDisplay": "+30.0",
+      "changeClass": "change-positive"
+    }
+  ]
+}

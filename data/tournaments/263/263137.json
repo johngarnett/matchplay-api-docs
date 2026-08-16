@@ -1,0 +1,39 @@
+{
+  "tournamentId": 263137,
+  "name": "Side Tournament for The LockBar League: Season 7",
+  "date": "2026-07-22",
+  "locationId": "8817",
+  "locationName": "The Library Square Pub",
+  "playerCount": 4,
+  "ratingsDate": "2026-07-22",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "i24592",
+      "name": "Daryl MacKenzie",
+      "rating": 1416.18,
+      "dailyRatingChange": 18.91
+    },
+    {
+      "position": 2,
+      "playerId": "m2694",
+      "name": "Casey Billett",
+      "rating": 1470.86,
+      "dailyRatingChange": 5.54
+    },
+    {
+      "position": 3,
+      "playerId": "m31217",
+      "name": "Thomas Henderson",
+      "rating": 1615.07,
+      "dailyRatingChange": -7.75
+    },
+    {
+      "position": 4,
+      "playerId": "m7251",
+      "name": "Darse Carruthers",
+      "rating": 1469.98,
+      "dailyRatingChange": -8.33
+    }
+  ]
+}

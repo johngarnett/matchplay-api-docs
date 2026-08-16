@@ -1,0 +1,239 @@
+{
+  "locationId": "13178",
+  "name": "SuperPlay",
+  "address": "9300 SW Beaverton Hillsdale Hwy, Beaverton, OR 97005, US",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 14,
+  "relatedVenues": [
+    {
+      "locationId": "5246",
+      "name": "Next Level Pinball Museum",
+      "address": "1458 NE 25th Ave, Hillsboro, OR 97124, USA",
+      "count": 104
+    },
+    {
+      "locationId": "9714",
+      "name": "Special When Lit Pinball",
+      "address": "15685 SW 116th Ave King City, OR 97224",
+      "count": 63
+    },
+    {
+      "locationId": "7334",
+      "name": "Ground Kontrol Classic Arcade",
+      "address": "115 NW 5th Ave, Portland, OR 97209, US",
+      "count": 21
+    },
+    {
+      "locationId": "6346",
+      "name": "NWPAS",
+      "address": "",
+      "count": 5
+    },
+    {
+      "locationId": "6453",
+      "name": "Millennium Place",
+      "address": "",
+      "count": 3
+    },
+    {
+      "locationId": "7559",
+      "name": "Slingshot Lounge",
+      "address": "5532 SE Center, Portland, OR 97206, US",
+      "count": 2
+    },
+    {
+      "locationId": "7749",
+      "name": "Merry Time Restaurant & Lounge",
+      "address": "995 Marine Drive, Astoria, OR 97103, US",
+      "count": 2
+    },
+    {
+      "locationId": "8271",
+      "name": "Rezzanine Esports",
+      "address": "1025 Washington Pike, Bridgeville, PA 15017, US",
+      "count": 2
+    },
+    {
+      "locationId": "9120",
+      "name": "Level Up Arcade",
+      "address": "1290 Oak St, Eugene, OR, 97401, US",
+      "count": 2
+    },
+    {
+      "locationId": "9540",
+      "name": "The Fixin' To",
+      "address": "8218 North Lombard Street, Portland, OR 97203, US",
+      "count": 2
+    }
+  ],
+  "players": [
+    {
+      "id": "m31992",
+      "name": "Noah Sicard",
+      "rating": 1805.63,
+      "rd": 21.48,
+      "ratingClass": "Master",
+      "homeLocation": "SuperPlay",
+      "homeLocationId": "13178",
+      "percentile": 99.59472678995668,
+      "changeDisplay": "+1.4",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m14940",
+      "name": "Derek Jennings",
+      "rating": 1744.77,
+      "rd": 21.28,
+      "ratingClass": "Expert",
+      "homeLocation": "Next Level Pinball Museum",
+      "homeLocationId": "5246",
+      "percentile": 98.56989798295058,
+      "changeDisplay": "-1.2",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m56494",
+      "name": "Joseph Rembecki",
+      "rating": 1664.42,
+      "rd": 21.37,
+      "ratingClass": "A",
+      "homeLocation": "Special When Lit Pinball",
+      "homeLocationId": "9714",
+      "percentile": 93.56687007965715,
+      "changeDisplay": "-3.1",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m23091",
+      "name": "Nick Elliott",
+      "rating": 1659.88,
+      "rd": 16.45,
+      "ratingClass": "A",
+      "homeLocation": "Special When Lit Pinball",
+      "homeLocationId": "9714",
+      "percentile": 93.08240555270882,
+      "changeDisplay": "+5.4",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "i131540",
+      "name": "Rob Polivka",
+      "rating": 1615.83,
+      "rd": 37.96,
+      "ratingClass": "A",
+      "homeLocation": "Gift",
+      "homeLocationId": "12907",
+      "percentile": 85.69897982950575,
+      "changeDisplay": "+9.7",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m35230",
+      "name": "Joe Sachs",
+      "rating": 1591.06,
+      "rd": 20.76,
+      "ratingClass": "B",
+      "homeLocation": "Next Level Pinball Museum",
+      "homeLocationId": "5246",
+      "percentile": 79.75031443611124,
+      "changeDisplay": "+3.6",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m27863",
+      "name": "Michael Dorland",
+      "rating": 1586.36,
+      "rd": 24.83,
+      "ratingClass": "B",
+      "homeLocation": "Next Level Pinball Museum",
+      "homeLocationId": "5246",
+      "percentile": 78.42735361252154,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m50363",
+      "name": "Chris Grucza",
+      "rating": 1552,
+      "rd": 21.3,
+      "ratingClass": "B",
+      "homeLocation": "Next Level Pinball Museum",
+      "homeLocationId": "5246",
+      "percentile": 67.52224344342478,
+      "changeDisplay": "+11.0",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m50450",
+      "name": "Andrew Stone",
+      "rating": 1522.79,
+      "rd": 25.78,
+      "ratingClass": "B",
+      "homeLocation": "Next Level Pinball Museum",
+      "homeLocationId": "5246",
+      "percentile": 56.258443191875905,
+      "changeDisplay": "-7.2",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "i82617",
+      "name": "Aidan Donohue",
+      "rating": 1520.58,
+      "rd": 29.44,
+      "ratingClass": "B",
+      "homeLocation": "Next Level Pinball Museum",
+      "homeLocationId": "5246",
+      "percentile": 55.40131364419807,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i121096",
+      "name": "Dylan Sachs",
+      "rating": 1472.42,
+      "rd": 29.48,
+      "ratingClass": "C",
+      "homeLocation": "Next Level Pinball Museum",
+      "homeLocationId": "5246",
+      "percentile": 35.82708343038152,
+      "changeDisplay": "+8.9",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "i117760",
+      "name": "Stephanie Keams",
+      "rating": 1470.37,
+      "rd": 25.31,
+      "ratingClass": "C",
+      "homeLocation": "Next Level Pinball Museum",
+      "homeLocationId": "5246",
+      "percentile": 35.01187869753576,
+      "changeDisplay": "-7.7",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m51747",
+      "name": "Mark Catalfano",
+      "rating": 1444.41,
+      "rd": 21.43,
+      "ratingClass": "C",
+      "homeLocation": "Next Level Pinball Museum",
+      "homeLocationId": "5246",
+      "percentile": 25.220105277868356,
+      "changeDisplay": "+2.4",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "i157584",
+      "name": "Madison Taylor",
+      "rating": 1391.98,
+      "rd": 57.9,
+      "ratingClass": "D",
+      "homeLocation": "SuperPlay",
+      "homeLocationId": "13178",
+      "percentile": 10.67219453114082,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

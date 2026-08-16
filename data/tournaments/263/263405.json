@@ -1,0 +1,102 @@
+{
+  "tournamentId": 263405,
+  "name": "Tokyo Club Pinball League - Session 6 Meet #8",
+  "date": "2026-07-24",
+  "locationId": "11130",
+  "locationName": "The Tokyo Club",
+  "playerCount": 13,
+  "ratingsDate": "2026-07-24",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m10859",
+      "name": "Jacob Rogers",
+      "rating": 1706.52,
+      "dailyRatingChange": 16.64
+    },
+    {
+      "position": 2,
+      "playerId": "m28264",
+      "name": "Howie Ambrus",
+      "rating": 1517.17,
+      "dailyRatingChange": 6.12
+    },
+    {
+      "position": 2,
+      "playerId": "m56996",
+      "name": "Ryan Woods MO",
+      "rating": 1594.32,
+      "dailyRatingChange": -0.93
+    },
+    {
+      "position": 2,
+      "playerId": "i151146",
+      "name": "John S Heinz",
+      "rating": 1545.97,
+      "dailyRatingChange": 6.3
+    },
+    {
+      "position": 5,
+      "playerId": "m24498",
+      "name": "Michael Cunningham",
+      "rating": 1510.02,
+      "dailyRatingChange": 1.8
+    },
+    {
+      "position": 6,
+      "playerId": "m49059",
+      "name": "Joe Fulca",
+      "rating": 1602.62,
+      "dailyRatingChange": -3
+    },
+    {
+      "position": 6,
+      "playerId": "m50873",
+      "name": "Tammy Brewer",
+      "rating": 1302.37,
+      "dailyRatingChange": 8.57
+    },
+    {
+      "position": 6,
+      "playerId": "m39400",
+      "name": "Dalton Perry",
+      "rating": 1534.22,
+      "dailyRatingChange": -1.94
+    },
+    {
+      "position": 9,
+      "playerId": "i90002",
+      "name": "Rob Parker MO",
+      "rating": 1600.09,
+      "dailyRatingChange": -14.67
+    },
+    {
+      "position": 10,
+      "playerId": "i155804",
+      "name": "Josh Nichols",
+      "rating": 1433.93,
+      "dailyRatingChange": -14.2
+    },
+    {
+      "position": 10,
+      "playerId": "i108776",
+      "name": "Amy Meier",
+      "rating": 1450.53,
+      "dailyRatingChange": -3.49
+    },
+    {
+      "position": 12,
+      "playerId": "m35548",
+      "name": "Brandy Ambrus",
+      "rating": 1325.01,
+      "dailyRatingChange": 1.29
+    },
+    {
+      "position": 13,
+      "playerId": "m28816",
+      "name": "Tricia Cunningham",
+      "rating": 1419.17,
+      "dailyRatingChange": -6.92
+    }
+  ]
+}

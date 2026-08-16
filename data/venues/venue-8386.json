@@ -1,0 +1,419 @@
+{
+  "locationId": "8386",
+  "name": "Tahoe Paddle Sports",
+  "address": "230 Village Blvd, Incline Village, NV 89451, US",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 29,
+  "relatedVenues": [
+    {
+      "locationId": "8514",
+      "name": "Press Start",
+      "address": "600 S Center St, Reno, NV 89501, US",
+      "count": 110
+    },
+    {
+      "locationId": "9024",
+      "name": "Elbow Room",
+      "address": "2002 Victorian Ave, Sparks NV 89431",
+      "count": 94
+    },
+    {
+      "locationId": "11524",
+      "name": "Comic Kingdom",
+      "address": "2700 S. Virginia St. Reno, NV 89502",
+      "count": 85
+    },
+    {
+      "locationId": "12991",
+      "name": "Club Cal Neva",
+      "address": "38 E 2nd St, Reno, NV 89501, US",
+      "count": 45
+    },
+    {
+      "locationId": "11603",
+      "name": "Playfield Sports & Games",
+      "address": "235 Lake Street Reno, NV 89501",
+      "count": 24
+    },
+    {
+      "locationId": "12818",
+      "name": "Reno Pinball Underground",
+      "address": "1274 S Virginia St, Reno, NV 89502, US",
+      "count": 24
+    },
+    {
+      "locationId": "13043",
+      "name": "GSPF",
+      "address": "413 E. Rockford Street, Lodi, CA 95240",
+      "count": 8
+    },
+    {
+      "locationId": "5173",
+      "name": "The Flipper Room",
+      "address": "1033 Shary Cir, Concord, CA 94518, USA",
+      "count": 6
+    },
+    {
+      "locationId": "4804",
+      "name": "District 82 Pinball",
+      "address": "800 O Keefe Rd, De Pere, WI 54115, USA",
+      "count": 5
+    },
+    {
+      "locationId": "6346",
+      "name": "NWPAS",
+      "address": "",
+      "count": 5
+    }
+  ],
+  "players": [
+    {
+      "id": "m30143",
+      "name": "Brandon Hart",
+      "rating": 1767.83,
+      "rd": 17.98,
+      "ratingClass": "Expert",
+      "homeLocation": "Press Start",
+      "homeLocationId": "8514",
+      "percentile": 99.14752876508129,
+      "changeDisplay": "+7.5",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m31937",
+      "name": "Jeffrey Neumann",
+      "rating": 1729.51,
+      "rd": 18.84,
+      "ratingClass": "Expert",
+      "homeLocation": "Press Start",
+      "homeLocationId": "8514",
+      "percentile": 98.13667489635253,
+      "changeDisplay": "+1.2",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m11029",
+      "name": "Michael LaFrieda",
+      "rating": 1657.88,
+      "rd": 15.09,
+      "ratingClass": "A",
+      "homeLocation": "Elbow Room",
+      "homeLocationId": "9024",
+      "percentile": 92.78893184888433,
+      "changeDisplay": "+9.1",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m23456",
+      "name": "Anthony Spatucci",
+      "rating": 1612.75,
+      "rd": 20.52,
+      "ratingClass": "A",
+      "homeLocation": "Tahoe Paddle Sports",
+      "homeLocationId": "8386",
+      "percentile": 85.00489122839707,
+      "changeDisplay": "+5.1",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m50326",
+      "name": "Patrick Heath",
+      "rating": 1605.78,
+      "rd": 15.44,
+      "ratingClass": "A",
+      "homeLocation": "Elbow Room",
+      "homeLocationId": "9024",
+      "percentile": 83.34187357339172,
+      "changeDisplay": "+6.5",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m45548",
+      "name": "Ashton Hunter",
+      "rating": 1605.72,
+      "rd": 18.46,
+      "ratingClass": "A",
+      "homeLocation": "Tahoe Paddle Sports",
+      "homeLocationId": "8386",
+      "percentile": 83.31858200959613,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m49746",
+      "name": "Goran Loncar",
+      "rating": 1602.53,
+      "rd": 19.54,
+      "ratingClass": "A",
+      "homeLocation": "The Flipper Room",
+      "homeLocationId": "5173",
+      "percentile": 82.61517678296921,
+      "changeDisplay": "+6.4",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m36440",
+      "name": "mila nicolas",
+      "rating": 1589.91,
+      "rd": 33.45,
+      "ratingClass": "B",
+      "homeLocation": "Tahoe Paddle Sports",
+      "homeLocationId": "8386",
+      "percentile": 79.42889085573205,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m42327",
+      "name": "Ryan Lant",
+      "rating": 1586.37,
+      "rd": 24.51,
+      "ratingClass": "B",
+      "homeLocation": "Tahoe Paddle Sports",
+      "homeLocationId": "8386",
+      "percentile": 78.43667023803978,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m42355",
+      "name": "Tyler Lant",
+      "rating": 1575.85,
+      "rd": 24.19,
+      "ratingClass": "B",
+      "homeLocation": "Tahoe Paddle Sports",
+      "homeLocationId": "8386",
+      "percentile": 75.43205850840825,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m40982",
+      "name": "Michael Pelster",
+      "rating": 1575.3,
+      "rd": 16.75,
+      "ratingClass": "B",
+      "homeLocation": "Elbow Room",
+      "homeLocationId": "9024",
+      "percentile": 75.20380118321144,
+      "changeDisplay": "+0.0",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m27354",
+      "name": "Tammy Thiel",
+      "rating": 1567.56,
+      "rd": 15.5,
+      "ratingClass": "B",
+      "homeLocation": "Elbow Room",
+      "homeLocationId": "9024",
+      "percentile": 72.69297060604649,
+      "changeDisplay": "-8.1",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m55715",
+      "name": "Randy Cronin",
+      "rating": 1560.74,
+      "rd": 30.88,
+      "ratingClass": "B",
+      "homeLocation": "Tahoe Paddle Sports",
+      "homeLocationId": "8386",
+      "percentile": 70.54083011133368,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m37904",
+      "name": "Scarlett Spatucci",
+      "rating": 1553.26,
+      "rd": 26.42,
+      "ratingClass": "B",
+      "homeLocation": "Tahoe Paddle Sports",
+      "homeLocationId": "8386",
+      "percentile": 68.0253412214096,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m30230",
+      "name": "Aaron Johnston NV",
+      "rating": 1550.03,
+      "rd": 15.94,
+      "ratingClass": "B",
+      "homeLocation": "Elbow Room",
+      "homeLocationId": "9024",
+      "percentile": 66.71169702333815,
+      "changeDisplay": "+2.7",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m46188",
+      "name": "George Marshall",
+      "rating": 1541.39,
+      "rd": 19.01,
+      "ratingClass": "B",
+      "homeLocation": "Tahoe Paddle Sports",
+      "homeLocationId": "8386",
+      "percentile": 63.64652722783808,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m45878",
+      "name": "Amber Durfee",
+      "rating": 1535.5,
+      "rd": 20.03,
+      "ratingClass": "B",
+      "homeLocation": "Tahoe Paddle Sports",
+      "homeLocationId": "8386",
+      "percentile": 61.205571342059905,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m41707",
+      "name": "CJ Milholland",
+      "rating": 1529.94,
+      "rd": 31.07,
+      "ratingClass": "B",
+      "homeLocation": "Tahoe Paddle Sports",
+      "homeLocationId": "8386",
+      "percentile": 59.01150603251503,
+      "changeDisplay": "-10.0",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m35483",
+      "name": "Devin MC",
+      "rating": 1528.73,
+      "rd": 24.68,
+      "ratingClass": "B",
+      "homeLocation": "Tahoe Paddle Sports",
+      "homeLocationId": "8386",
+      "percentile": 58.52704150556668,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m41243",
+      "name": "Justin Upham",
+      "rating": 1528,
+      "rd": 19.45,
+      "ratingClass": "B",
+      "homeLocation": "Press Start",
+      "homeLocationId": "8514",
+      "percentile": 58.23822611450132,
+      "changeDisplay": "-1.7",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m26109",
+      "name": "Rob Kalbs",
+      "rating": 1519.05,
+      "rd": 26.71,
+      "ratingClass": "B",
+      "homeLocation": "Tahoe Paddle Sports",
+      "homeLocationId": "8386",
+      "percentile": 54.74449154516235,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m34248",
+      "name": "Marcos Gaeta",
+      "rating": 1510.32,
+      "rd": 27.67,
+      "ratingClass": "B",
+      "homeLocation": "The Detour",
+      "homeLocationId": "11373",
+      "percentile": 51.37653142031956,
+      "changeDisplay": "-1.3",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m34075",
+      "name": "Geoff Klemens",
+      "rating": 1501.55,
+      "rd": 29.36,
+      "ratingClass": "B",
+      "homeLocation": "Tahoe Paddle Sports",
+      "homeLocationId": "8386",
+      "percentile": 47.752364093725255,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m41007",
+      "name": "Kirsten Lant",
+      "rating": 1498,
+      "rd": 24.1,
+      "ratingClass": "C",
+      "homeLocation": "Tahoe Paddle Sports",
+      "homeLocationId": "8386",
+      "percentile": 46.31760376391671,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m41015",
+      "name": "Chris Powell",
+      "rating": 1493.87,
+      "rd": 28.2,
+      "ratingClass": "C",
+      "homeLocation": "Tahoe Paddle Sports",
+      "homeLocationId": "8386",
+      "percentile": 44.68719429822518,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m43006",
+      "name": "Luca Upham",
+      "rating": 1453.73,
+      "rd": 41.76,
+      "ratingClass": "C",
+      "homeLocation": "Tahoe Paddle Sports",
+      "homeLocationId": "8386",
+      "percentile": 28.574090464433784,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m12614",
+      "name": "Stacee LaFrieda",
+      "rating": 1428.09,
+      "rd": 19.93,
+      "ratingClass": "C",
+      "homeLocation": "Comic Kingdom",
+      "homeLocationId": "11524",
+      "percentile": 19.99813667489635,
+      "changeDisplay": "+8.7",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "i156464",
+      "name": "Jack AuCoin",
+      "rating": null,
+      "rd": null,
+      "ratingClass": "N/A",
+      "homeLocation": "Tahoe Paddle Sports",
+      "homeLocationId": "8386",
+      "percentile": null,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i109559",
+      "name": "Joe Nicolas",
+      "rating": null,
+      "rd": null,
+      "ratingClass": "N/A",
+      "homeLocation": "Tahoe Paddle Sports",
+      "homeLocationId": "8386",
+      "percentile": null,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

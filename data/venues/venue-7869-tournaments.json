@@ -1,0 +1,40 @@
+{
+  "locationId": "7869",
+  "venueName": "Bolo's Bar & Grill",
+  "venueAddress": "116 S Best Road, Spokane Valley, WA 99216, US",
+  "tournaments": [
+    {
+      "id": 262908,
+      "name": "Bolos Pinball Tournament",
+      "date": "7/19/2026",
+      "playerCount": 6,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m24351",
+          "name": "John Cambareri",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "p265874",
+          "name": "Beau",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "p351249",
+          "name": "ash",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "p269166",
+          "name": "Jason",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

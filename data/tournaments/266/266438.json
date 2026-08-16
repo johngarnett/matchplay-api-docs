@@ -1,0 +1,32 @@
+{
+  "tournamentId": 266438,
+  "name": "Finals for Stern Army FlipperGaraget månadstävling augusti 2026",
+  "date": "2026-08-10",
+  "locationId": "6531",
+  "locationName": "FlipperGaraget",
+  "playerCount": 3,
+  "ratingsDate": "2026-08-10",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "i88389",
+      "name": "Juha Vierola",
+      "rating": 1545.8,
+      "dailyRatingChange": 7.04
+    },
+    {
+      "position": 2,
+      "playerId": "m7949",
+      "name": "Joakim Sjöblom",
+      "rating": 1629.84,
+      "dailyRatingChange": 5.58
+    },
+    {
+      "position": 3,
+      "playerId": "m29592",
+      "name": "Theo Söderström",
+      "rating": 1599.98,
+      "dailyRatingChange": 3.01
+    }
+  ]
+}

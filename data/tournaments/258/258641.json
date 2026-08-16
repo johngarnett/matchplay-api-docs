@@ -1,0 +1,39 @@
+{
+  "tournamentId": 258641,
+  "name": "TRANSFORMERS Launch Party at Decades Arcade - FINALS",
+  "date": "2026-07-25",
+  "locationId": "11175",
+  "locationName": "Decades Arcade",
+  "playerCount": 4,
+  "ratingsDate": "2026-07-25",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m4623",
+      "name": "Daniel Purdy",
+      "rating": 1755.13,
+      "dailyRatingChange": 3.69
+    },
+    {
+      "position": 2,
+      "playerId": "i63292",
+      "name": "Nels Simon",
+      "rating": 1552.37,
+      "dailyRatingChange": 18.56
+    },
+    {
+      "position": 3,
+      "playerId": "m15236",
+      "name": "Mick Cavanaugh",
+      "rating": 1597.22,
+      "dailyRatingChange": -0.64
+    },
+    {
+      "position": 4,
+      "playerId": "m38293",
+      "name": "Kris Turpin",
+      "rating": 1591.94,
+      "dailyRatingChange": -8.25
+    }
+  ]
+}

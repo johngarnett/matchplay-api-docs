@@ -1,0 +1,53 @@
+{
+  "tournamentId": 259620,
+  "name": "Flip frenzy @ 1up Arcade and Bar 08/02/2026",
+  "date": "2026-08-02",
+  "locationId": "9838",
+  "locationName": "1UP Arcade & Pub",
+  "playerCount": 6,
+  "ratingsDate": "2026-08-02",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "i131665",
+      "name": "Phil Badger",
+      "rating": 1622.72,
+      "dailyRatingChange": 10.33
+    },
+    {
+      "position": 2,
+      "playerId": "m49972",
+      "name": "Carl Mailloux",
+      "rating": 1610.28,
+      "dailyRatingChange": 6.66
+    },
+    {
+      "position": 2,
+      "playerId": "m6855",
+      "name": "Mike Oehler",
+      "rating": 1543.22,
+      "dailyRatingChange": 12.23
+    },
+    {
+      "position": 4,
+      "playerId": "i131673",
+      "name": "Brandon Bush",
+      "rating": 1486.94,
+      "dailyRatingChange": -1.61
+    },
+    {
+      "position": 5,
+      "playerId": "i160010",
+      "name": "Kyle Simard",
+      "rating": 1397.81,
+      "dailyRatingChange": null
+    },
+    {
+      "position": 6,
+      "playerId": "i154866",
+      "name": "Cindy Lavallee",
+      "rating": 1427.46,
+      "dailyRatingChange": -36.92
+    }
+  ]
+}

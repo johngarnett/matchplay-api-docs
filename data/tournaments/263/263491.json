@@ -1,0 +1,81 @@
+{
+  "tournamentId": 263491,
+  "name": "Flower City Belles Match Play",
+  "date": "2026-07-24",
+  "locationId": "8110",
+  "locationName": "Rochester Pinball Collective",
+  "playerCount": 10,
+  "ratingsDate": "2026-07-24",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m574",
+      "name": "Stephanie Guida",
+      "rating": 1613.82,
+      "dailyRatingChange": 9.76
+    },
+    {
+      "position": 2,
+      "playerId": "m30338",
+      "name": "Amy Murphy",
+      "rating": 1469.64,
+      "dailyRatingChange": 14.23
+    },
+    {
+      "position": 2,
+      "playerId": "m33825",
+      "name": "Emilia Connelly",
+      "rating": 1599.36,
+      "dailyRatingChange": 5.18
+    },
+    {
+      "position": 4,
+      "playerId": "m18710",
+      "name": "Emily Felvus",
+      "rating": 1509.26,
+      "dailyRatingChange": 7.79
+    },
+    {
+      "position": 5,
+      "playerId": "m46772",
+      "name": "Tarren Williams",
+      "rating": 1491.63,
+      "dailyRatingChange": 1.91
+    },
+    {
+      "position": 6,
+      "playerId": "m39980",
+      "name": "Pamela Maglier",
+      "rating": 1419.36,
+      "dailyRatingChange": -2.77
+    },
+    {
+      "position": 6,
+      "playerId": "m581210",
+      "name": "Alicia Walters",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 8,
+      "playerId": "m581211",
+      "name": "Addison Walters",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 8,
+      "playerId": "m581212",
+      "name": "Miranda Johncox",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 10,
+      "playerId": "m581213",
+      "name": "Chloe Johncox",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

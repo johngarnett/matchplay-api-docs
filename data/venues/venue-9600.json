@@ -1,0 +1,269 @@
+{
+  "locationId": "9600",
+  "name": "The Mighty Axe - TO",
+  "address": "215 N. Moorpark Rd., Suite i, Thousand Oaks, CA",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 17,
+  "relatedVenues": [
+    {
+      "locationId": "5464",
+      "name": "AYCE Gogi Korean BBQ & Pinball",
+      "address": "6705 Fallbrook Avenue, West Hills, CA 91307, US",
+      "count": 42
+    },
+    {
+      "locationId": "10178",
+      "name": "Moby’s On Main",
+      "address": "369 E Main St, Ventura, CA 93001, US",
+      "count": 9
+    },
+    {
+      "locationId": "9418",
+      "name": "AYCE Gogi Korean BBQ & Pinball",
+      "address": "7128 Van Nuys Blvd, Los Angeles, CA 91405, US",
+      "count": 3
+    },
+    {
+      "locationId": "4804",
+      "name": "District 82 Pinball",
+      "address": "800 O Keefe Rd, De Pere, WI 54115, USA",
+      "count": 2
+    },
+    {
+      "locationId": "6346",
+      "name": "NWPAS",
+      "address": "",
+      "count": 2
+    },
+    {
+      "locationId": "5785",
+      "name": "Delaware Pinball Collective",
+      "address": "1100 First State Blvd. Wilmington, DE 19804",
+      "count": 1
+    },
+    {
+      "locationId": "10114",
+      "name": "Long Beach Beer Lab",
+      "address": "518 W Willow St, Long Beach, CA 90806, US",
+      "count": 1
+    },
+    {
+      "locationId": "10939",
+      "name": "Millennium Place",
+      "address": "2000 Premier Way, Sherwood Park, AB",
+      "count": 1
+    },
+    {
+      "locationId": "12242",
+      "name": "Lights Out Arcade at Santa Maria Billiards Lounge",
+      "address": "1931 S Thornburg ST Santa Maria, CA 93458",
+      "count": 1
+    }
+  ],
+  "players": [
+    {
+      "id": "m19366",
+      "name": "Gary Brown",
+      "rating": 1774.84,
+      "rd": 23.89,
+      "ratingClass": "Expert",
+      "homeLocation": "AYCE Gogi Korean BBQ & Pinball",
+      "homeLocationId": "5464",
+      "percentile": 99.23137839474543,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i123907",
+      "name": "Dustin Kopel",
+      "rating": 1705.5,
+      "rd": 30.14,
+      "ratingClass": "Expert",
+      "homeLocation": "The Mighty Axe - TO",
+      "homeLocationId": "9600",
+      "percentile": 96.90688032794522,
+      "changeDisplay": "-0.1",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m7344",
+      "name": "Bob Matthews",
+      "rating": 1688,
+      "rd": 25.53,
+      "ratingClass": "A",
+      "homeLocation": "District 82 Pinball",
+      "homeLocationId": "4804",
+      "percentile": 95.77491032747939,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m36918",
+      "name": "Kyle Burnett",
+      "rating": 1650.37,
+      "rd": 31.23,
+      "ratingClass": "A",
+      "homeLocation": "The Mighty Axe - TO",
+      "homeLocationId": "9600",
+      "percentile": 91.7827362929147,
+      "changeDisplay": "-8.6",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "i127934",
+      "name": "Shawn Raft",
+      "rating": 1566.43,
+      "rd": 31.1,
+      "ratingClass": "B",
+      "homeLocation": "The Mighty Axe - TO",
+      "homeLocationId": "9600",
+      "percentile": 72.41813015325849,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m40297",
+      "name": "Josh Posey",
+      "rating": 1563.21,
+      "rd": 26.96,
+      "ratingClass": "B",
+      "homeLocation": "Moby’s On Main",
+      "homeLocationId": "10178",
+      "percentile": 71.37932640797503,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m17064",
+      "name": "David Weeks",
+      "rating": 1556.19,
+      "rd": 30.11,
+      "ratingClass": "B",
+      "homeLocation": "The Mighty Axe - TO",
+      "homeLocationId": "9600",
+      "percentile": 69.07811990497041,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m40668",
+      "name": "Trent Barnhart",
+      "rating": 1555.29,
+      "rd": 25.48,
+      "ratingClass": "B",
+      "homeLocation": "The Mighty Axe - TO",
+      "homeLocationId": "9600",
+      "percentile": 68.76135463735035,
+      "changeDisplay": "+11.7",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m38216",
+      "name": "Ryan Bradley",
+      "rating": 1540.42,
+      "rd": 34.7,
+      "ratingClass": "B",
+      "homeLocation": "The Mighty Axe - TO",
+      "homeLocationId": "9600",
+      "percentile": 63.29249545814506,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m56179",
+      "name": "Zac Pritchard",
+      "rating": 1536.01,
+      "rd": 27.61,
+      "ratingClass": "B",
+      "homeLocation": "The Mighty Axe - TO",
+      "homeLocationId": "9600",
+      "percentile": 61.405878790702005,
+      "changeDisplay": "-1.8",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m41539",
+      "name": "Jesse Koehn",
+      "rating": 1526.34,
+      "rd": 38.49,
+      "ratingClass": "B",
+      "homeLocation": "The Mighty Axe - TO",
+      "homeLocationId": "9600",
+      "percentile": 57.558112451670006,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i34607",
+      "name": "Robert Williams",
+      "rating": 1484.88,
+      "rd": 31.72,
+      "ratingClass": "C",
+      "homeLocation": "The Mighty Axe - TO",
+      "homeLocationId": "9600",
+      "percentile": 40.83942795919318,
+      "changeDisplay": "+2.5",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "i60989",
+      "name": "Patrick Brady",
+      "rating": 1465.21,
+      "rd": 51.2,
+      "ratingClass": "C",
+      "homeLocation": "The Mighty Axe - TO",
+      "homeLocationId": "9600",
+      "percentile": 32.93427120696884,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m49251",
+      "name": "Ron Lam",
+      "rating": 1431.24,
+      "rd": 27.51,
+      "ratingClass": "C",
+      "homeLocation": "AYCE Gogi Korean BBQ & Pinball",
+      "homeLocationId": "5464",
+      "percentile": 20.957749103274796,
+      "changeDisplay": "-12.2",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "i79060",
+      "name": "David Bennett",
+      "rating": 1427.61,
+      "rd": 25.41,
+      "ratingClass": "C",
+      "homeLocation": "AYCE Gogi Korean BBQ & Pinball",
+      "homeLocationId": "5464",
+      "percentile": 19.881678855918388,
+      "changeDisplay": "+6.8",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m53199",
+      "name": "Ryan Benson LA",
+      "rating": 1423.12,
+      "rd": 24.75,
+      "ratingClass": "C",
+      "homeLocation": "AYCE Gogi Korean BBQ & Pinball",
+      "homeLocationId": "5464",
+      "percentile": 18.540084781292215,
+      "changeDisplay": "+5.7",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "i123906",
+      "name": "Eran Karoly",
+      "rating": 1381.24,
+      "rd": 48.33,
+      "ratingClass": "D",
+      "homeLocation": "The Mighty Axe - TO",
+      "homeLocationId": "9600",
+      "percentile": 8.501420785391531,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

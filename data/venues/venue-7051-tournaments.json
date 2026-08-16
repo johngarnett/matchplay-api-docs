@@ -1,0 +1,44 @@
+{
+  "locationId": "7051",
+  "venueName": "Anderson Tap House",
+  "venueAddress": "7480 Beechmont Ave, Cincinnati, OH 45255, USA",
+  "tournaments": [
+    {
+      "id": 263037,
+      "name": "Finals for Anderson Tap House - Weeknight Tap Out - 7/20/2026",
+      "date": "7/20/2026",
+      "playerCount": 4,
+      "qualifying": {
+        "id": 262929,
+        "name": "Anderson Tap House - Weeknight Tap Out - 7/20/2026",
+        "playerCount": 16
+      },
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m31323",
+          "name": "Larry Smith OH",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m1032",
+          "name": "Phoebe Smith",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m25777",
+          "name": "Nathan Przekop",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m24646",
+          "name": "Ric Forney",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

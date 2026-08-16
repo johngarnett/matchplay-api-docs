@@ -1,0 +1,67 @@
+{
+  "tournamentId": 263729,
+  "name": "Maltese Co. 2 monthly Tourny",
+  "date": "2026-07-25",
+  "locationId": "8553",
+  "locationName": "Maltese Brewing Company 2",
+  "playerCount": 8,
+  "ratingsDate": "2026-07-25",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m33285",
+      "name": "Lauren Cooley",
+      "rating": 1639.74,
+      "dailyRatingChange": 5.12
+    },
+    {
+      "position": 2,
+      "playerId": "i71819",
+      "name": "Ben Groover",
+      "rating": 1565.25,
+      "dailyRatingChange": 23.79
+    },
+    {
+      "position": 3,
+      "playerId": "m371",
+      "name": "Madmike Richardson",
+      "rating": 1579.06,
+      "dailyRatingChange": -0.08
+    },
+    {
+      "position": 4,
+      "playerId": "m56805",
+      "name": "Kyle H. Smith",
+      "rating": 1513.62,
+      "dailyRatingChange": -19.21
+    },
+    {
+      "position": 5,
+      "playerId": "m534887",
+      "name": "James MacFarland",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 6,
+      "playerId": "m48817",
+      "name": "Aaron Hunter",
+      "rating": 1384.15,
+      "dailyRatingChange": -18.11
+    },
+    {
+      "position": 6,
+      "playerId": "m534889",
+      "name": "Bruce Chastain",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 8,
+      "playerId": "m62263",
+      "name": "Lupe Sigman",
+      "rating": 1206.01,
+      "dailyRatingChange": 15.12
+    }
+  ]
+}

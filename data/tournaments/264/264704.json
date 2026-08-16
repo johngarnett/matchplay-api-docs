@@ -1,0 +1,39 @@
+{
+  "tournamentId": 264704,
+  "name": "Finals for Evil Horse Brewing - July 2026 Tournament",
+  "date": "2026-07-31",
+  "locationId": "8117",
+  "locationName": "Evil Horse Brewing Company",
+  "playerCount": 4,
+  "ratingsDate": "2026-07-31",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m1372",
+      "name": "Todd Rafacz",
+      "rating": 1793.87,
+      "dailyRatingChange": 2.1
+    },
+    {
+      "position": 2,
+      "playerId": "m47820",
+      "name": "Morgan Clarke",
+      "rating": 1553.45,
+      "dailyRatingChange": 12.92
+    },
+    {
+      "position": 3,
+      "playerId": "i110591",
+      "name": "Miles Rafacz",
+      "rating": 1568.85,
+      "dailyRatingChange": -4.09
+    },
+    {
+      "position": 4,
+      "playerId": "m38712",
+      "name": "Pamela Tusack",
+      "rating": 1387.68,
+      "dailyRatingChange": 9.44
+    }
+  ]
+}

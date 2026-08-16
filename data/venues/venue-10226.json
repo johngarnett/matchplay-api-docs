@@ -1,0 +1,323 @@
+{
+  "locationId": "10226",
+  "name": "Side Quest Arcade",
+  "address": "430 Winecup Way, Garland, TX 75040, US",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 21,
+  "relatedVenues": [
+    {
+      "locationId": "9397",
+      "name": "Free Play Arcade",
+      "address": "1730 East Belt Line Road, Richardson, TX 75081, US",
+      "count": 78
+    },
+    {
+      "locationId": "8079",
+      "name": "Free Play Arlington",
+      "address": "400 East South Street, Arlington, TX 76010, US",
+      "count": 42
+    },
+    {
+      "locationId": "10621",
+      "name": "PCP",
+      "address": "787 W FM 996 pottsboro tx 75076",
+      "count": 41
+    },
+    {
+      "locationId": "9726",
+      "name": "Carpool's Proving Grounds",
+      "address": "1250 N White Chapel Blvd, Southlake, TX 76092",
+      "count": 25
+    },
+    {
+      "locationId": "7836",
+      "name": "Free Play Dallas",
+      "address": "3015 Gulden Ln, Dallas, TX 75212, US",
+      "count": 15
+    },
+    {
+      "locationId": "8078",
+      "name": "Free Play Arcade - Denton",
+      "address": "101 West Hickory Street, Denton, TX 76201, US",
+      "count": 8
+    },
+    {
+      "locationId": "8325",
+      "name": "Kevin Moore's Collection",
+      "address": "",
+      "count": 7
+    },
+    {
+      "locationId": "3790",
+      "name": "Cactus Jacks",
+      "address": "",
+      "count": 6
+    },
+    {
+      "locationId": "3906",
+      "name": "Wylie Home",
+      "address": "Carrollton, TX, USA",
+      "count": 6
+    },
+    {
+      "locationId": "5746",
+      "name": "Jorge Ramos' Home",
+      "address": "8426 County Rd 301, Grandview, TX 76050, USA",
+      "count": 5
+    }
+  ],
+  "players": [
+    {
+      "id": "m14190",
+      "name": "Austin Kemp",
+      "rating": 1740.35,
+      "rd": 19.15,
+      "ratingClass": "Expert",
+      "homeLocation": "PCP",
+      "homeLocationId": "10621",
+      "percentile": 98.44412353845438,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m28603",
+      "name": "Greg Gibson",
+      "rating": 1691.13,
+      "rd": 18.34,
+      "ratingClass": "A",
+      "homeLocation": "Free Play Arcade",
+      "homeLocationId": "9397",
+      "percentile": 95.99385102715796,
+      "changeDisplay": "+4.4",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m289",
+      "name": "Ken Kemp",
+      "rating": 1675.66,
+      "rd": 16.4,
+      "ratingClass": "A",
+      "homeLocation": "PCP",
+      "homeLocationId": "10621",
+      "percentile": 94.6755485163274,
+      "changeDisplay": "-7.8",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m3499",
+      "name": "Mark Beardsley",
+      "rating": 1657.23,
+      "rd": 20.73,
+      "ratingClass": "A",
+      "homeLocation": "Carpool's Proving Grounds",
+      "homeLocationId": "9726",
+      "percentile": 92.71905715749756,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m43802",
+      "name": "Phil Robertson",
+      "rating": 1623.62,
+      "rd": 22.58,
+      "ratingClass": "A",
+      "homeLocation": "Free Play Arcade",
+      "homeLocationId": "9397",
+      "percentile": 87.33404760795639,
+      "changeDisplay": "-3.5",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m61329",
+      "name": "Jeremy Wickett",
+      "rating": 1580.55,
+      "rd": 43.18,
+      "ratingClass": "B",
+      "homeLocation": "Free Play Arcade",
+      "homeLocationId": "9397",
+      "percentile": 76.7922858340709,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m37943",
+      "name": "Chase Clinton",
+      "rating": 1577.96,
+      "rd": 24.21,
+      "ratingClass": "B",
+      "homeLocation": "Free Play Arcade",
+      "homeLocationId": "9397",
+      "percentile": 76.00503097777985,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m33469",
+      "name": "Jayson Limmer",
+      "rating": 1565.17,
+      "rd": 28.05,
+      "ratingClass": "B",
+      "homeLocation": "Free Play Arcade",
+      "homeLocationId": "9397",
+      "percentile": 72.00819863045605,
+      "changeDisplay": "-5.8",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m19204",
+      "name": "Colin Wood",
+      "rating": 1559.27,
+      "rd": 19.77,
+      "ratingClass": "B",
+      "homeLocation": "Free Play Arcade",
+      "homeLocationId": "9397",
+      "percentile": 70.07965714818093,
+      "changeDisplay": "-6.0",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m24795",
+      "name": "Brian Perlick",
+      "rating": 1552.7,
+      "rd": 20.56,
+      "ratingClass": "B",
+      "homeLocation": "Free Play Arlington",
+      "homeLocationId": "8079",
+      "percentile": 67.72255089206689,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m1945",
+      "name": "Lora Tennison",
+      "rating": 1546.5,
+      "rd": 16.96,
+      "ratingClass": "B",
+      "homeLocation": "PCP",
+      "homeLocationId": "10621",
+      "percentile": 65.42134438906228,
+      "changeDisplay": "-3.3",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m45709",
+      "name": "Kaitlyn Coplin",
+      "rating": 1541.57,
+      "rd": 26.52,
+      "ratingClass": "B",
+      "homeLocation": "Free Play Arcade",
+      "homeLocationId": "9397",
+      "percentile": 63.70708529370662,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m52637",
+      "name": "Greg Girkin",
+      "rating": 1503.77,
+      "rd": 19.38,
+      "ratingClass": "B",
+      "homeLocation": "Free Play Arlington",
+      "homeLocationId": "8079",
+      "percentile": 48.74924302417664,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m21875",
+      "name": "Josh Smith",
+      "rating": 1487.39,
+      "rd": 42.42,
+      "ratingClass": "C",
+      "homeLocation": "Side Quest Arcade",
+      "homeLocationId": "10226",
+      "percentile": 41.93413145758606,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m22831",
+      "name": "April Kemp",
+      "rating": 1487.22,
+      "rd": 17.51,
+      "ratingClass": "C",
+      "homeLocation": "PCP",
+      "homeLocationId": "10621",
+      "percentile": 41.850281827921926,
+      "changeDisplay": "-7.2",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m1250",
+      "name": "Scott Martin",
+      "rating": 1476.03,
+      "rd": 21.88,
+      "ratingClass": "C",
+      "homeLocation": "Free Play Arcade",
+      "homeLocationId": "9397",
+      "percentile": 37.2711603857083,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m26452",
+      "name": "Mike Perlick",
+      "rating": 1437.58,
+      "rd": 23.73,
+      "ratingClass": "C",
+      "homeLocation": "Free Play Arlington",
+      "homeLocationId": "8079",
+      "percentile": 22.89560721106815,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m37552",
+      "name": "Andrew Zusman",
+      "rating": 1414.07,
+      "rd": 30.93,
+      "ratingClass": "C",
+      "homeLocation": "Free Play Arcade",
+      "homeLocationId": "9397",
+      "percentile": 16.169003586900825,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i112200",
+      "name": "Cody Richeson",
+      "rating": 1308.02,
+      "rd": 42.94,
+      "ratingClass": "D",
+      "homeLocation": "Free Play Arcade",
+      "homeLocationId": "9397",
+      "percentile": 1.322960823589696,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i146580",
+      "name": "JohnLee Miers",
+      "rating": null,
+      "rd": null,
+      "ratingClass": "N/A",
+      "homeLocation": "Side Quest Arcade",
+      "homeLocationId": "10226",
+      "percentile": null,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i148355",
+      "name": "Bridell Miers",
+      "rating": null,
+      "rd": null,
+      "ratingClass": "N/A",
+      "homeLocation": "Side Quest Arcade",
+      "homeLocationId": "10226",
+      "percentile": null,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

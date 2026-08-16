@@ -1,0 +1,280 @@
+{
+  "communityId": "127",
+  "locations": [
+    {
+      "id": "5464",
+      "name": "AYCE Gogi Korean BBQ & Pinball",
+      "address": "6705 Fallbrook Avenue, West Hills, CA 91307, US",
+      "tournaments": [
+        {
+          "id": 266422,
+          "name": "On Tilt West Hills Season 6 #5",
+          "date": "8/10/2026",
+          "playerCount": 48,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m8128",
+              "name": "raymond ashby",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "i143278",
+              "name": "Adrien Szostak",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m12074",
+              "name": "Adam Page",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m11692",
+              "name": "matt rowbottom",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m49249",
+              "name": "Tommy Capistrano",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m31793",
+              "name": "Terri Thompson",
+              "isCommunityMember": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "11469",
+      "name": "EightyTwo",
+      "address": "707 East 4th Place, Los Angeles, CA 90013, US",
+      "tournaments": [
+        {
+          "id": 266684,
+          "name": "LAPL Season 63 #1",
+          "date": "8/12/2026",
+          "playerCount": 51,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m17872",
+              "name": "Jim Cantiello",
+              "isCommunityMember": true
+            },
+            {
+              "position": 1,
+              "playerId": "m42700",
+              "name": "Ruben Green",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m48115",
+              "name": "Liz Fornango",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m25979",
+              "name": "Benjamin Plotkin",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m3752",
+              "name": "Jim Ellwanger",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "i46933",
+              "name": "Damien McKay",
+              "isCommunityMember": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "11143",
+      "name": "Hermosa Brewing",
+      "address": "1855 Del Amo Blvd, Torrance, CA 90501, US",
+      "tournaments": [
+        {
+          "id": 266871,
+          "name": "Finals for South Bay Tilt Arcade - Monthly Match Play @Hermosa Brewing Co 8/12/2026",
+          "date": "8/12/2026",
+          "playerCount": 4,
+          "qualifying": {
+            "id": 258463,
+            "name": "South Bay Tilt Arcade - Monthly Match Play @Hermosa Brewing Co 8/12/2026",
+            "playerCount": 15
+          },
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "i126433",
+              "name": "Jobe Lowen",
+              "isCommunityMember": false
+            },
+            {
+              "position": 2,
+              "playerId": "m36035",
+              "name": "Robin Craigen",
+              "isCommunityMember": false
+            },
+            {
+              "position": 3,
+              "playerId": "m50843",
+              "name": "Thomas Hancher",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "i128127",
+              "name": "Brent Curtis",
+              "isCommunityMember": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "10114",
+      "name": "Long Beach Beer Lab",
+      "address": "518 W Willow St, Long Beach, CA 90806, US",
+      "tournaments": [
+        {
+          "id": 266696,
+          "name": "Long Beach Pinball Season #27 #1 (clone)",
+          "date": "8/11/2026",
+          "playerCount": 40,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m6232",
+              "name": "Dennis Eichhorn",
+              "isCommunityMember": false
+            },
+            {
+              "position": 1,
+              "playerId": "m22991",
+              "name": "Kane Mejia",
+              "isCommunityMember": false
+            },
+            {
+              "position": 3,
+              "playerId": "p572472",
+              "name": "Sal Rangel",
+              "isCommunityMember": false
+            },
+            {
+              "position": 3,
+              "playerId": "m49252",
+              "name": "Jason Solomon",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m41785",
+              "name": "Joe Intemann",
+              "isCommunityMember": false
+            },
+            {
+              "position": 3,
+              "playerId": "m40942",
+              "name": "Elena Kingston",
+              "isCommunityMember": false
+            }
+          ]
+        },
+        {
+          "id": 266356,
+          "name": "Long Beach Transformer LP Finals",
+          "date": "8/9/2026",
+          "playerCount": 8,
+          "qualifying": {
+            "id": 260695,
+            "name": "Long Beach Transformer LP @ Beer Lab",
+            "playerCount": 35
+          },
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m6232",
+              "name": "Dennis Eichhorn",
+              "isCommunityMember": false
+            },
+            {
+              "position": 2,
+              "playerId": "m21096",
+              "name": "Steve Ward CA",
+              "isCommunityMember": false
+            },
+            {
+              "position": 3,
+              "playerId": "i99396",
+              "name": "Juan Carlos Haro",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m13380",
+              "name": "Gonzalo Martinez",
+              "isCommunityMember": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9600",
+      "name": "The Mighty Axe - TO",
+      "address": "215 N. Moorpark Rd., Suite i, Thousand Oaks, CA",
+      "tournaments": [
+        {
+          "id": 266873,
+          "name": "Finals for EBD H2H MP AUG 2026",
+          "date": "8/12/2026",
+          "playerCount": 3,
+          "qualifying": {
+            "id": 266854,
+            "name": "EBD H2H MP AUG 2026",
+            "playerCount": 10
+          },
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "i123907",
+              "name": "Dustin Kopel",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "p580965",
+              "name": "Joe Pinball805",
+              "isCommunityMember": false
+            },
+            {
+              "position": 3,
+              "playerId": "m49251",
+              "name": "Ron Lam",
+              "isCommunityMember": true
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

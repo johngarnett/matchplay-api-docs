@@ -1,0 +1,46 @@
+{
+  "tournamentId": 262619,
+  "name": "Finals for Inclined to Play Friday Flip Off 7.17.26",
+  "date": "2026-07-18",
+  "locationId": "8386",
+  "locationName": "Tahoe Paddle Sports",
+  "playerCount": 5,
+  "ratingsDate": "2026-07-18",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m41707",
+      "name": "CJ Milholland",
+      "rating": 1558.95,
+      "dailyRatingChange": 33.45
+    },
+    {
+      "position": 2,
+      "playerId": "m23456",
+      "name": "Anthony Spatucci",
+      "rating": 1610.09,
+      "dailyRatingChange": -1.81
+    },
+    {
+      "position": 3,
+      "playerId": "m42327",
+      "name": "Ryan Lant",
+      "rating": 1586.37,
+      "dailyRatingChange": -0.54
+    },
+    {
+      "position": 4,
+      "playerId": "m40982",
+      "name": "Michael Pelster",
+      "rating": 1570.05,
+      "dailyRatingChange": 7.41
+    },
+    {
+      "position": 5,
+      "playerId": "m45548",
+      "name": "Ashton Hunter",
+      "rating": 1598.77,
+      "dailyRatingChange": -1.1
+    }
+  ]
+}

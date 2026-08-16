@@ -1,0 +1,173 @@
+{
+  "locationId": "11893",
+  "name": "Finney's Arcade & Parlor",
+  "address": "417 Market Ave N, Canton, OH 44702, US",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 10,
+  "relatedVenues": [
+    {
+      "locationId": "11697",
+      "name": "Game On Arcade",
+      "address": "527 W Tuscarawas Ave, Barberton, OH 44203, US",
+      "count": 38
+    },
+    {
+      "locationId": "10061",
+      "name": "Sandy Springs Brewing Company",
+      "address": "232 N Market St, Minerva, OH 44657, US",
+      "count": 28
+    },
+    {
+      "locationId": "13248",
+      "name": "North Canton Masonic Temple",
+      "address": "805 Orchard Ave NE, North Canton, OH 44720, US",
+      "count": 17
+    },
+    {
+      "locationId": "12889",
+      "name": "North Canton Skate & Entertainment Center",
+      "address": "5475 Whipple Ave NW, North Canton, OH 44720, US",
+      "count": 7
+    },
+    {
+      "locationId": "11141",
+      "name": "Slingshot Pinball",
+      "address": "460 Lincoln Ave #70, San Jose, CA 95126, US",
+      "count": 2
+    },
+    {
+      "locationId": "6198",
+      "name": "Quarter Up",
+      "address": "Parking lot, 1452 N Portage Path, Akron, OH 44313, USA",
+      "count": 1
+    },
+    {
+      "locationId": "11578",
+      "name": "station 300",
+      "address": "580 e cuyahoga ave, akron 44310",
+      "count": 1
+    }
+  ],
+  "players": [
+    {
+      "id": "m35998",
+      "name": "Adam Mueller",
+      "rating": 1647.25,
+      "rd": 23.87,
+      "ratingClass": "A",
+      "homeLocation": "Sandy Springs Brewing Company",
+      "homeLocationId": "10061",
+      "percentile": 91.34485489355755,
+      "changeDisplay": "-0.5",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m50267",
+      "name": "Jason Croston",
+      "rating": 1627.94,
+      "rd": 21.65,
+      "ratingClass": "A",
+      "homeLocation": "Game On Arcade",
+      "homeLocationId": "11697",
+      "percentile": 88.15856896632039,
+      "changeDisplay": "+5.9",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m19804",
+      "name": "Ben Sigler",
+      "rating": 1595.69,
+      "rd": 25.5,
+      "ratingClass": "B",
+      "homeLocation": "Finney's Arcade & Parlor",
+      "homeLocationId": "11893",
+      "percentile": 80.95215912796385,
+      "changeDisplay": "+10.1",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "i138705",
+      "name": "Griffin Croston",
+      "rating": 1593.52,
+      "rd": 22.13,
+      "ratingClass": "B",
+      "homeLocation": "Game On Arcade",
+      "homeLocationId": "11697",
+      "percentile": 80.39781990962874,
+      "changeDisplay": "-4.9",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m20841",
+      "name": "Kyle Crison",
+      "rating": 1590.66,
+      "rd": 26.52,
+      "ratingClass": "B",
+      "homeLocation": "Finney's Arcade & Parlor",
+      "homeLocationId": "11893",
+      "percentile": 79.61988167885592,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m40907",
+      "name": "joe bellochi",
+      "rating": 1545.5,
+      "rd": 29.18,
+      "ratingClass": "B",
+      "homeLocation": "Finney's Arcade & Parlor",
+      "homeLocationId": "11893",
+      "percentile": 65.11389574696045,
+      "changeDisplay": "-10.9",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m23242",
+      "name": "Phil Grunauer",
+      "rating": 1514.68,
+      "rd": 27.79,
+      "ratingClass": "B",
+      "homeLocation": "Finney's Arcade & Parlor",
+      "homeLocationId": "11893",
+      "percentile": 53.05352401360227,
+      "changeDisplay": "-18.6",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m53608",
+      "name": "Jake Smail",
+      "rating": 1459.07,
+      "rd": 49.01,
+      "ratingClass": "C",
+      "homeLocation": "Finney's Arcade & Parlor",
+      "homeLocationId": "11893",
+      "percentile": 30.605114827409512,
+      "changeDisplay": "-6.3",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "i106630",
+      "name": "Joe Miller OH",
+      "rating": null,
+      "rd": null,
+      "ratingClass": "N/A",
+      "homeLocation": "Finney's Arcade & Parlor",
+      "homeLocationId": "11893",
+      "percentile": null,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i113259",
+      "name": "skylie mazey",
+      "rating": null,
+      "rd": null,
+      "ratingClass": "N/A",
+      "homeLocation": "Finney's Arcade & Parlor",
+      "homeLocationId": "11893",
+      "percentile": null,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "tournamentId": 266871,
+  "name": "Finals for South Bay Tilt Arcade - Monthly Match Play @Hermosa Brewing Co 8/12/2026",
+  "date": "2026-08-13",
+  "locationId": "11143",
+  "locationName": "Hermosa Brewing Company",
+  "playerCount": 4,
+  "ratingsDate": null,
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "i126433",
+      "name": "Jobe Lowen",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 2,
+      "playerId": "m36035",
+      "name": "Robin Craigen",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 3,
+      "playerId": "m50843",
+      "name": "Thomas Hancher",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 4,
+      "playerId": "i128127",
+      "name": "Brent Curtis",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "locationId": "3913",
+  "venueName": "1up Greenwood",
+  "venueAddress": "6864 S Clinton Ct, Englewood, CO 80112, USA",
+  "tournaments": [
+    {
+      "id": 266799,
+      "name": "Denver Belles & Chimes Camp Flipwood 2026 #6",
+      "date": "8/12/2026",
+      "playerCount": 25,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m55766",
+          "name": "Crystal Dacar",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m55458",
+          "name": "Violet Smith - CO",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m42117",
+          "name": "Kassy Harvey",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m25717",
+          "name": "Alexis Whyte",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 265693,
+      "name": "Denver Belles & Chimes Camp Flipwood 2026 #5",
+      "date": "8/5/2026",
+      "playerCount": 25,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m7802",
+          "name": "Gretchen Garcia",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m38049",
+          "name": "Lindy Lacson",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m61826",
+          "name": "Isa Rocha",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m62665",
+          "name": "Edie Rosen",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 264436,
+      "name": "Denver Belles & Chimes Camp Flipwood 2026 #4",
+      "date": "7/29/2026",
+      "playerCount": 17,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m26853",
+          "name": "Brittany Hethcock",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "p576977",
+          "name": "Markie Arondelle",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m55766",
+          "name": "Crystal Dacar",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m7802",
+          "name": "Gretchen Garcia",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m38049",
+          "name": "Lindy Lacson",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 262534,
+      "name": "Denver Belles & Chimes Camp Flipwood 2026 #3",
+      "date": "7/22/2026",
+      "playerCount": 23,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "p576973",
+          "name": "Kello McCardell",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m9163",
+          "name": "Tracy Whetstine",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m7802",
+          "name": "Gretchen Garcia",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m49774",
+          "name": "Kyrah Harvey",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m42117",
+          "name": "Kassy Harvey",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

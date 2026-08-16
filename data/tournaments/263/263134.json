@@ -1,0 +1,67 @@
+{
+  "tournamentId": 263134,
+  "name": "Wednesday Night Pinball-Week 9 Playoffs 2025-26 SUMMER Session-7/22 @ Jason's House-Bracket \"A\"",
+  "date": "2026-07-23",
+  "locationId": "8979",
+  "locationName": "Jason's House",
+  "playerCount": 8,
+  "ratingsDate": "2026-07-23",
+  "standings": [
+    {
+      "position": 9,
+      "playerId": "i128617",
+      "name": "Thomas Sprigle",
+      "rating": 1574.67,
+      "dailyRatingChange": -3.75
+    },
+    {
+      "position": 10,
+      "playerId": "m32700",
+      "name": "Joseph Fortuna",
+      "rating": 1526.54,
+      "dailyRatingChange": -3.26
+    },
+    {
+      "position": 11,
+      "playerId": "m46248",
+      "name": "Matt Koon DE",
+      "rating": 1502.62,
+      "dailyRatingChange": -2.64
+    },
+    {
+      "position": 11,
+      "playerId": "m32669",
+      "name": "Jim Bosco",
+      "rating": 1458.72,
+      "dailyRatingChange": 1.1
+    },
+    {
+      "position": 13,
+      "playerId": "m20451",
+      "name": "Kim Zink",
+      "rating": 1473.86,
+      "dailyRatingChange": -1.72
+    },
+    {
+      "position": 13,
+      "playerId": "m7857",
+      "name": "Marianne Hastings",
+      "rating": 1513.27,
+      "dailyRatingChange": -2.15
+    },
+    {
+      "position": 15,
+      "playerId": "m20067",
+      "name": "Mac McCubbin II",
+      "rating": 1504.35,
+      "dailyRatingChange": -6.31
+    },
+    {
+      "position": 16,
+      "playerId": "m52500",
+      "name": "Adam Byler",
+      "rating": 1567.77,
+      "dailyRatingChange": -22.44
+    }
+  ]
+}

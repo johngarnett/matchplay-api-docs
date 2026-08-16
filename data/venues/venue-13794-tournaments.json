@@ -1,0 +1,44 @@
+{
+  "locationId": "13794",
+  "venueName": "ORD 3.0",
+  "venueAddress": "3750 Industrial Avenue, Rolling Meadows, IL",
+  "tournaments": [
+    {
+      "id": 264062,
+      "name": "Finals for ORD Pinball - July's Last Sunday of the Month - IPFA - 6 Rounds Match Play - 7/26/2026",
+      "date": "7/26/2026",
+      "playerCount": 8,
+      "qualifying": {
+        "id": 263940,
+        "name": "ORD Pinball - July's Last Sunday of the Month - IPFA - 6 Rounds Match Play - 7/26/2026",
+        "playerCount": 22
+      },
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m45169",
+          "name": "Sean Brennan",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m28986",
+          "name": "Danny Bronny",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m10481",
+          "name": "Glenn Krause",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m39177",
+          "name": "Charles Jackson IN",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

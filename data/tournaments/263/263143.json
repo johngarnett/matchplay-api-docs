@@ -1,0 +1,81 @@
+{
+  "tournamentId": 263143,
+  "name": "Acadiana Pinball League - Season 1 - Round 2",
+  "date": "2026-07-22",
+  "locationId": "11276",
+  "locationName": "Bayou Teche Brewing",
+  "playerCount": 10,
+  "ratingsDate": "2026-07-22",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m20175",
+      "name": "Cedric Broussard",
+      "rating": 1548.06,
+      "dailyRatingChange": 19.94
+    },
+    {
+      "position": 2,
+      "playerId": "m24680",
+      "name": "Bennett Dungan",
+      "rating": 1636.78,
+      "dailyRatingChange": 0.98
+    },
+    {
+      "position": 3,
+      "playerId": "m454816",
+      "name": "alan veillon",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 4,
+      "playerId": "m454798",
+      "name": "coyo showz",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 5,
+      "playerId": "m48527",
+      "name": "Shane Fontenot",
+      "rating": 1612.18,
+      "dailyRatingChange": -0.79
+    },
+    {
+      "position": 5,
+      "playerId": "m467720",
+      "name": "Huey Wyble",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 7,
+      "playerId": "m48531",
+      "name": "Michael Burrow",
+      "rating": 1547.3,
+      "dailyRatingChange": -5.22
+    },
+    {
+      "position": 8,
+      "playerId": "i145337",
+      "name": "Shelley Fritz",
+      "rating": 1325.32,
+      "dailyRatingChange": 1.09
+    },
+    {
+      "position": 9,
+      "playerId": "i143489",
+      "name": "Donna Fontenot",
+      "rating": 1434.36,
+      "dailyRatingChange": -6.66
+    },
+    {
+      "position": 10,
+      "playerId": "m578560",
+      "name": "Jared Henry",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "locationId": "10645",
+  "name": "Grau's Game Room",
+  "address": "Akron, OH",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 10,
+  "relatedVenues": [
+    {
+      "locationId": "6198",
+      "name": "Quarter Up",
+      "address": "Parking lot, 1452 N Portage Path, Akron, OH 44313, USA",
+      "count": 77
+    },
+    {
+      "locationId": "535",
+      "name": "Superelectric Pinball Parlor",
+      "address": "6500 Detroit Ave, Cleveland, OH 44102, USA",
+      "count": 4
+    },
+    {
+      "locationId": "7382",
+      "name": "Station300 Akron",
+      "address": "580 E Cuyahoga Falls Ave, Akron, OH, 44310, US",
+      "count": 4
+    },
+    {
+      "locationId": "10146",
+      "name": "Stonehedge Family Fun Center",
+      "address": "580 East Cuyahoga Falls Avenue, Akron, OH 44310, US",
+      "count": 4
+    }
+  ],
+  "players": [
+    {
+      "id": "i87656",
+      "name": "Adam K",
+      "rating": 1734.34,
+      "rd": 56.26,
+      "ratingClass": "Expert",
+      "homeLocation": "Grau's Game Room",
+      "homeLocationId": "10645",
+      "percentile": 98.27176596636698,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m13919",
+      "name": "Mike Grau",
+      "rating": 1607.55,
+      "rd": 23.84,
+      "ratingClass": "A",
+      "homeLocation": "Quarter Up",
+      "homeLocationId": "6198",
+      "percentile": 83.8356547258583,
+      "changeDisplay": "+2.6",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m21859",
+      "name": "Colin Billings",
+      "rating": 1606.17,
+      "rd": 21.98,
+      "ratingClass": "A",
+      "homeLocation": "Quarter Up",
+      "homeLocationId": "6198",
+      "percentile": 83.4909395816835,
+      "changeDisplay": "+7.8",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m14198",
+      "name": "Greg Lanum",
+      "rating": 1574.75,
+      "rd": 31.52,
+      "ratingClass": "B",
+      "homeLocation": "Station300 Akron",
+      "homeLocationId": "7382",
+      "percentile": 75.00349373456933,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m40607",
+      "name": "Graem",
+      "rating": 1555.01,
+      "rd": 24.27,
+      "ratingClass": "B",
+      "homeLocation": "Quarter Up",
+      "homeLocationId": "6198",
+      "percentile": 68.66818838216798,
+      "changeDisplay": "+2.5",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m51693",
+      "name": "Corbin Rispoli",
+      "rating": 1520.94,
+      "rd": 29.62,
+      "ratingClass": "B",
+      "homeLocation": "Superelectric Pinball Parlor",
+      "homeLocationId": "535",
+      "percentile": 55.550379652489866,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m12935",
+      "name": "Jon Denovchek",
+      "rating": 1513.42,
+      "rd": 25.79,
+      "ratingClass": "B",
+      "homeLocation": "Quarter Up",
+      "homeLocationId": "6198",
+      "percentile": 52.5364512973401,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m30386",
+      "name": "Talia",
+      "rating": 1507.11,
+      "rd": 26.56,
+      "ratingClass": "B",
+      "homeLocation": "Quarter Up",
+      "homeLocationId": "6198",
+      "percentile": 50.01630409465692,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i45519",
+      "name": "Jason imhoff",
+      "rating": 1490.15,
+      "rd": 26.36,
+      "ratingClass": "C",
+      "homeLocation": "Quarter Up",
+      "homeLocationId": "6198",
+      "percentile": 43.089393021847485,
+      "changeDisplay": "-7.0",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m14352",
+      "name": "Celeste",
+      "rating": 1429,
+      "rd": 70.88,
+      "ratingClass": "C",
+      "homeLocation": "Grau's Game Room",
+      "homeLocationId": "10645",
+      "percentile": 20.286952065961707,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

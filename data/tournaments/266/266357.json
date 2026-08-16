@@ -1,0 +1,74 @@
+{
+  "tournamentId": 266357,
+  "name": "opinion summer league week 5",
+  "date": "2026-08-10",
+  "locationId": "10396",
+  "locationName": "Opinion Brewing Co.",
+  "playerCount": 9,
+  "ratingsDate": "2026-08-10",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m429504",
+      "name": "tony drollinger",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 2,
+      "playerId": "i108094",
+      "name": "Henry Crockett",
+      "rating": 1560.01,
+      "dailyRatingChange": 4.46
+    },
+    {
+      "position": 2,
+      "playerId": "i92159",
+      "name": "Matt Listerud",
+      "rating": 1477.67,
+      "dailyRatingChange": 16.81
+    },
+    {
+      "position": 2,
+      "playerId": "m421874",
+      "name": "pete",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 5,
+      "playerId": "m31224",
+      "name": "Jason Serrano",
+      "rating": 1429.52,
+      "dailyRatingChange": -7.71
+    },
+    {
+      "position": 6,
+      "playerId": "m586110",
+      "name": "shannon williams",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 7,
+      "playerId": "m434079",
+      "name": "leah sylvester",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 8,
+      "playerId": "m421880",
+      "name": "drewl",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 9,
+      "playerId": "m434080",
+      "name": "cameron",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

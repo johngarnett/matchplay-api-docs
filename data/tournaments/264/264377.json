@@ -1,0 +1,67 @@
+{
+  "tournamentId": 264377,
+  "name": "Finals for Tilt & Tap Tuesday's!",
+  "date": "2026-07-29",
+  "locationId": "9807",
+  "locationName": "Minnesota Pinball @ Bucks Mill Brewing",
+  "playerCount": 8,
+  "ratingsDate": "2026-07-29",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m6492",
+      "name": "Mike Moberg",
+      "rating": 1594.72,
+      "dailyRatingChange": 5.34
+    },
+    {
+      "position": 2,
+      "playerId": "m45268",
+      "name": "Ross mickelson",
+      "rating": 1564.54,
+      "dailyRatingChange": 6.05
+    },
+    {
+      "position": 3,
+      "playerId": "m40440",
+      "name": "Patrick Williams",
+      "rating": 1504.62,
+      "dailyRatingChange": 5.6
+    },
+    {
+      "position": 4,
+      "playerId": "i122699",
+      "name": "Jim Francis",
+      "rating": 1536.95,
+      "dailyRatingChange": 7.33
+    },
+    {
+      "position": 5,
+      "playerId": "m504194",
+      "name": "Jorde Hutton",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 6,
+      "playerId": "m44885",
+      "name": "Bill Esterby",
+      "rating": 1590.65,
+      "dailyRatingChange": 0.32
+    },
+    {
+      "position": 7,
+      "playerId": "m457431",
+      "name": "William Hampson",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 8,
+      "playerId": "m6519",
+      "name": "Mike Reul",
+      "rating": 1527.14,
+      "dailyRatingChange": -1.72
+    }
+  ]
+}

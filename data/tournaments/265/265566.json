@@ -1,0 +1,67 @@
+{
+  "tournamentId": 265566,
+  "name": "Flip⚡️Side Weekly 8/4/26 B Division",
+  "date": "2026-08-05",
+  "locationId": "6223",
+  "locationName": "Flip⚡️Side",
+  "playerCount": 8,
+  "ratingsDate": "2026-08-05",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m15525",
+      "name": "Trey Morton",
+      "rating": 1471.99,
+      "dailyRatingChange": 5.95
+    },
+    {
+      "position": 2,
+      "playerId": "m29991",
+      "name": "Rick Dewitt TN",
+      "rating": 1527.75,
+      "dailyRatingChange": 0.83
+    },
+    {
+      "position": 3,
+      "playerId": "m6796",
+      "name": "Fred Jennings",
+      "rating": 1520.36,
+      "dailyRatingChange": -6.95
+    },
+    {
+      "position": 4,
+      "playerId": "i144154",
+      "name": "Rick Bennett",
+      "rating": 1367.73,
+      "dailyRatingChange": 8.34
+    },
+    {
+      "position": 5,
+      "playerId": "m45626",
+      "name": "Torri Havelka",
+      "rating": 1511.58,
+      "dailyRatingChange": 3.14
+    },
+    {
+      "position": 5,
+      "playerId": "m46221",
+      "name": "Dan Shook",
+      "rating": 1454.82,
+      "dailyRatingChange": -8.47
+    },
+    {
+      "position": 7,
+      "playerId": "m33164",
+      "name": "Scott Ferguson",
+      "rating": 1552.71,
+      "dailyRatingChange": 4.73
+    },
+    {
+      "position": 7,
+      "playerId": "m56978",
+      "name": "A",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

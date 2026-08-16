@@ -1,0 +1,214 @@
+{
+  "tournamentId": 264918,
+  "name": "8-bit Friendly Fridays",
+  "date": "2026-08-01",
+  "locationId": "7165",
+  "locationName": "8-Bit Arcade Bar",
+  "playerCount": 29,
+  "ratingsDate": "2026-08-01",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m18585",
+      "name": "Kevin Coffey",
+      "rating": 1702.09,
+      "dailyRatingChange": 5.55
+    },
+    {
+      "position": 2,
+      "playerId": "m54888",
+      "name": "Renee Fasano",
+      "rating": 1465.15,
+      "dailyRatingChange": 12.47
+    },
+    {
+      "position": 3,
+      "playerId": "m12397",
+      "name": "Douglas Hansen",
+      "rating": 1606.87,
+      "dailyRatingChange": 0.42
+    },
+    {
+      "position": 3,
+      "playerId": "m42527",
+      "name": "Robbie Mills",
+      "rating": 1551.29,
+      "dailyRatingChange": 2.93
+    },
+    {
+      "position": 5,
+      "playerId": "m43718",
+      "name": "Mike Murphy WA",
+      "rating": 1521,
+      "dailyRatingChange": 1.67
+    },
+    {
+      "position": 5,
+      "playerId": "m48599",
+      "name": "Bryan Trotter",
+      "rating": 1429.89,
+      "dailyRatingChange": 21.64
+    },
+    {
+      "position": 5,
+      "playerId": "m44490",
+      "name": "Marissa Rodriguez",
+      "rating": 1479.89,
+      "dailyRatingChange": 5.4
+    },
+    {
+      "position": 8,
+      "playerId": "m3787",
+      "name": "Ashley Weaver",
+      "rating": 1680.98,
+      "dailyRatingChange": -1.7
+    },
+    {
+      "position": 8,
+      "playerId": "m58532",
+      "name": "Zacc Harmon",
+      "rating": 1453.06,
+      "dailyRatingChange": 11.54
+    },
+    {
+      "position": 8,
+      "playerId": "m18646",
+      "name": "Kristin Vick",
+      "rating": 1622.31,
+      "dailyRatingChange": -2.79
+    },
+    {
+      "position": 11,
+      "playerId": "m14395",
+      "name": "Echo Corsentino",
+      "rating": 1519.02,
+      "dailyRatingChange": 0.69
+    },
+    {
+      "position": 11,
+      "playerId": "i80254",
+      "name": "Greg Kinn",
+      "rating": 1391.04,
+      "dailyRatingChange": 10.37
+    },
+    {
+      "position": 11,
+      "playerId": "m62514",
+      "name": "Tony Dewitt",
+      "rating": 1435.37,
+      "dailyRatingChange": null
+    },
+    {
+      "position": 11,
+      "playerId": "m18700",
+      "name": "Joel Friedrick",
+      "rating": 1610.68,
+      "dailyRatingChange": -0.59
+    },
+    {
+      "position": 15,
+      "playerId": "m554827",
+      "name": "Kelly Aragon",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 15,
+      "playerId": "m583542",
+      "name": "John Ancira",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 15,
+      "playerId": "m19154",
+      "name": "KC Stegbauer",
+      "rating": 1449.6,
+      "dailyRatingChange": -1.23
+    },
+    {
+      "position": 15,
+      "playerId": "m51484",
+      "name": "Aaron Smith Kent",
+      "rating": 1462.08,
+      "dailyRatingChange": -0.68
+    },
+    {
+      "position": 15,
+      "playerId": "m10607",
+      "name": "Ryan Tupper",
+      "rating": 1556.29,
+      "dailyRatingChange": -3.73
+    },
+    {
+      "position": 20,
+      "playerId": "m46514",
+      "name": "Monte Korsmoe",
+      "rating": 1461.56,
+      "dailyRatingChange": -10.47
+    },
+    {
+      "position": 20,
+      "playerId": "m5892",
+      "name": "Matt Brown",
+      "rating": 1555.18,
+      "dailyRatingChange": -2.68
+    },
+    {
+      "position": 20,
+      "playerId": "m28477",
+      "name": "Yakov Peterson",
+      "rating": 1463.09,
+      "dailyRatingChange": -3.44
+    },
+    {
+      "position": 20,
+      "playerId": "m50995",
+      "name": "Neil Lindquist",
+      "rating": 1488.59,
+      "dailyRatingChange": -4.98
+    },
+    {
+      "position": 20,
+      "playerId": "m42528",
+      "name": "Dan Benapfl",
+      "rating": 1493.98,
+      "dailyRatingChange": -2
+    },
+    {
+      "position": 25,
+      "playerId": "m25258",
+      "name": "Rad Will",
+      "rating": 1391.23,
+      "dailyRatingChange": 8.64
+    },
+    {
+      "position": 25,
+      "playerId": "m19345",
+      "name": "Nico Brenni",
+      "rating": 1471.24,
+      "dailyRatingChange": -13.84
+    },
+    {
+      "position": 25,
+      "playerId": "m58664",
+      "name": "Jayde Aragon",
+      "rating": 1319.58,
+      "dailyRatingChange": -15.65
+    },
+    {
+      "position": 25,
+      "playerId": "m32269",
+      "name": "Sookie Sookram",
+      "rating": 1513.02,
+      "dailyRatingChange": -4.78
+    },
+    {
+      "position": 29,
+      "playerId": "m247409",
+      "name": "Ali Kerprich",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

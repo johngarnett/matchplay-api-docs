@@ -1,0 +1,60 @@
+{
+  "tournamentId": 266617,
+  "name": "Derby City Bad Cats - Season 2 - Meet #5",
+  "date": "2026-08-12",
+  "locationId": "13720",
+  "locationName": "Zanzabar",
+  "playerCount": 7,
+  "ratingsDate": "2026-08-12",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m21656",
+      "name": "Ripley Kalyn Smith",
+      "rating": 1721.66,
+      "dailyRatingChange": 0.09
+    },
+    {
+      "position": 2,
+      "playerId": "m578530",
+      "name": "Andelae McCoy",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 3,
+      "playerId": "m578527",
+      "name": "Marley Skutchan",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 4,
+      "playerId": "m55369",
+      "name": "Tracy Leister",
+      "rating": 1437.48,
+      "dailyRatingChange": 2.42
+    },
+    {
+      "position": 5,
+      "playerId": "m46891",
+      "name": "Lauren Adams KY",
+      "rating": 1498.28,
+      "dailyRatingChange": 6.13
+    },
+    {
+      "position": 6,
+      "playerId": "m586379",
+      "name": "Shelby Hayes-Murray",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 7,
+      "playerId": "m61870",
+      "name": "Luca Hayes-Murray",
+      "rating": 1408.97,
+      "dailyRatingChange": -18.68
+    }
+  ]
+}

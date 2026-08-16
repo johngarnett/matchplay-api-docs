@@ -1,0 +1,151 @@
+{
+  "tournamentId": 265338,
+  "name": "Finals for SIP Summer League 2026 - The Mighty Ducks",
+  "date": "2026-08-07",
+  "locationId": "11814",
+  "locationName": "Our Lady of Perpetual Hops",
+  "playerCount": 20,
+  "ratingsDate": "2026-08-07",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m12735",
+      "name": "Mike Drees",
+      "rating": 1475.09,
+      "dailyRatingChange": 13.78
+    },
+    {
+      "position": 2,
+      "playerId": "m35116",
+      "name": "Amelia Lowe",
+      "rating": 1565.55,
+      "dailyRatingChange": 14.23
+    },
+    {
+      "position": 3,
+      "playerId": "m35158",
+      "name": "Adam Faris",
+      "rating": 1508.78,
+      "dailyRatingChange": 6.2
+    },
+    {
+      "position": 4,
+      "playerId": "m27685",
+      "name": "Andrew Schreck",
+      "rating": 1513.26,
+      "dailyRatingChange": 2.5
+    },
+    {
+      "position": 5,
+      "playerId": "m35427",
+      "name": "Greg Phipps",
+      "rating": 1453.25,
+      "dailyRatingChange": 2.28
+    },
+    {
+      "position": 6,
+      "playerId": "m55541",
+      "name": "Brett Harris",
+      "rating": 1430.75,
+      "dailyRatingChange": 5.16
+    },
+    {
+      "position": 6,
+      "playerId": "m55284",
+      "name": "Jason McKay IN",
+      "rating": 1499.63,
+      "dailyRatingChange": 0.16
+    },
+    {
+      "position": 6,
+      "playerId": "m11283",
+      "name": "Dylan Schutz",
+      "rating": 1536.04,
+      "dailyRatingChange": 0.65
+    },
+    {
+      "position": 9,
+      "playerId": "m55369",
+      "name": "Tracy Leister",
+      "rating": 1437.4,
+      "dailyRatingChange": 2.73
+    },
+    {
+      "position": 10,
+      "playerId": "m57720",
+      "name": "Steve Boucher",
+      "rating": 1419.12,
+      "dailyRatingChange": 2.07
+    },
+    {
+      "position": 10,
+      "playerId": "m48897",
+      "name": "Nick Thornsberry",
+      "rating": 1443.95,
+      "dailyRatingChange": 1.1
+    },
+    {
+      "position": 12,
+      "playerId": "m17572",
+      "name": "Katie Ferreira",
+      "rating": 1559.44,
+      "dailyRatingChange": -6.6
+    },
+    {
+      "position": 13,
+      "playerId": "m25120",
+      "name": "Courtney Smock",
+      "rating": 1477.79,
+      "dailyRatingChange": -3.16
+    },
+    {
+      "position": 14,
+      "playerId": "m35428",
+      "name": "Jack Briles",
+      "rating": 1410.78,
+      "dailyRatingChange": -0.13
+    },
+    {
+      "position": 14,
+      "playerId": "m20425",
+      "name": "Vince Nez",
+      "rating": 1559.83,
+      "dailyRatingChange": -6.63
+    },
+    {
+      "position": 16,
+      "playerId": "m12750",
+      "name": "Zak Kamerer",
+      "rating": 1462.15,
+      "dailyRatingChange": -5.41
+    },
+    {
+      "position": 17,
+      "playerId": "m29611",
+      "name": "Tiffany Lynch",
+      "rating": 1346.9,
+      "dailyRatingChange": -1.05
+    },
+    {
+      "position": 18,
+      "playerId": "m35111",
+      "name": "Tracey Lowe",
+      "rating": 1507.63,
+      "dailyRatingChange": -16.54
+    },
+    {
+      "position": 19,
+      "playerId": "m29807",
+      "name": "Steve Lynch",
+      "rating": 1395.12,
+      "dailyRatingChange": -11.68
+    },
+    {
+      "position": 20,
+      "playerId": "m555736",
+      "name": "Alma Briles",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

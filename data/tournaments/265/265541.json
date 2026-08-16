@@ -1,0 +1,214 @@
+{
+  "tournamentId": 265541,
+  "name": "Kiitos Summer Series 8/4/26",
+  "date": "2026-08-05",
+  "locationId": "5866",
+  "locationName": "Kiitos Brewing",
+  "playerCount": 29,
+  "ratingsDate": "2026-08-05",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m23934",
+      "name": "Sean Christensen",
+      "rating": 1614.37,
+      "dailyRatingChange": 6.55
+    },
+    {
+      "position": 1,
+      "playerId": "m33267",
+      "name": "Jeffrey Larsen",
+      "rating": 1626.53,
+      "dailyRatingChange": 10.34
+    },
+    {
+      "position": 3,
+      "playerId": "m30818",
+      "name": "Simone Bateman",
+      "rating": 1560.33,
+      "dailyRatingChange": 5.79
+    },
+    {
+      "position": 4,
+      "playerId": "m20943",
+      "name": "Paige Peck",
+      "rating": 1635.47,
+      "dailyRatingChange": 1.63
+    },
+    {
+      "position": 4,
+      "playerId": "m36795",
+      "name": "Alex Reynolds",
+      "rating": 1553.86,
+      "dailyRatingChange": 11.42
+    },
+    {
+      "position": 6,
+      "playerId": "m18902",
+      "name": "Wyatt Capener",
+      "rating": 1668.58,
+      "dailyRatingChange": 5.68
+    },
+    {
+      "position": 7,
+      "playerId": "i90170",
+      "name": "Aaron Record",
+      "rating": 1607.03,
+      "dailyRatingChange": 1.99
+    },
+    {
+      "position": 7,
+      "playerId": "m47315",
+      "name": "Cody Copeland",
+      "rating": 1656.31,
+      "dailyRatingChange": 3.3
+    },
+    {
+      "position": 7,
+      "playerId": "m4592",
+      "name": "Mark Laird",
+      "rating": 1694.81,
+      "dailyRatingChange": -1.07
+    },
+    {
+      "position": 10,
+      "playerId": "m27000",
+      "name": "David Bain",
+      "rating": 1632,
+      "dailyRatingChange": 0.18
+    },
+    {
+      "position": 11,
+      "playerId": "m4485",
+      "name": "Dan Newman",
+      "rating": 1687.04,
+      "dailyRatingChange": -6.33
+    },
+    {
+      "position": 11,
+      "playerId": "m25758",
+      "name": "Chris Fest",
+      "rating": 1597.53,
+      "dailyRatingChange": -2.65
+    },
+    {
+      "position": 13,
+      "playerId": "m32522",
+      "name": "David Brick",
+      "rating": 1537.92,
+      "dailyRatingChange": 0.65
+    },
+    {
+      "position": 14,
+      "playerId": "m327605",
+      "name": "Steve Anjewierdem",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 15,
+      "playerId": "m47300",
+      "name": "Kim Fenstermaker",
+      "rating": 1421.8,
+      "dailyRatingChange": 1.92
+    },
+    {
+      "position": 16,
+      "playerId": "m31320",
+      "name": "Connor Kesler",
+      "rating": 1615.56,
+      "dailyRatingChange": -4.36
+    },
+    {
+      "position": 17,
+      "playerId": "m43490",
+      "name": "Lexie Miller",
+      "rating": 1459.36,
+      "dailyRatingChange": -1.98
+    },
+    {
+      "position": 17,
+      "playerId": "m349790",
+      "name": "Chris Matson",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 19,
+      "playerId": "m584653",
+      "name": "Henry Rahlfs",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 19,
+      "playerId": "m45331",
+      "name": "Katy Lee",
+      "rating": 1535.99,
+      "dailyRatingChange": -4.52
+    },
+    {
+      "position": 19,
+      "playerId": "m459862",
+      "name": "Remi Cornett",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 22,
+      "playerId": "m52979",
+      "name": "Derrick Hampson",
+      "rating": 1465.94,
+      "dailyRatingChange": 0.08
+    },
+    {
+      "position": 23,
+      "playerId": "m422540",
+      "name": "Jared Cornett",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 24,
+      "playerId": "i111686",
+      "name": "Jaden Layton",
+      "rating": 1439.93,
+      "dailyRatingChange": -4.82
+    },
+    {
+      "position": 25,
+      "playerId": "m447677",
+      "name": "Scarlet Daniels",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 26,
+      "playerId": "i135894",
+      "name": "Erik Martin",
+      "rating": 1326.97,
+      "dailyRatingChange": null
+    },
+    {
+      "position": 27,
+      "playerId": "m583749",
+      "name": "Trapper Eastman",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 28,
+      "playerId": "m584659",
+      "name": "Ghost Nunez",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 29,
+      "playerId": "m527590",
+      "name": "Emmeryn Forsyth",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

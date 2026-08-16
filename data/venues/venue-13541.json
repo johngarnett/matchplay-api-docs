@@ -1,0 +1,143 @@
+{
+  "locationId": "13541",
+  "name": "Dodds House",
+  "address": "921 timber lane Middletown",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 7,
+  "relatedVenues": [
+    {
+      "locationId": "13309",
+      "name": "Urban House",
+      "address": "York",
+      "count": 6
+    },
+    {
+      "locationId": "13318",
+      "name": "Fauth House",
+      "address": "Lancaster",
+      "count": 6
+    },
+    {
+      "locationId": "13397",
+      "name": "Romano House",
+      "address": "Harrisburg",
+      "count": 6
+    },
+    {
+      "locationId": "13499",
+      "name": "Dodds House",
+      "address": "Middletown",
+      "count": 6
+    },
+    {
+      "locationId": "12658",
+      "name": "61PinBar / Cointaker",
+      "address": "1437 State Route 61 Sunbury, Pa 17801",
+      "count": 4
+    },
+    {
+      "locationId": "5785",
+      "name": "Delaware Pinball Collective",
+      "address": "1100 First State Blvd. Wilmington, DE 19804",
+      "count": 1
+    },
+    {
+      "locationId": "9897",
+      "name": "Urban House",
+      "address": "",
+      "count": 1
+    },
+    {
+      "locationId": "11570",
+      "name": "TPDC Pinball at The Red Rocker",
+      "address": "15 Hershey Rd. Shippensburg, PA 17257",
+      "count": 1
+    }
+  ],
+  "players": [
+    {
+      "id": "m26753",
+      "name": "Sara Romano",
+      "rating": 1568.72,
+      "rd": 27.51,
+      "ratingClass": "B",
+      "homeLocation": "Urban House",
+      "homeLocationId": "13309",
+      "percentile": 73.10290212884894,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i113939",
+      "name": "Josh Dodds",
+      "rating": 1566.86,
+      "rd": 44.55,
+      "ratingClass": "B",
+      "homeLocation": "Dodds House",
+      "homeLocationId": "13541",
+      "percentile": 72.54390459775469,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i109490",
+      "name": "Hyung Ku Nilsen",
+      "rating": 1542.13,
+      "rd": 54.86,
+      "ratingClass": "B",
+      "homeLocation": "Dodds House",
+      "homeLocationId": "13541",
+      "percentile": 63.96795080821727,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m30293",
+      "name": "Damian Mahaffey",
+      "rating": 1492.64,
+      "rd": 47.54,
+      "ratingClass": "C",
+      "homeLocation": "Dodds House",
+      "homeLocationId": "13541",
+      "percentile": 44.118880141612706,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m33022",
+      "name": "Kristy Abbe",
+      "rating": 1433.62,
+      "rd": 23.7,
+      "ratingClass": "C",
+      "homeLocation": "61PinBar / Cointaker",
+      "homeLocationId": "12658",
+      "percentile": 21.66581264266083,
+      "changeDisplay": "-18.5",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m48627",
+      "name": "Missy Dodds",
+      "rating": 1386.98,
+      "rd": 33.31,
+      "ratingClass": "D",
+      "homeLocation": "Urban House",
+      "homeLocationId": "13309",
+      "percentile": 9.67531560068943,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m59600",
+      "name": "Jenny Miller PA",
+      "rating": 1381.51,
+      "rd": 54.84,
+      "ratingClass": "D",
+      "homeLocation": "Dodds House",
+      "homeLocationId": "13541",
+      "percentile": 8.566637164019191,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "tournamentId": 259030,
+  "name": "PLAYOFFS (C Division) for Manitoba SUMMER League 2026 (Season 1)",
+  "date": "2026-07-26",
+  "locationId": "12260",
+  "locationName": "Smash N Axe Arcade Disco",
+  "playerCount": 5,
+  "ratingsDate": "2026-07-26",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m40606",
+      "name": "Rod Betesta",
+      "rating": 1514.66,
+      "dailyRatingChange": 4.26
+    },
+    {
+      "position": 2,
+      "playerId": "m31218",
+      "name": "John Marquez",
+      "rating": 1574.74,
+      "dailyRatingChange": -0.17
+    },
+    {
+      "position": 3,
+      "playerId": "m59030",
+      "name": "Pamela Robertson",
+      "rating": 1376.39,
+      "dailyRatingChange": 1.52
+    },
+    {
+      "position": 4,
+      "playerId": "m51466",
+      "name": "Tina Reno",
+      "rating": 1404.92,
+      "dailyRatingChange": -3.42
+    },
+    {
+      "position": 5,
+      "playerId": "m27081",
+      "name": "Joe Lavin",
+      "rating": 1410.64,
+      "dailyRatingChange": -1.01
+    }
+  ]
+}

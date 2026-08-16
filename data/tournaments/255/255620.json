@@ -1,0 +1,130 @@
+{
+  "tournamentId": 255620,
+  "name": "Pop! Shop Summer 2026",
+  "date": "2026-07-18",
+  "locationId": "13526",
+  "locationName": "Pop! Shop",
+  "playerCount": 17,
+  "ratingsDate": "2026-07-18",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m50169",
+      "name": "Robert MacDonell",
+      "rating": 1607.52,
+      "dailyRatingChange": 5.48
+    },
+    {
+      "position": 2,
+      "playerId": "i107777",
+      "name": "Chris Beaugrand",
+      "rating": 1583.13,
+      "dailyRatingChange": 10.27
+    },
+    {
+      "position": 3,
+      "playerId": "m572782",
+      "name": "Andrew Patterson",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 4,
+      "playerId": "m38501",
+      "name": "Eric Hunter",
+      "rating": 1656.92,
+      "dailyRatingChange": -2.74
+    },
+    {
+      "position": 5,
+      "playerId": "m43307",
+      "name": "Brandon Boltz",
+      "rating": 1641.03,
+      "dailyRatingChange": -11.77
+    },
+    {
+      "position": 5,
+      "playerId": "m11955",
+      "name": "Gwen Holowecky",
+      "rating": null,
+      "dailyRatingChange": -39.19
+    },
+    {
+      "position": 7,
+      "playerId": "m38450",
+      "name": "Mike Duvall",
+      "rating": 1489.14,
+      "dailyRatingChange": -7.43
+    },
+    {
+      "position": 8,
+      "playerId": "m51092",
+      "name": "MaTT Dow",
+      "rating": 1465.65,
+      "dailyRatingChange": 12.32
+    },
+    {
+      "position": 9,
+      "playerId": "m57148",
+      "name": "Rob Shepley",
+      "rating": 1427.2,
+      "dailyRatingChange": null
+    },
+    {
+      "position": 10,
+      "playerId": "m51091",
+      "name": "Gino Cuglietta",
+      "rating": 1469.65,
+      "dailyRatingChange": 13.46
+    },
+    {
+      "position": 11,
+      "playerId": "m41378",
+      "name": "Roberto Caruso",
+      "rating": 1505.02,
+      "dailyRatingChange": -10.16
+    },
+    {
+      "position": 12,
+      "playerId": "m61604",
+      "name": "Aaron Allan",
+      "rating": 1442.06,
+      "dailyRatingChange": 20.74
+    },
+    {
+      "position": 12,
+      "playerId": "m50975",
+      "name": "Marc Racicot",
+      "rating": 1518.45,
+      "dailyRatingChange": -17.69
+    },
+    {
+      "position": 14,
+      "playerId": "m43569",
+      "name": "Kelly Chadwick",
+      "rating": 1451.56,
+      "dailyRatingChange": -2.57
+    },
+    {
+      "position": 15,
+      "playerId": "i141805",
+      "name": "Giorgio Cocchetto",
+      "rating": 1379.58,
+      "dailyRatingChange": 15.35
+    },
+    {
+      "position": 16,
+      "playerId": "m10356",
+      "name": "Darcy Roehler",
+      "rating": 1462.49,
+      "dailyRatingChange": -1.32
+    },
+    {
+      "position": 17,
+      "playerId": "m61989",
+      "name": "Mike Dupuis",
+      "rating": 1381.32,
+      "dailyRatingChange": null
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "tournamentId": 265857,
+  "name": "Spinners Inter-league not-league Tournament",
+  "date": "2026-08-07",
+  "locationId": "12994",
+  "locationName": "Spinners Pinball Arcade",
+  "playerCount": 17,
+  "ratingsDate": "2026-08-07",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m27601",
+      "name": "Joe Said",
+      "rating": 1727.41,
+      "dailyRatingChange": 3.02
+    },
+    {
+      "position": 2,
+      "playerId": "m3352",
+      "name": "Elliott Keith",
+      "rating": 1766.98,
+      "dailyRatingChange": -0.32
+    },
+    {
+      "position": 2,
+      "playerId": "m29967",
+      "name": "Ryan Escontrias",
+      "rating": 1594.02,
+      "dailyRatingChange": -0.21
+    },
+    {
+      "position": 4,
+      "playerId": "m4355",
+      "name": "James Hudson",
+      "rating": 1498.7,
+      "dailyRatingChange": 8.61
+    },
+    {
+      "position": 4,
+      "playerId": "m24481",
+      "name": "Trevor Rose",
+      "rating": 1563.04,
+      "dailyRatingChange": 5.06
+    },
+    {
+      "position": 4,
+      "playerId": "m585048",
+      "name": "Kevin Lloyd",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 7,
+      "playerId": "m13476",
+      "name": "Matt Newton",
+      "rating": 1565.08,
+      "dailyRatingChange": 2.03
+    },
+    {
+      "position": 7,
+      "playerId": "m29679",
+      "name": "Lumi Legato",
+      "rating": 1689.4,
+      "dailyRatingChange": -1.8
+    },
+    {
+      "position": 9,
+      "playerId": "i158501",
+      "name": "Christopher Cox",
+      "rating": 1516.69,
+      "dailyRatingChange": 3.45
+    },
+    {
+      "position": 10,
+      "playerId": "m29773",
+      "name": "Cristin Gasson",
+      "rating": 1450.59,
+      "dailyRatingChange": 15.91
+    },
+    {
+      "position": 10,
+      "playerId": "m5984",
+      "name": "Nick Morgan",
+      "rating": 1550.27,
+      "dailyRatingChange": -4.37
+    },
+    {
+      "position": 10,
+      "playerId": "m10244",
+      "name": "Brian Nalley",
+      "rating": 1499.09,
+      "dailyRatingChange": -1.06
+    },
+    {
+      "position": 13,
+      "playerId": "i14875",
+      "name": "Ethan Gasson",
+      "rating": 1395.39,
+      "dailyRatingChange": -8.24
+    },
+    {
+      "position": 13,
+      "playerId": "m584999",
+      "name": "Will Stivers",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 15,
+      "playerId": "m60590",
+      "name": "Dandy Grossnickle",
+      "rating": 1376.35,
+      "dailyRatingChange": -9.75
+    },
+    {
+      "position": 15,
+      "playerId": "m41741",
+      "name": "Seth Rudesill",
+      "rating": 1434.78,
+      "dailyRatingChange": -4.65
+    },
+    {
+      "position": 17,
+      "playerId": "m585050",
+      "name": "Walter Horbatuk",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

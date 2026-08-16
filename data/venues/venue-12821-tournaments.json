@@ -1,0 +1,44 @@
+{
+  "locationId": "12821",
+  "venueName": "The Alby",
+  "venueAddress": "45 Furzer St, Phillip, ACT 2606, AU",
+  "tournaments": [
+    {
+      "id": 262941,
+      "name": "Finals for Jacks HQ at The Alby July 2026",
+      "date": "7/20/2026",
+      "playerCount": 8,
+      "qualifying": {
+        "id": 262938,
+        "name": "Jacks HQ at The Alby July 2026",
+        "playerCount": 28
+      },
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m52631",
+          "name": "Jose Ciminelli",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m44000",
+          "name": "Alex Ciminelli",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m16003",
+          "name": "Ryan Finn",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m44051",
+          "name": "Thomas Chamberlin",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

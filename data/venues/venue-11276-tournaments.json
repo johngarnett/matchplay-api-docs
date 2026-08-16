@@ -1,0 +1,188 @@
+{
+  "locationId": "11276",
+  "venueName": "Bayou Teche Brewing",
+  "venueAddress": "1002 Noth Lane, Arnaudville, LA 70512, US",
+  "tournaments": [
+    {
+      "id": 266447,
+      "name": "Acadiana Pinball League - Season 1 - Round 5",
+      "date": "8/11/2026",
+      "playerCount": 9,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m24680",
+          "name": "Bennett Dungan",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "p454798",
+          "name": "coyo showz",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m48531",
+          "name": "Michael Burrow",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m20175",
+          "name": "Cedric Broussard",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m48527",
+          "name": "Shane Fontenot",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 265501,
+      "name": "Acadiana Pinball League - Season 1 - Round 4",
+      "date": "8/4/2026",
+      "playerCount": 10,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m48527",
+          "name": "Shane Fontenot",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "p454798",
+          "name": "coyo showz",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "i143489",
+          "name": "Donna Fontenot",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m48531",
+          "name": "Michael Burrow",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m24680",
+          "name": "Bennett Dungan",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 264310,
+      "name": "Acadiana Pinball League - Season 1 - Round 3",
+      "date": "7/28/2026",
+      "playerCount": 12,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m48527",
+          "name": "Shane Fontenot",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "p454798",
+          "name": "coyo showz",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m56451",
+          "name": "Josh M.",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m24680",
+          "name": "Bennett Dungan",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 264025,
+      "name": "Finals for Bayou Teche - July 2026 Tourney",
+      "date": "7/26/2026",
+      "playerCount": 8,
+      "qualifying": {
+        "id": 259152,
+        "name": "Bayou Teche - July 2026 Tourney",
+        "playerCount": 23
+      },
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m11257",
+          "name": "Brian Fults",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m16818",
+          "name": "Nick Mueller",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m42780",
+          "name": "Joseph Felps",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m47193",
+          "name": "John Ford",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 263143,
+      "name": "Acadiana Pinball League - Season 1 - Round 2",
+      "date": "7/21/2026",
+      "playerCount": 10,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m20175",
+          "name": "Cedric Broussard",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m24680",
+          "name": "Bennett Dungan",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "p454816",
+          "name": "alan veillon",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "p454798",
+          "name": "coyo showz",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

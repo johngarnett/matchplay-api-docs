@@ -1,0 +1,39 @@
+{
+  "tournamentId": 264081,
+  "name": "Finals for GPA 4th Sunday Max Matchplay",
+  "date": "2026-07-27",
+  "locationId": "8014",
+  "locationName": "Georgetown Pizza & Arcade",
+  "playerCount": 4,
+  "ratingsDate": "2026-07-27",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m3104",
+      "name": "Bryan Eastman",
+      "rating": 1746.26,
+      "dailyRatingChange": 7.02
+    },
+    {
+      "position": 2,
+      "playerId": "m4441",
+      "name": "Erin Malysa",
+      "rating": 1600.14,
+      "dailyRatingChange": 5.64
+    },
+    {
+      "position": 3,
+      "playerId": "m44491",
+      "name": "Marshall Denton",
+      "rating": 1660.35,
+      "dailyRatingChange": 1.28
+    },
+    {
+      "position": 4,
+      "playerId": "m3178",
+      "name": "Jesse Labbe",
+      "rating": 1598.45,
+      "dailyRatingChange": 10.49
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "tournamentId": 265349,
+  "name": "Up-Down MKE Monday Night Pinball 8/3",
+  "date": "2026-08-04",
+  "locationId": "3674",
+  "locationName": "Up-Down Milwaukee",
+  "playerCount": 12,
+  "ratingsDate": "2026-08-04",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m26462",
+      "name": "Matt Koster",
+      "rating": 1491.82,
+      "dailyRatingChange": 14.92
+    },
+    {
+      "position": 2,
+      "playerId": "m11903",
+      "name": "Dave Brennan",
+      "rating": 1617.57,
+      "dailyRatingChange": 9.87
+    },
+    {
+      "position": 3,
+      "playerId": "m12389",
+      "name": "Ben Dvorachek",
+      "rating": 1570.66,
+      "dailyRatingChange": 8.44
+    },
+    {
+      "position": 4,
+      "playerId": "m11939",
+      "name": "Michael Ritter",
+      "rating": 1694.86,
+      "dailyRatingChange": -5.74
+    },
+    {
+      "position": 5,
+      "playerId": "m27113",
+      "name": "Paul Regner",
+      "rating": 1609.77,
+      "dailyRatingChange": -2.12
+    },
+    {
+      "position": 6,
+      "playerId": "m47755",
+      "name": "Jeff Frazak",
+      "rating": 1505.34,
+      "dailyRatingChange": 3.97
+    },
+    {
+      "position": 7,
+      "playerId": "m45844",
+      "name": "Scott Glatzel",
+      "rating": 1507.45,
+      "dailyRatingChange": 5.53
+    },
+    {
+      "position": 8,
+      "playerId": "m20999",
+      "name": "Pat Ritter",
+      "rating": 1534.16,
+      "dailyRatingChange": 0.46
+    },
+    {
+      "position": 9,
+      "playerId": "m52827",
+      "name": "Mitch Lovance",
+      "rating": 1508.44,
+      "dailyRatingChange": -1.35
+    },
+    {
+      "position": 10,
+      "playerId": "m22019",
+      "name": "Dori Zielinski",
+      "rating": 1630.96,
+      "dailyRatingChange": -8.87
+    },
+    {
+      "position": 11,
+      "playerId": "m23214",
+      "name": "Erasmus Zacharias",
+      "rating": 1500.59,
+      "dailyRatingChange": -5.4
+    },
+    {
+      "position": 12,
+      "playerId": "m35124",
+      "name": "Randy Cochran",
+      "rating": 1478.87,
+      "dailyRatingChange": -11.22
+    }
+  ]
+}

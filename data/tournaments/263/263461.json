@@ -1,0 +1,39 @@
+{
+  "tournamentId": 263461,
+  "name": "Finals for tcpinball.org @ Right Brain 2026-07-23",
+  "date": "2026-07-24",
+  "locationId": "6879",
+  "locationName": "Right Brain Brewery",
+  "playerCount": 4,
+  "ratingsDate": "2026-07-24",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m32581",
+      "name": "Ross Williams",
+      "rating": 1643.98,
+      "dailyRatingChange": 13.76
+    },
+    {
+      "position": 2,
+      "playerId": "m25014",
+      "name": "Ben Harris",
+      "rating": 1520.73,
+      "dailyRatingChange": 2.84
+    },
+    {
+      "position": 3,
+      "playerId": "m10803",
+      "name": "Dingo Hilgard",
+      "rating": 1688.4,
+      "dailyRatingChange": 5.69
+    },
+    {
+      "position": 4,
+      "playerId": "m32231",
+      "name": "Johnny G",
+      "rating": 1636.4,
+      "dailyRatingChange": -0.32
+    }
+  ]
+}

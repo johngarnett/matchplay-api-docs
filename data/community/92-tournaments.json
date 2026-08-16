@@ -1,0 +1,401 @@
+{
+  "communityId": "92",
+  "locations": [
+    {
+      "id": "10209",
+      "name": "8-Bit Beans",
+      "address": "100 Brock St South, Whitby, ON, L1N 4J8, CA",
+      "tournaments": [
+        {
+          "id": 260814,
+          "name": "8-Bit Beans Group Match Play Tournament",
+          "date": "8/9/2026",
+          "playerCount": 14,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "i129412",
+              "name": "Deirdre Skye",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m49587",
+              "name": "James Englefield",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "i129411",
+              "name": "Mike Mutimer",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "i130135",
+              "name": "Leighton Mutimer",
+              "isCommunityMember": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6680",
+      "name": "Bluffs Pinball",
+      "address": "442 Brimley Rd, Scarborough, ON M1J 1A1, Canada",
+      "tournaments": [
+        {
+          "id": 266955,
+          "name": "Bluffs Tournament  2026 08 13",
+          "date": "8/13/2026",
+          "playerCount": 23,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m28135",
+              "name": "Eric Machtinger",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m48883",
+              "name": "Chase Ivany",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m28340",
+              "name": "Dave McGarva",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m28312",
+              "name": "Liz Rayment",
+              "isCommunityMember": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9650",
+      "name": "Cabin Fever",
+      "address": "1669 Bloor St W, Toronto, ON M6P 1A6, CA",
+      "tournaments": [
+        {
+          "id": 241776,
+          "name": "APAB #13 - Assigned Pinball At Birth Toronto",
+          "date": "8/11/2026",
+          "playerCount": 23,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m4720",
+              "name": "Bryce Moore",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m16136",
+              "name": "Travis Provick",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m1391",
+              "name": "Steve Martin",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m5481",
+              "name": "Danielle Laverdure",
+              "isCommunityMember": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6085",
+      "name": "Maple Pinball",
+      "address": "",
+      "tournaments": [
+        {
+          "id": 266133,
+          "name": "Finals for Maple Pinball Appreciation weekend: Fri-Sat Best Game",
+          "date": "8/8/2026",
+          "playerCount": 12,
+          "qualifying": {
+            "id": 265987,
+            "name": "Maple Pinball Appreciation weekend: Fri-Sat Best Game",
+            "playerCount": 27
+          },
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m2124",
+              "name": "Steven Machado",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m148",
+              "name": "Jeff Teolis",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m43791",
+              "name": "Mike Savage",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m341",
+              "name": "Mike Dymus",
+              "isCommunityMember": true
+            }
+          ]
+        },
+        {
+          "id": 266095,
+          "name": "Finals for Maple Pinball Appreciation weekend: Saturday Classics",
+          "date": "8/8/2026",
+          "playerCount": 8,
+          "qualifying": {
+            "id": 266014,
+            "name": "Maple Pinball Appreciation weekend: Saturday Classics",
+            "playerCount": 28
+          },
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m43791",
+              "name": "Mike Savage",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m148",
+              "name": "Jeff Teolis",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m50169",
+              "name": "Robert MacDonell",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m6070",
+              "name": "John Flitton",
+              "isCommunityMember": true
+            }
+          ]
+        },
+        {
+          "id": 266139,
+          "name": "B Finals for Maple Pinball Appreciation weekend: Fri-Sat Best Game",
+          "date": "8/8/2026",
+          "playerCount": 4,
+          "qualifying": {
+            "id": 265987,
+            "name": "Maple Pinball Appreciation weekend: Fri-Sat Best Game",
+            "playerCount": 27
+          },
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m6748",
+              "name": "Donna Wai",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m24189",
+              "name": "Chris Moxley",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m10719",
+              "name": "Brad Hopkins",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m21583",
+              "name": "Calvin Reid",
+              "isCommunityMember": true
+            }
+          ]
+        },
+        {
+          "id": 266028,
+          "name": "THE Finals for Maple Pinball Appreciation weekend: Friday night",
+          "date": "8/7/2026",
+          "playerCount": 8,
+          "qualifying": {
+            "id": 265964,
+            "name": "Maple Pinball Appreciation weekend: Friday night matchplay",
+            "playerCount": 31
+          },
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m26722",
+              "name": "David Cowling",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m2124",
+              "name": "Steven Machado",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m43791",
+              "name": "Mike Savage",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m148",
+              "name": "Jeff Teolis",
+              "isCommunityMember": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6118",
+      "name": "Maple Pinball",
+      "address": "245 Matheson Boulevard East, Mississauga, ON L4Z 3K2, CA",
+      "tournaments": [
+        {
+          "id": 267142,
+          "name": "Finals for Maple Pinball's Weekly Tourneys 8/14",
+          "date": "8/14/2026",
+          "playerCount": 8,
+          "qualifying": {
+            "id": 267094,
+            "name": "Maple Pinball's Weekly Tourneys 8/14",
+            "playerCount": 17
+          },
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m659",
+              "name": "Brian Trenholm",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m27516",
+              "name": "Colin Parker ON",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m9269",
+              "name": "Laura Edward",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m10657",
+              "name": "Shane Jackson",
+              "isCommunityMember": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "unknown",
+      "name": "Unknown Location",
+      "address": "",
+      "tournaments": [
+        {
+          "id": 266974,
+          "name": "GTOPL Season 19 #3 Maple",
+          "date": "8/13/2026",
+          "playerCount": 16,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m41926",
+              "name": "Mario Annecchiarico",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m37304",
+              "name": "Scott Tizzard",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "i61538",
+              "name": "Mike Faria",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m37063",
+              "name": "Evan Irvine",
+              "isCommunityMember": true
+            }
+          ]
+        },
+        {
+          "id": 266834,
+          "name": "Boy's Night #2",
+          "date": "8/12/2026",
+          "playerCount": 4,
+          "qualifying": {
+            "id": 266833,
+            "name": "Boys Night",
+            "playerCount": 4
+          },
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m25582",
+              "name": "Jay Mackie",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "i132305",
+              "name": "Sam Eyeam",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "p466847",
+              "name": "Robbie czirak",
+              "isCommunityMember": false
+            },
+            {
+              "position": 4,
+              "playerId": "m41926",
+              "name": "Mario Annecchiarico",
+              "isCommunityMember": true
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

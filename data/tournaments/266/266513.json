@@ -1,0 +1,39 @@
+{
+  "tournamentId": 266513,
+  "name": "Finals for Power to the Pinballers 8.10",
+  "date": "2026-08-11",
+  "locationId": "12963",
+  "locationName": "Blairally Vintage Arcade",
+  "playerCount": 4,
+  "ratingsDate": "2026-08-11",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m14697",
+      "name": "Dominic Lemas",
+      "rating": 1570.29,
+      "dailyRatingChange": 7.35
+    },
+    {
+      "position": 2,
+      "playerId": "m20993",
+      "name": "Eric Merchant",
+      "rating": 1692.09,
+      "dailyRatingChange": 0.33
+    },
+    {
+      "position": 3,
+      "playerId": "m34328",
+      "name": "Gary Kochel",
+      "rating": 1579.08,
+      "dailyRatingChange": 5.25
+    },
+    {
+      "position": 4,
+      "playerId": "m31688",
+      "name": "Annie Smith",
+      "rating": 1512.62,
+      "dailyRatingChange": 5.25
+    }
+  ]
+}

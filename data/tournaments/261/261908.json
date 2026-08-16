@@ -1,0 +1,67 @@
+{
+  "tournamentId": 261908,
+  "name": "Div A Finals - Tuesday League #4",
+  "date": "2026-07-21",
+  "locationId": "10800",
+  "locationName": "Illawarra Pinball Clubhouse",
+  "playerCount": 8,
+  "ratingsDate": "2026-07-21",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m48552",
+      "name": "Ron Lengling",
+      "rating": 1632.36,
+      "dailyRatingChange": 8.38
+    },
+    {
+      "position": 2,
+      "playerId": "i126598",
+      "name": "Rob O'Connor",
+      "rating": 1573.07,
+      "dailyRatingChange": 7.04
+    },
+    {
+      "position": 3,
+      "playerId": "i123566",
+      "name": "Simon min",
+      "rating": 1535.56,
+      "dailyRatingChange": -0.23
+    },
+    {
+      "position": 4,
+      "playerId": "m32734",
+      "name": "Rowan Franke",
+      "rating": 1536.87,
+      "dailyRatingChange": -2.07
+    },
+    {
+      "position": 5,
+      "playerId": "m39451",
+      "name": "Mags Craze",
+      "rating": 1526.87,
+      "dailyRatingChange": -1.51
+    },
+    {
+      "position": 5,
+      "playerId": "m9641",
+      "name": "Jayson Walsh",
+      "rating": 1661.36,
+      "dailyRatingChange": -5.78
+    },
+    {
+      "position": 7,
+      "playerId": "m23351",
+      "name": "Matt Roberts",
+      "rating": 1603.39,
+      "dailyRatingChange": -4.86
+    },
+    {
+      "position": 8,
+      "playerId": "m47097",
+      "name": "Craig Stanford",
+      "rating": 1523.02,
+      "dailyRatingChange": -2.26
+    }
+  ]
+}

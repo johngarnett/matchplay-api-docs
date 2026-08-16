@@ -1,0 +1,40 @@
+{
+  "locationId": "13191",
+  "venueName": "Tivoli Bowl",
+  "venueAddress": "938 Warren Ave, Downers Grove, IL 60515, US",
+  "tournaments": [
+    {
+      "id": 257810,
+      "name": "July '26 Bumper Baddies Tivoli Bowl Womens' Tournament",
+      "date": "7/20/2026",
+      "playerCount": 5,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m43402",
+          "name": "Kayla Bivens",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "p568009",
+          "name": "Rozanova Hunter",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "p572130",
+          "name": "Ash Silguero",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "p572122",
+          "name": "Chyna DeSantiago",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

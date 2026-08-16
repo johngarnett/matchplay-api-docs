@@ -1,0 +1,443 @@
+{
+  "locationId": "10388",
+  "name": "Urban Axe Yard",
+  "address": "3758 E Fry Blvd, Sierra Vista, AZ, 85635, US",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 31,
+  "relatedVenues": [
+    {
+      "locationId": "6372",
+      "name": "Catalina Brewing Company",
+      "address": "6918 N Camino Martin #120, Marana, AZ, 85741, US",
+      "count": 56
+    },
+    {
+      "locationId": "5585",
+      "name": "HOTRODS",
+      "address": "",
+      "count": 25
+    },
+    {
+      "locationId": "7481",
+      "name": "Electric Bat Arcade",
+      "address": "25 W Southern Ave, Tempe, AZ 85282, US",
+      "count": 19
+    },
+    {
+      "locationId": "10002",
+      "name": "North Mountain Brewing Company",
+      "address": "522 E Dunlap Ave, Phoenix, AZ 85020, US",
+      "count": 13
+    },
+    {
+      "locationId": "12581",
+      "name": "Tilt Gamez",
+      "address": "13831 W Glendale Ave SUITE B, Glendale, AZ 85307, US",
+      "count": 11
+    },
+    {
+      "locationId": "6751",
+      "name": "Atomic Age Modern",
+      "address": "140 W Main St, Mesa, AZ 85201, USA",
+      "count": 5
+    },
+    {
+      "locationId": "13419",
+      "name": "Throne Brewing",
+      "address": "17035 N 67th Ave, Glendale, AZ 85308",
+      "count": 5
+    },
+    {
+      "locationId": "802",
+      "name": "Starfighters Arcade",
+      "address": "4840 E Jasmine St #102, Mesa, AZ, 85205, US",
+      "count": 1
+    },
+    {
+      "locationId": "9714",
+      "name": "Special When Lit Pinball",
+      "address": "15685 SW 116th Ave King City, OR 97224",
+      "count": 1
+    },
+    {
+      "locationId": "10065",
+      "name": "Gebhard's Beer Culture",
+      "address": "228 W 72nd St, New York, NY 10023, US",
+      "count": 1
+    }
+  ],
+  "players": [
+    {
+      "id": "m26199",
+      "name": "Andy Nicholls",
+      "rating": 1773.57,
+      "rd": 27.04,
+      "ratingClass": "Expert",
+      "homeLocation": "Catalina Brewing Company",
+      "homeLocationId": "6372",
+      "percentile": 99.22206176922718,
+      "changeDisplay": "-1.1",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m2777",
+      "name": "Ben Clement",
+      "rating": 1745.11,
+      "rd": 24.77,
+      "ratingClass": "Expert",
+      "homeLocation": "HOTRODS",
+      "homeLocationId": "5585",
+      "percentile": 98.57921460846882,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m5995",
+      "name": "John Finnegan",
+      "rating": 1733.89,
+      "rd": 25.38,
+      "ratingClass": "Expert",
+      "homeLocation": "Catalina Brewing Company",
+      "homeLocationId": "6372",
+      "percentile": 98.25779102808963,
+      "changeDisplay": "+12.2",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m3071",
+      "name": "Derek Jordan",
+      "rating": 1697.36,
+      "rd": 22.55,
+      "ratingClass": "A",
+      "homeLocation": "Catalina Brewing Company",
+      "homeLocationId": "6372",
+      "percentile": 96.43639073927423,
+      "changeDisplay": "+4.4",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m32346",
+      "name": "Eric Anderson AZ",
+      "rating": 1696.84,
+      "rd": 24.14,
+      "ratingClass": "A",
+      "homeLocation": "Urban Axe Yard",
+      "homeLocationId": "10388",
+      "percentile": 96.38514929892393,
+      "changeDisplay": "+3.7",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m4009",
+      "name": "Wayne Saeger",
+      "rating": 1693.76,
+      "rd": 22.86,
+      "ratingClass": "A",
+      "homeLocation": "Catalina Brewing Company",
+      "homeLocationId": "6372",
+      "percentile": 96.18950016304095,
+      "changeDisplay": "-10.4",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m40629",
+      "name": "Robert Medwedeff",
+      "rating": 1628.78,
+      "rd": 27.98,
+      "ratingClass": "A",
+      "homeLocation": "Catalina Brewing Company",
+      "homeLocationId": "6372",
+      "percentile": 88.28900172357572,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m52466",
+      "name": "Louis Rulon",
+      "rating": 1599.58,
+      "rd": 16.64,
+      "ratingClass": "B",
+      "homeLocation": "Electric Bat Arcade",
+      "homeLocationId": "7481",
+      "percentile": 81.90245493082405,
+      "changeDisplay": "+10.8",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m62887",
+      "name": "Thomas Guerrero",
+      "rating": 1579.65,
+      "rd": 26.53,
+      "ratingClass": "B",
+      "homeLocation": "Urban Axe Yard",
+      "homeLocationId": "10388",
+      "percentile": 76.50347044300554,
+      "changeDisplay": "★",
+      "changeClass": "change-new"
+    },
+    {
+      "id": "i118618",
+      "name": "Dave Pineda",
+      "rating": 1560.2,
+      "rd": 23.18,
+      "ratingClass": "B",
+      "homeLocation": "Urban Axe Yard",
+      "homeLocationId": "10388",
+      "percentile": 70.34983928820981,
+      "changeDisplay": "+6.3",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m34244",
+      "name": "BOB BODMAN",
+      "rating": 1542.32,
+      "rd": 19.82,
+      "ratingClass": "B",
+      "homeLocation": "Catalina Brewing Company",
+      "homeLocationId": "6372",
+      "percentile": 64.0005589975311,
+      "changeDisplay": "+3.4",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m52287",
+      "name": "David Suitts",
+      "rating": 1509.71,
+      "rd": 30.21,
+      "ratingClass": "B",
+      "homeLocation": "Urban Axe Yard",
+      "homeLocationId": "10388",
+      "percentile": 51.148274095122744,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m56083",
+      "name": "Rachel Shurte",
+      "rating": 1507.34,
+      "rd": 29.34,
+      "ratingClass": "B",
+      "homeLocation": "Electric Bat Arcade",
+      "homeLocationId": "7481",
+      "percentile": 50.10481203708017,
+      "changeDisplay": "+31.4",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m42852",
+      "name": "Hunter Davis",
+      "rating": 1502.95,
+      "rd": 44.63,
+      "ratingClass": "B",
+      "homeLocation": "Urban Axe Yard",
+      "homeLocationId": "10388",
+      "percentile": 48.29738668654213,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m22034",
+      "name": "Scott Fite",
+      "rating": 1486.93,
+      "rd": 22.3,
+      "ratingClass": "C",
+      "homeLocation": "Urban Axe Yard",
+      "homeLocationId": "10388",
+      "percentile": 41.69655750687101,
+      "changeDisplay": "-7.6",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m45591",
+      "name": "Steve Ogle",
+      "rating": 1486.36,
+      "rd": 23.5,
+      "ratingClass": "C",
+      "homeLocation": "Urban Axe Yard",
+      "homeLocationId": "10388",
+      "percentile": 41.4683001816742,
+      "changeDisplay": "-7.0",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m42240",
+      "name": "Heather Hocker",
+      "rating": 1482.41,
+      "rd": 21.81,
+      "ratingClass": "C",
+      "homeLocation": "Urban Axe Yard",
+      "homeLocationId": "10388",
+      "percentile": 39.87515721805562,
+      "changeDisplay": "-6.2",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m61690",
+      "name": "Riley Conklin",
+      "rating": 1407.95,
+      "rd": 23.34,
+      "ratingClass": "C",
+      "homeLocation": "Urban Axe Yard",
+      "homeLocationId": "10388",
+      "percentile": 14.519960870172824,
+      "changeDisplay": "+1.0",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m44508",
+      "name": "Noah Stone",
+      "rating": 1402.32,
+      "rd": 24.99,
+      "ratingClass": "C",
+      "homeLocation": "Urban Axe Yard",
+      "homeLocationId": "10388",
+      "percentile": 13.11780872967811,
+      "changeDisplay": "+10.0",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m32987",
+      "name": "Rachel Anderson",
+      "rating": 1397.39,
+      "rd": 51.02,
+      "ratingClass": "D",
+      "homeLocation": "Urban Axe Yard",
+      "homeLocationId": "10388",
+      "percentile": 11.836772720920482,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i89916",
+      "name": "Kathy Fite",
+      "rating": 1369.55,
+      "rd": 33.35,
+      "ratingClass": "D",
+      "homeLocation": "Urban Axe Yard",
+      "homeLocationId": "10388",
+      "percentile": 6.638095681744072,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i146096",
+      "name": "Cameron Wagoner",
+      "rating": 1364.85,
+      "rd": 26.77,
+      "ratingClass": "D",
+      "homeLocation": "Urban Axe Yard",
+      "homeLocationId": "10388",
+      "percentile": 6.032515023058648,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m54558",
+      "name": "Donna Suitts",
+      "rating": 1360.7,
+      "rd": 33.8,
+      "ratingClass": "D",
+      "homeLocation": "Urban Axe Yard",
+      "homeLocationId": "10388",
+      "percentile": 5.515442306796478,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i146097",
+      "name": "Lee Martin",
+      "rating": 1350.93,
+      "rd": 25.58,
+      "ratingClass": "D",
+      "homeLocation": "Urban Axe Yard",
+      "homeLocationId": "10388",
+      "percentile": 4.369497368053291,
+      "changeDisplay": "+4.9",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m54924",
+      "name": "Matthew Ogle",
+      "rating": 1345.86,
+      "rd": 31.78,
+      "ratingClass": "D",
+      "homeLocation": "Urban Axe Yard",
+      "homeLocationId": "10388",
+      "percentile": 3.801183211440816,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m61803",
+      "name": "Charlah Moore",
+      "rating": 1300.4,
+      "rd": 35.44,
+      "ratingClass": "D",
+      "homeLocation": "Urban Axe Yard",
+      "homeLocationId": "10388",
+      "percentile": 1.0760702473564077,
+      "changeDisplay": "★",
+      "changeClass": "change-new"
+    },
+    {
+      "id": "i157543",
+      "name": "Lawrence Stephanson",
+      "rating": 1272.65,
+      "rd": 30.35,
+      "ratingClass": "E",
+      "homeLocation": "Urban Axe Yard",
+      "homeLocationId": "10388",
+      "percentile": 0.5077560907439325,
+      "changeDisplay": "+1.6",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "i154117",
+      "name": "Glen Holliday",
+      "rating": 1266.41,
+      "rd": 25.73,
+      "ratingClass": "E",
+      "homeLocation": "Urban Axe Yard",
+      "homeLocationId": "10388",
+      "percentile": 0.41924814832067825,
+      "changeDisplay": "-5.5",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "i147502",
+      "name": "Riley Conklin",
+      "rating": null,
+      "rd": null,
+      "ratingClass": "N/A",
+      "homeLocation": "Urban Axe Yard",
+      "homeLocationId": "10388",
+      "percentile": null,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i136699",
+      "name": "Thomas Guerrero",
+      "rating": null,
+      "rd": null,
+      "ratingClass": "N/A",
+      "homeLocation": "Urban Axe Yard",
+      "homeLocationId": "10388",
+      "percentile": null,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i151907",
+      "name": "Matthew Ogle",
+      "rating": null,
+      "rd": null,
+      "ratingClass": "N/A",
+      "homeLocation": "Urban Axe Yard",
+      "homeLocationId": "10388",
+      "percentile": null,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

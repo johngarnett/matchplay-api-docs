@@ -1,0 +1,67 @@
+{
+  "tournamentId": 266120,
+  "name": "Finals for B Finals for Scrappleshine Selfie League (Summer '26)",
+  "date": "2026-08-08",
+  "locationId": "12538",
+  "locationName": "Scrappleland",
+  "playerCount": 8,
+  "ratingsDate": "2026-08-08",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m54643",
+      "name": "Joel Lasner",
+      "rating": null,
+      "dailyRatingChange": 5.53
+    },
+    {
+      "position": 2,
+      "playerId": "m28438",
+      "name": "Chris Dooley",
+      "rating": 1569.89,
+      "dailyRatingChange": -7.36
+    },
+    {
+      "position": 3,
+      "playerId": "m55352",
+      "name": "Jacob Geskin",
+      "rating": null,
+      "dailyRatingChange": null
+    },
+    {
+      "position": 4,
+      "playerId": "m58478",
+      "name": "Matt West",
+      "rating": 1436.2,
+      "dailyRatingChange": 28.09
+    },
+    {
+      "position": 5,
+      "playerId": "m53356",
+      "name": "Matt Raz",
+      "rating": 1442.88,
+      "dailyRatingChange": 7.6
+    },
+    {
+      "position": 6,
+      "playerId": "m50044",
+      "name": "Dani Blum",
+      "rating": 1461.08,
+      "dailyRatingChange": -3.72
+    },
+    {
+      "position": 7,
+      "playerId": "m27016",
+      "name": "Jeff Manheimer",
+      "rating": 1507.15,
+      "dailyRatingChange": -6.38
+    },
+    {
+      "position": 8,
+      "playerId": "m48127",
+      "name": "Jacque Bailey",
+      "rating": 1411.53,
+      "dailyRatingChange": -3.1
+    }
+  ]
+}

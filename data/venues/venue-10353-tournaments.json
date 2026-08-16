@@ -1,0 +1,118 @@
+{
+  "locationId": "10353",
+  "venueName": "The Pinball Palace",
+  "venueAddress": "3303 Hopkins Avenue, Brunswick, GA 31520, US",
+  "tournaments": [
+    {
+      "id": 267150,
+      "name": "Finals for Finals for Pinball Palace Fridays 8/14/26",
+      "date": "8/14/2026",
+      "playerCount": 4,
+      "qualifying": {
+        "id": 267135,
+        "name": "Finals for Pinball Palace Fridays 8/14/26",
+        "playerCount": 8
+      },
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "i146150",
+          "name": "Michael Brown GA",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m61677",
+          "name": "Michael Traynor",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m26022",
+          "name": "Nick Daniel",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m35986",
+          "name": "Ian Crusan",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 264919,
+      "name": "Finals for Friday Tournament at The Pinball Palace",
+      "date": "7/31/2026",
+      "playerCount": 4,
+      "qualifying": {
+        "id": 264791,
+        "name": "Friday Tournament at The Pinball Palace",
+        "playerCount": 10
+      },
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m7709",
+          "name": "Andrew Dunn",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m9521",
+          "name": "Scott Slifka",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m35057",
+          "name": "Christine Dunn",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "i138020",
+          "name": "David Bruce",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 262607,
+      "name": "Finals for semi-Finals for Friday Tournament at The Pinball Palace",
+      "date": "7/17/2026",
+      "playerCount": 4,
+      "qualifying": {
+        "id": 262594,
+        "name": "semi-Finals for Friday Tournament at The Pinball Palace",
+        "playerCount": 6
+      },
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m3980",
+          "name": "Neal Wagoner",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "i132257",
+          "name": "River Good",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m26022",
+          "name": "Nick Daniel",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "i146150",
+          "name": "Michael Brown GA",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

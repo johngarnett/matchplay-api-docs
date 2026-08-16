@@ -1,0 +1,123 @@
+{
+  "tournamentId": 264875,
+  "name": "Monday League @ Pinballz #2 - Fall S2",
+  "date": "2026-08-11",
+  "locationId": "13143",
+  "locationName": "Pinballz Arcade",
+  "playerCount": 16,
+  "ratingsDate": "2026-08-11",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m60466",
+      "name": "Joshua Myers",
+      "rating": 1719.54,
+      "dailyRatingChange": 11.7
+    },
+    {
+      "position": 2,
+      "playerId": "m486",
+      "name": "Brad Holliday",
+      "rating": 1686.1,
+      "dailyRatingChange": -1.08
+    },
+    {
+      "position": 3,
+      "playerId": "m58501",
+      "name": "Claire Knapp",
+      "rating": 1483.82,
+      "dailyRatingChange": 15.86
+    },
+    {
+      "position": 4,
+      "playerId": "m60752",
+      "name": "Steve Cheney",
+      "rating": 1529.32,
+      "dailyRatingChange": 12.09
+    },
+    {
+      "position": 5,
+      "playerId": "m58502",
+      "name": "Omar Salazar",
+      "rating": 1524.96,
+      "dailyRatingChange": 2.58
+    },
+    {
+      "position": 6,
+      "playerId": "m60465",
+      "name": "Jaye Cerda",
+      "rating": 1492.54,
+      "dailyRatingChange": 4.47
+    },
+    {
+      "position": 7,
+      "playerId": "i124984",
+      "name": "JT Street",
+      "rating": 1478.7,
+      "dailyRatingChange": 0.05
+    },
+    {
+      "position": 8,
+      "playerId": "m62807",
+      "name": "Scott Doniger",
+      "rating": 1462.69,
+      "dailyRatingChange": null
+    },
+    {
+      "position": 9,
+      "playerId": "m21923",
+      "name": "Sean Donahue",
+      "rating": 1451.49,
+      "dailyRatingChange": 11.14
+    },
+    {
+      "position": 10,
+      "playerId": "m60464",
+      "name": "Bayley Graham",
+      "rating": 1412.67,
+      "dailyRatingChange": 3.34
+    },
+    {
+      "position": 11,
+      "playerId": "m61021",
+      "name": "Mikael Fette",
+      "rating": 1467.29,
+      "dailyRatingChange": -9.21
+    },
+    {
+      "position": 12,
+      "playerId": "i160807",
+      "name": "Alex Knapp",
+      "rating": 1373.01,
+      "dailyRatingChange": 2.41
+    },
+    {
+      "position": 12,
+      "playerId": "m60478",
+      "name": "Alex Schalchlin",
+      "rating": 1406.19,
+      "dailyRatingChange": 2.52
+    },
+    {
+      "position": 14,
+      "playerId": "m58509",
+      "name": "Chris Knapp",
+      "rating": 1497.81,
+      "dailyRatingChange": -10.16
+    },
+    {
+      "position": 15,
+      "playerId": "m568018",
+      "name": "Kyle Allen",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 16,
+      "playerId": "m568004",
+      "name": "Jack Fette",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

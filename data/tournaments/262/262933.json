@@ -1,0 +1,81 @@
+{
+  "tournamentId": 262933,
+  "name": "Admiral Pub Music Mondays (Seattle)",
+  "date": "2026-07-21",
+  "locationId": "7136",
+  "locationName": "Admiral Pub",
+  "playerCount": 10,
+  "ratingsDate": "2026-07-21",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m8556",
+      "name": "Chris Borgstadt",
+      "rating": 1702.11,
+      "dailyRatingChange": 6.18
+    },
+    {
+      "position": 2,
+      "playerId": "m29008",
+      "name": "Bob Lyman",
+      "rating": 1598.48,
+      "dailyRatingChange": 4.92
+    },
+    {
+      "position": 3,
+      "playerId": "m11002",
+      "name": "Amber Roy",
+      "rating": 1559.2,
+      "dailyRatingChange": 2.94
+    },
+    {
+      "position": 4,
+      "playerId": "m40325",
+      "name": "Jessica Savieo",
+      "rating": 1328.93,
+      "dailyRatingChange": 21.03
+    },
+    {
+      "position": 5,
+      "playerId": "m13413",
+      "name": "Matt Korsmoe",
+      "rating": 1635.36,
+      "dailyRatingChange": -3.07
+    },
+    {
+      "position": 5,
+      "playerId": "m14266",
+      "name": "Scott Helgason",
+      "rating": 1667.55,
+      "dailyRatingChange": -5.36
+    },
+    {
+      "position": 7,
+      "playerId": "m18316",
+      "name": "Michael Tomber",
+      "rating": 1614.91,
+      "dailyRatingChange": -6.08
+    },
+    {
+      "position": 7,
+      "playerId": "m37180",
+      "name": "Jo Gagliardi",
+      "rating": 1535.92,
+      "dailyRatingChange": -3.47
+    },
+    {
+      "position": 9,
+      "playerId": "m52288",
+      "name": "Matthew Zalupski",
+      "rating": 1473.53,
+      "dailyRatingChange": -0.43
+    },
+    {
+      "position": 9,
+      "playerId": "m58388",
+      "name": "Jayme Markham",
+      "rating": 1416.57,
+      "dailyRatingChange": -18.15
+    }
+  ]
+}

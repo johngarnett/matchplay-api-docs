@@ -1,0 +1,60 @@
+{
+  "tournamentId": 264552,
+  "name": "White Buffalo's: Buck up or shut up 3-Strike #18",
+  "date": "2026-07-30",
+  "locationId": "13134",
+  "locationName": "White Buffalo Saloon",
+  "playerCount": 7,
+  "ratingsDate": "2026-07-30",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m61851",
+      "name": "Peter Sharp",
+      "rating": 1579.83,
+      "dailyRatingChange": 0.43
+    },
+    {
+      "position": 2,
+      "playerId": "m37860",
+      "name": "Canyon Mosely",
+      "rating": 1589.96,
+      "dailyRatingChange": 1.26
+    },
+    {
+      "position": 3,
+      "playerId": "m574707",
+      "name": "Sean Sarnowski",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 3,
+      "playerId": "m558334",
+      "name": "Maddie Baker",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 5,
+      "playerId": "m33281",
+      "name": "Daniel Anthony",
+      "rating": 1527.76,
+      "dailyRatingChange": -2.62
+    },
+    {
+      "position": 5,
+      "playerId": "m582982",
+      "name": "Rick Bailey",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 5,
+      "playerId": "m548741",
+      "name": "Kayley Cathcart",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

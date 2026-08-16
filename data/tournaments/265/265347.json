@@ -1,0 +1,158 @@
+{
+  "tournamentId": 265347,
+  "name": "Sanctum Weekly (Pace Matchplay) 8/3/26",
+  "date": "2026-08-04",
+  "locationId": "5908",
+  "locationName": "The Sanctum",
+  "playerCount": 21,
+  "ratingsDate": "2026-08-04",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m40393",
+      "name": "Connor Mulberry",
+      "rating": 1831.85,
+      "dailyRatingChange": 6.53
+    },
+    {
+      "position": 2,
+      "playerId": "m20084",
+      "name": "Jason Corrado",
+      "rating": 1637.05,
+      "dailyRatingChange": 11.24
+    },
+    {
+      "position": 3,
+      "playerId": "m21",
+      "name": "James Swain Jr.",
+      "rating": 1622.96,
+      "dailyRatingChange": 1.84
+    },
+    {
+      "position": 3,
+      "playerId": "m234",
+      "name": "Davey Plaisted",
+      "rating": 1614.25,
+      "dailyRatingChange": 6.83
+    },
+    {
+      "position": 5,
+      "playerId": "m43648",
+      "name": "Timothy Dargan",
+      "rating": 1582.69,
+      "dailyRatingChange": 3.57
+    },
+    {
+      "position": 5,
+      "playerId": "m77230",
+      "name": "Brenda Kabel",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 7,
+      "playerId": "m13712",
+      "name": "Ron Benoit",
+      "rating": 1594.12,
+      "dailyRatingChange": 5.22
+    },
+    {
+      "position": 8,
+      "playerId": "m1163",
+      "name": "George Magyar",
+      "rating": 1605.68,
+      "dailyRatingChange": -2.8
+    },
+    {
+      "position": 9,
+      "playerId": "m27749",
+      "name": "Mell Scalzi",
+      "rating": 1435.03,
+      "dailyRatingChange": 6.92
+    },
+    {
+      "position": 9,
+      "playerId": "m1115",
+      "name": "Holly Danowski",
+      "rating": 1566.7,
+      "dailyRatingChange": 1.77
+    },
+    {
+      "position": 11,
+      "playerId": "m11330",
+      "name": "Kristen Bayusik",
+      "rating": 1553.03,
+      "dailyRatingChange": 1.23
+    },
+    {
+      "position": 11,
+      "playerId": "m43202",
+      "name": "Dustin Lavoie",
+      "rating": 1519.3,
+      "dailyRatingChange": 5.91
+    },
+    {
+      "position": 13,
+      "playerId": "m9417",
+      "name": "Randall Landau",
+      "rating": 1621.56,
+      "dailyRatingChange": -8.76
+    },
+    {
+      "position": 14,
+      "playerId": "m27920",
+      "name": "Selwyn Wilson",
+      "rating": 1579.49,
+      "dailyRatingChange": -7.16
+    },
+    {
+      "position": 15,
+      "playerId": "m3634",
+      "name": "Jim Obrien USA",
+      "rating": 1491.04,
+      "dailyRatingChange": -10.75
+    },
+    {
+      "position": 15,
+      "playerId": "i58688",
+      "name": "Chris Scheibel",
+      "rating": 1438.98,
+      "dailyRatingChange": -10.13
+    },
+    {
+      "position": 15,
+      "playerId": "m9160",
+      "name": "Chris Dirga",
+      "rating": 1569.31,
+      "dailyRatingChange": -12.11
+    },
+    {
+      "position": 18,
+      "playerId": "m28663",
+      "name": "Dean Lennert",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 19,
+      "playerId": "i58361",
+      "name": "Bill Scheibel",
+      "rating": 1392.94,
+      "dailyRatingChange": 0.23
+    },
+    {
+      "position": 20,
+      "playerId": "i42791",
+      "name": "Rick Sinkiewicz",
+      "rating": 1519.6,
+      "dailyRatingChange": -19.19
+    },
+    {
+      "position": 21,
+      "playerId": "m46556",
+      "name": "Nancy Lennert",
+      "rating": 1494.19,
+      "dailyRatingChange": -24.49
+    }
+  ]
+}

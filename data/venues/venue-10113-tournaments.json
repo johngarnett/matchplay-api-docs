@@ -1,0 +1,28 @@
+{
+  "locationId": "10113",
+  "venueName": "Chieftain Pool & Pinball",
+  "venueAddress": "38005 Cleveland Ave Squamish BC V8B 0c3",
+  "tournaments": [
+    {
+      "id": 265209,
+      "name": "Finals for Squamish Transformers Launch Party",
+      "date": "8/2/2026",
+      "playerCount": 4,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 3,
+          "playerId": "m10129",
+          "name": "David Brocklebank",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "i104319",
+          "name": "Carl Taylor",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "tournamentId": 263597,
+  "name": "Pure Joy Toys!!!!! Initial Thursday Tournament",
+  "date": "2026-08-07",
+  "locationId": "13780",
+  "locationName": "Pure Joy Toys",
+  "playerCount": 10,
+  "ratingsDate": "2026-08-07",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m8322",
+      "name": "Gilbert Herrera",
+      "rating": 1708.48,
+      "dailyRatingChange": 3.5
+    },
+    {
+      "position": 2,
+      "playerId": "m36589",
+      "name": "Mario Garza",
+      "rating": 1686.34,
+      "dailyRatingChange": 2.69
+    },
+    {
+      "position": 3,
+      "playerId": "m56824",
+      "name": "Sona Rivera",
+      "rating": 1507.16,
+      "dailyRatingChange": 3.94
+    },
+    {
+      "position": 4,
+      "playerId": "m43007",
+      "name": "AJ Lopez",
+      "rating": 1552.73,
+      "dailyRatingChange": 3.07
+    },
+    {
+      "position": 5,
+      "playerId": "m26633",
+      "name": "Trevor Miller",
+      "rating": 1599.79,
+      "dailyRatingChange": -3.31
+    },
+    {
+      "position": 5,
+      "playerId": "m54458",
+      "name": "Mario Gutierrez",
+      "rating": 1441.52,
+      "dailyRatingChange": 1.42
+    },
+    {
+      "position": 7,
+      "playerId": "m50807",
+      "name": "Liam Boss",
+      "rating": 1520.53,
+      "dailyRatingChange": 0.2
+    },
+    {
+      "position": 8,
+      "playerId": "m42522",
+      "name": "Chris Boss",
+      "rating": 1542.59,
+      "dailyRatingChange": -4.65
+    },
+    {
+      "position": 9,
+      "playerId": "m62687",
+      "name": "Jonathan Kantor",
+      "rating": 1442.94,
+      "dailyRatingChange": null
+    },
+    {
+      "position": 10,
+      "playerId": "m39244",
+      "name": "Aimee Miller",
+      "rating": 1322.47,
+      "dailyRatingChange": -33.32
+    }
+  ]
+}

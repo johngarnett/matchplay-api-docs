@@ -1,0 +1,67 @@
+{
+  "tournamentId": 258909,
+  "name": "Spinners Pinball League Summer 2026 - C Division - Playoffs",
+  "date": "2026-07-31",
+  "locationId": "12994",
+  "locationName": "Spinners Pinball Arcade",
+  "playerCount": 8,
+  "ratingsDate": "2026-07-31",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m52503",
+      "name": "Paul Halliday",
+      "rating": 1524.2,
+      "dailyRatingChange": 9.87
+    },
+    {
+      "position": 2,
+      "playerId": "m26175",
+      "name": "Robert Shirley",
+      "rating": 1478.74,
+      "dailyRatingChange": 19.71
+    },
+    {
+      "position": 3,
+      "playerId": "m57306",
+      "name": "Josh Borowski",
+      "rating": 1485.69,
+      "dailyRatingChange": 3.93
+    },
+    {
+      "position": 4,
+      "playerId": "m57275",
+      "name": "Marc Jeray",
+      "rating": 1487.27,
+      "dailyRatingChange": -12.83
+    },
+    {
+      "position": 5,
+      "playerId": "m60286",
+      "name": "Alex Mouradian",
+      "rating": 1419.51,
+      "dailyRatingChange": 12.49
+    },
+    {
+      "position": 6,
+      "playerId": "m42806",
+      "name": "Melissa Hienkle",
+      "rating": 1460.66,
+      "dailyRatingChange": -3.17
+    },
+    {
+      "position": 7,
+      "playerId": "m60590",
+      "name": "Dandy Grossnickle",
+      "rating": 1386.1,
+      "dailyRatingChange": -20.67
+    },
+    {
+      "position": 8,
+      "playerId": "m26154",
+      "name": "Andrew Zucco",
+      "rating": 1511.97,
+      "dailyRatingChange": -30.48
+    }
+  ]
+}

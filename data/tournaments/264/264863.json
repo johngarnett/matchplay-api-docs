@@ -1,0 +1,53 @@
+{
+  "tournamentId": 264863,
+  "name": "Sunday League @ Pinballz #2 - Fall S2",
+  "date": "2026-08-09",
+  "locationId": "13143",
+  "locationName": "Pinballz Arcade",
+  "playerCount": 6,
+  "ratingsDate": "2026-08-09",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m58509",
+      "name": "Chris Knapp",
+      "rating": 1507.97,
+      "dailyRatingChange": 6.05
+    },
+    {
+      "position": 2,
+      "playerId": "m60470",
+      "name": "Matthew Thornton",
+      "rating": 1473.31,
+      "dailyRatingChange": 5.84
+    },
+    {
+      "position": 3,
+      "playerId": "m62588",
+      "name": "Abby Long",
+      "rating": 1518.03,
+      "dailyRatingChange": 9.8
+    },
+    {
+      "position": 4,
+      "playerId": "m586074",
+      "name": "Cesar Giral",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 5,
+      "playerId": "m58501",
+      "name": "Claire Knapp",
+      "rating": 1467.96,
+      "dailyRatingChange": -3.68
+    },
+    {
+      "position": 6,
+      "playerId": "m60478",
+      "name": "Alex Schalchlin",
+      "rating": 1403.67,
+      "dailyRatingChange": -10.76
+    }
+  ]
+}

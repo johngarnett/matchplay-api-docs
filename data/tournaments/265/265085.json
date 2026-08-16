@@ -1,0 +1,53 @@
+{
+  "tournamentId": 265085,
+  "name": "Monte Pokemon Launch Party",
+  "date": "2026-08-02",
+  "locationId": "13821",
+  "locationName": "The Monte Bar and Casino",
+  "playerCount": 6,
+  "ratingsDate": "2026-08-02",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m29301",
+      "name": "James Normand",
+      "rating": 1636.38,
+      "dailyRatingChange": 0.7
+    },
+    {
+      "position": 2,
+      "playerId": "m56249",
+      "name": "Zak Gadberry",
+      "rating": 1536.7,
+      "dailyRatingChange": 17.31
+    },
+    {
+      "position": 3,
+      "playerId": "m41887",
+      "name": "Stephen Mallen",
+      "rating": 1581.28,
+      "dailyRatingChange": 9.55
+    },
+    {
+      "position": 4,
+      "playerId": "m33594",
+      "name": "AJ Sheble",
+      "rating": 1547.25,
+      "dailyRatingChange": -1.67
+    },
+    {
+      "position": 5,
+      "playerId": "m47510",
+      "name": "Ari Uecker",
+      "rating": 1411.74,
+      "dailyRatingChange": -4.6
+    },
+    {
+      "position": 6,
+      "playerId": "m39403",
+      "name": "Rob Marvin",
+      "rating": 1477.91,
+      "dailyRatingChange": -27.3
+    }
+  ]
+}

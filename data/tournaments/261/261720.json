@@ -1,0 +1,53 @@
+{
+  "tournamentId": 261720,
+  "name": "B&C August Hawk’s Game Room",
+  "date": "2026-08-15",
+  "locationId": "11875",
+  "locationName": "Hawk’s Nest",
+  "playerCount": 6,
+  "ratingsDate": null,
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m47298",
+      "name": "Felicia Haakenson",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 2,
+      "playerId": "m45283",
+      "name": "Sarah Kramer",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 3,
+      "playerId": "m587121",
+      "name": "Lidda Morris",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 4,
+      "playerId": "m46442",
+      "name": "Stephany Ginter",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 5,
+      "playerId": "m57561",
+      "name": "Amy Morris",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 6,
+      "playerId": "m539182",
+      "name": "Kaitlyn Haakenson",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

@@ -1,0 +1,203 @@
+{
+  "locationId": "4349",
+  "name": "Classic Arcade Pinball Museum",
+  "address": "409 Broad St, Chattanooga, TN 37402, USA",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 14,
+  "relatedVenues": [
+    {
+      "locationId": "3687",
+      "name": "Rocket City Matchplay",
+      "address": "100 Cutter Ln, Meridianville, AL 35759, USA",
+      "count": 3
+    },
+    {
+      "locationId": "7073",
+      "name": "East Tennessee Pinball",
+      "address": "10523 Kingston Pike STE C, Knoxville, TN",
+      "count": 2
+    },
+    {
+      "locationId": "8485",
+      "name": "Token Game Tavern",
+      "address": "213 North Seven Oaks Drive, Knoxville, TN 37922, US",
+      "count": 2
+    },
+    {
+      "locationId": "9921",
+      "name": "Renaissance Atlanta Waverly Hotel & Convention Center",
+      "address": "2450 Galleria Pkwy Atlanta, GA 30339",
+      "count": 1
+    }
+  ],
+  "players": [
+    {
+      "id": "m36758",
+      "name": "Evan Gagnon",
+      "rating": 1773.4,
+      "rd": 40.77,
+      "ratingClass": "Expert",
+      "homeLocation": "Classic Arcade Pinball Museum",
+      "homeLocationId": "4349",
+      "percentile": 99.21740345646806,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m46751",
+      "name": "Kevin Neale",
+      "rating": 1596.16,
+      "rd": 40.02,
+      "ratingClass": "B",
+      "homeLocation": "Classic Arcade Pinball Museum",
+      "homeLocationId": "4349",
+      "percentile": 81.12451670005125,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m29956",
+      "name": "Joshua Garcia",
+      "rating": 1581.31,
+      "rd": 40.24,
+      "ratingClass": "B",
+      "homeLocation": "Classic Arcade Pinball Museum",
+      "homeLocationId": "4349",
+      "percentile": 76.99725159547212,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m21652",
+      "name": "David Golding",
+      "rating": 1553.04,
+      "rd": 36.43,
+      "ratingClass": "B",
+      "homeLocation": "Classic Arcade Pinball Museum",
+      "homeLocationId": "4349",
+      "percentile": 67.90888340243164,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m46018",
+      "name": "Tommy Sylvester",
+      "rating": 1544.4,
+      "rd": 34.02,
+      "ratingClass": "B",
+      "homeLocation": "Classic Arcade Pinball Museum",
+      "homeLocationId": "4349",
+      "percentile": 64.73191410071271,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m52027",
+      "name": "Corey Wright",
+      "rating": 1541.53,
+      "rd": 66.67,
+      "ratingClass": "B",
+      "homeLocation": "Classic Arcade Pinball Museum",
+      "homeLocationId": "4349",
+      "percentile": 63.69776866818838,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m50465",
+      "name": "Rob K",
+      "rating": 1538.95,
+      "rd": 35.85,
+      "ratingClass": "B",
+      "homeLocation": "Classic Arcade Pinball Museum",
+      "homeLocationId": "4349",
+      "percentile": 62.686914799459636,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m27509",
+      "name": "Adam Pryor",
+      "rating": 1522.16,
+      "rd": 65.96,
+      "ratingClass": "B",
+      "homeLocation": "Classic Arcade Pinball Museum",
+      "homeLocationId": "4349",
+      "percentile": 56.02086924116085,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m49176",
+      "name": "CJ Green",
+      "rating": 1473.42,
+      "rd": 38.11,
+      "ratingClass": "C",
+      "homeLocation": "Classic Arcade Pinball Museum",
+      "homeLocationId": "4349",
+      "percentile": 36.269623142497785,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m61855",
+      "name": "TIM",
+      "rating": 1470.22,
+      "rd": 52.9,
+      "ratingClass": "C",
+      "homeLocation": "Rocket City Matchplay",
+      "homeLocationId": "3687",
+      "percentile": 34.95132063166721,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i57237",
+      "name": "TIM",
+      "rating": null,
+      "rd": null,
+      "ratingClass": "N/A",
+      "homeLocation": "Classic Arcade Pinball Museum",
+      "homeLocationId": "4349",
+      "percentile": null,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m58579",
+      "name": "Dan Norey",
+      "rating": null,
+      "rd": null,
+      "ratingClass": "N/A",
+      "homeLocation": "Classic Arcade Pinball Museum",
+      "homeLocationId": "4349",
+      "percentile": null,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m58570",
+      "name": "Judy Houck",
+      "rating": null,
+      "rd": null,
+      "ratingClass": "N/A",
+      "homeLocation": "Classic Arcade Pinball Museum",
+      "homeLocationId": "4349",
+      "percentile": null,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m61486",
+      "name": "Trey Kernea",
+      "rating": null,
+      "rd": null,
+      "ratingClass": "N/A",
+      "homeLocation": "Classic Arcade Pinball Museum",
+      "homeLocationId": "4349",
+      "percentile": null,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

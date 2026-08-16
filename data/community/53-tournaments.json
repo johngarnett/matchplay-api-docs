@@ -1,0 +1,216 @@
+{
+  "communityId": "53",
+  "locations": [
+    {
+      "id": "13756",
+      "name": "Atomic Arcade",
+      "address": "1790 Island Hwy #105, Victoria, BC V9B 1H8, CA",
+      "tournaments": [
+        {
+          "id": 266707,
+          "name": "Atomic Arcade - League Niight #1 - Finals Real",
+          "date": "8/11/2026",
+          "playerCount": 6,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m37319",
+              "name": "Damien Muth",
+              "isCommunityMember": true
+            },
+            {
+              "position": 1,
+              "playerId": "p586507",
+              "name": "Richard Van Bregt",
+              "isCommunityMember": false
+            },
+            {
+              "position": 3,
+              "playerId": "m17207",
+              "name": "Cosmo Lauzon",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "p586490",
+              "name": "Grant Clouston",
+              "isCommunityMember": false
+            }
+          ]
+        },
+        {
+          "id": 266672,
+          "name": "Atomic Arcade - League Niight #1",
+          "date": "8/11/2026",
+          "playerCount": 6,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m17207",
+              "name": "Cosmo Lauzon",
+              "isCommunityMember": true
+            },
+            {
+              "position": 1,
+              "playerId": "m10749",
+              "name": "Brent Hayashi",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m37319",
+              "name": "Damien Muth",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "p586508",
+              "name": "Nathan Crouch",
+              "isCommunityMember": false
+            },
+            {
+              "position": 4,
+              "playerId": "p586507",
+              "name": "Richard Van Bregt",
+              "isCommunityMember": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8645",
+      "name": "The American",
+      "address": "926 Main St, Vancouver, BC V6A 2W1, CA",
+      "tournaments": [
+        {
+          "id": 266783,
+          "name": "Replay Wednesdays at the American: August 12th, 2026",
+          "date": "8/12/2026",
+          "playerCount": 20,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m28090",
+              "name": "Frank E",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m1295",
+              "name": "Brennan Lloyd",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m13315",
+              "name": "Rhys Coulter",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m53993",
+              "name": "Jake Parsonson",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m27032",
+              "name": "Eddie DeWolfe",
+              "isCommunityMember": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8817",
+      "name": "The Library Square Pub",
+      "address": "300 W Georgia St, Vancouver, BC V6B 6B1, CA",
+      "tournaments": [
+        {
+          "id": 266675,
+          "name": "QuickShot at Library Square",
+          "date": "8/11/2026",
+          "playerCount": 6,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m27032",
+              "name": "Eddie DeWolfe",
+              "isCommunityMember": true
+            },
+            {
+              "position": 1,
+              "playerId": "m3471",
+              "name": "Billy Gordon",
+              "isCommunityMember": true
+            },
+            {
+              "position": 1,
+              "playerId": "m53993",
+              "name": "Jake Parsonson",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m27946",
+              "name": "Jeremy Matthews",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m40107",
+              "name": "Adrian Lask",
+              "isCommunityMember": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "12634",
+      "name": "The Outpost",
+      "address": "1773 Kingsway, Vancouver, BC V5N 2S5, US",
+      "tournaments": [
+        {
+          "id": 266345,
+          "name": "The Outlane @ The Outpost - August 9, 2026",
+          "date": "8/9/2026",
+          "playerCount": 9,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m39247",
+              "name": "Steve Main",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m1261",
+              "name": "Matt Ewan",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "p38715",
+              "name": "Darcy Imada",
+              "isCommunityMember": false
+            },
+            {
+              "position": 3,
+              "playerId": "m53993",
+              "name": "Jake Parsonson",
+              "isCommunityMember": true
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

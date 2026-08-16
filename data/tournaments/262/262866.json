@@ -1,0 +1,39 @@
+{
+  "tournamentId": 262866,
+  "name": "Finals for Pinsomniacs July Open",
+  "date": "2026-07-19",
+  "locationId": "7501",
+  "locationName": "Tepey’s Taps & Tacos",
+  "playerCount": 4,
+  "ratingsDate": "2026-07-19",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m35986",
+      "name": "Ian Crusan",
+      "rating": 1655.63,
+      "dailyRatingChange": 13.92
+    },
+    {
+      "position": 2,
+      "playerId": "m37538",
+      "name": "Tank Koscinski",
+      "rating": 1688.81,
+      "dailyRatingChange": 2.22
+    },
+    {
+      "position": 2,
+      "playerId": "m47307",
+      "name": "Derrick Smith",
+      "rating": 1584.46,
+      "dailyRatingChange": 6.56
+    },
+    {
+      "position": 4,
+      "playerId": "m3753",
+      "name": "Jokton Strealy",
+      "rating": 1646.87,
+      "dailyRatingChange": -4.09
+    }
+  ]
+}

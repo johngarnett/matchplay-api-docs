@@ -1,0 +1,158 @@
+{
+  "tournamentId": 264892,
+  "name": "5 day Friday Side",
+  "date": "2026-08-01",
+  "locationId": "13075",
+  "locationName": "Tap Tap | Double Tap Beercade",
+  "playerCount": 21,
+  "ratingsDate": "2026-08-01",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m12080",
+      "name": "Patrick Rhomberg",
+      "rating": 1749.96,
+      "dailyRatingChange": 7.23
+    },
+    {
+      "position": 2,
+      "playerId": "m32233",
+      "name": "Alivia Haley",
+      "rating": 1686.61,
+      "dailyRatingChange": 2.34
+    },
+    {
+      "position": 3,
+      "playerId": "m56415",
+      "name": "Ben Stupar",
+      "rating": 1651.24,
+      "dailyRatingChange": 2.89
+    },
+    {
+      "position": 4,
+      "playerId": "m56418",
+      "name": "Todd A. Miller",
+      "rating": 1618.75,
+      "dailyRatingChange": 3.86
+    },
+    {
+      "position": 4,
+      "playerId": "m47198",
+      "name": "Chris Farmer",
+      "rating": 1580.28,
+      "dailyRatingChange": 11.75
+    },
+    {
+      "position": 4,
+      "playerId": "m35778",
+      "name": "Seth Van Wert",
+      "rating": 1620.06,
+      "dailyRatingChange": 4.15
+    },
+    {
+      "position": 7,
+      "playerId": "m39366",
+      "name": "Harry Nelsen",
+      "rating": 1631.51,
+      "dailyRatingChange": -1.04
+    },
+    {
+      "position": 7,
+      "playerId": "m3041",
+      "name": "Cody McQuiston",
+      "rating": 1748.64,
+      "dailyRatingChange": -6.43
+    },
+    {
+      "position": 9,
+      "playerId": "i122413",
+      "name": "Ethan Vale",
+      "rating": 1493.98,
+      "dailyRatingChange": 12.03
+    },
+    {
+      "position": 9,
+      "playerId": "m47200",
+      "name": "Ryan Jerred",
+      "rating": 1559.35,
+      "dailyRatingChange": -1.12
+    },
+    {
+      "position": 11,
+      "playerId": "m57235",
+      "name": "Jeff Smith IA",
+      "rating": 1428.7,
+      "dailyRatingChange": 5.15
+    },
+    {
+      "position": 11,
+      "playerId": "i137695",
+      "name": "Josh Hutchison",
+      "rating": 1580.66,
+      "dailyRatingChange": -9.59
+    },
+    {
+      "position": 11,
+      "playerId": "m34833",
+      "name": "Madison Chidester",
+      "rating": 1537.01,
+      "dailyRatingChange": -0.6
+    },
+    {
+      "position": 14,
+      "playerId": "m23520",
+      "name": "Aaron Van Noy",
+      "rating": 1616.79,
+      "dailyRatingChange": -5.53
+    },
+    {
+      "position": 14,
+      "playerId": "m582882",
+      "name": "Luca Bosco -IA",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 16,
+      "playerId": "m53348",
+      "name": "Ryan Schloss",
+      "rating": 1545.25,
+      "dailyRatingChange": -5.56
+    },
+    {
+      "position": 16,
+      "playerId": "m54820",
+      "name": "Jameson Neuwerth",
+      "rating": 1402.44,
+      "dailyRatingChange": -9.82
+    },
+    {
+      "position": 16,
+      "playerId": "m47128",
+      "name": "Caleb Weber",
+      "rating": 1457.29,
+      "dailyRatingChange": -1.01
+    },
+    {
+      "position": 16,
+      "playerId": "m48319",
+      "name": "Jamie Neuwerth",
+      "rating": 1582.93,
+      "dailyRatingChange": -5.81
+    },
+    {
+      "position": 20,
+      "playerId": "m62497",
+      "name": "Ulysses Loera IA",
+      "rating": 1423.79,
+      "dailyRatingChange": null
+    },
+    {
+      "position": 20,
+      "playerId": "m37736",
+      "name": "Connie Marcos",
+      "rating": 1558.21,
+      "dailyRatingChange": -14.4
+    }
+  ]
+}

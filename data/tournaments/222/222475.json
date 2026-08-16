@@ -1,0 +1,53 @@
+{
+  "tournamentId": 222475,
+  "name": "Full Tilt Arcade - Stern Army Presents - 4 Strike Tournament - Aug 5th",
+  "date": "2026-08-06",
+  "locationId": "7392",
+  "locationName": "Full Tilt Arcade & Pinball",
+  "playerCount": 6,
+  "ratingsDate": "2026-08-06",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m22683",
+      "name": "Chris Friend",
+      "rating": 1636.45,
+      "dailyRatingChange": 3.01
+    },
+    {
+      "position": 2,
+      "playerId": "m50488",
+      "name": "Scott Sweitzer",
+      "rating": 1474.26,
+      "dailyRatingChange": 4.48
+    },
+    {
+      "position": 3,
+      "playerId": "m32433",
+      "name": "Chris Burgo",
+      "rating": 1591.12,
+      "dailyRatingChange": -1.88
+    },
+    {
+      "position": 4,
+      "playerId": "m584829",
+      "name": "Madison Hogan",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 5,
+      "playerId": "m52704",
+      "name": "Amber McGinley",
+      "rating": 1501.97,
+      "dailyRatingChange": -4.07
+    },
+    {
+      "position": 5,
+      "playerId": "m584823",
+      "name": "Tony Garcia",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

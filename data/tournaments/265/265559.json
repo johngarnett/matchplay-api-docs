@@ -1,0 +1,39 @@
+{
+  "tournamentId": 265559,
+  "name": "Finals for Tilt & Tap Tuesday's!",
+  "date": "2026-08-05",
+  "locationId": "9807",
+  "locationName": "Minnesota Pinball @ Bucks Mill Brewing",
+  "playerCount": 4,
+  "ratingsDate": "2026-08-05",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "i158680",
+      "name": "Sean Oakes",
+      "rating": 1422.89,
+      "dailyRatingChange": 17.11
+    },
+    {
+      "position": 2,
+      "playerId": "m44885",
+      "name": "Bill Esterby",
+      "rating": 1599.95,
+      "dailyRatingChange": 9.3
+    },
+    {
+      "position": 3,
+      "playerId": "i122699",
+      "name": "Jim Francis",
+      "rating": 1540.33,
+      "dailyRatingChange": 3.38
+    },
+    {
+      "position": 4,
+      "playerId": "m40082",
+      "name": "Jed Arneson",
+      "rating": 1515.1,
+      "dailyRatingChange": 14
+    }
+  ]
+}

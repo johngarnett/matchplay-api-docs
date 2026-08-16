@@ -1,0 +1,88 @@
+{
+  "tournamentId": 262633,
+  "name": "BPL round 1",
+  "date": "2026-07-19",
+  "locationId": "13746",
+  "locationName": "Blackpool pinball club",
+  "playerCount": 11,
+  "ratingsDate": "2026-07-19",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m40573",
+      "name": "Richard Barber",
+      "rating": 1599.1,
+      "dailyRatingChange": 12.4
+    },
+    {
+      "position": 2,
+      "playerId": "m55221",
+      "name": "Luke Wells UK",
+      "rating": 1509.74,
+      "dailyRatingChange": 11.41
+    },
+    {
+      "position": 3,
+      "playerId": "m579945",
+      "name": "Simon o'brien",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 4,
+      "playerId": "m22006",
+      "name": "Paul Owen",
+      "rating": 1541.01,
+      "dailyRatingChange": -4.39
+    },
+    {
+      "position": 5,
+      "playerId": "m51375",
+      "name": "Don Gauld",
+      "rating": 1492.96,
+      "dailyRatingChange": -4.59
+    },
+    {
+      "position": 5,
+      "playerId": "m51903",
+      "name": "Tex Alexander",
+      "rating": 1428.39,
+      "dailyRatingChange": 9.46
+    },
+    {
+      "position": 7,
+      "playerId": "m52975",
+      "name": "Rik Holding",
+      "rating": 1450.49,
+      "dailyRatingChange": 2.66
+    },
+    {
+      "position": 8,
+      "playerId": "m42594",
+      "name": "Andrew Broom",
+      "rating": 1440.78,
+      "dailyRatingChange": 2.14
+    },
+    {
+      "position": 9,
+      "playerId": "m40901",
+      "name": "Jane Young",
+      "rating": 1438.89,
+      "dailyRatingChange": -7.37
+    },
+    {
+      "position": 10,
+      "playerId": "m579946",
+      "name": "Ricky cooper",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 11,
+      "playerId": "m42583",
+      "name": "Samuel Zucconi",
+      "rating": 1447.95,
+      "dailyRatingChange": -18.55
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "tournamentId": 253124,
+  "name": "YOUTH Wizard's World Youth Tournament July 18, 2026",
+  "date": "2026-07-18",
+  "locationId": "1451",
+  "locationName": "Wizard's World",
+  "playerCount": 4,
+  "ratingsDate": "2026-07-18",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m339463",
+      "name": "Avery Sloboda",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 2,
+      "playerId": "i97823",
+      "name": "Silas Riggle",
+      "rating": 1430.77,
+      "dailyRatingChange": 3.45
+    },
+    {
+      "position": 3,
+      "playerId": "i99973",
+      "name": "Riot Riggle",
+      "rating": 1372.68,
+      "dailyRatingChange": 1.88
+    },
+    {
+      "position": 4,
+      "playerId": "m579640",
+      "name": "Reed Castillo Mock",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

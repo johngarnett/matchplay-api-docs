@@ -1,0 +1,185 @@
+{
+  "locationId": "5827",
+  "name": "My House",
+  "address": "",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 10,
+  "relatedVenues": [
+    {
+      "locationId": "8125",
+      "name": "Logan Arcade",
+      "address": "2410 W Fullerton Ave, Chicago, IL, 60647, US",
+      "count": 28
+    },
+    {
+      "locationId": "11617",
+      "name": "Chicago Billiard Cafe",
+      "address": "5935 W Irving Park Rd, Chicago, IL 60634, US",
+      "count": 15
+    },
+    {
+      "locationId": "4804",
+      "name": "District 82 Pinball",
+      "address": "800 O Keefe Rd, De Pere, WI 54115, USA",
+      "count": 4
+    },
+    {
+      "locationId": "6453",
+      "name": "Millennium Place",
+      "address": "",
+      "count": 3
+    },
+    {
+      "locationId": "5770",
+      "name": "ORD",
+      "address": "",
+      "count": 2
+    },
+    {
+      "locationId": "10939",
+      "name": "Millennium Place",
+      "address": "2000 Premier Way, Sherwood Park, AB",
+      "count": 2
+    },
+    {
+      "locationId": "5315",
+      "name": "Enterrium",
+      "address": "2 Woodfield Mall Unit A, Schaumburg, IL 60173, USA",
+      "count": 1
+    },
+    {
+      "locationId": "11372",
+      "name": "Elston Electric",
+      "address": "1357 N Elston Ave, Chicago, IL 60642, US",
+      "count": 1
+    },
+    {
+      "locationId": "12978",
+      "name": "The Pinball Capital",
+      "address": "3200 W Le Moyne St, Stone Park, IL 60165",
+      "count": 1
+    }
+  ],
+  "players": [
+    {
+      "id": "m4174",
+      "name": "Jane Verwys",
+      "rating": 1721.41,
+      "rd": 22.37,
+      "ratingClass": "Expert",
+      "homeLocation": "Logan Arcade",
+      "homeLocationId": "8125",
+      "percentile": 97.74071831182745,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m4865",
+      "name": "Collin Joyce",
+      "rating": 1669.78,
+      "rd": 40.9,
+      "ratingClass": "A",
+      "homeLocation": "Chicago Billiard Cafe",
+      "homeLocationId": "11617",
+      "percentile": 94.04667629384636,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m1536",
+      "name": "Rebecca Hinsdale",
+      "rating": 1655.43,
+      "rd": 29.13,
+      "ratingClass": "A",
+      "homeLocation": "Logan Arcade",
+      "homeLocationId": "8125",
+      "percentile": 92.47216658126428,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m14138",
+      "name": "Madeleine Benz",
+      "rating": 1607.29,
+      "rd": 40.4,
+      "ratingClass": "A",
+      "homeLocation": "My House",
+      "homeLocationId": "5827",
+      "percentile": 83.7611217217124,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m6116",
+      "name": "Christine Doherty",
+      "rating": 1562.77,
+      "rd": 28.98,
+      "ratingClass": "B",
+      "homeLocation": "Logan Arcade",
+      "homeLocationId": "8125",
+      "percentile": 71.23957702520147,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m7980",
+      "name": "Charlie Giglia",
+      "rating": 1542.89,
+      "rd": 35.25,
+      "ratingClass": "B",
+      "homeLocation": "Chicago Billiard Cafe",
+      "homeLocationId": "11617",
+      "percentile": 64.19620813341407,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m4440",
+      "name": "Emily Sweeney",
+      "rating": 1528.81,
+      "rd": 30.22,
+      "ratingClass": "B",
+      "homeLocation": "Logan Arcade",
+      "homeLocationId": "8125",
+      "percentile": 58.56896632039875,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m18494",
+      "name": "Tiffini Sarver",
+      "rating": 1504.11,
+      "rd": 29.23,
+      "ratingClass": "B",
+      "homeLocation": "Logan Arcade",
+      "homeLocationId": "8125",
+      "percentile": 48.856384217636375,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m40444",
+      "name": "Justin Rosenfield",
+      "rating": 1420.7,
+      "rd": 69.91,
+      "ratingClass": "C",
+      "homeLocation": "My House",
+      "homeLocationId": "5827",
+      "percentile": 17.832021241906183,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m25431",
+      "name": "Tim Hill",
+      "rating": 1400.1,
+      "rd": 75,
+      "ratingClass": "C",
+      "homeLocation": "My House",
+      "homeLocationId": "5827",
+      "percentile": 12.50291144547445,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

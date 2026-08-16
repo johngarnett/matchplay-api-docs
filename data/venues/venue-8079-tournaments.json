@@ -1,0 +1,143 @@
+{
+  "locationId": "8079",
+  "venueName": "Free Play Arlington",
+  "venueAddress": "400 East South Street, Arlington, TX 76010, US",
+  "tournaments": [
+    {
+      "id": 265398,
+      "name": "Finals for Tokyo Station Arlington Pinball Monday (8/3/26)",
+      "date": "8/3/2026",
+      "playerCount": 12,
+      "qualifying": {
+        "id": 265309,
+        "name": "Tokyo Station Arlington Pinball Monday (8/3/26)",
+        "playerCount": 28
+      },
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m26400",
+          "name": "Daniel Martin",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m5329",
+          "name": "Chris Delp",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m28603",
+          "name": "Greg Gibson",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m28350",
+          "name": "Randy Nelson",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 263959,
+      "name": "A Division Finals for FPPL - Season 20 - Arlington",
+      "date": "7/30/2026",
+      "playerCount": 8,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m24795",
+          "name": "Brian Perlick",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m25466",
+          "name": "John Richardson",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m26400",
+          "name": "Daniel Martin",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m19204",
+          "name": "Colin Wood",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 264690,
+      "name": "B Division Finals for FPPL - Season 20 - Arlington",
+      "date": "7/30/2026",
+      "playerCount": 6,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m58410",
+          "name": "Landon Fearing",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m62220",
+          "name": "Laura Kern",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "i159125",
+          "name": "Zack Kammaz",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m52637",
+          "name": "Greg Girkin",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 246888,
+      "name": "FPPL - Season 20 - Arlington #8",
+      "date": "7/23/2026",
+      "playerCount": 13,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m29234",
+          "name": "Dagny Cosgrove",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m47123",
+          "name": "Brett Leedy",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m26400",
+          "name": "Daniel Martin",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m25466",
+          "name": "John Richardson",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

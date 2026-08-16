@@ -1,0 +1,74 @@
+{
+  "tournamentId": 262682,
+  "name": "Stern Army Junly",
+  "date": "2026-07-18",
+  "locationId": "3808",
+  "locationName": "Shoot Again",
+  "playerCount": 9,
+  "ratingsDate": "2026-07-18",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m12366",
+      "name": "Laurent Gregoire",
+      "rating": 1675.14,
+      "dailyRatingChange": 13.41
+    },
+    {
+      "position": 2,
+      "playerId": "m48756",
+      "name": "Karin Walder",
+      "rating": 1562.93,
+      "dailyRatingChange": 10.72
+    },
+    {
+      "position": 3,
+      "playerId": "m22777",
+      "name": "Didier Benzençon",
+      "rating": 1661.15,
+      "dailyRatingChange": -1.87
+    },
+    {
+      "position": 4,
+      "playerId": "m579716",
+      "name": "Blumer Jorik",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 5,
+      "playerId": "m26573",
+      "name": "Rémy Forestier",
+      "rating": 1518.98,
+      "dailyRatingChange": -1.67
+    },
+    {
+      "position": 6,
+      "playerId": "i155206",
+      "name": "Sébastien Pot",
+      "rating": 1456.3,
+      "dailyRatingChange": 10.8
+    },
+    {
+      "position": 7,
+      "playerId": "m579714",
+      "name": "Marc Derron",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 8,
+      "playerId": "m41840",
+      "name": "Patrick Müller",
+      "rating": 1510.48,
+      "dailyRatingChange": -9.43
+    },
+    {
+      "position": 9,
+      "playerId": "m579715",
+      "name": "Hohl Mélanie",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

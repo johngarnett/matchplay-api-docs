@@ -1,0 +1,82 @@
+{
+  "communityId": "66",
+  "locations": [
+    {
+      "id": "4889",
+      "name": "Pinballium.pl",
+      "address": "Piotrkowska 10-12, Aleksandrów Łódzki, 95-070, PL",
+      "tournaments": [
+        {
+          "id": 266161,
+          "name": "Godzina",
+          "date": "8/8/2026",
+          "playerCount": 6,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m14959",
+              "name": "Andrzej Kaminski",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m60844",
+              "name": "Jakub Kochaniak",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m57641",
+              "name": "Aleksander Drajling",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m60111",
+              "name": "Angelika Koralewska",
+              "isCommunityMember": true
+            }
+          ]
+        },
+        {
+          "id": 266142,
+          "name": "Finals for Adama second day @work",
+          "date": "8/8/2026",
+          "playerCount": 4,
+          "qualifying": {
+            "id": 266101,
+            "name": "Adama second day @work",
+            "playerCount": 8
+          },
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m60111",
+              "name": "Angelika Koralewska",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m60844",
+              "name": "Jakub Kochaniak",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "p585614",
+              "name": "Sławomir Milczarek",
+              "isCommunityMember": false
+            },
+            {
+              "position": 4,
+              "playerId": "p585615",
+              "name": "Dawid Ciechelski",
+              "isCommunityMember": false
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

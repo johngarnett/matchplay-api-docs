@@ -1,0 +1,347 @@
+{
+  "locationId": "5617",
+  "name": "Midtown Bar & Grill",
+  "address": "",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 23,
+  "relatedVenues": [
+    {
+      "locationId": "5593",
+      "name": "Midtown Bar & Grill",
+      "address": "3333 West Division Street, St. Cloud, MN 56301, US",
+      "count": 149
+    },
+    {
+      "locationId": "8863",
+      "name": "Northstar Pinball Collective",
+      "address": "5636 West 125th Street, Savage, MN",
+      "count": 18
+    },
+    {
+      "locationId": "2337",
+      "name": "Murphy gameroom",
+      "address": "Sartell, MN, USA",
+      "count": 15
+    },
+    {
+      "locationId": "5500",
+      "name": "Blainbrook",
+      "address": "",
+      "count": 4
+    },
+    {
+      "locationId": "8209",
+      "name": "Broken Clock Brewing Cooperative",
+      "address": "1712 Marshall St NE, Minneapolis, MN 55413, US",
+      "count": 3
+    },
+    {
+      "locationId": "4804",
+      "name": "District 82 Pinball",
+      "address": "800 O Keefe Rd, De Pere, WI 54115, USA",
+      "count": 2
+    },
+    {
+      "locationId": "8625",
+      "name": "LITT Pinball Bar",
+      "address": "2021 Hennepin Ave S, Minneapolis, MN, 55405, US",
+      "count": 2
+    },
+    {
+      "locationId": "11685",
+      "name": "56 Brewing",
+      "address": "3055 NE Columbia St, Minneapolis, MN 55418, US",
+      "count": 2
+    },
+    {
+      "locationId": "13408",
+      "name": "Stray Dog",
+      "address": "401 E Hennepin Ave, Minneapolis, MN 55414, US",
+      "count": 2
+    },
+    {
+      "locationId": "13782",
+      "name": "Level 99 Arcade",
+      "address": "14303 Edgewood Dr, Baxter, MN 56425, US",
+      "count": 2
+    }
+  ],
+  "players": [
+    {
+      "id": "m53301",
+      "name": "Sawyer Koopmeiners",
+      "rating": 1685.46,
+      "rd": 24.72,
+      "ratingClass": "A",
+      "homeLocation": "Midtown Bar & Grill",
+      "homeLocationId": "5593",
+      "percentile": 95.5559696278008,
+      "changeDisplay": "-14.6",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m17129",
+      "name": "Drew Smith",
+      "rating": 1675.45,
+      "rd": 21.81,
+      "ratingClass": "A",
+      "homeLocation": "Midtown Bar & Grill",
+      "homeLocationId": "5593",
+      "percentile": 94.66157357805002,
+      "changeDisplay": "+6.4",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m27035",
+      "name": "Joe latterell",
+      "rating": 1652.78,
+      "rd": 21.83,
+      "ratingClass": "A",
+      "homeLocation": "Midtown Bar & Grill",
+      "homeLocationId": "5593",
+      "percentile": 92.11813481157125,
+      "changeDisplay": "+1.1",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m40999",
+      "name": "John Schollmeyer",
+      "rating": 1608.39,
+      "rd": 16.62,
+      "ratingClass": "A",
+      "homeLocation": "Midtown Bar & Grill",
+      "homeLocationId": "5593",
+      "percentile": 84.08254530209159,
+      "changeDisplay": "+5.4",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m31047",
+      "name": "Vance Licht",
+      "rating": 1537.44,
+      "rd": 24.19,
+      "ratingClass": "B",
+      "homeLocation": "Midtown Bar & Grill",
+      "homeLocationId": "5593",
+      "percentile": 62.03940932594214,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m18721",
+      "name": "Curtis Kranz",
+      "rating": 1534.21,
+      "rd": 20.26,
+      "ratingClass": "B",
+      "homeLocation": "Midtown Bar & Grill",
+      "homeLocationId": "5593",
+      "percentile": 60.683840313038615,
+      "changeDisplay": "+5.4",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m20160",
+      "name": "David Thell",
+      "rating": 1517.88,
+      "rd": 29.39,
+      "ratingClass": "B",
+      "homeLocation": "Blainbrook",
+      "homeLocationId": "5500",
+      "percentile": 54.367168211673736,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m40510",
+      "name": "Paul Obrien",
+      "rating": 1512.43,
+      "rd": 23.5,
+      "ratingClass": "B",
+      "homeLocation": "Midtown Bar & Grill",
+      "homeLocationId": "5593",
+      "percentile": 52.15912796385149,
+      "changeDisplay": "-8.2",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m31031",
+      "name": "Jon Jacklitch",
+      "rating": 1502.09,
+      "rd": 23.42,
+      "ratingClass": "B",
+      "homeLocation": "Midtown Bar & Grill",
+      "homeLocationId": "5593",
+      "percentile": 47.948013229608236,
+      "changeDisplay": "-2.5",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "i9632",
+      "name": "Scott Abell",
+      "rating": 1498.37,
+      "rd": 38.24,
+      "ratingClass": "C",
+      "homeLocation": "Blainbrook",
+      "homeLocationId": "5500",
+      "percentile": 46.44337820841291,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m59706",
+      "name": "Joe Schrage",
+      "rating": 1496.17,
+      "rd": 34.26,
+      "ratingClass": "C",
+      "homeLocation": "Midtown Bar & Grill",
+      "homeLocationId": "5593",
+      "percentile": 45.52569059486654,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m48737",
+      "name": "Kyle Page",
+      "rating": 1485.28,
+      "rd": 26.92,
+      "ratingClass": "C",
+      "homeLocation": "Midtown Bar & Grill",
+      "homeLocationId": "5593",
+      "percentile": 41.02576046955792,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m52485",
+      "name": "Zander Buroker",
+      "rating": 1451.63,
+      "rd": 42.57,
+      "ratingClass": "C",
+      "homeLocation": "Midtown Bar & Grill",
+      "homeLocationId": "5593",
+      "percentile": 27.74025248055154,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i112613",
+      "name": "Karl Unger",
+      "rating": 1448.67,
+      "rd": 25.82,
+      "ratingClass": "C",
+      "homeLocation": "Midtown Bar & Grill",
+      "homeLocationId": "5593",
+      "percentile": 26.631574043881308,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m53432",
+      "name": "Emma Platt",
+      "rating": 1409.15,
+      "rd": 44.32,
+      "ratingClass": "C",
+      "homeLocation": "Midtown Bar & Grill",
+      "homeLocationId": "5593",
+      "percentile": 14.860017701588484,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m35830",
+      "name": "Vickie Unger",
+      "rating": 1407.81,
+      "rd": 25.47,
+      "ratingClass": "C",
+      "homeLocation": "Midtown Bar & Grill",
+      "homeLocationId": "5593",
+      "percentile": 14.487352680858992,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i114276",
+      "name": "Kevin Reishus",
+      "rating": 1404.25,
+      "rd": 25.21,
+      "ratingClass": "C",
+      "homeLocation": "Midtown Bar & Grill",
+      "homeLocationId": "5593",
+      "percentile": 13.592956631108214,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i158733",
+      "name": "Brittney Schrage",
+      "rating": 1401.74,
+      "rd": 35.11,
+      "ratingClass": "C",
+      "homeLocation": "Midtown Bar & Grill",
+      "homeLocationId": "5593",
+      "percentile": 12.926817906554247,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i127103",
+      "name": "Bob Folger",
+      "rating": 1390.05,
+      "rd": 21.3,
+      "ratingClass": "D",
+      "homeLocation": "Midtown Bar & Grill",
+      "homeLocationId": "5593",
+      "percentile": 10.276237946615737,
+      "changeDisplay": "-0.9",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m37485",
+      "name": "Emma Page",
+      "rating": 1379.23,
+      "rd": 29.21,
+      "ratingClass": "D",
+      "homeLocation": "Midtown Bar & Grill",
+      "homeLocationId": "5593",
+      "percentile": 8.1939721432897,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i84194",
+      "name": "Krista Smith",
+      "rating": 1304.75,
+      "rd": 45.86,
+      "ratingClass": "D",
+      "homeLocation": "Midtown Bar & Grill",
+      "homeLocationId": "5617",
+      "percentile": 1.1878697535752551,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i144560",
+      "name": "Michelle Wendt",
+      "rating": 1272.06,
+      "rd": 33.89,
+      "ratingClass": "E",
+      "homeLocation": "Midtown Bar & Grill",
+      "homeLocationId": "5593",
+      "percentile": 0.489122839707458,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m27182",
+      "name": "Helen Schmidt",
+      "rating": 1269.31,
+      "rd": 43.45,
+      "ratingClass": "E",
+      "homeLocation": "Midtown Bar & Grill",
+      "homeLocationId": "5593",
+      "percentile": 0.4565146503936275,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

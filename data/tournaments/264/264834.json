@@ -1,0 +1,67 @@
+{
+  "tournamentId": 264834,
+  "name": "A-Finals for Summer Double Up Tournament",
+  "date": "2026-08-02",
+  "locationId": "6012",
+  "locationName": "The Pinball Club",
+  "playerCount": 8,
+  "ratingsDate": "2026-08-02",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m422",
+      "name": "Bart Volman",
+      "rating": 1807.38,
+      "dailyRatingChange": -3.47
+    },
+    {
+      "position": 2,
+      "playerId": "m28666",
+      "name": "Tom Verbruggen",
+      "rating": 1713.77,
+      "dailyRatingChange": -0.92
+    },
+    {
+      "position": 3,
+      "playerId": "m14121",
+      "name": "Ivan Geentjens",
+      "rating": 1615.34,
+      "dailyRatingChange": 3.83
+    },
+    {
+      "position": 4,
+      "playerId": "i5858",
+      "name": "Stephan Luhn",
+      "rating": 1577.59,
+      "dailyRatingChange": 26.29
+    },
+    {
+      "position": 5,
+      "playerId": "m14856",
+      "name": "Michiel Arts",
+      "rating": 1617.46,
+      "dailyRatingChange": 1.63
+    },
+    {
+      "position": 6,
+      "playerId": "m54861",
+      "name": "Thijs Legger",
+      "rating": 1493,
+      "dailyRatingChange": 0.95
+    },
+    {
+      "position": 7,
+      "playerId": "m53148",
+      "name": "Djowie Broekx",
+      "rating": 1597.93,
+      "dailyRatingChange": -3.84
+    },
+    {
+      "position": 8,
+      "playerId": "m2482",
+      "name": "Rob Overdijk",
+      "rating": 1605.15,
+      "dailyRatingChange": -7.75
+    }
+  ]
+}

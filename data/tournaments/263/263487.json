@@ -1,0 +1,88 @@
+{
+  "tournamentId": 263487,
+  "name": "Tiltys 3 Strike Free Roll Thursday 16 (clone)",
+  "date": "2026-07-24",
+  "locationId": "9887",
+  "locationName": "Tilty McFlipperz",
+  "playerCount": 11,
+  "ratingsDate": "2026-07-24",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m411383",
+      "name": "Nick Blumert",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 2,
+      "playerId": "i148512",
+      "name": "Matt Decato",
+      "rating": 1660.92,
+      "dailyRatingChange": -0.69
+    },
+    {
+      "position": 3,
+      "playerId": "m47449",
+      "name": "Matt Welker",
+      "rating": 1556.4,
+      "dailyRatingChange": 1.6
+    },
+    {
+      "position": 4,
+      "playerId": "m60855",
+      "name": "Eli",
+      "rating": 1467.26,
+      "dailyRatingChange": 7.64
+    },
+    {
+      "position": 5,
+      "playerId": "m42806",
+      "name": "Melissa Hienkle",
+      "rating": 1456.82,
+      "dailyRatingChange": -0.56
+    },
+    {
+      "position": 6,
+      "playerId": "i127887",
+      "name": "Tyler Luksis",
+      "rating": 1414.66,
+      "dailyRatingChange": 1.01
+    },
+    {
+      "position": 6,
+      "playerId": "i155034",
+      "name": "Brian Johnson WV",
+      "rating": 1604.67,
+      "dailyRatingChange": -3.01
+    },
+    {
+      "position": 6,
+      "playerId": "i158501",
+      "name": "Christopher Cox",
+      "rating": 1512.6,
+      "dailyRatingChange": -1.84
+    },
+    {
+      "position": 9,
+      "playerId": "m577129",
+      "name": "Joey Salads",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 9,
+      "playerId": "m441850",
+      "name": "Harper Welker",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 9,
+      "playerId": "m560319",
+      "name": "Zach Heagele",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

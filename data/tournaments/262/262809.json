@@ -1,0 +1,39 @@
+{
+  "tournamentId": 262809,
+  "name": "Finals for TC Belles & Chimes @ The Coin Slot 2026-07-19",
+  "date": "2026-07-20",
+  "locationId": "7370",
+  "locationName": "The Coin Slot",
+  "playerCount": 4,
+  "ratingsDate": "2026-07-20",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m34066",
+      "name": "Beth Milligan",
+      "rating": 1524.25,
+      "dailyRatingChange": 1.88
+    },
+    {
+      "position": 2,
+      "playerId": "m13877",
+      "name": "Tracy Ward",
+      "rating": 1531.96,
+      "dailyRatingChange": -2.85
+    },
+    {
+      "position": 2,
+      "playerId": "i117449",
+      "name": "Jodee Taylor",
+      "rating": 1420.56,
+      "dailyRatingChange": 6.21
+    },
+    {
+      "position": 4,
+      "playerId": "i117447",
+      "name": "Christie Minervini",
+      "rating": 1410.84,
+      "dailyRatingChange": -2.8
+    }
+  ]
+}

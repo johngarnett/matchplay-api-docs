@@ -1,0 +1,32 @@
+{
+  "tournamentId": 262780,
+  "name": "Finals for GLD Presents: CBar Weekly Tournament (LOOP)",
+  "date": "2026-07-19",
+  "locationId": "12908",
+  "locationName": "C-Bar",
+  "playerCount": 3,
+  "ratingsDate": "2026-07-19",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m35232",
+      "name": "Rick French",
+      "rating": 1702.54,
+      "dailyRatingChange": 8.95
+    },
+    {
+      "position": 2,
+      "playerId": "m9684",
+      "name": "Peter Durbin",
+      "rating": 1536.35,
+      "dailyRatingChange": 8.23
+    },
+    {
+      "position": 3,
+      "playerId": "m8610",
+      "name": "Sean Goller",
+      "rating": 1551.93,
+      "dailyRatingChange": 7.72
+    }
+  ]
+}

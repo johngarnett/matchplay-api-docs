@@ -1,0 +1,60 @@
+{
+  "tournamentId": 260939,
+  "name": "Pour Bros. \"Tilted Taps\" Pinball League - Season 3 #4",
+  "date": "2026-08-12",
+  "locationId": "12500",
+  "locationName": "Pour Bros. Craft Taproom",
+  "playerCount": 7,
+  "ratingsDate": "2026-08-12",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m54680",
+      "name": "Sarah Flick",
+      "rating": 1416.49,
+      "dailyRatingChange": 15.57
+    },
+    {
+      "position": 2,
+      "playerId": "m44385",
+      "name": "Kat Davis",
+      "rating": 1493.85,
+      "dailyRatingChange": 2.81
+    },
+    {
+      "position": 3,
+      "playerId": "m55475",
+      "name": "Kayla Fallen",
+      "rating": 1495.05,
+      "dailyRatingChange": -0.55
+    },
+    {
+      "position": 4,
+      "playerId": "m513231",
+      "name": "Michael Minning",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 5,
+      "playerId": "m53515",
+      "name": "Matt Richards IL",
+      "rating": 1591.87,
+      "dailyRatingChange": -15.59
+    },
+    {
+      "position": 6,
+      "playerId": "m513234",
+      "name": "Natasha Jilek",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 6,
+      "playerId": "i155251",
+      "name": "Jakai Martin",
+      "rating": 1348.99,
+      "dailyRatingChange": 1.64
+    }
+  ]
+}

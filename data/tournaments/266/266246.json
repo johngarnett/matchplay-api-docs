@@ -1,0 +1,109 @@
+{
+  "tournamentId": 266246,
+  "name": "Sunday Funday",
+  "date": "2026-08-09",
+  "locationId": "13697",
+  "locationName": "56 Brewing",
+  "playerCount": 14,
+  "ratingsDate": "2026-08-09",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m20540",
+      "name": "Louis Acre-Kendall",
+      "rating": 1683.16,
+      "dailyRatingChange": 10.06
+    },
+    {
+      "position": 2,
+      "playerId": "m56088",
+      "name": "Tim Juelich",
+      "rating": 1553.28,
+      "dailyRatingChange": 19.17
+    },
+    {
+      "position": 3,
+      "playerId": "m18865",
+      "name": "Jim Hartley",
+      "rating": 1648.34,
+      "dailyRatingChange": -5.69
+    },
+    {
+      "position": 4,
+      "playerId": "m30783",
+      "name": "Darryl Anderson",
+      "rating": 1631.69,
+      "dailyRatingChange": 7.86
+    },
+    {
+      "position": 5,
+      "playerId": "m42789",
+      "name": "Nick Paidosh",
+      "rating": 1534.36,
+      "dailyRatingChange": 15.96
+    },
+    {
+      "position": 5,
+      "playerId": "m24913",
+      "name": "Erin Bjork",
+      "rating": 1586.83,
+      "dailyRatingChange": -0.85
+    },
+    {
+      "position": 7,
+      "playerId": "m36610",
+      "name": "Tom Colburn",
+      "rating": 1517.94,
+      "dailyRatingChange": -3.16
+    },
+    {
+      "position": 8,
+      "playerId": "i84638",
+      "name": "Hans Homstad",
+      "rating": 1584.22,
+      "dailyRatingChange": -1.49
+    },
+    {
+      "position": 8,
+      "playerId": "m55173",
+      "name": "Zac Juelich",
+      "rating": 1686.7,
+      "dailyRatingChange": -4.49
+    },
+    {
+      "position": 8,
+      "playerId": "m21539",
+      "name": "Landon Acre-Kendall",
+      "rating": 1570.63,
+      "dailyRatingChange": -8.9
+    },
+    {
+      "position": 11,
+      "playerId": "m20544",
+      "name": "Dana Platt-Nelson",
+      "rating": 1434.23,
+      "dailyRatingChange": -8.49
+    },
+    {
+      "position": 12,
+      "playerId": "m30420",
+      "name": "Jeff Tomlinson",
+      "rating": 1607.99,
+      "dailyRatingChange": -22.8
+    },
+    {
+      "position": 12,
+      "playerId": "m19072",
+      "name": "Elizabeth Boelke",
+      "rating": 1524.6,
+      "dailyRatingChange": -8.61
+    },
+    {
+      "position": 14,
+      "playerId": "m61275",
+      "name": "Zach Akers",
+      "rating": 1390.75,
+      "dailyRatingChange": -10.67
+    }
+  ]
+}

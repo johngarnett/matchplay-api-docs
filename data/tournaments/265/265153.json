@@ -1,0 +1,228 @@
+{
+  "tournamentId": 265153,
+  "name": "Player 1UP Monthly 4 Strike (08/02/2026)",
+  "date": "2026-08-03",
+  "locationId": "5106",
+  "locationName": "Player 1UP",
+  "playerCount": 31,
+  "ratingsDate": "2026-08-03",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m1285",
+      "name": "Kaylee Campbell",
+      "rating": 1802.02,
+      "dailyRatingChange": 4.27
+    },
+    {
+      "position": 2,
+      "playerId": "m41182",
+      "name": "Kory Scholl",
+      "rating": 1711.15,
+      "dailyRatingChange": 9.06
+    },
+    {
+      "position": 3,
+      "playerId": "m2848",
+      "name": "Conner Silverstein",
+      "rating": 1749.94,
+      "dailyRatingChange": 2.09
+    },
+    {
+      "position": 4,
+      "playerId": "i96703",
+      "name": "Jeff Latham",
+      "rating": 1628.47,
+      "dailyRatingChange": null
+    },
+    {
+      "position": 4,
+      "playerId": "m26454",
+      "name": "larry phillips",
+      "rating": 1538.25,
+      "dailyRatingChange": 2.71
+    },
+    {
+      "position": 6,
+      "playerId": "m39270",
+      "name": "Kody Scholl",
+      "rating": 1723.15,
+      "dailyRatingChange": -2.04
+    },
+    {
+      "position": 6,
+      "playerId": "m59877",
+      "name": "Don Gardner",
+      "rating": 1563.14,
+      "dailyRatingChange": 21.77
+    },
+    {
+      "position": 8,
+      "playerId": "m45874",
+      "name": "Bryan Fraley",
+      "rating": 1626.18,
+      "dailyRatingChange": 3.4
+    },
+    {
+      "position": 8,
+      "playerId": "m17233",
+      "name": "Mark Widdis",
+      "rating": 1563.73,
+      "dailyRatingChange": -0.32
+    },
+    {
+      "position": 8,
+      "playerId": "m17235",
+      "name": "Fallyn Widdis",
+      "rating": 1535.15,
+      "dailyRatingChange": 5.35
+    },
+    {
+      "position": 11,
+      "playerId": "m21972",
+      "name": "Paul Lopresti",
+      "rating": 1550.92,
+      "dailyRatingChange": 0.54
+    },
+    {
+      "position": 11,
+      "playerId": "m45143",
+      "name": "perry phillips",
+      "rating": 1488.74,
+      "dailyRatingChange": 1.66
+    },
+    {
+      "position": 11,
+      "playerId": "m61562",
+      "name": "Clay Wukovits",
+      "rating": 1474.7,
+      "dailyRatingChange": 40.8
+    },
+    {
+      "position": 11,
+      "playerId": "m41522",
+      "name": "Hope Craig",
+      "rating": 1476.25,
+      "dailyRatingChange": 6.74
+    },
+    {
+      "position": 15,
+      "playerId": "m42807",
+      "name": "tina phillips",
+      "rating": 1436.8,
+      "dailyRatingChange": -0.24
+    },
+    {
+      "position": 15,
+      "playerId": "m40265",
+      "name": "Micah Troublefield",
+      "rating": 1602.4,
+      "dailyRatingChange": -3.49
+    },
+    {
+      "position": 15,
+      "playerId": "m48728",
+      "name": "Heather Alspach",
+      "rating": 1440.91,
+      "dailyRatingChange": 4.07
+    },
+    {
+      "position": 18,
+      "playerId": "m36709",
+      "name": "Beau Anderson",
+      "rating": 1495.9,
+      "dailyRatingChange": -3.1
+    },
+    {
+      "position": 18,
+      "playerId": "m42636",
+      "name": "Zac Crowder",
+      "rating": 1498.79,
+      "dailyRatingChange": -0.25
+    },
+    {
+      "position": 18,
+      "playerId": "m41502",
+      "name": "Tony Craig",
+      "rating": 1475.85,
+      "dailyRatingChange": -3.01
+    },
+    {
+      "position": 18,
+      "playerId": "m31624",
+      "name": "Chaz Bickham",
+      "rating": 1586.41,
+      "dailyRatingChange": -5.07
+    },
+    {
+      "position": 18,
+      "playerId": "m17532",
+      "name": "Icarus Harkonnen",
+      "rating": 1475.45,
+      "dailyRatingChange": -2.71
+    },
+    {
+      "position": 23,
+      "playerId": "m39840",
+      "name": "Rebecca Buchanan",
+      "rating": 1458.54,
+      "dailyRatingChange": -4.97
+    },
+    {
+      "position": 23,
+      "playerId": "m44860",
+      "name": "Charlie Foster",
+      "rating": 1532.27,
+      "dailyRatingChange": -2.94
+    },
+    {
+      "position": 23,
+      "playerId": "m51432",
+      "name": "Andy Prince",
+      "rating": 1502.94,
+      "dailyRatingChange": null
+    },
+    {
+      "position": 23,
+      "playerId": "m36708",
+      "name": "Lori Yoder",
+      "rating": 1340.22,
+      "dailyRatingChange": 6.46
+    },
+    {
+      "position": 23,
+      "playerId": "m37507",
+      "name": "Brooke Darr",
+      "rating": 1429.31,
+      "dailyRatingChange": -7.43
+    },
+    {
+      "position": 28,
+      "playerId": "m479879",
+      "name": "Sean Taylor",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 28,
+      "playerId": "m47373",
+      "name": "Christopher Sisk",
+      "rating": 1351.27,
+      "dailyRatingChange": -5.92
+    },
+    {
+      "position": 30,
+      "playerId": "m43851",
+      "name": "John Foster",
+      "rating": 1577.3,
+      "dailyRatingChange": -8.65
+    },
+    {
+      "position": 31,
+      "playerId": "m60244",
+      "name": "Zac Drzayich",
+      "rating": 1466.25,
+      "dailyRatingChange": -1.68
+    }
+  ]
+}

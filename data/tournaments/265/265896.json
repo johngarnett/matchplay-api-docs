@@ -1,0 +1,53 @@
+{
+  "tournamentId": 265896,
+  "name": "Pinball Wizards LB x Beachwood Season 15 #1",
+  "date": "2026-08-07",
+  "locationId": "12453",
+  "locationName": "Beachwood Brewing",
+  "playerCount": 6,
+  "ratingsDate": "2026-08-07",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m12249",
+      "name": "Brian Bell",
+      "rating": 1699.21,
+      "dailyRatingChange": 3.5
+    },
+    {
+      "position": 1,
+      "playerId": "m35442",
+      "name": "Brian Dreebin",
+      "rating": 1627.38,
+      "dailyRatingChange": 3.49
+    },
+    {
+      "position": 3,
+      "playerId": "m42431",
+      "name": "Sergio Puentes",
+      "rating": 1423.95,
+      "dailyRatingChange": 5.19
+    },
+    {
+      "position": 4,
+      "playerId": "m40507",
+      "name": "Kristian Dougherty",
+      "rating": 1472.13,
+      "dailyRatingChange": -4.01
+    },
+    {
+      "position": 4,
+      "playerId": "m545245",
+      "name": "Brian Puentes",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 4,
+      "playerId": "m36035",
+      "name": "Robin Craigen",
+      "rating": 1593.01,
+      "dailyRatingChange": -5.82
+    }
+  ]
+}

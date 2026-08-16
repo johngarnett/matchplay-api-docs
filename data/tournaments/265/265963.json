@@ -1,0 +1,214 @@
+{
+  "tournamentId": 265963,
+  "name": "RLM Amusements Weekly Pinball Tournament",
+  "date": "2026-08-08",
+  "locationId": "7465",
+  "locationName": "RLM Amusements",
+  "playerCount": 29,
+  "ratingsDate": "2026-08-08",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m851",
+      "name": "Rodney Minch",
+      "rating": 1766.49,
+      "dailyRatingChange": -0.85
+    },
+    {
+      "position": 2,
+      "playerId": "m21545",
+      "name": "Aaron Niemi",
+      "rating": 1555.11,
+      "dailyRatingChange": 10.5
+    },
+    {
+      "position": 3,
+      "playerId": "m23400",
+      "name": "Tami Harris",
+      "rating": 1562.64,
+      "dailyRatingChange": 22.3
+    },
+    {
+      "position": 4,
+      "playerId": "m43930",
+      "name": "Chris Nyhof",
+      "rating": 1592.52,
+      "dailyRatingChange": 6.59
+    },
+    {
+      "position": 5,
+      "playerId": "m18905",
+      "name": "Ethan Magnum",
+      "rating": 1748.86,
+      "dailyRatingChange": 0.66
+    },
+    {
+      "position": 6,
+      "playerId": "i27027",
+      "name": "Chris Gonzales MI",
+      "rating": 1636.43,
+      "dailyRatingChange": 6.26
+    },
+    {
+      "position": 7,
+      "playerId": "m9744",
+      "name": "Alex Darling",
+      "rating": 1631.78,
+      "dailyRatingChange": -13.82
+    },
+    {
+      "position": 7,
+      "playerId": "m22397",
+      "name": "Brandon Labelle",
+      "rating": 1588.92,
+      "dailyRatingChange": -0.64
+    },
+    {
+      "position": 7,
+      "playerId": "m21484",
+      "name": "Charlotte Bowser",
+      "rating": 1548.09,
+      "dailyRatingChange": -0.24
+    },
+    {
+      "position": 7,
+      "playerId": "m567045",
+      "name": "Joe Breitweiser",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 7,
+      "playerId": "m42660",
+      "name": "Joseph Merrills",
+      "rating": 1534.33,
+      "dailyRatingChange": 0.54
+    },
+    {
+      "position": 12,
+      "playerId": "m30271",
+      "name": "Todd Caris",
+      "rating": 1578.72,
+      "dailyRatingChange": -8.13
+    },
+    {
+      "position": 13,
+      "playerId": "m53960",
+      "name": "Benjamin Beam",
+      "rating": 1521.34,
+      "dailyRatingChange": 0.2
+    },
+    {
+      "position": 14,
+      "playerId": "m26697",
+      "name": "Scott VanDalen",
+      "rating": 1530.47,
+      "dailyRatingChange": -1.6
+    },
+    {
+      "position": 15,
+      "playerId": "m59951",
+      "name": "Cody Seevers",
+      "rating": 1486.14,
+      "dailyRatingChange": 0.19
+    },
+    {
+      "position": 16,
+      "playerId": "m50623",
+      "name": "Steven Moul",
+      "rating": 1490.06,
+      "dailyRatingChange": 4.11
+    },
+    {
+      "position": 17,
+      "playerId": "m53438",
+      "name": "Storm Hudson",
+      "rating": 1437.67,
+      "dailyRatingChange": 2.53
+    },
+    {
+      "position": 18,
+      "playerId": "m48490",
+      "name": "Travis Rietman",
+      "rating": 1498.8,
+      "dailyRatingChange": 5.08
+    },
+    {
+      "position": 19,
+      "playerId": "m54808",
+      "name": "Joe Christensen MI",
+      "rating": 1466.56,
+      "dailyRatingChange": 5.27
+    },
+    {
+      "position": 20,
+      "playerId": "m18906",
+      "name": "Stacey Siegel",
+      "rating": 1587.58,
+      "dailyRatingChange": -6.15
+    },
+    {
+      "position": 20,
+      "playerId": "m858",
+      "name": "Aron Duby",
+      "rating": 1602.24,
+      "dailyRatingChange": -5.42
+    },
+    {
+      "position": 22,
+      "playerId": "m585259",
+      "name": "Jacob Breitweiser",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 22,
+      "playerId": "m45201",
+      "name": "Alex Howerton",
+      "rating": 1474.96,
+      "dailyRatingChange": -1.81
+    },
+    {
+      "position": 22,
+      "playerId": "m43921",
+      "name": "Katie Lezman",
+      "rating": 1602.59,
+      "dailyRatingChange": -5.71
+    },
+    {
+      "position": 25,
+      "playerId": "i86755",
+      "name": "Claire Taylor",
+      "rating": 1461.42,
+      "dailyRatingChange": -3.66
+    },
+    {
+      "position": 26,
+      "playerId": "m56643",
+      "name": "Noah Hudson",
+      "rating": 1373.67,
+      "dailyRatingChange": -4.64
+    },
+    {
+      "position": 26,
+      "playerId": "i143434",
+      "name": "Deb Moul",
+      "rating": 1403.61,
+      "dailyRatingChange": -4.77
+    },
+    {
+      "position": 28,
+      "playerId": "m585253",
+      "name": "Vincent Jankowski",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 29,
+      "playerId": "i122575",
+      "name": "Beatrix Bitner",
+      "rating": 1167.71,
+      "dailyRatingChange": -5.09
+    }
+  ]
+}

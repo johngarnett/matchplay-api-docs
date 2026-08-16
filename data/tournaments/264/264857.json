@@ -1,0 +1,228 @@
+{
+  "tournamentId": 264857,
+  "name": "Atomic Pinball July Last Friday Strikeout",
+  "date": "2026-08-01",
+  "locationId": "8541",
+  "locationName": "Atomic Pinball",
+  "playerCount": 31,
+  "ratingsDate": "2026-08-01",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m30102",
+      "name": "John Ragusa",
+      "rating": 1642.61,
+      "dailyRatingChange": 26.09
+    },
+    {
+      "position": 2,
+      "playerId": "m11816",
+      "name": "Stephen Chappell",
+      "rating": 1614.06,
+      "dailyRatingChange": 9.38
+    },
+    {
+      "position": 3,
+      "playerId": "m14982",
+      "name": "Tyler Kulasza",
+      "rating": 1533.93,
+      "dailyRatingChange": 7.59
+    },
+    {
+      "position": 4,
+      "playerId": "m30329",
+      "name": "Crystal Ragusa",
+      "rating": 1557.59,
+      "dailyRatingChange": 13.69
+    },
+    {
+      "position": 5,
+      "playerId": "i109219",
+      "name": "Lars Hagen",
+      "rating": 1591.23,
+      "dailyRatingChange": 11.44
+    },
+    {
+      "position": 5,
+      "playerId": "m33675",
+      "name": "Mark Price",
+      "rating": 1579.91,
+      "dailyRatingChange": 7.39
+    },
+    {
+      "position": 5,
+      "playerId": "m39824",
+      "name": "Andy Barron",
+      "rating": 1599.17,
+      "dailyRatingChange": -4.31
+    },
+    {
+      "position": 5,
+      "playerId": "m583360",
+      "name": "Westin Breger",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 9,
+      "playerId": "m23009",
+      "name": "Dennis Bosco",
+      "rating": 1572.39,
+      "dailyRatingChange": 3.42
+    },
+    {
+      "position": 9,
+      "playerId": "m57892",
+      "name": "Dustin Pulliam",
+      "rating": 1566.1,
+      "dailyRatingChange": 20.56
+    },
+    {
+      "position": 9,
+      "playerId": "m545439",
+      "name": "Adam Siek",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 9,
+      "playerId": "m47266",
+      "name": "Andrew Bohler",
+      "rating": 1502.46,
+      "dailyRatingChange": -2.03
+    },
+    {
+      "position": 13,
+      "playerId": "i111267",
+      "name": "David Price MO",
+      "rating": 1535.45,
+      "dailyRatingChange": 0.22
+    },
+    {
+      "position": 13,
+      "playerId": "m39825",
+      "name": "Lorian Warford",
+      "rating": 1566.35,
+      "dailyRatingChange": -0.15
+    },
+    {
+      "position": 13,
+      "playerId": "m23014",
+      "name": "Darrin Bosco",
+      "rating": 1620.86,
+      "dailyRatingChange": -1.55
+    },
+    {
+      "position": 13,
+      "playerId": "m431012",
+      "name": "Shaun Watson",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 13,
+      "playerId": "m8708",
+      "name": "Marq Quiller",
+      "rating": 1642.83,
+      "dailyRatingChange": -8.63
+    },
+    {
+      "position": 18,
+      "playerId": "m19470",
+      "name": "Sharon Holan",
+      "rating": 1433.93,
+      "dailyRatingChange": 5.47
+    },
+    {
+      "position": 18,
+      "playerId": "m2238",
+      "name": "John Miller MO",
+      "rating": 1787.78,
+      "dailyRatingChange": -7.77
+    },
+    {
+      "position": 18,
+      "playerId": "m51953",
+      "name": "Darrell Beals",
+      "rating": 1428.58,
+      "dailyRatingChange": 8.59
+    },
+    {
+      "position": 18,
+      "playerId": "i86725",
+      "name": "Jeremiah Griffiths",
+      "rating": 1512.79,
+      "dailyRatingChange": -2.23
+    },
+    {
+      "position": 18,
+      "playerId": "m19469",
+      "name": "Craig Holan",
+      "rating": 1470.39,
+      "dailyRatingChange": 0.68
+    },
+    {
+      "position": 18,
+      "playerId": "m35464",
+      "name": "Mallory Herzog",
+      "rating": 1531.82,
+      "dailyRatingChange": -18.68
+    },
+    {
+      "position": 24,
+      "playerId": "m366577",
+      "name": "Tom Hoth",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 24,
+      "playerId": "i83803",
+      "name": "James Carr",
+      "rating": 1440.8,
+      "dailyRatingChange": -3.67
+    },
+    {
+      "position": 24,
+      "playerId": "m57897",
+      "name": "Delaney Meyer",
+      "rating": 1480.72,
+      "dailyRatingChange": -31.86
+    },
+    {
+      "position": 24,
+      "playerId": "m491101",
+      "name": "Joe Rather",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 24,
+      "playerId": "i90283",
+      "name": "Alan Scheibel",
+      "rating": 1462.86,
+      "dailyRatingChange": -25.13
+    },
+    {
+      "position": 24,
+      "playerId": "i123490",
+      "name": "Charles Schwaab",
+      "rating": 1534.39,
+      "dailyRatingChange": -15.83
+    },
+    {
+      "position": 30,
+      "playerId": "i94200",
+      "name": "Maecy Ragusa",
+      "rating": 1446.09,
+      "dailyRatingChange": -30.14
+    },
+    {
+      "position": 30,
+      "playerId": "m25290",
+      "name": "Valerie Iriarte",
+      "rating": 1502.12,
+      "dailyRatingChange": -4.24
+    }
+  ]
+}

@@ -1,0 +1,239 @@
+{
+  "locationId": "8171",
+  "name": "The Local FFF",
+  "address": "93 W Campbell Rd, Schenectady, NY 12306, US",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 14,
+  "relatedVenues": [
+    {
+      "locationId": "9019",
+      "name": "Rock Fantasy",
+      "address": "12 East Main Street, Middletown, New York 10940, US",
+      "count": 25
+    },
+    {
+      "locationId": "8867",
+      "name": "Mean Max Brew Works Troy Taproom",
+      "address": "251 River St, Troy, NY 12181, US",
+      "count": 17
+    },
+    {
+      "locationId": "12714",
+      "name": "Iron Horse Pub",
+      "address": "21 Iron Horse Blvd, Simsbury, CT 06070",
+      "count": 12
+    },
+    {
+      "locationId": "5487",
+      "name": "Western Mass Pinball Club",
+      "address": "4 Springfield St, Three Rivers, MA 01080, USA",
+      "count": 8
+    },
+    {
+      "locationId": "11707",
+      "name": "Excelsior Pub",
+      "address": "54 Philip St, Albany, NY 12207",
+      "count": 6
+    },
+    {
+      "locationId": "13175",
+      "name": "Fun Zone",
+      "address": "Duanesburg",
+      "count": 5
+    },
+    {
+      "locationId": "8959",
+      "name": "Western Mass Pinball Club",
+      "address": "4 Springfield Street, Palmer, MA 01080, US",
+      "count": 4
+    },
+    {
+      "locationId": "5908",
+      "name": "The Sanctum",
+      "address": "290 Pratt Street, Meriden, CT 06450, US",
+      "count": 3
+    },
+    {
+      "locationId": "9644",
+      "name": "The Shortstop Bar & Grill",
+      "address": "99 Springfield Rd., Westfield, MA 01085",
+      "count": 3
+    },
+    {
+      "locationId": "12839",
+      "name": "High Score RBK",
+      "address": "6 Garden St, Rhinebeck, NY 12572, US",
+      "count": 3
+    }
+  ],
+  "players": [
+    {
+      "id": "m13570",
+      "name": "Michael Silvia",
+      "rating": 1654.82,
+      "rd": 34.2,
+      "ratingClass": "A",
+      "homeLocation": "The Local FFF",
+      "homeLocationId": "8171",
+      "percentile": 92.40229188987749,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m224",
+      "name": "Howard Levine",
+      "rating": 1618.66,
+      "rd": 22.78,
+      "ratingClass": "A",
+      "homeLocation": "Rock Fantasy",
+      "homeLocationId": "9019",
+      "percentile": 86.337168677505,
+      "changeDisplay": "+3.4",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "i92333",
+      "name": "Dylan Mendez",
+      "rating": 1613.86,
+      "rd": 33.98,
+      "ratingClass": "A",
+      "homeLocation": "The Local FFF",
+      "homeLocationId": "8171",
+      "percentile": 85.27507336842596,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i12892",
+      "name": "Chewy David Colon",
+      "rating": 1609.59,
+      "rd": 26.65,
+      "ratingClass": "A",
+      "homeLocation": "Rock Fantasy",
+      "homeLocationId": "9019",
+      "percentile": 84.37136069315694,
+      "changeDisplay": "-10.1",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "i91500",
+      "name": "Mike Fiano",
+      "rating": 1602.63,
+      "rd": 43.95,
+      "ratingClass": "A",
+      "homeLocation": "The Local FFF",
+      "homeLocationId": "8171",
+      "percentile": 82.64312665952393,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m12374",
+      "name": "Mike Varney",
+      "rating": 1593.59,
+      "rd": 28.75,
+      "ratingClass": "B",
+      "homeLocation": "The Local FFF",
+      "homeLocationId": "8171",
+      "percentile": 80.4164531606652,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m47959",
+      "name": "Alice Bruso",
+      "rating": 1588.91,
+      "rd": 20.48,
+      "ratingClass": "B",
+      "homeLocation": "Mean Max Brew Works Troy Taproom",
+      "homeLocationId": "8867",
+      "percentile": 79.15870871570317,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m227",
+      "name": "Bryon Estes",
+      "rating": 1577.93,
+      "rd": 22.36,
+      "ratingClass": "B",
+      "homeLocation": "Rock Fantasy",
+      "homeLocationId": "9019",
+      "percentile": 75.9910560395025,
+      "changeDisplay": "+4.3",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m37548",
+      "name": "Greg Pascale",
+      "rating": 1574.99,
+      "rd": 21.6,
+      "ratingClass": "B",
+      "homeLocation": "Iron Horse Pub",
+      "homeLocationId": "12714",
+      "percentile": 75.05939348767876,
+      "changeDisplay": "+2.8",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m12699",
+      "name": "Derek Kurze",
+      "rating": 1551.35,
+      "rd": 25.7,
+      "ratingClass": "B",
+      "homeLocation": "Mean Max Brew Works Troy Taproom",
+      "homeLocationId": "8867",
+      "percentile": 67.23808636511855,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m13569",
+      "name": "Tim Summers",
+      "rating": 1531.56,
+      "rd": 35.25,
+      "ratingClass": "B",
+      "homeLocation": "The Local FFF",
+      "homeLocationId": "8171",
+      "percentile": 59.6543531932734,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m52154",
+      "name": "William Franolich",
+      "rating": 1483.98,
+      "rd": 35.81,
+      "ratingClass": "C",
+      "homeLocation": "The Local FFF",
+      "homeLocationId": "8171",
+      "percentile": 40.52266269157311,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m53885",
+      "name": "Jason Dammer",
+      "rating": 1468.11,
+      "rd": 49.43,
+      "ratingClass": "C",
+      "homeLocation": "The Local FFF",
+      "homeLocationId": "8171",
+      "percentile": 34.117482647784975,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m50249",
+      "name": "Nancy O'Brien",
+      "rating": 1367.86,
+      "rd": 28.3,
+      "ratingClass": "D",
+      "homeLocation": "Mean Max Brew Works Troy Taproom",
+      "homeLocationId": "8867",
+      "percentile": 6.405180043788141,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "locationId": "10565",
+  "name": "The Suburban Brew",
+  "address": "96 Goodwood Rd, Goodwood, SA 5034, AU",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 6,
+  "relatedVenues": [
+    {
+      "locationId": "8872",
+      "name": "FLOP",
+      "address": "6 Scenic Drive Maslin Beach",
+      "count": 12
+    },
+    {
+      "locationId": "7450",
+      "name": "The Clubhouse Moorooka",
+      "address": "76 Koala Road, Moorooka, QLD 4105, AU",
+      "count": 10
+    },
+    {
+      "locationId": "10472",
+      "name": "The Suburban Brew",
+      "address": "96 Goodwood Rd, Goodwood, SA, 5034, AU",
+      "count": 4
+    },
+    {
+      "locationId": "11555",
+      "name": "The Ice ArenA",
+      "address": "23 James Congdon Dr, Thebarton, SA 5031, AU",
+      "count": 4
+    },
+    {
+      "locationId": "13465",
+      "name": "Morphettville Function Centre",
+      "address": "79 Morphettville Road, Morphettville SA, Australia5043",
+      "count": 4
+    },
+    {
+      "locationId": "7180",
+      "name": "Netherworld",
+      "address": "186 Brunswick St, Fortitude Valley, QLD 4006, AU",
+      "count": 2
+    },
+    {
+      "locationId": "9557",
+      "name": "The Suburban Brew - Brewery & Taproom",
+      "address": "30 Provident Ave, Glynde, SA, 5070, AU",
+      "count": 2
+    },
+    {
+      "locationId": "13611",
+      "name": "Morphettville Racecourse",
+      "address": "79 Morphett Road Morphettville, SA 5043",
+      "count": 2
+    },
+    {
+      "locationId": "11676",
+      "name": "PinCity Pinball Addicts",
+      "address": "Unit 3, 10 kitawah st Lonsdale",
+      "count": 1
+    }
+  ],
+  "players": [
+    {
+      "id": "m43013",
+      "name": "Rory Brown",
+      "rating": 1560.87,
+      "rd": 26.72,
+      "ratingClass": "B",
+      "homeLocation": "FLOP",
+      "homeLocationId": "8872",
+      "percentile": 70.59207155168397,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m17536",
+      "name": "Petra Saurbrey",
+      "rating": 1513.52,
+      "rd": 20.35,
+      "ratingClass": "B",
+      "homeLocation": "The Clubhouse Moorooka",
+      "homeLocationId": "7450",
+      "percentile": 52.57371779941305,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m2328",
+      "name": "Amity Wells",
+      "rating": 1450.35,
+      "rd": 19.2,
+      "ratingClass": "C",
+      "homeLocation": "The Clubhouse Moorooka",
+      "homeLocationId": "7450",
+      "percentile": 27.29771276843527,
+      "changeDisplay": "+1.9",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "i119764",
+      "name": "Laura Hewitt",
+      "rating": 1418.25,
+      "rd": 41.56,
+      "ratingClass": "C",
+      "homeLocation": "The Suburban Brew",
+      "homeLocationId": "10565",
+      "percentile": 17.18451576838869,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m54857",
+      "name": "Kat Jackson",
+      "rating": 1417.37,
+      "rd": 25.6,
+      "ratingClass": "C",
+      "homeLocation": "FLOP",
+      "homeLocationId": "8872",
+      "percentile": 16.98420831974659,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m52850",
+      "name": "Katrina Huynh",
+      "rating": 1397.38,
+      "rd": 35.84,
+      "ratingClass": "D",
+      "homeLocation": "The Suburban Brew",
+      "homeLocationId": "10565",
+      "percentile": 11.827456095402246,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

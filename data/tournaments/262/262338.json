@@ -1,0 +1,109 @@
+{
+  "tournamentId": 262338,
+  "name": "SoMD Wednesday #175",
+  "date": "2026-07-23",
+  "locationId": "8336",
+  "locationName": "R/C Lexington Exchange Movies 12",
+  "playerCount": 14,
+  "ratingsDate": "2026-07-23",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m31391",
+      "name": "Ron LaScala",
+      "rating": 1531.99,
+      "dailyRatingChange": 9.33
+    },
+    {
+      "position": 2,
+      "playerId": "m31407",
+      "name": "Viet Nguyen",
+      "rating": 1547.46,
+      "dailyRatingChange": 6.81
+    },
+    {
+      "position": 3,
+      "playerId": "m432552",
+      "name": "Wesley Cochran",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 4,
+      "playerId": "m31390",
+      "name": "Curt Mason",
+      "rating": 1639.33,
+      "dailyRatingChange": -6.82
+    },
+    {
+      "position": 4,
+      "playerId": "m436458",
+      "name": "Alex Bednar",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 6,
+      "playerId": "m306987",
+      "name": "Donovan Mason",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 7,
+      "playerId": "m55195",
+      "name": "Bruce Jenkins",
+      "rating": 1600.36,
+      "dailyRatingChange": -3.6
+    },
+    {
+      "position": 7,
+      "playerId": "m45556",
+      "name": "John Kriz",
+      "rating": 1512.25,
+      "dailyRatingChange": -1.41
+    },
+    {
+      "position": 9,
+      "playerId": "m355255",
+      "name": "Justin Johnson",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 10,
+      "playerId": "m59653",
+      "name": "Ted Blankenbaker",
+      "rating": 1419.31,
+      "dailyRatingChange": null
+    },
+    {
+      "position": 10,
+      "playerId": "m357547",
+      "name": "Randy Beaulieu",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 12,
+      "playerId": "m39356",
+      "name": "Garisan Ladue",
+      "rating": 1459.45,
+      "dailyRatingChange": -8.09
+    },
+    {
+      "position": 13,
+      "playerId": "m497777",
+      "name": "Ayden Welker",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 14,
+      "playerId": "m39350",
+      "name": "Destiny Craig",
+      "rating": 1427.54,
+      "dailyRatingChange": -7.82
+    }
+  ]
+}

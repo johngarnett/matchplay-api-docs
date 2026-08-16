@@ -1,0 +1,130 @@
+{
+  "tournamentId": 265701,
+  "name": "Fore Play Pinball Tournament 08 05 2026",
+  "date": "2026-08-06",
+  "locationId": "10931",
+  "locationName": "Fore Play Simulators",
+  "playerCount": 17,
+  "ratingsDate": "2026-08-06",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m50750",
+      "name": "Steven Brown",
+      "rating": 1599.09,
+      "dailyRatingChange": -5.73
+    },
+    {
+      "position": 2,
+      "playerId": "m7530",
+      "name": "Mathew Peterson",
+      "rating": 1714.58,
+      "dailyRatingChange": 2.8
+    },
+    {
+      "position": 3,
+      "playerId": "m53673",
+      "name": "Walter Pearce",
+      "rating": 1587.67,
+      "dailyRatingChange": 1.04
+    },
+    {
+      "position": 4,
+      "playerId": "m25062",
+      "name": "Ryan Dunn",
+      "rating": 1696.57,
+      "dailyRatingChange": 0.36
+    },
+    {
+      "position": 5,
+      "playerId": "m17705",
+      "name": "Kwang Chong",
+      "rating": 1673.07,
+      "dailyRatingChange": -0.63
+    },
+    {
+      "position": 6,
+      "playerId": "m36443",
+      "name": "Jose Aguilar",
+      "rating": 1526.29,
+      "dailyRatingChange": -0.59
+    },
+    {
+      "position": 7,
+      "playerId": "m45124",
+      "name": "Tim Dean",
+      "rating": 1507.74,
+      "dailyRatingChange": -2.02
+    },
+    {
+      "position": 8,
+      "playerId": "m43378",
+      "name": "John Ortiz",
+      "rating": 1520.02,
+      "dailyRatingChange": -2.06
+    },
+    {
+      "position": 9,
+      "playerId": "m43379",
+      "name": "Sasha Watchman",
+      "rating": 1471.1,
+      "dailyRatingChange": 0.9
+    },
+    {
+      "position": 10,
+      "playerId": "m54971",
+      "name": "Logan Huddleston",
+      "rating": 1458.99,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 11,
+      "playerId": "i11099",
+      "name": "Dennis Harris",
+      "rating": 1569.28,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 12,
+      "playerId": "m58423",
+      "name": "Thadeus Huddleston",
+      "rating": 1484.58,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 13,
+      "playerId": "m59168",
+      "name": "Kaitlyn Hopper",
+      "rating": 1358.51,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 14,
+      "playerId": "m62548",
+      "name": "Jocelyn Dean",
+      "rating": 1400.38,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 15,
+      "playerId": "i155044",
+      "name": "Damon Hudson",
+      "rating": 1477.56,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 15,
+      "playerId": "m59169",
+      "name": "Truman Conlee",
+      "rating": 1419.54,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 17,
+      "playerId": "m57525",
+      "name": "Scott Hansen",
+      "rating": 1434.27,
+      "dailyRatingChange": 0
+    }
+  ]
+}

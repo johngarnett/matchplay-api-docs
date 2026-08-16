@@ -1,0 +1,60 @@
+{
+  "tournamentId": 264478,
+  "name": "Legends July $5 knockout Wednesday tournament 7/29/26",
+  "date": "2026-07-30",
+  "locationId": "8819",
+  "locationName": "Legends Arcade",
+  "playerCount": 7,
+  "ratingsDate": "2026-07-30",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m46674",
+      "name": "Chris sierra",
+      "rating": 1575.8,
+      "dailyRatingChange": 9.78
+    },
+    {
+      "position": 2,
+      "playerId": "m13886",
+      "name": "Kirk Leonard",
+      "rating": 1654.57,
+      "dailyRatingChange": -1.67
+    },
+    {
+      "position": 3,
+      "playerId": "m60072",
+      "name": "Willy Shaughnessy",
+      "rating": 1478.85,
+      "dailyRatingChange": 4.51
+    },
+    {
+      "position": 4,
+      "playerId": "m49538",
+      "name": "Jeff Gregory",
+      "rating": 1420.12,
+      "dailyRatingChange": 0.9
+    },
+    {
+      "position": 5,
+      "playerId": "m56396",
+      "name": "Ky Liebau",
+      "rating": 1487.32,
+      "dailyRatingChange": -2.85
+    },
+    {
+      "position": 5,
+      "playerId": "m58806",
+      "name": "Jayden Gregory",
+      "rating": 1592.19,
+      "dailyRatingChange": -3.79
+    },
+    {
+      "position": 7,
+      "playerId": "i146063",
+      "name": "Levi Robischon",
+      "rating": 1393.51,
+      "dailyRatingChange": -14.25
+    }
+  ]
+}

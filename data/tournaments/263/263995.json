@@ -1,0 +1,102 @@
+{
+  "tournamentId": 263995,
+  "name": "Still Drunk Sundays #2",
+  "date": "2026-07-27",
+  "locationId": "13792",
+  "locationName": "The Kraken Bar & Lounge",
+  "playerCount": 13,
+  "ratingsDate": "2026-07-27",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m28825",
+      "name": "Ben Fodor",
+      "rating": 1528.41,
+      "dailyRatingChange": 5.29
+    },
+    {
+      "position": 1,
+      "playerId": "m53373",
+      "name": "Noah Rubin",
+      "rating": 1373.13,
+      "dailyRatingChange": 10.25
+    },
+    {
+      "position": 3,
+      "playerId": "m17637",
+      "name": "Elliott Johnson",
+      "rating": 1559.67,
+      "dailyRatingChange": 0.24
+    },
+    {
+      "position": 4,
+      "playerId": "m22703",
+      "name": "Clare Green",
+      "rating": 1471.46,
+      "dailyRatingChange": -2.31
+    },
+    {
+      "position": 5,
+      "playerId": "m33370",
+      "name": "Sarah Munden",
+      "rating": 1466.15,
+      "dailyRatingChange": 0.22
+    },
+    {
+      "position": 6,
+      "playerId": "m23211",
+      "name": "Misha Alexeeff",
+      "rating": 1566.17,
+      "dailyRatingChange": 2.33
+    },
+    {
+      "position": 7,
+      "playerId": "m45593",
+      "name": "Mae Collin",
+      "rating": 1472.16,
+      "dailyRatingChange": -0.69
+    },
+    {
+      "position": 7,
+      "playerId": "m25327",
+      "name": "Cat Alexander",
+      "rating": 1415.8,
+      "dailyRatingChange": -0.43
+    },
+    {
+      "position": 7,
+      "playerId": "m7718",
+      "name": "Marin Alexander",
+      "rating": 1492.48,
+      "dailyRatingChange": -2.08
+    },
+    {
+      "position": 7,
+      "playerId": "m11582",
+      "name": "Kyle Condell",
+      "rating": 1525.01,
+      "dailyRatingChange": -2.23
+    },
+    {
+      "position": 11,
+      "playerId": "m20236",
+      "name": "Zachary Peeples",
+      "rating": 1558.96,
+      "dailyRatingChange": -4.83
+    },
+    {
+      "position": 12,
+      "playerId": "m56155",
+      "name": "Sammi Snyder",
+      "rating": 1483.94,
+      "dailyRatingChange": -5.07
+    },
+    {
+      "position": 12,
+      "playerId": "i155984",
+      "name": "Vincent Iannucci",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "locationId": "13856",
+  "venueName": "Birdsmouth Beer",
+  "venueAddress": "675 Oceanport Wy, Oceanport, NJ 07757, US",
+  "tournaments": [
+    {
+      "id": 266186,
+      "name": "Finals for Transformers LE Launch Party at Birdsmouth Beer",
+      "date": "8/8/2026",
+      "playerCount": 4,
+      "qualifying": {
+        "id": 266129,
+        "name": "Transformers LE Launch Party at Birdsmouth Beer",
+        "playerCount": 9
+      },
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m49146",
+          "name": "Edward Haran",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m30548",
+          "name": "Justin Kole",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "i110761",
+          "name": "Joey Fiore",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m29755",
+          "name": "Joe Broccoli",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

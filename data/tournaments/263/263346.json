@@ -1,0 +1,95 @@
+{
+  "tournamentId": 263346,
+  "name": "Finals for The Pinball Castle Grand Opening Tournament",
+  "date": "2026-07-23",
+  "locationId": "13590",
+  "locationName": "The Pinball Castle",
+  "playerCount": 12,
+  "ratingsDate": "2026-07-23",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m37143",
+      "name": "Tyler Pirrone",
+      "rating": 1640.74,
+      "dailyRatingChange": 4.14
+    },
+    {
+      "position": 2,
+      "playerId": "m47745",
+      "name": "Sterling Sinclair",
+      "rating": 1656.57,
+      "dailyRatingChange": -1.18
+    },
+    {
+      "position": 3,
+      "playerId": "m25464",
+      "name": "Cindy Brackett",
+      "rating": 1590.47,
+      "dailyRatingChange": 10.84
+    },
+    {
+      "position": 4,
+      "playerId": "m29440",
+      "name": "Alex Brackett",
+      "rating": 1628.52,
+      "dailyRatingChange": 4.65
+    },
+    {
+      "position": 5,
+      "playerId": "m580866",
+      "name": "Mark Canoles",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 6,
+      "playerId": "m47449",
+      "name": "Matt Welker",
+      "rating": 1554.8,
+      "dailyRatingChange": -2.21
+    },
+    {
+      "position": 7,
+      "playerId": "m580843",
+      "name": "Chris Mason",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 7,
+      "playerId": "m580848",
+      "name": "Tyson Hoffman",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 7,
+      "playerId": "m62174",
+      "name": "Kyle Mays",
+      "rating": 1510.33,
+      "dailyRatingChange": null
+    },
+    {
+      "position": 10,
+      "playerId": "m42806",
+      "name": "Melissa Hienkle",
+      "rating": 1457.38,
+      "dailyRatingChange": 4.66
+    },
+    {
+      "position": 11,
+      "playerId": "m54374",
+      "name": "Dale Singhass",
+      "rating": 1432.52,
+      "dailyRatingChange": 4.49
+    },
+    {
+      "position": 12,
+      "playerId": "i139165",
+      "name": "Calvin Singhass",
+      "rating": 1371.2,
+      "dailyRatingChange": 11.21
+    }
+  ]
+}

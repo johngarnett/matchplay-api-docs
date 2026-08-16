@@ -1,0 +1,203 @@
+{
+  "locationId": "2293",
+  "name": "Cartridge Gaming",
+  "address": "2815 Elida Rd, Lima, OH 45805, USA",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 14,
+  "relatedVenues": [
+    {
+      "locationId": "3967",
+      "name": "Crazy Martin's",
+      "address": "",
+      "count": 20
+    },
+    {
+      "locationId": "1451",
+      "name": "Wizard's World",
+      "address": "14613 Lima Rd, Fort Wayne, IN 46818, USA",
+      "count": 5
+    },
+    {
+      "locationId": "10989",
+      "name": "The Comet",
+      "address": "323 E Spring St, Saint Marys, OH, 45885, US",
+      "count": 5
+    },
+    {
+      "locationId": "5479",
+      "name": "Canal Street Arcade and Deli",
+      "address": "308 East 1st St, Dayton, OH, 45402, US",
+      "count": 4
+    }
+  ],
+  "players": [
+    {
+      "id": "m10284",
+      "name": "Andy Joseph El Fusilado",
+      "rating": 1665.67,
+      "rd": 29.71,
+      "ratingClass": "A",
+      "homeLocation": "Cartridge Gaming",
+      "homeLocationId": "2293",
+      "percentile": 93.66935296035776,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m25227",
+      "name": "Jason Shaffer",
+      "rating": 1589.23,
+      "rd": 24.86,
+      "ratingClass": "B",
+      "homeLocation": "Cartridge Gaming",
+      "homeLocationId": "2293",
+      "percentile": 79.27516653468115,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m46096",
+      "name": "Andy Heitkamp",
+      "rating": 1588.16,
+      "rd": 22.32,
+      "ratingClass": "B",
+      "homeLocation": "Cartridge Gaming",
+      "homeLocationId": "2293",
+      "percentile": 78.95374295430196,
+      "changeDisplay": "-9.3",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m10569",
+      "name": "Tyler Lauck",
+      "rating": 1564.84,
+      "rd": 55.69,
+      "ratingClass": "B",
+      "homeLocation": "Cartridge Gaming",
+      "homeLocationId": "2293",
+      "percentile": 71.90571574975544,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m11868",
+      "name": "Will Olter",
+      "rating": 1549.7,
+      "rd": 26.07,
+      "ratingClass": "B",
+      "homeLocation": "Cartridge Gaming",
+      "homeLocationId": "2293",
+      "percentile": 66.58592257884195,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m26432",
+      "name": "John Quinlisk",
+      "rating": 1538.23,
+      "rd": 20.33,
+      "ratingClass": "B",
+      "homeLocation": "Cartridge Gaming",
+      "homeLocationId": "2293",
+      "percentile": 62.35617459356221,
+      "changeDisplay": "+5.0",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "i68563",
+      "name": "Matt Stanford",
+      "rating": 1535.79,
+      "rd": 26.27,
+      "ratingClass": "B",
+      "homeLocation": "Cartridge Gaming",
+      "homeLocationId": "2293",
+      "percentile": 61.33600409931523,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i93615",
+      "name": "Scott Kidd",
+      "rating": 1520.29,
+      "rd": 38.83,
+      "ratingClass": "B",
+      "homeLocation": "Cartridge Gaming",
+      "homeLocationId": "2293",
+      "percentile": 55.294172450738344,
+      "changeDisplay": "+42.3",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m20226",
+      "name": "Chris Nester",
+      "rating": 1518.3,
+      "rd": 36.27,
+      "ratingClass": "B",
+      "homeLocation": "Cartridge Gaming",
+      "homeLocationId": "2293",
+      "percentile": 54.52089253272465,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m7318",
+      "name": "Will Long",
+      "rating": 1514.19,
+      "rd": 39.14,
+      "ratingClass": "B",
+      "homeLocation": "Cartridge Gaming",
+      "homeLocationId": "2293",
+      "percentile": 52.825266688405456,
+      "changeDisplay": "-10.9",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m59071",
+      "name": "DashedKeyboard",
+      "rating": 1488.67,
+      "rd": 30.86,
+      "ratingClass": "C",
+      "homeLocation": "Cartridge Gaming",
+      "homeLocationId": "2293",
+      "percentile": 42.4185959845344,
+      "changeDisplay": "-6.2",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m10276",
+      "name": "Faith Baer",
+      "rating": 1476.42,
+      "rd": 34.87,
+      "ratingClass": "C",
+      "homeLocation": "Cartridge Gaming",
+      "homeLocationId": "2293",
+      "percentile": 37.46215120883216,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m34396",
+      "name": "Marty Kraft",
+      "rating": 1457.73,
+      "rd": 21.37,
+      "ratingClass": "C",
+      "homeLocation": "Cartridge Gaming",
+      "homeLocationId": "2293",
+      "percentile": 30.041458983556158,
+      "changeDisplay": "-4.0",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m47308",
+      "name": "John Tobens",
+      "rating": 1445.98,
+      "rd": 37.46,
+      "ratingClass": "C",
+      "homeLocation": "Cartridge Gaming",
+      "homeLocationId": "2293",
+      "percentile": 25.732519681371407,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

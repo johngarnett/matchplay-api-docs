@@ -1,0 +1,102 @@
+{
+  "tournamentId": 258964,
+  "name": "Walk on the Beach - Week 7 of 9 (Aug 6, 2026)",
+  "date": "2026-08-07",
+  "locationId": "11022",
+  "locationName": "Gary's Place",
+  "playerCount": 13,
+  "ratingsDate": "2026-08-07",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m18724",
+      "name": "Matty PinPin",
+      "rating": 1590.12,
+      "dailyRatingChange": 5.73
+    },
+    {
+      "position": 2,
+      "playerId": "m44491",
+      "name": "Marshall Denton",
+      "rating": 1662.14,
+      "dailyRatingChange": 3.74
+    },
+    {
+      "position": 2,
+      "playerId": "m28849",
+      "name": "Jay Ostby",
+      "rating": 1597.18,
+      "dailyRatingChange": 8.18
+    },
+    {
+      "position": 4,
+      "playerId": "m1506",
+      "name": "Neil Kubath",
+      "rating": 1639.38,
+      "dailyRatingChange": 3.07
+    },
+    {
+      "position": 5,
+      "playerId": "m53632",
+      "name": "Jamie O'Hara",
+      "rating": 1557.11,
+      "dailyRatingChange": 2.67
+    },
+    {
+      "position": 6,
+      "playerId": "m37860",
+      "name": "Canyon Mosely",
+      "rating": 1578.86,
+      "dailyRatingChange": 0.19
+    },
+    {
+      "position": 7,
+      "playerId": "m42542",
+      "name": "David Weil WA",
+      "rating": 1594.87,
+      "dailyRatingChange": -2.92
+    },
+    {
+      "position": 8,
+      "playerId": "m45388",
+      "name": "Alec Rodenhauser",
+      "rating": 1567.36,
+      "dailyRatingChange": -3.74
+    },
+    {
+      "position": 9,
+      "playerId": "m54351",
+      "name": "Paul Groth",
+      "rating": 1413.73,
+      "dailyRatingChange": -5.18
+    },
+    {
+      "position": 9,
+      "playerId": "m52958",
+      "name": "Mark Vero",
+      "rating": 1504.28,
+      "dailyRatingChange": -3.52
+    },
+    {
+      "position": 11,
+      "playerId": "m7035",
+      "name": "Joseph Salender",
+      "rating": 1540.3,
+      "dailyRatingChange": -2.91
+    },
+    {
+      "position": 12,
+      "playerId": "m56635",
+      "name": "Galen Cichy",
+      "rating": 1356.66,
+      "dailyRatingChange": -3.15
+    },
+    {
+      "position": 12,
+      "playerId": "m4441",
+      "name": "Erin Malysa",
+      "rating": 1581.67,
+      "dailyRatingChange": -7.93
+    }
+  ]
+}

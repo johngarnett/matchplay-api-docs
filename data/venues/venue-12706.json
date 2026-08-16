@@ -1,0 +1,413 @@
+{
+  "locationId": "12706",
+  "name": "Level Up Latte",
+  "address": "1180 Blowing Rock Rd, Boone, NC 28607, US",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 29,
+  "relatedVenues": [
+    {
+      "locationId": "7837",
+      "name": "Super Abari Game Bar",
+      "address": "1015 Seigle Ave, Charlotte, NC, 2820, US",
+      "count": 27
+    },
+    {
+      "locationId": "13474",
+      "name": "Greensboro Pinball Museum",
+      "address": "2140 Lawndale Dr, Greensboro, NC 27408, US",
+      "count": 6
+    },
+    {
+      "locationId": "8950",
+      "name": "The Pinball Barn",
+      "address": "250 Stoneybrook Road, Pelzer, SC  29669",
+      "count": 3
+    },
+    {
+      "locationId": "9921",
+      "name": "Renaissance Atlanta Waverly Hotel & Convention Center",
+      "address": "2450 Galleria Pkwy Atlanta, GA 30339",
+      "count": 2
+    },
+    {
+      "locationId": "10474",
+      "name": "Boxcar Bar + Arcade",
+      "address": "120 West Lewis Street, Greensboro, NC 27406, US",
+      "count": 2
+    },
+    {
+      "locationId": "10710",
+      "name": "The Backyard Arcade @ Coastal Hemp Company",
+      "address": "8207 Market St. Unit I, Wilmington, NC, 28411, US",
+      "count": 2
+    },
+    {
+      "locationId": "11549",
+      "name": "Flight Deck NC",
+      "address": "9521 Lumley Rd, Morrisville, NC 27560, US",
+      "count": 2
+    },
+    {
+      "locationId": "3374",
+      "name": "Portal Pinball Arcade",
+      "address": "3335 Cobb Pkwy Suite 800, Acworth, GA, 30101, US",
+      "count": 1
+    },
+    {
+      "locationId": "13037",
+      "name": "Carolina Beer Temple & the Ames Street Marketplace",
+      "address": "215 N Ames St, Matthews, NC 28105, US",
+      "count": 1
+    }
+  ],
+  "players": [
+    {
+      "id": "m28956",
+      "name": "Phillip Davis",
+      "rating": 1668.83,
+      "rd": 19.12,
+      "ratingClass": "A",
+      "homeLocation": "Super Abari Game Bar",
+      "homeLocationId": "7837",
+      "percentile": 93.97214328970047,
+      "changeDisplay": "-0.4",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m56189",
+      "name": "Jeff Donald",
+      "rating": 1595.84,
+      "rd": 49.23,
+      "ratingClass": "B",
+      "homeLocation": "Level Up Latte",
+      "homeLocationId": "12706",
+      "percentile": 80.99874225555503,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m40752",
+      "name": "Guy Pecarro",
+      "rating": 1588.25,
+      "rd": 21.86,
+      "ratingClass": "B",
+      "homeLocation": "Super Abari Game Bar",
+      "homeLocationId": "7837",
+      "percentile": 78.98169283085666,
+      "changeDisplay": "+15.3",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m53727",
+      "name": "Elijah Holnagel",
+      "rating": 1538.11,
+      "rd": 59.66,
+      "ratingClass": "B",
+      "homeLocation": "Level Up Latte",
+      "homeLocationId": "12706",
+      "percentile": 62.323566404248375,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m59295",
+      "name": "Aaron Nies",
+      "rating": 1532.6,
+      "rd": 68.86,
+      "ratingClass": "B",
+      "homeLocation": "Level Up Latte",
+      "homeLocationId": "12706",
+      "percentile": 60.11086784366702,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m60640",
+      "name": "Sophie Baliff",
+      "rating": 1529.08,
+      "rd": 61.85,
+      "ratingClass": "B",
+      "homeLocation": "Level Up Latte",
+      "homeLocationId": "12706",
+      "percentile": 58.680765826617595,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m59291",
+      "name": "Chad Carpenter",
+      "rating": 1526.41,
+      "rd": 71.5,
+      "ratingClass": "B",
+      "homeLocation": "Level Up Latte",
+      "homeLocationId": "12706",
+      "percentile": 57.58606232822472,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m53709",
+      "name": "samuel harris",
+      "rating": 1519.39,
+      "rd": 60.4,
+      "ratingClass": "B",
+      "homeLocation": "Level Up Latte",
+      "homeLocationId": "12706",
+      "percentile": 54.954115619322685,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m59298",
+      "name": "Shy’Vontae Howard",
+      "rating": 1516.49,
+      "rd": 65.85,
+      "ratingClass": "B",
+      "homeLocation": "Level Up Latte",
+      "homeLocationId": "12706",
+      "percentile": 53.789537429543024,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m59290",
+      "name": "Calix Carpenter",
+      "rating": 1509.67,
+      "rd": 65.98,
+      "ratingClass": "B",
+      "homeLocation": "Level Up Latte",
+      "homeLocationId": "12706",
+      "percentile": 51.1110075930498,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m60635",
+      "name": "Pete Pignetti",
+      "rating": 1507.8,
+      "rd": 63.62,
+      "ratingClass": "B",
+      "homeLocation": "Level Up Latte",
+      "homeLocationId": "12706",
+      "percentile": 50.347044300554344,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m60631",
+      "name": "Isaac Dollar",
+      "rating": 1506.73,
+      "rd": 61.07,
+      "ratingClass": "B",
+      "homeLocation": "Level Up Latte",
+      "homeLocationId": "12706",
+      "percentile": 49.87655471188336,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m53724",
+      "name": "Mack Hanna",
+      "rating": 1498.01,
+      "rd": 43.97,
+      "ratingClass": "C",
+      "homeLocation": "Level Up Latte",
+      "homeLocationId": "12706",
+      "percentile": 46.32226207667583,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m60638",
+      "name": "Keya Nandi",
+      "rating": 1492.61,
+      "rd": 61.97,
+      "ratingClass": "C",
+      "homeLocation": "Level Up Latte",
+      "homeLocationId": "12706",
+      "percentile": 44.10024689057623,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m60641",
+      "name": "Gus Fisher",
+      "rating": 1492.44,
+      "rd": 61.95,
+      "ratingClass": "C",
+      "homeLocation": "Level Up Latte",
+      "homeLocationId": "12706",
+      "percentile": 44.01173894815298,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m59294",
+      "name": "Dylan leRibeus",
+      "rating": 1478.6,
+      "rd": 65.64,
+      "ratingClass": "C",
+      "homeLocation": "Level Up Latte",
+      "homeLocationId": "12706",
+      "percentile": 38.393813760655895,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m59305",
+      "name": "cooper hood",
+      "rating": 1475.18,
+      "rd": 74.06,
+      "ratingClass": "C",
+      "homeLocation": "Level Up Latte",
+      "homeLocationId": "12706",
+      "percentile": 36.94042017981087,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m59239",
+      "name": "Pearson Mccollum",
+      "rating": 1462.61,
+      "rd": 66.79,
+      "ratingClass": "C",
+      "homeLocation": "Level Up Latte",
+      "homeLocationId": "12706",
+      "percentile": 31.965342153072157,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m60637",
+      "name": "Duncan Bell",
+      "rating": 1455.31,
+      "rd": 68.84,
+      "ratingClass": "C",
+      "homeLocation": "Level Up Latte",
+      "homeLocationId": "12706",
+      "percentile": 29.207620999673917,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m33071",
+      "name": "Tracey Murray",
+      "rating": 1454.92,
+      "rd": 21.17,
+      "ratingClass": "C",
+      "homeLocation": "Super Abari Game Bar",
+      "homeLocationId": "7837",
+      "percentile": 29.06321330414124,
+      "changeDisplay": "-8.4",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m60636",
+      "name": "Mia Al-Zubaidy",
+      "rating": 1445.39,
+      "rd": 63.74,
+      "ratingClass": "C",
+      "homeLocation": "Level Up Latte",
+      "homeLocationId": "12706",
+      "percentile": 25.522895607211066,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m60630",
+      "name": "Benton Huggins",
+      "rating": 1441.97,
+      "rd": 65.65,
+      "ratingClass": "C",
+      "homeLocation": "Level Up Latte",
+      "homeLocationId": "12706",
+      "percentile": 24.325709228117574,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m53749",
+      "name": "Jesus Sisniega",
+      "rating": 1434.59,
+      "rd": 52.88,
+      "ratingClass": "C",
+      "homeLocation": "Super Abari Game Bar",
+      "homeLocationId": "7837",
+      "percentile": 21.991894535799133,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m58718",
+      "name": "Jason Deathridge",
+      "rating": 1433.49,
+      "rd": 55.68,
+      "ratingClass": "C",
+      "homeLocation": "Level Up Latte",
+      "homeLocationId": "12706",
+      "percentile": 21.605254576792284,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m59297",
+      "name": "Valeria Nieto Ramirez",
+      "rating": 1431.98,
+      "rd": 71.23,
+      "ratingClass": "C",
+      "homeLocation": "Level Up Latte",
+      "homeLocationId": "12706",
+      "percentile": 21.186006428471607,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m53663",
+      "name": "Cameryn Wright",
+      "rating": 1420.53,
+      "rd": 44.36,
+      "ratingClass": "C",
+      "homeLocation": "Level Up Latte",
+      "homeLocationId": "12706",
+      "percentile": 17.77146317603764,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m60639",
+      "name": "Michael Hiller",
+      "rating": 1409.19,
+      "rd": 66.58,
+      "ratingClass": "C",
+      "homeLocation": "Level Up Latte",
+      "homeLocationId": "12706",
+      "percentile": 14.87399263986584,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m59238",
+      "name": "Oscar Schmidt",
+      "rating": 1405.76,
+      "rd": 60.55,
+      "ratingClass": "C",
+      "homeLocation": "Super Abari Game Bar",
+      "homeLocationId": "7837",
+      "percentile": 13.970279964596823,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m59300",
+      "name": "Jason White",
+      "rating": null,
+      "rd": null,
+      "ratingClass": "N/A",
+      "homeLocation": "Level Up Latte",
+      "homeLocationId": "12706",
+      "percentile": null,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

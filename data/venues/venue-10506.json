@@ -1,0 +1,233 @@
+{
+  "locationId": "10506",
+  "name": "Fiesta Cove",
+  "address": "21636 Rio Oro Drive, Cornelius NC",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 18,
+  "relatedVenues": [
+    {
+      "locationId": "13820",
+      "name": "Lock Is Lit Pinball",
+      "address": "19829 S Main Cornelius Nc 28031",
+      "count": 11
+    }
+  ],
+  "players": [
+    {
+      "id": "m48134",
+      "name": "Michael Rimmey",
+      "rating": 1624.22,
+      "rd": 37.79,
+      "ratingClass": "A",
+      "homeLocation": "Fiesta Cove",
+      "homeLocationId": "10506",
+      "percentile": 87.45516373969349,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m20372",
+      "name": "Glen Hoffmann",
+      "rating": 1594.17,
+      "rd": 35.36,
+      "ratingClass": "B",
+      "homeLocation": "Fiesta Cove",
+      "homeLocationId": "10506",
+      "percentile": 80.59812735827083,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m48135",
+      "name": "Micah Smith",
+      "rating": 1573.48,
+      "rd": 36.67,
+      "ratingClass": "B",
+      "homeLocation": "Fiesta Cove",
+      "homeLocationId": "10506",
+      "percentile": 74.59822052452601,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i152955",
+      "name": "Rick Zoerb",
+      "rating": 1566.2,
+      "rd": 44.96,
+      "ratingClass": "B",
+      "homeLocation": "Fiesta Cove",
+      "homeLocationId": "10506",
+      "percentile": 72.32962221083523,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i133238",
+      "name": "John VanderVoort",
+      "rating": 1545.3,
+      "rd": 36.88,
+      "ratingClass": "B",
+      "homeLocation": "Fiesta Cove",
+      "homeLocationId": "10506",
+      "percentile": 65.03004611729631,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i133246",
+      "name": "Jeremy Charles Wallace",
+      "rating": 1518.74,
+      "rd": 50.38,
+      "ratingClass": "B",
+      "homeLocation": "Fiesta Cove",
+      "homeLocationId": "10506",
+      "percentile": 54.67927516653468,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i136877",
+      "name": "Ryan Cheney",
+      "rating": 1503.32,
+      "rd": 44.75,
+      "ratingClass": "B",
+      "homeLocation": "Fiesta Cove",
+      "homeLocationId": "10506",
+      "percentile": 48.469744258629525,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m45218",
+      "name": "Sandy Hoffmann",
+      "rating": 1491.36,
+      "rd": 35.77,
+      "ratingClass": "C",
+      "homeLocation": "Fiesta Cove",
+      "homeLocationId": "10506",
+      "percentile": 43.5924907998323,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i144304",
+      "name": "Brad Freburg",
+      "rating": 1487.04,
+      "rd": 42.23,
+      "ratingClass": "C",
+      "homeLocation": "Fiesta Cove",
+      "homeLocationId": "10506",
+      "percentile": 41.73382400894396,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i133230",
+      "name": "Kimberly Thayer",
+      "rating": 1484.73,
+      "rd": 40.47,
+      "ratingClass": "C",
+      "homeLocation": "Fiesta Cove",
+      "homeLocationId": "10506",
+      "percentile": 40.7695532678064,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i133242",
+      "name": "Scott Thayer",
+      "rating": 1476.62,
+      "rd": 40.63,
+      "ratingClass": "C",
+      "homeLocation": "Fiesta Cove",
+      "homeLocationId": "10506",
+      "percentile": 37.52736758745982,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i133232",
+      "name": "Madeline Maser",
+      "rating": 1452.14,
+      "rd": 47.78,
+      "ratingClass": "C",
+      "homeLocation": "Fiesta Cove",
+      "homeLocationId": "10506",
+      "percentile": 27.95919318023012,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i156789",
+      "name": "Rick Barton",
+      "rating": 1451.91,
+      "rd": 48.69,
+      "ratingClass": "C",
+      "homeLocation": "Fiesta Cove",
+      "homeLocationId": "10506",
+      "percentile": 27.86602692504775,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i133236",
+      "name": "Teresa VanderVoort",
+      "rating": 1443.11,
+      "rd": 38.75,
+      "ratingClass": "C",
+      "homeLocation": "Fiesta Cove",
+      "homeLocationId": "10506",
+      "percentile": 24.79154050402944,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i133229",
+      "name": "liam wallace",
+      "rating": 1424.79,
+      "rd": 51.9,
+      "ratingClass": "C",
+      "homeLocation": "Fiesta Cove",
+      "homeLocationId": "10506",
+      "percentile": 19.047840872036147,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i139260",
+      "name": "Alex Savino",
+      "rating": 1419.52,
+      "rd": 51.65,
+      "ratingClass": "C",
+      "homeLocation": "Fiesta Cove",
+      "homeLocationId": "10506",
+      "percentile": 17.50128103600876,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i144303",
+      "name": "Cheryl Freburg",
+      "rating": 1384.89,
+      "rd": 44.99,
+      "ratingClass": "D",
+      "homeLocation": "Fiesta Cove",
+      "homeLocationId": "10506",
+      "percentile": 9.274700703405227,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i133237",
+      "name": "Dan Maser",
+      "rating": 1375.98,
+      "rd": 47.99,
+      "ratingClass": "D",
+      "homeLocation": "Fiesta Cove",
+      "homeLocationId": "10506",
+      "percentile": 7.602366422881632,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

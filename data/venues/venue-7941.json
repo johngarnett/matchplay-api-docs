@@ -1,0 +1,491 @@
+{
+  "locationId": "7941",
+  "name": "Heart State Brewing",
+  "address": "750 Cross Pointe Rd, Columbus, OH 43230",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 35,
+  "relatedVenues": [
+    {
+      "locationId": "7969",
+      "name": "Level One Bar + Arcade",
+      "address": "130 Hutchinson Ave, Columbus, OH 43235, US",
+      "count": 48
+    },
+    {
+      "locationId": "8939",
+      "name": "Grizzlybird Brewing Company",
+      "address": "5901 Chandler Ct, Westerville, OH 43082, US",
+      "count": 38
+    },
+    {
+      "locationId": "7439",
+      "name": "Arcade Legacy Sharonville",
+      "address": "2241 Crowne Point Dr, Cincinnati, OH 45241, US",
+      "count": 15
+    },
+    {
+      "locationId": "13441",
+      "name": "Tilt Amusment Barn",
+      "address": "3087  russell rd, Ostrander Oh 43061",
+      "count": 14
+    },
+    {
+      "locationId": "9990",
+      "name": "Homestead Taproom & Kitchen",
+      "address": "10 S High St, Canal Winchester, OH 43110, US",
+      "count": 7
+    },
+    {
+      "locationId": "8271",
+      "name": "Rezzanine Esports",
+      "address": "1025 Washington Pike, Bridgeville, PA 15017, US",
+      "count": 3
+    },
+    {
+      "locationId": "12890",
+      "name": "Happenstance Brewing Project",
+      "address": "410 E. 4th Street, Marysville, Ohio 43040",
+      "count": 3
+    },
+    {
+      "locationId": "13248",
+      "name": "North Canton Masonic Temple",
+      "address": "805 Orchard Ave NE, North Canton, OH 44720, US",
+      "count": 3
+    },
+    {
+      "locationId": "3790",
+      "name": "Cactus Jacks",
+      "address": "",
+      "count": 2
+    },
+    {
+      "locationId": "10342",
+      "name": "Pinball Planet",
+      "address": "6277 Pearl Rd, Cleveland, OH 44130, US",
+      "count": 2
+    }
+  ],
+  "players": [
+    {
+      "id": "m1482",
+      "name": "Trent Augenstein",
+      "rating": 1744.08,
+      "rd": 19.52,
+      "ratingClass": "Expert",
+      "homeLocation": "Arcade Legacy Sharonville",
+      "homeLocationId": "7439",
+      "percentile": 98.56058135743234,
+      "changeDisplay": "-2.4",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m22309",
+      "name": "Matt Waters",
+      "rating": 1704.51,
+      "rd": 22.16,
+      "ratingClass": "Expert",
+      "homeLocation": "Arcade Legacy Sharonville",
+      "homeLocationId": "7439",
+      "percentile": 96.8509805748358,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m43200",
+      "name": "Mitchell Banks",
+      "rating": 1675.44,
+      "rd": 26.79,
+      "ratingClass": "A",
+      "homeLocation": "Homestead Taproom & Kitchen",
+      "homeLocationId": "9990",
+      "percentile": 94.65225695253179,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m1885",
+      "name": "Ross Bergantino",
+      "rating": 1667.05,
+      "rd": 37.37,
+      "ratingClass": "A",
+      "homeLocation": "Heart State Brewing",
+      "homeLocationId": "7941",
+      "percentile": 93.82773559416779,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m1902",
+      "name": "Amy Kesting",
+      "rating": 1666.85,
+      "rd": 24.6,
+      "ratingClass": "A",
+      "homeLocation": "Level One Bar + Arcade",
+      "homeLocationId": "7969",
+      "percentile": 93.81376065589043,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m1524",
+      "name": "Holly Koskinen",
+      "rating": 1659.7,
+      "rd": 20.05,
+      "ratingClass": "A",
+      "homeLocation": "Level One Bar + Arcade",
+      "homeLocationId": "7969",
+      "percentile": 93.04979736339499,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m20612",
+      "name": "Kyle Sauter",
+      "rating": 1657.25,
+      "rd": 23.65,
+      "ratingClass": "A",
+      "homeLocation": "Grizzlybird Brewing Company",
+      "homeLocationId": "8939",
+      "percentile": 92.72371547025668,
+      "changeDisplay": "-3.5",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m1490",
+      "name": "Russell Crane",
+      "rating": 1605.36,
+      "rd": 20.53,
+      "ratingClass": "A",
+      "homeLocation": "Grizzlybird Brewing Company",
+      "homeLocationId": "8939",
+      "percentile": 83.2393906926911,
+      "changeDisplay": "-11.0",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m4459",
+      "name": "Lucas Berger",
+      "rating": 1590.32,
+      "rd": 22.6,
+      "ratingClass": "B",
+      "homeLocation": "Heart State Brewing",
+      "homeLocationId": "7941",
+      "percentile": 79.54069036195091,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m5978",
+      "name": "Aaron Larson",
+      "rating": 1580.03,
+      "rd": 29.78,
+      "ratingClass": "B",
+      "homeLocation": "Heart State Brewing",
+      "homeLocationId": "7941",
+      "percentile": 76.6152699492244,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m343",
+      "name": "John Geiger",
+      "rating": 1575.01,
+      "rd": 28.76,
+      "ratingClass": "B",
+      "homeLocation": "Heart State Brewing",
+      "homeLocationId": "7941",
+      "percentile": 75.068710113197,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m3361",
+      "name": "Joe Banner",
+      "rating": 1564.36,
+      "rd": 31.03,
+      "ratingClass": "B",
+      "homeLocation": "Heart State Brewing",
+      "homeLocationId": "7941",
+      "percentile": 71.78459961801835,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m29786",
+      "name": "Nate Welch",
+      "rating": 1560.45,
+      "rd": 27.31,
+      "ratingClass": "B",
+      "homeLocation": "Heart State Brewing",
+      "homeLocationId": "7941",
+      "percentile": 70.42437229235571,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m7508",
+      "name": "tyler trollinger",
+      "rating": 1558.98,
+      "rd": 23.96,
+      "ratingClass": "B",
+      "homeLocation": "Heart State Brewing",
+      "homeLocationId": "7941",
+      "percentile": 70.00978245679414,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m3320",
+      "name": "Ryan Butke",
+      "rating": 1554.7,
+      "rd": 32.67,
+      "ratingClass": "B",
+      "homeLocation": "Heart State Brewing",
+      "homeLocationId": "7941",
+      "percentile": 68.57968043974473,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m38819",
+      "name": "Mike Dotson",
+      "rating": 1554.04,
+      "rd": 28.46,
+      "ratingClass": "B",
+      "homeLocation": "Heart State Brewing",
+      "homeLocationId": "7941",
+      "percentile": 68.33278986351144,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m12994",
+      "name": "Stewart Pomeroy",
+      "rating": 1550.82,
+      "rd": 23.78,
+      "ratingClass": "B",
+      "homeLocation": "Heart State Brewing",
+      "homeLocationId": "7941",
+      "percentile": 67.00982903992174,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m18256",
+      "name": "Ben Sauter",
+      "rating": 1549.4,
+      "rd": 24.61,
+      "ratingClass": "B",
+      "homeLocation": "Grizzlybird Brewing Company",
+      "homeLocationId": "8939",
+      "percentile": 66.47412307262309,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m14232",
+      "name": "Chelsea Pomeroy",
+      "rating": 1545.33,
+      "rd": 24.12,
+      "ratingClass": "B",
+      "homeLocation": "Heart State Brewing",
+      "homeLocationId": "7941",
+      "percentile": 65.04867936833278,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m7333",
+      "name": "Matthew Klaiber",
+      "rating": 1543.34,
+      "rd": 31.46,
+      "ratingClass": "B",
+      "homeLocation": "Heart State Brewing",
+      "homeLocationId": "7941",
+      "percentile": 64.34993245446499,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m48662",
+      "name": "Robert Bush",
+      "rating": 1533.47,
+      "rd": 30.68,
+      "ratingClass": "B",
+      "homeLocation": "Heart State Brewing",
+      "homeLocationId": "7941",
+      "percentile": 60.43694973680533,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m4991",
+      "name": "Brett Ruland",
+      "rating": 1526.98,
+      "rd": 28.1,
+      "ratingClass": "B",
+      "homeLocation": "Heart State Brewing",
+      "homeLocationId": "7941",
+      "percentile": 57.84226952997624,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m50988",
+      "name": "David Lawson",
+      "rating": 1513.11,
+      "rd": 33.28,
+      "ratingClass": "B",
+      "homeLocation": "Heart State Brewing",
+      "homeLocationId": "7941",
+      "percentile": 52.41533516560302,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m57648",
+      "name": "Daniel Perry",
+      "rating": 1511.98,
+      "rd": 32.84,
+      "ratingClass": "B",
+      "homeLocation": "Level One Bar + Arcade",
+      "homeLocationId": "7969",
+      "percentile": 51.986770391764104,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m7534",
+      "name": "Jared Mayercin",
+      "rating": 1505.84,
+      "rd": 33.72,
+      "ratingClass": "B",
+      "homeLocation": "Heart State Brewing",
+      "homeLocationId": "7941",
+      "percentile": 49.587739320817995,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m15314",
+      "name": "Josh Stewart",
+      "rating": 1499.05,
+      "rd": 41.39,
+      "ratingClass": "C",
+      "homeLocation": "Heart State Brewing",
+      "homeLocationId": "7941",
+      "percentile": 46.70890203568268,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m17758",
+      "name": "Joe Sorvillo",
+      "rating": 1487.89,
+      "rd": 31.27,
+      "ratingClass": "C",
+      "homeLocation": "Heart State Brewing",
+      "homeLocationId": "7941",
+      "percentile": 42.11114734243257,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m5080",
+      "name": "Scott Vieth",
+      "rating": 1466.95,
+      "rd": 31.92,
+      "ratingClass": "C",
+      "homeLocation": "Heart State Brewing",
+      "homeLocationId": "7941",
+      "percentile": 33.6237014953184,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m60309",
+      "name": "Michael Bonner",
+      "rating": 1446.81,
+      "rd": 63.19,
+      "ratingClass": "C",
+      "homeLocation": "Heart State Brewing",
+      "homeLocationId": "7941",
+      "percentile": 26.06791820002795,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m7214",
+      "name": "Brad Hengehold",
+      "rating": 1436.66,
+      "rd": 33.07,
+      "ratingClass": "C",
+      "homeLocation": "Heart State Brewing",
+      "homeLocationId": "7941",
+      "percentile": 22.564867005170726,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m24037",
+      "name": "Lindsey Ferrin",
+      "rating": 1435.09,
+      "rd": 49.6,
+      "ratingClass": "C",
+      "homeLocation": "Heart State Brewing",
+      "homeLocationId": "7941",
+      "percentile": 22.164252107886522,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m7144",
+      "name": "Marc Zody",
+      "rating": 1429.51,
+      "rd": 38.61,
+      "ratingClass": "C",
+      "homeLocation": "Heart State Brewing",
+      "homeLocationId": "7941",
+      "percentile": 20.403409884939673,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m3362",
+      "name": "Laura Banner",
+      "rating": 1405.81,
+      "rd": 44.7,
+      "ratingClass": "C",
+      "homeLocation": "Heart State Brewing",
+      "homeLocationId": "7941",
+      "percentile": 13.97959659011506,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m46962",
+      "name": "Cole Wojdacz",
+      "rating": 1396.89,
+      "rd": 26.98,
+      "ratingClass": "D",
+      "homeLocation": "Heart State Brewing",
+      "homeLocationId": "7941",
+      "percentile": 11.734289840219873,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m34945",
+      "name": "Adrian Bachnivsky",
+      "rating": 1395.76,
+      "rd": 36.39,
+      "ratingClass": "D",
+      "homeLocation": "Heart State Brewing",
+      "homeLocationId": "7941",
+      "percentile": 11.478082638468347,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

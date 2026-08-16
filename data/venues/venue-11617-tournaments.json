@@ -1,0 +1,79 @@
+{
+  "locationId": "11617",
+  "venueName": "Chicago Billiard Cafe",
+  "venueAddress": "5935 W Irving Park Rd, Chicago, IL 60634, US",
+  "tournaments": [
+    {
+      "id": 265169,
+      "name": "CBC First Sunday Afternoon Strikes Tourney August",
+      "date": "8/2/2026",
+      "playerCount": 10,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m27144",
+          "name": "Ted Brockly",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m37039",
+          "name": "Andy Wulf",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m11766",
+          "name": "Rachel Maher",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m4317",
+          "name": "Rob Karlic",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m53070",
+          "name": "Nick Rossi",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 264187,
+      "name": "Gotta Play Fast!!!",
+      "date": "7/27/2026",
+      "playerCount": 22,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "p582562",
+          "name": "Charles J",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "p29636",
+          "name": "Rachel K",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m2634",
+          "name": "Kate P",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "p33465",
+          "name": "Gavin",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

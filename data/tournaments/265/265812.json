@@ -1,0 +1,102 @@
+{
+  "tournamentId": 265812,
+  "name": "Bang Back Pinball League- The Grateful Summer 2026 #5- B Division",
+  "date": "2026-08-12",
+  "locationId": "7528",
+  "locationName": "Bang Back Pinball Lounge",
+  "playerCount": 13,
+  "ratingsDate": "2026-08-12",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m60243",
+      "name": "Jeffrey Cooley",
+      "rating": 1412.75,
+      "dailyRatingChange": 12.82
+    },
+    {
+      "position": 2,
+      "playerId": "m580540",
+      "name": "Rebekah Caceres",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 2,
+      "playerId": "m7748",
+      "name": "Krystal Grant",
+      "rating": 1549.62,
+      "dailyRatingChange": 0.36
+    },
+    {
+      "position": 2,
+      "playerId": "i129262",
+      "name": "Krystal Rampalli",
+      "rating": 1325.75,
+      "dailyRatingChange": 14.38
+    },
+    {
+      "position": 5,
+      "playerId": "i155704",
+      "name": "Coleman Terrapin",
+      "rating": 1381.16,
+      "dailyRatingChange": 13.39
+    },
+    {
+      "position": 5,
+      "playerId": "m27756",
+      "name": "Joyce Rose-Harris",
+      "rating": 1376.5,
+      "dailyRatingChange": -2.13
+    },
+    {
+      "position": 7,
+      "playerId": "i126741",
+      "name": "Matthew Duggan",
+      "rating": 1455.59,
+      "dailyRatingChange": -1.47
+    },
+    {
+      "position": 7,
+      "playerId": "i105492",
+      "name": "Bill Yarborough",
+      "rating": 1428.57,
+      "dailyRatingChange": 0.93
+    },
+    {
+      "position": 7,
+      "playerId": "m571382",
+      "name": "Ronick Saraswat",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 7,
+      "playerId": "i126182",
+      "name": "Rixbie Watson",
+      "rating": 1353.72,
+      "dailyRatingChange": -10.65
+    },
+    {
+      "position": 11,
+      "playerId": "m49150",
+      "name": "Julia Geith",
+      "rating": 1390.84,
+      "dailyRatingChange": -4.12
+    },
+    {
+      "position": 12,
+      "playerId": "i131057",
+      "name": "Audrey Hayes",
+      "rating": 1241.69,
+      "dailyRatingChange": 5.07
+    },
+    {
+      "position": 13,
+      "playerId": "i105495",
+      "name": "Ben Yarborough",
+      "rating": 1367.96,
+      "dailyRatingChange": -16.41
+    }
+  ]
+}

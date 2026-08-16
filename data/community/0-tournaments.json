@@ -1,0 +1,1309 @@
+{
+  "communityId": "0",
+  "locations": [
+    {
+      "id": "6645",
+      "name": "1up Lounge",
+      "address": "1121 McKenzie Ave, Bellingham, WA 98225, USA",
+      "tournaments": [
+        {
+          "id": 266247,
+          "name": "Transformers Launch Party at 1-Up Lounge.",
+          "date": "8/9/2026",
+          "playerCount": 14,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m3038",
+              "name": "Joshua Francis",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "p220363",
+              "name": "Cody gessell",
+              "isCommunityMember": false
+            },
+            {
+              "position": 3,
+              "playerId": "m26178",
+              "name": "Hugh newmark",
+              "isCommunityMember": false
+            },
+            {
+              "position": 4,
+              "playerId": "m24928",
+              "name": "Laser halprin",
+              "isCommunityMember": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7165",
+      "name": "8-Bit Arcade Bar",
+      "address": "916 South 3rd Street, Renton, WA 98057, US",
+      "tournaments": [
+        {
+          "id": 266683,
+          "name": "8-Bit Weekly",
+          "date": "8/11/2026",
+          "playerCount": 25,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m3787",
+              "name": "Ashley Weaver",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m14395",
+              "name": "Echo Corsentino",
+              "isCommunityMember": false
+            },
+            {
+              "position": 3,
+              "playerId": "m13413",
+              "name": "Matt Korsmoe",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m3788",
+              "name": "Clinton Peterson",
+              "isCommunityMember": true
+            }
+          ]
+        },
+        {
+          "id": 266015,
+          "name": "8-bit Friendly Fridays",
+          "date": "8/7/2026",
+          "playerCount": 21,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m37860",
+              "name": "Canyon Mosely",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m50995",
+              "name": "Neil Lindquist",
+              "isCommunityMember": false
+            },
+            {
+              "position": 3,
+              "playerId": "m42527",
+              "name": "Robbie Mills",
+              "isCommunityMember": false
+            },
+            {
+              "position": 4,
+              "playerId": "m32269",
+              "name": "Sookie Sookram",
+              "isCommunityMember": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8582",
+      "name": "ADD-A-Ball",
+      "address": "315 N 36th St, Seattle, WA 98103, US",
+      "tournaments": [
+        {
+          "id": 266855,
+          "name": "Wednesday Flip Off 8/12/26",
+          "date": "8/12/2026",
+          "playerCount": 23,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m2269",
+              "name": "Jon Salzman",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m40111",
+              "name": "Matt Wolfe",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m25914",
+              "name": "William Scott Jordan",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m38503",
+              "name": "Hayden mccabe",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m9024",
+              "name": "Anthony Giles",
+              "isCommunityMember": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6280",
+      "name": "Admiral Pub",
+      "address": "2306 California Ave SW, Seattle, WA 98116, USA",
+      "tournaments": [
+        {
+          "id": 266483,
+          "name": "Admiral Pub Music Mondays (90s Alternative 2)",
+          "date": "8/10/2026",
+          "playerCount": 8,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m8556",
+              "name": "Chris Borgstadt",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m29008",
+              "name": "Bob Lyman",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m18316",
+              "name": "Michael Tomber",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m14266",
+              "name": "Scott Helgason",
+              "isCommunityMember": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5959",
+      "name": "Another Castle Arcade Edition Edmonds",
+      "address": "23303 Hwy 99 c, Edmonds, WA 98026, USA",
+      "tournaments": [
+        {
+          "id": 266362,
+          "name": "Just Another Another Castle Tournament",
+          "date": "8/9/2026",
+          "playerCount": 12,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m38834",
+              "name": "Brian Reinhard",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m748",
+              "name": "Aaron Garberding",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m47138",
+              "name": "Chris Ripley",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m45593",
+              "name": "Mae Collin",
+              "isCommunityMember": true
+            }
+          ]
+        },
+        {
+          "id": 266202,
+          "name": "Another Castle Weekly 3 Strike",
+          "date": "8/8/2026",
+          "playerCount": 14,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m55357",
+              "name": "Chris Chrenka",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m45593",
+              "name": "Mae Collin",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m33379",
+              "name": "Erik Rikansrud",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m46831",
+              "name": "Trace Sendele",
+              "isCommunityMember": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "13189",
+      "name": "Another Castle: Arcade Edition",
+      "address": "23303 Washington 99, Suite C, Edmonds, WA 98026, US",
+      "tournaments": [
+        {
+          "id": 267116,
+          "name": "Tour-De-Flip: Another Castle (Edmonds) wk 2 final week",
+          "date": "8/14/2026",
+          "playerCount": 3,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m3563",
+              "name": "Robbie Finnigan",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m55357",
+              "name": "Chris Chrenka",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m40382",
+              "name": "Bryan Hernandez",
+              "isCommunityMember": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "13758",
+      "name": "Apollo Exos Records & Beer",
+      "address": "1717 Hewitt Ave, Everett, WA 98201, US",
+      "tournaments": [
+        {
+          "id": 263007,
+          "name": "Finals for Apollo Exos Weekly Pinball Ritual 8/11/26",
+          "date": "8/11/2026",
+          "playerCount": 4,
+          "qualifying": {
+            "id": 263006,
+            "name": "Apollo Exos Weekly Pinball Ritual 8/11/26",
+            "playerCount": 12
+          },
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m3038",
+              "name": "Joshua Francis",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m5611",
+              "name": "Andrew Jamieson",
+              "isCommunityMember": false
+            },
+            {
+              "position": 3,
+              "playerId": "i93090",
+              "name": "Jenny Cline",
+              "isCommunityMember": false
+            },
+            {
+              "position": 4,
+              "playerId": "m61851",
+              "name": "Peter Sharp",
+              "isCommunityMember": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8159",
+      "name": "Ballard Smoke Shop",
+      "address": "5439 Ballard Avenue Northwest, Seattle, WA 98107, US",
+      "tournaments": [
+        {
+          "id": 266849,
+          "name": "Flip N Ink",
+          "date": "8/12/2026",
+          "playerCount": 8,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "p586719",
+              "name": "Evan O’Brien",
+              "isCommunityMember": false
+            },
+            {
+              "position": 2,
+              "playerId": "m48923",
+              "name": "Spencer Anderson",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "p586717",
+              "name": "Lizzie Edwards",
+              "isCommunityMember": false
+            },
+            {
+              "position": 3,
+              "playerId": "m2706",
+              "name": "James Frost-Winn",
+              "isCommunityMember": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9778",
+      "name": "Black Raven Brewing - Woodinville",
+      "address": "15902 Redmond - Woodinville Rd NE, Woodinville, WA 98072, US",
+      "tournaments": [
+        {
+          "id": 260591,
+          "name": "Black Raven Brewing: 3-Strike",
+          "date": "8/10/2026",
+          "playerCount": 25,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m46411",
+              "name": "Rob M Miller",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m17",
+              "name": "Dave Stewart",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m4007",
+              "name": "Tim Collins",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m16678",
+              "name": "Christopher Daniels",
+              "isCommunityMember": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "10993",
+      "name": "Gary’s Place",
+      "address": "2820 Alki Ave SW, Seattle, WA 98116, US",
+      "tournaments": [
+        {
+          "id": 258965,
+          "name": "Walk on the Beach - Week 8 of 9 (Aug 13, 2026)",
+          "date": "8/13/2026",
+          "playerCount": 11,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m44491",
+              "name": "Marshall Denton",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m28849",
+              "name": "Jay Ostby",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m4441",
+              "name": "Erin Malysa",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m18724",
+              "name": "Matty PinPin",
+              "isCommunityMember": true
+            }
+          ]
+        },
+        {
+          "id": 266682,
+          "name": "Shift Change Tourney @ Gary’s Place",
+          "date": "8/11/2026",
+          "playerCount": 20,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m12668",
+              "name": "Jake Hei",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m28849",
+              "name": "Jay Ostby",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m42542",
+              "name": "David Weil WA",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m44491",
+              "name": "Marshall Denton",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m41658",
+              "name": "Paul Irvine",
+              "isCommunityMember": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8014",
+      "name": "Georgetown Pizza & Arcade",
+      "address": "5513 Airport Way S, Seattle, WA 98108, US",
+      "tournaments": [
+        {
+          "id": 266367,
+          "name": "Finals for GPA 2nd Sunday Pingolf",
+          "date": "8/9/2026",
+          "playerCount": 4,
+          "qualifying": {
+            "id": 266335,
+            "name": "GPA 2nd Sunday Pingolf",
+            "playerCount": 9
+          },
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m26801",
+              "name": "Wil Kirkland",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m763",
+              "name": "Nic Crowson",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m3128",
+              "name": "Kellan Kirkland",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m31895",
+              "name": "Rick Weber",
+              "isCommunityMember": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "10907",
+      "name": "Hound's Tooth Public House",
+      "address": "8551 Greenwood Ave. N., Seattle, WA 98103, US",
+      "tournaments": [
+        {
+          "id": 267137,
+          "name": "Pins and Needles 8/14/2026",
+          "date": "8/15/2026",
+          "playerCount": 15,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m3563",
+              "name": "Robbie Finnigan",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m6912",
+              "name": "Vanessa Ish",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m14904",
+              "name": "Jared Bayliss",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m7718",
+              "name": "Marin Alexander",
+              "isCommunityMember": true
+            }
+          ]
+        },
+        {
+          "id": 265456,
+          "name": "Hound's Tooth Monday Night",
+          "date": "8/10/2026",
+          "playerCount": 6,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m1513",
+              "name": "Jarrett Gaddy",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m25516",
+              "name": "Jeremy Collison",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m42397",
+              "name": "Amy Frame",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m37860",
+              "name": "Canyon Mosely",
+              "isCommunityMember": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "11192",
+      "name": "Houndstooth Public House",
+      "address": "8551 Greenwood Ave N, Seattle, WA 98103, USA",
+      "tournaments": [
+        {
+          "id": 266842,
+          "name": "Houndstooth Wednesday Night Weekly 8/12/2026",
+          "date": "8/13/2026",
+          "playerCount": 21,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m20283",
+              "name": "Dan Cevetello",
+              "isCommunityMember": false
+            },
+            {
+              "position": 2,
+              "playerId": "m3563",
+              "name": "Robbie Finnigan",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m17637",
+              "name": "Elliott Johnson",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m25516",
+              "name": "Jeremy Collison",
+              "isCommunityMember": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7491",
+      "name": "Jupiter Gameroom",
+      "address": "2126 2nd Ave Suite A, Seattle, WA 98121, US",
+      "tournaments": [
+        {
+          "id": 266994,
+          "name": "The Thursday $2 Come Up 89",
+          "date": "8/13/2026",
+          "playerCount": 22,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m11001",
+              "name": "Jaran Jones",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m44490",
+              "name": "Marissa Rodriguez",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m25930",
+              "name": "Luke Camarda",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m18585",
+              "name": "Kevin Coffey",
+              "isCommunityMember": true
+            }
+          ]
+        },
+        {
+          "id": 266703,
+          "name": "JUPITOURNEY 25.8",
+          "date": "8/11/2026",
+          "playerCount": 19,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m6374",
+              "name": "David Johnston US",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m38834",
+              "name": "Brian Reinhard",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m18585",
+              "name": "Kevin Coffey",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m7059",
+              "name": "Dwayne Collins",
+              "isCommunityMember": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "11892",
+      "name": "Locust Cider HarborCade",
+      "address": "3207 57th St Ct, Gig Harbor, WA 98335",
+      "tournaments": [
+        {
+          "id": 266992,
+          "name": "Finals for Harborcade Womxn’s Tournament August",
+          "date": "8/13/2026",
+          "playerCount": 6,
+          "qualifying": {
+            "id": 266980,
+            "name": "Harborcade Womxn’s Tournament August",
+            "playerCount": 6
+          },
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m25037",
+              "name": "Kathleen Rush",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "i57875",
+              "name": "Bon Bon",
+              "isCommunityMember": false
+            },
+            {
+              "position": 3,
+              "playerId": "m37896",
+              "name": "Lilly Brickner",
+              "isCommunityMember": false
+            },
+            {
+              "position": 4,
+              "playerId": "m20705",
+              "name": "Sarah Bay",
+              "isCommunityMember": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "12679",
+      "name": "Olaf's",
+      "address": "6301 24th Ave NW, Seattle, WA 98107, US",
+      "tournaments": [
+        {
+          "id": 266131,
+          "name": "Flipperspill 8/8",
+          "date": "8/8/2026",
+          "playerCount": 8,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m15697",
+              "name": "Steven Ackley",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m6840",
+              "name": "Megan Czahar",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m30247",
+              "name": "Tino Stivaros",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m50485",
+              "name": "Will K",
+              "isCommunityMember": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "12915",
+      "name": "Rickshaw Restaurant & Lounge",
+      "address": "322 N 105th St, Seattle, WA 98133, US",
+      "tournaments": [
+        {
+          "id": 266102,
+          "name": "Rickshaw’s Great Wall of Balls 8/8",
+          "date": "8/8/2026",
+          "playerCount": 7,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m3465",
+              "name": "Justina Russo",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m33370",
+              "name": "Sarah Munden",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m17637",
+              "name": "Elliott Johnson",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m32272",
+              "name": "Hunter Vogt",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m30247",
+              "name": "Tino Stivaros",
+              "isCommunityMember": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8898",
+      "name": "Shorty's",
+      "address": "2222 2nd Avenue, Seattle, WA 98121, US",
+      "tournaments": [
+        {
+          "id": 266885,
+          "name": "Finals for Shorty’s Clown Town Throw Down #32",
+          "date": "8/12/2026",
+          "playerCount": 4,
+          "qualifying": {
+            "id": 266845,
+            "name": "Shorty’s Clown Town Throw Down #32",
+            "playerCount": 11
+          },
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m12491",
+              "name": "Alex Skinner",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m38356",
+              "name": "Andrew Meuser",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m33341",
+              "name": "Dina Robinson",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m31718",
+              "name": "Madison Masterson",
+              "isCommunityMember": true
+            }
+          ]
+        },
+        {
+          "id": 266372,
+          "name": "Let’s Go To Shorty’s 72",
+          "date": "8/9/2026",
+          "playerCount": 11,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m45918",
+              "name": "Dakota Green",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m1506",
+              "name": "Neil Kubath",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m18704",
+              "name": "Steve Geluso",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m7059",
+              "name": "Dwayne Collins",
+              "isCommunityMember": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1893",
+      "name": "The Ice Box",
+      "address": "615 NW Bright St, Seattle, WA 98107, USA",
+      "tournaments": [
+        {
+          "id": 266040,
+          "name": "Finals for Ice Box Friday Night Live 8/7/26",
+          "date": "8/8/2026",
+          "playerCount": 4,
+          "qualifying": {
+            "id": 266017,
+            "name": "Ice Box Friday Night Live 8/7/26",
+            "playerCount": 58
+          },
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m11162",
+              "name": "Sean Irby",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m6165",
+              "name": "Hayden Harker",
+              "isCommunityMember": false
+            },
+            {
+              "position": 3,
+              "playerId": "m3563",
+              "name": "Robbie Finnigan",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m33371",
+              "name": "Owen Weyland",
+              "isCommunityMember": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9576",
+      "name": "The Kraken Bar & Lounge",
+      "address": "5828 Roosevelt Way NE, Seattle, WA 98105, US",
+      "tournaments": [
+        {
+          "id": 246408,
+          "name": "Kraken Ladies' August",
+          "date": "8/11/2026",
+          "playerCount": 6,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m15515",
+              "name": "Shawnna Kenney",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m20409",
+              "name": "Courtney Hoppus",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m18775",
+              "name": "Brad Booms",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m7064",
+              "name": "Steph Hanlon",
+              "isCommunityMember": true
+            }
+          ]
+        },
+        {
+          "id": 266491,
+          "name": "Monday Monday Monday!",
+          "date": "8/10/2026",
+          "playerCount": 10,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m43302",
+              "name": "Sterling Butterfield",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m30247",
+              "name": "Tino Stivaros",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m23211",
+              "name": "Misha Alexeeff",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m17637",
+              "name": "Elliott Johnson",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m20236",
+              "name": "Zachary Peeples",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m56155",
+              "name": "Sammi Snyder",
+              "isCommunityMember": true
+            }
+          ]
+        },
+        {
+          "id": 266373,
+          "name": "Still drunk Sunday 2",
+          "date": "8/9/2026",
+          "playerCount": 12,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m17637",
+              "name": "Elliott Johnson",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m23268",
+              "name": "Ben Simmons",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m20236",
+              "name": "Zachary Peeples",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m55225",
+              "name": "Vincent iannucci",
+              "isCommunityMember": true
+            }
+          ]
+        },
+        {
+          "id": 266348,
+          "name": "Still drunk Sunday 1",
+          "date": "8/9/2026",
+          "playerCount": 7,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m11582",
+              "name": "Kyle Condell",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m17637",
+              "name": "Elliott Johnson",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m39959",
+              "name": "Gage Glupker",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m22703",
+              "name": "Clare Green",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m23211",
+              "name": "Misha Alexeeff",
+              "isCommunityMember": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3191",
+      "name": "Tik Tok’s Workshop ",
+      "address": "1216 Sylvan Way, Bremerton, WA 98310, USA",
+      "tournaments": [
+        {
+          "id": 266153,
+          "name": "Tik Tok's Womxn Group Knockout August",
+          "date": "8/8/2026",
+          "playerCount": 4,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m15575",
+              "name": "Jessica Barron",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m20705",
+              "name": "Sarah Bay",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m9587",
+              "name": "Astrid Morrison",
+              "isCommunityMember": false
+            },
+            {
+              "position": 4,
+              "playerId": "m15574",
+              "name": "Pinky Barney",
+              "isCommunityMember": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "unknown",
+      "name": "Unknown Location",
+      "address": "",
+      "tournaments": [
+        {
+          "id": 266850,
+          "name": "Another Castle Amazing Race 08/12/26",
+          "date": "8/12/2026",
+          "playerCount": 6,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m33379",
+              "name": "Erik Rikansrud",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m3563",
+              "name": "Robbie Finnigan",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "i133359",
+              "name": "Shervin Moheb",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m33281",
+              "name": "Daniel Anthony",
+              "isCommunityMember": true
+            }
+          ]
+        },
+        {
+          "id": 266190,
+          "name": "Finals for Pinarchy in Parkwood",
+          "date": "8/8/2026",
+          "playerCount": 4,
+          "qualifying": {
+            "id": 265299,
+            "name": "Semi-finals for Pinarchy in Parkwood",
+            "playerCount": 16
+          },
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m2809",
+              "name": "Nigel Colbert",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m22198",
+              "name": "Mitchell D. Anderson",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m4007",
+              "name": "Tim Collins",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m69",
+              "name": "James Edes",
+              "isCommunityMember": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "13134",
+      "name": "White Buffalo Saloon",
+      "address": "5614 Evergreen Way, Everett, WA 98203, US",
+      "tournaments": [
+        {
+          "id": 266858,
+          "name": "Tour de flip wk 3",
+          "date": "8/12/2026",
+          "playerCount": 5,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "p586724",
+              "name": "Sean Sarnowski",
+              "isCommunityMember": false
+            },
+            {
+              "position": 1,
+              "playerId": "m4007",
+              "name": "Tim Collins",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m61851",
+              "name": "Peter Sharp",
+              "isCommunityMember": false
+            },
+            {
+              "position": 4,
+              "playerId": "m5611",
+              "name": "Andrew Jamieson",
+              "isCommunityMember": false
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

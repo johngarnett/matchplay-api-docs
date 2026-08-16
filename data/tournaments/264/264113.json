@@ -1,0 +1,60 @@
+{
+  "tournamentId": 264113,
+  "name": "Stern Army East Coast Pinball Juli",
+  "date": "2026-07-27",
+  "locationId": "12688",
+  "locationName": "East Coast  Pinball",
+  "playerCount": 7,
+  "ratingsDate": "2026-07-27",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m7425",
+      "name": "Johnny Mårtensson",
+      "rating": 1708.55,
+      "dailyRatingChange": 9.57
+    },
+    {
+      "position": 2,
+      "playerId": "m29592",
+      "name": "Theo Söderström",
+      "rating": 1583.77,
+      "dailyRatingChange": 11.6
+    },
+    {
+      "position": 3,
+      "playerId": "m7949",
+      "name": "Joakim Sjöblom",
+      "rating": 1630.16,
+      "dailyRatingChange": -7.46
+    },
+    {
+      "position": 4,
+      "playerId": "i88389",
+      "name": "Juha Vierola",
+      "rating": 1538.76,
+      "dailyRatingChange": 1.43
+    },
+    {
+      "position": 5,
+      "playerId": "m10221",
+      "name": "Christer Wolf",
+      "rating": 1498.86,
+      "dailyRatingChange": 5.47
+    },
+    {
+      "position": 6,
+      "playerId": "m3678",
+      "name": "Axel Ludvigsson",
+      "rating": 1570.64,
+      "dailyRatingChange": -25.36
+    },
+    {
+      "position": 7,
+      "playerId": "i160061",
+      "name": "Rolf Söderström",
+      "rating": 1388.92,
+      "dailyRatingChange": -38.69
+    }
+  ]
+}

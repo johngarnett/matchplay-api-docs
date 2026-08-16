@@ -1,0 +1,39 @@
+{
+  "tournamentId": 263825,
+  "name": "LAST CHANCE Glass City Pinball @Riverside BBQ Company",
+  "date": "2026-07-25",
+  "locationId": "12428",
+  "locationName": "Riverside BBQ Company",
+  "playerCount": 4,
+  "ratingsDate": "2026-07-25",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m15123",
+      "name": "Jonathan Walsh",
+      "rating": 1560.75,
+      "dailyRatingChange": 2.79
+    },
+    {
+      "position": 2,
+      "playerId": "m25982",
+      "name": "Elizabeth Walsh",
+      "rating": 1464.69,
+      "dailyRatingChange": 5.65
+    },
+    {
+      "position": 3,
+      "playerId": "i99298",
+      "name": "Michaela Mahoney",
+      "rating": 1384.76,
+      "dailyRatingChange": -1.2
+    },
+    {
+      "position": 4,
+      "playerId": "m53174",
+      "name": "Casey Cox",
+      "rating": 1423.12,
+      "dailyRatingChange": -1.29
+    }
+  ]
+}

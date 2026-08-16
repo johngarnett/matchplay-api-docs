@@ -1,0 +1,53 @@
+{
+  "tournamentId": 262250,
+  "name": "Sauwald Pinball League 2026 - Day 5",
+  "date": "2026-07-28",
+  "locationId": "13727",
+  "locationName": "Stelzenwirt",
+  "playerCount": 6,
+  "ratingsDate": "2026-07-28",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m28071",
+      "name": "Helmut Lechner",
+      "rating": 1583.23,
+      "dailyRatingChange": 8.57
+    },
+    {
+      "position": 2,
+      "playerId": "m427737",
+      "name": "Aumayr Patric",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 3,
+      "playerId": "m20563",
+      "name": "Josef Gangl",
+      "rating": 1537.46,
+      "dailyRatingChange": 5.2
+    },
+    {
+      "position": 4,
+      "playerId": "m582619",
+      "name": "Haidinger Florian",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 5,
+      "playerId": "m578664",
+      "name": "Stöckl Martin",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 6,
+      "playerId": "m550553",
+      "name": "Ertl Felix",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

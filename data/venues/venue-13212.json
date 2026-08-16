@@ -1,0 +1,71 @@
+{
+  "locationId": "13212",
+  "name": "Classic Arcade and Pinball Museum",
+  "address": "3210 Union Rd, Gastonia, NC 28056, US",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 4,
+  "relatedVenues": [
+    {
+      "locationId": "8970",
+      "name": "CityCade Arcade Bar",
+      "address": "122 South Oakland Street, Gastonia NC 28052",
+      "count": 5
+    },
+    {
+      "locationId": "5106",
+      "name": "Player 1UP",
+      "address": "140 E Main St Suite 140, Rock Hill, SC 29730, United States",
+      "count": 2
+    }
+  ],
+  "players": [
+    {
+      "id": "m24549",
+      "name": "Jim Connolly",
+      "rating": 1665.96,
+      "rd": 52.92,
+      "ratingClass": "A",
+      "homeLocation": "Classic Arcade and Pinball Museum",
+      "homeLocationId": "13212",
+      "percentile": 93.72525271346717,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m45874",
+      "name": "Bryan Fraley",
+      "rating": 1626.18,
+      "rd": 24.21,
+      "ratingClass": "A",
+      "homeLocation": "CityCade Arcade Bar",
+      "homeLocationId": "8970",
+      "percentile": 87.81851213490474,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m24669",
+      "name": "Jimmy Connolly",
+      "rating": 1451.27,
+      "rd": 67.34,
+      "ratingClass": "C",
+      "homeLocation": "Classic Arcade and Pinball Museum",
+      "homeLocationId": "13212",
+      "percentile": 27.600503097777985,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m48728",
+      "name": "Heather Alspach",
+      "rating": 1440.91,
+      "rd": 29,
+      "ratingClass": "C",
+      "homeLocation": "Player 1UP",
+      "homeLocationId": "5106",
+      "percentile": 24.03689383705222,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

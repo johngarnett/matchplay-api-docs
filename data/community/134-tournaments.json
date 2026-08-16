@@ -1,0 +1,256 @@
+{
+  "communityId": "134",
+  "locations": [
+    {
+      "id": "11003",
+      "name": "Abari Game Bar",
+      "address": "1721 N Davidson St, Charlotte, NC 28206, US",
+      "tournaments": [
+        {
+          "id": 256190,
+          "name": "Belles & Chimes CLT Summer League 2026 - Week 6",
+          "date": "8/12/2026",
+          "playerCount": 10,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m12315",
+              "name": "Amanda Lax",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m27925",
+              "name": "Sarah Buchanan",
+              "isCommunityMember": false
+            },
+            {
+              "position": 3,
+              "playerId": "i135535",
+              "name": "Parker",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m11021",
+              "name": "Aimee Carlton",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "i141963",
+              "name": "Courtney Schultz",
+              "isCommunityMember": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "11549",
+      "name": "Flight Deck NC",
+      "address": "9521 Lumley Rd, Morrisville, NC 27560, US",
+      "tournaments": [
+        {
+          "id": 263077,
+          "name": "Raleighwood Heat 2026 - Side Tournament",
+          "date": "8/13/2026",
+          "playerCount": 48,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m1663",
+              "name": "Bryan Caudill",
+              "isCommunityMember": false
+            },
+            {
+              "position": 2,
+              "playerId": "m20650",
+              "name": "Matthew Stapleton NC",
+              "isCommunityMember": false
+            },
+            {
+              "position": 3,
+              "playerId": "m8888",
+              "name": "Jeremy Weaver",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m23956",
+              "name": "Miles Bradley",
+              "isCommunityMember": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "13474",
+      "name": "Greensboro Pinball Museum",
+      "address": "2140 Lawndale Dr, Greensboro, NC 27408, US",
+      "tournaments": [
+        {
+          "id": 264800,
+          "name": "GSO Pinball League Season 1 #1",
+          "date": "8/9/2026",
+          "playerCount": 13,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m60001",
+              "name": "Jeremy Hakes",
+              "isCommunityMember": false
+            },
+            {
+              "position": 2,
+              "playerId": "m8888",
+              "name": "Jeremy Weaver",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m3090",
+              "name": "Drew Cedolia",
+              "isCommunityMember": false
+            },
+            {
+              "position": 3,
+              "playerId": "i73999",
+              "name": "Scott Berry",
+              "isCommunityMember": false
+            },
+            {
+              "position": 3,
+              "playerId": "m30520",
+              "name": "Stephen Kulin",
+              "isCommunityMember": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7837",
+      "name": "Super Abari Game Bar",
+      "address": "1015 Seigle Ave, Charlotte, NC, 2820, US",
+      "tournaments": [
+        {
+          "id": 266597,
+          "name": "Super Abari League S22 #4",
+          "date": "8/11/2026",
+          "playerCount": 57,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m1285",
+              "name": "Kaylee Campbell",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m14377",
+              "name": "Jamie Caton",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m25976",
+              "name": "Jonathon Repholz",
+              "isCommunityMember": false
+            },
+            {
+              "position": 2,
+              "playerId": "m21747",
+              "name": "Christina Capra",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m43260",
+              "name": "Ryan Walsh",
+              "isCommunityMember": true
+            }
+          ]
+        },
+        {
+          "id": 260405,
+          "name": "Abari Sunday Pinball Tournament / Transformers Launch Party",
+          "date": "8/9/2026",
+          "playerCount": 24,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m43260",
+              "name": "Ryan Walsh",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m14377",
+              "name": "Jamie Caton",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m41916",
+              "name": "Raegan Harrahy",
+              "isCommunityMember": false
+            },
+            {
+              "position": 3,
+              "playerId": "m40752",
+              "name": "Guy Pecarro",
+              "isCommunityMember": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "unknown",
+      "name": "Unknown Location",
+      "address": "",
+      "tournaments": [
+        {
+          "id": 266256,
+          "name": "Basement Belles & Chimes #38",
+          "date": "8/9/2026",
+          "playerCount": 4,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m6037",
+              "name": "Jacque Hall",
+              "isCommunityMember": false
+            },
+            {
+              "position": 2,
+              "playerId": "m25053",
+              "name": "Kelly Walker",
+              "isCommunityMember": false
+            },
+            {
+              "position": 3,
+              "playerId": "m44858",
+              "name": "Kyra Beveridge",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m50384",
+              "name": "Paige Lane",
+              "isCommunityMember": false
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

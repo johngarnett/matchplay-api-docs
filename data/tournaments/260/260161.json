@@ -1,0 +1,67 @@
+{
+  "tournamentId": 260161,
+  "name": "Top 8 Finals - Flip Frenzy 30.7",
+  "date": "2026-07-30",
+  "locationId": "10800",
+  "locationName": "Illawarra Pinball Clubhouse",
+  "playerCount": 8,
+  "ratingsDate": "2026-07-30",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m42706",
+      "name": "Corey Hackett",
+      "rating": 1561.9,
+      "dailyRatingChange": 13.16
+    },
+    {
+      "position": 2,
+      "playerId": "i126600",
+      "name": "Ivan Poo",
+      "rating": 1461.18,
+      "dailyRatingChange": 16.09
+    },
+    {
+      "position": 3,
+      "playerId": "m39451",
+      "name": "Mags Craze",
+      "rating": 1526.94,
+      "dailyRatingChange": -1.37
+    },
+    {
+      "position": 4,
+      "playerId": "i98224",
+      "name": "Derren Bradford",
+      "rating": 1501.7,
+      "dailyRatingChange": -5.69
+    },
+    {
+      "position": 5,
+      "playerId": "i110886",
+      "name": "Darren Parlett",
+      "rating": 1498.61,
+      "dailyRatingChange": 8.14
+    },
+    {
+      "position": 6,
+      "playerId": "m30040",
+      "name": "Kris Forner",
+      "rating": 1539.9,
+      "dailyRatingChange": -1.49
+    },
+    {
+      "position": 6,
+      "playerId": "m48270",
+      "name": "Jonno Greig",
+      "rating": 1421.2,
+      "dailyRatingChange": 9.17
+    },
+    {
+      "position": 8,
+      "playerId": "m29363",
+      "name": "JayTee Saward",
+      "rating": 1596.59,
+      "dailyRatingChange": -4.82
+    }
+  ]
+}

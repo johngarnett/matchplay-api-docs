@@ -1,0 +1,137 @@
+{
+  "tournamentId": 257908,
+  "name": "Marquee Pinball League  Season 4 #2",
+  "date": "2026-07-22",
+  "locationId": "11556",
+  "locationName": "Marquee Pinball Lounge",
+  "playerCount": 18,
+  "ratingsDate": "2026-07-22",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m5244",
+      "name": "Scott Miles",
+      "rating": 1642.13,
+      "dailyRatingChange": 7.79
+    },
+    {
+      "position": 2,
+      "playerId": "m58263",
+      "name": "David Price",
+      "rating": 1512.49,
+      "dailyRatingChange": 12.87
+    },
+    {
+      "position": 3,
+      "playerId": "m60814",
+      "name": "Miles Quesenberry",
+      "rating": 1548.04,
+      "dailyRatingChange": 16.65
+    },
+    {
+      "position": 3,
+      "playerId": "m57519",
+      "name": "Jaimie Riggs",
+      "rating": 1594.42,
+      "dailyRatingChange": 4.8
+    },
+    {
+      "position": 5,
+      "playerId": "m477063",
+      "name": "Chris Chang",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 6,
+      "playerId": "i147794",
+      "name": "Nicasio Yeend",
+      "rating": 1496,
+      "dailyRatingChange": 7.96
+    },
+    {
+      "position": 7,
+      "playerId": "i141004",
+      "name": "Mitch Clemens",
+      "rating": 1621.93,
+      "dailyRatingChange": -8.59
+    },
+    {
+      "position": 8,
+      "playerId": "m510966",
+      "name": "Hannah Maib",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 8,
+      "playerId": "m580616",
+      "name": "Mike Murphy",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 8,
+      "playerId": "m36439",
+      "name": "Nina Lucas",
+      "rating": 1508.23,
+      "dailyRatingChange": -0.38
+    },
+    {
+      "position": 11,
+      "playerId": "m493922",
+      "name": "Matty Escamilla",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 12,
+      "playerId": "m510942",
+      "name": "Rebecca Naranjo",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 12,
+      "playerId": "m55932",
+      "name": "Hillary Hight",
+      "rating": 1419.78,
+      "dailyRatingChange": -5.21
+    },
+    {
+      "position": 14,
+      "playerId": "m464487",
+      "name": "Alex Gonzalez",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 14,
+      "playerId": "m497431",
+      "name": "Casey Maib",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 16,
+      "playerId": "m49079",
+      "name": "Ely Redmayne",
+      "rating": 1420.38,
+      "dailyRatingChange": -12.27
+    },
+    {
+      "position": 16,
+      "playerId": "m497436",
+      "name": "Leif Kelly",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 18,
+      "playerId": "m580628",
+      "name": "Mickey Clemens",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

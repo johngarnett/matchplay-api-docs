@@ -1,0 +1,39 @@
+{
+  "tournamentId": 266852,
+  "name": "Finals for Rec Haus 8/12/26",
+  "date": "2026-08-13",
+  "locationId": "12269",
+  "locationName": "Rec Haus",
+  "playerCount": 4,
+  "ratingsDate": null,
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m32464",
+      "name": "Derek Hilgenberg",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 2,
+      "playerId": "m39082",
+      "name": "Ron Malenke",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 3,
+      "playerId": "m51195",
+      "name": "George Lambert V",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 4,
+      "playerId": "m29060",
+      "name": "Brian Pangborn",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

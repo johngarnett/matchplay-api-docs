@@ -1,0 +1,67 @@
+{
+  "tournamentId": 262962,
+  "name": "Playoffs for Lavender League Summer 2026 Finals - Division A",
+  "date": "2026-07-21",
+  "locationId": "11373",
+  "locationName": "The Detour",
+  "playerCount": 8,
+  "ratingsDate": "2026-07-21",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m44916",
+      "name": "Cole Brinsfield",
+      "rating": 1545.7,
+      "dailyRatingChange": 11.39
+    },
+    {
+      "position": 2,
+      "playerId": "m39550",
+      "name": "Mia Lew",
+      "rating": 1524.75,
+      "dailyRatingChange": 23.56
+    },
+    {
+      "position": 3,
+      "playerId": "m27616",
+      "name": "Andrew Davis",
+      "rating": 1582.87,
+      "dailyRatingChange": -0.07
+    },
+    {
+      "position": 4,
+      "playerId": "m48600",
+      "name": "Noam Zomerfeld",
+      "rating": 1539.87,
+      "dailyRatingChange": -6.63
+    },
+    {
+      "position": 5,
+      "playerId": "m50895",
+      "name": "Kavya Babu",
+      "rating": 1525.8,
+      "dailyRatingChange": 2.77
+    },
+    {
+      "position": 6,
+      "playerId": "m49404",
+      "name": "Jeremy Morony",
+      "rating": 1535.81,
+      "dailyRatingChange": -6.7
+    },
+    {
+      "position": 7,
+      "playerId": "m51986",
+      "name": "Morgan York",
+      "rating": 1473.27,
+      "dailyRatingChange": -7.02
+    },
+    {
+      "position": 8,
+      "playerId": "m38814",
+      "name": "Ricky Marr",
+      "rating": 1497.74,
+      "dailyRatingChange": -18.3
+    }
+  ]
+}

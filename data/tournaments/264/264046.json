@@ -1,0 +1,95 @@
+{
+  "tournamentId": 264046,
+  "name": "Town Portal Weekly Sunday Tournament 7/26/26",
+  "date": "2026-07-27",
+  "locationId": "10258",
+  "locationName": "Town Portal",
+  "playerCount": 12,
+  "ratingsDate": "2026-07-27",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m7993",
+      "name": "Daron Coull",
+      "rating": 1679.68,
+      "dailyRatingChange": 6.06
+    },
+    {
+      "position": 2,
+      "playerId": "m49802",
+      "name": "Annie Dro",
+      "rating": 1614.3,
+      "dailyRatingChange": 0.45
+    },
+    {
+      "position": 3,
+      "playerId": "m41199",
+      "name": "Mason Forsyth",
+      "rating": 1450.92,
+      "dailyRatingChange": 9.22
+    },
+    {
+      "position": 4,
+      "playerId": "m25705",
+      "name": "Mike Gamble",
+      "rating": 1563.44,
+      "dailyRatingChange": -2.7
+    },
+    {
+      "position": 5,
+      "playerId": "m22808",
+      "name": "Brent Haydock",
+      "rating": 1509.86,
+      "dailyRatingChange": 0.81
+    },
+    {
+      "position": 6,
+      "playerId": "m510673",
+      "name": "Tyler Johnson",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 7,
+      "playerId": "m6646",
+      "name": "Rachel Kahalekulu",
+      "rating": 1430.65,
+      "dailyRatingChange": 0.28
+    },
+    {
+      "position": 7,
+      "playerId": "m9587",
+      "name": "Astrid Morrison",
+      "rating": 1453.73,
+      "dailyRatingChange": -3.72
+    },
+    {
+      "position": 9,
+      "playerId": "m52336",
+      "name": "Cassidy Witt",
+      "rating": 1434.35,
+      "dailyRatingChange": -6.38
+    },
+    {
+      "position": 9,
+      "playerId": "i97318",
+      "name": "Sherri Gamble",
+      "rating": 1306.99,
+      "dailyRatingChange": -0.93
+    },
+    {
+      "position": 11,
+      "playerId": "m47080",
+      "name": "Allison Tilton",
+      "rating": 1378.43,
+      "dailyRatingChange": -9.08
+    },
+    {
+      "position": 11,
+      "playerId": "m580206",
+      "name": "John Scheving",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

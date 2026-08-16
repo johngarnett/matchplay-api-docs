@@ -1,0 +1,95 @@
+{
+  "tournamentId": 263294,
+  "name": "Talisman Pinball Party 22 Jul 26",
+  "date": "2026-07-23",
+  "locationId": "13133",
+  "locationName": "Talisman Brewing Company",
+  "playerCount": 12,
+  "ratingsDate": "2026-07-23",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m12131",
+      "name": "Nate Smith CO",
+      "rating": 1761.44,
+      "dailyRatingChange": 0.06
+    },
+    {
+      "position": 2,
+      "playerId": "m28108",
+      "name": "Yusuf Yarow",
+      "rating": 1589.92,
+      "dailyRatingChange": 6.17
+    },
+    {
+      "position": 3,
+      "playerId": "m44125",
+      "name": "Cado Hernandez",
+      "rating": 1533.62,
+      "dailyRatingChange": -0.14
+    },
+    {
+      "position": 4,
+      "playerId": "m41915",
+      "name": "Cade Vincent",
+      "rating": 1637.02,
+      "dailyRatingChange": -1.73
+    },
+    {
+      "position": 5,
+      "playerId": "i148037",
+      "name": "Darren Greenlee",
+      "rating": 1514.18,
+      "dailyRatingChange": 2.27
+    },
+    {
+      "position": 6,
+      "playerId": "m540583",
+      "name": "Dustin Weston",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 7,
+      "playerId": "m29635",
+      "name": "Megan Weir",
+      "rating": 1525.29,
+      "dailyRatingChange": 0.51
+    },
+    {
+      "position": 8,
+      "playerId": "m29418",
+      "name": "Stacy Shaffer",
+      "rating": 1499.74,
+      "dailyRatingChange": -0.34
+    },
+    {
+      "position": 9,
+      "playerId": "i54155",
+      "name": "EK Shaffer",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 10,
+      "playerId": "m548727",
+      "name": "Steve Armstrong",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 11,
+      "playerId": "m540594",
+      "name": "Joanna Jensen",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 12,
+      "playerId": "m57768",
+      "name": "Mandi Waldron",
+      "rating": 1386.66,
+      "dailyRatingChange": -12.53
+    }
+  ]
+}

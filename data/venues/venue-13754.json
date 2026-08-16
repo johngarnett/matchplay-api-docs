@@ -1,0 +1,179 @@
+{
+  "locationId": "13754",
+  "name": "Peeldriguez",
+  "address": "",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 12,
+  "relatedVenues": [
+    {
+      "locationId": "8201",
+      "name": "Rad Retrocade",
+      "address": "201 North Main Street, Las Cruces, NM 88001, US",
+      "count": 55
+    },
+    {
+      "locationId": "13861",
+      "name": "Zia Comics",
+      "address": "125 N Main St, Las Cruces, NM 88001, US",
+      "count": 11
+    },
+    {
+      "locationId": "8437",
+      "name": "Casa Pinball",
+      "address": "",
+      "count": 9
+    },
+    {
+      "locationId": "8912",
+      "name": "Sister",
+      "address": "407 Central Ave NW, Albuquerque, NM 87102, US",
+      "count": 5
+    }
+  ],
+  "players": [
+    {
+      "id": "m19850",
+      "name": "Matt Wilson",
+      "rating": 1748.61,
+      "rd": 26.76,
+      "ratingClass": "Expert",
+      "homeLocation": "Rad Retrocade",
+      "homeLocationId": "8201",
+      "percentile": 98.68169748916942,
+      "changeDisplay": "-25.4",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m19831",
+      "name": "Mandy Peel",
+      "rating": 1655.43,
+      "rd": 22.57,
+      "ratingClass": "A",
+      "homeLocation": "Rad Retrocade",
+      "homeLocationId": "8201",
+      "percentile": 92.47682489402338,
+      "changeDisplay": "-12.0",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "i7500",
+      "name": "Butch Peel",
+      "rating": 1654.75,
+      "rd": 38.33,
+      "ratingClass": "A",
+      "homeLocation": "Rad Retrocade",
+      "homeLocationId": "8201",
+      "percentile": 92.37434201332277,
+      "changeDisplay": "+25.1",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m19513",
+      "name": "Doug McDonald",
+      "rating": 1654.15,
+      "rd": 38.29,
+      "ratingClass": "A",
+      "homeLocation": "Rad Retrocade",
+      "homeLocationId": "8201",
+      "percentile": 92.28583407089953,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m30366",
+      "name": "Brenna Peel",
+      "rating": 1644.87,
+      "rd": 24.47,
+      "ratingClass": "A",
+      "homeLocation": "Rad Retrocade",
+      "homeLocationId": "8201",
+      "percentile": 91.01411468766013,
+      "changeDisplay": "-9.3",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m27846",
+      "name": "David Lopez TX",
+      "rating": 1642.7,
+      "rd": 25.63,
+      "ratingClass": "A",
+      "homeLocation": "Rad Retrocade",
+      "homeLocationId": "8201",
+      "percentile": 90.74393254763125,
+      "changeDisplay": "+7.2",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m30367",
+      "name": "Joshua Rodriguez",
+      "rating": 1608.36,
+      "rd": 25.36,
+      "ratingClass": "A",
+      "homeLocation": "Rad Retrocade",
+      "homeLocationId": "8201",
+      "percentile": 84.07322867657334,
+      "changeDisplay": "+3.3",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "i103590",
+      "name": "Brant Goddard",
+      "rating": 1564.31,
+      "rd": 26.1,
+      "ratingClass": "B",
+      "homeLocation": "Rad Retrocade",
+      "homeLocationId": "8201",
+      "percentile": 71.770624679741,
+      "changeDisplay": "+3.8",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m30383",
+      "name": "Natoria Martinez",
+      "rating": 1516.39,
+      "rd": 27.29,
+      "ratingClass": "B",
+      "homeLocation": "Rad Retrocade",
+      "homeLocationId": "8201",
+      "percentile": 53.75692924022919,
+      "changeDisplay": "-2.9",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m31296",
+      "name": "Debbie Peel",
+      "rating": 1491.68,
+      "rd": 25.22,
+      "ratingClass": "C",
+      "homeLocation": "Rad Retrocade",
+      "homeLocationId": "8201",
+      "percentile": 43.727581869846745,
+      "changeDisplay": "+21.9",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "i101353",
+      "name": "Ash Allred",
+      "rating": 1479.18,
+      "rd": 26.62,
+      "ratingClass": "C",
+      "homeLocation": "Rad Retrocade",
+      "homeLocationId": "8201",
+      "percentile": 38.63604602413006,
+      "changeDisplay": "+9.6",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "i117442",
+      "name": "Jordan VanDyke",
+      "rating": 1325.95,
+      "rd": 34.56,
+      "ratingClass": "D",
+      "homeLocation": "Peeldriguez",
+      "homeLocationId": "13754",
+      "percentile": 2.1847486840266455,
+      "changeDisplay": "+4.3",
+      "changeClass": "change-positive"
+    }
+  ]
+}

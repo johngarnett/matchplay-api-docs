@@ -1,0 +1,161 @@
+{
+  "locationId": "3933",
+  "name": "Marynino",
+  "address": "05-140 Marynino, Polska",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 11,
+  "relatedVenues": [
+    {
+      "locationId": "9707",
+      "name": "Srebrna Kula",
+      "address": "Abrahama 61B Gdynia, Poland",
+      "count": 10
+    },
+    {
+      "locationId": "9617",
+      "name": "Srebrna Kula Pinball Pub Gdynia",
+      "address": "Abrahama 61B, Gdynia, Pomorskie 81-352, PL",
+      "count": 2
+    },
+    {
+      "locationId": "12975",
+      "name": "Klub Flipperowy Retro Underground",
+      "address": "Warszawa, ul Filtrowa 68, domofon 225",
+      "count": 1
+    }
+  ],
+  "players": [
+    {
+      "id": "m15990",
+      "name": "Marek Chojecki",
+      "rating": 1670.47,
+      "rd": 26.7,
+      "ratingClass": "A",
+      "homeLocation": "Marynino",
+      "homeLocationId": "3933",
+      "percentile": 94.14450086178786,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m42002",
+      "name": "Bartosz Slomczynski",
+      "rating": 1621.64,
+      "rd": 27.34,
+      "ratingClass": "A",
+      "homeLocation": "Marynino",
+      "homeLocationId": "3933",
+      "percentile": 86.96604089998603,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m42000",
+      "name": "Piotr Ulman",
+      "rating": 1604.83,
+      "rd": 24.78,
+      "ratingClass": "A",
+      "homeLocation": "Marynino",
+      "homeLocationId": "3933",
+      "percentile": 83.11827456095402,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m42336",
+      "name": "Piotr Rubik",
+      "rating": 1590.68,
+      "rd": 24.56,
+      "ratingClass": "B",
+      "homeLocation": "Marynino",
+      "homeLocationId": "3933",
+      "percentile": 79.63385661713328,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m42335",
+      "name": "Wojciech Ka?uzny",
+      "rating": 1561.91,
+      "rd": 27.75,
+      "ratingClass": "B",
+      "homeLocation": "Marynino",
+      "homeLocationId": "3933",
+      "percentile": 70.97871151069083,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m41141",
+      "name": "Krzysztof Kawinski",
+      "rating": 1521.47,
+      "rd": 27.06,
+      "ratingClass": "B",
+      "homeLocation": "Marynino",
+      "homeLocationId": "3933",
+      "percentile": 55.77863697768668,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m36095",
+      "name": "Marek Rutkowski",
+      "rating": 1515.62,
+      "rd": 28.9,
+      "ratingClass": "B",
+      "homeLocation": "Marynino",
+      "homeLocationId": "3933",
+      "percentile": 53.43550565985,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m43215",
+      "name": "Piotr Palubicki",
+      "rating": 1514.59,
+      "rd": 26.5,
+      "ratingClass": "B",
+      "homeLocation": "Marynino",
+      "homeLocationId": "3933",
+      "percentile": 53.01625751152932,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m31907",
+      "name": "Jakub Dziura",
+      "rating": 1514.48,
+      "rd": 29.53,
+      "ratingClass": "B",
+      "homeLocation": "Marynino",
+      "homeLocationId": "3933",
+      "percentile": 52.951041132901665,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m33181",
+      "name": "Krzysztof Machon",
+      "rating": 1505.65,
+      "rd": 28.2,
+      "ratingClass": "B",
+      "homeLocation": "Marynino",
+      "homeLocationId": "3933",
+      "percentile": 49.49923137839475,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m30835",
+      "name": "Tomasz Jaworek",
+      "rating": 1493.93,
+      "rd": 30.16,
+      "ratingClass": "C",
+      "homeLocation": "Marynino",
+      "homeLocationId": "3933",
+      "percentile": 44.715144174779894,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

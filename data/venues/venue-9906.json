@@ -1,0 +1,197 @@
+{
+  "locationId": "9906",
+  "name": "B. A. Start Arcade and Tap - A Pinball Lounge & Social Club",
+  "address": "647 Higuera St, San Luis Obispo, Ca 93401",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 15,
+  "relatedVenues": [
+    {
+      "locationId": "10651",
+      "name": "Humdinger Brewing",
+      "address": "855 Capitolio Way, San Luis Obispo, CA 93401, US",
+      "count": 2
+    }
+  ],
+  "players": [
+    {
+      "id": "i8622",
+      "name": "Mike Nedresky",
+      "rating": 1673.69,
+      "rd": 37.72,
+      "ratingClass": "A",
+      "homeLocation": "B. A. Start Arcade and Tap - A Pinball Lounge & Social Club",
+      "homeLocationId": "9906",
+      "percentile": 94.46126612940793,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i124582",
+      "name": "Justin Miner",
+      "rating": 1638.38,
+      "rd": 41.01,
+      "ratingClass": "A",
+      "homeLocation": "B. A. Start Arcade and Tap - A Pinball Lounge & Social Club",
+      "homeLocationId": "9906",
+      "percentile": 90.06381888479993,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i35046",
+      "name": "Dale Green",
+      "rating": 1629.12,
+      "rd": 36.89,
+      "ratingClass": "A",
+      "homeLocation": "B. A. Start Arcade and Tap - A Pinball Lounge & Social Club",
+      "homeLocationId": "9906",
+      "percentile": 88.4101178553128,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i59785",
+      "name": "Jacob Johnson",
+      "rating": 1569.45,
+      "rd": 44.66,
+      "ratingClass": "B",
+      "homeLocation": "B. A. Start Arcade and Tap - A Pinball Lounge & Social Club",
+      "homeLocationId": "9906",
+      "percentile": 73.33581776680487,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m39159",
+      "name": "Timber Amaral",
+      "rating": 1560.98,
+      "rd": 53.04,
+      "ratingClass": "B",
+      "homeLocation": "B. A. Start Arcade and Tap - A Pinball Lounge & Social Club",
+      "homeLocationId": "9906",
+      "percentile": 70.63399636651604,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m40904",
+      "name": "Alex Younger",
+      "rating": 1544.6,
+      "rd": 34.62,
+      "ratingClass": "B",
+      "homeLocation": "B. A. Start Arcade and Tap - A Pinball Lounge & Social Club",
+      "homeLocationId": "9906",
+      "percentile": 64.79247216658126,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m28971",
+      "name": "Randall Lakey",
+      "rating": 1537.92,
+      "rd": 36.6,
+      "ratingClass": "B",
+      "homeLocation": "B. A. Start Arcade and Tap - A Pinball Lounge & Social Club",
+      "homeLocationId": "9906",
+      "percentile": 62.23505846182513,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i122498",
+      "name": "Timber Amaral",
+      "rating": 1537.4,
+      "rd": 36.82,
+      "ratingClass": "B",
+      "homeLocation": "B. A. Start Arcade and Tap - A Pinball Lounge & Social Club",
+      "homeLocationId": "9906",
+      "percentile": 62.030092700423914,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i69855",
+      "name": "Zach Johnson",
+      "rating": 1532.91,
+      "rd": 42.78,
+      "ratingClass": "B",
+      "homeLocation": "B. A. Start Arcade and Tap - A Pinball Lounge & Social Club",
+      "homeLocationId": "9906",
+      "percentile": 60.2552755391997,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i35040",
+      "name": "Lisa Barrera",
+      "rating": 1482.39,
+      "rd": 42.97,
+      "ratingClass": "C",
+      "homeLocation": "B. A. Start Arcade and Tap - A Pinball Lounge & Social Club",
+      "homeLocationId": "9906",
+      "percentile": 39.8704989052965,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i122488",
+      "name": "Wes Aldridge",
+      "rating": 1477.15,
+      "rd": 44.51,
+      "ratingClass": "C",
+      "homeLocation": "B. A. Start Arcade and Tap - A Pinball Lounge & Social Club",
+      "homeLocationId": "9906",
+      "percentile": 37.764941538174874,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i124590",
+      "name": "Meagan Aldridge",
+      "rating": 1416.34,
+      "rd": 46.53,
+      "ratingClass": "C",
+      "homeLocation": "B. A. Start Arcade and Tap - A Pinball Lounge & Social Club",
+      "homeLocationId": "9906",
+      "percentile": 16.63483486281269,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m39158",
+      "name": "Krystyna Amaral",
+      "rating": 1376.96,
+      "rd": 38.2,
+      "ratingClass": "D",
+      "homeLocation": "B. A. Start Arcade and Tap - A Pinball Lounge & Social Club",
+      "homeLocationId": "9906",
+      "percentile": 7.7747239949690226,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i125477",
+      "name": "David Woods",
+      "rating": 1373.52,
+      "rd": 41.28,
+      "ratingClass": "D",
+      "homeLocation": "B. A. Start Arcade and Tap - A Pinball Lounge & Social Club",
+      "homeLocationId": "9906",
+      "percentile": 7.187776587320073,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i136436",
+      "name": "Jason Cook",
+      "rating": 1363.68,
+      "rd": 46.9,
+      "ratingClass": "D",
+      "homeLocation": "B. A. Start Arcade and Tap - A Pinball Lounge & Social Club",
+      "homeLocationId": "9906",
+      "percentile": 5.841524199934783,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

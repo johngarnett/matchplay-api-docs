@@ -1,0 +1,25 @@
+{
+  "tournamentId": 264826,
+  "name": "Highscore Flipper Frenzy Finals",
+  "date": "2026-07-31",
+  "locationId": "6713",
+  "locationName": "Highscore Kristiansand",
+  "playerCount": 2,
+  "ratingsDate": "2026-07-31",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m46910",
+      "name": "Dean Pepshi",
+      "rating": 1630.89,
+      "dailyRatingChange": 0.4
+    },
+    {
+      "position": 2,
+      "playerId": "m57778",
+      "name": "Trygve Gundersen",
+      "rating": 1572.21,
+      "dailyRatingChange": 0.6
+    }
+  ]
+}

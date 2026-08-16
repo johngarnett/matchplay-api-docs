@@ -1,0 +1,144 @@
+{
+  "tournamentId": 265720,
+  "name": "THE ROCK FANTASY WEEKLY STERN ARMY TOURNAMENT",
+  "date": "2026-08-07",
+  "locationId": "9019",
+  "locationName": "Rock Fantasy",
+  "playerCount": 19,
+  "ratingsDate": "2026-08-07",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m32855",
+      "name": "Kate Smith NY",
+      "rating": 1600.13,
+      "dailyRatingChange": 7.98
+    },
+    {
+      "position": 2,
+      "playerId": "m51151",
+      "name": "michael Vaccarino",
+      "rating": 1578.7,
+      "dailyRatingChange": 9.95
+    },
+    {
+      "position": 3,
+      "playerId": "m39898",
+      "name": "Jake Polachek",
+      "rating": 1630.59,
+      "dailyRatingChange": -0.58
+    },
+    {
+      "position": 4,
+      "playerId": "m50602",
+      "name": "andrew lorenc",
+      "rating": 1505.87,
+      "dailyRatingChange": -3.91
+    },
+    {
+      "position": 4,
+      "playerId": "i105695",
+      "name": "Frank Grieco",
+      "rating": 1542.94,
+      "dailyRatingChange": 2.89
+    },
+    {
+      "position": 4,
+      "playerId": "m464994",
+      "name": "riley kool",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 4,
+      "playerId": "m516124",
+      "name": "STEVEN LEVIN",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 8,
+      "playerId": "m61114",
+      "name": "robin maguire",
+      "rating": 1514.93,
+      "dailyRatingChange": -0.45
+    },
+    {
+      "position": 8,
+      "playerId": "m472737",
+      "name": "joe britto",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 10,
+      "playerId": "m479031",
+      "name": "sebastion sanchez",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 10,
+      "playerId": "m585002",
+      "name": "mason cuomo",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 12,
+      "playerId": "m472740",
+      "name": "Michael trotter",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 13,
+      "playerId": "m525",
+      "name": "Stephen Keeler",
+      "rating": 1559.22,
+      "dailyRatingChange": -8.99
+    },
+    {
+      "position": 13,
+      "playerId": "m585003",
+      "name": "jake mcgowan",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 15,
+      "playerId": "m62456",
+      "name": "Alex Mccord",
+      "rating": 1364.53,
+      "dailyRatingChange": 0.37
+    },
+    {
+      "position": 15,
+      "playerId": "m50786",
+      "name": "magic weez",
+      "rating": 1387.39,
+      "dailyRatingChange": 4.76
+    },
+    {
+      "position": 17,
+      "playerId": "m59702",
+      "name": "ocean v",
+      "rating": 1353.41,
+      "dailyRatingChange": -6.01
+    },
+    {
+      "position": 18,
+      "playerId": "m60296",
+      "name": "ron hickey",
+      "rating": 1416.38,
+      "dailyRatingChange": -17.33
+    },
+    {
+      "position": 19,
+      "playerId": "m52793",
+      "name": "Liam winter",
+      "rating": 1519.34,
+      "dailyRatingChange": -4.54
+    }
+  ]
+}

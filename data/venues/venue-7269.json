@@ -1,0 +1,137 @@
+{
+  "locationId": "7269",
+  "name": "Riccardi-Cade",
+  "address": "5884 Old Carriage Rd. Bath PA",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 8,
+  "relatedVenues": [
+    {
+      "locationId": "5785",
+      "name": "Delaware Pinball Collective",
+      "address": "1100 First State Blvd. Wilmington, DE 19804",
+      "count": 3
+    },
+    {
+      "locationId": "6971",
+      "name": "Railroad Street Bar and Grill",
+      "address": "36 Railroad Street, Linfield, PA 19468, US",
+      "count": 2
+    },
+    {
+      "locationId": "1142",
+      "name": "Pinball Gallery",
+      "address": "81 Lancaster Ave, Great Valley Center #20, Malvern, PA 19355, USA",
+      "count": 1
+    },
+    {
+      "locationId": "6813",
+      "name": "Morristown Game Vault",
+      "address": "22 South St, Morristown, NJ, 07960, US",
+      "count": 1
+    },
+    {
+      "locationId": "9019",
+      "name": "Rock Fantasy",
+      "address": "12 East Main Street, Middletown, New York 10940, US",
+      "count": 1
+    }
+  ],
+  "players": [
+    {
+      "id": "m6041",
+      "name": "Cliff Albert",
+      "rating": 1692.65,
+      "rd": 24.01,
+      "ratingClass": "A",
+      "homeLocation": "Delaware Pinball Collective",
+      "homeLocationId": "5785",
+      "percentile": 96.1056505333768,
+      "changeDisplay": "+4.9",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m7695",
+      "name": "Matt Swatsky",
+      "rating": 1678.99,
+      "rd": 34.57,
+      "ratingClass": "A",
+      "homeLocation": "Riccardi-Cade",
+      "homeLocationId": "7269",
+      "percentile": 95.01560534774305,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m23972",
+      "name": "Matthew Beatty",
+      "rating": 1658.56,
+      "rd": 38.27,
+      "ratingClass": "A",
+      "homeLocation": "Riccardi-Cade",
+      "homeLocationId": "7269",
+      "percentile": 92.89141472958494,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m24117",
+      "name": "Paul Riccardi",
+      "rating": 1639.31,
+      "rd": 37.45,
+      "ratingClass": "A",
+      "homeLocation": "Riccardi-Cade",
+      "homeLocationId": "7269",
+      "percentile": 90.2315181441282,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m24104",
+      "name": "Ryan Hall",
+      "rating": 1538.36,
+      "rd": 38.17,
+      "ratingClass": "B",
+      "homeLocation": "Riccardi-Cade",
+      "homeLocationId": "7269",
+      "percentile": 62.41673265943075,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m42838",
+      "name": "Damien Ciferri",
+      "rating": 1514.64,
+      "rd": 36.89,
+      "ratingClass": "B",
+      "homeLocation": "Riccardi-Cade",
+      "homeLocationId": "7269",
+      "percentile": 53.04420738808404,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m40687",
+      "name": "Justin DeRoche",
+      "rating": 1439.23,
+      "rd": 42.67,
+      "ratingClass": "C",
+      "homeLocation": "Riccardi-Cade",
+      "homeLocationId": "7269",
+      "percentile": 23.468579680439746,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m23143",
+      "name": "Jennifer Riccardi",
+      "rating": 1413.27,
+      "rd": 36.14,
+      "ratingClass": "C",
+      "homeLocation": "Riccardi-Cade",
+      "homeLocationId": "7269",
+      "percentile": 16.00130432757255,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

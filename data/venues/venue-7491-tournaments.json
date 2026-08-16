@@ -1,0 +1,367 @@
+{
+  "locationId": "7491",
+  "venueName": "Jupiter Gameroom",
+  "venueAddress": "2126 2nd Ave Suite A, Seattle, WA 98121, US",
+  "tournaments": [
+    {
+      "id": 266994,
+      "name": "The Thursday $2 Come Up 89",
+      "date": "8/13/2026",
+      "playerCount": 22,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m11001",
+          "name": "Jaran Jones",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m44490",
+          "name": "Marissa Rodriguez",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m25930",
+          "name": "Luke Camarda",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m18585",
+          "name": "Kevin Coffey",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 266703,
+      "name": "JUPITOURNEY 25.8",
+      "date": "8/11/2026",
+      "playerCount": 19,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m6374",
+          "name": "David Johnston US",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m38834",
+          "name": "Brian Reinhard",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m18585",
+          "name": "Kevin Coffey",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m7059",
+          "name": "Dwayne Collins",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 265921,
+      "name": "The Thursday $2 Come Up 88",
+      "date": "8/6/2026",
+      "playerCount": 17,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m797",
+          "name": "Matt Galbraith",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m18646",
+          "name": "Kristin Vick",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m3217",
+          "name": "Brian Chesbrough",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m43718",
+          "name": "Mike Murphy WA",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 265568,
+      "name": "JUPITOURNEY 25.8",
+      "date": "8/5/2026",
+      "playerCount": 19,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m18585",
+          "name": "Kevin Coffey",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m18646",
+          "name": "Kristin Vick",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m32272",
+          "name": "Hunter Vogt",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m43718",
+          "name": "Mike Murphy WA",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 265229,
+      "name": "Let’s Go To Shorty’s 71",
+      "date": "8/3/2026",
+      "playerCount": 12,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m1506",
+          "name": "Neil Kubath",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m12491",
+          "name": "Alex Skinner",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m30880",
+          "name": "Andy Bernard",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m26886",
+          "name": "Emily Young",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m31718",
+          "name": "Madison Masterson",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 264719,
+      "name": "The Thursday $2 Come Up 87",
+      "date": "7/30/2026",
+      "playerCount": 23,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m19957",
+          "name": "Billy Musselman",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m18585",
+          "name": "Kevin Coffey",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m43718",
+          "name": "Mike Murphy WA",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m18646",
+          "name": "Kristin Vick",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 264375,
+      "name": "Jupitourney 25.7",
+      "date": "7/29/2026",
+      "playerCount": 22,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m17400",
+          "name": "Michael Gray",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m18585",
+          "name": "Kevin Coffey",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m18646",
+          "name": "Kristin Vick",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m23268",
+          "name": "Ben Simmons",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 263530,
+      "name": "The Thursday $2 Come Up 86",
+      "date": "7/23/2026",
+      "playerCount": 18,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m12491",
+          "name": "Alex Skinner",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m31886",
+          "name": "Los Rangel",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m19957",
+          "name": "Billy Musselman",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m45593",
+          "name": "Mae Collin",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m30748",
+          "name": "Andrew Stauffer",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m20560",
+          "name": "Kareem Williams",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 263204,
+      "name": "JUPITOURNEY 25.6",
+      "date": "7/21/2026",
+      "playerCount": 19,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m23268",
+          "name": "Ben Simmons",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m31717",
+          "name": "Jackilyn Hoxworth",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m19717",
+          "name": "Chris Vela",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m31886",
+          "name": "Los Rangel",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m34564",
+          "name": "Erick Spaan",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m30748",
+          "name": "Andrew Stauffer",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 262812,
+      "name": "Sirens of Titan Series 2026 #7",
+      "date": "7/19/2026",
+      "playerCount": 19,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m17404",
+          "name": "Casey Benton",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m30905",
+          "name": "Kali Banks",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m18646",
+          "name": "Kristin Vick",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m14086",
+          "name": "Melanie Meyer WA",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

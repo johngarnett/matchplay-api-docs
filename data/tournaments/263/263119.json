@@ -1,0 +1,144 @@
+{
+  "tournamentId": 263119,
+  "name": "Opening Tournament at the Clever Unicorn Pinball Arcade",
+  "date": "2026-07-22",
+  "locationId": "13762",
+  "locationName": "Clever Unicorn Pinball Arcade",
+  "playerCount": 19,
+  "ratingsDate": "2026-07-22",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m3108",
+      "name": "John Tracey",
+      "rating": 1687.45,
+      "dailyRatingChange": 5.8
+    },
+    {
+      "position": 2,
+      "playerId": "m60838",
+      "name": "Patrick Kelleher",
+      "rating": 1612.93,
+      "dailyRatingChange": null
+    },
+    {
+      "position": 3,
+      "playerId": "m21218",
+      "name": "Anthony Garcia CA",
+      "rating": 1580.29,
+      "dailyRatingChange": 2.7
+    },
+    {
+      "position": 3,
+      "playerId": "m18106",
+      "name": "Brian Simpson",
+      "rating": 1550.52,
+      "dailyRatingChange": 6.3
+    },
+    {
+      "position": 3,
+      "playerId": "i36490",
+      "name": "Todd Brammer",
+      "rating": 1480.81,
+      "dailyRatingChange": 25.58
+    },
+    {
+      "position": 6,
+      "playerId": "m580620",
+      "name": "Eleanor Olson",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 7,
+      "playerId": "m13586",
+      "name": "Ivy Simpson",
+      "rating": 1504.92,
+      "dailyRatingChange": 3.19
+    },
+    {
+      "position": 8,
+      "playerId": "m22564",
+      "name": "Matt Nielsen",
+      "rating": 1642.43,
+      "dailyRatingChange": -3.61
+    },
+    {
+      "position": 8,
+      "playerId": "m48803",
+      "name": "Jacob Brown",
+      "rating": 1520.47,
+      "dailyRatingChange": null
+    },
+    {
+      "position": 8,
+      "playerId": "m580630",
+      "name": "Aaron Peterson",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 8,
+      "playerId": "m31319",
+      "name": "Kevin Johnston",
+      "rating": 1633.03,
+      "dailyRatingChange": 1.64
+    },
+    {
+      "position": 12,
+      "playerId": "m10713",
+      "name": "Ikela Lagapa",
+      "rating": 1500.95,
+      "dailyRatingChange": 0.12
+    },
+    {
+      "position": 13,
+      "playerId": "m40769",
+      "name": "Morgan Louis",
+      "rating": 1595.94,
+      "dailyRatingChange": -11.79
+    },
+    {
+      "position": 14,
+      "playerId": "m21217",
+      "name": "Harry Franklin",
+      "rating": 1546.73,
+      "dailyRatingChange": -7.19
+    },
+    {
+      "position": 15,
+      "playerId": "m580608",
+      "name": "Bob Denning",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 15,
+      "playerId": "i137506",
+      "name": "Quinn Sandberg",
+      "rating": 1561.38,
+      "dailyRatingChange": -14.09
+    },
+    {
+      "position": 17,
+      "playerId": "m580621",
+      "name": "Zephiris Evergreen",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 18,
+      "playerId": "m54724",
+      "name": "Johnny Darko",
+      "rating": 1391.28,
+      "dailyRatingChange": -4.6
+    },
+    {
+      "position": 18,
+      "playerId": "i159483",
+      "name": "Colin Dyson",
+      "rating": 1471.35,
+      "dailyRatingChange": null
+    }
+  ]
+}

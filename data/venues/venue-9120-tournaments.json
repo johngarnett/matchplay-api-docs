@@ -1,0 +1,77 @@
+{
+  "locationId": "9120",
+  "venueName": "Level Up Arcade",
+  "venueAddress": "1290 Oak St, Eugene, OR, 97401, US",
+  "tournaments": [
+    {
+      "id": 256452,
+      "name": "Emerald City Pinball League #1",
+      "date": "8/3/2026",
+      "playerCount": 52,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m2522",
+          "name": "Matt Walton",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m23834",
+          "name": "Michael Veirs",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m20908",
+          "name": "Ahren Gehrman",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m6207",
+          "name": "Lon Bunker",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 264151,
+      "name": "Finals for Emerald City Pinball: Preseason",
+      "date": "7/27/2026",
+      "playerCount": 8,
+      "qualifying": {
+        "id": 264078,
+        "name": "Emerald City Pinball: Preseason",
+        "playerCount": 45
+      },
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m23091",
+          "name": "Nick Elliott",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m4875",
+          "name": "Adam Gomez",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m6165",
+          "name": "Hayden Harker",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m8010",
+          "name": "Sunni Williams",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

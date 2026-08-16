@@ -1,0 +1,172 @@
+{
+  "tournamentId": 265429,
+  "name": "Rocksteady Pizza Parlour Pinball Tournament August 4, 2026",
+  "date": "2026-08-05",
+  "locationId": "8902",
+  "locationName": "Rocksteady Pizza Parlour",
+  "playerCount": 23,
+  "ratingsDate": "2026-08-05",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m40209",
+      "name": "Eli Brooks",
+      "rating": 1597.64,
+      "dailyRatingChange": 19.84
+    },
+    {
+      "position": 2,
+      "playerId": "m6681",
+      "name": "Nick Squires",
+      "rating": 1660.36,
+      "dailyRatingChange": 4.05
+    },
+    {
+      "position": 3,
+      "playerId": "m6127",
+      "name": "Scott Elliott",
+      "rating": 1626.28,
+      "dailyRatingChange": 7.03
+    },
+    {
+      "position": 4,
+      "playerId": "m30542",
+      "name": "Tony Baldini",
+      "rating": 1567.36,
+      "dailyRatingChange": 3.18
+    },
+    {
+      "position": 5,
+      "playerId": "m57711",
+      "name": "Alex Stults",
+      "rating": 1653.38,
+      "dailyRatingChange": 4.47
+    },
+    {
+      "position": 6,
+      "playerId": "m14577",
+      "name": "Jeff Murphy",
+      "rating": 1572.93,
+      "dailyRatingChange": 14.57
+    },
+    {
+      "position": 7,
+      "playerId": "m15930",
+      "name": "Molly Oury",
+      "rating": 1551.66,
+      "dailyRatingChange": 1.97
+    },
+    {
+      "position": 7,
+      "playerId": "m39035",
+      "name": "Jason Brooks",
+      "rating": 1486.59,
+      "dailyRatingChange": 8.3
+    },
+    {
+      "position": 9,
+      "playerId": "m6235",
+      "name": "Mark Moore IN",
+      "rating": 1572.92,
+      "dailyRatingChange": 0.94
+    },
+    {
+      "position": 9,
+      "playerId": "m584561",
+      "name": "Clint Borntrager",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 11,
+      "playerId": "m49044",
+      "name": "Jack Williamson IN",
+      "rating": 1567.84,
+      "dailyRatingChange": -5.97
+    },
+    {
+      "position": 12,
+      "playerId": "m476948",
+      "name": "Isaac LeMasters",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 12,
+      "playerId": "m37633",
+      "name": "Sarah Bennett",
+      "rating": 1463.67,
+      "dailyRatingChange": 4.89
+    },
+    {
+      "position": 12,
+      "playerId": "m42656",
+      "name": "Cindy Brooks",
+      "rating": 1445.18,
+      "dailyRatingChange": 2.98
+    },
+    {
+      "position": 15,
+      "playerId": "m12516",
+      "name": "Bob Dull",
+      "rating": 1550.54,
+      "dailyRatingChange": -2.58
+    },
+    {
+      "position": 16,
+      "playerId": "m584562",
+      "name": "Linley Borntrager",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 16,
+      "playerId": "m26297",
+      "name": "Robert Murphy",
+      "rating": 1449.31,
+      "dailyRatingChange": -1.1
+    },
+    {
+      "position": 18,
+      "playerId": "m49043",
+      "name": "Dan Williamson IN",
+      "rating": 1429.18,
+      "dailyRatingChange": -0.52
+    },
+    {
+      "position": 19,
+      "playerId": "m35336",
+      "name": "Chris Davis IN",
+      "rating": 1512.08,
+      "dailyRatingChange": -27.74
+    },
+    {
+      "position": 20,
+      "playerId": "m584564",
+      "name": "Caden Borntrager",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 21,
+      "playerId": "m476950",
+      "name": "Kate Davis",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 22,
+      "playerId": "m584563",
+      "name": "Liz Borntrager",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 22,
+      "playerId": "m17652",
+      "name": "Kurt Swank",
+      "rating": 1566.91,
+      "dailyRatingChange": -9.73
+    }
+  ]
+}

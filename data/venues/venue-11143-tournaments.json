@@ -1,0 +1,106 @@
+{
+  "locationId": "11143",
+  "venueName": "Hermosa Brewing",
+  "venueAddress": "1855 Del Amo Blvd, Torrance, CA 90501, US",
+  "tournaments": [
+    {
+      "id": 266871,
+      "name": "Finals for South Bay Tilt Arcade - Monthly Match Play @Hermosa Brewing Co 8/12/2026",
+      "date": "8/12/2026",
+      "playerCount": 4,
+      "qualifying": {
+        "id": 258463,
+        "name": "South Bay Tilt Arcade - Monthly Match Play @Hermosa Brewing Co 8/12/2026",
+        "playerCount": 15
+      },
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "i126433",
+          "name": "Jobe Lowen",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m36035",
+          "name": "Robin Craigen",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m50843",
+          "name": "Thomas Hancher",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "i128127",
+          "name": "Brent Curtis",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 262529,
+      "name": "Finals for South Bay Tilt Arcade - Transformers Launch Party @Hermosa Brewing Co",
+      "date": "8/2/2026",
+      "playerCount": 8,
+      "qualifying": {
+        "id": 262528,
+        "name": "South Bay Tilt Arcade - Transformers Launch Party @Hermosa Brewing Co",
+        "playerCount": 12
+      },
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m26158",
+          "name": "Robert Potter",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m13157",
+          "name": "Matt Falzone",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m4742",
+          "name": "Jonathan Soon",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m18360",
+          "name": "Bee Kong",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 263365,
+      "name": "3rd place for South Bay Tilt Arcade - Monthly Strikes @Hermosa Brewing Co 7/22/2026",
+      "date": "7/22/2026",
+      "playerCount": 2,
+      "qualifying": {
+        "id": 258454,
+        "name": "South Bay Tilt Arcade - Monthly Strikes @Hermosa Brewing Co 7/22/2026",
+        "playerCount": 7
+      },
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "i125774",
+          "name": "Sam Ellenberger",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m40281",
+          "name": "Derek Johnson",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

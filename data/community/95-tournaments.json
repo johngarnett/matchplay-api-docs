@@ -1,0 +1,129 @@
+{
+  "communityId": "95",
+  "locations": [
+    {
+      "id": "5785",
+      "name": "Delaware Pinball Collective",
+      "address": "1100 First State Blvd. Wilmington, DE 19804",
+      "tournaments": [
+        {
+          "id": 259687,
+          "name": "B Division Bumper Babes 8/8/2026",
+          "date": "8/8/2026",
+          "playerCount": 14,
+          "qualifying": {
+            "id": 259685,
+            "name": "Bumper Babes PACE Matchplay 8/8/2026",
+            "playerCount": 24
+          },
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m44662",
+              "name": "Jen Carman",
+              "isCommunityMember": false
+            },
+            {
+              "position": 2,
+              "playerId": "m30665",
+              "name": "Samantha Christina",
+              "isCommunityMember": false
+            },
+            {
+              "position": 3,
+              "playerId": "m28662",
+              "name": "Wendy Dunn",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m22072",
+              "name": "Madelynne Pursglove",
+              "isCommunityMember": false
+            },
+            {
+              "position": 4,
+              "playerId": "m9687",
+              "name": "Anita Thallmayer",
+              "isCommunityMember": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "11012",
+      "name": "Fizzy's Arcade",
+      "address": "4770 PA-405, Milton, PA 17847",
+      "tournaments": [
+        {
+          "id": 254250,
+          "name": "Fizzy’s SOL Season 3 #6",
+          "date": "8/7/2026",
+          "playerCount": 12,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m45754",
+              "name": "Bret Anderson",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m59486",
+              "name": "Chris Schrope",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "i142926",
+              "name": "Sean Baumgartner",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "i144949",
+              "name": "James Lawson",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "p465835",
+              "name": "Bill Dalton",
+              "isCommunityMember": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "unknown",
+      "name": "Unknown Location",
+      "address": "",
+      "tournaments": [
+        {
+          "id": 266236,
+          "name": "Axemann 2026 Summer Pinball League A Finals",
+          "date": "8/9/2026",
+          "playerCount": 9,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 3,
+              "playerId": "i116468",
+              "name": "Gretchen Knipe",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "i85731",
+              "name": "James Sumereau",
+              "isCommunityMember": true
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

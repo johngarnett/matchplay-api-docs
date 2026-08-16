@@ -1,0 +1,39 @@
+{
+  "tournamentId": 266582,
+  "name": "Finals for Tuesday Night Smackdown 8/11/26",
+  "date": "2026-08-13",
+  "locationId": "6137",
+  "locationName": "The Avenue Cafe",
+  "playerCount": 4,
+  "ratingsDate": null,
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m15735",
+      "name": "Derik Schimberg",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 2,
+      "playerId": "m43454",
+      "name": "Peter C. Liu",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 3,
+      "playerId": "m26198",
+      "name": "Bryan Johnson",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 4,
+      "playerId": "m47118",
+      "name": "Mackenzie Merryfield",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

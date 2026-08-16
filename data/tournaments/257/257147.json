@@ -1,0 +1,88 @@
+{
+  "tournamentId": 257147,
+  "name": "The Control Room Summer League 2026 #3",
+  "date": "2026-07-26",
+  "locationId": "13093",
+  "locationName": "The Control Room",
+  "playerCount": 11,
+  "ratingsDate": "2026-07-26",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m45346",
+      "name": "Luke Rognlien",
+      "rating": 1709.72,
+      "dailyRatingChange": -4.64
+    },
+    {
+      "position": 2,
+      "playerId": "m541714",
+      "name": "Bobby A",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 3,
+      "playerId": "m54486",
+      "name": "Tim L",
+      "rating": 1519.24,
+      "dailyRatingChange": 12.97
+    },
+    {
+      "position": 4,
+      "playerId": "m544186",
+      "name": "Josh N",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 5,
+      "playerId": "m49670",
+      "name": "Sean S",
+      "rating": 1626.37,
+      "dailyRatingChange": 1
+    },
+    {
+      "position": 6,
+      "playerId": "m61880",
+      "name": "Rob Still",
+      "rating": 1538.19,
+      "dailyRatingChange": null
+    },
+    {
+      "position": 7,
+      "playerId": "m42354",
+      "name": "Jared Long",
+      "rating": 1518.81,
+      "dailyRatingChange": 5.4
+    },
+    {
+      "position": 8,
+      "playerId": "m57978",
+      "name": "John D",
+      "rating": 1423.37,
+      "dailyRatingChange": 9.92
+    },
+    {
+      "position": 9,
+      "playerId": "m58898",
+      "name": "Heather J",
+      "rating": 1360.88,
+      "dailyRatingChange": 6.74
+    },
+    {
+      "position": 10,
+      "playerId": "m45475",
+      "name": "Edward Boeneke",
+      "rating": 1514.87,
+      "dailyRatingChange": -16.5
+    },
+    {
+      "position": 11,
+      "playerId": "m57765",
+      "name": "Sean A",
+      "rating": 1339.32,
+      "dailyRatingChange": -23.68
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "tournamentId": 248093,
+  "name": "QCPL 2026: Season 2 Session 6",
+  "date": "2026-07-30",
+  "locationId": "10161",
+  "locationName": "Birmingham's Vodka & Ale House",
+  "playerCount": 19,
+  "ratingsDate": "2026-07-30",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m25709",
+      "name": "Bob Rhinelander",
+      "rating": 1727.12,
+      "dailyRatingChange": 5.55
+    },
+    {
+      "position": 2,
+      "playerId": "m21485",
+      "name": "Lance Wormsbecker",
+      "rating": 1639.05,
+      "dailyRatingChange": 12.63
+    },
+    {
+      "position": 3,
+      "playerId": "m32249",
+      "name": "Dustin Geib",
+      "rating": 1652.14,
+      "dailyRatingChange": 7.13
+    },
+    {
+      "position": 4,
+      "playerId": "m7289",
+      "name": "Shaun Amos",
+      "rating": 1723.85,
+      "dailyRatingChange": -0.09
+    },
+    {
+      "position": 5,
+      "playerId": "i99034",
+      "name": "Sunil Jachak",
+      "rating": 1540.28,
+      "dailyRatingChange": 16.41
+    },
+    {
+      "position": 6,
+      "playerId": "m26944",
+      "name": "Drew Krieser",
+      "rating": 1554.16,
+      "dailyRatingChange": 8.12
+    },
+    {
+      "position": 7,
+      "playerId": "m24579",
+      "name": "Kevin Lucier",
+      "rating": 1605.13,
+      "dailyRatingChange": -0.64
+    },
+    {
+      "position": 8,
+      "playerId": "m20128",
+      "name": "Nathan Amos",
+      "rating": 1589.63,
+      "dailyRatingChange": -8.08
+    },
+    {
+      "position": 9,
+      "playerId": "m11957",
+      "name": "Travis Cameron",
+      "rating": 1573.12,
+      "dailyRatingChange": -7.06
+    },
+    {
+      "position": 9,
+      "playerId": "m28219",
+      "name": "Shawn Hooey",
+      "rating": 1471.34,
+      "dailyRatingChange": 2.23
+    },
+    {
+      "position": 11,
+      "playerId": "m27103",
+      "name": "Marla Swanson",
+      "rating": 1494.07,
+      "dailyRatingChange": -0.85
+    },
+    {
+      "position": 11,
+      "playerId": "i158439",
+      "name": "Luke Anderson SK",
+      "rating": 1446.46,
+      "dailyRatingChange": 8.81
+    },
+    {
+      "position": 13,
+      "playerId": "m24428",
+      "name": "Shannon Berry-Krieser",
+      "rating": 1494.21,
+      "dailyRatingChange": -1.86
+    },
+    {
+      "position": 13,
+      "playerId": "m37262",
+      "name": "Kelly Salterio",
+      "rating": 1598.22,
+      "dailyRatingChange": -7.49
+    },
+    {
+      "position": 15,
+      "playerId": "m39147",
+      "name": "Charles Osachoff",
+      "rating": 1610.9,
+      "dailyRatingChange": -8.57
+    },
+    {
+      "position": 16,
+      "playerId": "i81037",
+      "name": "Bryon Rettman",
+      "rating": 1512.86,
+      "dailyRatingChange": -7.35
+    },
+    {
+      "position": 17,
+      "playerId": "m562105",
+      "name": "Simeon Brown",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 17,
+      "playerId": "m582934",
+      "name": "Destinee Rettman",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 19,
+      "playerId": "m49703",
+      "name": "Hillary Horn",
+      "rating": 1486.74,
+      "dailyRatingChange": 4.53
+    }
+  ]
+}

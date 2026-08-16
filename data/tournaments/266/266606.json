@@ -1,0 +1,319 @@
+{
+  "tournamentId": 266606,
+  "name": "Pinball Gallery Monthly Tournament - 8/11/2026",
+  "date": "2026-08-12",
+  "locationId": "1142",
+  "locationName": "Pinball Gallery",
+  "playerCount": 44,
+  "ratingsDate": "2026-08-12",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m53431",
+      "name": "Chris Carlucci",
+      "rating": 1585.83,
+      "dailyRatingChange": 18.97
+    },
+    {
+      "position": 1,
+      "playerId": "m26850",
+      "name": "Robbie Orsino",
+      "rating": 1726.68,
+      "dailyRatingChange": 37.02
+    },
+    {
+      "position": 1,
+      "playerId": "m18203",
+      "name": "Matt Strzelecki",
+      "rating": 1697.4,
+      "dailyRatingChange": -0.05
+    },
+    {
+      "position": 4,
+      "playerId": "m45953",
+      "name": "Connor Smith",
+      "rating": 1612.62,
+      "dailyRatingChange": 19.03
+    },
+    {
+      "position": 4,
+      "playerId": "m28868",
+      "name": "Stefano Pinti",
+      "rating": 1680.14,
+      "dailyRatingChange": -2.09
+    },
+    {
+      "position": 4,
+      "playerId": "m12406",
+      "name": "Mark R. Lariviere",
+      "rating": 1534.35,
+      "dailyRatingChange": 8.09
+    },
+    {
+      "position": 4,
+      "playerId": "m13509",
+      "name": "Tessa Morton",
+      "rating": 1658.58,
+      "dailyRatingChange": 0.62
+    },
+    {
+      "position": 4,
+      "playerId": "m19878",
+      "name": "Thomas Fernandez",
+      "rating": 1577.47,
+      "dailyRatingChange": 3.07
+    },
+    {
+      "position": 4,
+      "playerId": "m22081",
+      "name": "Matt Zwitkowits",
+      "rating": 1655.83,
+      "dailyRatingChange": -0.7
+    },
+    {
+      "position": 4,
+      "playerId": "m36974",
+      "name": "Guy Merrill",
+      "rating": 1485.61,
+      "dailyRatingChange": 6.24
+    },
+    {
+      "position": 4,
+      "playerId": "m48302",
+      "name": "Zac Martin",
+      "rating": 1612.89,
+      "dailyRatingChange": 1.07
+    },
+    {
+      "position": 12,
+      "playerId": "m6041",
+      "name": "Cliff Albert",
+      "rating": 1692.65,
+      "dailyRatingChange": 4.87
+    },
+    {
+      "position": 12,
+      "playerId": "m36118",
+      "name": "Don Werth",
+      "rating": 1657.56,
+      "dailyRatingChange": 3.66
+    },
+    {
+      "position": 12,
+      "playerId": "i126718",
+      "name": "David Hill PA",
+      "rating": 1568.58,
+      "dailyRatingChange": 7.32
+    },
+    {
+      "position": 12,
+      "playerId": "m58383",
+      "name": "Albert Zuba",
+      "rating": 1608.19,
+      "dailyRatingChange": -3.8
+    },
+    {
+      "position": 12,
+      "playerId": "m9660",
+      "name": "Jamme Thomas",
+      "rating": 1547.65,
+      "dailyRatingChange": 5.19
+    },
+    {
+      "position": 17,
+      "playerId": "m586382",
+      "name": "Alex Galpin",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 18,
+      "playerId": "m21918",
+      "name": "Rob Sherman",
+      "rating": 1512.04,
+      "dailyRatingChange": 3.16
+    },
+    {
+      "position": 18,
+      "playerId": "m22002",
+      "name": "Scott Davis DE",
+      "rating": 1526.78,
+      "dailyRatingChange": 1.24
+    },
+    {
+      "position": 18,
+      "playerId": "m38730",
+      "name": "Justin Stone OH",
+      "rating": 1736.84,
+      "dailyRatingChange": -3.83
+    },
+    {
+      "position": 18,
+      "playerId": "m22008",
+      "name": "Craig Patton",
+      "rating": 1488.35,
+      "dailyRatingChange": 2.67
+    },
+    {
+      "position": 18,
+      "playerId": "m4153",
+      "name": "Kim Smith",
+      "rating": 1580.26,
+      "dailyRatingChange": -0.78
+    },
+    {
+      "position": 18,
+      "playerId": "i61056",
+      "name": "Grant Caz",
+      "rating": 1566.69,
+      "dailyRatingChange": -5.52
+    },
+    {
+      "position": 18,
+      "playerId": "m26128",
+      "name": "Tony Makowski",
+      "rating": 1621.66,
+      "dailyRatingChange": -2.57
+    },
+    {
+      "position": 18,
+      "playerId": "i6999",
+      "name": "Dom Carr",
+      "rating": 1495,
+      "dailyRatingChange": 1.07
+    },
+    {
+      "position": 18,
+      "playerId": "m7046",
+      "name": "Brian Smith",
+      "rating": 1629.72,
+      "dailyRatingChange": -4.58
+    },
+    {
+      "position": 18,
+      "playerId": "m59488",
+      "name": "Adam Keyes",
+      "rating": 1593.04,
+      "dailyRatingChange": -3.98
+    },
+    {
+      "position": 28,
+      "playerId": "m45868",
+      "name": "Ben Lewis",
+      "rating": 1550.86,
+      "dailyRatingChange": -1.89
+    },
+    {
+      "position": 28,
+      "playerId": "m25004",
+      "name": "Stephen Le",
+      "rating": 1633.49,
+      "dailyRatingChange": -12.24
+    },
+    {
+      "position": 28,
+      "playerId": "m6160",
+      "name": "Tuna Queen",
+      "rating": 1547.66,
+      "dailyRatingChange": -1.14
+    },
+    {
+      "position": 28,
+      "playerId": "m3161",
+      "name": "Michael Reimer",
+      "rating": 1614.39,
+      "dailyRatingChange": -1.96
+    },
+    {
+      "position": 28,
+      "playerId": "m3163",
+      "name": "Nathaniel Gibson",
+      "rating": 1598.63,
+      "dailyRatingChange": -11.4
+    },
+    {
+      "position": 28,
+      "playerId": "i147471",
+      "name": "Shamus Morris",
+      "rating": 1453.62,
+      "dailyRatingChange": 3.12
+    },
+    {
+      "position": 28,
+      "playerId": "i155725",
+      "name": "William Roman",
+      "rating": 1458.51,
+      "dailyRatingChange": 6.9
+    },
+    {
+      "position": 28,
+      "playerId": "i150603",
+      "name": "Justin Harris PA",
+      "rating": 1472.26,
+      "dailyRatingChange": -1.05
+    },
+    {
+      "position": 36,
+      "playerId": "m52913",
+      "name": "Pat Hansell",
+      "rating": 1555.43,
+      "dailyRatingChange": -16.22
+    },
+    {
+      "position": 36,
+      "playerId": "m586390",
+      "name": "Colin Waterfall",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 36,
+      "playerId": "m57487",
+      "name": "Andy Harris PA",
+      "rating": 1486.6,
+      "dailyRatingChange": -3.86
+    },
+    {
+      "position": 36,
+      "playerId": "m586422",
+      "name": "Phil Ferguson",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 36,
+      "playerId": "m5549",
+      "name": "Nick Hislop",
+      "rating": 1595.79,
+      "dailyRatingChange": -10.88
+    },
+    {
+      "position": 36,
+      "playerId": "m53707",
+      "name": "Bill Lorenz",
+      "rating": 1519.65,
+      "dailyRatingChange": -5.4
+    },
+    {
+      "position": 42,
+      "playerId": "m58262",
+      "name": "Zack Boyd",
+      "rating": 1434.61,
+      "dailyRatingChange": -7.54
+    },
+    {
+      "position": 42,
+      "playerId": "m586391",
+      "name": "Paxton Holmes",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 44,
+      "playerId": "m586384",
+      "name": "Jake Kinney",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

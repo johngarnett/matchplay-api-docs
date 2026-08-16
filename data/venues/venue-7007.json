@@ -1,0 +1,359 @@
+{
+  "locationId": "7007",
+  "name": "Sidetracked Brewery",
+  "address": "",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 25,
+  "relatedVenues": [
+    {
+      "locationId": "8072",
+      "name": "Level 256 Classic Arcade Bar",
+      "address": "79 Coxe Ave, Asheville, NC, 28801, US",
+      "count": 50
+    },
+    {
+      "locationId": "13295",
+      "name": "Prayer & Pinball",
+      "address": "2332 US 70E Morganton, NC",
+      "count": 18
+    },
+    {
+      "locationId": "7837",
+      "name": "Super Abari Game Bar",
+      "address": "1015 Seigle Ave, Charlotte, NC, 2820, US",
+      "count": 13
+    },
+    {
+      "locationId": "8766",
+      "name": "Radioactive Pinball Arcade",
+      "address": "113 Laurens St SW, Aiken, SC 29801, US",
+      "count": 2
+    },
+    {
+      "locationId": "9921",
+      "name": "Renaissance Atlanta Waverly Hotel & Convention Center",
+      "address": "2450 Galleria Pkwy Atlanta, GA 30339",
+      "count": 1
+    },
+    {
+      "locationId": "10319",
+      "name": "Turtledove",
+      "address": "4 Turtledove Trl., Asheville NC",
+      "count": 1
+    },
+    {
+      "locationId": "10348",
+      "name": "Luckycreature hq",
+      "address": "Asheville, NC",
+      "count": 1
+    },
+    {
+      "locationId": "13820",
+      "name": "Lock Is Lit Pinball",
+      "address": "19829 S Main Cornelius Nc 28031",
+      "count": 1
+    }
+  ],
+  "players": [
+    {
+      "id": "m6033",
+      "name": "Bill Mason",
+      "rating": 1824.75,
+      "rd": 21.88,
+      "ratingClass": "Master",
+      "homeLocation": "Super Abari Game Bar",
+      "homeLocationId": "7837",
+      "percentile": 99.7484511110076,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m31892",
+      "name": "Justin Lail",
+      "rating": 1727,
+      "rd": 26.5,
+      "ratingClass": "Expert",
+      "homeLocation": "Prayer & Pinball",
+      "homeLocationId": "13295",
+      "percentile": 98.0295337028928,
+      "changeDisplay": "-2.7",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m27297",
+      "name": "Olen McGrady",
+      "rating": 1655.47,
+      "rd": 21.08,
+      "ratingClass": "A",
+      "homeLocation": "Sidetracked Brewery",
+      "homeLocationId": "7007",
+      "percentile": 92.4814832067825,
+      "changeDisplay": "-6.5",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m13906",
+      "name": "Adam Bowman",
+      "rating": 1637.86,
+      "rd": 18.59,
+      "ratingClass": "A",
+      "homeLocation": "Level 256 Classic Arcade Bar",
+      "homeLocationId": "8072",
+      "percentile": 89.9846275678949,
+      "changeDisplay": "+5.0",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m52467",
+      "name": "Tyson Conner",
+      "rating": 1630.44,
+      "rd": 29.6,
+      "ratingClass": "A",
+      "homeLocation": "Sidetracked Brewery",
+      "homeLocationId": "7007",
+      "percentile": 88.66166674430521,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m25710",
+      "name": "Joseph Ackerman",
+      "rating": 1626.79,
+      "rd": 26.64,
+      "ratingClass": "A",
+      "homeLocation": "Sidetracked Brewery",
+      "homeLocationId": "7007",
+      "percentile": 87.93031164112358,
+      "changeDisplay": "-0.5",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m35241",
+      "name": "Cody Wright",
+      "rating": 1606.72,
+      "rd": 30.36,
+      "ratingClass": "A",
+      "homeLocation": "Sidetracked Brewery",
+      "homeLocationId": "7007",
+      "percentile": 83.62137233893884,
+      "changeDisplay": "-3.2",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m35855",
+      "name": "Laura Varney",
+      "rating": 1591.03,
+      "rd": 19.39,
+      "ratingClass": "B",
+      "homeLocation": "Level 256 Classic Arcade Bar",
+      "homeLocationId": "8072",
+      "percentile": 79.740997810593,
+      "changeDisplay": "-2.1",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m25712",
+      "name": "Diamond Justice Villanueva",
+      "rating": 1544.13,
+      "rd": 31.71,
+      "ratingClass": "B",
+      "homeLocation": "Sidetracked Brewery",
+      "homeLocationId": "7007",
+      "percentile": 64.62943122001211,
+      "changeDisplay": "-14.5",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "i159134",
+      "name": "Jacob Turner",
+      "rating": 1523.8,
+      "rd": 40.28,
+      "ratingClass": "B",
+      "homeLocation": "Sidetracked Brewery",
+      "homeLocationId": "7007",
+      "percentile": 56.63576652536452,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m1359",
+      "name": "Zach Pulliam",
+      "rating": 1514.53,
+      "rd": 41.84,
+      "ratingClass": "B",
+      "homeLocation": "Sidetracked Brewery",
+      "homeLocationId": "7007",
+      "percentile": 52.97433269669726,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i109353",
+      "name": "Zach Shumway",
+      "rating": 1501.76,
+      "rd": 26.14,
+      "ratingClass": "B",
+      "homeLocation": "Sidetracked Brewery",
+      "homeLocationId": "7007",
+      "percentile": 47.822238785112035,
+      "changeDisplay": "-15.9",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "i122981",
+      "name": "Ryan Doherty",
+      "rating": 1500.83,
+      "rd": 24.47,
+      "ratingClass": "B",
+      "homeLocation": "Sidetracked Brewery",
+      "homeLocationId": "7007",
+      "percentile": 47.46820701541902,
+      "changeDisplay": "+4.7",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m1200",
+      "name": "Louis Iglesias",
+      "rating": 1496.01,
+      "rd": 37.72,
+      "ratingClass": "C",
+      "homeLocation": "Sidetracked Brewery",
+      "homeLocationId": "7007",
+      "percentile": 45.488424092793586,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i110083",
+      "name": "Ezekiel Wright",
+      "rating": 1485.65,
+      "rd": 26.33,
+      "ratingClass": "C",
+      "homeLocation": "Prayer & Pinball",
+      "homeLocationId": "13295",
+      "percentile": 41.17948479060884,
+      "changeDisplay": "+1.5",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "i93621",
+      "name": "Cannon Ackerman",
+      "rating": 1465.73,
+      "rd": 30.45,
+      "ratingClass": "C",
+      "homeLocation": "Sidetracked Brewery",
+      "homeLocationId": "7007",
+      "percentile": 33.15787021940653,
+      "changeDisplay": "+20.1",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "i37148",
+      "name": "Layla Iglesias",
+      "rating": 1457.29,
+      "rd": 54.35,
+      "ratingClass": "C",
+      "homeLocation": "Sidetracked Brewery",
+      "homeLocationId": "7007",
+      "percentile": 29.841151534914058,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i36218",
+      "name": "Chipper Hughes",
+      "rating": 1451.87,
+      "rd": 25.54,
+      "ratingClass": "C",
+      "homeLocation": "Sidetracked Brewery",
+      "homeLocationId": "7007",
+      "percentile": 27.838077048493037,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i159193",
+      "name": "Stephanie Martin NC",
+      "rating": 1443.16,
+      "rd": 53.07,
+      "ratingClass": "C",
+      "homeLocation": "Sidetracked Brewery",
+      "homeLocationId": "7007",
+      "percentile": 24.824148693343272,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i122236",
+      "name": "Kade Jenkins",
+      "rating": 1438.87,
+      "rd": 31.88,
+      "ratingClass": "C",
+      "homeLocation": "Sidetracked Brewery",
+      "homeLocationId": "7007",
+      "percentile": 23.31019704662971,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i154201",
+      "name": "Bryce Wilcox",
+      "rating": 1411.26,
+      "rd": 40.1,
+      "ratingClass": "C",
+      "homeLocation": "Sidetracked Brewery",
+      "homeLocationId": "7007",
+      "percentile": 15.432990170960078,
+      "changeDisplay": "-1.2",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "i132483",
+      "name": "Nick West NC",
+      "rating": 1386.55,
+      "rd": 41.05,
+      "ratingClass": "D",
+      "homeLocation": "Sidetracked Brewery",
+      "homeLocationId": "7007",
+      "percentile": 9.60544090930265,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i98182",
+      "name": "Tammy Lail",
+      "rating": 1383.82,
+      "rd": 39.94,
+      "ratingClass": "D",
+      "homeLocation": "Sidetracked Brewery",
+      "homeLocationId": "7007",
+      "percentile": 9.08836819304048,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i160551",
+      "name": "Leland huey",
+      "rating": 1353.26,
+      "rd": 25.53,
+      "ratingClass": "D",
+      "homeLocation": "Sidetracked Brewery",
+      "homeLocationId": "7007",
+      "percentile": 4.644337820841291,
+      "changeDisplay": "-3.0",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "i107512",
+      "name": "Jamie Madison",
+      "rating": 1281.78,
+      "rd": 46.04,
+      "ratingClass": "E",
+      "homeLocation": "Sidetracked Brewery",
+      "homeLocationId": "7007",
+      "percentile": 0.6381888479992547,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

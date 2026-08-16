@@ -1,0 +1,102 @@
+{
+  "tournamentId": 266625,
+  "name": "Tuesday Summer Nights @ Gebhard's #10",
+  "date": "2026-08-12",
+  "locationId": "10065",
+  "locationName": "Gebhard's Beer Culture",
+  "playerCount": 13,
+  "ratingsDate": "2026-08-12",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m6925",
+      "name": "Adam Robinson",
+      "rating": 1696.89,
+      "dailyRatingChange": 12.88
+    },
+    {
+      "position": 2,
+      "playerId": "m39267",
+      "name": "Peter Larson",
+      "rating": 1563.26,
+      "dailyRatingChange": 8.46
+    },
+    {
+      "position": 3,
+      "playerId": "m31106",
+      "name": "Darren Kramer",
+      "rating": 1575.8,
+      "dailyRatingChange": 4.72
+    },
+    {
+      "position": 4,
+      "playerId": "m12591",
+      "name": "Jeff Anderson NJ",
+      "rating": 1587.64,
+      "dailyRatingChange": -8.11
+    },
+    {
+      "position": 5,
+      "playerId": "m38454",
+      "name": "Tzvika Geft",
+      "rating": 1579.69,
+      "dailyRatingChange": -0.83
+    },
+    {
+      "position": 6,
+      "playerId": "m13272",
+      "name": "Glenn Gilliar",
+      "rating": 1566.2,
+      "dailyRatingChange": -2.26
+    },
+    {
+      "position": 7,
+      "playerId": "m55307",
+      "name": "Geoff Slepian",
+      "rating": 1512.65,
+      "dailyRatingChange": 0.62
+    },
+    {
+      "position": 8,
+      "playerId": "m568240",
+      "name": "Jake Goss",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 9,
+      "playerId": "i76373",
+      "name": "Oliver Binty",
+      "rating": 1394.27,
+      "dailyRatingChange": 19.36
+    },
+    {
+      "position": 9,
+      "playerId": "m47817",
+      "name": "Josh Raider",
+      "rating": 1435.01,
+      "dailyRatingChange": -0.46
+    },
+    {
+      "position": 11,
+      "playerId": "i76375",
+      "name": "Kane Cobber",
+      "rating": 1458.52,
+      "dailyRatingChange": null
+    },
+    {
+      "position": 12,
+      "playerId": "m24332",
+      "name": "Tom Spark",
+      "rating": 1473.14,
+      "dailyRatingChange": -13.55
+    },
+    {
+      "position": 13,
+      "playerId": "m12207",
+      "name": "Dennis Wiener",
+      "rating": 1363.38,
+      "dailyRatingChange": -18.77
+    }
+  ]
+}

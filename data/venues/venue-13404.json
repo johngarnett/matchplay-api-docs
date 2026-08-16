@@ -1,0 +1,443 @@
+{
+  "locationId": "13404",
+  "name": "Crying Eagle University",
+  "address": "1165 E McNeese St, Lake Charles, LA 70607",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 31,
+  "relatedVenues": [
+    {
+      "locationId": "12943",
+      "name": "SWLA Pinball Club House",
+      "address": "1807 Lake Street, Lake Charles, Louisiana, 70601",
+      "count": 185
+    },
+    {
+      "locationId": "11276",
+      "name": "Bayou Teche Brewing",
+      "address": "1002 Noth Lane, Arnaudville, LA 70512, US",
+      "count": 42
+    },
+    {
+      "locationId": "7171",
+      "name": "Einstein's Pub",
+      "address": "873 South Mason Rd, Ste. 360, Katy, TX 77450, US",
+      "count": 18
+    },
+    {
+      "locationId": "12996",
+      "name": "Habetz Pinball Party Pad",
+      "address": "939 Robinson Cutoff, Vinton, Louisiana",
+      "count": 9
+    },
+    {
+      "locationId": "11561",
+      "name": "Austin Pinball Collective",
+      "address": "1106 Clayton Ln, Austin, TX 78723, US",
+      "count": 8
+    },
+    {
+      "locationId": "11829",
+      "name": "Shananigans",
+      "address": "717 N 6th St, Monroe, LA 71201, US",
+      "count": 6
+    },
+    {
+      "locationId": "12079",
+      "name": "BR.cade",
+      "address": "2963 Government Street, Baton Rouge, LA 70806, US",
+      "count": 6
+    },
+    {
+      "locationId": "9515",
+      "name": "Eureka Heights Brew Co",
+      "address": "941 West 18th St, Houston, Texas 77008",
+      "count": 5
+    },
+    {
+      "locationId": "9605",
+      "name": "Hunter Household",
+      "address": "6110 E. Myrtle Bay Drive",
+      "count": 4
+    },
+    {
+      "locationId": "10346",
+      "name": "LOWer Level Arcade",
+      "address": "19318 Wood Village Lane",
+      "count": 4
+    }
+  ],
+  "players": [
+    {
+      "id": "m2624",
+      "name": "Jody Aucoin",
+      "rating": 1654.18,
+      "rd": 28.18,
+      "ratingClass": "A",
+      "homeLocation": "SWLA Pinball Club House",
+      "homeLocationId": "12943",
+      "percentile": 92.29980900917688,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m14830",
+      "name": "Reese Furman",
+      "rating": 1650.73,
+      "rd": 29.53,
+      "ratingClass": "A",
+      "homeLocation": "SWLA Pinball Club House",
+      "homeLocationId": "12943",
+      "percentile": 91.81068616946942,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m11257",
+      "name": "Brian Fults",
+      "rating": 1644.9,
+      "rd": 20.94,
+      "ratingClass": "A",
+      "homeLocation": "SWLA Pinball Club House",
+      "homeLocationId": "12943",
+      "percentile": 91.02343131317838,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m24680",
+      "name": "Bennett Dungan",
+      "rating": 1638.02,
+      "rd": 23.35,
+      "ratingClass": "A",
+      "homeLocation": "Bayou Teche Brewing",
+      "homeLocationId": "11276",
+      "percentile": 90.0079191316905,
+      "changeDisplay": "+5.4",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m2887",
+      "name": "Edwin Hunter",
+      "rating": 1637.68,
+      "rd": 31.21,
+      "ratingClass": "A",
+      "homeLocation": "SWLA Pinball Club House",
+      "homeLocationId": "12943",
+      "percentile": 89.95201937858108,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m48527",
+      "name": "Shane Fontenot",
+      "rating": 1618.82,
+      "rd": 24.76,
+      "ratingClass": "A",
+      "homeLocation": "Bayou Teche Brewing",
+      "homeLocationId": "11276",
+      "percentile": 86.36977686681884,
+      "changeDisplay": "+0.9",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m48116",
+      "name": "Mike Vanetten",
+      "rating": 1577.81,
+      "rd": 26.26,
+      "ratingClass": "B",
+      "homeLocation": "Bayou Teche Brewing",
+      "homeLocationId": "11276",
+      "percentile": 75.94913122467042,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m36747",
+      "name": "James Haag",
+      "rating": 1548.15,
+      "rd": 31.37,
+      "ratingClass": "B",
+      "homeLocation": "SWLA Pinball Club House",
+      "homeLocationId": "12943",
+      "percentile": 66.0502166115433,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m55558",
+      "name": "Scott Habetz",
+      "rating": 1546.24,
+      "rd": 34.43,
+      "ratingClass": "B",
+      "homeLocation": "SWLA Pinball Club House",
+      "homeLocationId": "12943",
+      "percentile": 65.37010294871197,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m22933",
+      "name": "Patrick Pichon",
+      "rating": 1540.23,
+      "rd": 40.53,
+      "ratingClass": "B",
+      "homeLocation": "SWLA Pinball Club House",
+      "homeLocationId": "12943",
+      "percentile": 63.19467089020356,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m2885",
+      "name": "Pav Hunter",
+      "rating": 1523.47,
+      "rd": 30.5,
+      "ratingClass": "B",
+      "homeLocation": "SWLA Pinball Club House",
+      "homeLocationId": "12943",
+      "percentile": 56.50533376810919,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m57057",
+      "name": "Jessica Davies",
+      "rating": 1511.73,
+      "rd": 34.06,
+      "ratingClass": "B",
+      "homeLocation": "SWLA Pinball Club House",
+      "homeLocationId": "12943",
+      "percentile": 51.921554013136436,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m12897",
+      "name": "Todd Furman",
+      "rating": 1494.41,
+      "rd": 33.16,
+      "ratingClass": "C",
+      "homeLocation": "SWLA Pinball Club House",
+      "homeLocationId": "12943",
+      "percentile": 44.86886849583081,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i67529",
+      "name": "Paul Heard",
+      "rating": 1493.31,
+      "rd": 34.38,
+      "ratingClass": "C",
+      "homeLocation": "SWLA Pinball Club House",
+      "homeLocationId": "12943",
+      "percentile": 44.41235384543718,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m2889",
+      "name": "John forest",
+      "rating": 1466.6,
+      "rd": 58.53,
+      "ratingClass": "C",
+      "homeLocation": "Crying Eagle University",
+      "homeLocationId": "13404",
+      "percentile": 33.49326873806307,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m25959",
+      "name": "Cindi Brennan 💗",
+      "rating": 1456.24,
+      "rd": 16.07,
+      "ratingClass": "C",
+      "homeLocation": "Einstein's Pub",
+      "homeLocationId": "7171",
+      "percentile": 29.48711976522104,
+      "changeDisplay": "-9.9",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m22134",
+      "name": "Summer Ellington",
+      "rating": 1454.75,
+      "rd": 19.49,
+      "ratingClass": "C",
+      "homeLocation": "Austin Pinball Collective",
+      "homeLocationId": "11561",
+      "percentile": 28.956072110681514,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m53224",
+      "name": "Jennifer Pugh",
+      "rating": 1451.92,
+      "rd": 41.65,
+      "ratingClass": "C",
+      "homeLocation": "SWLA Pinball Club House",
+      "homeLocationId": "12943",
+      "percentile": 27.880001863325106,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i145446",
+      "name": "Jeremy Alston",
+      "rating": 1451.11,
+      "rd": 45.89,
+      "ratingClass": "C",
+      "homeLocation": "SWLA Pinball Club House",
+      "homeLocationId": "12943",
+      "percentile": 27.535286719150324,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i159747",
+      "name": "Sean Shepherd",
+      "rating": 1443.14,
+      "rd": 47.24,
+      "ratingClass": "C",
+      "homeLocation": "Crying Eagle University",
+      "homeLocationId": "13404",
+      "percentile": 24.805515442306795,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i58153",
+      "name": "Phillip DeVilbiss",
+      "rating": 1440.27,
+      "rd": 43.92,
+      "ratingClass": "C",
+      "homeLocation": "SWLA Pinball Club House",
+      "homeLocationId": "12943",
+      "percentile": 23.785344948059812,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m20276",
+      "name": "Caide Jones",
+      "rating": 1433.18,
+      "rd": 49.29,
+      "ratingClass": "C",
+      "homeLocation": "SWLA Pinball Club House",
+      "homeLocationId": "12943",
+      "percentile": 21.52606325988727,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i143489",
+      "name": "Donna Fontenot",
+      "rating": 1430.86,
+      "rd": 24.44,
+      "ratingClass": "C",
+      "homeLocation": "Bayou Teche Brewing",
+      "homeLocationId": "11276",
+      "percentile": 20.836632971537707,
+      "changeDisplay": "-4.6",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m12221",
+      "name": "Nicholette Doucet",
+      "rating": 1394.28,
+      "rd": 45.71,
+      "ratingClass": "D",
+      "homeLocation": "Crying Eagle University",
+      "homeLocationId": "13404",
+      "percentile": 11.133367494293566,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m57287",
+      "name": "Julie Higginbotham",
+      "rating": 1393.19,
+      "rd": 41.52,
+      "ratingClass": "D",
+      "homeLocation": "SWLA Pinball Club House",
+      "homeLocationId": "12943",
+      "percentile": 10.937718358410583,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i159744",
+      "name": "Jade Callihan",
+      "rating": 1387.65,
+      "rd": 52.18,
+      "ratingClass": "D",
+      "homeLocation": "Crying Eagle University",
+      "homeLocationId": "13404",
+      "percentile": 9.824381608981227,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m46614",
+      "name": "Mitch Andrus",
+      "rating": 1376.79,
+      "rd": 36.37,
+      "ratingClass": "D",
+      "homeLocation": "SWLA Pinball Club House",
+      "homeLocationId": "12943",
+      "percentile": 7.751432431173429,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i155568",
+      "name": "Chad Higginbotham",
+      "rating": 1355.11,
+      "rd": 58.12,
+      "ratingClass": "D",
+      "homeLocation": "SWLA Pinball Club House",
+      "homeLocationId": "12943",
+      "percentile": 4.8213537056878,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m20275",
+      "name": "Trevor Jones",
+      "rating": 1334.97,
+      "rd": 44.73,
+      "ratingClass": "D",
+      "homeLocation": "SWLA Pinball Club House",
+      "homeLocationId": "12943",
+      "percentile": 2.8089625937485443,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m60028",
+      "name": "Jade Callihan",
+      "rating": null,
+      "rd": null,
+      "ratingClass": "N/A",
+      "homeLocation": "Crying Eagle University",
+      "homeLocationId": "13404",
+      "percentile": null,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m60031",
+      "name": "Marshall Wesney",
+      "rating": null,
+      "rd": null,
+      "ratingClass": "N/A",
+      "homeLocation": "Crying Eagle University",
+      "homeLocationId": "13404",
+      "percentile": null,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

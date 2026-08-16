@@ -1,0 +1,235 @@
+{
+  "tournamentId": 264071,
+  "name": "Philly Pinball Club: 2026 Summer Season #1",
+  "date": "2026-07-28",
+  "locationId": "9809",
+  "locationName": "Barcade",
+  "playerCount": 32,
+  "ratingsDate": "2026-07-28",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m34321",
+      "name": "Erin Y",
+      "rating": 1712.72,
+      "dailyRatingChange": 0.06
+    },
+    {
+      "position": 1,
+      "playerId": "m33864",
+      "name": "Aaron Hamlin",
+      "rating": 1533.58,
+      "dailyRatingChange": 13.39
+    },
+    {
+      "position": 3,
+      "playerId": "m41718",
+      "name": "Rebecca Solomon",
+      "rating": 1521.43,
+      "dailyRatingChange": 8.21
+    },
+    {
+      "position": 4,
+      "playerId": "m26425",
+      "name": "Erica Thomas",
+      "rating": 1497.97,
+      "dailyRatingChange": 13.27
+    },
+    {
+      "position": 4,
+      "playerId": "m32503",
+      "name": "Lain Kaplan",
+      "rating": 1594.39,
+      "dailyRatingChange": 1.53
+    },
+    {
+      "position": 6,
+      "playerId": "m43394",
+      "name": "A Kacmarsky",
+      "rating": 1578.37,
+      "dailyRatingChange": 2.06
+    },
+    {
+      "position": 6,
+      "playerId": "i148403",
+      "name": "Tyler Kramer",
+      "rating": 1598.23,
+      "dailyRatingChange": 0.15
+    },
+    {
+      "position": 6,
+      "playerId": "m23814",
+      "name": "Becca Lipstein",
+      "rating": 1551.68,
+      "dailyRatingChange": 13.38
+    },
+    {
+      "position": 6,
+      "playerId": "m26426",
+      "name": "Felix Sanchez",
+      "rating": 1565.39,
+      "dailyRatingChange": -2.02
+    },
+    {
+      "position": 10,
+      "playerId": "m5147",
+      "name": "Brian Weingartner",
+      "rating": 1553.31,
+      "dailyRatingChange": -0.72
+    },
+    {
+      "position": 10,
+      "playerId": "i46365",
+      "name": "Caitlin Reed",
+      "rating": 1378.51,
+      "dailyRatingChange": 7.69
+    },
+    {
+      "position": 10,
+      "playerId": "m61516",
+      "name": "Joe Martin",
+      "rating": 1411.16,
+      "dailyRatingChange": 24.77
+    },
+    {
+      "position": 10,
+      "playerId": "m29321",
+      "name": "Alistair Wright",
+      "rating": 1465.69,
+      "dailyRatingChange": 4.54
+    },
+    {
+      "position": 10,
+      "playerId": "m27752",
+      "name": "Tori Gant",
+      "rating": 1447.72,
+      "dailyRatingChange": 1.57
+    },
+    {
+      "position": 15,
+      "playerId": "m555717",
+      "name": "Ian Glowen",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 15,
+      "playerId": "m39279",
+      "name": "Thomas Gramlich",
+      "rating": 1401.32,
+      "dailyRatingChange": -36.05
+    },
+    {
+      "position": 15,
+      "playerId": "m27587",
+      "name": "Eric Menzel",
+      "rating": 1616.13,
+      "dailyRatingChange": -3.32
+    },
+    {
+      "position": 18,
+      "playerId": "m525443",
+      "name": "Tyler Smith",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 18,
+      "playerId": "m6530",
+      "name": "Rose Malinowski Weingartner",
+      "rating": 1532.2,
+      "dailyRatingChange": -5.73
+    },
+    {
+      "position": 18,
+      "playerId": "m27753",
+      "name": "Rocco Shefski",
+      "rating": 1446.18,
+      "dailyRatingChange": 4.73
+    },
+    {
+      "position": 18,
+      "playerId": "m559898",
+      "name": "Selene",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 18,
+      "playerId": "i106451",
+      "name": "Charles Trulear",
+      "rating": 1450.98,
+      "dailyRatingChange": -4.99
+    },
+    {
+      "position": 23,
+      "playerId": "m40519",
+      "name": "Roger Wolf",
+      "rating": 1455.36,
+      "dailyRatingChange": -7.4
+    },
+    {
+      "position": 23,
+      "playerId": "m61518",
+      "name": "Joseph B",
+      "rating": 1416.64,
+      "dailyRatingChange": -33.74
+    },
+    {
+      "position": 23,
+      "playerId": "i144752",
+      "name": "Alex Peters",
+      "rating": 1438.09,
+      "dailyRatingChange": -2.03
+    },
+    {
+      "position": 23,
+      "playerId": "m36765",
+      "name": "Jen Beals",
+      "rating": 1391.19,
+      "dailyRatingChange": -3.8
+    },
+    {
+      "position": 23,
+      "playerId": "m559896",
+      "name": "Evie",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 23,
+      "playerId": "m504190",
+      "name": "Jess Matthews",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 29,
+      "playerId": "m30410",
+      "name": "Patrick Mitchell",
+      "rating": 1406.06,
+      "dailyRatingChange": -5.03
+    },
+    {
+      "position": 30,
+      "playerId": "m559629",
+      "name": "Brandon A",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 30,
+      "playerId": "m45813",
+      "name": "Andrea Kellner",
+      "rating": 1309.17,
+      "dailyRatingChange": -5.14
+    },
+    {
+      "position": 32,
+      "playerId": "m582538",
+      "name": "Maria G",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

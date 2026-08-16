@@ -1,0 +1,39 @@
+{
+  "tournamentId": 265190,
+  "name": "LAST CHANCE Glass City Pinball @Toledo Spirits Company: Underground Bar",
+  "date": "2026-08-02",
+  "locationId": "10672",
+  "locationName": "Toledo Spirits",
+  "playerCount": 4,
+  "ratingsDate": "2026-08-02",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m53174",
+      "name": "Casey Cox",
+      "rating": 1422.2,
+      "dailyRatingChange": 2.26
+    },
+    {
+      "position": 2,
+      "playerId": "i148280",
+      "name": "Kevin Dietsch",
+      "rating": 1410.82,
+      "dailyRatingChange": 9.44
+    },
+    {
+      "position": 3,
+      "playerId": "m539559",
+      "name": "Precious Pratt",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 4,
+      "playerId": "m53585",
+      "name": "Sara Dietsch",
+      "rating": 1350.24,
+      "dailyRatingChange": -0.59
+    }
+  ]
+}

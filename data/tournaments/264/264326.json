@@ -1,0 +1,67 @@
+{
+  "tournamentId": 264326,
+  "name": "Moonshot July Pinball Wizards",
+  "date": "2026-07-31",
+  "locationId": "12766",
+  "locationName": "Moonshot Brewing",
+  "playerCount": 8,
+  "ratingsDate": "2026-07-31",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m528141",
+      "name": "Will Bryan",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 2,
+      "playerId": "m500107",
+      "name": "Isaac Evans",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 2,
+      "playerId": "m532858",
+      "name": "Chris Frey",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 4,
+      "playerId": "m522715",
+      "name": "Dan Thiel",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 4,
+      "playerId": "m522713",
+      "name": "Carl Sjostrand",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 6,
+      "playerId": "m500057",
+      "name": "Sherry Elizabeth",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 7,
+      "playerId": "m54158",
+      "name": "Cade Bryan",
+      "rating": 1552.87,
+      "dailyRatingChange": -12.57
+    },
+    {
+      "position": 7,
+      "playerId": "m500105",
+      "name": "James Evans",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

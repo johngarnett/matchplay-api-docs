@@ -1,0 +1,347 @@
+{
+  "locationId": "8336",
+  "name": "R/C Lexington Exchange Movies 12",
+  "address": "44800 Oak Crest Dr, California, MD 20619, US",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 25,
+  "relatedVenues": [
+    {
+      "locationId": "11663",
+      "name": "Sierra Lanes",
+      "address": "634 S China Lake Blvd, Ridgecrest, CA 93555, US",
+      "count": 7
+    },
+    {
+      "locationId": "2573",
+      "name": "Crabtowne",
+      "address": "1500 Crain Hwy S, Glen Burnie, MD 21061, USA",
+      "count": 3
+    },
+    {
+      "locationId": "7109",
+      "name": "Spinners Pinball Arcade",
+      "address": "1301 W Patrick St, Frederick, MD 21701",
+      "count": 2
+    },
+    {
+      "locationId": "12832",
+      "name": "Reclaim Arcade",
+      "address": "2324 Plank Road, Fredericksburg, VA 22401, US",
+      "count": 2
+    },
+    {
+      "locationId": "8931",
+      "name": "Wax Moon",
+      "address": "1310 Altamont Avenue, Richmond, VA 23230, US",
+      "count": 1
+    },
+    {
+      "locationId": "11466",
+      "name": "UPSIDE on Moore",
+      "address": "1700 N Moore St level m1, Arlington, VA 22209",
+      "count": 1
+    }
+  ],
+  "players": [
+    {
+      "id": "m9550",
+      "name": "Steve Kapinos",
+      "rating": 1653.53,
+      "rd": 25.61,
+      "ratingClass": "A",
+      "homeLocation": "Spinners Pinball Arcade",
+      "homeLocationId": "7109",
+      "percentile": 92.19732612847626,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m31390",
+      "name": "Curt Mason",
+      "rating": 1635.99,
+      "rd": 22.19,
+      "ratingClass": "A",
+      "homeLocation": "R/C Lexington Exchange Movies 12",
+      "homeLocationId": "8336",
+      "percentile": 89.6305957982019,
+      "changeDisplay": "-4.0",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m55195",
+      "name": "Bruce Jenkins",
+      "rating": 1608.32,
+      "rd": 23.05,
+      "ratingClass": "A",
+      "homeLocation": "R/C Lexington Exchange Movies 12",
+      "homeLocationId": "8336",
+      "percentile": 84.05459542553687,
+      "changeDisplay": "+8.4",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m44352",
+      "name": "Brice Ambrecht",
+      "rating": 1586.06,
+      "rd": 29.75,
+      "ratingClass": "B",
+      "homeLocation": "Sierra Lanes",
+      "homeLocationId": "11663",
+      "percentile": 78.34816229561653,
+      "changeDisplay": "+6.1",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m31407",
+      "name": "Viet Nguyen",
+      "rating": 1563.45,
+      "rd": 22.84,
+      "ratingClass": "B",
+      "homeLocation": "R/C Lexington Exchange Movies 12",
+      "homeLocationId": "8336",
+      "percentile": 71.46783435039829,
+      "changeDisplay": "+0.1",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m40659",
+      "name": "Liz Scott",
+      "rating": 1549.63,
+      "rd": 25.09,
+      "ratingClass": "B",
+      "homeLocation": "R/C Lexington Exchange Movies 12",
+      "homeLocationId": "8336",
+      "percentile": 66.56728932780547,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m34112",
+      "name": "Joe Flynn",
+      "rating": 1545.61,
+      "rd": 36.88,
+      "ratingClass": "B",
+      "homeLocation": "R/C Lexington Exchange Movies 12",
+      "homeLocationId": "8336",
+      "percentile": 65.15582056179252,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m55246",
+      "name": "Braden Brooks",
+      "rating": 1535.57,
+      "rd": 24.43,
+      "ratingClass": "B",
+      "homeLocation": "R/C Lexington Exchange Movies 12",
+      "homeLocationId": "8336",
+      "percentile": 61.24283784413286,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m31406",
+      "name": "Mike Scott",
+      "rating": 1530.9,
+      "rd": 25,
+      "ratingClass": "B",
+      "homeLocation": "R/C Lexington Exchange Movies 12",
+      "homeLocationId": "8336",
+      "percentile": 59.40746261704011,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m31391",
+      "name": "Ron LaScala",
+      "rating": 1530.68,
+      "rd": 24.83,
+      "ratingClass": "B",
+      "homeLocation": "R/C Lexington Exchange Movies 12",
+      "homeLocationId": "8336",
+      "percentile": 59.323612987375974,
+      "changeDisplay": "-1.3",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m61766",
+      "name": "Flash",
+      "rating": 1519.03,
+      "rd": 43.85,
+      "ratingClass": "B",
+      "homeLocation": "R/C Lexington Exchange Movies 12",
+      "homeLocationId": "8336",
+      "percentile": 54.7351749196441,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m45556",
+      "name": "John Kriz",
+      "rating": 1512.25,
+      "rd": 30.77,
+      "ratingClass": "B",
+      "homeLocation": "R/C Lexington Exchange Movies 12",
+      "homeLocationId": "8336",
+      "percentile": 52.09856989798295,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m48425",
+      "name": "Joe Paglierani",
+      "rating": 1501.49,
+      "rd": 44.96,
+      "ratingClass": "B",
+      "homeLocation": "R/C Lexington Exchange Movies 12",
+      "homeLocationId": "8336",
+      "percentile": 47.7150975916523,
+      "changeDisplay": "-5.1",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m31535",
+      "name": "Tim Tizzie",
+      "rating": 1480.79,
+      "rd": 31.57,
+      "ratingClass": "C",
+      "homeLocation": "R/C Lexington Exchange Movies 12",
+      "homeLocationId": "8336",
+      "percentile": 39.18106861694694,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m59653",
+      "name": "Ted Blankenbaker",
+      "rating": 1462.13,
+      "rd": 32.54,
+      "ratingClass": "C",
+      "homeLocation": "R/C Lexington Exchange Movies 12",
+      "homeLocationId": "8336",
+      "percentile": 31.797642893743888,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m39356",
+      "name": "Garisan Ladue",
+      "rating": 1457.95,
+      "rd": 24.36,
+      "ratingClass": "C",
+      "homeLocation": "R/C Lexington Exchange Movies 12",
+      "homeLocationId": "8336",
+      "percentile": 30.134625238738526,
+      "changeDisplay": "-1.5",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m62657",
+      "name": "Cory Veilleux",
+      "rating": 1436.91,
+      "rd": 55.91,
+      "ratingClass": "C",
+      "homeLocation": "R/C Lexington Exchange Movies 12",
+      "homeLocationId": "8336",
+      "percentile": 22.662691573112216,
+      "changeDisplay": "★",
+      "changeClass": "change-new"
+    },
+    {
+      "id": "m61964",
+      "name": "Mailly Klein",
+      "rating": 1435.57,
+      "rd": 63.34,
+      "ratingClass": "C",
+      "homeLocation": "R/C Lexington Exchange Movies 12",
+      "homeLocationId": "8336",
+      "percentile": 22.290026552382727,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m39350",
+      "name": "Destiny Craig",
+      "rating": 1430.93,
+      "rd": 25.13,
+      "ratingClass": "C",
+      "homeLocation": "R/C Lexington Exchange Movies 12",
+      "homeLocationId": "8336",
+      "percentile": 20.873899473610656,
+      "changeDisplay": "+3.4",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m31405",
+      "name": "Dave Campbell",
+      "rating": 1424.83,
+      "rd": 40.31,
+      "ratingClass": "C",
+      "homeLocation": "R/C Lexington Exchange Movies 12",
+      "homeLocationId": "8336",
+      "percentile": 19.066474123072624,
+      "changeDisplay": "+6.7",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m56237",
+      "name": "Renee Rivituso",
+      "rating": 1417.28,
+      "rd": 49.24,
+      "ratingClass": "C",
+      "homeLocation": "R/C Lexington Exchange Movies 12",
+      "homeLocationId": "8336",
+      "percentile": 16.956258443191878,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m60264",
+      "name": "Scott Brown",
+      "rating": 1405.95,
+      "rd": 34.56,
+      "ratingClass": "C",
+      "homeLocation": "R/C Lexington Exchange Movies 12",
+      "homeLocationId": "8336",
+      "percentile": 13.998229841151536,
+      "changeDisplay": "-3.3",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m51193",
+      "name": "Danielle Bednar",
+      "rating": 1386.99,
+      "rd": 27.47,
+      "ratingClass": "D",
+      "homeLocation": "R/C Lexington Exchange Movies 12",
+      "homeLocationId": "8336",
+      "percentile": 9.689290538966787,
+      "changeDisplay": "-2.4",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m31411",
+      "name": "Jill Lee",
+      "rating": 1373.87,
+      "rd": 38.91,
+      "ratingClass": "D",
+      "homeLocation": "R/C Lexington Exchange Movies 12",
+      "homeLocationId": "8336",
+      "percentile": 7.26696790422509,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m33676",
+      "name": "Grant Cutler",
+      "rating": null,
+      "rd": null,
+      "ratingClass": "N/A",
+      "homeLocation": "R/C Lexington Exchange Movies 12",
+      "homeLocationId": "8336",
+      "percentile": null,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

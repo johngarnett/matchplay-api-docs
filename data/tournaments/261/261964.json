@@ -1,0 +1,151 @@
+{
+  "tournamentId": 261964,
+  "name": "OPL S8 Strikeout",
+  "date": "2026-07-21",
+  "locationId": "8679",
+  "locationName": "Beercade 2",
+  "playerCount": 20,
+  "ratingsDate": "2026-07-21",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m17541",
+      "name": "Greg Cuff",
+      "rating": 1544.78,
+      "dailyRatingChange": 7.87
+    },
+    {
+      "position": 2,
+      "playerId": "m39749",
+      "name": "Ciara Kerckhove",
+      "rating": 1522.96,
+      "dailyRatingChange": 6.49
+    },
+    {
+      "position": 2,
+      "playerId": "i46490",
+      "name": "Tim Kasl",
+      "rating": 1561.22,
+      "dailyRatingChange": 14.33
+    },
+    {
+      "position": 4,
+      "playerId": "m23026",
+      "name": "Louis Manta",
+      "rating": 1468.28,
+      "dailyRatingChange": 7.95
+    },
+    {
+      "position": 5,
+      "playerId": "m41086",
+      "name": "Alec Brewer",
+      "rating": 1542.97,
+      "dailyRatingChange": 0.65
+    },
+    {
+      "position": 5,
+      "playerId": "m29672",
+      "name": "Brad Copple",
+      "rating": 1521.84,
+      "dailyRatingChange": 1.14
+    },
+    {
+      "position": 7,
+      "playerId": "m34157",
+      "name": "Brad Watkins",
+      "rating": 1526.66,
+      "dailyRatingChange": -2.42
+    },
+    {
+      "position": 7,
+      "playerId": "m25683",
+      "name": "Ryan Yarbrough",
+      "rating": 1455.43,
+      "dailyRatingChange": 1.87
+    },
+    {
+      "position": 9,
+      "playerId": "m18383",
+      "name": "Jen Skibbe",
+      "rating": 1472.98,
+      "dailyRatingChange": -1.55
+    },
+    {
+      "position": 9,
+      "playerId": "i79411",
+      "name": "Lindsay Wiley",
+      "rating": 1525.22,
+      "dailyRatingChange": -3.37
+    },
+    {
+      "position": 9,
+      "playerId": "m45644",
+      "name": "Heidi Smith",
+      "rating": 1361.2,
+      "dailyRatingChange": 1.09
+    },
+    {
+      "position": 9,
+      "playerId": "m34822",
+      "name": "Joe Spitznagel",
+      "rating": 1443.44,
+      "dailyRatingChange": -1.69
+    },
+    {
+      "position": 13,
+      "playerId": "i95774",
+      "name": "Justus Kucera",
+      "rating": 1329.38,
+      "dailyRatingChange": -0.61
+    },
+    {
+      "position": 13,
+      "playerId": "i129527",
+      "name": "Mandie Erdei",
+      "rating": 1348.86,
+      "dailyRatingChange": -1.35
+    },
+    {
+      "position": 13,
+      "playerId": "i126854",
+      "name": "Gabe Erdei",
+      "rating": 1472.55,
+      "dailyRatingChange": -6.12
+    },
+    {
+      "position": 13,
+      "playerId": "i148394",
+      "name": "Scotty Tarascio",
+      "rating": 1320.15,
+      "dailyRatingChange": -1.04
+    },
+    {
+      "position": 13,
+      "playerId": "m30927",
+      "name": "Donna Larsen",
+      "rating": 1453.43,
+      "dailyRatingChange": -5.06
+    },
+    {
+      "position": 18,
+      "playerId": "m51099",
+      "name": "Sera Harbert",
+      "rating": 1435.59,
+      "dailyRatingChange": -4.37
+    },
+    {
+      "position": 18,
+      "playerId": "m58233",
+      "name": "Abby Patterson",
+      "rating": 1388.4,
+      "dailyRatingChange": -9.67
+    },
+    {
+      "position": 20,
+      "playerId": "m553512",
+      "name": "TJ Alexander",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

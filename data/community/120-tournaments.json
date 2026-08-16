@@ -1,0 +1,367 @@
+{
+  "communityId": "120",
+  "locations": [
+    {
+      "id": "11143",
+      "name": "Hermosa Brewing",
+      "address": "1855 Del Amo Blvd, Torrance, CA 90501, US",
+      "tournaments": [
+        {
+          "id": 266871,
+          "name": "Finals for South Bay Tilt Arcade - Monthly Match Play @Hermosa Brewing Co 8/12/2026",
+          "date": "8/12/2026",
+          "playerCount": 4,
+          "qualifying": {
+            "id": 258463,
+            "name": "South Bay Tilt Arcade - Monthly Match Play @Hermosa Brewing Co 8/12/2026",
+            "playerCount": 15
+          },
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "i126433",
+              "name": "Jobe Lowen",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m36035",
+              "name": "Robin Craigen",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m50843",
+              "name": "Thomas Hancher",
+              "isCommunityMember": false
+            },
+            {
+              "position": 4,
+              "playerId": "i128127",
+              "name": "Brent Curtis",
+              "isCommunityMember": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "12482",
+      "name": "Hyper Beer Co",
+      "address": "150 W Center Street Promenade, Anaheim, CA 92805, US",
+      "tournaments": [
+        {
+          "id": 259984,
+          "name": "Hyper Beer Co. Season IV #6",
+          "date": "8/12/2026",
+          "playerCount": 42,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "i97200",
+              "name": "Lars Milberger",
+              "isCommunityMember": true
+            },
+            {
+              "position": 1,
+              "playerId": "m6232",
+              "name": "Dennis Eichhorn",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m52606",
+              "name": "Brian Diaz",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m23777",
+              "name": "Kyle Nahas",
+              "isCommunityMember": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8378",
+      "name": "I Need a Miracle Tickets",
+      "address": "5541 E Spring St, Long Beach, CA 90808, US",
+      "tournaments": [
+        {
+          "id": 252217,
+          "name": "Monday Night Pinball S10R6 B-Tourney 7PM",
+          "date": "8/10/2026",
+          "playerCount": 13,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "i154545",
+              "name": "J. Smoker",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "i138541",
+              "name": "Emily Bell",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "i95762",
+              "name": "Mike Nardi",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m62365",
+              "name": "Joshua Mccartney",
+              "isCommunityMember": false
+            }
+          ]
+        },
+        {
+          "id": 266277,
+          "name": "Long Beach Pinball Club: Finals for Transformers",
+          "date": "8/9/2026",
+          "playerCount": 16,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m9344",
+              "name": "Gerald Kirchner",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m10264",
+              "name": "Scott Macias",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m53223",
+              "name": "Justin Watson",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m45304",
+              "name": "Megan Tafel",
+              "isCommunityMember": true
+            }
+          ]
+        },
+        {
+          "id": 266289,
+          "name": "Long Beach Pinball Club: Finals Second Chances Transformers Launch",
+          "date": "8/9/2026",
+          "playerCount": 12,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "i96308",
+              "name": "Dechen Rojas",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "i96310",
+              "name": "Paul Rojas",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "i162775",
+              "name": "Joshua Mccartney",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "i74241",
+              "name": "Micah Zemlyn",
+              "isCommunityMember": true
+            }
+          ]
+        },
+        {
+          "id": 266169,
+          "name": "Women's Transformers LP Finals",
+          "date": "8/8/2026",
+          "playerCount": 4,
+          "qualifying": {
+            "id": 266140,
+            "name": "Women's Transformers LP",
+            "playerCount": 8
+          },
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m35940",
+              "name": "Amanda Little",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m38997",
+              "name": "Friday Wainfan",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m7803",
+              "name": "Lisa Buhrmester",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m48802",
+              "name": "Lily Sims-Williams",
+              "isCommunityMember": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "10114",
+      "name": "Long Beach Beer Lab",
+      "address": "518 W Willow St, Long Beach, CA 90806, US",
+      "tournaments": [
+        {
+          "id": 266696,
+          "name": "Long Beach Pinball Season #27 #1 (clone)",
+          "date": "8/11/2026",
+          "playerCount": 40,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m6232",
+              "name": "Dennis Eichhorn",
+              "isCommunityMember": true
+            },
+            {
+              "position": 1,
+              "playerId": "m22991",
+              "name": "Kane Mejia",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "p572472",
+              "name": "Sal Rangel",
+              "isCommunityMember": false
+            },
+            {
+              "position": 3,
+              "playerId": "m49252",
+              "name": "Jason Solomon",
+              "isCommunityMember": false
+            },
+            {
+              "position": 3,
+              "playerId": "m41785",
+              "name": "Joe Intemann",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m40942",
+              "name": "Elena Kingston",
+              "isCommunityMember": true
+            }
+          ]
+        },
+        {
+          "id": 266356,
+          "name": "Long Beach Transformer LP Finals",
+          "date": "8/9/2026",
+          "playerCount": 8,
+          "qualifying": {
+            "id": 260695,
+            "name": "Long Beach Transformer LP @ Beer Lab",
+            "playerCount": 35
+          },
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m6232",
+              "name": "Dennis Eichhorn",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m21096",
+              "name": "Steve Ward CA",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "i99396",
+              "name": "Juan Carlos Haro",
+              "isCommunityMember": false
+            },
+            {
+              "position": 4,
+              "playerId": "m13380",
+              "name": "Gonzalo Martinez",
+              "isCommunityMember": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9744",
+      "name": "Pinbug Pomona",
+      "address": "252 S Main St, Pomona, CA 91766, US",
+      "tournaments": [
+        {
+          "id": 258197,
+          "name": "Pinbug's Pinball League Season 7 Meet 1 (8/7/26)",
+          "date": "8/7/2026",
+          "playerCount": 10,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m4540",
+              "name": "Cecilia Clarizio",
+              "isCommunityMember": false
+            },
+            {
+              "position": 1,
+              "playerId": "m46700",
+              "name": "John Brothers",
+              "isCommunityMember": false
+            },
+            {
+              "position": 3,
+              "playerId": "m39377",
+              "name": "Roman Lavergne",
+              "isCommunityMember": false
+            },
+            {
+              "position": 4,
+              "playerId": "m34576",
+              "name": "Carl Alvarez",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m26443",
+              "name": "Kevin Saravia",
+              "isCommunityMember": false
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

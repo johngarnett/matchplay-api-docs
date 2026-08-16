@@ -1,0 +1,40 @@
+{
+  "locationId": "12750",
+  "venueName": "The Reboot Social",
+  "venueAddress": "220 S Barstow St, Eau Claire, WI 54701, US",
+  "tournaments": [
+    {
+      "id": 265632,
+      "name": "Reboot Social Monthly Tournament 2026 August",
+      "date": "8/5/2026",
+      "playerCount": 21,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "i53043",
+          "name": "Adam Stephenson",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "p521580",
+          "name": "Aaron Grosz",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m44498",
+          "name": "Jon Reif",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m55227",
+          "name": "Jeremiah Peer",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

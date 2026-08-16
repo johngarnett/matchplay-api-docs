@@ -1,0 +1,249 @@
+{
+  "tournamentId": 255122,
+  "name": "PinBrawlers vol 1: It Begins",
+  "date": "2026-07-18",
+  "locationId": "13506",
+  "locationName": "PinBawlers HQ",
+  "playerCount": 34,
+  "ratingsDate": "2026-07-18",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m39437",
+      "name": "Garrett Maury",
+      "rating": 1724.3,
+      "dailyRatingChange": 2.13
+    },
+    {
+      "position": 2,
+      "playerId": "m33254",
+      "name": "Matt Mister",
+      "rating": 1592.62,
+      "dailyRatingChange": 15.87
+    },
+    {
+      "position": 3,
+      "playerId": "m3001",
+      "name": "Douglas J Malcolm",
+      "rating": 1605.65,
+      "dailyRatingChange": 9.22
+    },
+    {
+      "position": 4,
+      "playerId": "m2330",
+      "name": "Justin Bath",
+      "rating": 1737.84,
+      "dailyRatingChange": -3.18
+    },
+    {
+      "position": 5,
+      "playerId": "m5141",
+      "name": "Doru Zuba",
+      "rating": 1671.25,
+      "dailyRatingChange": 3.45
+    },
+    {
+      "position": 6,
+      "playerId": "m21772",
+      "name": "Kyle Nichols",
+      "rating": 1579.12,
+      "dailyRatingChange": 25.78
+    },
+    {
+      "position": 7,
+      "playerId": "m52503",
+      "name": "Paul Halliday",
+      "rating": 1509.06,
+      "dailyRatingChange": 10.25
+    },
+    {
+      "position": 8,
+      "playerId": "m20158",
+      "name": "Barry Schwartz",
+      "rating": 1622.55,
+      "dailyRatingChange": 0.03
+    },
+    {
+      "position": 9,
+      "playerId": "m28721",
+      "name": "Shawn Hillman",
+      "rating": 1578.95,
+      "dailyRatingChange": -10.51
+    },
+    {
+      "position": 10,
+      "playerId": "m47670",
+      "name": "Courtney Coleman",
+      "rating": 1544.69,
+      "dailyRatingChange": 6.54
+    },
+    {
+      "position": 11,
+      "playerId": "m26601",
+      "name": "Shannon Keys",
+      "rating": 1538.71,
+      "dailyRatingChange": 3.92
+    },
+    {
+      "position": 12,
+      "playerId": "m29481",
+      "name": "Brian Brzezicki",
+      "rating": 1510.05,
+      "dailyRatingChange": 7.87
+    },
+    {
+      "position": 13,
+      "playerId": "m47567",
+      "name": "Jeff Helgeson",
+      "rating": 1548.79,
+      "dailyRatingChange": -0.08
+    },
+    {
+      "position": 14,
+      "playerId": "m55501",
+      "name": "Cory Linton",
+      "rating": 1465.9,
+      "dailyRatingChange": 22.22
+    },
+    {
+      "position": 15,
+      "playerId": "m46305",
+      "name": "Chris Fort",
+      "rating": 1514.7,
+      "dailyRatingChange": 2.9
+    },
+    {
+      "position": 16,
+      "playerId": "m45125",
+      "name": "Nicholas Newlin",
+      "rating": 1566.92,
+      "dailyRatingChange": -6.51
+    },
+    {
+      "position": 17,
+      "playerId": "m49766",
+      "name": "Nathan Fairbanks",
+      "rating": 1610.07,
+      "dailyRatingChange": -9.6
+    },
+    {
+      "position": 18,
+      "playerId": "m55500",
+      "name": "Erika Sites",
+      "rating": 1424.98,
+      "dailyRatingChange": 18.12
+    },
+    {
+      "position": 19,
+      "playerId": "m51718",
+      "name": "Krista Johnston Smiley",
+      "rating": 1434.12,
+      "dailyRatingChange": 4.82
+    },
+    {
+      "position": 20,
+      "playerId": "m48021",
+      "name": "Jose Cortez",
+      "rating": 1459.78,
+      "dailyRatingChange": 11.74
+    },
+    {
+      "position": 20,
+      "playerId": "m49788",
+      "name": "Jake Barney",
+      "rating": 1556.57,
+      "dailyRatingChange": -3.62
+    },
+    {
+      "position": 22,
+      "playerId": "m52299",
+      "name": "Robert Morgan",
+      "rating": 1353.33,
+      "dailyRatingChange": 17.72
+    },
+    {
+      "position": 23,
+      "playerId": "m1176",
+      "name": "Francis Parks",
+      "rating": 1569.44,
+      "dailyRatingChange": -18.84
+    },
+    {
+      "position": 24,
+      "playerId": "m4355",
+      "name": "James Hudson",
+      "rating": 1490.09,
+      "dailyRatingChange": -5.12
+    },
+    {
+      "position": 25,
+      "playerId": "m27280",
+      "name": "Chris Orr",
+      "rating": 1511.03,
+      "dailyRatingChange": -67.11
+    },
+    {
+      "position": 25,
+      "playerId": "m51476",
+      "name": "Aaron Quade",
+      "rating": 1498.24,
+      "dailyRatingChange": -11.51
+    },
+    {
+      "position": 27,
+      "playerId": "m34527",
+      "name": "Stuart Weiser",
+      "rating": 1477.63,
+      "dailyRatingChange": -2.86
+    },
+    {
+      "position": 28,
+      "playerId": "m58262",
+      "name": "Zack Boyd",
+      "rating": 1442.15,
+      "dailyRatingChange": -14.79
+    },
+    {
+      "position": 29,
+      "playerId": "m48594",
+      "name": "Sean Smiley",
+      "rating": 1524.35,
+      "dailyRatingChange": 1.69
+    },
+    {
+      "position": 30,
+      "playerId": "m49962",
+      "name": "Bruce Barney",
+      "rating": 1450.04,
+      "dailyRatingChange": -19.69
+    },
+    {
+      "position": 31,
+      "playerId": "m39333",
+      "name": "Natalie Morningstar",
+      "rating": 1377.82,
+      "dailyRatingChange": -4.61
+    },
+    {
+      "position": 32,
+      "playerId": "m55779",
+      "name": "Richie Stephenson",
+      "rating": 1340.63,
+      "dailyRatingChange": -4.79
+    },
+    {
+      "position": 33,
+      "playerId": "m4251",
+      "name": "Celina Cuadro",
+      "rating": 1375.07,
+      "dailyRatingChange": -5.19
+    },
+    {
+      "position": 34,
+      "playerId": "m14565",
+      "name": "Roy Dejarnette",
+      "rating": 1450.02,
+      "dailyRatingChange": -37.45
+    }
+  ]
+}

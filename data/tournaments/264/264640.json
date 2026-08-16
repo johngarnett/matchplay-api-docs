@@ -1,0 +1,354 @@
+{
+  "tournamentId": 264640,
+  "name": "Reclaim Arcade July Matchplay Tournament",
+  "date": "2026-07-31",
+  "locationId": "12832",
+  "locationName": "Reclaim Arcade",
+  "playerCount": 49,
+  "ratingsDate": "2026-07-31",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m34512",
+      "name": "Cam Harrahy",
+      "rating": 1868.67,
+      "dailyRatingChange": 3.02
+    },
+    {
+      "position": 2,
+      "playerId": "m6365",
+      "name": "Allen Foglesong",
+      "rating": 1613.2,
+      "dailyRatingChange": 4.84
+    },
+    {
+      "position": 3,
+      "playerId": "m18776",
+      "name": "Matt Larsen",
+      "rating": 1678.97,
+      "dailyRatingChange": 4.57
+    },
+    {
+      "position": 4,
+      "playerId": "m39939",
+      "name": "Stoller Schiltz",
+      "rating": 1747.27,
+      "dailyRatingChange": 6.55
+    },
+    {
+      "position": 5,
+      "playerId": "m15236",
+      "name": "Mick Cavanaugh",
+      "rating": 1600.21,
+      "dailyRatingChange": 4.94
+    },
+    {
+      "position": 5,
+      "playerId": "m35097",
+      "name": "Julian Carlucci",
+      "rating": 1692.58,
+      "dailyRatingChange": 5.04
+    },
+    {
+      "position": 7,
+      "playerId": "m17067",
+      "name": "Tim Owens",
+      "rating": 1575.34,
+      "dailyRatingChange": 15.6
+    },
+    {
+      "position": 8,
+      "playerId": "m30212",
+      "name": "Lance Keylon",
+      "rating": 1663.46,
+      "dailyRatingChange": 4.8
+    },
+    {
+      "position": 9,
+      "playerId": "m2615",
+      "name": "Malik Berger",
+      "rating": 1689.36,
+      "dailyRatingChange": -2.73
+    },
+    {
+      "position": 9,
+      "playerId": "m380",
+      "name": "Dale Geiger",
+      "rating": 1702.45,
+      "dailyRatingChange": -1.66
+    },
+    {
+      "position": 11,
+      "playerId": "m41965",
+      "name": "James Matarrese",
+      "rating": 1629.6,
+      "dailyRatingChange": -2.88
+    },
+    {
+      "position": 12,
+      "playerId": "m25877",
+      "name": "Dale Schiltz",
+      "rating": 1640.51,
+      "dailyRatingChange": 0.04
+    },
+    {
+      "position": 13,
+      "playerId": "m28600",
+      "name": "Allison Hull",
+      "rating": 1474.22,
+      "dailyRatingChange": 5.09
+    },
+    {
+      "position": 14,
+      "playerId": "m43524",
+      "name": "Mark Gray",
+      "rating": 1564.37,
+      "dailyRatingChange": 58.44
+    },
+    {
+      "position": 15,
+      "playerId": "m29731",
+      "name": "Mike Highfield",
+      "rating": 1432.14,
+      "dailyRatingChange": 34.16
+    },
+    {
+      "position": 16,
+      "playerId": "m29734",
+      "name": "Mark Migliaccio",
+      "rating": 1530.22,
+      "dailyRatingChange": 5.56
+    },
+    {
+      "position": 17,
+      "playerId": "m12962",
+      "name": "Phil Irey",
+      "rating": 1539.11,
+      "dailyRatingChange": 2.33
+    },
+    {
+      "position": 17,
+      "playerId": "m50176",
+      "name": "Allorah Johnston",
+      "rating": 1412.01,
+      "dailyRatingChange": 38.7
+    },
+    {
+      "position": 19,
+      "playerId": "m52877",
+      "name": "Jacob Traunero",
+      "rating": 1463.61,
+      "dailyRatingChange": 6.79
+    },
+    {
+      "position": 20,
+      "playerId": "m4825",
+      "name": "Bayless Rutherford",
+      "rating": 1603.99,
+      "dailyRatingChange": -1.74
+    },
+    {
+      "position": 21,
+      "playerId": "m11058",
+      "name": "Paula Bailey",
+      "rating": 1398.77,
+      "dailyRatingChange": 15.46
+    },
+    {
+      "position": 22,
+      "playerId": "m583067",
+      "name": "Alex Torres",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 22,
+      "playerId": "m26951",
+      "name": "Chad Alexander",
+      "rating": 1573.7,
+      "dailyRatingChange": -4.7
+    },
+    {
+      "position": 22,
+      "playerId": "m19573",
+      "name": "Matt Raybuck",
+      "rating": 1537.7,
+      "dailyRatingChange": 0.86
+    },
+    {
+      "position": 25,
+      "playerId": "m33285",
+      "name": "Lauren Cooley",
+      "rating": 1644.54,
+      "dailyRatingChange": -5.07
+    },
+    {
+      "position": 25,
+      "playerId": "m12959",
+      "name": "Ward Hagood",
+      "rating": 1529.86,
+      "dailyRatingChange": -7.14
+    },
+    {
+      "position": 25,
+      "playerId": "m371",
+      "name": "Madmike Richardson",
+      "rating": 1582.5,
+      "dailyRatingChange": -4.15
+    },
+    {
+      "position": 25,
+      "playerId": "m439897",
+      "name": "Katie Raybuck",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 29,
+      "playerId": "m36931",
+      "name": "Kerry Keylon",
+      "rating": 1423.94,
+      "dailyRatingChange": 4.82
+    },
+    {
+      "position": 30,
+      "playerId": "i87649",
+      "name": "David Harring",
+      "rating": 1401.31,
+      "dailyRatingChange": 12.74
+    },
+    {
+      "position": 31,
+      "playerId": "m29752",
+      "name": "Neil Jablonski",
+      "rating": 1538.25,
+      "dailyRatingChange": -2.13
+    },
+    {
+      "position": 32,
+      "playerId": "m583075",
+      "name": "Jacob Schmaltz",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 32,
+      "playerId": "i119523",
+      "name": "Margaret Fuchs",
+      "rating": 1430.09,
+      "dailyRatingChange": 5.78
+    },
+    {
+      "position": 32,
+      "playerId": "m47006",
+      "name": "Bob Renner",
+      "rating": 1493.04,
+      "dailyRatingChange": -8.14
+    },
+    {
+      "position": 35,
+      "playerId": "m46183",
+      "name": "Eddie Sumbry",
+      "rating": 1498.43,
+      "dailyRatingChange": -6.15
+    },
+    {
+      "position": 36,
+      "playerId": "i138907",
+      "name": "Matt Porter",
+      "rating": 1623.53,
+      "dailyRatingChange": -13.42
+    },
+    {
+      "position": 36,
+      "playerId": "m583071",
+      "name": "Joey Gibson",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 38,
+      "playerId": "i138908",
+      "name": "James Catalano",
+      "rating": 1474.82,
+      "dailyRatingChange": -32.94
+    },
+    {
+      "position": 39,
+      "playerId": "m53249",
+      "name": "Andrew Fuchs",
+      "rating": 1445.47,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 40,
+      "playerId": "m583076",
+      "name": "Chris Williams",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 41,
+      "playerId": "m58368",
+      "name": "Anthony Catalano",
+      "rating": 1484.54,
+      "dailyRatingChange": -16.14
+    },
+    {
+      "position": 41,
+      "playerId": "m30154",
+      "name": "Collins Wetzel",
+      "rating": 1597.82,
+      "dailyRatingChange": -34.32
+    },
+    {
+      "position": 43,
+      "playerId": "m17104",
+      "name": "Francis Cooke",
+      "rating": 1592.18,
+      "dailyRatingChange": -13.51
+    },
+    {
+      "position": 44,
+      "playerId": "m583073",
+      "name": "John Schmaltz",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 45,
+      "playerId": "m583074",
+      "name": "Luke Schmaltz",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 46,
+      "playerId": "m583072",
+      "name": "Kyle Schmaltz",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 47,
+      "playerId": "m583070",
+      "name": "Michael Catalano",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 48,
+      "playerId": "m583079",
+      "name": "Michael Baldwin",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 48,
+      "playerId": "m583078",
+      "name": "Donovan Gilliam",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "tournamentId": 266285,
+  "name": "Finals for Sinistral Pinball Lounge August Flip Frenzy",
+  "date": "2026-08-09",
+  "locationId": "11465",
+  "locationName": "Sinistral Brewing Company",
+  "playerCount": 3,
+  "ratingsDate": "2026-08-09",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m12134",
+      "name": "Jon Flanders",
+      "rating": 1712.41,
+      "dailyRatingChange": 1.96
+    },
+    {
+      "position": 2,
+      "playerId": "m36012",
+      "name": "Tom Kenyon",
+      "rating": 1598.62,
+      "dailyRatingChange": 1.64
+    },
+    {
+      "position": 3,
+      "playerId": "i153219",
+      "name": "Jake Poirier",
+      "rating": 1483.61,
+      "dailyRatingChange": 6.59
+    }
+  ]
+}

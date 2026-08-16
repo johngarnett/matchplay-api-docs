@@ -1,0 +1,67 @@
+{
+  "tournamentId": 263861,
+  "name": "Finals for Transformers Stern Launch Party",
+  "date": "2026-07-26",
+  "locationId": "10372",
+  "locationName": "Joystiq",
+  "playerCount": 8,
+  "ratingsDate": "2026-07-26",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m37802",
+      "name": "Matt Ernst",
+      "rating": 1710.63,
+      "dailyRatingChange": 16.26
+    },
+    {
+      "position": 2,
+      "playerId": "m60006",
+      "name": "Brett Frago",
+      "rating": 1666.49,
+      "dailyRatingChange": 1.82
+    },
+    {
+      "position": 3,
+      "playerId": "m39996",
+      "name": "Tyler Turner",
+      "rating": 1685.5,
+      "dailyRatingChange": 0.55
+    },
+    {
+      "position": 4,
+      "playerId": "m53171",
+      "name": "Bret Stilwill",
+      "rating": 1599.62,
+      "dailyRatingChange": 16.2
+    },
+    {
+      "position": 5,
+      "playerId": "m50976",
+      "name": "Trevor Turner",
+      "rating": 1647.36,
+      "dailyRatingChange": -2.61
+    },
+    {
+      "position": 5,
+      "playerId": "m2641",
+      "name": "Robert Rusticus",
+      "rating": 1552.06,
+      "dailyRatingChange": -0.86
+    },
+    {
+      "position": 7,
+      "playerId": "m47485",
+      "name": "Alex Macias",
+      "rating": 1536.29,
+      "dailyRatingChange": 9.16
+    },
+    {
+      "position": 7,
+      "playerId": "m47470",
+      "name": "James Elola",
+      "rating": 1596.21,
+      "dailyRatingChange": -9.69
+    }
+  ]
+}

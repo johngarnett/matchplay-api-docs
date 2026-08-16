@@ -1,0 +1,215 @@
+{
+  "locationId": "13325",
+  "name": "Ervs Bar and Grill",
+  "address": "",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 12,
+  "relatedVenues": [
+    {
+      "locationId": "12269",
+      "name": "Rec Haus",
+      "address": "12 N 3rd St, St. Charles, IL, 60174, US",
+      "count": 40
+    },
+    {
+      "locationId": "10431",
+      "name": "Pollyanna Brewing & Distilling Company - St Charles",
+      "address": "106 S Riverside Ave, St. Charles, IL 60174, US",
+      "count": 20
+    },
+    {
+      "locationId": "10071",
+      "name": "Two Brothers Tap House",
+      "address": "30W315 Calumet Ave W, Warrenville, IL 60555, US",
+      "count": 17
+    },
+    {
+      "locationId": "8601",
+      "name": "Bowlero",
+      "address": "1611 S Randall Rd, Algonquin, IL 60102, US",
+      "count": 11
+    },
+    {
+      "locationId": "11040",
+      "name": "Global Brew Tap House",
+      "address": "2100 Prairie St, St. Charles, IL 60174, US",
+      "count": 9
+    },
+    {
+      "locationId": "12978",
+      "name": "The Pinball Capital",
+      "address": "3200 W Le Moyne St, Stone Park, IL 60165",
+      "count": 9
+    },
+    {
+      "locationId": "13824",
+      "name": "Superjumbo Records and Arcade",
+      "address": "55 S Lake St, Aurora, IL 60506, US",
+      "count": 8
+    },
+    {
+      "locationId": "5315",
+      "name": "Enterrium",
+      "address": "2 Woodfield Mall Unit A, Schaumburg, IL 60173, USA",
+      "count": 7
+    },
+    {
+      "locationId": "5770",
+      "name": "ORD",
+      "address": "",
+      "count": 7
+    },
+    {
+      "locationId": "10441",
+      "name": "CWF Arcade",
+      "address": "Elmhurst, IL",
+      "count": 6
+    }
+  ],
+  "players": [
+    {
+      "id": "m54367",
+      "name": "Joe Winans",
+      "rating": 1645.48,
+      "rd": 21.71,
+      "ratingClass": "A",
+      "homeLocation": "Rec Haus",
+      "homeLocationId": "12269",
+      "percentile": 91.08398937904691,
+      "changeDisplay": "+0.6",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m43986",
+      "name": "Matt Michels",
+      "rating": 1641.6,
+      "rd": 24.31,
+      "ratingClass": "A",
+      "homeLocation": "Two Brothers Tap House",
+      "homeLocationId": "10071",
+      "percentile": 90.6088414776168,
+      "changeDisplay": "+7.5",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m32464",
+      "name": "Derek Hilgenberg",
+      "rating": 1598.15,
+      "rd": 22.95,
+      "ratingClass": "B",
+      "homeLocation": "Rec Haus",
+      "homeLocationId": "12269",
+      "percentile": 81.5391065356128,
+      "changeDisplay": "-6.5",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m38192",
+      "name": "Troy Swanson",
+      "rating": 1583.26,
+      "rd": 20,
+      "ratingClass": "B",
+      "homeLocation": "ORD",
+      "homeLocationId": "5770",
+      "percentile": 77.54227418828901,
+      "changeDisplay": "-1.1",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m41769",
+      "name": "Brendan Laughlin",
+      "rating": 1567.97,
+      "rd": 20.94,
+      "ratingClass": "B",
+      "homeLocation": "Bowlero",
+      "homeLocationId": "8601",
+      "percentile": 72.85601155261564,
+      "changeDisplay": "+2.6",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m50409",
+      "name": "Scot Coyle",
+      "rating": 1547.97,
+      "rd": 20.27,
+      "ratingClass": "B",
+      "homeLocation": "Enterrium",
+      "homeLocationId": "5315",
+      "percentile": 65.9523920436018,
+      "changeDisplay": "-4.8",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m47487",
+      "name": "Erv Rozsypal",
+      "rating": 1536.17,
+      "rd": 23.06,
+      "ratingClass": "B",
+      "homeLocation": "Rec Haus",
+      "homeLocationId": "12269",
+      "percentile": 61.508361671402625,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m29060",
+      "name": "Brian Pangborn",
+      "rating": 1510.92,
+      "rd": 22.91,
+      "ratingClass": "B",
+      "homeLocation": "Rec Haus",
+      "homeLocationId": "12269",
+      "percentile": 51.595472119998135,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i156979",
+      "name": "Brandon Fenner",
+      "rating": 1497.38,
+      "rd": 34.18,
+      "ratingClass": "C",
+      "homeLocation": "Pollyanna Brewing & Distilling Company - St Charles",
+      "homeLocationId": "10431",
+      "percentile": 46.03810499836959,
+      "changeDisplay": "+8.6",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m46846",
+      "name": "Corbin Pangborn",
+      "rating": 1476.52,
+      "rd": 23.44,
+      "ratingClass": "C",
+      "homeLocation": "Rec Haus",
+      "homeLocationId": "12269",
+      "percentile": 37.504076023664226,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m29054",
+      "name": "Jamie Pangborn",
+      "rating": 1468.44,
+      "rd": 23.72,
+      "ratingClass": "C",
+      "homeLocation": "Rec Haus",
+      "homeLocationId": "12269",
+      "percentile": 34.252573717799415,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i157439",
+      "name": "Amber Wells",
+      "rating": 1436.71,
+      "rd": 64.23,
+      "ratingClass": "C",
+      "homeLocation": "Ervs Bar and Grill",
+      "homeLocationId": "13325",
+      "percentile": 22.60213350724368,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

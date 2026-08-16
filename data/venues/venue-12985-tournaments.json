@@ -1,0 +1,32 @@
+{
+  "locationId": "12985",
+  "venueName": "Legends Draft Haus & Sports Bar",
+  "venueAddress": "2118 Harrison Dr, Clinton, IA 52732, US",
+  "tournaments": [
+    {
+      "id": 264003,
+      "name": "Finals for Legends Corn Belt Classic VI",
+      "date": "7/26/2026",
+      "playerCount": 2,
+      "qualifying": {
+        "id": 263973,
+        "name": "Legends Corn Belt Classic VI",
+        "playerCount": 5
+      },
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "i152990",
+          "name": "Dan Fuller",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m44010",
+          "name": "Mitch Jahns",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

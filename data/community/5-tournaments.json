@@ -1,0 +1,258 @@
+{
+  "communityId": "5",
+  "locations": [
+    {
+      "id": "13131",
+      "name": "Duckie's Revenge Arcade",
+      "address": "107 N. Main St. Suite A Joshua, TX 76058",
+      "tournaments": [
+        {
+          "id": 258430,
+          "name": "Duckie Summer Top 8 Summer Group Matchplay",
+          "date": "8/13/2026",
+          "playerCount": 8,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m7092",
+              "name": "Jorge Ramos",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "i161508",
+              "name": "Douglas Hampton",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "p564719",
+              "name": "Clifton Brazier",
+              "isCommunityMember": false
+            },
+            {
+              "position": 4,
+              "playerId": "m17437",
+              "name": "Duane Fair",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "i161501",
+              "name": "Armand Marshall",
+              "isCommunityMember": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7836",
+      "name": "Free Play Dallas",
+      "address": "3015 Gulden Ln, Dallas, TX 75212, US",
+      "tournaments": [
+        {
+          "id": 247451,
+          "name": "FPPL - Season 20 - Superfinals",
+          "date": "8/13/2026",
+          "playerCount": 8,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m26400",
+              "name": "Daniel Martin",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m24795",
+              "name": "Brian Perlick",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m17459",
+              "name": "Les Kallestad",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m25466",
+              "name": "John Richardson",
+              "isCommunityMember": true
+            }
+          ]
+        },
+        {
+          "id": 266502,
+          "name": "Finals for Free Play Dallas Pinball Monday (8/10/26)",
+          "date": "8/10/2026",
+          "playerCount": 6,
+          "qualifying": {
+            "id": 266469,
+            "name": "Free Play Dallas Pinball Monday (8/10/26)",
+            "playerCount": 15
+          },
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m26061",
+              "name": "Rick Miller",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m43802",
+              "name": "Phil Robertson",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m28603",
+              "name": "Greg Gibson",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m33469",
+              "name": "Jayson Limmer",
+              "isCommunityMember": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8325",
+      "name": "Kevin Moore's Collection",
+      "address": "",
+      "tournaments": [
+        {
+          "id": 266255,
+          "name": "DFW Belles & Chimes Women's Pinball Second Sunday August 2026",
+          "date": "8/9/2026",
+          "playerCount": 9,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m35805",
+              "name": "Brittany Parker",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m24285",
+              "name": "Diana Gutierrez",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m21048",
+              "name": "Summer Armistead",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m8328",
+              "name": "Sandra Hegeman",
+              "isCommunityMember": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "10621",
+      "name": "PCP",
+      "address": "787 W FM 996 pottsboro tx 75076",
+      "tournaments": [
+        {
+          "id": 266692,
+          "name": "Finals for The Tuesday Night Local 08-11-2026 (clone)",
+          "date": "8/11/2026",
+          "playerCount": 6,
+          "qualifying": {
+            "id": 266641,
+            "name": "The Tuesday Night Local 08-11-2026 (clone)",
+            "playerCount": 13
+          },
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m35194",
+              "name": "Harrison Maxwell",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m30725",
+              "name": "Joe Woody",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m36789",
+              "name": "Michael Hew",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m289",
+              "name": "Ken Kemp",
+              "isCommunityMember": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "10837",
+      "name": "Tilt City",
+      "address": "Mansfield",
+      "tournaments": [
+        {
+          "id": 266174,
+          "name": "Tilt city Mansfield",
+          "date": "8/8/2026",
+          "playerCount": 11,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m20860",
+              "name": "Chris Musk",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m9790",
+              "name": "Cross Kirchmeier",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m29234",
+              "name": "Dagny Martin",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m21059",
+              "name": "Jess Kirchmeier",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m26400",
+              "name": "Daniel Martin",
+              "isCommunityMember": true
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

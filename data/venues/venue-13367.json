@@ -1,0 +1,71 @@
+{
+  "locationId": "13367",
+  "name": "Level Two Games",
+  "address": "37319 Detroit Road, Avon, OH 44011, US",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 4,
+  "relatedVenues": [
+    {
+      "locationId": "535",
+      "name": "Superelectric Pinball Parlor",
+      "address": "6500 Detroit Ave, Cleveland, OH 44102, USA",
+      "count": 6
+    },
+    {
+      "locationId": "10342",
+      "name": "Pinball Planet",
+      "address": "6277 Pearl Rd, Cleveland, OH 44130, US",
+      "count": 4
+    }
+  ],
+  "players": [
+    {
+      "id": "m24346",
+      "name": "Rachel Fisher",
+      "rating": 1474.98,
+      "rd": 29.35,
+      "ratingClass": "C",
+      "homeLocation": "Pinball Planet",
+      "homeLocationId": "10342",
+      "percentile": 36.87986211394233,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m23471",
+      "name": "Hailey Maletz",
+      "rating": 1448,
+      "rd": 31.34,
+      "ratingClass": "C",
+      "homeLocation": "Superelectric Pinball Parlor",
+      "homeLocationId": "535",
+      "percentile": 26.445241533516562,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m22689",
+      "name": "Kaitlin Truskot",
+      "rating": 1421.4,
+      "rd": 25.84,
+      "ratingClass": "C",
+      "homeLocation": "Superelectric Pinball Parlor",
+      "homeLocationId": "535",
+      "percentile": 18.036987003307402,
+      "changeDisplay": "-11.2",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "i67524",
+      "name": "Catherine Mathews",
+      "rating": 1311.99,
+      "rd": 34.15,
+      "ratingClass": "D",
+      "homeLocation": "Level Two Games",
+      "homeLocationId": "13367",
+      "percentile": 1.467368519122374,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

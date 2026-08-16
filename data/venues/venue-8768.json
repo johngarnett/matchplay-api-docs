@@ -1,0 +1,431 @@
+{
+  "locationId": "8768",
+  "name": "Lowry Parcade",
+  "address": "1213 W Waters Ave, Tampa, FL 33604, US",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 30,
+  "relatedVenues": [
+    {
+      "locationId": "7285",
+      "name": "Replay Museum",
+      "address": "119 Tarpon Avenue, Tarpon Springs, FL 34689, US",
+      "count": 109
+    },
+    {
+      "locationId": "7303",
+      "name": "The Pinball Lounge @Oviedo Bowling Center",
+      "address": "376 E Broadway Street, Oviedo, FL 32765, US",
+      "count": 33
+    },
+    {
+      "locationId": "12267",
+      "name": "T&T Trinity Arcade Bar",
+      "address": "1338 Epiphany Wy N-105, Trinity, FL 34655, US",
+      "count": 21
+    },
+    {
+      "locationId": "904",
+      "name": "The Pinball Asylum",
+      "address": "13721 Jetport Commerce Parkway, Unit 6 , Fort Myers, FL 33913",
+      "count": 15
+    },
+    {
+      "locationId": "12244",
+      "name": "Ballerz Pinball Cafe",
+      "address": "412 12th St W, Bradenton, FL 34205, US",
+      "count": 14
+    },
+    {
+      "locationId": "13284",
+      "name": "Robocade",
+      "address": "1149 1st St South, Winter Haven, FL 33880, US",
+      "count": 14
+    },
+    {
+      "locationId": "4589",
+      "name": "District Eat and Play @ Oviedo, Fl",
+      "address": "1395 Oviedo Mall Boulevard, Oviedo, FL 32765, USA",
+      "count": 13
+    },
+    {
+      "locationId": "7527",
+      "name": "Sting Rays Bar And Grill",
+      "address": "3112 East State Road 60, Valrico, FL 33594, US",
+      "count": 13
+    },
+    {
+      "locationId": "888",
+      "name": "Al Pinball Garage",
+      "address": "",
+      "count": 8
+    },
+    {
+      "locationId": "8421",
+      "name": "Point Break Arcade",
+      "address": "445 Harrison Ave, Panama City, FL 32401, US",
+      "count": 7
+    }
+  ],
+  "players": [
+    {
+      "id": "m1540",
+      "name": "Rob Endo",
+      "rating": 1723.48,
+      "rd": 18.13,
+      "ratingClass": "Expert",
+      "homeLocation": "Replay Museum",
+      "homeLocationId": "7285",
+      "percentile": 97.88046769460101,
+      "changeDisplay": "+3.7",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m30837",
+      "name": "Ailsa Riddell",
+      "rating": 1722.61,
+      "rd": 21.21,
+      "ratingClass": "Expert",
+      "homeLocation": "Replay Museum",
+      "homeLocationId": "7285",
+      "percentile": 97.81990962873247,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m24211",
+      "name": "Adam Gray",
+      "rating": 1686.92,
+      "rd": 19.44,
+      "ratingClass": "A",
+      "homeLocation": "Replay Museum",
+      "homeLocationId": "7285",
+      "percentile": 95.66776913401965,
+      "changeDisplay": "+6.1",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m40158",
+      "name": "Andrew Hernandez",
+      "rating": 1666.63,
+      "rd": 17.18,
+      "ratingClass": "A",
+      "homeLocation": "Replay Museum",
+      "homeLocationId": "7285",
+      "percentile": 93.79046909209484,
+      "changeDisplay": "+7.9",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m18803",
+      "name": "John JT Thomas",
+      "rating": 1610.62,
+      "rd": 19.81,
+      "ratingClass": "A",
+      "homeLocation": "Replay Museum",
+      "homeLocationId": "7285",
+      "percentile": 84.60893464387199,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m46942",
+      "name": "Cleveland Harper",
+      "rating": 1606.37,
+      "rd": 27.56,
+      "ratingClass": "A",
+      "homeLocation": "Lowry Parcade",
+      "homeLocationId": "8768",
+      "percentile": 83.5375227092747,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m52928",
+      "name": "Steve Reining",
+      "rating": 1585.87,
+      "rd": 19.9,
+      "ratingClass": "B",
+      "homeLocation": "The Pinball Lounge @Oviedo Bowling Center",
+      "homeLocationId": "7303",
+      "percentile": 78.31089579354358,
+      "changeDisplay": "-0.2",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m50653",
+      "name": "Brandon Reining",
+      "rating": 1583.41,
+      "rd": 22.78,
+      "ratingClass": "B",
+      "homeLocation": "The Pinball Lounge @Oviedo Bowling Center",
+      "homeLocationId": "7303",
+      "percentile": 77.59351562863931,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m51057",
+      "name": "Jonathan Zakel",
+      "rating": 1578.35,
+      "rd": 18.42,
+      "ratingClass": "B",
+      "homeLocation": "The Pinball Asylum",
+      "homeLocationId": "904",
+      "percentile": 76.14478036055341,
+      "changeDisplay": "+12.3",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m20125",
+      "name": "Alan Skvorecz",
+      "rating": 1577.39,
+      "rd": 28.35,
+      "ratingClass": "B",
+      "homeLocation": "Rock Fantasy",
+      "homeLocationId": "9019",
+      "percentile": 75.85130665672894,
+      "changeDisplay": "-4.9",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m25662",
+      "name": "Andrew Robishaw",
+      "rating": 1576.43,
+      "rd": 22.88,
+      "ratingClass": "B",
+      "homeLocation": "Replay Museum",
+      "homeLocationId": "7285",
+      "percentile": 75.62770764429125,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m56556",
+      "name": "Anek Sangsupan",
+      "rating": 1575.27,
+      "rd": 40.06,
+      "ratingClass": "B",
+      "homeLocation": "Lowry Parcade",
+      "homeLocationId": "8768",
+      "percentile": 75.18982624493408,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m17060",
+      "name": "Whit Alley",
+      "rating": 1572.83,
+      "rd": 41.56,
+      "ratingClass": "B",
+      "homeLocation": "Lowry Parcade",
+      "homeLocationId": "8768",
+      "percentile": 74.4212046396795,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m30307",
+      "name": "Michael Brower",
+      "rating": 1571.93,
+      "rd": 31.1,
+      "ratingClass": "B",
+      "homeLocation": "Sting Rays Bar And Grill",
+      "homeLocationId": "7527",
+      "percentile": 74.08580612102297,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m49210",
+      "name": "Tony Reining",
+      "rating": 1552.52,
+      "rd": 19.75,
+      "ratingClass": "B",
+      "homeLocation": "Robocade",
+      "homeLocationId": "13284",
+      "percentile": 67.68062607723483,
+      "changeDisplay": "-5.0",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m23259",
+      "name": "Ben McGee",
+      "rating": 1538.04,
+      "rd": 26.61,
+      "ratingClass": "B",
+      "homeLocation": "The Pinball Lounge @Oviedo Bowling Center",
+      "homeLocationId": "7303",
+      "percentile": 62.286299902175436,
+      "changeDisplay": "+16.6",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m62292",
+      "name": "timothy vermette",
+      "rating": 1513.7,
+      "rd": 36.36,
+      "ratingClass": "B",
+      "homeLocation": "Point Break Arcade",
+      "homeLocationId": "8421",
+      "percentile": 52.64825080355895,
+      "changeDisplay": "+49.5",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m35098",
+      "name": "Vince Trimarco",
+      "rating": 1512.51,
+      "rd": 22.41,
+      "ratingClass": "B",
+      "homeLocation": "Replay Museum",
+      "homeLocationId": "7285",
+      "percentile": 52.20571109144267,
+      "changeDisplay": "-5.6",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m60509",
+      "name": "Jason Decarmine",
+      "rating": 1509.33,
+      "rd": 34.25,
+      "ratingClass": "B",
+      "homeLocation": "Lowry Parcade",
+      "homeLocationId": "8768",
+      "percentile": 50.961941584757994,
+      "changeDisplay": "+14.5",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m26816",
+      "name": "Peter Rein",
+      "rating": 1502.48,
+      "rd": 19.75,
+      "ratingClass": "B",
+      "homeLocation": "Replay Museum",
+      "homeLocationId": "7285",
+      "percentile": 48.083104299622676,
+      "changeDisplay": "+8.3",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m44804",
+      "name": "Amanda McClellan",
+      "rating": 1485.53,
+      "rd": 26.66,
+      "ratingClass": "C",
+      "homeLocation": "Replay Museum",
+      "homeLocationId": "7285",
+      "percentile": 41.151534914054125,
+      "changeDisplay": "-2.7",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "i2303",
+      "name": "Charlie Bucks",
+      "rating": 1466.96,
+      "rd": 23.66,
+      "ratingClass": "C",
+      "homeLocation": "District Eat and Play @ Oviedo, Fl",
+      "homeLocationId": "4589",
+      "percentile": 33.62835980807751,
+      "changeDisplay": "-7.0",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "i113177",
+      "name": "Bradley McGee",
+      "rating": 1464.08,
+      "rd": 45.37,
+      "ratingClass": "C",
+      "homeLocation": "Point Break Arcade",
+      "homeLocationId": "8421",
+      "percentile": 32.46843993105697,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m38581",
+      "name": "Vinnie Draino",
+      "rating": 1459.81,
+      "rd": 20.56,
+      "ratingClass": "C",
+      "homeLocation": "Replay Museum",
+      "homeLocationId": "7285",
+      "percentile": 30.92188009502958,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m46870",
+      "name": "Adam Rodriguez FL",
+      "rating": 1441.14,
+      "rd": 26.6,
+      "ratingClass": "C",
+      "homeLocation": "Replay Museum",
+      "homeLocationId": "7285",
+      "percentile": 24.130060092234594,
+      "changeDisplay": "+8.9",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m60510",
+      "name": "Jessica Coiro",
+      "rating": 1434.1,
+      "rd": 35.04,
+      "ratingClass": "C",
+      "homeLocation": "Lowry Parcade",
+      "homeLocationId": "8768",
+      "percentile": 21.824195276470864,
+      "changeDisplay": "-11.4",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m62316",
+      "name": "Alessandra Gallastegui",
+      "rating": 1431.23,
+      "rd": 39.62,
+      "ratingClass": "C",
+      "homeLocation": "Replay Museum",
+      "homeLocationId": "7285",
+      "percentile": 20.953090790515674,
+      "changeDisplay": "-86.3",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "i113178",
+      "name": "Caleb McGee",
+      "rating": 1389.19,
+      "rd": 48.45,
+      "ratingClass": "D",
+      "homeLocation": "Point Break Arcade",
+      "homeLocationId": "8421",
+      "percentile": 10.099222061769227,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m62297",
+      "name": "Adrienne Wales",
+      "rating": 1388.04,
+      "rd": 49.75,
+      "ratingClass": "D",
+      "homeLocation": "Lowry Parcade",
+      "homeLocationId": "8768",
+      "percentile": 9.870964736572413,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m32343",
+      "name": "David J Bruno",
+      "rating": 1325.72,
+      "rd": 40.74,
+      "ratingClass": "D",
+      "homeLocation": "Lowry Parcade",
+      "homeLocationId": "8768",
+      "percentile": 2.161457120231052,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "tournamentId": 263007,
+  "name": "Finals for Apollo Exos Weekly Pinball Ritual 8/11/26",
+  "date": "2026-08-12",
+  "locationId": "13758",
+  "locationName": "Apollo Exos Records & Beer",
+  "playerCount": 4,
+  "ratingsDate": "2026-08-12",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m3038",
+      "name": "Joshua Francis",
+      "rating": 1778.12,
+      "dailyRatingChange": 6.93
+    },
+    {
+      "position": 2,
+      "playerId": "m5611",
+      "name": "Andrew Jamieson",
+      "rating": 1606.43,
+      "dailyRatingChange": 74.17
+    },
+    {
+      "position": 3,
+      "playerId": "i93090",
+      "name": "Jenny Cline",
+      "rating": 1496.56,
+      "dailyRatingChange": 15.07
+    },
+    {
+      "position": 4,
+      "playerId": "m61851",
+      "name": "Peter Sharp",
+      "rating": 1578.93,
+      "dailyRatingChange": -0.49
+    }
+  ]
+}

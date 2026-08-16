@@ -1,0 +1,172 @@
+{
+  "tournamentId": 262664,
+  "name": "Stern Army - TPL - July 3 Strikes (Consolation)",
+  "date": "2026-07-19",
+  "locationId": "7303",
+  "locationName": "The Pinball Lounge @Oviedo Bowling Center",
+  "playerCount": 23,
+  "ratingsDate": "2026-07-19",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m30994",
+      "name": "Omar Sokay",
+      "rating": 1566.2,
+      "dailyRatingChange": 18.44
+    },
+    {
+      "position": 2,
+      "playerId": "m52928",
+      "name": "Steve Reining",
+      "rating": 1576.89,
+      "dailyRatingChange": 7.49
+    },
+    {
+      "position": 2,
+      "playerId": "m11904",
+      "name": "Justin Derazza",
+      "rating": 1659.15,
+      "dailyRatingChange": 6.86
+    },
+    {
+      "position": 4,
+      "playerId": "m41060",
+      "name": "Gary Wight",
+      "rating": 1570.05,
+      "dailyRatingChange": -2.5
+    },
+    {
+      "position": 4,
+      "playerId": "m578671",
+      "name": "Michela Philabaum",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 4,
+      "playerId": "m50653",
+      "name": "Brandon Reining",
+      "rating": 1583.41,
+      "dailyRatingChange": 3.17
+    },
+    {
+      "position": 7,
+      "playerId": "m44416",
+      "name": "Eric Moorhouse",
+      "rating": 1448.4,
+      "dailyRatingChange": 10.58
+    },
+    {
+      "position": 8,
+      "playerId": "m178375",
+      "name": "Micaela French",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 8,
+      "playerId": "m20783",
+      "name": "Anton Samilian",
+      "rating": 1578.29,
+      "dailyRatingChange": -3.91
+    },
+    {
+      "position": 8,
+      "playerId": "m16201",
+      "name": "Lisa Henry",
+      "rating": 1507.41,
+      "dailyRatingChange": 0.14
+    },
+    {
+      "position": 8,
+      "playerId": "m6257",
+      "name": "Chris Henry FL",
+      "rating": 1583.61,
+      "dailyRatingChange": -4.11
+    },
+    {
+      "position": 8,
+      "playerId": "m16426",
+      "name": "Shannon Parsons",
+      "rating": 1535.74,
+      "dailyRatingChange": 12.07
+    },
+    {
+      "position": 8,
+      "playerId": "m61713",
+      "name": "Alex Morse",
+      "rating": 1516.56,
+      "dailyRatingChange": null
+    },
+    {
+      "position": 8,
+      "playerId": "m779",
+      "name": "Anthony Dickson",
+      "rating": 1575.76,
+      "dailyRatingChange": -5.46
+    },
+    {
+      "position": 8,
+      "playerId": "m23259",
+      "name": "Ben McGee",
+      "rating": 1525.06,
+      "dailyRatingChange": -2.89
+    },
+    {
+      "position": 8,
+      "playerId": "m7709",
+      "name": "Andrew Dunn",
+      "rating": 1639.89,
+      "dailyRatingChange": -5.11
+    },
+    {
+      "position": 8,
+      "playerId": "m49210",
+      "name": "Tony Reining",
+      "rating": 1569.63,
+      "dailyRatingChange": -1.85
+    },
+    {
+      "position": 18,
+      "playerId": "m8357",
+      "name": "Parker Sokol",
+      "rating": 1505.25,
+      "dailyRatingChange": -3.34
+    },
+    {
+      "position": 18,
+      "playerId": "m578669",
+      "name": "Jason Philabaum",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 20,
+      "playerId": "m61715",
+      "name": "Erica Morse",
+      "rating": 1398.72,
+      "dailyRatingChange": null
+    },
+    {
+      "position": 20,
+      "playerId": "m25946",
+      "name": "Beth Viera",
+      "rating": 1386.2,
+      "dailyRatingChange": -7.37
+    },
+    {
+      "position": 20,
+      "playerId": "m579616",
+      "name": "Ben Tria",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 20,
+      "playerId": "m44415",
+      "name": "Melissa Paley",
+      "rating": 1499.71,
+      "dailyRatingChange": -4.18
+    }
+  ]
+}

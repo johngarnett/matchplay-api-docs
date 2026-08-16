@@ -1,0 +1,39 @@
+{
+  "tournamentId": 265920,
+  "name": "Finals for Back to the Flippers: Thursday Night Max Matchplay",
+  "date": "2026-08-07",
+  "locationId": "13099",
+  "locationName": "Nightwave Arcade",
+  "playerCount": 4,
+  "ratingsDate": "2026-08-07",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m23137",
+      "name": "Mike Tzanakos",
+      "rating": 1780.97,
+      "dailyRatingChange": 4.7
+    },
+    {
+      "position": 2,
+      "playerId": "m26332",
+      "name": "Marcus Batti",
+      "rating": 1669.33,
+      "dailyRatingChange": 5.52
+    },
+    {
+      "position": 3,
+      "playerId": "m7053",
+      "name": "Tony Batti",
+      "rating": 1644.56,
+      "dailyRatingChange": 3.69
+    },
+    {
+      "position": 4,
+      "playerId": "m41404",
+      "name": "Jenny Nystrom",
+      "rating": 1503.71,
+      "dailyRatingChange": 0.61
+    }
+  ]
+}

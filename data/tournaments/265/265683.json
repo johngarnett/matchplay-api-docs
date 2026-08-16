@@ -1,0 +1,102 @@
+{
+  "tournamentId": 265683,
+  "name": "Toledo Pinball League - Season 9 - MEET #5 (clone)",
+  "date": "2026-08-06",
+  "locationId": "8633",
+  "locationName": "The Basement: Toledo’s Pinball Pub",
+  "playerCount": 13,
+  "ratingsDate": "2026-08-06",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m46328",
+      "name": "Jason Skolits",
+      "rating": 1651.35,
+      "dailyRatingChange": 7.3
+    },
+    {
+      "position": 2,
+      "playerId": "m14553",
+      "name": "Lucas Dailey",
+      "rating": 1591.22,
+      "dailyRatingChange": 8.34
+    },
+    {
+      "position": 3,
+      "playerId": "m57694",
+      "name": "Robert Gibson",
+      "rating": 1625.48,
+      "dailyRatingChange": 0.62
+    },
+    {
+      "position": 4,
+      "playerId": "m6609",
+      "name": "Jason Krajcar",
+      "rating": 1562.51,
+      "dailyRatingChange": -5.94
+    },
+    {
+      "position": 4,
+      "playerId": "m10351",
+      "name": "Logan Vaughn",
+      "rating": 1667.42,
+      "dailyRatingChange": -9.49
+    },
+    {
+      "position": 6,
+      "playerId": "i137468",
+      "name": "Doug Patterson",
+      "rating": 1405.42,
+      "dailyRatingChange": 3.24
+    },
+    {
+      "position": 6,
+      "playerId": "i98053",
+      "name": "Alan Dow",
+      "rating": 1495.75,
+      "dailyRatingChange": 1.86
+    },
+    {
+      "position": 6,
+      "playerId": "m29297",
+      "name": "Dominic Fiori",
+      "rating": 1593.78,
+      "dailyRatingChange": 0.05
+    },
+    {
+      "position": 9,
+      "playerId": "i158556",
+      "name": "Marcus Kaczala",
+      "rating": 1425.93,
+      "dailyRatingChange": 14.94
+    },
+    {
+      "position": 10,
+      "playerId": "i139222",
+      "name": "Tiffiny Fayerweather",
+      "rating": 1355.63,
+      "dailyRatingChange": 4.07
+    },
+    {
+      "position": 11,
+      "playerId": "i139223",
+      "name": "Carl Fayerweather",
+      "rating": 1428.68,
+      "dailyRatingChange": -3.98
+    },
+    {
+      "position": 12,
+      "playerId": "m42469",
+      "name": "Ed Ott",
+      "rating": 1600.51,
+      "dailyRatingChange": -6.71
+    },
+    {
+      "position": 13,
+      "playerId": "i158301",
+      "name": "AnaLicia Duell",
+      "rating": 1424.34,
+      "dailyRatingChange": -13.05
+    }
+  ]
+}

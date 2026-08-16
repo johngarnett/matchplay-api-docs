@@ -1,0 +1,60 @@
+{
+  "tournamentId": 263177,
+  "name": "Insert Coin Olympia Presents: Tilt-A-Pocalypse! Beetlejuice Launch Party",
+  "date": "2026-07-22",
+  "locationId": "10355",
+  "locationName": "Insert Coin - Arcade & Bar",
+  "playerCount": 7,
+  "ratingsDate": "2026-07-22",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m30824",
+      "name": "Chris Pierce",
+      "rating": 1613.02,
+      "dailyRatingChange": 9.11
+    },
+    {
+      "position": 2,
+      "playerId": "m60072",
+      "name": "Willy Shaughnessy",
+      "rating": 1478.75,
+      "dailyRatingChange": 5.11
+    },
+    {
+      "position": 3,
+      "playerId": "m516221",
+      "name": "John Texidor",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 4,
+      "playerId": "m57219",
+      "name": "Jasmyne Baylie",
+      "rating": 1427.64,
+      "dailyRatingChange": -3.95
+    },
+    {
+      "position": 4,
+      "playerId": "m18779",
+      "name": "Mark Beerbower",
+      "rating": 1652.87,
+      "dailyRatingChange": -6.04
+    },
+    {
+      "position": 4,
+      "playerId": "m56396",
+      "name": "ky",
+      "rating": 1483.28,
+      "dailyRatingChange": -3.27
+    },
+    {
+      "position": 7,
+      "playerId": "m61807",
+      "name": "Adam Clenney",
+      "rating": 1476.12,
+      "dailyRatingChange": -7.8
+    }
+  ]
+}

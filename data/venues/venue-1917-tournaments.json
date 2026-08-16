@@ -1,0 +1,44 @@
+{
+  "locationId": "1917",
+  "venueName": "FlippArena Vöcklabruck",
+  "venueAddress": "5 Vornbuch, Vornbuch, Oberösterreich, 4840, AT",
+  "tournaments": [
+    {
+      "id": 263763,
+      "name": "Finals for 8. Ligaspieltag Flipperliga FlippArena",
+      "date": "7/25/2026",
+      "playerCount": 4,
+      "qualifying": {
+        "id": 263728,
+        "name": "8. Ligaspieltag Flipperliga FlippArena",
+        "playerCount": 15
+      },
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m5507",
+          "name": "Markus Ramsner",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m8302",
+          "name": "Peter Kroiss",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m7402",
+          "name": "Uwe Ramsner",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m29915",
+          "name": "Kurt Ploier",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

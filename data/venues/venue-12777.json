@@ -1,0 +1,371 @@
+{
+  "locationId": "12777",
+  "name": "The Church Arcade",
+  "address": "32 S 1st Street, Duquesne PA, 15110",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 25,
+  "relatedVenues": [
+    {
+      "locationId": "9215",
+      "name": "Velum Fermentation",
+      "address": "2120 Jane St, Pittsburgh, PA 15203, US",
+      "count": 51
+    },
+    {
+      "locationId": "2480",
+      "name": "Pittsburgh Pinball Dojo",
+      "address": "2 N Balph Ave, Bellevue PA 15202",
+      "count": 43
+    },
+    {
+      "locationId": "9489",
+      "name": "Verdetto’s Bar",
+      "address": "814 Madison Avenue, Pittsburgh, PA 15212, US",
+      "count": 43
+    },
+    {
+      "locationId": "7785",
+      "name": "Helicon Brewing",
+      "address": "102 Union Ave, Oakdale, PA 15071, US",
+      "count": 41
+    },
+    {
+      "locationId": "8271",
+      "name": "Rezzanine Esports",
+      "address": "1025 Washington Pike, Bridgeville, PA 15017, US",
+      "count": 36
+    },
+    {
+      "locationId": "10377",
+      "name": "Capital Pinball",
+      "address": "70 Pembroke Rd, Concord, NH 03301, US",
+      "count": 7
+    },
+    {
+      "locationId": "13462",
+      "name": "Row House Cinemas - Hollywood",
+      "address": "1449 Potomac Ave, Pittsburgh, PA 15216, US",
+      "count": 6
+    },
+    {
+      "locationId": "13540",
+      "name": "The Czar's Brewery",
+      "address": "10 Pierce St, Dover, NH, 03820, US",
+      "count": 4
+    },
+    {
+      "locationId": "9770",
+      "name": "Wye Beer Co.",
+      "address": "3 Forbes Rd, Trafford, PA 15085, US",
+      "count": 3
+    },
+    {
+      "locationId": "10819",
+      "name": "The Vapor Cloud",
+      "address": "1445 Washington Rd, Washington, PA 15301, US",
+      "count": 3
+    }
+  ],
+  "players": [
+    {
+      "id": "m19020",
+      "name": "Daniele Celestino Acciari",
+      "rating": 1846.43,
+      "rd": 20.94,
+      "ratingClass": "Master",
+      "homeLocation": "Rezzanine Esports",
+      "homeLocationId": "8271",
+      "percentile": 99.85559230446732,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m6362",
+      "name": "Brian Bower",
+      "rating": 1701.4,
+      "rd": 27.59,
+      "ratingClass": "Expert",
+      "homeLocation": "Verdetto’s Bar",
+      "homeLocationId": "9489",
+      "percentile": 96.70657287930312,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m4293",
+      "name": "Mahesh Murthy",
+      "rating": 1667.86,
+      "rd": 26.87,
+      "ratingClass": "A",
+      "homeLocation": "Velum Fermentation",
+      "homeLocationId": "9215",
+      "percentile": 93.91624353659105,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m9803",
+      "name": "Dave DeNardo",
+      "rating": 1641.33,
+      "rd": 26.98,
+      "ratingClass": "A",
+      "homeLocation": "Pittsburgh Pinball Dojo",
+      "homeLocationId": "2480",
+      "percentile": 90.57623328830297,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m30825",
+      "name": "Tony Christman",
+      "rating": 1636.28,
+      "rd": 20.61,
+      "ratingClass": "A",
+      "homeLocation": "Verdetto’s Bar",
+      "homeLocationId": "9489",
+      "percentile": 89.70047048958867,
+      "changeDisplay": "-2.9",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m34246",
+      "name": "Mike hovraluck",
+      "rating": 1629.38,
+      "rd": 31.16,
+      "ratingClass": "A",
+      "homeLocation": "The Church Arcade",
+      "homeLocationId": "12777",
+      "percentile": 88.46135929566312,
+      "changeDisplay": "-10.8",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "i146694",
+      "name": "Eric Koren",
+      "rating": 1599.27,
+      "rd": 48.23,
+      "ratingClass": "B",
+      "homeLocation": "The Church Arcade",
+      "homeLocationId": "12777",
+      "percentile": 81.82326361391904,
+      "changeDisplay": "+124.3",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m12067",
+      "name": "Matt Lemoine",
+      "rating": 1591.22,
+      "rd": 17.24,
+      "ratingClass": "B",
+      "homeLocation": "Capital Pinball",
+      "homeLocationId": "10377",
+      "percentile": 79.80621418922065,
+      "changeDisplay": "+10.1",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m45232",
+      "name": "Matt Cipperly",
+      "rating": 1580.89,
+      "rd": 22.5,
+      "ratingClass": "B",
+      "homeLocation": "Velum Fermentation",
+      "homeLocationId": "9215",
+      "percentile": 76.9180602785671,
+      "changeDisplay": "-6.3",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m42247",
+      "name": "Jeff DeRose",
+      "rating": 1569.32,
+      "rd": 29.06,
+      "ratingClass": "B",
+      "homeLocation": "Helicon Brewing",
+      "homeLocationId": "7785",
+      "percentile": 73.29855126473191,
+      "changeDisplay": "-4.5",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m32867",
+      "name": "Jordan Rininger",
+      "rating": 1562.83,
+      "rd": 37.07,
+      "ratingClass": "B",
+      "homeLocation": "Pittsburgh Pinball Dojo",
+      "homeLocationId": "2480",
+      "percentile": 71.25355196347883,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i110046",
+      "name": "Michael Massaro",
+      "rating": 1561.17,
+      "rd": 35.86,
+      "ratingClass": "B",
+      "homeLocation": "The Church Arcade",
+      "homeLocationId": "12777",
+      "percentile": 70.68523780686635,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m38229",
+      "name": "Nathan Marcus",
+      "rating": 1549.12,
+      "rd": 22.22,
+      "ratingClass": "B",
+      "homeLocation": "Helicon Brewing",
+      "homeLocationId": "7785",
+      "percentile": 66.3483486281269,
+      "changeDisplay": "-1.0",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m10590",
+      "name": "tia roberts",
+      "rating": 1531.16,
+      "rd": 24.28,
+      "ratingClass": "B",
+      "homeLocation": "Verdetto’s Bar",
+      "homeLocationId": "9489",
+      "percentile": 59.49597055946336,
+      "changeDisplay": "+1.9",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m25615",
+      "name": "Derek Anderson",
+      "rating": 1530.32,
+      "rd": 25.11,
+      "ratingClass": "B",
+      "homeLocation": "Pittsburgh Pinball Dojo",
+      "homeLocationId": "2480",
+      "percentile": 59.16988866632506,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m42398",
+      "name": "Holly Helterhoff",
+      "rating": 1502.66,
+      "rd": 22.82,
+      "ratingClass": "B",
+      "homeLocation": "Sparks Pinball Museum & Arcade",
+      "homeLocationId": "12444",
+      "percentile": 48.19024549308241,
+      "changeDisplay": "-7.0",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m45230",
+      "name": "Caitlin McCabe",
+      "rating": 1496.75,
+      "rd": 23.41,
+      "ratingClass": "C",
+      "homeLocation": "Velum Fermentation",
+      "homeLocationId": "9215",
+      "percentile": 45.75860623282247,
+      "changeDisplay": "-2.6",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "i11863",
+      "name": "Nicholas Stevens",
+      "rating": 1495.61,
+      "rd": 23.6,
+      "ratingClass": "C",
+      "homeLocation": "Helicon Brewing",
+      "homeLocationId": "7785",
+      "percentile": 45.357991335538266,
+      "changeDisplay": "+14.3",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m21600",
+      "name": "Mike Hough",
+      "rating": 1490.18,
+      "rd": 29.82,
+      "ratingClass": "C",
+      "homeLocation": "The Church Arcade",
+      "homeLocationId": "12777",
+      "percentile": 43.094051334606604,
+      "changeDisplay": "-2.0",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m32636",
+      "name": "Mike Behr",
+      "rating": 1481.55,
+      "rd": 37.48,
+      "ratingClass": "C",
+      "homeLocation": "The Church Arcade",
+      "homeLocationId": "12777",
+      "percentile": 39.54907532491732,
+      "changeDisplay": "-9.8",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m55303",
+      "name": "Eugene Mcclellan",
+      "rating": 1470.97,
+      "rd": 27.84,
+      "ratingClass": "C",
+      "homeLocation": "Velum Fermentation",
+      "homeLocationId": "9215",
+      "percentile": 35.25411096100992,
+      "changeDisplay": "+4.7",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m6481",
+      "name": "Peace Nick Mann",
+      "rating": 1448.13,
+      "rd": 30.29,
+      "ratingClass": "C",
+      "homeLocation": "Pittsburgh Pinball Dojo",
+      "homeLocationId": "2480",
+      "percentile": 26.48716634834863,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m52157",
+      "name": "Drew McCarron",
+      "rating": 1434.98,
+      "rd": 29,
+      "ratingClass": "C",
+      "homeLocation": "Velum Fermentation",
+      "homeLocationId": "9215",
+      "percentile": 22.126985605813573,
+      "changeDisplay": "-0.8",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m52328",
+      "name": "Storm Harvin",
+      "rating": 1411.81,
+      "rd": 29.02,
+      "ratingClass": "C",
+      "homeLocation": "Velum Fermentation",
+      "homeLocationId": "9215",
+      "percentile": 15.544789677178924,
+      "changeDisplay": "-1.7",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "i116755",
+      "name": "Jaime Fratilla",
+      "rating": 1410.37,
+      "rd": 41.36,
+      "ratingClass": "C",
+      "homeLocation": "Pittsburgh Pinball Dojo",
+      "homeLocationId": "2480",
+      "percentile": 15.158149718172078,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

@@ -1,0 +1,395 @@
+{
+  "locationId": "13614",
+  "name": "Waypoint",
+  "address": "1225 Jefferson Road, Suite A201, Rochester NY 14623",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 27,
+  "relatedVenues": [
+    {
+      "locationId": "7208",
+      "name": "Rochester Pinball Collective",
+      "address": "349 West Commercial Street, East Rochester, NY 14445, US",
+      "count": 140
+    },
+    {
+      "locationId": "5619",
+      "name": "Skill Shot Arcade",
+      "address": "5949 East Molloy Rd  Syracuse, NY 13211",
+      "count": 5
+    },
+    {
+      "locationId": "9019",
+      "name": "Rock Fantasy",
+      "address": "12 East Main Street, Middletown, New York 10940, US",
+      "count": 4
+    },
+    {
+      "locationId": "8867",
+      "name": "Mean Max Brew Works Troy Taproom",
+      "address": "251 River St, Troy, NY 12181, US",
+      "count": 2
+    },
+    {
+      "locationId": "10194",
+      "name": "Two Cousins Pinball",
+      "address": "9360 River Road, Marcy NY 13403",
+      "count": 2
+    },
+    {
+      "locationId": "10759",
+      "name": "Level Zero",
+      "address": "",
+      "count": 2
+    },
+    {
+      "locationId": "10984",
+      "name": "Kickback",
+      "address": "",
+      "count": 2
+    },
+    {
+      "locationId": "11707",
+      "name": "Excelsior Pub",
+      "address": "54 Philip St, Albany, NY 12207",
+      "count": 2
+    },
+    {
+      "locationId": "11954",
+      "name": "Nickel City Pinball Club",
+      "address": "5521 Transit Rd, Depew, NY 14043, US",
+      "count": 2
+    },
+    {
+      "locationId": "12839",
+      "name": "High Score RBK",
+      "address": "6 Garden St, Rhinebeck, NY 12572, US",
+      "count": 2
+    }
+  ],
+  "players": [
+    {
+      "id": "m19411",
+      "name": "Michael Geiss",
+      "rating": 1688.02,
+      "rd": 20.6,
+      "ratingClass": "A",
+      "homeLocation": "Rochester Pinball Collective",
+      "homeLocationId": "7208",
+      "percentile": 95.78422695299761,
+      "changeDisplay": "+1.4",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m11141",
+      "name": "Mark Jezioro",
+      "rating": 1663.33,
+      "rd": 19.59,
+      "ratingClass": "A",
+      "homeLocation": "Rochester Pinball Collective",
+      "homeLocationId": "7208",
+      "percentile": 93.42246238412447,
+      "changeDisplay": "-9.2",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m23641",
+      "name": "Robert Werner",
+      "rating": 1641.04,
+      "rd": 23.79,
+      "ratingClass": "A",
+      "homeLocation": "Rochester Pinball Collective",
+      "homeLocationId": "7208",
+      "percentile": 90.51567522243444,
+      "changeDisplay": "+13.6",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m33825",
+      "name": "Emilia Connelly",
+      "rating": 1606.85,
+      "rd": 17.31,
+      "ratingClass": "A",
+      "homeLocation": "Rochester Pinball Collective",
+      "homeLocationId": "7208",
+      "percentile": 83.67261377928914,
+      "changeDisplay": "+3.2",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m574",
+      "name": "Stephanie Guida",
+      "rating": 1602.98,
+      "rd": 21.14,
+      "ratingClass": "A",
+      "homeLocation": "Rochester Pinball Collective",
+      "homeLocationId": "7208",
+      "percentile": 82.73629291470628,
+      "changeDisplay": "+4.1",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m24981",
+      "name": "Jarret Whetstone",
+      "rating": 1562.88,
+      "rd": 27.67,
+      "ratingClass": "B",
+      "homeLocation": "Rochester Pinball Collective",
+      "homeLocationId": "7208",
+      "percentile": 71.26752690175618,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m36955",
+      "name": "Tim Fisher",
+      "rating": 1553.1,
+      "rd": 19.52,
+      "ratingClass": "B",
+      "homeLocation": "Rochester Pinball Collective",
+      "homeLocationId": "7208",
+      "percentile": 67.96012484278194,
+      "changeDisplay": "-0.8",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m61368",
+      "name": "Eli Tilly",
+      "rating": 1533.42,
+      "rd": 37.29,
+      "ratingClass": "B",
+      "homeLocation": "Rochester Pinball Collective",
+      "homeLocationId": "7208",
+      "percentile": 60.41365817300973,
+      "changeDisplay": "+5.5",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m55424",
+      "name": "Steve Schaefer",
+      "rating": 1528.02,
+      "rd": 21.69,
+      "ratingClass": "B",
+      "homeLocation": "Rochester Pinball Collective",
+      "homeLocationId": "7208",
+      "percentile": 58.25220105277869,
+      "changeDisplay": "-8.7",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m31309",
+      "name": "Liz Geiss",
+      "rating": 1522.39,
+      "rd": 25.75,
+      "ratingClass": "B",
+      "homeLocation": "Rochester Pinball Collective",
+      "homeLocationId": "7208",
+      "percentile": 56.072110681511155,
+      "changeDisplay": "-2.8",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m60162",
+      "name": "Gabe Weiss",
+      "rating": 1503.42,
+      "rd": 26.72,
+      "ratingClass": "B",
+      "homeLocation": "Rochester Pinball Collective",
+      "homeLocationId": "7208",
+      "percentile": 48.55359388829366,
+      "changeDisplay": "-0.8",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m61773",
+      "name": "Ben Damick",
+      "rating": 1496.88,
+      "rd": 40.41,
+      "ratingClass": "C",
+      "homeLocation": "Rochester Pinball Collective",
+      "homeLocationId": "7208",
+      "percentile": 45.83779754972749,
+      "changeDisplay": "+15.3",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m61804",
+      "name": "Andrew Kloc",
+      "rating": 1492.08,
+      "rd": 40.2,
+      "ratingClass": "C",
+      "homeLocation": "Rochester Pinball Collective",
+      "homeLocationId": "7208",
+      "percentile": 43.84403968882471,
+      "changeDisplay": "-1.2",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m30338",
+      "name": "Amy Murphy",
+      "rating": 1478.34,
+      "rd": 18.76,
+      "ratingClass": "C",
+      "homeLocation": "Rochester Pinball Collective",
+      "homeLocationId": "7208",
+      "percentile": 38.277355941677925,
+      "changeDisplay": "+4.8",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m36956",
+      "name": "Amanda Fintak",
+      "rating": 1472.35,
+      "rd": 36.69,
+      "ratingClass": "C",
+      "homeLocation": "Waypoint",
+      "homeLocationId": "13614",
+      "percentile": 35.799133553826806,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m62303",
+      "name": "Mike Schek",
+      "rating": 1470.93,
+      "rd": 56.1,
+      "ratingClass": "C",
+      "homeLocation": "Waypoint",
+      "homeLocationId": "13614",
+      "percentile": 35.235477709973445,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m46354",
+      "name": "Eric Werner",
+      "rating": 1466.51,
+      "rd": 26.94,
+      "ratingClass": "C",
+      "homeLocation": "Rochester Pinball Collective",
+      "homeLocationId": "7208",
+      "percentile": 33.43736898495365,
+      "changeDisplay": "-22.8",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m61774",
+      "name": "Andrew Raniewicz",
+      "rating": 1463.09,
+      "rd": 34.48,
+      "ratingClass": "C",
+      "homeLocation": "Rochester Pinball Collective",
+      "homeLocationId": "7208",
+      "percentile": 32.1516746634369,
+      "changeDisplay": "+16.6",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m49122",
+      "name": "Travis Switenky",
+      "rating": 1455.79,
+      "rd": 37.34,
+      "ratingClass": "C",
+      "homeLocation": "Rochester Pinball Collective",
+      "homeLocationId": "7208",
+      "percentile": 29.356687007965714,
+      "changeDisplay": "-7.5",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m62301",
+      "name": "Kasha Adamczuk",
+      "rating": 1453.2,
+      "rd": 55.48,
+      "ratingClass": "C",
+      "homeLocation": "Waypoint",
+      "homeLocationId": "13614",
+      "percentile": 28.34117482647785,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m61763",
+      "name": "Trevor Bradley",
+      "rating": 1450.75,
+      "rd": 37.63,
+      "ratingClass": "C",
+      "homeLocation": "Rochester Pinball Collective",
+      "homeLocationId": "7208",
+      "percentile": 27.41417058741324,
+      "changeDisplay": "-0.5",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m42158",
+      "name": "Jim Maglier",
+      "rating": 1420.18,
+      "rd": 37.6,
+      "ratingClass": "C",
+      "homeLocation": "Rochester Pinball Collective",
+      "homeLocationId": "7208",
+      "percentile": 17.678296920855267,
+      "changeDisplay": "+19.6",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m61805",
+      "name": "Jason Kloc",
+      "rating": 1416.59,
+      "rd": 43.35,
+      "ratingClass": "C",
+      "homeLocation": "Rochester Pinball Collective",
+      "homeLocationId": "7208",
+      "percentile": 16.737317743513298,
+      "changeDisplay": "-25.9",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m39980",
+      "name": "Pamela Maglier",
+      "rating": 1414.5,
+      "rd": 23.54,
+      "ratingClass": "C",
+      "homeLocation": "Rochester Pinball Collective",
+      "homeLocationId": "7208",
+      "percentile": 16.304094656915264,
+      "changeDisplay": "-1.7",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m57667",
+      "name": "Eric Flynn",
+      "rating": 1407.69,
+      "rd": 32.34,
+      "ratingClass": "C",
+      "homeLocation": "Rochester Pinball Collective",
+      "homeLocationId": "7208",
+      "percentile": 14.464061117063402,
+      "changeDisplay": "-17.1",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m61811",
+      "name": "Bob Geiger",
+      "rating": 1406.5,
+      "rd": 40.97,
+      "ratingClass": "C",
+      "homeLocation": "Waypoint",
+      "homeLocationId": "13614",
+      "percentile": 14.18456235151628,
+      "changeDisplay": "-7.9",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m62172",
+      "name": "Dave Lanham",
+      "rating": 1346.91,
+      "rd": 44.19,
+      "ratingClass": "D",
+      "homeLocation": "Rochester Pinball Collective",
+      "homeLocationId": "7208",
+      "percentile": 3.9269576559370196,
+      "changeDisplay": "-23.5",
+      "changeClass": "change-negative"
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "tournamentId": 260148,
+  "name": "Tournament Tuesdays at Marquee #7",
+  "date": "2026-08-05",
+  "locationId": "13328",
+  "locationName": "Marquee Pinball Arcade",
+  "playerCount": 12,
+  "ratingsDate": "2026-08-05",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m477063",
+      "name": "Chris Chang",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 2,
+      "playerId": "m5244",
+      "name": "Scott Miles",
+      "rating": 1646.15,
+      "dailyRatingChange": -1.7
+    },
+    {
+      "position": 3,
+      "playerId": "m20322",
+      "name": "Peach Ruiz",
+      "rating": 1586.19,
+      "dailyRatingChange": 7.3
+    },
+    {
+      "position": 4,
+      "playerId": "m36439",
+      "name": "Nina Lucas",
+      "rating": 1518.41,
+      "dailyRatingChange": 9.1
+    },
+    {
+      "position": 5,
+      "playerId": "m58263",
+      "name": "David Price",
+      "rating": 1490.2,
+      "dailyRatingChange": 2.2
+    },
+    {
+      "position": 6,
+      "playerId": "m497436",
+      "name": "Leif Kelly",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 6,
+      "playerId": "i147794",
+      "name": "Nicasio Yeend",
+      "rating": 1494.3,
+      "dailyRatingChange": -1.7
+    },
+    {
+      "position": 8,
+      "playerId": "m49746",
+      "name": "Goran Loncar",
+      "rating": 1596.13,
+      "dailyRatingChange": -8.1
+    },
+    {
+      "position": 9,
+      "playerId": "m464487",
+      "name": "Alex Gonzalez",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 10,
+      "playerId": "m49079",
+      "name": "Ely Redmayne",
+      "rating": 1416.7,
+      "dailyRatingChange": -6.17
+    },
+    {
+      "position": 10,
+      "playerId": "m493922",
+      "name": "Matty Escamilla",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 12,
+      "playerId": "m55932",
+      "name": "Hillary Hight",
+      "rating": 1406.07,
+      "dailyRatingChange": -12.15
+    }
+  ]
+}

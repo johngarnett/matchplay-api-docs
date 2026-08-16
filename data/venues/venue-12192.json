@@ -1,0 +1,155 @@
+{
+  "locationId": "12192",
+  "name": "Black Water",
+  "address": "5115 NE Sandy Blvd, Portland, OR 97213, US",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 7,
+  "relatedVenues": [
+    {
+      "locationId": "7334",
+      "name": "Ground Kontrol Classic Arcade",
+      "address": "115 NW 5th Ave, Portland, OR 97209, US",
+      "count": 49
+    },
+    {
+      "locationId": "5246",
+      "name": "Next Level Pinball Museum",
+      "address": "1458 NE 25th Ave, Hillsboro, OR 97124, USA",
+      "count": 15
+    },
+    {
+      "locationId": "6346",
+      "name": "NWPAS",
+      "address": "",
+      "count": 6
+    },
+    {
+      "locationId": "8429",
+      "name": "Hungry Tiger",
+      "address": "213 Southeast 12th Avenue, Portland, OR 97214, US",
+      "count": 6
+    },
+    {
+      "locationId": "9840",
+      "name": "The ZED",
+      "address": "5716 SE 92nd Ave, Portland, OR 97266, US",
+      "count": 5
+    },
+    {
+      "locationId": "7559",
+      "name": "Slingshot Lounge",
+      "address": "5532 SE Center, Portland, OR 97206, US",
+      "count": 4
+    },
+    {
+      "locationId": "12907",
+      "name": "Gift",
+      "address": "1935 SE Hawthorne Blvd, Portland, OR 97214, US",
+      "count": 4
+    },
+    {
+      "locationId": "9540",
+      "name": "The Fixin' To",
+      "address": "8218 North Lombard Street, Portland, OR 97203, US",
+      "count": 3
+    },
+    {
+      "locationId": "11443",
+      "name": "C-Bar",
+      "address": "2880 SE Gladstone St, Portland, OR 97202, US",
+      "count": 3
+    },
+    {
+      "locationId": "7749",
+      "name": "Merry Time Restaurant & Lounge",
+      "address": "995 Marine Drive, Astoria, OR 97103, US",
+      "count": 2
+    }
+  ],
+  "players": [
+    {
+      "id": "m7530",
+      "name": "Mathew Peterson",
+      "rating": 1723.23,
+      "rd": 16.99,
+      "ratingClass": "Expert",
+      "homeLocation": "Next Level Pinball Museum",
+      "homeLocationId": "5246",
+      "percentile": 97.84785950528718,
+      "changeDisplay": "+11.4",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m6039",
+      "name": "Erik Graciosa",
+      "rating": 1689.83,
+      "rd": 26.26,
+      "ratingClass": "A",
+      "homeLocation": "Ground Kontrol Classic Arcade",
+      "homeLocationId": "7334",
+      "percentile": 95.91000139749383,
+      "changeDisplay": "-7.7",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m22566",
+      "name": "Kevin Howell OR",
+      "rating": 1626.9,
+      "rd": 24.35,
+      "ratingClass": "A",
+      "homeLocation": "Ground Kontrol Classic Arcade",
+      "homeLocationId": "7334",
+      "percentile": 87.95360320491918,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m35404",
+      "name": "Zach Marlowe",
+      "rating": 1552.89,
+      "rd": 24.25,
+      "ratingClass": "B",
+      "homeLocation": "Ground Kontrol Classic Arcade",
+      "homeLocationId": "7334",
+      "percentile": 67.8483253365631,
+      "changeDisplay": "+2.5",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m19391",
+      "name": "Aeden Mcrea",
+      "rating": 1543.33,
+      "rd": 26.4,
+      "ratingClass": "B",
+      "homeLocation": "Ground Kontrol Classic Arcade",
+      "homeLocationId": "7334",
+      "percentile": 64.34061582894675,
+      "changeDisplay": "-8.5",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m36016",
+      "name": "Rhienium",
+      "rating": 1474.43,
+      "rd": 25.27,
+      "ratingClass": "C",
+      "homeLocation": "Ground Kontrol Classic Arcade",
+      "homeLocationId": "7334",
+      "percentile": 36.67955466530023,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m46439",
+      "name": "Marea Lemas",
+      "rating": 1422.25,
+      "rd": 25.44,
+      "ratingClass": "C",
+      "homeLocation": "Next Level Pinball Museum",
+      "homeLocationId": "5246",
+      "percentile": 18.274560954022455,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

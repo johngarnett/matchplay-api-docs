@@ -1,0 +1,113 @@
+{
+  "locationId": "13395",
+  "name": "Retro Game Alpes",
+  "address": "Espace Claretière, 6 rue du Cornillon, 38120 Fontanil-Cornillon, France",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 6,
+  "relatedVenues": [
+    {
+      "locationId": "9974",
+      "name": "Musée Vivant du Flipper Asso Culture Flip",
+      "address": "37, place du Marché 13150 TARASCON",
+      "count": 10
+    },
+    {
+      "locationId": "9350",
+      "name": "Morlacchi Showroom",
+      "address": "viale Troya 20 , Milan , Italy",
+      "count": 4
+    },
+    {
+      "locationId": "10135",
+      "name": "Associació A.R.C.A.D.E",
+      "address": "Esmeragda 11, Esplugues de Llobregat 08950",
+      "count": 3
+    },
+    {
+      "locationId": "13291",
+      "name": "Salon de Pontacq",
+      "address": "Salle Pierre Lacaze 64530 Pontacq",
+      "count": 2
+    },
+    {
+      "locationId": "13319",
+      "name": "Salle Pierre Lacaze",
+      "address": "12 rue du stade 64530 Pontacq",
+      "count": 1
+    }
+  ],
+  "players": [
+    {
+      "id": "m31859",
+      "name": "Mathias Giust",
+      "rating": 1636.19,
+      "rd": 23.26,
+      "ratingClass": "A",
+      "homeLocation": "Musée Vivant du Flipper Asso Culture Flip",
+      "homeLocationId": "9974",
+      "percentile": 89.66320398751573,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m29153",
+      "name": "Marc Deleuil",
+      "rating": 1627.65,
+      "rd": 22.11,
+      "ratingClass": "A",
+      "homeLocation": "Musée Vivant du Flipper Asso Culture Flip",
+      "homeLocationId": "9974",
+      "percentile": 88.0840359621745,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m42178",
+      "name": "Patrick Sanchez Manjon",
+      "rating": 1618.04,
+      "rd": 21.8,
+      "ratingClass": "A",
+      "homeLocation": "Musée Vivant du Flipper Asso Culture Flip",
+      "homeLocationId": "9974",
+      "percentile": 86.21605254576792,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m57324",
+      "name": "Pierre Chabanis",
+      "rating": 1608.6,
+      "rd": 35.75,
+      "ratingClass": "A",
+      "homeLocation": "Retro Game Alpes",
+      "homeLocationId": "13395",
+      "percentile": 84.11515349140541,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i150008",
+      "name": "Sebastien Vermeulen",
+      "rating": 1545.67,
+      "rd": 39.67,
+      "ratingClass": "B",
+      "homeLocation": "Retro Game Alpes",
+      "homeLocationId": "13395",
+      "percentile": 65.18377043834724,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i150009",
+      "name": "Lara Vermeulen",
+      "rating": 1468.61,
+      "rd": 41.04,
+      "ratingClass": "C",
+      "homeLocation": "Retro Game Alpes",
+      "homeLocationId": "13395",
+      "percentile": 34.313131783667956,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

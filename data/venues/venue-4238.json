@@ -1,0 +1,323 @@
+{
+  "locationId": "4238",
+  "name": "Hastings",
+  "address": "",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 21,
+  "relatedVenues": [
+    {
+      "locationId": "6714",
+      "name": "Ye Olde Pinball Shoppe",
+      "address": "18A Bond Street, Wellington City, Wellington, 6011, NZ",
+      "count": 39
+    },
+    {
+      "locationId": "6344",
+      "name": "The Lanes Bar and Bowling",
+      "address": "238 Wakefield St, Wellington City, 6011, NZ",
+      "count": 31
+    },
+    {
+      "locationId": "7450",
+      "name": "The Clubhouse Moorooka",
+      "address": "76 Koala Road, Moorooka, QLD 4105, AU",
+      "count": 11
+    },
+    {
+      "locationId": "7180",
+      "name": "Netherworld",
+      "address": "186 Brunswick St, Fortitude Valley, QLD 4006, AU",
+      "count": 4
+    },
+    {
+      "locationId": "11430",
+      "name": "Brothers Beer & Juke Joint BBQ | Mount Eden",
+      "address": "5 Akiraho St, Auckland, Auckland 1024, NZ",
+      "count": 4
+    },
+    {
+      "locationId": "7899",
+      "name": "Super Secret Pinball Club",
+      "address": "",
+      "count": 1
+    },
+    {
+      "locationId": "8270",
+      "name": "Ye Olde Pinball Shoppe",
+      "address": "18A Bond Street, Wellington City, Wellington 6011, NZ",
+      "count": 1
+    },
+    {
+      "locationId": "8962",
+      "name": "Matt & Luke's",
+      "address": "mcdonalds brunswick vic",
+      "count": 1
+    },
+    {
+      "locationId": "10800",
+      "name": "Illawarra Pinball Clubhouse",
+      "address": "147 Kembla Street, Wollongong",
+      "count": 1
+    },
+    {
+      "locationId": "11119",
+      "name": "Bayside Anglican Church Hall",
+      "address": "Pitt-Owen Street, Arncliffe",
+      "count": 1
+    }
+  ],
+  "players": [
+    {
+      "id": "m15360",
+      "name": "Tyler Dipper",
+      "rating": 1739.26,
+      "rd": 22.38,
+      "ratingClass": "Expert",
+      "homeLocation": "Hastings",
+      "homeLocationId": "4238",
+      "percentile": 98.39754041086319,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m3613",
+      "name": "Simon Haxton",
+      "rating": 1706.02,
+      "rd": 22.06,
+      "ratingClass": "Expert",
+      "homeLocation": "Ye Olde Pinball Shoppe",
+      "homeLocationId": "6714",
+      "percentile": 96.93948851725905,
+      "changeDisplay": "+2.8",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m17386",
+      "name": "Aubrey Walker",
+      "rating": 1638.96,
+      "rd": 18.04,
+      "ratingClass": "A",
+      "homeLocation": "Hastings",
+      "homeLocationId": "4238",
+      "percentile": 90.16164345274142,
+      "changeDisplay": "+2.9",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m14023",
+      "name": "Markus Dipper",
+      "rating": 1620.43,
+      "rd": 29.56,
+      "ratingClass": "A",
+      "homeLocation": "Hastings",
+      "homeLocationId": "4238",
+      "percentile": 86.70517538547539,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m992",
+      "name": "Esther Ahronheim",
+      "rating": 1611.71,
+      "rd": 18.23,
+      "ratingClass": "A",
+      "homeLocation": "Ye Olde Pinball Shoppe",
+      "homeLocationId": "6714",
+      "percentile": 84.82787534355056,
+      "changeDisplay": "-5.0",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m15361",
+      "name": "Josh Dipper",
+      "rating": 1608.87,
+      "rd": 30.17,
+      "ratingClass": "A",
+      "homeLocation": "Hastings",
+      "homeLocationId": "4238",
+      "percentile": 84.1850281827922,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m22763",
+      "name": "John Scrivener",
+      "rating": 1592.39,
+      "rd": 22.91,
+      "ratingClass": "B",
+      "homeLocation": "The Lanes Bar and Bowling",
+      "homeLocationId": "6344",
+      "percentile": 80.0903712675269,
+      "changeDisplay": "+3.2",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m48908",
+      "name": "Lachlan Caudle",
+      "rating": 1568.03,
+      "rd": 24.47,
+      "ratingClass": "B",
+      "homeLocation": "The Lanes Bar and Bowling",
+      "homeLocationId": "6344",
+      "percentile": 72.869986490893,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m42729",
+      "name": "David Miles",
+      "rating": 1567.16,
+      "rd": 25.45,
+      "ratingClass": "B",
+      "homeLocation": "Ye Olde Pinball Shoppe",
+      "homeLocationId": "6714",
+      "percentile": 72.5718544743094,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m35833",
+      "name": "Charles Dolbel",
+      "rating": 1535.65,
+      "rd": 29.08,
+      "ratingClass": "B",
+      "homeLocation": "Hastings",
+      "homeLocationId": "4238",
+      "percentile": 61.266129407928446,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m8619",
+      "name": "Ken Thompson",
+      "rating": 1532.53,
+      "rd": 26.8,
+      "ratingClass": "B",
+      "homeLocation": "Hastings",
+      "homeLocationId": "4238",
+      "percentile": 60.09223459263055,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m13905",
+      "name": "Kylie Dipper",
+      "rating": 1527.64,
+      "rd": 31.46,
+      "ratingClass": "B",
+      "homeLocation": "Hastings",
+      "homeLocationId": "4238",
+      "percentile": 58.06586854241394,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i85892",
+      "name": "Savan Sharland",
+      "rating": 1483.43,
+      "rd": 44.68,
+      "ratingClass": "C",
+      "homeLocation": "Hastings",
+      "homeLocationId": "4238",
+      "percentile": 40.32701355569013,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m59787",
+      "name": "Danny Bultitude",
+      "rating": 1473.25,
+      "rd": 32.15,
+      "ratingClass": "C",
+      "homeLocation": "Ye Olde Pinball Shoppe",
+      "homeLocationId": "6714",
+      "percentile": 36.2230400149066,
+      "changeDisplay": "-10.1",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "i123528",
+      "name": "Aaron Krinkel",
+      "rating": 1455.68,
+      "rd": 48.64,
+      "ratingClass": "C",
+      "homeLocation": "Hastings",
+      "homeLocationId": "4238",
+      "percentile": 29.314762193133646,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m48886",
+      "name": "Patrick Caudle",
+      "rating": 1429.42,
+      "rd": 29.73,
+      "ratingClass": "C",
+      "homeLocation": "Ye Olde Pinball Shoppe",
+      "homeLocationId": "6714",
+      "percentile": 20.38943494666232,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m8230",
+      "name": "Jono Ward",
+      "rating": 1408.21,
+      "rd": 33.35,
+      "ratingClass": "C",
+      "homeLocation": "Hastings",
+      "homeLocationId": "4238",
+      "percentile": 14.594493874318722,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m35835",
+      "name": "Mumtaz Dolbel",
+      "rating": 1391.34,
+      "rd": 37.51,
+      "ratingClass": "D",
+      "homeLocation": "Hastings",
+      "homeLocationId": "4238",
+      "percentile": 10.560395024921974,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i123530",
+      "name": "Craig Foothead",
+      "rating": 1362.77,
+      "rd": 54.12,
+      "ratingClass": "D",
+      "homeLocation": "Hastings",
+      "homeLocationId": "4238",
+      "percentile": 5.743699631993292,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m48882",
+      "name": "Jo Caudle",
+      "rating": 1317.14,
+      "rd": 31.22,
+      "ratingClass": "D",
+      "homeLocation": "The Lanes Bar and Bowling",
+      "homeLocationId": "6344",
+      "percentile": 1.7282340336330182,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m24507",
+      "name": "Jeni McEwen",
+      "rating": 1309.89,
+      "rd": 39.88,
+      "ratingClass": "D",
+      "homeLocation": "Hastings",
+      "homeLocationId": "4238",
+      "percentile": 1.3788605766991195,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

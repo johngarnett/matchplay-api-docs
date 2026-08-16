@@ -1,0 +1,214 @@
+{
+  "tournamentId": 266464,
+  "name": "Monday Night Pinball at Kennebunk's 8/10",
+  "date": "2026-08-11",
+  "locationId": null,
+  "locationName": null,
+  "playerCount": 29,
+  "ratingsDate": "2026-08-11",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m8241",
+      "name": "Chad Patz",
+      "rating": 1676.67,
+      "dailyRatingChange": 6.1
+    },
+    {
+      "position": 2,
+      "playerId": "m22349",
+      "name": "Andrew Foard",
+      "rating": 1870.14,
+      "dailyRatingChange": -1.17
+    },
+    {
+      "position": 3,
+      "playerId": "m33888",
+      "name": "Austin Wayman",
+      "rating": 1615.36,
+      "dailyRatingChange": 2.67
+    },
+    {
+      "position": 4,
+      "playerId": "m9093",
+      "name": "Todd Reynolds",
+      "rating": 1664.16,
+      "dailyRatingChange": 1.17
+    },
+    {
+      "position": 5,
+      "playerId": "m42014",
+      "name": "Christopher Tirro",
+      "rating": 1676.71,
+      "dailyRatingChange": 5.3
+    },
+    {
+      "position": 6,
+      "playerId": "i102641",
+      "name": "Jay Korybski",
+      "rating": 1542.2,
+      "dailyRatingChange": 12.32
+    },
+    {
+      "position": 7,
+      "playerId": "m24022",
+      "name": "Tim Nelson",
+      "rating": 1669.16,
+      "dailyRatingChange": 1.12
+    },
+    {
+      "position": 8,
+      "playerId": "m50711",
+      "name": "Alex Gowan",
+      "rating": 1532.79,
+      "dailyRatingChange": 6.05
+    },
+    {
+      "position": 9,
+      "playerId": "i96703",
+      "name": "Jeff Latham",
+      "rating": 1630.57,
+      "dailyRatingChange": null
+    },
+    {
+      "position": 10,
+      "playerId": "m49922",
+      "name": "Max Woo",
+      "rating": 1617.54,
+      "dailyRatingChange": 3.1
+    },
+    {
+      "position": 11,
+      "playerId": "m4774",
+      "name": "Ken Grant",
+      "rating": 1705.63,
+      "dailyRatingChange": -3.94
+    },
+    {
+      "position": 12,
+      "playerId": "i149381",
+      "name": "Steve Redman",
+      "rating": 1497.14,
+      "dailyRatingChange": 16.03
+    },
+    {
+      "position": 13,
+      "playerId": "m17856",
+      "name": "Greg Latham",
+      "rating": 1590.1,
+      "dailyRatingChange": 1.61
+    },
+    {
+      "position": 14,
+      "playerId": "m26454",
+      "name": "larry phillips",
+      "rating": 1548.87,
+      "dailyRatingChange": 1.47
+    },
+    {
+      "position": 15,
+      "playerId": "m45143",
+      "name": "perry phillips",
+      "rating": 1484.86,
+      "dailyRatingChange": 1.93
+    },
+    {
+      "position": 16,
+      "playerId": "m52821",
+      "name": "Rebecca Drucker",
+      "rating": 1457.52,
+      "dailyRatingChange": 2.46
+    },
+    {
+      "position": 17,
+      "playerId": "i77402",
+      "name": "Riley Rogers",
+      "rating": 1453.36,
+      "dailyRatingChange": 9.91
+    },
+    {
+      "position": 18,
+      "playerId": "m34225",
+      "name": "Alan Bryson",
+      "rating": 1505.16,
+      "dailyRatingChange": 1.53
+    },
+    {
+      "position": 19,
+      "playerId": "m42013",
+      "name": "james flood",
+      "rating": 1534.96,
+      "dailyRatingChange": -5.48
+    },
+    {
+      "position": 20,
+      "playerId": "m49761",
+      "name": "Kira Bursky",
+      "rating": 1475.55,
+      "dailyRatingChange": -0.98
+    },
+    {
+      "position": 21,
+      "playerId": "m7748",
+      "name": "Krystal Grant",
+      "rating": 1549.26,
+      "dailyRatingChange": -5.72
+    },
+    {
+      "position": 22,
+      "playerId": "m23393",
+      "name": "Sari Kitch",
+      "rating": 1493.67,
+      "dailyRatingChange": -4.96
+    },
+    {
+      "position": 23,
+      "playerId": "m49346",
+      "name": "Robert Gowan",
+      "rating": 1564.72,
+      "dailyRatingChange": -7.94
+    },
+    {
+      "position": 24,
+      "playerId": "m52489",
+      "name": "Chris Dombrowski",
+      "rating": 1437.71,
+      "dailyRatingChange": -3.77
+    },
+    {
+      "position": 25,
+      "playerId": "i146027",
+      "name": "Shawn White",
+      "rating": 1457.27,
+      "dailyRatingChange": -23.22
+    },
+    {
+      "position": 26,
+      "playerId": "m56578",
+      "name": "Feilx Tower",
+      "rating": 1290.9,
+      "dailyRatingChange": -4.33
+    },
+    {
+      "position": 27,
+      "playerId": "m42807",
+      "name": "tina phillips",
+      "rating": 1445.05,
+      "dailyRatingChange": -6.24
+    },
+    {
+      "position": 28,
+      "playerId": "m53001",
+      "name": "Amanda Griffeth",
+      "rating": 1270.41,
+      "dailyRatingChange": -7.85
+    },
+    {
+      "position": 29,
+      "playerId": "i158170",
+      "name": "Emily Netecke",
+      "rating": 1255.58,
+      "dailyRatingChange": -11.77
+    }
+  ]
+}

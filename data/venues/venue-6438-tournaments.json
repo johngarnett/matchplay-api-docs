@@ -1,0 +1,151 @@
+{
+  "locationId": "6438",
+  "venueName": "Bartari",
+  "venueAddress": "101 Adams Ave, Scranton, PA 18503, USA",
+  "tournaments": [
+    {
+      "id": 266567,
+      "name": "Scranton Pinball League - Season 16 #6",
+      "date": "8/12/2026",
+      "playerCount": 36,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m5470",
+          "name": "Ryan Altemose",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 1,
+          "playerId": "m23157",
+          "name": "Daniel Brennan",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 1,
+          "playerId": "m46970",
+          "name": "Caleb Hartnett",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "i56589",
+          "name": "Colin Moorhead",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m37406",
+          "name": "Philip Orzechowski",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 265563,
+      "name": "Scranton Pinball League - Season 16 #5",
+      "date": "8/5/2026",
+      "playerCount": 39,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m33569",
+          "name": "Joe Newhart",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 1,
+          "playerId": "i56589",
+          "name": "Colin Moorhead",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 1,
+          "playerId": "m33573",
+          "name": "Brad Wells",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 1,
+          "playerId": "m39733",
+          "name": "Mike Melisky",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 264401,
+      "name": "Scranton Pinball League - Season 16 #4",
+      "date": "7/29/2026",
+      "playerCount": 42,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m27704",
+          "name": "James Zwitkowits",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m26957",
+          "name": "David Cutri",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m5470",
+          "name": "Ryan Altemose",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m50356",
+          "name": "Jonathan Burkhart",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 263182,
+      "name": "Scranton Pinball League - Season 16 #3",
+      "date": "7/22/2026",
+      "playerCount": 40,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "i95481",
+          "name": "Keegan Brady",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 1,
+          "playerId": "m29938",
+          "name": "Rick Hoggarth",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 1,
+          "playerId": "m50356",
+          "name": "Jonathan Burkhart",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m48224",
+          "name": "Justin Gensel",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m23157",
+          "name": "Daniel Brennan",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

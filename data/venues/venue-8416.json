@@ -1,0 +1,239 @@
+{
+  "locationId": "8416",
+  "name": "Flippers Arcade",
+  "address": "6615 Caratoke Highway, Grandy, NC 27939, US",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 14,
+  "relatedVenues": [
+    {
+      "locationId": "9741",
+      "name": "Recbar",
+      "address": "10301 Taylorsville Road, Louisville, KY 40299, US",
+      "count": 22
+    },
+    {
+      "locationId": "7439",
+      "name": "Arcade Legacy Sharonville",
+      "address": "2241 Crowne Point Dr, Cincinnati, OH 45241, US",
+      "count": 4
+    },
+    {
+      "locationId": "9897",
+      "name": "Urban House",
+      "address": "",
+      "count": 2
+    },
+    {
+      "locationId": "10395",
+      "name": "PIXELS - Pints & Bytes",
+      "address": "2117 Colonial Avenue, Norfolk, VA 23517, US",
+      "count": 2
+    },
+    {
+      "locationId": "11542",
+      "name": "Our Lady of Perpetual Hops",
+      "address": "300 Foundation Ct, New Albany, IN 47150, US",
+      "count": 2
+    },
+    {
+      "locationId": "13309",
+      "name": "Urban House",
+      "address": "York",
+      "count": 2
+    },
+    {
+      "locationId": "13318",
+      "name": "Fauth House",
+      "address": "Lancaster",
+      "count": 2
+    },
+    {
+      "locationId": "13397",
+      "name": "Romano House",
+      "address": "Harrisburg",
+      "count": 2
+    },
+    {
+      "locationId": "13499",
+      "name": "Dodds House",
+      "address": "Middletown",
+      "count": 2
+    },
+    {
+      "locationId": "5771",
+      "name": "The Pinvault",
+      "address": "1043 Virginia Ave, Indianapolis, IN 46203, USA",
+      "count": 1
+    }
+  ],
+  "players": [
+    {
+      "id": "m26085",
+      "name": "Christopher Dewitt Jr",
+      "rating": 1749.98,
+      "rd": 21.41,
+      "ratingClass": "Expert",
+      "homeLocation": "Recbar",
+      "homeLocationId": "9741",
+      "percentile": 98.74691386779708,
+      "changeDisplay": "+3.3",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m42893",
+      "name": "Jordan Creamer",
+      "rating": 1701.1,
+      "rd": 26.07,
+      "ratingClass": "Expert",
+      "homeLocation": "Flippers Arcade",
+      "homeLocationId": "8416",
+      "percentile": 96.67396468998929,
+      "changeDisplay": "-5.1",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m20992",
+      "name": "Chris Dewitt",
+      "rating": 1646.35,
+      "rd": 21.24,
+      "ratingClass": "A",
+      "homeLocation": "Recbar",
+      "homeLocationId": "9741",
+      "percentile": 91.25168863837519,
+      "changeDisplay": "-5.1",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m39447",
+      "name": "Chris Urban",
+      "rating": 1605.27,
+      "rd": 32.14,
+      "ratingClass": "A",
+      "homeLocation": "Flippers Arcade",
+      "homeLocationId": "8416",
+      "percentile": 83.21144081613639,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m749",
+      "name": "Chris Sterner",
+      "rating": 1575.19,
+      "rd": 28.04,
+      "ratingClass": "B",
+      "homeLocation": "Flippers Arcade",
+      "homeLocationId": "8416",
+      "percentile": 75.15721805562026,
+      "changeDisplay": "+1.8",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m33349",
+      "name": "Scott Sikora",
+      "rating": 1564.03,
+      "rd": 29.51,
+      "ratingClass": "B",
+      "homeLocation": "Flippers Arcade",
+      "homeLocationId": "8416",
+      "percentile": 71.64485023524479,
+      "changeDisplay": "-2.5",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "i14759",
+      "name": "David Paul",
+      "rating": 1552.07,
+      "rd": 43.22,
+      "ratingClass": "B",
+      "homeLocation": "Flippers Arcade",
+      "homeLocationId": "8416",
+      "percentile": 67.55485163273862,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i20780",
+      "name": "Ken Harris",
+      "rating": 1550.02,
+      "rd": 49.64,
+      "ratingClass": "B",
+      "homeLocation": "Flippers Arcade",
+      "homeLocationId": "8416",
+      "percentile": 66.70703871057903,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m30069",
+      "name": "Bobbi Urban",
+      "rating": 1540.7,
+      "rd": 27.25,
+      "ratingClass": "B",
+      "homeLocation": "Urban House",
+      "homeLocationId": "13309",
+      "percentile": 63.38566171332744,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i129745",
+      "name": "Sullivyn Dodd",
+      "rating": 1526.1,
+      "rd": 30.96,
+      "ratingClass": "B",
+      "homeLocation": "Flippers Arcade",
+      "homeLocationId": "8416",
+      "percentile": 57.46960450924675,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i103026",
+      "name": "David Monell",
+      "rating": 1496.84,
+      "rd": 31.85,
+      "ratingClass": "C",
+      "homeLocation": "Flippers Arcade",
+      "homeLocationId": "8416",
+      "percentile": 45.819164298691014,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i129860",
+      "name": "Mollie Little",
+      "rating": 1494.11,
+      "rd": 30.66,
+      "ratingClass": "C",
+      "homeLocation": "Flippers Arcade",
+      "homeLocationId": "8416",
+      "percentile": 44.78967717892579,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i24683",
+      "name": "Eddie Cox",
+      "rating": 1487.39,
+      "rd": 47.49,
+      "ratingClass": "C",
+      "homeLocation": "Flippers Arcade",
+      "homeLocationId": "8416",
+      "percentile": 41.92947314482694,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m33330",
+      "name": "Cynthia Sikora",
+      "rating": 1479.17,
+      "rd": 29.46,
+      "ratingClass": "C",
+      "homeLocation": "Flippers Arcade",
+      "homeLocationId": "8416",
+      "percentile": 38.6220710858527,
+      "changeDisplay": "-3.4",
+      "changeClass": "change-negative"
+    }
+  ]
+}

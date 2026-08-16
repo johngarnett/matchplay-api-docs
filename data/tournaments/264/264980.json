@@ -1,0 +1,67 @@
+{
+  "tournamentId": 264980,
+  "name": "Finals for hierundjetzt High Stakes Tournament (clone)",
+  "date": "2026-08-01",
+  "locationId": "5577",
+  "locationName": "hierundjetzt",
+  "playerCount": 8,
+  "ratingsDate": "2026-08-01",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m46124",
+      "name": "Hans-Joachim Meyer",
+      "rating": 1633.86,
+      "dailyRatingChange": 11.64
+    },
+    {
+      "position": 2,
+      "playerId": "m4146",
+      "name": "Eberhard Hattemer",
+      "rating": 1689.38,
+      "dailyRatingChange": 7.25
+    },
+    {
+      "position": 3,
+      "playerId": "m619",
+      "name": "Albert Medaillon",
+      "rating": 1641.94,
+      "dailyRatingChange": 1.9
+    },
+    {
+      "position": 4,
+      "playerId": "m579",
+      "name": "Bernd Perscheid",
+      "rating": 1621.88,
+      "dailyRatingChange": 11.28
+    },
+    {
+      "position": 5,
+      "playerId": "m16085",
+      "name": "David Medaillon",
+      "rating": 1574.05,
+      "dailyRatingChange": 22.35
+    },
+    {
+      "position": 6,
+      "playerId": "m53490",
+      "name": "Eike Rothauge",
+      "rating": 1582.06,
+      "dailyRatingChange": -1.32
+    },
+    {
+      "position": 7,
+      "playerId": "m27442",
+      "name": "Bettina Kykebusch",
+      "rating": 1521.91,
+      "dailyRatingChange": 2.64
+    },
+    {
+      "position": 8,
+      "playerId": "m14634",
+      "name": "Guido Christiansen",
+      "rating": 1622.4,
+      "dailyRatingChange": -5.39
+    }
+  ]
+}

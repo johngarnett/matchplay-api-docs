@@ -1,0 +1,256 @@
+{
+  "tournamentId": 265305,
+  "name": "Gem City Pinball League Season 18 Week 2",
+  "date": "2026-08-11",
+  "locationId": "5479",
+  "locationName": "Canal Street Arcade and Deli",
+  "playerCount": 35,
+  "ratingsDate": "2026-08-11",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m38141",
+      "name": "Steve Mills",
+      "rating": 1596.06,
+      "dailyRatingChange": 3.98
+    },
+    {
+      "position": 1,
+      "playerId": "m19563",
+      "name": "Chad Marsh",
+      "rating": 1648.55,
+      "dailyRatingChange": 7.93
+    },
+    {
+      "position": 3,
+      "playerId": "i73109",
+      "name": "Casey Barber",
+      "rating": 1510.73,
+      "dailyRatingChange": 20.6
+    },
+    {
+      "position": 4,
+      "playerId": "m40173",
+      "name": "Matt Juhascik",
+      "rating": 1539.82,
+      "dailyRatingChange": 6.4
+    },
+    {
+      "position": 5,
+      "playerId": "m7284",
+      "name": "Dave Jones",
+      "rating": 1576.73,
+      "dailyRatingChange": 2.98
+    },
+    {
+      "position": 6,
+      "playerId": "i113715",
+      "name": "Luke Guthrie",
+      "rating": 1525.88,
+      "dailyRatingChange": 3.42
+    },
+    {
+      "position": 6,
+      "playerId": "i122266",
+      "name": "Tony Maniscalli",
+      "rating": 1602.45,
+      "dailyRatingChange": 2.17
+    },
+    {
+      "position": 8,
+      "playerId": "m48987",
+      "name": "Bec Roderer",
+      "rating": 1444.97,
+      "dailyRatingChange": 4.66
+    },
+    {
+      "position": 8,
+      "playerId": "m43246",
+      "name": "Shannon Frye",
+      "rating": 1461.98,
+      "dailyRatingChange": 8.03
+    },
+    {
+      "position": 8,
+      "playerId": "m18687",
+      "name": "Nancy Marsh",
+      "rating": 1525.82,
+      "dailyRatingChange": -0.64
+    },
+    {
+      "position": 8,
+      "playerId": "m29294",
+      "name": "Chris Lowe",
+      "rating": 1538.54,
+      "dailyRatingChange": 3.15
+    },
+    {
+      "position": 12,
+      "playerId": "m31149",
+      "name": "Whitney Tobias",
+      "rating": 1504.4,
+      "dailyRatingChange": -1.05
+    },
+    {
+      "position": 12,
+      "playerId": "m18285",
+      "name": "Jon Vollmer",
+      "rating": 1597.19,
+      "dailyRatingChange": -0.82
+    },
+    {
+      "position": 12,
+      "playerId": "i94922",
+      "name": "Josh Koenig",
+      "rating": 1497.8,
+      "dailyRatingChange": 5.66
+    },
+    {
+      "position": 12,
+      "playerId": "m487584",
+      "name": "Eric Beason",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 16,
+      "playerId": "m10423",
+      "name": "Robert Strong",
+      "rating": 1465.31,
+      "dailyRatingChange": 0.44
+    },
+    {
+      "position": 16,
+      "playerId": "m487585",
+      "name": "Emily Wilck",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 16,
+      "playerId": "m26174",
+      "name": "Derek Helton",
+      "rating": 1625.57,
+      "dailyRatingChange": -11.54
+    },
+    {
+      "position": 16,
+      "playerId": "i4863",
+      "name": "Teresa Roth",
+      "rating": 1438.66,
+      "dailyRatingChange": 3.78
+    },
+    {
+      "position": 16,
+      "playerId": "m38662",
+      "name": "Peter Veley",
+      "rating": 1485.95,
+      "dailyRatingChange": 1.83
+    },
+    {
+      "position": 21,
+      "playerId": "m36480",
+      "name": "Zach Hiler",
+      "rating": 1596.24,
+      "dailyRatingChange": -11.93
+    },
+    {
+      "position": 21,
+      "playerId": "i97360",
+      "name": "Jenny Barnes",
+      "rating": 1380.22,
+      "dailyRatingChange": 6.37
+    },
+    {
+      "position": 21,
+      "playerId": "m17940",
+      "name": "Dalva Ireland",
+      "rating": 1497.81,
+      "dailyRatingChange": 2.74
+    },
+    {
+      "position": 24,
+      "playerId": "m27207",
+      "name": "Jason Johnson",
+      "rating": 1528.44,
+      "dailyRatingChange": -8.4
+    },
+    {
+      "position": 24,
+      "playerId": "m46911",
+      "name": "Todd White",
+      "rating": 1418.17,
+      "dailyRatingChange": -0.57
+    },
+    {
+      "position": 26,
+      "playerId": "i3159",
+      "name": "Mitch Roth",
+      "rating": 1484.76,
+      "dailyRatingChange": -6.54
+    },
+    {
+      "position": 26,
+      "playerId": "m29285",
+      "name": "Shannon Faile",
+      "rating": 1363.52,
+      "dailyRatingChange": 1
+    },
+    {
+      "position": 26,
+      "playerId": "m13082",
+      "name": "Jay Brenner",
+      "rating": 1464.55,
+      "dailyRatingChange": -6.2
+    },
+    {
+      "position": 29,
+      "playerId": "i133685",
+      "name": "Robert Young OH",
+      "rating": 1428.44,
+      "dailyRatingChange": -9.15
+    },
+    {
+      "position": 29,
+      "playerId": "m51599",
+      "name": "Brad Henderer",
+      "rating": 1457.42,
+      "dailyRatingChange": -10.64
+    },
+    {
+      "position": 29,
+      "playerId": "m43442",
+      "name": "Elizabeth Cooper",
+      "rating": 1350.46,
+      "dailyRatingChange": -0.56
+    },
+    {
+      "position": 29,
+      "playerId": "i75413",
+      "name": "Dave Kane OH",
+      "rating": 1356.2,
+      "dailyRatingChange": -4.5
+    },
+    {
+      "position": 33,
+      "playerId": "m43244",
+      "name": "Tom Lute",
+      "rating": 1446.45,
+      "dailyRatingChange": -13.75
+    },
+    {
+      "position": 33,
+      "playerId": "i110954",
+      "name": "Shane Ware",
+      "rating": 1394.8,
+      "dailyRatingChange": -11.37
+    },
+    {
+      "position": 35,
+      "playerId": "m50550",
+      "name": "Sarah Gann",
+      "rating": 1301.51,
+      "dailyRatingChange": -7.4
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "tournamentId": 266332,
+  "name": "Finals for HOT DAWGS AND HIGH SCORES",
+  "date": "2026-08-09",
+  "locationId": null,
+  "locationName": null,
+  "playerCount": 12,
+  "ratingsDate": "2026-08-09",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m47003",
+      "name": "Kaitlin Gammack",
+      "rating": 1482.51,
+      "dailyRatingChange": 12.96
+    },
+    {
+      "position": 2,
+      "playerId": "m26756",
+      "name": "Erica Stewart",
+      "rating": 1549.15,
+      "dailyRatingChange": 8.13
+    },
+    {
+      "position": 3,
+      "playerId": "m8546",
+      "name": "Andy Pickens",
+      "rating": 1729.18,
+      "dailyRatingChange": -3.09
+    },
+    {
+      "position": 4,
+      "playerId": "m44423",
+      "name": "Brian Pickens",
+      "rating": 1479.93,
+      "dailyRatingChange": 5.14
+    },
+    {
+      "position": 5,
+      "playerId": "m449924",
+      "name": "Dale Singhass",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 5,
+      "playerId": "m48586",
+      "name": "Justin Kifer",
+      "rating": 1478.15,
+      "dailyRatingChange": 4.46
+    },
+    {
+      "position": 7,
+      "playerId": "m10532",
+      "name": "Sal Sulick",
+      "rating": 1452.16,
+      "dailyRatingChange": -5.66
+    },
+    {
+      "position": 7,
+      "playerId": "m49763",
+      "name": "Klint Wingertsahn",
+      "rating": 1707.81,
+      "dailyRatingChange": -14.96
+    },
+    {
+      "position": 9,
+      "playerId": "m37240",
+      "name": "Grace Fletcher",
+      "rating": 1500.22,
+      "dailyRatingChange": -2.8
+    },
+    {
+      "position": 9,
+      "playerId": "m449925",
+      "name": "Calvin Singhass",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 11,
+      "playerId": "m26062",
+      "name": "Beth Howell",
+      "rating": 1555.87,
+      "dailyRatingChange": -6.71
+    },
+    {
+      "position": 11,
+      "playerId": "m49496",
+      "name": "Brittany Singhass",
+      "rating": 1400.36,
+      "dailyRatingChange": -5.29
+    }
+  ]
+}

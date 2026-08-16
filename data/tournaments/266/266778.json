@@ -1,0 +1,67 @@
+{
+  "tournamentId": 266778,
+  "name": "Finals for Dipsy Doodle Wednesday Night Matchplay 12 augustus 2026",
+  "date": "2026-08-12",
+  "locationId": "12119",
+  "locationName": "Dipsy Doodle Pinball Club Oisterwijk",
+  "playerCount": 8,
+  "ratingsDate": "2026-08-12",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m21119",
+      "name": "Patrick van Hout",
+      "rating": 1678.16,
+      "dailyRatingChange": 5.91
+    },
+    {
+      "position": 2,
+      "playerId": "m43284",
+      "name": "Rico van Dooren",
+      "rating": 1547.77,
+      "dailyRatingChange": 11.36
+    },
+    {
+      "position": 3,
+      "playerId": "m33773",
+      "name": "Floor Keukens",
+      "rating": 1544.9,
+      "dailyRatingChange": 4.63
+    },
+    {
+      "position": 4,
+      "playerId": "m14121",
+      "name": "Ivan Geentjens",
+      "rating": 1614.63,
+      "dailyRatingChange": -1.15
+    },
+    {
+      "position": 5,
+      "playerId": "m37682",
+      "name": "John Stals",
+      "rating": 1527.88,
+      "dailyRatingChange": 3.42
+    },
+    {
+      "position": 5,
+      "playerId": "m31987",
+      "name": "William Heinen",
+      "rating": 1522.03,
+      "dailyRatingChange": 11.82
+    },
+    {
+      "position": 5,
+      "playerId": "m24175",
+      "name": "Henk koster",
+      "rating": 1622.81,
+      "dailyRatingChange": 0.28
+    },
+    {
+      "position": 8,
+      "playerId": "m33719",
+      "name": "Manolo Wooning",
+      "rating": 1515.25,
+      "dailyRatingChange": 18.31
+    }
+  ]
+}

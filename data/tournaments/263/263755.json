@@ -1,0 +1,116 @@
+{
+  "tournamentId": 263755,
+  "name": "Madmike's BDay Tourny",
+  "date": "2026-07-30",
+  "locationId": "4194",
+  "locationName": "Maltese Brewing",
+  "playerCount": 15,
+  "ratingsDate": "2026-07-30",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m29752",
+      "name": "Neil Jablonski",
+      "rating": 1540.38,
+      "dailyRatingChange": 9.21
+    },
+    {
+      "position": 2,
+      "playerId": "m380",
+      "name": "Dale Geiger",
+      "rating": 1704.11,
+      "dailyRatingChange": -0.27
+    },
+    {
+      "position": 3,
+      "playerId": "m18776",
+      "name": "Matt Larsen",
+      "rating": 1674.4,
+      "dailyRatingChange": -0.46
+    },
+    {
+      "position": 4,
+      "playerId": "i90935",
+      "name": "Liz jones",
+      "rating": 1339.42,
+      "dailyRatingChange": 10.47
+    },
+    {
+      "position": 5,
+      "playerId": "m17104",
+      "name": "Francis Cooke",
+      "rating": 1605.69,
+      "dailyRatingChange": -0.66
+    },
+    {
+      "position": 5,
+      "playerId": "m41965",
+      "name": "James Matarrese",
+      "rating": 1632.48,
+      "dailyRatingChange": -1.22
+    },
+    {
+      "position": 7,
+      "playerId": "m25222",
+      "name": "Angie Cooke",
+      "rating": 1393.4,
+      "dailyRatingChange": 0.7
+    },
+    {
+      "position": 7,
+      "playerId": "m582848",
+      "name": "Tyler Oldenick",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 7,
+      "playerId": "m578710",
+      "name": "Eli Richmond",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 10,
+      "playerId": "m11058",
+      "name": "Paula Bailey",
+      "rating": 1383.31,
+      "dailyRatingChange": 0.61
+    },
+    {
+      "position": 10,
+      "playerId": "m33285",
+      "name": "Lauren Cooley",
+      "rating": 1649.61,
+      "dailyRatingChange": -2.55
+    },
+    {
+      "position": 12,
+      "playerId": "m12962",
+      "name": "Phil Irey",
+      "rating": 1536.78,
+      "dailyRatingChange": -2.62
+    },
+    {
+      "position": 12,
+      "playerId": "m582830",
+      "name": "Mackenzie Swain",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 14,
+      "playerId": "m576883",
+      "name": "Nick Jones",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 14,
+      "playerId": "m576884",
+      "name": "James Williams VA",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

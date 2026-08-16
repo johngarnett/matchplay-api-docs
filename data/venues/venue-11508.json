@@ -1,0 +1,431 @@
+{
+  "locationId": "11508",
+  "name": "Golden Cactus Brewing",
+  "address": "214 5th St SW, Roanoke, VA 24016, US",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 30,
+  "relatedVenues": [
+    {
+      "locationId": "11650",
+      "name": "Roanoke Pinball Museum",
+      "address": "1 Market Square Southeast, Roanoke, VA 24011, US",
+      "count": 140
+    },
+    {
+      "locationId": "7109",
+      "name": "Spinners Pinball Arcade",
+      "address": "1301 W Patrick St, Frederick, MD 21701",
+      "count": 9
+    },
+    {
+      "locationId": "12292",
+      "name": "The Maroon Door",
+      "address": "418 N. Main St, Blacksburg, VA 24060",
+      "count": 7
+    },
+    {
+      "locationId": "12771",
+      "name": "Galactic Arcade",
+      "address": "4802 Valley View Blvd NW, Roanoke, VA 24012, US",
+      "count": 7
+    },
+    {
+      "locationId": "13106",
+      "name": "Pro Re Nata Brewpub & Music Hall",
+      "address": "6135 Rockfish Gap Turnpike, Crozet, VA 22932, US",
+      "count": 5
+    },
+    {
+      "locationId": "11175",
+      "name": "Decades Arcade",
+      "address": "418 E Main St, Charlottesville, VA, 22902, US",
+      "count": 3
+    },
+    {
+      "locationId": "13467",
+      "name": "Jeff's House",
+      "address": "813 hidden vale ct madison va",
+      "count": 3
+    },
+    {
+      "locationId": "2573",
+      "name": "Crabtowne",
+      "address": "1500 Crain Hwy S, Glen Burnie, MD 21061, USA",
+      "count": 1
+    },
+    {
+      "locationId": "7528",
+      "name": "Bang Back Pinball Lounge",
+      "address": "741 Saluda Ave, Columbia, SC, 29205, US",
+      "count": 1
+    },
+    {
+      "locationId": "9505",
+      "name": "Jackpot Pinball Arcade",
+      "address": "144 N. 21st st. Purcellville VA 20132",
+      "count": 1
+    }
+  ],
+  "players": [
+    {
+      "id": "m32222",
+      "name": "Evan Graham",
+      "rating": 1764.52,
+      "rd": 31.34,
+      "ratingClass": "Expert",
+      "homeLocation": "Roanoke Pinball Museum",
+      "homeLocationId": "11650",
+      "percentile": 99.1009456374901,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m51243",
+      "name": "Rob Vaughan",
+      "rating": 1699.17,
+      "rd": 34.21,
+      "ratingClass": "A",
+      "homeLocation": "Roanoke Pinball Museum",
+      "homeLocationId": "11650",
+      "percentile": 96.55284855825221,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m51245",
+      "name": "Dusty Fisher",
+      "rating": 1562.15,
+      "rd": 35.3,
+      "ratingClass": "B",
+      "homeLocation": "Roanoke Pinball Museum",
+      "homeLocationId": "11650",
+      "percentile": 71.0439278893185,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m42649",
+      "name": "Cynthia Slattery",
+      "rating": 1558.57,
+      "rd": 25.56,
+      "ratingClass": "B",
+      "homeLocation": "Roanoke Pinball Museum",
+      "homeLocationId": "11650",
+      "percentile": 69.8746913867797,
+      "changeDisplay": "-3.0",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m50388",
+      "name": "Lex True",
+      "rating": 1556.23,
+      "rd": 36.83,
+      "ratingClass": "B",
+      "homeLocation": "Golden Cactus Brewing",
+      "homeLocationId": "11508",
+      "percentile": 69.0967531560069,
+      "changeDisplay": "+20.2",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m18681",
+      "name": "Carlton Mabe",
+      "rating": 1555.42,
+      "rd": 27.79,
+      "ratingClass": "B",
+      "homeLocation": "Roanoke Pinball Museum",
+      "homeLocationId": "11650",
+      "percentile": 68.7986211394233,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m51610",
+      "name": "Frankie Gilliam",
+      "rating": 1550.82,
+      "rd": 34.04,
+      "ratingClass": "B",
+      "homeLocation": "Roanoke Pinball Museum",
+      "homeLocationId": "11650",
+      "percentile": 67.01448735268086,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m5984",
+      "name": "Nick Morgan",
+      "rating": 1550.27,
+      "rd": 23.73,
+      "ratingClass": "B",
+      "homeLocation": "Spinners Pinball Arcade",
+      "homeLocationId": "7109",
+      "percentile": 66.79554665300228,
+      "changeDisplay": "-4.4",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m42058",
+      "name": "Chris Edmonds",
+      "rating": 1540.63,
+      "rd": 32.99,
+      "ratingClass": "B",
+      "homeLocation": "Roanoke Pinball Museum",
+      "homeLocationId": "11650",
+      "percentile": 63.36702846229095,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m45961",
+      "name": "Sarah Kuetemeier",
+      "rating": 1539.7,
+      "rd": 27.84,
+      "ratingClass": "B",
+      "homeLocation": "Roanoke Pinball Museum",
+      "homeLocationId": "11650",
+      "percentile": 63.03628825639353,
+      "changeDisplay": "-7.1",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m48524",
+      "name": "Kathryn Willis",
+      "rating": 1539.34,
+      "rd": 30.1,
+      "ratingClass": "B",
+      "homeLocation": "Roanoke Pinball Museum",
+      "homeLocationId": "11650",
+      "percentile": 62.887222248101736,
+      "changeDisplay": "-8.9",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m55700",
+      "name": "Geo McCutcheon",
+      "rating": 1530.48,
+      "rd": 31,
+      "ratingClass": "B",
+      "homeLocation": "Roanoke Pinball Museum",
+      "homeLocationId": "11650",
+      "percentile": 59.23510504495272,
+      "changeDisplay": "+11.5",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m50913",
+      "name": "Michael Ammer",
+      "rating": 1527.94,
+      "rd": 27.9,
+      "ratingClass": "B",
+      "homeLocation": "Roanoke Pinball Museum",
+      "homeLocationId": "11650",
+      "percentile": 58.214934550705735,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m45960",
+      "name": "Chris Dudden",
+      "rating": 1524.93,
+      "rd": 30.68,
+      "ratingClass": "B",
+      "homeLocation": "Roanoke Pinball Museum",
+      "homeLocationId": "11650",
+      "percentile": 57.05501467368519,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m50401",
+      "name": "Patrick Gaskins",
+      "rating": 1514.63,
+      "rd": 34.23,
+      "ratingClass": "B",
+      "homeLocation": "Roanoke Pinball Museum",
+      "homeLocationId": "11650",
+      "percentile": 53.03954907532492,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i89373",
+      "name": "James Ingrassia",
+      "rating": 1511.23,
+      "rd": 60.13,
+      "ratingClass": "B",
+      "homeLocation": "Golden Cactus Brewing",
+      "homeLocationId": "11508",
+      "percentile": 51.75851306656729,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m12162",
+      "name": "Ben Dudden",
+      "rating": 1508.43,
+      "rd": 32.64,
+      "ratingClass": "B",
+      "homeLocation": "Roanoke Pinball Museum",
+      "homeLocationId": "11650",
+      "percentile": 50.63120137886058,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m62213",
+      "name": "Billy Ray David",
+      "rating": 1495.51,
+      "rd": 61.45,
+      "ratingClass": "C",
+      "homeLocation": "Golden Cactus Brewing",
+      "homeLocationId": "11508",
+      "percentile": 45.30674989518796,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m42059",
+      "name": "Jeannie Boatwright",
+      "rating": 1461.22,
+      "rd": 30.8,
+      "ratingClass": "C",
+      "homeLocation": "Pro Re Nata Brewpub & Music Hall",
+      "homeLocationId": "13106",
+      "percentile": 31.420319560255276,
+      "changeDisplay": "-0.0",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m49915",
+      "name": "Kaegen Smith",
+      "rating": 1460.16,
+      "rd": 29.31,
+      "ratingClass": "C",
+      "homeLocation": "Roanoke Pinball Museum",
+      "homeLocationId": "11650",
+      "percentile": 31.084921041598733,
+      "changeDisplay": "+2.4",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m49497",
+      "name": "Judy Harveycutter",
+      "rating": 1457.71,
+      "rd": 26.64,
+      "ratingClass": "C",
+      "homeLocation": "Roanoke Pinball Museum",
+      "homeLocationId": "11650",
+      "percentile": 30.032142358037916,
+      "changeDisplay": "+8.7",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m54948",
+      "name": "Elizabeth Hatcher",
+      "rating": 1448.5,
+      "rd": 44.31,
+      "ratingClass": "C",
+      "homeLocation": "Golden Cactus Brewing",
+      "homeLocationId": "11508",
+      "percentile": 26.566357665253644,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m60849",
+      "name": "Greg King",
+      "rating": 1427.62,
+      "rd": 37.82,
+      "ratingClass": "C",
+      "homeLocation": "Golden Cactus Brewing",
+      "homeLocationId": "11508",
+      "percentile": 19.886337168677503,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m50287",
+      "name": "Kathy Nesson",
+      "rating": 1425.68,
+      "rd": 29.29,
+      "ratingClass": "C",
+      "homeLocation": "Roanoke Pinball Museum",
+      "homeLocationId": "11650",
+      "percentile": 19.336656263101503,
+      "changeDisplay": "-0.6",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "i138819",
+      "name": "Nora Lopez",
+      "rating": 1419.43,
+      "rd": 30.29,
+      "ratingClass": "C",
+      "homeLocation": "Pro Re Nata Brewpub & Music Hall",
+      "homeLocationId": "13106",
+      "percentile": 17.468672846694925,
+      "changeDisplay": "+11.7",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m50912",
+      "name": "Stephanie DeHart",
+      "rating": 1419.12,
+      "rd": 33.77,
+      "ratingClass": "C",
+      "homeLocation": "Roanoke Pinball Museum",
+      "homeLocationId": "11650",
+      "percentile": 17.356873340476078,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i143030",
+      "name": "Jody Curry",
+      "rating": 1306.59,
+      "rd": 43.04,
+      "ratingClass": "D",
+      "homeLocation": "Golden Cactus Brewing",
+      "homeLocationId": "11508",
+      "percentile": 1.2624027577211534,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m59570",
+      "name": "Melissa Henninger",
+      "rating": null,
+      "rd": null,
+      "ratingClass": "N/A",
+      "homeLocation": "Roanoke Pinball Museum",
+      "homeLocationId": "11650",
+      "percentile": null,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i89369",
+      "name": "Greg King",
+      "rating": null,
+      "rd": null,
+      "ratingClass": "N/A",
+      "homeLocation": "Golden Cactus Brewing",
+      "homeLocationId": "11508",
+      "percentile": null,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i153087",
+      "name": "Geo Schmidt",
+      "rating": null,
+      "rd": null,
+      "ratingClass": "N/A",
+      "homeLocation": "Golden Cactus Brewing",
+      "homeLocationId": "11508",
+      "percentile": null,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

@@ -1,0 +1,207 @@
+{
+  "tournamentId": 257085,
+  "name": "Dipsy Doodle Wednesday Night Matchplay 29th of July 2026.",
+  "date": "2026-07-29",
+  "locationId": "12119",
+  "locationName": "Dipsy Doodle Pinball Club Oisterwijk",
+  "playerCount": 28,
+  "ratingsDate": "2026-07-29",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m14121",
+      "name": "Ivan Geentjens",
+      "rating": 1608.52,
+      "dailyRatingChange": 3.69
+    },
+    {
+      "position": 2,
+      "playerId": "m21119",
+      "name": "Patrick van Hout",
+      "rating": 1672.25,
+      "dailyRatingChange": -7.39
+    },
+    {
+      "position": 3,
+      "playerId": "m4665",
+      "name": "Marcelo Campos Hazan",
+      "rating": 1672.73,
+      "dailyRatingChange": 5.99
+    },
+    {
+      "position": 4,
+      "playerId": "m58072",
+      "name": "Benno Berends",
+      "rating": 1509.03,
+      "dailyRatingChange": 8.3
+    },
+    {
+      "position": 5,
+      "playerId": "m51588",
+      "name": "Louis Wouters",
+      "rating": 1554.65,
+      "dailyRatingChange": -0.41
+    },
+    {
+      "position": 6,
+      "playerId": "m25016",
+      "name": "Tony Jansen",
+      "rating": 1465.93,
+      "dailyRatingChange": 11.27
+    },
+    {
+      "position": 7,
+      "playerId": "m12416",
+      "name": "Serf Schellen",
+      "rating": 1597.37,
+      "dailyRatingChange": 5.35
+    },
+    {
+      "position": 8,
+      "playerId": "m22813",
+      "name": "Wilbert Der Kinderen",
+      "rating": 1586.5,
+      "dailyRatingChange": 0.3
+    },
+    {
+      "position": 9,
+      "playerId": "m52993",
+      "name": "Max Birk",
+      "rating": 1572.22,
+      "dailyRatingChange": 0.36
+    },
+    {
+      "position": 10,
+      "playerId": "m42955",
+      "name": "Aart Volbeda",
+      "rating": 1522.03,
+      "dailyRatingChange": 2.08
+    },
+    {
+      "position": 11,
+      "playerId": "m54628",
+      "name": "Rens Massuger",
+      "rating": 1545.74,
+      "dailyRatingChange": 9.04
+    },
+    {
+      "position": 12,
+      "playerId": "m35017",
+      "name": "Joost Stekelenburg",
+      "rating": 1519.45,
+      "dailyRatingChange": 4.49
+    },
+    {
+      "position": 13,
+      "playerId": "m32337",
+      "name": "Nance Seijkens",
+      "rating": 1471.99,
+      "dailyRatingChange": 4.33
+    },
+    {
+      "position": 14,
+      "playerId": "m34797",
+      "name": "Jef Berben",
+      "rating": 1534.55,
+      "dailyRatingChange": 2.71
+    },
+    {
+      "position": 14,
+      "playerId": "m582772",
+      "name": "Jan van Pelt",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 16,
+      "playerId": "m43284",
+      "name": "Rico van Dooren",
+      "rating": 1517.73,
+      "dailyRatingChange": 2.41
+    },
+    {
+      "position": 17,
+      "playerId": "m32396",
+      "name": "Albert van Steensel",
+      "rating": 1470.04,
+      "dailyRatingChange": 1.45
+    },
+    {
+      "position": 18,
+      "playerId": "m25416",
+      "name": "Michel van den Elzen",
+      "rating": 1620.53,
+      "dailyRatingChange": -9.08
+    },
+    {
+      "position": 19,
+      "playerId": "m33754",
+      "name": "Marco van Gimst",
+      "rating": 1513.52,
+      "dailyRatingChange": -0.54
+    },
+    {
+      "position": 20,
+      "playerId": "m582782",
+      "name": "El. Natty",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 21,
+      "playerId": "m43017",
+      "name": "Roy van Soest",
+      "rating": 1401.06,
+      "dailyRatingChange": 17.98
+    },
+    {
+      "position": 22,
+      "playerId": "m61576",
+      "name": "Jack Verburg",
+      "rating": 1451.52,
+      "dailyRatingChange": -4.99
+    },
+    {
+      "position": 23,
+      "playerId": "m61662",
+      "name": "Tijn van Gimst",
+      "rating": 1417.67,
+      "dailyRatingChange": -0.6
+    },
+    {
+      "position": 24,
+      "playerId": "m31990",
+      "name": "William der Kinderen",
+      "rating": 1383.19,
+      "dailyRatingChange": -14.33
+    },
+    {
+      "position": 25,
+      "playerId": "m580687",
+      "name": "Bas van Iersel",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 26,
+      "playerId": "i157345",
+      "name": "Maik van Soest",
+      "rating": 1401.39,
+      "dailyRatingChange": null
+    },
+    {
+      "position": 27,
+      "playerId": "m582779",
+      "name": "Josje Natty",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 28,
+      "playerId": "i161889",
+      "name": "Christi Verburg",
+      "rating": 1356.26,
+      "dailyRatingChange": -49.47
+    }
+  ]
+}

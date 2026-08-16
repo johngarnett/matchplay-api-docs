@@ -1,0 +1,145 @@
+{
+  "locationId": "11003",
+  "venueName": "Abari Game Bar",
+  "venueAddress": "1721 N Davidson St, Charlotte, NC 28206, US",
+  "tournaments": [
+    {
+      "id": 256190,
+      "name": "Belles & Chimes CLT Summer League 2026 - Week 6",
+      "date": "8/12/2026",
+      "playerCount": 10,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m12315",
+          "name": "Amanda Lax",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m27925",
+          "name": "Sarah Buchanan",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "i135535",
+          "name": "Parker",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m11021",
+          "name": "Aimee Carlton",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "i141963",
+          "name": "Courtney Schultz",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 256189,
+      "name": "Belles & Chimes CLT Summer League 2026 - Week 5",
+      "date": "8/5/2026",
+      "playerCount": 15,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "i139597",
+          "name": "Luno Blanco",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m39144",
+          "name": "Kristen Weirich",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m12315",
+          "name": "Amanda Lax",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m58834",
+          "name": "noa coben",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 256188,
+      "name": "Belles & Chimes CLT Summer League 2026 - Week 4",
+      "date": "7/29/2026",
+      "playerCount": 15,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m12315",
+          "name": "Amanda Lax",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m39144",
+          "name": "Kristen Weirich",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m7443",
+          "name": "Becky Flores",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m11021",
+          "name": "Aimee Carlton",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 256187,
+      "name": "Belles & Chimes CLT Summer League 2026 - Week 3",
+      "date": "7/22/2026",
+      "playerCount": 12,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m5834",
+          "name": "Pants",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m7599",
+          "name": "Katie Wise",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m27925",
+          "name": "Sarah Buchanan",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m39144",
+          "name": "Kristen Weirich",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

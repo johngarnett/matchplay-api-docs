@@ -1,0 +1,39 @@
+{
+  "tournamentId": 263032,
+  "name": "Finals for July Pinpocalypse: Blood Sugar Pinball Magik",
+  "date": "2026-07-21",
+  "locationId": "13314",
+  "locationName": "Center of the Universe Brewing Company",
+  "playerCount": 4,
+  "ratingsDate": "2026-07-21",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m26548",
+      "name": "Dale Price",
+      "rating": 1669.46,
+      "dailyRatingChange": 9.26
+    },
+    {
+      "position": 2,
+      "playerId": "m55179",
+      "name": "Kyle Jensen VA",
+      "rating": 1483.41,
+      "dailyRatingChange": 26.05
+    },
+    {
+      "position": 3,
+      "playerId": "m6266",
+      "name": "Ryan Shapiro",
+      "rating": 1530.84,
+      "dailyRatingChange": 21.17
+    },
+    {
+      "position": 4,
+      "playerId": "m5260",
+      "name": "Dan Farrell",
+      "rating": 1634.94,
+      "dailyRatingChange": 14.27
+    }
+  ]
+}

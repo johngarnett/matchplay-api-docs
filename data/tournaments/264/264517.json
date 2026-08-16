@@ -1,0 +1,81 @@
+{
+  "tournamentId": 264517,
+  "name": "Town Portal Happy Hump Day Head 2 Head Pinball Tournament 7/29/26",
+  "date": "2026-07-30",
+  "locationId": "10258",
+  "locationName": "Town Portal",
+  "playerCount": 10,
+  "ratingsDate": "2026-07-30",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m25705",
+      "name": "Mike Gamble",
+      "rating": 1566.31,
+      "dailyRatingChange": 2.87
+    },
+    {
+      "position": 2,
+      "playerId": "m29826",
+      "name": "Erin Camacho",
+      "rating": 1427.3,
+      "dailyRatingChange": 11.84
+    },
+    {
+      "position": 3,
+      "playerId": "m19474",
+      "name": "Matthew Mihelich",
+      "rating": 1466.76,
+      "dailyRatingChange": 2.7
+    },
+    {
+      "position": 4,
+      "playerId": "m5857",
+      "name": "Arthur Eckhardt",
+      "rating": 1605.05,
+      "dailyRatingChange": -3.55
+    },
+    {
+      "position": 4,
+      "playerId": "m582935",
+      "name": "Jeffrey",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 4,
+      "playerId": "m28877",
+      "name": "Ashley Parsons",
+      "rating": 1505.45,
+      "dailyRatingChange": 0.62
+    },
+    {
+      "position": 7,
+      "playerId": "m6646",
+      "name": "Rachel Kahalekulu",
+      "rating": 1430.71,
+      "dailyRatingChange": 0.06
+    },
+    {
+      "position": 8,
+      "playerId": "m23795",
+      "name": "Michael Serna",
+      "rating": 1580.5,
+      "dailyRatingChange": -5
+    },
+    {
+      "position": 8,
+      "playerId": "i97318",
+      "name": "Sherri Gamble",
+      "rating": 1306.88,
+      "dailyRatingChange": -0.11
+    },
+    {
+      "position": 10,
+      "playerId": "m22399",
+      "name": "Gocelyn Morgado",
+      "rating": 1526.48,
+      "dailyRatingChange": -3.3
+    }
+  ]
+}

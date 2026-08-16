@@ -1,0 +1,67 @@
+{
+  "tournamentId": 263284,
+  "name": "Sidetracked weekly matchplay",
+  "date": "2026-07-23",
+  "locationId": "7007",
+  "locationName": "Sidetracked Brewery",
+  "playerCount": 8,
+  "ratingsDate": "2026-07-23",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m25710",
+      "name": "Joseph Ackerman",
+      "rating": 1629.24,
+      "dailyRatingChange": 13.45
+    },
+    {
+      "position": 2,
+      "playerId": "i122981",
+      "name": "Ryan Doherty",
+      "rating": 1486.74,
+      "dailyRatingChange": 19.84
+    },
+    {
+      "position": 3,
+      "playerId": "i159134",
+      "name": "Jacob Turner",
+      "rating": 1523.8,
+      "dailyRatingChange": null
+    },
+    {
+      "position": 4,
+      "playerId": "i110083",
+      "name": "Ezekiel Wright",
+      "rating": 1467.24,
+      "dailyRatingChange": -2.83
+    },
+    {
+      "position": 4,
+      "playerId": "i160551",
+      "name": "Leland huey",
+      "rating": 1354.89,
+      "dailyRatingChange": 17.24
+    },
+    {
+      "position": 6,
+      "playerId": "i159193",
+      "name": "Stephanie Martin NC",
+      "rating": 1443.16,
+      "dailyRatingChange": null
+    },
+    {
+      "position": 7,
+      "playerId": "i36218",
+      "name": "Chipper Hughes",
+      "rating": 1457.42,
+      "dailyRatingChange": -13.42
+    },
+    {
+      "position": 7,
+      "playerId": "i93621",
+      "name": "Cannon Ackerman",
+      "rating": 1445.67,
+      "dailyRatingChange": -18.42
+    }
+  ]
+}

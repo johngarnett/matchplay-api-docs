@@ -1,0 +1,251 @@
+{
+  "locationId": "13567",
+  "name": "Scott Kurkian's",
+  "address": "Lithia Springs, GA",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 15,
+  "relatedVenues": [
+    {
+      "locationId": "9460",
+      "name": "Melt Yard",
+      "address": "800 Whitlock Ave NW, Marietta, GA 30064, US",
+      "count": 83
+    },
+    {
+      "locationId": "3374",
+      "name": "Portal Pinball Arcade",
+      "address": "3335 Cobb Pkwy Suite 800, Acworth, GA, 30101, US",
+      "count": 66
+    },
+    {
+      "locationId": "9921",
+      "name": "Renaissance Atlanta Waverly Hotel & Convention Center",
+      "address": "2450 Galleria Pkwy Atlanta, GA 30339",
+      "count": 33
+    },
+    {
+      "locationId": "6570",
+      "name": "My Parents' Basement",
+      "address": "22 North Avondale Road, Atlanta, GA 30002, US",
+      "count": 24
+    },
+    {
+      "locationId": "8000",
+      "name": "Wes's Garage",
+      "address": "Decatur, GA",
+      "count": 18
+    },
+    {
+      "locationId": "10197",
+      "name": "The Space Place",
+      "address": "Marietta, GA",
+      "count": 17
+    },
+    {
+      "locationId": "10192",
+      "name": "The Escape Gamebar",
+      "address": "1441 Dresden Dr, Atlanta, GA, 30319, US",
+      "count": 15
+    },
+    {
+      "locationId": "9582",
+      "name": "Atlanta Metro Area",
+      "address": "Atlanta, GA",
+      "count": 11
+    },
+    {
+      "locationId": "8950",
+      "name": "The Pinball Barn",
+      "address": "250 Stoneybrook Road, Pelzer, SC  29669",
+      "count": 10
+    },
+    {
+      "locationId": "8425",
+      "name": "Swampfire Lounge",
+      "address": "Duluth, GA",
+      "count": 9
+    }
+  ],
+  "players": [
+    {
+      "id": "m10434",
+      "name": "Harold VanPatten",
+      "rating": 1688.08,
+      "rd": 17.34,
+      "ratingClass": "A",
+      "homeLocation": "Melt Yard",
+      "homeLocationId": "9460",
+      "percentile": 95.78888526575675,
+      "changeDisplay": "+8.5",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m10879",
+      "name": "Mark Munder",
+      "rating": 1621.86,
+      "rd": 22.31,
+      "ratingClass": "A",
+      "homeLocation": "Portal Pinball Arcade",
+      "homeLocationId": "3374",
+      "percentile": 87.01262402757722,
+      "changeDisplay": "-10.2",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m6242",
+      "name": "John Emlock",
+      "rating": 1608.09,
+      "rd": 20.86,
+      "ratingClass": "A",
+      "homeLocation": "Melt Yard",
+      "homeLocationId": "9460",
+      "percentile": 83.98472073415009,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m21393",
+      "name": "Charlie Gehring",
+      "rating": 1579.74,
+      "rd": 17.35,
+      "ratingClass": "B",
+      "homeLocation": "Portal Pinball Arcade",
+      "homeLocationId": "3374",
+      "percentile": 76.54073694507849,
+      "changeDisplay": "+0.5",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m43993",
+      "name": "Christian Artieda Martinez",
+      "rating": 1576.7,
+      "rd": 20.73,
+      "ratingClass": "B",
+      "homeLocation": "Melt Yard",
+      "homeLocationId": "9460",
+      "percentile": 75.69758233567802,
+      "changeDisplay": "-15.4",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m24866",
+      "name": "Nick Wigley",
+      "rating": 1568.18,
+      "rd": 21.57,
+      "ratingClass": "B",
+      "homeLocation": "Portal Pinball Arcade",
+      "homeLocationId": "3374",
+      "percentile": 72.91191130572507,
+      "changeDisplay": "+16.4",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m47812",
+      "name": "Sarah Warlick",
+      "rating": 1565.81,
+      "rd": 15.07,
+      "ratingClass": "B",
+      "homeLocation": "Melt Yard",
+      "homeLocationId": "9460",
+      "percentile": 72.23179764289375,
+      "changeDisplay": "+11.6",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m4770",
+      "name": "Wes Hargrave",
+      "rating": 1564.68,
+      "rd": 34.56,
+      "ratingClass": "B",
+      "homeLocation": "Wes's Garage",
+      "homeLocationId": "8000",
+      "percentile": 71.88242418595985,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m36613",
+      "name": "David Boeren",
+      "rating": 1556.62,
+      "rd": 17.67,
+      "ratingClass": "B",
+      "homeLocation": "Portal Pinball Arcade",
+      "homeLocationId": "3374",
+      "percentile": 69.2458191642987,
+      "changeDisplay": "-2.4",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m54701",
+      "name": "Jason Dela Cruz",
+      "rating": 1549.82,
+      "rd": 22.33,
+      "ratingClass": "B",
+      "homeLocation": "Renaissance Atlanta Waverly Hotel & Convention Center",
+      "homeLocationId": "9921",
+      "percentile": 66.63250570643314,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m6245",
+      "name": "Michael Emlock",
+      "rating": 1547.17,
+      "rd": 22.2,
+      "ratingClass": "B",
+      "homeLocation": "Melt Yard",
+      "homeLocationId": "9460",
+      "percentile": 65.64960171425909,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m6126",
+      "name": "Karrie Weddle",
+      "rating": 1518.36,
+      "rd": 17.25,
+      "ratingClass": "B",
+      "homeLocation": "Portal Pinball Arcade",
+      "homeLocationId": "3374",
+      "percentile": 54.53952578376112,
+      "changeDisplay": "-1.0",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m37571",
+      "name": "Erika Howe",
+      "rating": 1475.31,
+      "rd": 18.75,
+      "ratingClass": "C",
+      "homeLocation": "Portal Pinball Arcade",
+      "homeLocationId": "3374",
+      "percentile": 36.98234499464294,
+      "changeDisplay": "+3.5",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m2877",
+      "name": "Scott Kurkian",
+      "rating": 1437.14,
+      "rd": 61.61,
+      "ratingClass": "C",
+      "homeLocation": "Scott Kurkian's",
+      "homeLocationId": "13567",
+      "percentile": 22.713933013462523,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m26883",
+      "name": "Suzanne Boeren",
+      "rating": 1404.47,
+      "rd": 16.21,
+      "ratingClass": "C",
+      "homeLocation": "Melt Yard",
+      "homeLocationId": "9460",
+      "percentile": 13.653514696976753,
+      "changeDisplay": "-9.3",
+      "changeClass": "change-negative"
+    }
+  ]
+}

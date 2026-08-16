@@ -1,0 +1,67 @@
+{
+  "tournamentId": 264130,
+  "name": "Finals for Buckroe Pinball Selfie League #1",
+  "date": "2026-08-08",
+  "locationId": "13475",
+  "locationName": "Century Lanes",
+  "playerCount": 8,
+  "ratingsDate": "2026-08-08",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m61834",
+      "name": "Erik Mooney",
+      "rating": null,
+      "dailyRatingChange": null
+    },
+    {
+      "position": 2,
+      "playerId": "m1499",
+      "name": "Andrew Pancoast",
+      "rating": 1808.06,
+      "dailyRatingChange": -7.96
+    },
+    {
+      "position": 3,
+      "playerId": "m42893",
+      "name": "Jordan Creamer",
+      "rating": 1701.1,
+      "dailyRatingChange": -5.14
+    },
+    {
+      "position": 4,
+      "playerId": "m55507",
+      "name": "Alex Ballou",
+      "rating": 1518.23,
+      "dailyRatingChange": 11.75
+    },
+    {
+      "position": 5,
+      "playerId": "m61242",
+      "name": "Chris Krentz",
+      "rating": null,
+      "dailyRatingChange": null
+    },
+    {
+      "position": 6,
+      "playerId": "m59148",
+      "name": "Tony Hoang",
+      "rating": null,
+      "dailyRatingChange": null
+    },
+    {
+      "position": 7,
+      "playerId": "m53402",
+      "name": "Claire Tracy",
+      "rating": null,
+      "dailyRatingChange": -37.27
+    },
+    {
+      "position": 8,
+      "playerId": "m55943",
+      "name": "Jennifer Lemons",
+      "rating": null,
+      "dailyRatingChange": null
+    }
+  ]
+}

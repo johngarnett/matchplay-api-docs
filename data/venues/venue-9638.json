@@ -1,0 +1,263 @@
+{
+  "locationId": "9638",
+  "name": "Smokezz Gameroom",
+  "address": "Kingsville",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 16,
+  "relatedVenues": [
+    {
+      "locationId": "9984",
+      "name": "Iceman's Gameroom",
+      "address": "Cottam",
+      "count": 25
+    },
+    {
+      "locationId": "11766",
+      "name": "The Fort Fun Centre",
+      "address": "689 Texas Rd, Amherstburg, ON N9V 3R3, CA",
+      "count": 14
+    },
+    {
+      "locationId": "10887",
+      "name": "Chateau Daviau",
+      "address": "Belle River",
+      "count": 12
+    },
+    {
+      "locationId": "10886",
+      "name": "Rob's Arcade",
+      "address": "Windsor",
+      "count": 11
+    },
+    {
+      "locationId": "5287",
+      "name": "ULEKstore's Pinball and Classic Arcade",
+      "address": "2121 North Monroe St, Monroe, MI, 48162, US",
+      "count": 8
+    },
+    {
+      "locationId": "9226",
+      "name": "Forked River Brewing Company",
+      "address": "45 Pacific Ct, London, ON N5V 3N4, CA",
+      "count": 8
+    },
+    {
+      "locationId": "13526",
+      "name": "Pop! Shop",
+      "address": "866 Victor Dr",
+      "count": 8
+    },
+    {
+      "locationId": "6085",
+      "name": "Maple Pinball",
+      "address": "",
+      "count": 6
+    },
+    {
+      "locationId": "13607",
+      "name": "Roehler Games Room",
+      "address": "10600 Keating Crescent, Windsor ON (Forest Glade)",
+      "count": 6
+    },
+    {
+      "locationId": "6118",
+      "name": "Maple Pinball",
+      "address": "245 Matheson Boulevard East, Mississauga, ON L4Z 3K2, CA",
+      "count": 5
+    }
+  ],
+  "players": [
+    {
+      "id": "m41251",
+      "name": "Robert Britenbaugh",
+      "rating": 1661.45,
+      "rd": 28.1,
+      "ratingClass": "A",
+      "homeLocation": "Iceman's Gameroom",
+      "homeLocationId": "9984",
+      "percentile": 93.23612987375972,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m38501",
+      "name": "Eric Hunter",
+      "rating": 1638.11,
+      "rd": 18.15,
+      "ratingClass": "A",
+      "homeLocation": "ULEKstore's Pinball and Classic Arcade",
+      "homeLocationId": "5287",
+      "percentile": 90.02189406996786,
+      "changeDisplay": "-18.8",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m50169",
+      "name": "Robert MacDonell",
+      "rating": 1605.35,
+      "rd": 19.21,
+      "ratingClass": "A",
+      "homeLocation": "Forked River Brewing Company",
+      "homeLocationId": "9226",
+      "percentile": 83.23007406717286,
+      "changeDisplay": "+7.8",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "i107777",
+      "name": "Chris Beaugrand",
+      "rating": 1583.13,
+      "rd": 31.58,
+      "ratingClass": "B",
+      "homeLocation": "Smokezz Gameroom",
+      "homeLocationId": "9638",
+      "percentile": 77.50034937345693,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m51087",
+      "name": "Mike Grady",
+      "rating": 1573.91,
+      "rd": 34.54,
+      "ratingClass": "B",
+      "homeLocation": "Iceman's Gameroom",
+      "homeLocationId": "9984",
+      "percentile": 74.7705780966134,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m41278",
+      "name": "Ru Gerardo",
+      "rating": 1535.74,
+      "rd": 32.32,
+      "ratingClass": "B",
+      "homeLocation": "Iceman's Gameroom",
+      "homeLocationId": "9984",
+      "percentile": 61.3033959100014,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m51086",
+      "name": "Liz Grady",
+      "rating": 1532.68,
+      "rd": 34.21,
+      "ratingClass": "B",
+      "homeLocation": "Iceman's Gameroom",
+      "homeLocationId": "9984",
+      "percentile": 60.13881772022174,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m41378",
+      "name": "Roberto Caruso",
+      "rating": 1505.02,
+      "rd": 27.46,
+      "ratingClass": "B",
+      "homeLocation": "Iceman's Gameroom",
+      "homeLocationId": "9984",
+      "percentile": 49.308240555270885,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m38450",
+      "name": "Mike Duvall",
+      "rating": 1489.14,
+      "rd": 25.54,
+      "ratingClass": "C",
+      "homeLocation": "The Fort Fun Centre",
+      "homeLocationId": "11766",
+      "percentile": 42.64685330973121,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m51092",
+      "name": "MaTT Dow",
+      "rating": 1465.65,
+      "rd": 26.32,
+      "ratingClass": "C",
+      "homeLocation": "Iceman's Gameroom",
+      "homeLocationId": "9984",
+      "percentile": 33.12060371733358,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m50168",
+      "name": "Matt Daviau",
+      "rating": 1459.26,
+      "rd": 29.5,
+      "ratingClass": "C",
+      "homeLocation": "Iceman's Gameroom",
+      "homeLocationId": "9984",
+      "percentile": 30.707597708110125,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m43569",
+      "name": "Kelly Chadwick",
+      "rating": 1451.56,
+      "rd": 29.14,
+      "ratingClass": "C",
+      "homeLocation": "Smokezz Gameroom",
+      "homeLocationId": "9638",
+      "percentile": 27.72161922951507,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i131282",
+      "name": "Brady Tiessen",
+      "rating": 1414.16,
+      "rd": 36.64,
+      "ratingClass": "C",
+      "homeLocation": "Iceman's Gameroom",
+      "homeLocationId": "9984",
+      "percentile": 16.192295150696417,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i131284",
+      "name": "Heather Daviau",
+      "rating": 1412.85,
+      "rd": 37.61,
+      "ratingClass": "C",
+      "homeLocation": "Smokezz Gameroom",
+      "homeLocationId": "9638",
+      "percentile": 15.87552988307635,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i141805",
+      "name": "Giorgio Cocchetto",
+      "rating": 1379.58,
+      "rd": 29.49,
+      "ratingClass": "D",
+      "homeLocation": "Iceman's Gameroom",
+      "homeLocationId": "9984",
+      "percentile": 8.245213583640005,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i131287",
+      "name": "Rob Shepley",
+      "rating": null,
+      "rd": null,
+      "ratingClass": "N/A",
+      "homeLocation": "Smokezz Gameroom",
+      "homeLocationId": "9638",
+      "percentile": null,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

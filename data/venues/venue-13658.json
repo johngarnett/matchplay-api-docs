@@ -1,0 +1,443 @@
+{
+  "locationId": "13658",
+  "name": "Espace culturel la parenthèse",
+  "address": "53 chaussée Jules César La Parenthèse 95250 Beauchamp",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 31,
+  "relatedVenues": [
+    {
+      "locationId": "12920",
+      "name": "Hoopoe Brewpub",
+      "address": "23 Rue de Saint-Gobain, 37700 Saint-Pierre-des-Corps",
+      "count": 8
+    },
+    {
+      "locationId": "8716",
+      "name": "Lidenbrock",
+      "address": "Place Albert Premier 61220 Briouze",
+      "count": 4
+    },
+    {
+      "locationId": "9350",
+      "name": "Morlacchi Showroom",
+      "address": "viale Troya 20 , Milan , Italy",
+      "count": 4
+    },
+    {
+      "locationId": "8617",
+      "name": "Biljardna Hisa Ljubljana - Slovenska",
+      "address": "Slovenska 58, 1000 Ljubljana",
+      "count": 3
+    },
+    {
+      "locationId": "8271",
+      "name": "Rezzanine Esports",
+      "address": "1025 Washington Pike, Bridgeville, PA 15017, US",
+      "count": 2
+    },
+    {
+      "locationId": "13291",
+      "name": "Salon de Pontacq",
+      "address": "Salle Pierre Lacaze 64530 Pontacq",
+      "count": 2
+    },
+    {
+      "locationId": "8273",
+      "name": "Flipperlounge @ Massif Central",
+      "address": "7-9 Bethmannstraße, Frankfurt am Main, HE, 60311, DE",
+      "count": 1
+    },
+    {
+      "locationId": "9058",
+      "name": "Internaute Pinball Bar",
+      "address": "Rue du chateau 63 7500 Tournai (Belgium)",
+      "count": 1
+    },
+    {
+      "locationId": "9974",
+      "name": "Musée Vivant du Flipper Asso Culture Flip",
+      "address": "37, place du Marché 13150 TARASCON",
+      "count": 1
+    },
+    {
+      "locationId": "10135",
+      "name": "Associació A.R.C.A.D.E",
+      "address": "Esmeragda 11, Esplugues de Llobregat 08950",
+      "count": 1
+    }
+  ],
+  "players": [
+    {
+      "id": "m39023",
+      "name": "Alexandre Bouet",
+      "rating": 1871.63,
+      "rd": 27.33,
+      "ratingClass": "Master",
+      "homeLocation": "Espace culturel la parenthèse",
+      "homeLocationId": "13658",
+      "percentile": 99.92546699585411,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m16115",
+      "name": "Franck Bona",
+      "rating": 1785.62,
+      "rd": 26.73,
+      "ratingClass": "Expert",
+      "homeLocation": "Espace culturel la parenthèse",
+      "homeLocationId": "13658",
+      "percentile": 99.38510271579634,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m35025",
+      "name": "Axel Bouet",
+      "rating": 1707.48,
+      "rd": 29.2,
+      "ratingClass": "Expert",
+      "homeLocation": "Espace culturel la parenthèse",
+      "homeLocationId": "13658",
+      "percentile": 97.02799645968231,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m14727",
+      "name": "Olivier Moïseef",
+      "rating": 1702.84,
+      "rd": 22.47,
+      "ratingClass": "Expert",
+      "homeLocation": "Morlacchi Showroom",
+      "homeLocationId": "9350",
+      "percentile": 96.77178925793078,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m16110",
+      "name": "Adam Bona",
+      "rating": 1652.45,
+      "rd": 27.23,
+      "ratingClass": "A",
+      "homeLocation": "Espace culturel la parenthèse",
+      "homeLocationId": "13658",
+      "percentile": 92.07620999673918,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i6784",
+      "name": "David Grémillet",
+      "rating": 1617.12,
+      "rd": 47.28,
+      "ratingClass": "A",
+      "homeLocation": "Espace culturel la parenthèse",
+      "homeLocationId": "13658",
+      "percentile": 86.0343783481623,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m48778",
+      "name": "Anthony Tribot",
+      "rating": 1589.55,
+      "rd": 49.66,
+      "ratingClass": "B",
+      "homeLocation": "Espace culturel la parenthèse",
+      "homeLocationId": "13658",
+      "percentile": 79.34969953882704,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m15143",
+      "name": "Philippe COMBRONDE",
+      "rating": 1589.34,
+      "rd": 43.99,
+      "ratingClass": "B",
+      "homeLocation": "Espace culturel la parenthèse",
+      "homeLocationId": "13658",
+      "percentile": 79.29379978571761,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m33217",
+      "name": "Stéphane Ridoux",
+      "rating": 1583.02,
+      "rd": 42.76,
+      "ratingClass": "B",
+      "homeLocation": "Espace culturel la parenthèse",
+      "homeLocationId": "13658",
+      "percentile": 77.45842455862486,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i112110",
+      "name": "Axel Vilette",
+      "rating": 1576.21,
+      "rd": 59.32,
+      "ratingClass": "B",
+      "homeLocation": "Espace culturel la parenthèse",
+      "homeLocationId": "13658",
+      "percentile": 75.53454138910887,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m38873",
+      "name": "Noémie Renaux",
+      "rating": 1573.15,
+      "rd": 27.61,
+      "ratingClass": "B",
+      "homeLocation": "Lidenbrock",
+      "homeLocationId": "8716",
+      "percentile": 74.50971258210276,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m17931",
+      "name": "Christophe Berry",
+      "rating": 1571.19,
+      "rd": 21.91,
+      "ratingClass": "B",
+      "homeLocation": "Biljardna Hisa Ljubljana - Slovenska",
+      "homeLocationId": "8617",
+      "percentile": 73.90879023617646,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m31967",
+      "name": "Dominique Giraudot",
+      "rating": 1569.1,
+      "rd": 31.86,
+      "ratingClass": "B",
+      "homeLocation": "Espace culturel la parenthèse",
+      "homeLocationId": "13658",
+      "percentile": 73.21004332230866,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i51620",
+      "name": "Arnaud Vassal",
+      "rating": 1563.47,
+      "rd": 35.03,
+      "ratingClass": "B",
+      "homeLocation": "Espace culturel la parenthèse",
+      "homeLocationId": "13658",
+      "percentile": 71.47249266315741,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m51756",
+      "name": "Alexandre Paris",
+      "rating": 1542.4,
+      "rd": 34.16,
+      "ratingClass": "B",
+      "homeLocation": "Espace culturel la parenthèse",
+      "homeLocationId": "13658",
+      "percentile": 64.06111706339964,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m61661",
+      "name": "Grégory Kneip",
+      "rating": 1542.11,
+      "rd": 56.01,
+      "ratingClass": "B",
+      "homeLocation": "Espace culturel la parenthèse",
+      "homeLocationId": "13658",
+      "percentile": 63.9539758699399,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m29116",
+      "name": "Dimitri Porquet",
+      "rating": 1538.81,
+      "rd": 26.49,
+      "ratingClass": "B",
+      "homeLocation": "Lidenbrock",
+      "homeLocationId": "8716",
+      "percentile": 62.621698420831976,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i109337",
+      "name": "Laurent Tovar",
+      "rating": 1527.38,
+      "rd": 47.54,
+      "ratingClass": "B",
+      "homeLocation": "Espace culturel la parenthèse",
+      "homeLocationId": "13658",
+      "percentile": 57.94941072343597,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i111359",
+      "name": "Lucas Ridoux",
+      "rating": 1520.75,
+      "rd": 42.78,
+      "ratingClass": "B",
+      "homeLocation": "Espace culturel la parenthèse",
+      "homeLocationId": "13658",
+      "percentile": 55.489821586621325,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m61664",
+      "name": "Damien Pichot",
+      "rating": 1515.08,
+      "rd": 56.33,
+      "ratingClass": "B",
+      "homeLocation": "Espace culturel la parenthèse",
+      "homeLocationId": "13658",
+      "percentile": 53.23053989844878,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m58816",
+      "name": "Pierre-Antoine Laurain",
+      "rating": 1514.5,
+      "rd": 42,
+      "ratingClass": "B",
+      "homeLocation": "Flipperlounge @ Massif Central",
+      "homeLocationId": "8273",
+      "percentile": 52.955699445660784,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m48970",
+      "name": "Eddy Duroy",
+      "rating": 1497.83,
+      "rd": 44.41,
+      "ratingClass": "C",
+      "homeLocation": "Espace culturel la parenthèse",
+      "homeLocationId": "13658",
+      "percentile": 46.24772907252993,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m38667",
+      "name": "Christophe Gombert",
+      "rating": 1473.17,
+      "rd": 30.68,
+      "ratingClass": "C",
+      "homeLocation": "Salon de Pontacq",
+      "homeLocationId": "13291",
+      "percentile": 36.209065076629244,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i111360",
+      "name": "Pierre Ridoux",
+      "rating": 1470.91,
+      "rd": 42.45,
+      "ratingClass": "C",
+      "homeLocation": "Espace culturel la parenthèse",
+      "homeLocationId": "13658",
+      "percentile": 35.22616108445521,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m61512",
+      "name": "Hakim Tektek",
+      "rating": 1469.84,
+      "rd": 57.23,
+      "ratingClass": "C",
+      "homeLocation": "Espace culturel la parenthèse",
+      "homeLocationId": "13658",
+      "percentile": 34.830204499930126,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i148918",
+      "name": "Jacqueline Glisic",
+      "rating": 1442.33,
+      "rd": 46.64,
+      "ratingClass": "C",
+      "homeLocation": "Espace culturel la parenthèse",
+      "homeLocationId": "13658",
+      "percentile": 24.498066800204967,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i111363",
+      "name": "Conie Ridoux",
+      "rating": 1436.6,
+      "rd": 56.15,
+      "ratingClass": "C",
+      "homeLocation": "Espace culturel la parenthèse",
+      "homeLocationId": "13658",
+      "percentile": 22.555550379652487,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m61660",
+      "name": "Sacha Kneip",
+      "rating": 1426.32,
+      "rd": 56.17,
+      "ratingClass": "C",
+      "homeLocation": "Espace culturel la parenthèse",
+      "homeLocationId": "13658",
+      "percentile": 19.513672147948014,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m49085",
+      "name": "Nicolas Jacak",
+      "rating": 1424.88,
+      "rd": 47.75,
+      "ratingClass": "C",
+      "homeLocation": "Espace culturel la parenthèse",
+      "homeLocationId": "13658",
+      "percentile": 19.089765686868216,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m58768",
+      "name": "Denis Paris",
+      "rating": 1423.78,
+      "rd": 38.37,
+      "ratingClass": "C",
+      "homeLocation": "Espace culturel la parenthèse",
+      "homeLocationId": "13658",
+      "percentile": 18.717100666138727,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m58674",
+      "name": "Carl Bazet",
+      "rating": 1406.55,
+      "rd": 33.31,
+      "ratingClass": "C",
+      "homeLocation": "Hoopoe Brewpub",
+      "homeLocationId": "12920",
+      "percentile": 14.198537289793636,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

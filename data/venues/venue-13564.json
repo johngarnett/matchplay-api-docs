@@ -1,0 +1,107 @@
+{
+  "locationId": "13564",
+  "name": "Nostalgic Video Games & Arcade",
+  "address": "8449 US-42 ste L, Florence, KY 41042, US",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 3,
+  "relatedVenues": [
+    {
+      "locationId": "7439",
+      "name": "Arcade Legacy Sharonville",
+      "address": "2241 Crowne Point Dr, Cincinnati, OH 45241, US",
+      "count": 9
+    },
+    {
+      "locationId": "13441",
+      "name": "Tilt Amusment Barn",
+      "address": "3087  russell rd, Ostrander Oh 43061",
+      "count": 5
+    },
+    {
+      "locationId": "12890",
+      "name": "Happenstance Brewing Project",
+      "address": "410 E. 4th Street, Marysville, Ohio 43040",
+      "count": 4
+    },
+    {
+      "locationId": "13248",
+      "name": "North Canton Masonic Temple",
+      "address": "805 Orchard Ave NE, North Canton, OH 44720, US",
+      "count": 4
+    },
+    {
+      "locationId": "6100",
+      "name": "Zanzabar",
+      "address": "2100 S Preston St, Louisville, KY 40217, USA",
+      "count": 3
+    },
+    {
+      "locationId": "3790",
+      "name": "Cactus Jacks",
+      "address": "",
+      "count": 2
+    },
+    {
+      "locationId": "10342",
+      "name": "Pinball Planet",
+      "address": "6277 Pearl Rd, Cleveland, OH 44130, US",
+      "count": 2
+    },
+    {
+      "locationId": "11500",
+      "name": "Logan Street Market",
+      "address": "1001 Logan Street, Louisville, KY 40204, US",
+      "count": 2
+    },
+    {
+      "locationId": "66",
+      "name": "Cactus Jack's",
+      "address": "",
+      "count": 1
+    },
+    {
+      "locationId": "5866",
+      "name": "Kiitos Brewing",
+      "address": "",
+      "count": 1
+    }
+  ],
+  "players": [
+    {
+      "id": "m1482",
+      "name": "Trent Augenstein",
+      "rating": 1744.08,
+      "rd": 19.52,
+      "ratingClass": "Expert",
+      "homeLocation": "Arcade Legacy Sharonville",
+      "homeLocationId": "7439",
+      "percentile": 98.56058135743234,
+      "changeDisplay": "-2.4",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m7259",
+      "name": "Adam Wright",
+      "rating": 1606.52,
+      "rd": 38.04,
+      "ratingClass": "A",
+      "homeLocation": "Nostalgic Video Games & Arcade",
+      "homeLocationId": "13564",
+      "percentile": 83.57478921134765,
+      "changeDisplay": "+3.3",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m31173",
+      "name": "Mandy Haysley",
+      "rating": 1451.71,
+      "rd": 20.02,
+      "ratingClass": "C",
+      "homeLocation": "Arcade Legacy Sharonville",
+      "homeLocationId": "7439",
+      "percentile": 27.78683560814273,
+      "changeDisplay": "-7.9",
+      "changeClass": "change-negative"
+    }
+  ]
+}

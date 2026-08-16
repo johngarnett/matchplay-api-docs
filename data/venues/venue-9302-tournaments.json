@@ -1,0 +1,44 @@
+{
+  "locationId": "9302",
+  "venueName": "AREA 254",
+  "venueAddress": "901 S Fort Hood St, Killeen, TX 76541, US",
+  "tournaments": [
+    {
+      "id": 258434,
+      "name": "A Finals for Stern Army Official HoT Pinball July '26 Monthly @ AREA 254",
+      "date": "7/19/2026",
+      "playerCount": 4,
+      "qualifying": {
+        "id": 258433,
+        "name": "Stern Army Official HoT Pinball July '26 Monthly @ AREA 254",
+        "playerCount": 8
+      },
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m46660",
+          "name": "Mark Ratcliffe",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m51009",
+          "name": "Joey Demple",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m29528",
+          "name": "Brandon Borrego",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m19324",
+          "name": "Grant Birdwell",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

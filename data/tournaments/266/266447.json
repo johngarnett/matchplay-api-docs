@@ -1,0 +1,74 @@
+{
+  "tournamentId": 266447,
+  "name": "Acadiana Pinball League - Season 1 - Round 5",
+  "date": "2026-08-12",
+  "locationId": "11276",
+  "locationName": "Bayou Teche Brewing",
+  "playerCount": 9,
+  "ratingsDate": "2026-08-12",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m24680",
+      "name": "Bennett Dungan",
+      "rating": 1638.02,
+      "dailyRatingChange": 5.41
+    },
+    {
+      "position": 2,
+      "playerId": "m454798",
+      "name": "coyo showz",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 2,
+      "playerId": "m48531",
+      "name": "Michael Burrow",
+      "rating": 1524.4,
+      "dailyRatingChange": 2.22
+    },
+    {
+      "position": 2,
+      "playerId": "m20175",
+      "name": "Cedric Broussard",
+      "rating": 1566.81,
+      "dailyRatingChange": 2.93
+    },
+    {
+      "position": 2,
+      "playerId": "m48527",
+      "name": "Shane Fontenot",
+      "rating": 1618.82,
+      "dailyRatingChange": 0.89
+    },
+    {
+      "position": 6,
+      "playerId": "i145337",
+      "name": "Shelley Fritz",
+      "rating": 1332.57,
+      "dailyRatingChange": 7.98
+    },
+    {
+      "position": 7,
+      "playerId": "i145335",
+      "name": "Michael Daniels",
+      "rating": 1405.26,
+      "dailyRatingChange": -7.42
+    },
+    {
+      "position": 7,
+      "playerId": "i143489",
+      "name": "Donna Fontenot",
+      "rating": 1430.86,
+      "dailyRatingChange": -4.62
+    },
+    {
+      "position": 9,
+      "playerId": "m578560",
+      "name": "Jared Henry",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

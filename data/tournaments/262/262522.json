@@ -1,0 +1,39 @@
+{
+  "tournamentId": 262522,
+  "name": "Finals for Mark O's 46 Target Matchplay Tournament",
+  "date": "2026-07-18",
+  "locationId": "5624",
+  "locationName": "Cactus Jack's Family Fun Center",
+  "playerCount": 4,
+  "ratingsDate": "2026-07-18",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m31680",
+      "name": "Rayce Watson",
+      "rating": 1644.46,
+      "dailyRatingChange": 11.04
+    },
+    {
+      "position": 2,
+      "playerId": "m33397",
+      "name": "Michael Hendrick",
+      "rating": 1649.53,
+      "dailyRatingChange": 7.68
+    },
+    {
+      "position": 3,
+      "playerId": "m350",
+      "name": "Michael Brown",
+      "rating": 1615.25,
+      "dailyRatingChange": 4.25
+    },
+    {
+      "position": 3,
+      "playerId": "m52925",
+      "name": "Joshua Mackey",
+      "rating": 1573.13,
+      "dailyRatingChange": 12.55
+    }
+  ]
+}

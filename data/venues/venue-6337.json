@@ -1,0 +1,251 @@
+{
+  "locationId": "6337",
+  "name": "Chris Harris @ Silver Lakes",
+  "address": "",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 15,
+  "relatedVenues": [
+    {
+      "locationId": "3488",
+      "name": "BumperNets ",
+      "address": "2000 Galleria Cir, Birmingham, AL 35244, USA",
+      "count": 12
+    },
+    {
+      "locationId": "10551",
+      "name": "Alex Huffman’s place",
+      "address": "",
+      "count": 9
+    },
+    {
+      "locationId": "12135",
+      "name": "Leo's House",
+      "address": "",
+      "count": 6
+    },
+    {
+      "locationId": "12221",
+      "name": "Michael's Place",
+      "address": "",
+      "count": 6
+    },
+    {
+      "locationId": "12262",
+      "name": "Chris' house",
+      "address": "",
+      "count": 6
+    },
+    {
+      "locationId": "9921",
+      "name": "Renaissance Atlanta Waverly Hotel & Convention Center",
+      "address": "2450 Galleria Pkwy Atlanta, GA 30339",
+      "count": 5
+    },
+    {
+      "locationId": "12261",
+      "name": "Duane's house",
+      "address": "",
+      "count": 5
+    },
+    {
+      "locationId": "3374",
+      "name": "Portal Pinball Arcade",
+      "address": "3335 Cobb Pkwy Suite 800, Acworth, GA, 30101, US",
+      "count": 3
+    },
+    {
+      "locationId": "9021",
+      "name": "Game Over Arcade Bar",
+      "address": "1868 1st Commercial Dr, Southaven, MS 38671, US",
+      "count": 2
+    },
+    {
+      "locationId": "11963",
+      "name": "Last Arcade",
+      "address": "1218 military rd benton,AR 72015",
+      "count": 2
+    }
+  ],
+  "players": [
+    {
+      "id": "m316",
+      "name": "Chris Warren AL",
+      "rating": 1726.33,
+      "rd": 19.36,
+      "ratingClass": "Expert",
+      "homeLocation": "BumperNets ",
+      "homeLocationId": "3488",
+      "percentile": 97.98760888806073,
+      "changeDisplay": "+10.7",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m16458",
+      "name": "Brad Allen",
+      "rating": 1660.92,
+      "rd": 32.78,
+      "ratingClass": "A",
+      "homeLocation": "Chris Harris @ Silver Lakes",
+      "homeLocationId": "6337",
+      "percentile": 93.18488843340941,
+      "changeDisplay": "-43.8",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m13178",
+      "name": "Chris Harris",
+      "rating": 1617.66,
+      "rd": 25.27,
+      "ratingClass": "A",
+      "homeLocation": "Chris Harris @ Silver Lakes",
+      "homeLocationId": "6337",
+      "percentile": 86.1834443564541,
+      "changeDisplay": "+13.7",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m11554",
+      "name": "Todd Michard",
+      "rating": 1571.27,
+      "rd": 22.43,
+      "ratingClass": "B",
+      "homeLocation": "BumperNets ",
+      "homeLocationId": "3488",
+      "percentile": 73.93674011273117,
+      "changeDisplay": "+9.7",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m6192",
+      "name": "David Wurst",
+      "rating": 1568.88,
+      "rd": 23.79,
+      "ratingClass": "B",
+      "homeLocation": "BumperNets ",
+      "homeLocationId": "3488",
+      "percentile": 73.14948525644012,
+      "changeDisplay": "-8.7",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m5908",
+      "name": "Frank Williamson",
+      "rating": 1563.09,
+      "rd": 23.33,
+      "ratingClass": "B",
+      "homeLocation": "BumperNets ",
+      "homeLocationId": "3488",
+      "percentile": 71.33740159314297,
+      "changeDisplay": "-5.3",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m53206",
+      "name": "Jacob Prejean",
+      "rating": 1548.25,
+      "rd": 24.72,
+      "ratingClass": "B",
+      "homeLocation": "BumperNets ",
+      "homeLocationId": "3488",
+      "percentile": 66.08748311361626,
+      "changeDisplay": "-17.1",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m26587",
+      "name": "Alan Reagan",
+      "rating": 1539.32,
+      "rd": 26.01,
+      "ratingClass": "B",
+      "homeLocation": "Flip⚡️Side",
+      "homeLocationId": "6223",
+      "percentile": 62.86393068430615,
+      "changeDisplay": "+22.4",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m54209",
+      "name": "Joseph Olejniczak",
+      "rating": 1538.06,
+      "rd": 20.42,
+      "ratingClass": "B",
+      "homeLocation": "Portal Pinball Arcade",
+      "homeLocationId": "3374",
+      "percentile": 62.29561652769367,
+      "changeDisplay": "-7.4",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m54964",
+      "name": "Brooke McLendon",
+      "rating": 1535.57,
+      "rd": 30.81,
+      "ratingClass": "B",
+      "homeLocation": "BumperNets ",
+      "homeLocationId": "3488",
+      "percentile": 61.23817953137374,
+      "changeDisplay": "-4.1",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m11567",
+      "name": "Michael Murdoch",
+      "rating": 1487.81,
+      "rd": 23.12,
+      "ratingClass": "C",
+      "homeLocation": "Renaissance Atlanta Waverly Hotel & Convention Center",
+      "homeLocationId": "9921",
+      "percentile": 42.0692225276005,
+      "changeDisplay": "-1.9",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m56524",
+      "name": "Ada Cummings",
+      "rating": 1459.7,
+      "rd": 33.07,
+      "ratingClass": "C",
+      "homeLocation": "Portal Pinball Arcade",
+      "homeLocationId": "3374",
+      "percentile": 30.879955280197514,
+      "changeDisplay": "-6.4",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m42713",
+      "name": "Shawn Oliver",
+      "rating": 1428.91,
+      "rd": 24.28,
+      "ratingClass": "C",
+      "homeLocation": "BumperNets ",
+      "homeLocationId": "3488",
+      "percentile": 20.268318814925234,
+      "changeDisplay": "+15.5",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m59773",
+      "name": "Susan Mollica",
+      "rating": 1397.4,
+      "rd": 27.67,
+      "ratingClass": "D",
+      "homeLocation": "BumperNets ",
+      "homeLocationId": "3488",
+      "percentile": 11.841431033679601,
+      "changeDisplay": "+3.1",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "i65653",
+      "name": "Steve Murdoch",
+      "rating": 1277.51,
+      "rd": 29.19,
+      "ratingClass": "E",
+      "homeLocation": "Chris Harris @ Silver Lakes",
+      "homeLocationId": "6337",
+      "percentile": 0.568314156612475,
+      "changeDisplay": "-22.4",
+      "changeClass": "change-negative"
+    }
+  ]
+}

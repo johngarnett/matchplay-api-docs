@@ -1,0 +1,200 @@
+{
+  "tournamentId": 250976,
+  "name": "Kaikki häipyy, on vain nyt (2nd chance)",
+  "date": "2026-07-26",
+  "locationId": "10433",
+  "locationName": "Pinball Union",
+  "playerCount": 27,
+  "ratingsDate": "2026-07-26",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m23860",
+      "name": "Luukas Marttinen",
+      "rating": 1762.02,
+      "dailyRatingChange": 3.03
+    },
+    {
+      "position": 2,
+      "playerId": "m44231",
+      "name": "Petri Lappalainen",
+      "rating": 1551.62,
+      "dailyRatingChange": 13.91
+    },
+    {
+      "position": 2,
+      "playerId": "m23873",
+      "name": "Topi Ahonen",
+      "rating": 1737.18,
+      "dailyRatingChange": -3.6
+    },
+    {
+      "position": 4,
+      "playerId": "m48776",
+      "name": "Michele Gelmini",
+      "rating": 1667.63,
+      "dailyRatingChange": -6.35
+    },
+    {
+      "position": 5,
+      "playerId": "m767",
+      "name": "Marco Suvanto",
+      "rating": 1605.79,
+      "dailyRatingChange": 5.71
+    },
+    {
+      "position": 6,
+      "playerId": "i2563",
+      "name": "Jussi Kahola",
+      "rating": 1677.63,
+      "dailyRatingChange": -5.28
+    },
+    {
+      "position": 7,
+      "playerId": "m46786",
+      "name": "Vili Siikakoski",
+      "rating": 1580.1,
+      "dailyRatingChange": 3.36
+    },
+    {
+      "position": 8,
+      "playerId": "m52098",
+      "name": "Joonas Kangasvieri",
+      "rating": 1638.65,
+      "dailyRatingChange": 1.34
+    },
+    {
+      "position": 8,
+      "playerId": "m19123",
+      "name": "Arsi Rosengren",
+      "rating": 1591.83,
+      "dailyRatingChange": -13.51
+    },
+    {
+      "position": 8,
+      "playerId": "i98815",
+      "name": "Emil Suontama",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 11,
+      "playerId": "m51282",
+      "name": "Janne Heikkinen",
+      "rating": 1511.1,
+      "dailyRatingChange": 6.76
+    },
+    {
+      "position": 11,
+      "playerId": "m27061",
+      "name": "Viljami Myrttinen",
+      "rating": 1530.18,
+      "dailyRatingChange": 0.22
+    },
+    {
+      "position": 13,
+      "playerId": "m12271",
+      "name": "Mikko Kulmala",
+      "rating": 1597.02,
+      "dailyRatingChange": -11.49
+    },
+    {
+      "position": 13,
+      "playerId": "m31993",
+      "name": "Harri Berglund",
+      "rating": 1601.39,
+      "dailyRatingChange": -12.44
+    },
+    {
+      "position": 13,
+      "playerId": "m16697",
+      "name": "Markus Lehtinen",
+      "rating": 1519.65,
+      "dailyRatingChange": 9.78
+    },
+    {
+      "position": 13,
+      "playerId": "m11453",
+      "name": "Heikki Tammisalo",
+      "rating": 1477.08,
+      "dailyRatingChange": 9.88
+    },
+    {
+      "position": 13,
+      "playerId": "m13691",
+      "name": "Juha Viitanen",
+      "rating": 1557.78,
+      "dailyRatingChange": -8.52
+    },
+    {
+      "position": 18,
+      "playerId": "m16160",
+      "name": "Tuukka Suontama",
+      "rating": 1575.88,
+      "dailyRatingChange": -18.64
+    },
+    {
+      "position": 18,
+      "playerId": "m33786",
+      "name": "Joonas Tuhkanen",
+      "rating": 1553.23,
+      "dailyRatingChange": -7.04
+    },
+    {
+      "position": 20,
+      "playerId": "m6178",
+      "name": "Joonas Koski",
+      "rating": 1398.92,
+      "dailyRatingChange": 17.22
+    },
+    {
+      "position": 21,
+      "playerId": "m14093",
+      "name": "Marko Nyby",
+      "rating": 1524.97,
+      "dailyRatingChange": -22.75
+    },
+    {
+      "position": 21,
+      "playerId": "m43019",
+      "name": "Juhani Lindfors",
+      "rating": 1502.23,
+      "dailyRatingChange": -3.29
+    },
+    {
+      "position": 21,
+      "playerId": "m35663",
+      "name": "Sami Setälä",
+      "rating": 1490.82,
+      "dailyRatingChange": -4.09
+    },
+    {
+      "position": 21,
+      "playerId": "m43507",
+      "name": "Ilmari Viro",
+      "rating": 1478.47,
+      "dailyRatingChange": -7.28
+    },
+    {
+      "position": 25,
+      "playerId": "m54065",
+      "name": "Outi Mikkonen",
+      "rating": 1358.62,
+      "dailyRatingChange": -24.97
+    },
+    {
+      "position": 26,
+      "playerId": "m26341",
+      "name": "Outa Koski",
+      "rating": 1314.07,
+      "dailyRatingChange": 1.24
+    },
+    {
+      "position": 27,
+      "playerId": "m53012",
+      "name": "Mirko Honkavaara",
+      "rating": 1351.64,
+      "dailyRatingChange": -29.76
+    }
+  ]
+}

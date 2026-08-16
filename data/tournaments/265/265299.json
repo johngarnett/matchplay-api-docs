@@ -1,0 +1,95 @@
+{
+  "tournamentId": 265299,
+  "name": "Semi-finals for Pinarchy in Parkwood",
+  "date": "2026-08-09",
+  "locationId": null,
+  "locationName": null,
+  "playerCount": 12,
+  "ratingsDate": "2026-08-09",
+  "standings": [
+    {
+      "position": 5,
+      "playerId": "m4007",
+      "name": "Tim Collins",
+      "rating": 1625.48,
+      "dailyRatingChange": -0.17
+    },
+    {
+      "position": 6,
+      "playerId": "m6419",
+      "name": "Michael Rausch",
+      "rating": 1679.72,
+      "dailyRatingChange": -12.42
+    },
+    {
+      "position": 7,
+      "playerId": "m17",
+      "name": "Dave Stewart",
+      "rating": 1691.51,
+      "dailyRatingChange": -7.73
+    },
+    {
+      "position": 8,
+      "playerId": "m19269",
+      "name": "Liberty Ruderman",
+      "rating": 1636,
+      "dailyRatingChange": -9.36
+    },
+    {
+      "position": 9,
+      "playerId": "m708",
+      "name": "John Robinson WA",
+      "rating": 1636.83,
+      "dailyRatingChange": -2.62
+    },
+    {
+      "position": 10,
+      "playerId": "m14647",
+      "name": "Chryste Ferrara",
+      "rating": 1563.03,
+      "dailyRatingChange": -1.98
+    },
+    {
+      "position": 10,
+      "playerId": "m6642",
+      "name": "Eric Morales",
+      "rating": 1627.48,
+      "dailyRatingChange": -8.52
+    },
+    {
+      "position": 10,
+      "playerId": "m6535",
+      "name": "Stephen Donaldson",
+      "rating": 1632.96,
+      "dailyRatingChange": -2.19
+    },
+    {
+      "position": 13,
+      "playerId": "m12548",
+      "name": "Drew Hopper",
+      "rating": 1623.8,
+      "dailyRatingChange": -6.65
+    },
+    {
+      "position": 14,
+      "playerId": "m31425",
+      "name": "Rhett Pearson",
+      "rating": 1535.54,
+      "dailyRatingChange": -6.64
+    },
+    {
+      "position": 15,
+      "playerId": "i68823",
+      "name": "Trent Barton",
+      "rating": 1464.38,
+      "dailyRatingChange": 0.14
+    },
+    {
+      "position": 16,
+      "playerId": "m4408",
+      "name": "John McConnell",
+      "rating": 1564.84,
+      "dailyRatingChange": -1.04
+    }
+  ]
+}

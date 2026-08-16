@@ -1,0 +1,157 @@
+{
+  "locationId": "11626",
+  "venueName": "The Dusty Planet",
+  "venueAddress": "39 Troy Street Providence RI",
+  "tournaments": [
+    {
+      "id": 260511,
+      "name": "NPC Season 3 @ The Dusty Planet Week 5",
+      "date": "8/13/2026",
+      "playerCount": 13,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m33421",
+          "name": "Mike Renzi",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m1085",
+          "name": "Chris Harvey",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m36978",
+          "name": "Holly Papaw",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m27923",
+          "name": "Colleen Riley",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m5899",
+          "name": "Bill MacDonald",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 260510,
+      "name": "NPC Season 3 @ The Dusty Planet Week 4",
+      "date": "8/6/2026",
+      "playerCount": 15,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m49666",
+          "name": "Quinn Miller",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m1085",
+          "name": "Chris Harvey",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m49998",
+          "name": "Garrett Couto",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m5899",
+          "name": "Bill MacDonald",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m20488",
+          "name": "Amber Lee RI",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 260509,
+      "name": "NPC Season 3 @ The Dusty Planet Week 3",
+      "date": "7/30/2026",
+      "playerCount": 16,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m49666",
+          "name": "Quinn Miller",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m1085",
+          "name": "Chris Harvey",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m5899",
+          "name": "Bill MacDonald",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m27923",
+          "name": "Colleen Riley",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m53883",
+          "name": "Larry Wineland",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 260508,
+      "name": "NPC Season 3 @ The Dusty Planet Week 2",
+      "date": "7/23/2026",
+      "playerCount": 16,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m33421",
+          "name": "Mike Renzi",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m56408",
+          "name": "Jack Van Leer",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m36978",
+          "name": "Holly Papaw",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m49666",
+          "name": "Quinn Miller",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

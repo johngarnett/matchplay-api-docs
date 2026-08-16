@@ -1,0 +1,151 @@
+{
+  "tournamentId": 264928,
+  "name": "MF Strikes",
+  "date": "2026-08-01",
+  "locationId": "6612",
+  "locationName": "Lynn's Arcade: A Pinball Parlor and Can Slangery",
+  "playerCount": 20,
+  "ratingsDate": "2026-08-01",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m4414",
+      "name": "Xavier Marin",
+      "rating": 1675.65,
+      "dailyRatingChange": 4.07
+    },
+    {
+      "position": 2,
+      "playerId": "m3108",
+      "name": "John Tracey",
+      "rating": 1693.32,
+      "dailyRatingChange": 0.05
+    },
+    {
+      "position": 3,
+      "playerId": "m2695",
+      "name": "Nick Vibe",
+      "rating": 1623.85,
+      "dailyRatingChange": 4.36
+    },
+    {
+      "position": 3,
+      "playerId": "m21063",
+      "name": "Andreina Ramirez",
+      "rating": 1491.7,
+      "dailyRatingChange": 7.06
+    },
+    {
+      "position": 5,
+      "playerId": "m60",
+      "name": "Cary Carmichael",
+      "rating": 1604.4,
+      "dailyRatingChange": 1.8
+    },
+    {
+      "position": 6,
+      "playerId": "m20363",
+      "name": "Linda G",
+      "rating": 1483.9,
+      "dailyRatingChange": 2.25
+    },
+    {
+      "position": 6,
+      "playerId": "m326190",
+      "name": "Craig Heitmann",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 6,
+      "playerId": "m4141",
+      "name": "Philip Priddy",
+      "rating": 1627.22,
+      "dailyRatingChange": -0.73
+    },
+    {
+      "position": 9,
+      "playerId": "m532879",
+      "name": "Nando Neira",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 9,
+      "playerId": "m6045",
+      "name": "Mike Hubbard",
+      "rating": 1592.87,
+      "dailyRatingChange": -2.08
+    },
+    {
+      "position": 9,
+      "playerId": "m12915",
+      "name": "Eric Garcia",
+      "rating": 1618.9,
+      "dailyRatingChange": -1.01
+    },
+    {
+      "position": 12,
+      "playerId": "m2642",
+      "name": "Nikki Carmichael",
+      "rating": 1597.54,
+      "dailyRatingChange": -1.06
+    },
+    {
+      "position": 12,
+      "playerId": "m21218",
+      "name": "Anthony Garcia CA",
+      "rating": 1567.7,
+      "dailyRatingChange": -1.69
+    },
+    {
+      "position": 12,
+      "playerId": "m450053",
+      "name": "Julia Payne",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 15,
+      "playerId": "m10713",
+      "name": "Ikela Lagapa",
+      "rating": 1497.63,
+      "dailyRatingChange": -2.47
+    },
+    {
+      "position": 15,
+      "playerId": "m455133",
+      "name": "Haley Halkias",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 15,
+      "playerId": "m169915",
+      "name": "Nelson Mercado",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 18,
+      "playerId": "m19871",
+      "name": "Melina Meltzer",
+      "rating": 1513.22,
+      "dailyRatingChange": -2.17
+    },
+    {
+      "position": 18,
+      "playerId": "m59833",
+      "name": "Colin Dyson",
+      "rating": 1470.73,
+      "dailyRatingChange": null
+    },
+    {
+      "position": 18,
+      "playerId": "m60214",
+      "name": "Pete Lee",
+      "rating": 1539.35,
+      "dailyRatingChange": -3.31
+    }
+  ]
+}

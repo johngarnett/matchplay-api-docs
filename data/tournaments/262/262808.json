@@ -1,0 +1,67 @@
+{
+  "tournamentId": 262808,
+  "name": "TC Belles & Chimes @ The Coin Slot 2026-07-19",
+  "date": "2026-07-19",
+  "locationId": "7370",
+  "locationName": "The Coin Slot",
+  "playerCount": 8,
+  "ratingsDate": "2026-07-19",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "i117449",
+      "name": "Jodee Taylor",
+      "rating": 1414.35,
+      "dailyRatingChange": 12.96
+    },
+    {
+      "position": 2,
+      "playerId": "i117447",
+      "name": "Christie Minervini",
+      "rating": 1413.64,
+      "dailyRatingChange": 6.31
+    },
+    {
+      "position": 2,
+      "playerId": "m34066",
+      "name": "Beth Milligan",
+      "rating": 1522.37,
+      "dailyRatingChange": -2.65
+    },
+    {
+      "position": 2,
+      "playerId": "m13877",
+      "name": "Tracy Ward",
+      "rating": 1534.81,
+      "dailyRatingChange": -2.79
+    },
+    {
+      "position": 5,
+      "playerId": "i118326",
+      "name": "Diana Fairbanks",
+      "rating": 1366.18,
+      "dailyRatingChange": 2.89
+    },
+    {
+      "position": 5,
+      "playerId": "i111538",
+      "name": "Margie Doherty",
+      "rating": 1347.63,
+      "dailyRatingChange": 9.05
+    },
+    {
+      "position": 5,
+      "playerId": "m56275",
+      "name": "Leanna Mosoryak",
+      "rating": 1433.38,
+      "dailyRatingChange": -2.63
+    },
+    {
+      "position": 8,
+      "playerId": "i118327",
+      "name": "Gretchen Overbeek",
+      "rating": 1285.78,
+      "dailyRatingChange": -20.38
+    }
+  ]
+}

@@ -1,0 +1,179 @@
+{
+  "locationId": "6798",
+  "name": "The Clubhouse Moorooka",
+  "address": "",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 12,
+  "relatedVenues": [
+    {
+      "locationId": "7450",
+      "name": "The Clubhouse Moorooka",
+      "address": "76 Koala Road, Moorooka, QLD 4105, AU",
+      "count": 68
+    },
+    {
+      "locationId": "7180",
+      "name": "Netherworld",
+      "address": "186 Brunswick St, Fortitude Valley, QLD 4006, AU",
+      "count": 7
+    },
+    {
+      "locationId": "2605",
+      "name": "Empire Alternacade",
+      "address": "409 Flinders St, Townsville City QLD 4810, Australia",
+      "count": 4
+    },
+    {
+      "locationId": "10753",
+      "name": "Empire Alternacade & Events",
+      "address": "409 Flinders St, Townsville, QLD 4810, AU",
+      "count": 2
+    }
+  ],
+  "players": [
+    {
+      "id": "m8801",
+      "name": "Andrew Barrow",
+      "rating": 1616.25,
+      "rd": 37.61,
+      "ratingClass": "A",
+      "homeLocation": "The Clubhouse Moorooka",
+      "homeLocationId": "7450",
+      "percentile": 85.81077933572459,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m8232",
+      "name": "Shaun Ruhland",
+      "rating": 1576.43,
+      "rd": 36.29,
+      "ratingClass": "B",
+      "homeLocation": "The Clubhouse Moorooka",
+      "homeLocationId": "7450",
+      "percentile": 75.62304933153212,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m15222",
+      "name": "Jon Tannahill",
+      "rating": 1543.19,
+      "rd": 30.98,
+      "ratingClass": "B",
+      "homeLocation": "The Clubhouse Moorooka",
+      "homeLocationId": "7450",
+      "percentile": 64.28005776307822,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m45384",
+      "name": "Mckenna Bates",
+      "rating": 1542.31,
+      "rd": 21.89,
+      "ratingClass": "B",
+      "homeLocation": "The Clubhouse Moorooka",
+      "homeLocationId": "7450",
+      "percentile": 63.991242372012856,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m13440",
+      "name": "Derek Broadfoot",
+      "rating": 1524.13,
+      "rd": 74.97,
+      "ratingClass": "B",
+      "homeLocation": "The Clubhouse Moorooka",
+      "homeLocationId": "6798",
+      "percentile": 56.780174220897194,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m4836",
+      "name": "Matthew Tolhurst",
+      "rating": 1510.71,
+      "rd": 41.22,
+      "ratingClass": "B",
+      "homeLocation": "The Clubhouse Moorooka",
+      "homeLocationId": "7450",
+      "percentile": 51.506964177574886,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m13953",
+      "name": "Mike Coolican",
+      "rating": 1507.21,
+      "rd": 27.44,
+      "ratingClass": "B",
+      "homeLocation": "The Clubhouse Moorooka",
+      "homeLocationId": "7450",
+      "percentile": 50.06754553500722,
+      "changeDisplay": "-14.6",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m18151",
+      "name": "Aaron Raynor",
+      "rating": 1491.43,
+      "rd": 25.56,
+      "ratingClass": "C",
+      "homeLocation": "The Clubhouse Moorooka",
+      "homeLocationId": "7450",
+      "percentile": 43.62509898914613,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m40455",
+      "name": "Pat Mortiss",
+      "rating": 1458.44,
+      "rd": 49.39,
+      "ratingClass": "C",
+      "homeLocation": "The Clubhouse Moorooka",
+      "homeLocationId": "7450",
+      "percentile": 30.320957749103272,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m50412",
+      "name": "Sam hall",
+      "rating": 1438.04,
+      "rd": 42.38,
+      "ratingClass": "C",
+      "homeLocation": "The Clubhouse Moorooka",
+      "homeLocationId": "7450",
+      "percentile": 23.067964783155542,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m21809",
+      "name": "Ryan McClurg",
+      "rating": 1422.46,
+      "rd": 57.93,
+      "ratingClass": "C",
+      "homeLocation": "The Clubhouse Moorooka",
+      "homeLocationId": "7450",
+      "percentile": 18.349093958168353,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m50441",
+      "name": "Jack McIntyre",
+      "rating": null,
+      "rd": null,
+      "ratingClass": "N/A",
+      "homeLocation": "The Clubhouse Moorooka",
+      "homeLocationId": "6798",
+      "percentile": null,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

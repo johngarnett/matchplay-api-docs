@@ -1,0 +1,67 @@
+{
+  "tournamentId": 265899,
+  "name": "Finals for Weeknight Pinball at My Parents' Basement Aug 6 2026 MPB",
+  "date": "2026-08-07",
+  "locationId": "6570",
+  "locationName": "My Parents' Basement",
+  "playerCount": 8,
+  "ratingsDate": "2026-08-07",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m28515",
+      "name": "Jake Michael",
+      "rating": 1663.69,
+      "dailyRatingChange": 5.62
+    },
+    {
+      "position": 2,
+      "playerId": "m49922",
+      "name": "Max Woo",
+      "rating": 1614.44,
+      "dailyRatingChange": 5.67
+    },
+    {
+      "position": 3,
+      "playerId": "m26599",
+      "name": "Tucker Godek",
+      "rating": 1610.3,
+      "dailyRatingChange": 4.36
+    },
+    {
+      "position": 4,
+      "playerId": "m15379",
+      "name": "Michael Glidewell",
+      "rating": 1573.33,
+      "dailyRatingChange": 7.99
+    },
+    {
+      "position": 5,
+      "playerId": "m11142",
+      "name": "Tommy Vernieri",
+      "rating": 1674.08,
+      "dailyRatingChange": 0.14
+    },
+    {
+      "position": 5,
+      "playerId": "m10434",
+      "name": "Harold VanPatten",
+      "rating": 1683.11,
+      "dailyRatingChange": 1.81
+    },
+    {
+      "position": 7,
+      "playerId": "m15389",
+      "name": "Cat McFarland",
+      "rating": 1577.82,
+      "dailyRatingChange": 0.05
+    },
+    {
+      "position": 7,
+      "playerId": "m49715",
+      "name": "Michael Gaddis",
+      "rating": 1506.86,
+      "dailyRatingChange": 1.36
+    }
+  ]
+}

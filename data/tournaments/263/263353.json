@@ -1,0 +1,39 @@
+{
+  "tournamentId": 263353,
+  "name": "Finals for Rec Haus 7/22/26",
+  "date": "2026-07-23",
+  "locationId": "12269",
+  "locationName": "Rec Haus",
+  "playerCount": 4,
+  "ratingsDate": "2026-07-23",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m54367",
+      "name": "Joe winans",
+      "rating": 1632.51,
+      "dailyRatingChange": 9.48
+    },
+    {
+      "position": 2,
+      "playerId": "m28207",
+      "name": "Tom Knorst",
+      "rating": 1646.13,
+      "dailyRatingChange": 9.88
+    },
+    {
+      "position": 3,
+      "playerId": "m46846",
+      "name": "Corbin Pangborn",
+      "rating": 1469.3,
+      "dailyRatingChange": 13.07
+    },
+    {
+      "position": 4,
+      "playerId": "m39543",
+      "name": "Collin Koko",
+      "rating": 1565.93,
+      "dailyRatingChange": 3.09
+    }
+  ]
+}

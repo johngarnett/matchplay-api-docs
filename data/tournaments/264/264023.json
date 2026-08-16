@@ -1,0 +1,123 @@
+{
+  "tournamentId": 264023,
+  "name": "Brutal Fattery's PRP Birthday Tournament",
+  "date": "2026-07-27",
+  "locationId": "7976",
+  "locationName": "Starlite Arcade",
+  "playerCount": 16,
+  "ratingsDate": "2026-07-27",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m34517",
+      "name": "Guy Miele",
+      "rating": 1499.9,
+      "dailyRatingChange": 23.55
+    },
+    {
+      "position": 2,
+      "playerId": "i124157",
+      "name": "Sean Farquhar",
+      "rating": 1498.75,
+      "dailyRatingChange": 27.77
+    },
+    {
+      "position": 3,
+      "playerId": "m28467",
+      "name": "Brendan Kuras",
+      "rating": 1507.75,
+      "dailyRatingChange": 3.59
+    },
+    {
+      "position": 4,
+      "playerId": "m42063",
+      "name": "Leonard Narmore",
+      "rating": 1563.48,
+      "dailyRatingChange": 1.06
+    },
+    {
+      "position": 5,
+      "playerId": "m582290",
+      "name": "Steven Vancamp",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 6,
+      "playerId": "m42066",
+      "name": "Kevin Dunham",
+      "rating": 1426.88,
+      "dailyRatingChange": null
+    },
+    {
+      "position": 7,
+      "playerId": "m582285",
+      "name": "Mike Dionne",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 8,
+      "playerId": "i136548",
+      "name": "Tim Allen MI",
+      "rating": 1443.53,
+      "dailyRatingChange": 5.15
+    },
+    {
+      "position": 9,
+      "playerId": "m582277",
+      "name": "James Layle",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 10,
+      "playerId": "m582291",
+      "name": "Lori Mackey",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 11,
+      "playerId": "m582293",
+      "name": "Brian Johnston",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 11,
+      "playerId": "m582287",
+      "name": "Bunga",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 13,
+      "playerId": "m570259",
+      "name": "Donna Lepien",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 14,
+      "playerId": "i111725",
+      "name": "Micky Hutchinson",
+      "rating": 1381.67,
+      "dailyRatingChange": -13.09
+    },
+    {
+      "position": 14,
+      "playerId": "m582294",
+      "name": "Stefanie Johnston",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 16,
+      "playerId": "m582284",
+      "name": "David Babrak",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

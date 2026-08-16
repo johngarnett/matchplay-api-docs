@@ -1,0 +1,123 @@
+{
+  "tournamentId": 253662,
+  "name": "Special When Lit - 3-Strike Knockout Tournament",
+  "date": "2026-08-07",
+  "locationId": "9714",
+  "locationName": "Special When Lit Pinball",
+  "playerCount": 16,
+  "ratingsDate": "2026-08-07",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m45232",
+      "name": "Matt Cipperly",
+      "rating": 1591.41,
+      "dailyRatingChange": 9.53
+    },
+    {
+      "position": 2,
+      "playerId": "m35230",
+      "name": "Joseph Sachs",
+      "rating": 1592.15,
+      "dailyRatingChange": 4.69
+    },
+    {
+      "position": 3,
+      "playerId": "m31992",
+      "name": "Noah Sicard",
+      "rating": 1804.39,
+      "dailyRatingChange": -2.78
+    },
+    {
+      "position": 4,
+      "playerId": "m56494",
+      "name": "Joseph Rembecki",
+      "rating": 1674.43,
+      "dailyRatingChange": 0.55
+    },
+    {
+      "position": 5,
+      "playerId": "m18554",
+      "name": "Kristen Whitby",
+      "rating": 1560.63,
+      "dailyRatingChange": 2.27
+    },
+    {
+      "position": 5,
+      "playerId": "m23091",
+      "name": "Nick Elliott",
+      "rating": 1649.37,
+      "dailyRatingChange": 0.04
+    },
+    {
+      "position": 7,
+      "playerId": "m577206",
+      "name": "Beejan Iranshad",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 7,
+      "playerId": "m73",
+      "name": "Lauren Aquino",
+      "rating": 1563.49,
+      "dailyRatingChange": -2.28
+    },
+    {
+      "position": 9,
+      "playerId": "m41219",
+      "name": "Joshua Theno",
+      "rating": 1495.01,
+      "dailyRatingChange": 0.61
+    },
+    {
+      "position": 9,
+      "playerId": "m9486",
+      "name": "Bill Volckening",
+      "rating": 1515.03,
+      "dailyRatingChange": -0.04
+    },
+    {
+      "position": 9,
+      "playerId": "m29558",
+      "name": "Edward Schmucker",
+      "rating": 1583.61,
+      "dailyRatingChange": -1
+    },
+    {
+      "position": 12,
+      "playerId": "m14940",
+      "name": "Derek Jennings",
+      "rating": 1741.18,
+      "dailyRatingChange": -4.8
+    },
+    {
+      "position": 12,
+      "playerId": "m35630",
+      "name": "Frank Bartoletta",
+      "rating": 1454.81,
+      "dailyRatingChange": -1.28
+    },
+    {
+      "position": 12,
+      "playerId": "m46017",
+      "name": "Nicholas Theno",
+      "rating": 1472.11,
+      "dailyRatingChange": -2.99
+    },
+    {
+      "position": 15,
+      "playerId": "m9459",
+      "name": "Linda Volckening",
+      "rating": 1477.52,
+      "dailyRatingChange": -3.47
+    },
+    {
+      "position": 15,
+      "playerId": "m575197",
+      "name": "Jeana Gump",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

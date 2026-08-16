@@ -1,0 +1,303 @@
+{
+  "locationId": "5700",
+  "venueName": "Odense Pinball Arkade",
+  "venueAddress": "Dannebrogsgade 3, Odense, 5000, DK",
+  "tournaments": [
+    {
+      "id": 266782,
+      "name": "B-Finals for OPA Onsdag 12/08",
+      "date": "8/12/2026",
+      "playerCount": 4,
+      "qualifying": {
+        "id": 266769,
+        "name": "OPA Onsdag 12/08",
+        "playerCount": 10
+      },
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m38650",
+          "name": "Villads Legind",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m52320",
+          "name": "Jesper Bangsholt",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m60161",
+          "name": "Rune Jensen",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "i139570",
+          "name": "Rasmus Nørgaard",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 266781,
+      "name": "A-Finals for OPA Onsdag 12/08",
+      "date": "8/12/2026",
+      "playerCount": 4,
+      "qualifying": {
+        "id": 266769,
+        "name": "OPA Onsdag 12/08",
+        "playerCount": 10
+      },
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m32777",
+          "name": "Thorsten Hansen",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m31857",
+          "name": "Tordur Debes",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m31586",
+          "name": "Richard Nørgaard",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m48260",
+          "name": "Sebastian Kyster-Hansen",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 265652,
+      "name": "A-Finals for OPA Onsdag 05/08",
+      "date": "8/5/2026",
+      "playerCount": 4,
+      "qualifying": {
+        "id": 265625,
+        "name": "OPA Onsdag 05/08",
+        "playerCount": 20
+      },
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m17970",
+          "name": "Julian Legind",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m31586",
+          "name": "Richard Nørgaard",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m31567",
+          "name": "Kenny Damm Jacobsen",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m31581",
+          "name": "Morten Yde",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 265653,
+      "name": "B-Finals for OPA Onsdag 05/08",
+      "date": "8/5/2026",
+      "playerCount": 4,
+      "qualifying": {
+        "id": 265625,
+        "name": "OPA Onsdag 05/08",
+        "playerCount": 20
+      },
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "i139570",
+          "name": "Rasmus Nørgaard",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m31857",
+          "name": "Tordur Debes",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m31571",
+          "name": "Benjamin Juul Eriksen",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m31582",
+          "name": "Julian Thy",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 264463,
+      "name": "Finals for OPA Onsdag 29/07",
+      "date": "7/29/2026",
+      "playerCount": 4,
+      "qualifying": {
+        "id": 262238,
+        "name": "OPA Onsdag 29/07",
+        "playerCount": 12
+      },
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m42680",
+          "name": "Bertram Søgaard Haun",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m31567",
+          "name": "Kenny Damm Jacobsen",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m31581",
+          "name": "Morten Yde",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m21816",
+          "name": "Jacob Søgaard Haun",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 264462,
+      "name": "Finals for OPA Onsdag 29/07 A",
+      "date": "7/29/2026",
+      "playerCount": 4,
+      "qualifying": {
+        "id": 262238,
+        "name": "OPA Onsdag 29/07",
+        "playerCount": 12
+      },
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m17970",
+          "name": "Julian Legind",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m48260",
+          "name": "Sebastian Kyster-Hansen",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m38650",
+          "name": "Villads Legind",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m38652",
+          "name": "Danni Larsen",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 263278,
+      "name": "A-Finals for OPA Onsdag 22/07",
+      "date": "7/22/2026",
+      "playerCount": 4,
+      "qualifying": {
+        "id": 263264,
+        "name": "OPA Onsdag 22/07",
+        "playerCount": 15
+      },
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m17970",
+          "name": "Julian Legind",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m31586",
+          "name": "Richard Nørgaard",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m42680",
+          "name": "Bertram Søgaard Haun",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m38650",
+          "name": "Villads Legind",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 263279,
+      "name": "B-Finals for OPA Onsdag 22/07",
+      "date": "7/22/2026",
+      "playerCount": 4,
+      "qualifying": {
+        "id": 263264,
+        "name": "OPA Onsdag 22/07",
+        "playerCount": 15
+      },
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m31582",
+          "name": "Julian Thy",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m38652",
+          "name": "Danni Larsen",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m31581",
+          "name": "Morten Yde",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m31589",
+          "name": "Dennis Kjær Jensen",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

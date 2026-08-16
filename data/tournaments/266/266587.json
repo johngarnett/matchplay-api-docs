@@ -1,0 +1,60 @@
+{
+  "tournamentId": 266587,
+  "name": "System Reboot",
+  "date": "2026-08-12",
+  "locationId": null,
+  "locationName": null,
+  "playerCount": 7,
+  "ratingsDate": "2026-08-12",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m51057",
+      "name": "Jonathan Zakel",
+      "rating": 1578.35,
+      "dailyRatingChange": 7.09
+    },
+    {
+      "position": 2,
+      "playerId": "m56401",
+      "name": "Jack Stevens",
+      "rating": 1575.26,
+      "dailyRatingChange": 14.83
+    },
+    {
+      "position": 3,
+      "playerId": "m56345",
+      "name": "Ethan Fleck",
+      "rating": 1587.49,
+      "dailyRatingChange": 6.85
+    },
+    {
+      "position": 4,
+      "playerId": "m540764",
+      "name": "Charlotte Miller",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 5,
+      "playerId": "m58088",
+      "name": "Amanda Fleck",
+      "rating": 1467.71,
+      "dailyRatingChange": -22.92
+    },
+    {
+      "position": 6,
+      "playerId": "m544365",
+      "name": "Kelly Miller",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 7,
+      "playerId": "m586368",
+      "name": "Cameron Anderson",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

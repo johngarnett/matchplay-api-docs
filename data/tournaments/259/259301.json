@@ -1,0 +1,53 @@
+{
+  "tournamentId": 259301,
+  "name": "Flowood Women in July- 2026",
+  "date": "2026-07-25",
+  "locationId": "2957",
+  "locationName": "Captain's Quarters",
+  "playerCount": 6,
+  "ratingsDate": "2026-07-25",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m20181",
+      "name": "Leslie Sinclair",
+      "rating": 1515.52,
+      "dailyRatingChange": 8.16
+    },
+    {
+      "position": 2,
+      "playerId": "m13928",
+      "name": "Emma King",
+      "rating": 1612.54,
+      "dailyRatingChange": 1.93
+    },
+    {
+      "position": 2,
+      "playerId": "m12525",
+      "name": "Amanda Turner",
+      "rating": 1526.06,
+      "dailyRatingChange": 2.52
+    },
+    {
+      "position": 4,
+      "playerId": "m10953",
+      "name": "Jessica Thaxton",
+      "rating": 1582.64,
+      "dailyRatingChange": -9.24
+    },
+    {
+      "position": 5,
+      "playerId": "m11654",
+      "name": "Cecila King",
+      "rating": 1401.19,
+      "dailyRatingChange": 4.35
+    },
+    {
+      "position": 6,
+      "playerId": "m41733",
+      "name": "Shelby Turner",
+      "rating": 1223.48,
+      "dailyRatingChange": -9.11
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "tournamentId": 262558,
+  "name": "Friday Night Pinball @ Remi's",
+  "date": "2026-07-18",
+  "locationId": "9122",
+  "locationName": "Remi’s Arcade & Bistro",
+  "playerCount": 10,
+  "ratingsDate": "2026-07-18",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m51947",
+      "name": "Gage Greenhouse",
+      "rating": 1567.93,
+      "dailyRatingChange": 5.01
+    },
+    {
+      "position": 1,
+      "playerId": "m16667",
+      "name": "Payton Lacy",
+      "rating": 1634.09,
+      "dailyRatingChange": 21.34
+    },
+    {
+      "position": 3,
+      "playerId": "m17973",
+      "name": "Dalton Briggs",
+      "rating": 1596.62,
+      "dailyRatingChange": -1.99
+    },
+    {
+      "position": 4,
+      "playerId": "m27396",
+      "name": "Emmanuel Turinetti",
+      "rating": 1510.57,
+      "dailyRatingChange": 3.16
+    },
+    {
+      "position": 5,
+      "playerId": "i107502",
+      "name": "Cynthia Turinetti",
+      "rating": 1440.79,
+      "dailyRatingChange": 0.46
+    },
+    {
+      "position": 6,
+      "playerId": "m579219",
+      "name": "Noah Whitworth",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 6,
+      "playerId": "m61381",
+      "name": "Daniel Whitworth",
+      "rating": 1442.7,
+      "dailyRatingChange": -4.84
+    },
+    {
+      "position": 8,
+      "playerId": "m28072",
+      "name": "Jonathan Spalding",
+      "rating": 1446.05,
+      "dailyRatingChange": -2.87
+    },
+    {
+      "position": 9,
+      "playerId": "i157184",
+      "name": "Deep Bhari",
+      "rating": 1338.34,
+      "dailyRatingChange": -2.26
+    },
+    {
+      "position": 9,
+      "playerId": "m28087",
+      "name": "David Turinetti",
+      "rating": 1383.76,
+      "dailyRatingChange": -3.1
+    }
+  ]
+}

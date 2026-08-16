@@ -1,0 +1,215 @@
+{
+  "locationId": "11259",
+  "name": "Asheville Retrocade",
+  "address": "Asheville, NC 28806, US",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 13,
+  "relatedVenues": [
+    {
+      "locationId": "8072",
+      "name": "Level 256 Classic Arcade Bar",
+      "address": "79 Coxe Ave, Asheville, NC, 28801, US",
+      "count": 27
+    },
+    {
+      "locationId": "8746",
+      "name": "The Retrocade",
+      "address": "800 Haywood Road, Asheville, NC 28806, US",
+      "count": 22
+    },
+    {
+      "locationId": "13088",
+      "name": "Distant View",
+      "address": "115 Distant View Dr., Asheville, NC 28803",
+      "count": 3
+    },
+    {
+      "locationId": "2469",
+      "name": "Fellowship of the silver ball clubhouse",
+      "address": "",
+      "count": 2
+    },
+    {
+      "locationId": "9839",
+      "name": "DSSOLVR",
+      "address": "63 N Lexington Ave, Asheville, NC, 28801, US",
+      "count": 1
+    },
+    {
+      "locationId": "10319",
+      "name": "Turtledove",
+      "address": "4 Turtledove Trl., Asheville NC",
+      "count": 1
+    },
+    {
+      "locationId": "10348",
+      "name": "Luckycreature hq",
+      "address": "Asheville, NC",
+      "count": 1
+    },
+    {
+      "locationId": "12063",
+      "name": "Neon Moon",
+      "address": "1805 N Roan St G9, Johnson City, TN, 37601, US",
+      "count": 1
+    }
+  ],
+  "players": [
+    {
+      "id": "m17256",
+      "name": "Macy Richards",
+      "rating": 1618.54,
+      "rd": 27.67,
+      "ratingClass": "A",
+      "homeLocation": "Asheville Retrocade",
+      "homeLocationId": "11259",
+      "percentile": 86.31853542646853,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m38376",
+      "name": "Zoe Roschach",
+      "rating": 1550.75,
+      "rd": 29.91,
+      "ratingClass": "B",
+      "homeLocation": "Asheville Retrocade",
+      "homeLocationId": "11259",
+      "percentile": 66.98653747612614,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m28725",
+      "name": "Adrian Ogletree",
+      "rating": 1499.4,
+      "rd": 24.53,
+      "ratingClass": "C",
+      "homeLocation": "Level 256 Classic Arcade Bar",
+      "homeLocationId": "8072",
+      "percentile": 46.85796804397447,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m61740",
+      "name": "Greenleigh Elgie",
+      "rating": 1490.39,
+      "rd": 58.98,
+      "ratingClass": "C",
+      "homeLocation": "Asheville Retrocade",
+      "homeLocationId": "11259",
+      "percentile": 43.16392602599339,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m48074",
+      "name": "Peyton Mozer",
+      "rating": 1416.71,
+      "rd": 29.57,
+      "ratingClass": "C",
+      "homeLocation": "Asheville Retrocade",
+      "homeLocationId": "11259",
+      "percentile": 16.797875809381843,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m53048",
+      "name": "Ginny Ostgaard",
+      "rating": 1408.27,
+      "rd": 26.35,
+      "ratingClass": "C",
+      "homeLocation": "The Retrocade",
+      "homeLocationId": "8746",
+      "percentile": 14.60846881259608,
+      "changeDisplay": "+12.9",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m33124",
+      "name": "Carrie Willis",
+      "rating": 1394.66,
+      "rd": 24.18,
+      "ratingClass": "D",
+      "homeLocation": "The Retrocade",
+      "homeLocationId": "8746",
+      "percentile": 11.212558811198583,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m61743",
+      "name": "Zea Marty",
+      "rating": 1385.76,
+      "rd": 62.69,
+      "ratingClass": "D",
+      "homeLocation": "Asheville Retrocade",
+      "homeLocationId": "11259",
+      "percentile": 9.47034983928821,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m61741",
+      "name": "Madeleine Carrington",
+      "rating": 1365.86,
+      "rd": 58.73,
+      "ratingClass": "D",
+      "homeLocation": "Asheville Retrocade",
+      "homeLocationId": "11259",
+      "percentile": 6.172264405832208,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m61749",
+      "name": "Mikey Revia",
+      "rating": 1348.73,
+      "rd": 38.62,
+      "ratingClass": "D",
+      "homeLocation": "Asheville Retrocade",
+      "homeLocationId": "11259",
+      "percentile": 4.113290166301765,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m48075",
+      "name": "Grayson Reese",
+      "rating": 1347.48,
+      "rd": 37.27,
+      "ratingClass": "D",
+      "homeLocation": "Asheville Retrocade",
+      "homeLocationId": "11259",
+      "percentile": 3.992174034564681,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m26497",
+      "name": "Katie Sampler",
+      "rating": 1316.06,
+      "rd": 19.53,
+      "ratingClass": "D",
+      "homeLocation": "Level 256 Classic Arcade Bar",
+      "homeLocationId": "8072",
+      "percentile": 1.6583593422462386,
+      "changeDisplay": "-3.3",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "i156158",
+      "name": "Lilly NC",
+      "rating": 1253.53,
+      "rd": 37.48,
+      "ratingClass": "E",
+      "homeLocation": "Level 256 Classic Arcade Bar",
+      "homeLocationId": "8072",
+      "percentile": 0.25154888899240696,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

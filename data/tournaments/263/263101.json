@@ -1,0 +1,81 @@
+{
+  "tournamentId": 263101,
+  "name": "IFPA Crawlers #1",
+  "date": "2026-07-22",
+  "locationId": "10180",
+  "locationName": "Pinball Planet",
+  "playerCount": 10,
+  "ratingsDate": "2026-07-22",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m9669",
+      "name": "Brent Reed",
+      "rating": 1618.68,
+      "dailyRatingChange": 7.72
+    },
+    {
+      "position": 2,
+      "playerId": "m4199",
+      "name": "Mark Brown OH",
+      "rating": 1679.18,
+      "dailyRatingChange": 0.39
+    },
+    {
+      "position": 3,
+      "playerId": "m51521",
+      "name": "Nathan Ritchey",
+      "rating": 1607.1,
+      "dailyRatingChange": -0.91
+    },
+    {
+      "position": 4,
+      "playerId": "m5364",
+      "name": "Tedd Mirgliotta",
+      "rating": 1603.33,
+      "dailyRatingChange": 0.45
+    },
+    {
+      "position": 5,
+      "playerId": "m5410",
+      "name": "Chris Weber",
+      "rating": 1589.27,
+      "dailyRatingChange": -0.17
+    },
+    {
+      "position": 6,
+      "playerId": "m34177",
+      "name": "Mark Dunlevy",
+      "rating": 1533.16,
+      "dailyRatingChange": 6.28
+    },
+    {
+      "position": 6,
+      "playerId": "m43456",
+      "name": "Brianna Weber",
+      "rating": 1574.92,
+      "dailyRatingChange": -0.7
+    },
+    {
+      "position": 8,
+      "playerId": "m43715",
+      "name": "Wayne Guk",
+      "rating": 1496.19,
+      "dailyRatingChange": -1.6
+    },
+    {
+      "position": 9,
+      "playerId": "m33894",
+      "name": "Amy Virostko",
+      "rating": 1544.95,
+      "dailyRatingChange": -3.27
+    },
+    {
+      "position": 10,
+      "playerId": "m1926",
+      "name": "Michael Trombetta",
+      "rating": 1577.8,
+      "dailyRatingChange": -6.63
+    }
+  ]
+}

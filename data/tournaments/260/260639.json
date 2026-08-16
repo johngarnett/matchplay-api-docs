@@ -1,0 +1,102 @@
+{
+  "tournamentId": 260639,
+  "name": "Game Lab Pinball Experiment (8/8/26)",
+  "date": "2026-08-09",
+  "locationId": "10953",
+  "locationName": "Riverside Game Lab",
+  "playerCount": 13,
+  "ratingsDate": "2026-08-09",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m13289",
+      "name": "Paul Xavier",
+      "rating": 1622.83,
+      "dailyRatingChange": 10.72
+    },
+    {
+      "position": 2,
+      "playerId": "m22958",
+      "name": "David acosta",
+      "rating": 1564.1,
+      "dailyRatingChange": 19.81
+    },
+    {
+      "position": 3,
+      "playerId": "m21011",
+      "name": "David Zuckerman",
+      "rating": 1571.3,
+      "dailyRatingChange": 0.81
+    },
+    {
+      "position": 4,
+      "playerId": "m21684",
+      "name": "Jose Villasana",
+      "rating": 1634.39,
+      "dailyRatingChange": 4.2
+    },
+    {
+      "position": 5,
+      "playerId": "m26158",
+      "name": "Robert Potter",
+      "rating": 1783.67,
+      "dailyRatingChange": -4.81
+    },
+    {
+      "position": 5,
+      "playerId": "i138334",
+      "name": "Kurtis Bond",
+      "rating": 1523.54,
+      "dailyRatingChange": -16.71
+    },
+    {
+      "position": 7,
+      "playerId": "m21097",
+      "name": "Dan Imblum",
+      "rating": 1489.38,
+      "dailyRatingChange": 8.56
+    },
+    {
+      "position": 7,
+      "playerId": "m24111",
+      "name": "Chelsea Villalobos",
+      "rating": 1500.91,
+      "dailyRatingChange": -1.96
+    },
+    {
+      "position": 9,
+      "playerId": "m54970",
+      "name": "Stu Mumford",
+      "rating": 1446.78,
+      "dailyRatingChange": -6.9
+    },
+    {
+      "position": 10,
+      "playerId": "m62272",
+      "name": "Robert Crawford",
+      "rating": 1454.93,
+      "dailyRatingChange": -4.21
+    },
+    {
+      "position": 10,
+      "playerId": "m577856",
+      "name": "Leif Lane",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 12,
+      "playerId": "m62282",
+      "name": "Amanda Crawford",
+      "rating": 1410.7,
+      "dailyRatingChange": -3.5
+    },
+    {
+      "position": 13,
+      "playerId": "m22990",
+      "name": "Michelle Elpusan",
+      "rating": 1405.21,
+      "dailyRatingChange": -14.17
+    }
+  ]
+}

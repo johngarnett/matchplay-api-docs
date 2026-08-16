@@ -1,0 +1,215 @@
+{
+  "locationId": "13713",
+  "name": "Game Galaxy",
+  "address": "38 Ráday u., Budapest, 1092, HU",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 15,
+  "relatedVenues": [
+    {
+      "locationId": "11426",
+      "name": "Buzas Pinball & Wine Guesthouse",
+      "address": "3013 Ecséd, Kossuth Lajos u. 134. - Hungary",
+      "count": 24
+    },
+    {
+      "locationId": "3970",
+      "name": "Flippnic",
+      "address": "Badendorf 12b, 8413 Badendorf, Austria",
+      "count": 8
+    },
+    {
+      "locationId": "8617",
+      "name": "Biljardna Hisa Ljubljana - Slovenska",
+      "address": "Slovenska 58, 1000 Ljubljana",
+      "count": 6
+    },
+    {
+      "locationId": "10751",
+      "name": "Budapest Pinball Museum / Flippermúzeum",
+      "address": "18 Radnóti Miklós utca, Budapest, Hungary 1137, HU",
+      "count": 5
+    }
+  ],
+  "players": [
+    {
+      "id": "i27371",
+      "name": "Sághy Kálmán",
+      "rating": 1721.26,
+      "rd": 24.71,
+      "ratingClass": "Expert",
+      "homeLocation": "Budapest Pinball Museum / Flippermúzeum",
+      "homeLocationId": "10751",
+      "percentile": 97.73140168630921,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m32157",
+      "name": "Szabo Istvan",
+      "rating": 1677.84,
+      "rd": 24.91,
+      "ratingClass": "A",
+      "homeLocation": "Buzas Pinball & Wine Guesthouse",
+      "homeLocationId": "11426",
+      "percentile": 94.91778077980155,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m14569",
+      "name": "Sandor Varga",
+      "rating": 1624.52,
+      "rd": 21.71,
+      "ratingClass": "A",
+      "homeLocation": "Biljardna Hisa Ljubljana - Slovenska",
+      "homeLocationId": "8617",
+      "percentile": 87.51572180556202,
+      "changeDisplay": "-1.0",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "i60239",
+      "name": "Gabor Veszelovszky",
+      "rating": 1605.53,
+      "rd": 27,
+      "ratingClass": "A",
+      "homeLocation": "Game Galaxy",
+      "homeLocationId": "13713",
+      "percentile": 83.28131550752317,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m43602",
+      "name": "Pintér László",
+      "rating": 1573.35,
+      "rd": 25.87,
+      "ratingClass": "B",
+      "homeLocation": "Buzas Pinball & Wine Guesthouse",
+      "homeLocationId": "11426",
+      "percentile": 74.56561233521218,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m14977",
+      "name": "Attila Biro",
+      "rating": 1564.08,
+      "rd": 31.8,
+      "ratingClass": "B",
+      "homeLocation": "Game Galaxy",
+      "homeLocationId": "13713",
+      "percentile": 71.6728001117995,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m9644",
+      "name": "Ferenc Fruhvald",
+      "rating": 1549.77,
+      "rd": 24.9,
+      "ratingClass": "B",
+      "homeLocation": "Buzas Pinball & Wine Guesthouse",
+      "homeLocationId": "11426",
+      "percentile": 66.61387245539665,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m27350",
+      "name": "Zoltán Dósa",
+      "rating": 1538.41,
+      "rd": 29.12,
+      "ratingClass": "B",
+      "homeLocation": "Buzas Pinball & Wine Guesthouse",
+      "homeLocationId": "11426",
+      "percentile": 62.440024223226345,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m46834",
+      "name": "Gyula Feher",
+      "rating": 1519.16,
+      "rd": 25.08,
+      "ratingClass": "B",
+      "homeLocation": "Buzas Pinball & Wine Guesthouse",
+      "homeLocationId": "11426",
+      "percentile": 54.81436623654912,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m29641",
+      "name": "Jozsef Romhanyi",
+      "rating": 1513.1,
+      "rd": 23.16,
+      "ratingClass": "B",
+      "homeLocation": "Flippnic",
+      "homeLocationId": "3970",
+      "percentile": 52.39204360180742,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m24906",
+      "name": "Laszlo Karsai",
+      "rating": 1507.09,
+      "rd": 24.67,
+      "ratingClass": "B",
+      "homeLocation": "Flippnic",
+      "homeLocationId": "3970",
+      "percentile": 49.99767084362044,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m16593",
+      "name": "Kitti Fruhvald",
+      "rating": 1503.82,
+      "rd": 24.89,
+      "ratingClass": "B",
+      "homeLocation": "Buzas Pinball & Wine Guesthouse",
+      "homeLocationId": "11426",
+      "percentile": 48.75855964969488,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m25940",
+      "name": "Maria Kovacs-Olah",
+      "rating": 1448.53,
+      "rd": 26.22,
+      "ratingClass": "C",
+      "homeLocation": "Flippnic",
+      "homeLocationId": "3970",
+      "percentile": 26.580332603530998,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m42436",
+      "name": "Csaba Asztalos",
+      "rating": 1447.2,
+      "rd": 28.3,
+      "ratingClass": "C",
+      "homeLocation": "Buzas Pinball & Wine Guesthouse",
+      "homeLocationId": "11426",
+      "percentile": 26.16574276796944,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m53125",
+      "name": "Gyulane Feher Erzsi",
+      "rating": 1371.63,
+      "rd": 32.26,
+      "ratingClass": "D",
+      "homeLocation": "Buzas Pinball & Wine Guesthouse",
+      "homeLocationId": "11426",
+      "percentile": 6.9921274514370895,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

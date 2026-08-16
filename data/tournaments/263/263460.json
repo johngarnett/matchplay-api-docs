@@ -1,0 +1,130 @@
+{
+  "tournamentId": 263460,
+  "name": "tcpinball.org @ Right Brain 2026-07-23",
+  "date": "2026-07-24",
+  "locationId": "6879",
+  "locationName": "Right Brain Brewery",
+  "playerCount": 17,
+  "ratingsDate": "2026-07-24",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m10803",
+      "name": "Dingo Hilgard",
+      "rating": 1688.4,
+      "dailyRatingChange": 5.69
+    },
+    {
+      "position": 2,
+      "playerId": "m32231",
+      "name": "Johnny G",
+      "rating": 1636.4,
+      "dailyRatingChange": -0.32
+    },
+    {
+      "position": 3,
+      "playerId": "m32581",
+      "name": "Ross Williams",
+      "rating": 1643.98,
+      "dailyRatingChange": 13.76
+    },
+    {
+      "position": 4,
+      "playerId": "m32194",
+      "name": "AJ Scott",
+      "rating": 1613.7,
+      "dailyRatingChange": 2.85
+    },
+    {
+      "position": 5,
+      "playerId": "i103714",
+      "name": "Norm Bowbeer",
+      "rating": 1572.26,
+      "dailyRatingChange": 2.7
+    },
+    {
+      "position": 6,
+      "playerId": "m60674",
+      "name": "John Anderson",
+      "rating": 1442.36,
+      "dailyRatingChange": 3.59
+    },
+    {
+      "position": 6,
+      "playerId": "m25014",
+      "name": "Ben Harris",
+      "rating": 1520.73,
+      "dailyRatingChange": 2.84
+    },
+    {
+      "position": 8,
+      "playerId": "m13782",
+      "name": "Brion roper",
+      "rating": 1472.8,
+      "dailyRatingChange": 4.06
+    },
+    {
+      "position": 9,
+      "playerId": "m44725",
+      "name": "Mike Alfaro",
+      "rating": 1592.99,
+      "dailyRatingChange": -3.27
+    },
+    {
+      "position": 10,
+      "playerId": "i129903",
+      "name": "Zach Wilkins",
+      "rating": 1471.08,
+      "dailyRatingChange": -0.75
+    },
+    {
+      "position": 11,
+      "playerId": "i141312",
+      "name": "Murray Elliott",
+      "rating": 1477.89,
+      "dailyRatingChange": -4.3
+    },
+    {
+      "position": 12,
+      "playerId": "m13877",
+      "name": "Tracy Ward",
+      "rating": 1523.25,
+      "dailyRatingChange": -2.52
+    },
+    {
+      "position": 12,
+      "playerId": "m504565",
+      "name": "Isaac Entz",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 14,
+      "playerId": "m580351",
+      "name": "Ray Griffin",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 15,
+      "playerId": "i141311",
+      "name": "Reuben Sando",
+      "rating": 1492.7,
+      "dailyRatingChange": -6.46
+    },
+    {
+      "position": 15,
+      "playerId": "i113742",
+      "name": "George Ludwig",
+      "rating": 1568.31,
+      "dailyRatingChange": -10.16
+    },
+    {
+      "position": 17,
+      "playerId": "m31152",
+      "name": "Danny Tewers",
+      "rating": 1525.41,
+      "dailyRatingChange": -5.75
+    }
+  ]
+}

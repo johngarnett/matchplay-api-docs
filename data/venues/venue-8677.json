@@ -1,0 +1,65 @@
+{
+  "locationId": "8677",
+  "name": "Kay's Diner",
+  "address": "Albringhausen 63, 27211 Bassum",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 4,
+  "relatedVenues": [
+    {
+      "locationId": "5539",
+      "name": "Pinball Universe - Challenge Area",
+      "address": "Daimlerstraße 41-43, 32257 Bünde, Deutschland",
+      "count": 2
+    }
+  ],
+  "players": [
+    {
+      "id": "m13321",
+      "name": "Pierre Jahic",
+      "rating": 1617.77,
+      "rd": 30.55,
+      "ratingClass": "A",
+      "homeLocation": "Pinball Universe - Challenge Area",
+      "homeLocationId": "5539",
+      "percentile": 86.19741929473145,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m9690",
+      "name": "Kay Wolters",
+      "rating": 1551.74,
+      "rd": 38.64,
+      "ratingClass": "B",
+      "homeLocation": "Kay's Diner",
+      "homeLocationId": "8677",
+      "percentile": 67.41976056272418,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i59720",
+      "name": "Reinhard Frankowski",
+      "rating": 1517.25,
+      "rd": 47.48,
+      "ratingClass": "B",
+      "homeLocation": "Kay's Diner",
+      "homeLocationId": "8677",
+      "percentile": 54.09698607164485,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m26148",
+      "name": "Uwe Rohlfs",
+      "rating": 1438.15,
+      "rd": 53.41,
+      "ratingClass": "C",
+      "homeLocation": "Kay's Diner",
+      "homeLocationId": "8677",
+      "percentile": 23.105231285228488,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

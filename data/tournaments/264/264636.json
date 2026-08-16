@@ -1,0 +1,123 @@
+{
+  "tournamentId": 264636,
+  "name": "B Finals for August Strikes at The Manor",
+  "date": "2026-08-09",
+  "locationId": "11249",
+  "locationName": "The Manor",
+  "playerCount": 16,
+  "ratingsDate": "2026-08-09",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m155",
+      "name": "Paul Frie",
+      "rating": 1605.88,
+      "dailyRatingChange": 11.69
+    },
+    {
+      "position": 2,
+      "playerId": "m498",
+      "name": "John Hurd NJ",
+      "rating": 1671.19,
+      "dailyRatingChange": -1.54
+    },
+    {
+      "position": 3,
+      "playerId": "m29770",
+      "name": "Eric Basile",
+      "rating": 1646.01,
+      "dailyRatingChange": 3.44
+    },
+    {
+      "position": 4,
+      "playerId": "m41468",
+      "name": "Dylan Basile",
+      "rating": 1624.95,
+      "dailyRatingChange": 2.98
+    },
+    {
+      "position": 4,
+      "playerId": "m29505",
+      "name": "Jennifer Richardson",
+      "rating": 1549.9,
+      "dailyRatingChange": 2.51
+    },
+    {
+      "position": 6,
+      "playerId": "m6071",
+      "name": "Craig Cash",
+      "rating": 1658,
+      "dailyRatingChange": -2.32
+    },
+    {
+      "position": 7,
+      "playerId": "m30665",
+      "name": "Samantha Christina",
+      "rating": 1498.29,
+      "dailyRatingChange": 5.83
+    },
+    {
+      "position": 7,
+      "playerId": "m17950",
+      "name": "Josh Frye",
+      "rating": 1587.6,
+      "dailyRatingChange": 0.76
+    },
+    {
+      "position": 7,
+      "playerId": "m2595",
+      "name": "FL Ettlin",
+      "rating": 1573.36,
+      "dailyRatingChange": -1.49
+    },
+    {
+      "position": 10,
+      "playerId": "m39514",
+      "name": "Gabriel Julio",
+      "rating": 1523.8,
+      "dailyRatingChange": 3.03
+    },
+    {
+      "position": 10,
+      "playerId": "m8783",
+      "name": "Joe Christina",
+      "rating": 1540.72,
+      "dailyRatingChange": 8.55
+    },
+    {
+      "position": 12,
+      "playerId": "m50501",
+      "name": "Tom Langley",
+      "rating": 1625.83,
+      "dailyRatingChange": -11.55
+    },
+    {
+      "position": 12,
+      "playerId": "m62289",
+      "name": "Matt Darron",
+      "rating": 1405.93,
+      "dailyRatingChange": null
+    },
+    {
+      "position": 14,
+      "playerId": "m25093",
+      "name": "Samantha Jacob",
+      "rating": 1623.5,
+      "dailyRatingChange": -4.1
+    },
+    {
+      "position": 14,
+      "playerId": "m53582",
+      "name": "Ethan Luciano",
+      "rating": 1553.34,
+      "dailyRatingChange": -3.61
+    },
+    {
+      "position": 16,
+      "playerId": "m23513",
+      "name": "Mary Beth Andrews",
+      "rating": 1510.47,
+      "dailyRatingChange": -1.69
+    }
+  ]
+}

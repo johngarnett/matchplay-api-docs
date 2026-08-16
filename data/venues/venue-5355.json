@@ -1,0 +1,161 @@
+{
+  "locationId": "5355",
+  "name": "Rohrbach",
+  "address": "",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 11,
+  "relatedVenues": [
+    {
+      "locationId": "10940",
+      "name": "Flippermuseum Wiebelskirchen",
+      "address": "Schillerstraße 22, 66540 Neunkirchen",
+      "count": 16
+    },
+    {
+      "locationId": "8084",
+      "name": "Sacha",
+      "address": "",
+      "count": 4
+    },
+    {
+      "locationId": "11847",
+      "name": "Troy",
+      "address": "",
+      "count": 3
+    }
+  ],
+  "players": [
+    {
+      "id": "m13245",
+      "name": "Oliver Hess",
+      "rating": 1662.9,
+      "rd": 38.44,
+      "ratingClass": "A",
+      "homeLocation": "Flippermuseum Wiebelskirchen",
+      "homeLocationId": "10940",
+      "percentile": 93.3805375692924,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i8007",
+      "name": "Mario Mai",
+      "rating": 1630.98,
+      "rd": 38.35,
+      "ratingClass": "A",
+      "homeLocation": "Flippermuseum Wiebelskirchen",
+      "homeLocationId": "10940",
+      "percentile": 88.78744118880142,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m9902",
+      "name": "Alex Reihle",
+      "rating": 1609.22,
+      "rd": 35.2,
+      "ratingClass": "A",
+      "homeLocation": "Rohrbach",
+      "homeLocationId": "5355",
+      "percentile": 84.25490287417897,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m970",
+      "name": "Sacha Grebil",
+      "rating": 1578.28,
+      "rd": 41.49,
+      "ratingClass": "B",
+      "homeLocation": "Rohrbach",
+      "homeLocationId": "5355",
+      "percentile": 76.10751385848046,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m597",
+      "name": "Martin Zawar",
+      "rating": 1560,
+      "rd": 41.38,
+      "ratingClass": "B",
+      "homeLocation": "Rohrbach",
+      "homeLocationId": "5355",
+      "percentile": 70.31723109889599,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i43619",
+      "name": "Holger Schmitt",
+      "rating": 1523.7,
+      "rd": 58.3,
+      "ratingClass": "B",
+      "homeLocation": "Rohrbach",
+      "homeLocationId": "5355",
+      "percentile": 56.598500023291564,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i28410",
+      "name": "Frederic Kreucher",
+      "rating": 1523.54,
+      "rd": 54.45,
+      "ratingClass": "B",
+      "homeLocation": "Rohrbach",
+      "homeLocationId": "5355",
+      "percentile": 56.55191689570038,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i14382",
+      "name": "Rainer Bölinger",
+      "rating": 1514.4,
+      "rd": 58.61,
+      "ratingClass": "B",
+      "homeLocation": "Rohrbach",
+      "homeLocationId": "5355",
+      "percentile": 52.91377463082871,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m19193",
+      "name": "Jana Wolff",
+      "rating": 1502.61,
+      "rd": 44.32,
+      "ratingClass": "B",
+      "homeLocation": "Flippermuseum Wiebelskirchen",
+      "homeLocationId": "10940",
+      "percentile": 48.17161224204593,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m47083",
+      "name": "Thomas Pfüll",
+      "rating": 1433.48,
+      "rd": 47,
+      "ratingClass": "C",
+      "homeLocation": "Flippermuseum Wiebelskirchen",
+      "homeLocationId": "10940",
+      "percentile": 21.59593795127405,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i14380",
+      "name": "Stefan Henning",
+      "rating": 1405.65,
+      "rd": 55.77,
+      "ratingClass": "C",
+      "homeLocation": "Rohrbach",
+      "homeLocationId": "5355",
+      "percentile": 13.956305026319468,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

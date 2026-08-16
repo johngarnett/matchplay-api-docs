@@ -1,0 +1,46 @@
+{
+  "tournamentId": 264930,
+  "name": "Atomic Arcade Women's No6",
+  "date": "2026-08-01",
+  "locationId": "13042",
+  "locationName": "Atomic Arcade",
+  "playerCount": 5,
+  "ratingsDate": "2026-08-01",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m47427",
+      "name": "Elizabeth Fox",
+      "rating": 1560.62,
+      "dailyRatingChange": 9.49
+    },
+    {
+      "position": 2,
+      "playerId": "m18161",
+      "name": "Tammy Paton",
+      "rating": 1578.86,
+      "dailyRatingChange": -0.53
+    },
+    {
+      "position": 3,
+      "playerId": "m18168",
+      "name": "Shannon Paton",
+      "rating": 1544.04,
+      "dailyRatingChange": -4.45
+    },
+    {
+      "position": 4,
+      "playerId": "m49165",
+      "name": "Irene Kernaghan",
+      "rating": 1494,
+      "dailyRatingChange": -2.31
+    },
+    {
+      "position": 5,
+      "playerId": "m539317",
+      "name": "Ella McNamara",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

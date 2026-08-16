@@ -1,0 +1,371 @@
+{
+  "locationId": "123",
+  "name": "House of TARG",
+  "address": "1077 Bank St, Ottawa, ON K1S, Canada",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 26,
+  "relatedVenues": [
+    {
+      "locationId": "13569",
+      "name": "Experience Social - Ottawa Pinball Arcade",
+      "address": "250 Greenbank Rd, Ottawa, ON K2H 8P6, CA",
+      "count": 32
+    },
+    {
+      "locationId": "10920",
+      "name": "Lowertown Brewery",
+      "address": "73 York St, Ottawa, Ontario K1N 5T2, CA",
+      "count": 27
+    },
+    {
+      "locationId": "7967",
+      "name": "The Ottawa Pinball Arcade (The Neighborhood Pub)",
+      "address": "2559 Baseline Road, Ottawa, ON K2H 7B3, CA",
+      "count": 18
+    },
+    {
+      "locationId": "10594",
+      "name": "House Of TARG",
+      "address": "1077 Bank St, Ottawa, ON K1S 3W9, CA",
+      "count": 9
+    },
+    {
+      "locationId": "11503",
+      "name": "PINFEST 2025",
+      "address": "Great Northern Exhibition - 2220 Fairgrounds Rd. Stayner, Ontario L0M 1S0",
+      "count": 6
+    },
+    {
+      "locationId": "11302",
+      "name": "Iceberg Arcade",
+      "address": "Sych Drywall, 8 Don Valley Parkway, Sunnyside, Manitoba",
+      "count": 2
+    },
+    {
+      "locationId": "9650",
+      "name": "Cabin Fever",
+      "address": "1669 Bloor St W, Toronto, ON M6P 1A6, CA",
+      "count": 1
+    },
+    {
+      "locationId": "13687",
+      "name": "Kid City Archibald",
+      "address": "550 Archibald St, Winnipeg, MB R2J 0X7",
+      "count": 1
+    }
+  ],
+  "players": [
+    {
+      "id": "m28208",
+      "name": "Greg Langford",
+      "rating": 1644.89,
+      "rd": 42.85,
+      "ratingClass": "A",
+      "homeLocation": "House of TARG",
+      "homeLocationId": "123",
+      "percentile": 91.01877300041924,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m27378",
+      "name": "Paul Bakker",
+      "rating": 1643.33,
+      "rd": 29.56,
+      "ratingClass": "A",
+      "homeLocation": "House of TARG",
+      "homeLocationId": "123",
+      "percentile": 90.82778217729538,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m27593",
+      "name": "LC Buckingham",
+      "rating": 1638.14,
+      "rd": 30.2,
+      "ratingClass": "A",
+      "homeLocation": "Lowertown Brewery",
+      "homeLocationId": "10920",
+      "percentile": 90.02655238272698,
+      "changeDisplay": "-2.0",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "i11260",
+      "name": "Geoff Parr",
+      "rating": 1636.84,
+      "rd": 42.6,
+      "ratingClass": "A",
+      "homeLocation": "House of TARG",
+      "homeLocationId": "123",
+      "percentile": 89.82158662132575,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i93702",
+      "name": "Jesse Devine",
+      "rating": 1610.56,
+      "rd": 28.73,
+      "ratingClass": "A",
+      "homeLocation": "Experience Social - Ottawa Pinball Arcade",
+      "homeLocationId": "13569",
+      "percentile": 84.59495970559463,
+      "changeDisplay": "+7.0",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m9492",
+      "name": "Gabi Antaya",
+      "rating": 1585.63,
+      "rd": 26.86,
+      "ratingClass": "B",
+      "homeLocation": "Lowertown Brewery",
+      "homeLocationId": "10920",
+      "percentile": 78.23636278939769,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m8617",
+      "name": "Alisa McClain",
+      "rating": 1576.42,
+      "rd": 28.5,
+      "ratingClass": "B",
+      "homeLocation": "Lowertown Brewery",
+      "homeLocationId": "10920",
+      "percentile": 75.61373270601388,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m5481",
+      "name": "Danielle Laverdure",
+      "rating": 1568.81,
+      "rd": 23,
+      "ratingClass": "B",
+      "homeLocation": "Experience Social - Ottawa Pinball Arcade",
+      "homeLocationId": "13569",
+      "percentile": 73.1215353798854,
+      "changeDisplay": "+2.7",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m16215",
+      "name": "Sean Baizana",
+      "rating": 1567.84,
+      "rd": 24.35,
+      "ratingClass": "B",
+      "homeLocation": "Experience Social - Ottawa Pinball Arcade",
+      "homeLocationId": "13569",
+      "percentile": 72.80477011226535,
+      "changeDisplay": "+1.1",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m56841",
+      "name": "Chris Dugmore",
+      "rating": 1546.11,
+      "rd": 29.36,
+      "ratingClass": "B",
+      "homeLocation": "Experience Social - Ottawa Pinball Arcade",
+      "homeLocationId": "13569",
+      "percentile": 65.34215307215726,
+      "changeDisplay": "+18.0",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "i54030",
+      "name": "Geoff Penney",
+      "rating": 1544.73,
+      "rd": 75,
+      "ratingClass": "B",
+      "homeLocation": "House of TARG",
+      "homeLocationId": "123",
+      "percentile": 64.83905529417245,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m53908",
+      "name": "Jon Upton",
+      "rating": 1530.08,
+      "rd": 43.46,
+      "ratingClass": "B",
+      "homeLocation": "House of TARG",
+      "homeLocationId": "123",
+      "percentile": 59.08603903666092,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m12418",
+      "name": "Mike Patterson CAN",
+      "rating": 1518.98,
+      "rd": 33.76,
+      "ratingClass": "B",
+      "homeLocation": "House of TARG",
+      "homeLocationId": "123",
+      "percentile": 54.72585829412587,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m29086",
+      "name": "Jon Martin",
+      "rating": 1518.71,
+      "rd": 41.89,
+      "ratingClass": "B",
+      "homeLocation": "House of TARG",
+      "homeLocationId": "123",
+      "percentile": 54.66995854101644,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m51304",
+      "name": "Sean Mccoy",
+      "rating": 1509.08,
+      "rd": 35.35,
+      "ratingClass": "B",
+      "homeLocation": "PINFEST 2025",
+      "homeLocationId": "11503",
+      "percentile": 50.85945870405739,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m14750",
+      "name": "Heather Ryerse",
+      "rating": 1508.3,
+      "rd": 25.76,
+      "ratingClass": "B",
+      "homeLocation": "Lowertown Brewery",
+      "homeLocationId": "10920",
+      "percentile": 50.57530162575116,
+      "changeDisplay": "+6.3",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m17823",
+      "name": "Jeanne Klodt",
+      "rating": 1500.4,
+      "rd": 30.68,
+      "ratingClass": "B",
+      "homeLocation": "Lowertown Brewery",
+      "homeLocationId": "10920",
+      "percentile": 47.235291377463085,
+      "changeDisplay": "+4.5",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m49601",
+      "name": "Jon Gilbert",
+      "rating": 1488.7,
+      "rd": 35.58,
+      "ratingClass": "C",
+      "homeLocation": "The Ottawa Pinball Arcade (The Neighborhood Pub)",
+      "homeLocationId": "7967",
+      "percentile": 42.437229235570875,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m25047",
+      "name": "James Devine",
+      "rating": 1472.76,
+      "rd": 30.98,
+      "ratingClass": "C",
+      "homeLocation": "Experience Social - Ottawa Pinball Arcade",
+      "homeLocationId": "13569",
+      "percentile": 35.98546606419155,
+      "changeDisplay": "-5.9",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m13084",
+      "name": "Richard Chisamore",
+      "rating": 1453.9,
+      "rd": 43.15,
+      "ratingClass": "C",
+      "homeLocation": "House of TARG",
+      "homeLocationId": "123",
+      "percentile": 28.648623468579682,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m27319",
+      "name": "Wayne Current",
+      "rating": 1450.12,
+      "rd": 40.53,
+      "ratingClass": "C",
+      "homeLocation": "House of TARG",
+      "homeLocationId": "123",
+      "percentile": 27.181254949457305,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i50796",
+      "name": "David Avalon",
+      "rating": 1426.95,
+      "rd": 52.82,
+      "ratingClass": "C",
+      "homeLocation": "House of TARG",
+      "homeLocationId": "123",
+      "percentile": 19.676713094517165,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m32969",
+      "name": "Ryan Spence",
+      "rating": 1410.92,
+      "rd": 36.35,
+      "ratingClass": "C",
+      "homeLocation": "House of TARG",
+      "homeLocationId": "123",
+      "percentile": 15.344482228536824,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i109677",
+      "name": "Ariane Fortin",
+      "rating": 1407.91,
+      "rd": 53.04,
+      "ratingClass": "C",
+      "homeLocation": "House of TARG",
+      "homeLocationId": "123",
+      "percentile": 14.510644244654586,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i147396",
+      "name": "Lynn Lavergne",
+      "rating": 1396,
+      "rd": 57.46,
+      "ratingClass": "D",
+      "homeLocation": "House of TARG",
+      "homeLocationId": "123",
+      "percentile": 11.533982391577771,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m31213",
+      "name": "Anne-Louise Colligan",
+      "rating": 1393.95,
+      "rd": 38.37,
+      "ratingClass": "D",
+      "homeLocation": "House of TARG",
+      "homeLocationId": "123",
+      "percentile": 11.077467741184144,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "tournamentId": 264340,
+  "name": "Shift Change Tourney @ Gary’s Place (clone)",
+  "date": "2026-07-29",
+  "locationId": "10993",
+  "locationName": "Gary’s Place",
+  "playerCount": 14,
+  "ratingsDate": "2026-07-29",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m18724",
+      "name": "Matty PinPin",
+      "rating": 1591.11,
+      "dailyRatingChange": 5.78
+    },
+    {
+      "position": 2,
+      "playerId": "m17637",
+      "name": "Elliott Johnson",
+      "rating": 1558.99,
+      "dailyRatingChange": 2
+    },
+    {
+      "position": 3,
+      "playerId": "m4189",
+      "name": "Corbin Sheffels",
+      "rating": 1551.87,
+      "dailyRatingChange": 16.68
+    },
+    {
+      "position": 4,
+      "playerId": "m11595",
+      "name": "Cory Lampe",
+      "rating": 1670.9,
+      "dailyRatingChange": -4.29
+    },
+    {
+      "position": 5,
+      "playerId": "m41658",
+      "name": "Paul Irvine",
+      "rating": 1524.75,
+      "dailyRatingChange": 1.22
+    },
+    {
+      "position": 6,
+      "playerId": "m42542",
+      "name": "David Weil WA",
+      "rating": 1616.22,
+      "dailyRatingChange": -3.99
+    },
+    {
+      "position": 6,
+      "playerId": "m44491",
+      "name": "Marshall Denton",
+      "rating": 1657.86,
+      "dailyRatingChange": -2.49
+    },
+    {
+      "position": 8,
+      "playerId": "m46495",
+      "name": "Elyssa Cichy",
+      "rating": 1399.66,
+      "dailyRatingChange": 1.1
+    },
+    {
+      "position": 8,
+      "playerId": "m55482",
+      "name": "Noah Phipps",
+      "rating": 1522.06,
+      "dailyRatingChange": -2.01
+    },
+    {
+      "position": 8,
+      "playerId": "m24966",
+      "name": "Josh Samson",
+      "rating": 1472.76,
+      "dailyRatingChange": 0.79
+    },
+    {
+      "position": 11,
+      "playerId": "m35346",
+      "name": "Sean Williams",
+      "rating": 1296.04,
+      "dailyRatingChange": 1.7
+    },
+    {
+      "position": 12,
+      "playerId": "m5387",
+      "name": "Paul White WA",
+      "rating": 1462.7,
+      "dailyRatingChange": -3.6
+    },
+    {
+      "position": 12,
+      "playerId": "m56635",
+      "name": "Galen Cichy",
+      "rating": 1371.89,
+      "dailyRatingChange": -4.59
+    },
+    {
+      "position": 14,
+      "playerId": "m28825",
+      "name": "Ben Fodor",
+      "rating": 1525.46,
+      "dailyRatingChange": -2.02
+    }
+  ]
+}

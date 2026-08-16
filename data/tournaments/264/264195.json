@@ -1,0 +1,95 @@
+{
+  "tournamentId": 264195,
+  "name": "The Hills Pub Monthly - Jul 2026",
+  "date": "2026-07-28",
+  "locationId": "9448",
+  "locationName": "The Hills Pub",
+  "playerCount": 12,
+  "ratingsDate": "2026-07-28",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m14250",
+      "name": "Tom Isaak",
+      "rating": 1763.51,
+      "dailyRatingChange": 2.5
+    },
+    {
+      "position": 2,
+      "playerId": "m48032",
+      "name": "Kevin Evans",
+      "rating": 1488.73,
+      "dailyRatingChange": 16.19
+    },
+    {
+      "position": 3,
+      "playerId": "m46702",
+      "name": "Jeffrey Wright",
+      "rating": 1628.64,
+      "dailyRatingChange": 3.02
+    },
+    {
+      "position": 4,
+      "playerId": "m3911",
+      "name": "Mike Welsh",
+      "rating": 1681.39,
+      "dailyRatingChange": 9.13
+    },
+    {
+      "position": 5,
+      "playerId": "m4197",
+      "name": "Ron Rezendes",
+      "rating": 1635.24,
+      "dailyRatingChange": -1.7
+    },
+    {
+      "position": 6,
+      "playerId": "m2821",
+      "name": "Mark Maleko Schulz 👾",
+      "rating": 1771.14,
+      "dailyRatingChange": -5.71
+    },
+    {
+      "position": 7,
+      "playerId": "i151541",
+      "name": "Yanina Herrera",
+      "rating": 1459.74,
+      "dailyRatingChange": 28.47
+    },
+    {
+      "position": 8,
+      "playerId": "m45627",
+      "name": "Lucas Perez",
+      "rating": 1637.94,
+      "dailyRatingChange": -5.85
+    },
+    {
+      "position": 9,
+      "playerId": "i144794",
+      "name": "Kevin Twist Crawford",
+      "rating": 1442.5,
+      "dailyRatingChange": 5.12
+    },
+    {
+      "position": 10,
+      "playerId": "m582571",
+      "name": "Ashley Dotson",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 11,
+      "playerId": "i158996",
+      "name": "Marc Bailey",
+      "rating": 1413.2,
+      "dailyRatingChange": -18.35
+    },
+    {
+      "position": 12,
+      "playerId": "m582565",
+      "name": "Tim Edwards CA",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

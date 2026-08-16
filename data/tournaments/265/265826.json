@@ -1,0 +1,60 @@
+{
+  "tournamentId": 265826,
+  "name": "Digi’s split flipper birthday tourney!",
+  "date": "2026-08-08",
+  "locationId": "13845",
+  "locationName": "LITT Pinball Bar",
+  "playerCount": 7,
+  "ratingsDate": "2026-08-08",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m585332",
+      "name": "Keep on Trian!",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 2,
+      "playerId": "m33266",
+      "name": "Space Invaders",
+      "rating": 1470.72,
+      "dailyRatingChange": 7.42
+    },
+    {
+      "position": 3,
+      "playerId": "m585316",
+      "name": "bing bong",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 4,
+      "playerId": "m18387",
+      "name": "Nicholas Nichols",
+      "rating": 1633.94,
+      "dailyRatingChange": -2.17
+    },
+    {
+      "position": 5,
+      "playerId": "m585318",
+      "name": "Papa Don’t Tilt",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 6,
+      "playerId": "m585313",
+      "name": "Flaming Moes",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 6,
+      "playerId": "m18307",
+      "name": "Adam Michael Henry Paul Sippl",
+      "rating": 1533.78,
+      "dailyRatingChange": -2.98
+    }
+  ]
+}

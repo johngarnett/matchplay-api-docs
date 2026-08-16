@@ -1,0 +1,340 @@
+{
+  "tournamentId": 248848,
+  "name": "The Pinball Factory - Custard Cup II",
+  "date": "2026-07-25",
+  "locationId": "13241",
+  "locationName": "The Pinball Factory",
+  "playerCount": 47,
+  "ratingsDate": "2026-07-25",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m40410",
+      "name": "Jason Pitt",
+      "rating": 1718.76,
+      "dailyRatingChange": 14.57
+    },
+    {
+      "position": 2,
+      "playerId": "m25185",
+      "name": "Steven Kielty",
+      "rating": 1621.71,
+      "dailyRatingChange": 25.92
+    },
+    {
+      "position": 3,
+      "playerId": "m9824",
+      "name": "Dan Williams",
+      "rating": 1596.61,
+      "dailyRatingChange": 13.05
+    },
+    {
+      "position": 4,
+      "playerId": "m19253",
+      "name": "Gene Aw",
+      "rating": 1602.04,
+      "dailyRatingChange": 16.48
+    },
+    {
+      "position": 5,
+      "playerId": "m32367",
+      "name": "Paul Barber",
+      "rating": 1603.76,
+      "dailyRatingChange": 11.19
+    },
+    {
+      "position": 6,
+      "playerId": "m28562",
+      "name": "Dan Pocklington",
+      "rating": 1678.32,
+      "dailyRatingChange": -4.23
+    },
+    {
+      "position": 7,
+      "playerId": "m22062",
+      "name": "Dan Prachar",
+      "rating": 1571,
+      "dailyRatingChange": 6.52
+    },
+    {
+      "position": 8,
+      "playerId": "m54438",
+      "name": "Dai James",
+      "rating": 1579.41,
+      "dailyRatingChange": 6.64
+    },
+    {
+      "position": 9,
+      "playerId": "m35335",
+      "name": "Simon Love",
+      "rating": 1599.62,
+      "dailyRatingChange": 4.84
+    },
+    {
+      "position": 10,
+      "playerId": "m12828",
+      "name": "Kevin Donovan",
+      "rating": 1610.19,
+      "dailyRatingChange": 3.25
+    },
+    {
+      "position": 11,
+      "playerId": "m22491",
+      "name": "Gareth Arnold",
+      "rating": 1508.53,
+      "dailyRatingChange": 16.26
+    },
+    {
+      "position": 12,
+      "playerId": "m43214",
+      "name": "Brad Gessey",
+      "rating": 1598.82,
+      "dailyRatingChange": 11.96
+    },
+    {
+      "position": 13,
+      "playerId": "m40574",
+      "name": "Glen Cockell",
+      "rating": 1556.65,
+      "dailyRatingChange": 4.58
+    },
+    {
+      "position": 14,
+      "playerId": "m22006",
+      "name": "Paul Owen",
+      "rating": 1549.71,
+      "dailyRatingChange": 8.7
+    },
+    {
+      "position": 15,
+      "playerId": "m12889",
+      "name": "Stewart Judson",
+      "rating": 1525.04,
+      "dailyRatingChange": 13.94
+    },
+    {
+      "position": 16,
+      "playerId": "m12829",
+      "name": "Ian Walmsley",
+      "rating": 1553.09,
+      "dailyRatingChange": 11.16
+    },
+    {
+      "position": 17,
+      "playerId": "m25313",
+      "name": "Tim Knowles",
+      "rating": 1530.16,
+      "dailyRatingChange": 7.39
+    },
+    {
+      "position": 18,
+      "playerId": "m42207",
+      "name": "Jane Young",
+      "rating": 1546.97,
+      "dailyRatingChange": null
+    },
+    {
+      "position": 19,
+      "playerId": "m2682",
+      "name": "Paul Garner",
+      "rating": 1532.47,
+      "dailyRatingChange": 2.41
+    },
+    {
+      "position": 19,
+      "playerId": "m8336",
+      "name": "Kirk Sadler",
+      "rating": 1600.11,
+      "dailyRatingChange": -16.79
+    },
+    {
+      "position": 19,
+      "playerId": "m25928",
+      "name": "Simon Peacock",
+      "rating": 1570.26,
+      "dailyRatingChange": -6.98
+    },
+    {
+      "position": 22,
+      "playerId": "m14037",
+      "name": "Graham Swaffield",
+      "rating": 1554.15,
+      "dailyRatingChange": 0.94
+    },
+    {
+      "position": 23,
+      "playerId": "m29174",
+      "name": "Steven Smith",
+      "rating": 1555.08,
+      "dailyRatingChange": -4.08
+    },
+    {
+      "position": 24,
+      "playerId": "m40573",
+      "name": "Richard Barber",
+      "rating": 1590.37,
+      "dailyRatingChange": -8.73
+    },
+    {
+      "position": 25,
+      "playerId": "m25317",
+      "name": "JAY BRYAN",
+      "rating": 1474.52,
+      "dailyRatingChange": 8.36
+    },
+    {
+      "position": 26,
+      "playerId": "m26594",
+      "name": "Jeremy Baynham",
+      "rating": 1535.27,
+      "dailyRatingChange": -7.38
+    },
+    {
+      "position": 27,
+      "playerId": "m51905",
+      "name": "Ryan Williams",
+      "rating": 1475.79,
+      "dailyRatingChange": 0.92
+    },
+    {
+      "position": 28,
+      "playerId": "m29205",
+      "name": "Kevin Smith UK",
+      "rating": 1524.38,
+      "dailyRatingChange": -21.21
+    },
+    {
+      "position": 29,
+      "playerId": "m50598",
+      "name": "Matt Carr",
+      "rating": 1532.03,
+      "dailyRatingChange": -17.95
+    },
+    {
+      "position": 30,
+      "playerId": "m35280",
+      "name": "Craig \"the Gooner\" Rossin",
+      "rating": 1534.58,
+      "dailyRatingChange": -14.51
+    },
+    {
+      "position": 31,
+      "playerId": "m47513",
+      "name": "Marcus Miller",
+      "rating": 1457.43,
+      "dailyRatingChange": 8.84
+    },
+    {
+      "position": 32,
+      "playerId": "m7188",
+      "name": "Neil McRae",
+      "rating": 1510.22,
+      "dailyRatingChange": -11.3
+    },
+    {
+      "position": 33,
+      "playerId": "m11466",
+      "name": "Steve Hawley",
+      "rating": 1471.32,
+      "dailyRatingChange": -7.04
+    },
+    {
+      "position": 34,
+      "playerId": "m42800",
+      "name": "Matt Garside",
+      "rating": 1386.44,
+      "dailyRatingChange": 18.88
+    },
+    {
+      "position": 35,
+      "playerId": "m25319",
+      "name": "Janice Brock",
+      "rating": 1375.74,
+      "dailyRatingChange": 29.82
+    },
+    {
+      "position": 36,
+      "playerId": "m13626",
+      "name": "Jesse Walker",
+      "rating": 1466.3,
+      "dailyRatingChange": -17.68
+    },
+    {
+      "position": 37,
+      "playerId": "m18429",
+      "name": "Roy Smith",
+      "rating": 1460.56,
+      "dailyRatingChange": -3.68
+    },
+    {
+      "position": 38,
+      "playerId": "m57647",
+      "name": "Ben Winspear",
+      "rating": 1449.34,
+      "dailyRatingChange": -9.15
+    },
+    {
+      "position": 39,
+      "playerId": "m25320",
+      "name": "Todd Brock",
+      "rating": 1410.38,
+      "dailyRatingChange": -11.94
+    },
+    {
+      "position": 40,
+      "playerId": "m51903",
+      "name": "Tex Alexander",
+      "rating": 1423.65,
+      "dailyRatingChange": -4.74
+    },
+    {
+      "position": 41,
+      "playerId": "m20207",
+      "name": "Helen Swaffield",
+      "rating": 1468.13,
+      "dailyRatingChange": -17.01
+    },
+    {
+      "position": 42,
+      "playerId": "m25318",
+      "name": "SIAN GRANT",
+      "rating": 1380.65,
+      "dailyRatingChange": -16.48
+    },
+    {
+      "position": 43,
+      "playerId": "i128143",
+      "name": "Bhavesh Patel",
+      "rating": 1391.08,
+      "dailyRatingChange": null
+    },
+    {
+      "position": 44,
+      "playerId": "m25354",
+      "name": "Martyn McDermott",
+      "rating": 1396.1,
+      "dailyRatingChange": -18.93
+    },
+    {
+      "position": 45,
+      "playerId": "i153126",
+      "name": "Ben Davies",
+      "rating": 1372.63,
+      "dailyRatingChange": -37.71
+    },
+    {
+      "position": 46,
+      "playerId": "m55602",
+      "name": "Matt Stoodley",
+      "rating": 1395.75,
+      "dailyRatingChange": -33.11
+    },
+    {
+      "position": 47,
+      "playerId": "m42594",
+      "name": "Andrew Broom",
+      "rating": 1413.93,
+      "dailyRatingChange": -26.85
+    }
+  ]
+}

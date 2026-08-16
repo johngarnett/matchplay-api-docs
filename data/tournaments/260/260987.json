@@ -1,0 +1,67 @@
+{
+  "tournamentId": 260987,
+  "name": "EBD PHX 2026 S4 W5",
+  "date": "2026-08-06",
+  "locationId": "12969",
+  "locationName": "Tilted Arcade at The Mighty Axe",
+  "playerCount": 8,
+  "ratingsDate": "2026-08-06",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m37101",
+      "name": "Stephan Klein",
+      "rating": 1623.09,
+      "dailyRatingChange": 1.5
+    },
+    {
+      "position": 1,
+      "playerId": "m561",
+      "name": "Carlo Vernale",
+      "rating": 1474.94,
+      "dailyRatingChange": 11.25
+    },
+    {
+      "position": 3,
+      "playerId": "m55770",
+      "name": "Zack Freeman",
+      "rating": 1464.63,
+      "dailyRatingChange": 4.68
+    },
+    {
+      "position": 3,
+      "playerId": "i107505",
+      "name": "David Sanders AZ",
+      "rating": 1623.11,
+      "dailyRatingChange": -0.98
+    },
+    {
+      "position": 5,
+      "playerId": "m540602",
+      "name": "Ivan Korolevich",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 6,
+      "playerId": "i155391",
+      "name": "Mark Mayor",
+      "rating": 1432.26,
+      "dailyRatingChange": -4.01
+    },
+    {
+      "position": 7,
+      "playerId": "m58569",
+      "name": "Doug Everist",
+      "rating": 1457.24,
+      "dailyRatingChange": -11.88
+    },
+    {
+      "position": 8,
+      "playerId": "m584910",
+      "name": "Tripp",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

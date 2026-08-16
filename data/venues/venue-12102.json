@@ -1,0 +1,58 @@
+{
+  "locationId": "12102",
+  "name": "PixelArcade",
+  "address": "tramkade 18",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 4,
+  "relatedVenues": [],
+  "players": [
+    {
+      "id": "m53112",
+      "name": "LazyJesse",
+      "rating": 1529.02,
+      "rd": 58.12,
+      "ratingClass": "B",
+      "homeLocation": "PixelArcade",
+      "homeLocationId": "12102",
+      "percentile": 58.64815763730377,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m42967",
+      "name": "ERIKER",
+      "rating": 1517.31,
+      "rd": 60.16,
+      "ratingClass": "B",
+      "homeLocation": "PixelArcade",
+      "homeLocationId": "12102",
+      "percentile": 54.12959426095868,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m42961",
+      "name": "simon",
+      "rating": 1409.51,
+      "rd": 53.12,
+      "ratingClass": "C",
+      "homeLocation": "PixelArcade",
+      "homeLocationId": "12102",
+      "percentile": 14.94852564401174,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m57840",
+      "name": "Playtagg",
+      "rating": 1404.66,
+      "rd": 63.27,
+      "ratingClass": "C",
+      "homeLocation": "PixelArcade",
+      "homeLocationId": "12102",
+      "percentile": 13.695439511808823,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

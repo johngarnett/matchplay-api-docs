@@ -1,0 +1,263 @@
+{
+  "locationId": "11810",
+  "name": "Shipyard Brewing Company",
+  "address": "27 Hancock St, Portland, ME 04101, US",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 17,
+  "relatedVenues": [
+    {
+      "locationId": "11406",
+      "name": "Slam Tilt Records + Games",
+      "address": "94 Maine St, Brunswick, ME, 04011, US",
+      "count": 60
+    },
+    {
+      "locationId": "12728",
+      "name": "JR's",
+      "address": "25 Hickory Ln, Gotham ME",
+      "count": 23
+    },
+    {
+      "locationId": "13691",
+      "name": "JR's House",
+      "address": "25 Hickory Ln Gorham, ME 04038",
+      "count": 10
+    },
+    {
+      "locationId": "12331",
+      "name": "Arcadia",
+      "address": "504 Congress St, 04101",
+      "count": 7
+    },
+    {
+      "locationId": "6247",
+      "name": "Maine Silverball Tavern",
+      "address": "",
+      "count": 5
+    },
+    {
+      "locationId": "10377",
+      "name": "Capital Pinball",
+      "address": "70 Pembroke Rd, Concord, NH 03301, US",
+      "count": 5
+    },
+    {
+      "locationId": "12630",
+      "name": "Arcadia National Bar",
+      "address": "504 Congress St, Portland, ME 04101, US",
+      "count": 4
+    },
+    {
+      "locationId": "9441",
+      "name": "The Pinball Co-op",
+      "address": "1881 Williston Rd, South Burlington, VT, 05403, US",
+      "count": 2
+    }
+  ],
+  "players": [
+    {
+      "id": "m1000",
+      "name": "Tom Law",
+      "rating": 1680.89,
+      "rd": 26.61,
+      "ratingClass": "A",
+      "homeLocation": "Maine Silverball Tavern",
+      "homeLocationId": "6247",
+      "percentile": 95.21591279638515,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i22236",
+      "name": "Kyle Marshall",
+      "rating": 1618.88,
+      "rd": 20.93,
+      "ratingClass": "A",
+      "homeLocation": "Slam Tilt Records + Games",
+      "homeLocationId": "11406",
+      "percentile": 86.3837518050962,
+      "changeDisplay": "+4.3",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m32408",
+      "name": "Ryan Lazzarin",
+      "rating": 1591.44,
+      "rd": 20.61,
+      "ratingClass": "B",
+      "homeLocation": "Arcadia National Bar",
+      "homeLocationId": "12630",
+      "percentile": 79.8621139423301,
+      "changeDisplay": "+3.5",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m34880",
+      "name": "Bill Marshall",
+      "rating": 1586.58,
+      "rd": 22.26,
+      "ratingClass": "B",
+      "homeLocation": "JR's",
+      "homeLocationId": "12728",
+      "percentile": 78.47859505287185,
+      "changeDisplay": "-6.7",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m43110",
+      "name": "Ryan Howard ME",
+      "rating": 1563.89,
+      "rd": 20.39,
+      "ratingClass": "B",
+      "homeLocation": "JR's",
+      "homeLocationId": "12728",
+      "percentile": 71.59826710765361,
+      "changeDisplay": "-3.8",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m48544",
+      "name": "Nick Alex",
+      "rating": 1554.55,
+      "rd": 22.88,
+      "ratingClass": "B",
+      "homeLocation": "Slam Tilt Records + Games",
+      "homeLocationId": "11406",
+      "percentile": 68.51446406111707,
+      "changeDisplay": "+3.3",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m5653",
+      "name": "Jake Holz",
+      "rating": 1541.4,
+      "rd": 22.51,
+      "ratingClass": "B",
+      "homeLocation": "JR's",
+      "homeLocationId": "12728",
+      "percentile": 63.6511855405972,
+      "changeDisplay": "+4.7",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m48252",
+      "name": "Josh Hodgdon",
+      "rating": 1485.88,
+      "rd": 22.57,
+      "ratingClass": "C",
+      "homeLocation": "Slam Tilt Records + Games",
+      "homeLocationId": "11406",
+      "percentile": 41.2959426095868,
+      "changeDisplay": "+0.5",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m44882",
+      "name": "Emilee Love",
+      "rating": 1484.73,
+      "rd": 20.99,
+      "ratingClass": "C",
+      "homeLocation": "JR's",
+      "homeLocationId": "12728",
+      "percentile": 40.77421158056552,
+      "changeDisplay": "-2.6",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m38535",
+      "name": "Ainsworth Kohler",
+      "rating": 1474.57,
+      "rd": 27.82,
+      "ratingClass": "C",
+      "homeLocation": "Shipyard Brewing Company",
+      "homeLocationId": "11810",
+      "percentile": 36.74011273116877,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m48113",
+      "name": "Barbara Hodgdon",
+      "rating": 1452.05,
+      "rd": 23.48,
+      "ratingClass": "C",
+      "homeLocation": "Slam Tilt Records + Games",
+      "homeLocationId": "11406",
+      "percentile": 27.907951739879817,
+      "changeDisplay": "+4.2",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m32463",
+      "name": "Billy Marshall III",
+      "rating": 1448.58,
+      "rd": 21.94,
+      "ratingClass": "C",
+      "homeLocation": "Maine Silverball Tavern",
+      "homeLocationId": "6247",
+      "percentile": 26.608282480085716,
+      "changeDisplay": "+0.0",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "i143627",
+      "name": "Elijah Morrison",
+      "rating": 1438.7,
+      "rd": 56.5,
+      "ratingClass": "C",
+      "homeLocation": "Shipyard Brewing Company",
+      "homeLocationId": "11810",
+      "percentile": 23.27293054455676,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m38623",
+      "name": "Pedro Nieves",
+      "rating": 1409.14,
+      "rd": 25.49,
+      "ratingClass": "C",
+      "homeLocation": "JR's",
+      "homeLocationId": "12728",
+      "percentile": 14.855359388829367,
+      "changeDisplay": "+2.6",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "i112863",
+      "name": "Jackie Dakin",
+      "rating": 1392.61,
+      "rd": 32.31,
+      "ratingClass": "D",
+      "homeLocation": "Shipyard Brewing Company",
+      "homeLocationId": "11810",
+      "percentile": 10.807285601155261,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i143517",
+      "name": "Mike Sinnett",
+      "rating": 1353.72,
+      "rd": 30.79,
+      "ratingClass": "D",
+      "homeLocation": "Shipyard Brewing Company",
+      "homeLocationId": "11810",
+      "percentile": 4.690920948432478,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m59816",
+      "name": "Killian Law",
+      "rating": 1330.36,
+      "rd": 32.47,
+      "ratingClass": "D",
+      "homeLocation": "Slam Tilt Records + Games",
+      "homeLocationId": "11406",
+      "percentile": 2.492197326128476,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

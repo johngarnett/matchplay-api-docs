@@ -1,0 +1,67 @@
+{
+  "tournamentId": 266512,
+  "name": "Finals for Lilac Lanes Pinball Tournament 8/10/26",
+  "date": "2026-08-11",
+  "locationId": "10802",
+  "locationName": "Lilac Lanes & Casino",
+  "playerCount": 8,
+  "ratingsDate": "2026-08-11",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m9949",
+      "name": "Michael Helmick",
+      "rating": 1537.71,
+      "dailyRatingChange": 51.6
+    },
+    {
+      "position": 2,
+      "playerId": "m44749",
+      "name": "Daniel yorton",
+      "rating": 1606.29,
+      "dailyRatingChange": -1.37
+    },
+    {
+      "position": 3,
+      "playerId": "m52125",
+      "name": "Daryl Moline",
+      "rating": 1708.04,
+      "dailyRatingChange": -11.19
+    },
+    {
+      "position": 4,
+      "playerId": "m55188",
+      "name": "Jason Dempsey",
+      "rating": 1500.81,
+      "dailyRatingChange": 26.49
+    },
+    {
+      "position": 5,
+      "playerId": "m50293",
+      "name": "Will Velarde",
+      "rating": 1555.4,
+      "dailyRatingChange": 21.66
+    },
+    {
+      "position": 6,
+      "playerId": "m586284",
+      "name": "Makayla Elkin",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 7,
+      "playerId": "m586283",
+      "name": "Mark Christman",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 8,
+      "playerId": "m417744",
+      "name": "Chad Chrombie",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

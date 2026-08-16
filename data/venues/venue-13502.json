@@ -1,0 +1,47 @@
+{
+  "locationId": "13502",
+  "name": "C Spire Gaming — Corporate HQ",
+  "address": "1018 Highland Colony Pkwy, Ridgeland, MS 39157",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 2,
+  "relatedVenues": [
+    {
+      "locationId": "2957",
+      "name": "Captain's Quarters",
+      "address": "2010 Bradford Pl, Flowood, MS 39232",
+      "count": 1
+    },
+    {
+      "locationId": "12399",
+      "name": "Fertile Ground Beer Co.",
+      "address": "800 Manship St., Suite 100, Jackson MS 39202",
+      "count": 1
+    }
+  ],
+  "players": [
+    {
+      "id": "m57756",
+      "name": "Michael Lamb",
+      "rating": 1405.1,
+      "rd": 42.66,
+      "ratingClass": "C",
+      "homeLocation": "C Spire Gaming — Corporate HQ",
+      "homeLocationId": "13502",
+      "percentile": 13.77463082871384,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m60847",
+      "name": "joey pham",
+      "rating": null,
+      "rd": null,
+      "ratingClass": "N/A",
+      "homeLocation": "C Spire Gaming — Corporate HQ",
+      "homeLocationId": "13502",
+      "percentile": null,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "locationId": "13307",
+  "name": "Fishtales bar and grill",
+  "address": "434 Thomaston St, Zebulon, GA 30295",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 7,
+  "relatedVenues": [
+    {
+      "locationId": "9460",
+      "name": "Melt Yard",
+      "address": "800 Whitlock Ave NW, Marietta, GA 30064, US",
+      "count": 29
+    },
+    {
+      "locationId": "6570",
+      "name": "My Parents' Basement",
+      "address": "22 North Avondale Road, Atlanta, GA 30002, US",
+      "count": 26
+    },
+    {
+      "locationId": "3374",
+      "name": "Portal Pinball Arcade",
+      "address": "3335 Cobb Pkwy Suite 800, Acworth, GA, 30101, US",
+      "count": 13
+    },
+    {
+      "locationId": "9921",
+      "name": "Renaissance Atlanta Waverly Hotel & Convention Center",
+      "address": "2450 Galleria Pkwy Atlanta, GA 30339",
+      "count": 12
+    },
+    {
+      "locationId": "10192",
+      "name": "The Escape Gamebar",
+      "address": "1441 Dresden Dr, Atlanta, GA, 30319, US",
+      "count": 8
+    },
+    {
+      "locationId": "8950",
+      "name": "The Pinball Barn",
+      "address": "250 Stoneybrook Road, Pelzer, SC  29669",
+      "count": 6
+    },
+    {
+      "locationId": "11020",
+      "name": "Solar Slice Pizza - Marietta",
+      "address": "497 Cobb Pkwy SE, Marietta, GA 30060, US",
+      "count": 4
+    },
+    {
+      "locationId": "10197",
+      "name": "The Space Place",
+      "address": "Marietta, GA",
+      "count": 3
+    },
+    {
+      "locationId": "13354",
+      "name": "Berto's DrinkOne Arcade",
+      "address": "Acworth, GA",
+      "count": 3
+    },
+    {
+      "locationId": "13560",
+      "name": "The Pool Turtle",
+      "address": "3409 Covington Hwy, Decatur, GA 30032, US",
+      "count": 3
+    }
+  ],
+  "players": [
+    {
+      "id": "m18621",
+      "name": "Jacob Gragg",
+      "rating": 1675.74,
+      "rd": 19.61,
+      "ratingClass": "A",
+      "homeLocation": "My Parents' Basement",
+      "homeLocationId": "6570",
+      "percentile": 94.68486514184562,
+      "changeDisplay": "-7.8",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m818",
+      "name": "Charlie Gehlhaus",
+      "rating": 1619.6,
+      "rd": 21.29,
+      "ratingClass": "A",
+      "homeLocation": "Melt Yard",
+      "homeLocationId": "9460",
+      "percentile": 86.53747612614711,
+      "changeDisplay": "+6.3",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m14572",
+      "name": "Mitchell Corley",
+      "rating": 1585.6,
+      "rd": 36.69,
+      "ratingClass": "B",
+      "homeLocation": "Fishtales bar and grill",
+      "homeLocationId": "13307",
+      "percentile": 78.20841291284297,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m47812",
+      "name": "Sarah Warlick",
+      "rating": 1565.81,
+      "rd": 15.07,
+      "ratingClass": "B",
+      "homeLocation": "Melt Yard",
+      "homeLocationId": "9460",
+      "percentile": 72.23179764289375,
+      "changeDisplay": "+11.6",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m56245",
+      "name": "Joe Minichowski",
+      "rating": 1516.71,
+      "rd": 20.23,
+      "ratingClass": "B",
+      "homeLocation": "Portal Pinball Arcade",
+      "homeLocationId": "3374",
+      "percentile": 53.89667862300275,
+      "changeDisplay": "-10.2",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "i87547",
+      "name": "Brian Corley",
+      "rating": 1476.2,
+      "rd": 52.28,
+      "ratingClass": "C",
+      "homeLocation": "Fishtales bar and grill",
+      "homeLocationId": "13307",
+      "percentile": 37.368984953649786,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i110624",
+      "name": "Roland Rhault",
+      "rating": 1364.44,
+      "rd": 50.41,
+      "ratingClass": "D",
+      "homeLocation": "My Parents' Basement",
+      "homeLocationId": "6570",
+      "percentile": 5.967298644430987,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

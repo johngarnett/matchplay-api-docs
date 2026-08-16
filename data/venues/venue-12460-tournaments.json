@@ -1,0 +1,44 @@
+{
+  "locationId": "12460",
+  "venueName": "Glitch Barcadium",
+  "venueAddress": "44 Mulberry Ave",
+  "tournaments": [
+    {
+      "id": 266702,
+      "name": "Finals for Two Tilt Tuesday - August 2026",
+      "date": "8/11/2026",
+      "playerCount": 12,
+      "qualifying": {
+        "id": 266667,
+        "name": "Two Tilt Tuesday - August 2026",
+        "playerCount": 31
+      },
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "p506053",
+          "name": "Andrew Vasquez",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "p506055",
+          "name": "Steve Fotino",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "p553213",
+          "name": "Brian Teeter",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "p553218",
+          "name": "Carrie Duncan",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

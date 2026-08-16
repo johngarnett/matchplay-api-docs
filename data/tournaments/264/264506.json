@@ -1,0 +1,116 @@
+{
+  "tournamentId": 264506,
+  "name": "Make a Wish @ Holy Frijoles",
+  "date": "2026-07-30",
+  "locationId": "9470",
+  "locationName": "Holy Frijoles",
+  "playerCount": 15,
+  "ratingsDate": "2026-07-30",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m25244",
+      "name": "Max Williams",
+      "rating": 1602.2,
+      "dailyRatingChange": 3.16
+    },
+    {
+      "position": 1,
+      "playerId": "m52247",
+      "name": "Chris Allulis",
+      "rating": 1577.59,
+      "dailyRatingChange": 3.31
+    },
+    {
+      "position": 3,
+      "playerId": "m25684",
+      "name": "Andrew Reamer",
+      "rating": 1551.6,
+      "dailyRatingChange": 10.08
+    },
+    {
+      "position": 4,
+      "playerId": "m47727",
+      "name": "Ben Franklin",
+      "rating": 1454.87,
+      "dailyRatingChange": 11.53
+    },
+    {
+      "position": 5,
+      "playerId": "m39519",
+      "name": "Al Yeager",
+      "rating": 1599.81,
+      "dailyRatingChange": 1.78
+    },
+    {
+      "position": 6,
+      "playerId": "m34439",
+      "name": "Jason Isabelle",
+      "rating": 1549.4,
+      "dailyRatingChange": 2.04
+    },
+    {
+      "position": 7,
+      "playerId": "m45913",
+      "name": "Matt Hehman",
+      "rating": 1421.96,
+      "dailyRatingChange": 11.63
+    },
+    {
+      "position": 8,
+      "playerId": "m50114",
+      "name": "Justin Cox",
+      "rating": 1490.98,
+      "dailyRatingChange": 8.36
+    },
+    {
+      "position": 9,
+      "playerId": "i96347",
+      "name": "CJ Sindler",
+      "rating": 1457.41,
+      "dailyRatingChange": -19.77
+    },
+    {
+      "position": 10,
+      "playerId": "i106198",
+      "name": "Keenan Wannop",
+      "rating": 1548.47,
+      "dailyRatingChange": -23.52
+    },
+    {
+      "position": 11,
+      "playerId": "m2756",
+      "name": "Jake Peterson",
+      "rating": 1593.03,
+      "dailyRatingChange": -15.55
+    },
+    {
+      "position": 12,
+      "playerId": "m512441",
+      "name": "Charles Locke",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 13,
+      "playerId": "i86856",
+      "name": "Steve Oxman",
+      "rating": 1414.9,
+      "dailyRatingChange": -14.06
+    },
+    {
+      "position": 14,
+      "playerId": "i122067",
+      "name": "Marcus Bryant",
+      "rating": 1425.5,
+      "dailyRatingChange": -8.3
+    },
+    {
+      "position": 15,
+      "playerId": "m554996",
+      "name": "Ryder",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

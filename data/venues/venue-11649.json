@@ -1,0 +1,191 @@
+{
+  "locationId": "11649",
+  "name": "Pinball Arena",
+  "address": "Elvīras iela 19, Rīga, 1083, LV",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 14,
+  "relatedVenues": [
+    {
+      "locationId": "11764",
+      "name": "Craft beer station",
+      "address": "lubanas iela 113c",
+      "count": 3
+    },
+    {
+      "locationId": "13348",
+      "name": "Utopia Pinball Lounge",
+      "address": "555 California Ave, Boulder City, NV 89005, US",
+      "count": 2
+    }
+  ],
+  "players": [
+    {
+      "id": "i153781",
+      "name": "Juris Vizums",
+      "rating": 1707.26,
+      "rd": 38.42,
+      "ratingClass": "Expert",
+      "homeLocation": "Pinball Arena",
+      "homeLocationId": "11649",
+      "percentile": 97.0047048958867,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m50281",
+      "name": "Valdis Abrams",
+      "rating": 1654.47,
+      "rd": 36.42,
+      "ratingClass": "A",
+      "homeLocation": "Pinball Arena",
+      "homeLocationId": "11649",
+      "percentile": 92.35105044952718,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i147733",
+      "name": "Sergejs Ananjevs",
+      "rating": 1640.63,
+      "rd": 37.17,
+      "ratingClass": "A",
+      "homeLocation": "Pinball Arena",
+      "homeLocationId": "11649",
+      "percentile": 90.41785065449294,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m50726",
+      "name": "Ignats Fjodorovs",
+      "rating": 1581.45,
+      "rd": 36.2,
+      "ratingClass": "B",
+      "homeLocation": "Pinball Arena",
+      "homeLocationId": "11649",
+      "percentile": 77.05315134858154,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m20885",
+      "name": "Rick Duggan",
+      "rating": 1533.08,
+      "rd": 34.59,
+      "ratingClass": "B",
+      "homeLocation": "Utopia Pinball Lounge",
+      "homeLocationId": "13348",
+      "percentile": 60.301858666790885,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m58704",
+      "name": "JakubO",
+      "rating": 1529.77,
+      "rd": 53.91,
+      "ratingClass": "B",
+      "homeLocation": "Pinball Arena",
+      "homeLocationId": "11649",
+      "percentile": 58.92765640285089,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m50280",
+      "name": "Daniels Keziks",
+      "rating": 1524.1,
+      "rd": 40.87,
+      "ratingClass": "B",
+      "homeLocation": "Pinball Arena",
+      "homeLocationId": "11649",
+      "percentile": 56.75222434434248,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m53203",
+      "name": "Artūrs Jumiķis",
+      "rating": 1512.61,
+      "rd": 66.88,
+      "ratingClass": "B",
+      "homeLocation": "Pinball Arena",
+      "homeLocationId": "11649",
+      "percentile": 52.23366096799739,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m51085",
+      "name": "Emīls Zāģers",
+      "rating": 1509.07,
+      "rd": 55.69,
+      "ratingClass": "B",
+      "homeLocation": "Pinball Arena",
+      "homeLocationId": "11649",
+      "percentile": 50.85014207853915,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m36910",
+      "name": "Agris Dulevics",
+      "rating": 1496.86,
+      "rd": 34.41,
+      "ratingClass": "C",
+      "homeLocation": "Pinball Arena",
+      "homeLocationId": "11649",
+      "percentile": 45.833139236968364,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m55488",
+      "name": "Artjoms Sakurovs",
+      "rating": 1475.58,
+      "rd": 41.79,
+      "ratingClass": "C",
+      "homeLocation": "Pinball Arena",
+      "homeLocationId": "11649",
+      "percentile": 37.103461126380026,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m53202",
+      "name": "Dāniels Ancāns",
+      "rating": 1457.22,
+      "rd": 70.35,
+      "ratingClass": "C",
+      "homeLocation": "Pinball Arena",
+      "homeLocationId": "11649",
+      "percentile": 29.803885032841105,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i146204",
+      "name": "Andrejs Oganans",
+      "rating": 1452.98,
+      "rd": 49.22,
+      "ratingClass": "C",
+      "homeLocation": "Pinball Arena",
+      "homeLocationId": "11649",
+      "percentile": 28.285275073368428,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i146208",
+      "name": "Sandra Dulevica",
+      "rating": 1410.71,
+      "rd": 44.39,
+      "ratingClass": "C",
+      "homeLocation": "Pinball Arena",
+      "homeLocationId": "11649",
+      "percentile": 15.26063259887269,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

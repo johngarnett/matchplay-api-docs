@@ -1,0 +1,155 @@
+{
+  "locationId": "13856",
+  "name": "Birdsmouth Beer",
+  "address": "675 Oceanport Wy, Oceanport, NJ 07757, US",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 7,
+  "relatedVenues": [
+    {
+      "locationId": "13266",
+      "name": "Under The Glass",
+      "address": "7 Broad Street Red Bank NJ 07701",
+      "count": 59
+    },
+    {
+      "locationId": "3152",
+      "name": "Eight on the Break",
+      "address": "",
+      "count": 4
+    },
+    {
+      "locationId": "9586",
+      "name": "Cool Dogs Sports Pub",
+      "address": "3025 E Desert Inn Rd, Las Vegas, NV 89121",
+      "count": 3
+    },
+    {
+      "locationId": "12253",
+      "name": "Barcade FiDi",
+      "address": "10 Cortlandt St, New York, NY 10007, US",
+      "count": 3
+    },
+    {
+      "locationId": "8307",
+      "name": "Jackbar",
+      "address": "143 Havemeyer Street, Brooklyn, NY 11211, US",
+      "count": 2
+    },
+    {
+      "locationId": "10065",
+      "name": "Gebhard's Beer Culture",
+      "address": "228 W 72nd St, New York, NY 10023, US",
+      "count": 2
+    },
+    {
+      "locationId": "13315",
+      "name": "Silverball Retro Arcade",
+      "address": "1000 Ocean Ave, Asbury Park, NJ, 07712, US",
+      "count": 2
+    },
+    {
+      "locationId": "6971",
+      "name": "Railroad Street Bar and Grill",
+      "address": "36 Railroad Street, Linfield, PA 19468, US",
+      "count": 1
+    },
+    {
+      "locationId": "7490",
+      "name": "SingleCut Beersmiths",
+      "address": "",
+      "count": 1
+    },
+    {
+      "locationId": "8493",
+      "name": "Rullo's",
+      "address": "560 5th Avenue, Brooklyn, NY 11215, US",
+      "count": 1
+    }
+  ],
+  "players": [
+    {
+      "id": "m29755",
+      "name": "Joe Broccoli",
+      "rating": 1648.71,
+      "rd": 22.84,
+      "ratingClass": "A",
+      "homeLocation": "Under The Glass",
+      "homeLocationId": "13266",
+      "percentile": 91.56379559323614,
+      "changeDisplay": "-4.6",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m30548",
+      "name": "Justin Kole",
+      "rating": 1585.85,
+      "rd": 34.4,
+      "ratingClass": "B",
+      "homeLocation": "Railroad Street Bar and Grill",
+      "homeLocationId": "6971",
+      "percentile": 78.30623748078446,
+      "changeDisplay": "+26.4",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m49146",
+      "name": "Edward Haran",
+      "rating": 1583.55,
+      "rd": 36.61,
+      "ratingClass": "B",
+      "homeLocation": "Under The Glass",
+      "homeLocationId": "13266",
+      "percentile": 77.6447570689896,
+      "changeDisplay": "+23.6",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "i110761",
+      "name": "Joey Fiore",
+      "rating": 1549.83,
+      "rd": 34.66,
+      "ratingClass": "B",
+      "homeLocation": "Under The Glass",
+      "homeLocationId": "13266",
+      "percentile": 66.64648064471048,
+      "changeDisplay": "-27.9",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m61287",
+      "name": "Jay Gill",
+      "rating": 1516.14,
+      "rd": 33.17,
+      "ratingClass": "B",
+      "homeLocation": "Under The Glass",
+      "homeLocationId": "13266",
+      "percentile": 53.67773792332417,
+      "changeDisplay": "+11.3",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m60268",
+      "name": "Kate Strong NJ",
+      "rating": 1477.55,
+      "rd": 29.62,
+      "ratingClass": "C",
+      "homeLocation": "Under The Glass",
+      "homeLocationId": "13266",
+      "percentile": 37.941957423021385,
+      "changeDisplay": "-17.8",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m53919",
+      "name": "Margaret Fox",
+      "rating": 1458.64,
+      "rd": 22.37,
+      "ratingClass": "C",
+      "homeLocation": "Under The Glass",
+      "homeLocationId": "13266",
+      "percentile": 30.41878231704477,
+      "changeDisplay": "-5.1",
+      "changeClass": "change-negative"
+    }
+  ]
+}

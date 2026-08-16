@@ -1,0 +1,40 @@
+{
+  "locationId": "13153",
+  "venueName": "Rustic Brewing Company",
+  "venueAddress": "34 Front St, Suite G21, Springfield, MA 01151, US",
+  "tournaments": [
+    {
+      "id": 247175,
+      "name": "Rustic Sunday Strikes - July Tournament",
+      "date": "7/26/2026",
+      "playerCount": 8,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m7910",
+          "name": "Jamie Fleming",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m60087",
+          "name": "Nathaniel Borne",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m13400",
+          "name": "Anna Siembor",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m61090",
+          "name": "Earl Hill",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

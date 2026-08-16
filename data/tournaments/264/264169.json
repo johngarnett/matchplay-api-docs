@@ -1,0 +1,116 @@
+{
+  "tournamentId": 264169,
+  "name": "Flipper Fight Monday 7/27/26",
+  "date": "2026-07-28",
+  "locationId": "11492",
+  "locationName": "Pinky & Clyde's Arcade Bar",
+  "playerCount": 15,
+  "ratingsDate": "2026-07-28",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m459509",
+      "name": "Caleb Walker",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 2,
+      "playerId": "m459505",
+      "name": "Tyler Durham",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 3,
+      "playerId": "m11900",
+      "name": "Evan Tucker",
+      "rating": 1627.02,
+      "dailyRatingChange": 2.97
+    },
+    {
+      "position": 4,
+      "playerId": "m459508",
+      "name": "Nick Colangelo",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 5,
+      "playerId": "m6326",
+      "name": "Gretchen Kamke",
+      "rating": 1561.18,
+      "dailyRatingChange": -3.6
+    },
+    {
+      "position": 5,
+      "playerId": "m60800",
+      "name": "Jason Lopez",
+      "rating": 1465.19,
+      "dailyRatingChange": 5.36
+    },
+    {
+      "position": 7,
+      "playerId": "m61034",
+      "name": "Rusty Corley",
+      "rating": 1541.52,
+      "dailyRatingChange": -1.13
+    },
+    {
+      "position": 7,
+      "playerId": "m459506",
+      "name": "Justin Taylor",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 7,
+      "playerId": "m48638",
+      "name": "Will LaForge",
+      "rating": 1443.1,
+      "dailyRatingChange": 3.42
+    },
+    {
+      "position": 10,
+      "playerId": "m582523",
+      "name": "Andy Farrell",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 10,
+      "playerId": "m553538",
+      "name": "Katie Clifton",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 10,
+      "playerId": "m553539",
+      "name": "Derrick Garvin",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 13,
+      "playerId": "i153924",
+      "name": "David Graupner",
+      "rating": 1475.24,
+      "dailyRatingChange": -8.5
+    },
+    {
+      "position": 13,
+      "playerId": "i108171",
+      "name": "Ryan Tracy",
+      "rating": 1438.47,
+      "dailyRatingChange": -5.67
+    },
+    {
+      "position": 15,
+      "playerId": "m62135",
+      "name": "Kevin Reilly",
+      "rating": 1396.64,
+      "dailyRatingChange": -19
+    }
+  ]
+}

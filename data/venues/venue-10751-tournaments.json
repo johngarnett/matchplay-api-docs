@@ -1,0 +1,34 @@
+{
+  "locationId": "10751",
+  "venueName": "Budapest Pinball Museum / Flippermúzeum",
+  "venueAddress": "18 Radnóti Miklós utca, Budapest, Hungary 1137, HU",
+  "tournaments": [
+    {
+      "id": 266206,
+      "name": "Champion Girl a Kukkeres és a Sapkás Nyári döntője",
+      "date": "8/9/2026",
+      "playerCount": 4,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m13565",
+          "name": "György Kovács",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m42949",
+          "name": "Julia Palfi",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m14569",
+          "name": "Sandor Varga",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

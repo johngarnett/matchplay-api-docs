@@ -1,0 +1,74 @@
+{
+  "tournamentId": 264499,
+  "name": "Wednesday Night MatchPlay",
+  "date": "2026-07-30",
+  "locationId": "13440",
+  "locationName": "Robocade",
+  "playerCount": 9,
+  "ratingsDate": "2026-07-30",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m12891",
+      "name": "Gwen Octavia",
+      "rating": 1705.81,
+      "dailyRatingChange": -2.1
+    },
+    {
+      "position": 2,
+      "playerId": "m562032",
+      "name": "Dennis Arnold",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 3,
+      "playerId": "i135544",
+      "name": "Daniel Strelow",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 3,
+      "playerId": "i44227",
+      "name": "Scott Shelton",
+      "rating": 1696.14,
+      "dailyRatingChange": -9.14
+    },
+    {
+      "position": 5,
+      "playerId": "m59116",
+      "name": "Clayton Phillabaum",
+      "rating": 1452.53,
+      "dailyRatingChange": 6.29
+    },
+    {
+      "position": 6,
+      "playerId": "m582897",
+      "name": "Darrel Hoffer",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 6,
+      "playerId": "m49210",
+      "name": "Tony Reining",
+      "rating": 1557.47,
+      "dailyRatingChange": -2.98
+    },
+    {
+      "position": 6,
+      "playerId": "m18675",
+      "name": "Michela Phillabaum",
+      "rating": 1576.14,
+      "dailyRatingChange": -3.13
+    },
+    {
+      "position": 9,
+      "playerId": "m562026",
+      "name": "Morris Wilson",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

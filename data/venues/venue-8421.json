@@ -1,0 +1,395 @@
+{
+  "locationId": "8421",
+  "name": "Point Break Arcade",
+  "address": "445 Harrison Ave, Panama City, FL 32401, US",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 27,
+  "relatedVenues": [
+    {
+      "locationId": "9460",
+      "name": "Melt Yard",
+      "address": "800 Whitlock Ave NW, Marietta, GA 30064, US",
+      "count": 11
+    },
+    {
+      "locationId": "8768",
+      "name": "Lowry Parcade",
+      "address": "1213 W Waters Ave, Tampa, FL 33604, US",
+      "count": 6
+    },
+    {
+      "locationId": "7303",
+      "name": "The Pinball Lounge @Oviedo Bowling Center",
+      "address": "376 E Broadway Street, Oviedo, FL 32765, US",
+      "count": 4
+    },
+    {
+      "locationId": "9921",
+      "name": "Renaissance Atlanta Waverly Hotel & Convention Center",
+      "address": "2450 Galleria Pkwy Atlanta, GA 30339",
+      "count": 4
+    },
+    {
+      "locationId": "10087",
+      "name": "Flippin' Great Pinball",
+      "address": "632-2 Railroad Square, Tallahassee, FL, 32310, US",
+      "count": 4
+    },
+    {
+      "locationId": "904",
+      "name": "The Pinball Asylum",
+      "address": "13721 Jetport Commerce Parkway, Unit 6 , Fort Myers, FL 33913",
+      "count": 3
+    },
+    {
+      "locationId": "8592",
+      "name": "Cody Craft Brewing",
+      "address": "1732 Sheridan Ave, Cody, WY 82414-3848",
+      "count": 3
+    },
+    {
+      "locationId": "13126",
+      "name": "Arcade Laradise",
+      "address": "220 S 2nd St Laramie,Wy 82070",
+      "count": 3
+    },
+    {
+      "locationId": "888",
+      "name": "Al Pinball Garage",
+      "address": "",
+      "count": 2
+    },
+    {
+      "locationId": "12267",
+      "name": "T&T Trinity Arcade Bar",
+      "address": "1338 Epiphany Wy N-105, Trinity, FL 34655, US",
+      "count": 2
+    }
+  ],
+  "players": [
+    {
+      "id": "i109385",
+      "name": "Tim West",
+      "rating": 1647.63,
+      "rd": 42.16,
+      "ratingClass": "A",
+      "homeLocation": "Point Break Arcade",
+      "homeLocationId": "8421",
+      "percentile": 91.3821213956305,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i125451",
+      "name": "Jesse Clark",
+      "rating": 1630.28,
+      "rd": 40.32,
+      "ratingClass": "A",
+      "homeLocation": "Point Break Arcade",
+      "homeLocationId": "8421",
+      "percentile": 88.62440024223226,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m51057",
+      "name": "Jonathan Zakel",
+      "rating": 1578.35,
+      "rd": 18.42,
+      "ratingClass": "B",
+      "homeLocation": "The Pinball Asylum",
+      "homeLocationId": "904",
+      "percentile": 76.14478036055341,
+      "changeDisplay": "+12.3",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "i159830",
+      "name": "Joe Giamportone",
+      "rating": 1573.51,
+      "rd": 41.7,
+      "ratingClass": "B",
+      "homeLocation": "Point Break Arcade",
+      "homeLocationId": "8421",
+      "percentile": 74.61219546280337,
+      "changeDisplay": "★",
+      "changeClass": "change-new"
+    },
+    {
+      "id": "i159832",
+      "name": "Estel Goffinet",
+      "rating": 1564.11,
+      "rd": 51.16,
+      "ratingClass": "B",
+      "homeLocation": "Point Break Arcade",
+      "homeLocationId": "8421",
+      "percentile": 71.68211673731774,
+      "changeDisplay": "★",
+      "changeClass": "change-new"
+    },
+    {
+      "id": "m36544",
+      "name": "Lee Wiles",
+      "rating": 1549.09,
+      "rd": 55.24,
+      "ratingClass": "B",
+      "homeLocation": "Point Break Arcade",
+      "homeLocationId": "8421",
+      "percentile": 66.33903200260866,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i99572",
+      "name": "Nicholas McCauley",
+      "rating": 1541.93,
+      "rd": 75,
+      "ratingClass": "B",
+      "homeLocation": "Point Break Arcade",
+      "homeLocationId": "8421",
+      "percentile": 63.88875949131224,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m23259",
+      "name": "Ben McGee",
+      "rating": 1538.04,
+      "rd": 26.61,
+      "ratingClass": "B",
+      "homeLocation": "The Pinball Lounge @Oviedo Bowling Center",
+      "homeLocationId": "7303",
+      "percentile": 62.286299902175436,
+      "changeDisplay": "+16.6",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m42929",
+      "name": "Roger Clark",
+      "rating": 1535.45,
+      "rd": 40.72,
+      "ratingClass": "B",
+      "homeLocation": "Point Break Arcade",
+      "homeLocationId": "8421",
+      "percentile": 61.16830483998695,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i142587",
+      "name": "Carl Beard",
+      "rating": 1516.69,
+      "rd": 40.71,
+      "ratingClass": "B",
+      "homeLocation": "Point Break Arcade",
+      "homeLocationId": "8421",
+      "percentile": 53.87804537196628,
+      "changeDisplay": "★",
+      "changeClass": "change-new"
+    },
+    {
+      "id": "i33490",
+      "name": "Brian Leahy",
+      "rating": 1515.79,
+      "rd": 47.15,
+      "ratingClass": "B",
+      "homeLocation": "Point Break Arcade",
+      "homeLocationId": "8421",
+      "percentile": 53.51935528951414,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m62292",
+      "name": "timothy vermette",
+      "rating": 1513.7,
+      "rd": 36.36,
+      "ratingClass": "B",
+      "homeLocation": "Point Break Arcade",
+      "homeLocationId": "8421",
+      "percentile": 52.64825080355895,
+      "changeDisplay": "+49.5",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "i109384",
+      "name": "Rosalita Cisneros",
+      "rating": 1511.82,
+      "rd": 43.81,
+      "ratingClass": "B",
+      "homeLocation": "Point Break Arcade",
+      "homeLocationId": "8421",
+      "percentile": 51.95882051520939,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i161829",
+      "name": "Damon Briggs",
+      "rating": 1511.79,
+      "rd": 43.8,
+      "ratingClass": "B",
+      "homeLocation": "Point Break Arcade",
+      "homeLocationId": "8421",
+      "percentile": 51.9355289514138,
+      "changeDisplay": "+4.5",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "i161827",
+      "name": "Mike Herret",
+      "rating": 1491.22,
+      "rd": 56.51,
+      "ratingClass": "C",
+      "homeLocation": "Point Break Arcade",
+      "homeLocationId": "8421",
+      "percentile": 43.53193273396376,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m29960",
+      "name": "Jessie Ross",
+      "rating": 1476.7,
+      "rd": 20.3,
+      "ratingClass": "C",
+      "homeLocation": "Melt Yard",
+      "homeLocationId": "9460",
+      "percentile": 37.58792565332836,
+      "changeDisplay": "+1.2",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "i108911",
+      "name": "Kayla Evans",
+      "rating": 1467.79,
+      "rd": 48.83,
+      "ratingClass": "C",
+      "homeLocation": "Point Break Arcade",
+      "homeLocationId": "8421",
+      "percentile": 33.982391577770535,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i113177",
+      "name": "Bradley McGee",
+      "rating": 1464.08,
+      "rd": 45.37,
+      "ratingClass": "C",
+      "homeLocation": "Point Break Arcade",
+      "homeLocationId": "8421",
+      "percentile": 32.46843993105697,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i162780",
+      "name": "Matt Adams",
+      "rating": 1458.16,
+      "rd": 60.6,
+      "ratingClass": "C",
+      "homeLocation": "Point Break Arcade",
+      "homeLocationId": "8421",
+      "percentile": 30.213816555643547,
+      "changeDisplay": "★",
+      "changeClass": "change-new"
+    },
+    {
+      "id": "i161826",
+      "name": "Lisa King",
+      "rating": 1427.63,
+      "rd": 55.63,
+      "ratingClass": "C",
+      "homeLocation": "Point Break Arcade",
+      "homeLocationId": "8421",
+      "percentile": 19.89565379419574,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m61520",
+      "name": "Lisa Giamportone",
+      "rating": 1412.09,
+      "rd": 47.72,
+      "ratingClass": "C",
+      "homeLocation": "Point Break Arcade",
+      "homeLocationId": "8421",
+      "percentile": 15.605347743047467,
+      "changeDisplay": "+23.0",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "i110715",
+      "name": "Garrett Coley",
+      "rating": 1405.59,
+      "rd": 58.9,
+      "ratingClass": "C",
+      "homeLocation": "Point Break Arcade",
+      "homeLocationId": "8421",
+      "percentile": 13.928355149764753,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i118968",
+      "name": "Lou Muncy",
+      "rating": 1400.5,
+      "rd": 59.01,
+      "ratingClass": "C",
+      "homeLocation": "Point Break Arcade",
+      "homeLocationId": "8421",
+      "percentile": 12.619369264452414,
+      "changeDisplay": "★",
+      "changeClass": "change-new"
+    },
+    {
+      "id": "i113178",
+      "name": "Caleb McGee",
+      "rating": 1389.19,
+      "rd": 48.45,
+      "ratingClass": "D",
+      "homeLocation": "Point Break Arcade",
+      "homeLocationId": "8421",
+      "percentile": 10.099222061769227,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i117851",
+      "name": "Jess Adkins",
+      "rating": null,
+      "rd": null,
+      "ratingClass": "N/A",
+      "homeLocation": "Point Break Arcade",
+      "homeLocationId": "8421",
+      "percentile": null,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i113176",
+      "name": "timothy vermette",
+      "rating": null,
+      "rd": null,
+      "ratingClass": "N/A",
+      "homeLocation": "Point Break Arcade",
+      "homeLocationId": "8421",
+      "percentile": null,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i162112",
+      "name": "Adrienne Wales",
+      "rating": null,
+      "rd": null,
+      "ratingClass": "N/A",
+      "homeLocation": "Point Break Arcade",
+      "homeLocationId": "8421",
+      "percentile": null,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

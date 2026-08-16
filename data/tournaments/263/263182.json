@@ -1,0 +1,291 @@
+{
+  "tournamentId": 263182,
+  "name": "Scranton Pinball League - Season 16 #3",
+  "date": "2026-07-23",
+  "locationId": "7413",
+  "locationName": "Bartari",
+  "playerCount": 40,
+  "ratingsDate": "2026-07-23",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "i95481",
+      "name": "Keegan Brady",
+      "rating": 1537.56,
+      "dailyRatingChange": 26.44
+    },
+    {
+      "position": 1,
+      "playerId": "m29938",
+      "name": "Rick Hoggarth",
+      "rating": 1613.16,
+      "dailyRatingChange": 9.46
+    },
+    {
+      "position": 1,
+      "playerId": "m50356",
+      "name": "Jonathan Burkhart",
+      "rating": 1595.78,
+      "dailyRatingChange": 12.07
+    },
+    {
+      "position": 4,
+      "playerId": "m48224",
+      "name": "Justin Gensel",
+      "rating": 1575.8,
+      "dailyRatingChange": 9.26
+    },
+    {
+      "position": 4,
+      "playerId": "m23157",
+      "name": "Daniel Brennan",
+      "rating": 1725.32,
+      "dailyRatingChange": -0.23
+    },
+    {
+      "position": 6,
+      "playerId": "m43025",
+      "name": "JP Heim",
+      "rating": 1545.97,
+      "dailyRatingChange": 8.79
+    },
+    {
+      "position": 6,
+      "playerId": "m14901",
+      "name": "Jim Sagona",
+      "rating": 1697.17,
+      "dailyRatingChange": -2.53
+    },
+    {
+      "position": 6,
+      "playerId": "i56589",
+      "name": "Colin Moorhead",
+      "rating": 1639.01,
+      "dailyRatingChange": 2.83
+    },
+    {
+      "position": 6,
+      "playerId": "m33579",
+      "name": "Conor McGuigan",
+      "rating": 1517.5,
+      "dailyRatingChange": 13.94
+    },
+    {
+      "position": 10,
+      "playerId": "m42292",
+      "name": "PJ Lahey",
+      "rating": 1587.79,
+      "dailyRatingChange": 0.79
+    },
+    {
+      "position": 10,
+      "playerId": "m23671",
+      "name": "JB Bucha",
+      "rating": 1579.25,
+      "dailyRatingChange": 1.71
+    },
+    {
+      "position": 12,
+      "playerId": "m39146",
+      "name": "Kaitlyn Kishbaugh",
+      "rating": 1496.84,
+      "dailyRatingChange": 3.4
+    },
+    {
+      "position": 12,
+      "playerId": "m27299",
+      "name": "Amanda Sagona",
+      "rating": 1519.12,
+      "dailyRatingChange": 1.12
+    },
+    {
+      "position": 12,
+      "playerId": "m33288",
+      "name": "Jason Millard",
+      "rating": 1510.63,
+      "dailyRatingChange": 1.55
+    },
+    {
+      "position": 12,
+      "playerId": "m33575",
+      "name": "Vince Bickauskas",
+      "rating": 1540.25,
+      "dailyRatingChange": -2.78
+    },
+    {
+      "position": 12,
+      "playerId": "m39733",
+      "name": "Mike Melisky",
+      "rating": 1609.01,
+      "dailyRatingChange": -6.96
+    },
+    {
+      "position": 12,
+      "playerId": "m25231",
+      "name": "Colin Joyce",
+      "rating": 1591.01,
+      "dailyRatingChange": -6.44
+    },
+    {
+      "position": 12,
+      "playerId": "m26957",
+      "name": "David Cutri",
+      "rating": 1600.57,
+      "dailyRatingChange": -4.23
+    },
+    {
+      "position": 19,
+      "playerId": "m576931",
+      "name": "Chris Kudrich",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 19,
+      "playerId": "m37406",
+      "name": "Philip Orzechowski",
+      "rating": 1492.54,
+      "dailyRatingChange": -0.37
+    },
+    {
+      "position": 19,
+      "playerId": "m57550",
+      "name": "Jeffrey Lang",
+      "rating": 1441.2,
+      "dailyRatingChange": 11.88
+    },
+    {
+      "position": 19,
+      "playerId": "m31215",
+      "name": "Brooke Beppler",
+      "rating": 1487.81,
+      "dailyRatingChange": 4.36
+    },
+    {
+      "position": 23,
+      "playerId": "m576944",
+      "name": "Dawn Pretti",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 23,
+      "playerId": "m27704",
+      "name": "James Zwitkowits",
+      "rating": 1548.15,
+      "dailyRatingChange": -12.93
+    },
+    {
+      "position": 23,
+      "playerId": "m50142",
+      "name": "Sal Insalaca",
+      "rating": 1400.5,
+      "dailyRatingChange": 5.85
+    },
+    {
+      "position": 26,
+      "playerId": "i140654",
+      "name": "Lorraine Babarsky",
+      "rating": 1305.18,
+      "dailyRatingChange": 8.11
+    },
+    {
+      "position": 26,
+      "playerId": "m58173",
+      "name": "Keith Pretti",
+      "rating": 1337.02,
+      "dailyRatingChange": 3.16
+    },
+    {
+      "position": 26,
+      "playerId": "m576934",
+      "name": "Morgan Evans",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 26,
+      "playerId": "m27546",
+      "name": "Bill Sheakoski",
+      "rating": 1488.59,
+      "dailyRatingChange": -6.72
+    },
+    {
+      "position": 26,
+      "playerId": "i44904",
+      "name": "Fred Babarsky",
+      "rating": 1428.07,
+      "dailyRatingChange": -4.02
+    },
+    {
+      "position": 26,
+      "playerId": "m27547",
+      "name": "Stephen Conforti",
+      "rating": 1442.75,
+      "dailyRatingChange": -2.33
+    },
+    {
+      "position": 32,
+      "playerId": "m27292",
+      "name": "Stacy Bucha",
+      "rating": 1436.06,
+      "dailyRatingChange": -10.54
+    },
+    {
+      "position": 32,
+      "playerId": "m443745",
+      "name": "Chris Brady",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 32,
+      "playerId": "m33574",
+      "name": "David Danielowski",
+      "rating": 1378.91,
+      "dailyRatingChange": -7.06
+    },
+    {
+      "position": 32,
+      "playerId": "m576938",
+      "name": "Henry Jurgiewicz",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 32,
+      "playerId": "m576926",
+      "name": "Mary Beth Owens",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 32,
+      "playerId": "m494066",
+      "name": "Brayden Insalaca",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 38,
+      "playerId": "m492451",
+      "name": "Devendra Kachole",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 38,
+      "playerId": "i160260",
+      "name": "Dave Vitelli",
+      "rating": 1377.88,
+      "dailyRatingChange": null
+    },
+    {
+      "position": 40,
+      "playerId": "m47792",
+      "name": "Ann Marie Millard",
+      "rating": 1391.1,
+      "dailyRatingChange": -13.66
+    }
+  ]
+}

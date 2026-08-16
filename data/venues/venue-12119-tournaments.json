@@ -1,0 +1,114 @@
+{
+  "locationId": "12119",
+  "venueName": "Dipsy Doodle Pinball Club Oisterwijk",
+  "venueAddress": "Gasthuisstraat 24 Oisterwijk",
+  "tournaments": [
+    {
+      "id": 266778,
+      "name": "Finals for Dipsy Doodle Wednesday Night Matchplay 12 augustus 2026",
+      "date": "8/12/2026",
+      "playerCount": 8,
+      "qualifying": {
+        "id": 266269,
+        "name": "Dipsy Doodle Wednesday Night Matchplay 12 augustus 2026",
+        "playerCount": 27
+      },
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m21119",
+          "name": "Patrick van Hout",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m43284",
+          "name": "Rico van Dooren",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m33773",
+          "name": "Floor Keukens",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m14121",
+          "name": "Ivan Geentjens",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 265261,
+      "name": "Dipsy Doodle Progressive Strikes Knockout 8 augustus 2026",
+      "date": "8/8/2026",
+      "playerCount": 32,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m422",
+          "name": "Bart Volman",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m27835",
+          "name": "Jan-Willem Rooijmans",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m24180",
+          "name": "Marco Streng",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m10342",
+          "name": "Rakesh Kanhai",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 264452,
+      "name": "Finals for Dipsy Doodle Wednesday Night Matchplay 29th of July 2026.",
+      "date": "7/29/2026",
+      "playerCount": 8,
+      "qualifying": {
+        "id": 257085,
+        "name": "Dipsy Doodle Wednesday Night Matchplay 29th of July 2026.",
+        "playerCount": 28
+      },
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m12416",
+          "name": "Serf Schellen",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m54628",
+          "name": "Rens Massuger",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m4665",
+          "name": "Marcelo Campos Hazan",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m51588",
+          "name": "Louis Wouters",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "tournamentId": 266612,
+  "name": "Three Strike - XXX Tuesday (08/11)",
+  "date": "2026-08-12",
+  "locationId": "11888",
+  "locationName": "The Game Preserve",
+  "playerCount": 19,
+  "ratingsDate": "2026-08-12",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m18425",
+      "name": "Cameron Warren",
+      "rating": 1650.98,
+      "dailyRatingChange": 26.17
+    },
+    {
+      "position": 2,
+      "playerId": "m3535",
+      "name": "Nicholas Gustafson",
+      "rating": 1702.45,
+      "dailyRatingChange": 8.56
+    },
+    {
+      "position": 3,
+      "playerId": "m3614",
+      "name": "Sam Hall TX",
+      "rating": 1576.42,
+      "dailyRatingChange": 23.77
+    },
+    {
+      "position": 3,
+      "playerId": "m278981",
+      "name": "Hayden Crookham",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 5,
+      "playerId": "m855",
+      "name": "David Pollock",
+      "rating": 1599.51,
+      "dailyRatingChange": 0.51
+    },
+    {
+      "position": 6,
+      "playerId": "m10604",
+      "name": "Hunter Reed",
+      "rating": 1630.76,
+      "dailyRatingChange": -9.94
+    },
+    {
+      "position": 6,
+      "playerId": "m2432",
+      "name": "Ben Whittington",
+      "rating": 1708.18,
+      "dailyRatingChange": -7.22
+    },
+    {
+      "position": 6,
+      "playerId": "m10163",
+      "name": "Lee Balusek",
+      "rating": 1657.55,
+      "dailyRatingChange": -11.1
+    },
+    {
+      "position": 9,
+      "playerId": "m25138",
+      "name": "Daniel Koba",
+      "rating": 1565.12,
+      "dailyRatingChange": -3.3
+    },
+    {
+      "position": 9,
+      "playerId": "m21674",
+      "name": "Richard Thrash",
+      "rating": 1531.06,
+      "dailyRatingChange": -0.14
+    },
+    {
+      "position": 11,
+      "playerId": "m47808",
+      "name": "Carlos S Garcia",
+      "rating": 1362.1,
+      "dailyRatingChange": 4.48
+    },
+    {
+      "position": 11,
+      "playerId": "m45625",
+      "name": "Stephanie Manley",
+      "rating": 1453.54,
+      "dailyRatingChange": 1.26
+    },
+    {
+      "position": 11,
+      "playerId": "m34714",
+      "name": "Kyrra Warren",
+      "rating": 1546.89,
+      "dailyRatingChange": 1.84
+    },
+    {
+      "position": 11,
+      "playerId": "m2038",
+      "name": "Edward Chavez ⚓️",
+      "rating": 1530.35,
+      "dailyRatingChange": -4.38
+    },
+    {
+      "position": 15,
+      "playerId": "m51098",
+      "name": "Caroline Guevara",
+      "rating": 1408.97,
+      "dailyRatingChange": -2.64
+    },
+    {
+      "position": 16,
+      "playerId": "m357441",
+      "name": "Gary Russell",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 16,
+      "playerId": "i93351",
+      "name": "Thomas Bernard",
+      "rating": 1404.57,
+      "dailyRatingChange": -4.94
+    },
+    {
+      "position": 16,
+      "playerId": "m28096",
+      "name": "Michael Sweeney",
+      "rating": 1436.43,
+      "dailyRatingChange": -25.18
+    },
+    {
+      "position": 16,
+      "playerId": "m218426",
+      "name": "Jaelen Smith",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

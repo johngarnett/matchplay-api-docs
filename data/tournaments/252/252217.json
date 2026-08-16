@@ -1,0 +1,88 @@
+{
+  "tournamentId": 252217,
+  "name": "Monday Night Pinball S10R6 B-Tourney 7PM",
+  "date": "2026-08-11",
+  "locationId": "8845",
+  "locationName": "I Need a Miracle Tickets",
+  "playerCount": 11,
+  "ratingsDate": "2026-08-11",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "i154545",
+      "name": "J. Smoker",
+      "rating": 1446.11,
+      "dailyRatingChange": 10.83
+    },
+    {
+      "position": 2,
+      "playerId": "i138541",
+      "name": "Emily Bell",
+      "rating": 1423.86,
+      "dailyRatingChange": 6.69
+    },
+    {
+      "position": 2,
+      "playerId": "i95762",
+      "name": "Mike Nardi",
+      "rating": 1463.56,
+      "dailyRatingChange": 8.52
+    },
+    {
+      "position": 4,
+      "playerId": "m62365",
+      "name": "Joshua Mccartney",
+      "rating": null,
+      "dailyRatingChange": 12.15
+    },
+    {
+      "position": 5,
+      "playerId": "i162450",
+      "name": "Emery Wescott",
+      "rating": null,
+      "dailyRatingChange": null
+    },
+    {
+      "position": 6,
+      "playerId": "i161804",
+      "name": "Danny Tate",
+      "rating": null,
+      "dailyRatingChange": -1.28
+    },
+    {
+      "position": 6,
+      "playerId": "m62119",
+      "name": "Brian Morilak",
+      "rating": null,
+      "dailyRatingChange": -9.23
+    },
+    {
+      "position": 8,
+      "playerId": "m497255",
+      "name": "Ethan Iobst",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 8,
+      "playerId": "i162451",
+      "name": "Mozzie Panter",
+      "rating": null,
+      "dailyRatingChange": -15.74
+    },
+    {
+      "position": 10,
+      "playerId": "i157685",
+      "name": "Amanda Fera",
+      "rating": 1213.74,
+      "dailyRatingChange": 0.03
+    },
+    {
+      "position": 11,
+      "playerId": "i147615",
+      "name": "Tommy Farrier",
+      "rating": 1387.53,
+      "dailyRatingChange": -12.71
+    }
+  ]
+}

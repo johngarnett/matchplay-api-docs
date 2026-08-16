@@ -1,0 +1,40 @@
+{
+  "locationId": "3960",
+  "venueName": "Kristiania Flipperselskap",
+  "venueAddress": "Veitvetveien 8, 0596 Oslo, Norge",
+  "tournaments": [
+    {
+      "id": 265649,
+      "name": "Finals for Lille Lørdag August",
+      "date": "8/5/2026",
+      "playerCount": 8,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m9426",
+          "name": "Espen Andresen",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m13001",
+          "name": "Solfrid Nordmark",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m24706",
+          "name": "Simen Lunde",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m37260",
+          "name": "Haakon Galaasen",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

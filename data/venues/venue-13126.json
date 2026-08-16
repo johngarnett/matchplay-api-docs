@@ -1,0 +1,119 @@
+{
+  "locationId": "13126",
+  "name": "Arcade Laradise",
+  "address": "220 S 2nd St Laramie,Wy 82070",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 4,
+  "relatedVenues": [
+    {
+      "locationId": "10159",
+      "name": "Pinball Jones",
+      "address": "107 Linden St, Fort Collins, CO, 80524, US",
+      "count": 22
+    },
+    {
+      "locationId": "8592",
+      "name": "Cody Craft Brewing",
+      "address": "1732 Sheridan Ave, Cody, WY 82414-3848",
+      "count": 6
+    },
+    {
+      "locationId": "5492",
+      "name": "Lyons Classic Pinball",
+      "address": "339 W Main St, Lyons, CO 80540, USA",
+      "count": 4
+    },
+    {
+      "locationId": "904",
+      "name": "The Pinball Asylum",
+      "address": "13721 Jetport Commerce Parkway, Unit 6 , Fort Myers, FL 33913",
+      "count": 3
+    },
+    {
+      "locationId": "9921",
+      "name": "Renaissance Atlanta Waverly Hotel & Convention Center",
+      "address": "2450 Galleria Pkwy Atlanta, GA 30339",
+      "count": 3
+    },
+    {
+      "locationId": "11477",
+      "name": "Outlanes Pinball Lounge",
+      "address": "2555 West Alamo Ave. Littleton, CO 80120",
+      "count": 3
+    },
+    {
+      "locationId": "888",
+      "name": "Al Pinball Garage",
+      "address": "",
+      "count": 2
+    },
+    {
+      "locationId": "8768",
+      "name": "Lowry Parcade",
+      "address": "1213 W Waters Ave, Tampa, FL 33604, US",
+      "count": 2
+    },
+    {
+      "locationId": "12267",
+      "name": "T&T Trinity Arcade Bar",
+      "address": "1338 Epiphany Wy N-105, Trinity, FL 34655, US",
+      "count": 2
+    },
+    {
+      "locationId": "5209",
+      "name": "Bite Me Cake Company",
+      "address": "",
+      "count": 1
+    }
+  ],
+  "players": [
+    {
+      "id": "m34127",
+      "name": "Daniel Albeyta",
+      "rating": 1718.11,
+      "rd": 18.71,
+      "ratingClass": "Expert",
+      "homeLocation": "Pinball Jones",
+      "homeLocationId": "10159",
+      "percentile": 97.5543858014627,
+      "changeDisplay": "-13.4",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m14147",
+      "name": "Tai Tran",
+      "rating": 1664.92,
+      "rd": 22.46,
+      "ratingClass": "A",
+      "homeLocation": "Pinball Jones",
+      "homeLocationId": "10159",
+      "percentile": 93.60879489448921,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m52022",
+      "name": "Trent Agee",
+      "rating": 1602.65,
+      "rd": 28.61,
+      "ratingClass": "A",
+      "homeLocation": "Arcade Laradise",
+      "homeLocationId": "13126",
+      "percentile": 82.64778497228303,
+      "changeDisplay": "+1.7",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m51057",
+      "name": "Jonathan Zakel",
+      "rating": 1578.35,
+      "rd": 18.42,
+      "ratingClass": "B",
+      "homeLocation": "The Pinball Asylum",
+      "homeLocationId": "904",
+      "percentile": 76.14478036055341,
+      "changeDisplay": "+12.3",
+      "changeClass": "change-positive"
+    }
+  ]
+}

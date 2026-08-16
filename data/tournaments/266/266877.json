@@ -1,0 +1,60 @@
+{
+  "tournamentId": 266877,
+  "name": "HT final",
+  "date": "2026-08-13",
+  "locationId": "8429",
+  "locationName": "Hungry Tiger",
+  "playerCount": 7,
+  "ratingsDate": null,
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m7530",
+      "name": "Mathew Peterson",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 2,
+      "playerId": "m6039",
+      "name": "Erik Graciosa",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 3,
+      "playerId": "m29721",
+      "name": "Sahara Scott",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 4,
+      "playerId": "m20914",
+      "name": "Jeff Monroe",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 4,
+      "playerId": "i8473",
+      "name": "David Morell",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 6,
+      "playerId": "m12661",
+      "name": "Stefan Novak",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 6,
+      "playerId": "m7407",
+      "name": "Dawnda Durbin",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

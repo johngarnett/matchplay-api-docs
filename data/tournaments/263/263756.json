@@ -1,0 +1,25 @@
+{
+  "tournamentId": 263756,
+  "name": "Finals for Västerås månadstävling 25 juli - hemmabana A",
+  "date": "2026-07-25",
+  "locationId": "12334",
+  "locationName": "Flipperklubben",
+  "playerCount": 2,
+  "ratingsDate": "2026-07-25",
+  "standings": [
+    {
+      "position": 5,
+      "playerId": "m34015",
+      "name": "Peter Johansson",
+      "rating": 1551.01,
+      "dailyRatingChange": 11.2
+    },
+    {
+      "position": 5,
+      "playerId": "m52421",
+      "name": "Henrik Samuelsson",
+      "rating": 1569.4,
+      "dailyRatingChange": 9.41
+    }
+  ]
+}

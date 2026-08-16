@@ -1,0 +1,299 @@
+{
+  "locationId": "9318",
+  "name": "The Hidden Spot",
+  "address": "2323 32 Ave NE, Calgary, AB T2E 6Z3, CA",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 19,
+  "relatedVenues": [
+    {
+      "locationId": "13187",
+      "name": "Nightwave Arcade",
+      "address": "2020 32 Ave NE R, Calgary, AB T2E 9A7",
+      "count": 63
+    },
+    {
+      "locationId": "6599",
+      "name": "The Hidden Spot - DSP",
+      "address": "2323 32 Ave NE #125, Calgary, AB T2E 6Z3, Canada",
+      "count": 35
+    },
+    {
+      "locationId": "12582",
+      "name": "Nightwave Arcade",
+      "address": "2020 32 Ave NE, Calgary, AB T2E 9A7, CA",
+      "count": 33
+    },
+    {
+      "locationId": "13099",
+      "name": "Nightwave Arcade",
+      "address": "2020 32 Ave NE, Calgary, AB, T2E 9A7, CA",
+      "count": 13
+    },
+    {
+      "locationId": "13516",
+      "name": "Stampede Grounds, Big Four building 8 Bit Arcade",
+      "address": "1801 Big Four Trail SE, Calgary, AB",
+      "count": 11
+    },
+    {
+      "locationId": "9208",
+      "name": "Burn Block Social Club",
+      "address": "1217B 9 Ave SE Calgary AB",
+      "count": 8
+    },
+    {
+      "locationId": "10939",
+      "name": "Millennium Place",
+      "address": "2000 Premier Way, Sherwood Park, AB",
+      "count": 8
+    },
+    {
+      "locationId": "11387",
+      "name": "M&M's RaveCaveArcade",
+      "address": "",
+      "count": 8
+    },
+    {
+      "locationId": "10133",
+      "name": "Burn Block Social Club",
+      "address": "1219 9 Ave SE",
+      "count": 6
+    },
+    {
+      "locationId": "11525",
+      "name": "Big Four Stampede Grounds",
+      "address": "Calgary, AB T2G 2W1",
+      "count": 5
+    }
+  ],
+  "players": [
+    {
+      "id": "m3546",
+      "name": "Shawna Scarrow",
+      "rating": 1612.63,
+      "rd": 23.38,
+      "ratingClass": "A",
+      "homeLocation": "Millennium Place",
+      "homeLocationId": "10939",
+      "percentile": 84.99557460287885,
+      "changeDisplay": "-4.0",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m5746",
+      "name": "Kate Hughson",
+      "rating": 1601.38,
+      "rd": 20.53,
+      "ratingClass": "A",
+      "homeLocation": "Nightwave Arcade",
+      "homeLocationId": "13187",
+      "percentile": 82.35431126845857,
+      "changeDisplay": "-2.9",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m21500",
+      "name": "Jana Tzanakos",
+      "rating": 1585.62,
+      "rd": 18.98,
+      "ratingClass": "B",
+      "homeLocation": "Nightwave Arcade",
+      "homeLocationId": "13187",
+      "percentile": 78.22704616387945,
+      "changeDisplay": "-3.0",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m9509",
+      "name": "Nancy Barnes",
+      "rating": 1563.07,
+      "rd": 18.47,
+      "ratingClass": "B",
+      "homeLocation": "Nightwave Arcade",
+      "homeLocationId": "13187",
+      "percentile": 71.32808496762473,
+      "changeDisplay": "-4.2",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m51835",
+      "name": "Rachel Wagner",
+      "rating": 1547.52,
+      "rd": 31.78,
+      "ratingClass": "B",
+      "homeLocation": "Nightwave Arcade",
+      "homeLocationId": "12582",
+      "percentile": 65.78003447151441,
+      "changeDisplay": "+9.7",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m16526",
+      "name": "Colleen Tanner",
+      "rating": 1545.05,
+      "rd": 25.76,
+      "ratingClass": "B",
+      "homeLocation": "Nightwave Arcade",
+      "homeLocationId": "12582",
+      "percentile": 64.9741463641869,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m30992",
+      "name": "Crystal Stirton",
+      "rating": 1510.21,
+      "rd": 25.03,
+      "ratingClass": "B",
+      "homeLocation": "Nightwave Arcade",
+      "homeLocationId": "13187",
+      "percentile": 51.34858154376485,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m15052",
+      "name": "Karoline Sandhurst",
+      "rating": 1509.5,
+      "rd": 25.97,
+      "ratingClass": "B",
+      "homeLocation": "Nightwave Arcade",
+      "homeLocationId": "12582",
+      "percentile": 51.03181627614478,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m14594",
+      "name": "Marci Simkulet",
+      "rating": 1506.4,
+      "rd": 21.03,
+      "ratingClass": "B",
+      "homeLocation": "Nightwave Arcade",
+      "homeLocationId": "13187",
+      "percentile": 49.79736339497834,
+      "changeDisplay": "+7.2",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "i84788",
+      "name": "Isabel Teale",
+      "rating": 1504.93,
+      "rd": 40.28,
+      "ratingClass": "B",
+      "homeLocation": "The Hidden Spot",
+      "homeLocationId": "9318",
+      "percentile": 49.256999114920575,
+      "changeDisplay": "+26.6",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m39711",
+      "name": "Tora Boyle",
+      "rating": 1492.27,
+      "rd": 20.53,
+      "ratingClass": "C",
+      "homeLocation": "Nightwave Arcade",
+      "homeLocationId": "13187",
+      "percentile": 43.918572692970606,
+      "changeDisplay": "+8.6",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m24709",
+      "name": "Becky Christoffersen",
+      "rating": 1479.18,
+      "rd": 25.94,
+      "ratingClass": "C",
+      "homeLocation": "Nightwave Arcade",
+      "homeLocationId": "13187",
+      "percentile": 38.63138771137094,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m14595",
+      "name": "Jessica Mctaggart",
+      "rating": 1478.92,
+      "rd": 32.55,
+      "ratingClass": "C",
+      "homeLocation": "The Hidden Spot",
+      "homeLocationId": "9318",
+      "percentile": 38.55219639446592,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m39750",
+      "name": "keri huwald",
+      "rating": 1405.55,
+      "rd": 35.06,
+      "ratingClass": "C",
+      "homeLocation": "The Hidden Spot",
+      "homeLocationId": "9318",
+      "percentile": 13.914380211487398,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i146939",
+      "name": "Joss Krywolf",
+      "rating": 1388.6,
+      "rd": 35.67,
+      "ratingClass": "D",
+      "homeLocation": "The Hidden Spot",
+      "homeLocationId": "9318",
+      "percentile": 9.996739181068618,
+      "changeDisplay": "+10.4",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m43119",
+      "name": "Fawn Mah",
+      "rating": 1388.24,
+      "rd": 30.17,
+      "ratingClass": "D",
+      "homeLocation": "The Hidden Spot",
+      "homeLocationId": "9318",
+      "percentile": 9.894256300368006,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m59163",
+      "name": "Allie Yeats",
+      "rating": 1375.05,
+      "rd": 27.31,
+      "ratingClass": "D",
+      "homeLocation": "Nightwave Arcade",
+      "homeLocationId": "13187",
+      "percentile": 7.430008850794242,
+      "changeDisplay": "+4.5",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "i84787",
+      "name": "Sophie Teale",
+      "rating": 1352.19,
+      "rd": 44.29,
+      "ratingClass": "D",
+      "homeLocation": "The Hidden Spot",
+      "homeLocationId": "9318",
+      "percentile": 4.518563376345088,
+      "changeDisplay": "-14.7",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m46672",
+      "name": "Lara Hughes",
+      "rating": 1347.32,
+      "rd": 34.86,
+      "ratingClass": "D",
+      "homeLocation": "The Hidden Spot",
+      "homeLocationId": "9318",
+      "percentile": 3.9688824707690875,
+      "changeDisplay": "-29.9",
+      "changeClass": "change-negative"
+    }
+  ]
+}

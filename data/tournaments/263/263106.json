@@ -1,0 +1,67 @@
+{
+  "tournamentId": 263106,
+  "name": "IFPA Crawlers #4",
+  "date": "2026-08-12",
+  "locationId": "10180",
+  "locationName": "Pinball Planet",
+  "playerCount": 8,
+  "ratingsDate": "2026-08-12",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m4199",
+      "name": "Mark Brown OH",
+      "rating": 1672.67,
+      "dailyRatingChange": -0.33
+    },
+    {
+      "position": 2,
+      "playerId": "m34177",
+      "name": "Mark Dunlevy",
+      "rating": 1534,
+      "dailyRatingChange": 7.01
+    },
+    {
+      "position": 2,
+      "playerId": "m9669",
+      "name": "Brent Reed",
+      "rating": 1599.5,
+      "dailyRatingChange": 0.36
+    },
+    {
+      "position": 4,
+      "playerId": "m33894",
+      "name": "Amy Virostko",
+      "rating": 1531.24,
+      "dailyRatingChange": 5.86
+    },
+    {
+      "position": 5,
+      "playerId": "m43715",
+      "name": "Wayne Guk",
+      "rating": 1508.76,
+      "dailyRatingChange": 1.31
+    },
+    {
+      "position": 5,
+      "playerId": "m43456",
+      "name": "Brianna Weber",
+      "rating": 1582.48,
+      "dailyRatingChange": -2.22
+    },
+    {
+      "position": 7,
+      "playerId": "m51521",
+      "name": "Nathan Ritchey",
+      "rating": 1590.02,
+      "dailyRatingChange": -4.69
+    },
+    {
+      "position": 8,
+      "playerId": "m1926",
+      "name": "Michael Trombetta",
+      "rating": 1581.36,
+      "dailyRatingChange": -6.2
+    }
+  ]
+}

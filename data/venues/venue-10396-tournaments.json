@@ -1,0 +1,73 @@
+{
+  "locationId": "10396",
+  "venueName": "Opinion Brewing Co.",
+  "venueAddress": "374 21st St Newport, MN  55055 United States",
+  "tournaments": [
+    {
+      "id": 266357,
+      "name": "opinion summer league week 5",
+      "date": "8/9/2026",
+      "playerCount": 9,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "p429504",
+          "name": "tony drollinger",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "i108094",
+          "name": "Henry Crockett",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "i92159",
+          "name": "Matt Listerud",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "p421874",
+          "name": "pete",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 262875,
+      "name": "opinion summer league week 2",
+      "date": "7/19/2026",
+      "playerCount": 9,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "i92479",
+          "name": "Eli Barrett",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m28228",
+          "name": "Andrew Barrett",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "i108094",
+          "name": "Henry Crockett",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m10107",
+          "name": "Jerome Sivanich",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "tournamentId": 266027,
+  "name": "Finals for Maple Pinball Appreciation weekend: Friday night matchplay (correct)",
+  "date": "2026-08-08",
+  "locationId": "6085",
+  "locationName": "Maple Pinball",
+  "playerCount": 4,
+  "ratingsDate": "2026-08-08",
+  "standings": [
+    {
+      "position": 5,
+      "playerId": "m1197",
+      "name": "Matt Faulkner",
+      "rating": 1715.6,
+      "dailyRatingChange": -17.29
+    },
+    {
+      "position": 6,
+      "playerId": "m22442",
+      "name": "Adam Natale",
+      "rating": 1614.16,
+      "dailyRatingChange": 4.09
+    },
+    {
+      "position": 7,
+      "playerId": "m9269",
+      "name": "Laura Edward",
+      "rating": 1612.27,
+      "dailyRatingChange": 1.5
+    },
+    {
+      "position": 7,
+      "playerId": "m6070",
+      "name": "John Flitton",
+      "rating": 1715.91,
+      "dailyRatingChange": 3.78
+    }
+  ]
+}

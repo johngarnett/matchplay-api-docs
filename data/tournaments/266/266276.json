@@ -1,0 +1,221 @@
+{
+  "tournamentId": 266276,
+  "name": "Sparks Summer Bash",
+  "date": "2026-08-09",
+  "locationId": "13860",
+  "locationName": "Sparks Pinball Museum & Arcade",
+  "playerCount": 30,
+  "ratingsDate": "2026-08-09",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m17645",
+      "name": "Patrick Mendis",
+      "rating": 1638.66,
+      "dailyRatingChange": 7.69
+    },
+    {
+      "position": 2,
+      "playerId": "m2023",
+      "name": "Pat Maurer",
+      "rating": 1640.33,
+      "dailyRatingChange": 9.42
+    },
+    {
+      "position": 3,
+      "playerId": "m33893",
+      "name": "Phillip Brooks",
+      "rating": 1630.69,
+      "dailyRatingChange": 5.49
+    },
+    {
+      "position": 4,
+      "playerId": "m37176",
+      "name": "Scott Sheahan",
+      "rating": 1628.73,
+      "dailyRatingChange": 5.27
+    },
+    {
+      "position": 5,
+      "playerId": "i8407",
+      "name": "Brandon Blake",
+      "rating": 1779.73,
+      "dailyRatingChange": 0.55
+    },
+    {
+      "position": 6,
+      "playerId": "m55626",
+      "name": "Wes Kerstens",
+      "rating": 1518.03,
+      "dailyRatingChange": 10.46
+    },
+    {
+      "position": 7,
+      "playerId": "m33849",
+      "name": "Jamie",
+      "rating": 1586.83,
+      "dailyRatingChange": 1.06
+    },
+    {
+      "position": 8,
+      "playerId": "m32685",
+      "name": "Daniel Overbeek",
+      "rating": 1668.92,
+      "dailyRatingChange": -2.11
+    },
+    {
+      "position": 9,
+      "playerId": "m4761",
+      "name": "Tim Carpenter MI",
+      "rating": 1530.3,
+      "dailyRatingChange": 7.38
+    },
+    {
+      "position": 10,
+      "playerId": "m32140",
+      "name": "Meredith Walton",
+      "rating": 1632.47,
+      "dailyRatingChange": -7.17
+    },
+    {
+      "position": 11,
+      "playerId": "m21806",
+      "name": "Bill Mann",
+      "rating": 1600.9,
+      "dailyRatingChange": -3.7
+    },
+    {
+      "position": 12,
+      "playerId": "i84793",
+      "name": "Barry Grabon",
+      "rating": 1474.33,
+      "dailyRatingChange": 22.87
+    },
+    {
+      "position": 13,
+      "playerId": "m51797",
+      "name": "Michael Overbeek",
+      "rating": 1570.96,
+      "dailyRatingChange": 0.98
+    },
+    {
+      "position": 14,
+      "playerId": "m42398",
+      "name": "Holly Helterhoff",
+      "rating": 1501.82,
+      "dailyRatingChange": -7.86
+    },
+    {
+      "position": 15,
+      "playerId": "m43307",
+      "name": "Brandon Boltz",
+      "rating": 1654.67,
+      "dailyRatingChange": -1.84
+    },
+    {
+      "position": 16,
+      "playerId": "i144257",
+      "name": "Riley Docter",
+      "rating": 1519.02,
+      "dailyRatingChange": -0.23
+    },
+    {
+      "position": 16,
+      "playerId": "i159459",
+      "name": "Will Atkin",
+      "rating": 1500.68,
+      "dailyRatingChange": -3.17
+    },
+    {
+      "position": 16,
+      "playerId": "m995",
+      "name": "Evan Williams",
+      "rating": 1669.99,
+      "dailyRatingChange": -4.76
+    },
+    {
+      "position": 19,
+      "playerId": "m42304",
+      "name": "Walter Depuydt",
+      "rating": 1593.97,
+      "dailyRatingChange": -13.55
+    },
+    {
+      "position": 19,
+      "playerId": "m28821",
+      "name": "Alex Weisenberger",
+      "rating": 1570.16,
+      "dailyRatingChange": -5.85
+    },
+    {
+      "position": 19,
+      "playerId": "m30234",
+      "name": "Matthew Pagnani",
+      "rating": 1542.99,
+      "dailyRatingChange": -1.13
+    },
+    {
+      "position": 19,
+      "playerId": "m42185",
+      "name": "Nathan Brooks",
+      "rating": 1683.32,
+      "dailyRatingChange": -8.48
+    },
+    {
+      "position": 19,
+      "playerId": "m22819",
+      "name": "Wesley Chappell",
+      "rating": 1541.46,
+      "dailyRatingChange": -1.54
+    },
+    {
+      "position": 19,
+      "playerId": "m29297",
+      "name": "Dominic Fiori",
+      "rating": 1589.88,
+      "dailyRatingChange": -3.9
+    },
+    {
+      "position": 25,
+      "playerId": "m25204",
+      "name": "Tom Allman",
+      "rating": 1511.81,
+      "dailyRatingChange": -5.88
+    },
+    {
+      "position": 25,
+      "playerId": "i98511",
+      "name": "Dakota Myers",
+      "rating": 1388.97,
+      "dailyRatingChange": null
+    },
+    {
+      "position": 27,
+      "playerId": "m1131",
+      "name": "Tim Grand",
+      "rating": 1543.09,
+      "dailyRatingChange": -0.87
+    },
+    {
+      "position": 27,
+      "playerId": "m60336",
+      "name": "Shelby Atkin",
+      "rating": 1399.03,
+      "dailyRatingChange": 10.19
+    },
+    {
+      "position": 27,
+      "playerId": "m586028",
+      "name": "Eric Strebel",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 27,
+      "playerId": "m26391",
+      "name": "Jerry Lucas",
+      "rating": 1556.38,
+      "dailyRatingChange": -7.35
+    }
+  ]
+}

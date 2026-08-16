@@ -1,0 +1,53 @@
+{
+  "tournamentId": 262706,
+  "name": "Rickshaw’s Great Wall of Balls 7/18",
+  "date": "2026-07-19",
+  "locationId": "13485",
+  "locationName": "Rickshaw Restaurant & Lounge",
+  "playerCount": 6,
+  "ratingsDate": "2026-07-19",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m17637",
+      "name": "Elliott Johnson",
+      "rating": 1561.9,
+      "dailyRatingChange": 2.19
+    },
+    {
+      "position": 2,
+      "playerId": "m797",
+      "name": "Matt Galbraith",
+      "rating": 1607.17,
+      "dailyRatingChange": 0.89
+    },
+    {
+      "position": 2,
+      "playerId": "m3465",
+      "name": "Justina Russo",
+      "rating": 1533.16,
+      "dailyRatingChange": 0.96
+    },
+    {
+      "position": 4,
+      "playerId": "m43660",
+      "name": "Chandler Lattin",
+      "rating": 1435.47,
+      "dailyRatingChange": 0.22
+    },
+    {
+      "position": 4,
+      "playerId": "m32272",
+      "name": "Hunter Vogt",
+      "rating": 1530.18,
+      "dailyRatingChange": -2.78
+    },
+    {
+      "position": 6,
+      "playerId": "m53373",
+      "name": "Noah Rubin",
+      "rating": 1352.83,
+      "dailyRatingChange": -3.01
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "tournamentId": 266522,
+  "name": "Finals for Pinball at the Basement Aug 2026",
+  "date": "2026-08-11",
+  "locationId": "12095",
+  "locationName": "The Basement Canberra",
+  "playerCount": 4,
+  "ratingsDate": "2026-08-11",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m32084",
+      "name": "Brett Hennock",
+      "rating": 1607.51,
+      "dailyRatingChange": 13.21
+    },
+    {
+      "position": 2,
+      "playerId": "m56373",
+      "name": "Sean Warren",
+      "rating": 1612.67,
+      "dailyRatingChange": 14.66
+    },
+    {
+      "position": 3,
+      "playerId": "i162455",
+      "name": "Chris Harvey AUS",
+      "rating": 1583.34,
+      "dailyRatingChange": 30.64
+    },
+    {
+      "position": 4,
+      "playerId": "m7205",
+      "name": "Ted Woods",
+      "rating": 1628.53,
+      "dailyRatingChange": 9.81
+    }
+  ]
+}

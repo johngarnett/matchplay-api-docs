@@ -1,0 +1,359 @@
+{
+  "locationId": "12988",
+  "name": "The SandBar & Grill",
+  "address": "1941 Marine View Dr, Tacoma, WA 98422, US",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 24,
+  "relatedVenues": [
+    {
+      "locationId": "9576",
+      "name": "The Kraken Bar & Lounge",
+      "address": "5828 Roosevelt Way NE, Seattle, WA 98105, US",
+      "count": 101
+    },
+    {
+      "locationId": "8474",
+      "name": "The Triple Knock",
+      "address": "2713 6th Avenue, Tacoma, WA 98406, US",
+      "count": 71
+    },
+    {
+      "locationId": "1893",
+      "name": "The Ice Box",
+      "address": "615 NW Bright St, Seattle, WA 98107, USA",
+      "count": 60
+    },
+    {
+      "locationId": "5763",
+      "name": "Idaho Pinball Museum",
+      "address": "1104 N Cole Rd Boise, ID, United States, Idaho 83704",
+      "count": 48
+    },
+    {
+      "locationId": "10993",
+      "name": "Gary’s Place",
+      "address": "2820 Alki Ave SW, Seattle, WA 98116, US",
+      "count": 40
+    },
+    {
+      "locationId": "11192",
+      "name": "Houndstooth Public House",
+      "address": "8551 Greenwood Ave N, Seattle, WA 98103, USA",
+      "count": 34
+    },
+    {
+      "locationId": "12287",
+      "name": "Here's How Public House",
+      "address": "572 S Vista Ave, Boise, ID 83705, US",
+      "count": 27
+    },
+    {
+      "locationId": "8582",
+      "name": "ADD-A-Ball",
+      "address": "315 N 36th St, Seattle, WA 98103, US",
+      "count": 26
+    },
+    {
+      "locationId": "6346",
+      "name": "NWPAS",
+      "address": "",
+      "count": 23
+    },
+    {
+      "locationId": "10907",
+      "name": "Hound's Tooth Public House",
+      "address": "8551 Greenwood Ave. N., Seattle, WA 98103, US",
+      "count": 22
+    }
+  ],
+  "players": [
+    {
+      "id": "m25059",
+      "name": "Avery Irvin",
+      "rating": 1742.94,
+      "rd": 19.2,
+      "ratingClass": "Expert",
+      "homeLocation": "Idaho Pinball Museum",
+      "homeLocationId": "5763",
+      "percentile": 98.5279731681185,
+      "changeDisplay": "-1.8",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m26678",
+      "name": "Kilian Inglett",
+      "rating": 1719.21,
+      "rd": 19.11,
+      "ratingClass": "Expert",
+      "homeLocation": "The Triple Knock",
+      "homeLocationId": "8474",
+      "percentile": 97.61960218009037,
+      "changeDisplay": "+4.4",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m2643",
+      "name": "Dwayne Smith",
+      "rating": 1699.26,
+      "rd": 20.85,
+      "ratingClass": "A",
+      "homeLocation": "Idaho Pinball Museum",
+      "homeLocationId": "5763",
+      "percentile": 96.58079843480691,
+      "changeDisplay": "+6.9",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m37861",
+      "name": "Craig Garrett",
+      "rating": 1662.59,
+      "rd": 19.87,
+      "ratingClass": "A",
+      "homeLocation": "The Triple Knock",
+      "homeLocationId": "8474",
+      "percentile": 93.36190431825592,
+      "changeDisplay": "-0.9",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m7066",
+      "name": "Chelsie Hulka",
+      "rating": 1627.29,
+      "rd": 24.21,
+      "ratingClass": "A",
+      "homeLocation": "The Ice Box",
+      "homeLocationId": "1893",
+      "percentile": 88.02813620906508,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m6778",
+      "name": "Nick Wold",
+      "rating": 1626.38,
+      "rd": 26.39,
+      "ratingClass": "A",
+      "homeLocation": "Volition Brewing Co.",
+      "homeLocationId": "8678",
+      "percentile": 87.84180369870033,
+      "changeDisplay": "-12.1",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m8829",
+      "name": "Nate Nielsen",
+      "rating": 1596.03,
+      "rd": 28.9,
+      "ratingClass": "B",
+      "homeLocation": "The SandBar & Grill",
+      "homeLocationId": "12988",
+      "percentile": 81.05464200866446,
+      "changeDisplay": "+3.1",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m37860",
+      "name": "Canyon Mosely",
+      "rating": 1580.85,
+      "rd": 16.79,
+      "ratingClass": "B",
+      "homeLocation": "Gary’s Place",
+      "homeLocationId": "10993",
+      "percentile": 76.89476871477152,
+      "changeDisplay": "+2.2",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m23211",
+      "name": "Misha Alexeeff",
+      "rating": 1571.89,
+      "rd": 17.02,
+      "ratingClass": "B",
+      "homeLocation": "The Kraken Bar & Lounge",
+      "homeLocationId": "9576",
+      "percentile": 74.06251455722737,
+      "changeDisplay": "-1.3",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m17637",
+      "name": "Elliott Johnson",
+      "rating": 1568.29,
+      "rd": 15.49,
+      "ratingClass": "B",
+      "homeLocation": "The Kraken Bar & Lounge",
+      "homeLocationId": "9576",
+      "percentile": 72.9724693715936,
+      "changeDisplay": "+2.8",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m12768",
+      "name": "Guadalupe Bryan",
+      "rating": 1563.34,
+      "rd": 20.52,
+      "ratingClass": "B",
+      "homeLocation": "The Ice Box",
+      "homeLocationId": "1893",
+      "percentile": 71.43056784832534,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m53632",
+      "name": "Jamie O'Hara",
+      "rating": 1556.36,
+      "rd": 20.27,
+      "ratingClass": "B",
+      "homeLocation": "Gary’s Place",
+      "homeLocationId": "10993",
+      "percentile": 69.15265290911631,
+      "changeDisplay": "+1.9",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m59195",
+      "name": "Andrew Demchuck",
+      "rating": 1555.59,
+      "rd": 41.55,
+      "ratingClass": "B",
+      "homeLocation": "The SandBar & Grill",
+      "homeLocationId": "12988",
+      "percentile": 68.87781245632831,
+      "changeDisplay": "★",
+      "changeClass": "change-new"
+    },
+    {
+      "id": "m31487",
+      "name": "Julianne Hassman",
+      "rating": 1547.45,
+      "rd": 27,
+      "ratingClass": "B",
+      "homeLocation": "The Triple Knock",
+      "homeLocationId": "8474",
+      "percentile": 65.76140122047795,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m7961",
+      "name": "Altwin Hawksford",
+      "rating": 1536.77,
+      "rd": 21.32,
+      "ratingClass": "B",
+      "homeLocation": "The Triple Knock",
+      "homeLocationId": "8474",
+      "percentile": 61.79717706246798,
+      "changeDisplay": "+1.0",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m28002",
+      "name": "Ellie Grey",
+      "rating": 1532.69,
+      "rd": 18.98,
+      "ratingClass": "B",
+      "homeLocation": "Idaho Pinball Museum",
+      "homeLocationId": "5763",
+      "percentile": 60.15279265849909,
+      "changeDisplay": "-3.0",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m18234",
+      "name": "Katja Rodgers",
+      "rating": 1528.8,
+      "rd": 20.38,
+      "ratingClass": "B",
+      "homeLocation": "The Kraken Bar & Lounge",
+      "homeLocationId": "9576",
+      "percentile": 58.56430800763963,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m32717",
+      "name": "Shirley Recinos",
+      "rating": 1488.18,
+      "rd": 30.48,
+      "ratingClass": "C",
+      "homeLocation": "Georgetown Pizza & Arcade",
+      "homeLocationId": "8014",
+      "percentile": 42.22760516141054,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i117638",
+      "name": "Joe Evans",
+      "rating": 1473.98,
+      "rd": 50.18,
+      "ratingClass": "C",
+      "homeLocation": "The SandBar & Grill",
+      "homeLocationId": "12988",
+      "percentile": 36.44198071458518,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m33370",
+      "name": "Sarah Munden",
+      "rating": 1471.07,
+      "rd": 17.7,
+      "ratingClass": "C",
+      "homeLocation": "The Kraken Bar & Lounge",
+      "homeLocationId": "9576",
+      "percentile": 35.282060837564636,
+      "changeDisplay": "-0.3",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "i78994",
+      "name": "Dan Zunich",
+      "rating": 1431.21,
+      "rd": 33.39,
+      "ratingClass": "C",
+      "homeLocation": "The SandBar & Grill",
+      "homeLocationId": "12988",
+      "percentile": 20.94843247775656,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i139014",
+      "name": "Margaret Braden",
+      "rating": 1430.08,
+      "rd": 59.58,
+      "ratingClass": "C",
+      "homeLocation": "The SandBar & Grill",
+      "homeLocationId": "12988",
+      "percentile": 20.58974239530442,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m12153",
+      "name": "Bradley Bonner",
+      "rating": 1404.06,
+      "rd": 51.87,
+      "ratingClass": "C",
+      "homeLocation": "The SandBar & Grill",
+      "homeLocationId": "12988",
+      "percentile": 13.546373503517026,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m35231",
+      "name": "Raya Moss",
+      "rating": 1383.75,
+      "rd": 52.6,
+      "ratingClass": "D",
+      "homeLocation": "The SandBar & Grill",
+      "homeLocationId": "12988",
+      "percentile": 9.065076629244889,
+      "changeDisplay": "+1.4",
+      "changeClass": "change-positive"
+    }
+  ]
+}

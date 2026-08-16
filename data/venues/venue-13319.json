@@ -1,0 +1,335 @@
+{
+  "locationId": "13319",
+  "name": "Salle Pierre Lacaze",
+  "address": "12 rue du stade 64530 Pontacq",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 22,
+  "relatedVenues": [
+    {
+      "locationId": "13291",
+      "name": "Salon de Pontacq",
+      "address": "Salle Pierre Lacaze 64530 Pontacq",
+      "count": 12
+    },
+    {
+      "locationId": "9684",
+      "name": "Showroom Fliptonic",
+      "address": "3, rue Clément Ader 85660 Saint Philbert de bouaine",
+      "count": 9
+    },
+    {
+      "locationId": "8716",
+      "name": "Lidenbrock",
+      "address": "Place Albert Premier 61220 Briouze",
+      "count": 4
+    },
+    {
+      "locationId": "9350",
+      "name": "Morlacchi Showroom",
+      "address": "viale Troya 20 , Milan , Italy",
+      "count": 4
+    },
+    {
+      "locationId": "9974",
+      "name": "Musée Vivant du Flipper Asso Culture Flip",
+      "address": "37, place du Marché 13150 TARASCON",
+      "count": 4
+    },
+    {
+      "locationId": "8617",
+      "name": "Biljardna Hisa Ljubljana - Slovenska",
+      "address": "Slovenska 58, 1000 Ljubljana",
+      "count": 3
+    },
+    {
+      "locationId": "10135",
+      "name": "Associació A.R.C.A.D.E",
+      "address": "Esmeragda 11, Esplugues de Llobregat 08950",
+      "count": 3
+    },
+    {
+      "locationId": "12231",
+      "name": "Pinball arcade Forever",
+      "address": "5 Av. Gustave Eiffel 33700 Mérignac",
+      "count": 1
+    },
+    {
+      "locationId": "13016",
+      "name": "Chantilly club",
+      "address": "1 Rue Hoche, Villeneuve-d'Ascq, Hauts-de-France 59491, FR",
+      "count": 1
+    },
+    {
+      "locationId": "13395",
+      "name": "Retro Game Alpes",
+      "address": "Espace Claretière, 6 rue du Cornillon, 38120 Fontanil-Cornillon, France",
+      "count": 1
+    }
+  ],
+  "players": [
+    {
+      "id": "m33765",
+      "name": "Clément Cloarec",
+      "rating": 1666.81,
+      "rd": 26.61,
+      "ratingClass": "A",
+      "homeLocation": "Showroom Fliptonic",
+      "homeLocationId": "9684",
+      "percentile": 93.80910234313133,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i16216",
+      "name": "Franck Remy",
+      "rating": 1625.87,
+      "rd": 41.68,
+      "ratingClass": "A",
+      "homeLocation": "Salon de Pontacq",
+      "homeLocationId": "13291",
+      "percentile": 87.75795406903619,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m42178",
+      "name": "Patrick Sanchez Manjon",
+      "rating": 1618.04,
+      "rd": 21.8,
+      "ratingClass": "A",
+      "homeLocation": "Musée Vivant du Flipper Asso Culture Flip",
+      "homeLocationId": "9974",
+      "percentile": 86.21605254576792,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m38426",
+      "name": "Ghyslain Galinié",
+      "rating": 1615.85,
+      "rd": 27.04,
+      "ratingClass": "A",
+      "homeLocation": "Associació A.R.C.A.D.E",
+      "homeLocationId": "10135",
+      "percentile": 85.71295476778312,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m24177",
+      "name": "Matthieu Prébendé",
+      "rating": 1610.84,
+      "rd": 30.57,
+      "ratingClass": "A",
+      "homeLocation": "Showroom Fliptonic",
+      "homeLocationId": "9684",
+      "percentile": 84.65551777146317,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m43760",
+      "name": "Karine ALBOUY",
+      "rating": 1610.25,
+      "rd": 30.23,
+      "ratingClass": "A",
+      "homeLocation": "Salle Pierre Lacaze",
+      "homeLocationId": "13319",
+      "percentile": 84.52974332696698,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m33325",
+      "name": "Anne-Sophie Tremeau",
+      "rating": 1601.57,
+      "rd": 23.81,
+      "ratingClass": "A",
+      "homeLocation": "Lidenbrock",
+      "homeLocationId": "8716",
+      "percentile": 82.41021102156799,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i81877",
+      "name": "Johan CALMON",
+      "rating": 1573.96,
+      "rd": 38.5,
+      "ratingClass": "B",
+      "homeLocation": "Salle Pierre Lacaze",
+      "homeLocationId": "13319",
+      "percentile": 74.78455303489076,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m17931",
+      "name": "Christophe Berry",
+      "rating": 1571.19,
+      "rd": 21.91,
+      "ratingClass": "B",
+      "homeLocation": "Biljardna Hisa Ljubljana - Slovenska",
+      "homeLocationId": "8617",
+      "percentile": 73.90879023617646,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m53855",
+      "name": "Clara Cazalbou",
+      "rating": 1566.1,
+      "rd": 31.38,
+      "ratingClass": "B",
+      "homeLocation": "Salon de Pontacq",
+      "homeLocationId": "13291",
+      "percentile": 72.30167233428052,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m40945",
+      "name": "Denis De Cock",
+      "rating": 1565.09,
+      "rd": 31.09,
+      "ratingClass": "B",
+      "homeLocation": "Salle Pierre Lacaze",
+      "homeLocationId": "13319",
+      "percentile": 71.97559044114222,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m42943",
+      "name": "Xavier IDIART",
+      "rating": 1563.61,
+      "rd": 38.58,
+      "ratingClass": "B",
+      "homeLocation": "Salon de Pontacq",
+      "homeLocationId": "13291",
+      "percentile": 71.5237341035077,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m43796",
+      "name": "Nathalie Sabin",
+      "rating": 1553.72,
+      "rd": 40.36,
+      "ratingClass": "B",
+      "homeLocation": "Salon de Pontacq",
+      "homeLocationId": "13291",
+      "percentile": 68.23962360832905,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m27525",
+      "name": "Tony Lemoine",
+      "rating": 1552.83,
+      "rd": 27.58,
+      "ratingClass": "B",
+      "homeLocation": "Lidenbrock",
+      "homeLocationId": "8716",
+      "percentile": 67.79242558345368,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m60656",
+      "name": "Matthias Salvat",
+      "rating": 1544.89,
+      "rd": 58.45,
+      "ratingClass": "B",
+      "homeLocation": "Salle Pierre Lacaze",
+      "homeLocationId": "13319",
+      "percentile": 64.91358829831834,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m43794",
+      "name": "Sébastien Cuallado",
+      "rating": 1540.6,
+      "rd": 41.51,
+      "ratingClass": "B",
+      "homeLocation": "Salon de Pontacq",
+      "homeLocationId": "13291",
+      "percentile": 63.343736898495365,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i139095",
+      "name": "Arnaud Courcelle",
+      "rating": 1518.97,
+      "rd": 50.82,
+      "ratingClass": "B",
+      "homeLocation": "Salle Pierre Lacaze",
+      "homeLocationId": "13319",
+      "percentile": 54.71654166860763,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m43761",
+      "name": "Roland DEMANGE",
+      "rating": 1497.23,
+      "rd": 33.36,
+      "ratingClass": "C",
+      "homeLocation": "Salle Pierre Lacaze",
+      "homeLocationId": "13319",
+      "percentile": 45.98220524526017,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m37795",
+      "name": "Eric Martin",
+      "rating": 1493.48,
+      "rd": 27.69,
+      "ratingClass": "C",
+      "homeLocation": "Pinball arcade Forever",
+      "homeLocationId": "12231",
+      "percentile": 44.48688684958308,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m41655",
+      "name": "Arno Baudouin",
+      "rating": 1493.23,
+      "rd": 27.32,
+      "ratingClass": "C",
+      "homeLocation": "Salle Pierre Lacaze",
+      "homeLocationId": "13319",
+      "percentile": 44.370429030605116,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i34506",
+      "name": "Nicolas Ray",
+      "rating": 1459.95,
+      "rd": 64.49,
+      "ratingClass": "C",
+      "homeLocation": "Salle Pierre Lacaze",
+      "homeLocationId": "13319",
+      "percentile": 30.982438160898123,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i160071",
+      "name": "Cindy Denion",
+      "rating": 1420.41,
+      "rd": 37.72,
+      "ratingClass": "C",
+      "homeLocation": "Salle Pierre Lacaze",
+      "homeLocationId": "13319",
+      "percentile": 17.73885498672381,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

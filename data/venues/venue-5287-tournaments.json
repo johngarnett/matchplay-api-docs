@@ -1,0 +1,112 @@
+{
+  "locationId": "5287",
+  "venueName": "ULEKstore's Pinball and Classic Arcade",
+  "venueAddress": "2121 North Monroe St, Monroe, MI, 48162, US",
+  "tournaments": [
+    {
+      "id": 266081,
+      "name": "Crazy 8's 8/8 7 strike tournament.",
+      "date": "8/8/2026",
+      "playerCount": 16,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m56276",
+          "name": "Greg Barrus",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m21726",
+          "name": "Jeff Catenacci",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m57090",
+          "name": "Roy Hollis",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m17645",
+          "name": "Patrick Mendis",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m12241",
+          "name": "Jason Humphrey",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 264413,
+      "name": "10 Fair Strikes Pinball Tournament at ULEKstore's Arcade 8/1/2026",
+      "date": "8/1/2026",
+      "playerCount": 33,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m995",
+          "name": "Evan Williams",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m42469",
+          "name": "Ed Ott",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m17881",
+          "name": "Brent Edwards",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m44840",
+          "name": "Karlos Ko",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m17645",
+          "name": "Patrick Mendis",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 262945,
+      "name": "Women's Bi-Monthly Tournament at ULEKstore's Arcade",
+      "date": "7/20/2026",
+      "playerCount": 3,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m2859",
+          "name": "Leeann DeSloover",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m38710",
+          "name": "Kelley sheahan",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m11078",
+          "name": "Donna DeSloover",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

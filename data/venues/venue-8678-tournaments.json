@@ -1,0 +1,40 @@
+{
+  "locationId": "8678",
+  "venueName": "Volition Brewing Co.",
+  "venueAddress": "112 W North Bend Way, North Bend, WA 98045, US",
+  "tournaments": [
+    {
+      "id": 260185,
+      "name": "Tilted @ Volition Brewing: 3-Strike (Aug)",
+      "date": "8/5/2026",
+      "playerCount": 21,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m33690",
+          "name": "Aubrey White",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m36756",
+          "name": "Chad Haynie",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "i117452",
+          "name": "Roy Hahn",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m35651",
+          "name": "Brandi Van de Houten",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

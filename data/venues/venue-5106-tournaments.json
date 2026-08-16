@@ -1,0 +1,184 @@
+{
+  "locationId": "5106",
+  "venueName": "Player 1UP",
+  "venueAddress": "140 E Main St Suite 140, Rock Hill, SC 29730, United States",
+  "tournaments": [
+    {
+      "id": 259997,
+      "name": "Player 1UP Summer Pinball League Season 13 #7",
+      "date": "8/12/2026",
+      "playerCount": 33,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m39270",
+          "name": "Kody Scholl",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m2848",
+          "name": "Conner Silverstein",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m39840",
+          "name": "Rebecca Buchanan",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m41522",
+          "name": "Hope Craig",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m41502",
+          "name": "Tony Craig",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 259996,
+      "name": "Player 1UP Summer Pinball League Season 13 #6",
+      "date": "8/5/2026",
+      "playerCount": 36,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m39270",
+          "name": "Kody Scholl",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m41779",
+          "name": "Wade Wright",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m2848",
+          "name": "Conner Silverstein",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m40265",
+          "name": "Micah Troublefield",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 265153,
+      "name": "Player 1UP Monthly 4 Strike (08/02/2026)",
+      "date": "8/2/2026",
+      "playerCount": 31,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m1285",
+          "name": "Kaylee Campbell",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m41182",
+          "name": "Kory Scholl",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m2848",
+          "name": "Conner Silverstein",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "i96703",
+          "name": "Jeff Latham",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m26454",
+          "name": "larry phillips",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 259995,
+      "name": "Player 1UP Summer Pinball League Season 13 #5",
+      "date": "7/29/2026",
+      "playerCount": 31,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m39270",
+          "name": "Kody Scholl",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m2848",
+          "name": "Conner Silverstein",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m41182",
+          "name": "Kory Scholl",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m17493",
+          "name": "Timothy Pavkov",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 259994,
+      "name": "Player 1UP Summer Pinball League Season 13 #4",
+      "date": "7/22/2026",
+      "playerCount": 28,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m41182",
+          "name": "Kory Scholl",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m2848",
+          "name": "Conner Silverstein",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m31624",
+          "name": "Chaz Bickham",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "i108989",
+          "name": "Jake Morgan",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

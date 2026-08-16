@@ -1,0 +1,41 @@
+{
+  "locationId": "12837",
+  "name": "The Music Room",
+  "address": "Vinton, LA",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 1,
+  "relatedVenues": [
+    {
+      "locationId": "12943",
+      "name": "SWLA Pinball Club House",
+      "address": "1807 Lake Street, Lake Charles, Louisiana, 70601",
+      "count": 11
+    },
+    {
+      "locationId": "12996",
+      "name": "Habetz Pinball Party Pad",
+      "address": "939 Robinson Cutoff, Vinton, Louisiana",
+      "count": 2
+    },
+    {
+      "locationId": "13404",
+      "name": "Crying Eagle University",
+      "address": "1165 E McNeese St, Lake Charles, LA 70607",
+      "count": 2
+    }
+  ],
+  "players": [
+    {
+      "id": "m55558",
+      "name": "Scott Habetz",
+      "rating": 1546.24,
+      "rd": 34.43,
+      "ratingClass": "B",
+      "homeLocation": "SWLA Pinball Club House",
+      "homeLocationId": "12943",
+      "percentile": 65.37010294871197,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

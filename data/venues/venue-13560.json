@@ -1,0 +1,323 @@
+{
+  "locationId": "13560",
+  "name": "The Pool Turtle",
+  "address": "3409 Covington Hwy, Decatur, GA 30032, US",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 21,
+  "relatedVenues": [
+    {
+      "locationId": "6570",
+      "name": "My Parents' Basement",
+      "address": "22 North Avondale Road, Atlanta, GA 30002, US",
+      "count": 105
+    },
+    {
+      "locationId": "9460",
+      "name": "Melt Yard",
+      "address": "800 Whitlock Ave NW, Marietta, GA 30064, US",
+      "count": 40
+    },
+    {
+      "locationId": "9921",
+      "name": "Renaissance Atlanta Waverly Hotel & Convention Center",
+      "address": "2450 Galleria Pkwy Atlanta, GA 30339",
+      "count": 24
+    },
+    {
+      "locationId": "3374",
+      "name": "Portal Pinball Arcade",
+      "address": "3335 Cobb Pkwy Suite 800, Acworth, GA, 30101, US",
+      "count": 20
+    },
+    {
+      "locationId": "10192",
+      "name": "The Escape Gamebar",
+      "address": "1441 Dresden Dr, Atlanta, GA, 30319, US",
+      "count": 17
+    },
+    {
+      "locationId": "11020",
+      "name": "Solar Slice Pizza - Marietta",
+      "address": "497 Cobb Pkwy SE, Marietta, GA 30060, US",
+      "count": 9
+    },
+    {
+      "locationId": "8950",
+      "name": "The Pinball Barn",
+      "address": "250 Stoneybrook Road, Pelzer, SC  29669",
+      "count": 7
+    },
+    {
+      "locationId": "10197",
+      "name": "The Space Place",
+      "address": "Marietta, GA",
+      "count": 5
+    },
+    {
+      "locationId": "12373",
+      "name": "House of Boren",
+      "address": "Private Address:  email meripyle@me.com",
+      "count": 4
+    },
+    {
+      "locationId": "13258",
+      "name": "Wes H. House",
+      "address": "Private email for details",
+      "count": 4
+    }
+  ],
+  "players": [
+    {
+      "id": "m15388",
+      "name": "Chris Blake",
+      "rating": 1683.9,
+      "rd": 28.93,
+      "ratingClass": "A",
+      "homeLocation": "The Pool Turtle",
+      "homeLocationId": "13560",
+      "percentile": 95.4022453067499,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m15392",
+      "name": "Dillon McFarland",
+      "rating": 1609.48,
+      "rd": 22.02,
+      "ratingClass": "A",
+      "homeLocation": "My Parents' Basement",
+      "homeLocationId": "6570",
+      "percentile": 84.33409419108399,
+      "changeDisplay": "-3.7",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m15389",
+      "name": "Cat McFarland",
+      "rating": 1577.82,
+      "rd": 19.75,
+      "ratingClass": "B",
+      "homeLocation": "My Parents' Basement",
+      "homeLocationId": "6570",
+      "percentile": 75.95378953742954,
+      "changeDisplay": "+0.1",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m15379",
+      "name": "Michael Glidewell",
+      "rating": 1573.33,
+      "rd": 22.59,
+      "ratingClass": "B",
+      "homeLocation": "My Parents' Basement",
+      "homeLocationId": "6570",
+      "percentile": 74.56095402245306,
+      "changeDisplay": "+8.0",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m47812",
+      "name": "Sarah Warlick",
+      "rating": 1565.81,
+      "rd": 15.07,
+      "ratingClass": "B",
+      "homeLocation": "Melt Yard",
+      "homeLocationId": "9460",
+      "percentile": 72.23179764289375,
+      "changeDisplay": "+11.6",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m18961",
+      "name": "Chris DeCourt",
+      "rating": 1538.09,
+      "rd": 36.05,
+      "ratingClass": "B",
+      "homeLocation": "My Parents' Basement",
+      "homeLocationId": "6570",
+      "percentile": 62.314249778730144,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m51426",
+      "name": "Sam Stiyer",
+      "rating": 1535.87,
+      "rd": 40.46,
+      "ratingClass": "B",
+      "homeLocation": "My Parents' Basement",
+      "homeLocationId": "6570",
+      "percentile": 61.35929566311083,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m6126",
+      "name": "Karrie Weddle",
+      "rating": 1518.36,
+      "rd": 17.25,
+      "ratingClass": "B",
+      "homeLocation": "Portal Pinball Arcade",
+      "homeLocationId": "3374",
+      "percentile": 54.53952578376112,
+      "changeDisplay": "-1.0",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m56245",
+      "name": "Joe Minichowski",
+      "rating": 1516.71,
+      "rd": 20.23,
+      "ratingClass": "B",
+      "homeLocation": "Portal Pinball Arcade",
+      "homeLocationId": "3374",
+      "percentile": 53.89667862300275,
+      "changeDisplay": "-10.2",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m12318",
+      "name": "Timothy Ensor",
+      "rating": 1483.89,
+      "rd": 34.74,
+      "ratingClass": "C",
+      "homeLocation": "My Parents' Basement",
+      "homeLocationId": "6570",
+      "percentile": 40.480737876741046,
+      "changeDisplay": "-1.0",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m39392",
+      "name": "Conrad Brown",
+      "rating": 1476.32,
+      "rd": 37.54,
+      "ratingClass": "C",
+      "homeLocation": "My Parents' Basement",
+      "homeLocationId": "6570",
+      "percentile": 37.40625145572274,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m15383",
+      "name": "Brittany Glidewell",
+      "rating": 1453.17,
+      "rd": 21.21,
+      "ratingClass": "C",
+      "homeLocation": "My Parents' Basement",
+      "homeLocationId": "6570",
+      "percentile": 28.327199888200493,
+      "changeDisplay": "-9.6",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m18664",
+      "name": "Brenna Valentine",
+      "rating": 1447.04,
+      "rd": 24.04,
+      "ratingClass": "C",
+      "homeLocation": "My Parents' Basement",
+      "homeLocationId": "6570",
+      "percentile": 26.14245120417385,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m45579",
+      "name": "Tyler Bartell",
+      "rating": 1443.47,
+      "rd": 31.62,
+      "ratingClass": "C",
+      "homeLocation": "My Parents' Basement",
+      "homeLocationId": "6570",
+      "percentile": 24.921973261284762,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m60974",
+      "name": "Taylor Pender",
+      "rating": 1434.61,
+      "rd": 53.21,
+      "ratingClass": "C",
+      "homeLocation": "The Pool Turtle",
+      "homeLocationId": "13560",
+      "percentile": 22.00121116131737,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m3301",
+      "name": "Tina Park",
+      "rating": 1423.31,
+      "rd": 17.9,
+      "ratingClass": "C",
+      "homeLocation": "My Parents' Basement",
+      "homeLocationId": "6570",
+      "percentile": 18.57269297060605,
+      "changeDisplay": "-5.3",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m31830",
+      "name": "Kamarin Winans",
+      "rating": 1422.81,
+      "rd": 20.68,
+      "ratingClass": "C",
+      "homeLocation": "Melt Yard",
+      "homeLocationId": "9460",
+      "percentile": 18.49350165370103,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i109796",
+      "name": "Nicholas Philbeck",
+      "rating": 1406.58,
+      "rd": 61.95,
+      "ratingClass": "C",
+      "homeLocation": "The Pool Turtle",
+      "homeLocationId": "13560",
+      "percentile": 14.203195602552757,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i157657",
+      "name": "Shea bjerregaard",
+      "rating": 1350.13,
+      "rd": 33.49,
+      "ratingClass": "D",
+      "homeLocation": "My Parents' Basement",
+      "homeLocationId": "6570",
+      "percentile": 4.2716728001118,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m20246",
+      "name": "Ally Fuller",
+      "rating": 1346.53,
+      "rd": 25.04,
+      "ratingClass": "D",
+      "homeLocation": "My Parents' Basement",
+      "homeLocationId": "6570",
+      "percentile": 3.866399590068477,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m41407",
+      "name": "Kristen E Johnson",
+      "rating": 1328.96,
+      "rd": 49.74,
+      "ratingClass": "D",
+      "homeLocation": "The Pool Turtle",
+      "homeLocationId": "13560",
+      "percentile": 2.4130060092234595,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

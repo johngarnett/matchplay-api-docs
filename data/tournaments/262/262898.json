@@ -1,0 +1,32 @@
+{
+  "tournamentId": 262898,
+  "name": "Good Timez Women’s Finals",
+  "date": "2026-07-19",
+  "locationId": "11913",
+  "locationName": "Good Timez Billiards",
+  "playerCount": 3,
+  "ratingsDate": "2026-07-19",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m47550",
+      "name": "Sonya Duex",
+      "rating": 1676.62,
+      "dailyRatingChange": -2.04
+    },
+    {
+      "position": 2,
+      "playerId": "m12861",
+      "name": "Caitlin Collier",
+      "rating": 1580.06,
+      "dailyRatingChange": 2.63
+    },
+    {
+      "position": 3,
+      "playerId": "m21743",
+      "name": "Dori Strom",
+      "rating": 1536.62,
+      "dailyRatingChange": -2.32
+    }
+  ]
+}

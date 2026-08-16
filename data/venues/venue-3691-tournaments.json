@@ -1,0 +1,44 @@
+{
+  "locationId": "3691",
+  "venueName": "The Arrrrrcade",
+  "venueAddress": "",
+  "tournaments": [
+    {
+      "id": 262734,
+      "name": "Finals for July 2026 Belles Cookout Tournament - Pin Golf",
+      "date": "7/18/2026",
+      "playerCount": 8,
+      "qualifying": {
+        "id": 262113,
+        "name": "July 2026 Belles Cookout Tournament - Pin Golf",
+        "playerCount": 17
+      },
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m12505",
+          "name": "Chrissy Papnick",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m22772",
+          "name": "Regina Allen",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m4813",
+          "name": "Erin Seiden",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m29575",
+          "name": "Jenni Tucker",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

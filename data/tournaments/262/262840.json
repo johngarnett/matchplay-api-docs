@@ -1,0 +1,67 @@
+{
+  "tournamentId": 262840,
+  "name": "July Third Sunday monthly Reserve Artisan Ales",
+  "date": "2026-07-19",
+  "locationId": "8736",
+  "locationName": "Reserve Artisan Ales",
+  "playerCount": 8,
+  "ratingsDate": "2026-07-19",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m28887",
+      "name": "CJ Krawcyk",
+      "rating": 1712.17,
+      "dailyRatingChange": 0.56
+    },
+    {
+      "position": 2,
+      "playerId": "m44040",
+      "name": "Cory Grimm",
+      "rating": 1591.35,
+      "dailyRatingChange": 9
+    },
+    {
+      "position": 3,
+      "playerId": "i132368",
+      "name": "Roger Conard",
+      "rating": 1510.81,
+      "dailyRatingChange": 34.26
+    },
+    {
+      "position": 4,
+      "playerId": "m40131",
+      "name": "Mike Dafforn",
+      "rating": 1530,
+      "dailyRatingChange": 0.75
+    },
+    {
+      "position": 4,
+      "playerId": "i132369",
+      "name": "Deb Conard",
+      "rating": 1393.19,
+      "dailyRatingChange": 12.9
+    },
+    {
+      "position": 6,
+      "playerId": "m50858",
+      "name": "Dan Scott",
+      "rating": 1539.62,
+      "dailyRatingChange": -12.23
+    },
+    {
+      "position": 7,
+      "playerId": "m580112",
+      "name": "Darin Quick",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 7,
+      "playerId": "i111735",
+      "name": "Seth Sikes",
+      "rating": 1471.63,
+      "dailyRatingChange": -13.54
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "locationId": "8955",
+  "venueName": "Roshambo Beverage Company",
+  "venueAddress": "231 South East Street, Raleigh, NC 27601, US",
+  "tournaments": [
+    {
+      "id": 266461,
+      "name": "Triangle Belles & Chimes - August Roshambo 2026",
+      "date": "8/10/2026",
+      "playerCount": 7,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m47782",
+          "name": "Leslie McCallon",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 1,
+          "playerId": "m29858",
+          "name": "Elia Lake",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m23550",
+          "name": "Kat Lake",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m2939",
+          "name": "Meredith Fowler",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 263972,
+      "name": "Roshambo 4th Sunday July 2026 (good)",
+      "date": "7/26/2026",
+      "playerCount": 6,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m7791",
+          "name": "Jason Keith",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m41496",
+          "name": "Ed Plut",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m2324",
+          "name": "Paul Sanders",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m60001",
+          "name": "Jeremy Hakes",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

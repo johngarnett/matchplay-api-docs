@@ -1,0 +1,81 @@
+{
+  "tournamentId": 264070,
+  "name": "Let's go to Shorty's 70",
+  "date": "2026-07-27",
+  "locationId": "11554",
+  "locationName": "Shorty's",
+  "playerCount": 10,
+  "ratingsDate": "2026-07-27",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m1506",
+      "name": "Neil Kubath",
+      "rating": 1610.19,
+      "dailyRatingChange": 3.03
+    },
+    {
+      "position": 2,
+      "playerId": "i158554",
+      "name": "Kim Smirke",
+      "rating": 1385.77,
+      "dailyRatingChange": null
+    },
+    {
+      "position": 3,
+      "playerId": "m31718",
+      "name": "Madison Masterson",
+      "rating": 1621.5,
+      "dailyRatingChange": 0.18
+    },
+    {
+      "position": 4,
+      "playerId": "m20230",
+      "name": "Ryan Tamm",
+      "rating": 1529.68,
+      "dailyRatingChange": -1.87
+    },
+    {
+      "position": 5,
+      "playerId": "m32854",
+      "name": "Adam Whittaker",
+      "rating": 1395.82,
+      "dailyRatingChange": 3.84
+    },
+    {
+      "position": 5,
+      "playerId": "m31886",
+      "name": "Los",
+      "rating": 1588.28,
+      "dailyRatingChange": -3.09
+    },
+    {
+      "position": 7,
+      "playerId": "m582378",
+      "name": "Tev",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 8,
+      "playerId": "m12045",
+      "name": "Matt Slater",
+      "rating": 1540.93,
+      "dailyRatingChange": -4.23
+    },
+    {
+      "position": 8,
+      "playerId": "m53044",
+      "name": "Jordon Jahns-Budke",
+      "rating": 1396.15,
+      "dailyRatingChange": -0.67
+    },
+    {
+      "position": 10,
+      "playerId": "m14086",
+      "name": "Melanie Meyer",
+      "rating": 1533.67,
+      "dailyRatingChange": -3.27
+    }
+  ]
+}

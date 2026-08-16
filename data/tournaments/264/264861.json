@@ -1,0 +1,53 @@
+{
+  "tournamentId": 264861,
+  "name": "Sunday League @ Pinballz #1 - Fall S2",
+  "date": "2026-08-02",
+  "locationId": "13143",
+  "locationName": "Pinballz Arcade",
+  "playerCount": 6,
+  "ratingsDate": "2026-08-02",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m47132",
+      "name": "Ronnie White",
+      "rating": 1553.59,
+      "dailyRatingChange": 1.84
+    },
+    {
+      "position": 2,
+      "playerId": "m58501",
+      "name": "Claire Knapp",
+      "rating": 1477.22,
+      "dailyRatingChange": 8.94
+    },
+    {
+      "position": 3,
+      "playerId": "m62588",
+      "name": "Abby Long",
+      "rating": 1508.23,
+      "dailyRatingChange": null
+    },
+    {
+      "position": 3,
+      "playerId": "m47681",
+      "name": "Tracy White",
+      "rating": 1362.84,
+      "dailyRatingChange": 19.15
+    },
+    {
+      "position": 5,
+      "playerId": "m58509",
+      "name": "Chris Knapp",
+      "rating": 1517.07,
+      "dailyRatingChange": -6.48
+    },
+    {
+      "position": 6,
+      "playerId": "m60470",
+      "name": "Matthew Thornton",
+      "rating": 1467.47,
+      "dailyRatingChange": -20.77
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "communityId": "107",
+  "locations": [
+    {
+      "id": "6372",
+      "name": "Catalina Brewing Company",
+      "address": "6918 N Camino Martin #120, Marana, AZ, 85741, US",
+      "tournaments": [
+        {
+          "id": 260462,
+          "name": "Marana Pinball Social League Season 18 #2",
+          "date": "8/11/2026",
+          "playerCount": 29,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "i19549",
+              "name": "Eric Shaffer",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m26199",
+              "name": "Andy Nicholls",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m42526",
+              "name": "Shaun Lewin",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m3071",
+              "name": "Derek Jordan",
+              "isCommunityMember": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5585",
+      "name": "HOTRODS",
+      "address": "",
+      "tournaments": [
+        {
+          "id": 266114,
+          "name": "TUCSON TIMED MATCH PLAY @HOTRODS AUG 2026",
+          "date": "8/8/2026",
+          "playerCount": 6,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m5995",
+              "name": "John Finnegan",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m3071",
+              "name": "Derek Jordan",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m4009",
+              "name": "Wayne Saeger",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m34244",
+              "name": "BOB BODMAN",
+              "isCommunityMember": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "10388",
+      "name": "Urban Axe Yard",
+      "address": "3758 E Fry Blvd, Sierra Vista, AZ, 85635, US",
+      "tournaments": [
+        {
+          "id": 262286,
+          "name": "Sierra Vista Pinball League - Season 11 #7",
+          "date": "8/12/2026",
+          "playerCount": 17,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m32346",
+              "name": "Eric Anderson AZ",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "p584886",
+              "name": "Cary Brown",
+              "isCommunityMember": false
+            },
+            {
+              "position": 3,
+              "playerId": "i146096",
+              "name": "Cameron Wagoner",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m42852",
+              "name": "Hunter Davis",
+              "isCommunityMember": true
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "tournamentId": 264273,
+  "name": "Backpocket Dubuque July Monthly Tournament",
+  "date": "2026-07-29",
+  "locationId": "10292",
+  "locationName": "Backpocket Taproom",
+  "playerCount": 12,
+  "ratingsDate": "2026-07-29",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m6270",
+      "name": "Jay Gross",
+      "rating": 1630.19,
+      "dailyRatingChange": 11.75
+    },
+    {
+      "position": 2,
+      "playerId": "m33981",
+      "name": "Brian Pregler",
+      "rating": 1508.65,
+      "dailyRatingChange": 15.99
+    },
+    {
+      "position": 3,
+      "playerId": "m40015",
+      "name": "Jeff Hedley",
+      "rating": 1476.08,
+      "dailyRatingChange": 6.81
+    },
+    {
+      "position": 4,
+      "playerId": "m34656",
+      "name": "Jennifer Pregler",
+      "rating": 1534.84,
+      "dailyRatingChange": -2.37
+    },
+    {
+      "position": 4,
+      "playerId": "m59001",
+      "name": "Joel Averkamp",
+      "rating": 1534.71,
+      "dailyRatingChange": 4.26
+    },
+    {
+      "position": 6,
+      "playerId": "i85348",
+      "name": "Adam Coberley",
+      "rating": 1504.64,
+      "dailyRatingChange": 40.48
+    },
+    {
+      "position": 7,
+      "playerId": "m22225",
+      "name": "Emily Gross IA",
+      "rating": 1632.8,
+      "dailyRatingChange": -6.62
+    },
+    {
+      "position": 7,
+      "playerId": "i161838",
+      "name": "Josie Coberley",
+      "rating": 1429.87,
+      "dailyRatingChange": null
+    },
+    {
+      "position": 7,
+      "playerId": "m55754",
+      "name": "Emily Anderson",
+      "rating": 1530.93,
+      "dailyRatingChange": -9.35
+    },
+    {
+      "position": 10,
+      "playerId": "m582662",
+      "name": "Vicki O'Donnoghue",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 11,
+      "playerId": "m582659",
+      "name": "Nick Schneider",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 12,
+      "playerId": "m582660",
+      "name": "Conner O'Donnoghue",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

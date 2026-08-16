@@ -1,0 +1,466 @@
+{
+  "tournamentId": 262676,
+  "name": "Barn Burner July 2026 Correct",
+  "date": "2026-07-18",
+  "locationId": "8950",
+  "locationName": "The Pinball Barn",
+  "playerCount": 65,
+  "ratingsDate": "2026-07-18",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m4774",
+      "name": "Ken Grant",
+      "rating": 1718.11,
+      "dailyRatingChange": 13.11
+    },
+    {
+      "position": 1,
+      "playerId": "m22349",
+      "name": "Andrew Foard",
+      "rating": 1851.71,
+      "dailyRatingChange": -2
+    },
+    {
+      "position": 3,
+      "playerId": "m9093",
+      "name": "Todd Reynolds",
+      "rating": 1675.77,
+      "dailyRatingChange": 7.27
+    },
+    {
+      "position": 4,
+      "playerId": "m26779",
+      "name": "Robert Steinfeldt",
+      "rating": 1644.07,
+      "dailyRatingChange": 13.69
+    },
+    {
+      "position": 5,
+      "playerId": "m49922",
+      "name": "Max Woo",
+      "rating": 1607.38,
+      "dailyRatingChange": 28.73
+    },
+    {
+      "position": 5,
+      "playerId": "m18890",
+      "name": "Turner Loflin",
+      "rating": 1727.9,
+      "dailyRatingChange": 14.09
+    },
+    {
+      "position": 7,
+      "playerId": "m42014",
+      "name": "Christopher Tirro",
+      "rating": 1664.03,
+      "dailyRatingChange": 15.95
+    },
+    {
+      "position": 8,
+      "playerId": "m10434",
+      "name": "Harold VanPatten",
+      "rating": 1681.43,
+      "dailyRatingChange": 9.34
+    },
+    {
+      "position": 8,
+      "playerId": "i96703",
+      "name": "Jeff Latham",
+      "rating": 1621.17,
+      "dailyRatingChange": 2.68
+    },
+    {
+      "position": 8,
+      "playerId": "m50711",
+      "name": "Alex Gowan",
+      "rating": 1521.26,
+      "dailyRatingChange": 10.82
+    },
+    {
+      "position": 8,
+      "playerId": "m30876",
+      "name": "Christopher Habrelewicz",
+      "rating": 1758.35,
+      "dailyRatingChange": -14.32
+    },
+    {
+      "position": 12,
+      "playerId": "m53154",
+      "name": "Matt Davies SC",
+      "rating": 1657.73,
+      "dailyRatingChange": -5.84
+    },
+    {
+      "position": 13,
+      "playerId": "m8241",
+      "name": "Chad Patz",
+      "rating": 1680.64,
+      "dailyRatingChange": -8.88
+    },
+    {
+      "position": 14,
+      "playerId": "m21532",
+      "name": "Lenny Lipkin",
+      "rating": 1737.25,
+      "dailyRatingChange": 13.6
+    },
+    {
+      "position": 15,
+      "playerId": "m45518",
+      "name": "Andrew Taylor SC",
+      "rating": 1649.87,
+      "dailyRatingChange": 4.31
+    },
+    {
+      "position": 16,
+      "playerId": "m1285",
+      "name": "Kaylee Campbell",
+      "rating": 1792.06,
+      "dailyRatingChange": -15.44
+    },
+    {
+      "position": 17,
+      "playerId": "m25559",
+      "name": "Catherine Rithianos",
+      "rating": 1604.12,
+      "dailyRatingChange": 3.94
+    },
+    {
+      "position": 18,
+      "playerId": "m28515",
+      "name": "Jake Michael",
+      "rating": 1654.28,
+      "dailyRatingChange": -1.06
+    },
+    {
+      "position": 18,
+      "playerId": "m17856",
+      "name": "Greg Latham",
+      "rating": 1584.19,
+      "dailyRatingChange": 12.59
+    },
+    {
+      "position": 20,
+      "playerId": "m3979",
+      "name": "Scott Smith SC",
+      "rating": 1652.07,
+      "dailyRatingChange": -18.74
+    },
+    {
+      "position": 21,
+      "playerId": "m50708",
+      "name": "Brian Kern",
+      "rating": 1574.51,
+      "dailyRatingChange": 4.32
+    },
+    {
+      "position": 22,
+      "playerId": "m17849",
+      "name": "Pete Gaspich",
+      "rating": 1639.29,
+      "dailyRatingChange": -7.84
+    },
+    {
+      "position": 22,
+      "playerId": "m7748",
+      "name": "Krystal Grant",
+      "rating": 1571.29,
+      "dailyRatingChange": 4.96
+    },
+    {
+      "position": 24,
+      "playerId": "m49765",
+      "name": "Hazel Gowan",
+      "rating": 1390.17,
+      "dailyRatingChange": 19.56
+    },
+    {
+      "position": 25,
+      "playerId": "m24539",
+      "name": "Joe Pecarro",
+      "rating": 1652.98,
+      "dailyRatingChange": 0.48
+    },
+    {
+      "position": 25,
+      "playerId": "m49346",
+      "name": "Robert Gowan",
+      "rating": 1573.64,
+      "dailyRatingChange": -1.03
+    },
+    {
+      "position": 27,
+      "playerId": "m42013",
+      "name": "james flood",
+      "rating": 1540.44,
+      "dailyRatingChange": 0.87
+    },
+    {
+      "position": 28,
+      "playerId": "m47068",
+      "name": "Michael Habrelewicz",
+      "rating": 1582.64,
+      "dailyRatingChange": 5.47
+    },
+    {
+      "position": 29,
+      "playerId": "m24023",
+      "name": "Krysten Benke",
+      "rating": 1567.37,
+      "dailyRatingChange": 1.61
+    },
+    {
+      "position": 30,
+      "playerId": "m26744",
+      "name": "Mark Gilbert SC",
+      "rating": 1590,
+      "dailyRatingChange": -2.91
+    },
+    {
+      "position": 31,
+      "playerId": "m18180",
+      "name": "Michael Egbert",
+      "rating": 1647.62,
+      "dailyRatingChange": -10.39
+    },
+    {
+      "position": 31,
+      "playerId": "m40752",
+      "name": "Guy Pecarro",
+      "rating": 1576,
+      "dailyRatingChange": 0.14
+    },
+    {
+      "position": 33,
+      "playerId": "m26454",
+      "name": "larry phillips",
+      "rating": 1531.83,
+      "dailyRatingChange": 1.43
+    },
+    {
+      "position": 34,
+      "playerId": "m52489",
+      "name": "Chris Dombrowski",
+      "rating": 1437.32,
+      "dailyRatingChange": 10.22
+    },
+    {
+      "position": 34,
+      "playerId": "m47812",
+      "name": "Sarah Warlick",
+      "rating": 1550.77,
+      "dailyRatingChange": 1.34
+    },
+    {
+      "position": 36,
+      "playerId": "m36325",
+      "name": "warren andre",
+      "rating": 1485.95,
+      "dailyRatingChange": -2.76
+    },
+    {
+      "position": 37,
+      "playerId": "m30278",
+      "name": "Alex Caughman",
+      "rating": 1623.85,
+      "dailyRatingChange": -3.15
+    },
+    {
+      "position": 38,
+      "playerId": "m2848",
+      "name": "Conner Silverstein",
+      "rating": 1736.94,
+      "dailyRatingChange": -12.77
+    },
+    {
+      "position": 39,
+      "playerId": "m59877",
+      "name": "Don Gardner",
+      "rating": 1537.78,
+      "dailyRatingChange": 8.52
+    },
+    {
+      "position": 39,
+      "playerId": "i77402",
+      "name": "Riley Rogers",
+      "rating": 1468.69,
+      "dailyRatingChange": 20.64
+    },
+    {
+      "position": 41,
+      "playerId": "m38570",
+      "name": "Robert Taylor",
+      "rating": 1484.16,
+      "dailyRatingChange": 2.7
+    },
+    {
+      "position": 41,
+      "playerId": "m17233",
+      "name": "Mark Widdis",
+      "rating": 1560.18,
+      "dailyRatingChange": -2.12
+    },
+    {
+      "position": 43,
+      "playerId": "m34807",
+      "name": "Jason Burleson",
+      "rating": 1717.15,
+      "dailyRatingChange": -12.73
+    },
+    {
+      "position": 44,
+      "playerId": "m23393",
+      "name": "Sari Kitch",
+      "rating": 1500.89,
+      "dailyRatingChange": -2.19
+    },
+    {
+      "position": 45,
+      "playerId": "m47114",
+      "name": "Vincent Sparacino",
+      "rating": 1554.31,
+      "dailyRatingChange": -6.25
+    },
+    {
+      "position": 46,
+      "playerId": "m39206",
+      "name": "Anjay Prasad",
+      "rating": 1455.41,
+      "dailyRatingChange": -4.76
+    },
+    {
+      "position": 47,
+      "playerId": "m14875",
+      "name": "Reed Silverstein",
+      "rating": 1688.56,
+      "dailyRatingChange": -20.89
+    },
+    {
+      "position": 48,
+      "playerId": "m52821",
+      "name": "Rebecca Drucker",
+      "rating": 1457.29,
+      "dailyRatingChange": -0.04
+    },
+    {
+      "position": 49,
+      "playerId": "m27064",
+      "name": "Krishna Prasad",
+      "rating": 1531.3,
+      "dailyRatingChange": -7.89
+    },
+    {
+      "position": 50,
+      "playerId": "m31377",
+      "name": "Matt Loof",
+      "rating": 1552.61,
+      "dailyRatingChange": -4.3
+    },
+    {
+      "position": 50,
+      "playerId": "m47178",
+      "name": "Zennifer Habrelewicz",
+      "rating": 1466.84,
+      "dailyRatingChange": -7.53
+    },
+    {
+      "position": 52,
+      "playerId": "m2046",
+      "name": "Bryan Merritt",
+      "rating": 1541.7,
+      "dailyRatingChange": -8.01
+    },
+    {
+      "position": 53,
+      "playerId": "m17869",
+      "name": "Veronica Carbonell",
+      "rating": 1521.03,
+      "dailyRatingChange": -7.8
+    },
+    {
+      "position": 54,
+      "playerId": "m50921",
+      "name": "Amy Cohan",
+      "rating": 1455.35,
+      "dailyRatingChange": -0.11
+    },
+    {
+      "position": 55,
+      "playerId": "m58142",
+      "name": "Michael Samel",
+      "rating": 1450.1,
+      "dailyRatingChange": -6.04
+    },
+    {
+      "position": 56,
+      "playerId": "m29968",
+      "name": "Trent Kennedy",
+      "rating": 1594.38,
+      "dailyRatingChange": -18.96
+    },
+    {
+      "position": 56,
+      "playerId": "m35460",
+      "name": "Mike Huff SC",
+      "rating": 1382.67,
+      "dailyRatingChange": 5
+    },
+    {
+      "position": 58,
+      "playerId": "m42807",
+      "name": "tina phillips",
+      "rating": 1426.97,
+      "dailyRatingChange": -6.01
+    },
+    {
+      "position": 59,
+      "playerId": "m45143",
+      "name": "perry phillips",
+      "rating": 1489.62,
+      "dailyRatingChange": -2.37
+    },
+    {
+      "position": 60,
+      "playerId": "m27925",
+      "name": "Sarah Buchanan",
+      "rating": 1524.04,
+      "dailyRatingChange": -6.48
+    },
+    {
+      "position": 60,
+      "playerId": "m28478",
+      "name": "Lindsay Wincek",
+      "rating": 1490.5,
+      "dailyRatingChange": -9.69
+    },
+    {
+      "position": 62,
+      "playerId": "m62039",
+      "name": "Lily kantor",
+      "rating": 1368.86,
+      "dailyRatingChange": -13.48
+    },
+    {
+      "position": 63,
+      "playerId": "m6404",
+      "name": "Phillip Forrester sr",
+      "rating": 1441.67,
+      "dailyRatingChange": -7.79
+    },
+    {
+      "position": 64,
+      "playerId": "m579583",
+      "name": "Brian Patz",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 65,
+      "playerId": "m57025",
+      "name": "grace kantor",
+      "rating": 1369.46,
+      "dailyRatingChange": 5.41
+    }
+  ]
+}

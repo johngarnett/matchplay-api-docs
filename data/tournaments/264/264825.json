@@ -1,0 +1,39 @@
+{
+  "tournamentId": 264825,
+  "name": "Highscore Flipper Frenzy Semifinal",
+  "date": "2026-07-31",
+  "locationId": "6713",
+  "locationName": "Highscore Kristiansand",
+  "playerCount": 4,
+  "ratingsDate": "2026-07-31",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m57778",
+      "name": "Trygve Gundersen",
+      "rating": 1572.21,
+      "dailyRatingChange": 0.6
+    },
+    {
+      "position": 2,
+      "playerId": "m46910",
+      "name": "Dean Pepshi",
+      "rating": 1630.89,
+      "dailyRatingChange": 0.4
+    },
+    {
+      "position": 2,
+      "playerId": "m57834",
+      "name": "Per Martin Sandvik",
+      "rating": 1541.95,
+      "dailyRatingChange": 2.53
+    },
+    {
+      "position": 4,
+      "playerId": "m20028",
+      "name": "Simen Dørum",
+      "rating": 1552.22,
+      "dailyRatingChange": 8.05
+    }
+  ]
+}

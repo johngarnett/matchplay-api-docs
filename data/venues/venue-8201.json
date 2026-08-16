@@ -1,0 +1,419 @@
+{
+  "locationId": "8201",
+  "name": "Rad Retrocade",
+  "address": "201 North Main Street, Las Cruces, NM 88001, US",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 29,
+  "relatedVenues": [
+    {
+      "locationId": "8912",
+      "name": "Sister",
+      "address": "407 Central Ave NW, Albuquerque, NM 87102, US",
+      "count": 19
+    },
+    {
+      "locationId": "13861",
+      "name": "Zia Comics",
+      "address": "125 N Main St, Las Cruces, NM 88001, US",
+      "count": 16
+    },
+    {
+      "locationId": "8437",
+      "name": "Casa Pinball",
+      "address": "",
+      "count": 14
+    },
+    {
+      "locationId": "13754",
+      "name": "Peeldriguez",
+      "address": "",
+      "count": 11
+    },
+    {
+      "locationId": "12972",
+      "name": "Brew Lab 101 Beer & Cider Co.",
+      "address": "3301 Southern Blvd SE, Rio Rancho, NM 87124, US",
+      "count": 6
+    },
+    {
+      "locationId": "7929",
+      "name": "13008 Desert Moon Pl NE Albuquerque NM.  87110",
+      "address": "",
+      "count": 5
+    },
+    {
+      "locationId": "10207",
+      "name": "Boxing Bear Brewing Co. Bridges on Tramway Taproom",
+      "address": "12501 Candelaria Rd NE, Albuquerque, NM 87111, US",
+      "count": 4
+    },
+    {
+      "locationId": "13364",
+      "name": "Rio Bravo Brewing Company",
+      "address": "1912 2nd St NW, Albuquerque, NM 87102, US",
+      "count": 4
+    },
+    {
+      "locationId": "13361",
+      "name": "Unhinged Brewing Co",
+      "address": "251 98th St f, Albuquerque, NM 87121, US",
+      "count": 2
+    },
+    {
+      "locationId": "8307",
+      "name": "Jackbar",
+      "address": "143 Havemeyer Street, Brooklyn, NY 11211, US",
+      "count": 1
+    }
+  ],
+  "players": [
+    {
+      "id": "m19850",
+      "name": "Matt Wilson",
+      "rating": 1748.61,
+      "rd": 26.76,
+      "ratingClass": "Expert",
+      "homeLocation": "Rad Retrocade",
+      "homeLocationId": "8201",
+      "percentile": 98.68169748916942,
+      "changeDisplay": "-25.4",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m36156",
+      "name": "Andrew McFarland",
+      "rating": 1703.9,
+      "rd": 27.47,
+      "ratingClass": "Expert",
+      "homeLocation": "Sister",
+      "homeLocationId": "8912",
+      "percentile": 96.81837238552197,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m1152",
+      "name": "Ezra Huscher",
+      "rating": 1671.33,
+      "rd": 27.42,
+      "ratingClass": "A",
+      "homeLocation": "Rad Retrocade",
+      "homeLocationId": "8201",
+      "percentile": 94.20971724041553,
+      "changeDisplay": "-2.9",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m19831",
+      "name": "Mandy Peel",
+      "rating": 1655.43,
+      "rd": 22.57,
+      "ratingClass": "A",
+      "homeLocation": "Rad Retrocade",
+      "homeLocationId": "8201",
+      "percentile": 92.47682489402338,
+      "changeDisplay": "-12.0",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "i7500",
+      "name": "Butch Peel",
+      "rating": 1654.75,
+      "rd": 38.33,
+      "ratingClass": "A",
+      "homeLocation": "Rad Retrocade",
+      "homeLocationId": "8201",
+      "percentile": 92.37434201332277,
+      "changeDisplay": "+25.1",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m19513",
+      "name": "Doug McDonald",
+      "rating": 1654.15,
+      "rd": 38.29,
+      "ratingClass": "A",
+      "homeLocation": "Rad Retrocade",
+      "homeLocationId": "8201",
+      "percentile": 92.28583407089953,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m32392",
+      "name": "Robert Slyker",
+      "rating": 1653.6,
+      "rd": 36.13,
+      "ratingClass": "A",
+      "homeLocation": "Rad Retrocade",
+      "homeLocationId": "8201",
+      "percentile": 92.22527600503098,
+      "changeDisplay": "+4.7",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m30366",
+      "name": "Brenna Peel",
+      "rating": 1644.87,
+      "rd": 24.47,
+      "ratingClass": "A",
+      "homeLocation": "Rad Retrocade",
+      "homeLocationId": "8201",
+      "percentile": 91.01411468766013,
+      "changeDisplay": "-9.3",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m27846",
+      "name": "David Lopez TX",
+      "rating": 1642.7,
+      "rd": 25.63,
+      "ratingClass": "A",
+      "homeLocation": "Rad Retrocade",
+      "homeLocationId": "8201",
+      "percentile": 90.74393254763125,
+      "changeDisplay": "+7.2",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m32175",
+      "name": "Bob Buxman",
+      "rating": 1639.09,
+      "rd": 28.04,
+      "ratingClass": "A",
+      "homeLocation": "Rad Retrocade",
+      "homeLocationId": "8201",
+      "percentile": 90.20356826757349,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m52010",
+      "name": "Carnie Bevz",
+      "rating": 1634.42,
+      "rd": 27.26,
+      "ratingClass": "A",
+      "homeLocation": "Sister",
+      "homeLocationId": "8912",
+      "percentile": 89.35109703265476,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m37283",
+      "name": "Matthew Reichbach",
+      "rating": 1619.04,
+      "rd": 26.89,
+      "ratingClass": "A",
+      "homeLocation": "Sister",
+      "homeLocationId": "8912",
+      "percentile": 86.41170168165091,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m30367",
+      "name": "Joshua Rodriguez",
+      "rating": 1608.36,
+      "rd": 25.36,
+      "ratingClass": "A",
+      "homeLocation": "Rad Retrocade",
+      "homeLocationId": "8201",
+      "percentile": 84.07322867657334,
+      "changeDisplay": "+3.3",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m20978",
+      "name": "Steve Howard NM",
+      "rating": 1591.1,
+      "rd": 25.42,
+      "ratingClass": "B",
+      "homeLocation": "Rad Retrocade",
+      "homeLocationId": "8201",
+      "percentile": 79.77360599990683,
+      "changeDisplay": "-12.3",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m27067",
+      "name": "Anthony Contreras",
+      "rating": 1581.91,
+      "rd": 33.84,
+      "ratingClass": "B",
+      "homeLocation": "Rad Retrocade",
+      "homeLocationId": "8201",
+      "percentile": 77.18358410583687,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m30983",
+      "name": "Dustin Wright",
+      "rating": 1576.29,
+      "rd": 24.26,
+      "ratingClass": "B",
+      "homeLocation": "Rad Retrocade",
+      "homeLocationId": "8201",
+      "percentile": 75.55783295290446,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i103590",
+      "name": "Brant Goddard",
+      "rating": 1564.31,
+      "rd": 26.1,
+      "ratingClass": "B",
+      "homeLocation": "Rad Retrocade",
+      "homeLocationId": "8201",
+      "percentile": 71.770624679741,
+      "changeDisplay": "+3.8",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "i150873",
+      "name": "Benny Mathis",
+      "rating": 1533.51,
+      "rd": 29.87,
+      "ratingClass": "B",
+      "homeLocation": "Rad Retrocade",
+      "homeLocationId": "8201",
+      "percentile": 60.441608049564444,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m30784",
+      "name": "Rodi Soto",
+      "rating": 1528.8,
+      "rd": 23.01,
+      "ratingClass": "B",
+      "homeLocation": "Brew Lab 101 Beer & Cider Co.",
+      "homeLocationId": "12972",
+      "percentile": 58.55964969488051,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m61447",
+      "name": "John Yenshaw",
+      "rating": 1521.36,
+      "rd": 31.7,
+      "ratingClass": "B",
+      "homeLocation": "Rad Retrocade",
+      "homeLocationId": "8201",
+      "percentile": 55.7320538500955,
+      "changeDisplay": "+1.8",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m30383",
+      "name": "Natoria Martinez",
+      "rating": 1516.39,
+      "rd": 27.29,
+      "ratingClass": "B",
+      "homeLocation": "Rad Retrocade",
+      "homeLocationId": "8201",
+      "percentile": 53.75692924022919,
+      "changeDisplay": "-2.9",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m31296",
+      "name": "Debbie Peel",
+      "rating": 1491.68,
+      "rd": 25.22,
+      "ratingClass": "C",
+      "homeLocation": "Rad Retrocade",
+      "homeLocationId": "8201",
+      "percentile": 43.727581869846745,
+      "changeDisplay": "+21.9",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m36204",
+      "name": "Josh Voorhees NM",
+      "rating": 1483.33,
+      "rd": 33.66,
+      "ratingClass": "C",
+      "homeLocation": "Rad Retrocade",
+      "homeLocationId": "8201",
+      "percentile": 40.289747053617184,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i101353",
+      "name": "Ash Allred",
+      "rating": 1479.18,
+      "rd": 26.62,
+      "ratingClass": "C",
+      "homeLocation": "Rad Retrocade",
+      "homeLocationId": "8201",
+      "percentile": 38.63604602413006,
+      "changeDisplay": "+9.6",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "i66097",
+      "name": "Reid Paskiewicz",
+      "rating": 1445.15,
+      "rd": 29.86,
+      "ratingClass": "C",
+      "homeLocation": "Rad Retrocade",
+      "homeLocationId": "8201",
+      "percentile": 25.462337541342528,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m45828",
+      "name": "Debbie Jo Felix",
+      "rating": 1378.73,
+      "rd": 27.32,
+      "ratingClass": "D",
+      "homeLocation": "Rad Retrocade",
+      "homeLocationId": "8201",
+      "percentile": 8.100805888107327,
+      "changeDisplay": "-0.6",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m31302",
+      "name": "Cyndi Lopez",
+      "rating": 1363.5,
+      "rd": 26.92,
+      "ratingClass": "D",
+      "homeLocation": "Rad Retrocade",
+      "homeLocationId": "8201",
+      "percentile": 5.822890948898309,
+      "changeDisplay": "+6.3",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m54646",
+      "name": "Benny Mathis",
+      "rating": null,
+      "rd": null,
+      "ratingClass": "N/A",
+      "homeLocation": "Rad Retrocade",
+      "homeLocationId": "8201",
+      "percentile": null,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i129360",
+      "name": "JC Felix",
+      "rating": null,
+      "rd": null,
+      "ratingClass": "N/A",
+      "homeLocation": "Rad Retrocade",
+      "homeLocationId": "8201",
+      "percentile": null,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

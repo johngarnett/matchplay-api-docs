@@ -1,0 +1,67 @@
+{
+  "tournamentId": 262882,
+  "name": "Finals for Transformers Launch Party!",
+  "date": "2026-07-19",
+  "locationId": "9807",
+  "locationName": "Minnesota Pinball @ Bucks Mill Brewing",
+  "playerCount": 8,
+  "ratingsDate": "2026-07-19",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m44885",
+      "name": "Bill Esterby",
+      "rating": 1596.37,
+      "dailyRatingChange": 4.71
+    },
+    {
+      "position": 2,
+      "playerId": "m47856",
+      "name": "Patton Kruger",
+      "rating": 1544.04,
+      "dailyRatingChange": 19.62
+    },
+    {
+      "position": 3,
+      "playerId": "m59992",
+      "name": "Steven Graser",
+      "rating": 1524.94,
+      "dailyRatingChange": 16.25
+    },
+    {
+      "position": 4,
+      "playerId": "m60732",
+      "name": "Tony Jorgensen",
+      "rating": 1506.02,
+      "dailyRatingChange": 10.26
+    },
+    {
+      "position": 5,
+      "playerId": "m59045",
+      "name": "Casey LaVine",
+      "rating": 1520.02,
+      "dailyRatingChange": 25.22
+    },
+    {
+      "position": 6,
+      "playerId": "m29785",
+      "name": "David Templeton",
+      "rating": 1568.91,
+      "dailyRatingChange": 3.1
+    },
+    {
+      "position": 7,
+      "playerId": "m39537",
+      "name": "Don Smith",
+      "rating": 1619.79,
+      "dailyRatingChange": 0.98
+    },
+    {
+      "position": 8,
+      "playerId": "m40084",
+      "name": "Chris Smith",
+      "rating": 1458.25,
+      "dailyRatingChange": 0.48
+    }
+  ]
+}

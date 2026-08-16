@@ -1,0 +1,39 @@
+{
+  "tournamentId": 262956,
+  "name": "Finals for Transformers: More Than Meets The Eye Launch Party @ The Coin Slot  2026-07-20",
+  "date": "2026-07-21",
+  "locationId": "7370",
+  "locationName": "The Coin Slot",
+  "playerCount": 4,
+  "ratingsDate": "2026-07-21",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m42516",
+      "name": "Aaron Proudfoot",
+      "rating": 1626.37,
+      "dailyRatingChange": 23.48
+    },
+    {
+      "position": 2,
+      "playerId": "m25014",
+      "name": "Ben Harris",
+      "rating": 1517.89,
+      "dailyRatingChange": 12.09
+    },
+    {
+      "position": 3,
+      "playerId": "m10803",
+      "name": "Dingo Hilgard",
+      "rating": 1682.71,
+      "dailyRatingChange": 1.41
+    },
+    {
+      "position": 4,
+      "playerId": "m32231",
+      "name": "Johnny G",
+      "rating": 1636.72,
+      "dailyRatingChange": -2.33
+    }
+  ]
+}

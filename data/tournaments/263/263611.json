@@ -1,0 +1,221 @@
+{
+  "tournamentId": 263611,
+  "name": "Friday Night Fair Strikes at Pinball Capital Chicago 07/24",
+  "date": "2026-07-25",
+  "locationId": "13170",
+  "locationName": "The Pinball Capital",
+  "playerCount": 30,
+  "ratingsDate": "2026-07-25",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m39411",
+      "name": "David Slaymaker",
+      "rating": 1688.73,
+      "dailyRatingChange": 4.26
+    },
+    {
+      "position": 2,
+      "playerId": "m12069",
+      "name": "Tom Menge",
+      "rating": 1684.19,
+      "dailyRatingChange": 1.72
+    },
+    {
+      "position": 2,
+      "playerId": "m39177",
+      "name": "Charles Jackson IN",
+      "rating": 1769.17,
+      "dailyRatingChange": -2.06
+    },
+    {
+      "position": 2,
+      "playerId": "m4734",
+      "name": "Brian Weisberg",
+      "rating": 1675,
+      "dailyRatingChange": 13.09
+    },
+    {
+      "position": 5,
+      "playerId": "m36843",
+      "name": "John Severin",
+      "rating": 1568.91,
+      "dailyRatingChange": 3.08
+    },
+    {
+      "position": 5,
+      "playerId": "i3339",
+      "name": "Joseph Blasi",
+      "rating": 1581.25,
+      "dailyRatingChange": 11.6
+    },
+    {
+      "position": 7,
+      "playerId": "m39082",
+      "name": "Ron Malenke",
+      "rating": 1520.62,
+      "dailyRatingChange": 9.25
+    },
+    {
+      "position": 7,
+      "playerId": "m36398",
+      "name": "Francis Wisniewski",
+      "rating": 1585.12,
+      "dailyRatingChange": 3.25
+    },
+    {
+      "position": 9,
+      "playerId": "m59462",
+      "name": "Katelyn Speck",
+      "rating": 1536.3,
+      "dailyRatingChange": 14.11
+    },
+    {
+      "position": 9,
+      "playerId": "i19569",
+      "name": "Bob Twichell",
+      "rating": 1671.39,
+      "dailyRatingChange": -0.35
+    },
+    {
+      "position": 9,
+      "playerId": "m22638",
+      "name": "james fremont",
+      "rating": 1610.46,
+      "dailyRatingChange": 1.85
+    },
+    {
+      "position": 12,
+      "playerId": "m24151",
+      "name": "Lily Pizza",
+      "rating": 1623.45,
+      "dailyRatingChange": -3.34
+    },
+    {
+      "position": 13,
+      "playerId": "m27144",
+      "name": "Ted Brockly",
+      "rating": 1610.74,
+      "dailyRatingChange": -4.77
+    },
+    {
+      "position": 13,
+      "playerId": "i133516",
+      "name": "Simon Kirkeng",
+      "rating": 1517.03,
+      "dailyRatingChange": 4.77
+    },
+    {
+      "position": 13,
+      "playerId": "m56192",
+      "name": "Charles Hooker",
+      "rating": 1570.09,
+      "dailyRatingChange": 1.64
+    },
+    {
+      "position": 13,
+      "playerId": "m49530",
+      "name": "Sean Kirkeng",
+      "rating": 1613.53,
+      "dailyRatingChange": -3.24
+    },
+    {
+      "position": 13,
+      "playerId": "m45971",
+      "name": "Nik Grosch",
+      "rating": 1654.32,
+      "dailyRatingChange": -4.02
+    },
+    {
+      "position": 18,
+      "playerId": "m42378",
+      "name": "Jim McHale",
+      "rating": 1469.38,
+      "dailyRatingChange": 3.19
+    },
+    {
+      "position": 18,
+      "playerId": "i154968",
+      "name": "Carson Hooker",
+      "rating": 1473.31,
+      "dailyRatingChange": 2.87
+    },
+    {
+      "position": 20,
+      "playerId": "m52869",
+      "name": "Sean Oldham",
+      "rating": 1472.89,
+      "dailyRatingChange": -3.51
+    },
+    {
+      "position": 20,
+      "playerId": "m1161",
+      "name": "Michael Grant",
+      "rating": 1616.53,
+      "dailyRatingChange": -16.06
+    },
+    {
+      "position": 20,
+      "playerId": "m581477",
+      "name": "Sarah Mae Craig",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 23,
+      "playerId": "m61016",
+      "name": "Marco Borrelli",
+      "rating": 1421.09,
+      "dailyRatingChange": -1.09
+    },
+    {
+      "position": 24,
+      "playerId": "m14807",
+      "name": "Dave Fahlgren",
+      "rating": 1425.37,
+      "dailyRatingChange": -3.81
+    },
+    {
+      "position": 24,
+      "playerId": "i20254",
+      "name": "Mike Twichell",
+      "rating": 1414.71,
+      "dailyRatingChange": -12.17
+    },
+    {
+      "position": 24,
+      "playerId": "m45876",
+      "name": "Bob Gerard",
+      "rating": 1465.56,
+      "dailyRatingChange": -9.73
+    },
+    {
+      "position": 24,
+      "playerId": "m58409",
+      "name": "Zak Speck",
+      "rating": 1486.92,
+      "dailyRatingChange": -8.61
+    },
+    {
+      "position": 28,
+      "playerId": "m58411",
+      "name": "Becca Speck",
+      "rating": 1405.11,
+      "dailyRatingChange": -10.1
+    },
+    {
+      "position": 29,
+      "playerId": "m35469",
+      "name": "Jim Piarowski",
+      "rating": 1599.29,
+      "dailyRatingChange": -9.21
+    },
+    {
+      "position": 30,
+      "playerId": "m60869",
+      "name": "Joe Wozniak",
+      "rating": 1549.09,
+      "dailyRatingChange": -7.71
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "locationId": "12766",
+  "name": "Moonshot Brewing",
+  "address": "8804 W Victoria Ave, Kennewick, WA 99336, US",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 2,
+  "relatedVenues": [
+    {
+      "locationId": "13592",
+      "name": "X-Golf Kennewick",
+      "address": "",
+      "count": 3
+    },
+    {
+      "locationId": "7334",
+      "name": "Ground Kontrol Classic Arcade",
+      "address": "115 NW 5th Ave, Portland, OR 97209, US",
+      "count": 1
+    },
+    {
+      "locationId": "12876",
+      "name": "Caterpillar Cafe",
+      "address": "227 Symons St, Richland, WA 99354, US",
+      "count": 1
+    }
+  ],
+  "players": [
+    {
+      "id": "m54158",
+      "name": "Cade Bryan",
+      "rating": 1552.87,
+      "rd": 29.17,
+      "ratingClass": "B",
+      "homeLocation": "Moonshot Brewing",
+      "homeLocationId": "12766",
+      "percentile": 67.82969208552663,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m53250",
+      "name": "Jeremy Miller",
+      "rating": 1471.9,
+      "rd": 34.48,
+      "ratingClass": "C",
+      "homeLocation": "Moonshot Brewing",
+      "homeLocationId": "12766",
+      "percentile": 35.58950947966647,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

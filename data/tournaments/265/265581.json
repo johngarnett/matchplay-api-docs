@@ -1,0 +1,123 @@
+{
+  "tournamentId": 265581,
+  "name": "Pinawarra #39 - Top 16 Finals",
+  "date": "2026-08-07",
+  "locationId": "13069",
+  "locationName": "The Fraternity Club",
+  "playerCount": 16,
+  "ratingsDate": "2026-08-07",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m22178",
+      "name": "Josh Burke",
+      "rating": 1728.05,
+      "dailyRatingChange": 22.9
+    },
+    {
+      "position": 2,
+      "playerId": "m757",
+      "name": "Jason Lambert AUS",
+      "rating": 1751.19,
+      "dailyRatingChange": 6.22
+    },
+    {
+      "position": 3,
+      "playerId": "m774",
+      "name": "Joe Wade AUS",
+      "rating": 1647.14,
+      "dailyRatingChange": 7.59
+    },
+    {
+      "position": 4,
+      "playerId": "m57885",
+      "name": "Sienna Wilson",
+      "rating": 1579.44,
+      "dailyRatingChange": 37.78
+    },
+    {
+      "position": 5,
+      "playerId": "m48162",
+      "name": "James Chalki",
+      "rating": 1743.1,
+      "dailyRatingChange": -14.08
+    },
+    {
+      "position": 6,
+      "playerId": "m44000",
+      "name": "Alex Ciminelli",
+      "rating": 1654.03,
+      "dailyRatingChange": 18.84
+    },
+    {
+      "position": 6,
+      "playerId": "m1599",
+      "name": "Pat Nichols",
+      "rating": 1739.95,
+      "dailyRatingChange": -19.16
+    },
+    {
+      "position": 6,
+      "playerId": "m1548",
+      "name": "Paul Jones AUS",
+      "rating": 1809.97,
+      "dailyRatingChange": -4.08
+    },
+    {
+      "position": 9,
+      "playerId": "i160544",
+      "name": "Kurt Basedow",
+      "rating": 1593.33,
+      "dailyRatingChange": null
+    },
+    {
+      "position": 10,
+      "playerId": "m17386",
+      "name": "Aubrey Walker",
+      "rating": 1636.47,
+      "dailyRatingChange": 6.25
+    },
+    {
+      "position": 11,
+      "playerId": "m30040",
+      "name": "Kris Forner",
+      "rating": 1568.89,
+      "dailyRatingChange": 18.46
+    },
+    {
+      "position": 11,
+      "playerId": "i12064",
+      "name": "Stuart Hunt",
+      "rating": 1727.14,
+      "dailyRatingChange": -4.78
+    },
+    {
+      "position": 13,
+      "playerId": "m50908",
+      "name": "Con Hantzi",
+      "rating": 1630.95,
+      "dailyRatingChange": 10.45
+    },
+    {
+      "position": 13,
+      "playerId": "m39451",
+      "name": "Mags Craze",
+      "rating": 1535.87,
+      "dailyRatingChange": 9.22
+    },
+    {
+      "position": 15,
+      "playerId": "m7457",
+      "name": "Matthew Broderick",
+      "rating": 1637.14,
+      "dailyRatingChange": -13.09
+    },
+    {
+      "position": 15,
+      "playerId": "i159758",
+      "name": "Giles Bowen",
+      "rating": 1515.77,
+      "dailyRatingChange": null
+    }
+  ]
+}

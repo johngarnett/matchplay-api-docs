@@ -1,0 +1,239 @@
+{
+  "locationId": "11415",
+  "name": "Social House Mankato",
+  "address": "509 S Front St, Mankato, MN 56001",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 14,
+  "relatedVenues": [
+    {
+      "locationId": "5949",
+      "name": "The Upside Down",
+      "address": "614 Parkview Ct, North Mankato, MN 56003, USA",
+      "count": 16
+    },
+    {
+      "locationId": "8863",
+      "name": "Northstar Pinball Collective",
+      "address": "5636 West 125th Street, Savage, MN",
+      "count": 16
+    },
+    {
+      "locationId": "2726",
+      "name": "GSpot",
+      "address": "401 Page Ave.  North Mankato, MN 56003",
+      "count": 8
+    },
+    {
+      "locationId": "5951",
+      "name": "Low Scores",
+      "address": "111 S Plainview Ave, Mankato, MN 56001, USA",
+      "count": 7
+    },
+    {
+      "locationId": "13035",
+      "name": "Funderdome",
+      "address": "112 Pfau St. Mankato, MN 56001",
+      "count": 7
+    },
+    {
+      "locationId": "4804",
+      "name": "District 82 Pinball",
+      "address": "800 O Keefe Rd, De Pere, WI 54115, USA",
+      "count": 5
+    },
+    {
+      "locationId": "10397",
+      "name": "The Warp Zone Bar & Arcade",
+      "address": "611 5th St, Sioux City, IA, 51101, US",
+      "count": 2
+    },
+    {
+      "locationId": "11041",
+      "name": "The Pinball Room",
+      "address": "2111 S Minnesota Ave Suite B, Sioux Falls, SD 57105",
+      "count": 2
+    },
+    {
+      "locationId": "11959",
+      "name": "The Pinball Place New Ulm",
+      "address": "827 N Broadway St, New Ulm, MN 56073, US",
+      "count": 2
+    },
+    {
+      "locationId": "10939",
+      "name": "Millennium Place",
+      "address": "2000 Premier Way, Sherwood Park, AB",
+      "count": 1
+    }
+  ],
+  "players": [
+    {
+      "id": "m16631",
+      "name": "Ryan Nelson",
+      "rating": 1683.76,
+      "rd": 28.93,
+      "ratingClass": "A",
+      "homeLocation": "The Warp Zone Bar & Arcade",
+      "homeLocationId": "10397",
+      "percentile": 95.39292868123167,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m53190",
+      "name": "Lucas Sweeney",
+      "rating": 1631.27,
+      "rd": 24.93,
+      "ratingClass": "A",
+      "homeLocation": "Social House Mankato",
+      "homeLocationId": "11415",
+      "percentile": 88.8573158801882,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m48614",
+      "name": "Raiden Gruenzner",
+      "rating": 1630.8,
+      "rd": 30.71,
+      "ratingClass": "A",
+      "homeLocation": "Social House Mankato",
+      "homeLocationId": "11415",
+      "percentile": 88.74551637396935,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i99135",
+      "name": "Larry Hodgson",
+      "rating": 1630.46,
+      "rd": 24.81,
+      "ratingClass": "A",
+      "homeLocation": "Social House Mankato",
+      "homeLocationId": "11415",
+      "percentile": 88.67564168258258,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m8777",
+      "name": "Glen VonMaluski",
+      "rating": 1599.97,
+      "rd": 25.2,
+      "ratingClass": "B",
+      "homeLocation": "Social House Mankato",
+      "homeLocationId": "11415",
+      "percentile": 82.00493781152467,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m31615",
+      "name": "Brian Spencer",
+      "rating": 1599.58,
+      "rd": 18.94,
+      "ratingClass": "B",
+      "homeLocation": "Northstar Pinball Collective",
+      "homeLocationId": "8863",
+      "percentile": 81.90711324358317,
+      "changeDisplay": "+0.6",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m26761",
+      "name": "Matt Vandersluis",
+      "rating": 1542.34,
+      "rd": 28.66,
+      "ratingClass": "B",
+      "homeLocation": "Social House Mankato",
+      "homeLocationId": "11415",
+      "percentile": 64.01919224856756,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m48612",
+      "name": "Ben Gruenzner",
+      "rating": 1531.61,
+      "rd": 33.54,
+      "ratingClass": "B",
+      "homeLocation": "Social House Mankato",
+      "homeLocationId": "11415",
+      "percentile": 59.66832813155075,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m48611",
+      "name": "Brian Eimer",
+      "rating": 1518.01,
+      "rd": 34.12,
+      "ratingClass": "B",
+      "homeLocation": "The Upside Down",
+      "homeLocationId": "5949",
+      "percentile": 54.43704290306051,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i142618",
+      "name": "Dan Graf",
+      "rating": 1505.62,
+      "rd": 29.02,
+      "ratingClass": "B",
+      "homeLocation": "Social House Mankato",
+      "homeLocationId": "11415",
+      "percentile": 49.49457306563563,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i98202",
+      "name": "Jameson Sweiger",
+      "rating": 1478.85,
+      "rd": 57.83,
+      "ratingClass": "C",
+      "homeLocation": "Social House Mankato",
+      "homeLocationId": "11415",
+      "percentile": 38.51027157963386,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i118925",
+      "name": "Terri VonMaluski",
+      "rating": 1474.64,
+      "rd": 27.46,
+      "ratingClass": "C",
+      "homeLocation": "The Upside Down",
+      "homeLocationId": "5949",
+      "percentile": 36.768062607723486,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i82342",
+      "name": "Brandon Anderson",
+      "rating": 1469.71,
+      "rd": 42.44,
+      "ratingClass": "C",
+      "homeLocation": "Social House Mankato",
+      "homeLocationId": "11415",
+      "percentile": 34.7743047468207,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i158182",
+      "name": "Carrie Martonik",
+      "rating": 1376.34,
+      "rd": 30.9,
+      "ratingClass": "D",
+      "homeLocation": "Social House Mankato",
+      "homeLocationId": "11415",
+      "percentile": 7.667582801509293,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

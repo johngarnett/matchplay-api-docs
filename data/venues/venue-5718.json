@@ -1,0 +1,395 @@
+{
+  "locationId": "5718",
+  "name": "Barcade Detroit",
+  "address": "666 Selden St, Detroit, MI, 48201, US",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 27,
+  "relatedVenues": [
+    {
+      "locationId": "5287",
+      "name": "ULEKstore's Pinball and Classic Arcade",
+      "address": "2121 North Monroe St, Monroe, MI, 48162, US",
+      "count": 36
+    },
+    {
+      "locationId": "10357",
+      "name": "Offworld Arcade",
+      "address": "1420 E Fisher Fwy, Detroit, MI 48207",
+      "count": 26
+    },
+    {
+      "locationId": "12444",
+      "name": "Sparks Pinball Museum & Arcade",
+      "address": "412 W 14 Mile Rd, Troy, MI 48083, US",
+      "count": 18
+    },
+    {
+      "locationId": "12620",
+      "name": "Pinball Playhouse",
+      "address": "3642 W Eleven Mile Road, Berkley, MI 48072",
+      "count": 13
+    },
+    {
+      "locationId": "12869",
+      "name": "Mum's Arcade",
+      "address": "17738 Mack Ave, Grosse Pointe, MI 48230, US",
+      "count": 10
+    },
+    {
+      "locationId": "8633",
+      "name": "The Basement: Toledo’s Pinball Pub",
+      "address": "4311 Heatherdowns Blvd. Toledo, OH 43614",
+      "count": 9
+    },
+    {
+      "locationId": "12723",
+      "name": "Dr. Tilt’s Arcade",
+      "address": "20734 Chesley Dr",
+      "count": 9
+    },
+    {
+      "locationId": "7465",
+      "name": "RLM Amusements",
+      "address": "4318 Plainfield Avenue Northeast, Grand Rapids, MI 49525, US",
+      "count": 6
+    },
+    {
+      "locationId": "13356",
+      "name": "Pinball Pete's Ann Arbor",
+      "address": "500 E Liberty St, Ann Arbor, MI 48104",
+      "count": 4
+    },
+    {
+      "locationId": "11709",
+      "name": "US12 Bar & Grill",
+      "address": "34824 W Michigan Ave, Wayne, MI 48184",
+      "count": 3
+    }
+  ],
+  "players": [
+    {
+      "id": "m21002",
+      "name": "Aaron Wilburn Jr.",
+      "rating": 1691.91,
+      "rd": 24.29,
+      "ratingClass": "A",
+      "homeLocation": "Barcade Detroit",
+      "homeLocationId": "5718",
+      "percentile": 96.0544090930265,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m32140",
+      "name": "Meredith Walton",
+      "rating": 1643.18,
+      "rd": 20.88,
+      "ratingClass": "A",
+      "homeLocation": "RLM Amusements",
+      "homeLocationId": "7465",
+      "percentile": 90.8044906134998,
+      "changeDisplay": "+3.5",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m25776",
+      "name": "Uber Hubris",
+      "rating": 1640.66,
+      "rd": 18.84,
+      "ratingClass": "A",
+      "homeLocation": "ULEKstore's Pinball and Classic Arcade",
+      "homeLocationId": "5287",
+      "percentile": 90.42716728001118,
+      "changeDisplay": "-4.4",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m37176",
+      "name": "Scott Sheahan",
+      "rating": 1623.14,
+      "rd": 19.32,
+      "ratingClass": "A",
+      "homeLocation": "Offworld Arcade",
+      "homeLocationId": "10357",
+      "percentile": 87.2595146038105,
+      "changeDisplay": "-0.3",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m6303",
+      "name": "Thomas Ruszkiewicz Jr",
+      "rating": 1598.69,
+      "rd": 23.54,
+      "ratingClass": "B",
+      "homeLocation": "ULEKstore's Pinball and Classic Arcade",
+      "homeLocationId": "5287",
+      "percentile": 81.6881725439046,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m19888",
+      "name": "Captain Planet",
+      "rating": 1573.87,
+      "rd": 31.55,
+      "ratingClass": "B",
+      "homeLocation": "Barcade Detroit",
+      "homeLocationId": "5718",
+      "percentile": 74.76126147109517,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m20931",
+      "name": "Nicholas Hinebaugh",
+      "rating": 1551.57,
+      "rd": 35.49,
+      "ratingClass": "B",
+      "homeLocation": "Barcade Detroit",
+      "homeLocationId": "5718",
+      "percentile": 67.34522755857827,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m46596",
+      "name": "Chris Landry",
+      "rating": 1547.9,
+      "rd": 33.5,
+      "ratingClass": "B",
+      "homeLocation": "Mum's Arcade",
+      "homeLocationId": "12869",
+      "percentile": 65.92910047980621,
+      "changeDisplay": "-10.9",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m33074",
+      "name": "Rat",
+      "rating": 1534.49,
+      "rd": 44.01,
+      "ratingClass": "B",
+      "homeLocation": "Barcade Detroit",
+      "homeLocationId": "5718",
+      "percentile": 60.79563981925746,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m4761",
+      "name": "Tim Carpenter MI",
+      "rating": 1534.45,
+      "rd": 22.67,
+      "ratingClass": "B",
+      "homeLocation": "Barcade Detroit",
+      "homeLocationId": "5718",
+      "percentile": 60.77234825546187,
+      "changeDisplay": "+11.5",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m32268",
+      "name": "Christian Blanchon",
+      "rating": 1519.67,
+      "rd": 29.64,
+      "ratingClass": "B",
+      "homeLocation": "Barcade Detroit",
+      "homeLocationId": "5718",
+      "percentile": 55.089206689337125,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m20949",
+      "name": "Richard Chesstnutt",
+      "rating": 1512.22,
+      "rd": 46.28,
+      "ratingClass": "B",
+      "homeLocation": "Barcade Detroit",
+      "homeLocationId": "5718",
+      "percentile": 52.08925327246471,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m42398",
+      "name": "Holly Helterhoff",
+      "rating": 1502.66,
+      "rd": 22.82,
+      "ratingClass": "B",
+      "homeLocation": "Sparks Pinball Museum & Arcade",
+      "homeLocationId": "12444",
+      "percentile": 48.19024549308241,
+      "changeDisplay": "-7.0",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m33775",
+      "name": "Abigail Rose",
+      "rating": 1500.08,
+      "rd": 26.02,
+      "ratingClass": "B",
+      "homeLocation": "The Basement: Toledo’s Pinball Pub",
+      "homeLocationId": "8633",
+      "percentile": 47.11883355848512,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m38710",
+      "name": "Kelley sheahan",
+      "rating": 1493.42,
+      "rd": 22.47,
+      "ratingClass": "C",
+      "homeLocation": "ULEKstore's Pinball and Classic Arcade",
+      "homeLocationId": "5287",
+      "percentile": 44.46825359854661,
+      "changeDisplay": "+1.6",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m52538",
+      "name": "Sal Walker",
+      "rating": 1476.26,
+      "rd": 36.96,
+      "ratingClass": "C",
+      "homeLocation": "Barcade Detroit",
+      "homeLocationId": "5718",
+      "percentile": 37.3969348302045,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i72239",
+      "name": "Cassandra Madek",
+      "rating": 1464.8,
+      "rd": 31.88,
+      "ratingClass": "C",
+      "homeLocation": "ULEKstore's Pinball and Classic Arcade",
+      "homeLocationId": "5287",
+      "percentile": 32.74793869660409,
+      "changeDisplay": "-21.5",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m62034",
+      "name": "Elke Noor-Brooks",
+      "rating": 1460.41,
+      "rd": 38.97,
+      "ratingClass": "C",
+      "homeLocation": "Barcade Detroit",
+      "homeLocationId": "5718",
+      "percentile": 31.150137420226393,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m41944",
+      "name": "Rebecca Hutsell",
+      "rating": 1458.33,
+      "rd": 32.08,
+      "ratingClass": "C",
+      "homeLocation": "Barcade Detroit",
+      "homeLocationId": "5718",
+      "percentile": 30.26971630875297,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m30831",
+      "name": "Ant",
+      "rating": 1455.19,
+      "rd": 59.26,
+      "ratingClass": "C",
+      "homeLocation": "Barcade Detroit",
+      "homeLocationId": "5718",
+      "percentile": 29.16103787208273,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m41817",
+      "name": "Evie Rose",
+      "rating": 1449.39,
+      "rd": 26.36,
+      "ratingClass": "C",
+      "homeLocation": "The Basement: Toledo’s Pinball Pub",
+      "homeLocationId": "8633",
+      "percentile": 26.91573112218754,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m12488",
+      "name": "Courtney McGee",
+      "rating": 1446.86,
+      "rd": 28.29,
+      "ratingClass": "C",
+      "homeLocation": "Barcade Detroit",
+      "homeLocationId": "5718",
+      "percentile": 26.086551451064427,
+      "changeDisplay": "-0.3",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m25658",
+      "name": "Jenica Allman",
+      "rating": 1438.89,
+      "rd": 21.97,
+      "ratingClass": "C",
+      "homeLocation": "ULEKstore's Pinball and Classic Arcade",
+      "homeLocationId": "5287",
+      "percentile": 23.324171984907068,
+      "changeDisplay": "+14.4",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m52661",
+      "name": "Kim Clapsaddle",
+      "rating": 1432.97,
+      "rd": 33.65,
+      "ratingClass": "C",
+      "homeLocation": "Barcade Detroit",
+      "homeLocationId": "5718",
+      "percentile": 21.45153025574137,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m32118",
+      "name": "Chris Dickson",
+      "rating": 1422.5,
+      "rd": 28.78,
+      "ratingClass": "C",
+      "homeLocation": "Barcade Detroit",
+      "homeLocationId": "5718",
+      "percentile": 18.367727209204826,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m42845",
+      "name": "Kim Depuydt",
+      "rating": 1412.46,
+      "rd": 29.58,
+      "ratingClass": "C",
+      "homeLocation": "Barcade Detroit",
+      "homeLocationId": "5718",
+      "percentile": 15.740438813061907,
+      "changeDisplay": "+4.7",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m35325",
+      "name": "Meredith",
+      "rating": 1364.6,
+      "rd": 39.23,
+      "ratingClass": "D",
+      "homeLocation": "Barcade Detroit",
+      "homeLocationId": "5718",
+      "percentile": 6.009223459263055,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

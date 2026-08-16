@@ -1,0 +1,39 @@
+{
+  "tournamentId": 264138,
+  "name": "Finals for tcpinball.org @ The Coin Slot 2026-07-27",
+  "date": "2026-07-28",
+  "locationId": "7370",
+  "locationName": "The Coin Slot",
+  "playerCount": 4,
+  "ratingsDate": "2026-07-28",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m39327",
+      "name": "Jansen Tolle",
+      "rating": 1633.67,
+      "dailyRatingChange": 6.55
+    },
+    {
+      "position": 2,
+      "playerId": "m32231",
+      "name": "Johnny G",
+      "rating": 1640.73,
+      "dailyRatingChange": 4.33
+    },
+    {
+      "position": 3,
+      "playerId": "m10803",
+      "name": "Dingo Hilgard",
+      "rating": 1687.05,
+      "dailyRatingChange": -1.35
+    },
+    {
+      "position": 4,
+      "playerId": "m25014",
+      "name": "Ben Harris",
+      "rating": 1523.55,
+      "dailyRatingChange": 2.82
+    }
+  ]
+}

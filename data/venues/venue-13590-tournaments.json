@@ -1,0 +1,44 @@
+{
+  "locationId": "13590",
+  "venueName": "The Pinball Castle",
+  "venueAddress": "303 N Washington St, Berkeley Springs, WV 25411, US",
+  "tournaments": [
+    {
+      "id": 263346,
+      "name": "Finals for The Pinball Castle Grand Opening Tournament",
+      "date": "7/22/2026",
+      "playerCount": 12,
+      "qualifying": {
+        "id": 258037,
+        "name": "The Pinball Castle Grand Opening Tournament",
+        "playerCount": 25
+      },
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m37143",
+          "name": "Tyler Pirrone",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m47745",
+          "name": "Sterling Sinclair",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m25464",
+          "name": "Cindy Brackett",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m29440",
+          "name": "Alex Brackett",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

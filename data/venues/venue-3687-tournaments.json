@@ -1,0 +1,77 @@
+{
+  "locationId": "3687",
+  "venueName": "Rocket City Matchplay",
+  "venueAddress": "100 Cutter Ln, Meridianville, AL 35759, USA",
+  "tournaments": [
+    {
+      "id": 266105,
+      "name": "Finals for RCMP Aug. 8th Battle for the Belt",
+      "date": "8/8/2026",
+      "playerCount": 10,
+      "qualifying": {
+        "id": 266054,
+        "name": "RCMP Aug. 8th Battle for the Belt",
+        "playerCount": 20
+      },
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m19185",
+          "name": "Paul Budko",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m30480",
+          "name": "Josh philpott",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m36181",
+          "name": "Matt Zollner",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m53272",
+          "name": "Garrett Ulmer",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 263151,
+      "name": "RCMP 2026 Summer Tuesday League #7",
+      "date": "7/21/2026",
+      "playerCount": 14,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m11558",
+          "name": "Alex Updike",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m10250",
+          "name": "Dan Fox AL",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m19185",
+          "name": "Paul Budko",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m53272",
+          "name": "Garrett Ulmer",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

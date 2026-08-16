@@ -1,0 +1,60 @@
+{
+  "tournamentId": 264360,
+  "name": "July Stern Army IFPA at the Joystiq",
+  "date": "2026-07-29",
+  "locationId": "10372",
+  "locationName": "Joystiq",
+  "playerCount": 7,
+  "ratingsDate": "2026-07-29",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "i137808",
+      "name": "Robert Rusticus Jr",
+      "rating": 1454.49,
+      "dailyRatingChange": 14.03
+    },
+    {
+      "position": 2,
+      "playerId": "m60006",
+      "name": "Brett Frago",
+      "rating": 1660.04,
+      "dailyRatingChange": -6.45
+    },
+    {
+      "position": 3,
+      "playerId": "m2641",
+      "name": "Robert Rusticus",
+      "rating": 1556.4,
+      "dailyRatingChange": 4.34
+    },
+    {
+      "position": 4,
+      "playerId": "m47470",
+      "name": "James Elola",
+      "rating": 1593.27,
+      "dailyRatingChange": -2.94
+    },
+    {
+      "position": 5,
+      "playerId": "m418161",
+      "name": "Mark C",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 6,
+      "playerId": "m416207",
+      "name": "Charlie Rusticus",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 7,
+      "playerId": "i137806",
+      "name": "Sherrie West",
+      "rating": 1421.98,
+      "dailyRatingChange": -5.9
+    }
+  ]
+}

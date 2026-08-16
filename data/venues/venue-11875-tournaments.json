@@ -1,0 +1,38 @@
+{
+  "locationId": "11875",
+  "venueName": "Hawk’s Nest",
+  "venueAddress": "4025 W Lombard St. Davenport, IA 52804",
+  "tournaments": [
+    {
+      "id": 267125,
+      "name": "Finals for B&C August Hawk’s Game Room",
+      "date": "8/14/2026",
+      "playerCount": 3,
+      "qualifying": {
+        "id": 261720,
+        "name": "B&C August Hawk’s Game Room",
+        "playerCount": 6
+      },
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m47298",
+          "name": "Felicia Haakenson",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m45283",
+          "name": "Sarah Kramer",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "p587121",
+          "name": "Lidda Morris",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

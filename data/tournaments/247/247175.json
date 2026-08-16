@@ -1,0 +1,67 @@
+{
+  "tournamentId": 247175,
+  "name": "Rustic Sunday Strikes - July Tournament",
+  "date": "2026-07-26",
+  "locationId": "13153",
+  "locationName": "Rustic Brewing Company",
+  "playerCount": 8,
+  "ratingsDate": "2026-07-26",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m7910",
+      "name": "Jamie Fleming",
+      "rating": 1584.28,
+      "dailyRatingChange": 12.49
+    },
+    {
+      "position": 2,
+      "playerId": "m60087",
+      "name": "Nathaniel Borne",
+      "rating": 1544.46,
+      "dailyRatingChange": 8.75
+    },
+    {
+      "position": 3,
+      "playerId": "m13400",
+      "name": "Anna Siembor",
+      "rating": 1568.6,
+      "dailyRatingChange": -0.9
+    },
+    {
+      "position": 3,
+      "playerId": "m61090",
+      "name": "Earl Hill",
+      "rating": 1504.24,
+      "dailyRatingChange": 6.74
+    },
+    {
+      "position": 5,
+      "playerId": "m30623",
+      "name": "Tones Smith",
+      "rating": 1597.19,
+      "dailyRatingChange": -3.36
+    },
+    {
+      "position": 6,
+      "playerId": "m35109",
+      "name": "Luke Norman",
+      "rating": 1691.05,
+      "dailyRatingChange": -8.01
+    },
+    {
+      "position": 7,
+      "playerId": "m46574",
+      "name": "Kirt Fox",
+      "rating": 1526.58,
+      "dailyRatingChange": -4.81
+    },
+    {
+      "position": 8,
+      "playerId": "m61483",
+      "name": "Anthony Bourne",
+      "rating": 1458.75,
+      "dailyRatingChange": -27.83
+    }
+  ]
+}

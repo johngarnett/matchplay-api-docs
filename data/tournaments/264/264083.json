@@ -1,0 +1,67 @@
+{
+  "tournamentId": 264083,
+  "name": "Semifinals for Sunday Night Fights at the L.A.B 28 Jul 26",
+  "date": "2026-07-27",
+  "locationId": "8296",
+  "locationName": "The L.A.B.",
+  "playerCount": 8,
+  "ratingsDate": "2026-07-27",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m41915",
+      "name": "Cade Vincent",
+      "rating": 1641.66,
+      "dailyRatingChange": 4.64
+    },
+    {
+      "position": 2,
+      "playerId": "m20943",
+      "name": "Paige Peck",
+      "rating": 1618.13,
+      "dailyRatingChange": 12.32
+    },
+    {
+      "position": 3,
+      "playerId": "m19136",
+      "name": "John Wetenkamp",
+      "rating": 1693.15,
+      "dailyRatingChange": 2.38
+    },
+    {
+      "position": 4,
+      "playerId": "m29635",
+      "name": "Megan Weir",
+      "rating": 1531.12,
+      "dailyRatingChange": 5.83
+    },
+    {
+      "position": 5,
+      "playerId": "m31320",
+      "name": "Connor Kesler",
+      "rating": 1619.92,
+      "dailyRatingChange": -3.96
+    },
+    {
+      "position": 5,
+      "playerId": "m550858",
+      "name": "Nate London",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 7,
+      "playerId": "i148037",
+      "name": "Darren Greenlee",
+      "rating": 1515.18,
+      "dailyRatingChange": 1
+    },
+    {
+      "position": 7,
+      "playerId": "m44125",
+      "name": "Cado Hernandez",
+      "rating": 1532.24,
+      "dailyRatingChange": -1.38
+    }
+  ]
+}

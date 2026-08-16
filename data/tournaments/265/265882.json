@@ -1,0 +1,123 @@
+{
+  "tournamentId": 265882,
+  "name": "August Mikerphone Stern Army",
+  "date": "2026-08-07",
+  "locationId": "8466",
+  "locationName": "Mikerphone Brewing",
+  "playerCount": 16,
+  "ratingsDate": "2026-08-07",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m25531",
+      "name": "Andrew Wilkening",
+      "rating": 1801.89,
+      "dailyRatingChange": 3.47
+    },
+    {
+      "position": 2,
+      "playerId": "m43402",
+      "name": "Kayla Bivens",
+      "rating": 1602.86,
+      "dailyRatingChange": 11.19
+    },
+    {
+      "position": 2,
+      "playerId": "m56951",
+      "name": "Phil Pappas",
+      "rating": 1522.52,
+      "dailyRatingChange": 52.01
+    },
+    {
+      "position": 4,
+      "playerId": "i3339",
+      "name": "Joseph Blasi",
+      "rating": 1589.8,
+      "dailyRatingChange": 8.33
+    },
+    {
+      "position": 4,
+      "playerId": "m2249",
+      "name": "Mark Bjorkquist",
+      "rating": 1583.52,
+      "dailyRatingChange": 12.4
+    },
+    {
+      "position": 4,
+      "playerId": "m49970",
+      "name": "Gavin Miller",
+      "rating": 1721.11,
+      "dailyRatingChange": 0.48
+    },
+    {
+      "position": 7,
+      "playerId": "m29575",
+      "name": "Jenni Tucker",
+      "rating": 1560.62,
+      "dailyRatingChange": 1.06
+    },
+    {
+      "position": 7,
+      "playerId": "m39177",
+      "name": "Charles Jackson IN",
+      "rating": 1775.51,
+      "dailyRatingChange": -3.79
+    },
+    {
+      "position": 9,
+      "playerId": "m20314",
+      "name": "Cheryl Lininger",
+      "rating": 1637.18,
+      "dailyRatingChange": -3.46
+    },
+    {
+      "position": 10,
+      "playerId": "m57679",
+      "name": "Dan Tucker",
+      "rating": 1444.97,
+      "dailyRatingChange": 7.24
+    },
+    {
+      "position": 11,
+      "playerId": "m7555",
+      "name": "Mark Seiden",
+      "rating": 1515.8,
+      "dailyRatingChange": -3.63
+    },
+    {
+      "position": 12,
+      "playerId": "m48534",
+      "name": "Amber Christ",
+      "rating": 1474.18,
+      "dailyRatingChange": -6.64
+    },
+    {
+      "position": 12,
+      "playerId": "i88572",
+      "name": "Brad Materewicz",
+      "rating": 1417.22,
+      "dailyRatingChange": -3.81
+    },
+    {
+      "position": 14,
+      "playerId": "m4813",
+      "name": "Erin Seiden",
+      "rating": 1487.6,
+      "dailyRatingChange": -6.16
+    },
+    {
+      "position": 15,
+      "playerId": "i72871",
+      "name": "Patrick Lehnerer",
+      "rating": 1538.67,
+      "dailyRatingChange": -37.08
+    },
+    {
+      "position": 16,
+      "playerId": "i145763",
+      "name": "Mother Tucker",
+      "rating": 1269.48,
+      "dailyRatingChange": -13.98
+    }
+  ]
+}

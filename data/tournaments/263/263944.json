@@ -1,0 +1,74 @@
+{
+  "tournamentId": 263944,
+  "name": "Level One's Monthly tournament",
+  "date": "2026-07-26",
+  "locationId": "13048",
+  "locationName": "Level 1 Arcade Bar",
+  "playerCount": 9,
+  "ratingsDate": "2026-07-26",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m17593",
+      "name": "Shawn Barnett",
+      "rating": 1592.68,
+      "dailyRatingChange": 2.92
+    },
+    {
+      "position": 2,
+      "playerId": "m41831",
+      "name": "Gregg Hopwood",
+      "rating": 1450.23,
+      "dailyRatingChange": 12.66
+    },
+    {
+      "position": 3,
+      "playerId": "m38970",
+      "name": "Jocelyn Baker",
+      "rating": 1476.88,
+      "dailyRatingChange": 3.47
+    },
+    {
+      "position": 4,
+      "playerId": "m49827",
+      "name": "adan Gonzalez",
+      "rating": 1445.72,
+      "dailyRatingChange": -1.13
+    },
+    {
+      "position": 4,
+      "playerId": "m41980",
+      "name": "Colin Taylor",
+      "rating": 1540.78,
+      "dailyRatingChange": -2.03
+    },
+    {
+      "position": 6,
+      "playerId": "m57997",
+      "name": "Ian Tackett",
+      "rating": 1428.38,
+      "dailyRatingChange": -2.74
+    },
+    {
+      "position": 7,
+      "playerId": "m40472",
+      "name": "Ashley buker",
+      "rating": 1333.91,
+      "dailyRatingChange": -3.35
+    },
+    {
+      "position": 7,
+      "playerId": "m35577",
+      "name": "Jeff Janoski",
+      "rating": 1509.31,
+      "dailyRatingChange": -10.32
+    },
+    {
+      "position": 9,
+      "playerId": "i124996",
+      "name": "Samantha Taylor",
+      "rating": 1374.67,
+      "dailyRatingChange": -7.68
+    }
+  ]
+}

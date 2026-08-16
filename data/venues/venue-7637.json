@@ -1,0 +1,71 @@
+{
+  "locationId": "7637",
+  "name": "Pinfessor’s Pindungeon",
+  "address": "",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 3,
+  "relatedVenues": [
+    {
+      "locationId": "5599",
+      "name": "Pinfessor’s Pingarage",
+      "address": "201 Bridgeport Rd, Indianapolis, IN 46231, USA",
+      "count": 3
+    },
+    {
+      "locationId": "5598",
+      "name": "Paige’s Pinball Palace",
+      "address": "",
+      "count": 2
+    },
+    {
+      "locationId": "8405",
+      "name": "Tappers",
+      "address": "501 Virginia Ave Suite 102, Indianapolis, IN 46203, US",
+      "count": 1
+    },
+    {
+      "locationId": "13546",
+      "name": "Johnsonville",
+      "address": "",
+      "count": 1
+    }
+  ],
+  "players": [
+    {
+      "id": "m20082",
+      "name": "Rich Herbert",
+      "rating": 1592.1,
+      "rd": 26.93,
+      "ratingClass": "B",
+      "homeLocation": "Paige’s Pinball Palace",
+      "homeLocationId": "5598",
+      "percentile": 80.04378813993571,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i82375",
+      "name": "Jerry Gooderum",
+      "rating": 1539.68,
+      "rd": 28.34,
+      "ratingClass": "B",
+      "homeLocation": "Paige’s Pinball Palace",
+      "homeLocationId": "5598",
+      "percentile": 63.026971630875295,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m19245",
+      "name": "Rodney Curry",
+      "rating": 1479.76,
+      "rd": 29.89,
+      "ratingClass": "C",
+      "homeLocation": "Pinfessor’s Pingarage",
+      "homeLocationId": "5599",
+      "percentile": 38.83169516001304,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

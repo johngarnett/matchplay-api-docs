@@ -1,0 +1,67 @@
+{
+  "tournamentId": 263761,
+  "name": "Finals for Västerås månadstävling 25 juli - for real",
+  "date": "2026-07-25",
+  "locationId": "12334",
+  "locationName": "Flipperklubben",
+  "playerCount": 8,
+  "ratingsDate": "2026-07-25",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m15323",
+      "name": "Rune Andersson",
+      "rating": 1578.23,
+      "dailyRatingChange": 4.01
+    },
+    {
+      "position": 2,
+      "playerId": "m31237",
+      "name": "Denny Källberg",
+      "rating": 1575.64,
+      "dailyRatingChange": 12.69
+    },
+    {
+      "position": 3,
+      "playerId": "m44098",
+      "name": "Johan Persson",
+      "rating": 1593.03,
+      "dailyRatingChange": 28.34
+    },
+    {
+      "position": 4,
+      "playerId": "m34015",
+      "name": "Peter Johansson",
+      "rating": 1551.01,
+      "dailyRatingChange": 11.2
+    },
+    {
+      "position": 5,
+      "playerId": "m48692",
+      "name": "Martin Rydberg",
+      "rating": 1512.67,
+      "dailyRatingChange": 20.29
+    },
+    {
+      "position": 5,
+      "playerId": "m52421",
+      "name": "Henrik Samuelsson",
+      "rating": 1569.4,
+      "dailyRatingChange": 9.41
+    },
+    {
+      "position": 5,
+      "playerId": "m14396",
+      "name": "Henrik Pettersson",
+      "rating": 1530.57,
+      "dailyRatingChange": 9.17
+    },
+    {
+      "position": 5,
+      "playerId": "m51338",
+      "name": "Daniel Schwitzky",
+      "rating": 1540.81,
+      "dailyRatingChange": 9.09
+    }
+  ]
+}

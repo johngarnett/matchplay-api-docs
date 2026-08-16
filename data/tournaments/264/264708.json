@@ -1,0 +1,123 @@
+{
+  "tournamentId": 264708,
+  "name": "Finals for Reclaim Arcade July Matchplay Tournament",
+  "date": "2026-07-31",
+  "locationId": "12832",
+  "locationName": "Reclaim Arcade",
+  "playerCount": 16,
+  "ratingsDate": "2026-07-31",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m34512",
+      "name": "Cam Harrahy",
+      "rating": 1868.67,
+      "dailyRatingChange": 3.02
+    },
+    {
+      "position": 2,
+      "playerId": "m17067",
+      "name": "Tim Owens",
+      "rating": 1575.34,
+      "dailyRatingChange": 15.6
+    },
+    {
+      "position": 3,
+      "playerId": "m39939",
+      "name": "Stoller Schiltz",
+      "rating": 1747.27,
+      "dailyRatingChange": 6.55
+    },
+    {
+      "position": 4,
+      "playerId": "m18776",
+      "name": "Matt Larsen",
+      "rating": 1678.97,
+      "dailyRatingChange": 4.57
+    },
+    {
+      "position": 5,
+      "playerId": "m30212",
+      "name": "Lance Keylon",
+      "rating": 1663.46,
+      "dailyRatingChange": 4.8
+    },
+    {
+      "position": 5,
+      "playerId": "m25877",
+      "name": "Dale Schiltz",
+      "rating": 1640.51,
+      "dailyRatingChange": 0.04
+    },
+    {
+      "position": 7,
+      "playerId": "m6365",
+      "name": "Allen Foglesong",
+      "rating": 1613.2,
+      "dailyRatingChange": 4.84
+    },
+    {
+      "position": 7,
+      "playerId": "m35097",
+      "name": "Julian Carlucci",
+      "rating": 1692.58,
+      "dailyRatingChange": 5.04
+    },
+    {
+      "position": 9,
+      "playerId": "m15236",
+      "name": "Mick Cavanaugh",
+      "rating": 1600.21,
+      "dailyRatingChange": 4.94
+    },
+    {
+      "position": 9,
+      "playerId": "m43524",
+      "name": "Mark Gray",
+      "rating": 1564.37,
+      "dailyRatingChange": 58.44
+    },
+    {
+      "position": 9,
+      "playerId": "m380",
+      "name": "Dale Geiger",
+      "rating": 1702.45,
+      "dailyRatingChange": -1.66
+    },
+    {
+      "position": 9,
+      "playerId": "m29734",
+      "name": "Mark Migliaccio",
+      "rating": 1530.22,
+      "dailyRatingChange": 5.56
+    },
+    {
+      "position": 13,
+      "playerId": "m28600",
+      "name": "Allison Hull",
+      "rating": 1474.22,
+      "dailyRatingChange": 5.09
+    },
+    {
+      "position": 13,
+      "playerId": "m41965",
+      "name": "James Matarrese",
+      "rating": 1629.6,
+      "dailyRatingChange": -2.88
+    },
+    {
+      "position": 13,
+      "playerId": "m29731",
+      "name": "Mike Highfield",
+      "rating": 1432.14,
+      "dailyRatingChange": 34.16
+    },
+    {
+      "position": 13,
+      "playerId": "m2615",
+      "name": "Malik Berger",
+      "rating": 1689.36,
+      "dailyRatingChange": -2.73
+    }
+  ]
+}

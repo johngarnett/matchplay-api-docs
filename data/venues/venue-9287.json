@@ -1,0 +1,131 @@
+{
+  "locationId": "9287",
+  "name": "TOSS Taps",
+  "address": "400 Cooper Point Rd, Olympia, WA 98502, US",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 7,
+  "relatedVenues": [
+    {
+      "locationId": "13021",
+      "name": "South Sound Vapor Lounge | The Turtle Lounge",
+      "address": "200 Division St NW, Olympia, WA 98502, US",
+      "count": 53
+    },
+    {
+      "locationId": "8819",
+      "name": "Legends Arcade",
+      "address": "109 State Ave NE, Olympia, WA 98501, US",
+      "count": 6
+    },
+    {
+      "locationId": "10577",
+      "name": "South Bay Dickerson's BBQ",
+      "address": "619 Legion Way Southeast, Olympia, WA 98501, US",
+      "count": 6
+    },
+    {
+      "locationId": "8474",
+      "name": "The Triple Knock",
+      "address": "2713 6th Avenue, Tacoma, WA 98406, US",
+      "count": 3
+    },
+    {
+      "locationId": "6183",
+      "name": "The Triple Knock",
+      "address": "",
+      "count": 1
+    },
+    {
+      "locationId": "10355",
+      "name": "Insert Coin - Arcade & Bar",
+      "address": "3430 Pacific Ave SE, Olympia, WA 98501, US",
+      "count": 1
+    }
+  ],
+  "players": [
+    {
+      "id": "m42437",
+      "name": "Micah Gilman",
+      "rating": 1608.47,
+      "rd": 27.16,
+      "ratingClass": "A",
+      "homeLocation": "South Sound Vapor Lounge | The Turtle Lounge",
+      "homeLocationId": "13021",
+      "percentile": 84.10117855312805,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m29360",
+      "name": "Alan Dick",
+      "rating": 1580.07,
+      "rd": 30.12,
+      "ratingClass": "B",
+      "homeLocation": "South Sound Vapor Lounge | The Turtle Lounge",
+      "homeLocationId": "13021",
+      "percentile": 76.62458657474262,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m46674",
+      "name": "Chris sierra",
+      "rating": 1575.08,
+      "rd": 25.7,
+      "ratingClass": "B",
+      "homeLocation": "South Bay Dickerson's BBQ",
+      "homeLocationId": "10577",
+      "percentile": 75.11063492802906,
+      "changeDisplay": "-1.2",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m5979",
+      "name": "Katie Lorz",
+      "rating": 1483.29,
+      "rd": 32.48,
+      "ratingClass": "C",
+      "homeLocation": "South Sound Vapor Lounge | The Turtle Lounge",
+      "homeLocationId": "13021",
+      "percentile": 40.26645548982158,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m34494",
+      "name": "Kenny Farver",
+      "rating": 1477.4,
+      "rd": 36.87,
+      "ratingClass": "C",
+      "homeLocation": "South Sound Vapor Lounge | The Turtle Lounge",
+      "homeLocationId": "13021",
+      "percentile": 37.872082731634606,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i146063",
+      "name": "Levi Robischon",
+      "rating": 1410.52,
+      "rd": 47.22,
+      "ratingClass": "C",
+      "homeLocation": "Legends Arcade",
+      "homeLocationId": "8819",
+      "percentile": 15.200074533004146,
+      "changeDisplay": "+17.0",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "i131424",
+      "name": "Carolyn Gilman",
+      "rating": 1371.42,
+      "rd": 35.87,
+      "ratingClass": "D",
+      "homeLocation": "South Sound Vapor Lounge | The Turtle Lounge",
+      "homeLocationId": "13021",
+      "percentile": 6.95486094936414,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

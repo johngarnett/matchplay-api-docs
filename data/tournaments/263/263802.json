@@ -1,0 +1,67 @@
+{
+  "tournamentId": 263802,
+  "name": "Finals for Ljubljana Julij Pinball 2026 4 real",
+  "date": "2026-07-25",
+  "locationId": "8617",
+  "locationName": "Biljardna Hisa Ljubljana - Slovenska",
+  "playerCount": 8,
+  "ratingsDate": "2026-07-25",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m26511",
+      "name": "Timotej Ponjevic",
+      "rating": 1743.55,
+      "dailyRatingChange": 11.69
+    },
+    {
+      "position": 2,
+      "playerId": "m47954",
+      "name": "Ivan Filipic",
+      "rating": 1654.34,
+      "dailyRatingChange": 4.93
+    },
+    {
+      "position": 3,
+      "playerId": "m56839",
+      "name": "Mirko Bogic",
+      "rating": 1567.25,
+      "dailyRatingChange": 7.93
+    },
+    {
+      "position": 4,
+      "playerId": "m31317",
+      "name": "Žan Siter",
+      "rating": 1669.06,
+      "dailyRatingChange": -13.96
+    },
+    {
+      "position": 5,
+      "playerId": "m42345",
+      "name": "Nadia Kiker",
+      "rating": 1483.28,
+      "dailyRatingChange": 21.87
+    },
+    {
+      "position": 6,
+      "playerId": "m11475",
+      "name": "Vid Kuklec",
+      "rating": 1694.36,
+      "dailyRatingChange": -5.48
+    },
+    {
+      "position": 7,
+      "playerId": "m557833",
+      "name": "zzz#103",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 7,
+      "playerId": "m557808",
+      "name": "dummy player",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

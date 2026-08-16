@@ -1,0 +1,251 @@
+{
+  "locationId": "6784",
+  "name": "Dana's House of Fun",
+  "address": "",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 15,
+  "relatedVenues": [
+    {
+      "locationId": "5479",
+      "name": "Canal Street Arcade and Deli",
+      "address": "308 East 1st St, Dayton, OH, 45402, US",
+      "count": 80
+    },
+    {
+      "locationId": "11788",
+      "name": "The Game Haven",
+      "address": "5570 Airway Rd, Dayton OH 45431",
+      "count": 50
+    },
+    {
+      "locationId": "12814",
+      "name": "Level Up Pinball Bar",
+      "address": "3253 Seajay Drive, Beavercreek, OH 45430, US",
+      "count": 12
+    },
+    {
+      "locationId": "13775",
+      "name": "Robs Warehouse",
+      "address": "221 East Helena St",
+      "count": 11
+    },
+    {
+      "locationId": "13688",
+      "name": "The Game Haven",
+      "address": "5570 Airway Rd, Riverside, OH 45431, US",
+      "count": 10
+    },
+    {
+      "locationId": "11454",
+      "name": "Loose Ends Brewing",
+      "address": "890 S Main St, Centerville OH 45458",
+      "count": 7
+    },
+    {
+      "locationId": "3967",
+      "name": "Crazy Martin's",
+      "address": "",
+      "count": 6
+    },
+    {
+      "locationId": "7439",
+      "name": "Arcade Legacy Sharonville",
+      "address": "2241 Crowne Point Dr, Cincinnati, OH 45241, US",
+      "count": 2
+    },
+    {
+      "locationId": "13500",
+      "name": "Sherwood Forest",
+      "address": "1451 Robinhood Dr  West Carrollton OH 45449",
+      "count": 2
+    },
+    {
+      "locationId": "6085",
+      "name": "Maple Pinball",
+      "address": "",
+      "count": 1
+    }
+  ],
+  "players": [
+    {
+      "id": "m52809",
+      "name": "Brian Schlagheck",
+      "rating": 1700.64,
+      "rd": 37.28,
+      "ratingClass": "Expert",
+      "homeLocation": "The Game Haven",
+      "homeLocationId": "11788",
+      "percentile": 96.63669818791634,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m23076",
+      "name": "Tom Bentley",
+      "rating": 1684.28,
+      "rd": 26.74,
+      "ratingClass": "A",
+      "homeLocation": "The Game Haven",
+      "homeLocationId": "11788",
+      "percentile": 95.43951180882284,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m13057",
+      "name": "Tony Becker",
+      "rating": 1670.89,
+      "rd": 27.61,
+      "ratingClass": "A",
+      "homeLocation": "The Game Haven",
+      "homeLocationId": "11788",
+      "percentile": 94.17245073834258,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i96530",
+      "name": "William Bentley",
+      "rating": 1662.19,
+      "rd": 32.36,
+      "ratingClass": "A",
+      "homeLocation": "Canal Street Arcade and Deli",
+      "homeLocationId": "5479",
+      "percentile": 93.30600456514651,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m35074",
+      "name": "Ian Kinner",
+      "rating": 1593.37,
+      "rd": 45.68,
+      "ratingClass": "B",
+      "homeLocation": "Dana's House of Fun",
+      "homeLocationId": "6784",
+      "percentile": 80.36055340755578,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m13962",
+      "name": "Dana Studebaker",
+      "rating": 1575.07,
+      "rd": 42,
+      "ratingClass": "B",
+      "homeLocation": "Dana's House of Fun",
+      "homeLocationId": "6784",
+      "percentile": 75.08734336423348,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m40173",
+      "name": "Matt Juhascik",
+      "rating": 1539.82,
+      "rd": 20.76,
+      "ratingClass": "B",
+      "homeLocation": "Canal Street Arcade and Deli",
+      "homeLocationId": "5479",
+      "percentile": 63.05957982018913,
+      "changeDisplay": "+2.4",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "i3159",
+      "name": "Mitch Roth",
+      "rating": 1484.76,
+      "rd": 24.09,
+      "ratingClass": "C",
+      "homeLocation": "Canal Street Arcade and Deli",
+      "homeLocationId": "5479",
+      "percentile": 40.792844831602,
+      "changeDisplay": "-6.5",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m43246",
+      "name": "Shannon Frye",
+      "rating": 1461.98,
+      "rd": 24.34,
+      "ratingClass": "C",
+      "homeLocation": "Canal Street Arcade and Deli",
+      "homeLocationId": "5479",
+      "percentile": 31.68118507476592,
+      "changeDisplay": "+8.0",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m44950",
+      "name": "Zach Stoddard",
+      "rating": 1457.38,
+      "rd": 49.89,
+      "ratingClass": "C",
+      "homeLocation": "Dana's House of Fun",
+      "homeLocationId": "6784",
+      "percentile": 29.878418036987004,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m20824",
+      "name": "Aaron Krueger",
+      "rating": 1447.31,
+      "rd": 29.64,
+      "ratingClass": "C",
+      "homeLocation": "Canal Street Arcade and Deli",
+      "homeLocationId": "5479",
+      "percentile": 26.193692644524152,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m43244",
+      "name": "Tom Lute",
+      "rating": 1446.45,
+      "rd": 26.21,
+      "ratingClass": "C",
+      "homeLocation": "Canal Street Arcade and Deli",
+      "homeLocationId": "5479",
+      "percentile": 25.94214375553175,
+      "changeDisplay": "-13.8",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "i4863",
+      "name": "Teresa Roth",
+      "rating": 1438.66,
+      "rd": 24.17,
+      "ratingClass": "C",
+      "homeLocation": "Canal Street Arcade and Deli",
+      "homeLocationId": "5479",
+      "percentile": 23.25429729352029,
+      "changeDisplay": "+3.8",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m36233",
+      "name": "Jack Calligan",
+      "rating": 1365.15,
+      "rd": 38.05,
+      "ratingClass": "D",
+      "homeLocation": "Canal Street Arcade and Deli",
+      "homeLocationId": "5479",
+      "percentile": 6.083756463408953,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m17542",
+      "name": "Kayce Stewart",
+      "rating": 1347.76,
+      "rd": 27.01,
+      "ratingClass": "D",
+      "homeLocation": "Canal Street Arcade and Deli",
+      "homeLocationId": "5479",
+      "percentile": 4.034098849396749,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

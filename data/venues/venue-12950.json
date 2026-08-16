@@ -1,0 +1,221 @@
+{
+  "locationId": "12950",
+  "name": "Highway to the Gaming Zone",
+  "address": "1430 Main St, Susanville, CA 96130, US",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 13,
+  "relatedVenues": [
+    {
+      "locationId": "9024",
+      "name": "Elbow Room",
+      "address": "2002 Victorian Ave, Sparks NV 89431",
+      "count": 18
+    },
+    {
+      "locationId": "7307",
+      "name": "Firehouse Grill",
+      "address": "",
+      "count": 4
+    },
+    {
+      "locationId": "8514",
+      "name": "Press Start",
+      "address": "600 S Center St, Reno, NV 89501, US",
+      "count": 2
+    },
+    {
+      "locationId": "11524",
+      "name": "Comic Kingdom",
+      "address": "2700 S. Virginia St. Reno, NV 89502",
+      "count": 2
+    },
+    {
+      "locationId": "11549",
+      "name": "Flight Deck NC",
+      "address": "9521 Lumley Rd, Morrisville, NC 27560, US",
+      "count": 2
+    },
+    {
+      "locationId": "12991",
+      "name": "Club Cal Neva",
+      "address": "38 E 2nd St, Reno, NV 89501, US",
+      "count": 2
+    },
+    {
+      "locationId": "13043",
+      "name": "GSPF",
+      "address": "413 E. Rockford Street, Lodi, CA 95240",
+      "count": 2
+    },
+    {
+      "locationId": "12448",
+      "name": "Super Rad Retro Lounge",
+      "address": "106 Glenwood Ave, Raleigh, NC 27603, US",
+      "count": 1
+    },
+    {
+      "locationId": "13026",
+      "name": "Golden State Pinball Festival",
+      "address": "413 E Lockeford Street Lodi, CA 95240",
+      "count": 1
+    }
+  ],
+  "players": [
+    {
+      "id": "m27042",
+      "name": "Isaiah Jimenez",
+      "rating": 1643.26,
+      "rd": 23.19,
+      "ratingClass": "A",
+      "homeLocation": "Elbow Room",
+      "homeLocationId": "9024",
+      "percentile": 90.81380723901803,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m24848",
+      "name": "Cory Bill",
+      "rating": 1632.88,
+      "rd": 21.19,
+      "ratingClass": "A",
+      "homeLocation": "Elbow Room",
+      "homeLocationId": "9024",
+      "percentile": 89.1321563329762,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m24842",
+      "name": "Nick Thomas",
+      "rating": 1603.39,
+      "rd": 37.79,
+      "ratingClass": "A",
+      "homeLocation": "Firehouse Grill",
+      "homeLocationId": "7307",
+      "percentile": 82.81548423161131,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m37830",
+      "name": "Steve Bevilacqua",
+      "rating": 1589.97,
+      "rd": 31.9,
+      "ratingClass": "B",
+      "homeLocation": "Highway to the Gaming Zone",
+      "homeLocationId": "12950",
+      "percentile": 79.44752410676853,
+      "changeDisplay": "+8.2",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m30365",
+      "name": "Dan Jordan",
+      "rating": 1557.63,
+      "rd": 36.53,
+      "ratingClass": "B",
+      "homeLocation": "Highway to the Gaming Zone",
+      "homeLocationId": "12950",
+      "percentile": 69.58121768295523,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m24846",
+      "name": "Jeremy Madsen",
+      "rating": 1553.17,
+      "rd": 28.38,
+      "ratingClass": "B",
+      "homeLocation": "Highway to the Gaming Zone",
+      "homeLocationId": "12950",
+      "percentile": 67.98807471933665,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m24850",
+      "name": "Thomas Herrera",
+      "rating": 1507.32,
+      "rd": 29.16,
+      "ratingClass": "B",
+      "homeLocation": "Comic Kingdom",
+      "homeLocationId": "11524",
+      "percentile": 50.09549541156193,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m59774",
+      "name": "Hound 8",
+      "rating": 1485.44,
+      "rd": 70.83,
+      "ratingClass": "C",
+      "homeLocation": "Highway to the Gaming Zone",
+      "homeLocationId": "12950",
+      "percentile": 41.10495178646295,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m58770",
+      "name": "Heather Allen",
+      "rating": 1457.5,
+      "rd": 32.82,
+      "ratingClass": "C",
+      "homeLocation": "Highway to the Gaming Zone",
+      "homeLocationId": "12950",
+      "percentile": 29.929659477337307,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m24845",
+      "name": "Heartbreakers",
+      "rating": 1447.43,
+      "rd": 30.2,
+      "ratingClass": "C",
+      "homeLocation": "Highway to the Gaming Zone",
+      "homeLocationId": "12950",
+      "percentile": 26.23561745935622,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m37832",
+      "name": "Tessa Bevilacqua",
+      "rating": 1439.63,
+      "rd": 29.94,
+      "ratingClass": "C",
+      "homeLocation": "Flight Deck NC",
+      "homeLocationId": "11549",
+      "percentile": 23.566404248381236,
+      "changeDisplay": "-0.2",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m24849",
+      "name": "Cyrenna Rutledge",
+      "rating": 1405.59,
+      "rd": 27.67,
+      "ratingClass": "C",
+      "homeLocation": "Elbow Room",
+      "homeLocationId": "9024",
+      "percentile": 13.937671775282992,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i148899",
+      "name": "Danielle Jimenez",
+      "rating": null,
+      "rd": null,
+      "ratingClass": "N/A",
+      "homeLocation": "Highway to the Gaming Zone",
+      "homeLocationId": "12950",
+      "percentile": null,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

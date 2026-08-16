@@ -1,0 +1,67 @@
+{
+  "tournamentId": 229082,
+  "name": "Finals for Solid State: Sunday Service  July 2026",
+  "date": "2026-07-19",
+  "locationId": "11806",
+  "locationName": "Solid State Pinball Supply",
+  "playerCount": 8,
+  "ratingsDate": "2026-07-19",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m54738",
+      "name": "Joshua Goodrich",
+      "rating": 1576.9,
+      "dailyRatingChange": 38.58
+    },
+    {
+      "position": 2,
+      "playerId": "m19845",
+      "name": "Kraig Blaeuer",
+      "rating": 1633.5,
+      "dailyRatingChange": 4.08
+    },
+    {
+      "position": 3,
+      "playerId": "m43001",
+      "name": "Isabella Dell",
+      "rating": 1666.82,
+      "dailyRatingChange": -0.74
+    },
+    {
+      "position": 4,
+      "playerId": "m10069",
+      "name": "Ryan Klassen",
+      "rating": 1542.6,
+      "dailyRatingChange": 7.45
+    },
+    {
+      "position": 5,
+      "playerId": "m20223",
+      "name": "Brian Berg",
+      "rating": 1718.85,
+      "dailyRatingChange": 6
+    },
+    {
+      "position": 6,
+      "playerId": "m54925",
+      "name": "Shonda Garrison",
+      "rating": 1565.97,
+      "dailyRatingChange": 17.82
+    },
+    {
+      "position": 7,
+      "playerId": "m30960",
+      "name": "Keaton Vaughn",
+      "rating": 1528.73,
+      "dailyRatingChange": 13.15
+    },
+    {
+      "position": 8,
+      "playerId": "m44394",
+      "name": "Henry Reed",
+      "rating": 1604.87,
+      "dailyRatingChange": -6.69
+    }
+  ]
+}

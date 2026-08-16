@@ -1,0 +1,44 @@
+{
+  "locationId": "13758",
+  "venueName": "Apollo Exos Records & Beer",
+  "venueAddress": "1717 Hewitt Ave, Everett, WA 98201, US",
+  "tournaments": [
+    {
+      "id": 263007,
+      "name": "Finals for Apollo Exos Weekly Pinball Ritual 8/11/26",
+      "date": "8/11/2026",
+      "playerCount": 4,
+      "qualifying": {
+        "id": 263006,
+        "name": "Apollo Exos Weekly Pinball Ritual 8/11/26",
+        "playerCount": 12
+      },
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m3038",
+          "name": "Joshua Francis",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m5611",
+          "name": "Andrew Jamieson",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "i93090",
+          "name": "Jenny Cline",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m61851",
+          "name": "Peter Sharp",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

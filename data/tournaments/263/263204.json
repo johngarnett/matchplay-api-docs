@@ -1,0 +1,144 @@
+{
+  "tournamentId": 263204,
+  "name": "JUPITOURNEY 25.6",
+  "date": "2026-07-22",
+  "locationId": "5461",
+  "locationName": "JUPITER",
+  "playerCount": 19,
+  "ratingsDate": "2026-07-22",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m23268",
+      "name": "Ben Simmons",
+      "rating": 1662.98,
+      "dailyRatingChange": 5.75
+    },
+    {
+      "position": 2,
+      "playerId": "m31717",
+      "name": "Jackilyn Hoxworth",
+      "rating": 1398.79,
+      "dailyRatingChange": 11.58
+    },
+    {
+      "position": 3,
+      "playerId": "m19717",
+      "name": "Chris Vela",
+      "rating": 1542.11,
+      "dailyRatingChange": 4.61
+    },
+    {
+      "position": 4,
+      "playerId": "m31886",
+      "name": "Los Rangel",
+      "rating": 1586.87,
+      "dailyRatingChange": 1.05
+    },
+    {
+      "position": 4,
+      "playerId": "m34564",
+      "name": "Erick Spaan",
+      "rating": 1581.07,
+      "dailyRatingChange": 0.99
+    },
+    {
+      "position": 4,
+      "playerId": "m30748",
+      "name": "Andrew Stauffer",
+      "rating": 1528.08,
+      "dailyRatingChange": 3.74
+    },
+    {
+      "position": 7,
+      "playerId": "i50073",
+      "name": "Rita Perez",
+      "rating": 1427.17,
+      "dailyRatingChange": 16.49
+    },
+    {
+      "position": 7,
+      "playerId": "m10102",
+      "name": "Tom Walsh",
+      "rating": 1630.92,
+      "dailyRatingChange": -2.26
+    },
+    {
+      "position": 9,
+      "playerId": "m14086",
+      "name": "Melanie Meyer WA",
+      "rating": 1536.94,
+      "dailyRatingChange": -1.74
+    },
+    {
+      "position": 9,
+      "playerId": "m15515",
+      "name": "Shawnna Kenney",
+      "rating": 1499.83,
+      "dailyRatingChange": -1.65
+    },
+    {
+      "position": 9,
+      "playerId": "m9724",
+      "name": "Dave Kane",
+      "rating": 1423.79,
+      "dailyRatingChange": -6.58
+    },
+    {
+      "position": 12,
+      "playerId": "m53044",
+      "name": "Jordon Jahns-Budke",
+      "rating": 1387.35,
+      "dailyRatingChange": -0.39
+    },
+    {
+      "position": 12,
+      "playerId": "m45918",
+      "name": "Dakota Green",
+      "rating": 1488.56,
+      "dailyRatingChange": -2.1
+    },
+    {
+      "position": 14,
+      "playerId": "m7059",
+      "name": "Dwayne Collins",
+      "rating": 1518.77,
+      "dailyRatingChange": -3.13
+    },
+    {
+      "position": 14,
+      "playerId": "m38975",
+      "name": "Garth Runkel",
+      "rating": 1381.26,
+      "dailyRatingChange": -7.76
+    },
+    {
+      "position": 14,
+      "playerId": "m5387",
+      "name": "Paul White",
+      "rating": 1460.95,
+      "dailyRatingChange": -2.44
+    },
+    {
+      "position": 14,
+      "playerId": "m26642",
+      "name": "Jim Sivisay",
+      "rating": 1481.33,
+      "dailyRatingChange": -4.89
+    },
+    {
+      "position": 18,
+      "playerId": "m60253",
+      "name": "Nikki Vetterlein",
+      "rating": 1338.67,
+      "dailyRatingChange": -22.28
+    },
+    {
+      "position": 18,
+      "playerId": "m33341",
+      "name": "Dina Robinson",
+      "rating": 1381.47,
+      "dailyRatingChange": -4.41
+    }
+  ]
+}

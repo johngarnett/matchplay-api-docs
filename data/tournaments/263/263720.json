@@ -1,0 +1,102 @@
+{
+  "tournamentId": 263720,
+  "name": "Västerås månadstävling 25 juli - hemmabana A",
+  "date": "2026-07-25",
+  "locationId": "12334",
+  "locationName": "Flipperklubben",
+  "playerCount": 13,
+  "ratingsDate": "2026-07-25",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m44098",
+      "name": "Johan Persson",
+      "rating": 1593.03,
+      "dailyRatingChange": 28.34
+    },
+    {
+      "position": 2,
+      "playerId": "m34015",
+      "name": "Peter Johansson",
+      "rating": 1551.01,
+      "dailyRatingChange": 11.2
+    },
+    {
+      "position": 3,
+      "playerId": "m31237",
+      "name": "Denny Källberg",
+      "rating": 1575.64,
+      "dailyRatingChange": 12.69
+    },
+    {
+      "position": 4,
+      "playerId": "m15323",
+      "name": "Rune Andersson",
+      "rating": 1578.23,
+      "dailyRatingChange": 4.01
+    },
+    {
+      "position": 5,
+      "playerId": "m33908",
+      "name": "Anders Karlsson",
+      "rating": 1468.66,
+      "dailyRatingChange": 16.47
+    },
+    {
+      "position": 6,
+      "playerId": "m62255",
+      "name": "Janeth Carlsson",
+      "rating": 1482.36,
+      "dailyRatingChange": null
+    },
+    {
+      "position": 6,
+      "playerId": "i156940",
+      "name": "Anna-Karin Winge",
+      "rating": 1431.2,
+      "dailyRatingChange": null
+    },
+    {
+      "position": 6,
+      "playerId": "m467338",
+      "name": "Tina Jansson",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 6,
+      "playerId": "m581639",
+      "name": "Claudio Colmet",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 10,
+      "playerId": "m9150",
+      "name": "Daniel Rinander",
+      "rating": 1468.92,
+      "dailyRatingChange": -6.28
+    },
+    {
+      "position": 11,
+      "playerId": "m32747",
+      "name": "Ulla Rehnberg",
+      "rating": 1435.91,
+      "dailyRatingChange": -7.33
+    },
+    {
+      "position": 12,
+      "playerId": "m581626",
+      "name": "Linda Lundström",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 13,
+      "playerId": "m581636",
+      "name": "Martin Lundmark",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

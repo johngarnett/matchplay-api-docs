@@ -1,0 +1,40 @@
+{
+  "locationId": "9840",
+  "venueName": "The ZED",
+  "venueAddress": "5716 SE 92nd Ave, Portland, OR 97266, US",
+  "tournaments": [
+    {
+      "id": 263046,
+      "name": "Pinball Pinball",
+      "date": "7/20/2026",
+      "playerCount": 4,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m50",
+          "name": "Nathan Stellhorn",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "p535821",
+          "name": "Nick McWhorter",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "p535820",
+          "name": "Oliver McWhorter",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "p555755",
+          "name": "Tony Lee",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

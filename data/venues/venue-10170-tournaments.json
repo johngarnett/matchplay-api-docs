@@ -1,0 +1,293 @@
+{
+  "locationId": "10170",
+  "venueName": "The Kickback",
+  "venueAddress": "7622 Lisa Lane, Middleton WI 53562",
+  "tournaments": [
+    {
+      "id": 267092,
+      "name": "Friday Night Strikes @ The Kickback 08.14.26",
+      "date": "8/14/2026",
+      "playerCount": 17,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m58333",
+          "name": "Mike Gaspard",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m11635",
+          "name": "Eric Thayer",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m41973",
+          "name": "Stephen Anderson",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m27725",
+          "name": "Josh Hanford",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 266844,
+      "name": "Finals for 2026.08.12 Belles & Chimes Madison at the Kickback",
+      "date": "8/12/2026",
+      "playerCount": 4,
+      "qualifying": {
+        "id": 265561,
+        "name": "2026.08.12 Belles & Chimes Madison at the Kickback",
+        "playerCount": 12
+      },
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m44890",
+          "name": "Donelle Sauby",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m36031",
+          "name": "Jacque Mackey",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m37743",
+          "name": "Tiffany Han",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m46633",
+          "name": "Shayna Weisnicht",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 265967,
+      "name": "Friday Night Strikes @ The Kickback 08.07.26",
+      "date": "8/7/2026",
+      "playerCount": 19,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m57023",
+          "name": "David Newman WI",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m55616",
+          "name": "James Evans WI",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "i13137",
+          "name": "Mark Seidler",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m37362",
+          "name": "Aaron Malone",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m41973",
+          "name": "Stephen Anderson",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 265670,
+      "name": "Craft Beer Pinball League @ The Kickback Featuring Fair State 08.05.26",
+      "date": "8/5/2026",
+      "playerCount": 33,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m28141",
+          "name": "Mike Kennedy",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "i13139",
+          "name": "Ian Seidler",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m41973",
+          "name": "Stephen Anderson",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m9062",
+          "name": "Ken Kulig",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 264858,
+      "name": "Friday Night Strikes @ The Kickback 07.31.26 Transformers Launch Party",
+      "date": "7/31/2026",
+      "playerCount": 36,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m2134",
+          "name": "Timothy Enders",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m57023",
+          "name": "David Newman WI",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m37362",
+          "name": "Aaron Malone",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m5331",
+          "name": "Bryon Schmitz",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 264000,
+      "name": "Finals for 2026.07.26 - The Kickback - Pin-Golf Transformers Launch Party",
+      "date": "7/26/2026",
+      "playerCount": 4,
+      "qualifying": {
+        "id": 263966,
+        "name": "2026.07.26 - The Kickback - Pin-Golf Transformers Launch Party",
+        "playerCount": 12
+      },
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m37743",
+          "name": "Tiffany Han",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m44890",
+          "name": "Donelle Sauby",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "p434605",
+          "name": "Jillian Finucane",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m36031",
+          "name": "Jacque Mackey",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 263689,
+      "name": "Finals for Friday Night Strikes @ The Kickback 07.24.26",
+      "date": "7/24/2026",
+      "playerCount": 6,
+      "qualifying": {
+        "id": 263603,
+        "name": "Friday Night Strikes @ The Kickback 07.24.26",
+        "playerCount": 14
+      },
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m37362",
+          "name": "Aaron Malone",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m58187",
+          "name": "Brent Running",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m46633",
+          "name": "Shayna Weisnicht",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m44890",
+          "name": "Donelle Sauby",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 262605,
+      "name": "Finals for Friday Night Strikes @ The Kickback 07.17.26",
+      "date": "7/17/2026",
+      "playerCount": 6,
+      "qualifying": {
+        "id": 262561,
+        "name": "Friday Night Strikes @ The Kickback 07.17.26",
+        "playerCount": 14
+      },
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m22640",
+          "name": "Keith Waz",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m37362",
+          "name": "Aaron Malone",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m57023",
+          "name": "David Newman WI",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m55616",
+          "name": "James Evans WI",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

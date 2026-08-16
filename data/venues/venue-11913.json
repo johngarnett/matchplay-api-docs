@@ -1,0 +1,455 @@
+{
+  "locationId": "11913",
+  "name": "Good Timez Billiards",
+  "address": "5740 W Charleston Blvd, Las Vegas, NV 89146, US",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 32,
+  "relatedVenues": [
+    {
+      "locationId": "9586",
+      "name": "Cool Dogs Sports Pub",
+      "address": "3025 E Desert Inn Rd, Las Vegas, NV 89121",
+      "count": 107
+    },
+    {
+      "locationId": "13348",
+      "name": "Utopia Pinball Lounge",
+      "address": "555 California Ave, Boulder City, NV 89005, US",
+      "count": 30
+    },
+    {
+      "locationId": "7947",
+      "name": "Steve Strom’s House",
+      "address": "",
+      "count": 29
+    },
+    {
+      "locationId": "9202",
+      "name": "Player 1 Video Game Bar",
+      "address": "2797 South Maryland Parkway, Las Vegas, NV 89109, US",
+      "count": 25
+    },
+    {
+      "locationId": "9342",
+      "name": "Asylum Bar + Arcade",
+      "address": "3215 S Rancho Dr Suite 105, Las Vegas, NV 89102",
+      "count": 25
+    },
+    {
+      "locationId": "10180",
+      "name": "Pinball Planet",
+      "address": "6277E Pearl Rd, Parma Heights, OH 44130",
+      "count": 16
+    },
+    {
+      "locationId": "4680",
+      "name": "Pinball Hall of Fame",
+      "address": "4925 S Las Vegas Blvd, Las Vegas, NV, 89119, US",
+      "count": 14
+    },
+    {
+      "locationId": "10051",
+      "name": "Tom Stewart's House",
+      "address": "Tibet",
+      "count": 13
+    },
+    {
+      "locationId": "6118",
+      "name": "Maple Pinball",
+      "address": "245 Matheson Boulevard East, Mississauga, ON L4Z 3K2, CA",
+      "count": 9
+    },
+    {
+      "locationId": "535",
+      "name": "Superelectric Pinball Parlor",
+      "address": "6500 Detroit Ave, Cleveland, OH 44102, USA",
+      "count": 5
+    }
+  ],
+  "players": [
+    {
+      "id": "m9954",
+      "name": "Steve Strom",
+      "rating": 1725.37,
+      "rd": 18.42,
+      "ratingClass": "Expert",
+      "homeLocation": "Good Timez Billiards",
+      "homeLocationId": "11913",
+      "percentile": 97.94568407322868,
+      "changeDisplay": "+6.7",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m26722",
+      "name": "David Cowling",
+      "rating": 1694.59,
+      "rd": 18.02,
+      "ratingClass": "A",
+      "homeLocation": "Maple Pinball",
+      "homeLocationId": "6118",
+      "percentile": 96.24539991615036,
+      "changeDisplay": "+6.7",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m19173",
+      "name": "Manny Costa",
+      "rating": 1677.15,
+      "rd": 16.36,
+      "ratingClass": "A",
+      "homeLocation": "Cool Dogs Sports Pub",
+      "homeLocationId": "9586",
+      "percentile": 94.86188102669213,
+      "changeDisplay": "+2.6",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m47550",
+      "name": "Sonya Duex",
+      "rating": 1674.26,
+      "rd": 18.7,
+      "ratingClass": "A",
+      "homeLocation": "Cool Dogs Sports Pub",
+      "homeLocationId": "9586",
+      "percentile": 94.5264825080356,
+      "changeDisplay": "-1.7",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m4199",
+      "name": "Mark Brown OH",
+      "rating": 1672.67,
+      "rd": 15.19,
+      "ratingClass": "A",
+      "homeLocation": "Pinball Planet",
+      "homeLocationId": "10180",
+      "percentile": 94.37275818698467,
+      "changeDisplay": "-14.7",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m385",
+      "name": "Brian Mundo",
+      "rating": 1667.67,
+      "rd": 21.37,
+      "ratingClass": "A",
+      "homeLocation": "Pinball Hall of Fame",
+      "homeLocationId": "4680",
+      "percentile": 93.89761028555456,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m7305",
+      "name": "Sean Stewart",
+      "rating": 1655.98,
+      "rd": 38.03,
+      "ratingClass": "A",
+      "homeLocation": "Cool Dogs Sports Pub",
+      "homeLocationId": "9586",
+      "percentile": 92.53738295989193,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m14217",
+      "name": "Craig Sengstock",
+      "rating": 1631.54,
+      "rd": 17.49,
+      "ratingClass": "A",
+      "homeLocation": "Cool Dogs Sports Pub",
+      "homeLocationId": "9586",
+      "percentile": 88.89458238226115,
+      "changeDisplay": "+1.5",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m36769",
+      "name": "Josh Capp",
+      "rating": 1629.53,
+      "rd": 18.82,
+      "ratingClass": "A",
+      "homeLocation": "Good Timez Billiards",
+      "homeLocationId": "11913",
+      "percentile": 88.48930917221782,
+      "changeDisplay": "+4.7",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m58243",
+      "name": "Kyle Coleman",
+      "rating": 1614.26,
+      "rd": 22.94,
+      "ratingClass": "A",
+      "homeLocation": "Cool Dogs Sports Pub",
+      "homeLocationId": "9586",
+      "percentile": 85.41016443844039,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m5584",
+      "name": "Nint Hoo",
+      "rating": 1608.14,
+      "rd": 23.97,
+      "ratingClass": "A",
+      "homeLocation": "Jackbar",
+      "homeLocationId": "8307",
+      "percentile": 84.00801229794568,
+      "changeDisplay": "-3.3",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m12015",
+      "name": "Stephanie Davidson",
+      "rating": 1587.64,
+      "rd": 20.85,
+      "ratingClass": "B",
+      "homeLocation": "Austin Pinball Collective",
+      "homeLocationId": "11561",
+      "percentile": 78.80001863325103,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m39596",
+      "name": "Shane Told",
+      "rating": 1585.35,
+      "rd": 25.18,
+      "ratingClass": "B",
+      "homeLocation": "What's Brewing? Coffee Roasters",
+      "homeLocationId": "2123",
+      "percentile": 78.13853822145619,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m14202",
+      "name": "Garrett McCarty",
+      "rating": 1583.14,
+      "rd": 19.23,
+      "ratingClass": "B",
+      "homeLocation": "Cool Dogs Sports Pub",
+      "homeLocationId": "9586",
+      "percentile": 77.50500768621606,
+      "changeDisplay": "-7.5",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m12861",
+      "name": "Caitlin Collier",
+      "rating": 1569.89,
+      "rd": 22.2,
+      "ratingClass": "B",
+      "homeLocation": "Good Timez Billiards",
+      "homeLocationId": "11913",
+      "percentile": 73.42898402198723,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m39498",
+      "name": "Bill Birch",
+      "rating": 1565.25,
+      "rd": 26.58,
+      "ratingClass": "B",
+      "homeLocation": "Steve Strom’s House",
+      "homeLocationId": "7947",
+      "percentile": 72.03614850701075,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m18107",
+      "name": "Matt Newburg",
+      "rating": 1554.16,
+      "rd": 32.85,
+      "ratingClass": "B",
+      "homeLocation": "Good Timez Billiards",
+      "homeLocationId": "11913",
+      "percentile": 68.37471467834351,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m1475",
+      "name": "Rich Wickersham",
+      "rating": 1545.49,
+      "rd": 39.86,
+      "ratingClass": "B",
+      "homeLocation": "Good Timez Billiards",
+      "homeLocationId": "11913",
+      "percentile": 65.09526249592398,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m32252",
+      "name": "Robert Wachtel",
+      "rating": 1543.19,
+      "rd": 17.31,
+      "ratingClass": "B",
+      "homeLocation": "Cool Dogs Sports Pub",
+      "homeLocationId": "9586",
+      "percentile": 64.28471607583734,
+      "changeDisplay": "+0.4",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m21743",
+      "name": "Dori Strom",
+      "rating": 1519.65,
+      "rd": 19.13,
+      "ratingClass": "B",
+      "homeLocation": "Good Timez Billiards",
+      "homeLocationId": "11913",
+      "percentile": 55.06591512554153,
+      "changeDisplay": "-2.4",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m51437",
+      "name": "Kevin Weinstein",
+      "rating": 1509.1,
+      "rd": 53.37,
+      "ratingClass": "B",
+      "homeLocation": "Good Timez Billiards",
+      "homeLocationId": "11913",
+      "percentile": 50.873433642334746,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m28754",
+      "name": "Kim Tremblay",
+      "rating": 1487.97,
+      "rd": 23.44,
+      "ratingClass": "C",
+      "homeLocation": "Good Timez Billiards",
+      "homeLocationId": "11913",
+      "percentile": 42.15307215726464,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m30674",
+      "name": "Joe Slovacek",
+      "rating": 1477.05,
+      "rd": 23.86,
+      "ratingClass": "C",
+      "homeLocation": "District 82 Pinball",
+      "homeLocationId": "4804",
+      "percentile": 37.72767503610193,
+      "changeDisplay": "-2.3",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m31638",
+      "name": "Love Smith",
+      "rating": 1470.74,
+      "rd": 17.93,
+      "ratingClass": "C",
+      "homeLocation": "Cool Dogs Sports Pub",
+      "homeLocationId": "9586",
+      "percentile": 35.170261331345785,
+      "changeDisplay": "-3.1",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m37530",
+      "name": "Paul McGuigan",
+      "rating": 1462.58,
+      "rd": 35.17,
+      "ratingClass": "C",
+      "homeLocation": "Asylum Bar + Arcade",
+      "homeLocationId": "9342",
+      "percentile": 31.956025527553923,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m34391",
+      "name": "Tony Landon",
+      "rating": 1459.42,
+      "rd": 31.37,
+      "ratingClass": "C",
+      "homeLocation": "LITT Pinball Bar",
+      "homeLocationId": "8625",
+      "percentile": 30.805422276051615,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m29637",
+      "name": "Laila Ryun",
+      "rating": 1457.54,
+      "rd": 29.95,
+      "ratingClass": "C",
+      "homeLocation": "Rezzanine Esports",
+      "homeLocationId": "8271",
+      "percentile": 29.962267666651137,
+      "changeDisplay": "+9.2",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m38167",
+      "name": "Kimberly Webb",
+      "rating": 1438.34,
+      "rd": 28.59,
+      "ratingClass": "C",
+      "homeLocation": "Steve Strom’s House",
+      "homeLocationId": "7947",
+      "percentile": 23.156472725578794,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m61567",
+      "name": "Samuel Procopio",
+      "rating": 1432.68,
+      "rd": 27.45,
+      "ratingClass": "C",
+      "homeLocation": "Utopia Pinball Lounge",
+      "homeLocationId": "13348",
+      "percentile": 21.376997251595473,
+      "changeDisplay": "-3.0",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m34592",
+      "name": "Brenda Mendoza",
+      "rating": 1391.43,
+      "rd": 53.21,
+      "ratingClass": "D",
+      "homeLocation": "Good Timez Billiards",
+      "homeLocationId": "11913",
+      "percentile": 10.588344901476685,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i62666",
+      "name": "Ian Cowhig",
+      "rating": 1379.76,
+      "rd": 28.72,
+      "ratingClass": "D",
+      "homeLocation": "Good Timez Billiards",
+      "homeLocationId": "11913",
+      "percentile": 8.277821772953835,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i88401",
+      "name": "Georgette M",
+      "rating": 1346.97,
+      "rd": 29.28,
+      "ratingClass": "D",
+      "homeLocation": "Good Timez Billiards",
+      "homeLocationId": "11913",
+      "percentile": 3.931615968696138,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

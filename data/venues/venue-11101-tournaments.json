@@ -1,0 +1,44 @@
+{
+  "locationId": "11101",
+  "venueName": "Crystal Brook Railway Hotel",
+  "venueAddress": "47 Railway Terrace, Crystal Brook, SA 5523",
+  "tournaments": [
+    {
+      "id": 265435,
+      "name": "3rd-4th playoff Railway Hotel Crystal Brook 1st Tuesday August '26",
+      "date": "8/4/2026",
+      "playerCount": 4,
+      "qualifying": {
+        "id": 260710,
+        "name": "Railway Hotel Crystal Brook 1st Tuesday August '26",
+        "playerCount": 6
+      },
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m62574",
+          "name": "Mark Easson",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m27875",
+          "name": "George Jeffrey",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "p81492",
+          "name": "No Player",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "p81630",
+          "name": "No Player Two",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

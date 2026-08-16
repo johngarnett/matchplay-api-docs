@@ -1,0 +1,102 @@
+{
+  "tournamentId": 257620,
+  "name": "Lights Out Arcade Monthly July 2026",
+  "date": "2026-07-25",
+  "locationId": "12242",
+  "locationName": "Lights Out Arcade at Santa Maria Billiards Lounge",
+  "playerCount": 13,
+  "ratingsDate": "2026-07-25",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m7428",
+      "name": "Jason Burton",
+      "rating": 1541.84,
+      "dailyRatingChange": 25.17
+    },
+    {
+      "position": 2,
+      "playerId": "m581554",
+      "name": "Robert Chris Weber",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 3,
+      "playerId": "m8797",
+      "name": "Shane Russell",
+      "rating": 1668.95,
+      "dailyRatingChange": 9.28
+    },
+    {
+      "position": 4,
+      "playerId": "i123920",
+      "name": "Howard Butlar",
+      "rating": 1669.89,
+      "dailyRatingChange": -50.05
+    },
+    {
+      "position": 5,
+      "playerId": "i123923",
+      "name": "Matthew Sigala",
+      "rating": 1458.98,
+      "dailyRatingChange": 22.95
+    },
+    {
+      "position": 6,
+      "playerId": "m534567",
+      "name": "Ryan Sasur",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 7,
+      "playerId": "m545537",
+      "name": "Kyle Mcintosh",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 8,
+      "playerId": "m352441",
+      "name": "Dylan Haskins",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 9,
+      "playerId": "m61442",
+      "name": "Cheryl Sasur",
+      "rating": 1410.42,
+      "dailyRatingChange": 0.6
+    },
+    {
+      "position": 10,
+      "playerId": "m55768",
+      "name": "David Nicola",
+      "rating": 1464.05,
+      "dailyRatingChange": 0.89
+    },
+    {
+      "position": 11,
+      "playerId": "m545551",
+      "name": "Dan Shiffrar",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 12,
+      "playerId": "i149278",
+      "name": "Alex Mehl",
+      "rating": 1446.7,
+      "dailyRatingChange": -15.29
+    },
+    {
+      "position": 13,
+      "playerId": "m55776",
+      "name": "Gina Nicola",
+      "rating": 1485.25,
+      "dailyRatingChange": -23.49
+    }
+  ]
+}

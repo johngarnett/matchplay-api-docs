@@ -1,0 +1,49 @@
+{
+  "communityId": "113",
+  "locations": [
+    {
+      "id": "13042",
+      "name": "Atomic Arcade",
+      "address": "248 Newcastle St, Perth, WA, 6000, AU",
+      "tournaments": [
+        {
+          "id": 266046,
+          "name": "Finals for Atomic Arcade 2026 #4",
+          "date": "8/8/2026",
+          "playerCount": 12,
+          "qualifying": {
+            "id": 255350,
+            "name": "Atomic Arcade 2026 #4",
+            "playerCount": 25
+          },
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m13020",
+              "name": "David Robertson",
+              "isCommunityMember": false
+            },
+            {
+              "position": 2,
+              "playerId": "m17095",
+              "name": "Geoff Giblett",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m13056",
+              "name": "Ash Retzlaff",
+              "isCommunityMember": false
+            },
+            {
+              "position": 4,
+              "playerId": "m44628",
+              "name": "Marcus Staples",
+              "isCommunityMember": true
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

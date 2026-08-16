@@ -1,0 +1,40 @@
+{
+  "locationId": "10483",
+  "venueName": "Nice Guys Pizza",
+  "venueAddress": "1404 Cape Coral Pkwy E, Cape Coral, FL 33904",
+  "tournaments": [
+    {
+      "id": 263152,
+      "name": "Flippin Nice Guys Pinball League 2026 Stern Army - IFPA #7",
+      "date": "7/21/2026",
+      "playerCount": 19,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m18804",
+          "name": "Michael Fraioli",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m53218",
+          "name": "Steve Mick",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m43254",
+          "name": "Ray Woods",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "i62147",
+          "name": "Ryan Fraioli",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

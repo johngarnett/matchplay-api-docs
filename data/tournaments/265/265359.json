@@ -1,0 +1,32 @@
+{
+  "tournamentId": 265359,
+  "name": "Finals for 1UP Games Pinball Weekly Aug 3 2026",
+  "date": "2026-08-04",
+  "locationId": "6405",
+  "locationName": "1UP Games & Repairs",
+  "playerCount": 3,
+  "ratingsDate": "2026-08-04",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m33433",
+      "name": "Terry Coe",
+      "rating": 1584.86,
+      "dailyRatingChange": 1.74
+    },
+    {
+      "position": 2,
+      "playerId": "m2697",
+      "name": "Joe Wade US",
+      "rating": 1620.77,
+      "dailyRatingChange": -0.98
+    },
+    {
+      "position": 3,
+      "playerId": "m28812",
+      "name": "Mike Papesh",
+      "rating": 1580.14,
+      "dailyRatingChange": -1.34
+    }
+  ]
+}

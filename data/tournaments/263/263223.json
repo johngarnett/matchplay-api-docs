@@ -1,0 +1,207 @@
+{
+  "tournamentId": 263223,
+  "name": "Illawarra Pinball Club 2026: Monday League - Season 5 wk2",
+  "date": "2026-08-03",
+  "locationId": "10800",
+  "locationName": "Illawarra Pinball Clubhouse",
+  "playerCount": 28,
+  "ratingsDate": "2026-08-03",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m29929",
+      "name": "Paul Soutter",
+      "rating": 1601.38,
+      "dailyRatingChange": 8.45
+    },
+    {
+      "position": 2,
+      "playerId": "m34995",
+      "name": "Chad Mulheron",
+      "rating": 1594.99,
+      "dailyRatingChange": 4.79
+    },
+    {
+      "position": 3,
+      "playerId": "m30040",
+      "name": "Kris Forner",
+      "rating": 1550.43,
+      "dailyRatingChange": 10.53
+    },
+    {
+      "position": 4,
+      "playerId": "m1548",
+      "name": "Paul Jones AUS",
+      "rating": 1809.18,
+      "dailyRatingChange": -6.1
+    },
+    {
+      "position": 4,
+      "playerId": "m454976",
+      "name": "Chris Hodson",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 6,
+      "playerId": "m57831",
+      "name": "Peter Godfrey",
+      "rating": 1616.17,
+      "dailyRatingChange": -0.92
+    },
+    {
+      "position": 6,
+      "playerId": "m59815",
+      "name": "Kurt Basedow",
+      "rating": 1586.34,
+      "dailyRatingChange": 5.47
+    },
+    {
+      "position": 6,
+      "playerId": "m42706",
+      "name": "Corey Hackett",
+      "rating": 1562.84,
+      "dailyRatingChange": 3.55
+    },
+    {
+      "position": 9,
+      "playerId": "m58426",
+      "name": "Darko",
+      "rating": 1529.21,
+      "dailyRatingChange": 4.54
+    },
+    {
+      "position": 9,
+      "playerId": "m48278",
+      "name": "Ben Greig",
+      "rating": 1500.54,
+      "dailyRatingChange": 3.92
+    },
+    {
+      "position": 11,
+      "playerId": "m57885",
+      "name": "Sienna Wilson",
+      "rating": 1541.66,
+      "dailyRatingChange": 1.57
+    },
+    {
+      "position": 11,
+      "playerId": "i12064",
+      "name": "Stuart Hunt",
+      "rating": 1734.95,
+      "dailyRatingChange": -7.76
+    },
+    {
+      "position": 11,
+      "playerId": "m48919",
+      "name": "Christopher Farrell",
+      "rating": 1523.61,
+      "dailyRatingChange": -1.79
+    },
+    {
+      "position": 11,
+      "playerId": "m43815",
+      "name": "Ryan Halstead",
+      "rating": 1606.05,
+      "dailyRatingChange": -3.25
+    },
+    {
+      "position": 11,
+      "playerId": "m52577",
+      "name": "Alex Williams AUS",
+      "rating": 1612.08,
+      "dailyRatingChange": -3.46
+    },
+    {
+      "position": 16,
+      "playerId": "m9641",
+      "name": "Jayson Walsh",
+      "rating": 1652.24,
+      "dailyRatingChange": -8.18
+    },
+    {
+      "position": 16,
+      "playerId": "m29363",
+      "name": "JayTee Saward",
+      "rating": 1593.73,
+      "dailyRatingChange": -3.68
+    },
+    {
+      "position": 18,
+      "playerId": "m550907",
+      "name": "Giles Bowen",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 19,
+      "playerId": "m39452",
+      "name": "Dan Craze",
+      "rating": 1554.14,
+      "dailyRatingChange": -2.74
+    },
+    {
+      "position": 20,
+      "playerId": "m58485",
+      "name": "Jimmy Penno",
+      "rating": 1485.39,
+      "dailyRatingChange": -2.02
+    },
+    {
+      "position": 20,
+      "playerId": "m48122",
+      "name": "John Fish",
+      "rating": 1574.4,
+      "dailyRatingChange": -3.17
+    },
+    {
+      "position": 20,
+      "playerId": "m39451",
+      "name": "Mags Craze",
+      "rating": 1527.25,
+      "dailyRatingChange": 0.31
+    },
+    {
+      "position": 23,
+      "playerId": "i110888",
+      "name": "Josh Elm",
+      "rating": 1421.38,
+      "dailyRatingChange": 2.09
+    },
+    {
+      "position": 23,
+      "playerId": "m48270",
+      "name": "Jonno Greig",
+      "rating": 1421.16,
+      "dailyRatingChange": -0.04
+    },
+    {
+      "position": 25,
+      "playerId": "m582379",
+      "name": "Washout Robbo",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 25,
+      "playerId": "m315781",
+      "name": "Travis Anderson",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 27,
+      "playerId": "m47944",
+      "name": "Susie Morgan",
+      "rating": 1463.22,
+      "dailyRatingChange": -6.48
+    },
+    {
+      "position": 28,
+      "playerId": "m48163",
+      "name": "Matt Stewart",
+      "rating": 1400.29,
+      "dailyRatingChange": -6.44
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "tournamentId": 262661,
+  "name": "Finals for 2026 Sweeper City Pinball Championships Women's Tournament",
+  "date": "2026-07-18",
+  "locationId": "13730",
+  "locationName": "North Canton Masonic Temple",
+  "playerCount": 8,
+  "ratingsDate": "2026-07-18",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m1300",
+      "name": "Valencia Kelly",
+      "rating": 1677.87,
+      "dailyRatingChange": 9.74
+    },
+    {
+      "position": 2,
+      "playerId": "m18124",
+      "name": "Jessi Morton",
+      "rating": 1567.72,
+      "dailyRatingChange": 8
+    },
+    {
+      "position": 3,
+      "playerId": "m10935",
+      "name": "Angie Marinelli",
+      "rating": 1596.14,
+      "dailyRatingChange": 3.86
+    },
+    {
+      "position": 4,
+      "playerId": "m26263",
+      "name": "Krista Liem",
+      "rating": 1585.71,
+      "dailyRatingChange": 14.17
+    },
+    {
+      "position": 5,
+      "playerId": "m50471",
+      "name": "Kaitlyn Shoman",
+      "rating": 1520.79,
+      "dailyRatingChange": 11.3
+    },
+    {
+      "position": 6,
+      "playerId": "m29138",
+      "name": "Nicole Turk",
+      "rating": 1598.37,
+      "dailyRatingChange": 11.19
+    },
+    {
+      "position": 7,
+      "playerId": "m18710",
+      "name": "Emily Felvus",
+      "rating": 1501.47,
+      "dailyRatingChange": 3.1
+    },
+    {
+      "position": 8,
+      "playerId": "m21564",
+      "name": "Kristin Vogel-Campbell",
+      "rating": 1519.92,
+      "dailyRatingChange": -1.79
+    }
+  ]
+}

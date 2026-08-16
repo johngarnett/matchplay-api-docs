@@ -1,0 +1,40 @@
+{
+  "locationId": "11374",
+  "venueName": "Project Pinball Headquarters",
+  "venueAddress": "1562 S Tamiami Trail Ste 3, Venice, FL 34293",
+  "tournaments": [
+    {
+      "id": 266075,
+      "name": "Project Pinball League 2026 Stern Army - IFPA #8",
+      "date": "8/8/2026",
+      "playerCount": 13,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m35099",
+          "name": "Brian Collins FL",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "i58401",
+          "name": "Todd Baxter",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "p471099",
+          "name": "Matt Ramsey",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "p505228",
+          "name": "Brooke Rakoczy",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

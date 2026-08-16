@@ -1,0 +1,67 @@
+{
+  "tournamentId": 262919,
+  "name": "B--Finals for The Biggest Little Pinball League – Reno/Sparks NV -- Summer 2026 @COMIC KINGDOM",
+  "date": "2026-07-30",
+  "locationId": "12208",
+  "locationName": "Comic Kingdom",
+  "playerCount": 8,
+  "ratingsDate": "2026-07-30",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m11029",
+      "name": "Michael LaFrieda",
+      "rating": 1648.85,
+      "dailyRatingChange": 1.1
+    },
+    {
+      "position": 2,
+      "playerId": "m50326",
+      "name": "Patrick Heath",
+      "rating": 1603.98,
+      "dailyRatingChange": 0.62
+    },
+    {
+      "position": 3,
+      "playerId": "m45878",
+      "name": "Amber Durfee",
+      "rating": 1525.07,
+      "dailyRatingChange": 1.87
+    },
+    {
+      "position": 4,
+      "playerId": "m12614",
+      "name": "Stacee LaFrieda",
+      "rating": 1415.05,
+      "dailyRatingChange": 1.22
+    },
+    {
+      "position": 5,
+      "playerId": "m46188",
+      "name": "George Marshall",
+      "rating": 1536.45,
+      "dailyRatingChange": -1.17
+    },
+    {
+      "position": 5,
+      "playerId": "i145973",
+      "name": "Janet Peterson",
+      "rating": 1351.12,
+      "dailyRatingChange": 0.24
+    },
+    {
+      "position": 7,
+      "playerId": "m53832",
+      "name": "Diane Meusy",
+      "rating": 1463.36,
+      "dailyRatingChange": -4.63
+    },
+    {
+      "position": 7,
+      "playerId": "m24109",
+      "name": "Cody Laux",
+      "rating": 1645.96,
+      "dailyRatingChange": -2.93
+    }
+  ]
+}

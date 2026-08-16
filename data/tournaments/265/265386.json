@@ -1,0 +1,67 @@
+{
+  "tournamentId": 265386,
+  "name": "B Finals for Transformers Launch Tournament at The FlipSide Arcade",
+  "date": "2026-08-04",
+  "locationId": "9007",
+  "locationName": "Kirby's FlipSide",
+  "playerCount": 8,
+  "ratingsDate": "2026-08-04",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m37992",
+      "name": "Will Woods",
+      "rating": 1516.02,
+      "dailyRatingChange": 1.67
+    },
+    {
+      "position": 2,
+      "playerId": "m51656",
+      "name": "amy Mackie",
+      "rating": 1445.26,
+      "dailyRatingChange": 37.23
+    },
+    {
+      "position": 3,
+      "playerId": "m62609",
+      "name": "William Haskin",
+      "rating": null,
+      "dailyRatingChange": null
+    },
+    {
+      "position": 4,
+      "playerId": "m59529",
+      "name": "Kelby Connell",
+      "rating": 1388.7,
+      "dailyRatingChange": -17.46
+    },
+    {
+      "position": 5,
+      "playerId": "m51421",
+      "name": "Spencer Hamilton",
+      "rating": 1470.77,
+      "dailyRatingChange": 10.72
+    },
+    {
+      "position": 6,
+      "playerId": "m56166",
+      "name": "Jordan Woelk",
+      "rating": null,
+      "dailyRatingChange": -42.93
+    },
+    {
+      "position": 7,
+      "playerId": "m40225",
+      "name": "Jan Atakpa",
+      "rating": 1369.66,
+      "dailyRatingChange": -4.64
+    },
+    {
+      "position": 8,
+      "playerId": "m584312",
+      "name": "Chris Myers KS",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

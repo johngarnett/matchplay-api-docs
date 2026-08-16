@@ -1,0 +1,65 @@
+{
+  "locationId": "3985",
+  "name": "Ryan's Dirty Dungeon",
+  "address": "Doncaster VIC 3108, Australia",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 1,
+  "relatedVenues": [
+    {
+      "locationId": "7450",
+      "name": "The Clubhouse Moorooka",
+      "address": "76 Koala Road, Moorooka, QLD 4105, AU",
+      "count": 4
+    },
+    {
+      "locationId": "7180",
+      "name": "Netherworld",
+      "address": "186 Brunswick St, Fortitude Valley, QLD 4006, AU",
+      "count": 2
+    },
+    {
+      "locationId": "7132",
+      "name": "Brewdog Pentridge",
+      "address": "1 Champ St, Coburg VIC 3058, Australia",
+      "count": 1
+    },
+    {
+      "locationId": "8962",
+      "name": "Matt & Luke's",
+      "address": "mcdonalds brunswick vic",
+      "count": 1
+    },
+    {
+      "locationId": "10800",
+      "name": "Illawarra Pinball Clubhouse",
+      "address": "147 Kembla Street, Wollongong",
+      "count": 1
+    },
+    {
+      "locationId": "11704",
+      "name": "Beardy Daves",
+      "address": "5 Chatsworth Circuit - Capalaba",
+      "count": 1
+    },
+    {
+      "locationId": "13069",
+      "name": "The Fraternity Club",
+      "address": "11 Bourke St, Fairy Meadow",
+      "count": 1
+    }
+  ],
+  "players": [
+    {
+      "id": "m28",
+      "name": "Tim Chapman",
+      "rating": 1609.23,
+      "rd": 19.05,
+      "ratingClass": "A",
+      "homeLocation": "The Clubhouse Moorooka",
+      "homeLocationId": "7450",
+      "percentile": 84.26421949969722,
+      "changeDisplay": "-2.0",
+      "changeClass": "change-negative"
+    }
+  ]
+}

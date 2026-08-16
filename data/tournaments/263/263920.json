@@ -1,0 +1,102 @@
+{
+  "tournamentId": 263920,
+  "name": "Oldin sunnarit 26.7.26",
+  "date": "2026-07-26",
+  "locationId": "10085",
+  "locationName": "Oldi",
+  "playerCount": 13,
+  "ratingsDate": "2026-07-26",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m11987",
+      "name": "Mikko Nurmi",
+      "rating": 1584.79,
+      "dailyRatingChange": 3.8
+    },
+    {
+      "position": 2,
+      "playerId": "i112387",
+      "name": "Henry Kohonen",
+      "rating": 1443.47,
+      "dailyRatingChange": 28.02
+    },
+    {
+      "position": 3,
+      "playerId": "m26515",
+      "name": "Timo Finsk",
+      "rating": 1588.72,
+      "dailyRatingChange": 2.38
+    },
+    {
+      "position": 4,
+      "playerId": "m33693",
+      "name": "Timo Parkki",
+      "rating": 1587.82,
+      "dailyRatingChange": 0.31
+    },
+    {
+      "position": 5,
+      "playerId": "m25259",
+      "name": "Vanessa Sohn",
+      "rating": 1546.16,
+      "dailyRatingChange": 3.51
+    },
+    {
+      "position": 5,
+      "playerId": "m54080",
+      "name": "Antti Mattila",
+      "rating": 1602.97,
+      "dailyRatingChange": -4.49
+    },
+    {
+      "position": 7,
+      "playerId": "m16174",
+      "name": "Antti Seroff",
+      "rating": 1548.59,
+      "dailyRatingChange": -3.1
+    },
+    {
+      "position": 7,
+      "playerId": "i78352",
+      "name": "Eetu Kilpinen",
+      "rating": 1380.85,
+      "dailyRatingChange": -0.72
+    },
+    {
+      "position": 9,
+      "playerId": "i151076",
+      "name": "Jukka Leinonen",
+      "rating": 1441.99,
+      "dailyRatingChange": -4.32
+    },
+    {
+      "position": 9,
+      "playerId": "i56063",
+      "name": "Kalle Mattila",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 9,
+      "playerId": "m16212",
+      "name": "Kirsi Karppinen",
+      "rating": 1518.4,
+      "dailyRatingChange": -0.85
+    },
+    {
+      "position": 9,
+      "playerId": "i82751",
+      "name": "Paavo Blåberg",
+      "rating": 1428.16,
+      "dailyRatingChange": -3.14
+    },
+    {
+      "position": 13,
+      "playerId": "m28487",
+      "name": "Jarno Jokinen",
+      "rating": 1494.98,
+      "dailyRatingChange": -3.24
+    }
+  ]
+}

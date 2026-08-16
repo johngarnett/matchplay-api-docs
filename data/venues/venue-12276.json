@@ -1,0 +1,83 @@
+{
+  "locationId": "12276",
+  "name": "MVP Lanes",
+  "address": "3810 Lake Ave, Fort Wayne, IN 46805, US",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 5,
+  "relatedVenues": [
+    {
+      "locationId": "8279",
+      "name": "Old Crown Coffee Roasters",
+      "address": "3523 N Anthony Blvd, Fort Wayne, IN 46805, US",
+      "count": 5
+    },
+    {
+      "locationId": "1451",
+      "name": "Wizard's World",
+      "address": "14613 Lima Rd, Fort Wayne, IN 46818, USA",
+      "count": 2
+    }
+  ],
+  "players": [
+    {
+      "id": "m6680",
+      "name": "Graham Stiver",
+      "rating": 1758.77,
+      "rd": 26.77,
+      "ratingClass": "Expert",
+      "homeLocation": "MVP Lanes",
+      "homeLocationId": "12276",
+      "percentile": 99.00777938230773,
+      "changeDisplay": "+29.9",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m10390",
+      "name": "Nate Bartel",
+      "rating": 1569.11,
+      "rd": 29.64,
+      "ratingClass": "B",
+      "homeLocation": "MVP Lanes",
+      "homeLocationId": "12276",
+      "percentile": 73.2193599478269,
+      "changeDisplay": "-1.7",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "i115752",
+      "name": "Noodle Sorg",
+      "rating": 1470.57,
+      "rd": 45.22,
+      "ratingClass": "C",
+      "homeLocation": "MVP Lanes",
+      "homeLocationId": "12276",
+      "percentile": 35.11436157823636,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m6442",
+      "name": "Aja Hurst",
+      "rating": 1451.18,
+      "rd": 32.42,
+      "ratingClass": "C",
+      "homeLocation": "Old Crown Coffee Roasters",
+      "homeLocationId": "8279",
+      "percentile": 27.558578282945916,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m40581",
+      "name": "Rex Wegesin",
+      "rating": 1441.73,
+      "rd": 32.88,
+      "ratingClass": "C",
+      "homeLocation": "Wizard's World",
+      "homeLocationId": "1451",
+      "percentile": 24.28378441328551,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

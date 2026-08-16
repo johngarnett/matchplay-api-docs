@@ -1,0 +1,137 @@
+{
+  "tournamentId": 265892,
+  "name": "Pinball Social Club 8/6/26",
+  "date": "2026-08-07",
+  "locationId": "12265",
+  "locationName": "Aftershock Classic Arcade",
+  "playerCount": 18,
+  "ratingsDate": "2026-08-07",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m13641",
+      "name": "Andrew Van Roekel",
+      "rating": 1642.73,
+      "dailyRatingChange": 5.85
+    },
+    {
+      "position": 2,
+      "playerId": "m9715",
+      "name": "Mark Ten Haken",
+      "rating": 1613.17,
+      "dailyRatingChange": 40.03
+    },
+    {
+      "position": 3,
+      "playerId": "i52143",
+      "name": "Mike Schnapp",
+      "rating": 1503.78,
+      "dailyRatingChange": 2.49
+    },
+    {
+      "position": 4,
+      "playerId": "m36995",
+      "name": "Joe Lambert",
+      "rating": 1525.14,
+      "dailyRatingChange": 4.21
+    },
+    {
+      "position": 4,
+      "playerId": "m49091",
+      "name": "Jamie Kruser",
+      "rating": 1526.9,
+      "dailyRatingChange": -0.99
+    },
+    {
+      "position": 6,
+      "playerId": "m47780",
+      "name": "Scott Jensen",
+      "rating": 1504.48,
+      "dailyRatingChange": 6.19
+    },
+    {
+      "position": 6,
+      "playerId": "i140583",
+      "name": "Justin Kurth",
+      "rating": 1516.45,
+      "dailyRatingChange": -0.62
+    },
+    {
+      "position": 6,
+      "playerId": "m568250",
+      "name": "Ben Erdman",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 9,
+      "playerId": "i50986",
+      "name": "Andrew Mazur",
+      "rating": 1488.18,
+      "dailyRatingChange": 3.78
+    },
+    {
+      "position": 9,
+      "playerId": "m583134",
+      "name": "Jason Beck",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 9,
+      "playerId": "m44742",
+      "name": "Nathan Webber",
+      "rating": 1513.37,
+      "dailyRatingChange": -2.24
+    },
+    {
+      "position": 9,
+      "playerId": "m11635",
+      "name": "Eric Thayer",
+      "rating": 1562.36,
+      "dailyRatingChange": -2.89
+    },
+    {
+      "position": 13,
+      "playerId": "i132769",
+      "name": "Steve Queen",
+      "rating": 1494.69,
+      "dailyRatingChange": -7.35
+    },
+    {
+      "position": 13,
+      "playerId": "m56238",
+      "name": "Veronica Winslow",
+      "rating": 1384.2,
+      "dailyRatingChange": -2.21
+    },
+    {
+      "position": 13,
+      "playerId": "i137200",
+      "name": "Zack Miller",
+      "rating": 1528.3,
+      "dailyRatingChange": -3.84
+    },
+    {
+      "position": 13,
+      "playerId": "m570493",
+      "name": "Shawn Wood",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 17,
+      "playerId": "i144903",
+      "name": "Kris Hansen",
+      "rating": 1329.33,
+      "dailyRatingChange": -8.32
+    },
+    {
+      "position": 17,
+      "playerId": "m59861",
+      "name": "Kia Haugen",
+      "rating": 1416.14,
+      "dailyRatingChange": -10.99
+    }
+  ]
+}

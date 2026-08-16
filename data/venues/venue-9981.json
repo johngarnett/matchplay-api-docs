@@ -1,0 +1,455 @@
+{
+  "locationId": "9981",
+  "name": "Last Level Fenton",
+  "address": "14281 Fenton Rd, Fenton MI 48430",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 32,
+  "relatedVenues": [
+    {
+      "locationId": "10767",
+      "name": "Crazy Quarters Arcade",
+      "address": "401 Center Ave, Bay City, MI 48708",
+      "count": 61
+    },
+    {
+      "locationId": "6405",
+      "name": "1UP Games & Repairs",
+      "address": "4628 State St, Saginaw, MI 48603, USA",
+      "count": 55
+    },
+    {
+      "locationId": "5287",
+      "name": "ULEKstore's Pinball and Classic Arcade",
+      "address": "2121 North Monroe St, Monroe, MI, 48162, US",
+      "count": 42
+    },
+    {
+      "locationId": "8704",
+      "name": "Axecadia",
+      "address": "55 W Nepessing St, Lapeer, MI 48446, US",
+      "count": 15
+    },
+    {
+      "locationId": "10357",
+      "name": "Offworld Arcade",
+      "address": "1420 E Fisher Fwy, Detroit, MI 48207",
+      "count": 14
+    },
+    {
+      "locationId": "10800",
+      "name": "Illawarra Pinball Clubhouse",
+      "address": "147 Kembla Street, Wollongong",
+      "count": 13
+    },
+    {
+      "locationId": "12620",
+      "name": "Pinball Playhouse",
+      "address": "3642 W Eleven Mile Road, Berkley, MI 48072",
+      "count": 9
+    },
+    {
+      "locationId": "12444",
+      "name": "Sparks Pinball Museum & Arcade",
+      "address": "412 W 14 Mile Rd, Troy, MI 48083, US",
+      "count": 8
+    },
+    {
+      "locationId": "6137",
+      "name": "The Avenue Cafe",
+      "address": "2021 E Michigan Ave, Lansing, MI 48912, USA",
+      "count": 7
+    },
+    {
+      "locationId": "13356",
+      "name": "Pinball Pete's Ann Arbor",
+      "address": "500 E Liberty St, Ann Arbor, MI 48104",
+      "count": 7
+    }
+  ],
+  "players": [
+    {
+      "id": "m995",
+      "name": "Evan Williams",
+      "rating": 1669.99,
+      "rd": 18.68,
+      "ratingClass": "A",
+      "homeLocation": "ULEKstore's Pinball and Classic Arcade",
+      "homeLocationId": "5287",
+      "percentile": 94.08860110867843,
+      "changeDisplay": "-9.6",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m39362",
+      "name": "Nicholas Greanias",
+      "rating": 1646.24,
+      "rd": 22.56,
+      "ratingClass": "A",
+      "homeLocation": "Crazy Quarters Arcade",
+      "homeLocationId": "10767",
+      "percentile": 91.24237201285695,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m25776",
+      "name": "Uber Hubris",
+      "rating": 1640.66,
+      "rd": 18.84,
+      "ratingClass": "A",
+      "homeLocation": "ULEKstore's Pinball and Classic Arcade",
+      "homeLocationId": "5287",
+      "percentile": 90.42716728001118,
+      "changeDisplay": "-4.4",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m7218",
+      "name": "Philip Salminen",
+      "rating": 1634.07,
+      "rd": 17.77,
+      "ratingClass": "A",
+      "homeLocation": "Crazy Quarters Arcade",
+      "homeLocationId": "10767",
+      "percentile": 89.27656402850887,
+      "changeDisplay": "+7.3",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m37176",
+      "name": "Scott Sheahan",
+      "rating": 1623.14,
+      "rd": 19.32,
+      "ratingClass": "A",
+      "homeLocation": "Offworld Arcade",
+      "homeLocationId": "10357",
+      "percentile": 87.2595146038105,
+      "changeDisplay": "-0.3",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m35204",
+      "name": "Stephen Mowbray",
+      "rating": 1615.96,
+      "rd": 22.56,
+      "ratingClass": "A",
+      "homeLocation": "Axecadia",
+      "homeLocationId": "8704",
+      "percentile": 85.72227139330134,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i90484",
+      "name": "Guy Lore",
+      "rating": 1615.46,
+      "rd": 17.41,
+      "ratingClass": "A",
+      "homeLocation": "Crazy Quarters Arcade",
+      "homeLocationId": "10767",
+      "percentile": 85.61978851260073,
+      "changeDisplay": "-2.1",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m9293",
+      "name": "Josh Grosteffon",
+      "rating": 1603.61,
+      "rd": 23.88,
+      "ratingClass": "A",
+      "homeLocation": "1UP Games & Repairs",
+      "homeLocationId": "6405",
+      "percentile": 82.8620673592025,
+      "changeDisplay": "-3.7",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m28812",
+      "name": "Mike Papesh",
+      "rating": 1583.91,
+      "rd": 16.9,
+      "ratingClass": "B",
+      "homeLocation": "1UP Games & Repairs",
+      "homeLocationId": "6405",
+      "percentile": 77.70997344761727,
+      "changeDisplay": "+3.8",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m3774",
+      "name": "Michael Courtney",
+      "rating": 1577.11,
+      "rd": 26.21,
+      "ratingClass": "B",
+      "homeLocation": "ULEKstore's Pinball and Classic Arcade",
+      "homeLocationId": "5287",
+      "percentile": 75.78609027810127,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m1204",
+      "name": "Mike Stewart Jr",
+      "rating": 1567.75,
+      "rd": 31,
+      "ratingClass": "B",
+      "homeLocation": "The Avenue Cafe",
+      "homeLocationId": "6137",
+      "percentile": 72.7442120463968,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m9927",
+      "name": "melinda salminen",
+      "rating": 1559.69,
+      "rd": 18.59,
+      "ratingClass": "B",
+      "homeLocation": "Crazy Quarters Arcade",
+      "homeLocationId": "10767",
+      "percentile": 70.21474821819537,
+      "changeDisplay": "+6.2",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m22819",
+      "name": "Wesley Chappell",
+      "rating": 1541.46,
+      "rd": 21.5,
+      "ratingClass": "B",
+      "homeLocation": "Axecadia",
+      "homeLocationId": "8704",
+      "percentile": 63.67447710439279,
+      "changeDisplay": "-1.5",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m58326",
+      "name": "Jon Boetefuer",
+      "rating": 1538.25,
+      "rd": 23.59,
+      "ratingClass": "B",
+      "homeLocation": "Crazy Quarters Arcade",
+      "homeLocationId": "10767",
+      "percentile": 62.37014953183957,
+      "changeDisplay": "+12.4",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m48979",
+      "name": "Henry Palmer",
+      "rating": 1536.85,
+      "rd": 43.38,
+      "ratingClass": "B",
+      "homeLocation": "Last Level Fenton",
+      "homeLocationId": "9981",
+      "percentile": 61.82046862626357,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m35618",
+      "name": "Liz Mowbray",
+      "rating": 1506.34,
+      "rd": 26.57,
+      "ratingClass": "B",
+      "homeLocation": "Starlite Arcade",
+      "homeLocationId": "7606",
+      "percentile": 49.76475520566451,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m21297",
+      "name": "Terry Cole",
+      "rating": 1504.77,
+      "rd": 30,
+      "ratingClass": "B",
+      "homeLocation": "The Avenue Cafe",
+      "homeLocationId": "6137",
+      "percentile": 49.17780779801556,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i159459",
+      "name": "Will Atkin",
+      "rating": 1500.68,
+      "rd": 24.78,
+      "ratingClass": "B",
+      "homeLocation": "Starlite Arcade",
+      "homeLocationId": "7606",
+      "percentile": 47.39833232403223,
+      "changeDisplay": "-3.2",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m15364",
+      "name": "Bill Woodcock",
+      "rating": 1490.83,
+      "rd": 26.02,
+      "ratingClass": "C",
+      "homeLocation": "ULEKstore's Pinball and Classic Arcade",
+      "homeLocationId": "5287",
+      "percentile": 43.32696697256254,
+      "changeDisplay": "-3.9",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m48977",
+      "name": "Anthony Kline",
+      "rating": 1473.85,
+      "rd": 53.75,
+      "ratingClass": "C",
+      "homeLocation": "Last Level Fenton",
+      "homeLocationId": "9981",
+      "percentile": 36.40471421251223,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i59387",
+      "name": "Lori Woodcock",
+      "rating": 1467.04,
+      "rd": 26.97,
+      "ratingClass": "C",
+      "homeLocation": "ULEKstore's Pinball and Classic Arcade",
+      "homeLocationId": "5287",
+      "percentile": 33.665626310150465,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m46387",
+      "name": "Ryan McKay",
+      "rating": 1463.22,
+      "rd": 30.59,
+      "ratingClass": "C",
+      "homeLocation": "Axecadia",
+      "homeLocationId": "8704",
+      "percentile": 32.19359947826897,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m32780",
+      "name": "brittany frick",
+      "rating": 1446.94,
+      "rd": 34.16,
+      "ratingClass": "C",
+      "homeLocation": "Crazy Quarters Arcade",
+      "homeLocationId": "10767",
+      "percentile": 26.09586807658266,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m45889",
+      "name": "Kris Lore",
+      "rating": 1435.5,
+      "rd": 21.28,
+      "ratingClass": "C",
+      "homeLocation": "1UP Games & Repairs",
+      "homeLocationId": "6405",
+      "percentile": 22.27139330134625,
+      "changeDisplay": "-11.0",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "i63100",
+      "name": "Samantha Grosteffon",
+      "rating": 1405.31,
+      "rd": 59.4,
+      "ratingClass": "C",
+      "homeLocation": "Brinstar",
+      "homeLocationId": "8513",
+      "percentile": 13.867797083896214,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m48163",
+      "name": "Matt Stewart",
+      "rating": 1400.29,
+      "rd": 22.63,
+      "ratingClass": "C",
+      "homeLocation": "Illawarra Pinball Clubhouse",
+      "homeLocationId": "10800",
+      "percentile": 12.535519634788281,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m60336",
+      "name": "Shelby Atkin",
+      "rating": 1399.03,
+      "rd": 33.49,
+      "ratingClass": "D",
+      "homeLocation": "Sparks Pinball Museum & Arcade",
+      "homeLocationId": "12444",
+      "percentile": 12.28862905855499,
+      "changeDisplay": "+10.2",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m48985",
+      "name": "Kathryn Chappell",
+      "rating": 1397.51,
+      "rd": 45.21,
+      "ratingClass": "D",
+      "homeLocation": "Axecadia",
+      "homeLocationId": "8704",
+      "percentile": 11.87869753575255,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m58349",
+      "name": "Katie Lore",
+      "rating": 1360.44,
+      "rd": 25.6,
+      "ratingClass": "D",
+      "homeLocation": "Crazy Quarters Arcade",
+      "homeLocationId": "10767",
+      "percentile": 5.492150743000885,
+      "changeDisplay": "-4.9",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "i138885",
+      "name": "Julius Greanias",
+      "rating": 1350.6,
+      "rd": 56.93,
+      "ratingClass": "D",
+      "homeLocation": "Last Level Fenton",
+      "homeLocationId": "9981",
+      "percentile": 4.341547491498579,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i133440",
+      "name": "Corbin Grosteffon",
+      "rating": 1286.91,
+      "rd": 43.06,
+      "ratingClass": "E",
+      "homeLocation": "1UP Games & Repairs",
+      "homeLocationId": "6405",
+      "percentile": 0.7406717286998649,
+      "changeDisplay": "+19.0",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "i137851",
+      "name": "August Reyes-Greanias",
+      "rating": 1250.89,
+      "rd": 52.58,
+      "ratingClass": "E",
+      "homeLocation": "Last Level Fenton",
+      "homeLocationId": "9981",
+      "percentile": 0.23291563795593234,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

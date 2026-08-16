@@ -1,0 +1,305 @@
+{
+  "tournamentId": 255848,
+  "name": "Iron City Pinball League Summer 2026 #6",
+  "date": "2026-07-22",
+  "locationId": "7785",
+  "locationName": "Helicon Brewing",
+  "playerCount": 42,
+  "ratingsDate": "2026-07-22",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m12560",
+      "name": "Clay Penrose",
+      "rating": 1671.58,
+      "dailyRatingChange": 19.51
+    },
+    {
+      "position": 2,
+      "playerId": "m7900",
+      "name": "Chris Brunetti",
+      "rating": 1604.86,
+      "dailyRatingChange": 9.87
+    },
+    {
+      "position": 3,
+      "playerId": "m5689",
+      "name": "Jared Schmidt",
+      "rating": 1751.3,
+      "dailyRatingChange": 0.33
+    },
+    {
+      "position": 3,
+      "playerId": "m30142",
+      "name": "Billy Wasko",
+      "rating": 1729.88,
+      "dailyRatingChange": 5.1
+    },
+    {
+      "position": 3,
+      "playerId": "m10355",
+      "name": "Gary Hartz",
+      "rating": 1702.27,
+      "dailyRatingChange": 3.5
+    },
+    {
+      "position": 3,
+      "playerId": "m30722",
+      "name": "Johnathan Greenling",
+      "rating": 1701.6,
+      "dailyRatingChange": 1.37
+    },
+    {
+      "position": 7,
+      "playerId": "m16262",
+      "name": "Dave Lancaster",
+      "rating": 1711.25,
+      "dailyRatingChange": 0.97
+    },
+    {
+      "position": 7,
+      "playerId": "m32622",
+      "name": "Bryan McIndoe",
+      "rating": 1505.44,
+      "dailyRatingChange": 17.96
+    },
+    {
+      "position": 7,
+      "playerId": "i140772",
+      "name": "Genavie Oliveria",
+      "rating": 1422.38,
+      "dailyRatingChange": 30.6
+    },
+    {
+      "position": 7,
+      "playerId": "m42244",
+      "name": "Trevor Krepp",
+      "rating": 1670.3,
+      "dailyRatingChange": 5.6
+    },
+    {
+      "position": 7,
+      "playerId": "m51463",
+      "name": "Erik Grieco",
+      "rating": 1466.8,
+      "dailyRatingChange": 19.89
+    },
+    {
+      "position": 12,
+      "playerId": "m35638",
+      "name": "Reed Davis",
+      "rating": 1575.62,
+      "dailyRatingChange": -2.38
+    },
+    {
+      "position": 12,
+      "playerId": "m16094",
+      "name": "Nicole Somplatsky",
+      "rating": 1576.48,
+      "dailyRatingChange": 6.86
+    },
+    {
+      "position": 12,
+      "playerId": "m34198",
+      "name": "Fred Cochran",
+      "rating": 1698.77,
+      "dailyRatingChange": -9.37
+    },
+    {
+      "position": 12,
+      "playerId": "i124681",
+      "name": "Anthony Cavanaugh",
+      "rating": 1588.88,
+      "dailyRatingChange": 2.03
+    },
+    {
+      "position": 12,
+      "playerId": "i142983",
+      "name": "Katy Campbell",
+      "rating": 1499.66,
+      "dailyRatingChange": 9.81
+    },
+    {
+      "position": 17,
+      "playerId": "m58048",
+      "name": "Ethan Hardway",
+      "rating": 1427.11,
+      "dailyRatingChange": 8.84
+    },
+    {
+      "position": 17,
+      "playerId": "m28598",
+      "name": "Joe Scaletta",
+      "rating": 1660.64,
+      "dailyRatingChange": -8.97
+    },
+    {
+      "position": 19,
+      "playerId": "m42519",
+      "name": "Kevin Nelson",
+      "rating": 1554.87,
+      "dailyRatingChange": -0.83
+    },
+    {
+      "position": 19,
+      "playerId": "m20630",
+      "name": "Adam Lemankiewicz",
+      "rating": 1626.13,
+      "dailyRatingChange": -2.7
+    },
+    {
+      "position": 19,
+      "playerId": "m36749",
+      "name": "Riley Davis",
+      "rating": 1640.74,
+      "dailyRatingChange": -5.58
+    },
+    {
+      "position": 19,
+      "playerId": "m15939",
+      "name": "Greg DeFeo",
+      "rating": 1701.41,
+      "dailyRatingChange": -5.5
+    },
+    {
+      "position": 19,
+      "playerId": "i138231",
+      "name": "Watson Montgomery",
+      "rating": 1550.69,
+      "dailyRatingChange": -2.01
+    },
+    {
+      "position": 19,
+      "playerId": "m49279",
+      "name": "Greg Campbell(PA)",
+      "rating": 1488.89,
+      "dailyRatingChange": -2.26
+    },
+    {
+      "position": 25,
+      "playerId": "i11863",
+      "name": "Nicholas Stevens",
+      "rating": 1481.58,
+      "dailyRatingChange": 0.21
+    },
+    {
+      "position": 25,
+      "playerId": "m42247",
+      "name": "Jeff DeRose",
+      "rating": 1575.38,
+      "dailyRatingChange": -11.68
+    },
+    {
+      "position": 27,
+      "playerId": "i100767",
+      "name": "Travis Partozoti",
+      "rating": 1432.87,
+      "dailyRatingChange": 3.7
+    },
+    {
+      "position": 27,
+      "playerId": "m62134",
+      "name": "Jason Green",
+      "rating": 1451.43,
+      "dailyRatingChange": null
+    },
+    {
+      "position": 27,
+      "playerId": "m45535",
+      "name": "Bethany DeRose",
+      "rating": 1499.72,
+      "dailyRatingChange": -21.63
+    },
+    {
+      "position": 27,
+      "playerId": "m30825",
+      "name": "Tony Christman",
+      "rating": 1638.66,
+      "dailyRatingChange": -5.48
+    },
+    {
+      "position": 27,
+      "playerId": "i140770",
+      "name": "Angelo Oliveria",
+      "rating": 1476.45,
+      "dailyRatingChange": 0.02
+    },
+    {
+      "position": 27,
+      "playerId": "i142982",
+      "name": "Angelo Brunetti",
+      "rating": 1461.14,
+      "dailyRatingChange": 1.02
+    },
+    {
+      "position": 33,
+      "playerId": "m32915",
+      "name": "Kayla Walker",
+      "rating": 1507.52,
+      "dailyRatingChange": -17.87
+    },
+    {
+      "position": 33,
+      "playerId": "m574487",
+      "name": "Maci Caster",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 33,
+      "playerId": "m540258",
+      "name": "Logan Daley",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 33,
+      "playerId": "i129364",
+      "name": "Doug Elliott",
+      "rating": 1540.12,
+      "dailyRatingChange": -16.57
+    },
+    {
+      "position": 37,
+      "playerId": "i142985",
+      "name": "Jack Popielarcheck",
+      "rating": 1429.39,
+      "dailyRatingChange": -20.82
+    },
+    {
+      "position": 37,
+      "playerId": "i138229",
+      "name": "Jess Grieco",
+      "rating": 1430.7,
+      "dailyRatingChange": -14.5
+    },
+    {
+      "position": 37,
+      "playerId": "i114818",
+      "name": "Cherie Brunetti",
+      "rating": 1298.41,
+      "dailyRatingChange": -4.43
+    },
+    {
+      "position": 40,
+      "playerId": "i124678",
+      "name": "Matt Miller PA",
+      "rating": 1305,
+      "dailyRatingChange": -5.5
+    },
+    {
+      "position": 40,
+      "playerId": "m35040",
+      "name": "Danny Hartz",
+      "rating": 1302.72,
+      "dailyRatingChange": -2.14
+    },
+    {
+      "position": 42,
+      "playerId": "m540257",
+      "name": "Ryan Daley",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

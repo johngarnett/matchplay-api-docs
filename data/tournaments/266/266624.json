@@ -1,0 +1,67 @@
+{
+  "tournamentId": 266624,
+  "name": "Belles and Chimes Philly August League Night",
+  "date": "2026-08-12",
+  "locationId": "9809",
+  "locationName": "Barcade",
+  "playerCount": 8,
+  "ratingsDate": "2026-08-12",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m26425",
+      "name": "Erica Thomas",
+      "rating": 1486.51,
+      "dailyRatingChange": 7.12
+    },
+    {
+      "position": 2,
+      "playerId": "m504190",
+      "name": "Jess Matthews",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 3,
+      "playerId": "m427311",
+      "name": "Mira Gardner",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 4,
+      "playerId": "i46365",
+      "name": "Caitlin Reed",
+      "rating": 1365.87,
+      "dailyRatingChange": -4.04
+    },
+    {
+      "position": 5,
+      "playerId": "m486231",
+      "name": "Lila",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 6,
+      "playerId": "m559896",
+      "name": "Evie",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 6,
+      "playerId": "m559898",
+      "name": "Selene",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 8,
+      "playerId": "m486232",
+      "name": "Ellyn",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

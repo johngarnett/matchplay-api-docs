@@ -1,0 +1,401 @@
+{
+  "communityId": "7",
+  "locations": [
+    {
+      "id": "5209",
+      "name": "Bite Me Cake Company",
+      "address": "",
+      "tournaments": [
+        {
+          "id": 261074,
+          "name": "Bite Me x Lindstrom Law strikes Tournament",
+          "date": "8/8/2026",
+          "playerCount": 46,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m19050",
+              "name": "Walt Wood",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m9166",
+              "name": "Adam Jordan",
+              "isCommunityMember": false
+            },
+            {
+              "position": 3,
+              "playerId": "m18564",
+              "name": "Brian Wonderly",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m6091",
+              "name": "Justin Rausch",
+              "isCommunityMember": false
+            },
+            {
+              "position": 4,
+              "playerId": "m5123",
+              "name": "Cassie Begay",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m29079",
+              "name": "Oliver Baker",
+              "isCommunityMember": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9651",
+      "name": "Colorado Pinball Pub",
+      "address": "6209 South Santa Fe Drive, Littleton, CO 80120, US",
+      "tournaments": [
+        {
+          "id": 266181,
+          "name": "Colorado Pinball Pub Littleton Aug 2026",
+          "date": "8/12/2026",
+          "playerCount": 19,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m26436",
+              "name": "Dan Ulrich",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m18680",
+              "name": "Mike Ulreich",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m25842",
+              "name": "Marshall Weasel",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m35260",
+              "name": "Tyler Wandesforde",
+              "isCommunityMember": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "11477",
+      "name": "Outlanes Pinball Lounge",
+      "address": "2555 West Alamo Ave. Littleton, CO 80120",
+      "tournaments": [
+        {
+          "id": 266159,
+          "name": "Outlanes Pinball Lounge Late Summer Womans League #1",
+          "date": "8/12/2026",
+          "playerCount": 14,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m28875",
+              "name": "Missy Lechuga",
+              "isCommunityMember": true
+            },
+            {
+              "position": 1,
+              "playerId": "m55874",
+              "name": "Nicki Moser",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m52261",
+              "name": "Danielle Ferguson",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m20602",
+              "name": "Emily Unruh",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m54137",
+              "name": "Jane Wiater",
+              "isCommunityMember": true
+            }
+          ]
+        },
+        {
+          "id": 266152,
+          "name": "Outlanes Pinball Lounge Late Summer Open League #2",
+          "date": "8/11/2026",
+          "playerCount": 44,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m23360",
+              "name": "Lewis Ritenour",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m11423",
+              "name": "Donavan Stepp",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m22921",
+              "name": "John Marez",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m22898",
+              "name": "Niki Summers",
+              "isCommunityMember": true
+            }
+          ]
+        },
+        {
+          "id": 266150,
+          "name": "Outlanes Pinball Lounge Womans Back To School",
+          "date": "8/10/2026",
+          "playerCount": 18,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m26437",
+              "name": "Kanin Cadam",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m55390",
+              "name": "Brittani Silchia",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m54137",
+              "name": "Jane Wiater",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m55874",
+              "name": "Nicki Moser",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m5123",
+              "name": "Cassie Begay",
+              "isCommunityMember": true
+            }
+          ]
+        },
+        {
+          "id": 264807,
+          "name": "Outlanes Pinball Lounge Friday Night Bounty & Transformer Launch Party",
+          "date": "8/7/2026",
+          "playerCount": 49,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m19050",
+              "name": "Walt Wood",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m25842",
+              "name": "Marshall Weasel",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m26437",
+              "name": "Kanin Cadam",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m29079",
+              "name": "Oliver Baker",
+              "isCommunityMember": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "10159",
+      "name": "Pinball Jones",
+      "address": "107 Linden St, Fort Collins, CO, 80524, US",
+      "tournaments": [
+        {
+          "id": 236778,
+          "name": "PBJ Monthly Women's August '26",
+          "date": "8/9/2026",
+          "playerCount": 3,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m30527",
+              "name": "Savannah Brown",
+              "isCommunityMember": false
+            },
+            {
+              "position": 2,
+              "playerId": "m60282",
+              "name": "Cindy Brown",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m38500",
+              "name": "Erika Stonebay",
+              "isCommunityMember": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "11099",
+      "name": "The 1up Arcade Bar - Westminster",
+      "address": "4750 W. 120th Ave, Westminster, CO 80020, US",
+      "tournaments": [
+        {
+          "id": 266273,
+          "name": "1up Westminster August Tournament",
+          "date": "8/10/2026",
+          "playerCount": 29,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m11992",
+              "name": "Justin Hinman",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m29355",
+              "name": "Leigh Kiser",
+              "isCommunityMember": false
+            },
+            {
+              "position": 2,
+              "playerId": "m32535",
+              "name": "Austin Quinty",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m22736",
+              "name": "Nick Firmani",
+              "isCommunityMember": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "13038",
+      "name": "The Control Room",
+      "address": "6120 Barnes Road, Colorado Springs, CO 80922, US",
+      "tournaments": [
+        {
+          "id": 244008,
+          "name": "The Control Room Monthly Pinball Tournament",
+          "date": "8/11/2026",
+          "playerCount": 8,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m62100",
+              "name": "Kel G",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m45346",
+              "name": "Luke",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m57765",
+              "name": "Sean A",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "i127678",
+              "name": "Scott Sweet",
+              "isCommunityMember": true
+            }
+          ]
+        },
+        {
+          "id": 257148,
+          "name": "The Control Room Summer League 2026 #5",
+          "date": "8/9/2026",
+          "playerCount": 8,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m45346",
+              "name": "Luke Rognlien",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m49670",
+              "name": "Sean S",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m42354",
+              "name": "Jared Long",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "p541714",
+              "name": "Bobby A",
+              "isCommunityMember": false
+            },
+            {
+              "position": 4,
+              "playerId": "m45475",
+              "name": "Edward Boeneke",
+              "isCommunityMember": true
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

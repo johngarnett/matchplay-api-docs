@@ -1,0 +1,81 @@
+{
+  "communityId": "149",
+  "playerCount": 1,
+  "ratingsDate": "2026-08-12",
+  "relatedCommunities": [
+    "0",
+    "2",
+    "3",
+    "4"
+  ],
+  "topVenues": [
+    {
+      "locationId": "4804",
+      "name": "District 82 Pinball",
+      "address": "800 O Keefe Rd, De Pere, WI 54115, USA",
+      "count": 3
+    },
+    {
+      "locationId": "5785",
+      "name": "Delaware Pinball Collective",
+      "address": "1100 First State Blvd. Wilmington, DE 19804",
+      "count": 3
+    },
+    {
+      "locationId": "6453",
+      "name": "Millennium Place",
+      "address": "",
+      "count": 2
+    },
+    {
+      "locationId": "7969",
+      "name": "Level One Bar + Arcade",
+      "address": "130 Hutchinson Ave, Columbus, OH 43235, US",
+      "count": 2
+    },
+    {
+      "locationId": "unknown",
+      "name": "Unknown",
+      "address": "",
+      "count": 2
+    },
+    {
+      "locationId": "7439",
+      "name": "Arcade Legacy Sharonville",
+      "address": "2241 Crowne Point Dr, Cincinnati, OH 45241, US",
+      "count": 1
+    },
+    {
+      "locationId": "8271",
+      "name": "Rezzanine Esports",
+      "address": "1025 Washington Pike, Bridgeville, PA 15017, US",
+      "count": 1
+    },
+    {
+      "locationId": "8939",
+      "name": "Grizzlybird Brewing Company",
+      "address": "5901 Chandler Ct, Westerville, OH 43082, US",
+      "count": 1
+    },
+    {
+      "locationId": "13248",
+      "name": "North Canton Masonic Temple",
+      "address": "805 Orchard Ave NE, North Canton, OH 44720, US",
+      "count": 1
+    }
+  ],
+  "players": [
+    {
+      "id": "m5375",
+      "name": "Carlos Delaserda",
+      "rating": 1833.49,
+      "rd": 19.29,
+      "ratingClass": "Master",
+      "homeLocation": "District 82 Pinball",
+      "homeLocationId": "4804",
+      "percentile": 99.79503423859877,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

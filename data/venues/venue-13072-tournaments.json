@@ -1,0 +1,52 @@
+{
+  "locationId": "13072",
+  "venueName": "Retro Rush Arcade",
+  "venueAddress": "100 N 9th Street. RIchmond, Indiana",
+  "tournaments": [
+    {
+      "id": 264298,
+      "name": "Retro Rush Pinball Challenge (JULY)",
+      "date": "7/28/2026",
+      "playerCount": 22,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "p545082",
+          "name": "Mark Lang",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m57516",
+          "name": "Nate Wetherell",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "p564073",
+          "name": "George Preston",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "p555884",
+          "name": "Megan Blackford",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "p582651",
+          "name": "Nate Gregoski",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "p564018",
+          "name": "Mike Worch",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

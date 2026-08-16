@@ -1,0 +1,81 @@
+{
+  "locationId": "5539",
+  "venueName": "Pinball Universe - Challenge Area",
+  "venueAddress": "Daimlerstraße 41-43, 32257 Bünde, Deutschland",
+  "tournaments": [
+    {
+      "id": 263778,
+      "name": "Finals for Pinball Universe Challenge - IFPA Tournament 25.07.26",
+      "date": "7/25/2026",
+      "playerCount": 8,
+      "qualifying": {
+        "id": 263396,
+        "name": "Pinball Universe Challenge - IFPA Tournament 25.07.26",
+        "playerCount": 70
+      },
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m1151",
+          "name": "Dirk Elzholz",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m33763",
+          "name": "Simon Metz",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m8103",
+          "name": "Mathias Jäger",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m165",
+          "name": "Martijn Van Amsterdam",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 263626,
+      "name": "Finals for Pinball Universe Challenge - Stern Army Evening 24.07.26",
+      "date": "7/24/2026",
+      "playerCount": 8,
+      "qualifying": {
+        "id": 263394,
+        "name": "Pinball Universe Challenge - Stern Army Evening 24.07.26",
+        "playerCount": 61
+      },
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m13321",
+          "name": "Pierre Jahic",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m14634",
+          "name": "Guido Christiansen",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m19190",
+          "name": "Sascha Klenke",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "i14622",
+          "name": "Jörg Multhaupt",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

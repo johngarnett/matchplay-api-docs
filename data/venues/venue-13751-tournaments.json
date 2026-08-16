@@ -1,0 +1,40 @@
+{
+  "locationId": "13751",
+  "venueName": "Pinhalla Pinball Pizzeria",
+  "venueAddress": "516 Fisgard St, Victoria, BC V8W 1R4, CA",
+  "tournaments": [
+    {
+      "id": 262782,
+      "name": "John Pinball’s Biden Birthday Blast. ❤️",
+      "date": "7/18/2026",
+      "playerCount": 5,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m28628",
+          "name": "Chantelle Mercier",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m48087",
+          "name": "Clayton Harris",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "p579941",
+          "name": "Beece",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m42128",
+          "name": "tim bottoni",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,299 @@
+{
+  "locationId": "11663",
+  "name": "Sierra Lanes",
+  "address": "634 S China Lake Blvd, Ridgecrest, CA 93555, US",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 19,
+  "relatedVenues": [
+    {
+      "locationId": "5464",
+      "name": "AYCE Gogi Korean BBQ & Pinball",
+      "address": "6705 Fallbrook Avenue, West Hills, CA 91307, US",
+      "count": 11
+    },
+    {
+      "locationId": "8136",
+      "name": "Beachwood Brewing",
+      "address": "3630 Atlantic Avenue, Long Beach, CA 90807, US",
+      "count": 9
+    },
+    {
+      "locationId": "8081",
+      "name": "Captain's Arcade Showroom",
+      "address": "4411 East La Palma Avenue, Anaheim, CA 92807, US",
+      "count": 7
+    },
+    {
+      "locationId": "9744",
+      "name": "Pinbug Pomona",
+      "address": "252 S Main St, Pomona, CA 91766, US",
+      "count": 6
+    },
+    {
+      "locationId": "10944",
+      "name": "The Axe Lair",
+      "address": "164 N 2nd Ave, Upland, CA 91786, US",
+      "count": 5
+    },
+    {
+      "locationId": "10114",
+      "name": "Long Beach Beer Lab",
+      "address": "518 W Willow St, Long Beach, CA 90806, US",
+      "count": 3
+    },
+    {
+      "locationId": "7869",
+      "name": "Bolo's Bar & Grill",
+      "address": "116 S Best Road, Spokane Valley, WA 99216, US",
+      "count": 2
+    },
+    {
+      "locationId": "10802",
+      "name": "Lilac Lanes & Casino",
+      "address": "1112 E Magnesium Rd, Spokane, WA 99208",
+      "count": 2
+    },
+    {
+      "locationId": "11143",
+      "name": "Hermosa Brewing",
+      "address": "1855 Del Amo Blvd, Torrance, CA 90501, US",
+      "count": 2
+    },
+    {
+      "locationId": "7201",
+      "name": "Revenge Of",
+      "address": "3420 Eagle Rock Boulevard, Los Angeles, CA 90065, US",
+      "count": 1
+    }
+  ],
+  "players": [
+    {
+      "id": "m52125",
+      "name": "Daryl Moline",
+      "rating": 1708.04,
+      "rd": 34.25,
+      "ratingClass": "Expert",
+      "homeLocation": "Sierra Lanes",
+      "homeLocationId": "11663",
+      "percentile": 97.07923790003261,
+      "changeDisplay": "-11.2",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m49252",
+      "name": "Jason Solomon",
+      "rating": 1600.92,
+      "rd": 16.47,
+      "ratingClass": "A",
+      "homeLocation": "AYCE Gogi Korean BBQ & Pinball",
+      "homeLocationId": "5464",
+      "percentile": 82.24717007499883,
+      "changeDisplay": "+4.4",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m52675",
+      "name": "Karin Vercella",
+      "rating": 1598.95,
+      "rd": 36.36,
+      "ratingClass": "B",
+      "homeLocation": "Sierra Lanes",
+      "homeLocationId": "11663",
+      "percentile": 81.73009735873666,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m51186",
+      "name": "Lorin Smith",
+      "rating": 1588.82,
+      "rd": 32.55,
+      "ratingClass": "B",
+      "homeLocation": "Sierra Lanes",
+      "homeLocationId": "11663",
+      "percentile": 79.12610052638934,
+      "changeDisplay": "+19.2",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m44352",
+      "name": "Brice Ambrecht",
+      "rating": 1586.06,
+      "rd": 29.75,
+      "ratingClass": "B",
+      "homeLocation": "Sierra Lanes",
+      "homeLocationId": "11663",
+      "percentile": 78.34816229561653,
+      "changeDisplay": "+6.1",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m52151",
+      "name": "Malcolm Wynn",
+      "rating": 1543.73,
+      "rd": 36.04,
+      "ratingClass": "B",
+      "homeLocation": "Sierra Lanes",
+      "homeLocationId": "11663",
+      "percentile": 64.47104858620207,
+      "changeDisplay": "+20.9",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "i143404",
+      "name": "Nick Schram",
+      "rating": 1539.5,
+      "rd": 34.55,
+      "ratingClass": "B",
+      "homeLocation": "Sierra Lanes",
+      "homeLocationId": "11663",
+      "percentile": 62.9524386267294,
+      "changeDisplay": "-11.7",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m55346",
+      "name": "Christopher Harper",
+      "rating": 1537.54,
+      "rd": 60.17,
+      "ratingClass": "B",
+      "homeLocation": "Sierra Lanes",
+      "homeLocationId": "11663",
+      "percentile": 62.07667582801509,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m50522",
+      "name": "Curtis Ambrecht",
+      "rating": 1537.51,
+      "rd": 32.08,
+      "ratingClass": "B",
+      "homeLocation": "Sierra Lanes",
+      "homeLocationId": "11663",
+      "percentile": 62.0533842642195,
+      "changeDisplay": "-12.6",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m53714",
+      "name": "Jim Vercella",
+      "rating": 1509.22,
+      "rd": 36.92,
+      "ratingClass": "B",
+      "homeLocation": "Sierra Lanes",
+      "homeLocationId": "11663",
+      "percentile": 50.90138351888945,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m55347",
+      "name": "Kathryn Harper",
+      "rating": 1462.45,
+      "rd": 36.51,
+      "ratingClass": "C",
+      "homeLocation": "Sierra Lanes",
+      "homeLocationId": "11663",
+      "percentile": 31.914100712721854,
+      "changeDisplay": "+20.2",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m52133",
+      "name": "Marissa Bell",
+      "rating": 1443.77,
+      "rd": 36.09,
+      "ratingClass": "C",
+      "homeLocation": "Sierra Lanes",
+      "homeLocationId": "11663",
+      "percentile": 25.019797829226253,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m54538",
+      "name": "Danny Adams",
+      "rating": 1441.04,
+      "rd": 51,
+      "ratingClass": "C",
+      "homeLocation": "Sierra Lanes",
+      "homeLocationId": "11663",
+      "percentile": 24.083476964643406,
+      "changeDisplay": "-11.7",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m52058",
+      "name": "Bella Alcocer",
+      "rating": 1421.92,
+      "rd": 34.84,
+      "ratingClass": "C",
+      "homeLocation": "Sierra Lanes",
+      "homeLocationId": "11663",
+      "percentile": 18.18139469884008,
+      "changeDisplay": "-8.4",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m51202",
+      "name": "Gavin S",
+      "rating": 1378.64,
+      "rd": 40.17,
+      "ratingClass": "D",
+      "homeLocation": "Sierra Lanes",
+      "homeLocationId": "11663",
+      "percentile": 8.086830949829972,
+      "changeDisplay": "+21.0",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m54540",
+      "name": "Annalyn Edulag",
+      "rating": 1378.23,
+      "rd": 52.09,
+      "ratingClass": "D",
+      "homeLocation": "Sierra Lanes",
+      "homeLocationId": "11663",
+      "percentile": 7.993664694647598,
+      "changeDisplay": "-16.6",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "i144606",
+      "name": "Marissa Bell",
+      "rating": null,
+      "rd": null,
+      "ratingClass": "N/A",
+      "homeLocation": "Sierra Lanes",
+      "homeLocationId": "11663",
+      "percentile": null,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i145847",
+      "name": "Malcolm Wynn",
+      "rating": null,
+      "rd": null,
+      "ratingClass": "N/A",
+      "homeLocation": "Sierra Lanes",
+      "homeLocationId": "11663",
+      "percentile": null,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i144603",
+      "name": "Lorin Smith",
+      "rating": null,
+      "rd": null,
+      "ratingClass": "N/A",
+      "homeLocation": "Sierra Lanes",
+      "homeLocationId": "11663",
+      "percentile": null,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

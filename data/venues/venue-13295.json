@@ -1,0 +1,215 @@
+{
+  "locationId": "13295",
+  "name": "Prayer & Pinball",
+  "address": "2332 US 70E Morganton, NC",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 12,
+  "relatedVenues": [
+    {
+      "locationId": "8072",
+      "name": "Level 256 Classic Arcade Bar",
+      "address": "79 Coxe Ave, Asheville, NC, 28801, US",
+      "count": 47
+    },
+    {
+      "locationId": "7007",
+      "name": "Sidetracked Brewery",
+      "address": "",
+      "count": 30
+    },
+    {
+      "locationId": "8746",
+      "name": "The Retrocade",
+      "address": "800 Haywood Road, Asheville, NC 28806, US",
+      "count": 4
+    },
+    {
+      "locationId": "9921",
+      "name": "Renaissance Atlanta Waverly Hotel & Convention Center",
+      "address": "2450 Galleria Pkwy Atlanta, GA 30339",
+      "count": 4
+    },
+    {
+      "locationId": "13088",
+      "name": "Distant View",
+      "address": "115 Distant View Dr., Asheville, NC 28803",
+      "count": 4
+    },
+    {
+      "locationId": "2469",
+      "name": "Fellowship of the silver ball clubhouse",
+      "address": "",
+      "count": 3
+    },
+    {
+      "locationId": "8950",
+      "name": "The Pinball Barn",
+      "address": "250 Stoneybrook Road, Pelzer, SC  29669",
+      "count": 3
+    },
+    {
+      "locationId": "9839",
+      "name": "DSSOLVR",
+      "address": "63 N Lexington Ave, Asheville, NC, 28801, US",
+      "count": 2
+    },
+    {
+      "locationId": "10319",
+      "name": "Turtledove",
+      "address": "4 Turtledove Trl., Asheville NC",
+      "count": 2
+    },
+    {
+      "locationId": "10348",
+      "name": "Luckycreature hq",
+      "address": "Asheville, NC",
+      "count": 2
+    }
+  ],
+  "players": [
+    {
+      "id": "m31892",
+      "name": "Justin Lail",
+      "rating": 1727,
+      "rd": 26.5,
+      "ratingClass": "Expert",
+      "homeLocation": "Prayer & Pinball",
+      "homeLocationId": "13295",
+      "percentile": 98.0295337028928,
+      "changeDisplay": "-2.7",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m27297",
+      "name": "Olen McGrady",
+      "rating": 1655.47,
+      "rd": 21.08,
+      "ratingClass": "A",
+      "homeLocation": "Sidetracked Brewery",
+      "homeLocationId": "7007",
+      "percentile": 92.4814832067825,
+      "changeDisplay": "-6.5",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m35241",
+      "name": "Cody Wright",
+      "rating": 1606.72,
+      "rd": 30.36,
+      "ratingClass": "A",
+      "homeLocation": "Sidetracked Brewery",
+      "homeLocationId": "7007",
+      "percentile": 83.62137233893884,
+      "changeDisplay": "-3.2",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m35855",
+      "name": "Laura Varney",
+      "rating": 1591.03,
+      "rd": 19.39,
+      "ratingClass": "B",
+      "homeLocation": "Level 256 Classic Arcade Bar",
+      "homeLocationId": "8072",
+      "percentile": 79.740997810593,
+      "changeDisplay": "-2.1",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m8906",
+      "name": "Shawn Scott Smith",
+      "rating": 1587.2,
+      "rd": 18.18,
+      "ratingClass": "B",
+      "homeLocation": "Level 256 Classic Arcade Bar",
+      "homeLocationId": "8072",
+      "percentile": 78.63697768668189,
+      "changeDisplay": "+5.5",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m37526",
+      "name": "Joshua Singleton",
+      "rating": 1578.41,
+      "rd": 31.35,
+      "ratingClass": "B",
+      "homeLocation": "Prayer & Pinball",
+      "homeLocationId": "13295",
+      "percentile": 76.15875529883076,
+      "changeDisplay": "+35.3",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m25712",
+      "name": "Diamond Justice Villanueva",
+      "rating": 1544.13,
+      "rd": 31.71,
+      "ratingClass": "B",
+      "homeLocation": "Sidetracked Brewery",
+      "homeLocationId": "7007",
+      "percentile": 64.62943122001211,
+      "changeDisplay": "-14.5",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "i122981",
+      "name": "Ryan Doherty",
+      "rating": 1500.83,
+      "rd": 24.47,
+      "ratingClass": "B",
+      "homeLocation": "Sidetracked Brewery",
+      "homeLocationId": "7007",
+      "percentile": 47.46820701541902,
+      "changeDisplay": "+4.7",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "i110083",
+      "name": "Ezekiel Wright",
+      "rating": 1485.65,
+      "rd": 26.33,
+      "ratingClass": "C",
+      "homeLocation": "Prayer & Pinball",
+      "homeLocationId": "13295",
+      "percentile": 41.17948479060884,
+      "changeDisplay": "+1.5",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "i36218",
+      "name": "Chipper Hughes",
+      "rating": 1451.87,
+      "rd": 25.54,
+      "ratingClass": "C",
+      "homeLocation": "Sidetracked Brewery",
+      "homeLocationId": "7007",
+      "percentile": 27.838077048493037,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m51369",
+      "name": "Bryce Lafoon",
+      "rating": 1448.91,
+      "rd": 20.77,
+      "ratingClass": "C",
+      "homeLocation": "Level 256 Classic Arcade Bar",
+      "homeLocationId": "8072",
+      "percentile": 26.724740299063683,
+      "changeDisplay": "+19.7",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "i160551",
+      "name": "Leland huey",
+      "rating": 1353.26,
+      "rd": 25.53,
+      "ratingClass": "D",
+      "homeLocation": "Sidetracked Brewery",
+      "homeLocationId": "7007",
+      "percentile": 4.644337820841291,
+      "changeDisplay": "-3.0",
+      "changeClass": "change-negative"
+    }
+  ]
+}

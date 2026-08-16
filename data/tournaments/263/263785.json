@@ -1,0 +1,123 @@
+{
+  "tournamentId": 263785,
+  "name": "Finals for Atlas Premiär Second Chance",
+  "date": "2026-07-25",
+  "locationId": "13759",
+  "locationName": "Atlas",
+  "playerCount": 16,
+  "ratingsDate": "2026-07-25",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m42747",
+      "name": "Michael Carlsson",
+      "rating": 1620.4,
+      "dailyRatingChange": 6.22
+    },
+    {
+      "position": 2,
+      "playerId": "m15712",
+      "name": "Martin Arenlind",
+      "rating": 1660.63,
+      "dailyRatingChange": -12.72
+    },
+    {
+      "position": 3,
+      "playerId": "m3682",
+      "name": "Mats Sahlberg",
+      "rating": 1684.4,
+      "dailyRatingChange": -7.15
+    },
+    {
+      "position": 4,
+      "playerId": "m13693",
+      "name": "Magnus Lorentzon",
+      "rating": 1607.61,
+      "dailyRatingChange": 3.24
+    },
+    {
+      "position": 5,
+      "playerId": "m50572",
+      "name": "Tomas Olsson TOM",
+      "rating": 1559.95,
+      "dailyRatingChange": 0.89
+    },
+    {
+      "position": 5,
+      "playerId": "m8622",
+      "name": "Markus Hiltunen",
+      "rating": 1580.16,
+      "dailyRatingChange": -6.93
+    },
+    {
+      "position": 5,
+      "playerId": "m33911",
+      "name": "Andreas Säisä",
+      "rating": 1560.79,
+      "dailyRatingChange": 10.94
+    },
+    {
+      "position": 5,
+      "playerId": "m58162",
+      "name": "Jerry Rundwall",
+      "rating": 1447.92,
+      "dailyRatingChange": 24.59
+    },
+    {
+      "position": 9,
+      "playerId": "m14033",
+      "name": "Andreas Wesik",
+      "rating": 1588.4,
+      "dailyRatingChange": -24.47
+    },
+    {
+      "position": 9,
+      "playerId": "m3663",
+      "name": "Patrik Andersson",
+      "rating": 1564.93,
+      "dailyRatingChange": 1.39
+    },
+    {
+      "position": 9,
+      "playerId": "m3681",
+      "name": "Olle Strandh",
+      "rating": 1542.04,
+      "dailyRatingChange": 21.55
+    },
+    {
+      "position": 9,
+      "playerId": "m16668",
+      "name": "Kim G. Hansen",
+      "rating": 1680.35,
+      "dailyRatingChange": -5.9
+    },
+    {
+      "position": 9,
+      "playerId": "m48097",
+      "name": "Peter Lager",
+      "rating": 1477.3,
+      "dailyRatingChange": -8.54
+    },
+    {
+      "position": 9,
+      "playerId": "m608",
+      "name": "Anders Carlsson",
+      "rating": 1642.34,
+      "dailyRatingChange": -19.24
+    },
+    {
+      "position": 9,
+      "playerId": "m22828",
+      "name": "Kristoffer Pålsson",
+      "rating": 1731.32,
+      "dailyRatingChange": -11.43
+    },
+    {
+      "position": 9,
+      "playerId": "m14384",
+      "name": "Jan-Olof Bengtsson",
+      "rating": 1534.98,
+      "dailyRatingChange": -12.59
+    }
+  ]
+}

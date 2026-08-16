@@ -1,0 +1,102 @@
+{
+  "tournamentId": 259277,
+  "name": "MFLPinball Summer Season 26 #5",
+  "date": "2026-08-07",
+  "locationId": "6612",
+  "locationName": "Lynn's Arcade: A Pinball Parlor and Can Slangery",
+  "playerCount": 13,
+  "ratingsDate": "2026-08-07",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m2642",
+      "name": "Nikki Carmichael",
+      "rating": 1601.6,
+      "dailyRatingChange": 4.06
+    },
+    {
+      "position": 2,
+      "playerId": "m19871",
+      "name": "Melina Meltzer",
+      "rating": 1508.92,
+      "dailyRatingChange": 4.86
+    },
+    {
+      "position": 2,
+      "playerId": "m4762",
+      "name": "Sneha Kolar",
+      "rating": 1508.1,
+      "dailyRatingChange": 3.89
+    },
+    {
+      "position": 2,
+      "playerId": "m39871",
+      "name": "Jenni Honka",
+      "rating": 1525.04,
+      "dailyRatingChange": 3.26
+    },
+    {
+      "position": 5,
+      "playerId": "m183502",
+      "name": "Aria Garcia",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 6,
+      "playerId": "m10235",
+      "name": "BeeOtch Westrum",
+      "rating": 1580.63,
+      "dailyRatingChange": -1.96
+    },
+    {
+      "position": 6,
+      "playerId": "m25049",
+      "name": "Amy Wolfrum",
+      "rating": 1570.33,
+      "dailyRatingChange": -4.2
+    },
+    {
+      "position": 8,
+      "playerId": "m23841",
+      "name": "Brianne Berlin",
+      "rating": 1526.93,
+      "dailyRatingChange": -1.29
+    },
+    {
+      "position": 9,
+      "playerId": "m33700",
+      "name": "Terrie White",
+      "rating": 1497.18,
+      "dailyRatingChange": -0.26
+    },
+    {
+      "position": 10,
+      "playerId": "m20363",
+      "name": "Linda G",
+      "rating": 1484.13,
+      "dailyRatingChange": -0.69
+    },
+    {
+      "position": 10,
+      "playerId": "m24825",
+      "name": "Carlene Malack",
+      "rating": 1478.8,
+      "dailyRatingChange": -2.29
+    },
+    {
+      "position": 12,
+      "playerId": "m254389",
+      "name": "Danica Delsman",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 13,
+      "playerId": "m450053",
+      "name": "Julia Payne",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

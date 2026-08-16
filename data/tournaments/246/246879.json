@@ -1,0 +1,193 @@
+{
+  "tournamentId": 246879,
+  "name": "FPPL - Season 20 - Richardson #8",
+  "date": "2026-07-23",
+  "locationId": "9397",
+  "locationName": "Free Play Arcade",
+  "playerCount": 26,
+  "ratingsDate": "2026-07-23",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m21313",
+      "name": "Sarah Moore",
+      "rating": 1502.6,
+      "dailyRatingChange": 22.23
+    },
+    {
+      "position": 1,
+      "playerId": "m17459",
+      "name": "Les Kallestad",
+      "rating": 1767.66,
+      "dailyRatingChange": 17.36
+    },
+    {
+      "position": 3,
+      "playerId": "m44081",
+      "name": "Athena Coplin",
+      "rating": 1657.92,
+      "dailyRatingChange": 7.44
+    },
+    {
+      "position": 4,
+      "playerId": "m33469",
+      "name": "Jayson Limmer TW",
+      "rating": 1569.3,
+      "dailyRatingChange": 0.71
+    },
+    {
+      "position": 5,
+      "playerId": "m37943",
+      "name": "Chase Clinton",
+      "rating": 1570.98,
+      "dailyRatingChange": 8.61
+    },
+    {
+      "position": 6,
+      "playerId": "m1250",
+      "name": "Scott Martin",
+      "rating": 1476,
+      "dailyRatingChange": 1.85
+    },
+    {
+      "position": 6,
+      "playerId": "m488238",
+      "name": "Ed Pan",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 6,
+      "playerId": "m53506",
+      "name": "Bridell Miers",
+      "rating": 1491.97,
+      "dailyRatingChange": 16.2
+    },
+    {
+      "position": 9,
+      "playerId": "m19204",
+      "name": "Colin Wood",
+      "rating": 1565.97,
+      "dailyRatingChange": 3.58
+    },
+    {
+      "position": 9,
+      "playerId": "m28603",
+      "name": "Greg Gibson",
+      "rating": 1680.44,
+      "dailyRatingChange": 3.97
+    },
+    {
+      "position": 11,
+      "playerId": "m45900",
+      "name": "Lizz Espinosa",
+      "rating": 1375.59,
+      "dailyRatingChange": 16.19
+    },
+    {
+      "position": 11,
+      "playerId": "m30710",
+      "name": "Andres Beteta",
+      "rating": 1618.17,
+      "dailyRatingChange": 2.92
+    },
+    {
+      "position": 13,
+      "playerId": "m45709",
+      "name": "Kaitlyn Coplin",
+      "rating": 1541.57,
+      "dailyRatingChange": -3.76
+    },
+    {
+      "position": 13,
+      "playerId": "m58482",
+      "name": "Joey Hamad",
+      "rating": 1514.03,
+      "dailyRatingChange": -0.85
+    },
+    {
+      "position": 15,
+      "playerId": "i158674",
+      "name": "Ash Cordova",
+      "rating": 1439.1,
+      "dailyRatingChange": -9.44
+    },
+    {
+      "position": 15,
+      "playerId": "m61563",
+      "name": "Nova",
+      "rating": 1432.69,
+      "dailyRatingChange": -6.36
+    },
+    {
+      "position": 17,
+      "playerId": "m52551",
+      "name": "JohnLee Miers",
+      "rating": 1529.78,
+      "dailyRatingChange": -11.39
+    },
+    {
+      "position": 17,
+      "playerId": "m49342",
+      "name": "Autumn Hargett",
+      "rating": 1487.61,
+      "dailyRatingChange": -2.13
+    },
+    {
+      "position": 19,
+      "playerId": "m42257",
+      "name": "Daniel Bussell",
+      "rating": 1450.02,
+      "dailyRatingChange": -7.35
+    },
+    {
+      "position": 19,
+      "playerId": "m56899",
+      "name": "Sloan Iverson",
+      "rating": 1396.22,
+      "dailyRatingChange": -6.2
+    },
+    {
+      "position": 19,
+      "playerId": "m62188",
+      "name": "Fanzo G",
+      "rating": 1442.17,
+      "dailyRatingChange": null
+    },
+    {
+      "position": 22,
+      "playerId": "m43802",
+      "name": "Phil Robertson",
+      "rating": 1640.85,
+      "dailyRatingChange": -5.86
+    },
+    {
+      "position": 22,
+      "playerId": "m52637",
+      "name": "Greg Girkin",
+      "rating": 1505.22,
+      "dailyRatingChange": -4.49
+    },
+    {
+      "position": 24,
+      "playerId": "m25046",
+      "name": "Spencer Hellyer",
+      "rating": 1660.01,
+      "dailyRatingChange": -16.56
+    },
+    {
+      "position": 24,
+      "playerId": "m55537",
+      "name": "Kyle Norman",
+      "rating": 1455.36,
+      "dailyRatingChange": -9.16
+    },
+    {
+      "position": 24,
+      "playerId": "m49338",
+      "name": "Darian Fazeli",
+      "rating": 1342.71,
+      "dailyRatingChange": -8.43
+    }
+  ]
+}

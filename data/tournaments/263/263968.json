@@ -1,0 +1,88 @@
+{
+  "tournamentId": 263968,
+  "name": "Bizarre Entertainment Masters Champion 25/26",
+  "date": "2026-07-31",
+  "locationId": "10239",
+  "locationName": "Bizarre Entertainment",
+  "playerCount": 11,
+  "ratingsDate": "2026-07-31",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m42135",
+      "name": "Trevor Hamre",
+      "rating": 1679.28,
+      "dailyRatingChange": 6.68
+    },
+    {
+      "position": 2,
+      "playerId": "i127664",
+      "name": "Bruenor Hamre",
+      "rating": 1631.11,
+      "dailyRatingChange": -4.38
+    },
+    {
+      "position": 3,
+      "playerId": "m482848",
+      "name": "Bryan Leary",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 3,
+      "playerId": "m56393",
+      "name": "Jessica Johnson",
+      "rating": 1507.45,
+      "dailyRatingChange": 31.36
+    },
+    {
+      "position": 5,
+      "playerId": "m45383",
+      "name": "Bill Johnson",
+      "rating": 1558.22,
+      "dailyRatingChange": -4.34
+    },
+    {
+      "position": 6,
+      "playerId": "m45380",
+      "name": "James Bjarnason",
+      "rating": 1574.92,
+      "dailyRatingChange": -4.93
+    },
+    {
+      "position": 6,
+      "playerId": "m418711",
+      "name": "Gabriel Fracassi",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 8,
+      "playerId": "m50742",
+      "name": "Kuljit Jaswal",
+      "rating": 1519.07,
+      "dailyRatingChange": -3.63
+    },
+    {
+      "position": 9,
+      "playerId": "i128543",
+      "name": "Nathan Lacoursiere",
+      "rating": 1573.8,
+      "dailyRatingChange": -22.9
+    },
+    {
+      "position": 10,
+      "playerId": "m430696",
+      "name": "Zayden Ball",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 11,
+      "playerId": "m540313",
+      "name": "David Marulanda",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

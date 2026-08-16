@@ -1,0 +1,40 @@
+{
+  "locationId": "8818",
+  "venueName": "Blainbrook Bowl",
+  "venueAddress": "12000 Central Ave NE Blaine, MN",
+  "tournaments": [
+    {
+      "id": 266061,
+      "name": "August PinGolf",
+      "date": "8/8/2026",
+      "playerCount": 8,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m5091",
+          "name": "Trevor Klungseth",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m58722",
+          "name": "Bryson Stohr",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m1387",
+          "name": "Matt Stohr",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m19736",
+          "name": "Josh Anderson MN",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

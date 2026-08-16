@@ -1,0 +1,102 @@
+{
+  "tournamentId": 265503,
+  "name": "Three Strike - XXX Tuesday (08/04)",
+  "date": "2026-08-05",
+  "locationId": "11888",
+  "locationName": "The Game Preserve",
+  "playerCount": 13,
+  "ratingsDate": "2026-08-05",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m3535",
+      "name": "Nicholas Gustafson",
+      "rating": 1693.89,
+      "dailyRatingChange": 1.31
+    },
+    {
+      "position": 2,
+      "playerId": "m25138",
+      "name": "Daniel Koba",
+      "rating": 1568.42,
+      "dailyRatingChange": 9.46
+    },
+    {
+      "position": 3,
+      "playerId": "m855",
+      "name": "David Pollock",
+      "rating": 1599,
+      "dailyRatingChange": 2.01
+    },
+    {
+      "position": 4,
+      "playerId": "m18425",
+      "name": "Cameron Warren",
+      "rating": 1624.81,
+      "dailyRatingChange": -3.23
+    },
+    {
+      "position": 5,
+      "playerId": "m45625",
+      "name": "Stephanie Manley",
+      "rating": 1452.28,
+      "dailyRatingChange": 2.15
+    },
+    {
+      "position": 6,
+      "playerId": "m2038",
+      "name": "Edward Chavez ⚓️",
+      "rating": 1533.06,
+      "dailyRatingChange": 0.28
+    },
+    {
+      "position": 6,
+      "playerId": "m51098",
+      "name": "Caroline Guevara",
+      "rating": 1413.02,
+      "dailyRatingChange": 4.95
+    },
+    {
+      "position": 8,
+      "playerId": "m10604",
+      "name": "Hunter Reed",
+      "rating": 1640.7,
+      "dailyRatingChange": -5.05
+    },
+    {
+      "position": 8,
+      "playerId": "m235032",
+      "name": "Noah Koba",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 10,
+      "playerId": "m34714",
+      "name": "Kyrra Warren",
+      "rating": 1545.05,
+      "dailyRatingChange": -11.49
+    },
+    {
+      "position": 11,
+      "playerId": "m21674",
+      "name": "Richard Thrash",
+      "rating": 1531.2,
+      "dailyRatingChange": -7.04
+    },
+    {
+      "position": 11,
+      "playerId": "m47808",
+      "name": "Carlos S Garcia",
+      "rating": 1357.62,
+      "dailyRatingChange": -2.49
+    },
+    {
+      "position": 13,
+      "playerId": "i93351",
+      "name": "Thomas Bernard",
+      "rating": 1409.51,
+      "dailyRatingChange": -7.55
+    }
+  ]
+}

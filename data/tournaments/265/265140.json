@@ -1,0 +1,144 @@
+{
+  "tournamentId": 265140,
+  "name": "LB Pinball League Season #26- D3 Finals",
+  "date": "2026-08-02",
+  "locationId": "10114",
+  "locationName": "Long Beach Beer Lab",
+  "playerCount": 19,
+  "ratingsDate": "2026-08-02",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m31559",
+      "name": "David Guppenberger",
+      "rating": 1545.64,
+      "dailyRatingChange": 5.3
+    },
+    {
+      "position": 2,
+      "playerId": "m50079",
+      "name": "Joe Stevens",
+      "rating": 1547,
+      "dailyRatingChange": 6.76
+    },
+    {
+      "position": 3,
+      "playerId": "i118848",
+      "name": "Ralph Lopez",
+      "rating": 1408.92,
+      "dailyRatingChange": 58.74
+    },
+    {
+      "position": 4,
+      "playerId": "m35940",
+      "name": "Amanda Little",
+      "rating": 1517.51,
+      "dailyRatingChange": 3.66
+    },
+    {
+      "position": 5,
+      "playerId": "m26155",
+      "name": "Jason DuVall",
+      "rating": 1565.21,
+      "dailyRatingChange": -0.14
+    },
+    {
+      "position": 6,
+      "playerId": "m25304",
+      "name": "Matthew Luis",
+      "rating": 1559.71,
+      "dailyRatingChange": -4.63
+    },
+    {
+      "position": 7,
+      "playerId": "i125787",
+      "name": "Heidi Pena",
+      "rating": 1324.86,
+      "dailyRatingChange": 6.86
+    },
+    {
+      "position": 8,
+      "playerId": "i126435",
+      "name": "Dylan Buker",
+      "rating": 1331.9,
+      "dailyRatingChange": 8.38
+    },
+    {
+      "position": 8,
+      "playerId": "m29700",
+      "name": "RJ Blaze",
+      "rating": 1444.1,
+      "dailyRatingChange": -1.48
+    },
+    {
+      "position": 8,
+      "playerId": "m40942",
+      "name": "Elena Kingston",
+      "rating": 1423.86,
+      "dailyRatingChange": 0.49
+    },
+    {
+      "position": 11,
+      "playerId": "m51116",
+      "name": "Steven Collins",
+      "rating": 1384.31,
+      "dailyRatingChange": -0.22
+    },
+    {
+      "position": 12,
+      "playerId": "m38024",
+      "name": "Erin Buker",
+      "rating": 1387.31,
+      "dailyRatingChange": 3.42
+    },
+    {
+      "position": 13,
+      "playerId": "m51115",
+      "name": "Lesley Collins",
+      "rating": 1345.29,
+      "dailyRatingChange": -0.5
+    },
+    {
+      "position": 13,
+      "playerId": "m41590",
+      "name": "Alan Paz",
+      "rating": 1504.18,
+      "dailyRatingChange": -12.22
+    },
+    {
+      "position": 13,
+      "playerId": "m26116",
+      "name": "Joe Pena",
+      "rating": 1532.09,
+      "dailyRatingChange": -9.52
+    },
+    {
+      "position": 16,
+      "playerId": "m50172",
+      "name": "Laura Schofield",
+      "rating": 1325.6,
+      "dailyRatingChange": -12.14
+    },
+    {
+      "position": 17,
+      "playerId": "i126438",
+      "name": "Seton Buker",
+      "rating": 1209.89,
+      "dailyRatingChange": -3.18
+    },
+    {
+      "position": 17,
+      "playerId": "m29970",
+      "name": "Les Kiesow",
+      "rating": 1483.89,
+      "dailyRatingChange": -18.2
+    },
+    {
+      "position": 19,
+      "playerId": "m572473",
+      "name": "Jiyeon Kim",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

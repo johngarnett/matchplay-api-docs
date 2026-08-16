@@ -1,0 +1,88 @@
+{
+  "tournamentId": 258990,
+  "name": "Dropping Elbow's & Flipping Balls @ElbowRoom (25 July 2026)",
+  "date": "2026-07-25",
+  "locationId": "11397",
+  "locationName": "Elbow Room",
+  "playerCount": 11,
+  "ratingsDate": "2026-07-25",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m1468",
+      "name": "Mark Skoff",
+      "rating": 1698.8,
+      "dailyRatingChange": 12.99
+    },
+    {
+      "position": 2,
+      "playerId": "m37852",
+      "name": "Daniela Sonnino",
+      "rating": 1581.89,
+      "dailyRatingChange": 20.06
+    },
+    {
+      "position": 3,
+      "playerId": "m11029",
+      "name": "Michael LaFrieda",
+      "rating": 1652.47,
+      "dailyRatingChange": 7.39
+    },
+    {
+      "position": 4,
+      "playerId": "i138315",
+      "name": "Ray Behney",
+      "rating": 1480.78,
+      "dailyRatingChange": 10.21
+    },
+    {
+      "position": 5,
+      "playerId": "m50326",
+      "name": "Patrick Heath",
+      "rating": 1595.68,
+      "dailyRatingChange": -4.13
+    },
+    {
+      "position": 6,
+      "playerId": "i123584",
+      "name": "Jame Linker",
+      "rating": 1538.54,
+      "dailyRatingChange": 1.22
+    },
+    {
+      "position": 7,
+      "playerId": "m11059",
+      "name": "Rhiannon Box",
+      "rating": 1525.72,
+      "dailyRatingChange": -4.17
+    },
+    {
+      "position": 8,
+      "playerId": "m30230",
+      "name": "Aaron Johnston NV",
+      "rating": 1549.45,
+      "dailyRatingChange": -6.39
+    },
+    {
+      "position": 9,
+      "playerId": "m27354",
+      "name": "Tammy Thiel",
+      "rating": 1575.01,
+      "dailyRatingChange": -12.69
+    },
+    {
+      "position": 10,
+      "playerId": "m581894",
+      "name": "Jared Linker",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 11,
+      "playerId": "m59892",
+      "name": "Craig Andersen",
+      "rating": 1419,
+      "dailyRatingChange": -15.95
+    }
+  ]
+}

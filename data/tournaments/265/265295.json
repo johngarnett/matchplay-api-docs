@@ -1,0 +1,46 @@
+{
+  "tournamentId": 265295,
+  "name": "Summer Selfie Finals - B Division",
+  "date": "2026-08-08",
+  "locationId": "10180",
+  "locationName": "Pinball Planet",
+  "playerCount": 5,
+  "ratingsDate": "2026-08-08",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m34177",
+      "name": "Mark Dunlevy",
+      "rating": 1533.63,
+      "dailyRatingChange": 11.31
+    },
+    {
+      "position": 2,
+      "playerId": "m43715",
+      "name": "Wayne Guk",
+      "rating": 1507.75,
+      "dailyRatingChange": -2.78
+    },
+    {
+      "position": 2,
+      "playerId": "m33223",
+      "name": "Jill Grunenwald",
+      "rating": 1521.15,
+      "dailyRatingChange": -0.61
+    },
+    {
+      "position": 4,
+      "playerId": "m27715",
+      "name": "Danette Naftanel",
+      "rating": 1431.62,
+      "dailyRatingChange": 6.7
+    },
+    {
+      "position": 5,
+      "playerId": "m26586",
+      "name": "Mark Houghton",
+      "rating": 1540.85,
+      "dailyRatingChange": -10.12
+    }
+  ]
+}

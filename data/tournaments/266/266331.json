@@ -1,0 +1,67 @@
+{
+  "tournamentId": 266331,
+  "name": "B & C OTP Weekly! 8/11/26",
+  "date": "2026-08-12",
+  "locationId": "10768",
+  "locationName": "Melt Yard",
+  "playerCount": 8,
+  "ratingsDate": "2026-08-12",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m47812",
+      "name": "Sarah Warlick",
+      "rating": 1565.81,
+      "dailyRatingChange": 8.21
+    },
+    {
+      "position": 2,
+      "playerId": "m12619",
+      "name": "Meredith Pyle",
+      "rating": 1487.14,
+      "dailyRatingChange": 2.3
+    },
+    {
+      "position": 2,
+      "playerId": "m32124",
+      "name": "Marisa Amick",
+      "rating": 1516.87,
+      "dailyRatingChange": -0.27
+    },
+    {
+      "position": 4,
+      "playerId": "m37504",
+      "name": "Katie Williams",
+      "rating": 1538.72,
+      "dailyRatingChange": -4.06
+    },
+    {
+      "position": 4,
+      "playerId": "m29960",
+      "name": "Jessie Ross",
+      "rating": 1476.7,
+      "dailyRatingChange": 1.21
+    },
+    {
+      "position": 6,
+      "playerId": "m19178",
+      "name": "Rebecca Bockman",
+      "rating": 1444.03,
+      "dailyRatingChange": -1.11
+    },
+    {
+      "position": 7,
+      "playerId": "m8193",
+      "name": "Lisa Cox",
+      "rating": 1454.01,
+      "dailyRatingChange": -2.95
+    },
+    {
+      "position": 8,
+      "playerId": "m26883",
+      "name": "Suzanne Boeren",
+      "rating": 1404.47,
+      "dailyRatingChange": -4.67
+    }
+  ]
+}

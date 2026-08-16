@@ -1,0 +1,40 @@
+{
+  "locationId": "10226",
+  "venueName": "Side Quest Arcade",
+  "venueAddress": "430 Winecup Way, Garland, TX 75040, US",
+  "tournaments": [
+    {
+      "id": 263950,
+      "name": "Side Quest Pinball Monthly - July Double Elimination Bracket",
+      "date": "7/26/2026",
+      "playerCount": 7,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m3499",
+          "name": "Mark Beardsley",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m61329",
+          "name": "Jeremy Wickett",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m33469",
+          "name": "Jayson Limmer TW",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "p581256",
+          "name": "Gabe A",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

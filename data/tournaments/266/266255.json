@@ -1,0 +1,74 @@
+{
+  "tournamentId": 266255,
+  "name": "DFW Belles & Chimes Women's Pinball Second Sunday August 2026",
+  "date": "2026-08-09",
+  "locationId": "8325",
+  "locationName": "Kevin Moore's Collection",
+  "playerCount": 9,
+  "ratingsDate": "2026-08-09",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m35805",
+      "name": "Brittany Parker",
+      "rating": 1510.55,
+      "dailyRatingChange": 30.97
+    },
+    {
+      "position": 2,
+      "playerId": "m24285",
+      "name": "Diana Gutierrez",
+      "rating": 1468.18,
+      "dailyRatingChange": 21.71
+    },
+    {
+      "position": 3,
+      "playerId": "m21048",
+      "name": "Summer Armistead",
+      "rating": 1572.71,
+      "dailyRatingChange": -3.46
+    },
+    {
+      "position": 4,
+      "playerId": "m8328",
+      "name": "Sandra Hegeman",
+      "rating": 1481.14,
+      "dailyRatingChange": 6.02
+    },
+    {
+      "position": 5,
+      "playerId": "m1945",
+      "name": "Lora Tennison",
+      "rating": 1546.91,
+      "dailyRatingChange": -2.84
+    },
+    {
+      "position": 6,
+      "playerId": "i55200",
+      "name": "Nicole Webb",
+      "rating": 1457.15,
+      "dailyRatingChange": 11.54
+    },
+    {
+      "position": 7,
+      "playerId": "m39140",
+      "name": "Yeg Ghodsi",
+      "rating": 1519.15,
+      "dailyRatingChange": -18.25
+    },
+    {
+      "position": 8,
+      "playerId": "m22831",
+      "name": "April Kemp",
+      "rating": 1484.13,
+      "dailyRatingChange": -10.28
+    },
+    {
+      "position": 9,
+      "playerId": "m366653",
+      "name": "Charlie Gutierrez",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

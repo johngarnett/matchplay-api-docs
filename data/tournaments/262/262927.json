@@ -1,0 +1,102 @@
+{
+  "tournamentId": 262927,
+  "name": "Still drunk Sunday #2",
+  "date": "2026-07-20",
+  "locationId": "9576",
+  "locationName": "The Kraken Bar & Lounge",
+  "playerCount": 13,
+  "ratingsDate": "2026-07-20",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m32357",
+      "name": "Matt Ramey",
+      "rating": 1547.5,
+      "dailyRatingChange": 3.84
+    },
+    {
+      "position": 2,
+      "playerId": "m32272",
+      "name": "Hunter Vogt",
+      "rating": 1530.21,
+      "dailyRatingChange": 0.03
+    },
+    {
+      "position": 3,
+      "playerId": "m28825",
+      "name": "Ben Fodor",
+      "rating": 1526.99,
+      "dailyRatingChange": 2.09
+    },
+    {
+      "position": 4,
+      "playerId": "m15643",
+      "name": "Daniel Mays",
+      "rating": 1519.15,
+      "dailyRatingChange": 5.56
+    },
+    {
+      "position": 5,
+      "playerId": "m17637",
+      "name": "Elliott Johnson",
+      "rating": 1557.14,
+      "dailyRatingChange": -4.76
+    },
+    {
+      "position": 6,
+      "playerId": "m23211",
+      "name": "Misha Alexeeff",
+      "rating": 1565.82,
+      "dailyRatingChange": -0.51
+    },
+    {
+      "position": 6,
+      "playerId": "m50378",
+      "name": "Saraphine",
+      "rating": 1511.19,
+      "dailyRatingChange": null
+    },
+    {
+      "position": 8,
+      "playerId": "m56155",
+      "name": "Sammi snyder",
+      "rating": 1475.13,
+      "dailyRatingChange": -0.92
+    },
+    {
+      "position": 8,
+      "playerId": "m33370",
+      "name": "Sarah Munden",
+      "rating": 1466.74,
+      "dailyRatingChange": -1.88
+    },
+    {
+      "position": 8,
+      "playerId": "m37860",
+      "name": "Canyon Mosely",
+      "rating": 1590.98,
+      "dailyRatingChange": -1.47
+    },
+    {
+      "position": 11,
+      "playerId": "m55225",
+      "name": "Vincent iannucci",
+      "rating": 1433.89,
+      "dailyRatingChange": -0.39
+    },
+    {
+      "position": 11,
+      "playerId": "m57604",
+      "name": "Jon-Kiefer Bowne",
+      "rating": 1395.84,
+      "dailyRatingChange": -2.43
+    },
+    {
+      "position": 13,
+      "playerId": "m38898",
+      "name": "Robert Mitchell",
+      "rating": 1357.51,
+      "dailyRatingChange": -12.34
+    }
+  ]
+}

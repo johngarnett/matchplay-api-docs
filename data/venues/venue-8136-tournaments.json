@@ -1,0 +1,85 @@
+{
+  "locationId": "8136",
+  "venueName": "Beachwood Brewing",
+  "venueAddress": "3630 Atlantic Avenue, Long Beach, CA 90807, US",
+  "tournaments": [
+    {
+      "id": 265896,
+      "name": "Pinball Wizards LB x Beachwood Season 15 #1",
+      "date": "8/6/2026",
+      "playerCount": 6,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m12249",
+          "name": "Brian Bell",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 1,
+          "playerId": "m35442",
+          "name": "Brian Dreebin",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m42431",
+          "name": "Sergio Puentes",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m40507",
+          "name": "Kristian Dougherty",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "p545245",
+          "name": "Brian Puentes",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m36035",
+          "name": "Robin Craigen",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 263459,
+      "name": "Pinball Wizards LB x Beachwood Season 14 #6",
+      "date": "7/23/2026",
+      "playerCount": 22,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m36035",
+          "name": "Robin Craigen",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m49252",
+          "name": "Jason Solomon",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m34576",
+          "name": "Carl Alvarez",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "i112432",
+          "name": "Patti Fleetwood",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

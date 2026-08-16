@@ -1,0 +1,81 @@
+{
+  "tournamentId": 264683,
+  "name": "The Real Joy Division Finals for League Super Awesome Season 41 (clone)",
+  "date": "2026-07-31",
+  "locationId": "7941",
+  "locationName": "Heart State Brewing",
+  "playerCount": 10,
+  "ratingsDate": "2026-07-31",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m343",
+      "name": "John Geiger",
+      "rating": 1575.01,
+      "dailyRatingChange": 14.72
+    },
+    {
+      "position": 2,
+      "playerId": "m7508",
+      "name": "tyler trollinger",
+      "rating": 1555.2,
+      "dailyRatingChange": 0.94
+    },
+    {
+      "position": 3,
+      "playerId": "m3320",
+      "name": "Ryan Butke",
+      "rating": 1554.7,
+      "dailyRatingChange": 2.45
+    },
+    {
+      "position": 4,
+      "playerId": "m4459",
+      "name": "Lucas Berger",
+      "rating": 1587.03,
+      "dailyRatingChange": -0.67
+    },
+    {
+      "position": 5,
+      "playerId": "m7214",
+      "name": "Brad Hengehold",
+      "rating": 1436.66,
+      "dailyRatingChange": 3.3
+    },
+    {
+      "position": 5,
+      "playerId": "m50988",
+      "name": "David Lawson",
+      "rating": 1513.11,
+      "dailyRatingChange": -0.44
+    },
+    {
+      "position": 7,
+      "playerId": "m3361",
+      "name": "Joe Banner",
+      "rating": 1564.36,
+      "dailyRatingChange": -4.03
+    },
+    {
+      "position": 7,
+      "playerId": "m5080",
+      "name": "Scott Vieth",
+      "rating": 1466.95,
+      "dailyRatingChange": -1.36
+    },
+    {
+      "position": 9,
+      "playerId": "m46962",
+      "name": "Cole Wojdacz",
+      "rating": 1387.53,
+      "dailyRatingChange": -2.53
+    },
+    {
+      "position": 9,
+      "playerId": "m7534",
+      "name": "Jared Mayercin",
+      "rating": 1505.84,
+      "dailyRatingChange": -7.34
+    }
+  ]
+}

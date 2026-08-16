@@ -1,0 +1,335 @@
+{
+  "locationId": "1917",
+  "name": "FlippArena Vöcklabruck",
+  "address": "5 Vornbuch, Vornbuch, Oberösterreich, 4840, AT",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 22,
+  "relatedVenues": [
+    {
+      "locationId": "12484",
+      "name": "FlippArena Gisseltshausen",
+      "address": "Pfeffenhausener Straße 8a, 84056 Rottenburg",
+      "count": 12
+    },
+    {
+      "locationId": "3970",
+      "name": "Flippnic",
+      "address": "Badendorf 12b, 8413 Badendorf, Austria",
+      "count": 9
+    },
+    {
+      "locationId": "8617",
+      "name": "Biljardna Hisa Ljubljana - Slovenska",
+      "address": "Slovenska 58, 1000 Ljubljana",
+      "count": 6
+    },
+    {
+      "locationId": "8633",
+      "name": "The Basement: Toledo’s Pinball Pub",
+      "address": "4311 Heatherdowns Blvd. Toledo, OH 43614",
+      "count": 4
+    },
+    {
+      "locationId": "9256",
+      "name": "VFR - Verein Flipper Rebläuse - Auersthal",
+      "address": "Wunderberg 79",
+      "count": 4
+    },
+    {
+      "locationId": "5915",
+      "name": "Flipperkeller Landshut",
+      "address": "Dekan-Wagner-Straße 3A, 84032 Altdorf, Deutschland",
+      "count": 3
+    },
+    {
+      "locationId": "1451",
+      "name": "Wizard's World",
+      "address": "14613 Lima Rd, Fort Wayne, IN 46818, USA",
+      "count": 2
+    },
+    {
+      "locationId": "9461",
+      "name": "FlipperFreunde Fellbach e.V.",
+      "address": "",
+      "count": 2
+    },
+    {
+      "locationId": "11714",
+      "name": "Ballester Pinball Club",
+      "address": "Junín 3564, B1653 Villa Ballester, Provincia de Buenos Aires",
+      "count": 2
+    },
+    {
+      "locationId": "6467",
+      "name": "Peluche Resto Bar",
+      "address": "av libertador 2626 victoria buenos aires argentina",
+      "count": 1
+    }
+  ],
+  "players": [
+    {
+      "id": "m21174",
+      "name": "Abraham Siedler",
+      "rating": 1697.22,
+      "rd": 21.42,
+      "ratingClass": "A",
+      "homeLocation": "FlippArena Gisseltshausen",
+      "homeLocationId": "12484",
+      "percentile": 96.42241580099687,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m5507",
+      "name": "Markus Ramsner",
+      "rating": 1693.97,
+      "rd": 27.92,
+      "ratingClass": "A",
+      "homeLocation": "FlippArena Vöcklabruck",
+      "homeLocationId": "1917",
+      "percentile": 96.20813341407742,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m8302",
+      "name": "Peter Kroiss",
+      "rating": 1677.23,
+      "rd": 24.9,
+      "ratingClass": "A",
+      "homeLocation": "Flippnic",
+      "homeLocationId": "3970",
+      "percentile": 94.87119765221037,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m28071",
+      "name": "Helmut Lechner",
+      "rating": 1594,
+      "rd": 29.68,
+      "ratingClass": "B",
+      "homeLocation": "Flippnic",
+      "homeLocationId": "3970",
+      "percentile": 80.55620254343877,
+      "changeDisplay": "+10.8",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m6301",
+      "name": "Stefan Riedler",
+      "rating": 1587.6,
+      "rd": 28.08,
+      "ratingClass": "B",
+      "homeLocation": "FlippArena Vöcklabruck",
+      "homeLocationId": "1917",
+      "percentile": 78.7907020077328,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i158869",
+      "name": "Marco Gräfenhahn",
+      "rating": 1570.51,
+      "rd": 53.5,
+      "ratingClass": "B",
+      "homeLocation": "FlippArena Vöcklabruck",
+      "homeLocationId": "1917",
+      "percentile": 73.66189965994316,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m29131",
+      "name": "Florian Hopfgartner",
+      "rating": 1559.28,
+      "rd": 29.41,
+      "ratingClass": "B",
+      "homeLocation": "FlippArena Gisseltshausen",
+      "homeLocationId": "12484",
+      "percentile": 70.08897377369917,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m7402",
+      "name": "Uwe Ramsner",
+      "rating": 1559.02,
+      "rd": 27.97,
+      "ratingClass": "B",
+      "homeLocation": "FlippArena Vöcklabruck",
+      "homeLocationId": "1917",
+      "percentile": 70.02375739507151,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m26427",
+      "name": "Lance Shepherd",
+      "rating": 1558.16,
+      "rd": 24.2,
+      "ratingClass": "B",
+      "homeLocation": "The Basement: Toledo’s Pinball Pub",
+      "homeLocationId": "8633",
+      "percentile": 69.75823356780174,
+      "changeDisplay": "+15.8",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m29915",
+      "name": "Kurt Ploier",
+      "rating": 1557.69,
+      "rd": 29.13,
+      "ratingClass": "B",
+      "homeLocation": "FlippArena Vöcklabruck",
+      "homeLocationId": "1917",
+      "percentile": 69.60450924675082,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m50826",
+      "name": "Sebastian Bustamante",
+      "rating": 1522.6,
+      "rd": 28.95,
+      "ratingClass": "B",
+      "homeLocation": "Ballester Pinball Club",
+      "homeLocationId": "11714",
+      "percentile": 56.17925187497088,
+      "changeDisplay": "+11.0",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m23883",
+      "name": "Sabine Ramsner",
+      "rating": 1513.81,
+      "rd": 28.43,
+      "ratingClass": "B",
+      "homeLocation": "FlippArena Vöcklabruck",
+      "homeLocationId": "1917",
+      "percentile": 52.70880886942749,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m24244",
+      "name": "Alexander Savel",
+      "rating": 1511.56,
+      "rd": 42.94,
+      "ratingClass": "B",
+      "homeLocation": "FlippArena Vöcklabruck",
+      "homeLocationId": "1917",
+      "percentile": 51.860995947267895,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m27208",
+      "name": "Reinhard Kremsmayr",
+      "rating": 1506.97,
+      "rd": 30.94,
+      "ratingClass": "B",
+      "homeLocation": "FlippArena Vöcklabruck",
+      "homeLocationId": "1917",
+      "percentile": 49.95108771602925,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m59933",
+      "name": "Johannes Spießberger",
+      "rating": 1473.49,
+      "rd": 31.38,
+      "ratingClass": "C",
+      "homeLocation": "FlippArena Vöcklabruck",
+      "homeLocationId": "1917",
+      "percentile": 36.27893976801602,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m59935",
+      "name": "Lukas Adler",
+      "rating": 1431.57,
+      "rd": 31.76,
+      "ratingClass": "C",
+      "homeLocation": "FlippArena Vöcklabruck",
+      "homeLocationId": "1917",
+      "percentile": 21.027623794661572,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i144066",
+      "name": "Anita weje",
+      "rating": 1420.6,
+      "rd": 54.57,
+      "ratingClass": "C",
+      "homeLocation": "FlippArena Vöcklabruck",
+      "homeLocationId": "1917",
+      "percentile": 17.79941305259235,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i144064",
+      "name": "Lars Rolf Weje",
+      "rating": 1410.56,
+      "rd": 54.59,
+      "ratingClass": "C",
+      "homeLocation": "FlippArena Vöcklabruck",
+      "homeLocationId": "1917",
+      "percentile": 15.214049471281502,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m8301",
+      "name": "Helmut Kröll",
+      "rating": 1369.91,
+      "rd": 54.58,
+      "ratingClass": "D",
+      "homeLocation": "FlippArena Vöcklabruck",
+      "homeLocationId": "1917",
+      "percentile": 6.670703871057902,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i133808",
+      "name": "Lukas Adler",
+      "rating": null,
+      "rd": null,
+      "ratingClass": "N/A",
+      "homeLocation": "FlippArena Vöcklabruck",
+      "homeLocationId": "1917",
+      "percentile": null,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i133807",
+      "name": "Johannes Spießberger",
+      "rating": null,
+      "rd": null,
+      "ratingClass": "N/A",
+      "homeLocation": "FlippArena Vöcklabruck",
+      "homeLocationId": "1917",
+      "percentile": null,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i94323",
+      "name": "Gerald Rottinger",
+      "rating": null,
+      "rd": null,
+      "ratingClass": "N/A",
+      "homeLocation": "FlippArena Vöcklabruck",
+      "homeLocationId": "1917",
+      "percentile": null,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

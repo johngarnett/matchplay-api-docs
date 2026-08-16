@@ -1,0 +1,249 @@
+{
+  "tournamentId": 262266,
+  "name": "Slap Save Saturday! The Harold Marathon!",
+  "date": "2026-08-08",
+  "locationId": "10768",
+  "locationName": "Melt Yard",
+  "playerCount": 34,
+  "ratingsDate": "2026-08-08",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m18890",
+      "name": "Turner Loflin",
+      "rating": 1736.04,
+      "dailyRatingChange": 5.99
+    },
+    {
+      "position": 2,
+      "playerId": "m10434",
+      "name": "Harold VanPatten",
+      "rating": 1687.42,
+      "dailyRatingChange": 4.31
+    },
+    {
+      "position": 3,
+      "playerId": "m24866",
+      "name": "Nick Wigley",
+      "rating": 1568.18,
+      "dailyRatingChange": 16.38
+    },
+    {
+      "position": 4,
+      "playerId": "m48384",
+      "name": "Jonathan Ziegler",
+      "rating": 1608.73,
+      "dailyRatingChange": 0.37
+    },
+    {
+      "position": 5,
+      "playerId": "m37504",
+      "name": "Katie Williams",
+      "rating": 1542.78,
+      "dailyRatingChange": 10.69
+    },
+    {
+      "position": 6,
+      "playerId": "m26348",
+      "name": "Tim Raulerson",
+      "rating": 1561.71,
+      "dailyRatingChange": 9.44
+    },
+    {
+      "position": 7,
+      "playerId": "m47812",
+      "name": "Sarah Warlick",
+      "rating": 1558.18,
+      "dailyRatingChange": 1.65
+    },
+    {
+      "position": 8,
+      "playerId": "m18621",
+      "name": "Jacob Gragg",
+      "rating": 1676.56,
+      "dailyRatingChange": -6.98
+    },
+    {
+      "position": 8,
+      "playerId": "m36613",
+      "name": "David Boeren",
+      "rating": 1559.75,
+      "dailyRatingChange": 0.74
+    },
+    {
+      "position": 8,
+      "playerId": "m21393",
+      "name": "Charlie Gehring",
+      "rating": 1579.74,
+      "dailyRatingChange": 0.53
+    },
+    {
+      "position": 8,
+      "playerId": "m45958",
+      "name": "R J",
+      "rating": 1583.09,
+      "dailyRatingChange": 6.67
+    },
+    {
+      "position": 8,
+      "playerId": "m25698",
+      "name": "Andy Kastelik",
+      "rating": 1580.29,
+      "dailyRatingChange": -0.15
+    },
+    {
+      "position": 8,
+      "playerId": "m57431",
+      "name": "Gabe P.C.",
+      "rating": 1508.98,
+      "dailyRatingChange": 5.24
+    },
+    {
+      "position": 14,
+      "playerId": "m532555",
+      "name": "Derek Mclauthlin",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 14,
+      "playerId": "m34341",
+      "name": "Curtis Allen",
+      "rating": 1562.65,
+      "dailyRatingChange": -1.6
+    },
+    {
+      "position": 14,
+      "playerId": "m42478",
+      "name": "AJ Snyder",
+      "rating": 1590.51,
+      "dailyRatingChange": -1.52
+    },
+    {
+      "position": 14,
+      "playerId": "m37571",
+      "name": "Erika Howe",
+      "rating": 1475.31,
+      "dailyRatingChange": 3.51
+    },
+    {
+      "position": 14,
+      "playerId": "m818",
+      "name": "Charlie Gehlhaus",
+      "rating": 1612.71,
+      "dailyRatingChange": -0.54
+    },
+    {
+      "position": 19,
+      "playerId": "m37505",
+      "name": "Malachi Taylor",
+      "rating": 1380.44,
+      "dailyRatingChange": 6.44
+    },
+    {
+      "position": 19,
+      "playerId": "m51976",
+      "name": "Taylor Arnold",
+      "rating": 1484.96,
+      "dailyRatingChange": 1.04
+    },
+    {
+      "position": 21,
+      "playerId": "m43993",
+      "name": "Christian Artieda Martinez",
+      "rating": 1585.7,
+      "dailyRatingChange": -6.43
+    },
+    {
+      "position": 21,
+      "playerId": "m33106",
+      "name": "Marcus Amick",
+      "rating": 1554.18,
+      "dailyRatingChange": -3.63
+    },
+    {
+      "position": 21,
+      "playerId": "m57433",
+      "name": "Elaine Tyner",
+      "rating": 1543.1,
+      "dailyRatingChange": -2.48
+    },
+    {
+      "position": 24,
+      "playerId": "m585515",
+      "name": "Bryan Hernandez",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 24,
+      "playerId": "m25929",
+      "name": "Wes Bramlett",
+      "rating": 1575.91,
+      "dailyRatingChange": -6.32
+    },
+    {
+      "position": 24,
+      "playerId": "m3301",
+      "name": "Tina Park",
+      "rating": 1425.42,
+      "dailyRatingChange": -0.68
+    },
+    {
+      "position": 27,
+      "playerId": "m52003",
+      "name": "Wesley Arnold",
+      "rating": 1491.75,
+      "dailyRatingChange": -3.78
+    },
+    {
+      "position": 27,
+      "playerId": "m3389",
+      "name": "Alberto Luna",
+      "rating": 1525.4,
+      "dailyRatingChange": -9.96
+    },
+    {
+      "position": 27,
+      "playerId": "m27197",
+      "name": "Nanci Pantss-Wigley",
+      "rating": 1430.77,
+      "dailyRatingChange": -1.49
+    },
+    {
+      "position": 27,
+      "playerId": "m36019",
+      "name": "Cameron Bramlett",
+      "rating": 1585.3,
+      "dailyRatingChange": -10.67
+    },
+    {
+      "position": 27,
+      "playerId": "m41599",
+      "name": "Suzi VanPatten",
+      "rating": 1311.67,
+      "dailyRatingChange": 3.66
+    },
+    {
+      "position": 27,
+      "playerId": "m32124",
+      "name": "Marisa Amick",
+      "rating": 1517.14,
+      "dailyRatingChange": -5.28
+    },
+    {
+      "position": 33,
+      "playerId": "m56245",
+      "name": "Joe Minichowski",
+      "rating": 1516.71,
+      "dailyRatingChange": -10.17
+    },
+    {
+      "position": 34,
+      "playerId": "m58869",
+      "name": "Jenna Shippert",
+      "rating": 1387.52,
+      "dailyRatingChange": -11.74
+    }
+  ]
+}

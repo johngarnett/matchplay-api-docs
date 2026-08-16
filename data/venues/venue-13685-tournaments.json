@@ -1,0 +1,48 @@
+{
+  "locationId": "13685",
+  "venueName": "Faction Brewing",
+  "venueAddress": "2501 Monarch St, Alameda, CA 94501, US",
+  "tournaments": [
+    {
+      "id": 265048,
+      "name": "Leonard Margado Memorial Tournament (clone)",
+      "date": "8/1/2026",
+      "playerCount": 26,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m8569",
+          "name": "Ben Chen",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m18054",
+          "name": "Ralph Margado",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m35399",
+          "name": "Alex Cheng",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m30271",
+          "name": "Todd Caris",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 261231,
+      "name": "Leonard Margado Memorial Tournament",
+      "date": "8/1/2026",
+      "playerCount": 21,
+      "qualifying": null,
+      "standings": []
+    }
+  ]
+}

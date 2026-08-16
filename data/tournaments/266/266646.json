@@ -1,0 +1,53 @@
+{
+  "tournamentId": 266646,
+  "name": "Golden Bizarre Pinball Pubcrawl #14",
+  "date": "2026-08-12",
+  "locationId": "10239",
+  "locationName": "Bizarre Entertainment",
+  "playerCount": 6,
+  "ratingsDate": "2026-08-12",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m45380",
+      "name": "James Bjarnason",
+      "rating": 1591.09,
+      "dailyRatingChange": 4.37
+    },
+    {
+      "position": 2,
+      "playerId": "m394798",
+      "name": "Peter Willott",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 3,
+      "playerId": "m45383",
+      "name": "Bill Johnson",
+      "rating": 1554.87,
+      "dailyRatingChange": -3.35
+    },
+    {
+      "position": 3,
+      "playerId": "m50742",
+      "name": "Kuljit Jaswal",
+      "rating": 1517.37,
+      "dailyRatingChange": 2.11
+    },
+    {
+      "position": 5,
+      "playerId": "m580597",
+      "name": "Lucinda Newhouse",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 6,
+      "playerId": "m568282",
+      "name": "Austin Bertholds",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

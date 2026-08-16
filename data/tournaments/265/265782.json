@@ -1,0 +1,95 @@
+{
+  "tournamentId": 265782,
+  "name": "Finals for SIP Summer League 2026 - The Hunger Games",
+  "date": "2026-08-07",
+  "locationId": "11814",
+  "locationName": "Our Lady of Perpetual Hops",
+  "playerCount": 12,
+  "ratingsDate": "2026-08-07",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m35337",
+      "name": "Quentin Cordy",
+      "rating": 1670.69,
+      "dailyRatingChange": 2.63
+    },
+    {
+      "position": 2,
+      "playerId": "m21656",
+      "name": "Ripley Kalyn Smith",
+      "rating": 1721.57,
+      "dailyRatingChange": 0.24
+    },
+    {
+      "position": 3,
+      "playerId": "m23213",
+      "name": "Joe Downs",
+      "rating": 1574.02,
+      "dailyRatingChange": 2.67
+    },
+    {
+      "position": 4,
+      "playerId": "m25332",
+      "name": "Garry O'Brien",
+      "rating": 1632.7,
+      "dailyRatingChange": -1.17
+    },
+    {
+      "position": 5,
+      "playerId": "m20425",
+      "name": "Vince Nez",
+      "rating": 1559.83,
+      "dailyRatingChange": -6.63
+    },
+    {
+      "position": 6,
+      "playerId": "m25122",
+      "name": "David Rowland",
+      "rating": 1591.23,
+      "dailyRatingChange": 0.33
+    },
+    {
+      "position": 7,
+      "playerId": "m17572",
+      "name": "Katie Ferreira",
+      "rating": 1559.44,
+      "dailyRatingChange": -6.6
+    },
+    {
+      "position": 8,
+      "playerId": "m55541",
+      "name": "Brett Harris",
+      "rating": 1430.75,
+      "dailyRatingChange": 5.16
+    },
+    {
+      "position": 9,
+      "playerId": "m55284",
+      "name": "Jason McKay IN",
+      "rating": 1499.63,
+      "dailyRatingChange": 0.16
+    },
+    {
+      "position": 9,
+      "playerId": "m35427",
+      "name": "Greg Phipps",
+      "rating": 1453.25,
+      "dailyRatingChange": 2.28
+    },
+    {
+      "position": 9,
+      "playerId": "m35158",
+      "name": "Adam Faris",
+      "rating": 1508.78,
+      "dailyRatingChange": 6.2
+    },
+    {
+      "position": 9,
+      "playerId": "m25120",
+      "name": "Courtney Smock",
+      "rating": 1477.79,
+      "dailyRatingChange": -3.16
+    }
+  ]
+}

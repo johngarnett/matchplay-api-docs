@@ -1,0 +1,58 @@
+{
+  "communityId": "163",
+  "playerCount": 3,
+  "ratingsDate": "2026-08-12",
+  "relatedCommunities": [],
+  "topVenues": [
+    {
+      "locationId": "unknown",
+      "name": "Unknown",
+      "address": "",
+      "count": 3
+    },
+    {
+      "locationId": "5649",
+      "name": "Enid",
+      "address": "",
+      "count": 2
+    }
+  ],
+  "players": [
+    {
+      "id": "m2954",
+      "name": "Kyle Culver",
+      "rating": 1678.56,
+      "rd": 45.86,
+      "ratingClass": "A",
+      "homeLocation": "Enid",
+      "homeLocationId": "5649",
+      "percentile": 94.98765547118833,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i59528",
+      "name": "Jason Clark OK",
+      "rating": 1431.88,
+      "rd": 71.42,
+      "ratingClass": "C",
+      "homeLocation": "N/A",
+      "homeLocationId": null,
+      "percentile": 21.162714864676012,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i57066",
+      "name": "Shaelee Culver",
+      "rating": 1420.67,
+      "rd": 45.62,
+      "ratingClass": "C",
+      "homeLocation": "Enid",
+      "homeLocationId": "5649",
+      "percentile": 17.818046303628826,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

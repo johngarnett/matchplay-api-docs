@@ -1,0 +1,129 @@
+{
+  "communityId": "71",
+  "locations": [
+    {
+      "id": "13782",
+      "name": "Level 99 Arcade",
+      "address": "14303 Edgewood Dr, Baxter, MN 56425, US",
+      "tournaments": [
+        {
+          "id": 265999,
+          "name": "Level 99 Tournament",
+          "date": "8/7/2026",
+          "playerCount": 4,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m44248",
+              "name": "Michael Seamans",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m54395",
+              "name": "James Nysather",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "p585312",
+              "name": "Noah",
+              "isCommunityMember": false
+            },
+            {
+              "position": 4,
+              "playerId": "p581523",
+              "name": "Dave Jopp",
+              "isCommunityMember": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5593",
+      "name": "Midtown Bar & Grill",
+      "address": "3333 West Division Street, St. Cloud, MN 56301, US",
+      "tournaments": [
+        {
+          "id": 266959,
+          "name": "Midtown Bar Thursday Matchplay 8/13",
+          "date": "8/13/2026",
+          "playerCount": 10,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m17129",
+              "name": "Drew Smith",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m40999",
+              "name": "John Schollmeyer",
+              "isCommunityMember": false
+            },
+            {
+              "position": 3,
+              "playerId": "i113323",
+              "name": "Terry Thorsten",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m40510",
+              "name": "Paul Obrien",
+              "isCommunityMember": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9807",
+      "name": "Minnesota Pinball @ Bucks Mill Brewing",
+      "address": "824 Washington Ave, Detroit Lakes, MN, 56501, US",
+      "tournaments": [
+        {
+          "id": 266687,
+          "name": "Finals for Tilt & Tap Tuesday's!",
+          "date": "8/11/2026",
+          "playerCount": 6,
+          "qualifying": {
+            "id": 251514,
+            "name": "Tilt & Tap Tuesday's!",
+            "playerCount": 15
+          },
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m6843",
+              "name": "Tim Fiechtner",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m45268",
+              "name": "Ross mickelson",
+              "isCommunityMember": false
+            },
+            {
+              "position": 3,
+              "playerId": "m40084",
+              "name": "Chris Smith",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m55926",
+              "name": "Chris Sebastian",
+              "isCommunityMember": true
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

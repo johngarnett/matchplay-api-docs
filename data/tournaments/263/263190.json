@@ -1,0 +1,53 @@
+{
+  "tournamentId": 263190,
+  "name": "Finals for The Tuesday Night Local 07-21-2026",
+  "date": "2026-07-22",
+  "locationId": "10621",
+  "locationName": "PCP",
+  "playerCount": 6,
+  "ratingsDate": "2026-07-22",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m23302",
+      "name": "Savannah Archuleta",
+      "rating": 1642.59,
+      "dailyRatingChange": 11.96
+    },
+    {
+      "position": 2,
+      "playerId": "m1945",
+      "name": "Lora Tennison",
+      "rating": 1554.35,
+      "dailyRatingChange": 12.86
+    },
+    {
+      "position": 3,
+      "playerId": "m43798",
+      "name": "Colby Borum",
+      "rating": 1700.14,
+      "dailyRatingChange": 7.47
+    },
+    {
+      "position": 4,
+      "playerId": "m11891",
+      "name": "Mike Archuleta",
+      "rating": 1639.36,
+      "dailyRatingChange": -0.17
+    },
+    {
+      "position": 5,
+      "playerId": "m289",
+      "name": "Ken Kemp",
+      "rating": 1690.51,
+      "dailyRatingChange": -5.89
+    },
+    {
+      "position": 6,
+      "playerId": "m26400",
+      "name": "Daniel Martin",
+      "rating": 1628.35,
+      "dailyRatingChange": -3.09
+    }
+  ]
+}

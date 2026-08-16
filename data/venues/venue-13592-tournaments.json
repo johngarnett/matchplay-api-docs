@@ -1,0 +1,52 @@
+{
+  "locationId": "13592",
+  "venueName": "X-Golf Kennewick",
+  "venueAddress": "",
+  "tournaments": [
+    {
+      "id": 262885,
+      "name": "X-Golf July Pinball Wizards",
+      "date": "7/19/2026",
+      "playerCount": 14,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m54158",
+          "name": "Cade Bryan",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "p528141",
+          "name": "Will Bryan",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "p580177",
+          "name": "Matthew Williams",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "p500105",
+          "name": "James Evans",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "p580175",
+          "name": "Aria Miller",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "p500057",
+          "name": "Sherry Elizabeth",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

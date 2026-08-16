@@ -1,0 +1,81 @@
+{
+  "locationId": "13133",
+  "venueName": "Talisman Brewing Company",
+  "venueAddress": "1258 Gibson Ave, Ogden, UT 84404, US",
+  "tournaments": [
+    {
+      "id": 266862,
+      "name": "Finals for Talisman Pinball Party 12 Aug 26",
+      "date": "8/12/2026",
+      "playerCount": 4,
+      "qualifying": {
+        "id": 266829,
+        "name": "Talisman Pinball Party 12 Aug 26",
+        "playerCount": 10
+      },
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m41915",
+          "name": "Cade Vincent",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m28108",
+          "name": "Yusuf Yarow",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "i54155",
+          "name": "EK Shaffer",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m29418",
+          "name": "Stacy Shaffer",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 263356,
+      "name": "Finals for Talisman Pinball Party 22 Jul 26",
+      "date": "7/22/2026",
+      "playerCount": 4,
+      "qualifying": {
+        "id": 263294,
+        "name": "Talisman Pinball Party 22 Jul 26",
+        "playerCount": 12
+      },
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m12131",
+          "name": "Nate Smith CO",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m28108",
+          "name": "Yusuf Yarow",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m41915",
+          "name": "Cade Vincent",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m44125",
+          "name": "Cado Hernandez",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

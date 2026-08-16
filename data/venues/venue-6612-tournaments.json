@@ -1,0 +1,458 @@
+{
+  "locationId": "6612",
+  "venueName": "Lynn's Arcade: A Pinball Parlor and Can Slangery",
+  "venueAddress": "1760 Fremont Boulevard, Suite D1, Seaside, California 93955, US",
+  "tournaments": [
+    {
+      "id": 259278,
+      "name": "MFLPinball Summer Season 26 #6",
+      "date": "8/13/2026",
+      "playerCount": 18,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m23841",
+          "name": "Brianne Berlin",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m19080",
+          "name": "Tammy Ballinger",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m25049",
+          "name": "Amy Wolfrum",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m24825",
+          "name": "Carlene Malack",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 259261,
+      "name": "MFPinball Summer Season 26 #6",
+      "date": "8/10/2026",
+      "playerCount": 48,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m12915",
+          "name": "Eric Garcia",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m25049",
+          "name": "Amy Wolfrum",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m3108",
+          "name": "John Tracey",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "p164122",
+          "name": "Kenny Chung",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m52231",
+          "name": "David Warner",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 266003,
+      "name": "MF Locked In Strikes!",
+      "date": "8/7/2026",
+      "playerCount": 10,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m60",
+          "name": "Cary Carmichael",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m2642",
+          "name": "Nikki Carmichael",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m21063",
+          "name": "Andreina Ramirez",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m19871",
+          "name": "Melina Meltzer",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 259277,
+      "name": "MFLPinball Summer Season 26 #5",
+      "date": "8/6/2026",
+      "playerCount": 13,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m2642",
+          "name": "Nikki Carmichael",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m19871",
+          "name": "Melina Meltzer",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m4762",
+          "name": "Sneha Kolar",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m39871",
+          "name": "Jenni Honka",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 259260,
+      "name": "MFPinball Summer Season 26 #5",
+      "date": "8/3/2026",
+      "playerCount": 42,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m3108",
+          "name": "John Tracey",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 1,
+          "playerId": "m52231",
+          "name": "David Warner",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m21063",
+          "name": "Andreina Ramirez",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m334",
+          "name": "Michael Mattsson",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 264928,
+      "name": "MF Strikes",
+      "date": "7/31/2026",
+      "playerCount": 20,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m4414",
+          "name": "Xavier Marin",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m3108",
+          "name": "John Tracey",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m2695",
+          "name": "Nick Vibe",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m21063",
+          "name": "Andreina Ramirez",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 259276,
+      "name": "MFLPinball Summer Season 26 #4",
+      "date": "7/30/2026",
+      "playerCount": 13,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "p254389",
+          "name": "Danica Delsman",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m8185",
+          "name": "Jaclyn Tingco",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m19871",
+          "name": "Melina Meltzer",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m10713",
+          "name": "Ikela Lagapa",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 259258,
+      "name": "MFPinball Summer Season 26 #4",
+      "date": "7/27/2026",
+      "playerCount": 42,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m3108",
+          "name": "John Tracey",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 1,
+          "playerId": "m60",
+          "name": "Cary Carmichael",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m1461",
+          "name": "Matthew Talley",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m31319",
+          "name": "Kevin Johnston",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "p183502",
+          "name": "Aria Garcia",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 263660,
+      "name": "MF Locked In Strikes!",
+      "date": "7/24/2026",
+      "playerCount": 15,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m2642",
+          "name": "Nikki Carmichael",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m4141",
+          "name": "Philip Priddy",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m12915",
+          "name": "Eric Garcia",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m3108",
+          "name": "John Tracey",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 259275,
+      "name": "MFLPinball Summer Season 26 #3",
+      "date": "7/23/2026",
+      "playerCount": 15,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m19871",
+          "name": "Melina Meltzer",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 1,
+          "playerId": "p254389",
+          "name": "Danica Delsman",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "p183502",
+          "name": "Aria Garcia",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m33700",
+          "name": "Terrie White",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m10713",
+          "name": "Ikela Lagapa",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 259257,
+      "name": "MFPinball Summer Season 26 #3",
+      "date": "7/20/2026",
+      "playerCount": 45,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m26039",
+          "name": "Vincent Ruggiero",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m4141",
+          "name": "Philip Priddy",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m3281",
+          "name": "Nick Fitzpatrick",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m3280",
+          "name": "Mark Fitzpatrick",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 262760,
+      "name": "Finals for MFSupermatch",
+      "date": "7/18/2026",
+      "playerCount": 16,
+      "qualifying": {
+        "id": 262335,
+        "name": "MFSupermatch",
+        "playerCount": 35
+      },
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m3108",
+          "name": "John Tracey",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m12915",
+          "name": "Eric Garcia",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m23397",
+          "name": "Dustin Goldbarg",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m15019",
+          "name": "Nate King",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 262587,
+      "name": "MFStrikes!",
+      "date": "7/17/2026",
+      "playerCount": 18,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m334",
+          "name": "Michael Mattsson",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m15019",
+          "name": "Nate King",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m2695",
+          "name": "Nick Vibe",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m59833",
+          "name": "Colin Dyson",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

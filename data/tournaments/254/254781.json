@@ -1,0 +1,88 @@
+{
+  "tournamentId": 254781,
+  "name": "NPC @ SNHPC: Season 3 week #4",
+  "date": "2026-08-04",
+  "locationId": "13498",
+  "locationName": "Southern New Hampshire Pinball Club",
+  "playerCount": 11,
+  "ratingsDate": "2026-08-04",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m7236",
+      "name": "Chip Morton",
+      "rating": 1538.84,
+      "dailyRatingChange": 12.4
+    },
+    {
+      "position": 2,
+      "playerId": "m41294",
+      "name": "Christopher Townsend",
+      "rating": 1526.63,
+      "dailyRatingChange": 15.5
+    },
+    {
+      "position": 3,
+      "playerId": "m12067",
+      "name": "Matt Lemoine",
+      "rating": 1586.56,
+      "dailyRatingChange": 0.72
+    },
+    {
+      "position": 4,
+      "playerId": "m578358",
+      "name": "Jenn Lulfs",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 4,
+      "playerId": "m52875",
+      "name": "Jason Foss",
+      "rating": 1477.82,
+      "dailyRatingChange": 6.78
+    },
+    {
+      "position": 6,
+      "playerId": "m1178",
+      "name": "Mike Corbett",
+      "rating": 1570.62,
+      "dailyRatingChange": -3.88
+    },
+    {
+      "position": 7,
+      "playerId": "m341039",
+      "name": "Mikey Lulfs",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 8,
+      "playerId": "m431",
+      "name": "Ron Lulfs",
+      "rating": 1501.6,
+      "dailyRatingChange": -6.7
+    },
+    {
+      "position": 8,
+      "playerId": "m7796",
+      "name": "Greg Koker",
+      "rating": 1524.36,
+      "dailyRatingChange": -9.79
+    },
+    {
+      "position": 10,
+      "playerId": "m10483",
+      "name": "John Luke Mills",
+      "rating": 1433.9,
+      "dailyRatingChange": -19.89
+    },
+    {
+      "position": 11,
+      "playerId": "m43052",
+      "name": "Steven Weintraub",
+      "rating": 1434.17,
+      "dailyRatingChange": null
+    }
+  ]
+}

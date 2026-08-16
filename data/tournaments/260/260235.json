@@ -1,0 +1,123 @@
+{
+  "tournamentId": 260235,
+  "name": "SAPL Summer - Group Matchplay",
+  "date": "2026-07-29",
+  "locationId": "11780",
+  "locationName": "Bender Bar and Grill",
+  "playerCount": 16,
+  "ratingsDate": "2026-07-29",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m6273",
+      "name": "Nate Bright",
+      "rating": 1563.1,
+      "dailyRatingChange": 13.71
+    },
+    {
+      "position": 2,
+      "playerId": "m39331",
+      "name": "Paul Young",
+      "rating": 1717.51,
+      "dailyRatingChange": 7.61
+    },
+    {
+      "position": 3,
+      "playerId": "i150110",
+      "name": "Geoff Glass",
+      "rating": 1512.8,
+      "dailyRatingChange": 6.23
+    },
+    {
+      "position": 4,
+      "playerId": "m13560",
+      "name": "Haley Bonds",
+      "rating": 1531.76,
+      "dailyRatingChange": 3.03
+    },
+    {
+      "position": 5,
+      "playerId": "m2204",
+      "name": "Robert Montanez",
+      "rating": 1582.3,
+      "dailyRatingChange": -0.1
+    },
+    {
+      "position": 6,
+      "playerId": "m40931",
+      "name": "Caroline Bassett",
+      "rating": 1519.55,
+      "dailyRatingChange": -0.01
+    },
+    {
+      "position": 7,
+      "playerId": "m33092",
+      "name": "Alexa Hart",
+      "rating": 1570.09,
+      "dailyRatingChange": -2.41
+    },
+    {
+      "position": 8,
+      "playerId": "m26959",
+      "name": "Robie Rowley",
+      "rating": 1636.48,
+      "dailyRatingChange": -6.13
+    },
+    {
+      "position": 9,
+      "playerId": "m10693",
+      "name": "Danielle Barr",
+      "rating": 1476.54,
+      "dailyRatingChange": 1.14
+    },
+    {
+      "position": 10,
+      "playerId": "m36723",
+      "name": "Nicholas de la",
+      "rating": 1560.6,
+      "dailyRatingChange": -2.51
+    },
+    {
+      "position": 11,
+      "playerId": "m21483",
+      "name": "Josh Pack",
+      "rating": 1568.91,
+      "dailyRatingChange": -6.74
+    },
+    {
+      "position": 12,
+      "playerId": "i71704",
+      "name": "Michael Yoder",
+      "rating": 1454.22,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 13,
+      "playerId": "m47132",
+      "name": "Ronnie White",
+      "rating": 1551.75,
+      "dailyRatingChange": -7.48
+    },
+    {
+      "position": 14,
+      "playerId": "m582699",
+      "name": "Stephen Sprague",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 15,
+      "playerId": "i147307",
+      "name": "Liz Mayne",
+      "rating": 1346.08,
+      "dailyRatingChange": -5.26
+    },
+    {
+      "position": 16,
+      "playerId": "i157431",
+      "name": "Mel Dee",
+      "rating": 1309.62,
+      "dailyRatingChange": -22.92
+    }
+  ]
+}

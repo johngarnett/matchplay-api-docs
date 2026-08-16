@@ -1,0 +1,39 @@
+{
+  "tournamentId": 264085,
+  "name": "Finals for Sunday Night Fights at the L.A.B 28 Jul 26",
+  "date": "2026-07-27",
+  "locationId": "8296",
+  "locationName": "The L.A.B.",
+  "playerCount": 4,
+  "ratingsDate": "2026-07-27",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m20943",
+      "name": "Paige Peck",
+      "rating": 1618.13,
+      "dailyRatingChange": 12.32
+    },
+    {
+      "position": 2,
+      "playerId": "m19136",
+      "name": "John Wetenkamp",
+      "rating": 1693.15,
+      "dailyRatingChange": 2.38
+    },
+    {
+      "position": 3,
+      "playerId": "m41915",
+      "name": "Cade Vincent",
+      "rating": 1641.66,
+      "dailyRatingChange": 4.64
+    },
+    {
+      "position": 4,
+      "playerId": "m29635",
+      "name": "Megan Weir",
+      "rating": 1531.12,
+      "dailyRatingChange": 5.83
+    }
+  ]
+}

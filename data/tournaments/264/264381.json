@@ -1,0 +1,67 @@
+{
+  "tournamentId": 264381,
+  "name": "Flip⚡️Side Weekly 7/28/26 B Division",
+  "date": "2026-07-29",
+  "locationId": "6223",
+  "locationName": "Flip⚡️Side",
+  "playerCount": 8,
+  "ratingsDate": "2026-07-29",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "i158686",
+      "name": "Nick Rushing",
+      "rating": 1438.79,
+      "dailyRatingChange": 17.47
+    },
+    {
+      "position": 2,
+      "playerId": "m6796",
+      "name": "Fred Jennings",
+      "rating": 1528.13,
+      "dailyRatingChange": -8.26
+    },
+    {
+      "position": 3,
+      "playerId": "m42553",
+      "name": "Amy Cole MS",
+      "rating": 1467.96,
+      "dailyRatingChange": 1.46
+    },
+    {
+      "position": 4,
+      "playerId": "i124066",
+      "name": "Payne Thompson",
+      "rating": 1343.42,
+      "dailyRatingChange": null
+    },
+    {
+      "position": 5,
+      "playerId": "m62379",
+      "name": "Tom Myers IL",
+      "rating": 1466.03,
+      "dailyRatingChange": -31.37
+    },
+    {
+      "position": 5,
+      "playerId": "i144154",
+      "name": "Rick Bennett",
+      "rating": 1359.3,
+      "dailyRatingChange": 1.23
+    },
+    {
+      "position": 7,
+      "playerId": "m56978",
+      "name": "A",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 7,
+      "playerId": "m56979",
+      "name": "B",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

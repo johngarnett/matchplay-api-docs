@@ -1,0 +1,116 @@
+{
+  "tournamentId": 265422,
+  "name": "Houndstooth Wednesday Night Weekly 8/5/2026",
+  "date": "2026-08-06",
+  "locationId": "13477",
+  "locationName": "Hound's Tooth Public House",
+  "playerCount": 15,
+  "ratingsDate": "2026-08-06",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m56155",
+      "name": "Sammi Snyder",
+      "rating": 1487.9,
+      "dailyRatingChange": 8.55
+    },
+    {
+      "position": 2,
+      "playerId": "m25516",
+      "name": "Jeremy Collison",
+      "rating": 1608.94,
+      "dailyRatingChange": -0.67
+    },
+    {
+      "position": 3,
+      "playerId": "m6912",
+      "name": "Vanessa Ish",
+      "rating": 1618.52,
+      "dailyRatingChange": -0.96
+    },
+    {
+      "position": 4,
+      "playerId": "m6374",
+      "name": "David Johnston US",
+      "rating": 1707.68,
+      "dailyRatingChange": -1.49
+    },
+    {
+      "position": 4,
+      "playerId": "m5387",
+      "name": "Paul White WA",
+      "rating": 1455.33,
+      "dailyRatingChange": 1.85
+    },
+    {
+      "position": 6,
+      "playerId": "m28825",
+      "name": "Ben Fodor",
+      "rating": 1538.49,
+      "dailyRatingChange": 2.11
+    },
+    {
+      "position": 6,
+      "playerId": "i87459",
+      "name": "DERRICK DOWNING",
+      "rating": 1449.61,
+      "dailyRatingChange": 3.37
+    },
+    {
+      "position": 6,
+      "playerId": "m14942",
+      "name": "Candice McGinnis",
+      "rating": 1439.36,
+      "dailyRatingChange": -0.79
+    },
+    {
+      "position": 9,
+      "playerId": "m55225",
+      "name": "Vincent Iannucci",
+      "rating": 1442.04,
+      "dailyRatingChange": -1.56
+    },
+    {
+      "position": 9,
+      "playerId": "m24744",
+      "name": "Alex Lehnert",
+      "rating": 1386.34,
+      "dailyRatingChange": 3.03
+    },
+    {
+      "position": 11,
+      "playerId": "m584940",
+      "name": "Natalie B",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 11,
+      "playerId": "m25327",
+      "name": "Cat Alexander",
+      "rating": 1396.3,
+      "dailyRatingChange": -2.4
+    },
+    {
+      "position": 11,
+      "playerId": "m7064",
+      "name": "Steph Hanlon",
+      "rating": 1429.96,
+      "dailyRatingChange": -3.86
+    },
+    {
+      "position": 14,
+      "playerId": "m584941",
+      "name": "P word",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 15,
+      "playerId": "m35346",
+      "name": "Sean Williams",
+      "rating": 1314.24,
+      "dailyRatingChange": -4.42
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "tournamentId": 265915,
+  "name": "Finals for Quarters Weekly Pinball-Season 1, Episode 5",
+  "date": "2026-08-07",
+  "locationId": "13497",
+  "locationName": "The Crossroads",
+  "playerCount": 4,
+  "ratingsDate": "2026-08-07",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "i142176",
+      "name": "Zach Zaranski",
+      "rating": 1628.07,
+      "dailyRatingChange": 13.18
+    },
+    {
+      "position": 2,
+      "playerId": "m50014",
+      "name": "Chad Oliver",
+      "rating": 1677.36,
+      "dailyRatingChange": 32.6
+    },
+    {
+      "position": 3,
+      "playerId": "m47129",
+      "name": "Scott Brady LA",
+      "rating": 1648.59,
+      "dailyRatingChange": 4.45
+    },
+    {
+      "position": 4,
+      "playerId": "m60655",
+      "name": "Sasha Robertson",
+      "rating": 1582.69,
+      "dailyRatingChange": 4.88
+    }
+  ]
+}

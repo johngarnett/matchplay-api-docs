@@ -1,0 +1,217 @@
+{
+  "locationId": "10907",
+  "venueName": "Hound's Tooth Public House",
+  "venueAddress": "8551 Greenwood Ave. N., Seattle, WA 98103, US",
+  "tournaments": [
+    {
+      "id": 267137,
+      "name": "Pins and Needles 8/14/2026",
+      "date": "8/15/2026",
+      "playerCount": 15,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m3563",
+          "name": "Robbie Finnigan",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m6912",
+          "name": "Vanessa Ish",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m14904",
+          "name": "Jared Bayliss",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m7718",
+          "name": "Marin Alexander",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 265456,
+      "name": "Hound's Tooth Monday Night",
+      "date": "8/10/2026",
+      "playerCount": 6,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m1513",
+          "name": "Jarrett Gaddy",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m25516",
+          "name": "Jeremy Collison",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m42397",
+          "name": "Amy Frame",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m37860",
+          "name": "Canyon Mosely",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 265422,
+      "name": "Houndstooth Wednesday Night Weekly 8/5/2026",
+      "date": "8/5/2026",
+      "playerCount": 15,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m56155",
+          "name": "Sammi Snyder",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m25516",
+          "name": "Jeremy Collison",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m6912",
+          "name": "Vanessa Ish",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m6374",
+          "name": "David Johnston US",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m5387",
+          "name": "Paul White WA",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 265320,
+      "name": "Hounds Tooth Monday Night",
+      "date": "8/3/2026",
+      "playerCount": 4,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m25516",
+          "name": "Jeremy Collison",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m6374",
+          "name": "David Johnston US",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m42397",
+          "name": "Amy Frame",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m26552",
+          "name": "Chaz Simmons",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 263052,
+      "name": "Hounds Tooth Monday Weekly",
+      "date": "7/27/2026",
+      "playerCount": 6,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m25516",
+          "name": "Jeremy Collison",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m6374",
+          "name": "David Johnston US",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m18234",
+          "name": "Katja Rodgers",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m28825",
+          "name": "Ben Fodor",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 262517,
+      "name": "Hounds Tooth Monday Night",
+      "date": "7/20/2026",
+      "playerCount": 11,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m6419",
+          "name": "Michael Rausch",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m20675",
+          "name": "Campbell Hancock",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m25516",
+          "name": "Jeremy Collison",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "i150309",
+          "name": "Amy Frame",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m53373",
+          "name": "Noah Rubin",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

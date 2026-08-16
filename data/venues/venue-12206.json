@@ -1,0 +1,173 @@
+{
+  "locationId": "12206",
+  "name": "Riverside Saloon",
+  "address": "309 N Grove St, Lock Haven, PA 17745",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 11,
+  "relatedVenues": [
+    {
+      "locationId": "11012",
+      "name": "Fizzy's Arcade",
+      "address": "4770 PA-405, Milton, PA 17847",
+      "count": 29
+    },
+    {
+      "locationId": "12658",
+      "name": "61PinBar / Cointaker",
+      "address": "1437 State Route 61 Sunbury, Pa 17801",
+      "count": 5
+    },
+    {
+      "locationId": "6438",
+      "name": "Bartari",
+      "address": "101 Adams Ave, Scranton, PA 18503, USA",
+      "count": 2
+    },
+    {
+      "locationId": "12193",
+      "name": "The KavaKade",
+      "address": "701 Quail Ave",
+      "count": 2
+    },
+    {
+      "locationId": "8271",
+      "name": "Rezzanine Esports",
+      "address": "1025 Washington Pike, Bridgeville, PA 15017, US",
+      "count": 1
+    }
+  ],
+  "players": [
+    {
+      "id": "m59486",
+      "name": "Chris Schrope",
+      "rating": 1643.26,
+      "rd": 21.33,
+      "ratingClass": "A",
+      "homeLocation": "Fizzy's Arcade",
+      "homeLocationId": "11012",
+      "percentile": 90.81846555177715,
+      "changeDisplay": "+4.0",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m45754",
+      "name": "Bret Anderson",
+      "rating": 1606.77,
+      "rd": 22.82,
+      "ratingClass": "A",
+      "homeLocation": "Fizzy's Arcade",
+      "homeLocationId": "11012",
+      "percentile": 83.6400055899753,
+      "changeDisplay": "+10.4",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m52429",
+      "name": "Alex Di Costanzo",
+      "rating": 1601.34,
+      "rd": 29.78,
+      "ratingClass": "A",
+      "homeLocation": "Fizzy's Arcade",
+      "homeLocationId": "11012",
+      "percentile": 82.3403363301812,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m61954",
+      "name": "Fabien Grise",
+      "rating": 1586.22,
+      "rd": 29.24,
+      "ratingClass": "B",
+      "homeLocation": "Riverside Saloon",
+      "homeLocationId": "12206",
+      "percentile": 78.39008711044859,
+      "changeDisplay": "+4.9",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "i142927",
+      "name": "Deanna Schrope",
+      "rating": 1493.78,
+      "rd": 24.29,
+      "ratingClass": "C",
+      "homeLocation": "Fizzy's Arcade",
+      "homeLocationId": "11012",
+      "percentile": 44.640611170633996,
+      "changeDisplay": "-2.2",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "i142920",
+      "name": "Mark Patrick",
+      "rating": 1467.06,
+      "rd": 26.7,
+      "ratingClass": "C",
+      "homeLocation": "Fizzy's Arcade",
+      "homeLocationId": "11012",
+      "percentile": 33.6749429356687,
+      "changeDisplay": "-19.6",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "i147886",
+      "name": "James Adams PA",
+      "rating": 1430.68,
+      "rd": 45.82,
+      "ratingClass": "C",
+      "homeLocation": "Riverside Saloon",
+      "homeLocationId": "12206",
+      "percentile": 20.748125029114455,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i147887",
+      "name": "Wyatt Adams PA",
+      "rating": 1402.15,
+      "rd": 43.21,
+      "ratingClass": "C",
+      "homeLocation": "Riverside Saloon",
+      "homeLocationId": "12206",
+      "percentile": 13.08054222760516,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i123698",
+      "name": "Emily Wiggins",
+      "rating": 1398.73,
+      "rd": 38.69,
+      "ratingClass": "D",
+      "homeLocation": "Riverside Saloon",
+      "homeLocationId": "12206",
+      "percentile": 12.209437741649975,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i119781",
+      "name": "Melissa Foster",
+      "rating": 1347.73,
+      "rd": 36.31,
+      "ratingClass": "D",
+      "homeLocation": "Riverside Saloon",
+      "homeLocationId": "12206",
+      "percentile": 4.02944053663763,
+      "changeDisplay": "-10.9",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "i136691",
+      "name": "Fabien Grise",
+      "rating": null,
+      "rd": null,
+      "ratingClass": "N/A",
+      "homeLocation": "Riverside Saloon",
+      "homeLocationId": "12206",
+      "percentile": null,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

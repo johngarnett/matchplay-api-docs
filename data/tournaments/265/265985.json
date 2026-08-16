@@ -1,0 +1,116 @@
+{
+  "tournamentId": 265985,
+  "name": "D82 Flippin' Friday Finals Aug 7th",
+  "date": "2026-08-08",
+  "locationId": "8542",
+  "locationName": "District 82 Pinball (formerly TitleTown Pinball)",
+  "playerCount": 15,
+  "ratingsDate": "2026-08-08",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m7398",
+      "name": "Erik Thoren **TD**",
+      "rating": 1726.18,
+      "dailyRatingChange": 15.36
+    },
+    {
+      "position": 2,
+      "playerId": "m11743",
+      "name": "Eric Strangeway **TD**",
+      "rating": 1696.87,
+      "dailyRatingChange": 3.19
+    },
+    {
+      "position": 3,
+      "playerId": "m16101",
+      "name": "Matt McCarty **TD**",
+      "rating": 1678.69,
+      "dailyRatingChange": 3.52
+    },
+    {
+      "position": 4,
+      "playerId": "m28601",
+      "name": "Jeff Asman",
+      "rating": 1588.43,
+      "dailyRatingChange": 13.55
+    },
+    {
+      "position": 5,
+      "playerId": "m20690",
+      "name": "Alex Phelps",
+      "rating": 1666.43,
+      "dailyRatingChange": 7.34
+    },
+    {
+      "position": 5,
+      "playerId": "m35038",
+      "name": "Jordan Cappaert",
+      "rating": 1614.69,
+      "dailyRatingChange": 10.17
+    },
+    {
+      "position": 7,
+      "playerId": "m16120",
+      "name": "Mike Weyenberg",
+      "rating": 1695.86,
+      "dailyRatingChange": -9.31
+    },
+    {
+      "position": 7,
+      "playerId": "m49612",
+      "name": "Ripley Walters-Giblin",
+      "rating": 1597.52,
+      "dailyRatingChange": 8.32
+    },
+    {
+      "position": 7,
+      "playerId": "m38543",
+      "name": "Mike Carlson",
+      "rating": 1652.22,
+      "dailyRatingChange": -1.36
+    },
+    {
+      "position": 10,
+      "playerId": "i86445",
+      "name": "David Emerson",
+      "rating": 1535.44,
+      "dailyRatingChange": 7.31
+    },
+    {
+      "position": 10,
+      "playerId": "m19343",
+      "name": "Tom Schmidt",
+      "rating": 1661.32,
+      "dailyRatingChange": -5.68
+    },
+    {
+      "position": 10,
+      "playerId": "m44005",
+      "name": "Todd Stock",
+      "rating": 1564.77,
+      "dailyRatingChange": 0.63
+    },
+    {
+      "position": 13,
+      "playerId": "m53254",
+      "name": "Jeff Kraus WI",
+      "rating": 1610.12,
+      "dailyRatingChange": -4.59
+    },
+    {
+      "position": 13,
+      "playerId": "m16099",
+      "name": "Tony Trofka",
+      "rating": 1445.38,
+      "dailyRatingChange": 8.07
+    },
+    {
+      "position": 15,
+      "playerId": "m32722",
+      "name": "Eddie Smith",
+      "rating": 1578.94,
+      "dailyRatingChange": 1.51
+    }
+  ]
+}

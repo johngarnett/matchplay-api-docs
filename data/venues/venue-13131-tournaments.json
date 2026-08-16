@@ -1,0 +1,46 @@
+{
+  "locationId": "13131",
+  "venueName": "Duckie's Revenge Arcade",
+  "venueAddress": "107 N. Main St. Suite A Joshua, TX 76058",
+  "tournaments": [
+    {
+      "id": 258430,
+      "name": "Duckie Summer Top 8 Summer Group Matchplay",
+      "date": "8/13/2026",
+      "playerCount": 8,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m7092",
+          "name": "Jorge Ramos",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "i161508",
+          "name": "Douglas Hampton",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "p564719",
+          "name": "Clifton Brazier",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m17437",
+          "name": "Duane Fair",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "i161501",
+          "name": "Armand Marshall",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

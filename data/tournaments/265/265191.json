@@ -1,0 +1,67 @@
+{
+  "tournamentId": 265191,
+  "name": "Transformers Launch Party at Flip⚡️Side Finals",
+  "date": "2026-08-03",
+  "locationId": "6223",
+  "locationName": "Flip⚡️Side",
+  "playerCount": 8,
+  "ratingsDate": "2026-08-03",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m5645",
+      "name": "Bill Baggett",
+      "rating": 1689.78,
+      "dailyRatingChange": 4.62
+    },
+    {
+      "position": 2,
+      "playerId": "m47351",
+      "name": "Grahmy Boy",
+      "rating": 1475.36,
+      "dailyRatingChange": 13.37
+    },
+    {
+      "position": 3,
+      "playerId": "m12579",
+      "name": "Keith Richter",
+      "rating": 1612.15,
+      "dailyRatingChange": 0.77
+    },
+    {
+      "position": 4,
+      "playerId": "m50011",
+      "name": "Dustin Spooner",
+      "rating": 1635.02,
+      "dailyRatingChange": -4.57
+    },
+    {
+      "position": 5,
+      "playerId": "m11209",
+      "name": "Jess Blumenfeld",
+      "rating": 1602.12,
+      "dailyRatingChange": -5.11
+    },
+    {
+      "position": 5,
+      "playerId": "m23339",
+      "name": "Colton Morgan",
+      "rating": 1714.13,
+      "dailyRatingChange": -3.12
+    },
+    {
+      "position": 7,
+      "playerId": "m35518",
+      "name": "Jason Huie",
+      "rating": 1599.41,
+      "dailyRatingChange": -0.95
+    },
+    {
+      "position": 8,
+      "playerId": "m26932",
+      "name": "Katherine Saba-Hale",
+      "rating": 1401.61,
+      "dailyRatingChange": -3.03
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "tournamentId": 264512,
+  "name": "CityCade's Hot Summer Challenge Finals",
+  "date": "2026-07-30",
+  "locationId": "8970",
+  "locationName": "CityCade Arcade Bar",
+  "playerCount": 9,
+  "ratingsDate": "2026-07-30",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m42478",
+      "name": "AJ Snyder",
+      "rating": 1592.02,
+      "dailyRatingChange": 3.26
+    },
+    {
+      "position": 2,
+      "playerId": "m57822",
+      "name": "Luis Cortes",
+      "rating": 1520.99,
+      "dailyRatingChange": 7.62
+    },
+    {
+      "position": 3,
+      "playerId": "m60823",
+      "name": "Kate Lavender",
+      "rating": 1485.04,
+      "dailyRatingChange": 19.76
+    },
+    {
+      "position": 4,
+      "playerId": "m29829",
+      "name": "Nathan Irvin",
+      "rating": 1622.63,
+      "dailyRatingChange": -4.79
+    },
+    {
+      "position": 4,
+      "playerId": "m60273",
+      "name": "Ben Downing",
+      "rating": 1420.22,
+      "dailyRatingChange": 4.1
+    },
+    {
+      "position": 6,
+      "playerId": "m10192",
+      "name": "Randy Bowman",
+      "rating": 1537.12,
+      "dailyRatingChange": -4.95
+    },
+    {
+      "position": 7,
+      "playerId": "m568516",
+      "name": "Ricky Cureton",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 7,
+      "playerId": "m60691",
+      "name": "Daniel Cortes",
+      "rating": 1400.65,
+      "dailyRatingChange": -15.11
+    },
+    {
+      "position": 9,
+      "playerId": "m61075",
+      "name": "Trina Leah",
+      "rating": 1272.63,
+      "dailyRatingChange": -11.23
+    }
+  ]
+}

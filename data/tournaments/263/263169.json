@@ -1,0 +1,81 @@
+{
+  "tournamentId": 263169,
+  "name": "IFPA Bi-Weekly Tournament",
+  "date": "2026-07-22",
+  "locationId": "13126",
+  "locationName": "Arcade Laradise",
+  "playerCount": 10,
+  "ratingsDate": "2026-07-22",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m34127",
+      "name": "Daniel Albeyta",
+      "rating": 1722.84,
+      "dailyRatingChange": 2.92
+    },
+    {
+      "position": 2,
+      "playerId": "m52022",
+      "name": "Trent Agee",
+      "rating": 1600.96,
+      "dailyRatingChange": 15.03
+    },
+    {
+      "position": 3,
+      "playerId": "m14147",
+      "name": "Tai Tran",
+      "rating": 1636.89,
+      "dailyRatingChange": 2.96
+    },
+    {
+      "position": 4,
+      "playerId": "m544470",
+      "name": "Michael Armagost",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 4,
+      "playerId": "m544469",
+      "name": "Aaron King",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 6,
+      "playerId": "m544549",
+      "name": "Billy Pine",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 7,
+      "playerId": "m544552",
+      "name": "Kaysen Reilly-Pine",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 8,
+      "playerId": "m544550",
+      "name": "Davin Reilly-Pine",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 9,
+      "playerId": "m580577",
+      "name": "JJay Bryant",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 10,
+      "playerId": "m580576",
+      "name": "Tate Ellsworth",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

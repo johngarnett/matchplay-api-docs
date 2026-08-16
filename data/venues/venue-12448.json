@@ -1,0 +1,479 @@
+{
+  "locationId": "12448",
+  "name": "Super Rad Retro Lounge",
+  "address": "106 Glenwood Ave, Raleigh, NC 27603, US",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 34,
+  "relatedVenues": [
+    {
+      "locationId": "11549",
+      "name": "Flight Deck NC",
+      "address": "9521 Lumley Rd, Morrisville, NC 27560, US",
+      "count": 234
+    },
+    {
+      "locationId": "8955",
+      "name": "Roshambo Beverage Company",
+      "address": "231 South East Street, Raleigh, NC 27601, US",
+      "count": 16
+    },
+    {
+      "locationId": "5362",
+      "name": "Boxcar Bar + Arcade Durham",
+      "address": "621 Foster St, Durham, NC 27701, USA",
+      "count": 12
+    },
+    {
+      "locationId": "7953",
+      "name": "Richmond Pinball Collective",
+      "address": "9550 Midlothian Turnpike, Unit 112, Midlothian, VA 23235, US",
+      "count": 11
+    },
+    {
+      "locationId": "10710",
+      "name": "The Backyard Arcade @ Coastal Hemp Company",
+      "address": "8207 Market St. Unit I, Wilmington, NC, 28411, US",
+      "count": 9
+    },
+    {
+      "locationId": "11970",
+      "name": "Richmond Pinball Collective",
+      "address": "9550 Midlothian Tpke #106, Richmond, VA 23235",
+      "count": 7
+    },
+    {
+      "locationId": "12499",
+      "name": "DPC",
+      "address": "1100 first state blvd, wilmington DE",
+      "count": 7
+    },
+    {
+      "locationId": "12137",
+      "name": "Mordecai Beverage Company",
+      "address": "2425 Crabtree Blvd, Raleigh, NC 27604, US",
+      "count": 6
+    },
+    {
+      "locationId": "8072",
+      "name": "Level 256 Classic Arcade Bar",
+      "address": "79 Coxe Ave, Asheville, NC, 28801, US",
+      "count": 4
+    },
+    {
+      "locationId": "9921",
+      "name": "Renaissance Atlanta Waverly Hotel & Convention Center",
+      "address": "2450 Galleria Pkwy Atlanta, GA 30339",
+      "count": 4
+    }
+  ],
+  "players": [
+    {
+      "id": "m10933",
+      "name": "Scott Mott",
+      "rating": 1706.24,
+      "rd": 19.37,
+      "ratingClass": "Expert",
+      "homeLocation": "DPC",
+      "homeLocationId": "12499",
+      "percentile": 96.95346345553641,
+      "changeDisplay": "-12.3",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m3633",
+      "name": "Morgan Grimes",
+      "rating": 1702.08,
+      "rd": 19.15,
+      "ratingClass": "Expert",
+      "homeLocation": "Flight Deck NC",
+      "homeLocationId": "11549",
+      "percentile": 96.72054781758047,
+      "changeDisplay": "+6.1",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m23550",
+      "name": "Kat Lake",
+      "rating": 1692.44,
+      "rd": 29.15,
+      "ratingClass": "A",
+      "homeLocation": "Flight Deck NC",
+      "homeLocationId": "11549",
+      "percentile": 96.09633390785858,
+      "changeDisplay": "-5.1",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m7791",
+      "name": "Jason Keith",
+      "rating": 1691.5,
+      "rd": 20.74,
+      "ratingClass": "A",
+      "homeLocation": "Flight Deck NC",
+      "homeLocationId": "11549",
+      "percentile": 96.01248427819445,
+      "changeDisplay": "-7.6",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m2886",
+      "name": "Robert Peters",
+      "rating": 1674.26,
+      "rd": 18.05,
+      "ratingClass": "A",
+      "homeLocation": "Richmond Pinball Collective",
+      "homeLocationId": "7953",
+      "percentile": 94.53114082079472,
+      "changeDisplay": "+12.8",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m3296",
+      "name": "Logan Haislip",
+      "rating": 1660.5,
+      "rd": 28.79,
+      "ratingClass": "A",
+      "homeLocation": "Flight Deck NC",
+      "homeLocationId": "11549",
+      "percentile": 93.13830530581824,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m32966",
+      "name": "Michael Casey",
+      "rating": 1629.48,
+      "rd": 18.59,
+      "ratingClass": "A",
+      "homeLocation": "Flight Deck NC",
+      "homeLocationId": "11549",
+      "percentile": 88.47999254669958,
+      "changeDisplay": "+3.3",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m2324",
+      "name": "Paul Sanders",
+      "rating": 1620.11,
+      "rd": 21.12,
+      "ratingClass": "A",
+      "homeLocation": "Flight Deck NC",
+      "homeLocationId": "11549",
+      "percentile": 86.64927563236596,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m27217",
+      "name": "John Robertson",
+      "rating": 1613.6,
+      "rd": 22.89,
+      "ratingClass": "A",
+      "homeLocation": "Flight Deck NC",
+      "homeLocationId": "11549",
+      "percentile": 85.22849024083476,
+      "changeDisplay": "-3.6",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m29858",
+      "name": "Elia Lake",
+      "rating": 1601.55,
+      "rd": 24.03,
+      "ratingClass": "A",
+      "homeLocation": "Flight Deck NC",
+      "homeLocationId": "11549",
+      "percentile": 82.40555270880887,
+      "changeDisplay": "+9.9",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m16926",
+      "name": "Mike Talmarkes",
+      "rating": 1584.81,
+      "rd": 21.14,
+      "ratingClass": "B",
+      "homeLocation": "Flight Deck NC",
+      "homeLocationId": "11549",
+      "percentile": 77.99878883868263,
+      "changeDisplay": "+8.5",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m25688",
+      "name": "Ken Lane",
+      "rating": 1584.31,
+      "rd": 22.5,
+      "ratingClass": "B",
+      "homeLocation": "Flight Deck NC",
+      "homeLocationId": "11549",
+      "percentile": 77.87301439418643,
+      "changeDisplay": "-12.6",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m51672",
+      "name": "Brandon Caparelli",
+      "rating": 1561.2,
+      "rd": 22.75,
+      "ratingClass": "B",
+      "homeLocation": "Flight Deck NC",
+      "homeLocationId": "11549",
+      "percentile": 70.70852937066195,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m41496",
+      "name": "Ed Plut",
+      "rating": 1560.86,
+      "rd": 21.05,
+      "ratingClass": "B",
+      "homeLocation": "Flight Deck NC",
+      "homeLocationId": "11549",
+      "percentile": 70.58275492616575,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m47782",
+      "name": "Leslie McCallon",
+      "rating": 1555.18,
+      "rd": 26.15,
+      "ratingClass": "B",
+      "homeLocation": "Flight Deck NC",
+      "homeLocationId": "11549",
+      "percentile": 68.71942982251828,
+      "changeDisplay": "+17.2",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m51673",
+      "name": "John Bowker",
+      "rating": 1550.13,
+      "rd": 22.72,
+      "ratingClass": "B",
+      "homeLocation": "Flight Deck NC",
+      "homeLocationId": "11549",
+      "percentile": 66.7489635254111,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m319",
+      "name": "David Klionsky",
+      "rating": 1543.81,
+      "rd": 37.03,
+      "ratingClass": "B",
+      "homeLocation": "Flight Deck NC",
+      "homeLocationId": "11549",
+      "percentile": 64.51297340103415,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m2939",
+      "name": "Meredith Fowler",
+      "rating": 1538.39,
+      "rd": 31.34,
+      "ratingClass": "B",
+      "homeLocation": "Roshambo Beverage Company",
+      "homeLocationId": "8955",
+      "percentile": 62.43536591046723,
+      "changeDisplay": "+4.2",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m3764",
+      "name": "Asa Cooney",
+      "rating": 1535.13,
+      "rd": 33.28,
+      "ratingClass": "B",
+      "homeLocation": "Flight Deck NC",
+      "homeLocationId": "11549",
+      "percentile": 61.05650533376811,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m51684",
+      "name": "Lauren Green",
+      "rating": 1526.77,
+      "rd": 25.38,
+      "ratingClass": "B",
+      "homeLocation": "Flight Deck NC",
+      "homeLocationId": "11549",
+      "percentile": 57.763078213071225,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m43257",
+      "name": "Ash Meyer",
+      "rating": 1522.95,
+      "rd": 25.12,
+      "ratingClass": "B",
+      "homeLocation": "Flight Deck NC",
+      "homeLocationId": "11549",
+      "percentile": 56.32831788326268,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m36044",
+      "name": "Noelle Rousseau",
+      "rating": 1522.6,
+      "rd": 23.38,
+      "ratingClass": "B",
+      "homeLocation": "Flight Deck NC",
+      "homeLocationId": "11549",
+      "percentile": 56.18391018773,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m43527",
+      "name": "Matt Kulka",
+      "rating": 1512.89,
+      "rd": 20.42,
+      "ratingClass": "B",
+      "homeLocation": "Flight Deck NC",
+      "homeLocationId": "11549",
+      "percentile": 52.336143848698,
+      "changeDisplay": "-2.0",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m27216",
+      "name": "James Fleckenstein",
+      "rating": 1509.79,
+      "rd": 24.35,
+      "ratingClass": "B",
+      "homeLocation": "Flight Deck NC",
+      "homeLocationId": "11549",
+      "percentile": 51.17622397167746,
+      "changeDisplay": "+1.0",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m6061",
+      "name": "John Sjogren",
+      "rating": 1492.77,
+      "rd": 26.6,
+      "ratingClass": "C",
+      "homeLocation": "Flight Deck NC",
+      "homeLocationId": "11549",
+      "percentile": 44.19341314575861,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m31540",
+      "name": "Heidi Reule",
+      "rating": 1480.97,
+      "rd": 33.31,
+      "ratingClass": "C",
+      "homeLocation": "Flight Deck NC",
+      "homeLocationId": "11549",
+      "percentile": 39.255601621092836,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m20628",
+      "name": "Abigail Stone-Huchko",
+      "rating": 1462.22,
+      "rd": 25.9,
+      "ratingClass": "C",
+      "homeLocation": "Flight Deck NC",
+      "homeLocationId": "11549",
+      "percentile": 31.82093445753948,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m38390",
+      "name": "Joshua Lewis",
+      "rating": 1442.13,
+      "rd": 31.66,
+      "ratingClass": "C",
+      "homeLocation": "Flight Deck NC",
+      "homeLocationId": "11549",
+      "percentile": 24.41887548329995,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m37832",
+      "name": "Tessa Bevilacqua",
+      "rating": 1439.63,
+      "rd": 29.94,
+      "ratingClass": "C",
+      "homeLocation": "Flight Deck NC",
+      "homeLocationId": "11549",
+      "percentile": 23.566404248381236,
+      "changeDisplay": "-0.2",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m32308",
+      "name": "Dave Potchak",
+      "rating": 1431.75,
+      "rd": 25.27,
+      "ratingClass": "C",
+      "homeLocation": "Flight Deck NC",
+      "homeLocationId": "11549",
+      "percentile": 21.102156798807474,
+      "changeDisplay": "+8.2",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m41798",
+      "name": "Michele Makdad",
+      "rating": 1424.82,
+      "rd": 31.83,
+      "ratingClass": "C",
+      "homeLocation": "Flight Deck NC",
+      "homeLocationId": "11549",
+      "percentile": 19.061815810313504,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m61687",
+      "name": "Robin Gallagher",
+      "rating": 1420.9,
+      "rd": 48.31,
+      "ratingClass": "C",
+      "homeLocation": "Super Rad Retro Lounge",
+      "homeLocationId": "12448",
+      "percentile": 17.90655424605208,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i133582",
+      "name": "Avery Kulka",
+      "rating": 1338.24,
+      "rd": 29.66,
+      "ratingClass": "D",
+      "homeLocation": "The Backyard Arcade @ Coastal Hemp Company",
+      "homeLocationId": "10710",
+      "percentile": 3.079144733777426,
+      "changeDisplay": "+10.6",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "i133581",
+      "name": "Miles Kulka",
+      "rating": null,
+      "rd": null,
+      "ratingClass": "N/A",
+      "homeLocation": "The Backyard Arcade @ Coastal Hemp Company",
+      "homeLocationId": "10710",
+      "percentile": null,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

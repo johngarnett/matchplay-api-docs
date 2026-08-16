@@ -1,0 +1,47 @@
+{
+  "locationId": "13070",
+  "name": "Rattenkings Gameroom",
+  "address": "Ulm 89081",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 2,
+  "relatedVenues": [
+    {
+      "locationId": "87",
+      "name": "Martins Flipperbude",
+      "address": "",
+      "count": 4
+    },
+    {
+      "locationId": "9461",
+      "name": "FlipperFreunde Fellbach e.V.",
+      "address": "",
+      "count": 1
+    }
+  ],
+  "players": [
+    {
+      "id": "m31066",
+      "name": "Leo Locher",
+      "rating": 1640.13,
+      "rd": 28.64,
+      "ratingClass": "A",
+      "homeLocation": "Martins Flipperbude",
+      "homeLocationId": "87",
+      "percentile": 90.34797596310617,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m29076",
+      "name": "Nick Seßler",
+      "rating": 1590.37,
+      "rd": 33.15,
+      "ratingClass": "B",
+      "homeLocation": "Martins Flipperbude",
+      "homeLocationId": "87",
+      "percentile": 79.55000698746913,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

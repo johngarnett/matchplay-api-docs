@@ -1,0 +1,44 @@
+{
+  "locationId": "11386",
+  "venueName": "Ice Ice Arcade",
+  "venueAddress": "68 Litchfield Rd Londonderry NH 03053",
+  "tournaments": [
+    {
+      "id": 266050,
+      "name": "Finals for IIA Cookout Tournament 2026",
+      "date": "8/8/2026",
+      "playerCount": 12,
+      "qualifying": {
+        "id": 262825,
+        "name": "IIA Cookout Tournament 2026",
+        "playerCount": 29
+      },
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m14465",
+          "name": "Noah Crable",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m13527",
+          "name": "Zheanna Murray",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m4842",
+          "name": "James McFatter",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m34048",
+          "name": "Joshua Moran",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

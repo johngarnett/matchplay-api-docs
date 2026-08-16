@@ -1,0 +1,40 @@
+{
+  "locationId": "13258",
+  "venueName": "Wes H. House",
+  "venueAddress": "Private email for details",
+  "tournaments": [
+    {
+      "id": 236486,
+      "name": "Mavens of Multiball League #6",
+      "date": "8/13/2026",
+      "playerCount": 9,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m47812",
+          "name": "Sarah Warlick",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m15389",
+          "name": "Cat McFarland",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m18664",
+          "name": "Brenna Valentine",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m22967",
+          "name": "Ally Fuller",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

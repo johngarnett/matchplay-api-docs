@@ -1,0 +1,431 @@
+{
+  "locationId": "12802",
+  "name": "Scanlines Arcade",
+  "address": "2320 Valentine Dr, Kokomo, IN 46902, US",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 30,
+  "relatedVenues": [
+    {
+      "locationId": "1451",
+      "name": "Wizard's World",
+      "address": "14613 Lima Rd, Fort Wayne, IN 46818, USA",
+      "count": 84
+    },
+    {
+      "locationId": "7392",
+      "name": "Full Tilt Arcade & Pinball",
+      "address": "701 N Fail Rd, La Porte, IN 46350, US",
+      "count": 17
+    },
+    {
+      "locationId": "1658",
+      "name": "North End Pub",
+      "address": "2100 Elmwood Ave, Lafayette, IN 47904, USA",
+      "count": 14
+    },
+    {
+      "locationId": "13290",
+      "name": "Bonus Pints",
+      "address": "422 E Broadway, Logansport, IN 46947, US",
+      "count": 12
+    },
+    {
+      "locationId": "8902",
+      "name": "Rocksteady Pizza Parlour",
+      "address": "108 E Market St, Warsaw, IN  46580",
+      "count": 11
+    },
+    {
+      "locationId": "5771",
+      "name": "The Pinvault",
+      "address": "1043 Virginia Ave, Indianapolis, IN 46203, USA",
+      "count": 9
+    },
+    {
+      "locationId": "11180",
+      "name": "Wild Fyre Tap",
+      "address": "1106 Prospect St, Indianapolis, IN 46203",
+      "count": 3
+    },
+    {
+      "locationId": "8279",
+      "name": "Old Crown Coffee Roasters",
+      "address": "3523 N Anthony Blvd, Fort Wayne, IN 46805, US",
+      "count": 2
+    },
+    {
+      "locationId": "10370",
+      "name": "Cory's House",
+      "address": "3386 W Lake Storey Rd Galesburg, IL 61401",
+      "count": 2
+    },
+    {
+      "locationId": "8405",
+      "name": "Tappers",
+      "address": "501 Virginia Ave Suite 102, Indianapolis, IN 46203, US",
+      "count": 1
+    }
+  ],
+  "players": [
+    {
+      "id": "m6681",
+      "name": "Nick Squires",
+      "rating": 1652.39,
+      "rd": 21.03,
+      "ratingClass": "A",
+      "homeLocation": "Wizard's World",
+      "homeLocationId": "1451",
+      "percentile": 92.05291843294359,
+      "changeDisplay": "-8.0",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m11159",
+      "name": "Rick Dunkin",
+      "rating": 1615.94,
+      "rd": 32.59,
+      "ratingClass": "A",
+      "homeLocation": "North End Pub",
+      "homeLocationId": "1658",
+      "percentile": 85.71761308054224,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m56324",
+      "name": "Obby Bird",
+      "rating": 1614.21,
+      "rd": 24.6,
+      "ratingClass": "A",
+      "homeLocation": "Scanlines Arcade",
+      "homeLocationId": "12802",
+      "percentile": 85.40084781292217,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m40209",
+      "name": "Eli Brooks",
+      "rating": 1597.64,
+      "rd": 26.48,
+      "ratingClass": "B",
+      "homeLocation": "Wizard's World",
+      "homeLocationId": "1451",
+      "percentile": 81.41799040387572,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m36804",
+      "name": "Ryan Calhoun",
+      "rating": 1579.61,
+      "rd": 25.45,
+      "ratingClass": "B",
+      "homeLocation": "Scanlines Arcade",
+      "homeLocationId": "12802",
+      "percentile": 76.48483719196906,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m1763",
+      "name": "Dennis Baker",
+      "rating": 1573.61,
+      "rd": 27.4,
+      "ratingClass": "B",
+      "homeLocation": "Scanlines Arcade",
+      "homeLocationId": "12802",
+      "percentile": 74.65412027763544,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m6235",
+      "name": "Mark Moore IN",
+      "rating": 1572.92,
+      "rd": 18.23,
+      "ratingClass": "B",
+      "homeLocation": "Wizard's World",
+      "homeLocationId": "1451",
+      "percentile": 74.45381282899334,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m30542",
+      "name": "Tony Baldini",
+      "rating": 1567.22,
+      "rd": 16.04,
+      "ratingClass": "B",
+      "homeLocation": "Wizard's World",
+      "homeLocationId": "1451",
+      "percentile": 72.595146038105,
+      "changeDisplay": "-0.1",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "i5154",
+      "name": "Jason Paul",
+      "rating": 1565.17,
+      "rd": 37.06,
+      "ratingClass": "B",
+      "homeLocation": "Scanlines Arcade",
+      "homeLocationId": "12802",
+      "percentile": 71.99888200493781,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m54838",
+      "name": "Andrew Carey IN",
+      "rating": 1554.81,
+      "rd": 19.94,
+      "ratingClass": "B",
+      "homeLocation": "Wizard's World",
+      "homeLocationId": "1451",
+      "percentile": 68.63092188009503,
+      "changeDisplay": "+21.6",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m14049",
+      "name": "Rose Quinn",
+      "rating": 1532.53,
+      "rd": 17.47,
+      "ratingClass": "B",
+      "homeLocation": "Wizard's World",
+      "homeLocationId": "1451",
+      "percentile": 60.096892905389666,
+      "changeDisplay": "-0.1",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m55605",
+      "name": "Olivia Smith",
+      "rating": 1518.48,
+      "rd": 25.21,
+      "ratingClass": "B",
+      "homeLocation": "Scanlines Arcade",
+      "homeLocationId": "12802",
+      "percentile": 54.61405878790701,
+      "changeDisplay": "+9.0",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m27265",
+      "name": "Digger Bell",
+      "rating": 1514.24,
+      "rd": 21.82,
+      "ratingClass": "B",
+      "homeLocation": "Wizard's World",
+      "homeLocationId": "1451",
+      "percentile": 52.84389993944193,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m58467",
+      "name": "Jonathan Kadlec",
+      "rating": 1509.79,
+      "rd": 39.83,
+      "ratingClass": "B",
+      "homeLocation": "Scanlines Arcade",
+      "homeLocationId": "12802",
+      "percentile": 51.17156565891834,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m52704",
+      "name": "Amber McGinley",
+      "rating": 1501.97,
+      "rd": 24.09,
+      "ratingClass": "B",
+      "homeLocation": "Full Tilt Arcade & Pinball",
+      "homeLocationId": "7392",
+      "percentile": 47.887455163739695,
+      "changeDisplay": "-4.1",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m55627",
+      "name": "Josh Benson",
+      "rating": 1488.93,
+      "rd": 25.36,
+      "ratingClass": "C",
+      "homeLocation": "Scanlines Arcade",
+      "homeLocationId": "12802",
+      "percentile": 42.5443704290306,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m39035",
+      "name": "Jason Brooks",
+      "rating": 1486.59,
+      "rd": 22.92,
+      "ratingClass": "C",
+      "homeLocation": "Wizard's World",
+      "homeLocationId": "1451",
+      "percentile": 41.57078306237481,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m56304",
+      "name": "Misti Sukle",
+      "rating": 1474.17,
+      "rd": 26.62,
+      "ratingClass": "C",
+      "homeLocation": "Scanlines Arcade",
+      "homeLocationId": "12802",
+      "percentile": 36.56309684632226,
+      "changeDisplay": "+5.5",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m59312",
+      "name": "Alex Baxter",
+      "rating": 1464.4,
+      "rd": 51.65,
+      "ratingClass": "C",
+      "homeLocation": "Scanlines Arcade",
+      "homeLocationId": "12802",
+      "percentile": 32.60818931383053,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m56322",
+      "name": "Lance Sukle",
+      "rating": 1459.21,
+      "rd": 64.68,
+      "ratingClass": "C",
+      "homeLocation": "Scanlines Arcade",
+      "homeLocationId": "12802",
+      "percentile": 30.661014580518938,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m16908",
+      "name": "Rachel Moore",
+      "rating": 1455.93,
+      "rd": 42.19,
+      "ratingClass": "C",
+      "homeLocation": "Wizard's World",
+      "homeLocationId": "1451",
+      "percentile": 29.4032701355569,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m30974",
+      "name": "Jason Jones IN",
+      "rating": 1455.11,
+      "rd": 37.72,
+      "ratingClass": "C",
+      "homeLocation": "Scanlines Arcade",
+      "homeLocationId": "12802",
+      "percentile": 29.13308799552802,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m56301",
+      "name": "Brooke Stewart",
+      "rating": 1449.09,
+      "rd": 28.83,
+      "ratingClass": "C",
+      "homeLocation": "Scanlines Arcade",
+      "homeLocationId": "12802",
+      "percentile": 26.775981739413986,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m40862",
+      "name": "Brett Schroder",
+      "rating": 1441.13,
+      "rd": 25.17,
+      "ratingClass": "C",
+      "homeLocation": "Scanlines Arcade",
+      "homeLocationId": "12802",
+      "percentile": 24.120743466716355,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m57797",
+      "name": "JL Stanley",
+      "rating": 1432.31,
+      "rd": 45.47,
+      "ratingClass": "C",
+      "homeLocation": "Scanlines Arcade",
+      "homeLocationId": "12802",
+      "percentile": 21.302464247449574,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m54836",
+      "name": "Chris Rairdon",
+      "rating": 1430.02,
+      "rd": 26.3,
+      "ratingClass": "C",
+      "homeLocation": "Wizard's World",
+      "homeLocationId": "1451",
+      "percentile": 20.56179251874971,
+      "changeDisplay": "-6.5",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m56305",
+      "name": "Xavier Johnson",
+      "rating": 1424.75,
+      "rd": 29.36,
+      "ratingClass": "C",
+      "homeLocation": "Scanlines Arcade",
+      "homeLocationId": "12802",
+      "percentile": 19.033865933758793,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m56764",
+      "name": "Kelly Riley",
+      "rating": 1412.35,
+      "rd": 26.58,
+      "ratingClass": "C",
+      "homeLocation": "Scanlines Arcade",
+      "homeLocationId": "12802",
+      "percentile": 15.707830623748078,
+      "changeDisplay": "-3.6",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m55591",
+      "name": "Jessica Thomas",
+      "rating": 1396.81,
+      "rd": 27.79,
+      "ratingClass": "D",
+      "homeLocation": "Scanlines Arcade",
+      "homeLocationId": "12802",
+      "percentile": 11.710998276424279,
+      "changeDisplay": "-13.0",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m57390",
+      "name": "Spencer Guignet",
+      "rating": 1358.04,
+      "rd": 37.88,
+      "ratingClass": "D",
+      "homeLocation": "Scanlines Arcade",
+      "homeLocationId": "12802",
+      "percentile": 5.180043788139935,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

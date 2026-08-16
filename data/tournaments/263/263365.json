@@ -1,0 +1,25 @@
+{
+  "tournamentId": 263365,
+  "name": "3rd place for South Bay Tilt Arcade - Monthly Strikes @Hermosa Brewing Co 7/22/2026",
+  "date": "2026-07-23",
+  "locationId": "11143",
+  "locationName": "Hermosa Brewing Company",
+  "playerCount": 2,
+  "ratingsDate": "2026-07-23",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "i125774",
+      "name": "Sam Ellenberger",
+      "rating": 1567.98,
+      "dailyRatingChange": 2.18
+    },
+    {
+      "position": 2,
+      "playerId": "m40281",
+      "name": "Derek Johnson",
+      "rating": 1567.66,
+      "dailyRatingChange": -8.84
+    }
+  ]
+}

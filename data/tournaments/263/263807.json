@@ -1,0 +1,67 @@
+{
+  "tournamentId": 263807,
+  "name": "Finals for Hangar Pinball's - Stern Army Transformers Launch Party",
+  "date": "2026-07-25",
+  "locationId": "5442",
+  "locationName": "Magoo's Sports Bar and Billards",
+  "playerCount": 8,
+  "ratingsDate": "2026-07-25",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m9011",
+      "name": "Brian Easterwood",
+      "rating": 1720.03,
+      "dailyRatingChange": 5.58
+    },
+    {
+      "position": 2,
+      "playerId": "m26027",
+      "name": "Alan Hamby",
+      "rating": 1677.96,
+      "dailyRatingChange": 4.88
+    },
+    {
+      "position": 3,
+      "playerId": "m18557",
+      "name": "Darla Eades",
+      "rating": 1516.79,
+      "dailyRatingChange": 9.9
+    },
+    {
+      "position": 4,
+      "playerId": "m5335",
+      "name": "Mike Denton",
+      "rating": 1578.97,
+      "dailyRatingChange": -4.44
+    },
+    {
+      "position": 5,
+      "playerId": "m25813",
+      "name": "Jason Reeder",
+      "rating": 1629.36,
+      "dailyRatingChange": -3.03
+    },
+    {
+      "position": 5,
+      "playerId": "m37610",
+      "name": "Tim Cornman",
+      "rating": 1547.19,
+      "dailyRatingChange": 1.8
+    },
+    {
+      "position": 7,
+      "playerId": "m24534",
+      "name": "Laurie Koller",
+      "rating": 1449.41,
+      "dailyRatingChange": 6.66
+    },
+    {
+      "position": 7,
+      "playerId": "m21488",
+      "name": "Chris Kircher",
+      "rating": 1620.83,
+      "dailyRatingChange": -5.46
+    }
+  ]
+}

@@ -1,0 +1,354 @@
+{
+  "tournamentId": 264246,
+  "name": "Brisbane Pinball Club 11/08/2026",
+  "date": "2026-08-11",
+  "locationId": "7371",
+  "locationName": "Netherworld",
+  "playerCount": 49,
+  "ratingsDate": "2026-08-11",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m15791",
+      "name": "Escher Lefkoff",
+      "rating": 1925.8,
+      "dailyRatingChange": 2.11
+    },
+    {
+      "position": 2,
+      "playerId": "m45667",
+      "name": "Connor Weekes",
+      "rating": 1640.02,
+      "dailyRatingChange": 4.58
+    },
+    {
+      "position": 3,
+      "playerId": "m12672",
+      "name": "Gino Thimios",
+      "rating": 1737.33,
+      "dailyRatingChange": -0.64
+    },
+    {
+      "position": 4,
+      "playerId": "m13279",
+      "name": "Michael Dodt",
+      "rating": 1663.76,
+      "dailyRatingChange": 0.73
+    },
+    {
+      "position": 5,
+      "playerId": "m27750",
+      "name": "Tony Fischer",
+      "rating": 1632.36,
+      "dailyRatingChange": -1.41
+    },
+    {
+      "position": 6,
+      "playerId": "m40067",
+      "name": "Lana Pellowe",
+      "rating": 1514.85,
+      "dailyRatingChange": -1.48
+    },
+    {
+      "position": 7,
+      "playerId": "m12724",
+      "name": "Jonathan Chabowski",
+      "rating": 1658.99,
+      "dailyRatingChange": -2.21
+    },
+    {
+      "position": 8,
+      "playerId": "m10279",
+      "name": "Tom Fletcher AUS",
+      "rating": 1661.68,
+      "dailyRatingChange": -3.13
+    },
+    {
+      "position": 9,
+      "playerId": "m43839",
+      "name": "Valerio Cassimatis",
+      "rating": 1588.73,
+      "dailyRatingChange": 0.15
+    },
+    {
+      "position": 10,
+      "playerId": "m35108",
+      "name": "Joe Doran",
+      "rating": 1646.07,
+      "dailyRatingChange": 4.64
+    },
+    {
+      "position": 11,
+      "playerId": "m2500",
+      "name": "Thibaut Allender",
+      "rating": 1627.66,
+      "dailyRatingChange": -2.14
+    },
+    {
+      "position": 12,
+      "playerId": "m8940",
+      "name": "Mike Pascale",
+      "rating": 1620.59,
+      "dailyRatingChange": 0.62
+    },
+    {
+      "position": 13,
+      "playerId": "m11730",
+      "name": "Emily Cosson",
+      "rating": 1648.67,
+      "dailyRatingChange": -2.18
+    },
+    {
+      "position": 14,
+      "playerId": "m35924",
+      "name": "Daniel Greenwood",
+      "rating": 1651.02,
+      "dailyRatingChange": 1.13
+    },
+    {
+      "position": 15,
+      "playerId": "m32251",
+      "name": "Chris Chris AUS",
+      "rating": 1569.79,
+      "dailyRatingChange": -4.89
+    },
+    {
+      "position": 16,
+      "playerId": "m26100",
+      "name": "Michelle O'Flanagan",
+      "rating": 1524.98,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 17,
+      "playerId": "m47321",
+      "name": "Eden Armstrong",
+      "rating": 1470.86,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 18,
+      "playerId": "m28113",
+      "name": "Paul Eliseo",
+      "rating": 1661.27,
+      "dailyRatingChange": 0.63
+    },
+    {
+      "position": 19,
+      "playerId": "m36071",
+      "name": "Will Stinson",
+      "rating": 1531.54,
+      "dailyRatingChange": 9.01
+    },
+    {
+      "position": 20,
+      "playerId": "m3782",
+      "name": "Ross Pattison",
+      "rating": 1535.72,
+      "dailyRatingChange": -0.04
+    },
+    {
+      "position": 21,
+      "playerId": "m4669",
+      "name": "Dan Olejniczak",
+      "rating": 1561.53,
+      "dailyRatingChange": -4.01
+    },
+    {
+      "position": 22,
+      "playerId": "m4807",
+      "name": "Bobby Rein",
+      "rating": 1631.74,
+      "dailyRatingChange": -3.17
+    },
+    {
+      "position": 23,
+      "playerId": "m44341",
+      "name": "Sharlene Green",
+      "rating": 1424.89,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 23,
+      "playerId": "m12721",
+      "name": "James Drury",
+      "rating": 1594.24,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 25,
+      "playerId": "m28309",
+      "name": "Justine Cadell",
+      "rating": 1495.53,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 26,
+      "playerId": "m39318",
+      "name": "Drew Van Dyk",
+      "rating": 1545.5,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 27,
+      "playerId": "m44687",
+      "name": "Kate Saint George",
+      "rating": 1497.96,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 28,
+      "playerId": "m30962",
+      "name": "Meg Hamilton",
+      "rating": 1553.84,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 29,
+      "playerId": "m49030",
+      "name": "Jeremy Kellar",
+      "rating": 1448.57,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 30,
+      "playerId": "m3995",
+      "name": "Michael Saunders",
+      "rating": 1588.42,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 31,
+      "playerId": "m9075",
+      "name": "Alex Thompson",
+      "rating": 1494.18,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 32,
+      "playerId": "m16978",
+      "name": "Adam Newton",
+      "rating": 1622.4,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 33,
+      "playerId": "m52262",
+      "name": "Ro Chadwick",
+      "rating": 1420.17,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 34,
+      "playerId": "m39317",
+      "name": "Caitlyn Apthorpe",
+      "rating": 1463.21,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 35,
+      "playerId": "m38297",
+      "name": "Tiana Templeman",
+      "rating": 1357.12,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 36,
+      "playerId": "m12647",
+      "name": "Tim Bragg",
+      "rating": 1536.16,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 37,
+      "playerId": "m25588",
+      "name": "Luke Roberts",
+      "rating": 1418.26,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 38,
+      "playerId": "m58141",
+      "name": "Chris Coleman AUS",
+      "rating": 1431.89,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 39,
+      "playerId": "m60908",
+      "name": "Sophie Tait",
+      "rating": 1460.06,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 40,
+      "playerId": "m62814",
+      "name": "Eric van Noort",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 41,
+      "playerId": "m586316",
+      "name": "Karolien van der Ouderaa",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 42,
+      "playerId": "m43061",
+      "name": "Adam West",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 43,
+      "playerId": "m52621",
+      "name": "Shannon Kalrow",
+      "rating": 1376.43,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 44,
+      "playerId": "m51076",
+      "name": "Josie Wallis",
+      "rating": 1486.56,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 45,
+      "playerId": "m58140",
+      "name": "Dannielle Tarlinton",
+      "rating": 1471.45,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 46,
+      "playerId": "m45310",
+      "name": "Lilly Bayly",
+      "rating": 1361.17,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 47,
+      "playerId": "m62815",
+      "name": "Wyatt Medlin",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 48,
+      "playerId": "m586315",
+      "name": "Philip van Noort",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 49,
+      "playerId": "m17690",
+      "name": "Nicolas Aizier",
+      "rating": 1607.8,
+      "dailyRatingChange": 0
+    }
+  ]
+}

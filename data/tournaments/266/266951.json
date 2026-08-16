@@ -1,0 +1,53 @@
+{
+  "tournamentId": 266951,
+  "name": "3BC Pop Up - Aug 13",
+  "date": "2026-08-14",
+  "locationId": "7977",
+  "locationName": "Beercade 2",
+  "playerCount": 6,
+  "ratingsDate": null,
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m14278",
+      "name": "Nic Beatty",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 2,
+      "playerId": "m12077",
+      "name": "Victor Garcia",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 2,
+      "playerId": "m28579",
+      "name": "Johnny Garcia",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 4,
+      "playerId": "i79411",
+      "name": "Lindsay Wiley",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 5,
+      "playerId": "m11594",
+      "name": "Josh Weatherly",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 6,
+      "playerId": "m26782",
+      "name": "Derek Babb",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

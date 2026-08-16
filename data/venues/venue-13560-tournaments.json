@@ -1,0 +1,52 @@
+{
+  "locationId": "13560",
+  "venueName": "The Pool Turtle",
+  "venueAddress": "3409 Covington Hwy, Decatur, GA 30032, US",
+  "tournaments": [
+    {
+      "id": 255964,
+      "name": "Atlanta Belles and Chimes MPB August 12th",
+      "date": "8/12/2026",
+      "playerCount": 6,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m47812",
+          "name": "Sarah Warlick",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m20246",
+          "name": "Ally Fuller",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m6126",
+          "name": "Karrie Weddle",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m3301",
+          "name": "Tina Park",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 263844,
+      "name": "Finals for Fins n' Flippers Weekly Tournament",
+      "date": "7/25/2026",
+      "playerCount": 8,
+      "qualifying": {
+        "id": 261070,
+        "name": "Fins n' Flippers Weekly Tournament",
+        "playerCount": 15
+      },
+      "standings": []
+    }
+  ]
+}

@@ -1,0 +1,179 @@
+{
+  "locationId": "5828",
+  "name": "Dan's place",
+  "address": "",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 12,
+  "relatedVenues": [
+    {
+      "locationId": "3674",
+      "name": "Up-Down Milwaukee",
+      "address": "615 E Brady St, Milwaukee, WI 53202, USA",
+      "count": 10
+    },
+    {
+      "locationId": "1552",
+      "name": "Fred's place",
+      "address": "",
+      "count": 7
+    },
+    {
+      "locationId": "8494",
+      "name": "Vegga's Pub",
+      "address": "2479 North Fratney Street, Milwaukee, WI 53212, US",
+      "count": 4
+    },
+    {
+      "locationId": "3132",
+      "name": "Blackbird Bar",
+      "address": "3007 South Kinnickinnic Ave, Milwaukee, WI, 53207, US",
+      "count": 1
+    }
+  ],
+  "players": [
+    {
+      "id": "m42588",
+      "name": "Carl VanDommelen",
+      "rating": 1663.22,
+      "rd": 50.69,
+      "ratingClass": "A",
+      "homeLocation": "Fred's place",
+      "homeLocationId": "1552",
+      "percentile": 93.403829133088,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m15139",
+      "name": "Todd Miller",
+      "rating": 1597.45,
+      "rd": 19.92,
+      "ratingClass": "B",
+      "homeLocation": "Up-Down Milwaukee",
+      "homeLocationId": "3674",
+      "percentile": 81.36674896352541,
+      "changeDisplay": "-6.2",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m38582",
+      "name": "David Poehlmann",
+      "rating": 1592.15,
+      "rd": 50.97,
+      "ratingClass": "B",
+      "homeLocation": "Dan's place",
+      "homeLocationId": "5828",
+      "percentile": 80.06707970373131,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m24255",
+      "name": "AJ “MR Wonderful” REID",
+      "rating": 1574.12,
+      "rd": 40.4,
+      "ratingClass": "B",
+      "homeLocation": "Fred's place",
+      "homeLocationId": "1552",
+      "percentile": 74.84976941351842,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m23183",
+      "name": "Ed G.",
+      "rating": 1553.08,
+      "rd": 47.42,
+      "ratingClass": "B",
+      "homeLocation": "Dan's place",
+      "homeLocationId": "5828",
+      "percentile": 67.93683327898636,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m5020",
+      "name": "Fred Walls",
+      "rating": 1535.9,
+      "rd": 41.84,
+      "ratingClass": "B",
+      "homeLocation": "Fred's place",
+      "homeLocationId": "1552",
+      "percentile": 61.3779289141473,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m56509",
+      "name": "Cameron Smith",
+      "rating": 1531.82,
+      "rd": 60.53,
+      "ratingClass": "B",
+      "homeLocation": "Dan's place",
+      "homeLocationId": "5828",
+      "percentile": 59.780127637769596,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m38579",
+      "name": "Andy Corner",
+      "rating": 1524.99,
+      "rd": 41,
+      "ratingClass": "B",
+      "homeLocation": "Fred's place",
+      "homeLocationId": "1552",
+      "percentile": 57.110914426794615,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m45404",
+      "name": "George Wallls",
+      "rating": 1492.57,
+      "rd": 47.01,
+      "ratingClass": "C",
+      "homeLocation": "Fred's place",
+      "homeLocationId": "1552",
+      "percentile": 44.08627195229888,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m38731",
+      "name": "Carrie Walls",
+      "rating": 1483.62,
+      "rd": 45.63,
+      "ratingClass": "C",
+      "homeLocation": "Fred's place",
+      "homeLocationId": "1552",
+      "percentile": 40.37825499604043,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m26776",
+      "name": "Brian Connolly",
+      "rating": 1479.62,
+      "rd": 45.14,
+      "ratingClass": "C",
+      "homeLocation": "Dan's place",
+      "homeLocationId": "5828",
+      "percentile": 38.77113709414451,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m56109",
+      "name": "Randy Smith",
+      "rating": null,
+      "rd": null,
+      "ratingClass": "N/A",
+      "homeLocation": "Dan's place",
+      "homeLocationId": "5828",
+      "percentile": null,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

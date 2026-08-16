@@ -1,0 +1,143 @@
+{
+  "locationId": "12864",
+  "name": "Bumpers Pinball",
+  "address": "943 17th St, Vero Beach, FL 32960, US",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 6,
+  "relatedVenues": [
+    {
+      "locationId": "904",
+      "name": "The Pinball Asylum",
+      "address": "13721 Jetport Commerce Parkway, Unit 6 , Fort Myers, FL 33913",
+      "count": 3
+    },
+    {
+      "locationId": "8592",
+      "name": "Cody Craft Brewing",
+      "address": "1732 Sheridan Ave, Cody, WY 82414-3848",
+      "count": 3
+    },
+    {
+      "locationId": "9921",
+      "name": "Renaissance Atlanta Waverly Hotel & Convention Center",
+      "address": "2450 Galleria Pkwy Atlanta, GA 30339",
+      "count": 3
+    },
+    {
+      "locationId": "13126",
+      "name": "Arcade Laradise",
+      "address": "220 S 2nd St Laramie,Wy 82070",
+      "count": 3
+    },
+    {
+      "locationId": "888",
+      "name": "Al Pinball Garage",
+      "address": "",
+      "count": 2
+    },
+    {
+      "locationId": "8768",
+      "name": "Lowry Parcade",
+      "address": "1213 W Waters Ave, Tampa, FL 33604, US",
+      "count": 2
+    },
+    {
+      "locationId": "12267",
+      "name": "T&T Trinity Arcade Bar",
+      "address": "1338 Epiphany Wy N-105, Trinity, FL 34655, US",
+      "count": 2
+    },
+    {
+      "locationId": "5763",
+      "name": "Idaho Pinball Museum",
+      "address": "1104 N Cole Rd Boise, ID, United States, Idaho 83704",
+      "count": 1
+    },
+    {
+      "locationId": "7303",
+      "name": "The Pinball Lounge @Oviedo Bowling Center",
+      "address": "376 E Broadway Street, Oviedo, FL 32765, US",
+      "count": 1
+    },
+    {
+      "locationId": "7501",
+      "name": "Tepey’s Taps & Tacos",
+      "address": "2130 Kings Ave, Jacksonville, FL 32207, US",
+      "count": 1
+    }
+  ],
+  "players": [
+    {
+      "id": "m58114",
+      "name": "DJ Nelson",
+      "rating": 1592,
+      "rd": 40.62,
+      "ratingClass": "B",
+      "homeLocation": "Bumpers Pinball",
+      "homeLocationId": "12864",
+      "percentile": 80.02049657614012,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m51057",
+      "name": "Jonathan Zakel",
+      "rating": 1578.35,
+      "rd": 18.42,
+      "ratingClass": "B",
+      "homeLocation": "The Pinball Asylum",
+      "homeLocationId": "904",
+      "percentile": 76.14478036055341,
+      "changeDisplay": "+12.3",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m35530",
+      "name": "David Krepin",
+      "rating": 1554.18,
+      "rd": 32.88,
+      "ratingClass": "B",
+      "homeLocation": "Bumpers Pinball",
+      "homeLocationId": "12864",
+      "percentile": 68.38868961662085,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m52816",
+      "name": "Nick Lauritano",
+      "rating": 1453.16,
+      "rd": 36.74,
+      "ratingClass": "C",
+      "homeLocation": "Silverball Museum Delray Beach",
+      "homeLocationId": "7847",
+      "percentile": 28.31788326268226,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m39569",
+      "name": "Jerry Glattfelt",
+      "rating": 1452.11,
+      "rd": 46.1,
+      "ratingClass": "C",
+      "homeLocation": "Bumpers Pinball",
+      "homeLocationId": "12864",
+      "percentile": 27.940559929193647,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m45019",
+      "name": "Julia Glattfelt",
+      "rating": 1414.47,
+      "rd": 44.92,
+      "ratingClass": "C",
+      "homeLocation": "Bumpers Pinball",
+      "homeLocationId": "12864",
+      "percentile": 16.299436344156145,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

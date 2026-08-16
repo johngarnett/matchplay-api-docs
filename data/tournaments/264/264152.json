@@ -1,0 +1,137 @@
+{
+  "tournamentId": 264152,
+  "name": "STERN-ament @ Pinballz",
+  "date": "2026-07-28",
+  "locationId": "13143",
+  "locationName": "Pinballz Arcade",
+  "playerCount": 18,
+  "ratingsDate": "2026-07-28",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m61017",
+      "name": "Lei Tran",
+      "rating": 1541.13,
+      "dailyRatingChange": 23.92
+    },
+    {
+      "position": 2,
+      "playerId": "m60466",
+      "name": "Joshua Myers",
+      "rating": 1713.76,
+      "dailyRatingChange": 6.88
+    },
+    {
+      "position": 3,
+      "playerId": "i59533",
+      "name": "Hanson Keuler",
+      "rating": 1757.62,
+      "dailyRatingChange": -5.79
+    },
+    {
+      "position": 4,
+      "playerId": "m58509",
+      "name": "Chris Knapp",
+      "rating": 1523.55,
+      "dailyRatingChange": 3.18
+    },
+    {
+      "position": 5,
+      "playerId": "m62062",
+      "name": "Scott Csefai",
+      "rating": 1538.43,
+      "dailyRatingChange": null
+    },
+    {
+      "position": 6,
+      "playerId": "m568018",
+      "name": "Kyle Allen",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 7,
+      "playerId": "m62355",
+      "name": "Samantha Hlavaty",
+      "rating": 1527.4,
+      "dailyRatingChange": null
+    },
+    {
+      "position": 8,
+      "playerId": "m62356",
+      "name": "Veronica Supulski",
+      "rating": 1534.03,
+      "dailyRatingChange": null
+    },
+    {
+      "position": 9,
+      "playerId": "m62360",
+      "name": "Drew Nesbitt",
+      "rating": 1516.56,
+      "dailyRatingChange": null
+    },
+    {
+      "position": 10,
+      "playerId": "i159788",
+      "name": "Barry Miller",
+      "rating": 1519.66,
+      "dailyRatingChange": 2.68
+    },
+    {
+      "position": 11,
+      "playerId": "m60749",
+      "name": "James Reid",
+      "rating": 1579.86,
+      "dailyRatingChange": -5.12
+    },
+    {
+      "position": 12,
+      "playerId": "m49729",
+      "name": "Rae Friend",
+      "rating": 1461.05,
+      "dailyRatingChange": -1.2
+    },
+    {
+      "position": 13,
+      "playerId": "m62361",
+      "name": "Favian Juarez",
+      "rating": 1458.09,
+      "dailyRatingChange": null
+    },
+    {
+      "position": 14,
+      "playerId": "m568020",
+      "name": "Christian Knapp",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 15,
+      "playerId": "m58501",
+      "name": "Claire Knapp",
+      "rating": 1468.28,
+      "dailyRatingChange": -10.49
+    },
+    {
+      "position": 16,
+      "playerId": "m582558",
+      "name": "Levi Oertli",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 17,
+      "playerId": "m60478",
+      "name": "Alex Schalchlin",
+      "rating": 1414.43,
+      "dailyRatingChange": -15.41
+    },
+    {
+      "position": 18,
+      "playerId": "i160807",
+      "name": "Alex Knapp",
+      "rating": 1351.93,
+      "dailyRatingChange": -3.52
+    }
+  ]
+}

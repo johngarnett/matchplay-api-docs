@@ -1,0 +1,67 @@
+{
+  "tournamentId": 262674,
+  "name": "Finals for Belles & Chimes Phoenix 7/18/26",
+  "date": "2026-07-19",
+  "locationId": "12025",
+  "locationName": "The Outpost Arcade",
+  "playerCount": 8,
+  "ratingsDate": "2026-07-19",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m6969",
+      "name": "Olivia Helm",
+      "rating": 1607.49,
+      "dailyRatingChange": 8.23
+    },
+    {
+      "position": 2,
+      "playerId": "m43987",
+      "name": "Gabrielle Craft",
+      "rating": 1618.99,
+      "dailyRatingChange": -1.68
+    },
+    {
+      "position": 3,
+      "playerId": "m20984",
+      "name": "kelly mohs",
+      "rating": 1512.84,
+      "dailyRatingChange": 5.52
+    },
+    {
+      "position": 4,
+      "playerId": "m16473",
+      "name": "Meghan Bougher",
+      "rating": 1602.55,
+      "dailyRatingChange": -4.63
+    },
+    {
+      "position": 5,
+      "playerId": "i102789",
+      "name": "Stephany Miller",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 6,
+      "playerId": "m31401",
+      "name": "Mahina Hayashi",
+      "rating": 1578.78,
+      "dailyRatingChange": -2.51
+    },
+    {
+      "position": 7,
+      "playerId": "m19042",
+      "name": "Terri Boyd",
+      "rating": 1555.05,
+      "dailyRatingChange": -4.58
+    },
+    {
+      "position": 7,
+      "playerId": "m22306",
+      "name": "Valerie Doucette",
+      "rating": 1483.09,
+      "dailyRatingChange": -1.86
+    }
+  ]
+}

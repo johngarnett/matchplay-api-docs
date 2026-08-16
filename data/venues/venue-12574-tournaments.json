@@ -1,0 +1,151 @@
+{
+  "locationId": "12574",
+  "venueName": "Cascade Underground Pinball Society",
+  "venueAddress": "254 Lincoln St, Eugene, OR, 97401, US",
+  "tournaments": [
+    {
+      "id": 267153,
+      "name": "Finals for Fridays @ CUPS",
+      "date": "8/14/2026",
+      "playerCount": 8,
+      "qualifying": {
+        "id": 267109,
+        "name": "Fridays @ CUPS",
+        "playerCount": 22
+      },
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m2522",
+          "name": "Matt Walton",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m36768",
+          "name": "Nick Alden",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m8010",
+          "name": "Sunni Williams",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m14697",
+          "name": "Dominic Lemas",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 265819,
+      "name": "Finals for Fridays @ CUPS",
+      "date": "8/7/2026",
+      "playerCount": 8,
+      "qualifying": {
+        "id": 265818,
+        "name": "Fridays @ CUPS",
+        "playerCount": 24
+      },
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m34328",
+          "name": "Gary Kochel",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m36768",
+          "name": "Nick Alden",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m23834",
+          "name": "Michael Veirs",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m4071",
+          "name": "Ryan Whitmore",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 263705,
+      "name": "Finals for Fridays @ CUPS 7/24",
+      "date": "7/24/2026",
+      "playerCount": 4,
+      "qualifying": {
+        "id": 262967,
+        "name": "Fridays @ CUPS",
+        "playerCount": 12
+      },
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "i137495",
+          "name": "Zoe Scuderi",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "p581591",
+          "name": "Abby Gisler",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m45516",
+          "name": "Cendy Andersen",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m46439",
+          "name": "Marea Lemas",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 262559,
+      "name": "Fridays @ CUPS",
+      "date": "7/17/2026",
+      "playerCount": 23,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m4071",
+          "name": "Ryan Whitmore",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m29812",
+          "name": "Augie Nielson",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m19110",
+          "name": "Mason Kazer",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m20993",
+          "name": "Eric Merchant",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

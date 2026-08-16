@@ -1,0 +1,67 @@
+{
+  "tournamentId": 257888,
+  "name": "Jamestown Pinball Pub GM Monday (#9)",
+  "date": "2026-07-20",
+  "locationId": "13428",
+  "locationName": "Jamestown Hotel Pinball Pub",
+  "playerCount": 8,
+  "ratingsDate": "2026-07-20",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m6632",
+      "name": "Ray Gillett",
+      "rating": 1598.85,
+      "dailyRatingChange": 5.45
+    },
+    {
+      "position": 2,
+      "playerId": "m17500",
+      "name": "Scottie Taylor",
+      "rating": 1620.34,
+      "dailyRatingChange": 5.16
+    },
+    {
+      "position": 3,
+      "playerId": "m580238",
+      "name": "Lisa Berry",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 4,
+      "playerId": "m557883",
+      "name": "Peter McLennon",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 5,
+      "playerId": "m51737",
+      "name": "Jim Tyas",
+      "rating": 1524.05,
+      "dailyRatingChange": -5.06
+    },
+    {
+      "position": 6,
+      "playerId": "m580237",
+      "name": "Nico Adams",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 7,
+      "playerId": "m580236",
+      "name": "Wayne Obryan",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 8,
+      "playerId": "m7085",
+      "name": "Steve Dite",
+      "rating": 1500.2,
+      "dailyRatingChange": -17.89
+    }
+  ]
+}

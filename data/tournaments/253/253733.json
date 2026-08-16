@@ -1,0 +1,60 @@
+{
+  "tournamentId": 253733,
+  "name": "A Division Finals for KCMO Pinball League - July 22",
+  "date": "2026-07-23",
+  "locationId": "10584",
+  "locationName": "Solid State Pinball Supply",
+  "playerCount": 7,
+  "ratingsDate": "2026-07-23",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m369",
+      "name": "Steve Hill",
+      "rating": 1812.16,
+      "dailyRatingChange": -0.06
+    },
+    {
+      "position": 2,
+      "playerId": "m20223",
+      "name": "Brian Berg",
+      "rating": 1720.39,
+      "dailyRatingChange": 1.54
+    },
+    {
+      "position": 3,
+      "playerId": "m798",
+      "name": "Nick Greenup",
+      "rating": 1646.02,
+      "dailyRatingChange": 7.12
+    },
+    {
+      "position": 4,
+      "playerId": "m1666",
+      "name": "Dylan Michalski",
+      "rating": 1697.28,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 5,
+      "playerId": "m49340",
+      "name": "Jacob Burrows",
+      "rating": 1656.32,
+      "dailyRatingChange": -2.39
+    },
+    {
+      "position": 6,
+      "playerId": "m42782",
+      "name": "Dustin Forster",
+      "rating": 1563.29,
+      "dailyRatingChange": -2.62
+    },
+    {
+      "position": 7,
+      "playerId": "m31156",
+      "name": "Matt Kittrell",
+      "rating": 1673.82,
+      "dailyRatingChange": -3.11
+    }
+  ]
+}

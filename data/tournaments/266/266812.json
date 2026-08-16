@@ -1,0 +1,67 @@
+{
+  "tournamentId": 266812,
+  "name": "A Finals for ScrappleLeague 2026 Season 4",
+  "date": "2026-08-13",
+  "locationId": "11216",
+  "locationName": "Scrappleland",
+  "playerCount": 8,
+  "ratingsDate": null,
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m36713",
+      "name": "Stephen Perillo",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 2,
+      "playerId": "m48713",
+      "name": "Christian Klossner",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 3,
+      "playerId": "m396",
+      "name": "Mike Pantino",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 4,
+      "playerId": "m40192",
+      "name": "Ian Curd",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 5,
+      "playerId": "m344",
+      "name": "Greg Poverelli",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 6,
+      "playerId": "m22916",
+      "name": "Gabriel Chazanov",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 6,
+      "playerId": "m26645",
+      "name": "Harlan Aidalinda",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 8,
+      "playerId": "m681",
+      "name": "Adam Cane",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

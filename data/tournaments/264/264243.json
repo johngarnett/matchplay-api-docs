@@ -1,0 +1,123 @@
+{
+  "tournamentId": 264243,
+  "name": "The Tuesday Night Local 07-28-2026",
+  "date": "2026-07-29",
+  "locationId": "10621",
+  "locationName": "PCP",
+  "playerCount": 16,
+  "ratingsDate": "2026-07-29",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m35194",
+      "name": "Harrison Maxwell",
+      "rating": 1722.35,
+      "dailyRatingChange": 8.65
+    },
+    {
+      "position": 2,
+      "playerId": "m14190",
+      "name": "Austin Kemp",
+      "rating": 1740.35,
+      "dailyRatingChange": -3
+    },
+    {
+      "position": 3,
+      "playerId": "m34715",
+      "name": "Chris Noah",
+      "rating": 1645.7,
+      "dailyRatingChange": 3.29
+    },
+    {
+      "position": 4,
+      "playerId": "m289",
+      "name": "Ken Kemp",
+      "rating": 1684.37,
+      "dailyRatingChange": -4.32
+    },
+    {
+      "position": 5,
+      "playerId": "i160174",
+      "name": "Mark Cappio",
+      "rating": 1454.94,
+      "dailyRatingChange": 35.91
+    },
+    {
+      "position": 5,
+      "playerId": "m23302",
+      "name": "Savannah Archuleta",
+      "rating": 1642.58,
+      "dailyRatingChange": -0.01
+    },
+    {
+      "position": 7,
+      "playerId": "m22831",
+      "name": "April Kemp",
+      "rating": 1494.41,
+      "dailyRatingChange": 8.41
+    },
+    {
+      "position": 8,
+      "playerId": "m2436",
+      "name": "Brian Fletcher",
+      "rating": 1500.41,
+      "dailyRatingChange": 4.68
+    },
+    {
+      "position": 9,
+      "playerId": "m56869",
+      "name": "Dylan Ornelas",
+      "rating": 1567.51,
+      "dailyRatingChange": -0.07
+    },
+    {
+      "position": 10,
+      "playerId": "m58482",
+      "name": "Joey Hamad",
+      "rating": 1533.37,
+      "dailyRatingChange": -1.99
+    },
+    {
+      "position": 10,
+      "playerId": "m49415",
+      "name": "Jenna Johnson",
+      "rating": 1444.27,
+      "dailyRatingChange": 2.36
+    },
+    {
+      "position": 10,
+      "playerId": "m580562",
+      "name": "Lynne Garrett",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 10,
+      "playerId": "m582680",
+      "name": "Sophia Woody",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 14,
+      "playerId": "m11891",
+      "name": "Mike Archuleta",
+      "rating": 1625.48,
+      "dailyRatingChange": -13.88
+    },
+    {
+      "position": 15,
+      "playerId": "m30725",
+      "name": "Joe Woody",
+      "rating": 1375.98,
+      "dailyRatingChange": -6.84
+    },
+    {
+      "position": 16,
+      "playerId": "m582682",
+      "name": "Brinley Strong",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "locationId": "11829",
+  "venueName": "Shananigans",
+  "venueAddress": "717 N 6th St, Monroe, LA 71201, US",
+  "tournaments": [
+    {
+      "id": 260111,
+      "name": "August Transformers Launch Party",
+      "date": "8/1/2026",
+      "playerCount": 26,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m11255",
+          "name": "Scott Henderson",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m11598",
+          "name": "Rob Burnside",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "i145332",
+          "name": "Dallas Perryman",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m47193",
+          "name": "John Ford",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

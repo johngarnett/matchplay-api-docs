@@ -1,0 +1,109 @@
+{
+  "tournamentId": 263696,
+  "name": "Skill Shot Arcade Transformers Launch Knockout",
+  "date": "2026-07-25",
+  "locationId": "5619",
+  "locationName": "Skill Shot Arcade",
+  "playerCount": 14,
+  "ratingsDate": "2026-07-25",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m391",
+      "name": "Eric Russell",
+      "rating": 1704.49,
+      "dailyRatingChange": 4.06
+    },
+    {
+      "position": 2,
+      "playerId": "m3300",
+      "name": "Andy Cushman",
+      "rating": 1698.06,
+      "dailyRatingChange": -2.59
+    },
+    {
+      "position": 3,
+      "playerId": "m19411",
+      "name": "Michael Geiss",
+      "rating": 1690.22,
+      "dailyRatingChange": 6.78
+    },
+    {
+      "position": 4,
+      "playerId": "m4726",
+      "name": "Ryan Zlomek",
+      "rating": 1567.35,
+      "dailyRatingChange": 38.3
+    },
+    {
+      "position": 5,
+      "playerId": "m60164",
+      "name": "Kristopher Korzec",
+      "rating": 1497.52,
+      "dailyRatingChange": 10.19
+    },
+    {
+      "position": 6,
+      "playerId": "m19408",
+      "name": "Orion Smith",
+      "rating": 1578.27,
+      "dailyRatingChange": 7.5
+    },
+    {
+      "position": 7,
+      "playerId": "m60089",
+      "name": "Shannon Korzec",
+      "rating": 1452.43,
+      "dailyRatingChange": 8.16
+    },
+    {
+      "position": 8,
+      "playerId": "m59925",
+      "name": "Alex Tracy",
+      "rating": 1521.1,
+      "dailyRatingChange": 1.07
+    },
+    {
+      "position": 9,
+      "playerId": "m29581",
+      "name": "David Urbanek",
+      "rating": 1518.41,
+      "dailyRatingChange": 0.86
+    },
+    {
+      "position": 10,
+      "playerId": "m3337",
+      "name": "Mike Smith CNY",
+      "rating": 1527.93,
+      "dailyRatingChange": -13.48
+    },
+    {
+      "position": 10,
+      "playerId": "m33706",
+      "name": "Jonathan Rodriguez",
+      "rating": 1624.27,
+      "dailyRatingChange": -13.4
+    },
+    {
+      "position": 12,
+      "playerId": "m581699",
+      "name": "Angel Alejo",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 12,
+      "playerId": "m581700",
+      "name": "Maria Alejo",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 14,
+      "playerId": "m59905",
+      "name": "John Dent",
+      "rating": 1504.83,
+      "dailyRatingChange": -15.36
+    }
+  ]
+}

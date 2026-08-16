@@ -1,0 +1,67 @@
+{
+  "tournamentId": 264394,
+  "name": "Gk double head to head final",
+  "date": "2026-07-29",
+  "locationId": "7334",
+  "locationName": "Ground Kontrol Classic Arcade",
+  "playerCount": 8,
+  "ratingsDate": "2026-07-29",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m28287",
+      "name": "Evan Amano",
+      "rating": 1739.27,
+      "dailyRatingChange": 2.68
+    },
+    {
+      "position": 2,
+      "playerId": "m7530",
+      "name": "Mathew Peterson",
+      "rating": 1708.12,
+      "dailyRatingChange": 0.66
+    },
+    {
+      "position": 3,
+      "playerId": "m41506",
+      "name": "Tommy Scafidi",
+      "rating": 1655.49,
+      "dailyRatingChange": 0.64
+    },
+    {
+      "position": 3,
+      "playerId": "m15794",
+      "name": "Mike Smith PDX",
+      "rating": 1634.92,
+      "dailyRatingChange": -0.07
+    },
+    {
+      "position": 5,
+      "playerId": "m52665",
+      "name": "Omar Gama",
+      "rating": 1611.67,
+      "dailyRatingChange": -1.14
+    },
+    {
+      "position": 5,
+      "playerId": "m42880",
+      "name": "Nicholas Curtis",
+      "rating": 1685.25,
+      "dailyRatingChange": -1.34
+    },
+    {
+      "position": 5,
+      "playerId": "m568057",
+      "name": "Collin Barnes",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 5,
+      "playerId": "m13686",
+      "name": "David Krueger",
+      "rating": 1672.43,
+      "dailyRatingChange": -1.8
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "tournamentId": 266040,
+  "name": "Finals for Ice Box Friday Night Live 8/7/26",
+  "date": "2026-08-08",
+  "locationId": "4319",
+  "locationName": "Ice Box Arcade",
+  "playerCount": 4,
+  "ratingsDate": "2026-08-08",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m11162",
+      "name": "Sean Irby",
+      "rating": 1731.25,
+      "dailyRatingChange": 4.62
+    },
+    {
+      "position": 2,
+      "playerId": "m6165",
+      "name": "Hayden Harker",
+      "rating": 1677.98,
+      "dailyRatingChange": 13.08
+    },
+    {
+      "position": 3,
+      "playerId": "m3563",
+      "name": "Robbie Finnigan",
+      "rating": 1656.38,
+      "dailyRatingChange": 7.2
+    },
+    {
+      "position": 4,
+      "playerId": "m33371",
+      "name": "Owen Weyland",
+      "rating": 1709.4,
+      "dailyRatingChange": 0.19
+    }
+  ]
+}

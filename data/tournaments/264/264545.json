@@ -1,0 +1,81 @@
+{
+  "tournamentId": 264545,
+  "name": "End of The Month Tournament BA Start SLO Town",
+  "date": "2026-07-30",
+  "locationId": "9906",
+  "locationName": "B. A. Start Arcade and Tap - A Pinball Lounge & Social Club",
+  "playerCount": 10,
+  "ratingsDate": "2026-07-30",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m39159",
+      "name": "Timber Amaral",
+      "rating": 1560.98,
+      "dailyRatingChange": 46.41
+    },
+    {
+      "position": 2,
+      "playerId": "i8622",
+      "name": "Mike Nedresky",
+      "rating": 1673.69,
+      "dailyRatingChange": 5.78
+    },
+    {
+      "position": 3,
+      "playerId": "m269938",
+      "name": "Biba Pickles",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 4,
+      "playerId": "m28971",
+      "name": "Randall Lakey",
+      "rating": 1537.92,
+      "dailyRatingChange": 1.42
+    },
+    {
+      "position": 5,
+      "playerId": "m40904",
+      "name": "Alex Younger",
+      "rating": 1544.6,
+      "dailyRatingChange": 2.48
+    },
+    {
+      "position": 6,
+      "playerId": "i35046",
+      "name": "Dale Green",
+      "rating": 1629.12,
+      "dailyRatingChange": -9.18
+    },
+    {
+      "position": 7,
+      "playerId": "i124582",
+      "name": "Justin Miner",
+      "rating": 1638.38,
+      "dailyRatingChange": -11.97
+    },
+    {
+      "position": 8,
+      "playerId": "i69855",
+      "name": "Zach Johnson",
+      "rating": 1532.91,
+      "dailyRatingChange": -6
+    },
+    {
+      "position": 9,
+      "playerId": "i125477",
+      "name": "David Woods",
+      "rating": 1373.52,
+      "dailyRatingChange": -2.94
+    },
+    {
+      "position": 10,
+      "playerId": "i136436",
+      "name": "Jason Cook",
+      "rating": 1363.68,
+      "dailyRatingChange": -14.86
+    }
+  ]
+}

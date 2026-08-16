@@ -1,0 +1,53 @@
+{
+  "tournamentId": 263250,
+  "name": "PinCrossing Pinball League - Spring 2026 - B Finals",
+  "date": "2026-07-23",
+  "locationId": "6971",
+  "locationName": "Railroad Street Bar and Grill",
+  "playerCount": 6,
+  "ratingsDate": "2026-07-23",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m58383",
+      "name": "Albert Zuba",
+      "rating": 1603.79,
+      "dailyRatingChange": 2.63
+    },
+    {
+      "position": 2,
+      "playerId": "m4347",
+      "name": "Stephen Haberman",
+      "rating": 1550.25,
+      "dailyRatingChange": 1.12
+    },
+    {
+      "position": 3,
+      "playerId": "m60160",
+      "name": "Maddie Scalea",
+      "rating": 1319.8,
+      "dailyRatingChange": 5.2
+    },
+    {
+      "position": 4,
+      "playerId": "m53344",
+      "name": "Connor Miles",
+      "rating": 1497.56,
+      "dailyRatingChange": -15.85
+    },
+    {
+      "position": 4,
+      "playerId": "m30009",
+      "name": "Lisa McKale",
+      "rating": 1225.34,
+      "dailyRatingChange": 11.72
+    },
+    {
+      "position": 6,
+      "playerId": "m18529",
+      "name": "Tori Clipp",
+      "rating": 1304.69,
+      "dailyRatingChange": -11.9
+    }
+  ]
+}

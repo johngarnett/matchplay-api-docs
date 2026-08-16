@@ -1,0 +1,139 @@
+{
+  "locationId": "13069",
+  "venueName": "The Fraternity Club",
+  "venueAddress": "11 Bourke St, Fairy Meadow",
+  "tournaments": [
+    {
+      "id": 260169,
+      "name": "Illawarra Pinball Club - Fair Strikes",
+      "date": "8/9/2026",
+      "playerCount": 45,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m42085",
+          "name": "Sue Hantzi",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "i159758",
+          "name": "Giles Bowen",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m9285",
+          "name": "Peter Menzel",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m47097",
+          "name": "Craig Stanford",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m52577",
+          "name": "Alex Williams AUS",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 266035,
+      "name": "Position '16' Playoff (for only 2 players)",
+      "date": "8/8/2026",
+      "playerCount": 2,
+      "qualifying": {
+        "id": 263673,
+        "name": "Illawarra Pinball Open 2026",
+        "playerCount": 85
+      },
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m32732",
+          "name": "Richard Suters",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m11522",
+          "name": "Andre Thomson",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 265581,
+      "name": "Pinawarra #39 - Top 16 Finals",
+      "date": "8/7/2026",
+      "playerCount": 16,
+      "qualifying": {
+        "id": 265578,
+        "name": "Pinawarra #39",
+        "playerCount": 61
+      },
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m22178",
+          "name": "Josh Burke",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m757",
+          "name": "Jason Lambert AUS",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m774",
+          "name": "Joe Wade AUS",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m57885",
+          "name": "Sienna Wilson",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 265746,
+      "name": "Position '16' Playoff (for 3 or more players)",
+      "date": "8/7/2026",
+      "playerCount": 3,
+      "qualifying": {
+        "id": 265578,
+        "name": "Pinawarra #39",
+        "playerCount": 61
+      },
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m48162",
+          "name": "James Chalki",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m5580",
+          "name": "Adam Wilson",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m57831",
+          "name": "Peter Godfrey",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

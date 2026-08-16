@@ -1,0 +1,81 @@
+{
+  "tournamentId": 264356,
+  "name": "Belles play 7/28",
+  "date": "2026-07-29",
+  "locationId": "11526",
+  "locationName": "Play",
+  "playerCount": 10,
+  "ratingsDate": "2026-07-29",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m8010",
+      "name": "Sunni Williams",
+      "rating": 1575.76,
+      "dailyRatingChange": 2.28
+    },
+    {
+      "position": 2,
+      "playerId": "i113760",
+      "name": "Holly Shutes",
+      "rating": 1434.11,
+      "dailyRatingChange": 39.23
+    },
+    {
+      "position": 3,
+      "playerId": "m35831",
+      "name": "Kay McFadyen",
+      "rating": 1467.09,
+      "dailyRatingChange": 3.86
+    },
+    {
+      "position": 4,
+      "playerId": "m2144",
+      "name": "Megan Landers",
+      "rating": 1526.66,
+      "dailyRatingChange": -2.75
+    },
+    {
+      "position": 5,
+      "playerId": "m25256",
+      "name": "Jen Daeges",
+      "rating": 1461.68,
+      "dailyRatingChange": 3.08
+    },
+    {
+      "position": 6,
+      "playerId": "m582731",
+      "name": "Abby Gisler",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 6,
+      "playerId": "m55819",
+      "name": "Fieldan Rousseau",
+      "rating": 1414.1,
+      "dailyRatingChange": 2.96
+    },
+    {
+      "position": 8,
+      "playerId": "m45688",
+      "name": "Genoa Ferguson",
+      "rating": 1360.32,
+      "dailyRatingChange": 0.54
+    },
+    {
+      "position": 9,
+      "playerId": "m31688",
+      "name": "Annie Smith",
+      "rating": 1512.85,
+      "dailyRatingChange": -11.27
+    },
+    {
+      "position": 10,
+      "playerId": "m25882",
+      "name": "Emrys St. Giles",
+      "rating": 1448.88,
+      "dailyRatingChange": -12.38
+    }
+  ]
+}

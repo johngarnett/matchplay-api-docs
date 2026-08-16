@@ -1,0 +1,60 @@
+{
+  "tournamentId": 261977,
+  "name": "Sauwald Pinball League 2026 - Day 4",
+  "date": "2026-07-21",
+  "locationId": "12768",
+  "locationName": "Ferdl´s Gartenhütte",
+  "playerCount": 7,
+  "ratingsDate": "2026-07-21",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m28071",
+      "name": "Helmut Lechner",
+      "rating": 1574.66,
+      "dailyRatingChange": 10.98
+    },
+    {
+      "position": 2,
+      "playerId": "m580471",
+      "name": "Streibl Julian",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 3,
+      "playerId": "m20563",
+      "name": "Josef Gangl",
+      "rating": 1532.26,
+      "dailyRatingChange": 2.31
+    },
+    {
+      "position": 4,
+      "playerId": "m427737",
+      "name": "Aumayr Patric",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 5,
+      "playerId": "m578664",
+      "name": "Stöckl Martin",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 6,
+      "playerId": "m550553",
+      "name": "Ertl Felix",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 7,
+      "playerId": "m522722",
+      "name": "Ferdinand Schwendinger",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

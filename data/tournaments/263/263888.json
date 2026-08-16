@@ -1,0 +1,39 @@
+{
+  "tournamentId": 263888,
+  "name": "B Finals for What's Brewing? Stern Pinball Transformers:MTMTE Launch Party",
+  "date": "2026-07-26",
+  "locationId": "2123",
+  "locationName": "What's Brewing? Coffee Roasters",
+  "playerCount": 4,
+  "ratingsDate": "2026-07-26",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m8321",
+      "name": "Emmett Gronnevik",
+      "rating": 1522.79,
+      "dailyRatingChange": 3.74
+    },
+    {
+      "position": 2,
+      "playerId": "m14876",
+      "name": "michael bulla",
+      "rating": 1556.96,
+      "dailyRatingChange": -0.55
+    },
+    {
+      "position": 3,
+      "playerId": "m43447",
+      "name": "Schuyler Allison",
+      "rating": 1527,
+      "dailyRatingChange": 9.49
+    },
+    {
+      "position": 4,
+      "playerId": "m14882",
+      "name": "Bryan Stinchcomb",
+      "rating": 1578.48,
+      "dailyRatingChange": 0.47
+    }
+  ]
+}

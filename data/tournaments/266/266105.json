@@ -1,0 +1,81 @@
+{
+  "tournamentId": 266105,
+  "name": "Finals for RCMP Aug. 8th Battle for the Belt",
+  "date": "2026-08-08",
+  "locationId": "3687",
+  "locationName": "Rocket City Matchplay",
+  "playerCount": 10,
+  "ratingsDate": "2026-08-08",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m19185",
+      "name": "Paul Budko",
+      "rating": 1669.03,
+      "dailyRatingChange": -1
+    },
+    {
+      "position": 2,
+      "playerId": "m30480",
+      "name": "Josh philpott",
+      "rating": 1590.38,
+      "dailyRatingChange": 10.34
+    },
+    {
+      "position": 3,
+      "playerId": "m36181",
+      "name": "Matt Zollner",
+      "rating": 1568.7,
+      "dailyRatingChange": 7.15
+    },
+    {
+      "position": 4,
+      "playerId": "m53272",
+      "name": "Garrett Ulmer",
+      "rating": 1553.29,
+      "dailyRatingChange": 8.42
+    },
+    {
+      "position": 5,
+      "playerId": "m36580",
+      "name": "Jason Wilberding",
+      "rating": 1619.62,
+      "dailyRatingChange": -0.73
+    },
+    {
+      "position": 5,
+      "playerId": "m21329",
+      "name": "Jimmy Gable",
+      "rating": 1531.71,
+      "dailyRatingChange": -1.08
+    },
+    {
+      "position": 7,
+      "playerId": "m17552",
+      "name": "James Lawrence TN",
+      "rating": 1564.45,
+      "dailyRatingChange": 8.13
+    },
+    {
+      "position": 8,
+      "playerId": "m59167",
+      "name": "Tess Ellender",
+      "rating": 1490.76,
+      "dailyRatingChange": 10.55
+    },
+    {
+      "position": 9,
+      "playerId": "i158875",
+      "name": "Brandon Barker",
+      "rating": 1520.47,
+      "dailyRatingChange": -3.2
+    },
+    {
+      "position": 9,
+      "playerId": "m25790",
+      "name": "Rose Gwathney",
+      "rating": 1479.98,
+      "dailyRatingChange": 1.68
+    }
+  ]
+}

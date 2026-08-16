@@ -1,0 +1,95 @@
+{
+  "tournamentId": 263856,
+  "name": "Triple Knock Last Sunday Tournament (7/26/26)",
+  "date": "2026-07-26",
+  "locationId": "9721",
+  "locationName": "The Triple Knock",
+  "playerCount": 12,
+  "ratingsDate": "2026-07-26",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m26678",
+      "name": "Kilian Inglett",
+      "rating": 1720.11,
+      "dailyRatingChange": 9.75
+    },
+    {
+      "position": 2,
+      "playerId": "m37861",
+      "name": "Craig Garrett",
+      "rating": 1664.44,
+      "dailyRatingChange": -2.2
+    },
+    {
+      "position": 3,
+      "playerId": "m5857",
+      "name": "Arthur Eckhardt",
+      "rating": 1608.6,
+      "dailyRatingChange": -4.1
+    },
+    {
+      "position": 4,
+      "playerId": "m25690",
+      "name": "Justin Pottorff",
+      "rating": 1553.24,
+      "dailyRatingChange": 31.8
+    },
+    {
+      "position": 5,
+      "playerId": "m19264",
+      "name": "Jordan West",
+      "rating": 1496.78,
+      "dailyRatingChange": 3.86
+    },
+    {
+      "position": 6,
+      "playerId": "m55969",
+      "name": "Ty Dillow",
+      "rating": 1436.65,
+      "dailyRatingChange": 5.68
+    },
+    {
+      "position": 7,
+      "playerId": "m28800",
+      "name": "Ryan Slanicka",
+      "rating": 1681.62,
+      "dailyRatingChange": -0.66
+    },
+    {
+      "position": 8,
+      "playerId": "m7961",
+      "name": "Altwin Hawksford",
+      "rating": 1536.79,
+      "dailyRatingChange": -5.19
+    },
+    {
+      "position": 8,
+      "playerId": "m582216",
+      "name": "Madison Mail",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 10,
+      "playerId": "m133191",
+      "name": "Dan Zunich",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 11,
+      "playerId": "m61801",
+      "name": "Mathew Hasting",
+      "rating": 1411.73,
+      "dailyRatingChange": -34.94
+    },
+    {
+      "position": 12,
+      "playerId": "m20960",
+      "name": "Rachel Fulton",
+      "rating": 1396.25,
+      "dailyRatingChange": -9.29
+    }
+  ]
+}

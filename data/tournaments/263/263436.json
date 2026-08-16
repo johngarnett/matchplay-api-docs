@@ -1,0 +1,81 @@
+{
+  "tournamentId": 263436,
+  "name": "DBLRNDRBN",
+  "date": "2026-07-23",
+  "locationId": "8539",
+  "locationName": "Flipperikellari",
+  "playerCount": 10,
+  "ratingsDate": "2026-07-23",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m9786",
+      "name": "Veikko Pakkala",
+      "rating": 1562.63,
+      "dailyRatingChange": 4.71
+    },
+    {
+      "position": 1,
+      "playerId": "m43503",
+      "name": "Lari Lehmusvuori",
+      "rating": 1491.74,
+      "dailyRatingChange": 46.34
+    },
+    {
+      "position": 3,
+      "playerId": "m41357",
+      "name": "Kimmo Aaltonen",
+      "rating": 1532.28,
+      "dailyRatingChange": 5.8
+    },
+    {
+      "position": 3,
+      "playerId": "m473110",
+      "name": "Kai Hahl",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 5,
+      "playerId": "m22696",
+      "name": "Erno Lahdenperä",
+      "rating": 1598.15,
+      "dailyRatingChange": -8.59
+    },
+    {
+      "position": 5,
+      "playerId": "m39404",
+      "name": "Aleksi Matsi",
+      "rating": 1552.19,
+      "dailyRatingChange": 7.24
+    },
+    {
+      "position": 7,
+      "playerId": "m581089",
+      "name": "Joonas Hyvönen",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 8,
+      "playerId": "m32452",
+      "name": "Sirpa Kokkinen",
+      "rating": 1418.59,
+      "dailyRatingChange": -3.89
+    },
+    {
+      "position": 8,
+      "playerId": "m519711",
+      "name": "Mikael Rinne",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 10,
+      "playerId": "m486607",
+      "name": "Nicklas Kurkio",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

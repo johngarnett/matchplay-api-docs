@@ -1,0 +1,39 @@
+{
+  "tournamentId": 262969,
+  "name": "Finals for Quarters Weekly Pinball-Season 1, Episode 4",
+  "date": "2026-07-31",
+  "locationId": "13497",
+  "locationName": "The Crossroads",
+  "playerCount": 4,
+  "ratingsDate": "2026-07-31",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "i14107",
+      "name": "Josh Jertberg",
+      "rating": 1606.36,
+      "dailyRatingChange": 20.38
+    },
+    {
+      "position": 2,
+      "playerId": "m47129",
+      "name": "Scott Brady LA",
+      "rating": 1644.14,
+      "dailyRatingChange": 5.65
+    },
+    {
+      "position": 3,
+      "playerId": "m46520",
+      "name": "Brett Powers",
+      "rating": 1604.42,
+      "dailyRatingChange": 10.66
+    },
+    {
+      "position": 4,
+      "playerId": "i136988",
+      "name": "Ed Haik",
+      "rating": 1599.05,
+      "dailyRatingChange": -9.2
+    }
+  ]
+}

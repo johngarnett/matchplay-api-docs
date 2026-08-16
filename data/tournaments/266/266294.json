@@ -1,0 +1,88 @@
+{
+  "tournamentId": 266294,
+  "name": "SSBc August 9th",
+  "date": "2026-08-09",
+  "locationId": "10061",
+  "locationName": "Sandy Springs Brewing Company",
+  "playerCount": 11,
+  "ratingsDate": "2026-08-09",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m50267",
+      "name": "Jason Croston",
+      "rating": 1627.94,
+      "dailyRatingChange": 5.89
+    },
+    {
+      "position": 2,
+      "playerId": "m22477",
+      "name": "Gregg Sayers",
+      "rating": 1613.55,
+      "dailyRatingChange": 2.13
+    },
+    {
+      "position": 3,
+      "playerId": "i102396",
+      "name": "Tim Brewer",
+      "rating": 1560.34,
+      "dailyRatingChange": 3.65
+    },
+    {
+      "position": 4,
+      "playerId": "i138705",
+      "name": "Griffin Croston",
+      "rating": 1596.07,
+      "dailyRatingChange": -2.33
+    },
+    {
+      "position": 4,
+      "playerId": "m60421",
+      "name": "Kurt Immler",
+      "rating": 1498.35,
+      "dailyRatingChange": 8.14
+    },
+    {
+      "position": 4,
+      "playerId": "m56039",
+      "name": "Heather Immler",
+      "rating": 1498.01,
+      "dailyRatingChange": 1.49
+    },
+    {
+      "position": 7,
+      "playerId": "i148308",
+      "name": "Nick Embrogno",
+      "rating": 1601.03,
+      "dailyRatingChange": -4.57
+    },
+    {
+      "position": 7,
+      "playerId": "i148306",
+      "name": "Alex Metzger",
+      "rating": 1541.07,
+      "dailyRatingChange": -3.2
+    },
+    {
+      "position": 9,
+      "playerId": "i148307",
+      "name": "Tina Metzger",
+      "rating": 1403.07,
+      "dailyRatingChange": -2.3
+    },
+    {
+      "position": 9,
+      "playerId": "m60419",
+      "name": "Owen Immler",
+      "rating": 1507.27,
+      "dailyRatingChange": -11.35
+    },
+    {
+      "position": 11,
+      "playerId": "m31488",
+      "name": "Joe Miller OH",
+      "rating": 1538.86,
+      "dailyRatingChange": 31.2
+    }
+  ]
+}

@@ -1,0 +1,323 @@
+{
+  "locationId": "11040",
+  "name": "Global Brew Tap House",
+  "address": "2100 Prairie St, St. Charles, IL 60174, US",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 21,
+  "relatedVenues": [
+    {
+      "locationId": "12269",
+      "name": "Rec Haus",
+      "address": "12 N 3rd St, St. Charles, IL, 60174, US",
+      "count": 32
+    },
+    {
+      "locationId": "10071",
+      "name": "Two Brothers Tap House",
+      "address": "30W315 Calumet Ave W, Warrenville, IL 60555, US",
+      "count": 20
+    },
+    {
+      "locationId": "10431",
+      "name": "Pollyanna Brewing & Distilling Company - St Charles",
+      "address": "106 S Riverside Ave, St. Charles, IL 60174, US",
+      "count": 11
+    },
+    {
+      "locationId": "13824",
+      "name": "Superjumbo Records and Arcade",
+      "address": "55 S Lake St, Aurora, IL 60506, US",
+      "count": 10
+    },
+    {
+      "locationId": "12978",
+      "name": "The Pinball Capital",
+      "address": "3200 W Le Moyne St, Stone Park, IL 60165",
+      "count": 9
+    },
+    {
+      "locationId": "8601",
+      "name": "Bowlero",
+      "address": "1611 S Randall Rd, Algonquin, IL 60102, US",
+      "count": 7
+    },
+    {
+      "locationId": "10441",
+      "name": "CWF Arcade",
+      "address": "Elmhurst, IL",
+      "count": 6
+    },
+    {
+      "locationId": "13325",
+      "name": "Ervs Bar and Grill",
+      "address": "",
+      "count": 6
+    },
+    {
+      "locationId": "5770",
+      "name": "ORD",
+      "address": "",
+      "count": 2
+    },
+    {
+      "locationId": "8675",
+      "name": "Sew Hop’d",
+      "address": "1 Union Special Plaza, Huntley, IL 60142, US",
+      "count": 2
+    }
+  ],
+  "players": [
+    {
+      "id": "i88579",
+      "name": "Porter Somerlot",
+      "rating": 1694.34,
+      "rd": 28.2,
+      "ratingClass": "A",
+      "homeLocation": "Two Brothers Tap House",
+      "homeLocationId": "10071",
+      "percentile": 96.23142497787302,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m54367",
+      "name": "Joe Winans",
+      "rating": 1645.48,
+      "rd": 21.71,
+      "ratingClass": "A",
+      "homeLocation": "Rec Haus",
+      "homeLocationId": "12269",
+      "percentile": 91.08398937904691,
+      "changeDisplay": "+0.6",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m33023",
+      "name": "Dean Wheatley",
+      "rating": 1592.86,
+      "rd": 41.6,
+      "ratingClass": "B",
+      "homeLocation": "Global Brew Tap House",
+      "homeLocationId": "11040",
+      "percentile": 80.2161457120231,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m17719",
+      "name": "Zach Christopoulos",
+      "rating": 1572.36,
+      "rd": 19.99,
+      "ratingClass": "B",
+      "homeLocation": "The Pinball Capital",
+      "homeLocationId": "12978",
+      "percentile": 74.2721386313877,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m41769",
+      "name": "Brendan Laughlin",
+      "rating": 1567.97,
+      "rd": 20.94,
+      "ratingClass": "B",
+      "homeLocation": "Bowlero",
+      "homeLocationId": "8601",
+      "percentile": 72.85601155261564,
+      "changeDisplay": "+2.6",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "i88577",
+      "name": "James Somerlot",
+      "rating": 1564.23,
+      "rd": 38.14,
+      "ratingClass": "B",
+      "homeLocation": "Two Brothers Tap House",
+      "homeLocationId": "10071",
+      "percentile": 71.73801649042717,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i115384",
+      "name": "Mike Gerbitz",
+      "rating": 1537.55,
+      "rd": 38.34,
+      "ratingClass": "B",
+      "homeLocation": "Global Brew Tap House",
+      "homeLocationId": "11040",
+      "percentile": 62.08133414077422,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m47487",
+      "name": "Erv Rozsypal",
+      "rating": 1536.17,
+      "rd": 23.06,
+      "ratingClass": "B",
+      "homeLocation": "Rec Haus",
+      "homeLocationId": "12269",
+      "percentile": 61.508361671402625,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m48749",
+      "name": "George Lambert",
+      "rating": 1522.62,
+      "rd": 35.44,
+      "ratingClass": "B",
+      "homeLocation": "Global Brew Tap House",
+      "homeLocationId": "11040",
+      "percentile": 56.193226813248245,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m21327",
+      "name": "Greg Somerlot",
+      "rating": 1513.3,
+      "rd": 30.18,
+      "ratingClass": "B",
+      "homeLocation": "Two Brothers Tap House",
+      "homeLocationId": "10071",
+      "percentile": 52.47589323147156,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m29060",
+      "name": "Brian Pangborn",
+      "rating": 1510.92,
+      "rd": 22.91,
+      "ratingClass": "B",
+      "homeLocation": "Rec Haus",
+      "homeLocationId": "12269",
+      "percentile": 51.595472119998135,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i112598",
+      "name": "Katie Kraus",
+      "rating": 1489.51,
+      "rd": 59.77,
+      "ratingClass": "C",
+      "homeLocation": "Global Brew Tap House",
+      "homeLocationId": "11040",
+      "percentile": 42.828527507336844,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m46846",
+      "name": "Corbin Pangborn",
+      "rating": 1476.52,
+      "rd": 23.44,
+      "ratingClass": "C",
+      "homeLocation": "Rec Haus",
+      "homeLocationId": "12269",
+      "percentile": 37.504076023664226,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m29054",
+      "name": "Jamie Pangborn",
+      "rating": 1468.44,
+      "rd": 23.72,
+      "ratingClass": "C",
+      "homeLocation": "Rec Haus",
+      "homeLocationId": "12269",
+      "percentile": 34.252573717799415,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i19244",
+      "name": "Leah Wheatley",
+      "rating": 1468.23,
+      "rd": 63.12,
+      "ratingClass": "C",
+      "homeLocation": "CWF Arcade",
+      "homeLocationId": "10441",
+      "percentile": 34.182699026412635,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m51195",
+      "name": "George Lambert V",
+      "rating": 1455.87,
+      "rd": 36.84,
+      "ratingClass": "C",
+      "homeLocation": "Global Brew Tap House",
+      "homeLocationId": "11040",
+      "percentile": 29.384636884520425,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i135238",
+      "name": "Tyler Bice",
+      "rating": 1449.89,
+      "rd": 59.94,
+      "ratingClass": "C",
+      "homeLocation": "Global Brew Tap House",
+      "homeLocationId": "11040",
+      "percentile": 27.134671821866117,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i121935",
+      "name": "Tori Wheatley",
+      "rating": 1438.78,
+      "rd": 38.28,
+      "ratingClass": "C",
+      "homeLocation": "Global Brew Tap House",
+      "homeLocationId": "11040",
+      "percentile": 23.286905482834115,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i142151",
+      "name": "Lily Laughlin",
+      "rating": 1412.28,
+      "rd": 32.52,
+      "ratingClass": "C",
+      "homeLocation": "Bowlero",
+      "homeLocationId": "8601",
+      "percentile": 15.67056412167513,
+      "changeDisplay": "-14.2",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "i146737",
+      "name": "Aubreanna Christopoulos",
+      "rating": 1352.36,
+      "rd": 61.01,
+      "ratingClass": "D",
+      "homeLocation": "Global Brew Tap House",
+      "homeLocationId": "11040",
+      "percentile": 4.551171565658918,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i88574",
+      "name": "Heather Carig-Somerlot",
+      "rating": 1341.97,
+      "rd": 32.86,
+      "ratingClass": "D",
+      "homeLocation": "Two Brothers Tap House",
+      "homeLocationId": "10071",
+      "percentile": 3.423859877952206,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

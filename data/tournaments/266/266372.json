@@ -1,0 +1,88 @@
+{
+  "tournamentId": 266372,
+  "name": "Let’s Go To Shorty’s 72",
+  "date": "2026-08-10",
+  "locationId": "10988",
+  "locationName": "Shorty's",
+  "playerCount": 11,
+  "ratingsDate": "2026-08-10",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m45918",
+      "name": "Dakota Green",
+      "rating": 1505.32,
+      "dailyRatingChange": 7.81
+    },
+    {
+      "position": 2,
+      "playerId": "m1506",
+      "name": "Neil Kubath",
+      "rating": 1638.63,
+      "dailyRatingChange": -0.75
+    },
+    {
+      "position": 3,
+      "playerId": "m18704",
+      "name": "Steve Geluso",
+      "rating": 1479.14,
+      "dailyRatingChange": 4.32
+    },
+    {
+      "position": 4,
+      "playerId": "m7059",
+      "name": "Dwayne Collins",
+      "rating": 1511.82,
+      "dailyRatingChange": 1.34
+    },
+    {
+      "position": 5,
+      "playerId": "m3217",
+      "name": "Brian Chesbrough",
+      "rating": 1627.55,
+      "dailyRatingChange": -1.69
+    },
+    {
+      "position": 6,
+      "playerId": "m20230",
+      "name": "Ryan Tamm",
+      "rating": 1526.63,
+      "dailyRatingChange": -2.7
+    },
+    {
+      "position": 6,
+      "playerId": "m40480",
+      "name": "Donna Ruacho",
+      "rating": 1359.2,
+      "dailyRatingChange": 10.31
+    },
+    {
+      "position": 6,
+      "playerId": "m586152",
+      "name": "Dave Johanningmeier",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 9,
+      "playerId": "m53044",
+      "name": "Jordon Jahns-Budke",
+      "rating": 1390.92,
+      "dailyRatingChange": -3.18
+    },
+    {
+      "position": 9,
+      "playerId": "m586151",
+      "name": "Vanessa Allison",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 11,
+      "playerId": "m28825",
+      "name": "Ben Fodor",
+      "rating": 1542,
+      "dailyRatingChange": -0.24
+    }
+  ]
+}

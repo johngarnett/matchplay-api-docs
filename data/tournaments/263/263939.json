@@ -1,0 +1,151 @@
+{
+  "tournamentId": 263939,
+  "name": "Maltese V&V Benefit Tournament",
+  "date": "2026-07-26",
+  "locationId": "4194",
+  "locationName": "Maltese Brewing",
+  "playerCount": 20,
+  "ratingsDate": "2026-07-26",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m1499",
+      "name": "Andrew Pancoast",
+      "rating": 1816.02,
+      "dailyRatingChange": -9.56
+    },
+    {
+      "position": 2,
+      "playerId": "m18776",
+      "name": "Matt Larsen",
+      "rating": 1674.86,
+      "dailyRatingChange": -6.61
+    },
+    {
+      "position": 3,
+      "playerId": "m371",
+      "name": "Madmike Richardson",
+      "rating": 1586.65,
+      "dailyRatingChange": 7.59
+    },
+    {
+      "position": 4,
+      "playerId": "m33285",
+      "name": "Lauren Cooley",
+      "rating": 1652.16,
+      "dailyRatingChange": 12.42
+    },
+    {
+      "position": 5,
+      "playerId": "m29752",
+      "name": "Neil Jablonski",
+      "rating": 1531.17,
+      "dailyRatingChange": 9.04
+    },
+    {
+      "position": 6,
+      "playerId": "m13042",
+      "name": "James Allen",
+      "rating": 1660.72,
+      "dailyRatingChange": 14.89
+    },
+    {
+      "position": 7,
+      "playerId": "m24191",
+      "name": "Kate Hernandez",
+      "rating": 1514.62,
+      "dailyRatingChange": 12.81
+    },
+    {
+      "position": 8,
+      "playerId": "m29734",
+      "name": "Mark Migliaccio",
+      "rating": 1524.66,
+      "dailyRatingChange": 1.19
+    },
+    {
+      "position": 9,
+      "playerId": "m41965",
+      "name": "James Matarrese",
+      "rating": 1633.7,
+      "dailyRatingChange": -5.21
+    },
+    {
+      "position": 10,
+      "playerId": "m30212",
+      "name": "Lance Keylon",
+      "rating": 1658.66,
+      "dailyRatingChange": -7.31
+    },
+    {
+      "position": 10,
+      "playerId": "m28600",
+      "name": "Allison Hull",
+      "rating": 1469.13,
+      "dailyRatingChange": 7.52
+    },
+    {
+      "position": 12,
+      "playerId": "m380",
+      "name": "Dale Geiger",
+      "rating": 1704.38,
+      "dailyRatingChange": -9.27
+    },
+    {
+      "position": 13,
+      "playerId": "m23859",
+      "name": "Amy Hale",
+      "rating": 1341.9,
+      "dailyRatingChange": 17.91
+    },
+    {
+      "position": 14,
+      "playerId": "m22948",
+      "name": "Jena Heddings",
+      "rating": 1501.14,
+      "dailyRatingChange": 0.1
+    },
+    {
+      "position": 15,
+      "playerId": "m6365",
+      "name": "Allen Foglesong",
+      "rating": 1608.36,
+      "dailyRatingChange": -8.88
+    },
+    {
+      "position": 16,
+      "playerId": "m27447",
+      "name": "Smash Balch",
+      "rating": 1488.31,
+      "dailyRatingChange": -9.07
+    },
+    {
+      "position": 17,
+      "playerId": "m36931",
+      "name": "Kerry Keylon",
+      "rating": 1419.12,
+      "dailyRatingChange": 3.56
+    },
+    {
+      "position": 18,
+      "playerId": "m53249",
+      "name": "Andrew Fuchs",
+      "rating": 1445.47,
+      "dailyRatingChange": -22.42
+    },
+    {
+      "position": 19,
+      "playerId": "i90935",
+      "name": "Liz jones",
+      "rating": 1328.95,
+      "dailyRatingChange": 0.32
+    },
+    {
+      "position": 20,
+      "playerId": "i119523",
+      "name": "Margaret Fuchs",
+      "rating": 1424.31,
+      "dailyRatingChange": -16.95
+    }
+  ]
+}

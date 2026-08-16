@@ -1,0 +1,89 @@
+{
+  "locationId": "12354",
+  "name": "The Outlane",
+  "address": "Brøttemsvegen 807D, 7540 Klæbu, Norway",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 6,
+  "relatedVenues": [
+    {
+      "locationId": "1494",
+      "name": "Work-Work",
+      "address": "Munkegata 58, Trondheim, 7013, NO",
+      "count": 20
+    }
+  ],
+  "players": [
+    {
+      "id": "m2875",
+      "name": "Per Sindre Larsen",
+      "rating": 1702.36,
+      "rd": 34.46,
+      "ratingClass": "Expert",
+      "homeLocation": "Work-Work",
+      "homeLocationId": "1494",
+      "percentile": 96.7298644430987,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m37229",
+      "name": "Julian Sæther",
+      "rating": 1674.53,
+      "rd": 41.58,
+      "ratingClass": "A",
+      "homeLocation": "Work-Work",
+      "homeLocationId": "1494",
+      "percentile": 94.5544323845903,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m55",
+      "name": "Øyvind Møll",
+      "rating": 1608.86,
+      "rd": 30.72,
+      "ratingClass": "A",
+      "homeLocation": "Work-Work",
+      "homeLocationId": "1494",
+      "percentile": 84.18036987003308,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m9576",
+      "name": "Øyvind Repvik",
+      "rating": 1552.89,
+      "rd": 35.75,
+      "ratingClass": "B",
+      "homeLocation": "Work-Work",
+      "homeLocationId": "1494",
+      "percentile": 67.84366702380397,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m32664",
+      "name": "Andreas Møll",
+      "rating": 1490.74,
+      "rd": 31.84,
+      "ratingClass": "C",
+      "homeLocation": "Work-Work",
+      "homeLocationId": "1494",
+      "percentile": 43.280383844971354,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m62577",
+      "name": "Mikael Løberg",
+      "rating": 1445.53,
+      "rd": 42.9,
+      "ratingClass": "C",
+      "homeLocation": "The Outlane",
+      "homeLocationId": "12354",
+      "percentile": 25.578795360320495,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

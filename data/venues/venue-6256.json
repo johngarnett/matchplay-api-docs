@@ -1,0 +1,191 @@
+{
+  "locationId": "6256",
+  "name": "Arcade Galactic",
+  "address": "Valley Fair Mall, 3601 S 2700 W G114, West Valley City, UT 84119",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 10,
+  "relatedVenues": [
+    {
+      "locationId": "5866",
+      "name": "Kiitos Brewing",
+      "address": "",
+      "count": 43
+    },
+    {
+      "locationId": "8296",
+      "name": "The L.A.B.",
+      "address": "2432 Washington Blvd, Ogden, UT 84401, US",
+      "count": 12
+    },
+    {
+      "locationId": "3523",
+      "name": "Quarters Arcade Bar",
+      "address": "",
+      "count": 5
+    },
+    {
+      "locationId": "7528",
+      "name": "Bang Back Pinball Lounge",
+      "address": "741 Saluda Ave, Columbia, SC, 29205, US",
+      "count": 5
+    },
+    {
+      "locationId": "9490",
+      "name": "Quarters Arcade Bar (Sugarhouse)",
+      "address": "1045 East 2100 South, Salt Lake City, UT 84106, US",
+      "count": 3
+    },
+    {
+      "locationId": "9758",
+      "name": "Quarters Arcade Bar",
+      "address": "5 E 400 S, Salt Lake City, UT 84111, US",
+      "count": 3
+    },
+    {
+      "locationId": "5040",
+      "name": "Transmission Arcade",
+      "address": "1712 Main St, Columbia, SC 29201, USA",
+      "count": 2
+    },
+    {
+      "locationId": "8271",
+      "name": "Rezzanine Esports",
+      "address": "1025 Washington Pike, Bridgeville, PA 15017, US",
+      "count": 2
+    },
+    {
+      "locationId": "5763",
+      "name": "Idaho Pinball Museum",
+      "address": "1104 N Cole Rd Boise, ID, United States, Idaho 83704",
+      "count": 1
+    },
+    {
+      "locationId": "8946",
+      "name": "Craft And Draft Irmo",
+      "address": "7583 Saint Andrews Road, Irmo, SC 29063, US",
+      "count": 1
+    }
+  ],
+  "players": [
+    {
+      "id": "m30146",
+      "name": "Marc Jackson",
+      "rating": 1808.7,
+      "rd": 27.81,
+      "ratingClass": "Master",
+      "homeLocation": "Quarters Arcade Bar",
+      "homeLocationId": "3523",
+      "percentile": 99.63199329202963,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m7756",
+      "name": "Spencer Imboden",
+      "rating": 1715.76,
+      "rd": 26.2,
+      "ratingClass": "Expert",
+      "homeLocation": "Kiitos Brewing",
+      "homeLocationId": "5866",
+      "percentile": 97.42861135696651,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m4592",
+      "name": "Mark Laird",
+      "rating": 1694.81,
+      "rd": 23.24,
+      "ratingClass": "A",
+      "homeLocation": "Kiitos Brewing",
+      "homeLocationId": "5866",
+      "percentile": 96.26869147994597,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m27000",
+      "name": "David Bain",
+      "rating": 1627.75,
+      "rd": 22.1,
+      "ratingClass": "A",
+      "homeLocation": "Kiitos Brewing",
+      "homeLocationId": "5866",
+      "percentile": 88.12130246424745,
+      "changeDisplay": "-4.3",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m4565",
+      "name": "Tony Lam",
+      "rating": 1622.49,
+      "rd": 20.87,
+      "ratingClass": "A",
+      "homeLocation": "Kiitos Brewing",
+      "homeLocationId": "5866",
+      "percentile": 87.14771509759164,
+      "changeDisplay": "+15.8",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "i133774",
+      "name": "Trent Butler",
+      "rating": 1586.96,
+      "rd": 19.46,
+      "ratingClass": "B",
+      "homeLocation": "The L.A.B.",
+      "homeLocationId": "8296",
+      "percentile": 78.5903945590907,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m49660",
+      "name": "Kylee Fairbourn",
+      "rating": 1489.15,
+      "rd": 30.67,
+      "ratingClass": "C",
+      "homeLocation": "Arcade Galactic",
+      "homeLocationId": "6256",
+      "percentile": 42.65616993524945,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m44783",
+      "name": "Cici Williams-Geddings",
+      "rating": 1468.9,
+      "rd": 22.43,
+      "ratingClass": "C",
+      "homeLocation": "Kiitos Brewing",
+      "homeLocationId": "5866",
+      "percentile": 34.448222853682395,
+      "changeDisplay": "+3.0",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m7735",
+      "name": "Bre Edge",
+      "rating": 1452.04,
+      "rd": 27.02,
+      "ratingClass": "C",
+      "homeLocation": "Arcade Galactic",
+      "homeLocationId": "6256",
+      "percentile": 27.898635114361582,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m57930",
+      "name": "Beylyn Edge",
+      "rating": 1431.7,
+      "rd": 29.31,
+      "ratingClass": "C",
+      "homeLocation": "Arcade Galactic",
+      "homeLocationId": "6256",
+      "percentile": 21.06954860949364,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "tournamentId": 265558,
+  "name": "Finals for Funny Hat Tuesday August 4th",
+  "date": "2026-08-05",
+  "locationId": "9226",
+  "locationName": "Forked River Brewing Company",
+  "playerCount": 12,
+  "ratingsDate": "2026-08-05",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m10719",
+      "name": "Brad Hopkins",
+      "rating": 1593.3,
+      "dailyRatingChange": 14.62
+    },
+    {
+      "position": 2,
+      "playerId": "m341",
+      "name": "Mike Dymus",
+      "rating": 1732.14,
+      "dailyRatingChange": 6.7
+    },
+    {
+      "position": 3,
+      "playerId": "m11000",
+      "name": "Julie Dorssers",
+      "rating": 1576.76,
+      "dailyRatingChange": 14.32
+    },
+    {
+      "position": 4,
+      "playerId": "m53551",
+      "name": "Dan Howard",
+      "rating": 1616.61,
+      "dailyRatingChange": 2.81
+    },
+    {
+      "position": 5,
+      "playerId": "m325018",
+      "name": "Alex Stager",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 5,
+      "playerId": "m130747",
+      "name": "Dutch Grasley",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 7,
+      "playerId": "m329064",
+      "name": "Brian Liebusch",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 7,
+      "playerId": "m278461",
+      "name": "Corey Cooke",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 9,
+      "playerId": "m34606",
+      "name": "John Charest",
+      "rating": 1553.91,
+      "dailyRatingChange": -1.38
+    },
+    {
+      "position": 9,
+      "playerId": "m584632",
+      "name": "Fraser morton",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 11,
+      "playerId": "m487892",
+      "name": "Mark Farrow",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 11,
+      "playerId": "m13594",
+      "name": "Paul Dewar",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

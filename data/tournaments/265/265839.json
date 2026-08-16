@@ -1,0 +1,130 @@
+{
+  "tournamentId": 265839,
+  "name": "LADIES Rhein-main-cup 2026",
+  "date": "2026-08-07",
+  "locationId": "5407",
+  "locationName": "Albert All games",
+  "playerCount": 17,
+  "ratingsDate": "2026-08-07",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m33729",
+      "name": "Tirza Wichelhaus",
+      "rating": 1550.03,
+      "dailyRatingChange": 1.45
+    },
+    {
+      "position": 2,
+      "playerId": "m51575",
+      "name": "Ilana Weizman",
+      "rating": 1574.59,
+      "dailyRatingChange": 0.7
+    },
+    {
+      "position": 3,
+      "playerId": "m47900",
+      "name": "Violette Petit",
+      "rating": 1518.95,
+      "dailyRatingChange": -1.81
+    },
+    {
+      "position": 4,
+      "playerId": "m14950",
+      "name": "Barbara Sprenger",
+      "rating": 1611.64,
+      "dailyRatingChange": 7.12
+    },
+    {
+      "position": 5,
+      "playerId": "m48756",
+      "name": "Karin Walder",
+      "rating": 1555.72,
+      "dailyRatingChange": -7.21
+    },
+    {
+      "position": 6,
+      "playerId": "m15075",
+      "name": "Linda alpstad",
+      "rating": 1513.57,
+      "dailyRatingChange": -0.07
+    },
+    {
+      "position": 7,
+      "playerId": "m31435",
+      "name": "Iris Tessun",
+      "rating": 1434.08,
+      "dailyRatingChange": -1.85
+    },
+    {
+      "position": 8,
+      "playerId": "m50899",
+      "name": "Carla Stigler",
+      "rating": 1528.1,
+      "dailyRatingChange": 6.82
+    },
+    {
+      "position": 9,
+      "playerId": "m41532",
+      "name": "Mascha Jung",
+      "rating": 1474.12,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 10,
+      "playerId": "m22425",
+      "name": "Cinthya Messiaen",
+      "rating": 1513.46,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 11,
+      "playerId": "m60490",
+      "name": "Mimi Schön",
+      "rating": 1422.84,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 12,
+      "playerId": "i130933",
+      "name": "Melissa Radosavljevic",
+      "rating": 1469.04,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 13,
+      "playerId": "m9138",
+      "name": "Gabi Schmeichel",
+      "rating": 1514.02,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 14,
+      "playerId": "m41534",
+      "name": "Sandra Jung",
+      "rating": 1446.41,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 15,
+      "playerId": "m15681",
+      "name": "Reni Grossmann",
+      "rating": 1351.96,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 16,
+      "playerId": "m15682",
+      "name": "Lara Grossmann",
+      "rating": 1453.63,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 17,
+      "playerId": "i109061",
+      "name": "Luisa Sprossmann",
+      "rating": 1351.6,
+      "dailyRatingChange": 0
+    }
+  ]
+}

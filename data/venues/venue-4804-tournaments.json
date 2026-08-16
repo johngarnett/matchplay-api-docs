@@ -1,0 +1,351 @@
+{
+  "locationId": "4804",
+  "venueName": "District 82 Pinball",
+  "venueAddress": "800 O Keefe Rd, De Pere, WI 54115, USA",
+  "tournaments": [
+    {
+      "id": 266986,
+      "name": "D82 SPC 3 Strike Event #2",
+      "date": "8/14/2026",
+      "playerCount": 122,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m14",
+          "name": "Steven Bowden",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m22",
+          "name": "Tom Graf",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m3039",
+          "name": "Roland Nadeau",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m10378",
+          "name": "Rick Deml",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 266991,
+      "name": "Finals for D82 SPC Certified Classics Event #1 Qualify",
+      "date": "8/14/2026",
+      "playerCount": 24,
+      "qualifying": {
+        "id": 266878,
+        "name": "D82 SPC Certified Classics Event #1 Qualify",
+        "playerCount": 142
+      },
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m20690",
+          "name": "Alex Phelps",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m14",
+          "name": "Steven Bowden",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m6634",
+          "name": "David Daluga",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m30281",
+          "name": "Nathan Zalewski",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 266532,
+      "name": "D82 Beat the Clock Tournament Aug 12",
+      "date": "8/12/2026",
+      "playerCount": 97,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m2838",
+          "name": "Phil Birnbaum",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m7398",
+          "name": "Erik Thoren **TD**",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m31136",
+          "name": "Dani Dinkum",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m16120",
+          "name": "Mike Weyenberg",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 266690,
+      "name": "Tilt'n Tuesday Side Tournament Finals 8/11",
+      "date": "8/11/2026",
+      "playerCount": 12,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m16103",
+          "name": "Joe DeCleene",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m44005",
+          "name": "Todd Stock",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m22674",
+          "name": "Ryan Eggers",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m19072",
+          "name": "Elizabeth Boelke",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m41345",
+          "name": "Todd Dorschner",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 265985,
+      "name": "D82 Flippin' Friday Finals Aug 7th",
+      "date": "8/7/2026",
+      "playerCount": 15,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m7398",
+          "name": "Erik Thoren **TD**",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m11743",
+          "name": "Eric Strangeway **TD**",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m16101",
+          "name": "Matt McCarty **TD**",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m28601",
+          "name": "Jeff Asman",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 265447,
+      "name": "Tilt'n Tuesday Side Tournament Finals 8/4",
+      "date": "8/4/2026",
+      "playerCount": 13,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m22019",
+          "name": "Dori Zielinski",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m50871",
+          "name": "Brandon Peltier",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m41345",
+          "name": "Todd Dorschner",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m21173",
+          "name": "Bill Faster",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 263212,
+      "name": "D82 Flippin' Friday Finals July 31st",
+      "date": "7/31/2026",
+      "playerCount": 9,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m15446",
+          "name": "Peter Goeben",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "i15723",
+          "name": "Gregory Hein",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m19343",
+          "name": "Tom Schmidt",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m2747",
+          "name": "Chuck Blohm",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 263213,
+      "name": "D82 Flippin' Friday Finals July 24th",
+      "date": "7/24/2026",
+      "playerCount": 8,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m31618",
+          "name": "Rick Petit",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m38543",
+          "name": "Mike Carlson",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m19343",
+          "name": "Tom Schmidt",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m2747",
+          "name": "Chuck Blohm",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 262883,
+      "name": "Finals for D82 Sunday Classics Tournament Qualify July 19th",
+      "date": "7/19/2026",
+      "playerCount": 24,
+      "qualifying": {
+        "id": 262803,
+        "name": "D82 Sunday Classics Tournament Qualify July 19th",
+        "playerCount": 43
+      },
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m16120",
+          "name": "Mike Weyenberg",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m22",
+          "name": "Tom Graf",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m19343",
+          "name": "Tom Schmidt",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m30281",
+          "name": "Nathan Zalewski",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 262553,
+      "name": "D82 Flippin' Friday Finals 7/17/26",
+      "date": "7/17/2026",
+      "playerCount": 5,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m19343",
+          "name": "Tom Schmidt",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m6492",
+          "name": "Mike Moberg",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m38543",
+          "name": "Mike Carlson",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m51096",
+          "name": "Clay Ryan",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "tournamentId": 256494,
+  "name": "Stern Army RAA July Thursday Night",
+  "date": "2026-07-31",
+  "locationId": "11155",
+  "locationName": "Reserve Artisan Ales",
+  "playerCount": 12,
+  "ratingsDate": "2026-07-31",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m44040",
+      "name": "Cory Grimm",
+      "rating": 1608.05,
+      "dailyRatingChange": 16.7
+    },
+    {
+      "position": 2,
+      "playerId": "m32163",
+      "name": "Luke Piarowski",
+      "rating": 1711.95,
+      "dailyRatingChange": 0.61
+    },
+    {
+      "position": 3,
+      "playerId": "i132368",
+      "name": "Roger Conard",
+      "rating": 1519.26,
+      "dailyRatingChange": 8.45
+    },
+    {
+      "position": 4,
+      "playerId": "i140738",
+      "name": "Nathan Piarowski",
+      "rating": 1487.2,
+      "dailyRatingChange": 4.33
+    },
+    {
+      "position": 5,
+      "playerId": "m57561",
+      "name": "Amy Morris",
+      "rating": 1472.74,
+      "dailyRatingChange": 8.01
+    },
+    {
+      "position": 6,
+      "playerId": "i114094",
+      "name": "Cory Whitmore",
+      "rating": 1224.98,
+      "dailyRatingChange": 35.26
+    },
+    {
+      "position": 7,
+      "playerId": "i127287",
+      "name": "Tommy Wallenfeldt",
+      "rating": 1464.24,
+      "dailyRatingChange": 10.66
+    },
+    {
+      "position": 8,
+      "playerId": "m583110",
+      "name": "Zoey Garcia",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 9,
+      "playerId": "i140739",
+      "name": "Valerie Piarowski",
+      "rating": 1397.64,
+      "dailyRatingChange": -16.07
+    },
+    {
+      "position": 10,
+      "playerId": "m583109",
+      "name": "Marcel Garcia",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 11,
+      "playerId": "m583094",
+      "name": "Amber Piarowski",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 12,
+      "playerId": "i114093",
+      "name": "Gerald Whitmore",
+      "rating": 1362.55,
+      "dailyRatingChange": -21.76
+    }
+  ]
+}

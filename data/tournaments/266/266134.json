@@ -1,0 +1,46 @@
+{
+  "tournamentId": 266134,
+  "name": "Scanlines Arcade Womens Stern Army Pinball Tournament",
+  "date": "2026-08-09",
+  "locationId": "12802",
+  "locationName": "Scanlines Arcade",
+  "playerCount": 5,
+  "ratingsDate": "2026-08-09",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m55605",
+      "name": "Olivia Smith",
+      "rating": 1518.48,
+      "dailyRatingChange": 8.99
+    },
+    {
+      "position": 2,
+      "playerId": "m56304",
+      "name": "Misti Sukle",
+      "rating": 1474.17,
+      "dailyRatingChange": 5.45
+    },
+    {
+      "position": 3,
+      "playerId": "m56764",
+      "name": "Kelly Riley",
+      "rating": 1412.35,
+      "dailyRatingChange": -3.62
+    },
+    {
+      "position": 4,
+      "playerId": "m555255",
+      "name": "Lex",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 5,
+      "playerId": "m55591",
+      "name": "Jessica Thomas",
+      "rating": 1396.81,
+      "dailyRatingChange": -12.97
+    }
+  ]
+}

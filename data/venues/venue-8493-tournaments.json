@@ -1,0 +1,44 @@
+{
+  "locationId": "8493",
+  "venueName": "Rullo's",
+  "venueAddress": "560 5th Avenue, Brooklyn, NY 11215, US",
+  "tournaments": [
+    {
+      "id": 262711,
+      "name": "Finals for Stern Army's July RWI",
+      "date": "7/19/2026",
+      "playerCount": 4,
+      "qualifying": {
+        "id": 262710,
+        "name": "Stern Army's July RWI at 6 p.m.",
+        "playerCount": 22
+      },
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m20450",
+          "name": "Aaron Hamel",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m2807",
+          "name": "Robert Wong",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m15369",
+          "name": "A.J. Gould",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m31412",
+          "name": "Stephen Christopher",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

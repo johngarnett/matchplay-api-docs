@@ -1,0 +1,317 @@
+{
+  "locationId": "8571",
+  "name": "Lewis & Clark Brewing Co.",
+  "address": "1517 Dodge Ave, Helena, MT 59601, US",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 21,
+  "relatedVenues": [
+    {
+      "locationId": "5464",
+      "name": "AYCE Gogi Korean BBQ & Pinball",
+      "address": "6705 Fallbrook Avenue, West Hills, CA 91307, US",
+      "count": 11
+    },
+    {
+      "locationId": "11469",
+      "name": "EightyTwo",
+      "address": "707 East 4th Place, Los Angeles, CA 90013, US",
+      "count": 7
+    },
+    {
+      "locationId": "12556",
+      "name": "GILD",
+      "address": "515 South Higgins Ave, Missoula, MT 59801, US",
+      "count": 6
+    },
+    {
+      "locationId": "12940",
+      "name": "Frank's Bar & Billiards",
+      "address": "1425 Broadwater Ave, Billings, MT 59102, US",
+      "count": 2
+    },
+    {
+      "locationId": "6751",
+      "name": "Atomic Age Modern",
+      "address": "140 W Main St, Mesa, AZ 85201, USA",
+      "count": 1
+    },
+    {
+      "locationId": "8470",
+      "name": "The Monte Bar and Casino",
+      "address": "2824 1st Avenue North, Billings, MT 59101, US",
+      "count": 1
+    },
+    {
+      "locationId": "8815",
+      "name": "Sunset Bowl",
+      "address": "1625 Central Ave, Billings, MT 59102, US",
+      "count": 1
+    },
+    {
+      "locationId": "9418",
+      "name": "AYCE Gogi Korean BBQ & Pinball",
+      "address": "7128 Van Nuys Blvd, Los Angeles, CA 91405, US",
+      "count": 1
+    },
+    {
+      "locationId": "10091",
+      "name": "OddPitch Brewing",
+      "address": "1200 West Kent Avenue, Missoula, MT 59801, US",
+      "count": 1
+    }
+  ],
+  "players": [
+    {
+      "id": "i124238",
+      "name": "Cole Wagner",
+      "rating": 1743.58,
+      "rd": 24.81,
+      "ratingClass": "Expert",
+      "homeLocation": "Lewis & Clark Brewing Co.",
+      "homeLocationId": "8571",
+      "percentile": 98.54660641915498,
+      "changeDisplay": "+6.2",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m25881",
+      "name": "Daniel Gustin",
+      "rating": 1652.13,
+      "rd": 25.06,
+      "ratingClass": "A",
+      "homeLocation": "GILD",
+      "homeLocationId": "12556",
+      "percentile": 92.01099361811153,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i122361",
+      "name": "Ron Wagner",
+      "rating": 1635.82,
+      "rd": 24.9,
+      "ratingClass": "A",
+      "homeLocation": "Lewis & Clark Brewing Co.",
+      "homeLocationId": "8571",
+      "percentile": 89.61196254716542,
+      "changeDisplay": "-12.8",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m46011",
+      "name": "Tiffany Pfleger",
+      "rating": 1611.45,
+      "rd": 22.26,
+      "ratingClass": "A",
+      "homeLocation": "Lewis & Clark Brewing Co.",
+      "homeLocationId": "8571",
+      "percentile": 84.7859505287185,
+      "changeDisplay": "+11.3",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "i122357",
+      "name": "Pat Lougee",
+      "rating": 1597.93,
+      "rd": 31.92,
+      "ratingClass": "B",
+      "homeLocation": "Lewis & Clark Brewing Co.",
+      "homeLocationId": "8571",
+      "percentile": 81.47389015698514,
+      "changeDisplay": "+3.3",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m30772",
+      "name": "Andrew Klokow",
+      "rating": 1593.75,
+      "rd": 21.57,
+      "ratingClass": "B",
+      "homeLocation": "AYCE Gogi Korean BBQ & Pinball",
+      "homeLocationId": "5464",
+      "percentile": 80.46303628825639,
+      "changeDisplay": "-4.3",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m32910",
+      "name": "Alex Jokela",
+      "rating": 1580.96,
+      "rd": 24.85,
+      "ratingClass": "B",
+      "homeLocation": "Lewis & Clark Brewing Co.",
+      "homeLocationId": "8571",
+      "percentile": 76.93203521684447,
+      "changeDisplay": "-15.2",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m42491",
+      "name": "Heath Brown",
+      "rating": 1578.34,
+      "rd": 32.24,
+      "ratingClass": "B",
+      "homeLocation": "Lewis & Clark Brewing Co.",
+      "homeLocationId": "8571",
+      "percentile": 76.14012204779429,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m46062",
+      "name": "Matt Hargrave",
+      "rating": 1572.22,
+      "rd": 42.97,
+      "ratingClass": "B",
+      "homeLocation": "Lewis & Clark Brewing Co.",
+      "homeLocationId": "8571",
+      "percentile": 74.20692225276005,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i122354",
+      "name": "Jacob Wagner",
+      "rating": 1562.92,
+      "rd": 26.93,
+      "ratingClass": "B",
+      "homeLocation": "Lewis & Clark Brewing Co.",
+      "homeLocationId": "8571",
+      "percentile": 71.28616015279266,
+      "changeDisplay": "+8.2",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m27898",
+      "name": "Mindy Bert",
+      "rating": 1556.64,
+      "rd": 57.99,
+      "ratingClass": "B",
+      "homeLocation": "Lewis & Clark Brewing Co.",
+      "homeLocationId": "8571",
+      "percentile": 69.25047747705781,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i120665",
+      "name": "Danya Bonner",
+      "rating": 1503,
+      "rd": 43.69,
+      "ratingClass": "B",
+      "homeLocation": "Lewis & Clark Brewing Co.",
+      "homeLocationId": "8571",
+      "percentile": 48.334653188615086,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i120661",
+      "name": "Max Pigman",
+      "rating": 1486.01,
+      "rd": 35.22,
+      "ratingClass": "C",
+      "homeLocation": "Lewis & Clark Brewing Co.",
+      "homeLocationId": "8571",
+      "percentile": 41.36115898821447,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m32614",
+      "name": "Cody Rogstad",
+      "rating": 1453.8,
+      "rd": 29.09,
+      "ratingClass": "C",
+      "homeLocation": "Lewis & Clark Brewing Co.",
+      "homeLocationId": "8571",
+      "percentile": 28.61601527926585,
+      "changeDisplay": "-7.7",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "i120662",
+      "name": "Casey Sedlak",
+      "rating": 1444.35,
+      "rd": 34.58,
+      "ratingClass": "C",
+      "homeLocation": "Lewis & Clark Brewing Co.",
+      "homeLocationId": "8571",
+      "percentile": 25.19215540131364,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i127527",
+      "name": "Bodhi Beadle",
+      "rating": 1442.16,
+      "rd": 41.75,
+      "ratingClass": "C",
+      "homeLocation": "Lewis & Clark Brewing Co.",
+      "homeLocationId": "8571",
+      "percentile": 24.432850421577303,
+      "changeDisplay": "-36.5",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "i124240",
+      "name": "Jeff McDermott",
+      "rating": 1431.72,
+      "rd": 34.1,
+      "ratingClass": "C",
+      "homeLocation": "Lewis & Clark Brewing Co.",
+      "homeLocationId": "8571",
+      "percentile": 21.07886523501188,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i122359",
+      "name": "Bob Cedar",
+      "rating": 1425.74,
+      "rd": 37.72,
+      "ratingClass": "C",
+      "homeLocation": "Lewis & Clark Brewing Co.",
+      "homeLocationId": "8571",
+      "percentile": 19.35063120137886,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i122355",
+      "name": "Dalton Garton",
+      "rating": 1416.54,
+      "rd": 51.25,
+      "ratingClass": "C",
+      "homeLocation": "Lewis & Clark Brewing Co.",
+      "homeLocationId": "8571",
+      "percentile": 16.718684492476825,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i124244",
+      "name": "Becky Cedar",
+      "rating": 1358.04,
+      "rd": 28.16,
+      "ratingClass": "D",
+      "homeLocation": "Lewis & Clark Brewing Co.",
+      "homeLocationId": "8571",
+      "percentile": 5.184702100899054,
+      "changeDisplay": "+4.7",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "i122360",
+      "name": "Don Wannebo",
+      "rating": 1305.4,
+      "rd": 53.31,
+      "ratingClass": "D",
+      "homeLocation": "Lewis & Clark Brewing Co.",
+      "homeLocationId": "8571",
+      "percentile": 1.2204779428890855,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

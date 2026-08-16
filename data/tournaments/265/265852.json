@@ -1,0 +1,130 @@
+{
+  "tournamentId": 265852,
+  "name": "Game Over's Weekly Tournament 8/6",
+  "date": "2026-08-07",
+  "locationId": "9021",
+  "locationName": "Game Over Arcade Bar",
+  "playerCount": 17,
+  "ratingsDate": "2026-08-07",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m3600",
+      "name": "Tanner Wade",
+      "rating": 1766.22,
+      "dailyRatingChange": 5.2
+    },
+    {
+      "position": 2,
+      "playerId": "m5645",
+      "name": "Bill Baggett",
+      "rating": 1690.28,
+      "dailyRatingChange": 5.39
+    },
+    {
+      "position": 3,
+      "playerId": "m48947",
+      "name": "Mo Cummings",
+      "rating": 1553.94,
+      "dailyRatingChange": -0.23
+    },
+    {
+      "position": 4,
+      "playerId": "m12579",
+      "name": "Keith Richter",
+      "rating": 1610.33,
+      "dailyRatingChange": 0.54
+    },
+    {
+      "position": 5,
+      "playerId": "m46311",
+      "name": "Whitten Sabbatini",
+      "rating": 1602.54,
+      "dailyRatingChange": -1.2
+    },
+    {
+      "position": 6,
+      "playerId": "m5562",
+      "name": "James Roth",
+      "rating": 1543.51,
+      "dailyRatingChange": 0.48
+    },
+    {
+      "position": 6,
+      "playerId": "m29991",
+      "name": "Rick Dewitt TN",
+      "rating": 1534.97,
+      "dailyRatingChange": 7.22
+    },
+    {
+      "position": 6,
+      "playerId": "m50011",
+      "name": "Dustin Spooner",
+      "rating": 1634.75,
+      "dailyRatingChange": -5.07
+    },
+    {
+      "position": 9,
+      "playerId": "m43672",
+      "name": "Michael Adams TN2",
+      "rating": 1558.75,
+      "dailyRatingChange": -0.17
+    },
+    {
+      "position": 10,
+      "playerId": "m35518",
+      "name": "Jason Huie",
+      "rating": 1596.6,
+      "dailyRatingChange": -2.81
+    },
+    {
+      "position": 11,
+      "playerId": "i144154",
+      "name": "Rick Bennett",
+      "rating": 1374.25,
+      "dailyRatingChange": 6.52
+    },
+    {
+      "position": 12,
+      "playerId": "m42810",
+      "name": "Brenna Walker",
+      "rating": 1468.81,
+      "dailyRatingChange": 0.21
+    },
+    {
+      "position": 13,
+      "playerId": "i140956",
+      "name": "Nick O",
+      "rating": 1470.75,
+      "dailyRatingChange": -5.71
+    },
+    {
+      "position": 13,
+      "playerId": "m38062",
+      "name": "Chad Sartin",
+      "rating": 1527.01,
+      "dailyRatingChange": -3.43
+    },
+    {
+      "position": 13,
+      "playerId": "m26492",
+      "name": "Eddie Underhill",
+      "rating": 1555.5,
+      "dailyRatingChange": -5.8
+    },
+    {
+      "position": 16,
+      "playerId": "m34208",
+      "name": "Amanda Huetson",
+      "rating": 1492.65,
+      "dailyRatingChange": -3.73
+    },
+    {
+      "position": 17,
+      "playerId": "i144680",
+      "name": "Jason Sandusky",
+      "rating": 1373.65,
+      "dailyRatingChange": -5.88
+    }
+  ]
+}

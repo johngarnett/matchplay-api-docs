@@ -1,0 +1,225 @@
+{
+  "locationId": "9921",
+  "venueName": "Renaissance Atlanta Waverly Hotel & Convention Center",
+  "venueAddress": "2450 Galleria Pkwy Atlanta, GA 30339",
+  "tournaments": [
+    {
+      "id": 264061,
+      "name": "A Division Finals for SFGE 2026 Main Event: Hybrid Best Game",
+      "date": "8/2/2026",
+      "playerCount": 24,
+      "qualifying": {
+        "id": 245177,
+        "name": "SFGE 2026 Main Event: Hybrid Best Game",
+        "playerCount": 164
+      },
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m23956",
+          "name": "Miles Bradley",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m23955",
+          "name": "Liam Bradley",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m11586",
+          "name": "Dalton Ely",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m2769",
+          "name": "Braden Gentry",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 245193,
+      "name": "SFGE 2026 Juniors Tournament",
+      "date": "8/2/2026",
+      "playerCount": 11,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m52747",
+          "name": "Kit Lafoon",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m53526",
+          "name": "Arlo Fox Gaddis",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m36019",
+          "name": "Cameron Bramlett",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m51712",
+          "name": "Milo Smith",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 264063,
+      "name": "B Division Finals for SFGE 2026 Main Event: Hybrid Best Game",
+      "date": "8/2/2026",
+      "playerCount": 16,
+      "qualifying": {
+        "id": 245177,
+        "name": "SFGE 2026 Main Event: Hybrid Best Game",
+        "playerCount": 164
+      },
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m18890",
+          "name": "Turner Loflin",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m45518",
+          "name": "Andrew Taylor SC",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m24861",
+          "name": "Jason Wilson AL",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m24134",
+          "name": "Zac Till",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 264064,
+      "name": "Finals for SFGE 2026 Women's Matchplay",
+      "date": "8/2/2026",
+      "playerCount": 16,
+      "qualifying": {
+        "id": 245186,
+        "name": "SFGE 2026 Women's Matchplay",
+        "playerCount": 55
+      },
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m3146",
+          "name": "Stephanie Traub",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m1165",
+          "name": "Eustina Daniluk",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m23954",
+          "name": "Regi Bradley",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m47812",
+          "name": "Sarah Warlick",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 264066,
+      "name": "Finals for SFGE 2026 Classics Unlimited Best Game",
+      "date": "8/1/2026",
+      "playerCount": 16,
+      "qualifying": {
+        "id": 245180,
+        "name": "SFGE 2026 Classics Unlimited Best Game",
+        "playerCount": 152
+      },
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m23955",
+          "name": "Liam Bradley",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m30549",
+          "name": "Eric Hedström",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m2769",
+          "name": "Braden Gentry",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m2768",
+          "name": "Stephen Gentry",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 264065,
+      "name": "Finals for SFGE 2026 Side Open Matchplay",
+      "date": "8/1/2026",
+      "playerCount": 16,
+      "qualifying": {
+        "id": 245182,
+        "name": "SFGE 2026 Side Open Matchplay",
+        "playerCount": 76
+      },
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m2769",
+          "name": "Braden Gentry",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m143",
+          "name": "Chris Wamsley",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m6245",
+          "name": "Michael Emlock",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m18621",
+          "name": "Jacob Gragg",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

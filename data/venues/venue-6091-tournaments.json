@@ -1,0 +1,44 @@
+{
+  "locationId": "6091",
+  "venueName": "Uncle Sam's Pinball",
+  "venueAddress": "9 Ronnebygatan, Galgamarken-Trossö, 371 32, SE",
+  "tournaments": [
+    {
+      "id": 264278,
+      "name": "Finals for Stern Army Tuesday 28 juli 2026",
+      "date": "7/28/2026",
+      "playerCount": 8,
+      "qualifying": {
+        "id": 264241,
+        "name": "Stern Army Tuesday 28 juli 2026",
+        "playerCount": 26
+      },
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m22067",
+          "name": "Edvard Kummel",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m50572",
+          "name": "Tomas Olsson TOM",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m6134",
+          "name": "Thomas Näslund",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m33926",
+          "name": "Erik Hallen",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

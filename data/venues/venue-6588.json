@@ -1,0 +1,395 @@
+{
+  "locationId": "6588",
+  "name": "Pocketeer Billiards",
+  "address": "",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 27,
+  "relatedVenues": [
+    {
+      "locationId": "4804",
+      "name": "District 82 Pinball",
+      "address": "800 O Keefe Rd, De Pere, WI 54115, USA",
+      "count": 33
+    },
+    {
+      "locationId": "7878",
+      "name": "Funspot",
+      "address": "579 Endicott Street North, Laconia, NH 03246, US",
+      "count": 25
+    },
+    {
+      "locationId": "7208",
+      "name": "Rochester Pinball Collective",
+      "address": "349 West Commercial Street, East Rochester, NY 14445, US",
+      "count": 18
+    },
+    {
+      "locationId": "1696",
+      "name": "LPA",
+      "address": "Vårvädersvägen 4i, Lund, Sweden",
+      "count": 16
+    },
+    {
+      "locationId": "8271",
+      "name": "Rezzanine Esports",
+      "address": "1025 Washington Pike, Bridgeville, PA 15017, US",
+      "count": 13
+    },
+    {
+      "locationId": "10377",
+      "name": "Capital Pinball",
+      "address": "70 Pembroke Rd, Concord, NH 03301, US",
+      "count": 7
+    },
+    {
+      "locationId": "5619",
+      "name": "Skill Shot Arcade",
+      "address": "5949 East Molloy Rd  Syracuse, NY 13211",
+      "count": 5
+    },
+    {
+      "locationId": "5785",
+      "name": "Delaware Pinball Collective",
+      "address": "1100 First State Blvd. Wilmington, DE 19804",
+      "count": 5
+    },
+    {
+      "locationId": "7837",
+      "name": "Super Abari Game Bar",
+      "address": "1015 Seigle Ave, Charlotte, NC, 2820, US",
+      "count": 5
+    },
+    {
+      "locationId": "8354",
+      "name": "Black Circle Bistro",
+      "address": "1318 Harper Rd Beckley, WV 25801",
+      "count": 5
+    }
+  ],
+  "players": [
+    {
+      "id": "m9890",
+      "name": "Viggo Löwgren",
+      "rating": 1891.24,
+      "rd": 19.09,
+      "ratingClass": "Master",
+      "homeLocation": "LPA",
+      "homeLocationId": "1696",
+      "percentile": 99.96739181068617,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m13243",
+      "name": "Arvid Flygare",
+      "rating": 1875.13,
+      "rd": 20.35,
+      "ratingClass": "Master",
+      "homeLocation": "LPA",
+      "homeLocationId": "1696",
+      "percentile": 99.93478362137233,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m5987",
+      "name": "Dwain Marchant",
+      "rating": 1846.48,
+      "rd": 28.41,
+      "ratingClass": "Master",
+      "homeLocation": "Black Circle Bistro",
+      "homeLocationId": "8354",
+      "percentile": 99.86025061722644,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m19020",
+      "name": "Daniele Celestino Acciari",
+      "rating": 1846.43,
+      "rd": 20.94,
+      "ratingClass": "Master",
+      "homeLocation": "Rezzanine Esports",
+      "homeLocationId": "8271",
+      "percentile": 99.85559230446732,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m32881",
+      "name": "Wilfred Johnsen",
+      "rating": 1833.99,
+      "rd": 21.38,
+      "ratingClass": "Master",
+      "homeLocation": "LPA",
+      "homeLocationId": "1696",
+      "percentile": 99.80900917687615,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m27147",
+      "name": "Galvin Morgan",
+      "rating": 1812.02,
+      "rd": 18.26,
+      "ratingClass": "Master",
+      "homeLocation": "Superelectric Pinball Parlor",
+      "homeLocationId": "535",
+      "percentile": 99.65994316858435,
+      "changeDisplay": "+4.1",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m14",
+      "name": "Steven Bowden",
+      "rating": 1783.06,
+      "rd": 18.6,
+      "ratingClass": "Expert",
+      "homeLocation": "District 82 Pinball",
+      "homeLocationId": "4804",
+      "percentile": 99.36646946475986,
+      "changeDisplay": "-4.2",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m6425",
+      "name": "Steve Zahler",
+      "rating": 1767.19,
+      "rd": 25.26,
+      "ratingClass": "Expert",
+      "homeLocation": "Eight on the Break",
+      "homeLocationId": "3152",
+      "percentile": 99.14287045232217,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m5957",
+      "name": "Greg Lapa",
+      "rating": 1720.09,
+      "rd": 22.24,
+      "ratingClass": "Expert",
+      "homeLocation": "Rochester Pinball Collective",
+      "homeLocationId": "7208",
+      "percentile": 97.68481855871804,
+      "changeDisplay": "+25.6",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m8888",
+      "name": "Jeremy Weaver",
+      "rating": 1716.78,
+      "rd": 23.07,
+      "ratingClass": "Expert",
+      "homeLocation": "Super Abari Game Bar",
+      "homeLocationId": "7837",
+      "percentile": 97.47053617179857,
+      "changeDisplay": "-5.3",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m391",
+      "name": "Eric Russell CNY",
+      "rating": 1708.44,
+      "rd": 23.02,
+      "ratingClass": "Expert",
+      "homeLocation": "Rochester Pinball Collective",
+      "homeLocationId": "7208",
+      "percentile": 97.1025294638282,
+      "changeDisplay": "-4.4",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m22",
+      "name": "Tom Graf",
+      "rating": 1706.51,
+      "rd": 16.79,
+      "ratingClass": "Expert",
+      "homeLocation": "District 82 Pinball",
+      "homeLocationId": "4804",
+      "percentile": 96.95812176829553,
+      "changeDisplay": "-5.5",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m34016",
+      "name": "Lucas Schweickert",
+      "rating": 1662.39,
+      "rd": 24.01,
+      "ratingClass": "A",
+      "homeLocation": "Rochester Pinball Collective",
+      "homeLocationId": "7208",
+      "percentile": 93.33395444170122,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m30609",
+      "name": "John Bolton",
+      "rating": 1632.65,
+      "rd": 21.26,
+      "ratingClass": "A",
+      "homeLocation": "Funspot",
+      "homeLocationId": "7878",
+      "percentile": 89.085573205385,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m5191",
+      "name": "Pete Indick",
+      "rating": 1624.9,
+      "rd": 20.07,
+      "ratingClass": "A",
+      "homeLocation": "Rochester Pinball Collective",
+      "homeLocationId": "7208",
+      "percentile": 87.58559649694881,
+      "changeDisplay": "+5.9",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m40689",
+      "name": "Robert Johnsen",
+      "rating": 1611.74,
+      "rd": 24.45,
+      "ratingClass": "A",
+      "homeLocation": "LPA",
+      "homeLocationId": "1696",
+      "percentile": 84.8371919690688,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m21134",
+      "name": "Philip J Tomczak",
+      "rating": 1593.82,
+      "rd": 31.96,
+      "ratingClass": "B",
+      "homeLocation": "Pocketeer Billiards",
+      "homeLocationId": "6588",
+      "percentile": 80.4909861648111,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m12067",
+      "name": "Matt Lemoine",
+      "rating": 1591.22,
+      "rd": 17.24,
+      "ratingClass": "B",
+      "homeLocation": "Capital Pinball",
+      "homeLocationId": "10377",
+      "percentile": 79.80621418922065,
+      "changeDisplay": "+10.1",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m6748",
+      "name": "Donna Wai",
+      "rating": 1574.42,
+      "rd": 22.94,
+      "ratingClass": "B",
+      "homeLocation": "Maple Pinball",
+      "homeLocationId": "6085",
+      "percentile": 74.89635254110961,
+      "changeDisplay": "+8.5",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m33813",
+      "name": "Bill McKeever",
+      "rating": 1534,
+      "rd": 30.24,
+      "ratingClass": "B",
+      "homeLocation": "Pocketeer Billiards",
+      "homeLocationId": "6588",
+      "percentile": 60.59067405785624,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m31393",
+      "name": "Kristi Kelsey",
+      "rating": 1482.8,
+      "rd": 24.71,
+      "ratingClass": "C",
+      "homeLocation": "Rochester Pinball Collective",
+      "homeLocationId": "7208",
+      "percentile": 40.033539851865655,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i85376",
+      "name": "Brent Gramkee",
+      "rating": 1472.76,
+      "rd": 40.4,
+      "ratingClass": "C",
+      "homeLocation": "Pocketeer Billiards",
+      "homeLocationId": "6588",
+      "percentile": 35.99478268970979,
+      "changeDisplay": "-19.5",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m5453",
+      "name": "Jill King",
+      "rating": 1467.18,
+      "rd": 32.25,
+      "ratingClass": "C",
+      "homeLocation": "Pocketeer Billiards",
+      "homeLocationId": "6588",
+      "percentile": 33.726184376019006,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m21005",
+      "name": "Mike Leader",
+      "rating": 1441.29,
+      "rd": 39.21,
+      "ratingClass": "C",
+      "homeLocation": "Pocketeer Billiards",
+      "homeLocationId": "6588",
+      "percentile": 24.148693343271066,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m58318",
+      "name": "Steve Staebell",
+      "rating": 1438.07,
+      "rd": 56.41,
+      "ratingClass": "C",
+      "homeLocation": "Pocketeer Billiards",
+      "homeLocationId": "6588",
+      "percentile": 23.0819397214329,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i27296",
+      "name": "Chris Kay",
+      "rating": 1410.83,
+      "rd": 47.82,
+      "ratingClass": "C",
+      "homeLocation": "Pocketeer Billiards",
+      "homeLocationId": "6588",
+      "percentile": 15.311874039222994,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i132434",
+      "name": "Tim Ciepiela",
+      "rating": 1336.6,
+      "rd": 47.59,
+      "ratingClass": "D",
+      "homeLocation": "Pocketeer Billiards",
+      "homeLocationId": "6588",
+      "percentile": 2.9161037872082733,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

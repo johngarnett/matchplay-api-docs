@@ -1,0 +1,53 @@
+{
+  "tournamentId": 266675,
+  "name": "QuickShot at Library Square",
+  "date": "2026-08-12",
+  "locationId": "8817",
+  "locationName": "The Library Square Pub",
+  "playerCount": 6,
+  "ratingsDate": null,
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m27032",
+      "name": "Eddie DeWolfe",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 1,
+      "playerId": "m3471",
+      "name": "Billy Gordon",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 1,
+      "playerId": "m53993",
+      "name": "Jake Parsonson",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 4,
+      "playerId": "m27946",
+      "name": "Jeremy Matthews",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 4,
+      "playerId": "m40107",
+      "name": "Adrian Lask",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 6,
+      "playerId": "m33611",
+      "name": "Jam",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

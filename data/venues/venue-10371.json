@@ -1,0 +1,311 @@
+{
+  "locationId": "10371",
+  "name": "Glory Oaks",
+  "address": "",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 20,
+  "relatedVenues": [
+    {
+      "locationId": "5407",
+      "name": "Albert All games",
+      "address": "",
+      "count": 36
+    },
+    {
+      "locationId": "9326",
+      "name": "Kai&Michael Pinball",
+      "address": "Bahnstr. 28, 63303 Dreieich, Germany",
+      "count": 22
+    },
+    {
+      "locationId": "5577",
+      "name": "hierundjetzt",
+      "address": "",
+      "count": 19
+    },
+    {
+      "locationId": "9461",
+      "name": "FlipperFreunde Fellbach e.V.",
+      "address": "",
+      "count": 13
+    },
+    {
+      "locationId": "8617",
+      "name": "Biljardna Hisa Ljubljana - Slovenska",
+      "address": "Slovenska 58, 1000 Ljubljana",
+      "count": 9
+    },
+    {
+      "locationId": "8273",
+      "name": "Flipperlounge @ Massif Central",
+      "address": "7-9 Bethmannstraße, Frankfurt am Main, HE, 60311, DE",
+      "count": 8
+    },
+    {
+      "locationId": "87",
+      "name": "Martins Flipperbude",
+      "address": "",
+      "count": 5
+    },
+    {
+      "locationId": "1759",
+      "name": "Freddy's Pinball Paradise",
+      "address": "44 Bisseser Straße, Echzell, HE, 61209, DE",
+      "count": 4
+    },
+    {
+      "locationId": "10084",
+      "name": "Flipperclub Regio Basel",
+      "address": "8A Grabenackerstrasse, Münchenstein, BL 4142, CH",
+      "count": 2
+    },
+    {
+      "locationId": "11506",
+      "name": "Pinball Universe",
+      "address": "Boschstr. 51, 32257 Bünde, Germany",
+      "count": 2
+    }
+  ],
+  "players": [
+    {
+      "id": "m32870",
+      "name": "Benjamin Kispal",
+      "rating": 1668.02,
+      "rd": 19.94,
+      "ratingClass": "A",
+      "homeLocation": "Albert All games",
+      "homeLocationId": "5407",
+      "percentile": 93.9302184748684,
+      "changeDisplay": "-20.4",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m46124",
+      "name": "Hans-Joachim Meyer",
+      "rating": 1618.15,
+      "rd": 19.25,
+      "ratingClass": "A",
+      "homeLocation": "Albert All games",
+      "homeLocationId": "5407",
+      "percentile": 86.2346857968044,
+      "changeDisplay": "-16.8",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m23255",
+      "name": "Kai Teuber",
+      "rating": 1616.49,
+      "rd": 27.7,
+      "ratingClass": "A",
+      "homeLocation": "Kai&Michael Pinball",
+      "homeLocationId": "9326",
+      "percentile": 85.88065402711138,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m14621",
+      "name": "Maximilian Bösel",
+      "rating": 1611.71,
+      "rd": 23.01,
+      "ratingClass": "A",
+      "homeLocation": "Kai&Michael Pinball",
+      "homeLocationId": "9326",
+      "percentile": 84.82321703079144,
+      "changeDisplay": "-9.0",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m39034",
+      "name": "Andreas Cingulin",
+      "rating": 1589.18,
+      "rd": 32.06,
+      "ratingClass": "B",
+      "homeLocation": "Kai&Michael Pinball",
+      "homeLocationId": "9326",
+      "percentile": 79.27050822192201,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m53490",
+      "name": "Eike Rothauge",
+      "rating": 1577.31,
+      "rd": 19.39,
+      "ratingClass": "B",
+      "homeLocation": "Albert All games",
+      "homeLocationId": "5407",
+      "percentile": 75.82801509293334,
+      "changeDisplay": "-4.8",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m38239",
+      "name": "Benoit Redsand",
+      "rating": 1577.05,
+      "rd": 24.15,
+      "ratingClass": "B",
+      "homeLocation": "Albert All games",
+      "homeLocationId": "5407",
+      "percentile": 75.77211533982393,
+      "changeDisplay": "-18.3",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "i133916",
+      "name": "Yoann Tessier",
+      "rating": 1570.36,
+      "rd": 33.38,
+      "ratingClass": "B",
+      "homeLocation": "Kai&Michael Pinball",
+      "homeLocationId": "9326",
+      "percentile": 73.59202496855639,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m44831",
+      "name": "Mehmet Sürmeli",
+      "rating": 1559.33,
+      "rd": 26.89,
+      "ratingClass": "B",
+      "homeLocation": "Kai&Michael Pinball",
+      "homeLocationId": "9326",
+      "percentile": 70.11226533749476,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m33729",
+      "name": "Tirza Wichelhaus",
+      "rating": 1557.02,
+      "rd": 20.41,
+      "ratingClass": "B",
+      "homeLocation": "Albert All games",
+      "homeLocationId": "5407",
+      "percentile": 69.37625192155402,
+      "changeDisplay": "+8.4",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m43095",
+      "name": "Marc Jacobi",
+      "rating": 1555.14,
+      "rd": 21.64,
+      "ratingClass": "B",
+      "homeLocation": "Albert All games",
+      "homeLocationId": "5407",
+      "percentile": 68.71011319700004,
+      "changeDisplay": "-6.3",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m48334",
+      "name": "Jürgen Sers",
+      "rating": 1539.45,
+      "rd": 24.28,
+      "ratingClass": "B",
+      "homeLocation": "Albert All games",
+      "homeLocationId": "5407",
+      "percentile": 62.91983043741557,
+      "changeDisplay": "-9.2",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m29206",
+      "name": "Holger Kiefer",
+      "rating": 1533.57,
+      "rd": 33.42,
+      "ratingClass": "B",
+      "homeLocation": "Albert All games",
+      "homeLocationId": "5407",
+      "percentile": 60.45092467508268,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m39689",
+      "name": "Thomas Moser",
+      "rating": 1530.4,
+      "rd": 41.12,
+      "ratingClass": "B",
+      "homeLocation": "Glory Oaks",
+      "homeLocationId": "10371",
+      "percentile": 59.202496855638884,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m42679",
+      "name": "Simon Seubert",
+      "rating": 1496.33,
+      "rd": 33.4,
+      "ratingClass": "C",
+      "homeLocation": "Martins Flipperbude",
+      "homeLocationId": "87",
+      "percentile": 45.58624866073508,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m28193",
+      "name": "Michael König",
+      "rating": 1484.51,
+      "rd": 35.47,
+      "ratingClass": "C",
+      "homeLocation": "Kai&Michael Pinball",
+      "homeLocationId": "9326",
+      "percentile": 40.681045325383145,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m46474",
+      "name": "Dieter Hoffmann",
+      "rating": 1472.94,
+      "rd": 42.7,
+      "ratingClass": "C",
+      "homeLocation": "Glory Oaks",
+      "homeLocationId": "10371",
+      "percentile": 36.08329063213304,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m52886",
+      "name": "Christian Schmitt",
+      "rating": 1454.76,
+      "rd": 42.47,
+      "ratingClass": "C",
+      "homeLocation": "Glory Oaks",
+      "homeLocationId": "10371",
+      "percentile": 28.96538873619975,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m52885",
+      "name": "Björn Gerke",
+      "rating": 1452.81,
+      "rd": 42.94,
+      "ratingClass": "C",
+      "homeLocation": "Kai&Michael Pinball",
+      "homeLocationId": "9326",
+      "percentile": 28.210742069222526,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i136231",
+      "name": "Steffen Bopp",
+      "rating": 1446.08,
+      "rd": 48.6,
+      "ratingClass": "C",
+      "homeLocation": "Albert All games",
+      "homeLocationId": "5407",
+      "percentile": 25.769786183444353,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

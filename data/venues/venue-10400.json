@@ -1,0 +1,155 @@
+{
+  "locationId": "10400",
+  "name": "John Robison's",
+  "address": "Folsom, CA.",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 7,
+  "relatedVenues": [
+    {
+      "locationId": "8715",
+      "name": "Jack’s Cameron Park",
+      "address": "",
+      "count": 10
+    },
+    {
+      "locationId": "12836",
+      "name": "Giao's House",
+      "address": "Woodland, CA",
+      "count": 7
+    },
+    {
+      "locationId": "12032",
+      "name": "Jeanette and Ricks House",
+      "address": "Elk Grove, CA",
+      "count": 6
+    },
+    {
+      "locationId": "12916",
+      "name": "Courtney Claybaugh",
+      "address": "Orangevale",
+      "count": 6
+    },
+    {
+      "locationId": "12982",
+      "name": "Christina N.",
+      "address": "",
+      "count": 6
+    },
+    {
+      "locationId": "981",
+      "name": "Loren & Yvette in Vacaville",
+      "address": "Vacaville",
+      "count": 3
+    },
+    {
+      "locationId": "7008",
+      "name": "Das Flipperhaus",
+      "address": "4835 Granite Dr, Rocklin, Ca",
+      "count": 3
+    },
+    {
+      "locationId": "7428",
+      "name": "David's House",
+      "address": "Edison Ave",
+      "count": 3
+    },
+    {
+      "locationId": "7431",
+      "name": "Justin's House",
+      "address": "",
+      "count": 3
+    },
+    {
+      "locationId": "13814",
+      "name": "Julia's Place",
+      "address": "",
+      "count": 3
+    }
+  ],
+  "players": [
+    {
+      "id": "m47825",
+      "name": "Wendy Brown",
+      "rating": 1546.88,
+      "rd": 40.88,
+      "ratingClass": "B",
+      "homeLocation": "Jack’s Cameron Park",
+      "homeLocationId": "8715",
+      "percentile": 65.52382726976289,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m43058",
+      "name": "Jenn Adamson",
+      "rating": 1501.19,
+      "rd": 31.53,
+      "ratingClass": "B",
+      "homeLocation": "Das Flipperhaus",
+      "homeLocationId": "7008",
+      "percentile": 47.612614710951696,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i147223",
+      "name": "Giao Villalobos",
+      "rating": 1481.07,
+      "rd": 37.44,
+      "ratingClass": "C",
+      "homeLocation": "Loren & Yvette in Vacaville",
+      "homeLocationId": "981",
+      "percentile": 39.316159686961385,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i135419",
+      "name": "Renee Holbrook",
+      "rating": 1412.77,
+      "rd": 69.97,
+      "ratingClass": "C",
+      "homeLocation": "John Robison's",
+      "homeLocationId": "10400",
+      "percentile": 15.847580006521639,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i103073",
+      "name": "Barbie Hope",
+      "rating": 1394.11,
+      "rd": 46.98,
+      "ratingClass": "D",
+      "homeLocation": "Jack’s Cameron Park",
+      "homeLocationId": "8715",
+      "percentile": 11.100759304979736,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m29148",
+      "name": "Jenn Jarrett",
+      "rating": 1376.06,
+      "rd": 39.42,
+      "ratingClass": "D",
+      "homeLocation": "Jack’s Cameron Park",
+      "homeLocationId": "8715",
+      "percentile": 7.630316299436345,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i47398",
+      "name": "Courtney Claybaugh",
+      "rating": 1298.19,
+      "rd": 73.71,
+      "ratingClass": "E",
+      "homeLocation": "John Robison's",
+      "homeLocationId": "10400",
+      "percentile": 0.9968789304513905,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

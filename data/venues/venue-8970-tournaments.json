@@ -1,0 +1,87 @@
+{
+  "locationId": "8970",
+  "venueName": "CityCade Arcade Bar",
+  "venueAddress": "122 South Oakland Street, Gastonia NC 28052",
+  "tournaments": [
+    {
+      "id": 266824,
+      "name": "CityCades Pinball Havoc Series #1",
+      "date": "8/12/2026",
+      "playerCount": 7,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m29829",
+          "name": "Nathan Irvin",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m45874",
+          "name": "Bryan Fraley",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m60691",
+          "name": "Daniel Cortes",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m60823",
+          "name": "Kate Lavender",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 264493,
+      "name": "CityCade's Hot Summer Challenge FINALS",
+      "date": "7/30/2026",
+      "playerCount": 9,
+      "qualifying": null,
+      "standings": []
+    },
+    {
+      "id": 264512,
+      "name": "CityCade's Hot Summer Challenge Finals",
+      "date": "7/29/2026",
+      "playerCount": 9,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m42478",
+          "name": "AJ Snyder",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m57822",
+          "name": "Luis Cortes",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m60823",
+          "name": "Kate Lavender",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m29829",
+          "name": "Nathan Irvin",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m60273",
+          "name": "Ben Downing",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "locationId": "13359",
+  "name": "Bob's Indoor Golf & Games",
+  "address": "2249 E 17th St, Idaho Falls, ID, 83404, US",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 2,
+  "relatedVenues": [],
+  "players": [
+    {
+      "id": "m35354",
+      "name": "Daniel Stoddard",
+      "rating": 1646.36,
+      "rd": 44.13,
+      "ratingClass": "A",
+      "homeLocation": "Bob's Indoor Golf & Games",
+      "homeLocationId": "13359",
+      "percentile": 91.2563469511343,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m56331",
+      "name": "Kaleb Swertfeger",
+      "rating": 1474.16,
+      "rd": 44.48,
+      "ratingClass": "C",
+      "homeLocation": "Bob's Indoor Golf & Games",
+      "homeLocationId": "13359",
+      "percentile": 36.54912190804491,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

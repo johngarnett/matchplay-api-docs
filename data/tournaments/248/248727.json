@@ -1,0 +1,116 @@
+{
+  "tournamentId": 248727,
+  "name": "Pinball Wednesdays at The Back Page",
+  "date": "2026-08-05",
+  "locationId": "11246",
+  "locationName": "The Back Page",
+  "playerCount": 15,
+  "ratingsDate": "2026-08-05",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m9817",
+      "name": "Alex Sperellis",
+      "rating": 1734.63,
+      "dailyRatingChange": 8.63
+    },
+    {
+      "position": 2,
+      "playerId": "m30115",
+      "name": "Graeme Burchael",
+      "rating": 1673.19,
+      "dailyRatingChange": 12.7
+    },
+    {
+      "position": 3,
+      "playerId": "m42269",
+      "name": "George Rusu",
+      "rating": 1541.6,
+      "dailyRatingChange": -6.92
+    },
+    {
+      "position": 4,
+      "playerId": "m29502",
+      "name": "Donovan Delaney",
+      "rating": 1539.23,
+      "dailyRatingChange": -1.84
+    },
+    {
+      "position": 4,
+      "playerId": "m29875",
+      "name": "Brian O'Rourke",
+      "rating": 1679.54,
+      "dailyRatingChange": -1.31
+    },
+    {
+      "position": 4,
+      "playerId": "m45344",
+      "name": "Adam Jensen",
+      "rating": 1478.35,
+      "dailyRatingChange": 5.83
+    },
+    {
+      "position": 7,
+      "playerId": "i162212",
+      "name": "Emmet O'Neill",
+      "rating": 1521.42,
+      "dailyRatingChange": 1.98
+    },
+    {
+      "position": 8,
+      "playerId": "m30113",
+      "name": "Aisling Bonner",
+      "rating": 1449.17,
+      "dailyRatingChange": -1.29
+    },
+    {
+      "position": 8,
+      "playerId": "m44819",
+      "name": "Jed Callaghan",
+      "rating": 1478.1,
+      "dailyRatingChange": -0.17
+    },
+    {
+      "position": 10,
+      "playerId": "m13426",
+      "name": "Jack Waycik",
+      "rating": 1617.36,
+      "dailyRatingChange": -4.62
+    },
+    {
+      "position": 10,
+      "playerId": "m51332",
+      "name": "Rachel Kenna",
+      "rating": 1491.75,
+      "dailyRatingChange": -2.17
+    },
+    {
+      "position": 10,
+      "playerId": "m30148",
+      "name": "Thea Ibba",
+      "rating": 1403.47,
+      "dailyRatingChange": 5.79
+    },
+    {
+      "position": 13,
+      "playerId": "m30114",
+      "name": "Lorcan Bonner",
+      "rating": 1443.17,
+      "dailyRatingChange": -5.45
+    },
+    {
+      "position": 14,
+      "playerId": "i145779",
+      "name": "Rachel Skelly",
+      "rating": 1357.39,
+      "dailyRatingChange": -13.67
+    },
+    {
+      "position": 15,
+      "playerId": "m32105",
+      "name": "Orla Keogh",
+      "rating": 1366.73,
+      "dailyRatingChange": -15.44
+    }
+  ]
+}

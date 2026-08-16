@@ -1,0 +1,102 @@
+{
+  "tournamentId": 257767,
+  "name": "The Trots Open",
+  "date": "2026-07-30",
+  "locationId": "12556",
+  "locationName": "GILD",
+  "playerCount": 13,
+  "ratingsDate": "2026-07-30",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m33245",
+      "name": "John Carls",
+      "rating": 1660.4,
+      "dailyRatingChange": 3.97
+    },
+    {
+      "position": 1,
+      "playerId": "m22093",
+      "name": "Seff Propios",
+      "rating": 1614.88,
+      "dailyRatingChange": 17.95
+    },
+    {
+      "position": 3,
+      "playerId": "m35085",
+      "name": "Brian Kirk MT",
+      "rating": 1619.5,
+      "dailyRatingChange": 5.02
+    },
+    {
+      "position": 4,
+      "playerId": "m41166",
+      "name": "Matt Helminski",
+      "rating": 1572.52,
+      "dailyRatingChange": 9.82
+    },
+    {
+      "position": 4,
+      "playerId": "m51438",
+      "name": "Jason Benner",
+      "rating": 1617.99,
+      "dailyRatingChange": 8.11
+    },
+    {
+      "position": 6,
+      "playerId": "m51051",
+      "name": "Maxx Tondu",
+      "rating": 1598.12,
+      "dailyRatingChange": -3.87
+    },
+    {
+      "position": 7,
+      "playerId": "m25881",
+      "name": "Daniel Gustin",
+      "rating": 1652.13,
+      "dailyRatingChange": -13.89
+    },
+    {
+      "position": 8,
+      "playerId": "m57446",
+      "name": "Brian Hugelen",
+      "rating": 1450.38,
+      "dailyRatingChange": 7.08
+    },
+    {
+      "position": 9,
+      "playerId": "m50520",
+      "name": "Ryan Douglas",
+      "rating": 1541.08,
+      "dailyRatingChange": -9.46
+    },
+    {
+      "position": 10,
+      "playerId": "m57245",
+      "name": "Amora Wilkins",
+      "rating": 1471.15,
+      "dailyRatingChange": 1.88
+    },
+    {
+      "position": 11,
+      "playerId": "m50521",
+      "name": "Mica Clarkson",
+      "rating": 1426.6,
+      "dailyRatingChange": -2.69
+    },
+    {
+      "position": 12,
+      "playerId": "m57815",
+      "name": "Mattasen Hugelen",
+      "rating": 1352.05,
+      "dailyRatingChange": -21.45
+    },
+    {
+      "position": 13,
+      "playerId": "m35435",
+      "name": "Eugenia Fedoseyeva",
+      "rating": 1337.83,
+      "dailyRatingChange": -9.43
+    }
+  ]
+}

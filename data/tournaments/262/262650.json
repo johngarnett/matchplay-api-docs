@@ -1,0 +1,347 @@
+{
+  "tournamentId": 262650,
+  "name": "Stern Army - The Pinball Lounge - July 2026 Group Matchplay",
+  "date": "2026-07-18",
+  "locationId": "7303",
+  "locationName": "The Pinball Lounge @Oviedo Bowling Center",
+  "playerCount": 48,
+  "ratingsDate": "2026-07-18",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m24406",
+      "name": "John Moschella",
+      "rating": 1688.31,
+      "dailyRatingChange": 18.11
+    },
+    {
+      "position": 2,
+      "playerId": "m16439",
+      "name": "Stacey Stafford",
+      "rating": 1606.85,
+      "dailyRatingChange": 19.44
+    },
+    {
+      "position": 3,
+      "playerId": "m16937",
+      "name": "Tristan Stafford",
+      "rating": 1764.79,
+      "dailyRatingChange": 0.19
+    },
+    {
+      "position": 4,
+      "playerId": "m39164",
+      "name": "Brayden DeRazza",
+      "rating": 1715.61,
+      "dailyRatingChange": 4.8
+    },
+    {
+      "position": 4,
+      "playerId": "m16441",
+      "name": "Shannon Stafford",
+      "rating": 1778.83,
+      "dailyRatingChange": -5.75
+    },
+    {
+      "position": 6,
+      "playerId": "m36224",
+      "name": "Sean Palmer",
+      "rating": 1748.8,
+      "dailyRatingChange": -2.71
+    },
+    {
+      "position": 6,
+      "playerId": "m11105",
+      "name": "Nick Smith FL",
+      "rating": 1720.55,
+      "dailyRatingChange": -3.59
+    },
+    {
+      "position": 6,
+      "playerId": "m48008",
+      "name": "Johnny Troy",
+      "rating": 1624.72,
+      "dailyRatingChange": 15.38
+    },
+    {
+      "position": 9,
+      "playerId": "m39828",
+      "name": "Gerred Yska",
+      "rating": 1614.94,
+      "dailyRatingChange": 9.89
+    },
+    {
+      "position": 9,
+      "playerId": "m16444",
+      "name": "Vince Gelormine",
+      "rating": 1720.32,
+      "dailyRatingChange": -1.31
+    },
+    {
+      "position": 11,
+      "playerId": "m20784",
+      "name": "Robert Viera FL",
+      "rating": 1654.32,
+      "dailyRatingChange": 2.5
+    },
+    {
+      "position": 11,
+      "playerId": "m779",
+      "name": "Anthony Dickson",
+      "rating": 1581.22,
+      "dailyRatingChange": 9.88
+    },
+    {
+      "position": 13,
+      "playerId": "m37538",
+      "name": "Tank Koscinski",
+      "rating": 1686.59,
+      "dailyRatingChange": -12.55
+    },
+    {
+      "position": 13,
+      "playerId": "m24487",
+      "name": "Andy Sokol",
+      "rating": 1660.29,
+      "dailyRatingChange": -2.48
+    },
+    {
+      "position": 13,
+      "playerId": "m8357",
+      "name": "Parker Sokol",
+      "rating": 1508.59,
+      "dailyRatingChange": 17.99
+    },
+    {
+      "position": 13,
+      "playerId": "m47516",
+      "name": "Hazel Booz",
+      "rating": 1591.01,
+      "dailyRatingChange": 6.56
+    },
+    {
+      "position": 13,
+      "playerId": "m3468",
+      "name": "Michael Lipof",
+      "rating": 1526.78,
+      "dailyRatingChange": 25.53
+    },
+    {
+      "position": 18,
+      "playerId": "m579582",
+      "name": "Bill Papoosha",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 18,
+      "playerId": "m41060",
+      "name": "Gary Wight",
+      "rating": 1572.55,
+      "dailyRatingChange": 6.4
+    },
+    {
+      "position": 18,
+      "playerId": "m7709",
+      "name": "Andrew Dunn",
+      "rating": 1645,
+      "dailyRatingChange": -4.42
+    },
+    {
+      "position": 21,
+      "playerId": "m49210",
+      "name": "Tony Reining",
+      "rating": 1571.48,
+      "dailyRatingChange": -1.93
+    },
+    {
+      "position": 21,
+      "playerId": "m41346",
+      "name": "Jason Phillabaum",
+      "rating": 1492.69,
+      "dailyRatingChange": 9.19
+    },
+    {
+      "position": 21,
+      "playerId": "m17470",
+      "name": "Dr. Frank Sposaro",
+      "rating": 1669.29,
+      "dailyRatingChange": -9.53
+    },
+    {
+      "position": 21,
+      "playerId": "m50653",
+      "name": "Brandon Reining",
+      "rating": 1580.24,
+      "dailyRatingChange": 0.16
+    },
+    {
+      "position": 21,
+      "playerId": "m579577",
+      "name": "Dave Mullaney",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 21,
+      "playerId": "m44415",
+      "name": "Melissa Paley",
+      "rating": 1503.89,
+      "dailyRatingChange": 16.27
+    },
+    {
+      "position": 27,
+      "playerId": "m579616",
+      "name": "Ben Tria",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 27,
+      "playerId": "m52928",
+      "name": "Steve Reining",
+      "rating": 1569.4,
+      "dailyRatingChange": -6.19
+    },
+    {
+      "position": 27,
+      "playerId": "m30994",
+      "name": "Omar Sokay",
+      "rating": 1547.76,
+      "dailyRatingChange": -5.94
+    },
+    {
+      "position": 27,
+      "playerId": "i2303",
+      "name": "Charlie Bucks",
+      "rating": 1473.91,
+      "dailyRatingChange": 11.33
+    },
+    {
+      "position": 31,
+      "playerId": "m23259",
+      "name": "Ben McGee",
+      "rating": 1527.95,
+      "dailyRatingChange": -4.43
+    },
+    {
+      "position": 31,
+      "playerId": "m50642",
+      "name": "Scott Rulapaugh",
+      "rating": 1481.08,
+      "dailyRatingChange": 20.27
+    },
+    {
+      "position": 31,
+      "playerId": "m20783",
+      "name": "Anton Samilian",
+      "rating": 1582.2,
+      "dailyRatingChange": -11.67
+    },
+    {
+      "position": 31,
+      "playerId": "m44801",
+      "name": "John Troy",
+      "rating": 1527.83,
+      "dailyRatingChange": -0.84
+    },
+    {
+      "position": 35,
+      "playerId": "m6257",
+      "name": "Chris Henry FL",
+      "rating": 1587.72,
+      "dailyRatingChange": -10.31
+    },
+    {
+      "position": 35,
+      "playerId": "m16201",
+      "name": "Lisa Henry",
+      "rating": 1507.27,
+      "dailyRatingChange": -3.57
+    },
+    {
+      "position": 35,
+      "playerId": "m3532",
+      "name": "Doug Bernard",
+      "rating": 1617.63,
+      "dailyRatingChange": -19.51
+    },
+    {
+      "position": 35,
+      "playerId": "m18675",
+      "name": "Michela Phillabaum",
+      "rating": 1586.1,
+      "dailyRatingChange": -11.37
+    },
+    {
+      "position": 35,
+      "playerId": "m16426",
+      "name": "Shannon Parsons",
+      "rating": 1523.67,
+      "dailyRatingChange": -1.21
+    },
+    {
+      "position": 40,
+      "playerId": "m25946",
+      "name": "Beth Viera",
+      "rating": 1393.57,
+      "dailyRatingChange": 8.4
+    },
+    {
+      "position": 41,
+      "playerId": "m579615",
+      "name": "Edmond Shapo",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 42,
+      "playerId": "m44416",
+      "name": "Eric Moorhouse",
+      "rating": 1437.82,
+      "dailyRatingChange": -3.32
+    },
+    {
+      "position": 43,
+      "playerId": "m29913",
+      "name": "Dani Pollock",
+      "rating": 1488.53,
+      "dailyRatingChange": -8.09
+    },
+    {
+      "position": 44,
+      "playerId": "m579575",
+      "name": "Aileen Anderson",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 44,
+      "playerId": "m579574",
+      "name": "Robert Anderson",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 46,
+      "playerId": "m579636",
+      "name": "Cassie Hall-Kirby",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 47,
+      "playerId": "m178375",
+      "name": "Micaela French",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 48,
+      "playerId": "m579631",
+      "name": "Tracy Peterson",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

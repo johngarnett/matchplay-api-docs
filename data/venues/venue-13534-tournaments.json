@@ -1,0 +1,44 @@
+{
+  "locationId": "13534",
+  "venueName": "Belles Basement",
+  "venueAddress": "803 Colonial Dr, Rock Hill, SC 29730",
+  "tournaments": [
+    {
+      "id": 263827,
+      "name": "Finals for RHB&C Luau Pace Matchplay",
+      "date": "7/25/2026",
+      "playerCount": 4,
+      "qualifying": {
+        "id": 258621,
+        "name": "RHB&C Luau Pace Matchplay",
+        "playerCount": 9
+      },
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m25559",
+          "name": "Catherine Rithianos",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m39144",
+          "name": "Kristen Weirich",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m17235",
+          "name": "Fallyn Widdis",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m47631",
+          "name": "Lilly Sanders",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

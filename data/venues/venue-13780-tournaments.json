@@ -1,0 +1,40 @@
+{
+  "locationId": "13780",
+  "venueName": "Pure Joy Toys",
+  "venueAddress": "6959 Bandera Rd. San Antonio, Tx. 78238",
+  "tournaments": [
+    {
+      "id": 263597,
+      "name": "Pure Joy Toys!!!!! Initial Thursday Tournament",
+      "date": "8/6/2026",
+      "playerCount": 10,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m8322",
+          "name": "Gilbert Herrera",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m36589",
+          "name": "Mario Garza",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m56824",
+          "name": "Sona Rivera",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m43007",
+          "name": "AJ Lopez",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

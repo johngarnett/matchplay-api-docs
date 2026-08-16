@@ -1,0 +1,53 @@
+{
+  "tournamentId": 266707,
+  "name": "Atomic Arcade - League Niight #1 - Finals Real",
+  "date": "2026-08-12",
+  "locationId": "13866",
+  "locationName": "Atomic Arcade",
+  "playerCount": 6,
+  "ratingsDate": "2026-08-12",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m37319",
+      "name": "Damien Muth",
+      "rating": 1634.58,
+      "dailyRatingChange": 2.23
+    },
+    {
+      "position": 1,
+      "playerId": "m586507",
+      "name": "Richard Van Bregt",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 3,
+      "playerId": "m17207",
+      "name": "Cosmo Lauzon",
+      "rating": 1616.65,
+      "dailyRatingChange": 22.21
+    },
+    {
+      "position": 3,
+      "playerId": "m586490",
+      "name": "Grant Clouston",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 5,
+      "playerId": "m10749",
+      "name": "Brent Hayashi",
+      "rating": 1575.54,
+      "dailyRatingChange": 6.95
+    },
+    {
+      "position": 5,
+      "playerId": "m586508",
+      "name": "Nathan Crouch",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "locationId": "12969",
+  "venueName": "Tilted Arcade at The Mighty Axe",
+  "venueAddress": "5410 E High St Suite 102, Phoenix, AZ 85054, US",
+  "tournaments": [
+    {
+      "id": 260987,
+      "name": "EBD PHX 2026 S4 W5",
+      "date": "8/5/2026",
+      "playerCount": 8,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m37101",
+          "name": "Stephan Klein",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 1,
+          "playerId": "m561",
+          "name": "Carlo Vernale",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m55770",
+          "name": "Zack Freeman",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "i107505",
+          "name": "David Sanders AZ",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 260986,
+      "name": "EBD PHX 2026 S4 W4",
+      "date": "7/29/2026",
+      "playerCount": 4,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "i107505",
+          "name": "David Sanders AZ",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "p540602",
+          "name": "Ivan Korolevich",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m561",
+          "name": "Carlo Vernale",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m58569",
+          "name": "Doug Everist",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 260985,
+      "name": "EBD PHX 2026 S4 W3",
+      "date": "7/22/2026",
+      "playerCount": 9,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "i149027",
+          "name": "Nick Schwartz",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m37101",
+          "name": "Stephan Klein",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m561",
+          "name": "Carlo Vernale",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m58569",
+          "name": "Doug Everist",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

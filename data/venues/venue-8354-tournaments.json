@@ -1,0 +1,40 @@
+{
+  "locationId": "8354",
+  "venueName": "Black Circle Bistro",
+  "venueAddress": "1318 Harper Rd Beckley, WV 25801",
+  "tournaments": [
+    {
+      "id": 266609,
+      "name": "DSPL Summer 2026 #1",
+      "date": "8/11/2026",
+      "playerCount": 10,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m51697",
+          "name": "Midori Bartholomew",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m49751",
+          "name": "Greg White",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m18219",
+          "name": "David Creager",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "i148686",
+          "name": "Randi Grossnan",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

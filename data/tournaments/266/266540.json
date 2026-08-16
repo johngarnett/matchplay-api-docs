@@ -1,0 +1,46 @@
+{
+  "tournamentId": 266540,
+  "name": "PinballNation",
+  "date": "2026-08-11",
+  "locationId": "9898",
+  "locationName": "kældren",
+  "playerCount": 5,
+  "ratingsDate": "2026-08-11",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "i84489",
+      "name": "Christian Christensen",
+      "rating": 1448.44,
+      "dailyRatingChange": 6.42
+    },
+    {
+      "position": 2,
+      "playerId": "m19382",
+      "name": "Niels Ronni Deppe",
+      "rating": 1460.46,
+      "dailyRatingChange": 2.24
+    },
+    {
+      "position": 2,
+      "playerId": "m21169",
+      "name": "Philip Petersen",
+      "rating": 1555.99,
+      "dailyRatingChange": -7.62
+    },
+    {
+      "position": 2,
+      "playerId": "m53711",
+      "name": "Jonathan Lomar",
+      "rating": 1503.91,
+      "dailyRatingChange": -1.77
+    },
+    {
+      "position": 5,
+      "playerId": "m38648",
+      "name": "Lars Pedersen",
+      "rating": 1489.9,
+      "dailyRatingChange": -5.58
+    }
+  ]
+}

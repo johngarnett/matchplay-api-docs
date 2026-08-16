@@ -1,0 +1,109 @@
+{
+  "tournamentId": 264144,
+  "name": "Shaded City Pinball Season 2: Return of the Shade #1",
+  "date": "2026-07-28",
+  "locationId": "13065",
+  "locationName": "Happenstance Brewing Project",
+  "playerCount": 14,
+  "ratingsDate": "2026-07-28",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m1482",
+      "name": "Trent Augenstein",
+      "rating": 1747.75,
+      "dailyRatingChange": 5.4
+    },
+    {
+      "position": 2,
+      "playerId": "m2844",
+      "name": "Deborah Tahlman",
+      "rating": 1647.38,
+      "dailyRatingChange": 3.25
+    },
+    {
+      "position": 3,
+      "playerId": "m58497",
+      "name": "Levi Combs",
+      "rating": 1651.05,
+      "dailyRatingChange": 6.51
+    },
+    {
+      "position": 4,
+      "playerId": "i147499",
+      "name": "William Clements",
+      "rating": 1632.91,
+      "dailyRatingChange": 7.85
+    },
+    {
+      "position": 5,
+      "playerId": "m539165",
+      "name": "Nick Filipow",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 6,
+      "playerId": "m57597",
+      "name": "Josh Reynolds",
+      "rating": 1678.12,
+      "dailyRatingChange": -5.55
+    },
+    {
+      "position": 6,
+      "playerId": "i159357",
+      "name": "Nathaniel Hurley",
+      "rating": 1551.4,
+      "dailyRatingChange": -3.98
+    },
+    {
+      "position": 6,
+      "playerId": "m54386",
+      "name": "Ryan Whitlow",
+      "rating": 1570.45,
+      "dailyRatingChange": -3.55
+    },
+    {
+      "position": 9,
+      "playerId": "m56872",
+      "name": "Douglas Powell",
+      "rating": 1398.2,
+      "dailyRatingChange": 9.8
+    },
+    {
+      "position": 10,
+      "playerId": "m24045",
+      "name": "Ron Smith",
+      "rating": 1602.29,
+      "dailyRatingChange": -3.19
+    },
+    {
+      "position": 11,
+      "playerId": "m5884",
+      "name": "Robert Gaines",
+      "rating": 1536.9,
+      "dailyRatingChange": -69.43
+    },
+    {
+      "position": 12,
+      "playerId": "m539162",
+      "name": "Pete Rogers",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 13,
+      "playerId": "m31173",
+      "name": "Mandy Haysley",
+      "rating": 1447.75,
+      "dailyRatingChange": -3.94
+    },
+    {
+      "position": 14,
+      "playerId": "m582501",
+      "name": "Joshua Codner",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

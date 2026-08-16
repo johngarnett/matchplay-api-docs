@@ -1,0 +1,207 @@
+{
+  "tournamentId": 260966,
+  "name": "Summer Showdown",
+  "date": "2026-08-04",
+  "locationId": "12495",
+  "locationName": "Craft and Draft",
+  "playerCount": 28,
+  "ratingsDate": "2026-08-04",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m38114",
+      "name": "Brynne Maghan",
+      "rating": 1554.81,
+      "dailyRatingChange": 13.22
+    },
+    {
+      "position": 1,
+      "playerId": "m35070",
+      "name": "Brianna Horrell",
+      "rating": 1522.98,
+      "dailyRatingChange": 20.75
+    },
+    {
+      "position": 3,
+      "playerId": "m22349",
+      "name": "Andrew Foard",
+      "rating": 1863.5,
+      "dailyRatingChange": 1.55
+    },
+    {
+      "position": 4,
+      "playerId": "m18180",
+      "name": "Michael Egbert",
+      "rating": 1654.01,
+      "dailyRatingChange": 2.88
+    },
+    {
+      "position": 4,
+      "playerId": "m43851",
+      "name": "Jon Foster",
+      "rating": 1578.71,
+      "dailyRatingChange": 1.41
+    },
+    {
+      "position": 6,
+      "playerId": "m30794",
+      "name": "DJ Crawford",
+      "rating": 1598.58,
+      "dailyRatingChange": 2.03
+    },
+    {
+      "position": 7,
+      "playerId": "m17233",
+      "name": "Mark Widdis",
+      "rating": 1565.49,
+      "dailyRatingChange": 1.76
+    },
+    {
+      "position": 7,
+      "playerId": "m50708",
+      "name": "Brian Kern",
+      "rating": 1580.33,
+      "dailyRatingChange": -1.2
+    },
+    {
+      "position": 9,
+      "playerId": "m43397",
+      "name": "Jared Wilson",
+      "rating": 1637.38,
+      "dailyRatingChange": 1.67
+    },
+    {
+      "position": 10,
+      "playerId": "m17235",
+      "name": "Fallyn Widdis",
+      "rating": 1537.66,
+      "dailyRatingChange": 2.51
+    },
+    {
+      "position": 11,
+      "playerId": "m2650",
+      "name": "Brian Krivonak",
+      "rating": 1651.11,
+      "dailyRatingChange": -1.3
+    },
+    {
+      "position": 12,
+      "playerId": "m35069",
+      "name": "Kellen West",
+      "rating": 1564.12,
+      "dailyRatingChange": 1.38
+    },
+    {
+      "position": 13,
+      "playerId": "m17782",
+      "name": "Mark Thornton",
+      "rating": 1544.1,
+      "dailyRatingChange": 4.3
+    },
+    {
+      "position": 14,
+      "playerId": "m27692",
+      "name": "Jennifer West",
+      "rating": 1480.73,
+      "dailyRatingChange": 22.7
+    },
+    {
+      "position": 15,
+      "playerId": "m35768",
+      "name": "Don Taylor",
+      "rating": 1535.41,
+      "dailyRatingChange": -3.8
+    },
+    {
+      "position": 16,
+      "playerId": "i103307",
+      "name": "Rob Vore",
+      "rating": 1516.72,
+      "dailyRatingChange": 2.5
+    },
+    {
+      "position": 17,
+      "playerId": "m34808",
+      "name": "Joe Barker",
+      "rating": 1515.58,
+      "dailyRatingChange": -7.27
+    },
+    {
+      "position": 18,
+      "playerId": "m42325",
+      "name": "Connor Paschal",
+      "rating": 1447.55,
+      "dailyRatingChange": -1.12
+    },
+    {
+      "position": 19,
+      "playerId": "m23592",
+      "name": "Ansley Green",
+      "rating": 1501.62,
+      "dailyRatingChange": -1.82
+    },
+    {
+      "position": 20,
+      "playerId": "m40750",
+      "name": "Chelsea Campbell",
+      "rating": 1402.99,
+      "dailyRatingChange": 0.57
+    },
+    {
+      "position": 21,
+      "playerId": "m53154",
+      "name": "Matt Davies SC",
+      "rating": 1664.66,
+      "dailyRatingChange": -7.79
+    },
+    {
+      "position": 21,
+      "playerId": "m21972",
+      "name": "Paul Lopresti",
+      "rating": 1547.02,
+      "dailyRatingChange": -3.9
+    },
+    {
+      "position": 21,
+      "playerId": "i132462",
+      "name": "Alex Vore",
+      "rating": 1343.23,
+      "dailyRatingChange": 6.76
+    },
+    {
+      "position": 24,
+      "playerId": "m35984",
+      "name": "Angela Hopkins",
+      "rating": 1460.04,
+      "dailyRatingChange": -3.49
+    },
+    {
+      "position": 25,
+      "playerId": "m42635",
+      "name": "Andrea Stjean",
+      "rating": 1374.22,
+      "dailyRatingChange": -10.89
+    },
+    {
+      "position": 26,
+      "playerId": "m40747",
+      "name": "Ashlee Taylor",
+      "rating": 1410.01,
+      "dailyRatingChange": -32.21
+    },
+    {
+      "position": 27,
+      "playerId": "m37048",
+      "name": "Sandy Laney",
+      "rating": 1438.93,
+      "dailyRatingChange": -37.42
+    },
+    {
+      "position": 27,
+      "playerId": "i91158",
+      "name": "Ryan Paradise",
+      "rating": 1312.41,
+      "dailyRatingChange": -39.86
+    }
+  ]
+}

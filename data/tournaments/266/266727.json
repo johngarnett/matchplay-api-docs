@@ -1,0 +1,53 @@
+{
+  "tournamentId": 266727,
+  "name": "Caltowie Wednesday August #1 '26",
+  "date": "2026-08-12",
+  "locationId": "11748",
+  "locationName": "Caltowie Memorial Hall",
+  "playerCount": 6,
+  "ratingsDate": "2026-08-12",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m6632",
+      "name": "Ray Gillett",
+      "rating": 1583.16,
+      "dailyRatingChange": 6.97
+    },
+    {
+      "position": 2,
+      "playerId": "m62574",
+      "name": "Mark Easson",
+      "rating": 1578.82,
+      "dailyRatingChange": 2.35
+    },
+    {
+      "position": 3,
+      "playerId": "m51737",
+      "name": "Jim Tyas",
+      "rating": 1521.39,
+      "dailyRatingChange": 3.75
+    },
+    {
+      "position": 4,
+      "playerId": "m572052",
+      "name": "Jean Guttridge",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 5,
+      "playerId": "m586586",
+      "name": "David Keates",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 6,
+      "playerId": "m586588",
+      "name": "Wayne Maclean",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

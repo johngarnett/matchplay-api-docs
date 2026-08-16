@@ -1,0 +1,95 @@
+{
+  "tournamentId": 262238,
+  "name": "OPA Onsdag 29/07",
+  "date": "2026-07-29",
+  "locationId": "5700",
+  "locationName": "Odense Pinball Arkade",
+  "playerCount": 12,
+  "ratingsDate": "2026-07-29",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m38650",
+      "name": "Villads Legind",
+      "rating": 1555.21,
+      "dailyRatingChange": 4.34
+    },
+    {
+      "position": 2,
+      "playerId": "m17970",
+      "name": "Julian Legind",
+      "rating": 1673.22,
+      "dailyRatingChange": 3.5
+    },
+    {
+      "position": 3,
+      "playerId": "m38652",
+      "name": "Danni Larsen",
+      "rating": 1590.77,
+      "dailyRatingChange": -5.31
+    },
+    {
+      "position": 4,
+      "playerId": "m48260",
+      "name": "Sebastian Kyster-Hansen",
+      "rating": 1483.18,
+      "dailyRatingChange": 10.05
+    },
+    {
+      "position": 5,
+      "playerId": "m31581",
+      "name": "Morten Yde",
+      "rating": 1548.94,
+      "dailyRatingChange": -0.6
+    },
+    {
+      "position": 6,
+      "playerId": "m42680",
+      "name": "Bertram Søgaard Haun",
+      "rating": 1687.64,
+      "dailyRatingChange": -1.65
+    },
+    {
+      "position": 6,
+      "playerId": "m21816",
+      "name": "Jacob Søgaard Haun",
+      "rating": 1581.77,
+      "dailyRatingChange": -8.26
+    },
+    {
+      "position": 8,
+      "playerId": "m55747",
+      "name": "Klaus Larsen",
+      "rating": 1355.87,
+      "dailyRatingChange": 12.7
+    },
+    {
+      "position": 9,
+      "playerId": "m31567",
+      "name": "Kenny Damm Jacobsen",
+      "rating": 1596.4,
+      "dailyRatingChange": -2.13
+    },
+    {
+      "position": 10,
+      "playerId": "m31582",
+      "name": "Julian Thy",
+      "rating": 1496.03,
+      "dailyRatingChange": -3.34
+    },
+    {
+      "position": 11,
+      "playerId": "m60161",
+      "name": "Rune Jensen",
+      "rating": 1413.52,
+      "dailyRatingChange": 1.56
+    },
+    {
+      "position": 12,
+      "playerId": "m52320",
+      "name": "Jesper Bangsholt",
+      "rating": 1431.79,
+      "dailyRatingChange": -2.46
+    }
+  ]
+}

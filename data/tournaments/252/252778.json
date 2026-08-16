@@ -1,0 +1,116 @@
+{
+  "tournamentId": 252778,
+  "name": "CCParadise Weekday Warriors League - Season 2 #9",
+  "date": "2026-08-05",
+  "locationId": "12169",
+  "locationName": "Captain Crazy's Paradise",
+  "playerCount": 15,
+  "ratingsDate": "2026-08-05",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m32247",
+      "name": "Taylor Egen",
+      "rating": 1595.06,
+      "dailyRatingChange": 17.87
+    },
+    {
+      "position": 2,
+      "playerId": "i162090",
+      "name": "Dylan Milstead",
+      "rating": 1480.05,
+      "dailyRatingChange": 18.91
+    },
+    {
+      "position": 2,
+      "playerId": "m39854",
+      "name": "Mindy Wethington",
+      "rating": 1450.14,
+      "dailyRatingChange": 10.21
+    },
+    {
+      "position": 4,
+      "playerId": "m35551",
+      "name": "Tyler Gatlin",
+      "rating": 1634.68,
+      "dailyRatingChange": -2.71
+    },
+    {
+      "position": 5,
+      "playerId": "m55887",
+      "name": "Emily Lamb",
+      "rating": 1546.09,
+      "dailyRatingChange": -0.73
+    },
+    {
+      "position": 6,
+      "playerId": "m34412",
+      "name": "Brad Wethington",
+      "rating": 1581.05,
+      "dailyRatingChange": -0.51
+    },
+    {
+      "position": 6,
+      "playerId": "m42483",
+      "name": "Christian Butts",
+      "rating": 1621.55,
+      "dailyRatingChange": -2.96
+    },
+    {
+      "position": 8,
+      "playerId": "m45816",
+      "name": "Austin Reid",
+      "rating": 1496.35,
+      "dailyRatingChange": 2.05
+    },
+    {
+      "position": 9,
+      "playerId": "m35553",
+      "name": "Holden Tullier",
+      "rating": 1545.11,
+      "dailyRatingChange": -2.62
+    },
+    {
+      "position": 9,
+      "playerId": "m34415",
+      "name": "Paul White AL",
+      "rating": 1571.73,
+      "dailyRatingChange": -2.75
+    },
+    {
+      "position": 11,
+      "playerId": "m35086",
+      "name": "Melissa Hutchinson",
+      "rating": 1472.85,
+      "dailyRatingChange": -2.06
+    },
+    {
+      "position": 11,
+      "playerId": "m57417",
+      "name": "Rowan Rayon",
+      "rating": 1447.46,
+      "dailyRatingChange": 0.73
+    },
+    {
+      "position": 13,
+      "playerId": "m9452",
+      "name": "Ryan Avery",
+      "rating": 1527.11,
+      "dailyRatingChange": -17.37
+    },
+    {
+      "position": 13,
+      "playerId": "m35084",
+      "name": "Clinton Hutchinson",
+      "rating": 1529.72,
+      "dailyRatingChange": -8.24
+    },
+    {
+      "position": 15,
+      "playerId": "m551199",
+      "name": "Gaven Jordan",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

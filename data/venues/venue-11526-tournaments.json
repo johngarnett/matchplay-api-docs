@@ -1,0 +1,44 @@
+{
+  "locationId": "11526",
+  "venueName": "Play",
+  "venueAddress": "232 W 5th Ave, Eugene, OR 97401, US",
+  "tournaments": [
+    {
+      "id": 264389,
+      "name": "Finals for Belles play 7/28",
+      "date": "7/28/2026",
+      "playerCount": 4,
+      "qualifying": {
+        "id": 264356,
+        "name": "Belles play 7/28",
+        "playerCount": 10
+      },
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m8010",
+          "name": "Sunni Williams",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "i113760",
+          "name": "Holly Shutes",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m35831",
+          "name": "Kay McFadyen",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m2144",
+          "name": "Megan Landers",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "tournamentId": 265549,
+  "name": "Tuesday 8/4 @ the Joystiq",
+  "date": "2026-08-05",
+  "locationId": "10372",
+  "locationName": "Joystiq",
+  "playerCount": 8,
+  "ratingsDate": "2026-08-05",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m39996",
+      "name": "Tyler Turner",
+      "rating": 1688.81,
+      "dailyRatingChange": 3.31
+    },
+    {
+      "position": 2,
+      "playerId": "m60006",
+      "name": "Brett Frago",
+      "rating": 1663.91,
+      "dailyRatingChange": 3.87
+    },
+    {
+      "position": 3,
+      "playerId": "m50976",
+      "name": "Trevor Turner",
+      "rating": 1646.77,
+      "dailyRatingChange": -0.59
+    },
+    {
+      "position": 4,
+      "playerId": "m443467",
+      "name": "Kimberley Bristow",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 5,
+      "playerId": "m2641",
+      "name": "Robert Rusticus",
+      "rating": 1553.81,
+      "dailyRatingChange": -2.59
+    },
+    {
+      "position": 5,
+      "playerId": "m584670",
+      "name": "Ashley metzger",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 7,
+      "playerId": "m465669",
+      "name": "Ciara Turner",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 8,
+      "playerId": "i137806",
+      "name": "Sherrie West",
+      "rating": 1417.09,
+      "dailyRatingChange": -4.89
+    }
+  ]
+}

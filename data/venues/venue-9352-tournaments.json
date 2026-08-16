@@ -1,0 +1,32 @@
+{
+  "locationId": "9352",
+  "venueName": "Brewhalla",
+  "venueAddress": "",
+  "tournaments": [
+    {
+      "id": 265397,
+      "name": "Finals for Brewhalla Matchplay 8/3/26 (clone)",
+      "date": "8/3/2026",
+      "playerCount": 6,
+      "qualifying": {
+        "id": 265335,
+        "name": "Brewhalla Matchplay 8/3/26 (clone)",
+        "playerCount": 15
+      },
+      "standings": [
+        {
+          "position": 3,
+          "playerId": "m29376",
+          "name": "Andrew Huxley",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m6843",
+          "name": "Tim Fiechtner",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

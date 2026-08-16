@@ -1,0 +1,81 @@
+{
+  "tournamentId": 264446,
+  "name": "Main Street Pinball Summer League #1",
+  "date": "2026-07-31",
+  "locationId": "9336",
+  "locationName": "Main Street Pinball",
+  "playerCount": 10,
+  "ratingsDate": "2026-07-31",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m50968",
+      "name": "Ladawna Coffey",
+      "rating": 1480.95,
+      "dailyRatingChange": 6.77
+    },
+    {
+      "position": 1,
+      "playerId": "m36194",
+      "name": "Matthew Heard",
+      "rating": 1526.67,
+      "dailyRatingChange": 5.16
+    },
+    {
+      "position": 1,
+      "playerId": "m19845",
+      "name": "Kraig Blaeuer",
+      "rating": 1633.04,
+      "dailyRatingChange": -0.46
+    },
+    {
+      "position": 4,
+      "playerId": "m29941",
+      "name": "Joshua Enke",
+      "rating": 1521.84,
+      "dailyRatingChange": -0.69
+    },
+    {
+      "position": 4,
+      "playerId": "m50970",
+      "name": "Jennifer White",
+      "rating": 1458.51,
+      "dailyRatingChange": 4.74
+    },
+    {
+      "position": 4,
+      "playerId": "m48103",
+      "name": "Ryan Weaver",
+      "rating": 1516.23,
+      "dailyRatingChange": -0.2
+    },
+    {
+      "position": 4,
+      "playerId": "m34532",
+      "name": "Amanda Enke",
+      "rating": 1508.85,
+      "dailyRatingChange": 0.43
+    },
+    {
+      "position": 4,
+      "playerId": "m46771",
+      "name": "Jason Sieg",
+      "rating": 1480.16,
+      "dailyRatingChange": 3.55
+    },
+    {
+      "position": 9,
+      "playerId": "m33311",
+      "name": "Darin Embry",
+      "rating": 1605.86,
+      "dailyRatingChange": -9.7
+    },
+    {
+      "position": 10,
+      "playerId": "m59226",
+      "name": "Mac Eckhoff",
+      "rating": 1442.89,
+      "dailyRatingChange": null
+    }
+  ]
+}

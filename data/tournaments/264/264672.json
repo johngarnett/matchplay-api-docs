@@ -1,0 +1,81 @@
+{
+  "tournamentId": 264672,
+  "name": "Evil Horse Brewing - July 2026 Tournament",
+  "date": "2026-07-31",
+  "locationId": "8117",
+  "locationName": "Evil Horse Brewing Company",
+  "playerCount": 10,
+  "ratingsDate": "2026-07-31",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m47820",
+      "name": "Morgan Clarke",
+      "rating": 1553.45,
+      "dailyRatingChange": 12.92
+    },
+    {
+      "position": 2,
+      "playerId": "m1372",
+      "name": "Todd Rafacz",
+      "rating": 1793.87,
+      "dailyRatingChange": 2.1
+    },
+    {
+      "position": 3,
+      "playerId": "i110591",
+      "name": "Miles Rafacz",
+      "rating": 1568.85,
+      "dailyRatingChange": -4.09
+    },
+    {
+      "position": 4,
+      "playerId": "m38712",
+      "name": "Pamela Tusack",
+      "rating": 1387.68,
+      "dailyRatingChange": 9.44
+    },
+    {
+      "position": 5,
+      "playerId": "m61014",
+      "name": "Laurie Davis",
+      "rating": 1429.9,
+      "dailyRatingChange": -6.58
+    },
+    {
+      "position": 5,
+      "playerId": "m61016",
+      "name": "Marco Borrelli",
+      "rating": 1414.6,
+      "dailyRatingChange": -4.07
+    },
+    {
+      "position": 7,
+      "playerId": "i119265",
+      "name": "James Tusack",
+      "rating": 1346.26,
+      "dailyRatingChange": 1.16
+    },
+    {
+      "position": 7,
+      "playerId": "m60531",
+      "name": "Kyle Mahalik",
+      "rating": 1398.62,
+      "dailyRatingChange": -2.25
+    },
+    {
+      "position": 7,
+      "playerId": "m25477",
+      "name": "Matthew Knippen",
+      "rating": 1550.45,
+      "dailyRatingChange": -6.65
+    },
+    {
+      "position": 10,
+      "playerId": "m562058",
+      "name": "Emma Mahalik",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

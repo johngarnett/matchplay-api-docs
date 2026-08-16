@@ -1,0 +1,39 @@
+{
+  "tournamentId": 266508,
+  "name": "Finals for Women’s Transformers Stern Army launch party!",
+  "date": "2026-08-11",
+  "locationId": "10614",
+  "locationName": "Phantom Amusement",
+  "playerCount": 4,
+  "ratingsDate": "2026-08-11",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m37828",
+      "name": "Amanda Cowie",
+      "rating": 1560.94,
+      "dailyRatingChange": 1.05
+    },
+    {
+      "position": 2,
+      "playerId": "m38366",
+      "name": "Trudy Bais",
+      "rating": 1518.26,
+      "dailyRatingChange": 9.35
+    },
+    {
+      "position": 3,
+      "playerId": "m7152",
+      "name": "Jody Linn",
+      "rating": 1545.81,
+      "dailyRatingChange": 5.57
+    },
+    {
+      "position": 4,
+      "playerId": "m586256",
+      "name": "Kadence Morris",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

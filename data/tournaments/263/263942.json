@@ -1,0 +1,144 @@
+{
+  "tournamentId": 263942,
+  "name": "Super Sundays 2 #3",
+  "date": "2026-08-02",
+  "locationId": "535",
+  "locationName": "Superelectric Pinball Parlor",
+  "playerCount": 19,
+  "ratingsDate": "2026-08-02",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m577965",
+      "name": "Andy Blanchard",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 1,
+      "playerId": "m47194",
+      "name": "Corey Jackson",
+      "rating": 1565.9,
+      "dailyRatingChange": 5.12
+    },
+    {
+      "position": 3,
+      "playerId": "m24696",
+      "name": "Jon Hrobat",
+      "rating": 1616.05,
+      "dailyRatingChange": 3.86
+    },
+    {
+      "position": 4,
+      "playerId": "m19141",
+      "name": "Kyle Shepard",
+      "rating": 1615.49,
+      "dailyRatingChange": -5.34
+    },
+    {
+      "position": 4,
+      "playerId": "m47471",
+      "name": "Kaitlin Grocky",
+      "rating": 1455.06,
+      "dailyRatingChange": 3.61
+    },
+    {
+      "position": 4,
+      "playerId": "m29512",
+      "name": "Josh Biszantz",
+      "rating": 1457.27,
+      "dailyRatingChange": 7.15
+    },
+    {
+      "position": 7,
+      "playerId": "m9669",
+      "name": "Brent Reed",
+      "rating": 1607.16,
+      "dailyRatingChange": -2.75
+    },
+    {
+      "position": 7,
+      "playerId": "m29228",
+      "name": "Mark Biszantz",
+      "rating": 1516.88,
+      "dailyRatingChange": 1.24
+    },
+    {
+      "position": 9,
+      "playerId": "m22689",
+      "name": "Kaitlin Truskot",
+      "rating": 1432.55,
+      "dailyRatingChange": 1.41
+    },
+    {
+      "position": 9,
+      "playerId": "m34177",
+      "name": "Mark Dunlevy",
+      "rating": 1532.87,
+      "dailyRatingChange": -3.2
+    },
+    {
+      "position": 9,
+      "playerId": "m577953",
+      "name": "Kyle Cook",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 12,
+      "playerId": "i93462",
+      "name": "Vincent Maletz",
+      "rating": 1315.97,
+      "dailyRatingChange": 17.5
+    },
+    {
+      "position": 13,
+      "playerId": "m39926",
+      "name": "Bradley Kaczmarski",
+      "rating": 1454.84,
+      "dailyRatingChange": -4.03
+    },
+    {
+      "position": 14,
+      "playerId": "m29320",
+      "name": "Becca Hoffman",
+      "rating": 1403.01,
+      "dailyRatingChange": -5.66
+    },
+    {
+      "position": 15,
+      "playerId": "i119639",
+      "name": "Nancy Binder",
+      "rating": 1334.6,
+      "dailyRatingChange": 4.07
+    },
+    {
+      "position": 15,
+      "playerId": "m51428",
+      "name": "Ashley Volk",
+      "rating": 1339.96,
+      "dailyRatingChange": -0.07
+    },
+    {
+      "position": 17,
+      "playerId": "i103457",
+      "name": "Aubrey Volk",
+      "rating": 1410.81,
+      "dailyRatingChange": -10.39
+    },
+    {
+      "position": 18,
+      "playerId": "i103451",
+      "name": "Dylan Volk",
+      "rating": 1418.81,
+      "dailyRatingChange": -25.09
+    },
+    {
+      "position": 18,
+      "playerId": "m30578",
+      "name": "John Volk",
+      "rating": 1347.37,
+      "dailyRatingChange": -15.74
+    }
+  ]
+}

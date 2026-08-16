@@ -1,0 +1,213 @@
+{
+  "communityId": "36",
+  "locations": [
+    {
+      "id": "2480",
+      "name": "Pittsburgh Pinball Dojo",
+      "address": "2 N Balph Ave, Bellevue PA 15202",
+      "tournaments": [
+        {
+          "id": 266088,
+          "name": "August Dojo 5 Strikes Heads Up Knockout",
+          "date": "8/8/2026",
+          "playerCount": 30,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m1887",
+              "name": "Evan Bookbinder",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m33485",
+              "name": "Greg Galanter",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m38493",
+              "name": "Will Lannis",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m16891",
+              "name": "Evan Callahan",
+              "isCommunityMember": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "13462",
+      "name": "Row House Cinemas - Hollywood",
+      "address": "1449 Potomac Ave, Pittsburgh, PA 15216, US",
+      "tournaments": [
+        {
+          "id": 266777,
+          "name": "Potomac Ave Knockout @ the Hollywood",
+          "date": "8/12/2026",
+          "playerCount": 16,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m16262",
+              "name": "Dave Lancaster",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m16891",
+              "name": "Evan Callahan",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m30825",
+              "name": "Tony Christman",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m5301",
+              "name": "Pete Hendricks",
+              "isCommunityMember": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "12777",
+      "name": "The Church Arcade",
+      "address": "32 S 1st Street, Duquesne PA, 15110",
+      "tournaments": [
+        {
+          "id": 266569,
+          "name": "Tuesday Night Strikes",
+          "date": "8/11/2026",
+          "playerCount": 12,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "i146694",
+              "name": "Eric Koren",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "i11863",
+              "name": "Nicholas Stevens",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m34246",
+              "name": "Mike hovraluck",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m42247",
+              "name": "Jeff DeRose",
+              "isCommunityMember": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "11249",
+      "name": "The Manor",
+      "address": "1329 Kings Highway, Pilesgrove, NJ 08098",
+      "tournaments": [
+        {
+          "id": 264434,
+          "name": "A Finals for August Strikes at The Manor",
+          "date": "8/9/2026",
+          "playerCount": 16,
+          "qualifying": {
+            "id": 252802,
+            "name": "August Strikes at The Manor",
+            "playerCount": 64
+          },
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m9202",
+              "name": "Matthew Richardson",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m44146",
+              "name": "Nicholas Carman",
+              "isCommunityMember": false
+            },
+            {
+              "position": 3,
+              "playerId": "m26268",
+              "name": "James Perugini",
+              "isCommunityMember": false
+            },
+            {
+              "position": 4,
+              "playerId": "m22315",
+              "name": "Matthew Hartmann",
+              "isCommunityMember": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "unknown",
+      "name": "Unknown Location",
+      "address": "",
+      "tournaments": [
+        {
+          "id": 264291,
+          "name": "ImpossitallicA at The Manor",
+          "date": "8/9/2026",
+          "playerCount": 64,
+          "qualifying": {
+            "id": 252802,
+            "name": "August Strikes at The Manor",
+            "playerCount": 64
+          },
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m23515",
+              "name": "Matt Pursglove",
+              "isCommunityMember": false
+            },
+            {
+              "position": 2,
+              "playerId": "m8971",
+              "name": "jason Lally",
+              "isCommunityMember": false
+            },
+            {
+              "position": 3,
+              "playerId": "m10933",
+              "name": "Scott Mott",
+              "isCommunityMember": false
+            },
+            {
+              "position": 4,
+              "playerId": "m9202",
+              "name": "Matthew Richardson",
+              "isCommunityMember": true
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

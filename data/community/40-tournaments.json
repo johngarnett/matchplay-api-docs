@@ -1,0 +1,124 @@
+{
+  "communityId": "40",
+  "locations": [
+    {
+      "id": "11089",
+      "name": "Our House",
+      "address": "",
+      "tournaments": [
+        {
+          "id": 266952,
+          "name": "Flip Frenzy Thursday 3",
+          "date": "8/13/2026",
+          "playerCount": 19,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "p577107",
+              "name": "Andrew Cole",
+              "isCommunityMember": false
+            },
+            {
+              "position": 2,
+              "playerId": "m36713",
+              "name": "Stephen Perillo",
+              "isCommunityMember": false
+            },
+            {
+              "position": 3,
+              "playerId": "m43021",
+              "name": "Billy Islander",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m315",
+              "name": "Frank Guida",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "p577162",
+              "name": "Peter Cole",
+              "isCommunityMember": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9019",
+      "name": "Rock Fantasy",
+      "address": "12 East Main Street, Middletown, New York 10940, US",
+      "tournaments": [
+        {
+          "id": 266802,
+          "name": "Stern Army Rock Fantasy Weekly",
+          "date": "8/13/2026",
+          "playerCount": 32,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m32855",
+              "name": "Kate Smith NY",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m14116",
+              "name": "Douglas Salamon",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m227",
+              "name": "Bryon Estes",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m10437",
+              "name": "Frank Romero",
+              "isCommunityMember": true
+            }
+          ]
+        },
+        {
+          "id": 266154,
+          "name": "tf pro finals",
+          "date": "8/8/2026",
+          "playerCount": 8,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m20125",
+              "name": "Alan Skvorecz",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m14116",
+              "name": "Douglas Salamon",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m10829",
+              "name": "Robert Salamon",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m32855",
+              "name": "Kate Smith NY",
+              "isCommunityMember": true
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

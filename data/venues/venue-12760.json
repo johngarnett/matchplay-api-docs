@@ -1,0 +1,191 @@
+{
+  "locationId": "12760",
+  "name": "EinStein's Pub & Arcade",
+  "address": "16733 West Airport Blvd, Richmond, TX 77407, US",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 10,
+  "relatedVenues": [
+    {
+      "locationId": "7171",
+      "name": "Einstein's Pub",
+      "address": "873 South Mason Rd, Ste. 360, Katy, TX 77450, US",
+      "count": 85
+    },
+    {
+      "locationId": "9515",
+      "name": "Eureka Heights Brew Co",
+      "address": "941 West 18th St, Houston, Texas 77008",
+      "count": 49
+    },
+    {
+      "locationId": "7731",
+      "name": "The Game Preserve NASA",
+      "address": "20810 Gulf Freeway, Webster, TX 77598, US",
+      "count": 25
+    },
+    {
+      "locationId": "10346",
+      "name": "LOWer Level Arcade",
+      "address": "19318 Wood Village Lane",
+      "count": 20
+    },
+    {
+      "locationId": "7233",
+      "name": "Einsteins Pub and Arcade",
+      "address": "16733 West Airport Blvd. ste. 290, Richmond, Texas 77407, US",
+      "count": 19
+    },
+    {
+      "locationId": "12571",
+      "name": "Little Dipper Lounge",
+      "address": "304 Main St, Houston, TX 77002, US",
+      "count": 12
+    },
+    {
+      "locationId": "5822",
+      "name": "UpKick - Dronet Residence",
+      "address": "5311 Climber Ct",
+      "count": 10
+    },
+    {
+      "locationId": "7414",
+      "name": "Gandalf's Arcade",
+      "address": "10606 Hempstead Road, Houston, TX, 77092, US",
+      "count": 8
+    },
+    {
+      "locationId": "11561",
+      "name": "Austin Pinball Collective",
+      "address": "1106 Clayton Ln, Austin, TX 78723, US",
+      "count": 8
+    },
+    {
+      "locationId": "5779",
+      "name": "Mueller Residence",
+      "address": "",
+      "count": 4
+    }
+  ],
+  "players": [
+    {
+      "id": "m3626",
+      "name": "Ryan Bell",
+      "rating": 1563.48,
+      "rd": 20.1,
+      "ratingClass": "B",
+      "homeLocation": "Einstein's Pub",
+      "homeLocationId": "7171",
+      "percentile": 71.48180928867565,
+      "changeDisplay": "-0.3",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m10208",
+      "name": "Bill Nebeker 😾",
+      "rating": 1550.49,
+      "rd": 17.19,
+      "ratingClass": "B",
+      "homeLocation": "Einstein's Pub",
+      "homeLocationId": "7171",
+      "percentile": 66.89337122094378,
+      "changeDisplay": "-0.7",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m11337",
+      "name": "Liz Nebeker 🐶",
+      "rating": 1531.82,
+      "rd": 16.05,
+      "ratingClass": "B",
+      "homeLocation": "Einstein's Pub",
+      "homeLocationId": "7171",
+      "percentile": 59.79876088880608,
+      "changeDisplay": "-2.1",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m47917",
+      "name": "Henri de Ybarrondo",
+      "rating": 1515.18,
+      "rd": 18.59,
+      "ratingClass": "B",
+      "homeLocation": "Einstein's Pub",
+      "homeLocationId": "7171",
+      "percentile": 53.267806400521735,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m48153",
+      "name": "Troy Witherspoon",
+      "rating": 1505,
+      "rd": 16.96,
+      "ratingClass": "B",
+      "homeLocation": "The Game Preserve NASA",
+      "homeLocationId": "7731",
+      "percentile": 49.29892392975264,
+      "changeDisplay": "+6.4",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m41694",
+      "name": "Ramon Martinez🐟🐟",
+      "rating": 1503.41,
+      "rd": 21.27,
+      "ratingClass": "B",
+      "homeLocation": "Einstein's Pub",
+      "homeLocationId": "7171",
+      "percentile": 48.539618950016305,
+      "changeDisplay": "+4.0",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m50033",
+      "name": "Vonyéa Williams",
+      "rating": 1502.01,
+      "rd": 20.09,
+      "ratingClass": "B",
+      "homeLocation": "Eureka Heights Brew Co",
+      "homeLocationId": "9515",
+      "percentile": 47.906088414776164,
+      "changeDisplay": "+3.9",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m25959",
+      "name": "Cindi Brennan 💗",
+      "rating": 1456.24,
+      "rd": 16.07,
+      "ratingClass": "C",
+      "homeLocation": "Einstein's Pub",
+      "homeLocationId": "7171",
+      "percentile": 29.48711976522104,
+      "changeDisplay": "-9.9",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m51563",
+      "name": "Caleb Wilson",
+      "rating": 1443.08,
+      "rd": 19.46,
+      "ratingClass": "C",
+      "homeLocation": "Einstein's Pub",
+      "homeLocationId": "7171",
+      "percentile": 24.782223878511203,
+      "changeDisplay": "-0.8",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m47789",
+      "name": "Tommi Ross",
+      "rating": 1221.42,
+      "rd": 31.43,
+      "ratingClass": "E",
+      "homeLocation": "LOWer Level Arcade",
+      "homeLocationId": "10346",
+      "percentile": 0.10248288070061023,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

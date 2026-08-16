@@ -1,0 +1,39 @@
+{
+  "tournamentId": 263206,
+  "name": "Semi-Finals for Tuesday Night at the Vault: July Week 3",
+  "date": "2026-07-22",
+  "locationId": "10312",
+  "locationName": "Morristown Game Vault",
+  "playerCount": 4,
+  "ratingsDate": "2026-07-22",
+  "standings": [
+    {
+      "position": 5,
+      "playerId": "m4782",
+      "name": "Russell Davis",
+      "rating": 1554.51,
+      "dailyRatingChange": 10.33
+    },
+    {
+      "position": 6,
+      "playerId": "m18040",
+      "name": "Todd Dwyer",
+      "rating": 1513.62,
+      "dailyRatingChange": -0.25
+    },
+    {
+      "position": 7,
+      "playerId": "m39520",
+      "name": "Christopher Julio",
+      "rating": 1571.54,
+      "dailyRatingChange": 0.81
+    },
+    {
+      "position": 8,
+      "playerId": "m50483",
+      "name": "Bill Gordon",
+      "rating": 1458.28,
+      "dailyRatingChange": 5.83
+    }
+  ]
+}

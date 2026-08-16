@@ -1,0 +1,102 @@
+{
+  "tournamentId": 266075,
+  "name": "Project Pinball League 2026 Stern Army - IFPA #8",
+  "date": "2026-08-08",
+  "locationId": "11374",
+  "locationName": "Project Pinball Headquarters",
+  "playerCount": 13,
+  "ratingsDate": "2026-08-08",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m35099",
+      "name": "Brian Collins FL",
+      "rating": 1690.95,
+      "dailyRatingChange": 6.53
+    },
+    {
+      "position": 2,
+      "playerId": "i58401",
+      "name": "Todd Baxter",
+      "rating": 1581.67,
+      "dailyRatingChange": 21.29
+    },
+    {
+      "position": 3,
+      "playerId": "m471099",
+      "name": "Matt Ramsey",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 4,
+      "playerId": "m505228",
+      "name": "Brooke Rakoczy",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 5,
+      "playerId": "m43254",
+      "name": "Ray Woods",
+      "rating": 1602.81,
+      "dailyRatingChange": -9.1
+    },
+    {
+      "position": 6,
+      "playerId": "m13703",
+      "name": "Carrie Baxter",
+      "rating": 1475.78,
+      "dailyRatingChange": 0.48
+    },
+    {
+      "position": 6,
+      "playerId": "m471100",
+      "name": "Ryan Betz",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 8,
+      "playerId": "i95672",
+      "name": "Wendy Diesel",
+      "rating": 1450.27,
+      "dailyRatingChange": -1.47
+    },
+    {
+      "position": 8,
+      "playerId": "m405092",
+      "name": "David Schubert",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 8,
+      "playerId": "i47193",
+      "name": "Sierra Vermillion",
+      "rating": 1534.15,
+      "dailyRatingChange": -25.91
+    },
+    {
+      "position": 11,
+      "playerId": "m505229",
+      "name": "Rob Rakoczy",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 12,
+      "playerId": "m3845",
+      "name": "Matt Barlow",
+      "rating": 1478.58,
+      "dailyRatingChange": -17.23
+    },
+    {
+      "position": 13,
+      "playerId": "m514562",
+      "name": "Stephanie Mittler",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

@@ -1,0 +1,299 @@
+{
+  "locationId": "10090",
+  "name": "Arnedo (La Rioja)",
+  "address": "",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 22,
+  "relatedVenues": [
+    {
+      "locationId": "11224",
+      "name": "Olot",
+      "address": "germanes Fradera, s/n",
+      "count": 9
+    },
+    {
+      "locationId": "5661",
+      "name": "Torres",
+      "address": "",
+      "count": 3
+    },
+    {
+      "locationId": "10135",
+      "name": "Associació A.R.C.A.D.E",
+      "address": "Esmeragda 11, Esplugues de Llobregat 08950",
+      "count": 3
+    },
+    {
+      "locationId": "10736",
+      "name": "La vinyeta",
+      "address": "43519",
+      "count": 1
+    }
+  ],
+  "players": [
+    {
+      "id": "m19590",
+      "name": "César Dubón Martínez",
+      "rating": 1754.96,
+      "rd": 24.09,
+      "ratingClass": "Expert",
+      "homeLocation": "Arnedo (La Rioja)",
+      "homeLocationId": "10090",
+      "percentile": 98.900638188848,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m15796",
+      "name": "Carlos Teixeira",
+      "rating": 1720.08,
+      "rd": 26.6,
+      "ratingClass": "Expert",
+      "homeLocation": "Arnedo (La Rioja)",
+      "homeLocationId": "10090",
+      "percentile": 97.68016024595892,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m40710",
+      "name": "Xabier Bustamante",
+      "rating": 1652.63,
+      "rd": 33.67,
+      "ratingClass": "A",
+      "homeLocation": "Arnedo (La Rioja)",
+      "homeLocationId": "10090",
+      "percentile": 92.1041598732939,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m40711",
+      "name": "Javier Bustamante López",
+      "rating": 1619.26,
+      "rd": 33.56,
+      "ratingClass": "A",
+      "homeLocation": "Arnedo (La Rioja)",
+      "homeLocationId": "10090",
+      "percentile": 86.44430987096474,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m29670",
+      "name": "Javier Núñez Pérez",
+      "rating": 1616.77,
+      "rd": 26.37,
+      "ratingClass": "A",
+      "homeLocation": "Arnedo (La Rioja)",
+      "homeLocationId": "10090",
+      "percentile": 85.94121209297992,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m33390",
+      "name": "Juan Ramón Sala",
+      "rating": 1610.26,
+      "rd": 26.73,
+      "ratingClass": "A",
+      "homeLocation": "Arnedo (La Rioja)",
+      "homeLocationId": "10090",
+      "percentile": 84.53440163972608,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m41813",
+      "name": "Javier Benito Plaza",
+      "rating": 1601.94,
+      "rd": 21.07,
+      "ratingClass": "A",
+      "homeLocation": "Olot",
+      "homeLocationId": "11224",
+      "percentile": 82.489402338473,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m19603",
+      "name": "David Tornos Sancho",
+      "rating": 1594.56,
+      "rd": 24.97,
+      "ratingClass": "B",
+      "homeLocation": "Arnedo (La Rioja)",
+      "homeLocationId": "10090",
+      "percentile": 80.69595192621233,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m19943",
+      "name": "Maite Sanz Ochoa",
+      "rating": 1580.51,
+      "rd": 26.64,
+      "ratingClass": "B",
+      "homeLocation": "Arnedo (La Rioja)",
+      "homeLocationId": "10090",
+      "percentile": 76.77831089579354,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i15288",
+      "name": "Juan Barrio Cadiñanos",
+      "rating": 1573.87,
+      "rd": 36.02,
+      "ratingClass": "B",
+      "homeLocation": "Arnedo (La Rioja)",
+      "homeLocationId": "10090",
+      "percentile": 74.75660315833605,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m30381",
+      "name": "Jorge Correcto",
+      "rating": 1563.19,
+      "rd": 27.18,
+      "ratingClass": "B",
+      "homeLocation": "Arnedo (La Rioja)",
+      "homeLocationId": "10090",
+      "percentile": 71.37000978245679,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i93194",
+      "name": "Ángel Sánchez Alegría",
+      "rating": 1556.87,
+      "rd": 28.97,
+      "ratingClass": "B",
+      "homeLocation": "Arnedo (La Rioja)",
+      "homeLocationId": "10090",
+      "percentile": 69.29706060464899,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m45785",
+      "name": "Javier Perez Martin",
+      "rating": 1552.83,
+      "rd": 23.64,
+      "ratingClass": "B",
+      "homeLocation": "Olot",
+      "homeLocationId": "11224",
+      "percentile": 67.7970838962128,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m13249",
+      "name": "Rubén de la Rosa Hidalgo",
+      "rating": 1549.02,
+      "rd": 30.7,
+      "ratingClass": "B",
+      "homeLocation": "Arnedo (La Rioja)",
+      "homeLocationId": "10090",
+      "percentile": 66.30642381329483,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i125692",
+      "name": "Ramón Salazar Díez",
+      "rating": 1532.01,
+      "rd": 36.44,
+      "ratingClass": "B",
+      "homeLocation": "Arnedo (La Rioja)",
+      "homeLocationId": "10090",
+      "percentile": 59.86863558019285,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m50825",
+      "name": "Basilio García IV",
+      "rating": 1525.53,
+      "rd": 36.54,
+      "ratingClass": "B",
+      "homeLocation": "Arnedo (La Rioja)",
+      "homeLocationId": "10090",
+      "percentile": 57.315880188195834,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m53267",
+      "name": "Rafa Bermudez",
+      "rating": 1521.91,
+      "rd": 23.65,
+      "ratingClass": "B",
+      "homeLocation": "Arnedo (La Rioja)",
+      "homeLocationId": "10090",
+      "percentile": 55.92770298597848,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m50830",
+      "name": "Samuel González Cárdenas",
+      "rating": 1516.56,
+      "rd": 37.52,
+      "ratingClass": "B",
+      "homeLocation": "Arnedo (La Rioja)",
+      "homeLocationId": "10090",
+      "percentile": 53.82680393161598,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m50827",
+      "name": "David Yécora Millán",
+      "rating": 1500.02,
+      "rd": 37.99,
+      "ratingClass": "B",
+      "homeLocation": "Arnedo (La Rioja)",
+      "homeLocationId": "10090",
+      "percentile": 47.109516932966876,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m38432",
+      "name": "Borja Bordiu Gómez",
+      "rating": 1495.72,
+      "rd": 26.11,
+      "ratingClass": "C",
+      "homeLocation": "Arnedo (La Rioja)",
+      "homeLocationId": "10090",
+      "percentile": 45.38594121209298,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m30380",
+      "name": "Ana Dubón Cases",
+      "rating": 1494.51,
+      "rd": 27.08,
+      "ratingClass": "C",
+      "homeLocation": "Arnedo (La Rioja)",
+      "homeLocationId": "10090",
+      "percentile": 44.901476685144644,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m30475",
+      "name": "Rubén Hernández Martínez",
+      "rating": 1493.75,
+      "rd": 28.64,
+      "ratingClass": "C",
+      "homeLocation": "Olot",
+      "homeLocationId": "11224",
+      "percentile": 44.62197791959752,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

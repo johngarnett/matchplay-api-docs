@@ -1,0 +1,287 @@
+{
+  "locationId": "8656",
+  "name": "Randy's Pinbin",
+  "address": "",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 18,
+  "relatedVenues": [
+    {
+      "locationId": "7303",
+      "name": "The Pinball Lounge @Oviedo Bowling Center",
+      "address": "376 E Broadway Street, Oviedo, FL 32765, US",
+      "count": 103
+    },
+    {
+      "locationId": "13284",
+      "name": "Robocade",
+      "address": "1149 1st St South, Winter Haven, FL 33880, US",
+      "count": 16
+    },
+    {
+      "locationId": "7501",
+      "name": "Tepey’s Taps & Tacos",
+      "address": "2130 Kings Ave, Jacksonville, FL 32207, US",
+      "count": 12
+    },
+    {
+      "locationId": "11488",
+      "name": "The Pinball Studio",
+      "address": "63 Smith Rd Richmond Hill, GA 31324",
+      "count": 11
+    },
+    {
+      "locationId": "7285",
+      "name": "Replay Museum",
+      "address": "119 Tarpon Avenue, Tarpon Springs, FL 34689, US",
+      "count": 9
+    },
+    {
+      "locationId": "9921",
+      "name": "Renaissance Atlanta Waverly Hotel & Convention Center",
+      "address": "2450 Galleria Pkwy Atlanta, GA 30339",
+      "count": 9
+    },
+    {
+      "locationId": "904",
+      "name": "The Pinball Asylum",
+      "address": "13721 Jetport Commerce Parkway, Unit 6 , Fort Myers, FL 33913",
+      "count": 8
+    },
+    {
+      "locationId": "10353",
+      "name": "The Pinball Palace",
+      "address": "3303 Hopkins Avenue, Brunswick, GA 31520, US",
+      "count": 4
+    },
+    {
+      "locationId": "8271",
+      "name": "Rezzanine Esports",
+      "address": "1025 Washington Pike, Bridgeville, PA 15017, US",
+      "count": 3
+    },
+    {
+      "locationId": "12849",
+      "name": "The Woodshed",
+      "address": "Orange Park, FL",
+      "count": 3
+    }
+  ],
+  "players": [
+    {
+      "id": "m16441",
+      "name": "Shannon Stafford",
+      "rating": 1765.45,
+      "rd": 21.24,
+      "ratingClass": "Expert",
+      "homeLocation": "The Pinball Lounge @Oviedo Bowling Center",
+      "homeLocationId": "7303",
+      "percentile": 99.11957888852658,
+      "changeDisplay": "-4.9",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m16937",
+      "name": "Tristan Stafford",
+      "rating": 1759.05,
+      "rd": 21.01,
+      "ratingClass": "Expert",
+      "homeLocation": "The Pinball Lounge @Oviedo Bowling Center",
+      "homeLocationId": "7303",
+      "percentile": 99.01243769506685,
+      "changeDisplay": "+2.0",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m20784",
+      "name": "Robert Viera FL",
+      "rating": 1657.45,
+      "rd": 25.17,
+      "ratingClass": "A",
+      "homeLocation": "The Pinball Lounge @Oviedo Bowling Center",
+      "homeLocationId": "7303",
+      "percentile": 92.73303209577492,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m16439",
+      "name": "Stacey Stafford",
+      "rating": 1610.23,
+      "rd": 19.73,
+      "ratingClass": "A",
+      "homeLocation": "The Pinball Lounge @Oviedo Bowling Center",
+      "homeLocationId": "7303",
+      "percentile": 84.52508501420786,
+      "changeDisplay": "-5.4",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m6257",
+      "name": "Chris Henry FL",
+      "rating": 1578.28,
+      "rd": 20.82,
+      "ratingClass": "B",
+      "homeLocation": "The Pinball Lounge @Oviedo Bowling Center",
+      "homeLocationId": "7303",
+      "percentile": 76.10285554572134,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m779",
+      "name": "Anthony Dickson",
+      "rating": 1575.76,
+      "rd": 24.21,
+      "ratingClass": "B",
+      "homeLocation": "The Pinball Lounge @Oviedo Bowling Center",
+      "homeLocationId": "7303",
+      "percentile": 75.38081706805795,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m18675",
+      "name": "Michela Phillabaum",
+      "rating": 1574.63,
+      "rd": 17.91,
+      "ratingClass": "B",
+      "homeLocation": "The Pinball Lounge @Oviedo Bowling Center",
+      "homeLocationId": "7303",
+      "percentile": 74.96622723249638,
+      "changeDisplay": "-0.8",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m8374",
+      "name": "Louis Marino",
+      "rating": 1551.86,
+      "rd": 33.87,
+      "ratingClass": "B",
+      "homeLocation": "The Pinball Lounge @Oviedo Bowling Center",
+      "homeLocationId": "7303",
+      "percentile": 67.46634369031537,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m16426",
+      "name": "Shannon Parsons",
+      "rating": 1545.46,
+      "rd": 20.22,
+      "ratingClass": "B",
+      "homeLocation": "The Pinball Lounge @Oviedo Bowling Center",
+      "homeLocationId": "7303",
+      "percentile": 65.08594587040574,
+      "changeDisplay": "+9.7",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m45489",
+      "name": "Michelle Kurtiak",
+      "rating": 1526.05,
+      "rd": 26.28,
+      "ratingClass": "B",
+      "homeLocation": "The Pinball Lounge @Oviedo Bowling Center",
+      "homeLocationId": "7303",
+      "percentile": 57.44165463269204,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m11124",
+      "name": "Randy Parsons",
+      "rating": 1519.62,
+      "rd": 33.91,
+      "ratingClass": "B",
+      "homeLocation": "The Pinball Lounge @Oviedo Bowling Center",
+      "homeLocationId": "7303",
+      "percentile": 55.05659850002329,
+      "changeDisplay": "-8.6",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m29913",
+      "name": "Dani Pollock",
+      "rating": 1514.44,
+      "rd": 22.65,
+      "ratingClass": "B",
+      "homeLocation": "The Pinball Lounge @Oviedo Bowling Center",
+      "homeLocationId": "7303",
+      "percentile": 52.92309125634696,
+      "changeDisplay": "+11.0",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m16201",
+      "name": "Lisa Henry",
+      "rating": 1511.6,
+      "rd": 20.65,
+      "ratingClass": "B",
+      "homeLocation": "The Pinball Lounge @Oviedo Bowling Center",
+      "homeLocationId": "7303",
+      "percentile": 51.87031257278613,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m41346",
+      "name": "Jason Phillabaum",
+      "rating": 1501.62,
+      "rd": 20.52,
+      "ratingClass": "B",
+      "homeLocation": "The Pinball Lounge @Oviedo Bowling Center",
+      "homeLocationId": "7303",
+      "percentile": 47.7896305957982,
+      "changeDisplay": "+1.6",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m16726",
+      "name": "Jenn Marino",
+      "rating": 1454.55,
+      "rd": 24.8,
+      "ratingClass": "C",
+      "homeLocation": "The Pinball Lounge @Oviedo Bowling Center",
+      "homeLocationId": "7303",
+      "percentile": 28.86756416825826,
+      "changeDisplay": "-3.4",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m24638",
+      "name": "Paige Shaffer",
+      "rating": 1447.69,
+      "rd": 25.25,
+      "ratingClass": "C",
+      "homeLocation": "The Pinball Lounge @Oviedo Bowling Center",
+      "homeLocationId": "7303",
+      "percentile": 26.333442027297714,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m23887",
+      "name": "Jo Robbins",
+      "rating": 1432.33,
+      "rd": 29.1,
+      "ratingClass": "C",
+      "homeLocation": "The Pinball Lounge @Oviedo Bowling Center",
+      "homeLocationId": "7303",
+      "percentile": 21.316439185726928,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m25946",
+      "name": "Beth Viera",
+      "rating": 1386.2,
+      "rd": 29.69,
+      "ratingClass": "D",
+      "homeLocation": "The Pinball Lounge @Oviedo Bowling Center",
+      "homeLocationId": "7303",
+      "percentile": 9.549541156193227,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

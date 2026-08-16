@@ -1,0 +1,39 @@
+{
+  "tournamentId": 264632,
+  "name": "Finals for tcpinball.org @ Right Brain 2026-07-30",
+  "date": "2026-07-31",
+  "locationId": "6879",
+  "locationName": "Right Brain Brewery",
+  "playerCount": 4,
+  "ratingsDate": "2026-07-31",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m10803",
+      "name": "Dingo Hilgard",
+      "rating": 1696.5,
+      "dailyRatingChange": 9.45
+    },
+    {
+      "position": 2,
+      "playerId": "i10504",
+      "name": "Leif Gustafson",
+      "rating": 1621.16,
+      "dailyRatingChange": 27.39
+    },
+    {
+      "position": 3,
+      "playerId": "i103714",
+      "name": "Norm Bowbeer",
+      "rating": 1587.5,
+      "dailyRatingChange": 15.24
+    },
+    {
+      "position": 4,
+      "playerId": "m48173",
+      "name": "Scott Witkop",
+      "rating": 1638.64,
+      "dailyRatingChange": -7.94
+    }
+  ]
+}

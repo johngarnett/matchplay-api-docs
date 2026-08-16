@@ -1,0 +1,46 @@
+{
+  "tournamentId": 265047,
+  "name": "Flipperspill 8/1",
+  "date": "2026-08-01",
+  "locationId": "13018",
+  "locationName": "Olaf's",
+  "playerCount": 5,
+  "ratingsDate": "2026-08-01",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m17637",
+      "name": "Elliott Johnson",
+      "rating": 1562.28,
+      "dailyRatingChange": 1.83
+    },
+    {
+      "position": 2,
+      "playerId": "m6840",
+      "name": "Megan Czahar",
+      "rating": 1520.1,
+      "dailyRatingChange": 3.09
+    },
+    {
+      "position": 3,
+      "playerId": "m30470",
+      "name": "Jackie Simmons",
+      "rating": 1388.33,
+      "dailyRatingChange": 2.19
+    },
+    {
+      "position": 4,
+      "playerId": "m6315",
+      "name": "Mark McClure",
+      "rating": 1467.27,
+      "dailyRatingChange": -3.98
+    },
+    {
+      "position": 5,
+      "playerId": "i83912",
+      "name": "Chad Adams",
+      "rating": 1562.46,
+      "dailyRatingChange": -25.44
+    }
+  ]
+}

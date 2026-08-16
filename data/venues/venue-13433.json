@@ -1,0 +1,215 @@
+{
+  "locationId": "13433",
+  "name": "Tornow Household",
+  "address": "",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 14,
+  "relatedVenues": [
+    {
+      "locationId": "8633",
+      "name": "The Basement: Toledo’s Pinball Pub",
+      "address": "4311 Heatherdowns Blvd. Toledo, OH 43614",
+      "count": 94
+    },
+    {
+      "locationId": "5287",
+      "name": "ULEKstore's Pinball and Classic Arcade",
+      "address": "2121 North Monroe St, Monroe, MI, 48162, US",
+      "count": 5
+    },
+    {
+      "locationId": "13024",
+      "name": "Three Legged Dog",
+      "address": "116 Madison St, Port Clinton, OH, 43452, US",
+      "count": 4
+    },
+    {
+      "locationId": "5718",
+      "name": "Barcade Detroit",
+      "address": "666 Selden St, Detroit, MI, 48201, US",
+      "count": 2
+    },
+    {
+      "locationId": "12428",
+      "name": "Riverside BBQ Company",
+      "address": "915 North Summit Street Toledo, OH",
+      "count": 1
+    },
+    {
+      "locationId": "12444",
+      "name": "Sparks Pinball Museum & Arcade",
+      "address": "412 W 14 Mile Rd, Troy, MI 48083, US",
+      "count": 1
+    }
+  ],
+  "players": [
+    {
+      "id": "m46328",
+      "name": "Jason Skolits",
+      "rating": 1684.29,
+      "rd": 25.99,
+      "ratingClass": "A",
+      "homeLocation": "The Basement: Toledo’s Pinball Pub",
+      "homeLocationId": "8633",
+      "percentile": 95.44417012158196,
+      "changeDisplay": "+40.2",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m10351",
+      "name": "Logan Vaughn",
+      "rating": 1667.42,
+      "rd": 29.28,
+      "ratingClass": "A",
+      "homeLocation": "The Basement: Toledo’s Pinball Pub",
+      "homeLocationId": "8633",
+      "percentile": 93.8789770345181,
+      "changeDisplay": "-9.5",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m18296",
+      "name": "Josh Tornow",
+      "rating": 1652.41,
+      "rd": 28.72,
+      "ratingClass": "A",
+      "homeLocation": "The Basement: Toledo’s Pinball Pub",
+      "homeLocationId": "8633",
+      "percentile": 92.06689337122094,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m57694",
+      "name": "Robert Gibson",
+      "rating": 1627.4,
+      "rd": 20.89,
+      "ratingClass": "A",
+      "homeLocation": "The Basement: Toledo’s Pinball Pub",
+      "homeLocationId": "8633",
+      "percentile": 88.04211114734242,
+      "changeDisplay": "+2.5",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m14553",
+      "name": "Lucas Dailey",
+      "rating": 1593.44,
+      "rd": 20.85,
+      "ratingClass": "B",
+      "homeLocation": "The Basement: Toledo’s Pinball Pub",
+      "homeLocationId": "8633",
+      "percentile": 80.37452834583314,
+      "changeDisplay": "+10.6",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m29297",
+      "name": "Dominic Fiori",
+      "rating": 1590.81,
+      "rd": 20.79,
+      "ratingClass": "B",
+      "homeLocation": "The Basement: Toledo’s Pinball Pub",
+      "homeLocationId": "8633",
+      "percentile": 79.6664648064471,
+      "changeDisplay": "-2.9",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m24652",
+      "name": "Josh Rose",
+      "rating": 1569.76,
+      "rd": 33.11,
+      "ratingClass": "B",
+      "homeLocation": "The Basement: Toledo’s Pinball Pub",
+      "homeLocationId": "8633",
+      "percentile": 73.38705920715518,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m33775",
+      "name": "Abigail Rose",
+      "rating": 1500.08,
+      "rd": 26.02,
+      "ratingClass": "B",
+      "homeLocation": "The Basement: Toledo’s Pinball Pub",
+      "homeLocationId": "8633",
+      "percentile": 47.11883355848512,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i124511",
+      "name": "Carl Baumgartner",
+      "rating": 1480.87,
+      "rd": 25.16,
+      "ratingClass": "C",
+      "homeLocation": "The Basement: Toledo’s Pinball Pub",
+      "homeLocationId": "8633",
+      "percentile": 39.23231005729725,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m54831",
+      "name": "Anthony Kniss",
+      "rating": 1456.87,
+      "rd": 38.96,
+      "ratingClass": "C",
+      "homeLocation": "The Basement: Toledo’s Pinball Pub",
+      "homeLocationId": "8633",
+      "percentile": 29.68276890110402,
+      "changeDisplay": "+21.4",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m41817",
+      "name": "Evie Rose",
+      "rating": 1449.39,
+      "rd": 26.36,
+      "ratingClass": "C",
+      "homeLocation": "The Basement: Toledo’s Pinball Pub",
+      "homeLocationId": "8633",
+      "percentile": 26.91573112218754,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i140089",
+      "name": "Sadie Gibson",
+      "rating": 1433.5,
+      "rd": 38.67,
+      "ratingClass": "C",
+      "homeLocation": "Tornow Household",
+      "homeLocationId": "13433",
+      "percentile": 21.609912889551406,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m22327",
+      "name": "Melissa Tornow",
+      "rating": 1426.2,
+      "rd": 30.83,
+      "ratingClass": "C",
+      "homeLocation": "The Basement: Toledo’s Pinball Pub",
+      "homeLocationId": "8633",
+      "percentile": 19.45311408207947,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i137468",
+      "name": "Doug Patterson",
+      "rating": 1405.42,
+      "rd": 27.89,
+      "ratingClass": "C",
+      "homeLocation": "The Basement: Toledo’s Pinball Pub",
+      "homeLocationId": "8633",
+      "percentile": 13.895746960450925,
+      "changeDisplay": "+3.2",
+      "changeClass": "change-positive"
+    }
+  ]
+}

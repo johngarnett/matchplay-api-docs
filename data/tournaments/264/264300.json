@@ -1,0 +1,53 @@
+{
+  "tournamentId": 264300,
+  "name": "Tappers League S3 B Bracket",
+  "date": "2026-07-29",
+  "locationId": "8405",
+  "locationName": "Tappers",
+  "playerCount": 6,
+  "ratingsDate": "2026-07-29",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m49263",
+      "name": "Colleen Baker",
+      "rating": 1454.63,
+      "dailyRatingChange": 13.89
+    },
+    {
+      "position": 2,
+      "playerId": "m36418",
+      "name": "Carey Huffman",
+      "rating": 1532.93,
+      "dailyRatingChange": 1.76
+    },
+    {
+      "position": 3,
+      "playerId": "m44355",
+      "name": "Eric Woods",
+      "rating": 1532.98,
+      "dailyRatingChange": -2.32
+    },
+    {
+      "position": 4,
+      "playerId": "m34912",
+      "name": "Brendan O'Sullivan-Hale",
+      "rating": 1498.93,
+      "dailyRatingChange": -3.39
+    },
+    {
+      "position": 5,
+      "playerId": "m564043",
+      "name": "Dennis Huffer",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 6,
+      "playerId": "m57483",
+      "name": "Brice Bayless",
+      "rating": 1427.85,
+      "dailyRatingChange": -4.45
+    }
+  ]
+}

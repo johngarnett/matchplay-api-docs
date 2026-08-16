@@ -1,0 +1,191 @@
+{
+  "locationId": "8815",
+  "name": "Sunset Bowl",
+  "address": "1625 Central Ave, Billings, MT 59102, US",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 10,
+  "relatedVenues": [
+    {
+      "locationId": "8470",
+      "name": "The Monte Bar and Casino",
+      "address": "2824 1st Avenue North, Billings, MT 59101, US",
+      "count": 20
+    },
+    {
+      "locationId": "12940",
+      "name": "Frank's Bar & Billiards",
+      "address": "1425 Broadwater Ave, Billings, MT 59102, US",
+      "count": 10
+    },
+    {
+      "locationId": "10091",
+      "name": "OddPitch Brewing",
+      "address": "1200 West Kent Avenue, Missoula, MT 59801, US",
+      "count": 4
+    },
+    {
+      "locationId": "7439",
+      "name": "Arcade Legacy Sharonville",
+      "address": "2241 Crowne Point Dr, Cincinnati, OH 45241, US",
+      "count": 3
+    },
+    {
+      "locationId": "8571",
+      "name": "Lewis & Clark Brewing Co.",
+      "address": "1517 Dodge Ave, Helena, MT 59601, US",
+      "count": 3
+    },
+    {
+      "locationId": "8592",
+      "name": "Cody Craft Brewing",
+      "address": "1732 Sheridan Ave, Cody, WY 82414-3848",
+      "count": 2
+    },
+    {
+      "locationId": "5246",
+      "name": "Next Level Pinball Museum",
+      "address": "1458 NE 25th Ave, Hillsboro, OR 97124, USA",
+      "count": 1
+    },
+    {
+      "locationId": "5593",
+      "name": "Midtown Bar & Grill",
+      "address": "3333 West Division Street, St. Cloud, MN 56301, US",
+      "count": 1
+    },
+    {
+      "locationId": "5771",
+      "name": "The Pinvault",
+      "address": "1043 Virginia Ave, Indianapolis, IN 46203, USA",
+      "count": 1
+    },
+    {
+      "locationId": "6751",
+      "name": "Atomic Age Modern",
+      "address": "140 W Main St, Mesa, AZ 85201, USA",
+      "count": 1
+    }
+  ],
+  "players": [
+    {
+      "id": "m34255",
+      "name": "Zak Jokela",
+      "rating": 1691.87,
+      "rd": 24.56,
+      "ratingClass": "A",
+      "homeLocation": "The Monte Bar and Casino",
+      "homeLocationId": "8470",
+      "percentile": 96.04975078026739,
+      "changeDisplay": "+13.8",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m7340",
+      "name": "Willy Allen",
+      "rating": 1652.27,
+      "rd": 20.89,
+      "ratingClass": "A",
+      "homeLocation": "Arcade Legacy Sharonville",
+      "homeLocationId": "7439",
+      "percentile": 92.03894349466624,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m29301",
+      "name": "James Normand",
+      "rating": 1636.38,
+      "rd": 23.94,
+      "ratingClass": "A",
+      "homeLocation": "The Monte Bar and Casino",
+      "homeLocationId": "8470",
+      "percentile": 89.70512880234779,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m37676",
+      "name": "Colton Ruggles",
+      "rating": 1604.22,
+      "rd": 26.36,
+      "ratingClass": "A",
+      "homeLocation": "OddPitch Brewing",
+      "homeLocationId": "10091",
+      "percentile": 82.98318349093958,
+      "changeDisplay": "+15.5",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m41887",
+      "name": "Stephen Mallen",
+      "rating": 1581.28,
+      "rd": 29.37,
+      "ratingClass": "B",
+      "homeLocation": "The Monte Bar and Casino",
+      "homeLocationId": "8470",
+      "percentile": 76.98327665719476,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m32910",
+      "name": "Alex Jokela",
+      "rating": 1580.96,
+      "rd": 24.85,
+      "ratingClass": "B",
+      "homeLocation": "Lewis & Clark Brewing Co.",
+      "homeLocationId": "8571",
+      "percentile": 76.93203521684447,
+      "changeDisplay": "-15.2",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m56249",
+      "name": "Zak Gadberry",
+      "rating": 1536.7,
+      "rd": 29.18,
+      "ratingClass": "B",
+      "homeLocation": "The Monte Bar and Casino",
+      "homeLocationId": "8470",
+      "percentile": 61.75059393487678,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m59608",
+      "name": "Justin Jiggins",
+      "rating": 1497.49,
+      "rd": 43.13,
+      "ratingClass": "C",
+      "homeLocation": "Sunset Bowl",
+      "homeLocationId": "8815",
+      "percentile": 46.09400475147901,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m47510",
+      "name": "Ari Uecker",
+      "rating": 1411.74,
+      "rd": 29.83,
+      "ratingClass": "C",
+      "homeLocation": "The Monte Bar and Casino",
+      "homeLocationId": "8470",
+      "percentile": 15.521498113383334,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i127327",
+      "name": "Kyle Mallen",
+      "rating": 1395.08,
+      "rd": 44.95,
+      "ratingClass": "D",
+      "homeLocation": "Sunset Bowl",
+      "homeLocationId": "8815",
+      "percentile": 11.287091815344482,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

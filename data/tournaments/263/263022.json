@@ -1,0 +1,102 @@
+{
+  "tournamentId": 263022,
+  "name": "Up-Down MKE Monday Night Pinball 7/20",
+  "date": "2026-07-21",
+  "locationId": "3674",
+  "locationName": "Up-Down Milwaukee",
+  "playerCount": 13,
+  "ratingsDate": "2026-07-21",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m15139",
+      "name": "Todd Miller",
+      "rating": 1604.98,
+      "dailyRatingChange": 8.81
+    },
+    {
+      "position": 2,
+      "playerId": "m22019",
+      "name": "Dori Zielinski",
+      "rating": 1636.63,
+      "dailyRatingChange": 3.52
+    },
+    {
+      "position": 3,
+      "playerId": "m11903",
+      "name": "Dave Brennan",
+      "rating": 1607.7,
+      "dailyRatingChange": 2.55
+    },
+    {
+      "position": 4,
+      "playerId": "m11939",
+      "name": "Michael Ritter",
+      "rating": 1688.41,
+      "dailyRatingChange": 2.83
+    },
+    {
+      "position": 5,
+      "playerId": "m45844",
+      "name": "Scott Glatzel",
+      "rating": 1498.69,
+      "dailyRatingChange": 6.78
+    },
+    {
+      "position": 6,
+      "playerId": "m52827",
+      "name": "Mitch Lovance",
+      "rating": 1498,
+      "dailyRatingChange": 3.63
+    },
+    {
+      "position": 7,
+      "playerId": "m12628",
+      "name": "Darrell Van Landuyt",
+      "rating": 1551.71,
+      "dailyRatingChange": -0.21
+    },
+    {
+      "position": 8,
+      "playerId": "m18575",
+      "name": "Ryan Shaw",
+      "rating": 1561.82,
+      "dailyRatingChange": -5.35
+    },
+    {
+      "position": 9,
+      "playerId": "m23214",
+      "name": "Erasmus Zacharias",
+      "rating": 1508.06,
+      "dailyRatingChange": -2.92
+    },
+    {
+      "position": 10,
+      "playerId": "m12389",
+      "name": "Ben Dvorachek",
+      "rating": 1561.65,
+      "dailyRatingChange": -10.56
+    },
+    {
+      "position": 11,
+      "playerId": "m20999",
+      "name": "Pat Ritter",
+      "rating": 1541.28,
+      "dailyRatingChange": -8.6
+    },
+    {
+      "position": 12,
+      "playerId": "m26462",
+      "name": "Matt Koster",
+      "rating": 1469.61,
+      "dailyRatingChange": -5.47
+    },
+    {
+      "position": 13,
+      "playerId": "m38386",
+      "name": "Cory Forbes",
+      "rating": 1415.57,
+      "dailyRatingChange": -5.67
+    }
+  ]
+}

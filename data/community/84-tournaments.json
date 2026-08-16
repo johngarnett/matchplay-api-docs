@@ -1,0 +1,279 @@
+{
+  "communityId": "84",
+  "locations": [
+    {
+      "id": "2573",
+      "name": "Crabtowne",
+      "address": "1500 Crain Hwy S, Glen Burnie, MD 21061, USA",
+      "tournaments": [
+        {
+          "id": 266504,
+          "name": "Crabtowne IFPA Strike Tournament - 081126",
+          "date": "8/11/2026",
+          "playerCount": 36,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m3352",
+              "name": "Elliott Keith",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m31841",
+              "name": "Casey Fowler",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "i85667",
+              "name": "Finn Garman",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m2644",
+              "name": "Alex Jeffrey",
+              "isCommunityMember": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6886",
+      "name": "Department of Pinball and Gaming Redundancy Department",
+      "address": "",
+      "tournaments": [
+        {
+          "id": 244816,
+          "name": "F14 Tomcat Launch Party (08/07/2026)",
+          "date": "8/7/2026",
+          "playerCount": 30,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m3146",
+              "name": "Stephanie Traub",
+              "isCommunityMember": false
+            },
+            {
+              "position": 2,
+              "playerId": "m6159",
+              "name": "Carlos Velez",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m3001",
+              "name": "Douglas J Malcolm",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m2886",
+              "name": "Robert Peters",
+              "isCommunityMember": false
+            },
+            {
+              "position": 4,
+              "playerId": "m49766",
+              "name": "Nathan Fairbanks",
+              "isCommunityMember": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9780",
+      "name": "GameOn Bar+Arcade Columbia",
+      "address": "6000 Merriweather Dr, Columbia, MD, 21044, US",
+      "tournaments": [
+        {
+          "id": 265766,
+          "name": "GameOn Columbia League Season 10 Week 5",
+          "date": "8/12/2026",
+          "playerCount": 47,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m31841",
+              "name": "Casey Fowler",
+              "isCommunityMember": true
+            },
+            {
+              "position": 1,
+              "playerId": "m37819",
+              "name": "Dave Blouch Jr.",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m2330",
+              "name": "Justin Bath",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m18808",
+              "name": "Naiviv Sillerico",
+              "isCommunityMember": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "11813",
+      "name": "Mountaineer Meat Smokers",
+      "address": "45 Monroe St, Martinsburg, WV 25404, US",
+      "tournaments": [
+        {
+          "id": 264435,
+          "name": "Panhandle Pinettes Summer Series - August 8",
+          "date": "8/8/2026",
+          "playerCount": 10,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m42806",
+              "name": "Melissa Hienkle",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m25464",
+              "name": "Cindy Brackett",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m29440",
+              "name": "Alex Brackett",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "i154670",
+              "name": "Adria Spikes",
+              "isCommunityMember": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "13239",
+      "name": "Peabody Heights Brewery",
+      "address": "401 East 30th St, Baltimore, MD 21218, US",
+      "tournaments": [
+        {
+          "id": 266436,
+          "name": "Peabody Heights Pinball 8/10",
+          "date": "8/10/2026",
+          "playerCount": 2,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m7291",
+              "name": "David Marcoot",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m54895",
+              "name": "Melody Easton",
+              "isCommunityMember": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "unknown",
+      "name": "Unknown Location",
+      "address": "",
+      "tournaments": [
+        {
+          "id": 266826,
+          "name": "Wacky Wednesday 8/12",
+          "date": "8/12/2026",
+          "playerCount": 15,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m25244",
+              "name": "Max Williams",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m28712",
+              "name": "Anson Stine",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m39557",
+              "name": "Kyle Byington",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m29161",
+              "name": "Kory Mitchell",
+              "isCommunityMember": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "10688",
+      "name": "VÜK Pinball",
+      "address": "5335 Wisconsin Ave, Washington, DC 20015, US",
+      "tournaments": [
+        {
+          "id": 265591,
+          "name": "Finals for VÜK Pinball League Summer 2026 A Division",
+          "date": "8/11/2026",
+          "playerCount": 12,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m2856",
+              "name": "Fil Baird",
+              "isCommunityMember": false
+            },
+            {
+              "position": 2,
+              "playerId": "m1530",
+              "name": "Rob Wintler-Cox",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m3146",
+              "name": "Stephanie Traub",
+              "isCommunityMember": false
+            },
+            {
+              "position": 4,
+              "playerId": "m42894",
+              "name": "Tommy Shotton",
+              "isCommunityMember": false
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

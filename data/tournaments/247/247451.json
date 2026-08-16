@@ -1,0 +1,67 @@
+{
+  "tournamentId": 247451,
+  "name": "FPPL - Season 20 - Superfinals",
+  "date": "2026-08-14",
+  "locationId": "13275",
+  "locationName": "Free Play Dallas",
+  "playerCount": 8,
+  "ratingsDate": null,
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m26400",
+      "name": "Daniel Martin",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 2,
+      "playerId": "m24795",
+      "name": "Brian Perlick",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 3,
+      "playerId": "m17459",
+      "name": "Les Kallestad",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 4,
+      "playerId": "m25466",
+      "name": "John Richardson",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 5,
+      "playerId": "m44081",
+      "name": "Athena Coplin",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 5,
+      "playerId": "m49342",
+      "name": "Autumn Hargett",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 7,
+      "playerId": "m19204",
+      "name": "Colin Wood",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 7,
+      "playerId": "m30710",
+      "name": "Andres Beteta",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "tournamentId": 264080,
+  "name": "Finals for Silverball Sunday 7/26",
+  "date": "2026-07-27",
+  "locationId": "7961",
+  "locationName": "Blairalley",
+  "playerCount": 4,
+  "ratingsDate": "2026-07-27",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m23834",
+      "name": "Michael Veirs",
+      "rating": 1700.69,
+      "dailyRatingChange": 3.11
+    },
+    {
+      "position": 2,
+      "playerId": "m20993",
+      "name": "Eric Merchant",
+      "rating": 1676.11,
+      "dailyRatingChange": 2.19
+    },
+    {
+      "position": 3,
+      "playerId": "m23596",
+      "name": "Jon Cunningham",
+      "rating": 1578.67,
+      "dailyRatingChange": 4.32
+    },
+    {
+      "position": 4,
+      "playerId": "m29812",
+      "name": "Augie Nielson",
+      "rating": 1541.45,
+      "dailyRatingChange": -2.01
+    }
+  ]
+}

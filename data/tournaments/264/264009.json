@@ -1,0 +1,172 @@
+{
+  "tournamentId": 264009,
+  "name": "Recbar's Weekly Tournament 07/26/26",
+  "date": "2026-07-27",
+  "locationId": "9741",
+  "locationName": "Recbar",
+  "playerCount": 23,
+  "ratingsDate": "2026-07-27",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m7340",
+      "name": "Willy Allen",
+      "rating": 1657.73,
+      "dailyRatingChange": 7.6
+    },
+    {
+      "position": 2,
+      "playerId": "m8248",
+      "name": "Joe Embry",
+      "rating": 1677,
+      "dailyRatingChange": 5.99
+    },
+    {
+      "position": 3,
+      "playerId": "m21656",
+      "name": "Ripley Kalyn Smith",
+      "rating": 1712.26,
+      "dailyRatingChange": -0.58
+    },
+    {
+      "position": 4,
+      "playerId": "m27685",
+      "name": "Andrew Schreck",
+      "rating": 1510.62,
+      "dailyRatingChange": 8.92
+    },
+    {
+      "position": 5,
+      "playerId": "i150882",
+      "name": "Micaela Fitzpatrick",
+      "rating": 1483.93,
+      "dailyRatingChange": 12.55
+    },
+    {
+      "position": 5,
+      "playerId": "m25332",
+      "name": "Garry O'Brien",
+      "rating": 1622.49,
+      "dailyRatingChange": 0.21
+    },
+    {
+      "position": 5,
+      "playerId": "m40437",
+      "name": "David Gant",
+      "rating": 1493.34,
+      "dailyRatingChange": 11.08
+    },
+    {
+      "position": 8,
+      "playerId": "m12523",
+      "name": "Greg Knight",
+      "rating": 1603.95,
+      "dailyRatingChange": -0.55
+    },
+    {
+      "position": 8,
+      "playerId": "m17419",
+      "name": "Dave Bigelow",
+      "rating": 1509.15,
+      "dailyRatingChange": 3.21
+    },
+    {
+      "position": 10,
+      "playerId": "m23027",
+      "name": "Rob DeHoyos",
+      "rating": 1494.2,
+      "dailyRatingChange": 3.17
+    },
+    {
+      "position": 10,
+      "playerId": "m55369",
+      "name": "Tracy Leister",
+      "rating": 1424.81,
+      "dailyRatingChange": 1.16
+    },
+    {
+      "position": 10,
+      "playerId": "m31203",
+      "name": "Chad Churchman",
+      "rating": 1689.26,
+      "dailyRatingChange": -7.77
+    },
+    {
+      "position": 13,
+      "playerId": "m57138",
+      "name": "Evan Tribble",
+      "rating": 1595.6,
+      "dailyRatingChange": -10.45
+    },
+    {
+      "position": 13,
+      "playerId": "m48897",
+      "name": "Nick Thornsberry",
+      "rating": 1445.81,
+      "dailyRatingChange": 0.92
+    },
+    {
+      "position": 13,
+      "playerId": "m541931",
+      "name": "chris rupard",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 13,
+      "playerId": "m23213",
+      "name": "Joe Downs",
+      "rating": 1569.39,
+      "dailyRatingChange": -3.19
+    },
+    {
+      "position": 17,
+      "playerId": "i110391",
+      "name": "Raya Phipps",
+      "rating": 1355.55,
+      "dailyRatingChange": -16.83
+    },
+    {
+      "position": 17,
+      "playerId": "m57720",
+      "name": "Steve Boucher",
+      "rating": 1427.56,
+      "dailyRatingChange": -4.45
+    },
+    {
+      "position": 17,
+      "playerId": "m7606",
+      "name": "Scott Saltsman",
+      "rating": 1394.55,
+      "dailyRatingChange": -3.56
+    },
+    {
+      "position": 17,
+      "playerId": "m9266",
+      "name": "Nikki Miller",
+      "rating": 1448.27,
+      "dailyRatingChange": -7.56
+    },
+    {
+      "position": 21,
+      "playerId": "m35427",
+      "name": "Greg Phipps",
+      "rating": 1450.97,
+      "dailyRatingChange": -6.58
+    },
+    {
+      "position": 21,
+      "playerId": "m55404",
+      "name": "Charity Radcliffe",
+      "rating": 1322.02,
+      "dailyRatingChange": -7.67
+    },
+    {
+      "position": 21,
+      "playerId": "m35337",
+      "name": "Quentin Cordy",
+      "rating": 1668.06,
+      "dailyRatingChange": -8.8
+    }
+  ]
+}

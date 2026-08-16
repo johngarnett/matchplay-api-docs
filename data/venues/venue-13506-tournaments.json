@@ -1,0 +1,44 @@
+{
+  "locationId": "13506",
+  "venueName": "PinBawlers HQ",
+  "venueAddress": "West Friendship MD",
+  "tournaments": [
+    {
+      "id": 262740,
+      "name": "Finals for PinBrawlers vol 1: It Begins",
+      "date": "7/18/2026",
+      "playerCount": 16,
+      "qualifying": {
+        "id": 255122,
+        "name": "PinBrawlers vol 1: It Begins",
+        "playerCount": 34
+      },
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m39437",
+          "name": "Garrett Maury",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m2330",
+          "name": "Justin Bath",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m47567",
+          "name": "Jeff Helgeson",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m3001",
+          "name": "Douglas J Malcolm",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

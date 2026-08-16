@@ -1,0 +1,116 @@
+{
+  "tournamentId": 253443,
+  "name": "EO Second Chance (Losers Club) July",
+  "date": "2026-07-21",
+  "locationId": "11949",
+  "locationName": "Replay Museum",
+  "playerCount": 15,
+  "ratingsDate": "2026-07-21",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m27060",
+      "name": "Fred Cook",
+      "rating": 1612.3,
+      "dailyRatingChange": 4.39
+    },
+    {
+      "position": 2,
+      "playerId": "m32273",
+      "name": "Victoria Knight",
+      "rating": 1563.16,
+      "dailyRatingChange": 0.43
+    },
+    {
+      "position": 2,
+      "playerId": "m30994",
+      "name": "Omar Sokay",
+      "rating": 1566.33,
+      "dailyRatingChange": 0.13
+    },
+    {
+      "position": 4,
+      "playerId": "m20861",
+      "name": "Joe Rodgers",
+      "rating": 1552.54,
+      "dailyRatingChange": 6.17
+    },
+    {
+      "position": 4,
+      "playerId": "m38581",
+      "name": "Vinnie Draino",
+      "rating": 1450.11,
+      "dailyRatingChange": 4.9
+    },
+    {
+      "position": 6,
+      "playerId": "m52431",
+      "name": "Jesze Edge",
+      "rating": 1511.83,
+      "dailyRatingChange": -3.16
+    },
+    {
+      "position": 6,
+      "playerId": "m56613",
+      "name": "Joanna Koulianos",
+      "rating": 1410.87,
+      "dailyRatingChange": 9.1
+    },
+    {
+      "position": 6,
+      "playerId": "m26816",
+      "name": "Peter Rein",
+      "rating": 1501.4,
+      "dailyRatingChange": 2.32
+    },
+    {
+      "position": 6,
+      "playerId": "m56614",
+      "name": "Nicholas Emery",
+      "rating": 1449.89,
+      "dailyRatingChange": 1.61
+    },
+    {
+      "position": 10,
+      "playerId": "m578980",
+      "name": "Ace Gordy",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 10,
+      "playerId": "m53032",
+      "name": "Rob oman",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 10,
+      "playerId": "m531212",
+      "name": "Naomi Williams",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 13,
+      "playerId": "m27689",
+      "name": "Airi Macaluso",
+      "rating": 1557.93,
+      "dailyRatingChange": -6.76
+    },
+    {
+      "position": 13,
+      "playerId": "i159716",
+      "name": "Haley Holets",
+      "rating": 1375.06,
+      "dailyRatingChange": null
+    },
+    {
+      "position": 13,
+      "playerId": "m580377",
+      "name": "Quinn Vitale",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "tournamentId": 262775,
+  "name": "Wolfy's Birthday Bash Bounty 3 strike",
+  "date": "2026-07-19",
+  "locationId": "13750",
+  "locationName": "Wo",
+  "playerCount": 13,
+  "ratingsDate": "2026-07-19",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m22299",
+      "name": "Larry Olson",
+      "rating": 1619.32,
+      "dailyRatingChange": 8.75
+    },
+    {
+      "position": 2,
+      "playerId": "m40608",
+      "name": "Julie Finco",
+      "rating": 1545.52,
+      "dailyRatingChange": 5.17
+    },
+    {
+      "position": 3,
+      "playerId": "m19417",
+      "name": "Mr Wolfy",
+      "rating": 1526.94,
+      "dailyRatingChange": 13.6
+    },
+    {
+      "position": 4,
+      "playerId": "i68823",
+      "name": "Trent Barton",
+      "rating": 1469.04,
+      "dailyRatingChange": 10.22
+    },
+    {
+      "position": 4,
+      "playerId": "m579913",
+      "name": "Jerry Meir",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 6,
+      "playerId": "m4296",
+      "name": "Dion Bellay",
+      "rating": 1648.73,
+      "dailyRatingChange": -5.58
+    },
+    {
+      "position": 7,
+      "playerId": "i32149",
+      "name": "Pat Robinson",
+      "rating": 1538.27,
+      "dailyRatingChange": -1.62
+    },
+    {
+      "position": 8,
+      "playerId": "m13985",
+      "name": "Joshua Simon",
+      "rating": 1628.79,
+      "dailyRatingChange": -15.86
+    },
+    {
+      "position": 8,
+      "playerId": "i64952",
+      "name": "Kaitlyn Westfall",
+      "rating": 1363.59,
+      "dailyRatingChange": 5.44
+    },
+    {
+      "position": 8,
+      "playerId": "m11278",
+      "name": "Matt Metzger",
+      "rating": 1587,
+      "dailyRatingChange": -9.02
+    },
+    {
+      "position": 11,
+      "playerId": "m26009",
+      "name": "Nadine Scarlett",
+      "rating": 1503.36,
+      "dailyRatingChange": -9.74
+    },
+    {
+      "position": 11,
+      "playerId": "m40409",
+      "name": "Todd Finco",
+      "rating": 1521.95,
+      "dailyRatingChange": -5.68
+    },
+    {
+      "position": 13,
+      "playerId": "m579914",
+      "name": "Amy Forsell",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

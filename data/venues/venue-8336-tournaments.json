@@ -1,0 +1,145 @@
+{
+  "locationId": "8336",
+  "venueName": "R/C Lexington Exchange Movies 12",
+  "venueAddress": "44800 Oak Crest Dr, California, MD 20619, US",
+  "tournaments": [
+    {
+      "id": 265731,
+      "name": "SoMD Wednesday #178",
+      "date": "8/12/2026",
+      "playerCount": 17,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "p355255",
+          "name": "Justin Johnson",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m31407",
+          "name": "Viet Nguyen",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "p306987",
+          "name": "Donovan Mason",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m45556",
+          "name": "John Kriz",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 264544,
+      "name": "SoMD Wednesday #177",
+      "date": "8/5/2026",
+      "playerCount": 24,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m55195",
+          "name": "Bruce Jenkins",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "p449911",
+          "name": "Leonard Kolman",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "p379572",
+          "name": "Yates Cousins",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "p355255",
+          "name": "Justin Johnson",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 263344,
+      "name": "SoMD Wednesday #176",
+      "date": "7/29/2026",
+      "playerCount": 18,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m31407",
+          "name": "Viet Nguyen",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m59653",
+          "name": "Ted Blankenbaker",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m31390",
+          "name": "Curt Mason",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m31535",
+          "name": "Tim Tizzie",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 262338,
+      "name": "SoMD Wednesday #175",
+      "date": "7/22/2026",
+      "playerCount": 14,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m31391",
+          "name": "Ron LaScala",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m31407",
+          "name": "Viet Nguyen",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "p432552",
+          "name": "Wesley Cochran",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m31390",
+          "name": "Curt Mason",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "p436458",
+          "name": "Alex Bednar",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

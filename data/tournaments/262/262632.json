@@ -1,0 +1,67 @@
+{
+  "tournamentId": 262632,
+  "name": "Finals for Pincity Pinball Addicts Monthly meet #2",
+  "date": "2026-07-18",
+  "locationId": "11676",
+  "locationName": "PinCity Pinball Addicts",
+  "playerCount": 8,
+  "ratingsDate": "2026-07-18",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m438",
+      "name": "Robert Macauley",
+      "rating": 1659.7,
+      "dailyRatingChange": -0.87
+    },
+    {
+      "position": 2,
+      "playerId": "m51584",
+      "name": "Trent Reeves",
+      "rating": 1638.9,
+      "dailyRatingChange": 14.43
+    },
+    {
+      "position": 3,
+      "playerId": "m230",
+      "name": "Lou Martire",
+      "rating": 1702.25,
+      "dailyRatingChange": 0.5
+    },
+    {
+      "position": 4,
+      "playerId": "m49768",
+      "name": "Christopher Wilson AUS",
+      "rating": 1572.57,
+      "dailyRatingChange": 1.3
+    },
+    {
+      "position": 5,
+      "playerId": "m22769",
+      "name": "Ingrid Kramer",
+      "rating": 1515.15,
+      "dailyRatingChange": 13.42
+    },
+    {
+      "position": 6,
+      "playerId": "m27800",
+      "name": "Luke Loop",
+      "rating": 1628.95,
+      "dailyRatingChange": 1.2
+    },
+    {
+      "position": 7,
+      "playerId": "m17511",
+      "name": "David Clark AUS",
+      "rating": 1686.02,
+      "dailyRatingChange": -9.21
+    },
+    {
+      "position": 8,
+      "playerId": "m49111",
+      "name": "Jason Barr",
+      "rating": 1537.78,
+      "dailyRatingChange": -2.13
+    }
+  ]
+}

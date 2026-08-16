@@ -1,0 +1,67 @@
+{
+  "tournamentId": 265442,
+  "name": "Finals for Tuesday Night at the Vault August Week 1",
+  "date": "2026-08-05",
+  "locationId": "8957",
+  "locationName": "Morristown Game Vault",
+  "playerCount": 8,
+  "ratingsDate": "2026-08-05",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m6036",
+      "name": "Anthony Lambos Jr",
+      "rating": 1845.54,
+      "dailyRatingChange": 3.27
+    },
+    {
+      "position": 2,
+      "playerId": "m39898",
+      "name": "Jake Polachek",
+      "rating": 1631.17,
+      "dailyRatingChange": 0.36
+    },
+    {
+      "position": 3,
+      "playerId": "m6071",
+      "name": "Craig Cash",
+      "rating": 1660.32,
+      "dailyRatingChange": -2.47
+    },
+    {
+      "position": 4,
+      "playerId": "m10829",
+      "name": "Robert Salamon",
+      "rating": 1599.51,
+      "dailyRatingChange": 2.56
+    },
+    {
+      "position": 5,
+      "playerId": "m4238",
+      "name": "David Balsamini",
+      "rating": 1545.84,
+      "dailyRatingChange": 2.5
+    },
+    {
+      "position": 5,
+      "playerId": "m39514",
+      "name": "Gabriel Julio",
+      "rating": 1520.77,
+      "dailyRatingChange": 6.57
+    },
+    {
+      "position": 5,
+      "playerId": "m6041",
+      "name": "Cliff Albert",
+      "rating": 1687.78,
+      "dailyRatingChange": -3.41
+    },
+    {
+      "position": 5,
+      "playerId": "m14739",
+      "name": "Kevin Roth",
+      "rating": 1527.28,
+      "dailyRatingChange": 16.46
+    }
+  ]
+}

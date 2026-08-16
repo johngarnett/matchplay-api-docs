@@ -1,0 +1,53 @@
+{
+  "tournamentId": 265719,
+  "name": "2026 S2 Week 7",
+  "date": "2026-08-06",
+  "locationId": "9600",
+  "locationName": "The Mighty Axe - TO",
+  "playerCount": 6,
+  "ratingsDate": "2026-08-06",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m40668",
+      "name": "Trent Barnhart",
+      "rating": 1555.29,
+      "dailyRatingChange": 11.74
+    },
+    {
+      "position": 2,
+      "playerId": "i123907",
+      "name": "Dustin Kopel",
+      "rating": 1705.5,
+      "dailyRatingChange": -0.12
+    },
+    {
+      "position": 3,
+      "playerId": "m36918",
+      "name": "Kyle Burnett",
+      "rating": 1650.37,
+      "dailyRatingChange": -8.64
+    },
+    {
+      "position": 4,
+      "playerId": "i34607",
+      "name": "Robert Williams",
+      "rating": 1484.88,
+      "dailyRatingChange": 2.5
+    },
+    {
+      "position": 4,
+      "playerId": "m56179",
+      "name": "Zac Pritchard",
+      "rating": 1536.01,
+      "dailyRatingChange": -1.78
+    },
+    {
+      "position": 6,
+      "playerId": "m492515",
+      "name": "Ryan Thomas",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

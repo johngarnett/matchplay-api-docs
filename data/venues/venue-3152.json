@@ -1,0 +1,203 @@
+{
+  "locationId": "3152",
+  "name": "Eight on the Break",
+  "address": "",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 11,
+  "relatedVenues": [
+    {
+      "locationId": "5785",
+      "name": "Delaware Pinball Collective",
+      "address": "1100 First State Blvd. Wilmington, DE 19804",
+      "count": 9
+    },
+    {
+      "locationId": "13266",
+      "name": "Under The Glass",
+      "address": "7 Broad Street Red Bank NJ 07701",
+      "count": 9
+    },
+    {
+      "locationId": "9586",
+      "name": "Cool Dogs Sports Pub",
+      "address": "3025 E Desert Inn Rd, Las Vegas, NV 89121",
+      "count": 3
+    },
+    {
+      "locationId": "8271",
+      "name": "Rezzanine Esports",
+      "address": "1025 Washington Pike, Bridgeville, PA 15017, US",
+      "count": 2
+    },
+    {
+      "locationId": "4097",
+      "name": "Starcade",
+      "address": "",
+      "count": 1
+    },
+    {
+      "locationId": "6588",
+      "name": "Pocketeer Billiards",
+      "address": "",
+      "count": 1
+    },
+    {
+      "locationId": "8307",
+      "name": "Jackbar",
+      "address": "143 Havemeyer Street, Brooklyn, NY 11211, US",
+      "count": 1
+    },
+    {
+      "locationId": "8493",
+      "name": "Rullo's",
+      "address": "560 5th Avenue, Brooklyn, NY 11215, US",
+      "count": 1
+    },
+    {
+      "locationId": "11249",
+      "name": "The Manor",
+      "address": "1329 Kings Highway, Pilesgrove, NJ 08098",
+      "count": 1
+    },
+    {
+      "locationId": "13856",
+      "name": "Birdsmouth Beer",
+      "address": "675 Oceanport Wy, Oceanport, NJ 07757, US",
+      "count": 1
+    }
+  ],
+  "players": [
+    {
+      "id": "m6425",
+      "name": "Steve Zahler",
+      "rating": 1767.19,
+      "rd": 25.26,
+      "ratingClass": "Expert",
+      "homeLocation": "Eight on the Break",
+      "homeLocationId": "3152",
+      "percentile": 99.14287045232217,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m5716",
+      "name": "Sanjay Shah",
+      "rating": 1659,
+      "rd": 26.41,
+      "ratingClass": "A",
+      "homeLocation": "Delaware Pinball Collective",
+      "homeLocationId": "5785",
+      "percentile": 92.9566311082126,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m29755",
+      "name": "Joe Broccoli",
+      "rating": 1648.71,
+      "rd": 22.84,
+      "ratingClass": "A",
+      "homeLocation": "Under The Glass",
+      "homeLocationId": "13266",
+      "percentile": 91.56379559323614,
+      "changeDisplay": "-4.6",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m5728",
+      "name": "Koi Morris",
+      "rating": 1618.66,
+      "rd": 23.87,
+      "ratingClass": "A",
+      "homeLocation": "Eight on the Break",
+      "homeLocationId": "3152",
+      "percentile": 86.33251036474589,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m6851",
+      "name": "Paul Drabik",
+      "rating": 1578.51,
+      "rd": 32.54,
+      "ratingClass": "B",
+      "homeLocation": "Eight on the Break",
+      "homeLocationId": "3152",
+      "percentile": 76.17738854986725,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m3554",
+      "name": "Frank Semcer",
+      "rating": 1512.74,
+      "rd": 35,
+      "ratingClass": "B",
+      "homeLocation": "Eight on the Break",
+      "homeLocationId": "3152",
+      "percentile": 52.289560721106824,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m41601",
+      "name": "David Pucciarelli",
+      "rating": 1507.35,
+      "rd": 34.96,
+      "ratingClass": "B",
+      "homeLocation": "Eight on the Break",
+      "homeLocationId": "3152",
+      "percentile": 50.12344528811664,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i146354",
+      "name": "Josh Lubitz",
+      "rating": 1496.34,
+      "rd": 41.36,
+      "ratingClass": "C",
+      "homeLocation": "Eight on the Break",
+      "homeLocationId": "3152",
+      "percentile": 45.59556528625332,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i22956",
+      "name": "Lloyd Patti",
+      "rating": 1482.76,
+      "rd": 37.36,
+      "ratingClass": "C",
+      "homeLocation": "Eight on the Break",
+      "homeLocationId": "3152",
+      "percentile": 40.00558997531094,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i117284",
+      "name": "David Lupowitz",
+      "rating": 1479.14,
+      "rd": 39.21,
+      "ratingClass": "C",
+      "homeLocation": "Eight on the Break",
+      "homeLocationId": "3152",
+      "percentile": 38.603437834816226,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m6824",
+      "name": "Jeff Lupowitz",
+      "rating": 1465.25,
+      "rd": 35.6,
+      "ratingClass": "C",
+      "homeLocation": "Eight on the Break",
+      "homeLocationId": "3152",
+      "percentile": 32.952904458005314,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

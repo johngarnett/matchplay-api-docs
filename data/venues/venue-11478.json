@@ -1,0 +1,263 @@
+{
+  "locationId": "11478",
+  "name": "Retro City Arcade",
+  "address": "4446 Washington Rd, Evans, GA 30809, US",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 16,
+  "relatedVenues": [
+    {
+      "locationId": "8766",
+      "name": "Radioactive Pinball Arcade",
+      "address": "113 Laurens St SW, Aiken, SC 29801, US",
+      "count": 31
+    },
+    {
+      "locationId": "11488",
+      "name": "The Pinball Studio",
+      "address": "63 Smith Rd Richmond Hill, GA 31324",
+      "count": 8
+    },
+    {
+      "locationId": "8946",
+      "name": "Craft And Draft Irmo",
+      "address": "7583 Saint Andrews Road, Irmo, SC 29063, US",
+      "count": 6
+    },
+    {
+      "locationId": "8950",
+      "name": "The Pinball Barn",
+      "address": "250 Stoneybrook Road, Pelzer, SC  29669",
+      "count": 3
+    },
+    {
+      "locationId": "9921",
+      "name": "Renaissance Atlanta Waverly Hotel & Convention Center",
+      "address": "2450 Galleria Pkwy Atlanta, GA 30339",
+      "count": 3
+    },
+    {
+      "locationId": "8072",
+      "name": "Level 256 Classic Arcade Bar",
+      "address": "79 Coxe Ave, Asheville, NC, 28801, US",
+      "count": 2
+    },
+    {
+      "locationId": "10353",
+      "name": "The Pinball Palace",
+      "address": "3303 Hopkins Avenue, Brunswick, GA 31520, US",
+      "count": 2
+    },
+    {
+      "locationId": "7501",
+      "name": "Tepey’s Taps & Tacos",
+      "address": "2130 Kings Ave, Jacksonville, FL 32207, US",
+      "count": 1
+    },
+    {
+      "locationId": "7528",
+      "name": "Bang Back Pinball Lounge",
+      "address": "741 Saluda Ave, Columbia, SC, 29205, US",
+      "count": 1
+    },
+    {
+      "locationId": "10192",
+      "name": "The Escape Gamebar",
+      "address": "1441 Dresden Dr, Atlanta, GA, 30319, US",
+      "count": 1
+    }
+  ],
+  "players": [
+    {
+      "id": "m37729",
+      "name": "Thomas Hozey",
+      "rating": 1654.26,
+      "rd": 20.12,
+      "ratingClass": "A",
+      "homeLocation": "Radioactive Pinball Arcade",
+      "homeLocationId": "8766",
+      "percentile": 92.31378394745423,
+      "changeDisplay": "+1.5",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m17599",
+      "name": "William Johnson",
+      "rating": 1593.87,
+      "rd": 21.41,
+      "ratingClass": "B",
+      "homeLocation": "The Pinball Studio",
+      "homeLocationId": "11488",
+      "percentile": 80.50961941584758,
+      "changeDisplay": "-12.7",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m51847",
+      "name": "Ian Hoffman",
+      "rating": 1588.03,
+      "rd": 21.58,
+      "ratingClass": "B",
+      "homeLocation": "Radioactive Pinball Arcade",
+      "homeLocationId": "8766",
+      "percentile": 78.916476452229,
+      "changeDisplay": "-4.3",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "i151701",
+      "name": "Troy Taylor GA",
+      "rating": 1515.14,
+      "rd": 45.52,
+      "ratingClass": "B",
+      "homeLocation": "Retro City Arcade",
+      "homeLocationId": "11478",
+      "percentile": 53.25383146224437,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m38846",
+      "name": "Abby Boyd",
+      "rating": 1495.86,
+      "rd": 29.32,
+      "ratingClass": "C",
+      "homeLocation": "Retro City Arcade",
+      "homeLocationId": "11478",
+      "percentile": 45.432524339684164,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m47202",
+      "name": "Troy Taylor GA",
+      "rating": 1464.2,
+      "rd": 45.84,
+      "ratingClass": "C",
+      "homeLocation": "Retro City Arcade",
+      "homeLocationId": "11478",
+      "percentile": 32.52433968416639,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m47175",
+      "name": "PJ Synenberg",
+      "rating": 1452.2,
+      "rd": 35.6,
+      "ratingClass": "C",
+      "homeLocation": "Retro City Arcade",
+      "homeLocationId": "11478",
+      "percentile": 27.98714305678483,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m48089",
+      "name": "Josh Rabun",
+      "rating": 1441.73,
+      "rd": 46.41,
+      "ratingClass": "C",
+      "homeLocation": "Retro City Arcade",
+      "homeLocationId": "11478",
+      "percentile": 24.279126100526387,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m47634",
+      "name": "Melissa Spradley",
+      "rating": 1430.03,
+      "rd": 29.2,
+      "ratingClass": "C",
+      "homeLocation": "Retro City Arcade",
+      "homeLocationId": "11478",
+      "percentile": 20.566450831508828,
+      "changeDisplay": "+11.7",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m46291",
+      "name": "Luke Steel",
+      "rating": 1429.09,
+      "rd": 27.32,
+      "ratingClass": "C",
+      "homeLocation": "Radioactive Pinball Arcade",
+      "homeLocationId": "8766",
+      "percentile": 20.31490194251642,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m58592",
+      "name": "Jerry Toon",
+      "rating": 1425.64,
+      "rd": 46.51,
+      "ratingClass": "C",
+      "homeLocation": "Retro City Arcade",
+      "homeLocationId": "11478",
+      "percentile": 19.31802301206503,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m58586",
+      "name": "Rhonda Dale",
+      "rating": 1420.94,
+      "rd": 46.71,
+      "ratingClass": "C",
+      "homeLocation": "Retro City Arcade",
+      "homeLocationId": "11478",
+      "percentile": 17.929845809847674,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m58359",
+      "name": "Morgan Bargeron",
+      "rating": 1417.83,
+      "rd": 55.16,
+      "ratingClass": "C",
+      "homeLocation": "Retro City Arcade",
+      "homeLocationId": "11478",
+      "percentile": 17.10532445148367,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m47111",
+      "name": "Sarah Canaday",
+      "rating": 1415.94,
+      "rd": 40.54,
+      "ratingClass": "C",
+      "homeLocation": "Retro City Arcade",
+      "homeLocationId": "11478",
+      "percentile": 16.55564354590767,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i143487",
+      "name": "Wes Runions",
+      "rating": 1384.69,
+      "rd": 32.96,
+      "ratingClass": "D",
+      "homeLocation": "Retro City Arcade",
+      "homeLocationId": "11478",
+      "percentile": 9.256067452368752,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i143476",
+      "name": "Judson Deal",
+      "rating": null,
+      "rd": null,
+      "ratingClass": "N/A",
+      "homeLocation": "Craft And Draft Irmo",
+      "homeLocationId": "8946",
+      "percentile": null,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

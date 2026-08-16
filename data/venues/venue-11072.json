@@ -1,0 +1,185 @@
+{
+  "locationId": "11072",
+  "name": "Vantage Point",
+  "address": "208 E Coeur D'Alene Lake Dr, Coeur d'Alene, ID 83814",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 12,
+  "relatedVenues": [
+    {
+      "locationId": "7869",
+      "name": "Bolo's Bar & Grill",
+      "address": "116 S Best Road, Spokane Valley, WA 99216, US",
+      "count": 14
+    },
+    {
+      "locationId": "10802",
+      "name": "Lilac Lanes & Casino",
+      "address": "1112 E Magnesium Rd, Spokane, WA 99208",
+      "count": 8
+    },
+    {
+      "locationId": "12845",
+      "name": "The Wonder Building",
+      "address": "835 N. Post St Spokane, WA 99201",
+      "count": 4
+    },
+    {
+      "locationId": "9503",
+      "name": "YaYa Brewing",
+      "address": "11712 E Montgomery Dr Unit F1-3, Spokane Valley, WA 99206",
+      "count": 3
+    },
+    {
+      "locationId": "6346",
+      "name": "NWPAS",
+      "address": "",
+      "count": 2
+    }
+  ],
+  "players": [
+    {
+      "id": "m24351",
+      "name": "John Cambareri",
+      "rating": 1752.11,
+      "rd": 24.12,
+      "ratingClass": "Expert",
+      "homeLocation": "Bolo's Bar & Grill",
+      "homeLocationId": "7869",
+      "percentile": 98.84008012297946,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i30154",
+      "name": "Ronnie Vanwormer",
+      "rating": 1569.3,
+      "rd": 38.31,
+      "ratingClass": "B",
+      "homeLocation": "Vantage Point",
+      "homeLocationId": "11072",
+      "percentile": 73.27991801369545,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i149370",
+      "name": "Gates",
+      "rating": 1568.38,
+      "rd": 53.45,
+      "ratingClass": "B",
+      "homeLocation": "Vantage Point",
+      "homeLocationId": "11072",
+      "percentile": 73.00041924814832,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m50293",
+      "name": "Will Velarde",
+      "rating": 1555.4,
+      "rd": 27.68,
+      "ratingClass": "B",
+      "homeLocation": "Lilac Lanes & Casino",
+      "homeLocationId": "10802",
+      "percentile": 68.78464620114595,
+      "changeDisplay": "+21.7",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "i135472",
+      "name": "Emily Happe",
+      "rating": 1532.92,
+      "rd": 32.44,
+      "ratingClass": "B",
+      "homeLocation": "Vantage Point",
+      "homeLocationId": "11072",
+      "percentile": 60.25993385195883,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i153303",
+      "name": "Ryan Duncan",
+      "rating": 1525.46,
+      "rd": 36.53,
+      "ratingClass": "B",
+      "homeLocation": "Vantage Point",
+      "homeLocationId": "11072",
+      "percentile": 57.292588624400246,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i153302",
+      "name": "Kevan McCrummen",
+      "rating": 1521.59,
+      "rd": 37.94,
+      "ratingClass": "B",
+      "homeLocation": "Vantage Point",
+      "homeLocationId": "11072",
+      "percentile": 55.80658685424139,
+      "changeDisplay": "-9.3",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m33622",
+      "name": "Joe Roberts",
+      "rating": 1500.85,
+      "rd": 36.97,
+      "ratingClass": "B",
+      "homeLocation": "Vantage Point",
+      "homeLocationId": "11072",
+      "percentile": 47.47752364093725,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i135468",
+      "name": "Patrick Hanlon",
+      "rating": 1499.31,
+      "rd": 29.52,
+      "ratingClass": "C",
+      "homeLocation": "Vantage Point",
+      "homeLocationId": "11072",
+      "percentile": 46.81138491638329,
+      "changeDisplay": "-4.4",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "i153301",
+      "name": "Chuck Gaidosh",
+      "rating": 1493.79,
+      "rd": 39.19,
+      "ratingClass": "C",
+      "homeLocation": "Vantage Point",
+      "homeLocationId": "11072",
+      "percentile": 44.645269483393115,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m54524",
+      "name": "Nick Malara",
+      "rating": 1452.48,
+      "rd": 29.21,
+      "ratingClass": "C",
+      "homeLocation": "Bolo's Bar & Grill",
+      "homeLocationId": "7869",
+      "percentile": 28.08962593748544,
+      "changeDisplay": "+3.0",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "i135470",
+      "name": "Amy McKlendin",
+      "rating": 1402.31,
+      "rd": 30.92,
+      "ratingClass": "C",
+      "homeLocation": "Vantage Point",
+      "homeLocationId": "11072",
+      "percentile": 13.108492104159875,
+      "changeDisplay": "-3.7",
+      "changeClass": "change-negative"
+    }
+  ]
+}

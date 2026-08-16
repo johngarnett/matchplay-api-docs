@@ -1,0 +1,95 @@
+{
+  "tournamentId": 262187,
+  "name": "Finals for Circle City Silverball Season 3 - Tappers League",
+  "date": "2026-07-29",
+  "locationId": "8405",
+  "locationName": "Tappers",
+  "playerCount": 12,
+  "ratingsDate": "2026-07-29",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m37503",
+      "name": "Charlie Hornett",
+      "rating": 1817.11,
+      "dailyRatingChange": 1.38
+    },
+    {
+      "position": 2,
+      "playerId": "m17275",
+      "name": "Joe Bayer",
+      "rating": 1764.85,
+      "dailyRatingChange": 8.11
+    },
+    {
+      "position": 3,
+      "playerId": "m40537",
+      "name": "Jordan Kalt",
+      "rating": 1678.12,
+      "dailyRatingChange": 2.67
+    },
+    {
+      "position": 4,
+      "playerId": "m41207",
+      "name": "Elijah Farrales",
+      "rating": 1710.71,
+      "dailyRatingChange": -8.63
+    },
+    {
+      "position": 5,
+      "playerId": "m26618",
+      "name": "Sarah Crismore",
+      "rating": 1532.84,
+      "dailyRatingChange": 6.34
+    },
+    {
+      "position": 6,
+      "playerId": "m2484",
+      "name": "Kurt John",
+      "rating": 1601.02,
+      "dailyRatingChange": 6.38
+    },
+    {
+      "position": 7,
+      "playerId": "m37481",
+      "name": "Christine Hornett",
+      "rating": 1563.11,
+      "dailyRatingChange": 3.59
+    },
+    {
+      "position": 8,
+      "playerId": "m29413",
+      "name": "Ian Saroyan",
+      "rating": 1556.84,
+      "dailyRatingChange": -3.56
+    },
+    {
+      "position": 9,
+      "playerId": "m6473",
+      "name": "Eric Schroeder",
+      "rating": 1541.52,
+      "dailyRatingChange": -0.88
+    },
+    {
+      "position": 9,
+      "playerId": "m14246",
+      "name": "Greg Durant",
+      "rating": 1631.9,
+      "dailyRatingChange": -1.11
+    },
+    {
+      "position": 11,
+      "playerId": "m36056",
+      "name": "Frank Smith",
+      "rating": 1541.13,
+      "dailyRatingChange": -2.91
+    },
+    {
+      "position": 11,
+      "playerId": "m6457",
+      "name": "Marc Roden",
+      "rating": 1684.14,
+      "dailyRatingChange": -7.71
+    }
+  ]
+}

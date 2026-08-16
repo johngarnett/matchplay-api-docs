@@ -1,0 +1,335 @@
+{
+  "locationId": "12074",
+  "name": "Brett's place",
+  "address": "Hobart",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 22,
+  "relatedVenues": [
+    {
+      "locationId": "11310",
+      "name": "Rokeby Ghetto HQ",
+      "address": "private",
+      "count": 26
+    },
+    {
+      "locationId": "9214",
+      "name": "Replay Bar",
+      "address": "37 Elizabeth Mall, Hobart, TAS 7000, AU",
+      "count": 20
+    },
+    {
+      "locationId": "12925",
+      "name": "GPL Brewery",
+      "address": "Private location email TD for details",
+      "count": 16
+    },
+    {
+      "locationId": "13052",
+      "name": "gpl hq",
+      "address": "",
+      "count": 13
+    },
+    {
+      "locationId": "7450",
+      "name": "The Clubhouse Moorooka",
+      "address": "76 Koala Road, Moorooka, QLD 4105, AU",
+      "count": 7
+    },
+    {
+      "locationId": "7180",
+      "name": "Netherworld",
+      "address": "186 Brunswick St, Fortitude Valley, QLD 4006, AU",
+      "count": 5
+    },
+    {
+      "locationId": "10481",
+      "name": "The Winston",
+      "address": "381 Elizabeth Street, North Hobart, TAS 7000, AU",
+      "count": 4
+    },
+    {
+      "locationId": "11563",
+      "name": "Deep South Brewing Co.",
+      "address": "220 Argyle St, North Hobart, TAS 7000, AU",
+      "count": 4
+    },
+    {
+      "locationId": "10800",
+      "name": "Illawarra Pinball Clubhouse",
+      "address": "147 Kembla Street, Wollongong",
+      "count": 2
+    },
+    {
+      "locationId": "13069",
+      "name": "The Fraternity Club",
+      "address": "11 Bourke St, Fairy Meadow",
+      "count": 2
+    }
+  ],
+  "players": [
+    {
+      "id": "m22583",
+      "name": "Joshua Hesketh",
+      "rating": 1710.89,
+      "rd": 22.72,
+      "ratingClass": "Expert",
+      "homeLocation": "Replay Bar",
+      "homeLocationId": "9214",
+      "percentile": 97.20967065728793,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m40815",
+      "name": "Simon Voigt",
+      "rating": 1640.16,
+      "rd": 22.12,
+      "ratingClass": "A",
+      "homeLocation": "Replay Bar",
+      "homeLocationId": "9214",
+      "percentile": 90.35263427586528,
+      "changeDisplay": "-5.0",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m774",
+      "name": "Joe Wade AUS",
+      "rating": 1635.17,
+      "rd": 16.44,
+      "ratingClass": "A",
+      "homeLocation": "Netherworld",
+      "homeLocationId": "7180",
+      "percentile": 89.49550472818744,
+      "changeDisplay": "-4.4",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "i116720",
+      "name": "Tony Morgan",
+      "rating": 1596.79,
+      "rd": 26.95,
+      "ratingClass": "B",
+      "homeLocation": "Rokeby Ghetto HQ",
+      "homeLocationId": "11310",
+      "percentile": 81.22699958075185,
+      "changeDisplay": "+4.9",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "i149218",
+      "name": "Kaleb Southwell",
+      "rating": 1591.22,
+      "rd": 29.17,
+      "ratingClass": "B",
+      "homeLocation": "Brett's place",
+      "homeLocationId": "12074",
+      "percentile": 79.80155587646155,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m45802",
+      "name": "Solomon Smith (AUS)",
+      "rating": 1586.69,
+      "rd": 24.12,
+      "ratingClass": "B",
+      "homeLocation": "Rokeby Ghetto HQ",
+      "homeLocationId": "11310",
+      "percentile": 78.50654492942655,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m54317",
+      "name": "Bennet McComish",
+      "rating": 1560.98,
+      "rd": 25.19,
+      "ratingClass": "B",
+      "homeLocation": "Replay Bar",
+      "homeLocationId": "9214",
+      "percentile": 70.63865467927516,
+      "changeDisplay": "+4.5",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m47943",
+      "name": "Kev Mills AUS",
+      "rating": 1551.47,
+      "rd": 22.31,
+      "ratingClass": "B",
+      "homeLocation": "Replay Bar",
+      "homeLocationId": "9214",
+      "percentile": 67.2986444309871,
+      "changeDisplay": "+0.8",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "i137134",
+      "name": "Jamie Axelsen",
+      "rating": 1542.22,
+      "rd": 23.29,
+      "ratingClass": "B",
+      "homeLocation": "Brett's place",
+      "homeLocationId": "12074",
+      "percentile": 63.98192574649462,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m51379",
+      "name": "Brad Nichols",
+      "rating": 1541.61,
+      "rd": 25.13,
+      "ratingClass": "B",
+      "homeLocation": "Replay Bar",
+      "homeLocationId": "9214",
+      "percentile": 63.725718544743096,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i136410",
+      "name": "Emily Keyter",
+      "rating": 1515.73,
+      "rd": 26.91,
+      "ratingClass": "B",
+      "homeLocation": "Brett's place",
+      "homeLocationId": "12074",
+      "percentile": 53.49606372571854,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i120490",
+      "name": "Andrew A1A Alexakis",
+      "rating": 1515.64,
+      "rd": 34.46,
+      "ratingClass": "B",
+      "homeLocation": "Rokeby Ghetto HQ",
+      "homeLocationId": "11310",
+      "percentile": 53.463455536404716,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i154227",
+      "name": "Nathon Clerke",
+      "rating": 1490.31,
+      "rd": 26.77,
+      "ratingClass": "C",
+      "homeLocation": "Rokeby Ghetto HQ",
+      "homeLocationId": "11310",
+      "percentile": 43.145292774956914,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m60041",
+      "name": "Lynden George",
+      "rating": 1485.52,
+      "rd": 28.34,
+      "ratingClass": "C",
+      "homeLocation": "Brett's place",
+      "homeLocationId": "12074",
+      "percentile": 41.132901663017655,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i140999",
+      "name": "Jon Moody",
+      "rating": 1452.95,
+      "rd": 25.78,
+      "ratingClass": "C",
+      "homeLocation": "Replay Bar",
+      "homeLocationId": "9214",
+      "percentile": 28.280616760609306,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i141000",
+      "name": "Allyson Moody",
+      "rating": 1432.77,
+      "rd": 27.56,
+      "ratingClass": "C",
+      "homeLocation": "Rokeby Ghetto HQ",
+      "homeLocationId": "11310",
+      "percentile": 21.39097218987283,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i118613",
+      "name": "Lee Davey",
+      "rating": 1430.19,
+      "rd": 24.38,
+      "ratingClass": "C",
+      "homeLocation": "Rokeby Ghetto HQ",
+      "homeLocationId": "11310",
+      "percentile": 20.645642148413845,
+      "changeDisplay": "-14.5",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "i145904",
+      "name": "Bernard Moody",
+      "rating": 1358.75,
+      "rd": 37.7,
+      "ratingClass": "D",
+      "homeLocation": "Rokeby Ghetto HQ",
+      "homeLocationId": "11310",
+      "percentile": 5.301159919877021,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i156711",
+      "name": "Gela Carroll",
+      "rating": 1314.86,
+      "rd": 41.86,
+      "ratingClass": "D",
+      "homeLocation": "Brett's place",
+      "homeLocationId": "12074",
+      "percentile": 1.5838263381003401,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i116734",
+      "name": "Adrian (ACE) Evans",
+      "rating": null,
+      "rd": null,
+      "ratingClass": "N/A",
+      "homeLocation": "Rokeby Ghetto HQ",
+      "homeLocationId": "11310",
+      "percentile": null,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i116730",
+      "name": "Brett Cooke",
+      "rating": null,
+      "rd": null,
+      "ratingClass": "N/A",
+      "homeLocation": "Rokeby Ghetto HQ",
+      "homeLocationId": "11310",
+      "percentile": null,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i149220",
+      "name": "Lynden George",
+      "rating": null,
+      "rd": null,
+      "ratingClass": "N/A",
+      "homeLocation": "Rokeby Ghetto HQ",
+      "homeLocationId": "11310",
+      "percentile": null,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "tournamentId": 248250,
+  "name": "A Finals for Belles & Chimes Jersey Shore Summer League",
+  "date": "2026-07-30",
+  "locationId": "13296",
+  "locationName": "Under the Glass Pinball Speakeasy",
+  "playerCount": 4,
+  "ratingsDate": "2026-07-30",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m60268",
+      "name": "Kate Strong",
+      "rating": 1502.59,
+      "dailyRatingChange": 21.8
+    },
+    {
+      "position": 2,
+      "playerId": "m39517",
+      "name": "Isabel Julio",
+      "rating": 1417.27,
+      "dailyRatingChange": 0.56
+    },
+    {
+      "position": 3,
+      "playerId": "m2005",
+      "name": "Stephanie Lesser",
+      "rating": 1490.68,
+      "dailyRatingChange": -3.64
+    },
+    {
+      "position": 4,
+      "playerId": "m50499",
+      "name": "Liliana Julio",
+      "rating": 1438.25,
+      "dailyRatingChange": -4.25
+    }
+  ]
+}

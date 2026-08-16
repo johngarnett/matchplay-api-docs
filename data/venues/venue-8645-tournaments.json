@@ -1,0 +1,112 @@
+{
+  "locationId": "8645",
+  "venueName": "The American",
+  "venueAddress": "926 Main St, Vancouver, BC V6A 2W1, CA",
+  "tournaments": [
+    {
+      "id": 266783,
+      "name": "Replay Wednesdays at the American: August 12th, 2026",
+      "date": "8/12/2026",
+      "playerCount": 20,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m28090",
+          "name": "Frank E",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m1295",
+          "name": "Brennan Lloyd",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m13315",
+          "name": "Rhys Coulter",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m53993",
+          "name": "Jake Parsonson",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m27032",
+          "name": "Eddie DeWolfe",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 265703,
+      "name": "Replay Wednesdays at the American: August 5th, 2026",
+      "date": "8/5/2026",
+      "playerCount": 22,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m39247",
+          "name": "Steve Main",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m13748",
+          "name": "Adam Thompson CAN",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m28090",
+          "name": "Frank E",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m27946",
+          "name": "Jeremy Matthews",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 264527,
+      "name": "Replay Wednesdays at the American: July 29th, 2026",
+      "date": "7/29/2026",
+      "playerCount": 26,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m28090",
+          "name": "Frank E",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m27032",
+          "name": "Eddie DeWolfe",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m1295",
+          "name": "Brennan Lloyd",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m3498",
+          "name": "Angelique Vigneux",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

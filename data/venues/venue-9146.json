@@ -1,0 +1,107 @@
+{
+  "locationId": "9146",
+  "name": "Lost Souls Bar",
+  "address": "56 Terrigal Esplanade, Terrigal NSW 2260",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 5,
+  "relatedVenues": [
+    {
+      "locationId": "11119",
+      "name": "Bayside Anglican Church Hall",
+      "address": "Pitt-Owen Street, Arncliffe",
+      "count": 12
+    },
+    {
+      "locationId": "3143",
+      "name": "Tattersalls hotel",
+      "address": "High St, Penrith NSW 2750, Australia",
+      "count": 11
+    },
+    {
+      "locationId": "13160",
+      "name": "Six Strings Brewery",
+      "address": "90 The Entrance Rd, Erina NSW 2250",
+      "count": 8
+    },
+    {
+      "locationId": "12625",
+      "name": "Tower Cinema",
+      "address": "183-185 King St, Newcastle NSW 2300",
+      "count": 6
+    },
+    {
+      "locationId": "13069",
+      "name": "The Fraternity Club",
+      "address": "11 Bourke St, Fairy Meadow",
+      "count": 4
+    },
+    {
+      "locationId": "10800",
+      "name": "Illawarra Pinball Clubhouse",
+      "address": "147 Kembla Street, Wollongong",
+      "count": 3
+    }
+  ],
+  "players": [
+    {
+      "id": "m42085",
+      "name": "Sue Hantzi",
+      "rating": 1628.8,
+      "rd": 18.15,
+      "ratingClass": "A",
+      "homeLocation": "Bayside Anglican Church Hall",
+      "homeLocationId": "11119",
+      "percentile": 88.30297666185307,
+      "changeDisplay": "+19.0",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m50908",
+      "name": "Con Hantzi",
+      "rating": 1620.84,
+      "rd": 18.76,
+      "ratingClass": "A",
+      "homeLocation": "Tattersalls hotel",
+      "homeLocationId": "3143",
+      "percentile": 86.80765826617599,
+      "changeDisplay": "+0.3",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m988",
+      "name": "Terry Hunt",
+      "rating": 1609.62,
+      "rd": 23.61,
+      "ratingClass": "A",
+      "homeLocation": "Lost Souls Bar",
+      "homeLocationId": "9146",
+      "percentile": 84.38067731867518,
+      "changeDisplay": "-26.8",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m50644",
+      "name": "Michael Bird",
+      "rating": 1553.16,
+      "rd": 21.3,
+      "ratingClass": "B",
+      "homeLocation": "Tattersalls hotel",
+      "homeLocationId": "3143",
+      "percentile": 67.98341640657753,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i144030",
+      "name": "Brian Cliffe",
+      "rating": 1425.7,
+      "rd": 35.03,
+      "ratingClass": "C",
+      "homeLocation": "Six Strings Brewery",
+      "homeLocationId": "13160",
+      "percentile": 19.341314575860626,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

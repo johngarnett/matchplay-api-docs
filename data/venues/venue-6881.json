@@ -1,0 +1,335 @@
+{
+  "locationId": "6881",
+  "name": "The Republic Bottle Shop",
+  "address": "9414 State Ave, Marysville, WA, 98270, US",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 22,
+  "relatedVenues": [
+    {
+      "locationId": "11192",
+      "name": "Houndstooth Public House",
+      "address": "8551 Greenwood Ave N, Seattle, WA 98103, USA",
+      "count": 20
+    },
+    {
+      "locationId": "13531",
+      "name": "Crave 80s",
+      "address": "8628 36th Ave NE #100, Marysville, WA 98270, US",
+      "count": 20
+    },
+    {
+      "locationId": "13134",
+      "name": "White Buffalo Saloon",
+      "address": "5614 Evergreen Way, Everett, WA 98203, US",
+      "count": 17
+    },
+    {
+      "locationId": "1893",
+      "name": "The Ice Box",
+      "address": "615 NW Bright St, Seattle, WA 98107, USA",
+      "count": 15
+    },
+    {
+      "locationId": "10993",
+      "name": "Gary’s Place",
+      "address": "2820 Alki Ave SW, Seattle, WA 98116, US",
+      "count": 13
+    },
+    {
+      "locationId": "5959",
+      "name": "Another Castle Arcade Edition Edmonds",
+      "address": "23303 Hwy 99 c, Edmonds, WA 98026, USA",
+      "count": 12
+    },
+    {
+      "locationId": "11611",
+      "name": "Larry's",
+      "address": "",
+      "count": 11
+    },
+    {
+      "locationId": "10916",
+      "name": "Waterland Arcade",
+      "address": "22306 Marine View Dr S, Des Moines, WA 98198, US",
+      "count": 10
+    },
+    {
+      "locationId": "9576",
+      "name": "The Kraken Bar & Lounge",
+      "address": "5828 Roosevelt Way NE, Seattle, WA 98105, US",
+      "count": 9
+    },
+    {
+      "locationId": "10907",
+      "name": "Hound's Tooth Public House",
+      "address": "8551 Greenwood Ave. N., Seattle, WA 98103, US",
+      "count": 9
+    }
+  ],
+  "players": [
+    {
+      "id": "m20283",
+      "name": "Dan Cevetello",
+      "rating": 1647.9,
+      "rd": 22.83,
+      "ratingClass": "A",
+      "homeLocation": "Houndstooth Public House",
+      "homeLocationId": "11192",
+      "percentile": 91.43802114873992,
+      "changeDisplay": "+3.7",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m24927",
+      "name": "Caden Mho",
+      "rating": 1612.97,
+      "rd": 37.23,
+      "ratingClass": "A",
+      "homeLocation": "The Republic Bottle Shop",
+      "homeLocationId": "6881",
+      "percentile": 85.0607909815065,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m13692",
+      "name": "Jobie Allen",
+      "rating": 1587.27,
+      "rd": 26.2,
+      "ratingClass": "B",
+      "homeLocation": "The Republic Bottle Shop",
+      "homeLocationId": "6881",
+      "percentile": 78.64629431220011,
+      "changeDisplay": "+6.6",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m39658",
+      "name": "Joe Woodard",
+      "rating": 1582.73,
+      "rd": 25.95,
+      "ratingClass": "B",
+      "homeLocation": "Crave 80s Arcade Bar",
+      "homeLocationId": "6312",
+      "percentile": 77.3932081799972,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m22102",
+      "name": "Evan Adkins",
+      "rating": 1581.29,
+      "rd": 29.46,
+      "ratingClass": "B",
+      "homeLocation": "Another Castle Arcade Edition Edmonds",
+      "homeLocationId": "5959",
+      "percentile": 76.98793496995388,
+      "changeDisplay": "-1.5",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m37860",
+      "name": "Canyon Mosely",
+      "rating": 1580.85,
+      "rd": 16.79,
+      "ratingClass": "B",
+      "homeLocation": "Gary’s Place",
+      "homeLocationId": "10993",
+      "percentile": 76.89476871477152,
+      "changeDisplay": "+2.2",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m31191",
+      "name": "Nicholas Kaide",
+      "rating": 1574.03,
+      "rd": 28.91,
+      "ratingClass": "B",
+      "homeLocation": "The Republic Bottle Shop",
+      "homeLocationId": "6881",
+      "percentile": 74.81250291144548,
+      "changeDisplay": "-0.2",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m22917",
+      "name": "Robert Bissell",
+      "rating": 1560.94,
+      "rd": 22.6,
+      "ratingClass": "B",
+      "homeLocation": "The Republic Bottle Shop",
+      "homeLocationId": "6881",
+      "percentile": 70.6246797409978,
+      "changeDisplay": "-4.6",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m40608",
+      "name": "Julie Finco",
+      "rating": 1545.03,
+      "rd": 18.5,
+      "ratingClass": "B",
+      "homeLocation": "The Republic Bottle Shop",
+      "homeLocationId": "6881",
+      "percentile": 64.96482973866866,
+      "changeDisplay": "+6.8",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m37519",
+      "name": "Griffin Skyhawk",
+      "rating": 1532.24,
+      "rd": 28.55,
+      "ratingClass": "B",
+      "homeLocation": "The Republic Bottle Shop",
+      "homeLocationId": "6881",
+      "percentile": 59.966460148134345,
+      "changeDisplay": "-4.7",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m40409",
+      "name": "Todd Finco",
+      "rating": 1519.19,
+      "rd": 21.46,
+      "ratingClass": "B",
+      "homeLocation": "Crave 80s",
+      "homeLocationId": "13531",
+      "percentile": 54.82834117482648,
+      "changeDisplay": "-1.4",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m26009",
+      "name": "Nadine Scarlett",
+      "rating": 1512.62,
+      "rd": 27.63,
+      "ratingClass": "B",
+      "homeLocation": "The Republic Bottle Shop",
+      "homeLocationId": "6881",
+      "percentile": 52.247635906274745,
+      "changeDisplay": "+8.5",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m27904",
+      "name": "Patrick Willis",
+      "rating": 1508.99,
+      "rd": 26.14,
+      "ratingClass": "B",
+      "homeLocation": "The Republic Bottle Shop",
+      "homeLocationId": "6881",
+      "percentile": 50.80821726370709,
+      "changeDisplay": "-2.1",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "i48109",
+      "name": "Trent Davis",
+      "rating": 1507.24,
+      "rd": 61.44,
+      "ratingClass": "B",
+      "homeLocation": "The Republic Bottle Shop",
+      "homeLocationId": "6881",
+      "percentile": 50.07220384776634,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i93090",
+      "name": "Jenny Cline",
+      "rating": 1496.56,
+      "rd": 22.67,
+      "ratingClass": "C",
+      "homeLocation": "Next Level Pinball Museum",
+      "homeLocationId": "5246",
+      "percentile": 45.69804816695393,
+      "changeDisplay": "+15.1",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m9774",
+      "name": "Kristina Ralston",
+      "rating": 1491.55,
+      "rd": 33.05,
+      "ratingClass": "C",
+      "homeLocation": "The Republic Bottle Shop",
+      "homeLocationId": "6881",
+      "percentile": 43.667023803978196,
+      "changeDisplay": "-4.7",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "i68823",
+      "name": "Trent Barton",
+      "rating": 1474.95,
+      "rd": 23.9,
+      "ratingClass": "C",
+      "homeLocation": "White Buffalo Saloon",
+      "homeLocationId": "13134",
+      "percentile": 36.87054548842409,
+      "changeDisplay": "+5.9",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m21233",
+      "name": "Jameson Culler",
+      "rating": 1464.56,
+      "rd": 58.62,
+      "ratingClass": "C",
+      "homeLocation": "Another Castle Arcade Edition Edmonds",
+      "homeLocationId": "5959",
+      "percentile": 32.65943075418083,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m40343",
+      "name": "Patrick Anthony",
+      "rating": 1459.38,
+      "rd": 35.53,
+      "ratingClass": "C",
+      "homeLocation": "The Republic Bottle Shop",
+      "homeLocationId": "6881",
+      "percentile": 30.791447337774258,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m13443",
+      "name": "Ethan Boggess",
+      "rating": 1389.5,
+      "rd": 29.55,
+      "ratingClass": "D",
+      "homeLocation": "The Republic Bottle Shop",
+      "homeLocationId": "6881",
+      "percentile": 10.173755065915126,
+      "changeDisplay": "+2.7",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m33546",
+      "name": "Sharon Ralston",
+      "rating": 1384.63,
+      "rd": 25.77,
+      "ratingClass": "D",
+      "homeLocation": "The Ice Box",
+      "homeLocationId": "1893",
+      "percentile": 9.237434201332277,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m53373",
+      "name": "Noah Rubin",
+      "rating": 1365.2,
+      "rd": 24.53,
+      "ratingClass": "D",
+      "homeLocation": "Houndstooth Public House",
+      "homeLocationId": "11192",
+      "percentile": 6.0930730889271905,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

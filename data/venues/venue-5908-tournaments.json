@@ -1,0 +1,190 @@
+{
+  "locationId": "5908",
+  "venueName": "The Sanctum",
+  "venueAddress": "290 Pratt Street, Meriden, CT 06450, US",
+  "tournaments": [
+    {
+      "id": 266500,
+      "name": "Finals for Sanctum Transformers Launch Party",
+      "date": "8/10/2026",
+      "playerCount": 7,
+      "qualifying": {
+        "id": 262652,
+        "name": "Sanctum Transformers Launch Party",
+        "playerCount": 57
+      },
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m13850",
+          "name": "Ryan Belisle",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m9417",
+          "name": "Randall Landau",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m1163",
+          "name": "George Magyar",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m971",
+          "name": "Brenda Kabel",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 265347,
+      "name": "Sanctum Weekly (Pace Matchplay) 8/3/26",
+      "date": "8/3/2026",
+      "playerCount": 21,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m40393",
+          "name": "Connor Mulberry",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m20084",
+          "name": "Jason Corrado",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m21",
+          "name": "James Swain Jr.",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m234",
+          "name": "Davey Plaisted",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 264147,
+      "name": "Sanctum Weekly (Knockout) 7/27/26",
+      "date": "7/27/2026",
+      "playerCount": 17,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m9417",
+          "name": "Randall Landau",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m13850",
+          "name": "Ryan Belisle",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m45863",
+          "name": "Jason Watts",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m1163",
+          "name": "George Magyar",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m34451",
+          "name": "Alec Kehrhahn",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 263042,
+      "name": "Finals for Sanctum Weekly (Max Matchplay) 7/20/26",
+      "date": "7/20/2026",
+      "playerCount": 6,
+      "qualifying": {
+        "id": 263020,
+        "name": "Sanctum Weekly (Max Matchplay) 7/20/26",
+        "playerCount": 26
+      },
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m21738",
+          "name": "Scott Temple",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m45863",
+          "name": "Jason Watts",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m1115",
+          "name": "Holly Danowski",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m1369",
+          "name": "Tom Coltart",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 262869,
+      "name": "Finals for CT Belles Transformers Launch - Sanctum",
+      "date": "7/19/2026",
+      "playerCount": 4,
+      "qualifying": {
+        "id": 262794,
+        "name": "CT Belles Transformers Launch - Sanctum",
+        "playerCount": 9
+      },
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m24394",
+          "name": "Sheri Hendricks",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m36978",
+          "name": "Holly Papaw",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m47959",
+          "name": "Alice Bruso",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m11330",
+          "name": "Kristen Bayusik",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

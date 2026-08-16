@@ -1,0 +1,62 @@
+{
+  "locationId": "8279",
+  "venueName": "Old Crown Coffee Roasters",
+  "venueAddress": "3523 N Anthony Blvd, Fort Wayne, IN 46805, US",
+  "tournaments": [
+    {
+      "id": 262751,
+      "name": "Finals for Stern Army Presents A Fort Drain Event OCTD",
+      "date": "7/18/2026",
+      "playerCount": 8,
+      "qualifying": {
+        "id": 262694,
+        "name": "Stern Army Presents A Fort Drain Event OCTD",
+        "playerCount": 17
+      },
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m29645",
+          "name": "Clem Fingerle",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m34675",
+          "name": "Derek Dailey",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m6680",
+          "name": "Graham Stiver",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m54382",
+          "name": "Logan Krueger",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m23372",
+          "name": "Austin Deventer",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 262746,
+      "name": "Finals for Stern Army Presents A Fort Drain Event OCTD",
+      "date": "7/18/2026",
+      "playerCount": 8,
+      "qualifying": {
+        "id": 262694,
+        "name": "Stern Army Presents A Fort Drain Event OCTD",
+        "playerCount": 17
+      },
+      "standings": []
+    }
+  ]
+}

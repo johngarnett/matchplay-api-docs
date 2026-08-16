@@ -1,0 +1,32 @@
+{
+  "tournamentId": 259838,
+  "name": "Double Tap 5-Day Extravaganza Women's Tournament",
+  "date": "2026-08-01",
+  "locationId": "12739",
+  "locationName": "Tap Tap | Double Tap Beercade",
+  "playerCount": 3,
+  "ratingsDate": "2026-08-01",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m29509",
+      "name": "Annie Fitzgerald",
+      "rating": 1499.84,
+      "dailyRatingChange": 10.47
+    },
+    {
+      "position": 2,
+      "playerId": "m32233",
+      "name": "Alivia Haley",
+      "rating": 1686.61,
+      "dailyRatingChange": 2.34
+    },
+    {
+      "position": 3,
+      "playerId": "m44253",
+      "name": "Brenda Foust",
+      "rating": 1451.09,
+      "dailyRatingChange": -2.84
+    }
+  ]
+}

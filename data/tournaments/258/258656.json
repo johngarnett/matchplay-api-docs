@@ -1,0 +1,102 @@
+{
+  "tournamentId": 258656,
+  "name": "Retrocade Weekly 6 round Group Matchplay with 3 round Finals (8/5/26)",
+  "date": "2026-08-06",
+  "locationId": "8746",
+  "locationName": "The Retrocade",
+  "playerCount": 13,
+  "ratingsDate": "2026-08-06",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m8906",
+      "name": "Shawn Scott Smith",
+      "rating": 1580.33,
+      "dailyRatingChange": -1.36
+    },
+    {
+      "position": 1,
+      "playerId": "m19925",
+      "name": "Jonathan Lewis",
+      "rating": 1590.25,
+      "dailyRatingChange": 1.95
+    },
+    {
+      "position": 3,
+      "playerId": "m30441",
+      "name": "Jason Riggs",
+      "rating": 1523.53,
+      "dailyRatingChange": 9.63
+    },
+    {
+      "position": 4,
+      "playerId": "m33484",
+      "name": "Zak S",
+      "rating": 1503.74,
+      "dailyRatingChange": 5.78
+    },
+    {
+      "position": 4,
+      "playerId": "m53048",
+      "name": "Ginny Ostgaard",
+      "rating": 1408.27,
+      "dailyRatingChange": 12.94
+    },
+    {
+      "position": 6,
+      "playerId": "m46134",
+      "name": "Leighton Simpson",
+      "rating": 1503.51,
+      "dailyRatingChange": 0.38
+    },
+    {
+      "position": 7,
+      "playerId": "m22377",
+      "name": "Adam Adkins",
+      "rating": 1445.68,
+      "dailyRatingChange": 2.39
+    },
+    {
+      "position": 7,
+      "playerId": "m51132",
+      "name": "Jon Blalock",
+      "rating": 1535.76,
+      "dailyRatingChange": -9.83
+    },
+    {
+      "position": 9,
+      "playerId": "m26497",
+      "name": "Katie Sampler",
+      "rating": 1323.37,
+      "dailyRatingChange": 4.06
+    },
+    {
+      "position": 10,
+      "playerId": "m54300",
+      "name": "Nathan Sabo",
+      "rating": 1444.83,
+      "dailyRatingChange": null
+    },
+    {
+      "position": 11,
+      "playerId": "m30571",
+      "name": "Preston Powell",
+      "rating": 1485.99,
+      "dailyRatingChange": -14.82
+    },
+    {
+      "position": 11,
+      "playerId": "m580919",
+      "name": "Jessica Miller",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 13,
+      "playerId": "m584871",
+      "name": "BART Hawk",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

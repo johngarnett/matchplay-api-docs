@@ -1,0 +1,239 @@
+{
+  "locationId": "11428",
+  "name": "Granite State Pinball",
+  "address": "Manchester, NH",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 16,
+  "relatedVenues": [
+    {
+      "locationId": "3268",
+      "name": "Ice Ice Arcade",
+      "address": "",
+      "count": 16
+    },
+    {
+      "locationId": "10377",
+      "name": "Capital Pinball",
+      "address": "70 Pembroke Rd, Concord, NH 03301, US",
+      "count": 8
+    },
+    {
+      "locationId": "11386",
+      "name": "Ice Ice Arcade",
+      "address": "68 Litchfield Rd Londonderry NH 03053",
+      "count": 7
+    },
+    {
+      "locationId": "11131",
+      "name": "Pop's Pinball - Deep Cuts",
+      "address": "21 Main St, Medford, MA, 02155, US",
+      "count": 4
+    },
+    {
+      "locationId": "11424",
+      "name": "The Acton Bowladrome (The Drome!)",
+      "address": "257 Main Street, Acton MA 01720",
+      "count": 2
+    },
+    {
+      "locationId": "13334",
+      "name": "BareWolf Brewing",
+      "address": "12 Oakland St, Amesbury, MA 01913, US",
+      "count": 1
+    }
+  ],
+  "players": [
+    {
+      "id": "m1356",
+      "name": "Matt Osborn",
+      "rating": 1532.31,
+      "rd": 38.5,
+      "ratingClass": "B",
+      "homeLocation": "Ice Ice Arcade",
+      "homeLocationId": "11386",
+      "percentile": 59.99441002468906,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m52981",
+      "name": "Frank Deneu",
+      "rating": 1492.33,
+      "rd": 23.66,
+      "ratingClass": "C",
+      "homeLocation": "Ice Ice Arcade",
+      "homeLocationId": "3268",
+      "percentile": 43.94652256952532,
+      "changeDisplay": "+11.3",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m32128",
+      "name": "James Frost",
+      "rating": 1490.59,
+      "rd": 39.45,
+      "ratingClass": "C",
+      "homeLocation": "Capital Pinball",
+      "homeLocationId": "10377",
+      "percentile": 43.23845903013928,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m13846",
+      "name": "Chris Tremblay",
+      "rating": 1482.91,
+      "rd": 40.79,
+      "ratingClass": "C",
+      "homeLocation": "Granite State Pinball",
+      "homeLocationId": "11428",
+      "percentile": 40.08012297945684,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m436",
+      "name": "Steven Amlaw",
+      "rating": 1481.9,
+      "rd": 29.68,
+      "ratingClass": "C",
+      "homeLocation": "Capital Pinball",
+      "homeLocationId": "10377",
+      "percentile": 39.698141333209115,
+      "changeDisplay": "-14.3",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "i106921",
+      "name": "Stephen Halpin",
+      "rating": 1476.8,
+      "rd": 57.5,
+      "ratingClass": "C",
+      "homeLocation": "Granite State Pinball",
+      "homeLocationId": "11428",
+      "percentile": 37.625192155401315,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i100423",
+      "name": "Sean Marquand",
+      "rating": 1469.25,
+      "rd": 32.18,
+      "ratingClass": "C",
+      "homeLocation": "Pop's Pinball - Deep Cuts",
+      "homeLocationId": "11131",
+      "percentile": 34.587972236455954,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m40436",
+      "name": "Michael Sandler",
+      "rating": 1464.35,
+      "rd": 57.2,
+      "ratingClass": "C",
+      "homeLocation": "Granite State Pinball",
+      "homeLocationId": "11428",
+      "percentile": 32.5755811245167,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m27214",
+      "name": "Rhys Wyman",
+      "rating": 1461.48,
+      "rd": 32.12,
+      "ratingClass": "C",
+      "homeLocation": "Ice Ice Arcade",
+      "homeLocationId": "3268",
+      "percentile": 31.518144128196766,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i71333",
+      "name": "Rick McCurdy",
+      "rating": 1385.4,
+      "rd": 45,
+      "ratingClass": "D",
+      "homeLocation": "Granite State Pinball",
+      "homeLocationId": "11428",
+      "percentile": 9.386500209624074,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m54470",
+      "name": "Stacie Spenser",
+      "rating": 1364.47,
+      "rd": 32.11,
+      "ratingClass": "D",
+      "homeLocation": "Ice Ice Arcade",
+      "homeLocationId": "3268",
+      "percentile": 5.9766152699492245,
+      "changeDisplay": "+5.1",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "i106421",
+      "name": "Henry LeClair",
+      "rating": 1358.34,
+      "rd": 42.42,
+      "ratingClass": "D",
+      "homeLocation": "Granite State Pinball",
+      "homeLocationId": "11428",
+      "percentile": 5.231285228490241,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m38449",
+      "name": "Mallory McCullough",
+      "rating": 1325.88,
+      "rd": 36.72,
+      "ratingClass": "D",
+      "homeLocation": "Capital Pinball",
+      "homeLocationId": "10377",
+      "percentile": 2.180090371267527,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i85388",
+      "name": "Kevin Douglas",
+      "rating": null,
+      "rd": null,
+      "ratingClass": "N/A",
+      "homeLocation": "Granite State Pinball",
+      "homeLocationId": "11428",
+      "percentile": null,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i64023",
+      "name": "David Stonely",
+      "rating": null,
+      "rd": null,
+      "ratingClass": "N/A",
+      "homeLocation": "Granite State Pinball",
+      "homeLocationId": "11428",
+      "percentile": null,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i118220",
+      "name": "Marc Chartier",
+      "rating": null,
+      "rd": null,
+      "ratingClass": "N/A",
+      "homeLocation": "Granite State Pinball",
+      "homeLocationId": "11428",
+      "percentile": null,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

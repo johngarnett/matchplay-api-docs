@@ -1,0 +1,233 @@
+{
+  "locationId": "8863",
+  "venueName": "Northstar Pinball Collective",
+  "venueAddress": "5636 West 125th Street, Savage, MN",
+  "tournaments": [
+    {
+      "id": 267095,
+      "name": "NPC Friday Night - 8/14/26",
+      "date": "8/14/2026",
+      "playerCount": 11,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m36610",
+          "name": "Tom Colburn",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m48903",
+          "name": "Dave Prosen",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m46445",
+          "name": "Fred Gams",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m54465",
+          "name": "Dan Mickelson",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 266018,
+      "name": "Finals for NPC Friday Night - 8/7/2026",
+      "date": "8/7/2026",
+      "playerCount": 6,
+      "qualifying": {
+        "id": 265991,
+        "name": "NPC Friday Night - 8/7/26",
+        "playerCount": 19
+      },
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m4138",
+          "name": "Luke Nahorniak",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m51999",
+          "name": "Luke Mutchler",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m35430",
+          "name": "Joe Heil",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m46560",
+          "name": "Jeff Stenzel",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 265064,
+      "name": "Finals for NPC Monthly Matchplay - 8/1/26",
+      "date": "8/1/2026",
+      "playerCount": 8,
+      "qualifying": {
+        "id": 264995,
+        "name": "NPC Monthly Matchplay - 8/1/26",
+        "playerCount": 19
+      },
+      "standings": []
+    },
+    {
+      "id": 264883,
+      "name": "Finals for STERN ARMY - NPC Friday Matchplay - 7/31/26",
+      "date": "7/31/2026",
+      "playerCount": 8,
+      "qualifying": {
+        "id": 264882,
+        "name": "STERN ARMY - NPC Friday Matchplay - 7/31/26",
+        "playerCount": 17
+      },
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m4138",
+          "name": "Luke Nahorniak",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m48903",
+          "name": "Dave Prosen",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m27137",
+          "name": "Steven Skochinski",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m51999",
+          "name": "Luke Mutchler",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 263638,
+      "name": "Finals for NPC Friday Night - 7/24/26",
+      "date": "7/24/2026",
+      "playerCount": 4,
+      "qualifying": {
+        "id": 263637,
+        "name": "NPC Friday Night - 7/24/26",
+        "playerCount": 17
+      },
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m41828",
+          "name": "Paul Tvedt",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m21372",
+          "name": "Andy Fleming",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m46560",
+          "name": "Jeff Stenzel",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m12119",
+          "name": "James Skelley",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 262830,
+      "name": "NPC Sunday Strikes - 7/19/2026",
+      "date": "7/19/2026",
+      "playerCount": 8,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m4138",
+          "name": "Luke Nahorniak",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m36610",
+          "name": "Tom Colburn",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m32030",
+          "name": "Kevin Erickson AZ",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m21456",
+          "name": "Josh Deyo",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 262616,
+      "name": "Brian's First Birthday Tournament @ NPC - FINALS",
+      "date": "7/17/2026",
+      "playerCount": 16,
+      "qualifying": {
+        "id": 262555,
+        "name": "Brian's First Birthday Tournament @ NPC - 7/17/2026",
+        "playerCount": 34
+      },
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m46560",
+          "name": "Jeff Stenzel",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m5091",
+          "name": "Trevor Klungseth",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m4138",
+          "name": "Luke Nahorniak",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m54465",
+          "name": "Dan Mickelson",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

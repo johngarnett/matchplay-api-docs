@@ -1,0 +1,275 @@
+{
+  "locationId": "12662",
+  "name": "Private",
+  "address": "",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 18,
+  "relatedVenues": [
+    {
+      "locationId": "12333",
+      "name": "Chilkoot Charlie's (Koot's)",
+      "address": "2435 Spenard Road, Anchorage, AK 99503, US",
+      "count": 46
+    },
+    {
+      "locationId": "11385",
+      "name": "Arctic Comicon",
+      "address": "700 W. 7th Avenue, Anchorage, AK 99501",
+      "count": 8
+    },
+    {
+      "locationId": "6453",
+      "name": "Millennium Place",
+      "address": "",
+      "count": 3
+    },
+    {
+      "locationId": "7851",
+      "name": "North Star Machines À Piastres",
+      "address": "3908 Boul St-Laurent, Montréal, QC H2W 1Y2, CA",
+      "count": 3
+    },
+    {
+      "locationId": "13569",
+      "name": "Experience Social - Ottawa Pinball Arcade",
+      "address": "250 Greenbank Rd, Ottawa, ON K2H 8P6, CA",
+      "count": 2
+    },
+    {
+      "locationId": "1696",
+      "name": "LPA",
+      "address": "Vårvädersvägen 4i, Lund, Sweden",
+      "count": 1
+    },
+    {
+      "locationId": "10694",
+      "name": "La Société du Pinball",
+      "address": "999 Pierre-Bertrand Blvd Local 200, Québec City, Quebec G1M 2E8",
+      "count": 1
+    },
+    {
+      "locationId": "13159",
+      "name": "Brasserie Dunham",
+      "address": "3809 Rue Principale, Dunham, QC J0E 1M0, CA",
+      "count": 1
+    }
+  ],
+  "players": [
+    {
+      "id": "m19335",
+      "name": "David Pfeiffer",
+      "rating": 1750.97,
+      "rd": 28.02,
+      "ratingClass": "Expert",
+      "homeLocation": "Chilkoot Charlie's (Koot's)",
+      "homeLocationId": "12333",
+      "percentile": 98.8028136209065,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m35883",
+      "name": "Jaron Saturnino",
+      "rating": 1673.87,
+      "rd": 22.31,
+      "ratingClass": "A",
+      "homeLocation": "Millennium Place",
+      "homeLocationId": "6453",
+      "percentile": 94.47524106768529,
+      "changeDisplay": "-9.3",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m31943",
+      "name": "paul swanland",
+      "rating": 1657.07,
+      "rd": 24.79,
+      "ratingClass": "A",
+      "homeLocation": "Chilkoot Charlie's (Koot's)",
+      "homeLocationId": "12333",
+      "percentile": 92.69110728094284,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i141716",
+      "name": "Bryce Brockelmann",
+      "rating": 1637.28,
+      "rd": 28.63,
+      "ratingClass": "A",
+      "homeLocation": "Arctic Comicon",
+      "homeLocationId": "11385",
+      "percentile": 89.89146131271254,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m52640",
+      "name": "Cy Two Elk",
+      "rating": 1626.86,
+      "rd": 27.37,
+      "ratingClass": "A",
+      "homeLocation": "Chilkoot Charlie's (Koot's)",
+      "homeLocationId": "12333",
+      "percentile": 87.9349699538827,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m41567",
+      "name": "brett cranwell",
+      "rating": 1626.49,
+      "rd": 24.58,
+      "ratingClass": "A",
+      "homeLocation": "Chilkoot Charlie's (Koot's)",
+      "homeLocationId": "12333",
+      "percentile": 87.87441188801417,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m58310",
+      "name": "Jack Sjoberg",
+      "rating": 1623.49,
+      "rd": 28.36,
+      "ratingClass": "A",
+      "homeLocation": "Chilkoot Charlie's (Koot's)",
+      "homeLocationId": "12333",
+      "percentile": 87.31541435691992,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m45030",
+      "name": "Matt Reinders",
+      "rating": 1599.42,
+      "rd": 23.97,
+      "ratingClass": "B",
+      "homeLocation": "Chilkoot Charlie's (Koot's)",
+      "homeLocationId": "12333",
+      "percentile": 81.8651884287511,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i132069",
+      "name": "Violet swanland",
+      "rating": 1584.12,
+      "rd": 33.85,
+      "ratingClass": "B",
+      "homeLocation": "Chilkoot Charlie's (Koot's)",
+      "homeLocationId": "12333",
+      "percentile": 77.80313970279965,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m57229",
+      "name": "David Hodnik",
+      "rating": 1577.97,
+      "rd": 29.43,
+      "ratingClass": "B",
+      "homeLocation": "Arctic Comicon",
+      "homeLocationId": "11385",
+      "percentile": 76.00968929053896,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m44676",
+      "name": "Daniel Frashier",
+      "rating": 1548.09,
+      "rd": 29.76,
+      "ratingClass": "B",
+      "homeLocation": "Chilkoot Charlie's (Koot's)",
+      "homeLocationId": "12333",
+      "percentile": 66.00363348395211,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m44191",
+      "name": "Sarah Swanland",
+      "rating": 1484.69,
+      "rd": 26.02,
+      "ratingClass": "C",
+      "homeLocation": "Chilkoot Charlie's (Koot's)",
+      "homeLocationId": "12333",
+      "percentile": 40.755578329529044,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m47726",
+      "name": "Erin Reinders",
+      "rating": 1471.69,
+      "rd": 23.93,
+      "ratingClass": "C",
+      "homeLocation": "Chilkoot Charlie's (Koot's)",
+      "homeLocationId": "12333",
+      "percentile": 35.50565985000233,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i83593",
+      "name": "Alish Slade",
+      "rating": 1439.17,
+      "rd": 51.49,
+      "ratingClass": "C",
+      "homeLocation": "Private",
+      "homeLocationId": "12662",
+      "percentile": 23.44994642940327,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i135896",
+      "name": "Melody burdette",
+      "rating": 1430.87,
+      "rd": 36.84,
+      "ratingClass": "C",
+      "homeLocation": "Private",
+      "homeLocationId": "12662",
+      "percentile": 20.84129128429683,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i114171",
+      "name": "Rosette Cranwell",
+      "rating": 1408.39,
+      "rd": 26.57,
+      "ratingClass": "C",
+      "homeLocation": "Chilkoot Charlie's (Koot's)",
+      "homeLocationId": "12333",
+      "percentile": 14.63641868915079,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i153261",
+      "name": "Townes Two Elk",
+      "rating": 1393.69,
+      "rd": 51.42,
+      "ratingClass": "D",
+      "homeLocation": "Private",
+      "homeLocationId": "12662",
+      "percentile": 11.007593049797364,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i104131",
+      "name": "Leah Fraisher",
+      "rating": 1368.6,
+      "rd": 53.11,
+      "ratingClass": "D",
+      "homeLocation": "Private",
+      "homeLocationId": "12662",
+      "percentile": 6.526296175525224,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

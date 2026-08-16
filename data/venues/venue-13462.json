@@ -1,0 +1,395 @@
+{
+  "locationId": "13462",
+  "name": "Row House Cinemas - Hollywood",
+  "address": "1449 Potomac Ave, Pittsburgh, PA 15216, US",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 27,
+  "relatedVenues": [
+    {
+      "locationId": "9489",
+      "name": "Verdetto’s Bar",
+      "address": "814 Madison Avenue, Pittsburgh, PA 15212, US",
+      "count": 87
+    },
+    {
+      "locationId": "2480",
+      "name": "Pittsburgh Pinball Dojo",
+      "address": "2 N Balph Ave, Bellevue PA 15202",
+      "count": 65
+    },
+    {
+      "locationId": "8271",
+      "name": "Rezzanine Esports",
+      "address": "1025 Washington Pike, Bridgeville, PA 15017, US",
+      "count": 65
+    },
+    {
+      "locationId": "7785",
+      "name": "Helicon Brewing",
+      "address": "102 Union Ave, Oakdale, PA 15071, US",
+      "count": 53
+    },
+    {
+      "locationId": "9215",
+      "name": "Velum Fermentation",
+      "address": "2120 Jane St, Pittsburgh, PA 15203, US",
+      "count": 29
+    },
+    {
+      "locationId": "8555",
+      "name": "Past Times Arcade",
+      "address": "419 N State St, Girard, OH, 44420, US",
+      "count": 6
+    },
+    {
+      "locationId": "12777",
+      "name": "The Church Arcade",
+      "address": "32 S 1st Street, Duquesne PA, 15110",
+      "count": 5
+    },
+    {
+      "locationId": "13248",
+      "name": "North Canton Masonic Temple",
+      "address": "805 Orchard Ave NE, North Canton, OH 44720, US",
+      "count": 5
+    },
+    {
+      "locationId": "13441",
+      "name": "Tilt Amusment Barn",
+      "address": "3087  russell rd, Ostrander Oh 43061",
+      "count": 5
+    },
+    {
+      "locationId": "9726",
+      "name": "Carpool's Proving Grounds",
+      "address": "1250 N White Chapel Blvd, Southlake, TX 76092",
+      "count": 4
+    }
+  ],
+  "players": [
+    {
+      "id": "m5689",
+      "name": "Jared Schmidt",
+      "rating": 1751.83,
+      "rd": 19.48,
+      "ratingClass": "Expert",
+      "homeLocation": "Pittsburgh Pinball Dojo",
+      "homeLocationId": "2480",
+      "percentile": 98.83076349746122,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m30142",
+      "name": "Billy Wasko",
+      "rating": 1727.76,
+      "rd": 23.75,
+      "ratingClass": "Expert",
+      "homeLocation": "Helicon Brewing",
+      "homeLocationId": "7785",
+      "percentile": 98.0528252666884,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m5301",
+      "name": "Pete Hendricks",
+      "rating": 1712.39,
+      "rd": 23.65,
+      "ratingClass": "Expert",
+      "homeLocation": "Helicon Brewing",
+      "homeLocationId": "7785",
+      "percentile": 97.28420366143384,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m16262",
+      "name": "Dave Lancaster",
+      "rating": 1702.17,
+      "rd": 22.47,
+      "ratingClass": "Expert",
+      "homeLocation": "Verdetto’s Bar",
+      "homeLocationId": "9489",
+      "percentile": 96.72520613033959,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m10355",
+      "name": "Gary Hartz",
+      "rating": 1696.72,
+      "rd": 20.1,
+      "ratingClass": "A",
+      "homeLocation": "Rezzanine Esports",
+      "homeLocationId": "8271",
+      "percentile": 96.36651604788746,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m15939",
+      "name": "Greg DeFeo",
+      "rating": 1689.11,
+      "rd": 21.46,
+      "ratingClass": "A",
+      "homeLocation": "Rezzanine Esports",
+      "homeLocationId": "8271",
+      "percentile": 95.87273489542088,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m32320",
+      "name": "Todd Williams",
+      "rating": 1685.27,
+      "rd": 24.86,
+      "ratingClass": "A",
+      "homeLocation": "Pittsburgh Pinball Dojo",
+      "homeLocationId": "2480",
+      "percentile": 95.54199468952346,
+      "changeDisplay": "-1.7",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m22114",
+      "name": "Clark McCoy",
+      "rating": 1682.27,
+      "rd": 22.31,
+      "ratingClass": "A",
+      "homeLocation": "Carpool's Proving Grounds",
+      "homeLocationId": "9726",
+      "percentile": 95.30907905156752,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m2750",
+      "name": "Tim Tournay",
+      "rating": 1680.72,
+      "rd": 26.24,
+      "ratingClass": "A",
+      "homeLocation": "Verdetto’s Bar",
+      "homeLocationId": "9489",
+      "percentile": 95.20193785810778,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m9803",
+      "name": "Dave DeNardo",
+      "rating": 1641.33,
+      "rd": 26.98,
+      "ratingClass": "A",
+      "homeLocation": "Pittsburgh Pinball Dojo",
+      "homeLocationId": "2480",
+      "percentile": 90.57623328830297,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m30825",
+      "name": "Tony Christman",
+      "rating": 1636.28,
+      "rd": 20.61,
+      "ratingClass": "A",
+      "homeLocation": "Verdetto’s Bar",
+      "homeLocationId": "9489",
+      "percentile": 89.70047048958867,
+      "changeDisplay": "-2.9",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m16031",
+      "name": "John Thwaite",
+      "rating": 1614.88,
+      "rd": 21.88,
+      "ratingClass": "A",
+      "homeLocation": "Pittsburgh Pinball Dojo",
+      "homeLocationId": "2480",
+      "percentile": 85.54525550845484,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m16891",
+      "name": "Evan Callahan",
+      "rating": 1606.02,
+      "rd": 28.83,
+      "ratingClass": "A",
+      "homeLocation": "Pittsburgh Pinball Dojo",
+      "homeLocationId": "2480",
+      "percentile": 83.43969814133321,
+      "changeDisplay": "+7.8",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m8600",
+      "name": "Eric Mandel",
+      "rating": 1592.04,
+      "rd": 29.99,
+      "ratingClass": "B",
+      "homeLocation": "Rezzanine Esports",
+      "homeLocationId": "8271",
+      "percentile": 80.03447151441748,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m35832",
+      "name": "Jonathan Edwards",
+      "rating": 1579.79,
+      "rd": 32,
+      "ratingClass": "B",
+      "homeLocation": "Pittsburgh Pinball Dojo",
+      "homeLocationId": "2480",
+      "percentile": 76.55471188335585,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m21213",
+      "name": "Michael Sakowitz",
+      "rating": 1575.64,
+      "rd": 31.74,
+      "ratingClass": "B",
+      "homeLocation": "Rezzanine Esports",
+      "homeLocationId": "8271",
+      "percentile": 75.34820887874412,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m74",
+      "name": "Doug Polka",
+      "rating": 1555.85,
+      "rd": 48.3,
+      "ratingClass": "B",
+      "homeLocation": "Row House Cinemas - Hollywood",
+      "homeLocationId": "13462",
+      "percentile": 68.97563702426982,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m10590",
+      "name": "tia roberts",
+      "rating": 1531.16,
+      "rd": 24.28,
+      "ratingClass": "B",
+      "homeLocation": "Verdetto’s Bar",
+      "homeLocationId": "9489",
+      "percentile": 59.49597055946336,
+      "changeDisplay": "+1.9",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m47957",
+      "name": "Kevin Funnell",
+      "rating": 1531.03,
+      "rd": 20.13,
+      "ratingClass": "B",
+      "homeLocation": "Past Times Arcade",
+      "homeLocationId": "8555",
+      "percentile": 59.44938743187218,
+      "changeDisplay": "+3.3",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m25615",
+      "name": "Derek Anderson",
+      "rating": 1530.32,
+      "rd": 25.11,
+      "ratingClass": "B",
+      "homeLocation": "Pittsburgh Pinball Dojo",
+      "homeLocationId": "2480",
+      "percentile": 59.16988866632506,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m48546",
+      "name": "Saxony Weil",
+      "rating": 1496.93,
+      "rd": 24.08,
+      "ratingClass": "C",
+      "homeLocation": "Verdetto’s Bar",
+      "homeLocationId": "9489",
+      "percentile": 45.85177248800484,
+      "changeDisplay": "-7.3",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m6808",
+      "name": "Allison Thrower",
+      "rating": 1475.02,
+      "rd": 26.11,
+      "ratingClass": "C",
+      "homeLocation": "Velum Fermentation",
+      "homeLocationId": "9215",
+      "percentile": 36.89383705221969,
+      "changeDisplay": "-8.1",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m10547",
+      "name": "Bill Agnew",
+      "rating": 1469.64,
+      "rd": 34.72,
+      "ratingClass": "C",
+      "homeLocation": "Row House Cinemas - Hollywood",
+      "homeLocationId": "13462",
+      "percentile": 34.73237993198863,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m60821",
+      "name": "Jack Boettger",
+      "rating": 1449.63,
+      "rd": 67.85,
+      "ratingClass": "C",
+      "homeLocation": "Row House Cinemas - Hollywood",
+      "homeLocationId": "13462",
+      "percentile": 27.027530628406392,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m45477",
+      "name": "Xander Hendrickson",
+      "rating": 1396.76,
+      "rd": 40.99,
+      "ratingClass": "D",
+      "homeLocation": "Row House Cinemas - Hollywood",
+      "homeLocationId": "13462",
+      "percentile": 11.70168165090604,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i128532",
+      "name": "Matt Hyslop",
+      "rating": 1396.1,
+      "rd": 46.08,
+      "ratingClass": "D",
+      "homeLocation": "Row House Cinemas - Hollywood",
+      "homeLocationId": "13462",
+      "percentile": 11.552615642614244,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i103856",
+      "name": "Keith Christman",
+      "rating": 1392.31,
+      "rd": 54.26,
+      "ratingClass": "D",
+      "homeLocation": "Row House Cinemas - Hollywood",
+      "homeLocationId": "13462",
+      "percentile": 10.718777658732007,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "tournamentId": 248640,
+  "name": "8-Bit Beans Summer Series 2026 #8",
+  "date": "2026-07-22",
+  "locationId": "10209",
+  "locationName": "8-Bit Beans",
+  "playerCount": 10,
+  "ratingsDate": "2026-07-22",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "i129412",
+      "name": "Deirdre Skye",
+      "rating": 1623.76,
+      "dailyRatingChange": 0.42
+    },
+    {
+      "position": 2,
+      "playerId": "i137203",
+      "name": "Stacey Cooper",
+      "rating": 1539.47,
+      "dailyRatingChange": 7.41
+    },
+    {
+      "position": 3,
+      "playerId": "m48883",
+      "name": "Chase Ivany",
+      "rating": 1581.34,
+      "dailyRatingChange": 0.75
+    },
+    {
+      "position": 4,
+      "playerId": "i147148",
+      "name": "Brian Phillips",
+      "rating": 1535.19,
+      "dailyRatingChange": 2.8
+    },
+    {
+      "position": 5,
+      "playerId": "i151446",
+      "name": "Matt Rauch",
+      "rating": 1469.45,
+      "dailyRatingChange": 3.31
+    },
+    {
+      "position": 6,
+      "playerId": "m504144",
+      "name": "Dalton Young",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 7,
+      "playerId": "m568214",
+      "name": "Will Squires",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 8,
+      "playerId": "m48948",
+      "name": "Mark Anderson",
+      "rating": 1536.4,
+      "dailyRatingChange": -9.28
+    },
+    {
+      "position": 9,
+      "playerId": "m578541",
+      "name": "Ian Castro",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 10,
+      "playerId": "i133079",
+      "name": "Rob Hartwig",
+      "rating": 1390.42,
+      "dailyRatingChange": -11.87
+    }
+  ]
+}

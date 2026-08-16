@@ -1,0 +1,64 @@
+{
+  "locationId": "13829",
+  "venueName": "Ugly Dog Distillery",
+  "venueAddress": "218 S Main St, Chelsea, MI 48118",
+  "tournaments": [
+    {
+      "id": 266434,
+      "name": "Ugly Dog Distillery Fair Strikes (clone to test)",
+      "date": "8/10/2026",
+      "playerCount": 32,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "p14501",
+          "name": "Drake Weglarz",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 1,
+          "playerId": "p14490",
+          "name": "Andrew Rosa",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 1,
+          "playerId": "m794",
+          "name": "Amanda Grabowski",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 1,
+          "playerId": "p29857",
+          "name": "CJ Baffy",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 1,
+          "playerId": "m6931",
+          "name": "Angus Werley",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 1,
+          "playerId": "p14485",
+          "name": "Derek Fugate",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 1,
+          "playerId": "m1980",
+          "name": "Dustin Frigy",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 1,
+          "playerId": "i40785",
+          "name": "Carlos Gomes",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "locationId": "9838",
+  "venueName": "1UP Arcade & Pub",
+  "venueAddress": "22 Brinkerhoff St, Plattsburgh, NY 12901, US",
+  "tournaments": [
+    {
+      "id": 259620,
+      "name": "Flip frenzy @ 1up Arcade and Bar 08/02/2026",
+      "date": "8/2/2026",
+      "playerCount": 6,
+      "qualifying": {
+        "id": 265154,
+        "name": "Flip frenzy @ 1up Arcade and Bar 08/02/2026 (clone)",
+        "playerCount": 6
+      },
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "i131665",
+          "name": "Phil Badger",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m49972",
+          "name": "Carl Mailloux",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m6855",
+          "name": "Mike Oehler",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "i131673",
+          "name": "Brandon Bush",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

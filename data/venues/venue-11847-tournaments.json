@@ -1,0 +1,46 @@
+{
+  "locationId": "11847",
+  "venueName": "Troy",
+  "venueAddress": "",
+  "tournaments": [
+    {
+      "id": 262373,
+      "name": "Pfalzliga Spieltag Juli 2026",
+      "date": "7/18/2026",
+      "playerCount": 9,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m597",
+          "name": "Martin Zawar",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m970",
+          "name": "Sacha Grebil",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m9902",
+          "name": "Alex Reihle",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "i82682",
+          "name": "Robin Weber",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m13242",
+          "name": "Claudia Chelius",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

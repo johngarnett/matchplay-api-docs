@@ -1,0 +1,45 @@
+{
+  "communityId": "47",
+  "locations": [
+    {
+      "id": "11430",
+      "name": "Brothers Beer & Juke Joint BBQ | Mount Eden",
+      "address": "5 Akiraho St, Auckland, Auckland 1024, NZ",
+      "tournaments": [
+        {
+          "id": 266892,
+          "name": "Finals for Max Matchplay at Brothers! August 2026",
+          "date": "8/13/2026",
+          "playerCount": 4,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m13041",
+              "name": "Laurence Smith",
+              "isCommunityMember": false
+            },
+            {
+              "position": 2,
+              "playerId": "m10593",
+              "name": "Craig Easson",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m22235",
+              "name": "Nikolas Busljeta",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m3030",
+              "name": "Danielle Peck",
+              "isCommunityMember": true
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

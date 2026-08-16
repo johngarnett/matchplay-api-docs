@@ -1,0 +1,144 @@
+{
+  "tournamentId": 263290,
+  "name": "Double Tap Iowa City Weekly League #7",
+  "date": "2026-07-23",
+  "locationId": "13167",
+  "locationName": "Tap Tap | Double Tap Beercade",
+  "playerCount": 19,
+  "ratingsDate": "2026-07-23",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m56418",
+      "name": "Todd A. Miller",
+      "rating": 1610.29,
+      "dailyRatingChange": 10.35
+    },
+    {
+      "position": 2,
+      "playerId": "m12080",
+      "name": "Patrick Rhomberg",
+      "rating": 1751.25,
+      "dailyRatingChange": -1.81
+    },
+    {
+      "position": 3,
+      "playerId": "m51611",
+      "name": "Sam Wiley",
+      "rating": 1552.52,
+      "dailyRatingChange": 10.71
+    },
+    {
+      "position": 4,
+      "playerId": "i110183",
+      "name": "Ryan Holtkamp",
+      "rating": 1533,
+      "dailyRatingChange": 17.34
+    },
+    {
+      "position": 4,
+      "playerId": "m56415",
+      "name": "Ben Stupar",
+      "rating": 1648.35,
+      "dailyRatingChange": -1.91
+    },
+    {
+      "position": 6,
+      "playerId": "m57256",
+      "name": "Conor Schley",
+      "rating": 1528.63,
+      "dailyRatingChange": 5.88
+    },
+    {
+      "position": 7,
+      "playerId": "i137695",
+      "name": "Josh Hutchison",
+      "rating": 1590.25,
+      "dailyRatingChange": 5.59
+    },
+    {
+      "position": 8,
+      "playerId": "m47200",
+      "name": "Ryan Jerred",
+      "rating": 1539.26,
+      "dailyRatingChange": 4.02
+    },
+    {
+      "position": 8,
+      "playerId": "i146475",
+      "name": "Alex Liebrecht",
+      "rating": 1447.14,
+      "dailyRatingChange": 60.28
+    },
+    {
+      "position": 10,
+      "playerId": "m578719",
+      "name": "Luca Bosco - IA",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 11,
+      "playerId": "i157126",
+      "name": "Ben Holm",
+      "rating": 1442.83,
+      "dailyRatingChange": 6.95
+    },
+    {
+      "position": 12,
+      "playerId": "m47128",
+      "name": "Caleb Weber",
+      "rating": 1458.3,
+      "dailyRatingChange": 0.29
+    },
+    {
+      "position": 13,
+      "playerId": "m39366",
+      "name": "Harry Nelsen",
+      "rating": 1632.55,
+      "dailyRatingChange": -15.32
+    },
+    {
+      "position": 13,
+      "playerId": "m57235",
+      "name": "Jeff Smith IA",
+      "rating": 1428.01,
+      "dailyRatingChange": -1.39
+    },
+    {
+      "position": 15,
+      "playerId": "i130859",
+      "name": "Garrett Naughton",
+      "rating": 1370.42,
+      "dailyRatingChange": null
+    },
+    {
+      "position": 16,
+      "playerId": "m46348",
+      "name": "Heather Soseman",
+      "rating": 1465.28,
+      "dailyRatingChange": -13.4
+    },
+    {
+      "position": 17,
+      "playerId": "i132544",
+      "name": "Ben Dillon",
+      "rating": 1372.41,
+      "dailyRatingChange": -17.51
+    },
+    {
+      "position": 17,
+      "playerId": "m580904",
+      "name": "Ellie Morman - IA",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 19,
+      "playerId": "i118004",
+      "name": "Josh Ramos",
+      "rating": 1478.92,
+      "dailyRatingChange": -11.48
+    }
+  ]
+}

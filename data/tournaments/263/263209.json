@@ -1,0 +1,39 @@
+{
+  "tournamentId": 263209,
+  "name": "Finals for Tuesday Night at the Vault: July Week 3",
+  "date": "2026-07-22",
+  "locationId": "10312",
+  "locationName": "Morristown Game Vault",
+  "playerCount": 4,
+  "ratingsDate": "2026-07-22",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m39126",
+      "name": "Spencer McGovern",
+      "rating": 1568.44,
+      "dailyRatingChange": 9.04
+    },
+    {
+      "position": 2,
+      "playerId": "m394",
+      "name": "Joshua Senzer",
+      "rating": 1567.57,
+      "dailyRatingChange": 11.46
+    },
+    {
+      "position": 3,
+      "playerId": "m35537",
+      "name": "Will Gordon",
+      "rating": 1660.16,
+      "dailyRatingChange": -4.86
+    },
+    {
+      "position": 4,
+      "playerId": "m39514",
+      "name": "Gabriel Julio",
+      "rating": 1514.2,
+      "dailyRatingChange": 1.92
+    }
+  ]
+}

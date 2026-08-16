@@ -1,0 +1,329 @@
+{
+  "locationId": "10920",
+  "name": "Lowertown Brewery",
+  "address": "73 York St, Ottawa, Ontario K1N 5T2, CA",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 22,
+  "relatedVenues": [
+    {
+      "locationId": "13569",
+      "name": "Experience Social - Ottawa Pinball Arcade",
+      "address": "250 Greenbank Rd, Ottawa, ON K2H 8P6, CA",
+      "count": 24
+    },
+    {
+      "locationId": "123",
+      "name": "House of TARG",
+      "address": "1077 Bank St, Ottawa, ON K1S, Canada",
+      "count": 17
+    },
+    {
+      "locationId": "10594",
+      "name": "House Of TARG",
+      "address": "1077 Bank St, Ottawa, ON K1S 3W9, CA",
+      "count": 15
+    },
+    {
+      "locationId": "7967",
+      "name": "The Ottawa Pinball Arcade (The Neighborhood Pub)",
+      "address": "2559 Baseline Road, Ottawa, ON K2H 7B3, CA",
+      "count": 12
+    },
+    {
+      "locationId": "8271",
+      "name": "Rezzanine Esports",
+      "address": "1025 Washington Pike, Bridgeville, PA 15017, US",
+      "count": 2
+    },
+    {
+      "locationId": "9650",
+      "name": "Cabin Fever",
+      "address": "1669 Bloor St W, Toronto, ON M6P 1A6, CA",
+      "count": 2
+    },
+    {
+      "locationId": "11302",
+      "name": "Iceberg Arcade",
+      "address": "Sych Drywall, 8 Don Valley Parkway, Sunnyside, Manitoba",
+      "count": 2
+    },
+    {
+      "locationId": "11503",
+      "name": "PINFEST 2025",
+      "address": "Great Northern Exhibition - 2220 Fairgrounds Rd. Stayner, Ontario L0M 1S0",
+      "count": 2
+    },
+    {
+      "locationId": "13687",
+      "name": "Kid City Archibald",
+      "address": "550 Archibald St, Winnipeg, MB R2J 0X7",
+      "count": 1
+    }
+  ],
+  "players": [
+    {
+      "id": "m15626",
+      "name": "Carter Casselman",
+      "rating": 1813.72,
+      "rd": 20.3,
+      "ratingClass": "Master",
+      "homeLocation": "Experience Social - Ottawa Pinball Arcade",
+      "homeLocationId": "13569",
+      "percentile": 99.66925979410257,
+      "changeDisplay": "-7.7",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m7617",
+      "name": "Mike Casselman",
+      "rating": 1707.94,
+      "rd": 21.84,
+      "ratingClass": "Expert",
+      "homeLocation": "Experience Social - Ottawa Pinball Arcade",
+      "homeLocationId": "13569",
+      "percentile": 97.06992127451437,
+      "changeDisplay": "+0.6",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m27593",
+      "name": "LC Buckingham",
+      "rating": 1638.14,
+      "rd": 30.2,
+      "ratingClass": "A",
+      "homeLocation": "Lowertown Brewery",
+      "homeLocationId": "10920",
+      "percentile": 90.02655238272698,
+      "changeDisplay": "-2.0",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "i11260",
+      "name": "Geoff Parr",
+      "rating": 1636.84,
+      "rd": 42.6,
+      "ratingClass": "A",
+      "homeLocation": "House of TARG",
+      "homeLocationId": "123",
+      "percentile": 89.82158662132575,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m6355",
+      "name": "Steve Tremblay",
+      "rating": 1616.79,
+      "rd": 22.69,
+      "ratingClass": "A",
+      "homeLocation": "Experience Social - Ottawa Pinball Arcade",
+      "homeLocationId": "13569",
+      "percentile": 85.9598453440164,
+      "changeDisplay": "-16.6",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m12648",
+      "name": "Caitlyn Pascal",
+      "rating": 1613.6,
+      "rd": 41.52,
+      "ratingClass": "A",
+      "homeLocation": "Lowertown Brewery",
+      "homeLocationId": "10920",
+      "percentile": 85.22383192807565,
+      "changeDisplay": "-10.2",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m9492",
+      "name": "Gabi Antaya",
+      "rating": 1585.63,
+      "rd": 26.86,
+      "ratingClass": "B",
+      "homeLocation": "Lowertown Brewery",
+      "homeLocationId": "10920",
+      "percentile": 78.23636278939769,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m8617",
+      "name": "Alisa McClain",
+      "rating": 1576.42,
+      "rd": 28.5,
+      "ratingClass": "B",
+      "homeLocation": "Lowertown Brewery",
+      "homeLocationId": "10920",
+      "percentile": 75.61373270601388,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m5481",
+      "name": "Danielle Laverdure",
+      "rating": 1568.81,
+      "rd": 23,
+      "ratingClass": "B",
+      "homeLocation": "Experience Social - Ottawa Pinball Arcade",
+      "homeLocationId": "13569",
+      "percentile": 73.1215353798854,
+      "changeDisplay": "+2.7",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m33494",
+      "name": "Will Johnson",
+      "rating": 1542.81,
+      "rd": 31.37,
+      "ratingClass": "B",
+      "homeLocation": "The Ottawa Pinball Arcade (The Neighborhood Pub)",
+      "homeLocationId": "7967",
+      "percentile": 64.18223319513672,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m14750",
+      "name": "Heather Ryerse",
+      "rating": 1508.3,
+      "rd": 25.76,
+      "ratingClass": "B",
+      "homeLocation": "Lowertown Brewery",
+      "homeLocationId": "10920",
+      "percentile": 50.57530162575116,
+      "changeDisplay": "+6.3",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m17823",
+      "name": "Jeanne Klodt",
+      "rating": 1500.4,
+      "rd": 30.68,
+      "ratingClass": "B",
+      "homeLocation": "Lowertown Brewery",
+      "homeLocationId": "10920",
+      "percentile": 47.235291377463085,
+      "changeDisplay": "+4.5",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m49601",
+      "name": "Jon Gilbert",
+      "rating": 1488.7,
+      "rd": 35.58,
+      "ratingClass": "C",
+      "homeLocation": "The Ottawa Pinball Arcade (The Neighborhood Pub)",
+      "homeLocationId": "7967",
+      "percentile": 42.437229235570875,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m40932",
+      "name": "Sara Gatien",
+      "rating": 1478.15,
+      "rd": 39.77,
+      "ratingClass": "C",
+      "homeLocation": "Lowertown Brewery",
+      "homeLocationId": "10920",
+      "percentile": 38.137606558904366,
+      "changeDisplay": "+5.7",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m27306",
+      "name": "Pamela Taplay",
+      "rating": 1443.86,
+      "rd": 30.08,
+      "ratingClass": "C",
+      "homeLocation": "House Of TARG",
+      "homeLocationId": "10594",
+      "percentile": 25.04308939302185,
+      "changeDisplay": "-3.5",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m14751",
+      "name": "Christine Ellsworth",
+      "rating": 1440.42,
+      "rd": 51.54,
+      "ratingClass": "C",
+      "homeLocation": "Lowertown Brewery",
+      "homeLocationId": "10920",
+      "percentile": 23.83658638841012,
+      "changeDisplay": "+5.6",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m32969",
+      "name": "Ryan Spence",
+      "rating": 1410.92,
+      "rd": 36.35,
+      "ratingClass": "C",
+      "homeLocation": "House of TARG",
+      "homeLocationId": "123",
+      "percentile": 15.344482228536824,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i147396",
+      "name": "Lynn Lavergne",
+      "rating": 1396,
+      "rd": 57.46,
+      "ratingClass": "D",
+      "homeLocation": "House of TARG",
+      "homeLocationId": "123",
+      "percentile": 11.533982391577771,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m31213",
+      "name": "Anne-Louise Colligan",
+      "rating": 1393.95,
+      "rd": 38.37,
+      "ratingClass": "D",
+      "homeLocation": "House of TARG",
+      "homeLocationId": "123",
+      "percentile": 11.077467741184144,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i126249",
+      "name": "Sarah Wickler",
+      "rating": 1370.12,
+      "rd": 69.58,
+      "ratingClass": "D",
+      "homeLocation": "Lowertown Brewery",
+      "homeLocationId": "10920",
+      "percentile": 6.712628685889971,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i76072",
+      "name": "Alexis Glaab",
+      "rating": 1322.94,
+      "rd": 54.67,
+      "ratingClass": "D",
+      "homeLocation": "Lowertown Brewery",
+      "homeLocationId": "10920",
+      "percentile": 2.007732799180137,
+      "changeDisplay": "-11.2",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "i139086",
+      "name": "Lain Umbra",
+      "rating": null,
+      "rd": null,
+      "ratingClass": "N/A",
+      "homeLocation": "House Of TARG",
+      "homeLocationId": "10594",
+      "percentile": null,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

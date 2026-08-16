@@ -1,0 +1,137 @@
+{
+  "tournamentId": 253661,
+  "name": "Special When Lit - 3-Strike Knockout Tournament",
+  "date": "2026-07-31",
+  "locationId": "9714",
+  "locationName": "Special When Lit Pinball",
+  "playerCount": 18,
+  "ratingsDate": "2026-07-31",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m18554",
+      "name": "Kristen Whitby",
+      "rating": 1558.36,
+      "dailyRatingChange": 9.58
+    },
+    {
+      "position": 2,
+      "playerId": "m23091",
+      "name": "Nick Elliott",
+      "rating": 1651.77,
+      "dailyRatingChange": 1.14
+    },
+    {
+      "position": 3,
+      "playerId": "m29558",
+      "name": "Edward Schmucker",
+      "rating": 1584.61,
+      "dailyRatingChange": 5.29
+    },
+    {
+      "position": 3,
+      "playerId": "m14940",
+      "name": "Derek Jennings",
+      "rating": 1741.55,
+      "dailyRatingChange": -1.98
+    },
+    {
+      "position": 5,
+      "playerId": "m58759",
+      "name": "Jeff Compton",
+      "rating": 1549.05,
+      "dailyRatingChange": 4.51
+    },
+    {
+      "position": 6,
+      "playerId": "m35230",
+      "name": "Joseph Sachs",
+      "rating": 1590.27,
+      "dailyRatingChange": 1.2
+    },
+    {
+      "position": 6,
+      "playerId": "m550418",
+      "name": "Chris Vannote",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 8,
+      "playerId": "m428610",
+      "name": "Ben Rector",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 8,
+      "playerId": "m56494",
+      "name": "Joseph Rembecki",
+      "rating": 1668.24,
+      "dailyRatingChange": -3.17
+    },
+    {
+      "position": 10,
+      "playerId": "m35630",
+      "name": "Frank Bartoletta",
+      "rating": 1456.09,
+      "dailyRatingChange": -0.36
+    },
+    {
+      "position": 10,
+      "playerId": "m46017",
+      "name": "Nicholas Theno",
+      "rating": 1475.1,
+      "dailyRatingChange": -1.21
+    },
+    {
+      "position": 10,
+      "playerId": "m575215",
+      "name": "Doug Turnbull",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 13,
+      "playerId": "m56364",
+      "name": "Jill Smith",
+      "rating": 1420.09,
+      "dailyRatingChange": -0.64
+    },
+    {
+      "position": 13,
+      "playerId": "m575197",
+      "name": "Jeana Gump",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 13,
+      "playerId": "m49461",
+      "name": "Sydney Rowbottom",
+      "rating": 1408.73,
+      "dailyRatingChange": -2.59
+    },
+    {
+      "position": 13,
+      "playerId": "m49463",
+      "name": "Novak Radanovic",
+      "rating": 1452.16,
+      "dailyRatingChange": -7.02
+    },
+    {
+      "position": 17,
+      "playerId": "m575214",
+      "name": "Jeffrey Beach",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 17,
+      "playerId": "i162095",
+      "name": "Ryan Heckel",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

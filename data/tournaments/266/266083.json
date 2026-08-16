@@ -1,0 +1,123 @@
+{
+  "tournamentId": 266083,
+  "name": "Saturday Classics Clash @ OLPH - 8 AUG",
+  "date": "2026-08-08",
+  "locationId": "11814",
+  "locationName": "Our Lady of Perpetual Hops",
+  "playerCount": 16,
+  "ratingsDate": "2026-08-08",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m10080",
+      "name": "Tim Ellis",
+      "rating": 1692.05,
+      "dailyRatingChange": -2.17
+    },
+    {
+      "position": 2,
+      "playerId": "m41285",
+      "name": "Jennifer Huber",
+      "rating": 1456.33,
+      "dailyRatingChange": 29.86
+    },
+    {
+      "position": 3,
+      "playerId": "m25122",
+      "name": "David Rowland",
+      "rating": 1598.38,
+      "dailyRatingChange": 7.15
+    },
+    {
+      "position": 4,
+      "playerId": "m35158",
+      "name": "Adam Faris",
+      "rating": 1512.5,
+      "dailyRatingChange": 3.72
+    },
+    {
+      "position": 5,
+      "playerId": "m48897",
+      "name": "Nick Thornsberry",
+      "rating": 1452.51,
+      "dailyRatingChange": 8.56
+    },
+    {
+      "position": 6,
+      "playerId": "m35337",
+      "name": "Quentin Cordy",
+      "rating": 1658.93,
+      "dailyRatingChange": -11.76
+    },
+    {
+      "position": 6,
+      "playerId": "m10877",
+      "name": "Brian Marks",
+      "rating": 1527.17,
+      "dailyRatingChange": 0.19
+    },
+    {
+      "position": 8,
+      "playerId": "m55284",
+      "name": "Jason McKay IN",
+      "rating": 1514.3,
+      "dailyRatingChange": 14.67
+    },
+    {
+      "position": 8,
+      "playerId": "m40715",
+      "name": "Steve Baize",
+      "rating": 1549.05,
+      "dailyRatingChange": 0.12
+    },
+    {
+      "position": 10,
+      "playerId": "m12735",
+      "name": "Mike Drees",
+      "rating": 1469.53,
+      "dailyRatingChange": -5.56
+    },
+    {
+      "position": 10,
+      "playerId": "m35428",
+      "name": "Jack Briles",
+      "rating": 1412.31,
+      "dailyRatingChange": 1.53
+    },
+    {
+      "position": 12,
+      "playerId": "m23027",
+      "name": "Rob DeHoyos",
+      "rating": 1484.75,
+      "dailyRatingChange": -1.87
+    },
+    {
+      "position": 13,
+      "playerId": "m62737",
+      "name": "Hagan Alsept",
+      "rating": 1474.17,
+      "dailyRatingChange": null
+    },
+    {
+      "position": 14,
+      "playerId": "m35426",
+      "name": "George Melton",
+      "rating": 1399.63,
+      "dailyRatingChange": 6.17
+    },
+    {
+      "position": 15,
+      "playerId": "m62738",
+      "name": "Cathy Alsept",
+      "rating": 1431.64,
+      "dailyRatingChange": null
+    },
+    {
+      "position": 16,
+      "playerId": "m11283",
+      "name": "Dylan Schutz",
+      "rating": 1509.56,
+      "dailyRatingChange": -26.48
+    }
+  ]
+}

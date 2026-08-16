@@ -1,0 +1,39 @@
+{
+  "tournamentId": 265906,
+  "name": "Finals for the pinball capital/chicago matchplay 08/06",
+  "date": "2026-08-07",
+  "locationId": "13170",
+  "locationName": "The Pinball Capital",
+  "playerCount": 4,
+  "ratingsDate": "2026-08-07",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m5654",
+      "name": "Brad Smith US",
+      "rating": 1794.63,
+      "dailyRatingChange": 14.9
+    },
+    {
+      "position": 2,
+      "playerId": "m60840",
+      "name": "Scott Heller",
+      "rating": 1582.99,
+      "dailyRatingChange": -4.54
+    },
+    {
+      "position": 3,
+      "playerId": "m585034",
+      "name": "matt riccio",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 4,
+      "playerId": "m61602",
+      "name": "Andrew Rhea",
+      "rating": 1480.21,
+      "dailyRatingChange": 21.43
+    }
+  ]
+}

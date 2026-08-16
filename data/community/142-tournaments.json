@@ -1,0 +1,118 @@
+{
+  "communityId": "142",
+  "locations": [
+    {
+      "id": "9809",
+      "name": "Barcade",
+      "address": "1114 Frankford Ave, Philadelphia, PA 19125, US",
+      "tournaments": [
+        {
+          "id": 266624,
+          "name": "Belles and Chimes Philly August League Night",
+          "date": "8/11/2026",
+          "playerCount": 8,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m26425",
+              "name": "Erica Thomas",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "p504190",
+              "name": "Jess Matthews",
+              "isCommunityMember": false
+            },
+            {
+              "position": 3,
+              "playerId": "p427311",
+              "name": "Mira Gardner",
+              "isCommunityMember": false
+            },
+            {
+              "position": 4,
+              "playerId": "i46365",
+              "name": "Caitlin Reed",
+              "isCommunityMember": true
+            }
+          ]
+        },
+        {
+          "id": 264073,
+          "name": "Philly Pinball Club: 2026 Summer Season #3",
+          "date": "8/10/2026",
+          "playerCount": 27,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m6017",
+              "name": "Schu .",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m29321",
+              "name": "Alistair Wright",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m32503",
+              "name": "Lain Kaplan",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m34321",
+              "name": "Erin Y",
+              "isCommunityMember": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7453",
+      "name": "Game Gallery",
+      "address": "140 N Pine St, Langhorne, PA 19047, USA",
+      "tournaments": [
+        {
+          "id": 267097,
+          "name": "Game Gallery | August KO #1",
+          "date": "8/14/2026",
+          "playerCount": 12,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m32480",
+              "name": "Matthew Hiatt",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "p511805",
+              "name": "john flounders",
+              "isCommunityMember": false
+            },
+            {
+              "position": 3,
+              "playerId": "m39210",
+              "name": "Ben Sleek",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "i154492",
+              "name": "Jason Mazzarella",
+              "isCommunityMember": true
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,202 @@
+{
+  "locationId": "11466",
+  "venueName": "UPSIDE on Moore",
+  "venueAddress": "1700 N Moore St level m1, Arlington, VA 22209",
+  "tournaments": [
+    {
+      "id": 267079,
+      "name": "Transformers Launch Party Flip Frenzy",
+      "date": "8/14/2026",
+      "playerCount": 32,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m1397",
+          "name": "Will Krusa",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m23312",
+          "name": "Joseph Landas",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m39280",
+          "name": "Josh Murphy",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m1288",
+          "name": "Austin Mackert",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 265725,
+      "name": "The Pinball Basement League - Week 8 (S.6)",
+      "date": "8/12/2026",
+      "playerCount": 47,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m1288",
+          "name": "Austin Mackert",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m29462",
+          "name": "Tony Rollins",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m55551",
+          "name": "Ben Laszewski",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m3146",
+          "name": "Stephanie Traub",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m39490",
+          "name": "Tyler Brooks",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 265263,
+      "name": "The Pinball Basement League - Week 7 (S.6)",
+      "date": "8/5/2026",
+      "playerCount": 47,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m1288",
+          "name": "Austin Mackert",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 1,
+          "playerId": "m51525",
+          "name": "Evan Henry",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m42995",
+          "name": "Ari Karo",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m55551",
+          "name": "Ben Laszewski",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 264239,
+      "name": "The Pinball Basement League - Week 6 (S.6)",
+      "date": "7/29/2026",
+      "playerCount": 47,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m1288",
+          "name": "Austin Mackert",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 1,
+          "playerId": "m3146",
+          "name": "Stephanie Traub",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m60924",
+          "name": "Rob Russo",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m29462",
+          "name": "Tony Rollins",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m23181",
+          "name": "Susan Williams",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m42995",
+          "name": "Ari Karo",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 263615,
+      "name": "Friday Night Flip Frenzy",
+      "date": "7/24/2026",
+      "playerCount": 32,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m47241",
+          "name": "Sam Wolff DC",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m1288",
+          "name": "Austin Mackert",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m47784",
+          "name": "Michael Good",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m39490",
+          "name": "Tyler Brooks",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m39326",
+          "name": "Nolan Daniels",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m45102",
+          "name": "Lawrence Graham",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "tournamentId": 251823,
+  "name": "Monday Madness S10R5 B-Tourney 7PM",
+  "date": "2026-08-04",
+  "locationId": "8845",
+  "locationName": "I Need a Miracle Tickets",
+  "playerCount": 9,
+  "ratingsDate": "2026-08-04",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m62264",
+      "name": "Kristi Thomas",
+      "rating": 1372.85,
+      "dailyRatingChange": 20.75
+    },
+    {
+      "position": 2,
+      "playerId": "i162449",
+      "name": "Brian Panter",
+      "rating": null,
+      "dailyRatingChange": 21.72
+    },
+    {
+      "position": 3,
+      "playerId": "i138541",
+      "name": "Emily Bell",
+      "rating": 1417.17,
+      "dailyRatingChange": 7.36
+    },
+    {
+      "position": 4,
+      "playerId": "i147617",
+      "name": "Laurie Farrier",
+      "rating": 1390.71,
+      "dailyRatingChange": 2.11
+    },
+    {
+      "position": 4,
+      "playerId": "i92043",
+      "name": "Micah Womack",
+      "rating": 1469.91,
+      "dailyRatingChange": -8
+    },
+    {
+      "position": 6,
+      "playerId": "i162451",
+      "name": "Mozzie Panter",
+      "rating": null,
+      "dailyRatingChange": -32.03
+    },
+    {
+      "position": 7,
+      "playerId": "i162775",
+      "name": "Joshua Mccartney",
+      "rating": null,
+      "dailyRatingChange": -27.52
+    },
+    {
+      "position": 8,
+      "playerId": "i157685",
+      "name": "Amanda Fera",
+      "rating": null,
+      "dailyRatingChange": -7.68
+    },
+    {
+      "position": 9,
+      "playerId": "i161804",
+      "name": "Danny Tate",
+      "rating": null,
+      "dailyRatingChange": null
+    }
+  ]
+}

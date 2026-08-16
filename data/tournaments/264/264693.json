@@ -1,0 +1,39 @@
+{
+  "tournamentId": 264693,
+  "name": "Finals for Stern Army RAA July Thursday Night",
+  "date": "2026-07-31",
+  "locationId": "11155",
+  "locationName": "Reserve Artisan Ales",
+  "playerCount": 4,
+  "ratingsDate": "2026-07-31",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m44040",
+      "name": "Cory Grimm",
+      "rating": 1608.05,
+      "dailyRatingChange": 16.7
+    },
+    {
+      "position": 2,
+      "playerId": "m32163",
+      "name": "Luke Piarowski",
+      "rating": 1711.95,
+      "dailyRatingChange": 0.61
+    },
+    {
+      "position": 3,
+      "playerId": "i132368",
+      "name": "Roger Conard",
+      "rating": 1519.26,
+      "dailyRatingChange": 8.45
+    },
+    {
+      "position": 4,
+      "playerId": "i140738",
+      "name": "Nathan Piarowski",
+      "rating": 1487.2,
+      "dailyRatingChange": 4.33
+    }
+  ]
+}

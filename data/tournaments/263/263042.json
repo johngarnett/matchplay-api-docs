@@ -1,0 +1,53 @@
+{
+  "tournamentId": 263042,
+  "name": "Finals for Sanctum Weekly (Max Matchplay) 7/20/26",
+  "date": "2026-07-21",
+  "locationId": "5908",
+  "locationName": "The Sanctum",
+  "playerCount": 6,
+  "ratingsDate": "2026-07-21",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m21738",
+      "name": "Scott Temple",
+      "rating": 1541.52,
+      "dailyRatingChange": 6.86
+    },
+    {
+      "position": 2,
+      "playerId": "m45863",
+      "name": "Jason Watts",
+      "rating": 1535.49,
+      "dailyRatingChange": 16.22
+    },
+    {
+      "position": 3,
+      "playerId": "m1115",
+      "name": "Holly Danowski",
+      "rating": 1564.93,
+      "dailyRatingChange": 2.54
+    },
+    {
+      "position": 4,
+      "playerId": "m1369",
+      "name": "Tom Coltart",
+      "rating": 1559.41,
+      "dailyRatingChange": -3.53
+    },
+    {
+      "position": 5,
+      "playerId": "m46704",
+      "name": "Joe Jokubaitis",
+      "rating": 1620.72,
+      "dailyRatingChange": -4.84
+    },
+    {
+      "position": 6,
+      "playerId": "m43648",
+      "name": "Timothy Dargan",
+      "rating": 1585.94,
+      "dailyRatingChange": -1.69
+    }
+  ]
+}

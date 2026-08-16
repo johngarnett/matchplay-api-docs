@@ -1,0 +1,67 @@
+{
+  "tournamentId": 266333,
+  "name": "Finals for T.A. Second Sunday - August '26",
+  "date": "2026-08-09",
+  "locationId": "5040",
+  "locationName": "Transmission Arcade",
+  "playerCount": 8,
+  "ratingsDate": "2026-08-09",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m8204",
+      "name": "Steve Bertok",
+      "rating": 1640.25,
+      "dailyRatingChange": 8.02
+    },
+    {
+      "position": 2,
+      "playerId": "i76388",
+      "name": "Josh Rainwater",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 3,
+      "playerId": "m58524",
+      "name": "Patrick Bailey",
+      "rating": 1701.47,
+      "dailyRatingChange": 9.37
+    },
+    {
+      "position": 4,
+      "playerId": "m23592",
+      "name": "Ansley Green",
+      "rating": 1517.32,
+      "dailyRatingChange": 16.93
+    },
+    {
+      "position": 5,
+      "playerId": "m50708",
+      "name": "Brian Kern",
+      "rating": 1596.61,
+      "dailyRatingChange": 9.85
+    },
+    {
+      "position": 6,
+      "playerId": "m45301",
+      "name": "Ron Anthony",
+      "rating": 1572.21,
+      "dailyRatingChange": 2.93
+    },
+    {
+      "position": 6,
+      "playerId": "m43397",
+      "name": "Jared Wilson",
+      "rating": 1631.49,
+      "dailyRatingChange": -5.89
+    },
+    {
+      "position": 8,
+      "playerId": "m18180",
+      "name": "Egbert",
+      "rating": 1653,
+      "dailyRatingChange": -4.29
+    }
+  ]
+}

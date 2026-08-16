@@ -1,0 +1,32 @@
+{
+  "tournamentId": 264712,
+  "name": "Capital women’s tournament",
+  "date": "2026-07-31",
+  "locationId": "13810",
+  "locationName": "Capital Pinball Parlor",
+  "playerCount": 3,
+  "ratingsDate": "2026-07-31",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m583201",
+      "name": "Rayna Jamorabon",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 2,
+      "playerId": "m35945",
+      "name": "Elsie Oster",
+      "rating": 1529.46,
+      "dailyRatingChange": -1.5
+    },
+    {
+      "position": 3,
+      "playerId": "m51958",
+      "name": "Alicia vierra",
+      "rating": 1463.08,
+      "dailyRatingChange": -16.84
+    }
+  ]
+}

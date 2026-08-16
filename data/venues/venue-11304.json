@@ -1,0 +1,155 @@
+{
+  "locationId": "11304",
+  "name": "Propeller Arcade",
+  "address": "2015 Gottingen st.",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 9,
+  "relatedVenues": [
+    {
+      "locationId": "12732",
+      "name": "Propeller Brewing Company",
+      "address": "2015 Gottingen St, Halifax, NS B3K 3B1, CA",
+      "count": 15
+    },
+    {
+      "locationId": "9616",
+      "name": "Best Western Plus Chocolate Lake Hotel",
+      "address": "250 Saint Margarets Bay Road, Halifax, NS B3N, CA",
+      "count": 4
+    },
+    {
+      "locationId": "13524",
+      "name": "Arcade73",
+      "address": "",
+      "count": 4
+    },
+    {
+      "locationId": "11419",
+      "name": "Xeroz",
+      "address": "234 Saint George Street, Moncton, NB",
+      "count": 2
+    },
+    {
+      "locationId": "5388",
+      "name": "June and Tom's",
+      "address": "",
+      "count": 1
+    },
+    {
+      "locationId": "10233",
+      "name": "Flippins Bar/Arcade",
+      "address": "375 King St. Fredericton, NB Canada",
+      "count": 1
+    }
+  ],
+  "players": [
+    {
+      "id": "m5212",
+      "name": "Magen Savary",
+      "rating": 1580.07,
+      "rd": 30.32,
+      "ratingClass": "B",
+      "homeLocation": "Propeller Arcade",
+      "homeLocationId": "11304",
+      "percentile": 76.63390320026086,
+      "changeDisplay": "-3.7",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m27940",
+      "name": "Liz Chu",
+      "rating": 1543.7,
+      "rd": 23.77,
+      "ratingClass": "B",
+      "homeLocation": "Propeller Arcade",
+      "homeLocationId": "11304",
+      "percentile": 64.46173196068385,
+      "changeDisplay": "+4.8",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m28903",
+      "name": "Christie Cox",
+      "rating": 1516.72,
+      "rd": 22.91,
+      "ratingClass": "B",
+      "homeLocation": "Propeller Brewing Company",
+      "homeLocationId": "12732",
+      "percentile": 53.91065356128011,
+      "changeDisplay": "+22.9",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "i161150",
+      "name": "Samantha Neate",
+      "rating": 1507.34,
+      "rd": 54.08,
+      "ratingClass": "B",
+      "homeLocation": "Propeller Arcade",
+      "homeLocationId": "11304",
+      "percentile": 50.10947034983929,
+      "changeDisplay": "★",
+      "changeClass": "change-new"
+    },
+    {
+      "id": "m38174",
+      "name": "Amber Atwell",
+      "rating": 1432.95,
+      "rd": 39.49,
+      "ratingClass": "C",
+      "homeLocation": "Propeller Arcade",
+      "homeLocationId": "11304",
+      "percentile": 21.446871942982252,
+      "changeDisplay": "+35.8",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "i159045",
+      "name": "Jess Patenaude",
+      "rating": 1407.74,
+      "rd": 48.03,
+      "ratingClass": "C",
+      "homeLocation": "Propeller Arcade",
+      "homeLocationId": "11304",
+      "percentile": 14.468719429822519,
+      "changeDisplay": "★",
+      "changeClass": "change-new"
+    },
+    {
+      "id": "i96955",
+      "name": "Maria Lukeman",
+      "rating": 1369.3,
+      "rd": 51.39,
+      "ratingClass": "D",
+      "homeLocation": "Propeller Arcade",
+      "homeLocationId": "11304",
+      "percentile": 6.61014580518936,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m34305",
+      "name": "Lauren Macleod",
+      "rating": 1356.18,
+      "rd": 31.59,
+      "ratingClass": "D",
+      "homeLocation": "Propeller Brewing Company",
+      "homeLocationId": "12732",
+      "percentile": 4.9564447757022405,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i159047",
+      "name": "Melissa Hutchinson CAN",
+      "rating": 1340.63,
+      "rd": 54.02,
+      "ratingClass": "D",
+      "homeLocation": "Propeller Arcade",
+      "homeLocationId": "11304",
+      "percentile": 3.2608189313830533,
+      "changeDisplay": "★",
+      "changeClass": "change-new"
+    }
+  ]
+}

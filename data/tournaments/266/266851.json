@@ -1,0 +1,39 @@
+{
+  "tournamentId": 266851,
+  "name": "Pinball Brew 8-7",
+  "date": "2026-08-13",
+  "locationId": null,
+  "locationName": null,
+  "playerCount": 4,
+  "ratingsDate": null,
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "i73886",
+      "name": "Greg Reppert",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 2,
+      "playerId": "m492525",
+      "name": "Brad Beecher",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 3,
+      "playerId": "m460350",
+      "name": "Jay Ridl",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 3,
+      "playerId": "m521787",
+      "name": "Mike Adams",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

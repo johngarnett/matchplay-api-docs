@@ -1,0 +1,46 @@
+{
+  "locationId": "12439",
+  "venueName": "First Turn Games",
+  "venueAddress": "3625 1st Ave SE, Cedar Rapids, IA 52402, US",
+  "tournaments": [
+    {
+      "id": 266896,
+      "name": "Pinsanity August Monthly Tournament",
+      "date": "8/13/2026",
+      "playerCount": 15,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m29800",
+          "name": "Scott Millman",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m53348",
+          "name": "Ryan Schloss",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m17392",
+          "name": "Sean Clarke",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m47198",
+          "name": "Chris Farmer",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m56415",
+          "name": "Ben Stupar",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

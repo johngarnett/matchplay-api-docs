@@ -1,0 +1,67 @@
+{
+  "tournamentId": 264346,
+  "name": "Finals for Next Level Head to Head Matchplay",
+  "date": "2026-08-08",
+  "locationId": "8048",
+  "locationName": "Next Level Pinball Museum",
+  "playerCount": 8,
+  "ratingsDate": "2026-08-08",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m23091",
+      "name": "Nick Elliott",
+      "rating": 1652.58,
+      "dailyRatingChange": 3.21
+    },
+    {
+      "position": 2,
+      "playerId": "m14940",
+      "name": "Derek Jennings",
+      "rating": 1744.77,
+      "dailyRatingChange": 3.59
+    },
+    {
+      "position": 3,
+      "playerId": "m50363",
+      "name": "Chris Grucza",
+      "rating": 1547.34,
+      "dailyRatingChange": 8.26
+    },
+    {
+      "position": 4,
+      "playerId": "m48271",
+      "name": "Logan Seidl",
+      "rating": 1638.31,
+      "dailyRatingChange": 2.98
+    },
+    {
+      "position": 5,
+      "playerId": "m23628",
+      "name": "Jacob Edwards OR",
+      "rating": 1606.14,
+      "dailyRatingChange": 5.04
+    },
+    {
+      "position": 5,
+      "playerId": "i121096",
+      "name": "Dylan Sachs",
+      "rating": 1472.42,
+      "dailyRatingChange": 8.89
+    },
+    {
+      "position": 7,
+      "playerId": "m31979",
+      "name": "Gregorio Sicard Jr",
+      "rating": 1609.34,
+      "dailyRatingChange": -1.59
+    },
+    {
+      "position": 7,
+      "playerId": "i122825",
+      "name": "Robert Toland",
+      "rating": 1578.93,
+      "dailyRatingChange": null
+    }
+  ]
+}

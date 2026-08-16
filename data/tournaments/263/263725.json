@@ -1,0 +1,102 @@
+{
+  "tournamentId": 263725,
+  "name": "Västerås månadstävling 25 juli - hemmabana B",
+  "date": "2026-07-25",
+  "locationId": "12334",
+  "locationName": "Flipperklubben",
+  "playerCount": 13,
+  "ratingsDate": "2026-07-25",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m52421",
+      "name": "Henrik Samuelsson",
+      "rating": 1569.4,
+      "dailyRatingChange": 9.41
+    },
+    {
+      "position": 2,
+      "playerId": "m48692",
+      "name": "Martin Rydberg",
+      "rating": 1512.67,
+      "dailyRatingChange": 20.29
+    },
+    {
+      "position": 2,
+      "playerId": "m14396",
+      "name": "Henrik Pettersson",
+      "rating": 1530.57,
+      "dailyRatingChange": 9.17
+    },
+    {
+      "position": 2,
+      "playerId": "m51338",
+      "name": "Daniel Schwitzky",
+      "rating": 1540.81,
+      "dailyRatingChange": 9.09
+    },
+    {
+      "position": 5,
+      "playerId": "m18544",
+      "name": "Jonas Persson",
+      "rating": 1530.34,
+      "dailyRatingChange": 3.92
+    },
+    {
+      "position": 5,
+      "playerId": "i156938",
+      "name": "Thomas Carlsson",
+      "rating": 1553.46,
+      "dailyRatingChange": null
+    },
+    {
+      "position": 7,
+      "playerId": "i5910",
+      "name": "Leksingen Emil Bjurling",
+      "rating": 1473.74,
+      "dailyRatingChange": 32.19
+    },
+    {
+      "position": 8,
+      "playerId": "m54618",
+      "name": "Miika Raatikainen",
+      "rating": 1496.1,
+      "dailyRatingChange": 0.4
+    },
+    {
+      "position": 8,
+      "playerId": "i122976",
+      "name": "Henke Andersson",
+      "rating": 1419.64,
+      "dailyRatingChange": 31.02
+    },
+    {
+      "position": 10,
+      "playerId": "m43024",
+      "name": "Andreas Ek",
+      "rating": 1510.01,
+      "dailyRatingChange": -7.98
+    },
+    {
+      "position": 10,
+      "playerId": "m581634",
+      "name": "Baran Ismail",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 12,
+      "playerId": "m581313",
+      "name": "Robert Eriksson",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 13,
+      "playerId": "m581637",
+      "name": "Xoe Baird",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

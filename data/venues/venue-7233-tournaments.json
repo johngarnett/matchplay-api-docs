@@ -1,0 +1,44 @@
+{
+  "locationId": "7233",
+  "venueName": "Einsteins Pub and Arcade",
+  "venueAddress": "16733 West Airport Blvd. ste. 290, Richmond, Texas 77407, US",
+  "tournaments": [
+    {
+      "id": 263927,
+      "name": "Finals for EinStein's=MatchplayCompetition² (7/26)",
+      "date": "7/26/2026",
+      "playerCount": 4,
+      "qualifying": {
+        "id": 263926,
+        "name": "EinStein's=MatchplayCompetition² (7/26)",
+        "playerCount": 8
+      },
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m10208",
+          "name": "Bill Nebeker 😾",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m19169",
+          "name": "Craig Hughes ✈️",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m340",
+          "name": "Matt Quantz 🦬",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m31621",
+          "name": "Kevin Hemann",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "tournamentId": 266437,
+  "name": "Shaded City Pinball Season 2: Return of the Shade #3",
+  "date": "2026-08-11",
+  "locationId": "13065",
+  "locationName": "Happenstance Brewing Project",
+  "playerCount": 13,
+  "ratingsDate": "2026-08-11",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m2844",
+      "name": "Deborah Tahlman",
+      "rating": 1659.68,
+      "dailyRatingChange": 8.63
+    },
+    {
+      "position": 2,
+      "playerId": "m24045",
+      "name": "Ron Smith",
+      "rating": 1604.59,
+      "dailyRatingChange": 3.58
+    },
+    {
+      "position": 2,
+      "playerId": "m5884",
+      "name": "Robert Gaines",
+      "rating": 1577.5,
+      "dailyRatingChange": 37.37
+    },
+    {
+      "position": 2,
+      "playerId": "m57597",
+      "name": "Josh Reynolds",
+      "rating": 1681.47,
+      "dailyRatingChange": 2.23
+    },
+    {
+      "position": 5,
+      "playerId": "m1482",
+      "name": "Trent Augenstein",
+      "rating": 1744.08,
+      "dailyRatingChange": -2.38
+    },
+    {
+      "position": 6,
+      "playerId": "m58497",
+      "name": "Levi Combs",
+      "rating": 1637.54,
+      "dailyRatingChange": -2.5
+    },
+    {
+      "position": 6,
+      "playerId": "i147499",
+      "name": "William Clements",
+      "rating": 1651.12,
+      "dailyRatingChange": -0.45
+    },
+    {
+      "position": 8,
+      "playerId": "m56872",
+      "name": "Douglas Powell",
+      "rating": 1400.74,
+      "dailyRatingChange": 7.56
+    },
+    {
+      "position": 9,
+      "playerId": "i159357",
+      "name": "Nathaniel Hurley",
+      "rating": 1556.33,
+      "dailyRatingChange": -2.64
+    },
+    {
+      "position": 9,
+      "playerId": "m54386",
+      "name": "Ryan Whitlow",
+      "rating": 1562.63,
+      "dailyRatingChange": -10.23
+    },
+    {
+      "position": 11,
+      "playerId": "m539165",
+      "name": "Nick Filipow",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 11,
+      "playerId": "m62793",
+      "name": "Alex Holtzapfel",
+      "rating": 1425.22,
+      "dailyRatingChange": null
+    },
+    {
+      "position": 13,
+      "playerId": "m539162",
+      "name": "Pete Rogers",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

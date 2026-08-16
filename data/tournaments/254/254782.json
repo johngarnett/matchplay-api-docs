@@ -1,0 +1,95 @@
+{
+  "tournamentId": 254782,
+  "name": "NPC @ SNHPC: Season 3 week #5",
+  "date": "2026-08-11",
+  "locationId": "13498",
+  "locationName": "Southern New Hampshire Pinball Club",
+  "playerCount": 12,
+  "ratingsDate": "2026-08-11",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m12067",
+      "name": "Matt Lemoine",
+      "rating": 1593.45,
+      "dailyRatingChange": 4.42
+    },
+    {
+      "position": 2,
+      "playerId": "m7236",
+      "name": "Chip Morton",
+      "rating": 1543.52,
+      "dailyRatingChange": 4.68
+    },
+    {
+      "position": 2,
+      "playerId": "m48952",
+      "name": "Dana Boisvert",
+      "rating": 1483.82,
+      "dailyRatingChange": 12.34
+    },
+    {
+      "position": 2,
+      "playerId": "m341039",
+      "name": "Mikey Lulfs",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 5,
+      "playerId": "m41294",
+      "name": "Christopher Townsend",
+      "rating": 1531.33,
+      "dailyRatingChange": 1.7
+    },
+    {
+      "position": 5,
+      "playerId": "m431",
+      "name": "Ron Lulfs",
+      "rating": 1506.25,
+      "dailyRatingChange": 4.65
+    },
+    {
+      "position": 7,
+      "playerId": "m52875",
+      "name": "Jason Foss",
+      "rating": 1474.35,
+      "dailyRatingChange": 2.79
+    },
+    {
+      "position": 7,
+      "playerId": "m26851",
+      "name": "Will Parks",
+      "rating": 1499.07,
+      "dailyRatingChange": 0.51
+    },
+    {
+      "position": 7,
+      "playerId": "m1178",
+      "name": "Mike Corbett",
+      "rating": 1575.58,
+      "dailyRatingChange": -4.4
+    },
+    {
+      "position": 10,
+      "playerId": "m17938",
+      "name": "Joshua Mazgelis",
+      "rating": 1482.31,
+      "dailyRatingChange": -13.75
+    },
+    {
+      "position": 10,
+      "playerId": "m578358",
+      "name": "Jenn Lulfs",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 12,
+      "playerId": "m43052",
+      "name": "Steven Weintraub",
+      "rating": 1403.44,
+      "dailyRatingChange": -30.73
+    }
+  ]
+}

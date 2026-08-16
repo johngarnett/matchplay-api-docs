@@ -1,0 +1,123 @@
+{
+  "tournamentId": 265215,
+  "name": "Finals for Ice Box Mixed Matchplay - 2026/08",
+  "date": "2026-08-03",
+  "locationId": "1893",
+  "locationName": "The Ice Box",
+  "playerCount": 16,
+  "ratingsDate": "2026-08-03",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m3139",
+      "name": "Lonnie Langford",
+      "rating": 1753.73,
+      "dailyRatingChange": 21.9
+    },
+    {
+      "position": 2,
+      "playerId": "m3038",
+      "name": "Joshua Francis",
+      "rating": 1764.19,
+      "dailyRatingChange": -7.66
+    },
+    {
+      "position": 3,
+      "playerId": "m24074",
+      "name": "Bryson Singleterry",
+      "rating": 1733.11,
+      "dailyRatingChange": 13.54
+    },
+    {
+      "position": 4,
+      "playerId": "m11001",
+      "name": "Jaran jones",
+      "rating": 1723.46,
+      "dailyRatingChange": 16.12
+    },
+    {
+      "position": 5,
+      "playerId": "m93",
+      "name": "Germain Mariolle",
+      "rating": 1739.88,
+      "dailyRatingChange": 3.77
+    },
+    {
+      "position": 6,
+      "playerId": "m1513",
+      "name": "Jarrett Gaddy",
+      "rating": 1745.42,
+      "dailyRatingChange": -7.9
+    },
+    {
+      "position": 7,
+      "playerId": "m8988",
+      "name": "MK Walker",
+      "rating": 1649.19,
+      "dailyRatingChange": 18.71
+    },
+    {
+      "position": 8,
+      "playerId": "m28800",
+      "name": "Ryan Slanicka",
+      "rating": 1676.29,
+      "dailyRatingChange": -8.98
+    },
+    {
+      "position": 9,
+      "playerId": "m18260",
+      "name": "Max Stewart",
+      "rating": 1646.69,
+      "dailyRatingChange": 18.57
+    },
+    {
+      "position": 9,
+      "playerId": "m8000",
+      "name": "Robert Byers",
+      "rating": 1721.69,
+      "dailyRatingChange": 3.18
+    },
+    {
+      "position": 11,
+      "playerId": "m38834",
+      "name": "Brian Reinhard",
+      "rating": 1662.92,
+      "dailyRatingChange": 5.63
+    },
+    {
+      "position": 12,
+      "playerId": "m43210",
+      "name": "James Furdell",
+      "rating": 1678.01,
+      "dailyRatingChange": 16.11
+    },
+    {
+      "position": 13,
+      "playerId": "m6374",
+      "name": "David Johnston US",
+      "rating": 1709.35,
+      "dailyRatingChange": -7.87
+    },
+    {
+      "position": 14,
+      "playerId": "m17637",
+      "name": "Elliott Johnson",
+      "rating": 1566.77,
+      "dailyRatingChange": 5.37
+    },
+    {
+      "position": 14,
+      "playerId": "m12548",
+      "name": "Drew Hopper",
+      "rating": 1632.73,
+      "dailyRatingChange": 8.52
+    },
+    {
+      "position": 16,
+      "playerId": "m23211",
+      "name": "Misha Alexeeff",
+      "rating": 1575.08,
+      "dailyRatingChange": 3
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "locationId": "9515",
+  "venueName": "Eureka Heights Brew Co",
+  "venueAddress": "941 West 18th St, Houston, Texas 77008",
+  "tournaments": [
+    {
+      "id": 264841,
+      "name": "HSPCA Pinball Tournament",
+      "date": "7/31/2026",
+      "playerCount": 15,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m12429",
+          "name": "Jamie Burchell 🐻",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m42329",
+          "name": "Jack Schiffer",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m31630",
+          "name": "Ty Katsarelis",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m40033",
+          "name": "Andrew Murillo",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

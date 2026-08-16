@@ -1,0 +1,151 @@
+{
+  "tournamentId": 264189,
+  "name": "PRP HQ 2026 Q3 League #7",
+  "date": "2026-08-07",
+  "locationId": "12479",
+  "locationName": "PRPHQ",
+  "playerCount": 20,
+  "ratingsDate": "2026-08-07",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m40131",
+      "name": "Mike Dafforn",
+      "rating": 1533.2,
+      "dailyRatingChange": 11.5
+    },
+    {
+      "position": 1,
+      "playerId": "m22021",
+      "name": "Shelley Sharpe",
+      "rating": 1593.82,
+      "dailyRatingChange": 9.97
+    },
+    {
+      "position": 3,
+      "playerId": "m38803",
+      "name": "Rosie Theisen",
+      "rating": 1534.86,
+      "dailyRatingChange": 9.23
+    },
+    {
+      "position": 4,
+      "playerId": "m46473",
+      "name": "Kevin Johnson IL",
+      "rating": 1647.23,
+      "dailyRatingChange": 2.43
+    },
+    {
+      "position": 5,
+      "playerId": "m53510",
+      "name": "JD Mackinder",
+      "rating": 1467.72,
+      "dailyRatingChange": 8.3
+    },
+    {
+      "position": 5,
+      "playerId": "m38081",
+      "name": "Chad Udell",
+      "rating": 1519.48,
+      "dailyRatingChange": 2.88
+    },
+    {
+      "position": 7,
+      "playerId": "m59475",
+      "name": "Lucas Ross IL",
+      "rating": 1551,
+      "dailyRatingChange": -8.1
+    },
+    {
+      "position": 7,
+      "playerId": "m40545",
+      "name": "Mike Felumlee",
+      "rating": 1582.6,
+      "dailyRatingChange": 0.12
+    },
+    {
+      "position": 7,
+      "playerId": "m30105",
+      "name": "Joe Sharpe",
+      "rating": 1709.83,
+      "dailyRatingChange": -5.71
+    },
+    {
+      "position": 10,
+      "playerId": "m31972",
+      "name": "Joey McAdams",
+      "rating": 1631.37,
+      "dailyRatingChange": -5.93
+    },
+    {
+      "position": 10,
+      "playerId": "i155494",
+      "name": "Kris Wells",
+      "rating": 1624.15,
+      "dailyRatingChange": -10.57
+    },
+    {
+      "position": 12,
+      "playerId": "m40900",
+      "name": "Chris O'Brien IL",
+      "rating": 1578.19,
+      "dailyRatingChange": -3.04
+    },
+    {
+      "position": 12,
+      "playerId": "m55475",
+      "name": "Kayla Fallen",
+      "rating": 1495.6,
+      "dailyRatingChange": 2.35
+    },
+    {
+      "position": 14,
+      "playerId": "m44385",
+      "name": "Kat Davis",
+      "rating": 1495.39,
+      "dailyRatingChange": -0.58
+    },
+    {
+      "position": 14,
+      "playerId": "i108024",
+      "name": "Greg Halperin",
+      "rating": 1537.56,
+      "dailyRatingChange": -5.82
+    },
+    {
+      "position": 16,
+      "playerId": "m572953",
+      "name": "Brent Harter",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 16,
+      "playerId": "m57949",
+      "name": "Tyler Bickett",
+      "rating": 1468.76,
+      "dailyRatingChange": -5.2
+    },
+    {
+      "position": 18,
+      "playerId": "m566883",
+      "name": "Luanne Flick",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 18,
+      "playerId": "m53508",
+      "name": "Rob Carroll",
+      "rating": 1392.85,
+      "dailyRatingChange": -2.91
+    },
+    {
+      "position": 20,
+      "playerId": "m552296",
+      "name": "Megan Moeller",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

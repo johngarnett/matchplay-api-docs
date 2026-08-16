@@ -1,0 +1,40 @@
+{
+  "locationId": "13811",
+  "venueName": "Rising Sun FPV",
+  "venueAddress": "22 Castlemaine Street, Kirwan",
+  "tournaments": [
+    {
+      "id": 264758,
+      "name": "Silverball Series Rising Sun FPV Competition",
+      "date": "8/1/2026",
+      "playerCount": 24,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m55974",
+          "name": "Robert Mackie",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 1,
+          "playerId": "m17093",
+          "name": "Dannii Rocket",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 1,
+          "playerId": "m13344",
+          "name": "Chris Sommerville AUS",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m24568",
+          "name": "Chris Hurdle",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

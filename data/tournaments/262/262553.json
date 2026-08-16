@@ -1,0 +1,46 @@
+{
+  "tournamentId": 262553,
+  "name": "D82 Flippin' Friday Finals 7/17/26",
+  "date": "2026-07-18",
+  "locationId": "8542",
+  "locationName": "District 82 Pinball (formerly TitleTown Pinball)",
+  "playerCount": 5,
+  "ratingsDate": "2026-07-18",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m19343",
+      "name": "Tom Schmidt",
+      "rating": 1671.17,
+      "dailyRatingChange": -0.01
+    },
+    {
+      "position": 2,
+      "playerId": "m6492",
+      "name": "Mike Moberg",
+      "rating": 1594.31,
+      "dailyRatingChange": 2.44
+    },
+    {
+      "position": 3,
+      "playerId": "m38543",
+      "name": "Mike Carlson",
+      "rating": 1656.46,
+      "dailyRatingChange": 5.04
+    },
+    {
+      "position": 4,
+      "playerId": "m51096",
+      "name": "Clay Ryan",
+      "rating": 1494.37,
+      "dailyRatingChange": 0.29
+    },
+    {
+      "position": 5,
+      "playerId": "i15723",
+      "name": "Gregory Hein",
+      "rating": 1610.51,
+      "dailyRatingChange": -2.11
+    }
+  ]
+}

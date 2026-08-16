@@ -1,0 +1,155 @@
+{
+  "locationId": "10298",
+  "name": "Lauter Haus Brewing Company",
+  "address": "1806 East 20th Street, Farmington, NM 87401, US",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 7,
+  "relatedVenues": [
+    {
+      "locationId": "8912",
+      "name": "Sister",
+      "address": "407 Central Ave NW, Albuquerque, NM 87102, US",
+      "count": 12
+    },
+    {
+      "locationId": "8523",
+      "name": "J Bo's Pizza and Ribs",
+      "address": "",
+      "count": 3
+    },
+    {
+      "locationId": "10207",
+      "name": "Boxing Bear Brewing Co. Bridges on Tramway Taproom",
+      "address": "12501 Candelaria Rd NE, Albuquerque, NM 87111, US",
+      "count": 3
+    },
+    {
+      "locationId": "5492",
+      "name": "Lyons Classic Pinball",
+      "address": "339 W Main St, Lyons, CO 80540, USA",
+      "count": 2
+    },
+    {
+      "locationId": "11283",
+      "name": "J bO's Pizza & Ribs",
+      "address": "1301 Florida Rd UNIT E, Durango, CO",
+      "count": 2
+    },
+    {
+      "locationId": "13364",
+      "name": "Rio Bravo Brewing Company",
+      "address": "1912 2nd St NW, Albuquerque, NM 87102, US",
+      "count": 2
+    },
+    {
+      "locationId": "802",
+      "name": "Starfighters Arcade",
+      "address": "4840 E Jasmine St #102, Mesa, AZ, 85205, US",
+      "count": 1
+    },
+    {
+      "locationId": "2123",
+      "name": "What's Brewing? Coffee Roasters",
+      "address": "138 West Rhapsody Drive, San Antonio, TX, 78216, US",
+      "count": 1
+    },
+    {
+      "locationId": "7929",
+      "name": "13008 Desert Moon Pl NE Albuquerque NM.  87110",
+      "address": "",
+      "count": 1
+    },
+    {
+      "locationId": "8201",
+      "name": "Rad Retrocade",
+      "address": "201 North Main Street, Las Cruces, NM 88001, US",
+      "count": 1
+    }
+  ],
+  "players": [
+    {
+      "id": "m20680",
+      "name": "Ben Cressy",
+      "rating": 1671.51,
+      "rd": 27.96,
+      "ratingClass": "A",
+      "homeLocation": "Sister",
+      "homeLocationId": "8912",
+      "percentile": 94.23300880421111,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m40584",
+      "name": "Joshua Gould",
+      "rating": 1642.4,
+      "rd": 25.04,
+      "ratingClass": "A",
+      "homeLocation": "Sister",
+      "homeLocationId": "8912",
+      "percentile": 90.68803279452182,
+      "changeDisplay": "+3.0",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m37283",
+      "name": "Matthew Reichbach",
+      "rating": 1619.04,
+      "rd": 26.89,
+      "ratingClass": "A",
+      "homeLocation": "Sister",
+      "homeLocationId": "8912",
+      "percentile": 86.41170168165091,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i61835",
+      "name": "Loyd Guido",
+      "rating": 1583.46,
+      "rd": 28.08,
+      "ratingClass": "B",
+      "homeLocation": "J Bo's Pizza and Ribs",
+      "homeLocationId": "8523",
+      "percentile": 77.60749056691665,
+      "changeDisplay": "-8.3",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m49232",
+      "name": "Antawn Joe",
+      "rating": 1571.21,
+      "rd": 23.87,
+      "ratingClass": "B",
+      "homeLocation": "Starfighters Arcade",
+      "homeLocationId": "802",
+      "percentile": 73.91344854893558,
+      "changeDisplay": "+16.6",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "i79133",
+      "name": "Jasen \"JP\" Prespentt",
+      "rating": 1569.63,
+      "rd": 34.04,
+      "ratingClass": "B",
+      "homeLocation": "Lauter Haus Brewing Company",
+      "homeLocationId": "10298",
+      "percentile": 73.37774258163692,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m43167",
+      "name": "Danielle Jones",
+      "rating": 1553.46,
+      "rd": 24.7,
+      "ratingClass": "B",
+      "homeLocation": "Sister",
+      "homeLocationId": "8912",
+      "percentile": 68.12316578935109,
+      "changeDisplay": "-8.2",
+      "changeClass": "change-negative"
+    }
+  ]
+}

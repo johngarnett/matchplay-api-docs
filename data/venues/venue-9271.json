@@ -1,0 +1,155 @@
+{
+  "locationId": "9271",
+  "name": "Biggest Little Arcade",
+  "address": "105 Mogul Mountain Drive",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 8,
+  "relatedVenues": [
+    {
+      "locationId": "9024",
+      "name": "Elbow Room",
+      "address": "2002 Victorian Ave, Sparks NV 89431",
+      "count": 73
+    },
+    {
+      "locationId": "8514",
+      "name": "Press Start",
+      "address": "600 S Center St, Reno, NV 89501, US",
+      "count": 38
+    },
+    {
+      "locationId": "11524",
+      "name": "Comic Kingdom",
+      "address": "2700 S. Virginia St. Reno, NV 89502",
+      "count": 21
+    },
+    {
+      "locationId": "12991",
+      "name": "Club Cal Neva",
+      "address": "38 E 2nd St, Reno, NV 89501, US",
+      "count": 15
+    },
+    {
+      "locationId": "12818",
+      "name": "Reno Pinball Underground",
+      "address": "1274 S Virginia St, Reno, NV 89502, US",
+      "count": 7
+    },
+    {
+      "locationId": "13026",
+      "name": "Golden State Pinball Festival",
+      "address": "413 E Lockeford Street Lodi, CA 95240",
+      "count": 5
+    },
+    {
+      "locationId": "11603",
+      "name": "Playfield Sports & Games",
+      "address": "235 Lake Street Reno, NV 89501",
+      "count": 3
+    },
+    {
+      "locationId": "8386",
+      "name": "Tahoe Paddle Sports",
+      "address": "230 Village Blvd, Incline Village, NV 89451, US",
+      "count": 1
+    }
+  ],
+  "players": [
+    {
+      "id": "m15496",
+      "name": "Michelle Leutzinger",
+      "rating": 1624.39,
+      "rd": 16.46,
+      "ratingClass": "A",
+      "homeLocation": "Press Start",
+      "homeLocationId": "8514",
+      "percentile": 87.49243024176643,
+      "changeDisplay": "+0.1",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m35479",
+      "name": "Marge Mirsky",
+      "rating": 1616.94,
+      "rd": 21.79,
+      "ratingClass": "A",
+      "homeLocation": "Elbow Room",
+      "homeLocationId": "9024",
+      "percentile": 86.00177015884847,
+      "changeDisplay": "-8.2",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m37852",
+      "name": "Daniela Sonnino",
+      "rating": 1590.92,
+      "rd": 17.71,
+      "ratingClass": "B",
+      "homeLocation": "Elbow Room",
+      "homeLocationId": "9024",
+      "percentile": 79.6897563702427,
+      "changeDisplay": "+2.2",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m27354",
+      "name": "Tammy Thiel",
+      "rating": 1567.56,
+      "rd": 15.5,
+      "ratingClass": "B",
+      "homeLocation": "Elbow Room",
+      "homeLocationId": "9024",
+      "percentile": 72.69297060604649,
+      "changeDisplay": "-8.1",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m11059",
+      "name": "Rhiannon Box",
+      "rating": 1526.69,
+      "rd": 23.46,
+      "ratingClass": "B",
+      "homeLocation": "Elbow Room",
+      "homeLocationId": "9024",
+      "percentile": 57.71183677272093,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m10408",
+      "name": "Stacy Cusack",
+      "rating": 1499.12,
+      "rd": 28.26,
+      "ratingClass": "C",
+      "homeLocation": "Elbow Room",
+      "homeLocationId": "9024",
+      "percentile": 46.736851912237384,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m50668",
+      "name": "Valorie Grace",
+      "rating": 1495.29,
+      "rd": 29.2,
+      "ratingClass": "C",
+      "homeLocation": "Press Start",
+      "homeLocationId": "8514",
+      "percentile": 45.22290026552383,
+      "changeDisplay": "+7.0",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "i70368",
+      "name": "Dawn Burns",
+      "rating": 1452.92,
+      "rd": 55.87,
+      "ratingClass": "C",
+      "homeLocation": "Biggest Little Arcade",
+      "homeLocationId": "9271",
+      "percentile": 28.27595844785019,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

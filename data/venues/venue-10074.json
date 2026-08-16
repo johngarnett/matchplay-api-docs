@@ -1,0 +1,335 @@
+{
+  "locationId": "10074",
+  "name": "Hot rod arcade",
+  "address": "1022 knight road Joelton tn",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 22,
+  "relatedVenues": [
+    {
+      "locationId": "11652",
+      "name": "Hot Rod",
+      "address": "1022 Knight Road    Joel ton Tn",
+      "count": 67
+    },
+    {
+      "locationId": "3448",
+      "name": "Game Galaxy Arcade",
+      "address": "3 S Lowry St, Smyrna, TN 37167, USA",
+      "count": 56
+    },
+    {
+      "locationId": "11567",
+      "name": "Up-Down",
+      "address": "927 Woodland Street, Nashville, TN 37206, US",
+      "count": 22
+    },
+    {
+      "locationId": "11389",
+      "name": "Quarter Bandits Arcade",
+      "address": "4910 Main St, Spring Hill, TN, 37174, US",
+      "count": 21
+    },
+    {
+      "locationId": "7156",
+      "name": "No Quarter",
+      "address": "922 Main St, Nashville, TN 37206, USA",
+      "count": 13
+    },
+    {
+      "locationId": "13244",
+      "name": "City Oasis",
+      "address": "1103 Kirkwood Ave. Murfreesboro TN 37130",
+      "count": 10
+    },
+    {
+      "locationId": "9049",
+      "name": "Pleasant Hill Pinranch",
+      "address": "7698 Reynoldsburg Rd Springville, TN",
+      "count": 9
+    },
+    {
+      "locationId": "11760",
+      "name": "High Score Saloon",
+      "address": "309 Main St, Evansville, IN, 47708, US",
+      "count": 3
+    },
+    {
+      "locationId": "12743",
+      "name": "Eastside Bowl",
+      "address": "1508A Gallatin Pike S, Nashville, TN 37115, US",
+      "count": 3
+    },
+    {
+      "locationId": "13707",
+      "name": "Hub Haus",
+      "address": "109 S. Main Street , Elizabethtown KY. 42701",
+      "count": 2
+    }
+  ],
+  "players": [
+    {
+      "id": "m8573",
+      "name": "Glenn waechter",
+      "rating": 1680.04,
+      "rd": 21.08,
+      "ratingClass": "A",
+      "homeLocation": "Quarter Bandits Arcade",
+      "homeLocationId": "11389",
+      "percentile": 95.13672147948013,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m19963",
+      "name": "Austin Carrigan",
+      "rating": 1666.51,
+      "rd": 18.55,
+      "ratingClass": "A",
+      "homeLocation": "Hot Rod",
+      "homeLocationId": "11652",
+      "percentile": 93.7764941538175,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m12599",
+      "name": "Greeley Oliver",
+      "rating": 1639.5,
+      "rd": 17.9,
+      "ratingClass": "A",
+      "homeLocation": "Game Galaxy Arcade",
+      "homeLocationId": "3448",
+      "percentile": 90.25015139516466,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m12584",
+      "name": "Brian Oliver",
+      "rating": 1632.11,
+      "rd": 18.41,
+      "ratingClass": "A",
+      "homeLocation": "Game Galaxy Arcade",
+      "homeLocationId": "3448",
+      "percentile": 89.00638188847999,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m36580",
+      "name": "Jason Wilberding",
+      "rating": 1619.62,
+      "rd": 17.53,
+      "ratingClass": "A",
+      "homeLocation": "Game Galaxy Arcade",
+      "homeLocationId": "3448",
+      "percentile": 86.54213443890623,
+      "changeDisplay": "-0.7",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m38399",
+      "name": "Jesse Lenker",
+      "rating": 1606.29,
+      "rd": 20.5,
+      "ratingClass": "A",
+      "homeLocation": "Game Galaxy Arcade",
+      "homeLocationId": "3448",
+      "percentile": 83.51423114547912,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m21145",
+      "name": "Ryan Nole",
+      "rating": 1587.86,
+      "rd": 16.73,
+      "ratingClass": "B",
+      "homeLocation": "Up-Down",
+      "homeLocationId": "11567",
+      "percentile": 78.87920995015605,
+      "changeDisplay": "+11.0",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m32111",
+      "name": "Erin Telfer",
+      "rating": 1575.47,
+      "rd": 19.03,
+      "ratingClass": "B",
+      "homeLocation": "Up-Down",
+      "homeLocationId": "11567",
+      "percentile": 75.25970093632085,
+      "changeDisplay": "-0.5",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m43534",
+      "name": "Tony Hightower",
+      "rating": 1570.3,
+      "rd": 22.81,
+      "ratingClass": "B",
+      "homeLocation": "Hot Rod",
+      "homeLocationId": "11652",
+      "percentile": 73.55475846648343,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m41178",
+      "name": "Tom Rushing",
+      "rating": 1569.08,
+      "rd": 24.67,
+      "ratingClass": "B",
+      "homeLocation": "Hot Rod",
+      "homeLocationId": "11652",
+      "percentile": 73.19606838403129,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m34634",
+      "name": "Nicole beck",
+      "rating": 1539.04,
+      "rd": 17.53,
+      "ratingClass": "B",
+      "homeLocation": "Game Galaxy Arcade",
+      "homeLocationId": "3448",
+      "percentile": 62.73349792705082,
+      "changeDisplay": "-3.9",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m21055",
+      "name": "Sara Yoder",
+      "rating": 1535.35,
+      "rd": 18.98,
+      "ratingClass": "B",
+      "homeLocation": "Game Galaxy Arcade",
+      "homeLocationId": "3448",
+      "percentile": 61.126380025154894,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m25384",
+      "name": "Kathy Adler",
+      "rating": 1534.19,
+      "rd": 17.83,
+      "ratingClass": "B",
+      "homeLocation": "Game Galaxy Arcade",
+      "homeLocationId": "3448",
+      "percentile": 60.67452368752038,
+      "changeDisplay": "-2.8",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m54011",
+      "name": "Dalten Stone",
+      "rating": 1503.36,
+      "rd": 25.37,
+      "ratingClass": "B",
+      "homeLocation": "Hot Rod",
+      "homeLocationId": "11652",
+      "percentile": 48.50701076070247,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i23872",
+      "name": "Chris Royalty",
+      "rating": 1490.45,
+      "rd": 27.47,
+      "ratingClass": "C",
+      "homeLocation": "Hot Rod",
+      "homeLocationId": "11652",
+      "percentile": 43.201192528066336,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m54806",
+      "name": "Todd Vance",
+      "rating": 1434.13,
+      "rd": 26.98,
+      "ratingClass": "C",
+      "homeLocation": "Quarter Bandits Arcade",
+      "homeLocationId": "11389",
+      "percentile": 21.833511901989098,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m49588",
+      "name": "Nathan Dubs",
+      "rating": 1426.59,
+      "rd": 37.94,
+      "ratingClass": "C",
+      "homeLocation": "Hot rod arcade",
+      "homeLocationId": "10074",
+      "percentile": 19.583546839334794,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i110474",
+      "name": "Alex Cardwell TN",
+      "rating": 1405.91,
+      "rd": 28.42,
+      "ratingClass": "C",
+      "homeLocation": "Hot Rod",
+      "homeLocationId": "11652",
+      "percentile": 13.988913215633298,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i158366",
+      "name": "Roscoe Roatch",
+      "rating": 1400.54,
+      "rd": 37.94,
+      "ratingClass": "C",
+      "homeLocation": "Quarter Bandits Arcade",
+      "homeLocationId": "11389",
+      "percentile": 12.628685889970653,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i131553",
+      "name": "Cora mayes",
+      "rating": 1391.9,
+      "rd": 37.16,
+      "ratingClass": "D",
+      "homeLocation": "Hot rod arcade",
+      "homeLocationId": "10074",
+      "percentile": 10.658219592863464,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m58298",
+      "name": "Matthew russo",
+      "rating": 1360.21,
+      "rd": 34.05,
+      "ratingClass": "D",
+      "homeLocation": "Hot rod arcade",
+      "homeLocationId": "10074",
+      "percentile": 5.459542553687054,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m54602",
+      "name": "Brittany Whitley",
+      "rating": 1321.63,
+      "rd": 34.14,
+      "ratingClass": "D",
+      "homeLocation": "Game Galaxy Arcade",
+      "homeLocationId": "3448",
+      "percentile": 1.9471747333115945,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

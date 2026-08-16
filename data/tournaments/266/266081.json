@@ -1,0 +1,123 @@
+{
+  "tournamentId": 266081,
+  "name": "Crazy 8's 8/8 7 strike tournament.",
+  "date": "2026-08-08",
+  "locationId": "10350",
+  "locationName": "ULEKstore’s Pinball and Classic Arcade",
+  "playerCount": 16,
+  "ratingsDate": "2026-08-08",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m56276",
+      "name": "Greg Barrus",
+      "rating": 1626.63,
+      "dailyRatingChange": 13.53
+    },
+    {
+      "position": 2,
+      "playerId": "m21726",
+      "name": "Jeff Catenacci",
+      "rating": 1647.58,
+      "dailyRatingChange": 11.53
+    },
+    {
+      "position": 3,
+      "playerId": "m57090",
+      "name": "Roy Hollis",
+      "rating": 1656.74,
+      "dailyRatingChange": 2.65
+    },
+    {
+      "position": 4,
+      "playerId": "m17645",
+      "name": "Patrick Mendis",
+      "rating": 1630.97,
+      "dailyRatingChange": 1.89
+    },
+    {
+      "position": 4,
+      "playerId": "m12241",
+      "name": "Jason Humphrey",
+      "rating": 1601.71,
+      "dailyRatingChange": 6
+    },
+    {
+      "position": 6,
+      "playerId": "m8678",
+      "name": "Cindy Yao",
+      "rating": 1675.52,
+      "dailyRatingChange": -5.1
+    },
+    {
+      "position": 6,
+      "playerId": "m23311",
+      "name": "daniel walczak",
+      "rating": 1572.54,
+      "dailyRatingChange": 1.98
+    },
+    {
+      "position": 8,
+      "playerId": "m19975",
+      "name": "Dan Sinnott",
+      "rating": 1570.46,
+      "dailyRatingChange": 3.1
+    },
+    {
+      "position": 8,
+      "playerId": "m995",
+      "name": "Evan Williams",
+      "rating": 1674.75,
+      "dailyRatingChange": -4.79
+    },
+    {
+      "position": 8,
+      "playerId": "m48545",
+      "name": "Bret Trocchio",
+      "rating": 1579.8,
+      "dailyRatingChange": 2.11
+    },
+    {
+      "position": 11,
+      "playerId": "m25776",
+      "name": "Uber Hubris",
+      "rating": 1640.66,
+      "dailyRatingChange": -4.44
+    },
+    {
+      "position": 12,
+      "playerId": "m9409",
+      "name": "Ryan Jurado",
+      "rating": 1642.69,
+      "dailyRatingChange": -4.22
+    },
+    {
+      "position": 13,
+      "playerId": "m44840",
+      "name": "Karlos Ko",
+      "rating": 1608.85,
+      "dailyRatingChange": -6.85
+    },
+    {
+      "position": 14,
+      "playerId": "m20985",
+      "name": "Heather Catenacci",
+      "rating": 1538.88,
+      "dailyRatingChange": -8.84
+    },
+    {
+      "position": 14,
+      "playerId": "m58012",
+      "name": "David Cummings",
+      "rating": 1394.65,
+      "dailyRatingChange": -10.9
+    },
+    {
+      "position": 16,
+      "playerId": "i92087",
+      "name": "Bailey Bowman",
+      "rating": 1348.29,
+      "dailyRatingChange": -17.18
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "tournamentId": 266733,
+  "name": "BrewDog Pentridge Best Game August 2026 Frenzy Finals",
+  "date": "2026-08-12",
+  "locationId": null,
+  "locationName": null,
+  "playerCount": 11,
+  "ratingsDate": "2026-08-12",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m7974",
+      "name": "Simon Raik-Allen",
+      "rating": 1635.21,
+      "dailyRatingChange": 19.63
+    },
+    {
+      "position": 2,
+      "playerId": "m6932",
+      "name": "Simon Peel",
+      "rating": 1696.91,
+      "dailyRatingChange": 7.11
+    },
+    {
+      "position": 3,
+      "playerId": "m14908",
+      "name": "Brodie Dixon",
+      "rating": 1614.02,
+      "dailyRatingChange": 8.41
+    },
+    {
+      "position": 4,
+      "playerId": "m58",
+      "name": "Luke Marburg",
+      "rating": 1674.42,
+      "dailyRatingChange": -2.2
+    },
+    {
+      "position": 5,
+      "playerId": "m43768",
+      "name": "Phillip De Bortoli",
+      "rating": 1651.93,
+      "dailyRatingChange": 1.45
+    },
+    {
+      "position": 6,
+      "playerId": "m951",
+      "name": "Stacey Borg",
+      "rating": 1664.14,
+      "dailyRatingChange": -0.28
+    },
+    {
+      "position": 7,
+      "playerId": "m3235",
+      "name": "David Holroyd AUS",
+      "rating": 1630.47,
+      "dailyRatingChange": -6.91
+    },
+    {
+      "position": 8,
+      "playerId": "m25855",
+      "name": "Nathan Holmes",
+      "rating": 1641.13,
+      "dailyRatingChange": -9.2
+    },
+    {
+      "position": 9,
+      "playerId": "m17468",
+      "name": "Andy Coffey",
+      "rating": 1622.49,
+      "dailyRatingChange": -6.45
+    },
+    {
+      "position": 10,
+      "playerId": "m10513",
+      "name": "Daniel McGorum",
+      "rating": 1605.83,
+      "dailyRatingChange": -7.32
+    },
+    {
+      "position": 11,
+      "playerId": "m47362",
+      "name": "Tony Pain",
+      "rating": 1522.53,
+      "dailyRatingChange": -9.94
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "tournamentId": 265546,
+  "name": "Tik Tok's Matchplay 8/4",
+  "date": "2026-08-05",
+  "locationId": "3191",
+  "locationName": "Tik Tok’s Workshop ",
+  "playerCount": 8,
+  "ratingsDate": "2026-08-05",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m3565",
+      "name": "Richard Godwin",
+      "rating": 1553.86,
+      "dailyRatingChange": 3.3
+    },
+    {
+      "position": 2,
+      "playerId": "m29466",
+      "name": "Bruce Cherry",
+      "rating": 1504.79,
+      "dailyRatingChange": 3
+    },
+    {
+      "position": 3,
+      "playerId": "m4401",
+      "name": "Andrew McCann",
+      "rating": 1659.66,
+      "dailyRatingChange": -12.62
+    },
+    {
+      "position": 4,
+      "playerId": "m19474",
+      "name": "Matthew Mihelich",
+      "rating": 1485.09,
+      "dailyRatingChange": 0.52
+    },
+    {
+      "position": 5,
+      "playerId": "m456069",
+      "name": "Kelly Frost WA",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 6,
+      "playerId": "m30728",
+      "name": "Colleen Godwin",
+      "rating": 1366.92,
+      "dailyRatingChange": 10.56
+    },
+    {
+      "position": 7,
+      "playerId": "m456070",
+      "name": "Kate Janeway",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 8,
+      "playerId": "m580404",
+      "name": "Kenny Henslee",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

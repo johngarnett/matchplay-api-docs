@@ -1,0 +1,67 @@
+{
+  "tournamentId": 244008,
+  "name": "The Control Room Monthly Pinball Tournament",
+  "date": "2026-08-12",
+  "locationId": "13038",
+  "locationName": "The Control Room",
+  "playerCount": 8,
+  "ratingsDate": "2026-08-12",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m62100",
+      "name": "Kel G",
+      "rating": 1543.29,
+      "dailyRatingChange": 35.83
+    },
+    {
+      "position": 2,
+      "playerId": "m45346",
+      "name": "Luke",
+      "rating": 1704.45,
+      "dailyRatingChange": -3.7
+    },
+    {
+      "position": 3,
+      "playerId": "m57765",
+      "name": "Sean A",
+      "rating": 1380.85,
+      "dailyRatingChange": 14.38
+    },
+    {
+      "position": 4,
+      "playerId": "i127678",
+      "name": "Scott Sweet",
+      "rating": 1604.53,
+      "dailyRatingChange": -7.25
+    },
+    {
+      "position": 5,
+      "playerId": "m54486",
+      "name": "Tim Lindstorm",
+      "rating": 1501.6,
+      "dailyRatingChange": -1.75
+    },
+    {
+      "position": 5,
+      "playerId": "m43322",
+      "name": "Kyle Duff",
+      "rating": 1431.31,
+      "dailyRatingChange": 1.78
+    },
+    {
+      "position": 7,
+      "playerId": "m54488",
+      "name": "Bobby Allen",
+      "rating": 1541.46,
+      "dailyRatingChange": -4.14
+    },
+    {
+      "position": 8,
+      "playerId": "m58898",
+      "name": "Heather Johnson",
+      "rating": 1364.31,
+      "dailyRatingChange": -9.01
+    }
+  ]
+}

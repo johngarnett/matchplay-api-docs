@@ -1,0 +1,179 @@
+{
+  "locationId": "5202",
+  "name": "District 1 Brewing Company",
+  "address": "200 Division St N, Stevens Point, WI 54481, USA",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 10,
+  "relatedVenues": [
+    {
+      "locationId": "4804",
+      "name": "District 82 Pinball",
+      "address": "800 O Keefe Rd, De Pere, WI 54115, USA",
+      "count": 43
+    },
+    {
+      "locationId": "10138",
+      "name": "Lumberjack Johnnys Appleton - Axe Throwing & Pinball",
+      "address": "2701 N Oneida St, Appleton, WI 54911, US",
+      "count": 11
+    },
+    {
+      "locationId": "9390",
+      "name": "Glow In The Park Indoor Mini Golf",
+      "address": "300 S Koeller St, Oshkosh, WI 54902, US",
+      "count": 4
+    },
+    {
+      "locationId": "5974",
+      "name": "Titletown Taproom",
+      "address": "",
+      "count": 3
+    },
+    {
+      "locationId": "8275",
+      "name": "Player 2 Arcade Bar",
+      "address": "215 E College Avenue, Appleton, WI 54911, US",
+      "count": 3
+    },
+    {
+      "locationId": "12684",
+      "name": "Lumberjack Johnny's Appleton",
+      "address": "2701 N. Oneida Street, Appleton, WI 54911",
+      "count": 2
+    },
+    {
+      "locationId": "5726",
+      "name": "Steve Fabry's",
+      "address": "",
+      "count": 1
+    },
+    {
+      "locationId": "8200",
+      "name": "Player 2 Green Bay",
+      "address": "",
+      "count": 1
+    }
+  ],
+  "players": [
+    {
+      "id": "m16101",
+      "name": "Matt McCarty **TD**",
+      "rating": 1681.78,
+      "rd": 15.38,
+      "ratingClass": "A",
+      "homeLocation": "District 82 Pinball",
+      "homeLocationId": "4804",
+      "percentile": 95.28578748777193,
+      "changeDisplay": "+6.5",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "i73504",
+      "name": "Reed Hartjes",
+      "rating": 1644.51,
+      "rd": 50.9,
+      "ratingClass": "A",
+      "homeLocation": "District 1 Brewing Company",
+      "homeLocationId": "5202",
+      "percentile": 90.96287324730983,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m32477",
+      "name": "Hunter Neidermann",
+      "rating": 1613.27,
+      "rd": 40.5,
+      "ratingClass": "A",
+      "homeLocation": "District 1 Brewing Company",
+      "homeLocationId": "5202",
+      "percentile": 85.11669073461591,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i65116",
+      "name": "Joe Hartjes",
+      "rating": 1587.85,
+      "rd": 45.08,
+      "ratingClass": "B",
+      "homeLocation": "District 1 Brewing Company",
+      "homeLocationId": "5202",
+      "percentile": 78.86989332463781,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i87051",
+      "name": "Shaina Shatters",
+      "rating": 1554.45,
+      "rd": 43.53,
+      "ratingClass": "B",
+      "homeLocation": "District 1 Brewing Company",
+      "homeLocationId": "5202",
+      "percentile": 68.472539246285,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m16701",
+      "name": "Scott Hintze",
+      "rating": 1539.26,
+      "rd": 40.76,
+      "ratingClass": "B",
+      "homeLocation": "District 1 Brewing Company",
+      "homeLocationId": "5202",
+      "percentile": 62.845297433269664,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i5164",
+      "name": "Ed Owens",
+      "rating": 1514.83,
+      "rd": 40.19,
+      "ratingClass": "B",
+      "homeLocation": "District 1 Brewing Company",
+      "homeLocationId": "5202",
+      "percentile": 53.13737364326641,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m34254",
+      "name": "John Zalewski",
+      "rating": 1449.26,
+      "rd": 33.83,
+      "ratingClass": "C",
+      "homeLocation": "District 82 Pinball",
+      "homeLocationId": "4804",
+      "percentile": 26.864489681837238,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m17904",
+      "name": "Steve Dix",
+      "rating": 1434.31,
+      "rd": 46.79,
+      "ratingClass": "C",
+      "homeLocation": "District 1 Brewing Company",
+      "homeLocationId": "5202",
+      "percentile": 21.912703218894116,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i73507",
+      "name": "Baylee Hartjes",
+      "rating": 1356.28,
+      "rd": 55.23,
+      "ratingClass": "D",
+      "homeLocation": "District 1 Brewing Company",
+      "homeLocationId": "5202",
+      "percentile": 4.979736339497834,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

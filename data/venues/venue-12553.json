@@ -1,0 +1,191 @@
+{
+  "locationId": "12553",
+  "name": "Gateway City Brewery",
+  "address": "490 Gormanville Road, North Bay, ON P1B 9S7, CA",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 14,
+  "relatedVenues": [
+    {
+      "locationId": "6085",
+      "name": "Maple Pinball",
+      "address": "",
+      "count": 3
+    },
+    {
+      "locationId": "11503",
+      "name": "PINFEST 2025",
+      "address": "Great Northern Exhibition - 2220 Fairgrounds Rd. Stayner, Ontario L0M 1S0",
+      "count": 1
+    }
+  ],
+  "players": [
+    {
+      "id": "i97407",
+      "name": "Colton Chalkley",
+      "rating": 1681.03,
+      "rd": 50.84,
+      "ratingClass": "A",
+      "homeLocation": "Gateway City Brewery",
+      "homeLocationId": "12553",
+      "percentile": 95.23454604742162,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m44377",
+      "name": "Ian Johnson",
+      "rating": 1633.78,
+      "rd": 41.19,
+      "ratingClass": "A",
+      "homeLocation": "Gateway City Brewery",
+      "homeLocationId": "12553",
+      "percentile": 89.24861415195416,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m33691",
+      "name": "Rebecca Hughes",
+      "rating": 1630.24,
+      "rd": 32.22,
+      "ratingClass": "A",
+      "homeLocation": "Gateway City Brewery",
+      "homeLocationId": "12553",
+      "percentile": 88.61042530395491,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m46816",
+      "name": "Tommy Gagne",
+      "rating": 1600.69,
+      "rd": 28.19,
+      "ratingClass": "A",
+      "homeLocation": "Maple Pinball",
+      "homeLocationId": "6085",
+      "percentile": 82.15866213257557,
+      "changeDisplay": "-19.7",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "i153939",
+      "name": "Kevin O'Reilly",
+      "rating": 1568.3,
+      "rd": 37.27,
+      "ratingClass": "B",
+      "homeLocation": "Gateway City Brewery",
+      "homeLocationId": "12553",
+      "percentile": 72.97712768435272,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m55198",
+      "name": "Andrew Stapley",
+      "rating": 1566.63,
+      "rd": 38.48,
+      "ratingClass": "B",
+      "homeLocation": "Gateway City Brewery",
+      "homeLocationId": "12553",
+      "percentile": 72.46005496809056,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m50954",
+      "name": "Angelo Dodaro",
+      "rating": 1549.34,
+      "rd": 30.65,
+      "ratingClass": "B",
+      "homeLocation": "PINFEST 2025",
+      "homeLocationId": "11503",
+      "percentile": 66.43685657055015,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m56107",
+      "name": "Matt Keigher",
+      "rating": 1511.65,
+      "rd": 33.41,
+      "ratingClass": "B",
+      "homeLocation": "Gateway City Brewery",
+      "homeLocationId": "12553",
+      "percentile": 51.87962919830438,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i153935",
+      "name": "Ray St. Louis",
+      "rating": 1503.63,
+      "rd": 40.74,
+      "ratingClass": "B",
+      "homeLocation": "Gateway City Brewery",
+      "homeLocationId": "12553",
+      "percentile": 48.64676014347603,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i97410",
+      "name": "Matt Dotey",
+      "rating": 1478.74,
+      "rd": 45.58,
+      "ratingClass": "C",
+      "homeLocation": "Gateway City Brewery",
+      "homeLocationId": "12553",
+      "percentile": 38.4450552010062,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i153940",
+      "name": "Alyssa Stapley",
+      "rating": 1442,
+      "rd": 38.23,
+      "ratingClass": "C",
+      "homeLocation": "Gateway City Brewery",
+      "homeLocationId": "12553",
+      "percentile": 24.34900079191317,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i153936",
+      "name": "Ian Watson",
+      "rating": 1403.64,
+      "rd": 35.3,
+      "ratingClass": "C",
+      "homeLocation": "Gateway City Brewery",
+      "homeLocationId": "12553",
+      "percentile": 13.425257371779942,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i153937",
+      "name": "Ray Comeau",
+      "rating": 1377.5,
+      "rd": 37.51,
+      "ratingClass": "D",
+      "homeLocation": "Gateway City Brewery",
+      "homeLocationId": "12553",
+      "percentile": 7.872548562910514,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i153934",
+      "name": "Denis Poirer",
+      "rating": 1354.16,
+      "rd": 42.73,
+      "ratingClass": "D",
+      "homeLocation": "Gateway City Brewery",
+      "homeLocationId": "12553",
+      "percentile": 4.728187450505427,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

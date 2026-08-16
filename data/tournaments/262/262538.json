@@ -1,0 +1,25 @@
+{
+  "tournamentId": 262538,
+  "name": "Clarkade 3 Strike Knockout",
+  "date": "2026-07-17",
+  "locationId": "13738",
+  "locationName": "Clarkade",
+  "playerCount": 2,
+  "ratingsDate": "2026-07-17",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m19965",
+      "name": "Wolfgang Fäustle",
+      "rating": 1552.9,
+      "dailyRatingChange": -1.52
+    },
+    {
+      "position": 2,
+      "playerId": "m579201",
+      "name": "Reggie Steele",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

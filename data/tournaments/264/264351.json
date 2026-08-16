@@ -1,0 +1,95 @@
+{
+  "tournamentId": 264351,
+  "name": "Finals for Token Tuesday!  Transformers Launch Edition",
+  "date": "2026-07-29",
+  "locationId": "13800",
+  "locationName": "Token Game Tavern",
+  "playerCount": 12,
+  "ratingsDate": "2026-07-29",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m36758",
+      "name": "Evan Gagnon",
+      "rating": 1773.4,
+      "dailyRatingChange": 21.63
+    },
+    {
+      "position": 2,
+      "playerId": "m40158",
+      "name": "Andrew Hernandez",
+      "rating": 1657.07,
+      "dailyRatingChange": 2.51
+    },
+    {
+      "position": 3,
+      "playerId": "m11160",
+      "name": "Philip Kaiser",
+      "rating": 1767.85,
+      "dailyRatingChange": 5.93
+    },
+    {
+      "position": 4,
+      "playerId": "m9701",
+      "name": "Blake Mink",
+      "rating": 1587.89,
+      "dailyRatingChange": 7.82
+    },
+    {
+      "position": 5,
+      "playerId": "m6844",
+      "name": "John Tyner",
+      "rating": 1657.3,
+      "dailyRatingChange": 5.03
+    },
+    {
+      "position": 5,
+      "playerId": "m23243",
+      "name": "Michael Feiertag",
+      "rating": 1641.35,
+      "dailyRatingChange": 2.8
+    },
+    {
+      "position": 7,
+      "playerId": "m24593",
+      "name": "Tyler Crutcher",
+      "rating": 1580.68,
+      "dailyRatingChange": 1.85
+    },
+    {
+      "position": 7,
+      "playerId": "m46751",
+      "name": "Kevin Neale",
+      "rating": 1596.16,
+      "dailyRatingChange": -21.04
+    },
+    {
+      "position": 9,
+      "playerId": "m53215",
+      "name": "Neil Maddox",
+      "rating": 1449.94,
+      "dailyRatingChange": 9.32
+    },
+    {
+      "position": 9,
+      "playerId": "m28768",
+      "name": "Kyle Skogen",
+      "rating": 1585.07,
+      "dailyRatingChange": 2.93
+    },
+    {
+      "position": 11,
+      "playerId": "m27968",
+      "name": "Jesse Sexton",
+      "rating": 1643.03,
+      "dailyRatingChange": -4.4
+    },
+    {
+      "position": 11,
+      "playerId": "m58930",
+      "name": "Rachel Stock",
+      "rating": 1350.04,
+      "dailyRatingChange": 10.68
+    }
+  ]
+}

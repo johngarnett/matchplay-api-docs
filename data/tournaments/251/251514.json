@@ -1,0 +1,116 @@
+{
+  "tournamentId": 251514,
+  "name": "Tilt & Tap Tuesday's!",
+  "date": "2026-08-12",
+  "locationId": "9807",
+  "locationName": "Minnesota Pinball @ Bucks Mill Brewing",
+  "playerCount": 15,
+  "ratingsDate": "2026-08-12",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m45268",
+      "name": "Ross mickelson",
+      "rating": 1580.02,
+      "dailyRatingChange": 18.58
+    },
+    {
+      "position": 2,
+      "playerId": "m40084",
+      "name": "Chris Smith",
+      "rating": 1464.99,
+      "dailyRatingChange": 9.77
+    },
+    {
+      "position": 3,
+      "playerId": "i123073",
+      "name": "Trent Leshovsky",
+      "rating": 1469,
+      "dailyRatingChange": 9.09
+    },
+    {
+      "position": 4,
+      "playerId": "m40082",
+      "name": "Jed Arneson",
+      "rating": 1516.28,
+      "dailyRatingChange": 1.18
+    },
+    {
+      "position": 5,
+      "playerId": "m55926",
+      "name": "Chris Sebastian",
+      "rating": 1504.12,
+      "dailyRatingChange": -0.41
+    },
+    {
+      "position": 6,
+      "playerId": "m6843",
+      "name": "Tim Fiechtner",
+      "rating": 1649.63,
+      "dailyRatingChange": -9.44
+    },
+    {
+      "position": 7,
+      "playerId": "i154460",
+      "name": "Chase LaVine",
+      "rating": 1489.19,
+      "dailyRatingChange": 4.06
+    },
+    {
+      "position": 8,
+      "playerId": "m40440",
+      "name": "Patrick Williams",
+      "rating": 1500.18,
+      "dailyRatingChange": -1.3
+    },
+    {
+      "position": 8,
+      "playerId": "i122699",
+      "name": "Jim Francis",
+      "rating": 1536.77,
+      "dailyRatingChange": -3.56
+    },
+    {
+      "position": 10,
+      "playerId": "m571864",
+      "name": "Caitlyn LaVine",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 10,
+      "playerId": "m39708",
+      "name": "Taylor Blank",
+      "rating": 1449.41,
+      "dailyRatingChange": -6.91
+    },
+    {
+      "position": 10,
+      "playerId": "i123340",
+      "name": "Oscar Ellerbusch",
+      "rating": 1417.56,
+      "dailyRatingChange": -7.69
+    },
+    {
+      "position": 13,
+      "playerId": "i123074",
+      "name": "Brian Ellerbusch",
+      "rating": 1465.24,
+      "dailyRatingChange": -6.95
+    },
+    {
+      "position": 14,
+      "playerId": "i158680",
+      "name": "Sean Oakes",
+      "rating": 1416.37,
+      "dailyRatingChange": -6.52
+    },
+    {
+      "position": 15,
+      "playerId": "i123341",
+      "name": "Lucinda Ellerbusch",
+      "rating": 1375.07,
+      "dailyRatingChange": -20.83
+    }
+  ]
+}

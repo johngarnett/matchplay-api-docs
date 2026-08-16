@@ -1,0 +1,130 @@
+{
+  "tournamentId": 265982,
+  "name": "Friday Night Fair Strikes at Pinball Capital Chicago 8/7",
+  "date": "2026-08-08",
+  "locationId": "13170",
+  "locationName": "The Pinball Capital",
+  "playerCount": 17,
+  "ratingsDate": "2026-08-08",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m27144",
+      "name": "Ted Brockly",
+      "rating": 1637.59,
+      "dailyRatingChange": 19.41
+    },
+    {
+      "position": 2,
+      "playerId": "m28462",
+      "name": "Dan Sweeney",
+      "rating": 1708.8,
+      "dailyRatingChange": 5.62
+    },
+    {
+      "position": 3,
+      "playerId": "m30876",
+      "name": "Christopher Habrelewicz",
+      "rating": 1753.41,
+      "dailyRatingChange": -6.02
+    },
+    {
+      "position": 4,
+      "playerId": "m35469",
+      "name": "Jim Piarowski",
+      "rating": 1603.17,
+      "dailyRatingChange": 3.88
+    },
+    {
+      "position": 4,
+      "playerId": "m59462",
+      "name": "Katelyn Speck",
+      "rating": 1549.96,
+      "dailyRatingChange": 10.17
+    },
+    {
+      "position": 6,
+      "playerId": "m22638",
+      "name": "james fremont",
+      "rating": 1601.93,
+      "dailyRatingChange": 4.41
+    },
+    {
+      "position": 6,
+      "playerId": "m585275",
+      "name": "Bob Waltzek",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 8,
+      "playerId": "m45971",
+      "name": "Nik Grosch",
+      "rating": 1660.07,
+      "dailyRatingChange": -3.3
+    },
+    {
+      "position": 9,
+      "playerId": "m39411",
+      "name": "David Slaymaker",
+      "rating": 1681.94,
+      "dailyRatingChange": -3.69
+    },
+    {
+      "position": 10,
+      "playerId": "m35487",
+      "name": "Robbie Piarowski",
+      "rating": 1528.19,
+      "dailyRatingChange": 1.73
+    },
+    {
+      "position": 11,
+      "playerId": "m39082",
+      "name": "Ron Malenke",
+      "rating": 1535.76,
+      "dailyRatingChange": -1.81
+    },
+    {
+      "position": 11,
+      "playerId": "m585272",
+      "name": "Bill Waltzek",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 13,
+      "playerId": "m36398",
+      "name": "Francis Wisniewski",
+      "rating": 1583.39,
+      "dailyRatingChange": -5.38
+    },
+    {
+      "position": 14,
+      "playerId": "m58411",
+      "name": "Becca Speck",
+      "rating": 1400.89,
+      "dailyRatingChange": -4.22
+    },
+    {
+      "position": 14,
+      "playerId": "m58409",
+      "name": "Zak Speck",
+      "rating": 1482.95,
+      "dailyRatingChange": -2.02
+    },
+    {
+      "position": 16,
+      "playerId": "m59876",
+      "name": "Geneve Halfman",
+      "rating": 1384.84,
+      "dailyRatingChange": -12.74
+    },
+    {
+      "position": 17,
+      "playerId": "i159462",
+      "name": "Keith Halfman",
+      "rating": 1537.41,
+      "dailyRatingChange": -27.11
+    }
+  ]
+}

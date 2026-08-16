@@ -1,0 +1,155 @@
+{
+  "locationId": "11201",
+  "name": "Lawrence Hall",
+  "address": "4609 Butler St, Pittsburgh, PA 15201, US",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 7,
+  "relatedVenues": [
+    {
+      "locationId": "2480",
+      "name": "Pittsburgh Pinball Dojo",
+      "address": "2 N Balph Ave, Bellevue PA 15202",
+      "count": 31
+    },
+    {
+      "locationId": "7785",
+      "name": "Helicon Brewing",
+      "address": "102 Union Ave, Oakdale, PA 15071, US",
+      "count": 11
+    },
+    {
+      "locationId": "8271",
+      "name": "Rezzanine Esports",
+      "address": "1025 Washington Pike, Bridgeville, PA 15017, US",
+      "count": 10
+    },
+    {
+      "locationId": "9489",
+      "name": "Verdetto’s Bar",
+      "address": "814 Madison Avenue, Pittsburgh, PA 15212, US",
+      "count": 9
+    },
+    {
+      "locationId": "9215",
+      "name": "Velum Fermentation",
+      "address": "2120 Jane St, Pittsburgh, PA 15203, US",
+      "count": 8
+    },
+    {
+      "locationId": "11359",
+      "name": "Pinball Perfection",
+      "address": "231 Perry Highway, Westview, PA 15229, US",
+      "count": 6
+    },
+    {
+      "locationId": "10819",
+      "name": "The Vapor Cloud",
+      "address": "1445 Washington Rd, Washington, PA 15301, US",
+      "count": 4
+    },
+    {
+      "locationId": "13462",
+      "name": "Row House Cinemas - Hollywood",
+      "address": "1449 Potomac Ave, Pittsburgh, PA 15216, US",
+      "count": 3
+    },
+    {
+      "locationId": "12777",
+      "name": "The Church Arcade",
+      "address": "32 S 1st Street, Duquesne PA, 15110",
+      "count": 2
+    },
+    {
+      "locationId": "12153",
+      "name": "Meadows Lanes Bowling",
+      "address": "210 Racetrack Rd, Washington, PA 15301, US",
+      "count": 1
+    }
+  ],
+  "players": [
+    {
+      "id": "m5301",
+      "name": "Pete Hendricks",
+      "rating": 1712.39,
+      "rd": 23.65,
+      "ratingClass": "Expert",
+      "homeLocation": "Helicon Brewing",
+      "homeLocationId": "7785",
+      "percentile": 97.28420366143384,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m32306",
+      "name": "Walt Lannis",
+      "rating": 1699.02,
+      "rd": 20.98,
+      "ratingClass": "A",
+      "homeLocation": "Pittsburgh Pinball Dojo",
+      "homeLocationId": "2480",
+      "percentile": 96.53421530721573,
+      "changeDisplay": "-0.1",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m38493",
+      "name": "Will Lannis",
+      "rating": 1635.73,
+      "rd": 24.4,
+      "ratingClass": "A",
+      "homeLocation": "Pittsburgh Pinball Dojo",
+      "homeLocationId": "2480",
+      "percentile": 89.59798760888806,
+      "changeDisplay": "+5.8",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m3307",
+      "name": "Sandy Graver",
+      "rating": 1561.53,
+      "rd": 28.03,
+      "ratingClass": "B",
+      "homeLocation": "Pittsburgh Pinball Dojo",
+      "homeLocationId": "2480",
+      "percentile": 70.86691200447198,
+      "changeDisplay": "+5.6",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m25615",
+      "name": "Derek Anderson",
+      "rating": 1530.32,
+      "rd": 25.11,
+      "ratingClass": "B",
+      "homeLocation": "Pittsburgh Pinball Dojo",
+      "homeLocationId": "2480",
+      "percentile": 59.16988866632506,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m6481",
+      "name": "Peace Nick Mann",
+      "rating": 1448.13,
+      "rd": 30.29,
+      "ratingClass": "C",
+      "homeLocation": "Pittsburgh Pinball Dojo",
+      "homeLocationId": "2480",
+      "percentile": 26.48716634834863,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i161171",
+      "name": "Katie Hudson",
+      "rating": 1396.41,
+      "rd": 38.6,
+      "ratingClass": "D",
+      "homeLocation": "Pittsburgh Pinball Dojo",
+      "homeLocationId": "2480",
+      "percentile": 11.631806959519263,
+      "changeDisplay": "-26.3",
+      "changeClass": "change-negative"
+    }
+  ]
+}

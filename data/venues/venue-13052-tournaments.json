@@ -1,0 +1,40 @@
+{
+  "locationId": "13052",
+  "venueName": "gpl hq",
+  "venueAddress": "",
+  "tournaments": [
+    {
+      "id": 266031,
+      "name": "GPL HQ Ice Age Event",
+      "date": "8/8/2026",
+      "playerCount": 17,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m57829",
+          "name": "Brett Cooke",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m40815",
+          "name": "Simon Voigt",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "i116720",
+          "name": "Tony Morgan",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m54317",
+          "name": "Bennet McComish",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

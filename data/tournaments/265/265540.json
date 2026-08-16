@@ -1,0 +1,67 @@
+{
+  "tournamentId": 265540,
+  "name": "Finals for Stern Army- 1st Thursdays @ Louie's Tap House- August",
+  "date": "2026-08-07",
+  "locationId": "6030",
+  "locationName": "Louie's Tap House",
+  "playerCount": 8,
+  "ratingsDate": "2026-08-07",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m26434",
+      "name": "Joe Buchanan",
+      "rating": 1617.71,
+      "dailyRatingChange": 16.56
+    },
+    {
+      "position": 2,
+      "playerId": "m24295",
+      "name": "Todd Eccles",
+      "rating": 1587.44,
+      "dailyRatingChange": 18.73
+    },
+    {
+      "position": 3,
+      "playerId": "m28085",
+      "name": "Kyler Dittbenner",
+      "rating": 1591.47,
+      "dailyRatingChange": 5.88
+    },
+    {
+      "position": 3,
+      "playerId": "m25335",
+      "name": "David Hoskins",
+      "rating": 1641.02,
+      "dailyRatingChange": -2.92
+    },
+    {
+      "position": 5,
+      "playerId": "m47572",
+      "name": "Ryan Holcomb",
+      "rating": 1621.65,
+      "dailyRatingChange": 0.26
+    },
+    {
+      "position": 5,
+      "playerId": "m35843",
+      "name": "Glenn Stickels",
+      "rating": 1691.82,
+      "dailyRatingChange": 0.82
+    },
+    {
+      "position": 7,
+      "playerId": "m27107",
+      "name": "Shane Shadden",
+      "rating": 1528.56,
+      "dailyRatingChange": 3.34
+    },
+    {
+      "position": 7,
+      "playerId": "m27725",
+      "name": "Josh Hanford",
+      "rating": 1616.79,
+      "dailyRatingChange": -2.64
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "tournamentId": 262984,
+  "name": "Finals for Pinball Monday #7 20.07.26",
+  "date": "2026-07-21",
+  "locationId": "5407",
+  "locationName": "Albert All games",
+  "playerCount": 8,
+  "ratingsDate": "2026-07-21",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m4146",
+      "name": "Eberhard Hattemer",
+      "rating": 1671.89,
+      "dailyRatingChange": 4.24
+    },
+    {
+      "position": 2,
+      "playerId": "m32870",
+      "name": "Benjamin Kispal",
+      "rating": 1687.11,
+      "dailyRatingChange": 0.5
+    },
+    {
+      "position": 3,
+      "playerId": "m44691",
+      "name": "Andi Arbeit",
+      "rating": 1741.3,
+      "dailyRatingChange": 0.17
+    },
+    {
+      "position": 4,
+      "playerId": "m619",
+      "name": "Albert Medaillon",
+      "rating": 1638.2,
+      "dailyRatingChange": -1
+    },
+    {
+      "position": 5,
+      "playerId": "i99668",
+      "name": "Matthias Keßler",
+      "rating": 1558.06,
+      "dailyRatingChange": -4.06
+    },
+    {
+      "position": 5,
+      "playerId": "m30611",
+      "name": "Michael Mallitzki",
+      "rating": 1582.02,
+      "dailyRatingChange": -2.09
+    },
+    {
+      "position": 5,
+      "playerId": "m43095",
+      "name": "Marc Jacobi",
+      "rating": 1564.67,
+      "dailyRatingChange": -1.07
+    },
+    {
+      "position": 5,
+      "playerId": "m29206",
+      "name": "Holger Kiefer",
+      "rating": 1533.57,
+      "dailyRatingChange": -1.75
+    }
+  ]
+}

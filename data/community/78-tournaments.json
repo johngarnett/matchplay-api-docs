@@ -1,0 +1,427 @@
+{
+  "communityId": "78",
+  "locations": [
+    {
+      "id": "11369",
+      "name": "Captain Crazy's Paradise",
+      "address": "2139 S McKenzie St, Foley, AL 36535, US",
+      "tournaments": [
+        {
+          "id": 266308,
+          "name": "CCParadise Sunday Funday League - Season 6 #3",
+          "date": "8/9/2026",
+          "playerCount": 23,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m1461",
+              "name": "Matthew Talley",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m44266",
+              "name": "Charlie Henderson",
+              "isCommunityMember": false
+            },
+            {
+              "position": 3,
+              "playerId": "m30950",
+              "name": "Jeff Bowles",
+              "isCommunityMember": false
+            },
+            {
+              "position": 4,
+              "playerId": "m11220",
+              "name": "Holly Hooper",
+              "isCommunityMember": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "13762",
+      "name": "Clever Unicorn Pinball Arcade",
+      "address": "1855 41st Ave Spc F-11, Capitola, CA 95010, US",
+      "tournaments": [
+        {
+          "id": 261412,
+          "name": "Santa Cruz Pinball League @ The Unicorn #1",
+          "date": "8/11/2026",
+          "playerCount": 25,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m4141",
+              "name": "Philip Priddy",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m27598",
+              "name": "Dean Roblee",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m18106",
+              "name": "Brian Simpson",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m21218",
+              "name": "Anthony Garcia CA",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m3108",
+              "name": "John Tracey",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m40769",
+              "name": "Morgan Louis",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m22564",
+              "name": "Matt Nielsen",
+              "isCommunityMember": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6612",
+      "name": "Lynn's Arcade: A Pinball Parlor and Can Slangery",
+      "address": "1760 Fremont Boulevard, Suite D1, Seaside, California 93955, US",
+      "tournaments": [
+        {
+          "id": 259278,
+          "name": "MFLPinball Summer Season 26 #6",
+          "date": "8/13/2026",
+          "playerCount": 18,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m23841",
+              "name": "Brianne Berlin",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m19080",
+              "name": "Tammy Ballinger",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m25049",
+              "name": "Amy Wolfrum",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m24825",
+              "name": "Carlene Malack",
+              "isCommunityMember": true
+            }
+          ]
+        },
+        {
+          "id": 259261,
+          "name": "MFPinball Summer Season 26 #6",
+          "date": "8/10/2026",
+          "playerCount": 48,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m12915",
+              "name": "Eric Garcia",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m25049",
+              "name": "Amy Wolfrum",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m3108",
+              "name": "John Tracey",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "p164122",
+              "name": "Kenny Chung",
+              "isCommunityMember": false
+            },
+            {
+              "position": 3,
+              "playerId": "m52231",
+              "name": "David Warner",
+              "isCommunityMember": true
+            }
+          ]
+        },
+        {
+          "id": 266003,
+          "name": "MF Locked In Strikes!",
+          "date": "8/7/2026",
+          "playerCount": 10,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m60",
+              "name": "Cary Carmichael",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m2642",
+              "name": "Nikki Carmichael",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m21063",
+              "name": "Andreina Ramirez",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m19871",
+              "name": "Melina Meltzer",
+              "isCommunityMember": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "11141",
+      "name": "Slingshot Pinball",
+      "address": "460 Lincoln Ave #70, San Jose, CA 95126, US",
+      "tournaments": [
+        {
+          "id": 266278,
+          "name": "Finals for Slingshot Monthly Tournament August 2026",
+          "date": "8/9/2026",
+          "playerCount": 4,
+          "qualifying": {
+            "id": 266272,
+            "name": "Slingshot Monthly Tournament August 2026",
+            "playerCount": 18
+          },
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m35145",
+              "name": "Edgar Flores",
+              "isCommunityMember": false
+            },
+            {
+              "position": 2,
+              "playerId": "m17857",
+              "name": "Matt Delsman",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "i140522",
+              "name": "Goran Loncar",
+              "isCommunityMember": false
+            },
+            {
+              "position": 4,
+              "playerId": "m47522",
+              "name": "Pierre Tschaeppaet",
+              "isCommunityMember": false
+            }
+          ]
+        },
+        {
+          "id": 266279,
+          "name": "B Div Finals for Slingshot Monthly Tournament August 2026",
+          "date": "8/9/2026",
+          "playerCount": 4,
+          "qualifying": {
+            "id": 266272,
+            "name": "Slingshot Monthly Tournament August 2026",
+            "playerCount": 18
+          },
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m964",
+              "name": "Aaron F. Taylor",
+              "isCommunityMember": false
+            },
+            {
+              "position": 2,
+              "playerId": "m34313",
+              "name": "Matt Hickman",
+              "isCommunityMember": false
+            },
+            {
+              "position": 3,
+              "playerId": "m51173",
+              "name": "Mike Leland-Nascimento",
+              "isCommunityMember": false
+            },
+            {
+              "position": 4,
+              "playerId": "m13586",
+              "name": "Ivy Simpson",
+              "isCommunityMember": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "13324",
+      "name": "The Cruz Room",
+      "address": "1520 Mission St, Santa Cruz, CA, 95060",
+      "tournaments": [
+        {
+          "id": 257301,
+          "name": "SCPL Westside Weekly’s @ The Cruz Room #5",
+          "date": "8/12/2026",
+          "playerCount": 9,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m43720",
+              "name": "Mike Hill",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m51277",
+              "name": "Missy Wools",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m52019",
+              "name": "Banyan Wools",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "p568584",
+              "name": "Kai Peterson",
+              "isCommunityMember": false
+            },
+            {
+              "position": 3,
+              "playerId": "m50075",
+              "name": "Dean Wools",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m49534",
+              "name": "Joachim Deguara",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m60838",
+              "name": "Patrick Kelleher",
+              "isCommunityMember": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "unknown",
+      "name": "Unknown Location",
+      "address": "",
+      "tournaments": [
+        {
+          "id": 266208,
+          "name": "Cal Extreme '26 B Finals",
+          "date": "8/9/2026",
+          "playerCount": 16,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m47805",
+              "name": "Cristian Twist",
+              "isCommunityMember": false
+            },
+            {
+              "position": 2,
+              "playerId": "m4141",
+              "name": "Philip Priddy",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m42701",
+              "name": "David A Green",
+              "isCommunityMember": false
+            },
+            {
+              "position": 4,
+              "playerId": "m54841",
+              "name": "Sean Rader",
+              "isCommunityMember": false
+            }
+          ]
+        },
+        {
+          "id": 266100,
+          "name": "CAX 2026 Women's Finals",
+          "date": "8/8/2026",
+          "playerCount": 8,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m44465",
+              "name": "Ripley Randall",
+              "isCommunityMember": false
+            },
+            {
+              "position": 2,
+              "playerId": "p585720",
+              "name": "Brianne Berlin",
+              "isCommunityMember": false
+            },
+            {
+              "position": 3,
+              "playerId": "m24476",
+              "name": "Amy Martin",
+              "isCommunityMember": false
+            },
+            {
+              "position": 4,
+              "playerId": "m39871",
+              "name": "Jenni Honka",
+              "isCommunityMember": true
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "tournamentId": 265193,
+  "name": "Finals for Sunday SuperFunDay!!!!",
+  "date": "2026-08-02",
+  "locationId": "11321",
+  "locationName": "Pins and Pints",
+  "playerCount": 8,
+  "ratingsDate": "2026-08-02",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m23243",
+      "name": "Michael Feiertag",
+      "rating": 1635.63,
+      "dailyRatingChange": 0.98
+    },
+    {
+      "position": 2,
+      "playerId": "m25118",
+      "name": "Thomas Noble",
+      "rating": 1651.5,
+      "dailyRatingChange": -3.92
+    },
+    {
+      "position": 3,
+      "playerId": "m27968",
+      "name": "Jesse Sexton",
+      "rating": 1655.52,
+      "dailyRatingChange": 7.49
+    },
+    {
+      "position": 4,
+      "playerId": "m28580",
+      "name": "Steve Lane",
+      "rating": 1649.94,
+      "dailyRatingChange": -0.77
+    },
+    {
+      "position": 5,
+      "playerId": "m33263",
+      "name": "Jordan Orren",
+      "rating": 1651.67,
+      "dailyRatingChange": -5.39
+    },
+    {
+      "position": 6,
+      "playerId": "m24593",
+      "name": "Tyler Crutcher",
+      "rating": 1587.24,
+      "dailyRatingChange": 7.53
+    },
+    {
+      "position": 7,
+      "playerId": "m48412",
+      "name": "Gordon Duddy",
+      "rating": 1541.66,
+      "dailyRatingChange": 9.52
+    },
+    {
+      "position": 7,
+      "playerId": "m28768",
+      "name": "Kyle Skogen",
+      "rating": 1583.37,
+      "dailyRatingChange": -2.77
+    }
+  ]
+}

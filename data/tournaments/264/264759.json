@@ -1,0 +1,193 @@
+{
+  "tournamentId": 264759,
+  "name": "Fellbach Series 26 July",
+  "date": "2026-07-31",
+  "locationId": "9461",
+  "locationName": "FlipperFreunde Fellbach e.V.",
+  "playerCount": 26,
+  "ratingsDate": "2026-07-31",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m324",
+      "name": "Timm Dollinger",
+      "rating": 1644.66,
+      "dailyRatingChange": 22.93
+    },
+    {
+      "position": 2,
+      "playerId": "m19271",
+      "name": "Thomas Pfister",
+      "rating": 1603.92,
+      "dailyRatingChange": 3.85
+    },
+    {
+      "position": 2,
+      "playerId": "i2400",
+      "name": "Martin Janczyk",
+      "rating": 1653.06,
+      "dailyRatingChange": 4.81
+    },
+    {
+      "position": 2,
+      "playerId": "m4665",
+      "name": "Marcelo Campos Hazan",
+      "rating": 1666.71,
+      "dailyRatingChange": -6.02
+    },
+    {
+      "position": 5,
+      "playerId": "m58699",
+      "name": "Heiko Schmid",
+      "rating": 1642.7,
+      "dailyRatingChange": -3.57
+    },
+    {
+      "position": 5,
+      "playerId": "i101030",
+      "name": "Holger Fiedler",
+      "rating": 1519.82,
+      "dailyRatingChange": 43.43
+    },
+    {
+      "position": 7,
+      "playerId": "m6",
+      "name": "Frank Goeltl",
+      "rating": 1645.24,
+      "dailyRatingChange": -7.33
+    },
+    {
+      "position": 7,
+      "playerId": "m33934",
+      "name": "Oswin Zebrowski",
+      "rating": 1517.22,
+      "dailyRatingChange": 9.23
+    },
+    {
+      "position": 7,
+      "playerId": "m19272",
+      "name": "Sven Bernhardt",
+      "rating": 1518.1,
+      "dailyRatingChange": 4.33
+    },
+    {
+      "position": 7,
+      "playerId": "i35663",
+      "name": "Martin Schönbeck",
+      "rating": 1664.75,
+      "dailyRatingChange": -9.78
+    },
+    {
+      "position": 7,
+      "playerId": "i104725",
+      "name": "Thomas Richter",
+      "rating": 1591.74,
+      "dailyRatingChange": -3.73
+    },
+    {
+      "position": 7,
+      "playerId": "m19039",
+      "name": "Sebastian Friedl",
+      "rating": 1532.69,
+      "dailyRatingChange": 3.09
+    },
+    {
+      "position": 7,
+      "playerId": "m41469",
+      "name": "Alexander Stier",
+      "rating": 1603.24,
+      "dailyRatingChange": -0.8
+    },
+    {
+      "position": 14,
+      "playerId": "i101031",
+      "name": "Sebastian Bechinger",
+      "rating": 1447.52,
+      "dailyRatingChange": 9.4
+    },
+    {
+      "position": 14,
+      "playerId": "m24628",
+      "name": "Andreas Riedl",
+      "rating": 1598.51,
+      "dailyRatingChange": -7.42
+    },
+    {
+      "position": 14,
+      "playerId": "m19218",
+      "name": "Markus Froncz",
+      "rating": 1611.96,
+      "dailyRatingChange": -7.62
+    },
+    {
+      "position": 14,
+      "playerId": "m51573",
+      "name": "Thommy Birk",
+      "rating": 1493.54,
+      "dailyRatingChange": -3.11
+    },
+    {
+      "position": 14,
+      "playerId": "i114403",
+      "name": "Alexander Kull",
+      "rating": 1447.95,
+      "dailyRatingChange": 11.77
+    },
+    {
+      "position": 14,
+      "playerId": "m21889",
+      "name": "Jens Leiensetter",
+      "rating": 1484.38,
+      "dailyRatingChange": -3
+    },
+    {
+      "position": 14,
+      "playerId": "m46173",
+      "name": "Georg Szeiler",
+      "rating": 1492.01,
+      "dailyRatingChange": 4.82
+    },
+    {
+      "position": 21,
+      "playerId": "m1011",
+      "name": "Daniel Poturica",
+      "rating": 1447.28,
+      "dailyRatingChange": -1.92
+    },
+    {
+      "position": 22,
+      "playerId": "m50431",
+      "name": "Iris Keller",
+      "rating": 1397.91,
+      "dailyRatingChange": -3.78
+    },
+    {
+      "position": 22,
+      "playerId": "m19981",
+      "name": "Friedrich Rubensdörffer",
+      "rating": 1489.63,
+      "dailyRatingChange": -10.52
+    },
+    {
+      "position": 24,
+      "playerId": "m54239",
+      "name": "Sibylle Feyl",
+      "rating": 1397.41,
+      "dailyRatingChange": -7.29
+    },
+    {
+      "position": 24,
+      "playerId": "i42071",
+      "name": "Sonja Heiler",
+      "rating": 1365.14,
+      "dailyRatingChange": -8.44
+    },
+    {
+      "position": 24,
+      "playerId": "m413046",
+      "name": "Christian Müller",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

@@ -1,0 +1,158 @@
+{
+  "tournamentId": 264856,
+  "name": "B Division Finals for TFR League Season 29",
+  "date": "2026-08-01",
+  "locationId": "5173",
+  "locationName": "The Flipper Room",
+  "playerCount": 21,
+  "ratingsDate": "2026-08-01",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m3449",
+      "name": "Josh Warren",
+      "rating": 1652.66,
+      "dailyRatingChange": 14.58
+    },
+    {
+      "position": 2,
+      "playerId": "m12601",
+      "name": "Michael Nardo",
+      "rating": 1591.6,
+      "dailyRatingChange": 4.53
+    },
+    {
+      "position": 2,
+      "playerId": "m49363",
+      "name": "Chip Ostler",
+      "rating": 1568.78,
+      "dailyRatingChange": 9.36
+    },
+    {
+      "position": 4,
+      "playerId": "m53177",
+      "name": "Oliver Davidson",
+      "rating": 1573.07,
+      "dailyRatingChange": 6.28
+    },
+    {
+      "position": 4,
+      "playerId": "m44126",
+      "name": "Zack Stephens",
+      "rating": 1648.93,
+      "dailyRatingChange": -0.61
+    },
+    {
+      "position": 6,
+      "playerId": "m43378",
+      "name": "John Ortiz",
+      "rating": 1517.74,
+      "dailyRatingChange": 1.83
+    },
+    {
+      "position": 6,
+      "playerId": "m20322",
+      "name": "Peach Ruiz",
+      "rating": 1581.28,
+      "dailyRatingChange": 1.35
+    },
+    {
+      "position": 6,
+      "playerId": "m40179",
+      "name": "Dean Burns",
+      "rating": 1527.46,
+      "dailyRatingChange": 3.76
+    },
+    {
+      "position": 9,
+      "playerId": "m2965",
+      "name": "Dan Dempsey",
+      "rating": 1772.25,
+      "dailyRatingChange": -7.7
+    },
+    {
+      "position": 9,
+      "playerId": "m44541",
+      "name": "Matt Caramella",
+      "rating": 1599.19,
+      "dailyRatingChange": -1.11
+    },
+    {
+      "position": 9,
+      "playerId": "m521394",
+      "name": "Charlie Bormolini",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 9,
+      "playerId": "m29356",
+      "name": "Jackie Diorio",
+      "rating": 1501.13,
+      "dailyRatingChange": 2.22
+    },
+    {
+      "position": 9,
+      "playerId": "m20534",
+      "name": "Mary Padilla",
+      "rating": 1387.98,
+      "dailyRatingChange": 5.56
+    },
+    {
+      "position": 14,
+      "playerId": "m51930",
+      "name": "Ken Davidson",
+      "rating": 1447.94,
+      "dailyRatingChange": -2.53
+    },
+    {
+      "position": 14,
+      "playerId": "m18701",
+      "name": "Ethan Padilla",
+      "rating": 1447.02,
+      "dailyRatingChange": -1.92
+    },
+    {
+      "position": 14,
+      "playerId": "m18114",
+      "name": "chris cook",
+      "rating": 1498.51,
+      "dailyRatingChange": -4.05
+    },
+    {
+      "position": 14,
+      "playerId": "m27777",
+      "name": "AJ Santos",
+      "rating": 1565.14,
+      "dailyRatingChange": -3.7
+    },
+    {
+      "position": 18,
+      "playerId": "m47712",
+      "name": "Mike Evans",
+      "rating": 1595.43,
+      "dailyRatingChange": -7
+    },
+    {
+      "position": 18,
+      "playerId": "m58211",
+      "name": "Chris Calasahan",
+      "rating": 1505.77,
+      "dailyRatingChange": -8.43
+    },
+    {
+      "position": 18,
+      "playerId": "m13063",
+      "name": "Daniel Gonzalez",
+      "rating": 1698.03,
+      "dailyRatingChange": 2.86
+    },
+    {
+      "position": 18,
+      "playerId": "m43379",
+      "name": "Sasha Watchman",
+      "rating": 1476.52,
+      "dailyRatingChange": -6.39
+    }
+  ]
+}

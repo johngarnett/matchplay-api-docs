@@ -1,0 +1,45 @@
+{
+  "communityId": "94",
+  "locations": [
+    {
+      "id": "4518",
+      "name": "Co. Bar",
+      "address": "610 East Main St, Frisco, CO, 80443, US",
+      "tournaments": [
+        {
+          "id": 266374,
+          "name": "CO Bar Monthly August 2026 Transformers Launch Party",
+          "date": "8/13/2026",
+          "playerCount": 16,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m34957",
+              "name": "Rob Harris",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "p195582",
+              "name": "Chris Fadler",
+              "isCommunityMember": false
+            },
+            {
+              "position": 3,
+              "playerId": "m42073",
+              "name": "Devin Michael",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m19898",
+              "name": "Peter Pierpont",
+              "isCommunityMember": true
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

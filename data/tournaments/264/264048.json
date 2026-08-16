@@ -1,0 +1,200 @@
+{
+  "tournamentId": 264048,
+  "name": "[QUAL] The Pinball Parlour August Tournament",
+  "date": "2026-08-02",
+  "locationId": "11292",
+  "locationName": "The Pinball Parlour",
+  "playerCount": 27,
+  "ratingsDate": "2026-08-02",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m25621",
+      "name": "Ritsert Harsveld",
+      "rating": 1623.02,
+      "dailyRatingChange": 2.05
+    },
+    {
+      "position": 2,
+      "playerId": "m1971",
+      "name": "Adrian Wilson",
+      "rating": 1593.49,
+      "dailyRatingChange": 13.48
+    },
+    {
+      "position": 3,
+      "playerId": "m22789",
+      "name": "Douglas Lewis",
+      "rating": 1664,
+      "dailyRatingChange": 2.9
+    },
+    {
+      "position": 4,
+      "playerId": "m45161",
+      "name": "Suzanne van Strien",
+      "rating": 1536.65,
+      "dailyRatingChange": 27.14
+    },
+    {
+      "position": 5,
+      "playerId": "m42532",
+      "name": "Stuart Rice",
+      "rating": 1601.54,
+      "dailyRatingChange": 4.25
+    },
+    {
+      "position": 5,
+      "playerId": "m951",
+      "name": "Stacey Borg",
+      "rating": 1664.42,
+      "dailyRatingChange": -11.08
+    },
+    {
+      "position": 5,
+      "playerId": "m45183",
+      "name": "Ariana Coffey",
+      "rating": 1595,
+      "dailyRatingChange": 4.31
+    },
+    {
+      "position": 8,
+      "playerId": "m53902",
+      "name": "Michael Khamatgaleev",
+      "rating": 1707.6,
+      "dailyRatingChange": 4.69
+    },
+    {
+      "position": 9,
+      "playerId": "m62568",
+      "name": "Aaron Grech",
+      "rating": 1497.75,
+      "dailyRatingChange": null
+    },
+    {
+      "position": 10,
+      "playerId": "m583968",
+      "name": "Patrick Bakersis",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 10,
+      "playerId": "m47362",
+      "name": "Tony Pain",
+      "rating": 1532.47,
+      "dailyRatingChange": 14.64
+    },
+    {
+      "position": 12,
+      "playerId": "m8961",
+      "name": "Jessica De Mercurio",
+      "rating": 1595.05,
+      "dailyRatingChange": -5.91
+    },
+    {
+      "position": 13,
+      "playerId": "m43768",
+      "name": "Phillip De Bortoli",
+      "rating": 1650.48,
+      "dailyRatingChange": 1.67
+    },
+    {
+      "position": 14,
+      "playerId": "m38157",
+      "name": "Daniel Vandenberg",
+      "rating": 1574.22,
+      "dailyRatingChange": -1.45
+    },
+    {
+      "position": 15,
+      "playerId": "m17468",
+      "name": "Andy Coffey",
+      "rating": 1628.94,
+      "dailyRatingChange": -4.62
+    },
+    {
+      "position": 15,
+      "playerId": "m583974",
+      "name": "Wronghead",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 17,
+      "playerId": "m45173",
+      "name": "Delanie Lewis",
+      "rating": 1420.85,
+      "dailyRatingChange": 10.65
+    },
+    {
+      "position": 17,
+      "playerId": "m51935",
+      "name": "Sean Elliott",
+      "rating": 1412.71,
+      "dailyRatingChange": 12.05
+    },
+    {
+      "position": 19,
+      "playerId": "m17968",
+      "name": "Gavin Walker AUS",
+      "rating": 1538.82,
+      "dailyRatingChange": 0.33
+    },
+    {
+      "position": 19,
+      "playerId": "m583969",
+      "name": "Tim Sheils",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 21,
+      "playerId": "m583443",
+      "name": "Jade Jaramillo",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 22,
+      "playerId": "m575954",
+      "name": "Dock",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 23,
+      "playerId": "m49108",
+      "name": "Paul De Bortoli",
+      "rating": 1481.75,
+      "dailyRatingChange": -2.35
+    },
+    {
+      "position": 24,
+      "playerId": "m39937",
+      "name": "Rev Altman",
+      "rating": 1418.41,
+      "dailyRatingChange": 0.13
+    },
+    {
+      "position": 25,
+      "playerId": "i121882",
+      "name": "Skylar Coffey",
+      "rating": 1443.64,
+      "dailyRatingChange": -11.95
+    },
+    {
+      "position": 26,
+      "playerId": "i8476",
+      "name": "Sarah Smith",
+      "rating": 1373.6,
+      "dailyRatingChange": -90.32
+    },
+    {
+      "position": 27,
+      "playerId": "m62567",
+      "name": "Shaun Hackett",
+      "rating": 1364.38,
+      "dailyRatingChange": null
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "tournamentId": 261070,
+  "name": "Fins n' Flippers Weekly Tournament",
+  "date": "2026-07-25",
+  "locationId": "13560",
+  "locationName": "The Pool Turtle",
+  "playerCount": 14,
+  "ratingsDate": "2026-07-25",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m15388",
+      "name": "Chris Blake",
+      "rating": 1681.66,
+      "dailyRatingChange": 22.62
+    },
+    {
+      "position": 2,
+      "playerId": "m18961",
+      "name": "Chris DeCourt",
+      "rating": 1538.09,
+      "dailyRatingChange": 27.22
+    },
+    {
+      "position": 3,
+      "playerId": "m15383",
+      "name": "Brittany Glidewell",
+      "rating": 1481.38,
+      "dailyRatingChange": 6.28
+    },
+    {
+      "position": 3,
+      "playerId": "m15392",
+      "name": "Dillon McFarland",
+      "rating": 1616.06,
+      "dailyRatingChange": 6.34
+    },
+    {
+      "position": 5,
+      "playerId": "m573742",
+      "name": "Amy Noor",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 6,
+      "playerId": "m39392",
+      "name": "Conrad Brown",
+      "rating": 1476.32,
+      "dailyRatingChange": 18.25
+    },
+    {
+      "position": 6,
+      "playerId": "m15389",
+      "name": "Cat McFarland",
+      "rating": 1587.78,
+      "dailyRatingChange": -5.71
+    },
+    {
+      "position": 8,
+      "playerId": "m15379",
+      "name": "Michael Glidewell",
+      "rating": 1574.58,
+      "dailyRatingChange": -4.15
+    },
+    {
+      "position": 9,
+      "playerId": "m45579",
+      "name": "Tyler Bartell",
+      "rating": 1443.47,
+      "dailyRatingChange": 5.34
+    },
+    {
+      "position": 10,
+      "playerId": "m573740",
+      "name": "Brock Isbell",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 11,
+      "playerId": "m575679",
+      "name": "Taylor \"Raven\" Pender",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 11,
+      "playerId": "i157657",
+      "name": "Shea bjerregaard",
+      "rating": 1350.13,
+      "dailyRatingChange": 5.75
+    },
+    {
+      "position": 13,
+      "playerId": "m573739",
+      "name": "Estelle Bae",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 14,
+      "playerId": "m575685",
+      "name": "Naveed Noor",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

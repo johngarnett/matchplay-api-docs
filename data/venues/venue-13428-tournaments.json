@@ -1,0 +1,40 @@
+{
+  "locationId": "13428",
+  "venueName": "Jamestown Hotel Pinball Pub",
+  "venueAddress": "79 Ayr Street , Jamestown, 5491",
+  "tournaments": [
+    {
+      "id": 257888,
+      "name": "Jamestown Pinball Pub GM Monday (#9)",
+      "date": "7/20/2026",
+      "playerCount": 8,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m6632",
+          "name": "Ray Gillett",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m17500",
+          "name": "Scottie Taylor",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "p580238",
+          "name": "Lisa Berry",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "p557883",
+          "name": "Peter McLennon",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

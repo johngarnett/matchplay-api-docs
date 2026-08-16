@@ -1,0 +1,167 @@
+{
+  "locationId": "13442",
+  "name": "What's Left Records",
+  "address": "2217 E Platte Ave, Colorado Springs, CO 80909",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 8,
+  "relatedVenues": [
+    {
+      "locationId": "13038",
+      "name": "The Control Room",
+      "address": "6120 Barnes Road, Colorado Springs, CO 80922, US",
+      "count": 35
+    },
+    {
+      "locationId": "11477",
+      "name": "Outlanes Pinball Lounge",
+      "address": "2555 West Alamo Ave. Littleton, CO 80120",
+      "count": 27
+    },
+    {
+      "locationId": "9837",
+      "name": "Colorado Pinball Pub",
+      "address": "303 E Hwy 105, Monument, CO 80132, US",
+      "count": 9
+    },
+    {
+      "locationId": "5209",
+      "name": "Bite Me Cake Company",
+      "address": "",
+      "count": 7
+    },
+    {
+      "locationId": "12564",
+      "name": "Arapahoe Bowling Center",
+      "address": "6850 S Dayton St, Greenwood Village, CO 80112, US",
+      "count": 7
+    },
+    {
+      "locationId": "5946",
+      "name": "1UP COLFAX",
+      "address": "717 E Colfax Ave, Denver, CO 80203, USA",
+      "count": 5
+    },
+    {
+      "locationId": "3790",
+      "name": "Cactus Jacks",
+      "address": "",
+      "count": 4
+    },
+    {
+      "locationId": "5624",
+      "name": "Cactus Jack's Family Fun Center",
+      "address": "1211 N. Council Road, Oklahoma City, OK, 73127, US",
+      "count": 3
+    },
+    {
+      "locationId": "8271",
+      "name": "Rezzanine Esports",
+      "address": "1025 Washington Pike, Bridgeville, PA 15017, US",
+      "count": 3
+    },
+    {
+      "locationId": "11316",
+      "name": "1up Arcade Bar-Westminster",
+      "address": "4750 W 120th Ave #900, Westminster, CO 80020",
+      "count": 3
+    }
+  ],
+  "players": [
+    {
+      "id": "m19050",
+      "name": "Walt Wood",
+      "rating": 1910.14,
+      "rd": 21.03,
+      "ratingClass": "Wizard",
+      "homeLocation": "Outlanes Pinball Lounge",
+      "homeLocationId": "11477",
+      "percentile": 99.98602506172264,
+      "changeDisplay": "+4.8",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m45346",
+      "name": "Luke Rognlien",
+      "rating": 1704.45,
+      "rd": 26.05,
+      "ratingClass": "Expert",
+      "homeLocation": "The Control Room",
+      "homeLocationId": "13038",
+      "percentile": 96.84632226207668,
+      "changeDisplay": "+1.5",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m5123",
+      "name": "Cassie Begay",
+      "rating": 1627.53,
+      "rd": 18.99,
+      "ratingClass": "A",
+      "homeLocation": "Outlanes Pinball Lounge",
+      "homeLocationId": "11477",
+      "percentile": 88.0560860856198,
+      "changeDisplay": "+0.2",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m54488",
+      "name": "Bobby Allen",
+      "rating": 1541.46,
+      "rd": 27.45,
+      "ratingClass": "B",
+      "homeLocation": "Colorado Pinball Pub",
+      "homeLocationId": "9837",
+      "percentile": 63.66981879163367,
+      "changeDisplay": "-12.2",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m42354",
+      "name": "Jared Long",
+      "rating": 1520.1,
+      "rd": 28.64,
+      "ratingClass": "B",
+      "homeLocation": "The Control Room",
+      "homeLocationId": "13038",
+      "percentile": 55.21963944659244,
+      "changeDisplay": "+0.8",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m54486",
+      "name": "Tim Lindstorm",
+      "rating": 1501.6,
+      "rd": 26.59,
+      "ratingClass": "B",
+      "homeLocation": "The Control Room",
+      "homeLocationId": "13038",
+      "percentile": 47.78497228303908,
+      "changeDisplay": "-11.8",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m62466",
+      "name": "Julien Loeper",
+      "rating": 1397.43,
+      "rd": 61.31,
+      "ratingClass": "D",
+      "homeLocation": "Bite Me Cake Company",
+      "homeLocationId": "5209",
+      "percentile": 11.850747659197838,
+      "changeDisplay": "-74.2",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m57765",
+      "name": "Sean Anderson",
+      "rating": 1380.85,
+      "rd": 36.43,
+      "ratingClass": "D",
+      "homeLocation": "The Control Room",
+      "homeLocationId": "13038",
+      "percentile": 8.445521032282107,
+      "changeDisplay": "+14.5",
+      "changeClass": "change-positive"
+    }
+  ]
+}

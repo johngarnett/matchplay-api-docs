@@ -1,0 +1,107 @@
+{
+  "locationId": "13072",
+  "name": "Retro Rush Arcade",
+  "address": "100 N 9th Street. RIchmond, Indiana",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 6,
+  "relatedVenues": [
+    {
+      "locationId": "7439",
+      "name": "Arcade Legacy Sharonville",
+      "address": "2241 Crowne Point Dr, Cincinnati, OH 45241, US",
+      "count": 25
+    },
+    {
+      "locationId": "11454",
+      "name": "Loose Ends Brewing",
+      "address": "890 S Main St, Centerville OH 45458",
+      "count": 3
+    },
+    {
+      "locationId": "4951",
+      "name": "The Pinball Garage",
+      "address": "",
+      "count": 2
+    },
+    {
+      "locationId": "5771",
+      "name": "The Pinvault",
+      "address": "1043 Virginia Ave, Indianapolis, IN 46203, USA",
+      "count": 1
+    }
+  ],
+  "players": [
+    {
+      "id": "m57516",
+      "name": "Nate Wetherell",
+      "rating": 1586.35,
+      "rd": 45.18,
+      "ratingClass": "B",
+      "homeLocation": "Retro Rush Arcade",
+      "homeLocationId": "13072",
+      "percentile": 78.42269529976242,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i82255",
+      "name": "Rachel Laswell",
+      "rating": 1539.52,
+      "rd": 49.11,
+      "ratingClass": "B",
+      "homeLocation": "Retro Rush Arcade",
+      "homeLocationId": "13072",
+      "percentile": 62.96175525224763,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m50175",
+      "name": "Graham Lienhart",
+      "rating": 1517.33,
+      "rd": 20.39,
+      "ratingClass": "B",
+      "homeLocation": "Arcade Legacy Sharonville",
+      "homeLocationId": "7439",
+      "percentile": 54.14356919923604,
+      "changeDisplay": "+0.6",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m44316",
+      "name": "Joe Reckers",
+      "rating": 1507.88,
+      "rd": 21.13,
+      "ratingClass": "B",
+      "homeLocation": "Arcade Legacy Sharonville",
+      "homeLocationId": "7439",
+      "percentile": 50.39828574090465,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m44326",
+      "name": "John Roberts",
+      "rating": 1451.65,
+      "rd": 28.66,
+      "ratingClass": "C",
+      "homeLocation": "Retro Rush Arcade",
+      "homeLocationId": "13072",
+      "percentile": 27.758885731588016,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i142239",
+      "name": "Beth Kaylor",
+      "rating": 1407.14,
+      "rd": 42.54,
+      "ratingClass": "C",
+      "homeLocation": "Loose Ends Brewing",
+      "homeLocationId": "11454",
+      "percentile": 14.33362835980808,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

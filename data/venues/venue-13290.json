@@ -1,0 +1,107 @@
+{
+  "locationId": "13290",
+  "name": "Bonus Pints",
+  "address": "422 E Broadway, Logansport, IN 46947, US",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 7,
+  "relatedVenues": [
+    {
+      "locationId": "12802",
+      "name": "Scanlines Arcade",
+      "address": "2320 Valentine Dr, Kokomo, IN 46902, US",
+      "count": 71
+    },
+    {
+      "locationId": "1658",
+      "name": "North End Pub",
+      "address": "2100 Elmwood Ave, Lafayette, IN 47904, USA",
+      "count": 2
+    }
+  ],
+  "players": [
+    {
+      "id": "m11159",
+      "name": "Rick Dunkin",
+      "rating": 1615.94,
+      "rd": 32.59,
+      "ratingClass": "A",
+      "homeLocation": "North End Pub",
+      "homeLocationId": "1658",
+      "percentile": 85.71761308054224,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m36804",
+      "name": "Ryan Calhoun",
+      "rating": 1579.61,
+      "rd": 25.45,
+      "ratingClass": "B",
+      "homeLocation": "Scanlines Arcade",
+      "homeLocationId": "12802",
+      "percentile": 76.48483719196906,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m1763",
+      "name": "Dennis Baker",
+      "rating": 1573.61,
+      "rd": 27.4,
+      "ratingClass": "B",
+      "homeLocation": "Scanlines Arcade",
+      "homeLocationId": "12802",
+      "percentile": 74.65412027763544,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m55605",
+      "name": "Olivia Smith",
+      "rating": 1518.48,
+      "rd": 25.21,
+      "ratingClass": "B",
+      "homeLocation": "Scanlines Arcade",
+      "homeLocationId": "12802",
+      "percentile": 54.61405878790701,
+      "changeDisplay": "+9.0",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m56304",
+      "name": "Misti Sukle",
+      "rating": 1474.17,
+      "rd": 26.62,
+      "ratingClass": "C",
+      "homeLocation": "Scanlines Arcade",
+      "homeLocationId": "12802",
+      "percentile": 36.56309684632226,
+      "changeDisplay": "+5.5",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m40862",
+      "name": "Brett Schroder",
+      "rating": 1441.13,
+      "rd": 25.17,
+      "ratingClass": "C",
+      "homeLocation": "Scanlines Arcade",
+      "homeLocationId": "12802",
+      "percentile": 24.120743466716355,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m55591",
+      "name": "Jessica Thomas",
+      "rating": 1396.81,
+      "rd": 27.79,
+      "ratingClass": "D",
+      "homeLocation": "Scanlines Arcade",
+      "homeLocationId": "12802",
+      "percentile": 11.710998276424279,
+      "changeDisplay": "-13.0",
+      "changeClass": "change-negative"
+    }
+  ]
+}

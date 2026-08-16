@@ -1,0 +1,179 @@
+{
+  "locationId": "13540",
+  "name": "The Czar's Brewery",
+  "address": "10 Pierce St, Dover, NH, 03820, US",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 9,
+  "relatedVenues": [
+    {
+      "locationId": "10377",
+      "name": "Capital Pinball",
+      "address": "70 Pembroke Rd, Concord, NH 03301, US",
+      "count": 32
+    },
+    {
+      "locationId": "3268",
+      "name": "Ice Ice Arcade",
+      "address": "",
+      "count": 15
+    },
+    {
+      "locationId": "11386",
+      "name": "Ice Ice Arcade",
+      "address": "68 Litchfield Rd Londonderry NH 03053",
+      "count": 14
+    },
+    {
+      "locationId": "12331",
+      "name": "Arcadia",
+      "address": "504 Congress St, 04101",
+      "count": 3
+    },
+    {
+      "locationId": "13498",
+      "name": "Southern New Hampshire Pinball Club",
+      "address": "48 Bridge St Nashua, NH 03060",
+      "count": 3
+    },
+    {
+      "locationId": "7878",
+      "name": "Funspot",
+      "address": "579 Endicott Street North, Laconia, NH 03246, US",
+      "count": 2
+    },
+    {
+      "locationId": "10939",
+      "name": "Millennium Place",
+      "address": "2000 Premier Way, Sherwood Park, AB",
+      "count": 2
+    },
+    {
+      "locationId": "5785",
+      "name": "Delaware Pinball Collective",
+      "address": "1100 First State Blvd. Wilmington, DE 19804",
+      "count": 1
+    },
+    {
+      "locationId": "6588",
+      "name": "Pocketeer Billiards",
+      "address": "",
+      "count": 1
+    },
+    {
+      "locationId": "8271",
+      "name": "Rezzanine Esports",
+      "address": "1025 Washington Pike, Bridgeville, PA 15017, US",
+      "count": 1
+    }
+  ],
+  "players": [
+    {
+      "id": "m12067",
+      "name": "Matt Lemoine",
+      "rating": 1591.22,
+      "rd": 17.24,
+      "ratingClass": "B",
+      "homeLocation": "Capital Pinball",
+      "homeLocationId": "10377",
+      "percentile": 79.80621418922065,
+      "changeDisplay": "+10.1",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m57479",
+      "name": "Bruce Casassa",
+      "rating": 1572.2,
+      "rd": 22.77,
+      "ratingClass": "B",
+      "homeLocation": "Capital Pinball",
+      "homeLocationId": "10377",
+      "percentile": 74.18363068896446,
+      "changeDisplay": "+0.5",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m32555",
+      "name": "Jeremy Gagnon",
+      "rating": 1558,
+      "rd": 27.46,
+      "ratingClass": "B",
+      "homeLocation": "Ice Ice Arcade",
+      "homeLocationId": "3268",
+      "percentile": 69.72096706572879,
+      "changeDisplay": "+11.4",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m13539",
+      "name": "Mitch Gagnon",
+      "rating": 1543.77,
+      "rd": 24.19,
+      "ratingClass": "B",
+      "homeLocation": "Ice Ice Arcade",
+      "homeLocationId": "3268",
+      "percentile": 64.48968183723855,
+      "changeDisplay": "+3.6",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m60813",
+      "name": "Nick Nordin",
+      "rating": 1501.59,
+      "rd": 41.06,
+      "ratingClass": "B",
+      "homeLocation": "The Czar's Brewery",
+      "homeLocationId": "13540",
+      "percentile": 47.78031397027996,
+      "changeDisplay": "-16.2",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m53124",
+      "name": "NIcholas Bourassa",
+      "rating": 1468.67,
+      "rd": 23.88,
+      "ratingClass": "C",
+      "homeLocation": "Capital Pinball",
+      "homeLocationId": "10377",
+      "percentile": 34.336423347463544,
+      "changeDisplay": "+0.7",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m15294",
+      "name": "Erik Peabody",
+      "rating": 1461.14,
+      "rd": 29.29,
+      "ratingClass": "C",
+      "homeLocation": "Ice Ice Arcade",
+      "homeLocationId": "3268",
+      "percentile": 31.37839474542321,
+      "changeDisplay": "-9.1",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m61585",
+      "name": "Elias Volpini",
+      "rating": 1446.17,
+      "rd": 31.63,
+      "ratingClass": "C",
+      "homeLocation": "The Czar's Brewery",
+      "homeLocationId": "13540",
+      "percentile": 25.797736059999067,
+      "changeDisplay": "+3.8",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m61586",
+      "name": "noah Stoeckel",
+      "rating": 1444.69,
+      "rd": 52.97,
+      "ratingClass": "C",
+      "homeLocation": "The Czar's Brewery",
+      "homeLocationId": "13540",
+      "percentile": 25.303954907532493,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

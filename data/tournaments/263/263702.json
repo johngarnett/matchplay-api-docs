@@ -1,0 +1,39 @@
+{
+  "tournamentId": 263702,
+  "name": "Finals for Red Dawns Beetlejuice Challenge",
+  "date": "2026-07-25",
+  "locationId": "12035",
+  "locationName": "Reds Castle",
+  "playerCount": 4,
+  "ratingsDate": "2026-07-25",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m42046",
+      "name": "Scott Avery",
+      "rating": 1524.07,
+      "dailyRatingChange": 19.62
+    },
+    {
+      "position": 2,
+      "playerId": "m35309",
+      "name": "June Cash",
+      "rating": 1495.63,
+      "dailyRatingChange": 12.89
+    },
+    {
+      "position": 3,
+      "playerId": "m1140",
+      "name": "Joel Cash",
+      "rating": 1547.85,
+      "dailyRatingChange": 0.81
+    },
+    {
+      "position": 4,
+      "playerId": "i135358",
+      "name": "Chad Hornbaker",
+      "rating": 1476.02,
+      "dailyRatingChange": 26.81
+    }
+  ]
+}

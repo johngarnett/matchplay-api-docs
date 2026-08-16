@@ -1,0 +1,39 @@
+{
+  "tournamentId": 265663,
+  "name": "Finals for Pinball Wednesdays at The Back Page",
+  "date": "2026-08-05",
+  "locationId": "11246",
+  "locationName": "The Back Page",
+  "playerCount": 4,
+  "ratingsDate": "2026-08-05",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m30115",
+      "name": "Graeme Burchael",
+      "rating": 1673.19,
+      "dailyRatingChange": 12.7
+    },
+    {
+      "position": 2,
+      "playerId": "m9817",
+      "name": "Alex Sperellis",
+      "rating": 1734.63,
+      "dailyRatingChange": 8.63
+    },
+    {
+      "position": 3,
+      "playerId": "m29502",
+      "name": "Donovan Delaney",
+      "rating": 1539.23,
+      "dailyRatingChange": -1.84
+    },
+    {
+      "position": 4,
+      "playerId": "m42269",
+      "name": "George Rusu",
+      "rating": 1541.6,
+      "dailyRatingChange": -6.92
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "tournamentId": 262784,
+  "name": "Oldin sunnarit 19.7.26",
+  "date": "2026-07-19",
+  "locationId": "10085",
+  "locationName": "Oldi",
+  "playerCount": 10,
+  "ratingsDate": "2026-07-19",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m11987",
+      "name": "Mikko Nurmi",
+      "rating": 1576.05,
+      "dailyRatingChange": 4.61
+    },
+    {
+      "position": 2,
+      "playerId": "i82753",
+      "name": "Santtu Hopeavirta",
+      "rating": 1583.83,
+      "dailyRatingChange": 5.1
+    },
+    {
+      "position": 3,
+      "playerId": "m23703",
+      "name": "Tuomas Mälkönen",
+      "rating": 1468.89,
+      "dailyRatingChange": 5.1
+    },
+    {
+      "position": 4,
+      "playerId": "m54080",
+      "name": "Antti Mattila",
+      "rating": 1607.46,
+      "dailyRatingChange": -2.26
+    },
+    {
+      "position": 5,
+      "playerId": "i81752",
+      "name": "Veli-Matti Kyllönen",
+      "rating": 1462.75,
+      "dailyRatingChange": -0.18
+    },
+    {
+      "position": 5,
+      "playerId": "m16212",
+      "name": "Kirsi Karppinen",
+      "rating": 1510.27,
+      "dailyRatingChange": 0.27
+    },
+    {
+      "position": 7,
+      "playerId": "m10014",
+      "name": "Jouni Lehti",
+      "rating": 1540.46,
+      "dailyRatingChange": -3.18
+    },
+    {
+      "position": 7,
+      "playerId": "i78352",
+      "name": "Eetu Kilpinen",
+      "rating": 1381.57,
+      "dailyRatingChange": 1.33
+    },
+    {
+      "position": 9,
+      "playerId": "m28487",
+      "name": "Jarno Jokinen",
+      "rating": 1498.22,
+      "dailyRatingChange": -4.21
+    },
+    {
+      "position": 9,
+      "playerId": "m37469",
+      "name": "Juuso Seppälä",
+      "rating": 1600.92,
+      "dailyRatingChange": -4.2
+    }
+  ]
+}

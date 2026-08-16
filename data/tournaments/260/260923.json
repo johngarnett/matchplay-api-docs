@@ -1,0 +1,102 @@
+{
+  "tournamentId": 260923,
+  "name": "Pennant Women's Pinball League 8/5-9/23 #1",
+  "date": "2026-08-06",
+  "locationId": "12144",
+  "locationName": "The Pennant",
+  "playerCount": 13,
+  "ratingsDate": "2026-08-06",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m40294",
+      "name": "Denise Appelhanz",
+      "rating": 1468.58,
+      "dailyRatingChange": 6.25
+    },
+    {
+      "position": 1,
+      "playerId": "m40446",
+      "name": "Jane Warkentine",
+      "rating": 1524.02,
+      "dailyRatingChange": 19.91
+    },
+    {
+      "position": 1,
+      "playerId": "m52759",
+      "name": "Shelley Haugh",
+      "rating": 1458.51,
+      "dailyRatingChange": 7.3
+    },
+    {
+      "position": 1,
+      "playerId": "m40587",
+      "name": "Maria Macias",
+      "rating": 1487.08,
+      "dailyRatingChange": 4.32
+    },
+    {
+      "position": 5,
+      "playerId": "i147957",
+      "name": "Glenda Ridgeway",
+      "rating": 1431.45,
+      "dailyRatingChange": 10.31
+    },
+    {
+      "position": 6,
+      "playerId": "m48911",
+      "name": "Mackenzie Hegedusich",
+      "rating": 1540.56,
+      "dailyRatingChange": -1.13
+    },
+    {
+      "position": 6,
+      "playerId": "m41254",
+      "name": "Jennifer Waters",
+      "rating": 1481.7,
+      "dailyRatingChange": -0.12
+    },
+    {
+      "position": 8,
+      "playerId": "m544795",
+      "name": "Teresa Porter",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 9,
+      "playerId": "m527796",
+      "name": "Hailey Dolsky",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 10,
+      "playerId": "m527777",
+      "name": "Debbie Payne",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 11,
+      "playerId": "i147955",
+      "name": "Lisa Ranker",
+      "rating": 1388.6,
+      "dailyRatingChange": -14.04
+    },
+    {
+      "position": 12,
+      "playerId": "i138789",
+      "name": "arianna ruiz",
+      "rating": 1359.75,
+      "dailyRatingChange": -9.42
+    },
+    {
+      "position": 13,
+      "playerId": "m527780",
+      "name": "Sharey Thomas",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

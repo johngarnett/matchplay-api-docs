@@ -1,0 +1,281 @@
+{
+  "locationId": "10087",
+  "name": "Flippin' Great Pinball",
+  "address": "632-2 Railroad Square, Tallahassee, FL, 32310, US",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 19,
+  "relatedVenues": [
+    {
+      "locationId": "7285",
+      "name": "Replay Museum",
+      "address": "119 Tarpon Avenue, Tarpon Springs, FL 34689, US",
+      "count": 12
+    },
+    {
+      "locationId": "8421",
+      "name": "Point Break Arcade",
+      "address": "445 Harrison Ave, Panama City, FL 32401, US",
+      "count": 5
+    },
+    {
+      "locationId": "7303",
+      "name": "The Pinball Lounge @Oviedo Bowling Center",
+      "address": "376 E Broadway Street, Oviedo, FL 32765, US",
+      "count": 4
+    },
+    {
+      "locationId": "8768",
+      "name": "Lowry Parcade",
+      "address": "1213 W Waters Ave, Tampa, FL 33604, US",
+      "count": 4
+    },
+    {
+      "locationId": "904",
+      "name": "The Pinball Asylum",
+      "address": "13721 Jetport Commerce Parkway, Unit 6 , Fort Myers, FL 33913",
+      "count": 2
+    },
+    {
+      "locationId": "10353",
+      "name": "The Pinball Palace",
+      "address": "3303 Hopkins Avenue, Brunswick, GA 31520, US",
+      "count": 2
+    },
+    {
+      "locationId": "9586",
+      "name": "Cool Dogs Sports Pub",
+      "address": "3025 E Desert Inn Rd, Las Vegas, NV 89121",
+      "count": 1
+    }
+  ],
+  "players": [
+    {
+      "id": "m30837",
+      "name": "Ailsa Riddell",
+      "rating": 1722.61,
+      "rd": 21.21,
+      "ratingClass": "Expert",
+      "homeLocation": "Replay Museum",
+      "homeLocationId": "7285",
+      "percentile": 97.81990962873247,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i136366",
+      "name": "Tony Hoffman",
+      "rating": 1672.9,
+      "rd": 34.7,
+      "ratingClass": "A",
+      "homeLocation": "Flippin' Great Pinball",
+      "homeLocationId": "10087",
+      "percentile": 94.40070806353938,
+      "changeDisplay": "-6.7",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m40716",
+      "name": "Jeremy Sullivan",
+      "rating": 1659.02,
+      "rd": 32.57,
+      "ratingClass": "A",
+      "homeLocation": "Flippin' Great Pinball",
+      "homeLocationId": "10087",
+      "percentile": 92.96594773373084,
+      "changeDisplay": "+11.3",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "i145684",
+      "name": "Ken Arnold",
+      "rating": 1654.78,
+      "rd": 34.42,
+      "ratingClass": "A",
+      "homeLocation": "Flippin' Great Pinball",
+      "homeLocationId": "10087",
+      "percentile": 92.38831695160013,
+      "changeDisplay": "+22.0",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "i51459",
+      "name": "Ray Winfield",
+      "rating": 1617.54,
+      "rd": 33.59,
+      "ratingClass": "A",
+      "homeLocation": "Flippin' Great Pinball",
+      "homeLocationId": "10087",
+      "percentile": 86.1368612288629,
+      "changeDisplay": "+11.0",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m52052",
+      "name": "Tanner Cole",
+      "rating": 1587.87,
+      "rd": 31.3,
+      "ratingClass": "B",
+      "homeLocation": "Flippin' Great Pinball",
+      "homeLocationId": "10087",
+      "percentile": 78.88386826291517,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i126933",
+      "name": "Jeff Phillips",
+      "rating": 1565.99,
+      "rd": 33.55,
+      "ratingClass": "B",
+      "homeLocation": "Flippin' Great Pinball",
+      "homeLocationId": "10087",
+      "percentile": 72.27838077048493,
+      "changeDisplay": "+15.0",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "i161493",
+      "name": "yatub",
+      "rating": 1546.86,
+      "rd": 55.13,
+      "ratingClass": "B",
+      "homeLocation": "Flippin' Great Pinball",
+      "homeLocationId": "10087",
+      "percentile": 65.51916895700377,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i161490",
+      "name": "Mary Charlotte Sullivan",
+      "rating": 1542.68,
+      "rd": 52.82,
+      "ratingClass": "B",
+      "homeLocation": "Flippin' Great Pinball",
+      "homeLocationId": "10087",
+      "percentile": 64.13565006754554,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m23259",
+      "name": "Ben McGee",
+      "rating": 1538.04,
+      "rd": 26.61,
+      "ratingClass": "B",
+      "homeLocation": "The Pinball Lounge @Oviedo Bowling Center",
+      "homeLocationId": "7303",
+      "percentile": 62.286299902175436,
+      "changeDisplay": "+16.6",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "i125452",
+      "name": "Susan Cloos",
+      "rating": 1522.48,
+      "rd": 44.32,
+      "ratingClass": "B",
+      "homeLocation": "Flippin' Great Pinball",
+      "homeLocationId": "10087",
+      "percentile": 56.10006055806587,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m62292",
+      "name": "timothy vermette",
+      "rating": 1513.7,
+      "rd": 36.36,
+      "ratingClass": "B",
+      "homeLocation": "Point Break Arcade",
+      "homeLocationId": "8421",
+      "percentile": 52.64825080355895,
+      "changeDisplay": "+49.5",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "i161492",
+      "name": "Christi Bowdoin-Kessell",
+      "rating": 1506.88,
+      "rd": 60.28,
+      "ratingClass": "B",
+      "homeLocation": "Flippin' Great Pinball",
+      "homeLocationId": "10087",
+      "percentile": 49.91847952671542,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i142911",
+      "name": "Kristopher Donello",
+      "rating": 1482.65,
+      "rd": 41.14,
+      "ratingClass": "C",
+      "homeLocation": "Flippin' Great Pinball",
+      "homeLocationId": "10087",
+      "percentile": 39.98229841151535,
+      "changeDisplay": "-11.7",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "i125455",
+      "name": "Fred Hadley",
+      "rating": 1479.38,
+      "rd": 49.6,
+      "ratingClass": "C",
+      "homeLocation": "Flippin' Great Pinball",
+      "homeLocationId": "10087",
+      "percentile": 38.69194577723948,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i154626",
+      "name": "Alex Scaffido",
+      "rating": 1414.12,
+      "rd": 65.09,
+      "ratingClass": "C",
+      "homeLocation": "Flippin' Great Pinball",
+      "homeLocationId": "10087",
+      "percentile": 16.18297852517818,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i125453",
+      "name": "Jon Cloos",
+      "rating": 1371.45,
+      "rd": 40.52,
+      "ratingClass": "D",
+      "homeLocation": "Flippin' Great Pinball",
+      "homeLocationId": "10087",
+      "percentile": 6.964177574882377,
+      "changeDisplay": "-15.0",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "i161491",
+      "name": "Rachel Hensel",
+      "rating": 1351.58,
+      "rd": 58.86,
+      "ratingClass": "D",
+      "homeLocation": "Flippin' Great Pinball",
+      "homeLocationId": "10087",
+      "percentile": 4.434713746680952,
+      "changeDisplay": "-34.3",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "i113176",
+      "name": "timothy vermette",
+      "rating": null,
+      "rd": null,
+      "ratingClass": "N/A",
+      "homeLocation": "Point Break Arcade",
+      "homeLocationId": "8421",
+      "percentile": null,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

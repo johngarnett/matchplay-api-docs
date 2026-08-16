@@ -1,0 +1,44 @@
+{
+  "locationId": "7593",
+  "venueName": "The Pinball Lounge Amersfoort",
+  "venueAddress": "",
+  "tournaments": [
+    {
+      "id": 262804,
+      "name": "Finals for Summer Slam Tilt",
+      "date": "7/19/2026",
+      "playerCount": 8,
+      "qualifying": {
+        "id": 262645,
+        "name": "Summer Slam Tilt",
+        "playerCount": 27
+      },
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m28316",
+          "name": "Bart Rasing",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m14856",
+          "name": "Michiel Arts",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m24175",
+          "name": "Henk koster",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m32081",
+          "name": "Niels Zeraat Kariefard",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

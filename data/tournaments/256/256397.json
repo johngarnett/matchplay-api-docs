@@ -1,0 +1,228 @@
+{
+  "tournamentId": 256397,
+  "name": "Hangar Pinball League #5-1",
+  "date": "2026-07-24",
+  "locationId": "11798",
+  "locationName": "Magoos Sports Bar & Billiards",
+  "playerCount": 31,
+  "ratingsDate": "2026-07-24",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m26027",
+      "name": "Alan Hamby",
+      "rating": 1673.08,
+      "dailyRatingChange": 7.37
+    },
+    {
+      "position": 1,
+      "playerId": "m22986",
+      "name": "Miles LaCour",
+      "rating": 1579.65,
+      "dailyRatingChange": 15.13
+    },
+    {
+      "position": 3,
+      "playerId": "i162670",
+      "name": "Jason Chick",
+      "rating": 1504.92,
+      "dailyRatingChange": null
+    },
+    {
+      "position": 3,
+      "playerId": "m35916",
+      "name": "Paul D Peterson",
+      "rating": 1473.78,
+      "dailyRatingChange": 12.07
+    },
+    {
+      "position": 5,
+      "playerId": "m581183",
+      "name": "Jason Miller",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 6,
+      "playerId": "m9011",
+      "name": "Brian Easterwood",
+      "rating": 1714.45,
+      "dailyRatingChange": 4.99
+    },
+    {
+      "position": 6,
+      "playerId": "m5335",
+      "name": "Mike Denton",
+      "rating": 1583.41,
+      "dailyRatingChange": 4.69
+    },
+    {
+      "position": 6,
+      "playerId": "m35910",
+      "name": "Toni Peterson",
+      "rating": 1362.03,
+      "dailyRatingChange": 18.51
+    },
+    {
+      "position": 6,
+      "playerId": "m18557",
+      "name": "Darla Eades",
+      "rating": 1506.89,
+      "dailyRatingChange": 6.71
+    },
+    {
+      "position": 6,
+      "playerId": "m42642",
+      "name": "Mike Mann",
+      "rating": 1429.35,
+      "dailyRatingChange": 8.78
+    },
+    {
+      "position": 11,
+      "playerId": "m21298",
+      "name": "Eric Freimanis",
+      "rating": 1705.62,
+      "dailyRatingChange": 3.61
+    },
+    {
+      "position": 11,
+      "playerId": "m37610",
+      "name": "Tim Cornman",
+      "rating": 1545.39,
+      "dailyRatingChange": 2.45
+    },
+    {
+      "position": 11,
+      "playerId": "m581196",
+      "name": "Mike Cook",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 14,
+      "playerId": "m43541",
+      "name": "Chris Patterson",
+      "rating": 1483.75,
+      "dailyRatingChange": -3.75
+    },
+    {
+      "position": 14,
+      "playerId": "m25813",
+      "name": "Jason Reeder",
+      "rating": 1632.39,
+      "dailyRatingChange": -0.73
+    },
+    {
+      "position": 14,
+      "playerId": "m34343",
+      "name": "Lacie Sallee",
+      "rating": 1475.71,
+      "dailyRatingChange": -2.34
+    },
+    {
+      "position": 17,
+      "playerId": "m13325",
+      "name": "Teddi White",
+      "rating": 1419.23,
+      "dailyRatingChange": 0.14
+    },
+    {
+      "position": 18,
+      "playerId": "m40005",
+      "name": "Emma Lucas",
+      "rating": 1549.12,
+      "dailyRatingChange": -5.25
+    },
+    {
+      "position": 18,
+      "playerId": "m17271",
+      "name": "Brian Daniels",
+      "rating": 1689.74,
+      "dailyRatingChange": -3.63
+    },
+    {
+      "position": 18,
+      "playerId": "m21878",
+      "name": "Jesse Huber",
+      "rating": 1599.73,
+      "dailyRatingChange": -5.81
+    },
+    {
+      "position": 18,
+      "playerId": "m21315",
+      "name": "Abby Armstrong",
+      "rating": 1530.99,
+      "dailyRatingChange": -1.79
+    },
+    {
+      "position": 18,
+      "playerId": "i162669",
+      "name": "Treasure Chick",
+      "rating": 1336.87,
+      "dailyRatingChange": null
+    },
+    {
+      "position": 18,
+      "playerId": "m25507",
+      "name": "Errol Ingram",
+      "rating": 1423.79,
+      "dailyRatingChange": -6.79
+    },
+    {
+      "position": 24,
+      "playerId": "m29178",
+      "name": "Jason W Beard",
+      "rating": 1426.28,
+      "dailyRatingChange": -9.54
+    },
+    {
+      "position": 24,
+      "playerId": "m21394",
+      "name": "Jane Eades",
+      "rating": 1388.74,
+      "dailyRatingChange": -2.7
+    },
+    {
+      "position": 24,
+      "playerId": "m30460",
+      "name": "Canon Edmondson",
+      "rating": 1690.86,
+      "dailyRatingChange": -6
+    },
+    {
+      "position": 24,
+      "playerId": "m22453",
+      "name": "Brian Turnpaugh",
+      "rating": 1493.01,
+      "dailyRatingChange": -5.4
+    },
+    {
+      "position": 28,
+      "playerId": "m22301",
+      "name": "Devon Reeder",
+      "rating": 1514.45,
+      "dailyRatingChange": -2.25
+    },
+    {
+      "position": 29,
+      "playerId": "m56564",
+      "name": "Kimberly Rex",
+      "rating": 1261.37,
+      "dailyRatingChange": -9.13
+    },
+    {
+      "position": 29,
+      "playerId": "m581172",
+      "name": "Rachel Dale",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 31,
+      "playerId": "m30461",
+      "name": "Ian Hoagland",
+      "rating": 1534.51,
+      "dailyRatingChange": -14.2
+    }
+  ]
+}

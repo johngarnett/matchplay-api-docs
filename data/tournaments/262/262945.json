@@ -1,0 +1,32 @@
+{
+  "tournamentId": 262945,
+  "name": "Women's Bi-Monthly Tournament at ULEKstore's Arcade",
+  "date": "2026-07-20",
+  "locationId": "5287",
+  "locationName": "ULEKstore's Pinball and Classic Arcade",
+  "playerCount": 3,
+  "ratingsDate": "2026-07-20",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m2859",
+      "name": "Leeann DeSloover",
+      "rating": 1577.91,
+      "dailyRatingChange": 5.12
+    },
+    {
+      "position": 2,
+      "playerId": "m38710",
+      "name": "Kelley sheahan",
+      "rating": 1477.01,
+      "dailyRatingChange": -14.47
+    },
+    {
+      "position": 3,
+      "playerId": "m11078",
+      "name": "Donna DeSloover",
+      "rating": 1214.58,
+      "dailyRatingChange": 8.79
+    }
+  ]
+}

@@ -1,0 +1,371 @@
+{
+  "locationId": "13054",
+  "name": "Beer Run & Some with Nimbus Vapors",
+  "address": "17800 Chillicothe Rd, Chagrin Falls, OH 44023, US",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 25,
+  "relatedVenues": [
+    {
+      "locationId": "10180",
+      "name": "Pinball Planet",
+      "address": "6277E Pearl Rd, Parma Heights, OH 44130",
+      "count": 48
+    },
+    {
+      "locationId": "6198",
+      "name": "Quarter Up",
+      "address": "Parking lot, 1452 N Portage Path, Akron, OH 44313, USA",
+      "count": 28
+    },
+    {
+      "locationId": "535",
+      "name": "Superelectric Pinball Parlor",
+      "address": "6500 Detroit Ave, Cleveland, OH 44102, USA",
+      "count": 24
+    },
+    {
+      "locationId": "8555",
+      "name": "Past Times Arcade",
+      "address": "419 N State St, Girard, OH, 44420, US",
+      "count": 24
+    },
+    {
+      "locationId": "7382",
+      "name": "Station300 Akron",
+      "address": "580 E Cuyahoga Falls Ave, Akron, OH, 44310, US",
+      "count": 14
+    },
+    {
+      "locationId": "11578",
+      "name": "station 300",
+      "address": "580 e cuyahoga ave, akron 44310",
+      "count": 13
+    },
+    {
+      "locationId": "10342",
+      "name": "Pinball Planet",
+      "address": "6277 Pearl Rd, Cleveland, OH 44130, US",
+      "count": 10
+    },
+    {
+      "locationId": "13331",
+      "name": "TimberBeast Axe Throwing",
+      "address": "9300 Market Square Dr, Streetsboro, OH 44241, US",
+      "count": 9
+    },
+    {
+      "locationId": "3217",
+      "name": "Birdfish Brewing Co. DOWN LOW",
+      "address": "140 E Park Ave, Columbiana, OH 44408, USA",
+      "count": 7
+    },
+    {
+      "locationId": "9554",
+      "name": "Kidforce Pinball",
+      "address": "101 Front Street, Berea, OH 44017",
+      "count": 7
+    }
+  ],
+  "players": [
+    {
+      "id": "m7485",
+      "name": "Chad Russell",
+      "rating": 1644.48,
+      "rd": 34.53,
+      "ratingClass": "A",
+      "homeLocation": "Beer Run & Some with Nimbus Vapors",
+      "homeLocationId": "13054",
+      "percentile": 90.95821493455071,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i142676",
+      "name": "Trevor Lazor",
+      "rating": 1627.68,
+      "rd": 38.34,
+      "ratingClass": "A",
+      "homeLocation": "Beer Run & Some with Nimbus Vapors",
+      "homeLocationId": "13054",
+      "percentile": 88.09335258769273,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m18069",
+      "name": "Richard Rulong",
+      "rating": 1587.86,
+      "rd": 22.37,
+      "ratingClass": "B",
+      "homeLocation": "Pinball Planet",
+      "homeLocationId": "10180",
+      "percentile": 78.87455163739693,
+      "changeDisplay": "+2.1",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m37473",
+      "name": "rick alley",
+      "rating": 1585.55,
+      "rd": 29.1,
+      "ratingClass": "B",
+      "homeLocation": "Beer Run & Some with Nimbus Vapors",
+      "homeLocationId": "13054",
+      "percentile": 78.19443797456562,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m7772",
+      "name": "Max Broun",
+      "rating": 1569.46,
+      "rd": 35.05,
+      "ratingClass": "B",
+      "homeLocation": "Beer Run & Some with Nimbus Vapors",
+      "homeLocationId": "13054",
+      "percentile": 73.34047607956397,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m40851",
+      "name": "Jessica Reitz",
+      "rating": 1569.18,
+      "rd": 15.39,
+      "ratingClass": "B",
+      "homeLocation": "Pinball Planet",
+      "homeLocationId": "10180",
+      "percentile": 73.2426515116225,
+      "changeDisplay": "+12.5",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m5395",
+      "name": "Ryan Odonnell OH",
+      "rating": 1545.29,
+      "rd": 31.84,
+      "ratingClass": "B",
+      "homeLocation": "Pinball Planet",
+      "homeLocationId": "10180",
+      "percentile": 65.02538780453719,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m46085",
+      "name": "Ben Dunn",
+      "rating": 1540,
+      "rd": 32.14,
+      "ratingClass": "B",
+      "homeLocation": "Beer Run & Some with Nimbus Vapors",
+      "homeLocationId": "13054",
+      "percentile": 63.11082126053943,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m47957",
+      "name": "Kevin Funnell",
+      "rating": 1531.03,
+      "rd": 20.13,
+      "ratingClass": "B",
+      "homeLocation": "Past Times Arcade",
+      "homeLocationId": "8555",
+      "percentile": 59.44938743187218,
+      "changeDisplay": "+3.3",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m50539",
+      "name": "Brian Schultz",
+      "rating": 1530.71,
+      "rd": 28.36,
+      "ratingClass": "B",
+      "homeLocation": "Beer Run & Some with Nimbus Vapors",
+      "homeLocationId": "13054",
+      "percentile": 59.32827130013509,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m18710",
+      "name": "Emily Felvus",
+      "rating": 1516.92,
+      "rd": 16.06,
+      "ratingClass": "B",
+      "homeLocation": "Past Times Arcade",
+      "homeLocationId": "8555",
+      "percentile": 53.989844878185124,
+      "changeDisplay": "+10.0",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "i140623",
+      "name": "Gabe Martorana",
+      "rating": 1512.72,
+      "rd": 33.74,
+      "ratingClass": "B",
+      "homeLocation": "Beer Run & Some with Nimbus Vapors",
+      "homeLocationId": "13054",
+      "percentile": 52.2849024083477,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m43715",
+      "name": "Wayne Guk",
+      "rating": 1508.76,
+      "rd": 16.24,
+      "ratingClass": "B",
+      "homeLocation": "Pinball Planet",
+      "homeLocationId": "10180",
+      "percentile": 50.747659197838544,
+      "changeDisplay": "-2.2",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m28706",
+      "name": "Pat Kupniewski",
+      "rating": 1495.29,
+      "rd": 23.37,
+      "ratingClass": "C",
+      "homeLocation": "Beer Run & Some with Nimbus Vapors",
+      "homeLocationId": "13054",
+      "percentile": 45.21824195276471,
+      "changeDisplay": "-7.6",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "i71510",
+      "name": "Mark Nestor",
+      "rating": 1493.88,
+      "rd": 58.23,
+      "ratingClass": "C",
+      "homeLocation": "Beer Run & Some with Nimbus Vapors",
+      "homeLocationId": "13054",
+      "percentile": 44.701169236502544,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i147301",
+      "name": "Steve Kraft “Dojo”",
+      "rating": 1482.65,
+      "rd": 34.27,
+      "ratingClass": "C",
+      "homeLocation": "Quarter Up",
+      "homeLocationId": "6198",
+      "percentile": 39.977640098756225,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m61096",
+      "name": "David Tokos",
+      "rating": 1470.25,
+      "rd": 52.34,
+      "ratingClass": "C",
+      "homeLocation": "Beer Run & Some with Nimbus Vapors",
+      "homeLocationId": "13054",
+      "percentile": 34.96063725718545,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m8681",
+      "name": "Matt Giaimo",
+      "rating": 1461.75,
+      "rd": 24.76,
+      "ratingClass": "C",
+      "homeLocation": "Quarter Up",
+      "homeLocationId": "6198",
+      "percentile": 31.59267713234267,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m43889",
+      "name": "Ken Swarm",
+      "rating": 1457.83,
+      "rd": 24.71,
+      "ratingClass": "C",
+      "homeLocation": "station 300",
+      "homeLocationId": "11578",
+      "percentile": 30.074067172869984,
+      "changeDisplay": "-10.1",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m14442",
+      "name": "Lauren Webber",
+      "rating": 1427.93,
+      "rd": 54.29,
+      "ratingClass": "C",
+      "homeLocation": "Beer Run & Some with Nimbus Vapors",
+      "homeLocationId": "13054",
+      "percentile": 19.956211860064286,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m28404",
+      "name": "Justin Reitz",
+      "rating": 1426.94,
+      "rd": 19.84,
+      "ratingClass": "C",
+      "homeLocation": "Superelectric Pinball Parlor",
+      "homeLocationId": "535",
+      "percentile": 19.672054781758046,
+      "changeDisplay": "-5.2",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "i142672",
+      "name": "Mike Doberdruk",
+      "rating": 1417.38,
+      "rd": 45.96,
+      "ratingClass": "C",
+      "homeLocation": "Beer Run & Some with Nimbus Vapors",
+      "homeLocationId": "13054",
+      "percentile": 16.993524945264827,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i147303",
+      "name": "Pat Meyer",
+      "rating": 1381.61,
+      "rd": 49,
+      "ratingClass": "D",
+      "homeLocation": "Beer Run & Some with Nimbus Vapors",
+      "homeLocationId": "13054",
+      "percentile": 8.585270415055666,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i142673",
+      "name": "Austin Shank",
+      "rating": 1347.67,
+      "rd": 54.92,
+      "ratingClass": "D",
+      "homeLocation": "Beer Run & Some with Nimbus Vapors",
+      "homeLocationId": "13054",
+      "percentile": 4.020123911119393,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i90040",
+      "name": "Sam Paterson",
+      "rating": null,
+      "rd": null,
+      "ratingClass": "N/A",
+      "homeLocation": "Beer Run & Some with Nimbus Vapors",
+      "homeLocationId": "13054",
+      "percentile": null,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

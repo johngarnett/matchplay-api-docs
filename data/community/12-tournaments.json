@@ -1,0 +1,202 @@
+{
+  "communityId": "12",
+  "locations": [
+    {
+      "id": "9650",
+      "name": "Cabin Fever",
+      "address": "1669 Bloor St W, Toronto, ON M6P 1A6, CA",
+      "tournaments": [
+        {
+          "id": 241776,
+          "name": "APAB #13 - Assigned Pinball At Birth Toronto",
+          "date": "8/11/2026",
+          "playerCount": 23,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m4720",
+              "name": "Bryce Moore",
+              "isCommunityMember": false
+            },
+            {
+              "position": 2,
+              "playerId": "m16136",
+              "name": "Travis Provick",
+              "isCommunityMember": false
+            },
+            {
+              "position": 3,
+              "playerId": "m1391",
+              "name": "Steve Martin",
+              "isCommunityMember": false
+            },
+            {
+              "position": 4,
+              "playerId": "m5481",
+              "name": "Danielle Laverdure",
+              "isCommunityMember": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4804",
+      "name": "District 82 Pinball",
+      "address": "800 O Keefe Rd, De Pere, WI 54115, USA",
+      "tournaments": [
+        {
+          "id": 266532,
+          "name": "D82 Beat the Clock Tournament Aug 12",
+          "date": "8/12/2026",
+          "playerCount": 97,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m2838",
+              "name": "Phil Birnbaum",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m7398",
+              "name": "Erik Thoren **TD**",
+              "isCommunityMember": false
+            },
+            {
+              "position": 2,
+              "playerId": "m31136",
+              "name": "Dani Dinkum",
+              "isCommunityMember": false
+            },
+            {
+              "position": 2,
+              "playerId": "m16120",
+              "name": "Mike Weyenberg",
+              "isCommunityMember": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "13569",
+      "name": "Experience Social - Ottawa Pinball Arcade",
+      "address": "250 Greenbank Rd, Ottawa, ON K2H 8P6, CA",
+      "tournaments": [
+        {
+          "id": 265765,
+          "name": "Experience Social - OPA Weekly Aug 12 2026",
+          "date": "8/12/2026",
+          "playerCount": 14,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "i96393",
+              "name": "Sean Sprott",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m56841",
+              "name": "Chris Dugmore DJ SPIN",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m27378",
+              "name": "Paul Bakker",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "i101854",
+              "name": "Charles Barabe",
+              "isCommunityMember": true
+            }
+          ]
+        },
+        {
+          "id": 266113,
+          "name": "Finals for Transformers Launch Party @Experience Social (clone)",
+          "date": "8/8/2026",
+          "playerCount": 8,
+          "qualifying": {
+            "id": 266065,
+            "name": "Transformers Launch Party @Experience Social (clone)",
+            "playerCount": 18
+          },
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m2838",
+              "name": "Phil Birnbaum",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "i54102",
+              "name": "Ross Cicchini",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m7617",
+              "name": "Mike Casselman",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m27033",
+              "name": "Maryz Bedard",
+              "isCommunityMember": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "10694",
+      "name": "La Société du Pinball",
+      "address": "999 Pierre-Bertrand Blvd Local 200, Québec City, Quebec G1M 2E8",
+      "tournaments": [
+        {
+          "id": 266808,
+          "name": "La Société du Pinball - Tournoi du Mercredi",
+          "date": "8/12/2026",
+          "playerCount": 18,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m54443",
+              "name": "Jean-Philippe Champagne",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m55622",
+              "name": "Judith Marcoux",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m59282",
+              "name": "Patrick Guay",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m59275",
+              "name": "Albert Ouellet",
+              "isCommunityMember": true
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

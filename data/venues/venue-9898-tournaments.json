@@ -1,0 +1,40 @@
+{
+  "locationId": "9898",
+  "venueName": "kældren",
+  "venueAddress": "bispensgade 146 9800 hjørring",
+  "tournaments": [
+    {
+      "id": 266540,
+      "name": "PinballNation",
+      "date": "8/11/2026",
+      "playerCount": 5,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "i84489",
+          "name": "Christian Christensen",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m19382",
+          "name": "Niels Ronni Deppe",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m21169",
+          "name": "Philip Petersen",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m53711",
+          "name": "Jonathan Lomar",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

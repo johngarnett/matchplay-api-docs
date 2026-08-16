@@ -1,0 +1,40 @@
+{
+  "locationId": "12864",
+  "venueName": "Bumpers Pinball",
+  "venueAddress": "943 17th St, Vero Beach, FL 32960, US",
+  "tournaments": [
+    {
+      "id": 246711,
+      "name": "Bumper's Thumpin' Thursday July",
+      "date": "7/23/2026",
+      "playerCount": 12,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m52816",
+          "name": "Nick Lauritano",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "p547433",
+          "name": "Gene Apley",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "p528094",
+          "name": "John Neagos",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "p564647",
+          "name": "Allen Saenz",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "locationId": "13420",
+  "name": "GSPF",
+  "address": "",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 6,
+  "relatedVenues": [
+    {
+      "locationId": "9842",
+      "name": "MarTEEnez Minigolf & Arcade",
+      "address": "701 Escobar St, Martinez, CA, 94553, US",
+      "count": 10
+    },
+    {
+      "locationId": "5173",
+      "name": "The Flipper Room",
+      "address": "1033 Shary Cir, Concord, CA 94518, USA",
+      "count": 4
+    },
+    {
+      "locationId": "6612",
+      "name": "Lynn's Arcade: A Pinball Parlor and Can Slangery",
+      "address": "1760 Fremont Boulevard, Suite D1, Seaside, California 93955, US",
+      "count": 3
+    },
+    {
+      "locationId": "8386",
+      "name": "Tahoe Paddle Sports",
+      "address": "230 Village Blvd, Incline Village, NV 89451, US",
+      "count": 2
+    },
+    {
+      "locationId": "9542",
+      "name": "Capital Pinball Parlor",
+      "address": "117 J St, Sacramento, CA 95814, US",
+      "count": 2
+    },
+    {
+      "locationId": "13026",
+      "name": "Golden State Pinball Festival",
+      "address": "413 E Lockeford Street Lodi, CA 95240",
+      "count": 1
+    },
+    {
+      "locationId": "13043",
+      "name": "GSPF",
+      "address": "413 E. Rockford Street, Lodi, CA 95240",
+      "count": 1
+    }
+  ],
+  "players": [
+    {
+      "id": "m53177",
+      "name": "O D",
+      "rating": 1557.56,
+      "rd": 25.7,
+      "ratingClass": "B",
+      "homeLocation": "MarTEEnez Minigolf & Arcade",
+      "homeLocationId": "9842",
+      "percentile": 69.54395118088227,
+      "changeDisplay": "-15.5",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m37904",
+      "name": "Scarlett Spatucci",
+      "rating": 1553.26,
+      "rd": 26.42,
+      "ratingClass": "B",
+      "homeLocation": "Tahoe Paddle Sports",
+      "homeLocationId": "8386",
+      "percentile": 68.0253412214096,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m59797",
+      "name": "Danielle Jimenez",
+      "rating": 1442.51,
+      "rd": 28.78,
+      "ratingClass": "C",
+      "homeLocation": "GSPF",
+      "homeLocationId": "13420",
+      "percentile": 24.567941491591746,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i137812",
+      "name": "Matthew Miller CA",
+      "rating": 1434.92,
+      "rd": 50.94,
+      "ratingClass": "C",
+      "homeLocation": "Capital Pinball Parlor",
+      "homeLocationId": "9542",
+      "percentile": 22.10369404201798,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i34623",
+      "name": "Joshua Phillips",
+      "rating": 1373.72,
+      "rd": 34.98,
+      "ratingClass": "D",
+      "homeLocation": "Lynn's Arcade: A Pinball Parlor and Can Slangery",
+      "homeLocationId": "6612",
+      "percentile": 7.243676340429496,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i88483",
+      "name": "Fritz Gelb",
+      "rating": null,
+      "rd": null,
+      "ratingClass": "N/A",
+      "homeLocation": "GSPF",
+      "homeLocationId": "13420",
+      "percentile": null,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "tournamentId": 263342,
+  "name": "Finals for GAME CHANGER- JULY STERN ARMY/IFPA Tournament",
+  "date": "2026-07-23",
+  "locationId": "9644",
+  "locationName": "The Shortstop Bar & Grill",
+  "playerCount": 4,
+  "ratingsDate": "2026-07-23",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m35109",
+      "name": "Luke Norman",
+      "rating": 1699.06,
+      "dailyRatingChange": 6.29
+    },
+    {
+      "position": 2,
+      "playerId": "m1085",
+      "name": "Chris Harvey",
+      "rating": 1493.93,
+      "dailyRatingChange": 7.18
+    },
+    {
+      "position": 3,
+      "playerId": "m14496",
+      "name": "Brad Sylvester",
+      "rating": 1524.67,
+      "dailyRatingChange": -6.47
+    },
+    {
+      "position": 4,
+      "playerId": "m464658",
+      "name": "Jason Wawrzyniak",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

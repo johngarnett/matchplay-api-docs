@@ -1,0 +1,341 @@
+{
+  "locationId": "8646",
+  "name": "Video Games Plus",
+  "address": "1143 NE Stephens St, Roseburg, OR 97470, US",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 24,
+  "relatedVenues": [
+    {
+      "locationId": "7961",
+      "name": "Blairalley",
+      "address": "245 Blair Blvd, Eugene, OR 97402, USA",
+      "count": 58
+    },
+    {
+      "locationId": "12574",
+      "name": "Cascade Underground Pinball Society",
+      "address": "254 Lincoln St, Eugene, OR, 97401, US",
+      "count": 45
+    },
+    {
+      "locationId": "9120",
+      "name": "Level Up Arcade",
+      "address": "1290 Oak St, Eugene, OR, 97401, US",
+      "count": 19
+    },
+    {
+      "locationId": "12249",
+      "name": "Quarterdrop Arcade",
+      "address": "527 E Main St, Cottage Grove, OR 97424, US",
+      "count": 11
+    },
+    {
+      "locationId": "6535",
+      "name": "The Flying Squirrel",
+      "address": "49 West 29th Ave, Eugene, OR, 97405, US",
+      "count": 7
+    },
+    {
+      "locationId": "7749",
+      "name": "Merry Time Restaurant & Lounge",
+      "address": "995 Marine Drive, Astoria, OR 97103, US",
+      "count": 2
+    },
+    {
+      "locationId": "1893",
+      "name": "The Ice Box",
+      "address": "615 NW Bright St, Seattle, WA 98107, USA",
+      "count": 1
+    }
+  ],
+  "players": [
+    {
+      "id": "m2522",
+      "name": "Matt Walton",
+      "rating": 1729.2,
+      "rd": 23.29,
+      "ratingClass": "Expert",
+      "homeLocation": "Cascade Underground Pinball Society",
+      "homeLocationId": "12574",
+      "percentile": 98.11804164531607,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m20993",
+      "name": "Eric Merchant",
+      "rating": 1692.09,
+      "rd": 17.51,
+      "ratingClass": "A",
+      "homeLocation": "Blairalley",
+      "homeLocationId": "7961",
+      "percentile": 96.06838403130386,
+      "changeDisplay": "-1.2",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m30012",
+      "name": "Brandon Leonard",
+      "rating": 1652.41,
+      "rd": 37.75,
+      "ratingClass": "A",
+      "homeLocation": "Video Games Plus",
+      "homeLocationId": "8646",
+      "percentile": 92.06223505846182,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m18218",
+      "name": "Cory Anderson",
+      "rating": 1642.27,
+      "rd": 20.95,
+      "ratingClass": "A",
+      "homeLocation": "Blairalley",
+      "homeLocationId": "7961",
+      "percentile": 90.6833744817627,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m26510",
+      "name": "Jake Emery",
+      "rating": 1604.87,
+      "rd": 21.83,
+      "ratingClass": "A",
+      "homeLocation": "Cascade Underground Pinball Society",
+      "homeLocationId": "12574",
+      "percentile": 83.12759118647226,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m35589",
+      "name": "Jake Ligon",
+      "rating": 1601.87,
+      "rd": 27.78,
+      "ratingClass": "A",
+      "homeLocation": "Video Games Plus",
+      "homeLocationId": "8646",
+      "percentile": 82.47076908743654,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m19110",
+      "name": "Mason Kazer",
+      "rating": 1592.39,
+      "rd": 18.34,
+      "ratingClass": "B",
+      "homeLocation": "Blairalley",
+      "homeLocationId": "7961",
+      "percentile": 80.09502958028602,
+      "changeDisplay": "-4.9",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m49772",
+      "name": "liam king",
+      "rating": 1587.68,
+      "rd": 31.53,
+      "ratingClass": "B",
+      "homeLocation": "Quarterdrop Arcade",
+      "homeLocationId": "12249",
+      "percentile": 78.8139935715284,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m52468",
+      "name": "Anderson Harris",
+      "rating": 1539.25,
+      "rd": 36.98,
+      "ratingClass": "B",
+      "homeLocation": "Video Games Plus",
+      "homeLocationId": "8646",
+      "percentile": 62.83598080775143,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m38505",
+      "name": "Jeremy Vetter",
+      "rating": 1528.21,
+      "rd": 22.72,
+      "ratingClass": "B",
+      "homeLocation": "Cascade Underground Pinball Society",
+      "homeLocationId": "12574",
+      "percentile": 58.340708995201936,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m30726",
+      "name": "Kyle Kipperman",
+      "rating": 1521.38,
+      "rd": 31.05,
+      "ratingClass": "B",
+      "homeLocation": "Video Games Plus",
+      "homeLocationId": "8646",
+      "percentile": 55.74602878837285,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m59422",
+      "name": "Kyle Lavender",
+      "rating": 1513.6,
+      "rd": 61.4,
+      "ratingClass": "B",
+      "homeLocation": "Video Games Plus",
+      "homeLocationId": "8646",
+      "percentile": 52.610984301486,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m59472",
+      "name": "John Davis OR",
+      "rating": 1513.31,
+      "rd": 51.88,
+      "ratingClass": "B",
+      "homeLocation": "Video Games Plus",
+      "homeLocationId": "8646",
+      "percentile": 52.48055154423068,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m58304",
+      "name": "Dustin Schaerer",
+      "rating": 1511.83,
+      "rd": 36.21,
+      "ratingClass": "B",
+      "homeLocation": "Video Games Plus",
+      "homeLocationId": "8646",
+      "percentile": 51.963478827968515,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m38765",
+      "name": "Doug Periman",
+      "rating": 1466.97,
+      "rd": 31.46,
+      "ratingClass": "C",
+      "homeLocation": "Video Games Plus",
+      "homeLocationId": "8646",
+      "percentile": 33.63767643359575,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m62394",
+      "name": "Dan Jones OR",
+      "rating": 1454.29,
+      "rd": 58.88,
+      "ratingClass": "C",
+      "homeLocation": "Video Games Plus",
+      "homeLocationId": "8646",
+      "percentile": 28.751106349280292,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m9276",
+      "name": "Dan Ranck",
+      "rating": 1449.55,
+      "rd": 21.43,
+      "ratingClass": "C",
+      "homeLocation": "Blairalley",
+      "homeLocationId": "7961",
+      "percentile": 26.99026412633344,
+      "changeDisplay": "-5.0",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m38689",
+      "name": "Emilee Ligon",
+      "rating": 1442.4,
+      "rd": 28.58,
+      "ratingClass": "C",
+      "homeLocation": "Cascade Underground Pinball Society",
+      "homeLocationId": "12574",
+      "percentile": 24.526016676759678,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m48346",
+      "name": "Dan Tracy",
+      "rating": 1432.87,
+      "rd": 35.27,
+      "ratingClass": "C",
+      "homeLocation": "Video Games Plus",
+      "homeLocationId": "8646",
+      "percentile": 21.41892206642754,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m41433",
+      "name": "Caleb Reese",
+      "rating": 1410.3,
+      "rd": 61.99,
+      "ratingClass": "C",
+      "homeLocation": "Video Games Plus",
+      "homeLocationId": "8646",
+      "percentile": 15.125541528858246,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m55061",
+      "name": "Chris Jemal",
+      "rating": 1400.12,
+      "rd": 21.71,
+      "ratingClass": "C",
+      "homeLocation": "Blairalley",
+      "homeLocationId": "7961",
+      "percentile": 12.507569758233567,
+      "changeDisplay": "-10.1",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m60252",
+      "name": "Ashton Rincon",
+      "rating": 1397.19,
+      "rd": 62.32,
+      "ratingClass": "D",
+      "homeLocation": "Video Games Plus",
+      "homeLocationId": "8646",
+      "percentile": 11.790189593329297,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m39653",
+      "name": "Devin Moore",
+      "rating": 1350.05,
+      "rd": 40.68,
+      "ratingClass": "D",
+      "homeLocation": "Video Games Plus",
+      "homeLocationId": "8646",
+      "percentile": 4.262356174593562,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i140540",
+      "name": "becky kipperman",
+      "rating": 1321.64,
+      "rd": 48.32,
+      "ratingClass": "D",
+      "homeLocation": "Video Games Plus",
+      "homeLocationId": "8646",
+      "percentile": 1.9518330460707132,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

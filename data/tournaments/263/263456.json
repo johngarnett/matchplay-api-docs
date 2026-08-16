@@ -1,0 +1,130 @@
+{
+  "tournamentId": 263456,
+  "name": "Flip Frenzy Thursday",
+  "date": "2026-07-24",
+  "locationId": "11089",
+  "locationName": "Our House",
+  "playerCount": 17,
+  "ratingsDate": "2026-07-24",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m9533",
+      "name": "Dennis Cole",
+      "rating": 1552.71,
+      "dailyRatingChange": 19.01
+    },
+    {
+      "position": 2,
+      "playerId": "m14494",
+      "name": "Jason Young",
+      "rating": 1547.84,
+      "dailyRatingChange": 10.82
+    },
+    {
+      "position": 2,
+      "playerId": "m36713",
+      "name": "Stephen Perillo",
+      "rating": 1650.51,
+      "dailyRatingChange": 0.41
+    },
+    {
+      "position": 2,
+      "playerId": "m43021",
+      "name": "Billy Islander",
+      "rating": 1514.6,
+      "dailyRatingChange": 34.96
+    },
+    {
+      "position": 5,
+      "playerId": "m315",
+      "name": "Frank Guida",
+      "rating": 1564.39,
+      "dailyRatingChange": 3.56
+    },
+    {
+      "position": 6,
+      "playerId": "m577156",
+      "name": "Frank Perillo",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 7,
+      "playerId": "m271728",
+      "name": "Dave Breaker",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 8,
+      "playerId": "m23261",
+      "name": "Harry Reimer",
+      "rating": 1430.56,
+      "dailyRatingChange": 18.83
+    },
+    {
+      "position": 9,
+      "playerId": "m581184",
+      "name": "Nick Smith",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 10,
+      "playerId": "m12075",
+      "name": "Ted Kirshenbaum",
+      "rating": 1612.58,
+      "dailyRatingChange": -9.2
+    },
+    {
+      "position": 11,
+      "playerId": "m577107",
+      "name": "Andrew Cole",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 12,
+      "playerId": "m581169",
+      "name": "Frank Gary",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 13,
+      "playerId": "m29100",
+      "name": "Marty DeBobes",
+      "rating": 1511.55,
+      "dailyRatingChange": -7.69
+    },
+    {
+      "position": 14,
+      "playerId": "m30600",
+      "name": "Mike Ragona",
+      "rating": 1476.1,
+      "dailyRatingChange": -9.89
+    },
+    {
+      "position": 15,
+      "playerId": "m271726",
+      "name": "Greg Rossi",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 16,
+      "playerId": "m581182",
+      "name": "Mike Beza",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 17,
+      "playerId": "m271739",
+      "name": "Anthony Didominico",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

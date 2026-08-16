@@ -1,0 +1,39 @@
+{
+  "tournamentId": 264979,
+  "name": "B-zics Division Finals for Flip for Zack's Cake",
+  "date": "2026-08-02",
+  "locationId": "11872",
+  "locationName": "Slingshot Pinball",
+  "playerCount": 4,
+  "ratingsDate": "2026-08-02",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m47522",
+      "name": "Pierre Tschaeppaet",
+      "rating": 1619.27,
+      "dailyRatingChange": 6.38
+    },
+    {
+      "position": 2,
+      "playerId": "m43085",
+      "name": "Hunter Lodwick",
+      "rating": 1524.79,
+      "dailyRatingChange": 11.92
+    },
+    {
+      "position": 3,
+      "playerId": "m43378",
+      "name": "John Ortiz",
+      "rating": 1522.08,
+      "dailyRatingChange": 4.34
+    },
+    {
+      "position": 4,
+      "playerId": "m55011",
+      "name": "Kevin Yang",
+      "rating": 1577.04,
+      "dailyRatingChange": 0.85
+    }
+  ]
+}

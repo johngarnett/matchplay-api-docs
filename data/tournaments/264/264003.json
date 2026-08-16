@@ -1,0 +1,25 @@
+{
+  "tournamentId": 264003,
+  "name": "Finals for Legends Corn Belt Classic VI",
+  "date": "2026-07-26",
+  "locationId": "12985",
+  "locationName": "Legends Draft Haus & Sports Bar",
+  "playerCount": 2,
+  "ratingsDate": "2026-07-26",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "i152990",
+      "name": "Dan Fuller",
+      "rating": 1577.91,
+      "dailyRatingChange": -4.56
+    },
+    {
+      "position": 2,
+      "playerId": "m44010",
+      "name": "Mitch Jahns",
+      "rating": 1646.59,
+      "dailyRatingChange": 3.46
+    }
+  ]
+}

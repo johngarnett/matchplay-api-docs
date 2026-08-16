@@ -1,0 +1,143 @@
+{
+  "locationId": "11029",
+  "name": "The Outpost",
+  "address": "1773 Kingsway St. Suite 202",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 7,
+  "relatedVenues": [
+    {
+      "locationId": "8645",
+      "name": "The American",
+      "address": "926 Main St, Vancouver, BC V6A 2W1, CA",
+      "count": 13
+    },
+    {
+      "locationId": "12634",
+      "name": "The Outpost",
+      "address": "1773 Kingsway, Vancouver, BC V5N 2S5, US",
+      "count": 9
+    },
+    {
+      "locationId": "13050",
+      "name": "House Of Flippers",
+      "address": "",
+      "count": 2
+    },
+    {
+      "locationId": "7159",
+      "name": "The John",
+      "address": "2216Jingle Pot Road Nanaimo B.C. V9R 6T9",
+      "count": 1
+    },
+    {
+      "locationId": "13055",
+      "name": "VanCity Pinball & Arcade",
+      "address": "1739 Venables St, Vancouver, BC V5L 2H3, CA",
+      "count": 1
+    },
+    {
+      "locationId": "13493",
+      "name": "TMC Amusements",
+      "address": "21102 117 avenue. Maple Ridge, BC, Canada",
+      "count": 1
+    },
+    {
+      "locationId": "13751",
+      "name": "Pinhalla Pinball Pizzeria",
+      "address": "516 Fisgard St, Victoria, BC V8W 1R4, CA",
+      "count": 1
+    },
+    {
+      "locationId": "13756",
+      "name": "Atomic Arcade",
+      "address": "1790 Island Hwy #105, Victoria, BC V9B 1H8, CA",
+      "count": 1
+    }
+  ],
+  "players": [
+    {
+      "id": "m10337",
+      "name": "Cynthia Rose",
+      "rating": 1668.1,
+      "rd": 28.23,
+      "ratingClass": "A",
+      "homeLocation": "The Outpost",
+      "homeLocationId": "12634",
+      "percentile": 93.93487678762752,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m28628",
+      "name": "Chantelle Mercier",
+      "rating": 1635.03,
+      "rd": 21.66,
+      "ratingClass": "A",
+      "homeLocation": "The American",
+      "homeLocationId": "8645",
+      "percentile": 89.4582382261145,
+      "changeDisplay": "-3.6",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m29708",
+      "name": "Joanna Jedrzejczyk",
+      "rating": 1515.47,
+      "rd": 36.54,
+      "ratingClass": "B",
+      "homeLocation": "The Outpost",
+      "homeLocationId": "11029",
+      "percentile": 53.35631434294499,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m21984",
+      "name": "Nicole Goodacre",
+      "rating": 1514.47,
+      "rd": 29.08,
+      "ratingClass": "B",
+      "homeLocation": "The Outpost",
+      "homeLocationId": "11029",
+      "percentile": 52.93706619462431,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m3498",
+      "name": "Angelique Vigneux",
+      "rating": 1510.87,
+      "rd": 24.55,
+      "ratingClass": "B",
+      "homeLocation": "The American",
+      "homeLocationId": "8645",
+      "percentile": 51.57683886896166,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m3474",
+      "name": "Heather Watson",
+      "rating": 1397.01,
+      "rd": 31.92,
+      "ratingClass": "D",
+      "homeLocation": "The Outpost",
+      "homeLocationId": "11029",
+      "percentile": 11.762239716774586,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i93469",
+      "name": "Talula Goodacre",
+      "rating": 1255.44,
+      "rd": 48.93,
+      "ratingClass": "E",
+      "homeLocation": "The Outpost",
+      "homeLocationId": "11029",
+      "percentile": 0.2655238272697629,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

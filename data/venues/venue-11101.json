@@ -1,0 +1,143 @@
+{
+  "locationId": "11101",
+  "name": "Crystal Brook Railway Hotel",
+  "address": "47 Railway Terrace, Crystal Brook, SA 5523",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 6,
+  "relatedVenues": [
+    {
+      "locationId": "11748",
+      "name": "Caltowie Memorial Hall",
+      "address": "Charles Street, Caltowie, South Australia 5490",
+      "count": 19
+    },
+    {
+      "locationId": "12707",
+      "name": "Pinball Pitstop @ Klingners Kitchen",
+      "address": "6 Vohr Street, Jamestown, South Australia, 5491",
+      "count": 15
+    },
+    {
+      "locationId": "13428",
+      "name": "Jamestown Hotel Pinball Pub",
+      "address": "79 Ayr Street , Jamestown, 5491",
+      "count": 14
+    },
+    {
+      "locationId": "7450",
+      "name": "The Clubhouse Moorooka",
+      "address": "76 Koala Road, Moorooka, QLD 4105, AU",
+      "count": 4
+    },
+    {
+      "locationId": "356",
+      "name": "Amusement Worx",
+      "address": "",
+      "count": 2
+    },
+    {
+      "locationId": "10076",
+      "name": "South Australia Pinball and Arcade",
+      "address": "19 Playford Cres, Salisbury North, SA 5108, AU",
+      "count": 2
+    },
+    {
+      "locationId": "13600",
+      "name": "Morphettville Racecourse",
+      "address": "79 Morphett Rd, Morphettville, South Australia 5043",
+      "count": 2
+    },
+    {
+      "locationId": "13611",
+      "name": "Morphettville Racecourse",
+      "address": "79 Morphett Road Morphettville, SA 5043",
+      "count": 2
+    },
+    {
+      "locationId": "7180",
+      "name": "Netherworld",
+      "address": "186 Brunswick St, Fortitude Valley, QLD 4006, AU",
+      "count": 1
+    },
+    {
+      "locationId": "8872",
+      "name": "FLOP",
+      "address": "6 Scenic Drive Maslin Beach",
+      "count": 1
+    }
+  ],
+  "players": [
+    {
+      "id": "m6632",
+      "name": "Ray Gillett",
+      "rating": 1583.16,
+      "rd": 17.29,
+      "ratingClass": "B",
+      "homeLocation": "Caltowie Memorial Hall",
+      "homeLocationId": "11748",
+      "percentile": 77.5189826244934,
+      "changeDisplay": "+3.9",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m62574",
+      "name": "Mark Easson",
+      "rating": 1578.82,
+      "rd": 21.82,
+      "ratingClass": "B",
+      "homeLocation": "Caltowie Memorial Hall",
+      "homeLocationId": "11748",
+      "percentile": 76.28452974332697,
+      "changeDisplay": "+2.4",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m51737",
+      "name": "Jim Tyas",
+      "rating": 1521.39,
+      "rd": 20.85,
+      "ratingClass": "B",
+      "homeLocation": "Caltowie Memorial Hall",
+      "homeLocationId": "11748",
+      "percentile": 55.750687101131966,
+      "changeDisplay": "+3.8",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m27875",
+      "name": "George Jeffrey",
+      "rating": 1497.37,
+      "rd": 19.84,
+      "ratingClass": "C",
+      "homeLocation": "The Clubhouse Moorooka",
+      "homeLocationId": "7450",
+      "percentile": 46.02878837285135,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m7085",
+      "name": "Steve Dite",
+      "rating": 1472.73,
+      "rd": 27.3,
+      "ratingClass": "C",
+      "homeLocation": "Crystal Brook Railway Hotel",
+      "homeLocationId": "11101",
+      "percentile": 35.96683281315507,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i114841",
+      "name": "Pete Heathfield",
+      "rating": 1295.06,
+      "rd": 29.4,
+      "ratingClass": "E",
+      "homeLocation": "Caltowie Memorial Hall",
+      "homeLocationId": "11748",
+      "percentile": 0.8804211114734244,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

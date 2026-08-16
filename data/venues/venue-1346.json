@@ -1,0 +1,191 @@
+{
+  "locationId": "1346",
+  "name": "SALOOON",
+  "address": "20-29 Honcho, Ota, Gunma Prefecture, 373-0057, JP",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 14,
+  "relatedVenues": [
+    {
+      "locationId": "5557",
+      "name": "JFPA Pinball Dojo",
+      "address": "北海道札幌市白石区東米里2038第1倉庫内, Sapporo, Hokkaido, 003-0876, JP",
+      "count": 8
+    },
+    {
+      "locationId": "11191",
+      "name": "The Flipper Room",
+      "address": "221新北市汐止區大同路一段94號",
+      "count": 2
+    }
+  ],
+  "players": [
+    {
+      "id": "m16608",
+      "name": "Yuta Arashima",
+      "rating": 1805.53,
+      "rd": 29.87,
+      "ratingClass": "Master",
+      "homeLocation": "JFPA Pinball Dojo",
+      "homeLocationId": "5557",
+      "percentile": 99.59006847719756,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m16605",
+      "name": "Hiroto Shishido",
+      "rating": 1716.83,
+      "rd": 47.21,
+      "ratingClass": "Expert",
+      "homeLocation": "SALOOON",
+      "homeLocationId": "1346",
+      "percentile": 97.47519448455769,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m16167",
+      "name": "Kenji Ishii",
+      "rating": 1691.8,
+      "rd": 31.89,
+      "ratingClass": "A",
+      "homeLocation": "SALOOON",
+      "homeLocationId": "1346",
+      "percentile": 96.04043415474915,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m16170",
+      "name": "Hibiki Sugiyama",
+      "rating": 1685.58,
+      "rd": 30.3,
+      "ratingClass": "A",
+      "homeLocation": "JFPA Pinball Dojo",
+      "homeLocationId": "5557",
+      "percentile": 95.57460287883728,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m16606",
+      "name": "Hiroshi Saito",
+      "rating": 1654.17,
+      "rd": 53.29,
+      "ratingClass": "A",
+      "homeLocation": "SALOOON",
+      "homeLocationId": "1346",
+      "percentile": 92.29515069641776,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m618",
+      "name": "Kevin Birrell",
+      "rating": 1645.92,
+      "rd": 63.4,
+      "ratingClass": "A",
+      "homeLocation": "SALOOON",
+      "homeLocationId": "1346",
+      "percentile": 91.15386407043368,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m39410",
+      "name": "Sunao Kono",
+      "rating": 1615.14,
+      "rd": 38.35,
+      "ratingClass": "A",
+      "homeLocation": "SALOOON",
+      "homeLocationId": "1346",
+      "percentile": 85.56854707225044,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i107720",
+      "name": "Manabu Harada",
+      "rating": 1609.18,
+      "rd": 41.72,
+      "ratingClass": "A",
+      "homeLocation": "SALOOON",
+      "homeLocationId": "1346",
+      "percentile": 84.2362696231425,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m5791",
+      "name": "Norio Iwai",
+      "rating": 1594.55,
+      "rd": 29.78,
+      "ratingClass": "B",
+      "homeLocation": "JFPA Pinball Dojo",
+      "homeLocationId": "5557",
+      "percentile": 80.69129361345321,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m16763",
+      "name": "Miho Yamaguchi",
+      "rating": 1544.64,
+      "rd": 28.82,
+      "ratingClass": "B",
+      "homeLocation": "JFPA Pinball Dojo",
+      "homeLocationId": "5557",
+      "percentile": 64.80644710485862,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i147077",
+      "name": "Yuki Honma",
+      "rating": 1514.47,
+      "rd": 57.33,
+      "ratingClass": "B",
+      "homeLocation": "SALOOON",
+      "homeLocationId": "1346",
+      "percentile": 52.94172450738343,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m538",
+      "name": "Zach Amador",
+      "rating": 1490.91,
+      "rd": 64.39,
+      "ratingClass": "C",
+      "homeLocation": "SALOOON",
+      "homeLocationId": "1346",
+      "percentile": 43.38286672567196,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m16602",
+      "name": "Hirokazu Sakurai",
+      "rating": 1483.68,
+      "rd": 57.73,
+      "ratingClass": "C",
+      "homeLocation": "SALOOON",
+      "homeLocationId": "1346",
+      "percentile": 40.40154655983603,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m16610",
+      "name": "Masato Sato",
+      "rating": 1150.13,
+      "rd": 58.43,
+      "ratingClass": "E",
+      "homeLocation": "SALOOON",
+      "homeLocationId": "1346",
+      "percentile": 0.009316625518237295,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

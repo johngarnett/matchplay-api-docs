@@ -1,0 +1,46 @@
+{
+  "tournamentId": 260822,
+  "name": "Spald-Pin 6",
+  "date": "2026-07-20",
+  "locationId": "13470",
+  "locationName": "Spalding House",
+  "playerCount": 5,
+  "ratingsDate": "2026-07-20",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "i138076",
+      "name": "Lee Seamans",
+      "rating": 1575.04,
+      "dailyRatingChange": 26.56
+    },
+    {
+      "position": 2,
+      "playerId": "m44248",
+      "name": "Michael Seamans",
+      "rating": 1587.68,
+      "dailyRatingChange": -3.67
+    },
+    {
+      "position": 3,
+      "playerId": "m570261",
+      "name": "Darold Wodarz",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 4,
+      "playerId": "m61011",
+      "name": "Deb Seamans",
+      "rating": 1374.02,
+      "dailyRatingChange": -18.71
+    },
+    {
+      "position": 5,
+      "playerId": "m54395",
+      "name": "James Nysather",
+      "rating": 1414.74,
+      "dailyRatingChange": -0.7
+    }
+  ]
+}

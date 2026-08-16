@@ -1,0 +1,81 @@
+{
+  "tournamentId": 262540,
+  "name": "July 2026 Level 1 Monthly Women's Flippin' Friday",
+  "date": "2026-07-18",
+  "locationId": "7969",
+  "locationName": "Level One Bar + Arcade",
+  "playerCount": 10,
+  "ratingsDate": "2026-07-18",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m21446",
+      "name": "Stephanie Zona",
+      "rating": 1550.58,
+      "dailyRatingChange": 4.94
+    },
+    {
+      "position": 1,
+      "playerId": "m1524",
+      "name": "Holly Koskinen",
+      "rating": 1664.59,
+      "dailyRatingChange": -5.2
+    },
+    {
+      "position": 3,
+      "playerId": "m9632",
+      "name": "Heather Binns",
+      "rating": 1445.55,
+      "dailyRatingChange": 11.43
+    },
+    {
+      "position": 4,
+      "playerId": "m16968",
+      "name": "Liz Goode",
+      "rating": 1608.01,
+      "dailyRatingChange": 8.35
+    },
+    {
+      "position": 5,
+      "playerId": "m25490",
+      "name": "Ginger Olivieri",
+      "rating": 1478.3,
+      "dailyRatingChange": -2.75
+    },
+    {
+      "position": 6,
+      "playerId": "m51694",
+      "name": "Elana Bolen",
+      "rating": 1364.23,
+      "dailyRatingChange": 4.87
+    },
+    {
+      "position": 7,
+      "playerId": "i543361",
+      "name": "Kay Dean",
+      "rating": 1396,
+      "dailyRatingChange": null
+    },
+    {
+      "position": 8,
+      "playerId": "m579208",
+      "name": "Victoria Holland",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 9,
+      "playerId": "m36624",
+      "name": "Sara O'Bryan",
+      "rating": 1448.1,
+      "dailyRatingChange": -10.15
+    },
+    {
+      "position": 10,
+      "playerId": "m369546",
+      "name": "Charity Tinkham",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

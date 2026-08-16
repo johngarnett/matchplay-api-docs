@@ -1,0 +1,67 @@
+{
+  "tournamentId": 265020,
+  "name": "Finals for C4 Flipper Månadstävling",
+  "date": "2026-08-01",
+  "locationId": "4930",
+  "locationName": "C4 Flipper",
+  "playerCount": 8,
+  "ratingsDate": "2026-08-01",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m50572",
+      "name": "Tomas Olsson TOM",
+      "rating": 1567.15,
+      "dailyRatingChange": 5.78
+    },
+    {
+      "position": 2,
+      "playerId": "m7078",
+      "name": "Fredrik Löwgren",
+      "rating": 1593.14,
+      "dailyRatingChange": 0.64
+    },
+    {
+      "position": 3,
+      "playerId": "m42747",
+      "name": "Michael Carlsson",
+      "rating": 1619.67,
+      "dailyRatingChange": -0.73
+    },
+    {
+      "position": 4,
+      "playerId": "m55156",
+      "name": "Bianca Andreasson",
+      "rating": 1479.53,
+      "dailyRatingChange": 7.77
+    },
+    {
+      "position": 5,
+      "playerId": "m48097",
+      "name": "Peter Lager",
+      "rating": 1491.97,
+      "dailyRatingChange": 14.67
+    },
+    {
+      "position": 6,
+      "playerId": "m6134",
+      "name": "Thomas Näslund",
+      "rating": 1645.98,
+      "dailyRatingChange": -4.35
+    },
+    {
+      "position": 7,
+      "playerId": "m13710",
+      "name": "Anton Vlassiouk",
+      "rating": 1466.23,
+      "dailyRatingChange": 2.85
+    },
+    {
+      "position": 8,
+      "playerId": "m44350",
+      "name": "Adam Carlsson",
+      "rating": 1526.77,
+      "dailyRatingChange": -2.66
+    }
+  ]
+}

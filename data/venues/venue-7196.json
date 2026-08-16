@@ -1,0 +1,359 @@
+{
+  "locationId": "7196",
+  "name": "Pinpoint Pinball Bar",
+  "address": "23 North Block Avenue, Fayetteville, AR 72701, US",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 24,
+  "relatedVenues": [
+    {
+      "locationId": "10717",
+      "name": "NWA Pinball Club",
+      "address": "2398 S M St, Rogers, AR, 72758, US",
+      "count": 20
+    },
+    {
+      "locationId": "11963",
+      "name": "Last Arcade",
+      "address": "1218 military rd benton,AR 72015",
+      "count": 17
+    },
+    {
+      "locationId": "6583",
+      "name": "Murphy's on 21",
+      "address": "13226 Tesson Ferry Rd, St. Louis, MO 63128, USA",
+      "count": 14
+    },
+    {
+      "locationId": "13545",
+      "name": "Lane 25 at West County Lanes",
+      "address": "15727 Manchester Rd. Ellisville, MO 63011",
+      "count": 5
+    },
+    {
+      "locationId": "9416",
+      "name": "RetroZone Arcade",
+      "address": "118 Commercial St. Marshfield, MO",
+      "count": 4
+    },
+    {
+      "locationId": "11561",
+      "name": "Austin Pinball Collective",
+      "address": "1106 Clayton Ln, Austin, TX 78723, US",
+      "count": 4
+    },
+    {
+      "locationId": "9830",
+      "name": "The Lazarus",
+      "address": "26 Western Plaza Fenton MO 63026",
+      "count": 3
+    },
+    {
+      "locationId": "11654",
+      "name": "Capital Mall - QuikPlay Arcade",
+      "address": "3600 Country Club Dr, Jefferson City, MO 65109",
+      "count": 3
+    },
+    {
+      "locationId": "12217",
+      "name": "The Pinball Social Club",
+      "address": "406 S Miller Rd, Willard, MO 65781",
+      "count": 3
+    },
+    {
+      "locationId": "4804",
+      "name": "District 82 Pinball",
+      "address": "800 O Keefe Rd, De Pere, WI 54115, USA",
+      "count": 2
+    }
+  ],
+  "players": [
+    {
+      "id": "m20117",
+      "name": "George Kuharick",
+      "rating": 1676.58,
+      "rd": 26.26,
+      "ratingClass": "A",
+      "homeLocation": "Pinpoint Pinball Bar",
+      "homeLocationId": "7196",
+      "percentile": 94.80132296082358,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m14557",
+      "name": "Mike Malone",
+      "rating": 1674.86,
+      "rd": 29,
+      "ratingClass": "A",
+      "homeLocation": "Pinpoint Pinball Bar",
+      "homeLocationId": "7196",
+      "percentile": 94.57306563562678,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m14555",
+      "name": "Allie Lawson",
+      "rating": 1656.32,
+      "rd": 22.71,
+      "ratingClass": "A",
+      "homeLocation": "Pinpoint Pinball Bar",
+      "homeLocationId": "7196",
+      "percentile": 92.58396608748312,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m14556",
+      "name": "Chris Scherer",
+      "rating": 1652.44,
+      "rd": 28.94,
+      "ratingClass": "A",
+      "homeLocation": "Pinpoint Pinball Bar",
+      "homeLocationId": "7196",
+      "percentile": 92.07155168398006,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m14077",
+      "name": "John Monkus",
+      "rating": 1633.94,
+      "rd": 26.32,
+      "ratingClass": "A",
+      "homeLocation": "Pinpoint Pinball Bar",
+      "homeLocationId": "7196",
+      "percentile": 89.26258909023151,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m39853",
+      "name": "Jesse Nguyen AR",
+      "rating": 1606.79,
+      "rd": 26.57,
+      "ratingClass": "A",
+      "homeLocation": "NWA Pinball Club",
+      "homeLocationId": "10717",
+      "percentile": 83.65398052825267,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m19330",
+      "name": "Lora Streeter",
+      "rating": 1606.62,
+      "rd": 20.73,
+      "ratingClass": "A",
+      "homeLocation": "Pinpoint Pinball Bar",
+      "homeLocationId": "7196",
+      "percentile": 83.59808077514325,
+      "changeDisplay": "+4.2",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m1242",
+      "name": "Mark Gunter",
+      "rating": 1603.98,
+      "rd": 21.24,
+      "ratingClass": "A",
+      "homeLocation": "Last Arcade",
+      "homeLocationId": "11963",
+      "percentile": 82.95057530162575,
+      "changeDisplay": "+1.8",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m50275",
+      "name": "Matthew Krueger",
+      "rating": 1582.49,
+      "rd": 24.66,
+      "ratingClass": "B",
+      "homeLocation": "NWA Pinball Club",
+      "homeLocationId": "10717",
+      "percentile": 77.35128336516513,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m29666",
+      "name": "Kristin Machalek",
+      "rating": 1564.53,
+      "rd": 17.05,
+      "ratingClass": "B",
+      "homeLocation": "Murphy's on 21",
+      "homeLocationId": "6583",
+      "percentile": 71.8451576838869,
+      "changeDisplay": "+7.8",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "i122614",
+      "name": "Clint Holloway",
+      "rating": 1552.37,
+      "rd": 24.99,
+      "ratingClass": "B",
+      "homeLocation": "NWA Pinball Club",
+      "homeLocationId": "10717",
+      "percentile": 67.63404294964363,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m42446",
+      "name": "Kazzarian White",
+      "rating": 1550.45,
+      "rd": 19.77,
+      "ratingClass": "B",
+      "homeLocation": "Murphy's on 21",
+      "homeLocationId": "6583",
+      "percentile": 66.86076303162994,
+      "changeDisplay": "-6.5",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m18963",
+      "name": "David Sexton",
+      "rating": 1540.07,
+      "rd": 31.4,
+      "ratingClass": "B",
+      "homeLocation": "Pinpoint Pinball Bar",
+      "homeLocationId": "7196",
+      "percentile": 63.134112824335034,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m18472",
+      "name": "Gael Brice",
+      "rating": 1516.42,
+      "rd": 28.26,
+      "ratingClass": "B",
+      "homeLocation": "Pinpoint Pinball Bar",
+      "homeLocationId": "7196",
+      "percentile": 53.76624586574743,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m26422",
+      "name": "Ramzyz Herburger",
+      "rating": 1508.92,
+      "rd": 41.64,
+      "ratingClass": "B",
+      "homeLocation": "Pinpoint Pinball Bar",
+      "homeLocationId": "7196",
+      "percentile": 50.77560907439326,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m14173",
+      "name": "Luca Shameh",
+      "rating": 1507.27,
+      "rd": 30.23,
+      "ratingClass": "B",
+      "homeLocation": "Pinpoint Pinball Bar",
+      "homeLocationId": "7196",
+      "percentile": 50.08152047328458,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m21550",
+      "name": "Henry Kuharick",
+      "rating": 1485.28,
+      "rd": 31.67,
+      "ratingClass": "C",
+      "homeLocation": "Pinpoint Pinball Bar",
+      "homeLocationId": "7196",
+      "percentile": 41.021102156798804,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m34268",
+      "name": "Greg Goggans",
+      "rating": 1472.08,
+      "rd": 34.9,
+      "ratingClass": "C",
+      "homeLocation": "Pinpoint Pinball Bar",
+      "homeLocationId": "7196",
+      "percentile": 35.65006754553501,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m19321",
+      "name": "McClain Wood",
+      "rating": 1471.84,
+      "rd": 30.63,
+      "ratingClass": "C",
+      "homeLocation": "Pinpoint Pinball Bar",
+      "homeLocationId": "7196",
+      "percentile": 35.56155960311175,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i128334",
+      "name": "Ray Goepfert",
+      "rating": 1471.53,
+      "rd": 42.23,
+      "ratingClass": "C",
+      "homeLocation": "Pinpoint Pinball Bar",
+      "homeLocationId": "7196",
+      "percentile": 35.4730516606885,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m14558",
+      "name": "Andrew Kimbell",
+      "rating": 1468.04,
+      "rd": 27.24,
+      "ratingClass": "C",
+      "homeLocation": "Pinpoint Pinball Bar",
+      "homeLocationId": "7196",
+      "percentile": 34.08021614571202,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m38900",
+      "name": "Zach Harris AR",
+      "rating": 1467.87,
+      "rd": 32.26,
+      "ratingClass": "C",
+      "homeLocation": "Pinpoint Pinball Bar",
+      "homeLocationId": "7196",
+      "percentile": 34.03363301812084,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i128282",
+      "name": "David Bowman",
+      "rating": 1460.57,
+      "rd": 30.21,
+      "ratingClass": "C",
+      "homeLocation": "Last Arcade",
+      "homeLocationId": "11963",
+      "percentile": 31.187403922299346,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m20119",
+      "name": "Angela Korbe",
+      "rating": 1452.27,
+      "rd": 43.41,
+      "ratingClass": "C",
+      "homeLocation": "Pinpoint Pinball Bar",
+      "homeLocationId": "7196",
+      "percentile": 28.010434620580426,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

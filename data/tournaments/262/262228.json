@@ -1,0 +1,116 @@
+{
+  "tournamentId": 262228,
+  "name": "Axemann 2026 Summer Pinball League Week 3",
+  "date": "2026-07-23",
+  "locationId": "10150",
+  "locationName": "Axemann Brewery",
+  "playerCount": 15,
+  "ratingsDate": "2026-07-23",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m31891",
+      "name": "Walter Janusz",
+      "rating": 1720.81,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 2,
+      "playerId": "m431704",
+      "name": "Fabien Grise",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 3,
+      "playerId": "m572885",
+      "name": "Zach Shourds",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 4,
+      "playerId": "i85731",
+      "name": "James Sumereau",
+      "rating": 1653.57,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 5,
+      "playerId": "m24558",
+      "name": "Daniel Ben-ami",
+      "rating": 1693.22,
+      "dailyRatingChange": 10.18
+    },
+    {
+      "position": 6,
+      "playerId": "m528980",
+      "name": "Drew Stewart",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 7,
+      "playerId": "m572888",
+      "name": "Sylvia Feldman",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 8,
+      "playerId": "i110974",
+      "name": "Anna Miraldi",
+      "rating": 1408.49,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 9,
+      "playerId": "m572886",
+      "name": "Aaron Heuser",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 9,
+      "playerId": "m572896",
+      "name": "Roland Sumner",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 11,
+      "playerId": "m572891",
+      "name": "Vince Snyder",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 12,
+      "playerId": "m367136",
+      "name": "Emily Wiggins",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 13,
+      "playerId": "m572892",
+      "name": "Rosa Miraldi",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 14,
+      "playerId": "m572884",
+      "name": "Andrea Ferich",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 15,
+      "playerId": "m572890",
+      "name": "Nick Downs",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "tournamentId": 263279,
+  "name": "B-Finals for OPA Onsdag 22/07",
+  "date": "2026-07-22",
+  "locationId": "5700",
+  "locationName": "Odense Pinball Arkade",
+  "playerCount": 4,
+  "ratingsDate": "2026-07-22",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m31582",
+      "name": "Julian Thy",
+      "rating": 1499.37,
+      "dailyRatingChange": 18.49
+    },
+    {
+      "position": 2,
+      "playerId": "m38652",
+      "name": "Danni Larsen",
+      "rating": 1596.08,
+      "dailyRatingChange": -4.94
+    },
+    {
+      "position": 3,
+      "playerId": "m31581",
+      "name": "Morten Yde",
+      "rating": 1553.17,
+      "dailyRatingChange": -1.16
+    },
+    {
+      "position": 4,
+      "playerId": "m31589",
+      "name": "Dennis Kjær Jensen",
+      "rating": 1491.03,
+      "dailyRatingChange": -1.96
+    }
+  ]
+}

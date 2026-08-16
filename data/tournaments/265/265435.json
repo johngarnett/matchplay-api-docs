@@ -1,0 +1,39 @@
+{
+  "tournamentId": 265435,
+  "name": "3rd-4th playoff Railway Hotel Crystal Brook 1st Tuesday August '26",
+  "date": "2026-08-04",
+  "locationId": "11101",
+  "locationName": "Crystal Brook Railway Hotel",
+  "playerCount": 4,
+  "ratingsDate": "2026-08-04",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m62574",
+      "name": "Mark Easson",
+      "rating": 1576.47,
+      "dailyRatingChange": -1.73
+    },
+    {
+      "position": 2,
+      "playerId": "m27875",
+      "name": "George Jeffrey",
+      "rating": 1497.37,
+      "dailyRatingChange": 0.63
+    },
+    {
+      "position": 3,
+      "playerId": "m81492",
+      "name": "No Player",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 4,
+      "playerId": "m81630",
+      "name": "No Player Two",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "tournamentId": 257466,
+  "name": "Finals for Welcome back to West County Lanes!",
+  "date": "2026-07-19",
+  "locationId": "13545",
+  "locationName": "Lane 25 at West County Lanes",
+  "playerCount": 12,
+  "ratingsDate": "2026-07-19",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m25128",
+      "name": "Steve Smith MO",
+      "rating": 1696.32,
+      "dailyRatingChange": 4.28
+    },
+    {
+      "position": 2,
+      "playerId": "m25692",
+      "name": "Carleton Plourde",
+      "rating": 1762.73,
+      "dailyRatingChange": -1.05
+    },
+    {
+      "position": 3,
+      "playerId": "m23792",
+      "name": "Dave Rush",
+      "rating": 1626.21,
+      "dailyRatingChange": 12.4
+    },
+    {
+      "position": 4,
+      "playerId": "m14336",
+      "name": "Phil Metzger",
+      "rating": 1577.18,
+      "dailyRatingChange": 1.33
+    },
+    {
+      "position": 5,
+      "playerId": "m9330",
+      "name": "Petar Strinic",
+      "rating": 1644.42,
+      "dailyRatingChange": -1.21
+    },
+    {
+      "position": 5,
+      "playerId": "m42051",
+      "name": "John Glattfelt",
+      "rating": 1637.09,
+      "dailyRatingChange": -1.48
+    },
+    {
+      "position": 7,
+      "playerId": "m17335",
+      "name": "Greg Duffner",
+      "rating": 1596.57,
+      "dailyRatingChange": -1.07
+    },
+    {
+      "position": 7,
+      "playerId": "m39823",
+      "name": "Ken Calcaterra",
+      "rating": 1551.25,
+      "dailyRatingChange": 0.36
+    },
+    {
+      "position": 9,
+      "playerId": "m46215",
+      "name": "Chris Jones MO",
+      "rating": 1482.06,
+      "dailyRatingChange": -2
+    },
+    {
+      "position": 9,
+      "playerId": "m23004",
+      "name": "Zachary Messaglia",
+      "rating": 1556.64,
+      "dailyRatingChange": -4.94
+    },
+    {
+      "position": 9,
+      "playerId": "m54358",
+      "name": "Abigail Ross",
+      "rating": 1519.64,
+      "dailyRatingChange": -6.11
+    },
+    {
+      "position": 9,
+      "playerId": "m26071",
+      "name": "Michael Lowell",
+      "rating": 1632.1,
+      "dailyRatingChange": -5.46
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "tournamentId": 265170,
+  "name": "Mead Hall League - Summer 2026 #3",
+  "date": "2026-08-02",
+  "locationId": "12854",
+  "locationName": "Mead Hall / Swarm Brewing Company",
+  "playerCount": 18,
+  "ratingsDate": "2026-08-02",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m580158",
+      "name": "roger davis",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 2,
+      "playerId": "m17335",
+      "name": "Greg Duffner",
+      "rating": 1595.84,
+      "dailyRatingChange": 4.88
+    },
+    {
+      "position": 2,
+      "playerId": "m56128",
+      "name": "Keith Lutz",
+      "rating": 1623.91,
+      "dailyRatingChange": 10.18
+    },
+    {
+      "position": 4,
+      "playerId": "m50536",
+      "name": "Mike Fuson",
+      "rating": 1576.25,
+      "dailyRatingChange": 6.21
+    },
+    {
+      "position": 5,
+      "playerId": "i57127",
+      "name": "Andrew Mueller",
+      "rating": 1525.3,
+      "dailyRatingChange": 7.57
+    },
+    {
+      "position": 5,
+      "playerId": "m56017",
+      "name": "Todd Joslin",
+      "rating": 1560.8,
+      "dailyRatingChange": -1.65
+    },
+    {
+      "position": 7,
+      "playerId": "m39068",
+      "name": "Kyle Boaz",
+      "rating": 1591.46,
+      "dailyRatingChange": 2.73
+    },
+    {
+      "position": 8,
+      "playerId": "m11892",
+      "name": "Steve Eckhard",
+      "rating": 1484.47,
+      "dailyRatingChange": -14.56
+    },
+    {
+      "position": 8,
+      "playerId": "i158647",
+      "name": "Michelle Lutz",
+      "rating": 1412.22,
+      "dailyRatingChange": 4.75
+    },
+    {
+      "position": 8,
+      "playerId": "m580141",
+      "name": "Heather Pierce",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 8,
+      "playerId": "m56110",
+      "name": "Jeff Schaefer",
+      "rating": 1539.53,
+      "dailyRatingChange": 2.63
+    },
+    {
+      "position": 12,
+      "playerId": "i97172",
+      "name": "Eric Duffner",
+      "rating": 1597.91,
+      "dailyRatingChange": -4.22
+    },
+    {
+      "position": 13,
+      "playerId": "m580155",
+      "name": "Jake Duffner",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 13,
+      "playerId": "i158644",
+      "name": "Eugene Hamilton",
+      "rating": 1329.87,
+      "dailyRatingChange": 2.76
+    },
+    {
+      "position": 15,
+      "playerId": "m25953",
+      "name": "Ryan Gill",
+      "rating": 1493.93,
+      "dailyRatingChange": -12.36
+    },
+    {
+      "position": 15,
+      "playerId": "m55898",
+      "name": "Daniela Strother",
+      "rating": 1437.42,
+      "dailyRatingChange": -6.51
+    },
+    {
+      "position": 17,
+      "playerId": "m55899",
+      "name": "Earl Trout",
+      "rating": 1459.85,
+      "dailyRatingChange": -19.7
+    },
+    {
+      "position": 18,
+      "playerId": "m57568",
+      "name": "Crystal Berry",
+      "rating": 1413.72,
+      "dailyRatingChange": -8.68
+    }
+  ]
+}

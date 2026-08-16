@@ -1,0 +1,67 @@
+{
+  "tournamentId": 265758,
+  "name": "TEST- Finals for Westy Queens: 2026 Summer Season @ Westy // A DIVISION (clone)",
+  "date": "2026-08-06",
+  "locationId": "11099",
+  "locationName": "The 1up Arcade Bar - Westminster",
+  "playerCount": 8,
+  "ratingsDate": "2026-08-06",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m7971",
+      "name": "Rach Duran",
+      "rating": 1548.49,
+      "dailyRatingChange": 6.44
+    },
+    {
+      "position": 2,
+      "playerId": "m32344",
+      "name": "Karen Mooney",
+      "rating": 1472.65,
+      "dailyRatingChange": 8.33
+    },
+    {
+      "position": 3,
+      "playerId": "m18055",
+      "name": "Deanna Scalf",
+      "rating": 1598.25,
+      "dailyRatingChange": -1.66
+    },
+    {
+      "position": 4,
+      "playerId": "m24500",
+      "name": "Whitney Lockhart",
+      "rating": 1550.85,
+      "dailyRatingChange": 2.92
+    },
+    {
+      "position": 5,
+      "playerId": "m8006",
+      "name": "Kelli Raisler",
+      "rating": 1551.97,
+      "dailyRatingChange": 1.08
+    },
+    {
+      "position": 6,
+      "playerId": "m56939",
+      "name": "Kyri Baker",
+      "rating": 1564.75,
+      "dailyRatingChange": -4.6
+    },
+    {
+      "position": 7,
+      "playerId": "m1469",
+      "name": "Masha Dare",
+      "rating": 1553.14,
+      "dailyRatingChange": -6.11
+    },
+    {
+      "position": 8,
+      "playerId": "m41877",
+      "name": "Heather Volk",
+      "rating": 1481.08,
+      "dailyRatingChange": -26.74
+    }
+  ]
+}

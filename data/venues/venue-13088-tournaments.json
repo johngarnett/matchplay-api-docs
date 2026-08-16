@@ -1,0 +1,40 @@
+{
+  "locationId": "13088",
+  "venueName": "Distant View",
+  "venueAddress": "115 Distant View Dr., Asheville, NC 28803",
+  "tournaments": [
+    {
+      "id": 258381,
+      "name": "Asheville Winchester Mystery House Release Tournament",
+      "date": "7/29/2026",
+      "playerCount": 20,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m10283",
+          "name": "Austin Fanger",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m19236",
+          "name": "Brian Tavener",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m21857",
+          "name": "Kyle Voorhees",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m31837",
+          "name": "Andrew Spillios",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

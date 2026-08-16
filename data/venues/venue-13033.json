@@ -1,0 +1,281 @@
+{
+  "locationId": "13033",
+  "name": "Flipperverein Hattingen",
+  "address": "Untermarkt 7, 45525 Hattingen",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 20,
+  "relatedVenues": [
+    {
+      "locationId": "3767",
+      "name": "FreePlay",
+      "address": "Ewaldstraße 25, 45699 Herten, Germany",
+      "count": 19
+    },
+    {
+      "locationId": "5539",
+      "name": "Pinball Universe - Challenge Area",
+      "address": "Daimlerstraße 41-43, 32257 Bünde, Deutschland",
+      "count": 6
+    },
+    {
+      "locationId": "5577",
+      "name": "hierundjetzt",
+      "address": "",
+      "count": 2
+    },
+    {
+      "locationId": "8992",
+      "name": "Clubhouse NFV",
+      "address": "5 Turbinestraat, Veenendaal, UT 3903 LV, NL",
+      "count": 1
+    },
+    {
+      "locationId": "11506",
+      "name": "Pinball Universe",
+      "address": "Boschstr. 51, 32257 Bünde, Germany",
+      "count": 1
+    }
+  ],
+  "players": [
+    {
+      "id": "m3177",
+      "name": "Udo Schmieta",
+      "rating": 1626.47,
+      "rd": 54.09,
+      "ratingClass": "A",
+      "homeLocation": "Flipperverein Hattingen",
+      "homeLocationId": "13033",
+      "percentile": 87.86509526249593,
+      "changeDisplay": "-6.1",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m14634",
+      "name": "Guido Christiansen",
+      "rating": 1625.77,
+      "rd": 21.33,
+      "ratingClass": "A",
+      "homeLocation": "FreePlay",
+      "homeLocationId": "3767",
+      "percentile": 87.72068756696325,
+      "changeDisplay": "+3.4",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m16133",
+      "name": "Ralf Lapan",
+      "rating": 1606.94,
+      "rd": 33.79,
+      "ratingClass": "A",
+      "homeLocation": "Flipperverein Hattingen",
+      "homeLocationId": "13033",
+      "percentile": 83.68658871756651,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m31983",
+      "name": "Thomas Peters",
+      "rating": 1604.51,
+      "rd": 59.47,
+      "ratingClass": "A",
+      "homeLocation": "Flipperverein Hattingen",
+      "homeLocationId": "13033",
+      "percentile": 83.05305818232637,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m5366",
+      "name": "Jörn Runge",
+      "rating": 1558.35,
+      "rd": 48.16,
+      "ratingClass": "B",
+      "homeLocation": "FreePlay",
+      "homeLocationId": "3767",
+      "percentile": 69.79550006987469,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m16179",
+      "name": "Jochen Marz",
+      "rating": 1556.52,
+      "rd": 36.07,
+      "ratingClass": "B",
+      "homeLocation": "FreePlay",
+      "homeLocationId": "3767",
+      "percentile": 69.22718591326222,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m22096",
+      "name": "Daniel Kruzinski",
+      "rating": 1556.04,
+      "rd": 42.5,
+      "ratingClass": "B",
+      "homeLocation": "Flipperverein Hattingen",
+      "homeLocationId": "13033",
+      "percentile": 69.03619509013835,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i94786",
+      "name": "Michael von Vopelius",
+      "rating": 1545.52,
+      "rd": 48.65,
+      "ratingClass": "B",
+      "homeLocation": "Flipperverein Hattingen",
+      "homeLocationId": "13033",
+      "percentile": 65.12321237247869,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m16233",
+      "name": "Andre Schönfelder",
+      "rating": 1538.51,
+      "rd": 48.2,
+      "ratingClass": "B",
+      "homeLocation": "Flipperverein Hattingen",
+      "homeLocationId": "13033",
+      "percentile": 62.4772907252993,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m29373",
+      "name": "Michael Nau",
+      "rating": 1517.59,
+      "rd": 28.37,
+      "ratingClass": "B",
+      "homeLocation": "FreePlay",
+      "homeLocationId": "3767",
+      "percentile": 54.264685330973116,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m26804",
+      "name": "Rüdiger Hartmann",
+      "rating": 1515.89,
+      "rd": 26.56,
+      "ratingClass": "B",
+      "homeLocation": "FreePlay",
+      "homeLocationId": "3767",
+      "percentile": 53.56128010434621,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m41461",
+      "name": "Björn Holzapfel",
+      "rating": 1502,
+      "rd": 40.15,
+      "ratingClass": "B",
+      "homeLocation": "Pinball Universe - Challenge Area",
+      "homeLocationId": "5539",
+      "percentile": 47.90143010201705,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m58897",
+      "name": "Melanie Nowacki",
+      "rating": 1495.96,
+      "rd": 70.89,
+      "ratingClass": "C",
+      "homeLocation": "Flipperverein Hattingen",
+      "homeLocationId": "13033",
+      "percentile": 45.474449154516236,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m1764",
+      "name": "Marcus Nowacki",
+      "rating": 1470.31,
+      "rd": 70.89,
+      "ratingClass": "C",
+      "homeLocation": "Flipperverein Hattingen",
+      "homeLocationId": "13033",
+      "percentile": 34.988587133740154,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m58215",
+      "name": "Katja Strassburger",
+      "rating": null,
+      "rd": null,
+      "ratingClass": "N/A",
+      "homeLocation": "Flipperverein Hattingen",
+      "homeLocationId": "13033",
+      "percentile": null,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m58774",
+      "name": "Winfried Scheiblich",
+      "rating": null,
+      "rd": null,
+      "ratingClass": "N/A",
+      "homeLocation": "Flipperverein Hattingen",
+      "homeLocationId": "13033",
+      "percentile": null,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m60576",
+      "name": "Bernd Schuster",
+      "rating": null,
+      "rd": null,
+      "ratingClass": "N/A",
+      "homeLocation": "Flipperverein Hattingen",
+      "homeLocationId": "13033",
+      "percentile": null,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m60494",
+      "name": "Jens Hesse",
+      "rating": null,
+      "rd": null,
+      "ratingClass": "N/A",
+      "homeLocation": "Flipperverein Hattingen",
+      "homeLocationId": "13033",
+      "percentile": null,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m58218",
+      "name": "Michael Sudendorf",
+      "rating": null,
+      "rd": null,
+      "ratingClass": "N/A",
+      "homeLocation": "Flipperverein Hattingen",
+      "homeLocationId": "13033",
+      "percentile": null,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m60495",
+      "name": "Ralph Duhr",
+      "rating": null,
+      "rd": null,
+      "ratingClass": "N/A",
+      "homeLocation": "Flipperverein Hattingen",
+      "homeLocationId": "13033",
+      "percentile": null,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

@@ -1,0 +1,407 @@
+{
+  "locationId": "12428",
+  "name": "Riverside BBQ Company",
+  "address": "915 North Summit Street Toledo, OH",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 28,
+  "relatedVenues": [
+    {
+      "locationId": "10672",
+      "name": "Toledo Spirits",
+      "address": "1301 N Summit Street Toledo 43604",
+      "count": 79
+    },
+    {
+      "locationId": "8633",
+      "name": "The Basement: Toledo’s Pinball Pub",
+      "address": "4311 Heatherdowns Blvd. Toledo, OH 43614",
+      "count": 32
+    },
+    {
+      "locationId": "5287",
+      "name": "ULEKstore's Pinball and Classic Arcade",
+      "address": "2121 North Monroe St, Monroe, MI, 48162, US",
+      "count": 23
+    },
+    {
+      "locationId": "11788",
+      "name": "The Game Haven",
+      "address": "5570 Airway Rd, Dayton OH 45431",
+      "count": 18
+    },
+    {
+      "locationId": "13024",
+      "name": "Three Legged Dog",
+      "address": "116 Madison St, Port Clinton, OH, 43452, US",
+      "count": 4
+    },
+    {
+      "locationId": "13688",
+      "name": "The Game Haven",
+      "address": "5570 Airway Rd, Riverside, OH 45431, US",
+      "count": 4
+    },
+    {
+      "locationId": "5479",
+      "name": "Canal Street Arcade and Deli",
+      "address": "308 East 1st St, Dayton, OH, 45402, US",
+      "count": 2
+    },
+    {
+      "locationId": "6868",
+      "name": "Dana's Blacklight Paradise",
+      "address": "281 W Whipp Road, Washington Township, OH 45459",
+      "count": 2
+    },
+    {
+      "locationId": "9290",
+      "name": "Randy Wesig",
+      "address": "4340 Delco Dell Rd, Kettering, OH 45429",
+      "count": 2
+    },
+    {
+      "locationId": "9322",
+      "name": "Tyler Wyant",
+      "address": "5017 Wheaton St., Dayton, OH 45429",
+      "count": 2
+    }
+  ],
+  "players": [
+    {
+      "id": "i98054",
+      "name": "Allen Szczypkowski",
+      "rating": 1633.57,
+      "rd": 25.22,
+      "ratingClass": "A",
+      "homeLocation": "Toledo Spirits",
+      "homeLocationId": "10672",
+      "percentile": 89.22532258815858,
+      "changeDisplay": "-0.9",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m29652",
+      "name": "Josh Ludeker",
+      "rating": 1616.42,
+      "rd": 21.01,
+      "ratingClass": "A",
+      "homeLocation": "The Basement: Toledo’s Pinball Pub",
+      "homeLocationId": "8633",
+      "percentile": 85.87133740159314,
+      "changeDisplay": "+3.9",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m42469",
+      "name": "Ed Ott",
+      "rating": 1602.7,
+      "rd": 19.04,
+      "ratingClass": "A",
+      "homeLocation": "ULEKstore's Pinball and Classic Arcade",
+      "homeLocationId": "5287",
+      "percentile": 82.66641822331951,
+      "changeDisplay": "-4.5",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m24838",
+      "name": "True Houser",
+      "rating": 1591.28,
+      "rd": 29.71,
+      "ratingClass": "B",
+      "homeLocation": "The Game Haven",
+      "homeLocationId": "11788",
+      "percentile": 79.82018912749803,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m29297",
+      "name": "Dominic Fiori",
+      "rating": 1590.81,
+      "rd": 20.79,
+      "ratingClass": "B",
+      "homeLocation": "The Basement: Toledo’s Pinball Pub",
+      "homeLocationId": "8633",
+      "percentile": 79.6664648064471,
+      "changeDisplay": "-2.9",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "i122135",
+      "name": "Lauren Wyatt",
+      "rating": 1567.49,
+      "rd": 43.44,
+      "ratingClass": "B",
+      "homeLocation": "Riverside BBQ Company",
+      "homeLocationId": "12428",
+      "percentile": 72.6696790422509,
+      "changeDisplay": "+3.0",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m15123",
+      "name": "Jonathan Walsh",
+      "rating": 1560.75,
+      "rd": 29.51,
+      "ratingClass": "B",
+      "homeLocation": "Riverside BBQ Company",
+      "homeLocationId": "12428",
+      "percentile": 70.5454884240928,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i86946",
+      "name": "Steven VanSetten",
+      "rating": 1549.54,
+      "rd": 59.69,
+      "ratingClass": "B",
+      "homeLocation": "Riverside BBQ Company",
+      "homeLocationId": "12428",
+      "percentile": 66.52536451297341,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m45051",
+      "name": "Kat Wilson",
+      "rating": 1538.72,
+      "rd": 29.44,
+      "ratingClass": "B",
+      "homeLocation": "Toledo Spirits",
+      "homeLocationId": "10672",
+      "percentile": 62.57045698048167,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m29809",
+      "name": "Mike Pilarczyk",
+      "rating": 1528.85,
+      "rd": 25.53,
+      "ratingClass": "B",
+      "homeLocation": "Toledo Spirits",
+      "homeLocationId": "10672",
+      "percentile": 58.58759957143522,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m31307",
+      "name": "Delaney Smith",
+      "rating": 1521.93,
+      "rd": 33.43,
+      "ratingClass": "B",
+      "homeLocation": "Riverside BBQ Company",
+      "homeLocationId": "12428",
+      "percentile": 55.937019611496716,
+      "changeDisplay": "+15.6",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m19973",
+      "name": "Rob Presley",
+      "rating": 1520.11,
+      "rd": 31.05,
+      "ratingClass": "B",
+      "homeLocation": "Toledo Spirits",
+      "homeLocationId": "10672",
+      "percentile": 55.22895607211068,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m56133",
+      "name": "Laurie Ott",
+      "rating": 1508.16,
+      "rd": 21.51,
+      "ratingClass": "B",
+      "homeLocation": "Toledo Spirits",
+      "homeLocationId": "10672",
+      "percentile": 50.50542693436437,
+      "changeDisplay": "+5.8",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m24683",
+      "name": "Jessica Valle",
+      "rating": 1497.14,
+      "rd": 27.21,
+      "ratingClass": "C",
+      "homeLocation": "The Game Haven",
+      "homeLocationId": "11788",
+      "percentile": 45.949597055946334,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m25982",
+      "name": "Elizabeth Walsh",
+      "rating": 1464.69,
+      "rd": 31.35,
+      "ratingClass": "C",
+      "homeLocation": "Riverside BBQ Company",
+      "homeLocationId": "12428",
+      "percentile": 32.68738063073555,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m39079",
+      "name": "Jacob Pacholski",
+      "rating": 1461.11,
+      "rd": 44.07,
+      "ratingClass": "C",
+      "homeLocation": "Riverside BBQ Company",
+      "homeLocationId": "12428",
+      "percentile": 31.359761494386735,
+      "changeDisplay": "-53.0",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "i125845",
+      "name": "Blue Leshne",
+      "rating": 1441.12,
+      "rd": 30.9,
+      "ratingClass": "C",
+      "homeLocation": "Toledo Spirits",
+      "homeLocationId": "10672",
+      "percentile": 24.116085153957236,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m53174",
+      "name": "Casey Cox",
+      "rating": 1422.72,
+      "rd": 22.94,
+      "ratingClass": "C",
+      "homeLocation": "Toledo Spirits",
+      "homeLocationId": "10672",
+      "percentile": 18.460893464387198,
+      "changeDisplay": "+0.5",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "i123811",
+      "name": "Alexeia Powell",
+      "rating": 1416.88,
+      "rd": 40.15,
+      "ratingClass": "C",
+      "homeLocation": "Riverside BBQ Company",
+      "homeLocationId": "12428",
+      "percentile": 16.849117249732146,
+      "changeDisplay": "-16.6",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "i148280",
+      "name": "Kevin Dietsch",
+      "rating": 1410.82,
+      "rd": 27.84,
+      "ratingClass": "C",
+      "homeLocation": "Toledo Spirits",
+      "homeLocationId": "10672",
+      "percentile": 15.307215726463873,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i133896",
+      "name": "Austin Ott",
+      "rating": 1402.2,
+      "rd": 39,
+      "ratingClass": "C",
+      "homeLocation": "Riverside BBQ Company",
+      "homeLocationId": "12428",
+      "percentile": 13.089858853123399,
+      "changeDisplay": "-16.7",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "i99298",
+      "name": "Michaela Mahoney",
+      "rating": 1386.11,
+      "rd": 26.09,
+      "ratingClass": "D",
+      "homeLocation": "Toledo Spirits",
+      "homeLocationId": "10672",
+      "percentile": 9.530907905156752,
+      "changeDisplay": "+8.6",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "i115870",
+      "name": "Brandon Elgin",
+      "rating": 1378.07,
+      "rd": 53.92,
+      "ratingClass": "D",
+      "homeLocation": "Riverside BBQ Company",
+      "homeLocationId": "12428",
+      "percentile": 7.961056505333768,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i148681",
+      "name": "Michelle Kneisel",
+      "rating": 1373.66,
+      "rd": 25.21,
+      "ratingClass": "D",
+      "homeLocation": "Toledo Spirits",
+      "homeLocationId": "10672",
+      "percentile": 7.215726463874785,
+      "changeDisplay": "-3.0",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m53585",
+      "name": "Sara Dietsch",
+      "rating": 1350.24,
+      "rd": 25.81,
+      "ratingClass": "D",
+      "homeLocation": "Toledo Spirits",
+      "homeLocationId": "10672",
+      "percentile": 4.280989425630037,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i127509",
+      "name": "Dan Powell",
+      "rating": 1304.33,
+      "rd": 46.45,
+      "ratingClass": "D",
+      "homeLocation": "Riverside BBQ Company",
+      "homeLocationId": "12428",
+      "percentile": 1.1692365025387805,
+      "changeDisplay": "-26.8",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m53587",
+      "name": "Cecilia Tucker",
+      "rating": 1289.05,
+      "rd": 24.53,
+      "ratingClass": "E",
+      "homeLocation": "Toledo Spirits",
+      "homeLocationId": "10672",
+      "percentile": 0.7872548562910513,
+      "changeDisplay": "+3.5",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "i157660",
+      "name": "Joe Fitzgibbon",
+      "rating": null,
+      "rd": null,
+      "ratingClass": "N/A",
+      "homeLocation": "Toledo Spirits",
+      "homeLocationId": "10672",
+      "percentile": null,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

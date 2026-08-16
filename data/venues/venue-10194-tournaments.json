@@ -1,0 +1,40 @@
+{
+  "locationId": "10194",
+  "venueName": "Two Cousins Pinball",
+  "venueAddress": "9360 River Road, Marcy NY 13403",
+  "tournaments": [
+    {
+      "id": 257603,
+      "name": "2CP Stern ARMY IFPA \"Battle of the Bands\" 7 Strikes Knockout Tournament",
+      "date": "7/25/2026",
+      "playerCount": 17,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m391",
+          "name": "Eric Russell CNY",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m59925",
+          "name": "Alex Tracy",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "i151529",
+          "name": "Ivan Potocnik",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "i147184",
+          "name": "Jason Horvath",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

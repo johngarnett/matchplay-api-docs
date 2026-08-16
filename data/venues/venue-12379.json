@@ -1,0 +1,47 @@
+{
+  "locationId": "12379",
+  "name": "Micky's Men Cave",
+  "address": "Cologne",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 1,
+  "relatedVenues": [
+    {
+      "locationId": "7047",
+      "name": "7-Mountains-Pinball Club House",
+      "address": "",
+      "count": 1
+    },
+    {
+      "locationId": "11344",
+      "name": "TomDK",
+      "address": "Rommerskirchen",
+      "count": 1
+    },
+    {
+      "locationId": "11931",
+      "name": "Marcs Mansion",
+      "address": "Rodenkirchen",
+      "count": 1
+    },
+    {
+      "locationId": "13635",
+      "name": "The Pinball Factory",
+      "address": "33 Veldweg, Herkenbosch, 6075 NL, NL",
+      "count": 1
+    }
+  ],
+  "players": [
+    {
+      "id": "m41248",
+      "name": "Micky Schröder",
+      "rating": 1540.28,
+      "rd": 27.46,
+      "ratingClass": "B",
+      "homeLocation": "7-Mountains-Pinball Club House",
+      "homeLocationId": "7047",
+      "percentile": 63.23659570503564,
+      "changeDisplay": "+7.9",
+      "changeClass": "change-positive"
+    }
+  ]
+}

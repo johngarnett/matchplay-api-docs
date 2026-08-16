@@ -1,0 +1,67 @@
+{
+  "tournamentId": 263455,
+  "name": "Indy Pinball Spring 2026 #8",
+  "date": "2026-07-24",
+  "locationId": "5599",
+  "locationName": "Pinfessor’s Pingarage",
+  "playerCount": 8,
+  "ratingsDate": "2026-07-24",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m172413",
+      "name": "Nick McElfresh",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 2,
+      "playerId": "m20082",
+      "name": "Rich Herbert",
+      "rating": 1592.1,
+      "dailyRatingChange": -2.14
+    },
+    {
+      "position": 3,
+      "playerId": "m172417",
+      "name": "Jace Mitchell",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 3,
+      "playerId": "m436925",
+      "name": "David Waldo",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 5,
+      "playerId": "i82375",
+      "name": "Jerry Gooderum",
+      "rating": 1539.68,
+      "dailyRatingChange": 1.38
+    },
+    {
+      "position": 5,
+      "playerId": "m309522",
+      "name": "Joe Trotter",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 7,
+      "playerId": "m172415",
+      "name": "Jim Cummins",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 8,
+      "playerId": "m19245",
+      "name": "Rodney Curry",
+      "rating": 1479.76,
+      "dailyRatingChange": -13.32
+    }
+  ]
+}

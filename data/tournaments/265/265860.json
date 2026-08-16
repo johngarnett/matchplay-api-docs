@@ -1,0 +1,95 @@
+{
+  "tournamentId": 265860,
+  "name": "Zootown Pin Pals",
+  "date": "2026-08-07",
+  "locationId": "12507",
+  "locationName": "OddPitch Brewing",
+  "playerCount": 12,
+  "ratingsDate": "2026-08-07",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m34537",
+      "name": "Mackenzie Gaunt",
+      "rating": 1581.02,
+      "dailyRatingChange": 6.74
+    },
+    {
+      "position": 2,
+      "playerId": "m34489",
+      "name": "Jenn Meimerstorf",
+      "rating": 1422.46,
+      "dailyRatingChange": 20.14
+    },
+    {
+      "position": 3,
+      "playerId": "m34035",
+      "name": "Gretchen Neal",
+      "rating": 1566.61,
+      "dailyRatingChange": -3.42
+    },
+    {
+      "position": 4,
+      "playerId": "m34485",
+      "name": "Kiki Radermacher",
+      "rating": 1513.71,
+      "dailyRatingChange": 3.14
+    },
+    {
+      "position": 4,
+      "playerId": "m34039",
+      "name": "Auriana Fox",
+      "rating": 1489.49,
+      "dailyRatingChange": 3.14
+    },
+    {
+      "position": 6,
+      "playerId": "m57245",
+      "name": "Amora Wilkins",
+      "rating": 1470.61,
+      "dailyRatingChange": -0.54
+    },
+    {
+      "position": 7,
+      "playerId": "m39947",
+      "name": "Whitney Schug",
+      "rating": 1498.75,
+      "dailyRatingChange": -7.46
+    },
+    {
+      "position": 8,
+      "playerId": "m35435",
+      "name": "Eugenia Fedoseyeva",
+      "rating": 1341.9,
+      "dailyRatingChange": 0.91
+    },
+    {
+      "position": 9,
+      "playerId": "i112351",
+      "name": "Stephanie Sweeney",
+      "rating": 1341.66,
+      "dailyRatingChange": -3.23
+    },
+    {
+      "position": 9,
+      "playerId": "i112891",
+      "name": "Kelsey Lister",
+      "rating": 1362.13,
+      "dailyRatingChange": -8.01
+    },
+    {
+      "position": 11,
+      "playerId": "m34669",
+      "name": "Laura Johnson",
+      "rating": 1333.44,
+      "dailyRatingChange": -10.88
+    },
+    {
+      "position": 12,
+      "playerId": "m572955",
+      "name": "Julia Mills",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

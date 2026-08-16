@@ -1,0 +1,229 @@
+{
+  "locationId": "7465",
+  "venueName": "RLM Amusements",
+  "venueAddress": "4318 Plainfield Avenue Northeast, Grand Rapids, MI 49525, US",
+  "tournaments": [
+    {
+      "id": 267133,
+      "name": "Finals for RLM Amusements Weekly Pinball Tournament",
+      "date": "8/14/2026",
+      "playerCount": 12,
+      "qualifying": {
+        "id": 267087,
+        "name": "RLM Amusements Weekly Pinball Tournament",
+        "playerCount": 25
+      },
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m18905",
+          "name": "Ethan Magnum",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m851",
+          "name": "Rodney Minch",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m19648",
+          "name": "Nate Timperley",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m18599",
+          "name": "Jaysin Welch",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 266006,
+      "name": "Finals for RLM Amusements Weekly Pinball Tournament",
+      "date": "8/7/2026",
+      "playerCount": 12,
+      "qualifying": {
+        "id": 265963,
+        "name": "RLM Amusements Weekly Pinball Tournament",
+        "playerCount": 29
+      },
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m23400",
+          "name": "Tami Harris",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m18905",
+          "name": "Ethan Magnum",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m851",
+          "name": "Rodney Minch",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m9744",
+          "name": "Alex Darling",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 265032,
+      "name": "Finals for Belles & Chimes GR August 2026",
+      "date": "8/1/2026",
+      "playerCount": 8,
+      "qualifying": {
+        "id": 264972,
+        "name": "Belles & Chimes GR August 2026",
+        "playerCount": 18
+      },
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m18906",
+          "name": "Stacey Siegel",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m893",
+          "name": "Heather Kendrick",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m29377",
+          "name": "Abby Dremstedt",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m23400",
+          "name": "Tami Harris",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 264916,
+      "name": "Finals for RLM Amusements Weekly Pinball Tournament",
+      "date": "7/31/2026",
+      "playerCount": 8,
+      "qualifying": {
+        "id": 264846,
+        "name": "RLM Amusements Weekly Pinball Tournament",
+        "playerCount": 23
+      },
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m851",
+          "name": "Rodney Minch",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m872",
+          "name": "Matthew Stacks",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m21484",
+          "name": "Charlotte Bowser",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m858",
+          "name": "Aron Duby",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 263694,
+      "name": "Finals for RLM Amusements Weekly Pinball Tournament",
+      "date": "7/24/2026",
+      "playerCount": 16,
+      "qualifying": {
+        "id": 263612,
+        "name": "RLM Amusements Weekly Pinball Tournament",
+        "playerCount": 32
+      },
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m851",
+          "name": "Rodney Minch",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m42660",
+          "name": "Joseph Merrills",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m50623",
+          "name": "Steven Moul",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m53438",
+          "name": "Storm Hudson",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 262598,
+      "name": "Finals for RLM Amusements Weekly Pinball Tournament / Stern Transformers Launch Party!",
+      "date": "7/18/2026",
+      "playerCount": 24,
+      "qualifying": {
+        "id": 262509,
+        "name": "RLM Amusements Weekly Pinball Tournament / Stern Transformers Launch Party!",
+        "playerCount": 54
+      },
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m27473",
+          "name": "Dominic Labella",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m851",
+          "name": "Rodney Minch",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "p207869",
+          "name": "Max Nivison",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m18905",
+          "name": "Ethan Magnum",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

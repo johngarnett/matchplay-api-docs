@@ -1,0 +1,67 @@
+{
+  "tournamentId": 266443,
+  "name": "A Finals for The Crow's Nest Summer Pinball League",
+  "date": "2026-08-11",
+  "locationId": "13157",
+  "locationName": "The Crow's Nest",
+  "playerCount": 8,
+  "ratingsDate": "2026-08-11",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "i86398",
+      "name": "Jim Cook",
+      "rating": 1636.72,
+      "dailyRatingChange": 19.6
+    },
+    {
+      "position": 2,
+      "playerId": "m21071",
+      "name": "Chris Ward",
+      "rating": 1688.47,
+      "dailyRatingChange": 5.94
+    },
+    {
+      "position": 3,
+      "playerId": "m24699",
+      "name": "Dan Sexauer",
+      "rating": 1713.98,
+      "dailyRatingChange": 2.74
+    },
+    {
+      "position": 4,
+      "playerId": "m11644",
+      "name": "Kendell Holder",
+      "rating": 1723.25,
+      "dailyRatingChange": -7.28
+    },
+    {
+      "position": 5,
+      "playerId": "m37686",
+      "name": "John Lazar",
+      "rating": 1559.34,
+      "dailyRatingChange": -1.64
+    },
+    {
+      "position": 5,
+      "playerId": "m39198",
+      "name": "Dylan Sholtes",
+      "rating": 1617.96,
+      "dailyRatingChange": -1.7
+    },
+    {
+      "position": 5,
+      "playerId": "m4741",
+      "name": "Bob Caldwell",
+      "rating": 1715.58,
+      "dailyRatingChange": -5.04
+    },
+    {
+      "position": 8,
+      "playerId": "m56041",
+      "name": "Keith Paul",
+      "rating": 1498.41,
+      "dailyRatingChange": -5.29
+    }
+  ]
+}

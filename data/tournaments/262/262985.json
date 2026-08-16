@@ -1,0 +1,291 @@
+{
+  "tournamentId": 262985,
+  "name": "Stern Army Elusive Orbit Replay Amusement Museum Monthly - July 2026",
+  "date": "2026-07-21",
+  "locationId": "7285",
+  "locationName": "Replay Museum",
+  "playerCount": 40,
+  "ratingsDate": "2026-07-21",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m56605",
+      "name": "Jakob Goodwin",
+      "rating": 1512.98,
+      "dailyRatingChange": 27.19
+    },
+    {
+      "position": 2,
+      "playerId": "m52494",
+      "name": "Louis Anciaux",
+      "rating": 1552.34,
+      "dailyRatingChange": 15.74
+    },
+    {
+      "position": 2,
+      "playerId": "m17470",
+      "name": "Dr. Frank Sposaro",
+      "rating": 1668.37,
+      "dailyRatingChange": -0.92
+    },
+    {
+      "position": 4,
+      "playerId": "m690",
+      "name": "Patrick Shatzer",
+      "rating": 1645.66,
+      "dailyRatingChange": 7.98
+    },
+    {
+      "position": 4,
+      "playerId": "m1540",
+      "name": "Rob Endo",
+      "rating": 1709.57,
+      "dailyRatingChange": 11.43
+    },
+    {
+      "position": 6,
+      "playerId": "m18803",
+      "name": "John JT Thomas",
+      "rating": 1592.28,
+      "dailyRatingChange": 0.33
+    },
+    {
+      "position": 6,
+      "playerId": "m46942",
+      "name": "Cleveland Harper",
+      "rating": 1640.79,
+      "dailyRatingChange": 28.53
+    },
+    {
+      "position": 8,
+      "playerId": "m40158",
+      "name": "Andrew Hernandez",
+      "rating": 1664.13,
+      "dailyRatingChange": -2.11
+    },
+    {
+      "position": 9,
+      "playerId": "m24211",
+      "name": "Adam Gray",
+      "rating": 1679.44,
+      "dailyRatingChange": -1.78
+    },
+    {
+      "position": 9,
+      "playerId": "m20861",
+      "name": "Joe Rodgers",
+      "rating": 1552.54,
+      "dailyRatingChange": 6.17
+    },
+    {
+      "position": 9,
+      "playerId": "i81482",
+      "name": "Rob Oman",
+      "rating": 1476.98,
+      "dailyRatingChange": null
+    },
+    {
+      "position": 12,
+      "playerId": "m27060",
+      "name": "Fred Cook",
+      "rating": 1612.3,
+      "dailyRatingChange": 4.39
+    },
+    {
+      "position": 13,
+      "playerId": "m41919",
+      "name": "Shane Powell",
+      "rating": 1528.3,
+      "dailyRatingChange": 2.99
+    },
+    {
+      "position": 13,
+      "playerId": "m56613",
+      "name": "Joanna Koulianos",
+      "rating": 1410.87,
+      "dailyRatingChange": 9.1
+    },
+    {
+      "position": 13,
+      "playerId": "m27689",
+      "name": "Airi Macaluso",
+      "rating": 1557.93,
+      "dailyRatingChange": -6.76
+    },
+    {
+      "position": 13,
+      "playerId": "m39209",
+      "name": "Annie Updegraff",
+      "rating": 1546.91,
+      "dailyRatingChange": -2.96
+    },
+    {
+      "position": 17,
+      "playerId": "m52431",
+      "name": "Jesze Edge",
+      "rating": 1511.83,
+      "dailyRatingChange": -3.16
+    },
+    {
+      "position": 17,
+      "playerId": "m26816",
+      "name": "Peter Rein",
+      "rating": 1501.4,
+      "dailyRatingChange": 2.32
+    },
+    {
+      "position": 17,
+      "playerId": "i138531",
+      "name": "Dave Wincz",
+      "rating": 1485.14,
+      "dailyRatingChange": -7.28
+    },
+    {
+      "position": 17,
+      "playerId": "m32273",
+      "name": "Victoria Knight",
+      "rating": 1563.16,
+      "dailyRatingChange": 0.43
+    },
+    {
+      "position": 21,
+      "playerId": "m43101",
+      "name": "Kenda Powell",
+      "rating": 1444.69,
+      "dailyRatingChange": 2.22
+    },
+    {
+      "position": 21,
+      "playerId": "i159716",
+      "name": "Haley Holets",
+      "rating": 1375.06,
+      "dailyRatingChange": null
+    },
+    {
+      "position": 21,
+      "playerId": "i159720",
+      "name": "Bink Peach",
+      "rating": 1496,
+      "dailyRatingChange": null
+    },
+    {
+      "position": 21,
+      "playerId": "i158208",
+      "name": "Rebecca Stout",
+      "rating": 1447.81,
+      "dailyRatingChange": 0.66
+    },
+    {
+      "position": 21,
+      "playerId": "m56614",
+      "name": "Nicholas Emery",
+      "rating": 1449.89,
+      "dailyRatingChange": 1.61
+    },
+    {
+      "position": 21,
+      "playerId": "i158209",
+      "name": "Killian Peach",
+      "rating": 1463.84,
+      "dailyRatingChange": 12.43
+    },
+    {
+      "position": 21,
+      "playerId": "m30994",
+      "name": "Omar Sokay",
+      "rating": 1566.33,
+      "dailyRatingChange": 0.13
+    },
+    {
+      "position": 21,
+      "playerId": "m27951",
+      "name": "Justine Adamski",
+      "rating": 1454.16,
+      "dailyRatingChange": 2.72
+    },
+    {
+      "position": 29,
+      "playerId": "i105232",
+      "name": "Devin Adamski",
+      "rating": 1412.28,
+      "dailyRatingChange": 1.74
+    },
+    {
+      "position": 29,
+      "playerId": "m38581",
+      "name": "Draino",
+      "rating": 1450.11,
+      "dailyRatingChange": 4.9
+    },
+    {
+      "position": 29,
+      "playerId": "m54696",
+      "name": "Roman Christaldi",
+      "rating": 1542.15,
+      "dailyRatingChange": -22.97
+    },
+    {
+      "position": 29,
+      "playerId": "i150960",
+      "name": "Logan Christaldi",
+      "rating": 1455.62,
+      "dailyRatingChange": -4.63
+    },
+    {
+      "position": 33,
+      "playerId": "m580298",
+      "name": "Mark Adams FL",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 33,
+      "playerId": "m55701",
+      "name": "Naomi Williams",
+      "rating": 1370.21,
+      "dailyRatingChange": -7.38
+    },
+    {
+      "position": 35,
+      "playerId": "m55696",
+      "name": "Darrell Wegrzyn",
+      "rating": 1398.05,
+      "dailyRatingChange": -15.72
+    },
+    {
+      "position": 35,
+      "playerId": "i161123",
+      "name": "Beth Hastik",
+      "rating": 1339.94,
+      "dailyRatingChange": null
+    },
+    {
+      "position": 35,
+      "playerId": "m580332",
+      "name": "Morrigan Castello",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 38,
+      "playerId": "m580326",
+      "name": "Quinn Vitale",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 38,
+      "playerId": "i159718",
+      "name": "Ace Gordy",
+      "rating": 1310.83,
+      "dailyRatingChange": -55.69
+    },
+    {
+      "position": 40,
+      "playerId": "m580337",
+      "name": "Malachi Castello",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

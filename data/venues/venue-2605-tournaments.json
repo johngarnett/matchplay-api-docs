@@ -1,0 +1,40 @@
+{
+  "locationId": "2605",
+  "venueName": "Empire Alternacade",
+  "venueAddress": "409 Flinders St, Townsville City QLD 4810, Australia",
+  "tournaments": [
+    {
+      "id": 262216,
+      "name": "Empire TSV Pizza Strikes July 2026",
+      "date": "7/20/2026",
+      "playerCount": 84,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m3866",
+          "name": "Jason Lynch",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m17093",
+          "name": "Dannii Rocket",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m1463",
+          "name": "Rob Milla",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m22694",
+          "name": "Michael Holden",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

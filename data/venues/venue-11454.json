@@ -1,0 +1,275 @@
+{
+  "locationId": "11454",
+  "name": "Loose Ends Brewing",
+  "address": "890 S Main St, Centerville OH 45458",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 17,
+  "relatedVenues": [
+    {
+      "locationId": "11788",
+      "name": "The Game Haven",
+      "address": "5570 Airway Rd, Dayton OH 45431",
+      "count": 105
+    },
+    {
+      "locationId": "5479",
+      "name": "Canal Street Arcade and Deli",
+      "address": "308 East 1st St, Dayton, OH, 45402, US",
+      "count": 67
+    },
+    {
+      "locationId": "7439",
+      "name": "Arcade Legacy Sharonville",
+      "address": "2241 Crowne Point Dr, Cincinnati, OH 45241, US",
+      "count": 25
+    },
+    {
+      "locationId": "12814",
+      "name": "Level Up Pinball Bar",
+      "address": "3253 Seajay Drive, Beavercreek, OH 45430, US",
+      "count": 15
+    },
+    {
+      "locationId": "13688",
+      "name": "The Game Haven",
+      "address": "5570 Airway Rd, Riverside, OH 45431, US",
+      "count": 13
+    },
+    {
+      "locationId": "3967",
+      "name": "Crazy Martin's",
+      "address": "",
+      "count": 12
+    },
+    {
+      "locationId": "13500",
+      "name": "Sherwood Forest",
+      "address": "1451 Robinhood Dr  West Carrollton OH 45449",
+      "count": 9
+    },
+    {
+      "locationId": "13072",
+      "name": "Retro Rush Arcade",
+      "address": "100 N 9th Street. RIchmond, Indiana",
+      "count": 7
+    },
+    {
+      "locationId": "13775",
+      "name": "Robs Warehouse",
+      "address": "221 East Helena St",
+      "count": 7
+    },
+    {
+      "locationId": "6784",
+      "name": "Dana's House of Fun",
+      "address": "",
+      "count": 6
+    }
+  ],
+  "players": [
+    {
+      "id": "m23076",
+      "name": "Tom Bentley",
+      "rating": 1684.28,
+      "rd": 26.74,
+      "ratingClass": "A",
+      "homeLocation": "The Game Haven",
+      "homeLocationId": "11788",
+      "percentile": 95.43951180882284,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m13057",
+      "name": "Tony Becker",
+      "rating": 1670.89,
+      "rd": 27.61,
+      "ratingClass": "A",
+      "homeLocation": "The Game Haven",
+      "homeLocationId": "11788",
+      "percentile": 94.17245073834258,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i143208",
+      "name": "Gavin Parrott OH",
+      "rating": 1594,
+      "rd": 20.82,
+      "ratingClass": "B",
+      "homeLocation": "Arcade Legacy Sharonville",
+      "homeLocationId": "7439",
+      "percentile": 80.56086085619788,
+      "changeDisplay": "-8.6",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m7284",
+      "name": "David Jones OH",
+      "rating": 1576.73,
+      "rd": 25.81,
+      "ratingClass": "B",
+      "homeLocation": "The Game Haven",
+      "homeLocationId": "11788",
+      "percentile": 75.70224064843714,
+      "changeDisplay": "+3.0",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m48098",
+      "name": "Eli Petrey",
+      "rating": 1571.67,
+      "rd": 32,
+      "ratingClass": "B",
+      "homeLocation": "The Game Haven",
+      "homeLocationId": "11788",
+      "percentile": 74.02990636791354,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m44800",
+      "name": "Scott Petrey",
+      "rating": 1562.2,
+      "rd": 25.58,
+      "ratingClass": "B",
+      "homeLocation": "The Game Haven",
+      "homeLocationId": "11788",
+      "percentile": 71.05790282759584,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m40173",
+      "name": "Matt Juhascik",
+      "rating": 1539.82,
+      "rd": 20.76,
+      "ratingClass": "B",
+      "homeLocation": "Canal Street Arcade and Deli",
+      "homeLocationId": "5479",
+      "percentile": 63.05957982018913,
+      "changeDisplay": "+2.4",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m44316",
+      "name": "Joe Reckers",
+      "rating": 1507.88,
+      "rd": 21.13,
+      "ratingClass": "B",
+      "homeLocation": "Arcade Legacy Sharonville",
+      "homeLocationId": "7439",
+      "percentile": 50.39828574090465,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m17940",
+      "name": "Dalva Ireland",
+      "rating": 1497.81,
+      "rd": 21.72,
+      "ratingClass": "C",
+      "homeLocation": "Canal Street Arcade and Deli",
+      "homeLocationId": "5479",
+      "percentile": 46.23841244701169,
+      "changeDisplay": "+2.7",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "i3159",
+      "name": "Mitch Roth",
+      "rating": 1484.76,
+      "rd": 24.09,
+      "ratingClass": "C",
+      "homeLocation": "Canal Street Arcade and Deli",
+      "homeLocationId": "5479",
+      "percentile": 40.792844831602,
+      "changeDisplay": "-6.5",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m20816",
+      "name": "Lucas Becker",
+      "rating": 1467.46,
+      "rd": 36.94,
+      "ratingClass": "C",
+      "homeLocation": "The Game Haven",
+      "homeLocationId": "13688",
+      "percentile": 33.81935063120138,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m44326",
+      "name": "John Roberts",
+      "rating": 1451.65,
+      "rd": 28.66,
+      "ratingClass": "C",
+      "homeLocation": "Retro Rush Arcade",
+      "homeLocationId": "13072",
+      "percentile": 27.758885731588016,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m20824",
+      "name": "Aaron Krueger",
+      "rating": 1447.31,
+      "rd": 29.64,
+      "ratingClass": "C",
+      "homeLocation": "Canal Street Arcade and Deli",
+      "homeLocationId": "5479",
+      "percentile": 26.193692644524152,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i4863",
+      "name": "Teresa Roth",
+      "rating": 1438.66,
+      "rd": 24.17,
+      "ratingClass": "C",
+      "homeLocation": "Canal Street Arcade and Deli",
+      "homeLocationId": "5479",
+      "percentile": 23.25429729352029,
+      "changeDisplay": "+3.8",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "i142239",
+      "name": "Beth Kaylor",
+      "rating": 1407.14,
+      "rd": 42.54,
+      "ratingClass": "C",
+      "homeLocation": "Loose Ends Brewing",
+      "homeLocationId": "11454",
+      "percentile": 14.33362835980808,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i147458",
+      "name": "Angie Petrey",
+      "rating": 1398.06,
+      "rd": 30.06,
+      "ratingClass": "D",
+      "homeLocation": "The Game Haven",
+      "homeLocationId": "11788",
+      "percentile": 12.023105231285228,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m58713",
+      "name": "Heather Watson",
+      "rating": 1304.59,
+      "rd": 39.01,
+      "ratingClass": "D",
+      "homeLocation": "Arcade Legacy Sharonville",
+      "homeLocationId": "7439",
+      "percentile": 1.1832114408161363,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "locationId": "13775",
+  "venueName": "Robs Warehouse",
+  "venueAddress": "221 East Helena St",
+  "tournaments": [
+    {
+      "id": 263489,
+      "name": "Season 15 DUPL Tournament",
+      "date": "7/23/2026",
+      "playerCount": 26,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m27207",
+          "name": "Jason Johnson",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m44950",
+          "name": "Zach Stoddard",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m13057",
+          "name": "Tony Becker",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m52809",
+          "name": "Brian Schlagheck",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

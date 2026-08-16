@@ -1,0 +1,60 @@
+{
+  "tournamentId": 263740,
+  "name": "District Eat And Play IFPA Monthly Pinball tournament",
+  "date": "2026-07-25",
+  "locationId": "12407",
+  "locationName": "District Eat & Play",
+  "playerCount": 7,
+  "ratingsDate": "2026-07-25",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m52928",
+      "name": "Steve Reining",
+      "rating": 1586.03,
+      "dailyRatingChange": 9.14
+    },
+    {
+      "position": 2,
+      "playerId": "m24406",
+      "name": "John Moschella",
+      "rating": 1690.17,
+      "dailyRatingChange": 2.81
+    },
+    {
+      "position": 3,
+      "playerId": "m24487",
+      "name": "Andy Sokol",
+      "rating": 1663.2,
+      "dailyRatingChange": 13.18
+    },
+    {
+      "position": 4,
+      "playerId": "m46611",
+      "name": "Andrew Gribbons",
+      "rating": 1579.67,
+      "dailyRatingChange": -4.41
+    },
+    {
+      "position": 5,
+      "playerId": "m49210",
+      "name": "Tony Reining",
+      "rating": 1560.45,
+      "dailyRatingChange": -9.18
+    },
+    {
+      "position": 6,
+      "playerId": "m563233",
+      "name": "Nolan Thomas",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 7,
+      "playerId": "m8357",
+      "name": "Parker Sokol",
+      "rating": 1475.52,
+      "dailyRatingChange": -14.38
+    }
+  ]
+}

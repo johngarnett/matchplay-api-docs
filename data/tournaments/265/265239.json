@@ -1,0 +1,109 @@
+{
+  "tournamentId": 265239,
+  "name": "Tour-De-Flip: White Buffalo (Week 2)",
+  "date": "2026-08-06",
+  "locationId": "13134",
+  "locationName": "White Buffalo Saloon",
+  "playerCount": 14,
+  "ratingsDate": "2026-08-06",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "i26328",
+      "name": "Lefty Sitaras",
+      "rating": 1517.34,
+      "dailyRatingChange": 17.05
+    },
+    {
+      "position": 2,
+      "playerId": "m22102",
+      "name": "Evan Adkins",
+      "rating": 1587.72,
+      "dailyRatingChange": 4.96
+    },
+    {
+      "position": 3,
+      "playerId": "m61851",
+      "name": "Peter Sharp",
+      "rating": 1579.42,
+      "dailyRatingChange": -0.41
+    },
+    {
+      "position": 3,
+      "playerId": "m23209",
+      "name": "Jim Richards",
+      "rating": 1461.49,
+      "dailyRatingChange": 19.32
+    },
+    {
+      "position": 5,
+      "playerId": "m1523",
+      "name": "Jason Heitt",
+      "rating": 1612.86,
+      "dailyRatingChange": -6.4
+    },
+    {
+      "position": 6,
+      "playerId": "m8345",
+      "name": "Tim Uomoto",
+      "rating": 1704.05,
+      "dailyRatingChange": -9.56
+    },
+    {
+      "position": 6,
+      "playerId": "i34432",
+      "name": "Nick Bachrach",
+      "rating": 1472.15,
+      "dailyRatingChange": 18
+    },
+    {
+      "position": 6,
+      "playerId": "m22299",
+      "name": "Larry Olson",
+      "rating": 1614.05,
+      "dailyRatingChange": -2.35
+    },
+    {
+      "position": 9,
+      "playerId": "m40290",
+      "name": "Cressa Johnson",
+      "rating": 1341.9,
+      "dailyRatingChange": 4.75
+    },
+    {
+      "position": 9,
+      "playerId": "m574707",
+      "name": "Sean Sarnowski",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 9,
+      "playerId": "i49722",
+      "name": "Andrew Jameson",
+      "rating": 1520.75,
+      "dailyRatingChange": -4.13
+    },
+    {
+      "position": 12,
+      "playerId": "m55357",
+      "name": "Chris Chrenka",
+      "rating": 1497.28,
+      "dailyRatingChange": -2.1
+    },
+    {
+      "position": 12,
+      "playerId": "m22917",
+      "name": "Robert Bissell",
+      "rating": 1561.42,
+      "dailyRatingChange": -4.13
+    },
+    {
+      "position": 14,
+      "playerId": "i68823",
+      "name": "Trent Barton",
+      "rating": 1464.24,
+      "dailyRatingChange": -4.81
+    }
+  ]
+}

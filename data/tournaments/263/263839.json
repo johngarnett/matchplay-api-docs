@@ -1,0 +1,32 @@
+{
+  "tournamentId": 263839,
+  "name": "Finals for Surfside SkillShots Summer Smackdown",
+  "date": "2026-07-26",
+  "locationId": "11347",
+  "locationName": "Griffin's PH",
+  "playerCount": 3,
+  "ratingsDate": "2026-07-26",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "i26635",
+      "name": "Shawn Speir",
+      "rating": 1569.04,
+      "dailyRatingChange": 3.26
+    },
+    {
+      "position": 2,
+      "playerId": "i94832",
+      "name": "Jack Kuiken",
+      "rating": 1750.09,
+      "dailyRatingChange": -1.04
+    },
+    {
+      "position": 3,
+      "playerId": "m47494",
+      "name": "Tom Emmert",
+      "rating": 1526.58,
+      "dailyRatingChange": -4.09
+    }
+  ]
+}

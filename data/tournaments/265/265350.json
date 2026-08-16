@@ -1,0 +1,53 @@
+{
+  "tournamentId": 265350,
+  "name": "Detroit City Pinball Club",
+  "date": "2026-08-04",
+  "locationId": "11635",
+  "locationName": "Barcade Detroit",
+  "playerCount": 6,
+  "ratingsDate": "2026-08-04",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m21002",
+      "name": "Aaron Wilburn Jr.",
+      "rating": 1683.02,
+      "dailyRatingChange": 6.14
+    },
+    {
+      "position": 2,
+      "playerId": "m38710",
+      "name": "Kelley sheahan",
+      "rating": 1491.87,
+      "dailyRatingChange": 6.09
+    },
+    {
+      "position": 3,
+      "playerId": "m37176",
+      "name": "Scott Sheahan",
+      "rating": 1622.75,
+      "dailyRatingChange": -0.8
+    },
+    {
+      "position": 4,
+      "playerId": "m6303",
+      "name": "Thomas Ruszkiewicz Jr",
+      "rating": 1598.69,
+      "dailyRatingChange": -3.58
+    },
+    {
+      "position": 5,
+      "playerId": "m19888",
+      "name": "Captain Planet",
+      "rating": 1573.87,
+      "dailyRatingChange": -6.32
+    },
+    {
+      "position": 6,
+      "playerId": "m4761",
+      "name": "Tim Carpenter MI",
+      "rating": 1517.49,
+      "dailyRatingChange": -3.93
+    }
+  ]
+}

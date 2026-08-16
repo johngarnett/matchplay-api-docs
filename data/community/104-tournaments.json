@@ -1,0 +1,49 @@
+{
+  "communityId": "104",
+  "locations": [
+    {
+      "id": "11508",
+      "name": "Golden Cactus Brewing",
+      "address": "214 5th St SW, Roanoke, VA 24016, US",
+      "tournaments": [
+        {
+          "id": 266288,
+          "name": "Finals for Belles of Steel @ Golden Cactus Aug 2026",
+          "date": "8/9/2026",
+          "playerCount": 4,
+          "qualifying": {
+            "id": 266265,
+            "name": "Belles of Steel @ Golden Cactus Aug 2026",
+            "playerCount": 9
+          },
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m50388",
+              "name": "Lex True",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m55700",
+              "name": "Geo McCutcheon",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m49497",
+              "name": "Judy Harveycutter",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m48524",
+              "name": "Kathryn Willis",
+              "isCommunityMember": true
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

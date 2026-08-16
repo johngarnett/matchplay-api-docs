@@ -1,0 +1,77 @@
+{
+  "locationId": "5911",
+  "venueName": "One Well Brewing",
+  "venueAddress": "4213 Portage St, Kalamazoo, MI, 49001, US",
+  "tournaments": [
+    {
+      "id": 256921,
+      "name": "Grand Prix Launch Party",
+      "date": "8/5/2026",
+      "playerCount": 31,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m19258",
+          "name": "Jim Droski",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m20247",
+          "name": "Noah Oesterle",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m50256",
+          "name": "Daniel Tabaka",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m878",
+          "name": "Chris Tabaka",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 264531,
+      "name": "Finals for Summer Slam 2026",
+      "date": "7/29/2026",
+      "playerCount": 4,
+      "qualifying": {
+        "id": 250941,
+        "name": "Summer Slam 2026",
+        "playerCount": 37
+      },
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m878",
+          "name": "Chris Tabaka",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m20025",
+          "name": "Jason Kramer",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "i87653",
+          "name": "Josh Dearman",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m50256",
+          "name": "Daniel Tabaka",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

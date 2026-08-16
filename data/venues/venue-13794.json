@@ -1,0 +1,335 @@
+{
+  "locationId": "13794",
+  "name": "ORD 3.0",
+  "address": "3750 Industrial Avenue, Rolling Meadows, IL",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 22,
+  "relatedVenues": [
+    {
+      "locationId": "12978",
+      "name": "The Pinball Capital",
+      "address": "3200 W Le Moyne St, Stone Park, IL 60165",
+      "count": 75
+    },
+    {
+      "locationId": "5315",
+      "name": "Enterrium",
+      "address": "2 Woodfield Mall Unit A, Schaumburg, IL 60173, USA",
+      "count": 55
+    },
+    {
+      "locationId": "5770",
+      "name": "ORD",
+      "address": "",
+      "count": 41
+    },
+    {
+      "locationId": "8466",
+      "name": "Mikerphone Brewing",
+      "address": "121 Garlisch Drive, Elk Grove Village, IL 60007, US",
+      "count": 15
+    },
+    {
+      "locationId": "11617",
+      "name": "Chicago Billiard Cafe",
+      "address": "5935 W Irving Park Rd, Chicago, IL 60634, US",
+      "count": 13
+    },
+    {
+      "locationId": "4804",
+      "name": "District 82 Pinball",
+      "address": "800 O Keefe Rd, De Pere, WI 54115, USA",
+      "count": 11
+    },
+    {
+      "locationId": "4861",
+      "name": "ORD",
+      "address": "",
+      "count": 10
+    },
+    {
+      "locationId": "8601",
+      "name": "Bowlero",
+      "address": "1611 S Randall Rd, Algonquin, IL 60102, US",
+      "count": 9
+    },
+    {
+      "locationId": "10441",
+      "name": "CWF Arcade",
+      "address": "Elmhurst, IL",
+      "count": 9
+    },
+    {
+      "locationId": "13824",
+      "name": "Superjumbo Records and Arcade",
+      "address": "55 S Lake St, Aurora, IL 60506, US",
+      "count": 9
+    }
+  ],
+  "players": [
+    {
+      "id": "m39177",
+      "name": "Charles Jackson",
+      "rating": 1775.51,
+      "rd": 17.85,
+      "ratingClass": "Expert",
+      "homeLocation": "The Pinball Capital",
+      "homeLocationId": "12978",
+      "percentile": 99.2500116457819,
+      "changeDisplay": "-3.8",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m13977",
+      "name": "Mike Kolman",
+      "rating": 1673.1,
+      "rd": 20.37,
+      "ratingClass": "A",
+      "homeLocation": "Enterrium",
+      "homeLocationId": "5315",
+      "percentile": 94.41002468905762,
+      "changeDisplay": "+7.0",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m10481",
+      "name": "Glenn Krause",
+      "rating": 1670.9,
+      "rd": 25.47,
+      "ratingClass": "A",
+      "homeLocation": "ORD",
+      "homeLocationId": "5770",
+      "percentile": 94.1771090511017,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i19569",
+      "name": "Bob Twichell",
+      "rating": 1661.89,
+      "rd": 18.74,
+      "ratingClass": "A",
+      "homeLocation": "The Pinball Capital",
+      "homeLocationId": "12978",
+      "percentile": 93.2780546885918,
+      "changeDisplay": "-3.5",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m28986",
+      "name": "Danny Bronny",
+      "rating": 1658.5,
+      "rd": 21.96,
+      "ratingClass": "A",
+      "homeLocation": "District 82 Pinball",
+      "homeLocationId": "4804",
+      "percentile": 92.8820981040667,
+      "changeDisplay": "+5.1",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m24151",
+      "name": "Lily Pizza",
+      "rating": 1634.18,
+      "rd": 17.53,
+      "ratingClass": "A",
+      "homeLocation": "The Pinball Capital",
+      "homeLocationId": "12978",
+      "percentile": 89.31383053058182,
+      "changeDisplay": "-6.0",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m11184",
+      "name": "Quinn Yost",
+      "rating": 1609.38,
+      "rd": 21.61,
+      "ratingClass": "A",
+      "homeLocation": "The Pinball Capital",
+      "homeLocationId": "12978",
+      "percentile": 84.3108026272884,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m1161",
+      "name": "Michael Grant",
+      "rating": 1605.14,
+      "rd": 29.43,
+      "ratingClass": "A",
+      "homeLocation": "Enterrium",
+      "homeLocationId": "5315",
+      "percentile": 83.17883262682257,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i3339",
+      "name": "Joseph Blasi",
+      "rating": 1589.8,
+      "rd": 24.62,
+      "ratingClass": "B",
+      "homeLocation": "Enterrium",
+      "homeLocationId": "5315",
+      "percentile": 79.41491591745469,
+      "changeDisplay": "+8.3",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m6810",
+      "name": "Dan Caschetto",
+      "rating": 1589.63,
+      "rd": 30.71,
+      "ratingClass": "B",
+      "homeLocation": "ORD",
+      "homeLocationId": "5770",
+      "percentile": 79.3636744771044,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m35475",
+      "name": "Don Coons",
+      "rating": 1585.54,
+      "rd": 30.06,
+      "ratingClass": "B",
+      "homeLocation": "CWF Arcade",
+      "homeLocationId": "10441",
+      "percentile": 78.18512134904736,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m45169",
+      "name": "Sean Brennan",
+      "rating": 1582.14,
+      "rd": 21.72,
+      "ratingClass": "B",
+      "homeLocation": "Enterrium",
+      "homeLocationId": "5315",
+      "percentile": 77.23948385894629,
+      "changeDisplay": "+5.6",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m29585",
+      "name": "Mark Faje",
+      "rating": 1575.53,
+      "rd": 27.17,
+      "ratingClass": "B",
+      "homeLocation": "Enterrium",
+      "homeLocationId": "5315",
+      "percentile": 75.30162575115294,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m17719",
+      "name": "Zach Christopoulos",
+      "rating": 1572.36,
+      "rd": 19.99,
+      "ratingClass": "B",
+      "homeLocation": "The Pinball Capital",
+      "homeLocationId": "12978",
+      "percentile": 74.2721386313877,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m39962",
+      "name": "Kiegan Lev",
+      "rating": 1569.14,
+      "rd": 22.73,
+      "ratingClass": "B",
+      "homeLocation": "Enterrium",
+      "homeLocationId": "5315",
+      "percentile": 73.23333488610425,
+      "changeDisplay": "+4.0",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m61700",
+      "name": "Kyle Carr",
+      "rating": 1534.34,
+      "rd": 49.33,
+      "ratingClass": "B",
+      "homeLocation": "ORD",
+      "homeLocationId": "5770",
+      "percentile": 60.7304234406298,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m24685",
+      "name": "John Armstrong IL",
+      "rating": 1530.21,
+      "rd": 29.41,
+      "ratingClass": "B",
+      "homeLocation": "ORD",
+      "homeLocationId": "5770",
+      "percentile": 59.13262216425211,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m56826",
+      "name": "Erv Henderson",
+      "rating": 1519.09,
+      "rd": 41.94,
+      "ratingClass": "B",
+      "homeLocation": "ORD",
+      "homeLocationId": "5770",
+      "percentile": 54.75846648343969,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m7555",
+      "name": "Mark Seiden",
+      "rating": 1512.82,
+      "rd": 19.43,
+      "ratingClass": "B",
+      "homeLocation": "Enterrium",
+      "homeLocationId": "5315",
+      "percentile": 52.32216891042064,
+      "changeDisplay": "-6.6",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m4813",
+      "name": "Erin Seiden",
+      "rating": 1486.91,
+      "rd": 19.35,
+      "ratingClass": "C",
+      "homeLocation": "Enterrium",
+      "homeLocationId": "5315",
+      "percentile": 41.68724088135277,
+      "changeDisplay": "-6.8",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "i20254",
+      "name": "Mike Twichell",
+      "rating": 1451.97,
+      "rd": 34.4,
+      "ratingClass": "C",
+      "homeLocation": "Enterrium",
+      "homeLocationId": "5315",
+      "percentile": 27.884660176084225,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m61702",
+      "name": "Sarah Dean",
+      "rating": 1427.22,
+      "rd": 49.8,
+      "ratingClass": "C",
+      "homeLocation": "ORD",
+      "homeLocationId": "5770",
+      "percentile": 19.77453766245866,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

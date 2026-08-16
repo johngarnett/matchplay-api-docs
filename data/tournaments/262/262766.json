@@ -1,0 +1,39 @@
+{
+  "tournamentId": 262766,
+  "name": "Finals for Ladies Strawberry Social",
+  "date": "2026-07-19",
+  "locationId": "9226",
+  "locationName": "Forked River Brewing Company",
+  "playerCount": 4,
+  "ratingsDate": "2026-07-19",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m11000",
+      "name": "Julie Dorssers",
+      "rating": 1558.94,
+      "dailyRatingChange": 1.64
+    },
+    {
+      "position": 2,
+      "playerId": "m321270",
+      "name": "Rasa Roberts",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 3,
+      "playerId": "m566260",
+      "name": "Trina Lewis",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 4,
+      "playerId": "m579878",
+      "name": "Sara Cecile",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

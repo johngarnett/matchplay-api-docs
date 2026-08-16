@@ -1,0 +1,200 @@
+{
+  "tournamentId": 265360,
+  "name": "Das Flipperhaus 3 Strikes IFPA Monday Madness 08/3/2026",
+  "date": "2026-08-04",
+  "locationId": "7008",
+  "locationName": "Das Flipperhaus",
+  "playerCount": 27,
+  "ratingsDate": "2026-08-04",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m34202",
+      "name": "Christopher Mendoza",
+      "rating": 1656.39,
+      "dailyRatingChange": 4.77
+    },
+    {
+      "position": 2,
+      "playerId": "m34340",
+      "name": "Julia Randall",
+      "rating": 1519.95,
+      "dailyRatingChange": 9.5
+    },
+    {
+      "position": 3,
+      "playerId": "m49024",
+      "name": "Stephen Hernandez",
+      "rating": 1487.26,
+      "dailyRatingChange": 12.41
+    },
+    {
+      "position": 3,
+      "playerId": "m35340",
+      "name": "Danny Lewis",
+      "rating": 1662.7,
+      "dailyRatingChange": -0.97
+    },
+    {
+      "position": 5,
+      "playerId": "m47758",
+      "name": "Andrew Taraschke",
+      "rating": 1587.49,
+      "dailyRatingChange": -0.13
+    },
+    {
+      "position": 5,
+      "playerId": "m62618",
+      "name": "Shayne Stacy",
+      "rating": 1519.16,
+      "dailyRatingChange": null
+    },
+    {
+      "position": 7,
+      "playerId": "m35945",
+      "name": "Elsie Oster",
+      "rating": 1532.4,
+      "dailyRatingChange": 1.94
+    },
+    {
+      "position": 7,
+      "playerId": "m561609",
+      "name": "Ron Fenis",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 7,
+      "playerId": "m59169",
+      "name": "Truman Conlee",
+      "rating": 1419.54,
+      "dailyRatingChange": 9.56
+    },
+    {
+      "position": 7,
+      "playerId": "m27623",
+      "name": "Allison Hom",
+      "rating": 1545.39,
+      "dailyRatingChange": 1.01
+    },
+    {
+      "position": 11,
+      "playerId": "m574368",
+      "name": "Michaela Green",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 11,
+      "playerId": "m584338",
+      "name": "Michael Green",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 11,
+      "playerId": "m39274",
+      "name": "Stephanie Kirby",
+      "rating": 1559.22,
+      "dailyRatingChange": -0.93
+    },
+    {
+      "position": 11,
+      "playerId": "i135934",
+      "name": "Gary Barbarick",
+      "rating": 1482.31,
+      "dailyRatingChange": 2.57
+    },
+    {
+      "position": 15,
+      "playerId": "m30853",
+      "name": "Eric Murphy",
+      "rating": 1529.42,
+      "dailyRatingChange": -1.48
+    },
+    {
+      "position": 15,
+      "playerId": "m576455",
+      "name": "Blake Stacy",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 15,
+      "playerId": "m582563",
+      "name": "Dominique Cline",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 15,
+      "playerId": "m61234",
+      "name": "Tyler Harvey",
+      "rating": 1487.85,
+      "dailyRatingChange": -4.1
+    },
+    {
+      "position": 15,
+      "playerId": "i43816",
+      "name": "Cody Hoffman",
+      "rating": 1524.32,
+      "dailyRatingChange": -9.39
+    },
+    {
+      "position": 20,
+      "playerId": "m61527",
+      "name": "Summer Kemp",
+      "rating": 1415.7,
+      "dailyRatingChange": -22.59
+    },
+    {
+      "position": 20,
+      "playerId": "m574364",
+      "name": "Tommy Arredondo",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 20,
+      "playerId": "m39501",
+      "name": "Abbie Joy",
+      "rating": 1429.45,
+      "dailyRatingChange": -3.1
+    },
+    {
+      "position": 20,
+      "playerId": "m37371",
+      "name": "Rick Dorris",
+      "rating": 1344.38,
+      "dailyRatingChange": -2.25
+    },
+    {
+      "position": 20,
+      "playerId": "m59168",
+      "name": "Kaitlyn Hopper",
+      "rating": 1358.51,
+      "dailyRatingChange": -2.62
+    },
+    {
+      "position": 25,
+      "playerId": "m52266",
+      "name": "Tim Duran",
+      "rating": 1409.08,
+      "dailyRatingChange": -9.15
+    },
+    {
+      "position": 25,
+      "playerId": "m29862",
+      "name": "Jeff Wakamiya",
+      "rating": 1636.68,
+      "dailyRatingChange": -10.08
+    },
+    {
+      "position": 25,
+      "playerId": "m582561",
+      "name": "Donald Cline",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "tournamentId": 262059,
+  "name": "Carpool Summer 2026 Week 8 - A Division",
+  "date": "2026-07-28",
+  "locationId": "7053",
+  "locationName": "CarPool",
+  "playerCount": 12,
+  "ratingsDate": "2026-07-28",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m1157",
+      "name": "Kevin Stone",
+      "rating": 1708.39,
+      "dailyRatingChange": 4.7
+    },
+    {
+      "position": 2,
+      "playerId": "m9800",
+      "name": "Paul Dreyer",
+      "rating": 1558.54,
+      "dailyRatingChange": 8.48
+    },
+    {
+      "position": 3,
+      "playerId": "m39280",
+      "name": "Josh Murphy",
+      "rating": 1739.09,
+      "dailyRatingChange": 4.15
+    },
+    {
+      "position": 4,
+      "playerId": "m44003",
+      "name": "Dave Gustafson",
+      "rating": 1644.08,
+      "dailyRatingChange": -0.92
+    },
+    {
+      "position": 5,
+      "playerId": "m23181",
+      "name": "Susan Williams",
+      "rating": 1588.52,
+      "dailyRatingChange": -2.84
+    },
+    {
+      "position": 5,
+      "playerId": "m4439",
+      "name": "Daniel Reynolds",
+      "rating": 1752.55,
+      "dailyRatingChange": -2.44
+    },
+    {
+      "position": 5,
+      "playerId": "m39284",
+      "name": "Ryan Lugo",
+      "rating": 1659.88,
+      "dailyRatingChange": 2.5
+    },
+    {
+      "position": 5,
+      "playerId": "i4164",
+      "name": "Mark Lane",
+      "rating": 1572.75,
+      "dailyRatingChange": 0.84
+    },
+    {
+      "position": 9,
+      "playerId": "m28940",
+      "name": "Fred Freimark",
+      "rating": 1498.77,
+      "dailyRatingChange": -1.03
+    },
+    {
+      "position": 10,
+      "playerId": "m43249",
+      "name": "Varun Iyer",
+      "rating": 1466.64,
+      "dailyRatingChange": -1.75
+    },
+    {
+      "position": 10,
+      "playerId": "m29462",
+      "name": "Tony Rollins",
+      "rating": 1669.74,
+      "dailyRatingChange": -2.7
+    },
+    {
+      "position": 12,
+      "playerId": "m36360",
+      "name": "Jessica Barth",
+      "rating": 1390.51,
+      "dailyRatingChange": -3.34
+    }
+  ]
+}

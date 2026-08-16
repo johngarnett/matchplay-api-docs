@@ -1,0 +1,39 @@
+{
+  "tournamentId": 254029,
+  "name": "Finals for SpaceBar 2nd IFPA Matchplay",
+  "date": "2026-07-26",
+  "locationId": "12921",
+  "locationName": "SpaceBar Cocktails & Arcades",
+  "playerCount": 4,
+  "ratingsDate": "2026-07-26",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m58212",
+      "name": "James Brownlee",
+      "rating": 1666.68,
+      "dailyRatingChange": 6.81
+    },
+    {
+      "position": 2,
+      "playerId": "m58217",
+      "name": "Kev Spoors",
+      "rating": 1562.47,
+      "dailyRatingChange": 18.93
+    },
+    {
+      "position": 3,
+      "playerId": "m51378",
+      "name": "Peter Stead",
+      "rating": 1545.77,
+      "dailyRatingChange": 17.72
+    },
+    {
+      "position": 4,
+      "playerId": "m24543",
+      "name": "Chris Miller UK",
+      "rating": 1507.85,
+      "dailyRatingChange": 5.03
+    }
+  ]
+}

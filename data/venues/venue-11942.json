@@ -1,0 +1,167 @@
+{
+  "locationId": "11942",
+  "name": "Brewcade",
+  "address": "303 Walnut St, Agawam, MA 01001, US",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 8,
+  "relatedVenues": [
+    {
+      "locationId": "5487",
+      "name": "Western Mass Pinball Club",
+      "address": "4 Springfield St, Three Rivers, MA 01080, USA",
+      "count": 9
+    },
+    {
+      "locationId": "9644",
+      "name": "The Shortstop Bar & Grill",
+      "address": "99 Springfield Rd., Westfield, MA 01085",
+      "count": 8
+    },
+    {
+      "locationId": "8959",
+      "name": "Western Mass Pinball Club",
+      "address": "4 Springfield Street, Palmer, MA 01080, US",
+      "count": 7
+    },
+    {
+      "locationId": "10377",
+      "name": "Capital Pinball",
+      "address": "70 Pembroke Rd, Concord, NH 03301, US",
+      "count": 7
+    },
+    {
+      "locationId": "13540",
+      "name": "The Czar's Brewery",
+      "address": "10 Pierce St, Dover, NH, 03820, US",
+      "count": 4
+    },
+    {
+      "locationId": "13498",
+      "name": "Southern New Hampshire Pinball Club",
+      "address": "48 Bridge St Nashua, NH 03060",
+      "count": 3
+    },
+    {
+      "locationId": "7878",
+      "name": "Funspot",
+      "address": "579 Endicott Street North, Laconia, NH 03246, US",
+      "count": 2
+    },
+    {
+      "locationId": "10432",
+      "name": "Progression Brewing Company",
+      "address": "9 Pearl St, Northampton, MA 01060, US",
+      "count": 2
+    },
+    {
+      "locationId": "10939",
+      "name": "Millennium Place",
+      "address": "2000 Premier Way, Sherwood Park, AB",
+      "count": 2
+    },
+    {
+      "locationId": "12331",
+      "name": "Arcadia",
+      "address": "504 Congress St, 04101",
+      "count": 2
+    }
+  ],
+  "players": [
+    {
+      "id": "m12067",
+      "name": "Matt Lemoine",
+      "rating": 1591.22,
+      "rd": 17.24,
+      "ratingClass": "B",
+      "homeLocation": "Capital Pinball",
+      "homeLocationId": "10377",
+      "percentile": 79.80621418922065,
+      "changeDisplay": "+10.1",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m7910",
+      "name": "Jamie Fleming",
+      "rating": 1587.79,
+      "rd": 21.98,
+      "ratingClass": "B",
+      "homeLocation": "Western Mass Pinball Club",
+      "homeLocationId": "5487",
+      "percentile": 78.8419434480831,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m54642",
+      "name": "Jason Wawrzyniak",
+      "rating": 1508.55,
+      "rd": 30.23,
+      "ratingClass": "B",
+      "homeLocation": "Western Mass Pinball Club",
+      "homeLocationId": "8959",
+      "percentile": 50.65915125541529,
+      "changeDisplay": "+21.5",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "i140707",
+      "name": "Bill Romani",
+      "rating": 1500.06,
+      "rd": 36.62,
+      "ratingClass": "B",
+      "homeLocation": "Brewcade",
+      "homeLocationId": "11942",
+      "percentile": 47.114175245725995,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m34637",
+      "name": "Kerry Walker",
+      "rating": 1427.6,
+      "rd": 26.14,
+      "ratingClass": "C",
+      "homeLocation": "The Shortstop Bar & Grill",
+      "homeLocationId": "9644",
+      "percentile": 19.87702054315927,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i148642",
+      "name": "John Adams",
+      "rating": 1423.9,
+      "rd": 57.09,
+      "ratingClass": "C",
+      "homeLocation": "Brewcade",
+      "homeLocationId": "11942",
+      "percentile": 18.75902548097079,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i145852",
+      "name": "Michael Sarnelli",
+      "rating": 1393.44,
+      "rd": 53.51,
+      "ratingClass": "D",
+      "homeLocation": "Brewcade",
+      "homeLocationId": "11942",
+      "percentile": 10.970326547724413,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i85398",
+      "name": "Samantha Paradis",
+      "rating": 1365.59,
+      "rd": 35.42,
+      "ratingClass": "D",
+      "homeLocation": "The Shortstop Bar & Grill",
+      "homeLocationId": "9644",
+      "percentile": 6.144314529277495,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

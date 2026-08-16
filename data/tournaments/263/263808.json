@@ -1,0 +1,39 @@
+{
+  "tournamentId": 263808,
+  "name": "Finals for Sweaty Pinballs 2: A Lyman's Tournament",
+  "date": "2026-07-25",
+  "locationId": "7783",
+  "locationName": "Lyman's Tavern",
+  "playerCount": 4,
+  "ratingsDate": "2026-07-25",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m27915",
+      "name": "Calvin Oung",
+      "rating": 1668.31,
+      "dailyRatingChange": 16.18
+    },
+    {
+      "position": 2,
+      "playerId": "m7815",
+      "name": "Dave Snyder VA",
+      "rating": 1597.75,
+      "dailyRatingChange": 7.91
+    },
+    {
+      "position": 3,
+      "playerId": "m47596",
+      "name": "Vince Kunze",
+      "rating": 1483.44,
+      "dailyRatingChange": 2.98
+    },
+    {
+      "position": 4,
+      "playerId": "m33876",
+      "name": "Alex Rosen",
+      "rating": 1584.38,
+      "dailyRatingChange": -11.93
+    }
+  ]
+}

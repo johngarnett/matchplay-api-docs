@@ -1,0 +1,317 @@
+{
+  "locationId": "12318",
+  "name": "Gasthaus Heidekrug",
+  "address": "Waldluststraße 67, Nürnberg, BY 90480, DE",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 21,
+  "relatedVenues": [
+    {
+      "locationId": "12484",
+      "name": "FlippArena Gisseltshausen",
+      "address": "Pfeffenhausener Straße 8a, 84056 Rottenburg",
+      "count": 32
+    },
+    {
+      "locationId": "5915",
+      "name": "Flipperkeller Landshut",
+      "address": "Dekan-Wagner-Straße 3A, 84032 Altdorf, Deutschland",
+      "count": 9
+    },
+    {
+      "locationId": "9461",
+      "name": "FlipperFreunde Fellbach e.V.",
+      "address": "",
+      "count": 6
+    },
+    {
+      "locationId": "7047",
+      "name": "7-Mountains-Pinball Club House",
+      "address": "",
+      "count": 3
+    },
+    {
+      "locationId": "5315",
+      "name": "Enterrium",
+      "address": "2 Woodfield Mall Unit A, Schaumburg, IL 60173, USA",
+      "count": 2
+    },
+    {
+      "locationId": "5539",
+      "name": "Pinball Universe - Challenge Area",
+      "address": "Daimlerstraße 41-43, 32257 Bünde, Deutschland",
+      "count": 2
+    },
+    {
+      "locationId": "87",
+      "name": "Martins Flipperbude",
+      "address": "",
+      "count": 1
+    },
+    {
+      "locationId": "5577",
+      "name": "hierundjetzt",
+      "address": "",
+      "count": 1
+    },
+    {
+      "locationId": "11506",
+      "name": "Pinball Universe",
+      "address": "Boschstr. 51, 32257 Bünde, Germany",
+      "count": 1
+    }
+  ],
+  "players": [
+    {
+      "id": "m27326",
+      "name": "Lukas Ott",
+      "rating": 1822.47,
+      "rd": 25.68,
+      "ratingClass": "Master",
+      "homeLocation": "FlippArena Gisseltshausen",
+      "homeLocationId": "12484",
+      "percentile": 99.71584292169376,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m27325",
+      "name": "Niklas Ott",
+      "rating": 1657.18,
+      "rd": 24.49,
+      "ratingClass": "A",
+      "homeLocation": "FlippArena Gisseltshausen",
+      "homeLocationId": "12484",
+      "percentile": 92.7097405319793,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m15684",
+      "name": "Hartmut Besigk",
+      "rating": 1644.21,
+      "rd": 58.54,
+      "ratingClass": "A",
+      "homeLocation": "Gasthaus Heidekrug",
+      "homeLocationId": "12318",
+      "percentile": 90.92094843247776,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m21176",
+      "name": "Markus Pautz",
+      "rating": 1616.1,
+      "rd": 25.42,
+      "ratingClass": "A",
+      "homeLocation": "FlippArena Gisseltshausen",
+      "homeLocationId": "12484",
+      "percentile": 85.77817114641077,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m21716",
+      "name": "Philipp Unger",
+      "rating": 1615.26,
+      "rd": 24.07,
+      "ratingClass": "A",
+      "homeLocation": "7-Mountains-Pinball Club House",
+      "homeLocationId": "7047",
+      "percentile": 85.5871803232869,
+      "changeDisplay": "+8.9",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m50876",
+      "name": "Lewis Kemnitz",
+      "rating": 1580.12,
+      "rd": 29.82,
+      "ratingClass": "B",
+      "homeLocation": "FlippArena Gisseltshausen",
+      "homeLocationId": "12484",
+      "percentile": 76.64787813853822,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m26360",
+      "name": "Stefan Ott",
+      "rating": 1576.64,
+      "rd": 27.25,
+      "ratingClass": "B",
+      "homeLocation": "FlippArena Gisseltshausen",
+      "homeLocationId": "12484",
+      "percentile": 75.67429077188243,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m58926",
+      "name": "Magnus Kolweyh",
+      "rating": 1553.3,
+      "rd": 38.9,
+      "ratingClass": "B",
+      "homeLocation": "Gasthaus Heidekrug",
+      "homeLocationId": "12318",
+      "percentile": 68.03931615968696,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m52407",
+      "name": "Steven Kemnitz",
+      "rating": 1546.27,
+      "rd": 32.38,
+      "ratingClass": "B",
+      "homeLocation": "FlippArena Gisseltshausen",
+      "homeLocationId": "12484",
+      "percentile": 65.37941957423021,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m34774",
+      "name": "Konrad Seitz",
+      "rating": 1537.56,
+      "rd": 36.3,
+      "ratingClass": "B",
+      "homeLocation": "FlippArena Gisseltshausen",
+      "homeLocationId": "12484",
+      "percentile": 62.09065076629244,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m58902",
+      "name": "Jorne Kolweyh",
+      "rating": 1534.07,
+      "rd": 38.95,
+      "ratingClass": "B",
+      "homeLocation": "Gasthaus Heidekrug",
+      "homeLocationId": "12318",
+      "percentile": 60.618623934410955,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m34749",
+      "name": "Richard Könsgen",
+      "rating": 1529.93,
+      "rd": 34.26,
+      "ratingClass": "B",
+      "homeLocation": "Gasthaus Heidekrug",
+      "homeLocationId": "12318",
+      "percentile": 58.997531094237665,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m24262",
+      "name": "Yvonne Berreiter",
+      "rating": 1494.68,
+      "rd": 27.99,
+      "ratingClass": "C",
+      "homeLocation": "FlippArena Gisseltshausen",
+      "homeLocationId": "12484",
+      "percentile": 44.97135137653142,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m52402",
+      "name": "Michael Grimm",
+      "rating": 1489.07,
+      "rd": 48.51,
+      "ratingClass": "C",
+      "homeLocation": "Gasthaus Heidekrug",
+      "homeLocationId": "12318",
+      "percentile": 42.623561745935625,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m48723",
+      "name": "Robert Maric",
+      "rating": 1476.77,
+      "rd": 28.43,
+      "ratingClass": "C",
+      "homeLocation": "FlippArena Gisseltshausen",
+      "homeLocationId": "12484",
+      "percentile": 37.61121721712396,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m60180",
+      "name": "David Mulzer",
+      "rating": 1475.94,
+      "rd": 58.54,
+      "ratingClass": "C",
+      "homeLocation": "Gasthaus Heidekrug",
+      "homeLocationId": "12318",
+      "percentile": 37.219918945357996,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m48731",
+      "name": "Hannes Potthoff",
+      "rating": 1442.2,
+      "rd": 55.21,
+      "ratingClass": "C",
+      "homeLocation": "Gasthaus Heidekrug",
+      "homeLocationId": "12318",
+      "percentile": 24.45148367261378,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m48733",
+      "name": "Jonas Heemann",
+      "rating": 1413.71,
+      "rd": 49.9,
+      "ratingClass": "C",
+      "homeLocation": "Gasthaus Heidekrug",
+      "homeLocationId": "12318",
+      "percentile": 16.085153957236688,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m46838",
+      "name": "Sandro Richter",
+      "rating": 1349.14,
+      "rd": 62.59,
+      "ratingClass": "D",
+      "homeLocation": "Gasthaus Heidekrug",
+      "homeLocationId": "12318",
+      "percentile": 4.159873293892952,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m34777",
+      "name": "Hans Seitz",
+      "rating": 1260.39,
+      "rd": 47.43,
+      "ratingClass": "E",
+      "homeLocation": "Gasthaus Heidekrug",
+      "homeLocationId": "12318",
+      "percentile": 0.34005683141566123,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i147843",
+      "name": "Supawadee Richter",
+      "rating": null,
+      "rd": null,
+      "ratingClass": "N/A",
+      "homeLocation": "Gasthaus Heidekrug",
+      "homeLocationId": "12318",
+      "percentile": null,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "tournamentId": 263781,
+  "name": "Transformers Stern Launch Party",
+  "date": "2026-07-25",
+  "locationId": "10372",
+  "locationName": "Joystiq",
+  "playerCount": 18,
+  "ratingsDate": "2026-07-25",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m37802",
+      "name": "Matt Ernst",
+      "rating": 1694.37,
+      "dailyRatingChange": 22.28
+    },
+    {
+      "position": 2,
+      "playerId": "m60006",
+      "name": "Brett Frago",
+      "rating": 1664.67,
+      "dailyRatingChange": 11.73
+    },
+    {
+      "position": 3,
+      "playerId": "m47470",
+      "name": "James Elola",
+      "rating": 1605.9,
+      "dailyRatingChange": 7.09
+    },
+    {
+      "position": 4,
+      "playerId": "m53171",
+      "name": "Bret Stilwill",
+      "rating": 1583.42,
+      "dailyRatingChange": 8.82
+    },
+    {
+      "position": 5,
+      "playerId": "m50976",
+      "name": "Trevor Turner",
+      "rating": 1649.97,
+      "dailyRatingChange": -3.64
+    },
+    {
+      "position": 6,
+      "playerId": "m39996",
+      "name": "Tyler Turner",
+      "rating": 1684.95,
+      "dailyRatingChange": -5.82
+    },
+    {
+      "position": 7,
+      "playerId": "m2641",
+      "name": "Robert Rusticus",
+      "rating": 1552.92,
+      "dailyRatingChange": 5.5
+    },
+    {
+      "position": 8,
+      "playerId": "m47485",
+      "name": "Alex Macias",
+      "rating": 1527.13,
+      "dailyRatingChange": 3.01
+    },
+    {
+      "position": 9,
+      "playerId": "i141441",
+      "name": "Matthew Aaron",
+      "rating": 1439.88,
+      "dailyRatingChange": 11.56
+    },
+    {
+      "position": 10,
+      "playerId": "i137809",
+      "name": "Kevin Eno",
+      "rating": 1470.25,
+      "dailyRatingChange": 9.11
+    },
+    {
+      "position": 11,
+      "playerId": "m12915",
+      "name": "Eric Garcia",
+      "rating": 1618.4,
+      "dailyRatingChange": -3.24
+    },
+    {
+      "position": 12,
+      "playerId": "m5632",
+      "name": "Tim Chevalier",
+      "rating": 1519.68,
+      "dailyRatingChange": -3.41
+    },
+    {
+      "position": 13,
+      "playerId": "m22564",
+      "name": "Matt Nielsen",
+      "rating": 1636.95,
+      "dailyRatingChange": -5.48
+    },
+    {
+      "position": 14,
+      "playerId": "i138875",
+      "name": "Daniel Munoz",
+      "rating": 1579.97,
+      "dailyRatingChange": -15.31
+    },
+    {
+      "position": 15,
+      "playerId": "i137808",
+      "name": "Robert Rusticus Jr",
+      "rating": 1440.46,
+      "dailyRatingChange": -3.39
+    },
+    {
+      "position": 16,
+      "playerId": "m564133",
+      "name": "Sarah Rusticus",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 17,
+      "playerId": "i141743",
+      "name": "Ciara Turner",
+      "rating": 1349.26,
+      "dailyRatingChange": 0.18
+    },
+    {
+      "position": 18,
+      "playerId": "m416207",
+      "name": "Charlie Rusticus",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

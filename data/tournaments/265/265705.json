@@ -1,0 +1,39 @@
+{
+  "tournamentId": 265705,
+  "name": "Smash N Axe Open Tournament August 5 2026",
+  "date": "2026-08-06",
+  "locationId": "12410",
+  "locationName": "Smash N Axe Arcade Disco",
+  "playerCount": 4,
+  "ratingsDate": "2026-08-06",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m25307",
+      "name": "Jay Woolston",
+      "rating": 1724.04,
+      "dailyRatingChange": -6.05
+    },
+    {
+      "position": 2,
+      "playerId": "i90938",
+      "name": "Don Lambert",
+      "rating": 1506.49,
+      "dailyRatingChange": 11.18
+    },
+    {
+      "position": 3,
+      "playerId": "m584870",
+      "name": "Pickerel",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 4,
+      "playerId": "m584868",
+      "name": "Jessica Hamm",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

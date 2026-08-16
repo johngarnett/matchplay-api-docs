@@ -1,0 +1,123 @@
+{
+  "tournamentId": 262929,
+  "name": "Anderson Tap House - Weeknight Tap Out - 7/20/2026",
+  "date": "2026-07-21",
+  "locationId": "7051",
+  "locationName": "Anderson Tap House",
+  "playerCount": 16,
+  "ratingsDate": "2026-07-21",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m31323",
+      "name": "Larry Smith OH",
+      "rating": 1700.88,
+      "dailyRatingChange": 37.32
+    },
+    {
+      "position": 2,
+      "playerId": "m24646",
+      "name": "Ric Forney",
+      "rating": 1551.96,
+      "dailyRatingChange": 0.97
+    },
+    {
+      "position": 2,
+      "playerId": "m25777",
+      "name": "Nathan Przekop",
+      "rating": 1580.25,
+      "dailyRatingChange": 5.76
+    },
+    {
+      "position": 4,
+      "playerId": "m1032",
+      "name": "Phoebe Smith",
+      "rating": 1622.52,
+      "dailyRatingChange": 17
+    },
+    {
+      "position": 5,
+      "playerId": "m31140",
+      "name": "Chris Ciesick",
+      "rating": 1597.48,
+      "dailyRatingChange": 5.11
+    },
+    {
+      "position": 5,
+      "playerId": "m32133",
+      "name": "Ian Raffenberg",
+      "rating": 1621.76,
+      "dailyRatingChange": 0.18
+    },
+    {
+      "position": 7,
+      "playerId": "m31651",
+      "name": "Ed Plourde",
+      "rating": 1518.95,
+      "dailyRatingChange": 5.34
+    },
+    {
+      "position": 8,
+      "playerId": "i55171",
+      "name": "Jim Ciesick",
+      "rating": 1462.73,
+      "dailyRatingChange": 32.51
+    },
+    {
+      "position": 9,
+      "playerId": "m45165",
+      "name": "Jaime Kinkade",
+      "rating": 1481.35,
+      "dailyRatingChange": -0.49
+    },
+    {
+      "position": 10,
+      "playerId": "i134223",
+      "name": "Pete Bubel",
+      "rating": 1455.23,
+      "dailyRatingChange": -4.08
+    },
+    {
+      "position": 11,
+      "playerId": "m49457",
+      "name": "Nathan Plourde",
+      "rating": 1470.01,
+      "dailyRatingChange": -15.5
+    },
+    {
+      "position": 11,
+      "playerId": "m42009",
+      "name": "Mark Schlafman",
+      "rating": 1465.49,
+      "dailyRatingChange": -31.22
+    },
+    {
+      "position": 11,
+      "playerId": "m38155",
+      "name": "Chase Bevacqua",
+      "rating": 1452.77,
+      "dailyRatingChange": -17.81
+    },
+    {
+      "position": 14,
+      "playerId": "i154585",
+      "name": "Rachel Coffey",
+      "rating": 1404.1,
+      "dailyRatingChange": -23.12
+    },
+    {
+      "position": 15,
+      "playerId": "m38154",
+      "name": "Chris Bevacqua",
+      "rating": 1419.27,
+      "dailyRatingChange": -22.29
+    },
+    {
+      "position": 15,
+      "playerId": "m45181",
+      "name": "Mike Walters",
+      "rating": 1377.15,
+      "dailyRatingChange": -14.26
+    }
+  ]
+}

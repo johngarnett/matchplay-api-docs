@@ -1,0 +1,46 @@
+{
+  "tournamentId": 266042,
+  "name": "Tie-Break for Pinball Saturday  - A.R.C.A.D.E. Stern Army - Agosto 2026",
+  "date": "2026-08-08",
+  "locationId": "10135",
+  "locationName": "Associació A.R.C.A.D.E",
+  "playerCount": 5,
+  "ratingsDate": "2026-08-08",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m974",
+      "name": "Leif Spångberg",
+      "rating": 1547.04,
+      "dailyRatingChange": -3.39
+    },
+    {
+      "position": 1,
+      "playerId": "m59524",
+      "name": "José luis Fernández",
+      "rating": 1492.14,
+      "dailyRatingChange": 16.53
+    },
+    {
+      "position": 1,
+      "playerId": "m30537",
+      "name": "Pere Vicien",
+      "rating": 1536.48,
+      "dailyRatingChange": 0.71
+    },
+    {
+      "position": 1,
+      "playerId": "m45437",
+      "name": "Rafael de Lima",
+      "rating": 1629.08,
+      "dailyRatingChange": 5.42
+    },
+    {
+      "position": 5,
+      "playerId": "m51006",
+      "name": "Ignacio Paez",
+      "rating": 1543.27,
+      "dailyRatingChange": 3.35
+    }
+  ]
+}

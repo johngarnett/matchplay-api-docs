@@ -1,0 +1,29 @@
+{
+  "locationId": "13316",
+  "name": "CosmosArcade Hamburger Meile",
+  "address": "Hamburger Str. 39, 22083 Hamburg",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 1,
+  "relatedVenues": [
+    {
+      "locationId": "11482",
+      "name": "Billard Sport Casino",
+      "address": "Lübeck",
+      "count": 3
+    }
+  ],
+  "players": [
+    {
+      "id": "m48759",
+      "name": "Jannik Schuchardt",
+      "rating": 1479.86,
+      "rd": 48.31,
+      "ratingClass": "C",
+      "homeLocation": "Billard Sport Casino",
+      "homeLocationId": "11482",
+      "percentile": 38.873619974845106,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

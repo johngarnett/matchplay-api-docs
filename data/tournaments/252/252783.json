@@ -1,0 +1,109 @@
+{
+  "tournamentId": 252783,
+  "name": "Pioneer Pinball Launch Night",
+  "date": "2026-07-31",
+  "locationId": "13442",
+  "locationName": "What's Left Records",
+  "playerCount": 14,
+  "ratingsDate": "2026-07-31",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m19050",
+      "name": "Walt Wood",
+      "rating": 1905.37,
+      "dailyRatingChange": 2.11
+    },
+    {
+      "position": 2,
+      "playerId": "m5123",
+      "name": "Cassie Begay",
+      "rating": 1627.36,
+      "dailyRatingChange": 0.66
+    },
+    {
+      "position": 3,
+      "playerId": "m54488",
+      "name": "Bobby Allen",
+      "rating": 1553.7,
+      "dailyRatingChange": 16.43
+    },
+    {
+      "position": 4,
+      "playerId": "m583160",
+      "name": "Adam B",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 5,
+      "playerId": "m583156",
+      "name": "Sean s",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 6,
+      "playerId": "m42354",
+      "name": "Jared Long",
+      "rating": 1526.29,
+      "dailyRatingChange": 7.48
+    },
+    {
+      "position": 7,
+      "playerId": "m45346",
+      "name": "Luke Rognlien",
+      "rating": 1698.02,
+      "dailyRatingChange": -11.7
+    },
+    {
+      "position": 8,
+      "playerId": "m57765",
+      "name": "Sean Andersson",
+      "rating": 1362.46,
+      "dailyRatingChange": 23.14
+    },
+    {
+      "position": 9,
+      "playerId": "m583158",
+      "name": "Kel G",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 10,
+      "playerId": "m583149",
+      "name": "Marina Andersson",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 11,
+      "playerId": "m54486",
+      "name": "Tim Lindstorm",
+      "rating": 1513.37,
+      "dailyRatingChange": -5.87
+    },
+    {
+      "position": 12,
+      "playerId": "m583161",
+      "name": "Willow W",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 13,
+      "playerId": "m583153",
+      "name": "Brock Duos",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 14,
+      "playerId": "m62466",
+      "name": "Julien Loeper",
+      "rating": 1471.67,
+      "dailyRatingChange": null
+    }
+  ]
+}

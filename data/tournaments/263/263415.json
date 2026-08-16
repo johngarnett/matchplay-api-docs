@@ -1,0 +1,39 @@
+{
+  "tournamentId": 263415,
+  "name": "Finals for MMG Pins and Pours S4",
+  "date": "2026-07-24",
+  "locationId": "9842",
+  "locationName": "MarTEEnez Minigolf & Arcade",
+  "playerCount": 4,
+  "ratingsDate": "2026-07-24",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m47710",
+      "name": "Chris calderwood",
+      "rating": 1561.48,
+      "dailyRatingChange": 19.36
+    },
+    {
+      "position": 2,
+      "playerId": "m13063",
+      "name": "Daniel Gonzalez (DGG)",
+      "rating": 1699.52,
+      "dailyRatingChange": 1.64
+    },
+    {
+      "position": 3,
+      "playerId": "m51929",
+      "name": "Kevin Owens",
+      "rating": 1565.25,
+      "dailyRatingChange": 2.92
+    },
+    {
+      "position": 4,
+      "playerId": "m43378",
+      "name": "John Ortiz",
+      "rating": 1520.6,
+      "dailyRatingChange": -0.61
+    }
+  ]
+}

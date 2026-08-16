@@ -1,0 +1,382 @@
+{
+  "tournamentId": 262603,
+  "name": "Hours of Fun Saturday 150% Session 2 Aug 1 1pm",
+  "date": "2026-08-01",
+  "locationId": "3448",
+  "locationName": "Game Galaxy Arcade",
+  "playerCount": 53,
+  "ratingsDate": "2026-08-01",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m3600",
+      "name": "Tanner Wade",
+      "rating": 1763.35,
+      "dailyRatingChange": 5.16
+    },
+    {
+      "position": 2,
+      "playerId": "m50092",
+      "name": "Kevin Bull",
+      "rating": 1649.61,
+      "dailyRatingChange": 12.91
+    },
+    {
+      "position": 2,
+      "playerId": "m24593",
+      "name": "Tyler Crutcher",
+      "rating": 1579.71,
+      "dailyRatingChange": 8.85
+    },
+    {
+      "position": 4,
+      "playerId": "m2111",
+      "name": "Joe Farnsworth",
+      "rating": 1652.77,
+      "dailyRatingChange": 20.08
+    },
+    {
+      "position": 4,
+      "playerId": "m36580",
+      "name": "Jason Wilberding",
+      "rating": 1620.88,
+      "dailyRatingChange": 4.47
+    },
+    {
+      "position": 4,
+      "playerId": "m27968",
+      "name": "Jesse Sexton",
+      "rating": 1648.03,
+      "dailyRatingChange": -0.47
+    },
+    {
+      "position": 7,
+      "playerId": "m47047",
+      "name": "Tommy Thompson",
+      "rating": 1602.7,
+      "dailyRatingChange": 8.92
+    },
+    {
+      "position": 7,
+      "playerId": "m2632",
+      "name": "Kevin Hale",
+      "rating": 1586.83,
+      "dailyRatingChange": 8.83
+    },
+    {
+      "position": 9,
+      "playerId": "m48947",
+      "name": "Mo Cummings",
+      "rating": 1554.58,
+      "dailyRatingChange": 5.13
+    },
+    {
+      "position": 9,
+      "playerId": "m46311",
+      "name": "Whitten Sabbatini",
+      "rating": 1593.4,
+      "dailyRatingChange": 3.28
+    },
+    {
+      "position": 9,
+      "playerId": "m9538",
+      "name": "Mike Mattox",
+      "rating": 1630.3,
+      "dailyRatingChange": 3.01
+    },
+    {
+      "position": 12,
+      "playerId": "m18644",
+      "name": "Trent Leach",
+      "rating": 1627.74,
+      "dailyRatingChange": 8.96
+    },
+    {
+      "position": 12,
+      "playerId": "m50375",
+      "name": "Tyler Maples",
+      "rating": 1530.91,
+      "dailyRatingChange": 1.67
+    },
+    {
+      "position": 12,
+      "playerId": "m12584",
+      "name": "Brian Oliver",
+      "rating": 1632.11,
+      "dailyRatingChange": -3.86
+    },
+    {
+      "position": 12,
+      "playerId": "m27022",
+      "name": "Dave Feiertag",
+      "rating": 1503.35,
+      "dailyRatingChange": 14.03
+    },
+    {
+      "position": 12,
+      "playerId": "m62477",
+      "name": "Cash Beagle",
+      "rating": 1571.43,
+      "dailyRatingChange": null
+    },
+    {
+      "position": 12,
+      "playerId": "m12599",
+      "name": "Greeley Oliver",
+      "rating": 1633.72,
+      "dailyRatingChange": -0.83
+    },
+    {
+      "position": 18,
+      "playerId": "m25139",
+      "name": "Seth Evans",
+      "rating": 1614.62,
+      "dailyRatingChange": -4.58
+    },
+    {
+      "position": 19,
+      "playerId": "m28768",
+      "name": "Kyle Skogen",
+      "rating": 1586.14,
+      "dailyRatingChange": 1.07
+    },
+    {
+      "position": 19,
+      "playerId": "m48424",
+      "name": "Jason Bostelman",
+      "rating": 1529.26,
+      "dailyRatingChange": 12.68
+    },
+    {
+      "position": 19,
+      "playerId": "m34634",
+      "name": "Nicole beck",
+      "rating": 1530.9,
+      "dailyRatingChange": 6.2
+    },
+    {
+      "position": 19,
+      "playerId": "m35476",
+      "name": "Jessica Diciuccio",
+      "rating": 1567.43,
+      "dailyRatingChange": 1.79
+    },
+    {
+      "position": 19,
+      "playerId": "m53170",
+      "name": "Matthew Bull",
+      "rating": 1622.07,
+      "dailyRatingChange": -6.43
+    },
+    {
+      "position": 24,
+      "playerId": "m21145",
+      "name": "Ryan Nole",
+      "rating": 1576.84,
+      "dailyRatingChange": -3.58
+    },
+    {
+      "position": 24,
+      "playerId": "m52647",
+      "name": "Marian Mast",
+      "rating": 1522.35,
+      "dailyRatingChange": -0.7
+    },
+    {
+      "position": 24,
+      "playerId": "i154446",
+      "name": "Daijon Mitchell",
+      "rating": 1477.54,
+      "dailyRatingChange": 15.51
+    },
+    {
+      "position": 24,
+      "playerId": "m33263",
+      "name": "Jordan Orren",
+      "rating": 1657.06,
+      "dailyRatingChange": -8.48
+    },
+    {
+      "position": 24,
+      "playerId": "m30480",
+      "name": "Josh philpott",
+      "rating": 1580.04,
+      "dailyRatingChange": -0.78
+    },
+    {
+      "position": 24,
+      "playerId": "m36328",
+      "name": "Mike Wilson",
+      "rating": 1586.63,
+      "dailyRatingChange": -4.28
+    },
+    {
+      "position": 30,
+      "playerId": "m52638",
+      "name": "Carter Hassebroek",
+      "rating": 1503.39,
+      "dailyRatingChange": 3.48
+    },
+    {
+      "position": 31,
+      "playerId": "m29001",
+      "name": "Kris cagle",
+      "rating": 1494.61,
+      "dailyRatingChange": 5.12
+    },
+    {
+      "position": 31,
+      "playerId": "m23243",
+      "name": "Michael Feiertag",
+      "rating": 1634.65,
+      "dailyRatingChange": -7.71
+    },
+    {
+      "position": 31,
+      "playerId": "m43672",
+      "name": "Michael Adams TN2",
+      "rating": 1558.92,
+      "dailyRatingChange": -1.59
+    },
+    {
+      "position": 31,
+      "playerId": "m573218",
+      "name": "Scott Sauers",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 35,
+      "playerId": "m20852",
+      "name": "Eric Klotz",
+      "rating": 1575.96,
+      "dailyRatingChange": -7.91
+    },
+    {
+      "position": 36,
+      "playerId": "m52227",
+      "name": "Tara Pannell",
+      "rating": 1498.41,
+      "dailyRatingChange": -0.14
+    },
+    {
+      "position": 36,
+      "playerId": "m38399",
+      "name": "Jesse Lenker",
+      "rating": 1606.29,
+      "dailyRatingChange": -12.92
+    },
+    {
+      "position": 36,
+      "playerId": "m19963",
+      "name": "Austin Carrigan",
+      "rating": 1666.51,
+      "dailyRatingChange": -10.07
+    },
+    {
+      "position": 39,
+      "playerId": "m28500",
+      "name": "Chad Crawford Kinkle",
+      "rating": 1474.57,
+      "dailyRatingChange": 3.61
+    },
+    {
+      "position": 39,
+      "playerId": "m28204",
+      "name": "Dusty Schmidt",
+      "rating": 1447.56,
+      "dailyRatingChange": 0.12
+    },
+    {
+      "position": 41,
+      "playerId": "i47188",
+      "name": "Ceil Beagle",
+      "rating": 1488.63,
+      "dailyRatingChange": -25.01
+    },
+    {
+      "position": 41,
+      "playerId": "m2102",
+      "name": "Richie Townsend",
+      "rating": 1622.39,
+      "dailyRatingChange": -12.2
+    },
+    {
+      "position": 41,
+      "playerId": "m42810",
+      "name": "Brenna Walker",
+      "rating": 1473.46,
+      "dailyRatingChange": 1.36
+    },
+    {
+      "position": 41,
+      "playerId": "m39788",
+      "name": "Alyssa Thompson TN",
+      "rating": 1521.21,
+      "dailyRatingChange": -6.5
+    },
+    {
+      "position": 45,
+      "playerId": "m26932",
+      "name": "Katherine Saba-Hale",
+      "rating": 1393.5,
+      "dailyRatingChange": 3.37
+    },
+    {
+      "position": 46,
+      "playerId": "m48412",
+      "name": "Gordon Duddy",
+      "rating": 1532.14,
+      "dailyRatingChange": -7.51
+    },
+    {
+      "position": 47,
+      "playerId": "m62549",
+      "name": "Star Hyde",
+      "rating": 1459.23,
+      "dailyRatingChange": null
+    },
+    {
+      "position": 48,
+      "playerId": "m56222",
+      "name": "Grace Jermusyk-Cagle",
+      "rating": 1424.28,
+      "dailyRatingChange": -1.17
+    },
+    {
+      "position": 48,
+      "playerId": "m26218",
+      "name": "Melissa Lummus",
+      "rating": 1528.74,
+      "dailyRatingChange": -7.49
+    },
+    {
+      "position": 50,
+      "playerId": "m32161",
+      "name": "Emily Solomon",
+      "rating": 1546.35,
+      "dailyRatingChange": -25.78
+    },
+    {
+      "position": 51,
+      "playerId": "m25384",
+      "name": "Kathy Adler",
+      "rating": 1534.33,
+      "dailyRatingChange": -6.73
+    },
+    {
+      "position": 52,
+      "playerId": "m21055",
+      "name": "Sara Yoder",
+      "rating": 1541.15,
+      "dailyRatingChange": -3.17
+    },
+    {
+      "position": 53,
+      "playerId": "m583696",
+      "name": "Emma Hyde",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

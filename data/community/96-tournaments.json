@@ -1,0 +1,89 @@
+{
+  "communityId": "96",
+  "locations": [
+    {
+      "id": "7346",
+      "name": "Dyno Bar (Aero Club)",
+      "address": "3367 India Street, San Diego, CA 92103, US",
+      "tournaments": [
+        {
+          "id": 266709,
+          "name": "Finals for Aero Club / Dyno Bar Monthly - August 2026",
+          "date": "8/11/2026",
+          "playerCount": 4,
+          "qualifying": {
+            "id": 266670,
+            "name": "Aero Club / Dyno Bar Monthly - August 2026",
+            "playerCount": 18
+          },
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m2821",
+              "name": "Mark Maleko Schulz 👾",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m14250",
+              "name": "Tom Isaak",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m48032",
+              "name": "Kevin Evans",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m55777",
+              "name": "Gary L Brown",
+              "isCommunityMember": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "unknown",
+      "name": "Unknown Location",
+      "address": "",
+      "tournaments": [
+        {
+          "id": 266175,
+          "name": "CAX 2026 Classics Finals",
+          "date": "8/8/2026",
+          "playerCount": 16,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m34729",
+              "name": "Jack Slovacek",
+              "isCommunityMember": false
+            },
+            {
+              "position": 2,
+              "playerId": "m14153",
+              "name": "Derek Price",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m1002",
+              "name": "Andrei Massenkoff",
+              "isCommunityMember": false
+            },
+            {
+              "position": 4,
+              "playerId": "m2965",
+              "name": "Dan Dempsey",
+              "isCommunityMember": false
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

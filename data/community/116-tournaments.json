@@ -1,0 +1,49 @@
+{
+  "communityId": "116",
+  "locations": [
+    {
+      "id": "11714",
+      "name": "Ballester Pinball Club",
+      "address": "Junín 3564, B1653 Villa Ballester, Provincia de Buenos Aires",
+      "tournaments": [
+        {
+          "id": 266340,
+          "name": "Finals for Ballester Pinball Club - Torneo IFPA N°10",
+          "date": "8/9/2026",
+          "playerCount": 6,
+          "qualifying": {
+            "id": 265933,
+            "name": "Ballester Pinball Club - Torneo IFPA N°10",
+            "playerCount": 13
+          },
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m29474",
+              "name": "Alejandro Fiorentino",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m28490",
+              "name": "Marton Larrosa",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m23563",
+              "name": "Sebastian Buccafusco",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "i128115",
+              "name": "Gabriel Fersan",
+              "isCommunityMember": true
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

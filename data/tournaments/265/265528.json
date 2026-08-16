@@ -1,0 +1,88 @@
+{
+  "tournamentId": 265528,
+  "name": "Women’s League at WCL Summer 2026 #4",
+  "date": "2026-08-05",
+  "locationId": "13545",
+  "locationName": "Lane 25 at West County Lanes",
+  "playerCount": 11,
+  "ratingsDate": "2026-08-05",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m29666",
+      "name": "Kristin Machalek",
+      "rating": 1556.7,
+      "dailyRatingChange": 5.2
+    },
+    {
+      "position": 2,
+      "playerId": "m9331",
+      "name": "Kathryn Strinic",
+      "rating": 1500.56,
+      "dailyRatingChange": 3.28
+    },
+    {
+      "position": 2,
+      "playerId": "m24997",
+      "name": "Carrie Gaines",
+      "rating": 1541.11,
+      "dailyRatingChange": 8.59
+    },
+    {
+      "position": 4,
+      "playerId": "m25290",
+      "name": "Valerie Iriarte",
+      "rating": 1507.3,
+      "dailyRatingChange": 4.48
+    },
+    {
+      "position": 5,
+      "playerId": "m580565",
+      "name": "Sheila Lambiase",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 6,
+      "playerId": "m34117",
+      "name": "Haley Huber",
+      "rating": 1631.8,
+      "dailyRatingChange": -12.04
+    },
+    {
+      "position": 7,
+      "playerId": "m29213",
+      "name": "Kristie Dolan",
+      "rating": 1532.78,
+      "dailyRatingChange": -3.75
+    },
+    {
+      "position": 8,
+      "playerId": "m584625",
+      "name": "Jamie Rana",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 9,
+      "playerId": "i95632",
+      "name": "Cheri Berkel",
+      "rating": 1347.03,
+      "dailyRatingChange": 18.95
+    },
+    {
+      "position": 10,
+      "playerId": "m580566",
+      "name": "Annie Kessler",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 11,
+      "playerId": "m580561",
+      "name": "Alice Prewett",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

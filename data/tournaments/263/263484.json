@@ -1,0 +1,179 @@
+{
+  "tournamentId": 263484,
+  "name": "PRP HQ 2026 Q3 League #5",
+  "date": "2026-07-24",
+  "locationId": "12479",
+  "locationName": "PRPHQ",
+  "playerCount": 24,
+  "ratingsDate": "2026-07-24",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m30105",
+      "name": "Joe Sharpe",
+      "rating": 1708.96,
+      "dailyRatingChange": 3.33
+    },
+    {
+      "position": 1,
+      "playerId": "m40900",
+      "name": "Chris O'Brien IL",
+      "rating": 1574.75,
+      "dailyRatingChange": 6.35
+    },
+    {
+      "position": 3,
+      "playerId": "m46473",
+      "name": "Kevin Johnson IL",
+      "rating": 1633.11,
+      "dailyRatingChange": 2.11
+    },
+    {
+      "position": 3,
+      "playerId": "m40545",
+      "name": "Mike Felumlee",
+      "rating": 1583.06,
+      "dailyRatingChange": 4.35
+    },
+    {
+      "position": 3,
+      "playerId": "m28887",
+      "name": "CJ Krawcyk",
+      "rating": 1709.36,
+      "dailyRatingChange": -1.68
+    },
+    {
+      "position": 3,
+      "playerId": "m31972",
+      "name": "Joey McAdams",
+      "rating": 1642.11,
+      "dailyRatingChange": 6.43
+    },
+    {
+      "position": 7,
+      "playerId": "m38081",
+      "name": "Chad Udell",
+      "rating": 1506.97,
+      "dailyRatingChange": 7.23
+    },
+    {
+      "position": 7,
+      "playerId": "m59475",
+      "name": "Lucas Ross IL",
+      "rating": 1559.1,
+      "dailyRatingChange": 12.11
+    },
+    {
+      "position": 9,
+      "playerId": "m45602",
+      "name": "Scott Loser",
+      "rating": 1544.79,
+      "dailyRatingChange": 0.76
+    },
+    {
+      "position": 10,
+      "playerId": "m40044",
+      "name": "Stephanie Wysocki",
+      "rating": 1562.47,
+      "dailyRatingChange": 0.37
+    },
+    {
+      "position": 11,
+      "playerId": "m40131",
+      "name": "Mike Dafforn",
+      "rating": 1537.16,
+      "dailyRatingChange": 0.43
+    },
+    {
+      "position": 11,
+      "playerId": "m50858",
+      "name": "Daniel Scott IL",
+      "rating": 1534.84,
+      "dailyRatingChange": -0.19
+    },
+    {
+      "position": 13,
+      "playerId": "m57949",
+      "name": "Tyler Bickett",
+      "rating": 1475.6,
+      "dailyRatingChange": 0.47
+    },
+    {
+      "position": 13,
+      "playerId": "m59986",
+      "name": "Steve Jepson",
+      "rating": 1553.75,
+      "dailyRatingChange": -6.73
+    },
+    {
+      "position": 13,
+      "playerId": "m55475",
+      "name": "Kayla Fallen",
+      "rating": 1496.86,
+      "dailyRatingChange": 1.44
+    },
+    {
+      "position": 13,
+      "playerId": "i155494",
+      "name": "Kris Wells",
+      "rating": 1634.72,
+      "dailyRatingChange": -9.85
+    },
+    {
+      "position": 13,
+      "playerId": "m51133",
+      "name": "Chris Golwitzer",
+      "rating": 1547.1,
+      "dailyRatingChange": -1.12
+    },
+    {
+      "position": 18,
+      "playerId": "m53508",
+      "name": "Rob Carroll",
+      "rating": 1381.03,
+      "dailyRatingChange": 10.34
+    },
+    {
+      "position": 18,
+      "playerId": "m22021",
+      "name": "Shelley Sharpe",
+      "rating": 1588.03,
+      "dailyRatingChange": -5.19
+    },
+    {
+      "position": 20,
+      "playerId": "m552296",
+      "name": "Megan Moeller",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 21,
+      "playerId": "m44385",
+      "name": "Kat Davis",
+      "rating": 1484.31,
+      "dailyRatingChange": -2.46
+    },
+    {
+      "position": 22,
+      "playerId": "m572953",
+      "name": "Brent Harter",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 23,
+      "playerId": "m566883",
+      "name": "Luanne Flick",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 23,
+      "playerId": "m54680",
+      "name": "Sarah Scott",
+      "rating": 1411.49,
+      "dailyRatingChange": -10.71
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "tournamentId": 266140,
+  "name": "Women's Transformers LP",
+  "date": "2026-08-09",
+  "locationId": "8603",
+  "locationName": "I Need a Miracle Tickets",
+  "playerCount": 8,
+  "ratingsDate": "2026-08-09",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m38997",
+      "name": "Friday Wainfan",
+      "rating": 1612.44,
+      "dailyRatingChange": 10.7
+    },
+    {
+      "position": 2,
+      "playerId": "m35940",
+      "name": "Amanda Little",
+      "rating": 1527.29,
+      "dailyRatingChange": 9.78
+    },
+    {
+      "position": 3,
+      "playerId": "m7803",
+      "name": "Lisa Buhrmester",
+      "rating": 1644.83,
+      "dailyRatingChange": -5.22
+    },
+    {
+      "position": 4,
+      "playerId": "m48802",
+      "name": "Lily Sims-Williams",
+      "rating": 1516.05,
+      "dailyRatingChange": -8.84
+    },
+    {
+      "position": 5,
+      "playerId": "m17947",
+      "name": "Anita Dominqu",
+      "rating": 1510.38,
+      "dailyRatingChange": -9.03
+    },
+    {
+      "position": 6,
+      "playerId": "m19380",
+      "name": "Grace Licerio",
+      "rating": 1343.97,
+      "dailyRatingChange": 4.66
+    },
+    {
+      "position": 7,
+      "playerId": "i157685",
+      "name": "Amanda Fera",
+      "rating": 1212.44,
+      "dailyRatingChange": -2.86
+    },
+    {
+      "position": 8,
+      "playerId": "i147617",
+      "name": "Laurie Farrier",
+      "rating": 1388.96,
+      "dailyRatingChange": -8.95
+    }
+  ]
+}

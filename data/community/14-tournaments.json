@@ -1,0 +1,536 @@
+{
+  "communityId": "14",
+  "locations": [
+    {
+      "id": "6751",
+      "name": "Atomic Age Modern",
+      "address": "140 W Main St, Mesa, AZ 85201, USA",
+      "tournaments": [
+        {
+          "id": 265822,
+          "name": "Flippin' Friday at Atomic!",
+          "date": "8/7/2026",
+          "playerCount": 23,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m3573",
+              "name": "Jason Barre",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m24208",
+              "name": "Bob Kennedy",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m5656",
+              "name": "Jim Smith AZ",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m11147",
+              "name": "Chris Stoltenberg",
+              "isCommunityMember": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "11148",
+      "name": "BRI Taproom & Arcade",
+      "address": "213 W Main St, Mesa, AZ, 85201, US",
+      "tournaments": [
+        {
+          "id": 256314,
+          "name": "BRI Taproom and Arcade Pinball League #7 week #2",
+          "date": "8/12/2026",
+          "playerCount": 20,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m57077",
+              "name": "John Heil",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m3573",
+              "name": "Jason Barre",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m48061",
+              "name": "Noah Suchoff",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m3000",
+              "name": "Dave Halley",
+              "isCommunityMember": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7481",
+      "name": "Electric Bat Arcade",
+      "address": "25 W Southern Ave, Tempe, AZ 85282, US",
+      "tournaments": [
+        {
+          "id": 265504,
+          "name": "Electric Bat Tuesday Night League- Season 21-2 #2",
+          "date": "8/11/2026",
+          "playerCount": 96,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m17037",
+              "name": "Ty Bull",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m17685",
+              "name": "Nicholas Zachry",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m3573",
+              "name": "Jason Barre",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m19074",
+              "name": "Andrew Roesch",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m4689",
+              "name": "Mark Pearson",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m7363",
+              "name": "Serge Sicular",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m44814",
+              "name": "Derek Wheeler",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "i118896",
+              "name": "Andre Gierczynski",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "i135244",
+              "name": "Luke Hulsey",
+              "isCommunityMember": true
+            }
+          ]
+        },
+        {
+          "id": 265841,
+          "name": "Electric Bat Transformers Launch FINALS",
+          "date": "8/9/2026",
+          "playerCount": 16,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m19074",
+              "name": "Andrew Roesch",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m4689",
+              "name": "Mark Pearson",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m48061",
+              "name": "Noah Suchoff",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m27011",
+              "name": "Matt JohnsonAZ",
+              "isCommunityMember": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "10002",
+      "name": "North Mountain Brewing Company",
+      "address": "522 E Dunlap Ave, Phoenix, AZ 85020, US",
+      "tournaments": [
+        {
+          "id": 266259,
+          "name": "North Mountain Brewing League 2026 4.1",
+          "date": "8/10/2026",
+          "playerCount": 14,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "i107505",
+              "name": "David Sanders AZ",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m5656",
+              "name": "Jim Smith AZ",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "i93668",
+              "name": "Matthew Shanks",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m52466",
+              "name": "Louis Rulon",
+              "isCommunityMember": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "802",
+      "name": "Starfighters Arcade",
+      "address": "4840 E Jasmine St #102, Mesa, AZ, 85205, US",
+      "tournaments": [
+        {
+          "id": 265463,
+          "name": "Starfighters Monthly",
+          "date": "8/8/2026",
+          "playerCount": 63,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m5819",
+              "name": "Will McKinney",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m2465",
+              "name": "John Shopple",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m5656",
+              "name": "Jim Smith AZ",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m12740",
+              "name": "Greg Drewes",
+              "isCommunityMember": true
+            }
+          ]
+        },
+        {
+          "id": 265462,
+          "name": "Starfighters Kids Monthly",
+          "date": "8/8/2026",
+          "playerCount": 26,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "i90986",
+              "name": "Adelyn Heater",
+              "isCommunityMember": false
+            },
+            {
+              "position": 2,
+              "playerId": "i87230",
+              "name": "Kenny Fink",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "i111033",
+              "name": "Jason Cardwell",
+              "isCommunityMember": false
+            },
+            {
+              "position": 4,
+              "playerId": "i90992",
+              "name": "Aaron Heater",
+              "isCommunityMember": false
+            },
+            {
+              "position": 4,
+              "playerId": "m31500",
+              "name": "Mason Polito",
+              "isCommunityMember": false
+            },
+            {
+              "position": 4,
+              "playerId": "p290442",
+              "name": "Jack Tucker",
+              "isCommunityMember": false
+            },
+            {
+              "position": 4,
+              "playerId": "p585560",
+              "name": "Harrison Sklliman",
+              "isCommunityMember": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "12025",
+      "name": "The Outpost Arcade",
+      "address": "590 N Alma School Rd #19, Chandler, AZ, 85224, US",
+      "tournaments": [
+        {
+          "id": 259584,
+          "name": "The Outpost Open League #6 8/12/26",
+          "date": "8/12/2026",
+          "playerCount": 22,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m48200",
+              "name": "Adam Schweikart",
+              "isCommunityMember": true
+            },
+            {
+              "position": 1,
+              "playerId": "m22488",
+              "name": "Casey Reed",
+              "isCommunityMember": true
+            },
+            {
+              "position": 1,
+              "playerId": "m17593",
+              "name": "Shawn Barnett",
+              "isCommunityMember": true
+            },
+            {
+              "position": 1,
+              "playerId": "m35915",
+              "name": "Rich Andrus",
+              "isCommunityMember": true
+            }
+          ]
+        },
+        {
+          "id": 259576,
+          "name": "EPIC Women's League #6 8/10/26",
+          "date": "8/10/2026",
+          "playerCount": 32,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m22937",
+              "name": "Hailey Buhrman",
+              "isCommunityMember": true
+            },
+            {
+              "position": 1,
+              "playerId": "m7669",
+              "name": "Kaydee Helm",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m6969",
+              "name": "Olivia Helm",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m11151",
+              "name": "Mollie Stoltenberg",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m16473",
+              "name": "Meghan Bougher",
+              "isCommunityMember": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "13419",
+      "name": "Throne Brewing",
+      "address": "17035 N 67th Ave, Glendale, AZ 85308",
+      "tournaments": [
+        {
+          "id": 264302,
+          "name": "Throne Pinball Thursday Night League-Season 1 #2",
+          "date": "8/13/2026",
+          "playerCount": 33,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m20676",
+              "name": "Mike Mcclure",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m31786",
+              "name": "Kristofer Jonson AZ",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m32030",
+              "name": "Kevin Erickson AZ",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "i107505",
+              "name": "David Sanders AZ",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m55310",
+              "name": "Jack Felumlee",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m55506",
+              "name": "Sean Kellett",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m61598",
+              "name": "Hayden McElroy",
+              "isCommunityMember": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "12581",
+      "name": "Tilt Gamez",
+      "address": "13831 W Glendale Ave SUITE B, Glendale, AZ 85307, US",
+      "tournaments": [
+        {
+          "id": 263467,
+          "name": "Tilt Gamez Weekly Tournament",
+          "date": "8/12/2026",
+          "playerCount": 24,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "p564333",
+              "name": "Kyle Ulm",
+              "isCommunityMember": false
+            },
+            {
+              "position": 2,
+              "playerId": "m54421",
+              "name": "Jason Webb",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m55310",
+              "name": "Jack Felumlee",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m55492",
+              "name": "Esther Rincon",
+              "isCommunityMember": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7138",
+      "name": "Tilt Studio",
+      "address": "5000 Arizona Mills Circle #669, Tempe, AZ, 85282, US",
+      "tournaments": [
+        {
+          "id": 265475,
+          "name": "Tilt Studio Pinball League 8-13-26 (1 of 6)",
+          "date": "8/13/2026",
+          "playerCount": 26,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m2465",
+              "name": "John Shopple",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m39767",
+              "name": "Stephanie Turner",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m15883",
+              "name": "Paul Blanco",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m2283",
+              "name": "Jeffrey Goad",
+              "isCommunityMember": true
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

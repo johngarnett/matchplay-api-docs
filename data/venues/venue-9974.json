@@ -1,0 +1,323 @@
+{
+  "locationId": "9974",
+  "name": "Musée Vivant du Flipper Asso Culture Flip",
+  "address": "37, place du Marché 13150 TARASCON",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 22,
+  "relatedVenues": [
+    {
+      "locationId": "9350",
+      "name": "Morlacchi Showroom",
+      "address": "viale Troya 20 , Milan , Italy",
+      "count": 8
+    },
+    {
+      "locationId": "10135",
+      "name": "Associació A.R.C.A.D.E",
+      "address": "Esmeragda 11, Esplugues de Llobregat 08950",
+      "count": 8
+    },
+    {
+      "locationId": "13291",
+      "name": "Salon de Pontacq",
+      "address": "Salle Pierre Lacaze 64530 Pontacq",
+      "count": 4
+    },
+    {
+      "locationId": "8617",
+      "name": "Biljardna Hisa Ljubljana - Slovenska",
+      "address": "Slovenska 58, 1000 Ljubljana",
+      "count": 3
+    },
+    {
+      "locationId": "13395",
+      "name": "Retro Game Alpes",
+      "address": "Espace Claretière, 6 rue du Cornillon, 38120 Fontanil-Cornillon, France",
+      "count": 3
+    },
+    {
+      "locationId": "13319",
+      "name": "Salle Pierre Lacaze",
+      "address": "12 rue du stade 64530 Pontacq",
+      "count": 2
+    },
+    {
+      "locationId": "13016",
+      "name": "Chantilly club",
+      "address": "1 Rue Hoche, Villeneuve-d'Ascq, Hauts-de-France 59491, FR",
+      "count": 1
+    },
+    {
+      "locationId": "13658",
+      "name": "Espace culturel la parenthèse",
+      "address": "53 chaussée Jules César La Parenthèse 95250 Beauchamp",
+      "count": 1
+    }
+  ],
+  "players": [
+    {
+      "id": "m31859",
+      "name": "Mathias Giust",
+      "rating": 1636.19,
+      "rd": 23.26,
+      "ratingClass": "A",
+      "homeLocation": "Musée Vivant du Flipper Asso Culture Flip",
+      "homeLocationId": "9974",
+      "percentile": 89.66320398751573,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m29153",
+      "name": "Marc Deleuil",
+      "rating": 1627.65,
+      "rd": 22.11,
+      "ratingClass": "A",
+      "homeLocation": "Musée Vivant du Flipper Asso Culture Flip",
+      "homeLocationId": "9974",
+      "percentile": 88.0840359621745,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m42178",
+      "name": "Patrick Sanchez Manjon",
+      "rating": 1618.04,
+      "rd": 21.8,
+      "ratingClass": "A",
+      "homeLocation": "Musée Vivant du Flipper Asso Culture Flip",
+      "homeLocationId": "9974",
+      "percentile": 86.21605254576792,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m45496",
+      "name": "Philippe Martin",
+      "rating": 1599.85,
+      "rd": 24.08,
+      "ratingClass": "B",
+      "homeLocation": "Musée Vivant du Flipper Asso Culture Flip",
+      "homeLocationId": "9974",
+      "percentile": 81.96767130945172,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m49835",
+      "name": "Emrick Roman",
+      "rating": 1598.38,
+      "rd": 26.97,
+      "ratingClass": "B",
+      "homeLocation": "Musée Vivant du Flipper Asso Culture Flip",
+      "homeLocationId": "9974",
+      "percentile": 81.58103135044486,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m47256",
+      "name": "Samuel Coenen",
+      "rating": 1581.8,
+      "rd": 22.02,
+      "ratingClass": "B",
+      "homeLocation": "Morlacchi Showroom",
+      "homeLocationId": "9350",
+      "percentile": 77.14631760376392,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m17931",
+      "name": "Christophe Berry",
+      "rating": 1571.19,
+      "rd": 21.91,
+      "ratingClass": "B",
+      "homeLocation": "Biljardna Hisa Ljubljana - Slovenska",
+      "homeLocationId": "8617",
+      "percentile": 73.90879023617646,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m59205",
+      "name": "Jean-Marc Lacour",
+      "rating": 1570.63,
+      "rd": 27.16,
+      "ratingClass": "B",
+      "homeLocation": "Musée Vivant du Flipper Asso Culture Flip",
+      "homeLocationId": "9974",
+      "percentile": 73.71314110029348,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m59525",
+      "name": "Nathael Lebigre",
+      "rating": 1559.38,
+      "rd": 31.16,
+      "ratingClass": "B",
+      "homeLocation": "Musée Vivant du Flipper Asso Culture Flip",
+      "homeLocationId": "9974",
+      "percentile": 70.1448735268086,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m32038",
+      "name": "Stéphan Beige",
+      "rating": 1556.18,
+      "rd": 26.85,
+      "ratingClass": "B",
+      "homeLocation": "Musée Vivant du Flipper Asso Culture Flip",
+      "homeLocationId": "9974",
+      "percentile": 69.0734615922113,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m44034",
+      "name": "Jean-François Craballonne",
+      "rating": 1553.51,
+      "rd": 28.72,
+      "ratingClass": "B",
+      "homeLocation": "Musée Vivant du Flipper Asso Culture Flip",
+      "homeLocationId": "9974",
+      "percentile": 68.15577397866493,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i142109",
+      "name": "Bruno Benedettini",
+      "rating": 1547.77,
+      "rd": 26.9,
+      "ratingClass": "B",
+      "homeLocation": "Musée Vivant du Flipper Asso Culture Flip",
+      "homeLocationId": "9974",
+      "percentile": 65.85922578841944,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i157933",
+      "name": "Anthony Sauveur",
+      "rating": 1539.61,
+      "rd": 30.21,
+      "ratingClass": "B",
+      "homeLocation": "Musée Vivant du Flipper Asso Culture Flip",
+      "homeLocationId": "9974",
+      "percentile": 62.99902175432058,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i146239",
+      "name": "Laurent Manoiline",
+      "rating": 1537.74,
+      "rd": 35.62,
+      "ratingClass": "B",
+      "homeLocation": "Musée Vivant du Flipper Asso Culture Flip",
+      "homeLocationId": "9974",
+      "percentile": 62.169842083197466,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m52513",
+      "name": "Philippe Huet",
+      "rating": 1523.82,
+      "rd": 29.09,
+      "ratingClass": "B",
+      "homeLocation": "Musée Vivant du Flipper Asso Culture Flip",
+      "homeLocationId": "9974",
+      "percentile": 56.64042483812363,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m44105",
+      "name": "Stephane Frosio",
+      "rating": 1511.71,
+      "rd": 25.91,
+      "ratingClass": "B",
+      "homeLocation": "Musée Vivant du Flipper Asso Culture Flip",
+      "homeLocationId": "9974",
+      "percentile": 51.91223738761821,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m37799",
+      "name": "Loic Roman",
+      "rating": 1506.88,
+      "rd": 27.81,
+      "ratingClass": "B",
+      "homeLocation": "Musée Vivant du Flipper Asso Culture Flip",
+      "homeLocationId": "9974",
+      "percentile": 49.92313783947454,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m43673",
+      "name": "Benoît Rotty",
+      "rating": 1502.1,
+      "rd": 31.04,
+      "ratingClass": "B",
+      "homeLocation": "Musée Vivant du Flipper Asso Culture Flip",
+      "homeLocationId": "9974",
+      "percentile": 47.952671542367355,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i142110",
+      "name": "Dominique Brouxel",
+      "rating": 1497.79,
+      "rd": 25.01,
+      "ratingClass": "C",
+      "homeLocation": "Associació A.R.C.A.D.E",
+      "homeLocationId": "10135",
+      "percentile": 46.21977919597522,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m42475",
+      "name": "Frédéric Sanchez",
+      "rating": 1435.54,
+      "rd": 28.17,
+      "ratingClass": "C",
+      "homeLocation": "Musée Vivant du Flipper Asso Culture Flip",
+      "homeLocationId": "9974",
+      "percentile": 22.27605161410537,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m49713",
+      "name": "Dominique Brouxel",
+      "rating": null,
+      "rd": null,
+      "ratingClass": "N/A",
+      "homeLocation": "Musée Vivant du Flipper Asso Culture Flip",
+      "homeLocationId": "9974",
+      "percentile": null,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i119663",
+      "name": "Christophe Fedrizzi",
+      "rating": null,
+      "rd": null,
+      "ratingClass": "N/A",
+      "homeLocation": "Musée Vivant du Flipper Asso Culture Flip",
+      "homeLocationId": "9974",
+      "percentile": null,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

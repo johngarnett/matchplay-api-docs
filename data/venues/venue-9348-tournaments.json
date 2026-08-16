@@ -1,0 +1,44 @@
+{
+  "locationId": "9348",
+  "venueName": "Chartroose Caboose",
+  "venueAddress": "10636 Metcalf Ave, Overland Park, KS, 66212, US",
+  "tournaments": [
+    {
+      "id": 265970,
+      "name": "Finals for Second Saturdays at the Caboose Aug 2026",
+      "date": "8/8/2026",
+      "playerCount": 4,
+      "qualifying": {
+        "id": 265969,
+        "name": "Second Saturdays at the Caboose Aug 2026",
+        "playerCount": 14
+      },
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m35911",
+          "name": "Kelly Coin",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m35319",
+          "name": "Drew Baranowski",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m1542",
+          "name": "Marion Richards",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m41184",
+          "name": "Artie Munoz",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "tournamentId": 263981,
+  "name": "Tiltys IFPA 3 Strike Sunday (07/26/26)",
+  "date": "2026-07-26",
+  "locationId": "9887",
+  "locationName": "Tilty McFlipperz",
+  "playerCount": 13,
+  "ratingsDate": "2026-07-26",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "i155034",
+      "name": "Brian Johnson WV",
+      "rating": 1612.96,
+      "dailyRatingChange": 8.29
+    },
+    {
+      "position": 2,
+      "playerId": "m441850",
+      "name": "Harper Welker",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 3,
+      "playerId": "m47449",
+      "name": "Matt Welker",
+      "rating": 1556.5,
+      "dailyRatingChange": 0.1
+    },
+    {
+      "position": 3,
+      "playerId": "m42806",
+      "name": "Melissa Hienkle",
+      "rating": 1463.83,
+      "dailyRatingChange": 1.32
+    },
+    {
+      "position": 5,
+      "playerId": "m344220",
+      "name": "Matt Decato",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 5,
+      "playerId": "m47745",
+      "name": "Sterling Sinclair",
+      "rating": 1653.72,
+      "dailyRatingChange": -2.85
+    },
+    {
+      "position": 5,
+      "playerId": "m460487",
+      "name": "Mick Paine",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 8,
+      "playerId": "i127887",
+      "name": "Tyler Luksis",
+      "rating": 1417.02,
+      "dailyRatingChange": 2.36
+    },
+    {
+      "position": 8,
+      "playerId": "m29440",
+      "name": "Alex Brackett",
+      "rating": 1626.3,
+      "dailyRatingChange": -3.12
+    },
+    {
+      "position": 8,
+      "playerId": "m25464",
+      "name": "Cindy Brackett",
+      "rating": 1584.62,
+      "dailyRatingChange": -2.93
+    },
+    {
+      "position": 11,
+      "playerId": "m571892",
+      "name": "Mike Dandenault",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 11,
+      "playerId": "m47867",
+      "name": "Elaina Welker",
+      "rating": 1433.72,
+      "dailyRatingChange": -2.22
+    },
+    {
+      "position": 13,
+      "playerId": "m560319",
+      "name": "Zach Heagele",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

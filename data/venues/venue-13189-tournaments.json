@@ -1,0 +1,34 @@
+{
+  "locationId": "13189",
+  "venueName": "Another Castle: Arcade Edition",
+  "venueAddress": "23303 Washington 99, Suite C, Edmonds, WA 98026, US",
+  "tournaments": [
+    {
+      "id": 267116,
+      "name": "Tour-De-Flip: Another Castle (Edmonds) wk 2 final week",
+      "date": "8/14/2026",
+      "playerCount": 3,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m3563",
+          "name": "Robbie Finnigan",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m55357",
+          "name": "Chris Chrenka",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m40382",
+          "name": "Bryan Hernandez",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

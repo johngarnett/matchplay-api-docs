@@ -1,0 +1,81 @@
+{
+  "tournamentId": 265400,
+  "name": "Monday High Rollers™️ 8",
+  "date": "2026-08-04",
+  "locationId": "10988",
+  "locationName": "Shorty's",
+  "playerCount": 10,
+  "ratingsDate": "2026-08-04",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m1506",
+      "name": "Neil Kubath",
+      "rating": 1636.31,
+      "dailyRatingChange": 12.2
+    },
+    {
+      "position": 2,
+      "playerId": "m12045",
+      "name": "Matt Slater",
+      "rating": 1544.57,
+      "dailyRatingChange": 3.64
+    },
+    {
+      "position": 3,
+      "playerId": "m31718",
+      "name": "Madison Masterson",
+      "rating": 1620.55,
+      "dailyRatingChange": -0.5
+    },
+    {
+      "position": 3,
+      "playerId": "m17433",
+      "name": "Graham Klym",
+      "rating": 1564.77,
+      "dailyRatingChange": -2.16
+    },
+    {
+      "position": 5,
+      "playerId": "m43718",
+      "name": "Mike Murphy WA",
+      "rating": 1518.58,
+      "dailyRatingChange": -2.42
+    },
+    {
+      "position": 6,
+      "playerId": "m20230",
+      "name": "Ryan Tamm",
+      "rating": 1529.33,
+      "dailyRatingChange": 3.49
+    },
+    {
+      "position": 6,
+      "playerId": "m7059",
+      "name": "Dwayne Collins",
+      "rating": 1514.73,
+      "dailyRatingChange": -1.57
+    },
+    {
+      "position": 6,
+      "playerId": "m53632",
+      "name": "Jamie O’Hara",
+      "rating": 1553.44,
+      "dailyRatingChange": -1.81
+    },
+    {
+      "position": 9,
+      "playerId": "m18704",
+      "name": "Steve Geluso",
+      "rating": 1474.82,
+      "dailyRatingChange": -5.57
+    },
+    {
+      "position": 10,
+      "playerId": "m190294",
+      "name": "James Brown IV",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

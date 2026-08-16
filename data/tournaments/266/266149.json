@@ -1,0 +1,67 @@
+{
+  "tournamentId": 266149,
+  "name": "SemiFinals for Mountain Mode Multiball",
+  "date": "2026-08-08",
+  "locationId": "13854",
+  "locationName": "Skogen Residence",
+  "playerCount": 8,
+  "ratingsDate": "2026-08-08",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m31596",
+      "name": "Dee Ray",
+      "rating": 1548.32,
+      "dailyRatingChange": 14.4
+    },
+    {
+      "position": 1,
+      "playerId": "m41324",
+      "name": "Becca Addie",
+      "rating": 1601.33,
+      "dailyRatingChange": 6.47
+    },
+    {
+      "position": 1,
+      "playerId": "m9097",
+      "name": "Fiona Chiong",
+      "rating": 1616.98,
+      "dailyRatingChange": -12.02
+    },
+    {
+      "position": 4,
+      "playerId": "m10964",
+      "name": "Meghan Shattuck",
+      "rating": 1582.87,
+      "dailyRatingChange": 17.56
+    },
+    {
+      "position": 5,
+      "playerId": "m38175",
+      "name": "Jessica Murillo",
+      "rating": 1507.79,
+      "dailyRatingChange": 3.99
+    },
+    {
+      "position": 6,
+      "playerId": "m61183",
+      "name": "Kelsey Gutierrez",
+      "rating": 1527.14,
+      "dailyRatingChange": 7.66
+    },
+    {
+      "position": 7,
+      "playerId": "i93302",
+      "name": "Lauren Skogen",
+      "rating": 1581.87,
+      "dailyRatingChange": 7.08
+    },
+    {
+      "position": 8,
+      "playerId": "m378869",
+      "name": "Shinji Olguin",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "tournamentId": 264256,
+  "name": "GLAM! Glamorous Ladies of Alaska MatchPlay 080226",
+  "date": "2026-08-02",
+  "locationId": "12333",
+  "locationName": "Chilkoot Charlie's (Koot's)",
+  "playerCount": 8,
+  "ratingsDate": "2026-08-02",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m44191",
+      "name": "Sarah Swanland",
+      "rating": 1484.69,
+      "dailyRatingChange": 20.69
+    },
+    {
+      "position": 1,
+      "playerId": "i114171",
+      "name": "Rosette Cranwell",
+      "rating": 1409.25,
+      "dailyRatingChange": 25.02
+    },
+    {
+      "position": 3,
+      "playerId": "m47726",
+      "name": "Erin Reinders",
+      "rating": 1473.31,
+      "dailyRatingChange": 7.93
+    },
+    {
+      "position": 4,
+      "playerId": "m518670",
+      "name": "Cypress Two Elk",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 5,
+      "playerId": "m518664",
+      "name": "Lizy Reinders",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 6,
+      "playerId": "m584138",
+      "name": "Amy Allin",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 7,
+      "playerId": "m518669",
+      "name": "Amanda Cash",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 8,
+      "playerId": "m62589",
+      "name": "Lilly Swanland",
+      "rating": 1368.37,
+      "dailyRatingChange": -21.08
+    }
+  ]
+}

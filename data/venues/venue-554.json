@@ -1,0 +1,46 @@
+{
+  "locationId": "554",
+  "name": "Vegas-Store",
+  "address": "",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 3,
+  "relatedVenues": [],
+  "players": [
+    {
+      "id": "i22392",
+      "name": "Detlef Rahlf",
+      "rating": 1651.85,
+      "rd": 48.87,
+      "ratingClass": "A",
+      "homeLocation": "Vegas-Store",
+      "homeLocationId": "554",
+      "percentile": 91.97372711603857,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m1756",
+      "name": "Stefan Hoppe",
+      "rating": 1597.01,
+      "rd": 40.28,
+      "ratingClass": "B",
+      "homeLocation": "Vegas-Store",
+      "homeLocationId": "554",
+      "percentile": 81.2642660828248,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m7013",
+      "name": "Jan-Christian Kiwus",
+      "rating": 1559.41,
+      "rd": 37.75,
+      "ratingClass": "B",
+      "homeLocation": "Vegas-Store",
+      "homeLocationId": "554",
+      "percentile": 70.15419015232682,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "locationId": "12766",
+  "venueName": "Moonshot Brewing",
+  "venueAddress": "8804 W Victoria Ave, Kennewick, WA 99336, US",
+  "tournaments": [
+    {
+      "id": 264326,
+      "name": "Moonshot July Pinball Wizards",
+      "date": "7/30/2026",
+      "playerCount": 8,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "p528141",
+          "name": "Will Bryan",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "p500107",
+          "name": "Isaac Evans",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "p532858",
+          "name": "Chris Frey",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "p522715",
+          "name": "Dan Thiel",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "p522713",
+          "name": "Carl Sjostrand",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

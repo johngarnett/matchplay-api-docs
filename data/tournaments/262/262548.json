@@ -1,0 +1,109 @@
+{
+  "tournamentId": 262548,
+  "name": "Netherworld Belles & Chimes FF July",
+  "date": "2026-07-18",
+  "locationId": "9571",
+  "locationName": "Netherworld",
+  "playerCount": 14,
+  "ratingsDate": "2026-07-18",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m54039",
+      "name": "Lucie Dunovska",
+      "rating": 1512.59,
+      "dailyRatingChange": 8.53
+    },
+    {
+      "position": 2,
+      "playerId": "m18235",
+      "name": "Kim Piercy",
+      "rating": 1565.76,
+      "dailyRatingChange": 7.35
+    },
+    {
+      "position": 3,
+      "playerId": "m16004",
+      "name": "Renae Bates",
+      "rating": 1575.7,
+      "dailyRatingChange": 4.97
+    },
+    {
+      "position": 4,
+      "playerId": "m11730",
+      "name": "Emily Cosson",
+      "rating": 1650.85,
+      "dailyRatingChange": 0.68
+    },
+    {
+      "position": 5,
+      "playerId": "m20870",
+      "name": "Sam Stonnell",
+      "rating": 1577.2,
+      "dailyRatingChange": 1.42
+    },
+    {
+      "position": 6,
+      "playerId": "m58140",
+      "name": "Dannielle Tarlinton",
+      "rating": 1471.45,
+      "dailyRatingChange": 8.59
+    },
+    {
+      "position": 6,
+      "playerId": "m50411",
+      "name": "Nicole Romano",
+      "rating": 1467.68,
+      "dailyRatingChange": 10.62
+    },
+    {
+      "position": 8,
+      "playerId": "m30901",
+      "name": "Gabriella Panucci",
+      "rating": 1491.41,
+      "dailyRatingChange": -1.61
+    },
+    {
+      "position": 9,
+      "playerId": "m57965",
+      "name": "Ash Gurtner",
+      "rating": 1431.76,
+      "dailyRatingChange": 2.23
+    },
+    {
+      "position": 10,
+      "playerId": "m44341",
+      "name": "Sharlene Green",
+      "rating": 1429.05,
+      "dailyRatingChange": -3.95
+    },
+    {
+      "position": 11,
+      "playerId": "m534431",
+      "name": "Sophie Turnbull",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 12,
+      "playerId": "m579158",
+      "name": "Sophie Tait",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 12,
+      "playerId": "m58141",
+      "name": "Chris Coleman AUS",
+      "rating": 1431.89,
+      "dailyRatingChange": -18.76
+    },
+    {
+      "position": 14,
+      "playerId": "m39317",
+      "name": "Caitlyn Apthorpe",
+      "rating": 1470.54,
+      "dailyRatingChange": -7.78
+    }
+  ]
+}

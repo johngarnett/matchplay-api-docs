@@ -1,0 +1,239 @@
+{
+  "locationId": "6901",
+  "name": "Ruckus Room",
+  "address": "1423 Railroad Ave, Bellingham, WA 98225, USA",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 14,
+  "relatedVenues": [
+    {
+      "locationId": "11252",
+      "name": "Aim & Game",
+      "address": "5610 Barrett Rd, Ferndale, WA 98248, US",
+      "count": 22
+    },
+    {
+      "locationId": "5257",
+      "name": "20th Century Bowl",
+      "address": "1411 N State St, Bellingham, WA 98225, USA",
+      "count": 10
+    },
+    {
+      "locationId": "10113",
+      "name": "Chieftain Pool & Pinball",
+      "address": "38005 Cleveland Ave Squamish BC V8B 0c3",
+      "count": 9
+    },
+    {
+      "locationId": "6645",
+      "name": "1up Lounge",
+      "address": "1121 McKenzie Ave, Bellingham, WA 98225, USA",
+      "count": 5
+    },
+    {
+      "locationId": "8474",
+      "name": "The Triple Knock",
+      "address": "2713 6th Avenue, Tacoma, WA 98406, US",
+      "count": 5
+    },
+    {
+      "locationId": "12634",
+      "name": "The Outpost",
+      "address": "1773 Kingsway, Vancouver, BC V5N 2S5, US",
+      "count": 5
+    },
+    {
+      "locationId": "6346",
+      "name": "NWPAS",
+      "address": "",
+      "count": 3
+    },
+    {
+      "locationId": "13523",
+      "name": "Greater Tacoma Convention Center",
+      "address": "1500 Commerce St.  Tacoma, WA 98402",
+      "count": 3
+    },
+    {
+      "locationId": "1893",
+      "name": "The Ice Box",
+      "address": "615 NW Bright St, Seattle, WA 98107, USA",
+      "count": 2
+    },
+    {
+      "locationId": "6312",
+      "name": "Crave 80s Arcade Bar",
+      "address": "",
+      "count": 2
+    }
+  ],
+  "players": [
+    {
+      "id": "m44612",
+      "name": "Robert Gagno",
+      "rating": 1798.07,
+      "rd": 23.11,
+      "ratingClass": "Expert",
+      "homeLocation": "Chieftain Pool & Pinball",
+      "homeLocationId": "10113",
+      "percentile": 99.49690222201518,
+      "changeDisplay": "+12.3",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "i93868",
+      "name": "Brendan Lumsdaine",
+      "rating": 1745.52,
+      "rd": 46.03,
+      "ratingClass": "Expert",
+      "homeLocation": "20th Century Bowl",
+      "homeLocationId": "5257",
+      "percentile": 98.59784785950528,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m4296",
+      "name": "Dion Bellay",
+      "rating": 1655.22,
+      "rd": 20.46,
+      "ratingClass": "A",
+      "homeLocation": "Chieftain Pool & Pinball",
+      "homeLocationId": "10113",
+      "percentile": 92.43490007919132,
+      "changeDisplay": "+3.2",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m17565",
+      "name": "Mike Wolff",
+      "rating": 1601.03,
+      "rd": 25.47,
+      "ratingClass": "A",
+      "homeLocation": "Ruckus Room",
+      "homeLocationId": "6901",
+      "percentile": 82.27046163879443,
+      "changeDisplay": "-18.6",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m18128",
+      "name": "Jeff diebert",
+      "rating": 1595.26,
+      "rd": 24.79,
+      "ratingClass": "B",
+      "homeLocation": "Aim & Game",
+      "homeLocationId": "11252",
+      "percentile": 80.84035962174501,
+      "changeDisplay": "-19.1",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m17602",
+      "name": "Chris Barnes",
+      "rating": 1582.93,
+      "rd": 29.02,
+      "ratingClass": "B",
+      "homeLocation": "Ruckus Room",
+      "homeLocationId": "6901",
+      "percentile": 77.42581636931104,
+      "changeDisplay": "+5.0",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m44510",
+      "name": "Jeremy Ritter",
+      "rating": 1556.1,
+      "rd": 31.36,
+      "ratingClass": "B",
+      "homeLocation": "Aim & Game",
+      "homeLocationId": "11252",
+      "percentile": 69.05948665393394,
+      "changeDisplay": "+20.0",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "i44758",
+      "name": "Whit Warden",
+      "rating": 1553.05,
+      "rd": 37.08,
+      "ratingClass": "B",
+      "homeLocation": "20th Century Bowl",
+      "homeLocationId": "5257",
+      "percentile": 67.92751665346812,
+      "changeDisplay": "-0.9",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m24928",
+      "name": "Laser halprin",
+      "rating": 1535.34,
+      "rd": 38.4,
+      "ratingClass": "B",
+      "homeLocation": "20th Century Bowl",
+      "homeLocationId": "5257",
+      "percentile": 61.11706339963665,
+      "changeDisplay": "-23.0",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m3572",
+      "name": "Pat Patton",
+      "rating": 1500.66,
+      "rd": 39.24,
+      "ratingClass": "B",
+      "homeLocation": "20th Century Bowl",
+      "homeLocationId": "5257",
+      "percentile": 47.39367401127312,
+      "changeDisplay": "+18.6",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m25868",
+      "name": "Dan diamond",
+      "rating": 1485.33,
+      "rd": 37.69,
+      "ratingClass": "C",
+      "homeLocation": "Ruckus Room",
+      "homeLocationId": "6901",
+      "percentile": 41.0443937205944,
+      "changeDisplay": "-33.0",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m25443",
+      "name": "Tim Miller",
+      "rating": 1466.93,
+      "rd": 34.64,
+      "ratingClass": "C",
+      "homeLocation": "Aim & Game",
+      "homeLocationId": "11252",
+      "percentile": 33.60972655704104,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m45067",
+      "name": "Ryan Russell",
+      "rating": 1454.95,
+      "rd": 31.7,
+      "ratingClass": "C",
+      "homeLocation": "Kiitos Brewing",
+      "homeLocationId": "5866",
+      "percentile": 29.081846555177716,
+      "changeDisplay": "-5.8",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m45827",
+      "name": "Jay gaunt",
+      "rating": 1430.97,
+      "rd": 27.39,
+      "ratingClass": "C",
+      "homeLocation": "Aim & Game",
+      "homeLocationId": "11252",
+      "percentile": 20.892532724647133,
+      "changeDisplay": "-6.7",
+      "changeClass": "change-negative"
+    }
+  ]
+}

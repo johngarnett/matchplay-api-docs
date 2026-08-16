@@ -1,0 +1,60 @@
+{
+  "tournamentId": 266320,
+  "name": "Finals for Rude Dude August",
+  "date": "2026-08-09",
+  "locationId": null,
+  "locationName": null,
+  "playerCount": 7,
+  "ratingsDate": "2026-08-09",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m20221",
+      "name": "Preston Currie",
+      "rating": 1797.94,
+      "dailyRatingChange": -3.62
+    },
+    {
+      "position": 2,
+      "playerId": "m21145",
+      "name": "Ryan Nole",
+      "rating": 1582.11,
+      "dailyRatingChange": 5.27
+    },
+    {
+      "position": 3,
+      "playerId": "m26618",
+      "name": "Sarah Crismore",
+      "rating": 1549.69,
+      "dailyRatingChange": 15.59
+    },
+    {
+      "position": 4,
+      "playerId": "m36418",
+      "name": "Carey Huffman",
+      "rating": 1533.27,
+      "dailyRatingChange": 4.14
+    },
+    {
+      "position": 5,
+      "playerId": "m41207",
+      "name": "Elijah Farrales",
+      "rating": 1705.76,
+      "dailyRatingChange": -4.95
+    },
+    {
+      "position": 6,
+      "playerId": "m31381",
+      "name": "Tanner Troyer",
+      "rating": 1636.75,
+      "dailyRatingChange": -3.99
+    },
+    {
+      "position": 7,
+      "playerId": "m29413",
+      "name": "Ian Saroyan",
+      "rating": 1563.77,
+      "dailyRatingChange": 7.35
+    }
+  ]
+}

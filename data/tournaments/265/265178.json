@@ -1,0 +1,235 @@
+{
+  "tournamentId": 265178,
+  "name": "1up Colfax- First Sundays Aug Monthly Tournament",
+  "date": "2026-08-03",
+  "locationId": "8212",
+  "locationName": "The 1Up - Colfax",
+  "playerCount": 32,
+  "ratingsDate": "2026-08-03",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m11931",
+      "name": "John Quinn",
+      "rating": 1786.93,
+      "dailyRatingChange": 31.88
+    },
+    {
+      "position": 2,
+      "playerId": "m31836",
+      "name": "Logan Henderson",
+      "rating": 1849.79,
+      "dailyRatingChange": -1.51
+    },
+    {
+      "position": 3,
+      "playerId": "m584172",
+      "name": "Fleeb Thomas",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 4,
+      "playerId": "m1118",
+      "name": "Mat Brundage",
+      "rating": 1748.11,
+      "dailyRatingChange": -6.96
+    },
+    {
+      "position": 5,
+      "playerId": "m25842",
+      "name": "Marshall Weasel",
+      "rating": 1697.49,
+      "dailyRatingChange": 3.85
+    },
+    {
+      "position": 6,
+      "playerId": "m42824",
+      "name": "Ben Zatz",
+      "rating": 1604.27,
+      "dailyRatingChange": 2.98
+    },
+    {
+      "position": 7,
+      "playerId": "m39822",
+      "name": "Andrew Graneto",
+      "rating": 1595.03,
+      "dailyRatingChange": 2.6
+    },
+    {
+      "position": 7,
+      "playerId": "m37151",
+      "name": "Ryan Pinto",
+      "rating": 1382.17,
+      "dailyRatingChange": 57.33
+    },
+    {
+      "position": 9,
+      "playerId": "m12000",
+      "name": "Griffin Carr",
+      "rating": 1640.7,
+      "dailyRatingChange": -2.28
+    },
+    {
+      "position": 9,
+      "playerId": "m53912",
+      "name": "Evan Robertson",
+      "rating": 1578.07,
+      "dailyRatingChange": 9.01
+    },
+    {
+      "position": 9,
+      "playerId": "m45486",
+      "name": "Eric Beck",
+      "rating": 1469.92,
+      "dailyRatingChange": 7.91
+    },
+    {
+      "position": 12,
+      "playerId": "m14393",
+      "name": "Matt Cerny",
+      "rating": 1561.22,
+      "dailyRatingChange": 1.98
+    },
+    {
+      "position": 12,
+      "playerId": "m28084",
+      "name": "Bethany Moore",
+      "rating": 1491.79,
+      "dailyRatingChange": 6.66
+    },
+    {
+      "position": 12,
+      "playerId": "m11992",
+      "name": "Justin Hinman",
+      "rating": 1708.79,
+      "dailyRatingChange": -2.2
+    },
+    {
+      "position": 12,
+      "playerId": "m18564",
+      "name": "Brian Wonderly",
+      "rating": 1601.23,
+      "dailyRatingChange": -2.17
+    },
+    {
+      "position": 16,
+      "playerId": "m5288",
+      "name": "Justin Searles",
+      "rating": 1535.95,
+      "dailyRatingChange": -2.74
+    },
+    {
+      "position": 16,
+      "playerId": "m62335",
+      "name": "Evan Reed",
+      "rating": 1508.19,
+      "dailyRatingChange": null
+    },
+    {
+      "position": 18,
+      "playerId": "m40197",
+      "name": "Eli Lopez",
+      "rating": 1616.4,
+      "dailyRatingChange": -11.72
+    },
+    {
+      "position": 18,
+      "playerId": "m27502",
+      "name": "Tim Bruner",
+      "rating": 1607.78,
+      "dailyRatingChange": -4.54
+    },
+    {
+      "position": 20,
+      "playerId": "m54966",
+      "name": "Joey Sawicki",
+      "rating": 1534.77,
+      "dailyRatingChange": -3.01
+    },
+    {
+      "position": 20,
+      "playerId": "m22898",
+      "name": "Niki Summers",
+      "rating": 1500.11,
+      "dailyRatingChange": 0.86
+    },
+    {
+      "position": 20,
+      "playerId": "m44881",
+      "name": "Julie Juarez",
+      "rating": 1550.57,
+      "dailyRatingChange": -3.83
+    },
+    {
+      "position": 20,
+      "playerId": "m29355",
+      "name": "Leigh Kiser",
+      "rating": 1570.94,
+      "dailyRatingChange": -3.93
+    },
+    {
+      "position": 20,
+      "playerId": "m39648",
+      "name": "James Granger",
+      "rating": 1472.01,
+      "dailyRatingChange": 0.51
+    },
+    {
+      "position": 25,
+      "playerId": "m11952",
+      "name": "Kyle Delaney",
+      "rating": 1519.89,
+      "dailyRatingChange": -9.37
+    },
+    {
+      "position": 25,
+      "playerId": "m26504",
+      "name": "Diana Miranda",
+      "rating": 1439.96,
+      "dailyRatingChange": -1.98
+    },
+    {
+      "position": 27,
+      "playerId": "m62593",
+      "name": "Michael Rose",
+      "rating": 1381.81,
+      "dailyRatingChange": null
+    },
+    {
+      "position": 27,
+      "playerId": "m60871",
+      "name": "Jason Fye",
+      "rating": 1464.11,
+      "dailyRatingChange": -6.12
+    },
+    {
+      "position": 29,
+      "playerId": "m22921",
+      "name": "John Marez",
+      "rating": 1572.17,
+      "dailyRatingChange": -9.65
+    },
+    {
+      "position": 29,
+      "playerId": "m62595",
+      "name": "Thomas Brumskill",
+      "rating": 1397.52,
+      "dailyRatingChange": -13.08
+    },
+    {
+      "position": 31,
+      "playerId": "m60881",
+      "name": "Mary Brungardt",
+      "rating": 1366.63,
+      "dailyRatingChange": -19.21
+    },
+    {
+      "position": 31,
+      "playerId": "m60352",
+      "name": "Kenzie Corkill",
+      "rating": 1371.67,
+      "dailyRatingChange": -9.36
+    }
+  ]
+}

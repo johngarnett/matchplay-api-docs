@@ -1,0 +1,40 @@
+{
+  "locationId": "11041",
+  "venueName": "The Pinball Room",
+  "venueAddress": "2111 S Minnesota Ave Suite B, Sioux Falls, SD 57105",
+  "tournaments": [
+    {
+      "id": 264974,
+      "name": "The Pinball Room - August Monthly",
+      "date": "8/1/2026",
+      "playerCount": 8,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "i15385",
+          "name": "Nick Person",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "i88616",
+          "name": "Ryan Haugan",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "i133499",
+          "name": "Brendan Dix",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m16631",
+          "name": "Ryan Nelson",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

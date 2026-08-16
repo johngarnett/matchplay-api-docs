@@ -1,0 +1,74 @@
+{
+  "tournamentId": 263212,
+  "name": "D82 Flippin' Friday Finals July 31st",
+  "date": "2026-08-01",
+  "locationId": "8542",
+  "locationName": "District 82 Pinball (formerly TitleTown Pinball)",
+  "playerCount": 9,
+  "ratingsDate": "2026-08-01",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m15446",
+      "name": "Peter Goeben",
+      "rating": 1598.89,
+      "dailyRatingChange": 12.92
+    },
+    {
+      "position": 2,
+      "playerId": "i15723",
+      "name": "Gregory Hein",
+      "rating": 1615.26,
+      "dailyRatingChange": 4.58
+    },
+    {
+      "position": 3,
+      "playerId": "m19343",
+      "name": "Tom Schmidt",
+      "rating": 1667.69,
+      "dailyRatingChange": -0.58
+    },
+    {
+      "position": 3,
+      "playerId": "m2747",
+      "name": "Chuck Blohm",
+      "rating": 1592.56,
+      "dailyRatingChange": 6.23
+    },
+    {
+      "position": 5,
+      "playerId": "m32722",
+      "name": "Eddie Smith",
+      "rating": 1582.8,
+      "dailyRatingChange": 1.3
+    },
+    {
+      "position": 5,
+      "playerId": "m49612",
+      "name": "Ripley Walters-Giblin",
+      "rating": 1589.2,
+      "dailyRatingChange": 3.61
+    },
+    {
+      "position": 7,
+      "playerId": "m44005",
+      "name": "Todd Stock",
+      "rating": 1565.52,
+      "dailyRatingChange": 1.28
+    },
+    {
+      "position": 8,
+      "playerId": "m24874",
+      "name": "Gerald Morrison",
+      "rating": 1595.07,
+      "dailyRatingChange": 4.83
+    },
+    {
+      "position": 9,
+      "playerId": "m26159",
+      "name": "Ryan Cappaert",
+      "rating": 1609.94,
+      "dailyRatingChange": -2.6
+    }
+  ]
+}

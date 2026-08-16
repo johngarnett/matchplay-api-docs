@@ -1,0 +1,81 @@
+{
+  "tournamentId": 264673,
+  "name": "CJ's Women's Pokémon Launch Party",
+  "date": "2026-07-31",
+  "locationId": "13039",
+  "locationName": "Cactus Jack's Family Fun Center",
+  "playerCount": 10,
+  "ratingsDate": "2026-07-31",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m1541",
+      "name": "Melania St. Onge",
+      "rating": 1545.87,
+      "dailyRatingChange": -1.65
+    },
+    {
+      "position": 1,
+      "playerId": "m33398",
+      "name": "Bren Gullic",
+      "rating": 1512.22,
+      "dailyRatingChange": 3.81
+    },
+    {
+      "position": 1,
+      "playerId": "m24139",
+      "name": "Alexandria West",
+      "rating": 1595,
+      "dailyRatingChange": -1.74
+    },
+    {
+      "position": 4,
+      "playerId": "m317",
+      "name": "Carolyn Dawson",
+      "rating": 1501.4,
+      "dailyRatingChange": 12.25
+    },
+    {
+      "position": 5,
+      "playerId": "m7979",
+      "name": "Leslie Peake",
+      "rating": 1464.69,
+      "dailyRatingChange": 1.19
+    },
+    {
+      "position": 6,
+      "playerId": "m4248",
+      "name": "Tracy Simon",
+      "rating": 1442.1,
+      "dailyRatingChange": 3.06
+    },
+    {
+      "position": 7,
+      "playerId": "m50407",
+      "name": "Maggie Smith",
+      "rating": 1452.36,
+      "dailyRatingChange": -5.19
+    },
+    {
+      "position": 7,
+      "playerId": "m51156",
+      "name": "Mahala Smith",
+      "rating": 1388.41,
+      "dailyRatingChange": 0.82
+    },
+    {
+      "position": 9,
+      "playerId": "m34023",
+      "name": "Merry Kent",
+      "rating": 1486.64,
+      "dailyRatingChange": -16.58
+    },
+    {
+      "position": 9,
+      "playerId": "m59186",
+      "name": "Kaelan Jeffrey",
+      "rating": 1321.17,
+      "dailyRatingChange": 8.86
+    }
+  ]
+}

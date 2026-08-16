@@ -1,0 +1,795 @@
+{
+  "communityId": "34",
+  "locations": [
+    {
+      "id": "6337",
+      "name": "Chris Harris @ Silver Lakes",
+      "address": "",
+      "tournaments": [
+        {
+          "id": 266127,
+          "name": "A Finals for MCPL Magic City Pinball August 2026 Tournament",
+          "date": "8/8/2026",
+          "playerCount": 4,
+          "qualifying": {
+            "id": 262404,
+            "name": "MCPL Magic City Pinball August 2026 Tournament",
+            "playerCount": 15
+          },
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m13178",
+              "name": "Chris Harris",
+              "isCommunityMember": false
+            },
+            {
+              "position": 2,
+              "playerId": "m316",
+              "name": "Chris Warren AL",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m16458",
+              "name": "Brad Allen",
+              "isCommunityMember": false
+            },
+            {
+              "position": 4,
+              "playerId": "m26587",
+              "name": "Alan Reagan",
+              "isCommunityMember": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8592",
+      "name": "Cody Craft Brewing",
+      "address": "1732 Sheridan Ave, Cody, WY 82414-3848",
+      "tournaments": [
+        {
+          "id": 261087,
+          "name": "Finals for Wyoming Pinball League - August Tournament",
+          "date": "8/9/2026",
+          "playerCount": 6,
+          "qualifying": {
+            "id": 261086,
+            "name": "Wyoming Pinball League - August Tournament",
+            "playerCount": 13
+          },
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m43438",
+              "name": "Corey Anco",
+              "isCommunityMember": false
+            },
+            {
+              "position": 2,
+              "playerId": "m52022",
+              "name": "Trenton Agee",
+              "isCommunityMember": false
+            },
+            {
+              "position": 3,
+              "playerId": "m51057",
+              "name": "Jonathan Zakel",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m62766",
+              "name": "Nick Simpson",
+              "isCommunityMember": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9460",
+      "name": "Melt Yard",
+      "address": "800 Whitlock Ave NW, Marietta, GA 30064, US",
+      "tournaments": [
+        {
+          "id": 266331,
+          "name": "B & C OTP Weekly! 8/11/26",
+          "date": "8/11/2026",
+          "playerCount": 8,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m47812",
+              "name": "Sarah Warlick",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m12619",
+              "name": "Meredith Pyle",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m32124",
+              "name": "Marisa Amick",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m37504",
+              "name": "Katie Williams",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m29960",
+              "name": "Jessie Ross",
+              "isCommunityMember": true
+            }
+          ]
+        },
+        {
+          "id": 232002,
+          "name": "APL 2026 #4",
+          "date": "8/8/2026",
+          "playerCount": 27,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m8161",
+              "name": "Doug Knoll",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m28515",
+              "name": "Jake Michael",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m2772",
+              "name": "Alex Ward GA",
+              "isCommunityMember": false
+            },
+            {
+              "position": 4,
+              "playerId": "m818",
+              "name": "Charlie Gehlhaus",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m10434",
+              "name": "Harold VanPatten",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m57433",
+              "name": "Elaine Tyner",
+              "isCommunityMember": true
+            }
+          ]
+        },
+        {
+          "id": 262266,
+          "name": "Slap Save Saturday! The Harold Marathon!",
+          "date": "8/8/2026",
+          "playerCount": 34,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m18890",
+              "name": "Turner Loflin",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m10434",
+              "name": "Harold VanPatten",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m24866",
+              "name": "Nick Wigley",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m48384",
+              "name": "Jonathan Ziegler",
+              "isCommunityMember": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "11492",
+      "name": "Pinky & Clyde's Arcade Bar",
+      "address": "1044 East Montague Ave, Unit 101 North Charleston, SC 29405",
+      "tournaments": [
+        {
+          "id": 266467,
+          "name": "Flipper Fight Monday 8/10/26",
+          "date": "8/10/2026",
+          "playerCount": 7,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m48638",
+              "name": "Will LaForge",
+              "isCommunityMember": false
+            },
+            {
+              "position": 2,
+              "playerId": "m49602",
+              "name": "John F. Kreppein",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "p459508",
+              "name": "Nick Colangelo",
+              "isCommunityMember": false
+            },
+            {
+              "position": 4,
+              "playerId": "m60800",
+              "name": "Jason Lopez",
+              "isCommunityMember": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3374",
+      "name": "Portal Pinball Arcade",
+      "address": "3335 Cobb Pkwy Suite 800, Acworth, GA, 30101, US",
+      "tournaments": [
+        {
+          "id": 258374,
+          "name": "Portal Pint Night",
+          "date": "8/14/2026",
+          "playerCount": 27,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m21393",
+              "name": "Charlie Gehring",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m39910",
+              "name": "Joe Stephens",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m36613",
+              "name": "David Boeren",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m51976",
+              "name": "Taylor Arnold",
+              "isCommunityMember": true
+            }
+          ]
+        },
+        {
+          "id": 258322,
+          "name": "Flippin' Ladies",
+          "date": "8/13/2026",
+          "playerCount": 12,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m57433",
+              "name": "Elaine Tyner",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m55312",
+              "name": "Brittany Abdou",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m57432",
+              "name": "Meghan Shah",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m59190",
+              "name": "Jennifer Dixon",
+              "isCommunityMember": true
+            }
+          ]
+        },
+        {
+          "id": 258329,
+          "name": "Wednesday Flipper Workout",
+          "date": "8/12/2026",
+          "playerCount": 24,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m31809",
+              "name": "Bowdre Banks",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m52003",
+              "name": "Wesley Arnold",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m21393",
+              "name": "Charlie Gehring",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m57431",
+              "name": "Gabe P.C.",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m26117",
+              "name": "Zac Nesbitt",
+              "isCommunityMember": true
+            }
+          ]
+        },
+        {
+          "id": 258362,
+          "name": "Solid State Sunday 8/9",
+          "date": "8/9/2026",
+          "playerCount": 27,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m51976",
+              "name": "Taylor Arnold",
+              "isCommunityMember": true
+            },
+            {
+              "position": 1,
+              "playerId": "m31809",
+              "name": "Bowdre Banks",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m40189",
+              "name": "Joe Awad",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m26117",
+              "name": "Zac Nesbitt",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m59190",
+              "name": "Jennifer Dixon",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m49715",
+              "name": "Michael Gaddis",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m55312",
+              "name": "Brittany Abdou",
+              "isCommunityMember": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8766",
+      "name": "Radioactive Pinball Arcade",
+      "address": "113 Laurens St SW, Aiken, SC 29801, US",
+      "tournaments": [
+        {
+          "id": 266165,
+          "name": "Finals for Transformers: More Than Meets the Eye Launch Party at Radioactive Pinball Arcade",
+          "date": "8/8/2026",
+          "playerCount": 16,
+          "qualifying": {
+            "id": 265648,
+            "name": "Transformers: More Than Meets the Eye Launch Party at Radioactive Pinball Arcade",
+            "playerCount": 47
+          },
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m10184",
+              "name": "Travis Kelly",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m22349",
+              "name": "Andrew Foard",
+              "isCommunityMember": false
+            },
+            {
+              "position": 3,
+              "playerId": "m45518",
+              "name": "Andrew Taylor SC",
+              "isCommunityMember": false
+            },
+            {
+              "position": 4,
+              "playerId": "m28153",
+              "name": "Michael Moore",
+              "isCommunityMember": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3687",
+      "name": "Rocket City Matchplay",
+      "address": "100 Cutter Ln, Meridianville, AL 35759, USA",
+      "tournaments": [
+        {
+          "id": 266105,
+          "name": "Finals for RCMP Aug. 8th Battle for the Belt",
+          "date": "8/8/2026",
+          "playerCount": 10,
+          "qualifying": {
+            "id": 266054,
+            "name": "RCMP Aug. 8th Battle for the Belt",
+            "playerCount": 20
+          },
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m19185",
+              "name": "Paul Budko",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m30480",
+              "name": "Josh philpott",
+              "isCommunityMember": false
+            },
+            {
+              "position": 3,
+              "playerId": "m36181",
+              "name": "Matt Zollner",
+              "isCommunityMember": false
+            },
+            {
+              "position": 4,
+              "playerId": "m53272",
+              "name": "Garrett Ulmer",
+              "isCommunityMember": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7837",
+      "name": "Super Abari Game Bar",
+      "address": "1015 Seigle Ave, Charlotte, NC, 2820, US",
+      "tournaments": [
+        {
+          "id": 266597,
+          "name": "Super Abari League S22 #4",
+          "date": "8/11/2026",
+          "playerCount": 57,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m1285",
+              "name": "Kaylee Campbell",
+              "isCommunityMember": false
+            },
+            {
+              "position": 2,
+              "playerId": "m14377",
+              "name": "Jamie Caton",
+              "isCommunityMember": false
+            },
+            {
+              "position": 2,
+              "playerId": "m25976",
+              "name": "Jonathon Repholz",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m21747",
+              "name": "Christina Capra",
+              "isCommunityMember": false
+            },
+            {
+              "position": 2,
+              "playerId": "m43260",
+              "name": "Ryan Walsh",
+              "isCommunityMember": false
+            }
+          ]
+        },
+        {
+          "id": 260405,
+          "name": "Abari Sunday Pinball Tournament / Transformers Launch Party",
+          "date": "8/9/2026",
+          "playerCount": 24,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m43260",
+              "name": "Ryan Walsh",
+              "isCommunityMember": false
+            },
+            {
+              "position": 2,
+              "playerId": "m14377",
+              "name": "Jamie Caton",
+              "isCommunityMember": false
+            },
+            {
+              "position": 3,
+              "playerId": "m41916",
+              "name": "Raegan Harrahy",
+              "isCommunityMember": false
+            },
+            {
+              "position": 3,
+              "playerId": "m40752",
+              "name": "Guy Pecarro",
+              "isCommunityMember": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "10353",
+      "name": "The Pinball Palace",
+      "address": "3303 Hopkins Avenue, Brunswick, GA 31520, US",
+      "tournaments": [
+        {
+          "id": 267150,
+          "name": "Finals for Finals for Pinball Palace Fridays 8/14/26",
+          "date": "8/14/2026",
+          "playerCount": 4,
+          "qualifying": {
+            "id": 267135,
+            "name": "Finals for Pinball Palace Fridays 8/14/26",
+            "playerCount": 8
+          },
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "i146150",
+              "name": "Michael Brown GA",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m61677",
+              "name": "Michael Traynor",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m26022",
+              "name": "Nick Daniel",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m35986",
+              "name": "Ian Crusan",
+              "isCommunityMember": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "11488",
+      "name": "The Pinball Studio",
+      "address": "63 Smith Rd Richmond Hill, GA 31324",
+      "tournaments": [
+        {
+          "id": 266176,
+          "name": "Finals for The Pinball Studio 8-8-26",
+          "date": "8/8/2026",
+          "playerCount": 8,
+          "qualifying": {
+            "id": 265956,
+            "name": "The Pinball Studio 8-8-26",
+            "playerCount": 16
+          },
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m40049",
+              "name": "Rich Mazzolini",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m26022",
+              "name": "Nick Daniel",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m42931",
+              "name": "Miles Drew",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m51787",
+              "name": "Robert Terry",
+              "isCommunityMember": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "13560",
+      "name": "The Pool Turtle",
+      "address": "3409 Covington Hwy, Decatur, GA 30032, US",
+      "tournaments": [
+        {
+          "id": 255964,
+          "name": "Atlanta Belles and Chimes MPB August 12th",
+          "date": "8/12/2026",
+          "playerCount": 6,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m47812",
+              "name": "Sarah Warlick",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m20246",
+              "name": "Ally Fuller",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m6126",
+              "name": "Karrie Weddle",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m3301",
+              "name": "Tina Park",
+              "isCommunityMember": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "unknown",
+      "name": "Unknown Location",
+      "address": "",
+      "tournaments": [
+        {
+          "id": 266587,
+          "name": "System Reboot",
+          "date": "8/11/2026",
+          "playerCount": 7,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m51057",
+              "name": "Jonathan Zakel",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m56401",
+              "name": "Jack Stevens",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m56345",
+              "name": "Ethan Fleck",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "p540764",
+              "name": "Charlotte Miller",
+              "isCommunityMember": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "13258",
+      "name": "Wes H. House",
+      "address": "Private email for details",
+      "tournaments": [
+        {
+          "id": 236486,
+          "name": "Mavens of Multiball League #6",
+          "date": "8/13/2026",
+          "playerCount": 9,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m47812",
+              "name": "Sarah Warlick",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m15389",
+              "name": "Cat McFarland",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m18664",
+              "name": "Brenna Valentine",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m22967",
+              "name": "Ally Fuller",
+              "isCommunityMember": true
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

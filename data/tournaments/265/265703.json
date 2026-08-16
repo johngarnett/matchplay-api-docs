@@ -1,0 +1,165 @@
+{
+  "tournamentId": 265703,
+  "name": "Replay Wednesdays at the American: August 5th, 2026",
+  "date": "2026-08-06",
+  "locationId": "8645",
+  "locationName": "The American",
+  "playerCount": 22,
+  "ratingsDate": "2026-08-06",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m39247",
+      "name": "Steve Main",
+      "rating": 1620.84,
+      "dailyRatingChange": 13.77
+    },
+    {
+      "position": 2,
+      "playerId": "m13748",
+      "name": "Adam Thompson CAN",
+      "rating": 1678.25,
+      "dailyRatingChange": 11.75
+    },
+    {
+      "position": 3,
+      "playerId": "m28090",
+      "name": "Frank E",
+      "rating": 1651.12,
+      "dailyRatingChange": 0.62
+    },
+    {
+      "position": 3,
+      "playerId": "m27946",
+      "name": "Jeremy Matthews",
+      "rating": 1679.5,
+      "dailyRatingChange": -0.09
+    },
+    {
+      "position": 5,
+      "playerId": "m1414",
+      "name": "Brendon Lodge",
+      "rating": 1613.91,
+      "dailyRatingChange": -1.99
+    },
+    {
+      "position": 5,
+      "playerId": "m13315",
+      "name": "Rhys Coulter",
+      "rating": 1617.6,
+      "dailyRatingChange": -1.97
+    },
+    {
+      "position": 5,
+      "playerId": "m6309",
+      "name": "Garrett Wolf",
+      "rating": 1593.88,
+      "dailyRatingChange": 1.38
+    },
+    {
+      "position": 5,
+      "playerId": "m58888",
+      "name": "Mike Polidoro",
+      "rating": 1401.33,
+      "dailyRatingChange": 6.3
+    },
+    {
+      "position": 9,
+      "playerId": "m33611",
+      "name": "Jam",
+      "rating": 1508.62,
+      "dailyRatingChange": 2.2
+    },
+    {
+      "position": 9,
+      "playerId": "m10338",
+      "name": "Kirk Jong",
+      "rating": 1459.25,
+      "dailyRatingChange": 0.78
+    },
+    {
+      "position": 9,
+      "playerId": "m51303",
+      "name": "Dan Haselhan",
+      "rating": 1452.84,
+      "dailyRatingChange": 0.65
+    },
+    {
+      "position": 9,
+      "playerId": "m58071",
+      "name": "Jordan Burke",
+      "rating": 1481.52,
+      "dailyRatingChange": 2.92
+    },
+    {
+      "position": 13,
+      "playerId": "m19089",
+      "name": "Jeff Lydell",
+      "rating": 1359.73,
+      "dailyRatingChange": -2.93
+    },
+    {
+      "position": 13,
+      "playerId": "m27032",
+      "name": "Eddie DeWolfe",
+      "rating": 1538.49,
+      "dailyRatingChange": -1.72
+    },
+    {
+      "position": 13,
+      "playerId": "m8570",
+      "name": "Pascal Turmel",
+      "rating": 1503.61,
+      "dailyRatingChange": -1.5
+    },
+    {
+      "position": 13,
+      "playerId": "m13889",
+      "name": "Willis Lombard",
+      "rating": 1557.86,
+      "dailyRatingChange": -5.24
+    },
+    {
+      "position": 13,
+      "playerId": "m50001",
+      "name": "Raymond Nemetz",
+      "rating": 1583.95,
+      "dailyRatingChange": -4.76
+    },
+    {
+      "position": 13,
+      "playerId": "m584887",
+      "name": "Willem Toorenburgh",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 19,
+      "playerId": "m16255",
+      "name": "Sean Rude",
+      "rating": 1419.94,
+      "dailyRatingChange": -27.7
+    },
+    {
+      "position": 19,
+      "playerId": "m33625",
+      "name": "David Chan",
+      "rating": 1332.95,
+      "dailyRatingChange": -5.71
+    },
+    {
+      "position": 19,
+      "playerId": "m36839",
+      "name": "Graeme Ferguson",
+      "rating": 1525.92,
+      "dailyRatingChange": -5.02
+    },
+    {
+      "position": 19,
+      "playerId": "i23932",
+      "name": "Graham Nicholson",
+      "rating": 1361.82,
+      "dailyRatingChange": -24.48
+    }
+  ]
+}

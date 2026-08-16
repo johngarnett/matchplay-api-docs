@@ -1,0 +1,81 @@
+{
+  "tournamentId": 266491,
+  "name": "Monday Monday Monday!",
+  "date": "2026-08-11",
+  "locationId": "9576",
+  "locationName": "The Kraken Bar & Lounge",
+  "playerCount": 10,
+  "ratingsDate": "2026-08-11",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m43302",
+      "name": "Sterling Butterfield",
+      "rating": 1584.38,
+      "dailyRatingChange": 4.84
+    },
+    {
+      "position": 2,
+      "playerId": "m30247",
+      "name": "Tino Stivaros",
+      "rating": 1516.9,
+      "dailyRatingChange": 5.1
+    },
+    {
+      "position": 3,
+      "playerId": "m23211",
+      "name": "Misha Alexeeff",
+      "rating": 1571.89,
+      "dailyRatingChange": 0.42
+    },
+    {
+      "position": 4,
+      "playerId": "m17637",
+      "name": "Elliott Johnson",
+      "rating": 1568.29,
+      "dailyRatingChange": -1.61
+    },
+    {
+      "position": 4,
+      "playerId": "m20236",
+      "name": "Zachary Peeples",
+      "rating": 1560.91,
+      "dailyRatingChange": -2.72
+    },
+    {
+      "position": 4,
+      "playerId": "m56155",
+      "name": "Sammi Snyder",
+      "rating": 1488.4,
+      "dailyRatingChange": -0.84
+    },
+    {
+      "position": 7,
+      "playerId": "m30880",
+      "name": "Andy Bernard",
+      "rating": 1519.12,
+      "dailyRatingChange": -1.86
+    },
+    {
+      "position": 7,
+      "playerId": "m30905",
+      "name": "Kali Banks",
+      "rating": 1478.64,
+      "dailyRatingChange": -0.04
+    },
+    {
+      "position": 9,
+      "playerId": "m5387",
+      "name": "Paul White",
+      "rating": 1453.85,
+      "dailyRatingChange": -1.48
+    },
+    {
+      "position": 10,
+      "playerId": "m55225",
+      "name": "Vincent iannucci",
+      "rating": 1441.07,
+      "dailyRatingChange": -2.8
+    }
+  ]
+}

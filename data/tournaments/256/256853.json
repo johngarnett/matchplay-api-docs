@@ -1,0 +1,179 @@
+{
+  "tournamentId": 256853,
+  "name": "NPC Season 3 at Capital Pinball #2",
+  "date": "2026-07-25",
+  "locationId": "10377",
+  "locationName": "Capital Pinball",
+  "playerCount": 24,
+  "ratingsDate": "2026-07-25",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m38424",
+      "name": "Nikolas Apel",
+      "rating": 1630.43,
+      "dailyRatingChange": 8.24
+    },
+    {
+      "position": 2,
+      "playerId": "m49241",
+      "name": "Andy Hoffman",
+      "rating": 1697.13,
+      "dailyRatingChange": 10.78
+    },
+    {
+      "position": 2,
+      "playerId": "m48517",
+      "name": "T Parssinen",
+      "rating": 1523.94,
+      "dailyRatingChange": 14.58
+    },
+    {
+      "position": 4,
+      "playerId": "m39809",
+      "name": "Jeremy Corson",
+      "rating": 1550.31,
+      "dailyRatingChange": 13.69
+    },
+    {
+      "position": 4,
+      "playerId": "m40692",
+      "name": "Courtney Bazarian",
+      "rating": 1547.46,
+      "dailyRatingChange": 9.75
+    },
+    {
+      "position": 6,
+      "playerId": "m45707",
+      "name": "Eric O'Keefe",
+      "rating": 1525.45,
+      "dailyRatingChange": 11.36
+    },
+    {
+      "position": 6,
+      "playerId": "m34048",
+      "name": "Joshua Moran",
+      "rating": 1717.18,
+      "dailyRatingChange": -0.24
+    },
+    {
+      "position": 6,
+      "playerId": "m52532",
+      "name": "Arlo Mcginty",
+      "rating": 1642.4,
+      "dailyRatingChange": 16.27
+    },
+    {
+      "position": 9,
+      "playerId": "m57479",
+      "name": "Bruce Casassa",
+      "rating": 1578.14,
+      "dailyRatingChange": 5
+    },
+    {
+      "position": 10,
+      "playerId": "m28366",
+      "name": "Curtis Rossi",
+      "rating": 1532.07,
+      "dailyRatingChange": -7.88
+    },
+    {
+      "position": 11,
+      "playerId": "m52484",
+      "name": "Brian McGinty",
+      "rating": 1531.14,
+      "dailyRatingChange": -0.42
+    },
+    {
+      "position": 11,
+      "playerId": "m50632",
+      "name": "Ian House",
+      "rating": 1447.55,
+      "dailyRatingChange": 7.11
+    },
+    {
+      "position": 13,
+      "playerId": "m52363",
+      "name": "William Prescott",
+      "rating": 1467.03,
+      "dailyRatingChange": 2.55
+    },
+    {
+      "position": 13,
+      "playerId": "m436",
+      "name": "Steven Amlaw",
+      "rating": 1495.22,
+      "dailyRatingChange": -1.16
+    },
+    {
+      "position": 13,
+      "playerId": "m60984",
+      "name": "Jennifer Dudko",
+      "rating": 1433.26,
+      "dailyRatingChange": 41.89
+    },
+    {
+      "position": 16,
+      "playerId": "m56940",
+      "name": "Eric Swanson",
+      "rating": 1391.85,
+      "dailyRatingChange": -7.75
+    },
+    {
+      "position": 17,
+      "playerId": "m50162",
+      "name": "Sean Lumaye",
+      "rating": 1430.76,
+      "dailyRatingChange": 0.48
+    },
+    {
+      "position": 17,
+      "playerId": "m51794",
+      "name": "Allisyn Robertson",
+      "rating": 1458.34,
+      "dailyRatingChange": 0.08
+    },
+    {
+      "position": 17,
+      "playerId": "m59735",
+      "name": "Theo Dorak-Gertsch",
+      "rating": 1376.55,
+      "dailyRatingChange": -73.67
+    },
+    {
+      "position": 17,
+      "playerId": "m48613",
+      "name": "Lake Parker",
+      "rating": 1362.89,
+      "dailyRatingChange": -2.24
+    },
+    {
+      "position": 21,
+      "playerId": "m61384",
+      "name": "Jade Dorak-Gertsch",
+      "rating": 1374.61,
+      "dailyRatingChange": -18.2
+    },
+    {
+      "position": 21,
+      "playerId": "m53124",
+      "name": "NIcholas Bourassa",
+      "rating": 1457.42,
+      "dailyRatingChange": -15.47
+    },
+    {
+      "position": 23,
+      "playerId": "m62238",
+      "name": "Ian Murray",
+      "rating": 1404.36,
+      "dailyRatingChange": null
+    },
+    {
+      "position": 24,
+      "playerId": "m61585",
+      "name": "Elias Volpini",
+      "rating": 1439.24,
+      "dailyRatingChange": -57.76
+    }
+  ]
+}

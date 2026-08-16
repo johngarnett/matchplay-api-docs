@@ -1,0 +1,44 @@
+{
+  "locationId": "11419",
+  "venueName": "Xeroz",
+  "venueAddress": "234 Saint George Street, Moncton, NB",
+  "tournaments": [
+    {
+      "id": 266110,
+      "name": "Finals for Hub City Flip Out 7",
+      "date": "8/8/2026",
+      "playerCount": 12,
+      "qualifying": {
+        "id": 266066,
+        "name": "Hub City Flip Out 7",
+        "playerCount": 26
+      },
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m56354",
+          "name": "Jaden Shaddick",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m5954",
+          "name": "Albert Agar",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "p585490",
+          "name": "Corey Dougay",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "i134093",
+          "name": "Sebastienn Laflechbe",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

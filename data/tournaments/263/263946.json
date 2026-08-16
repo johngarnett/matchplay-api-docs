@@ -1,0 +1,116 @@
+{
+  "tournamentId": 263946,
+  "name": "Baltimore Belles & Chimes Flower Power Flip Frenzy!",
+  "date": "2026-07-26",
+  "locationId": "12616",
+  "locationName": "Holy Frijoles",
+  "playerCount": 15,
+  "ratingsDate": "2026-07-26",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m7202",
+      "name": "Juana Summers",
+      "rating": 1528.62,
+      "dailyRatingChange": 24.99
+    },
+    {
+      "position": 2,
+      "playerId": "m52219",
+      "name": "Molly Browning",
+      "rating": 1422.18,
+      "dailyRatingChange": 12.89
+    },
+    {
+      "position": 2,
+      "playerId": "i84303",
+      "name": "Soup",
+      "rating": 1530.19,
+      "dailyRatingChange": 2.77
+    },
+    {
+      "position": 4,
+      "playerId": "m53176",
+      "name": "Micha Broadnax",
+      "rating": 1459.31,
+      "dailyRatingChange": 0.53
+    },
+    {
+      "position": 4,
+      "playerId": "m582099",
+      "name": "Sarah Matas",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 4,
+      "playerId": "m22181",
+      "name": "Dana Ost",
+      "rating": 1531.28,
+      "dailyRatingChange": -1.16
+    },
+    {
+      "position": 7,
+      "playerId": "m35572",
+      "name": "Chris Anderson",
+      "rating": 1389.29,
+      "dailyRatingChange": 5.8
+    },
+    {
+      "position": 8,
+      "playerId": "m34384",
+      "name": "Karli Tumbleson",
+      "rating": 1429.39,
+      "dailyRatingChange": 3.9
+    },
+    {
+      "position": 9,
+      "playerId": "m47268",
+      "name": "Elli Hernandez",
+      "rating": 1546.34,
+      "dailyRatingChange": -17.44
+    },
+    {
+      "position": 10,
+      "playerId": "i119520",
+      "name": "Alayja Stewart",
+      "rating": 1404.31,
+      "dailyRatingChange": 6.29
+    },
+    {
+      "position": 10,
+      "playerId": "m47669",
+      "name": "Kristen Anchor",
+      "rating": 1432.91,
+      "dailyRatingChange": 0.93
+    },
+    {
+      "position": 12,
+      "playerId": "m26798",
+      "name": "Andrea Shearer",
+      "rating": 1444.65,
+      "dailyRatingChange": -7.05
+    },
+    {
+      "position": 13,
+      "playerId": "m29318",
+      "name": "Erin Stellmon",
+      "rating": 1420.58,
+      "dailyRatingChange": -15.01
+    },
+    {
+      "position": 14,
+      "playerId": "m34265",
+      "name": "Rahne Alexander",
+      "rating": 1297.86,
+      "dailyRatingChange": -11.9
+    },
+    {
+      "position": 15,
+      "playerId": "i96512",
+      "name": "Dana Belanger",
+      "rating": 1403.93,
+      "dailyRatingChange": -27.87
+    }
+  ]
+}

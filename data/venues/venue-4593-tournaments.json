@@ -1,0 +1,106 @@
+{
+  "locationId": "4593",
+  "venueName": "Cape fear wine and beer",
+  "venueAddress": "139 N Front St, Wilmington, NC 28401, USA",
+  "tournaments": [
+    {
+      "id": 261930,
+      "name": "Tuesday Matchplay at CFSB",
+      "date": "8/11/2026",
+      "playerCount": 15,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m30719",
+          "name": "Mark Szuch",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m33431",
+          "name": "Marty Henion",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m10116",
+          "name": "Luke Faulkenberry",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m9400",
+          "name": "eric sutton",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 261931,
+      "name": "Tuesday Matchplay at CFSB",
+      "date": "8/4/2026",
+      "playerCount": 12,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m23129",
+          "name": "Gary Dean",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m10116",
+          "name": "Luke Faulkenberry",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "i142999",
+          "name": "JP Cmejrek",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m10629",
+          "name": "David MacQueen",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 264322,
+      "name": "Tuesday Matchplay at CFSB (clone)",
+      "date": "7/28/2026",
+      "playerCount": 9,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m10116",
+          "name": "Luke Faulkenberry",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m14420",
+          "name": "Brian Stubbs",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "i142999",
+          "name": "JP Cmejrek",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m30719",
+          "name": "Mark Szuch",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

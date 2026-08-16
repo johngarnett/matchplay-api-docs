@@ -1,0 +1,323 @@
+{
+  "locationId": "8955",
+  "name": "Roshambo Beverage Company",
+  "address": "231 South East Street, Raleigh, NC 27601, US",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 21,
+  "relatedVenues": [
+    {
+      "locationId": "11549",
+      "name": "Flight Deck NC",
+      "address": "9521 Lumley Rd, Morrisville, NC 27560, US",
+      "count": 133
+    },
+    {
+      "locationId": "12448",
+      "name": "Super Rad Retro Lounge",
+      "address": "106 Glenwood Ave, Raleigh, NC 27603, US",
+      "count": 17
+    },
+    {
+      "locationId": "5362",
+      "name": "Boxcar Bar + Arcade Durham",
+      "address": "621 Foster St, Durham, NC 27701, USA",
+      "count": 8
+    },
+    {
+      "locationId": "10241",
+      "name": "DPC Main",
+      "address": "",
+      "count": 8
+    },
+    {
+      "locationId": "12499",
+      "name": "DPC",
+      "address": "1100 first state blvd, wilmington DE",
+      "count": 8
+    },
+    {
+      "locationId": "5785",
+      "name": "Delaware Pinball Collective",
+      "address": "1100 First State Blvd. Wilmington, DE 19804",
+      "count": 6
+    },
+    {
+      "locationId": "12137",
+      "name": "Mordecai Beverage Company",
+      "address": "2425 Crabtree Blvd, Raleigh, NC 27604, US",
+      "count": 5
+    },
+    {
+      "locationId": "8743",
+      "name": "Fun Stop Arcade",
+      "address": "41 Clementon Rd Berlin, NJ 08009",
+      "count": 3
+    },
+    {
+      "locationId": "10710",
+      "name": "The Backyard Arcade @ Coastal Hemp Company",
+      "address": "8207 Market St. Unit I, Wilmington, NC, 28411, US",
+      "count": 3
+    },
+    {
+      "locationId": "11249",
+      "name": "The Manor",
+      "address": "1329 Kings Highway, Pilesgrove, NJ 08098",
+      "count": 3
+    }
+  ],
+  "players": [
+    {
+      "id": "m1855",
+      "name": "Ovid Dillard",
+      "rating": 1753.47,
+      "rd": 29.74,
+      "ratingClass": "Expert",
+      "homeLocation": "Flight Deck NC",
+      "homeLocationId": "11549",
+      "percentile": 98.87734662505241,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m8878",
+      "name": "Jerrod Lankford",
+      "rating": 1752.78,
+      "rd": 26.39,
+      "ratingClass": "Expert",
+      "homeLocation": "Flight Deck NC",
+      "homeLocationId": "11549",
+      "percentile": 98.86802999953417,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m10933",
+      "name": "Scott Mott",
+      "rating": 1706.24,
+      "rd": 19.37,
+      "ratingClass": "Expert",
+      "homeLocation": "DPC",
+      "homeLocationId": "12499",
+      "percentile": 96.95346345553641,
+      "changeDisplay": "-12.3",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m23550",
+      "name": "Kat Lake",
+      "rating": 1692.44,
+      "rd": 29.15,
+      "ratingClass": "A",
+      "homeLocation": "Flight Deck NC",
+      "homeLocationId": "11549",
+      "percentile": 96.09633390785858,
+      "changeDisplay": "-5.1",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m7791",
+      "name": "Jason Keith",
+      "rating": 1691.5,
+      "rd": 20.74,
+      "ratingClass": "A",
+      "homeLocation": "Flight Deck NC",
+      "homeLocationId": "11549",
+      "percentile": 96.01248427819445,
+      "changeDisplay": "-7.6",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m60001",
+      "name": "Jeremy Hakes",
+      "rating": 1660.85,
+      "rd": 22.33,
+      "ratingClass": "A",
+      "homeLocation": "Flight Deck NC",
+      "homeLocationId": "11549",
+      "percentile": 93.17557180789117,
+      "changeDisplay": "+17.2",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m3296",
+      "name": "Logan Haislip",
+      "rating": 1660.5,
+      "rd": 28.79,
+      "ratingClass": "A",
+      "homeLocation": "Flight Deck NC",
+      "homeLocationId": "11549",
+      "percentile": 93.13830530581824,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m1881",
+      "name": "Ellen Raby",
+      "rating": 1639.26,
+      "rd": 31.59,
+      "ratingClass": "A",
+      "homeLocation": "Roshambo Beverage Company",
+      "homeLocationId": "8955",
+      "percentile": 90.22685983136908,
+      "changeDisplay": "-21.1",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m32966",
+      "name": "Michael Casey",
+      "rating": 1629.48,
+      "rd": 18.59,
+      "ratingClass": "A",
+      "homeLocation": "Flight Deck NC",
+      "homeLocationId": "11549",
+      "percentile": 88.47999254669958,
+      "changeDisplay": "+3.3",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m2324",
+      "name": "Paul Sanders",
+      "rating": 1620.11,
+      "rd": 21.12,
+      "ratingClass": "A",
+      "homeLocation": "Flight Deck NC",
+      "homeLocationId": "11549",
+      "percentile": 86.64927563236596,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m29858",
+      "name": "Elia Lake",
+      "rating": 1601.55,
+      "rd": 24.03,
+      "ratingClass": "A",
+      "homeLocation": "Flight Deck NC",
+      "homeLocationId": "11549",
+      "percentile": 82.40555270880887,
+      "changeDisplay": "+9.9",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m32839",
+      "name": "Kiel Jinkens",
+      "rating": 1571.73,
+      "rd": 33.04,
+      "ratingClass": "B",
+      "homeLocation": "Roshambo Beverage Company",
+      "homeLocationId": "8955",
+      "percentile": 74.03456468067266,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m41496",
+      "name": "Ed Plut",
+      "rating": 1560.86,
+      "rd": 21.05,
+      "ratingClass": "B",
+      "homeLocation": "Flight Deck NC",
+      "homeLocationId": "11549",
+      "percentile": 70.58275492616575,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m47782",
+      "name": "Leslie McCallon",
+      "rating": 1555.18,
+      "rd": 26.15,
+      "ratingClass": "B",
+      "homeLocation": "Flight Deck NC",
+      "homeLocationId": "11549",
+      "percentile": 68.71942982251828,
+      "changeDisplay": "+17.2",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m2939",
+      "name": "Meredith Fowler",
+      "rating": 1538.39,
+      "rd": 31.34,
+      "ratingClass": "B",
+      "homeLocation": "Roshambo Beverage Company",
+      "homeLocationId": "8955",
+      "percentile": 62.43536591046723,
+      "changeDisplay": "+4.2",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m51684",
+      "name": "Lauren Green",
+      "rating": 1526.77,
+      "rd": 25.38,
+      "ratingClass": "B",
+      "homeLocation": "Flight Deck NC",
+      "homeLocationId": "11549",
+      "percentile": 57.763078213071225,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m1933",
+      "name": "Joan McCool",
+      "rating": 1523.5,
+      "rd": 20.82,
+      "ratingClass": "B",
+      "homeLocation": "Flight Deck NC",
+      "homeLocationId": "11549",
+      "percentile": 56.51465039362743,
+      "changeDisplay": "+6.4",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m26203",
+      "name": "Luke Luckini",
+      "rating": 1519.2,
+      "rd": 23.67,
+      "ratingClass": "B",
+      "homeLocation": "DPC Main",
+      "homeLocationId": "10241",
+      "percentile": 54.83765780034472,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i88026",
+      "name": "Curtis Smith",
+      "rating": 1469.78,
+      "rd": 39.6,
+      "ratingClass": "C",
+      "homeLocation": "Flight Deck NC",
+      "homeLocationId": "11549",
+      "percentile": 34.80225462337541,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m49457",
+      "name": "Nathan Plourde",
+      "rating": 1451,
+      "rd": 27.34,
+      "ratingClass": "C",
+      "homeLocation": "Arcade Legacy Sharonville",
+      "homeLocationId": "7439",
+      "percentile": 27.502678529836494,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m4299",
+      "name": "Shell Dillard",
+      "rating": 1450.45,
+      "rd": 32.71,
+      "ratingClass": "C",
+      "homeLocation": "Flight Deck NC",
+      "homeLocationId": "11549",
+      "percentile": 27.348954208785575,
+      "changeDisplay": "-21.1",
+      "changeClass": "change-negative"
+    }
+  ]
+}

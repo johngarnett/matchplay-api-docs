@@ -1,0 +1,67 @@
+{
+  "tournamentId": 266475,
+  "name": "Women’s Transformers Stern Army launch party!",
+  "date": "2026-08-11",
+  "locationId": "10614",
+  "locationName": "Phantom Amusement",
+  "playerCount": 8,
+  "ratingsDate": "2026-08-11",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m38366",
+      "name": "Trudy Bais",
+      "rating": 1518.26,
+      "dailyRatingChange": 9.35
+    },
+    {
+      "position": 2,
+      "playerId": "m7152",
+      "name": "Jody Linn",
+      "rating": 1545.81,
+      "dailyRatingChange": 5.57
+    },
+    {
+      "position": 3,
+      "playerId": "m37828",
+      "name": "Amanda Cowie",
+      "rating": 1560.94,
+      "dailyRatingChange": 1.05
+    },
+    {
+      "position": 4,
+      "playerId": "m586256",
+      "name": "Kadence Morris",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 5,
+      "playerId": "m38365",
+      "name": "Kaleigh Norquay",
+      "rating": 1501.83,
+      "dailyRatingChange": -16.57
+    },
+    {
+      "position": 6,
+      "playerId": "m35586",
+      "name": "Janice Sawka",
+      "rating": 1377.96,
+      "dailyRatingChange": 6.99
+    },
+    {
+      "position": 7,
+      "playerId": "m586257",
+      "name": "Miranda Morris",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 8,
+      "playerId": "m55906",
+      "name": "Megan Wegert",
+      "rating": 1287.11,
+      "dailyRatingChange": null
+    }
+  ]
+}

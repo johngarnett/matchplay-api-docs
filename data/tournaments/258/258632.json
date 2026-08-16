@@ -1,0 +1,221 @@
+{
+  "tournamentId": 258632,
+  "name": "C.R.A.P. S13 - W7",
+  "date": "2026-08-06",
+  "locationId": "5040",
+  "locationName": "Transmission Arcade",
+  "playerCount": 30,
+  "ratingsDate": "2026-08-06",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m18180",
+      "name": "Egbert",
+      "rating": 1657.29,
+      "dailyRatingChange": 3.39
+    },
+    {
+      "position": 2,
+      "playerId": "m8204",
+      "name": "Steve Bertok",
+      "rating": 1632.23,
+      "dailyRatingChange": 8.19
+    },
+    {
+      "position": 3,
+      "playerId": "m28153",
+      "name": "Michael Moore",
+      "rating": 1579.9,
+      "dailyRatingChange": 4.07
+    },
+    {
+      "position": 3,
+      "playerId": "m38114",
+      "name": "Brynne Maghan",
+      "rating": 1560.55,
+      "dailyRatingChange": 5.74
+    },
+    {
+      "position": 3,
+      "playerId": "m55249",
+      "name": "Kevin Bloom",
+      "rating": 1449.25,
+      "dailyRatingChange": 17.06
+    },
+    {
+      "position": 6,
+      "playerId": "m40695",
+      "name": "Jen Floyd",
+      "rating": 1513.45,
+      "dailyRatingChange": 7.85
+    },
+    {
+      "position": 7,
+      "playerId": "m572650",
+      "name": "Katrina Portwood",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 8,
+      "playerId": "m35539",
+      "name": "Kevin Brumfield",
+      "rating": 1487.21,
+      "dailyRatingChange": 6.14
+    },
+    {
+      "position": 8,
+      "playerId": "m30523",
+      "name": "Ansley Layman",
+      "rating": 1452.87,
+      "dailyRatingChange": 7.79
+    },
+    {
+      "position": 10,
+      "playerId": "m43851",
+      "name": "John Foster",
+      "rating": 1576.86,
+      "dailyRatingChange": -1.85
+    },
+    {
+      "position": 10,
+      "playerId": "m548608",
+      "name": "Davis Herndon",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 12,
+      "playerId": "m21972",
+      "name": "Paul Lopresti",
+      "rating": 1545.4,
+      "dailyRatingChange": -1.62
+    },
+    {
+      "position": 12,
+      "playerId": "m18461",
+      "name": "Autumn Perkins",
+      "rating": 1457.58,
+      "dailyRatingChange": 1.43
+    },
+    {
+      "position": 14,
+      "playerId": "m36182",
+      "name": "Don Barry",
+      "rating": 1554.91,
+      "dailyRatingChange": -6.23
+    },
+    {
+      "position": 14,
+      "playerId": "i41150",
+      "name": "Frank Mock",
+      "rating": 1478.37,
+      "dailyRatingChange": -3.76
+    },
+    {
+      "position": 14,
+      "playerId": "m44860",
+      "name": "Charlie Foster",
+      "rating": 1532.36,
+      "dailyRatingChange": 0.09
+    },
+    {
+      "position": 14,
+      "playerId": "m61284",
+      "name": "Von Huber",
+      "rating": 1428.58,
+      "dailyRatingChange": 11.8
+    },
+    {
+      "position": 18,
+      "playerId": "m23592",
+      "name": "Ansley Green",
+      "rating": 1500.39,
+      "dailyRatingChange": -1.23
+    },
+    {
+      "position": 18,
+      "playerId": "m572664",
+      "name": "George Long",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 20,
+      "playerId": "m19562",
+      "name": "Gabrielle Baggette",
+      "rating": 1478.5,
+      "dailyRatingChange": -1.78
+    },
+    {
+      "position": 20,
+      "playerId": "m47342",
+      "name": "George Hill",
+      "rating": 1432.78,
+      "dailyRatingChange": -1.37
+    },
+    {
+      "position": 22,
+      "playerId": "m28146",
+      "name": "Andrew Winterfeldt",
+      "rating": 1311.86,
+      "dailyRatingChange": 3.67
+    },
+    {
+      "position": 23,
+      "playerId": "m38183",
+      "name": "Jeffrey LeBlanc",
+      "rating": 1565.22,
+      "dailyRatingChange": -17.03
+    },
+    {
+      "position": 23,
+      "playerId": "m48444",
+      "name": "Julia Studer",
+      "rating": 1326.54,
+      "dailyRatingChange": -0.27
+    },
+    {
+      "position": 25,
+      "playerId": "m521592",
+      "name": "Bud Bloom",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 26,
+      "playerId": "m572652",
+      "name": "Chris Portwood",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 26,
+      "playerId": "m320256",
+      "name": "Sarah McNab",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 28,
+      "playerId": "m40750",
+      "name": "Chelsea Campbell",
+      "rating": 1395.54,
+      "dailyRatingChange": -7.45
+    },
+    {
+      "position": 28,
+      "playerId": "m22588",
+      "name": "Lauren Jackson",
+      "rating": 1383.32,
+      "dailyRatingChange": -10.15
+    },
+    {
+      "position": 30,
+      "playerId": "i131060",
+      "name": "Rex Poole",
+      "rating": 1274.57,
+      "dailyRatingChange": -12.18
+    }
+  ]
+}

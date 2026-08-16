@@ -1,0 +1,257 @@
+{
+  "locationId": "6531",
+  "name": "FlipperGaraget",
+  "address": "",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 16,
+  "relatedVenues": [
+    {
+      "locationId": "1696",
+      "name": "LPA",
+      "address": "Vårvädersvägen 4i, Lund, Sweden",
+      "count": 18
+    },
+    {
+      "locationId": "6091",
+      "name": "Uncle Sam's Pinball",
+      "address": "9 Ronnebygatan, Galgamarken-Trossö, 371 32, SE",
+      "count": 17
+    },
+    {
+      "locationId": "12688",
+      "name": "East Coast  Pinball",
+      "address": "Fatabursvägen 19 Kalmar",
+      "count": 14
+    },
+    {
+      "locationId": "11166",
+      "name": "Pinball inn",
+      "address": "Vetlandavägen 10, 574 75 korsberga",
+      "count": 12
+    },
+    {
+      "locationId": "13759",
+      "name": "Atlas",
+      "address": "",
+      "count": 4
+    },
+    {
+      "locationId": "7088",
+      "name": "Hiltunen Bar`n Pinball",
+      "address": "Ljung 963 26453 Ljungbyhed",
+      "count": 2
+    },
+    {
+      "locationId": "12334",
+      "name": "Flipperklubben",
+      "address": "Magnetslingan",
+      "count": 2
+    },
+    {
+      "locationId": "4930",
+      "name": "C4 Flipper",
+      "address": "",
+      "count": 1
+    },
+    {
+      "locationId": "12660",
+      "name": "Redstone Pinball GBG",
+      "address": "Sockerbruket 22, Göteborg",
+      "count": 1
+    }
+  ],
+  "players": [
+    {
+      "id": "m2543",
+      "name": "Andreas Frid",
+      "rating": 1722.5,
+      "rd": 26.69,
+      "ratingClass": "Expert",
+      "homeLocation": "FlipperGaraget",
+      "homeLocationId": "6531",
+      "percentile": 97.80593469045512,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m7425",
+      "name": "Johnny Mårtensson",
+      "rating": 1709,
+      "rd": 18.03,
+      "ratingClass": "Expert",
+      "homeLocation": "Uncle Sam's Pinball",
+      "homeLocationId": "6091",
+      "percentile": 97.1258210276238,
+      "changeDisplay": "+3.9",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m7949",
+      "name": "Joakim Sjöblom",
+      "rating": 1629.84,
+      "rd": 19.74,
+      "ratingClass": "A",
+      "homeLocation": "FlipperGaraget",
+      "homeLocationId": "6531",
+      "percentile": 88.5591838636046,
+      "changeDisplay": "-0.3",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m15077",
+      "name": "Daniel Björs",
+      "rating": 1620.06,
+      "rd": 24.38,
+      "ratingClass": "A",
+      "homeLocation": "Pinball inn",
+      "homeLocationId": "11166",
+      "percentile": 86.63064238132948,
+      "changeDisplay": "-17.2",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m29592",
+      "name": "Theo Söderström",
+      "rating": 1599.98,
+      "rd": 18.74,
+      "ratingClass": "B",
+      "homeLocation": "FlipperGaraget",
+      "homeLocationId": "6531",
+      "percentile": 82.00959612428377,
+      "changeDisplay": "+16.2",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m6618",
+      "name": "Andreas Stenberg",
+      "rating": 1597.86,
+      "rd": 37.78,
+      "ratingClass": "B",
+      "homeLocation": "FlipperGaraget",
+      "homeLocationId": "6531",
+      "percentile": 81.45059859318955,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m15323",
+      "name": "Rune Andersson",
+      "rating": 1578.23,
+      "rd": 26.91,
+      "ratingClass": "B",
+      "homeLocation": "FlipperGaraget",
+      "homeLocationId": "6531",
+      "percentile": 76.08422229468486,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m1401",
+      "name": "Anders Bengtsson",
+      "rating": 1570.99,
+      "rd": 28.52,
+      "ratingClass": "B",
+      "homeLocation": "FlipperGaraget",
+      "homeLocationId": "6531",
+      "percentile": 73.84823217030791,
+      "changeDisplay": "-1.8",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m27444",
+      "name": "Mats Waltersson",
+      "rating": 1564.06,
+      "rd": 32.21,
+      "ratingClass": "B",
+      "homeLocation": "FlipperGaraget",
+      "homeLocationId": "6531",
+      "percentile": 71.65882517352215,
+      "changeDisplay": "-20.7",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m33926",
+      "name": "Erik Hallen",
+      "rating": 1559.73,
+      "rd": 25.49,
+      "ratingClass": "B",
+      "homeLocation": "LPA",
+      "homeLocationId": "1696",
+      "percentile": 70.23338146923184,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m47892",
+      "name": "Elvis Hallen",
+      "rating": 1548.95,
+      "rd": 26.54,
+      "ratingClass": "B",
+      "homeLocation": "LPA",
+      "homeLocationId": "1696",
+      "percentile": 66.27847393674011,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i88389",
+      "name": "Juha Vierola",
+      "rating": 1545.8,
+      "rd": 31.93,
+      "ratingClass": "B",
+      "homeLocation": "East Coast  Pinball",
+      "homeLocationId": "12688",
+      "percentile": 65.25364512973401,
+      "changeDisplay": "+7.0",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m14396",
+      "name": "Henrik Pettersson",
+      "rating": 1530.57,
+      "rd": 31.64,
+      "ratingClass": "B",
+      "homeLocation": "FlipperGaraget",
+      "homeLocationId": "6531",
+      "percentile": 59.27237154702567,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i160061",
+      "name": "Rolf Söderström",
+      "rating": 1388.92,
+      "rd": 44.71,
+      "ratingClass": "D",
+      "homeLocation": "FlipperGaraget",
+      "homeLocationId": "6531",
+      "percentile": 10.047980621418922,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i66409",
+      "name": "Pierre Jansberg",
+      "rating": 1326.57,
+      "rd": 39.19,
+      "ratingClass": "D",
+      "homeLocation": "FlipperGaraget",
+      "homeLocationId": "6531",
+      "percentile": 2.2406484371360693,
+      "changeDisplay": "-12.3",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "i142513",
+      "name": "Anna Boman",
+      "rating": 1207.91,
+      "rd": 41.41,
+      "ratingClass": "E",
+      "homeLocation": "FlipperGaraget",
+      "homeLocationId": "6531",
+      "percentile": 0.05124144035030512,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

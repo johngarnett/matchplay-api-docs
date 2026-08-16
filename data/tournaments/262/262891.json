@@ -1,0 +1,74 @@
+{
+  "tournamentId": 262891,
+  "name": "Cartridge Gaming Sunday Funday 4 Strikes Challenge 07/19/2026",
+  "date": "2026-07-20",
+  "locationId": "2293",
+  "locationName": "Cartridge Gaming",
+  "playerCount": 9,
+  "ratingsDate": "2026-07-20",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m11868",
+      "name": "Will Olter",
+      "rating": 1553.64,
+      "dailyRatingChange": 16.5
+    },
+    {
+      "position": 2,
+      "playerId": "m34396",
+      "name": "Marty Kraft",
+      "rating": 1468.72,
+      "dailyRatingChange": -1.88
+    },
+    {
+      "position": 2,
+      "playerId": "m120733",
+      "name": "Jake Raabe",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 4,
+      "playerId": "m431788",
+      "name": "Steve O",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 4,
+      "playerId": "m59071",
+      "name": "DashedKeyboard",
+      "rating": 1471.53,
+      "dailyRatingChange": -3.61
+    },
+    {
+      "position": 6,
+      "playerId": "m25227",
+      "name": "Jason Shaffer",
+      "rating": 1591.52,
+      "dailyRatingChange": -4.87
+    },
+    {
+      "position": 6,
+      "playerId": "i93615",
+      "name": "Scott Kidd",
+      "rating": 1473.62,
+      "dailyRatingChange": -15.1
+    },
+    {
+      "position": 8,
+      "playerId": "m353053",
+      "name": "Cindy A.",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 8,
+      "playerId": "m555576",
+      "name": "Kayla E.",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

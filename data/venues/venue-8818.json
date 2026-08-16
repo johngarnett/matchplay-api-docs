@@ -1,0 +1,143 @@
+{
+  "locationId": "8818",
+  "name": "Blainbrook Bowl",
+  "address": "12000 Central Ave NE Blaine, MN",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 9,
+  "relatedVenues": [
+    {
+      "locationId": "5500",
+      "name": "Blainbrook",
+      "address": "",
+      "count": 50
+    },
+    {
+      "locationId": "13300",
+      "name": "Nerdin out",
+      "address": "NerdinOut coon Rapids",
+      "count": 4
+    },
+    {
+      "locationId": "8625",
+      "name": "LITT Pinball Bar",
+      "address": "2021 Hennepin Ave S, Minneapolis, MN, 55405, US",
+      "count": 1
+    },
+    {
+      "locationId": "8863",
+      "name": "Northstar Pinball Collective",
+      "address": "5636 West 125th Street, Savage, MN",
+      "count": 1
+    }
+  ],
+  "players": [
+    {
+      "id": "m5091",
+      "name": "Trevor Klungseth",
+      "rating": 1700.99,
+      "rd": 18.54,
+      "ratingClass": "Expert",
+      "homeLocation": "Blainbrook",
+      "homeLocationId": "5500",
+      "percentile": 96.65998975171193,
+      "changeDisplay": "+7.4",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m1382",
+      "name": "Adam Turgeson",
+      "rating": 1693.42,
+      "rd": 20.89,
+      "ratingClass": "A",
+      "homeLocation": "Blainbrook",
+      "homeLocationId": "5500",
+      "percentile": 96.16155028648623,
+      "changeDisplay": "+8.7",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m58722",
+      "name": "Bryson Stohr",
+      "rating": 1620.84,
+      "rd": 45.43,
+      "ratingClass": "A",
+      "homeLocation": "Blainbrook Bowl",
+      "homeLocationId": "8818",
+      "percentile": 86.81231657893511,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m1379",
+      "name": "Keith Bittner",
+      "rating": 1601.91,
+      "rd": 20.73,
+      "ratingClass": "A",
+      "homeLocation": "Blainbrook",
+      "homeLocationId": "5500",
+      "percentile": 82.47542740019564,
+      "changeDisplay": "-11.2",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m100",
+      "name": "Brad Steinke",
+      "rating": 1583.31,
+      "rd": 22.1,
+      "ratingClass": "B",
+      "homeLocation": "Blainbrook",
+      "homeLocationId": "5500",
+      "percentile": 77.55624912656636,
+      "changeDisplay": "-4.4",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m1387",
+      "name": "Matt Stohr",
+      "rating": 1556.91,
+      "rd": 45.45,
+      "ratingClass": "B",
+      "homeLocation": "Blainbrook Bowl",
+      "homeLocationId": "8818",
+      "percentile": 69.31569385568547,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m19736",
+      "name": "Josh Anderson MN",
+      "rating": 1551,
+      "rd": 22.92,
+      "ratingClass": "B",
+      "homeLocation": "Blainbrook",
+      "homeLocationId": "5500",
+      "percentile": 67.07038710579029,
+      "changeDisplay": "+6.7",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "i85334",
+      "name": "Tristan Turgeson",
+      "rating": 1437.9,
+      "rd": 36.73,
+      "ratingClass": "C",
+      "homeLocation": "Blainbrook Bowl",
+      "homeLocationId": "8818",
+      "percentile": 23.007406717286997,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i141050",
+      "name": "Kenny Taco",
+      "rating": 1372.63,
+      "rd": 26.07,
+      "ratingClass": "D",
+      "homeLocation": "Blainbrook Bowl",
+      "homeLocationId": "8818",
+      "percentile": 7.108585270415056,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

@@ -1,0 +1,172 @@
+{
+  "locationId": "8539",
+  "venueName": "Flipperikellari",
+  "venueAddress": "Pohjolankatu 43, Helsinki, 00610, FI",
+  "tournaments": [
+    {
+      "id": 266916,
+      "name": "Flipperikellarin viikkokisa 13.8.2026",
+      "date": "8/13/2026",
+      "playerCount": 7,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m3710",
+          "name": "Jussi Rantala",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m42763",
+          "name": "Verneri Miettinen",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m9786",
+          "name": "Veikko Pakkala",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m33786",
+          "name": "Joonas Tuhkanen",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 265817,
+      "name": "Flipperikellarin viikkokisa 6.8.2026",
+      "date": "8/6/2026",
+      "playerCount": 7,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m30162",
+          "name": "Jiro Suvanto",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m38799",
+          "name": "Wim Zilliacus",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m22696",
+          "name": "Erno Lahdenperä",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m39404",
+          "name": "Aleksi Matsi",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 264604,
+      "name": "Flipperikellarin viikkokisa 30.7.2026",
+      "date": "7/30/2026",
+      "playerCount": 7,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m9786",
+          "name": "Veikko Pakkala",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m26285",
+          "name": "Tuukka Jääskeläinen",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "p372583",
+          "name": "Oskar Fagerström",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m43545",
+          "name": "Matti Salervo",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 263436,
+      "name": "DBLRNDRBN",
+      "date": "7/23/2026",
+      "playerCount": 10,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m9786",
+          "name": "Veikko Pakkala",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 1,
+          "playerId": "m43503",
+          "name": "Lari Lehmusvuori",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m41357",
+          "name": "Kimmo Aaltonen",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "p473110",
+          "name": "Kai Hahl",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 263412,
+      "name": "Flipperikellarin viikkokisa 23.7.2026",
+      "date": "7/23/2026",
+      "playerCount": 7,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "i82363",
+          "name": "Tomi Toiviainen",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m41357",
+          "name": "Kimmo Aaltonen",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "i96996",
+          "name": "Matti Kunttu",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m3710",
+          "name": "Jussi Rantala",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

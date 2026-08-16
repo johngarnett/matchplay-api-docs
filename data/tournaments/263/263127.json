@@ -1,0 +1,32 @@
+{
+  "tournamentId": 263127,
+  "name": "Kidforce Women’s Pinball League 2026 Summer #3",
+  "date": "2026-07-21",
+  "locationId": "9554",
+  "locationName": "Kidforce Pinball",
+  "playerCount": 3,
+  "ratingsDate": "2026-07-21",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m3266",
+      "name": "Katie koster",
+      "rating": 1481.06,
+      "dailyRatingChange": 10.51
+    },
+    {
+      "position": 2,
+      "playerId": "m29139",
+      "name": "Renee Krohn",
+      "rating": 1350.18,
+      "dailyRatingChange": 8.04
+    },
+    {
+      "position": 3,
+      "playerId": "m1579",
+      "name": "Tara Toth",
+      "rating": 1463.31,
+      "dailyRatingChange": -20.22
+    }
+  ]
+}

@@ -1,0 +1,245 @@
+{
+  "locationId": "11283",
+  "name": "J bO's Pizza & Ribs",
+  "address": "1301 Florida Rd UNIT E, Durango, CO",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 16,
+  "relatedVenues": [
+    {
+      "locationId": "8523",
+      "name": "J Bo's Pizza and Ribs",
+      "address": "",
+      "count": 11
+    },
+    {
+      "locationId": "8912",
+      "name": "Sister",
+      "address": "407 Central Ave NW, Albuquerque, NM 87102, US",
+      "count": 5
+    },
+    {
+      "locationId": "5763",
+      "name": "Idaho Pinball Museum",
+      "address": "1104 N Cole Rd Boise, ID, United States, Idaho 83704",
+      "count": 2
+    },
+    {
+      "locationId": "10298",
+      "name": "Lauter Haus Brewing Company",
+      "address": "1806 East 20th Street, Farmington, NM 87401, US",
+      "count": 2
+    },
+    {
+      "locationId": "802",
+      "name": "Starfighters Arcade",
+      "address": "4840 E Jasmine St #102, Mesa, AZ, 85205, US",
+      "count": 1
+    },
+    {
+      "locationId": "2123",
+      "name": "What's Brewing? Coffee Roasters",
+      "address": "138 West Rhapsody Drive, San Antonio, TX, 78216, US",
+      "count": 1
+    },
+    {
+      "locationId": "9586",
+      "name": "Cool Dogs Sports Pub",
+      "address": "3025 E Desert Inn Rd, Las Vegas, NV 89121",
+      "count": 1
+    }
+  ],
+  "players": [
+    {
+      "id": "m35654",
+      "name": "Ryan Mccardell",
+      "rating": 1661.08,
+      "rd": 38.82,
+      "ratingClass": "A",
+      "homeLocation": "J Bo's Pizza and Ribs",
+      "homeLocationId": "8523",
+      "percentile": 93.20352168444589,
+      "changeDisplay": "-10.6",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m6213",
+      "name": "Jason Thomas",
+      "rating": 1647.91,
+      "rd": 27.74,
+      "ratingClass": "A",
+      "homeLocation": "Idaho Pinball Museum",
+      "homeLocationId": "5763",
+      "percentile": 91.44267946149904,
+      "changeDisplay": "+17.8",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "i84494",
+      "name": "aaron redner",
+      "rating": 1643.79,
+      "rd": 46.98,
+      "ratingClass": "A",
+      "homeLocation": "J bO's Pizza & Ribs",
+      "homeLocationId": "11283",
+      "percentile": 90.89299855592304,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i69914",
+      "name": "Jordan Rael",
+      "rating": 1587.28,
+      "rd": 53.48,
+      "ratingClass": "B",
+      "homeLocation": "J bO's Pizza & Ribs",
+      "homeLocationId": "11283",
+      "percentile": 78.65095262495923,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i61835",
+      "name": "Loyd Guido",
+      "rating": 1583.46,
+      "rd": 28.08,
+      "ratingClass": "B",
+      "homeLocation": "J Bo's Pizza and Ribs",
+      "homeLocationId": "8523",
+      "percentile": 77.60749056691665,
+      "changeDisplay": "-8.3",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m49232",
+      "name": "Antawn Joe",
+      "rating": 1571.21,
+      "rd": 23.87,
+      "ratingClass": "B",
+      "homeLocation": "Starfighters Arcade",
+      "homeLocationId": "802",
+      "percentile": 73.91344854893558,
+      "changeDisplay": "+16.6",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m34353",
+      "name": "jordan groetken",
+      "rating": 1553.2,
+      "rd": 42.71,
+      "ratingClass": "B",
+      "homeLocation": "J Bo's Pizza and Ribs",
+      "homeLocationId": "8523",
+      "percentile": 67.99739134485489,
+      "changeDisplay": "+3.5",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "i111052",
+      "name": "Logan Grotenhuis",
+      "rating": 1546,
+      "rd": 47.17,
+      "ratingClass": "B",
+      "homeLocation": "J bO's Pizza & Ribs",
+      "homeLocationId": "11283",
+      "percentile": 65.32351982112078,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i5644",
+      "name": "Clark Nichols",
+      "rating": 1509.86,
+      "rd": 49.18,
+      "ratingClass": "B",
+      "homeLocation": "J Bo's Pizza and Ribs",
+      "homeLocationId": "8523",
+      "percentile": 51.19951553547305,
+      "changeDisplay": "-27.9",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "i76961",
+      "name": "Bradley Jones",
+      "rating": 1479.92,
+      "rd": 42.2,
+      "ratingClass": "C",
+      "homeLocation": "J Bo's Pizza and Ribs",
+      "homeLocationId": "8523",
+      "percentile": 38.88759491312247,
+      "changeDisplay": "+2.6",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "i52823",
+      "name": "john hise",
+      "rating": 1450.9,
+      "rd": 54.22,
+      "ratingClass": "C",
+      "homeLocation": "J bO's Pizza & Ribs",
+      "homeLocationId": "11283",
+      "percentile": 27.47007034052266,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m15180",
+      "name": "Kevin Brazell",
+      "rating": 1447,
+      "rd": 42.62,
+      "ratingClass": "C",
+      "homeLocation": "J Bo's Pizza and Ribs",
+      "homeLocationId": "8523",
+      "percentile": 26.114501327619138,
+      "changeDisplay": "-3.9",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "i130588",
+      "name": "Ace Nakai",
+      "rating": 1443.55,
+      "rd": 28.02,
+      "ratingClass": "C",
+      "homeLocation": "J Bo's Pizza and Ribs",
+      "homeLocationId": "8523",
+      "percentile": 24.95923976335771,
+      "changeDisplay": "-6.6",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m48155",
+      "name": "Harley Funk",
+      "rating": 1442.51,
+      "rd": 62.09,
+      "ratingClass": "C",
+      "homeLocation": "J bO's Pizza & Ribs",
+      "homeLocationId": "11283",
+      "percentile": 24.563283178832627,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i151570",
+      "name": "Audriana Tracy",
+      "rating": 1391.52,
+      "rd": 35.25,
+      "ratingClass": "D",
+      "homeLocation": "J Bo's Pizza and Ribs",
+      "homeLocationId": "8523",
+      "percentile": 10.60697815251316,
+      "changeDisplay": "+5.6",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "i151569",
+      "name": "Cattrina Tracy",
+      "rating": 1305.49,
+      "rd": 36.78,
+      "ratingClass": "D",
+      "homeLocation": "J Bo's Pizza and Ribs",
+      "homeLocationId": "8523",
+      "percentile": 1.2297945684073228,
+      "changeDisplay": "+0.3",
+      "changeClass": "change-positive"
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "locationId": "6881",
+  "venueName": "The Republic Bottle Shop",
+  "venueAddress": "9414 State Ave, Marysville, WA, 98270, US",
+  "tournaments": [
+    {
+      "id": 266619,
+      "name": "The Republic Weekly",
+      "date": "8/11/2026",
+      "playerCount": 11,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m13692",
+          "name": "Jobie Allen",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m26009",
+          "name": "Nadine Scarlett",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m31191",
+          "name": "Nicholas Kaide",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m22917",
+          "name": "Robert Bissell",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 265556,
+      "name": "The Republic Tournament",
+      "date": "8/4/2026",
+      "playerCount": 14,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m39658",
+          "name": "Joe woodard",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m40608",
+          "name": "Julie Finco",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m31191",
+          "name": "Nicholas Kaide",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "p441375",
+          "name": "chris denton",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

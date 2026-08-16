@@ -1,0 +1,419 @@
+{
+  "locationId": "7392",
+  "name": "Full Tilt Arcade & Pinball",
+  "address": "701 N Fail Rd, La Porte, IN 46350, US",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 29,
+  "relatedVenues": [
+    {
+      "locationId": "1451",
+      "name": "Wizard's World",
+      "address": "14613 Lima Rd, Fort Wayne, IN 46818, USA",
+      "count": 118
+    },
+    {
+      "locationId": "12479",
+      "name": "PRPHQ",
+      "address": "Bloomington, IL",
+      "count": 18
+    },
+    {
+      "locationId": "8405",
+      "name": "Tappers",
+      "address": "501 Virginia Ave Suite 102, Indianapolis, IN 46203, US",
+      "count": 12
+    },
+    {
+      "locationId": "8902",
+      "name": "Rocksteady Pizza Parlour",
+      "address": "108 E Market St, Warsaw, IN  46580",
+      "count": 11
+    },
+    {
+      "locationId": "10180",
+      "name": "Pinball Planet",
+      "address": "6277E Pearl Rd, Parma Heights, OH 44130",
+      "count": 11
+    },
+    {
+      "locationId": "1658",
+      "name": "North End Pub",
+      "address": "2100 Elmwood Ave, Lafayette, IN 47904, USA",
+      "count": 10
+    },
+    {
+      "locationId": "12802",
+      "name": "Scanlines Arcade",
+      "address": "2320 Valentine Dr, Kokomo, IN 46902, US",
+      "count": 8
+    },
+    {
+      "locationId": "5771",
+      "name": "The Pinvault",
+      "address": "1043 Virginia Ave, Indianapolis, IN 46203, USA",
+      "count": 7
+    },
+    {
+      "locationId": "13434",
+      "name": "Pinball Haven Workshop",
+      "address": "2914 court st. Pekin, IL",
+      "count": 7
+    },
+    {
+      "locationId": "10370",
+      "name": "Cory's House",
+      "address": "3386 W Lake Storey Rd Galesburg, IL 61401",
+      "count": 4
+    }
+  ],
+  "players": [
+    {
+      "id": "m29645",
+      "name": "Clem Fingerle",
+      "rating": 1650.81,
+      "rd": 17.13,
+      "ratingClass": "A",
+      "homeLocation": "Wizard's World",
+      "homeLocationId": "1451",
+      "percentile": 91.82466110774678,
+      "changeDisplay": "+0.3",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m14051",
+      "name": "Ryan Quinn",
+      "rating": 1648.45,
+      "rd": 18.16,
+      "ratingClass": "A",
+      "homeLocation": "Wizard's World",
+      "homeLocationId": "1451",
+      "percentile": 91.51721246564495,
+      "changeDisplay": "-6.2",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m22683",
+      "name": "Chris Friend",
+      "rating": 1636.45,
+      "rd": 20.46,
+      "ratingClass": "A",
+      "homeLocation": "Full Tilt Arcade & Pinball",
+      "homeLocationId": "7392",
+      "percentile": 89.71910374062514,
+      "changeDisplay": "+3.0",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m12426",
+      "name": "Dan White",
+      "rating": 1621.43,
+      "rd": 31.09,
+      "ratingClass": "A",
+      "homeLocation": "Full Tilt Arcade & Pinball",
+      "homeLocationId": "7392",
+      "percentile": 86.92411608515395,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m32433",
+      "name": "Chris Burgo",
+      "rating": 1591.12,
+      "rd": 23.58,
+      "ratingClass": "B",
+      "homeLocation": "Full Tilt Arcade & Pinball",
+      "homeLocationId": "7392",
+      "percentile": 79.77826431266595,
+      "changeDisplay": "-1.9",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m17652",
+      "name": "Kurt Swank",
+      "rating": 1577.66,
+      "rd": 16.86,
+      "ratingClass": "B",
+      "homeLocation": "Wizard's World",
+      "homeLocationId": "1451",
+      "percentile": 75.92118134811571,
+      "changeDisplay": "+10.8",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m6235",
+      "name": "Mark Moore IN",
+      "rating": 1572.92,
+      "rd": 18.23,
+      "ratingClass": "B",
+      "homeLocation": "Wizard's World",
+      "homeLocationId": "1451",
+      "percentile": 74.45381282899334,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m30542",
+      "name": "Tony Baldini",
+      "rating": 1567.22,
+      "rd": 16.04,
+      "ratingClass": "B",
+      "homeLocation": "Wizard's World",
+      "homeLocationId": "1451",
+      "percentile": 72.595146038105,
+      "changeDisplay": "-0.1",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m25708",
+      "name": "Ryan Hart",
+      "rating": 1549.83,
+      "rd": 41.74,
+      "ratingClass": "B",
+      "homeLocation": "Full Tilt Arcade & Pinball",
+      "homeLocationId": "7392",
+      "percentile": 66.63716401919226,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m45602",
+      "name": "Scott Loser",
+      "rating": 1549,
+      "rd": 18.19,
+      "ratingClass": "B",
+      "homeLocation": "PRPHQ",
+      "homeLocationId": "12479",
+      "percentile": 66.30176550053571,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m27054",
+      "name": "Ben Konowitz",
+      "rating": 1545.56,
+      "rd": 38.32,
+      "ratingClass": "B",
+      "homeLocation": "Full Tilt Arcade & Pinball",
+      "homeLocationId": "7392",
+      "percentile": 65.13718731075603,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m39328",
+      "name": "Kris Marciniak",
+      "rating": 1544.07,
+      "rd": 33.56,
+      "ratingClass": "B",
+      "homeLocation": "Full Tilt Arcade & Pinball",
+      "homeLocationId": "7392",
+      "percentile": 64.61079796897565,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m46270",
+      "name": "Dustin Shepherd",
+      "rating": 1540.07,
+      "rd": 16.77,
+      "ratingClass": "B",
+      "homeLocation": "Pinball Planet",
+      "homeLocationId": "10180",
+      "percentile": 63.13877113709414,
+      "changeDisplay": "+15.3",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m14049",
+      "name": "Rose Quinn",
+      "rating": 1532.53,
+      "rd": 17.47,
+      "ratingClass": "B",
+      "homeLocation": "Wizard's World",
+      "homeLocationId": "1451",
+      "percentile": 60.096892905389666,
+      "changeDisplay": "-0.1",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m29107",
+      "name": "Gary Coker",
+      "rating": 1524.63,
+      "rd": 35.78,
+      "ratingClass": "B",
+      "homeLocation": "Wizard's World",
+      "homeLocationId": "1451",
+      "percentile": 56.92924022918899,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m42790",
+      "name": "Brent Werling",
+      "rating": 1523.16,
+      "rd": 24.65,
+      "ratingClass": "B",
+      "homeLocation": "Wizard's World",
+      "homeLocationId": "1451",
+      "percentile": 56.398192574649464,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m17594",
+      "name": "Steve McNabney",
+      "rating": 1504.47,
+      "rd": 39.49,
+      "ratingClass": "B",
+      "homeLocation": "Full Tilt Arcade & Pinball",
+      "homeLocationId": "7392",
+      "percentile": 49.02874178972376,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m52704",
+      "name": "Amber McGinley",
+      "rating": 1501.97,
+      "rd": 24.09,
+      "ratingClass": "B",
+      "homeLocation": "Full Tilt Arcade & Pinball",
+      "homeLocationId": "7392",
+      "percentile": 47.887455163739695,
+      "changeDisplay": "-4.1",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m39329",
+      "name": "Ken Marciniak",
+      "rating": 1496.54,
+      "rd": 31.73,
+      "ratingClass": "C",
+      "homeLocation": "Full Tilt Arcade & Pinball",
+      "homeLocationId": "7392",
+      "percentile": 45.684073228676574,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i125887",
+      "name": "Julie Pitman",
+      "rating": 1489.11,
+      "rd": 40.52,
+      "ratingClass": "C",
+      "homeLocation": "Full Tilt Arcade & Pinball",
+      "homeLocationId": "7392",
+      "percentile": 42.63753668421298,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m39387",
+      "name": "Oscar Biernacki",
+      "rating": 1488.1,
+      "rd": 37,
+      "ratingClass": "C",
+      "homeLocation": "Full Tilt Arcade & Pinball",
+      "homeLocationId": "7392",
+      "percentile": 42.1949969720967,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m23035",
+      "name": "Jesse Trueblood",
+      "rating": 1482.97,
+      "rd": 63.02,
+      "ratingClass": "C",
+      "homeLocation": "Full Tilt Arcade & Pinball",
+      "homeLocationId": "7392",
+      "percentile": 40.11273116877067,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m52660",
+      "name": "Kace Biernacki",
+      "rating": 1476.77,
+      "rd": 42.19,
+      "ratingClass": "C",
+      "homeLocation": "Full Tilt Arcade & Pinball",
+      "homeLocationId": "7392",
+      "percentile": 37.60655890436484,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m50488",
+      "name": "Scott Sweitzer",
+      "rating": 1476.57,
+      "rd": 18.22,
+      "ratingClass": "C",
+      "homeLocation": "Tappers",
+      "homeLocationId": "8405",
+      "percentile": 37.513392649182464,
+      "changeDisplay": "+6.8",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m30411",
+      "name": "Mark Schult",
+      "rating": 1471.8,
+      "rd": 38.37,
+      "ratingClass": "C",
+      "homeLocation": "Full Tilt Arcade & Pinball",
+      "homeLocationId": "7392",
+      "percentile": 35.54292635207528,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i125889",
+      "name": "Isaac Pitman",
+      "rating": 1454.85,
+      "rd": 66.93,
+      "ratingClass": "C",
+      "homeLocation": "Full Tilt Arcade & Pinball",
+      "homeLocationId": "7392",
+      "percentile": 29.02594680206829,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i110423",
+      "name": "Luke Porter",
+      "rating": 1431.51,
+      "rd": 49.07,
+      "ratingClass": "C",
+      "homeLocation": "Full Tilt Arcade & Pinball",
+      "homeLocationId": "7392",
+      "percentile": 21.01364885638422,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m39388",
+      "name": "Justin Garza",
+      "rating": 1428.73,
+      "rd": 31.22,
+      "ratingClass": "C",
+      "homeLocation": "Full Tilt Arcade & Pinball",
+      "homeLocationId": "7392",
+      "percentile": 20.22639400009317,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m43208",
+      "name": "Rosie Hessert",
+      "rating": 1367.5,
+      "rd": 39.38,
+      "ratingClass": "D",
+      "homeLocation": "Orbit Room",
+      "homeLocationId": "5259",
+      "percentile": 6.37257185447431,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

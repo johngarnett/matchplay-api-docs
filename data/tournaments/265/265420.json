@@ -1,0 +1,39 @@
+{
+  "tournamentId": 265420,
+  "name": "semifinals Transformer LAunch party",
+  "date": "2026-08-04",
+  "locationId": "10131",
+  "locationName": "The Rewind Arcade",
+  "playerCount": 4,
+  "ratingsDate": "2026-08-04",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m7530",
+      "name": "Mathew Peterson",
+      "rating": 1711.78,
+      "dailyRatingChange": 5.4
+    },
+    {
+      "position": 2,
+      "playerId": "m32628",
+      "name": "Adam Lam",
+      "rating": 1526.14,
+      "dailyRatingChange": 14.16
+    },
+    {
+      "position": 3,
+      "playerId": "m51261",
+      "name": "Irving Lam",
+      "rating": 1608.16,
+      "dailyRatingChange": 3.15
+    },
+    {
+      "position": 4,
+      "playerId": "m29955",
+      "name": "Ryan Hohne",
+      "rating": 1631.76,
+      "dailyRatingChange": -4.39
+    }
+  ]
+}

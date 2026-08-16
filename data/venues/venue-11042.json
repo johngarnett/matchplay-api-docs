@@ -1,0 +1,95 @@
+{
+  "locationId": "11042",
+  "name": "Pinballz Kingdom",
+  "address": "15201 S Interstate 35, Buda, TX 78610, US",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 6,
+  "relatedVenues": [
+    {
+      "locationId": "8994",
+      "name": "Bender Bar and Grill",
+      "address": "321 W Ben White Blvd Ste 300, Austin, TX 78704, US",
+      "count": 10
+    },
+    {
+      "locationId": "11561",
+      "name": "Austin Pinball Collective",
+      "address": "1106 Clayton Ln, Austin, TX 78723, US",
+      "count": 1
+    }
+  ],
+  "players": [
+    {
+      "id": "m20698",
+      "name": "Joel Davis",
+      "rating": 1655.62,
+      "rd": 25.4,
+      "ratingClass": "A",
+      "homeLocation": "Pinballz Kingdom",
+      "homeLocationId": "11042",
+      "percentile": 92.49545814505986,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m39330",
+      "name": "Charles Speer",
+      "rating": 1573.68,
+      "rd": 28.33,
+      "ratingClass": "B",
+      "homeLocation": "Pinballz Kingdom",
+      "homeLocationId": "11042",
+      "percentile": 74.68672846694928,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m45521",
+      "name": "Jake Staehle",
+      "rating": 1510.21,
+      "rd": 23.16,
+      "ratingClass": "B",
+      "homeLocation": "Bender Bar and Grill",
+      "homeLocationId": "8994",
+      "percentile": 51.343923231005725,
+      "changeDisplay": "+4.5",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "i87441",
+      "name": "Clint Davis",
+      "rating": 1478.75,
+      "rd": 32,
+      "ratingClass": "C",
+      "homeLocation": "Pinballz Kingdom",
+      "homeLocationId": "11042",
+      "percentile": 38.45903013928355,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m58389",
+      "name": "Rodney SAPL",
+      "rating": 1448.81,
+      "rd": 52.06,
+      "ratingClass": "C",
+      "homeLocation": "Pinballz Kingdom",
+      "homeLocationId": "11042",
+      "percentile": 26.68747379699073,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i126225",
+      "name": "Andre Evrenos",
+      "rating": 1374.35,
+      "rd": 32.3,
+      "ratingClass": "D",
+      "homeLocation": "Pinballz Kingdom",
+      "homeLocationId": "11042",
+      "percentile": 7.313551031816276,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "tournamentId": 263829,
+  "name": "Finals for July Monthly Matchplay",
+  "date": "2026-07-25",
+  "locationId": "6610",
+  "locationName": "Jay’s Silver Ballroom",
+  "playerCount": 8,
+  "ratingsDate": "2026-07-25",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m43932",
+      "name": "Jordan Dorrington",
+      "rating": 1629.39,
+      "dailyRatingChange": 10.21
+    },
+    {
+      "position": 2,
+      "playerId": "m22225",
+      "name": "Emily Gross IA",
+      "rating": 1633.45,
+      "dailyRatingChange": -3.36
+    },
+    {
+      "position": 3,
+      "playerId": "m32173",
+      "name": "Cam Edwards",
+      "rating": 1624.97,
+      "dailyRatingChange": 3.87
+    },
+    {
+      "position": 4,
+      "playerId": "m59001",
+      "name": "Joel Averkamp",
+      "rating": 1520.6,
+      "dailyRatingChange": 15.9
+    },
+    {
+      "position": 5,
+      "playerId": "i152990",
+      "name": "Dan Fuller",
+      "rating": 1582.47,
+      "dailyRatingChange": 21.28
+    },
+    {
+      "position": 5,
+      "playerId": "m6270",
+      "name": "Jay Gross",
+      "rating": 1610.49,
+      "dailyRatingChange": 0.5
+    },
+    {
+      "position": 7,
+      "playerId": "m56418",
+      "name": "Todd A. Miller",
+      "rating": 1608.66,
+      "dailyRatingChange": -1.63
+    },
+    {
+      "position": 7,
+      "playerId": "m42039",
+      "name": "Greg M Smith",
+      "rating": 1526.28,
+      "dailyRatingChange": 11.96
+    }
+  ]
+}

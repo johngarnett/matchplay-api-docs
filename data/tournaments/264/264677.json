@@ -1,0 +1,53 @@
+{
+  "tournamentId": 264677,
+  "name": "B Finals for KCK Women's League",
+  "date": "2026-07-31",
+  "locationId": "7102",
+  "locationName": "403 Club",
+  "playerCount": 6,
+  "ratingsDate": "2026-07-31",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m53156",
+      "name": "Cecilia Quick",
+      "rating": 1419.78,
+      "dailyRatingChange": 6.64
+    },
+    {
+      "position": 2,
+      "playerId": "m556384",
+      "name": "Mandy McKinney",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 3,
+      "playerId": "m458372",
+      "name": "Kathy Ripley",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 4,
+      "playerId": "m51591",
+      "name": "Jessica Forster",
+      "rating": 1271.04,
+      "dailyRatingChange": 1.1
+    },
+    {
+      "position": 5,
+      "playerId": "i141742",
+      "name": "Carol Normandin",
+      "rating": 1256.56,
+      "dailyRatingChange": -1.3
+    },
+    {
+      "position": 5,
+      "playerId": "m12524",
+      "name": "Karli Cash",
+      "rating": 1330.99,
+      "dailyRatingChange": -3.54
+    }
+  ]
+}

@@ -1,0 +1,323 @@
+{
+  "locationId": "7527",
+  "name": "Sting Rays Bar And Grill",
+  "address": "3112 East State Road 60, Valrico, FL 33594, US",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 21,
+  "relatedVenues": [
+    {
+      "locationId": "7285",
+      "name": "Replay Museum",
+      "address": "119 Tarpon Avenue, Tarpon Springs, FL 34689, US",
+      "count": 76
+    },
+    {
+      "locationId": "12244",
+      "name": "Ballerz Pinball Cafe",
+      "address": "412 12th St W, Bradenton, FL 34205, US",
+      "count": 27
+    },
+    {
+      "locationId": "8768",
+      "name": "Lowry Parcade",
+      "address": "1213 W Waters Ave, Tampa, FL 33604, US",
+      "count": 20
+    },
+    {
+      "locationId": "12267",
+      "name": "T&T Trinity Arcade Bar",
+      "address": "1338 Epiphany Wy N-105, Trinity, FL 34655, US",
+      "count": 15
+    },
+    {
+      "locationId": "904",
+      "name": "The Pinball Asylum",
+      "address": "13721 Jetport Commerce Parkway, Unit 6 , Fort Myers, FL 33913",
+      "count": 13
+    },
+    {
+      "locationId": "7303",
+      "name": "The Pinball Lounge @Oviedo Bowling Center",
+      "address": "376 E Broadway Street, Oviedo, FL 32765, US",
+      "count": 4
+    },
+    {
+      "locationId": "8980",
+      "name": "Riptide Brewing Company",
+      "address": "28120 Hunters Ridge Blvd, Bonita Springs, FL 34135",
+      "count": 3
+    },
+    {
+      "locationId": "888",
+      "name": "Al Pinball Garage",
+      "address": "",
+      "count": 2
+    },
+    {
+      "locationId": "4804",
+      "name": "District 82 Pinball",
+      "address": "800 O Keefe Rd, De Pere, WI 54115, USA",
+      "count": 2
+    },
+    {
+      "locationId": "9800",
+      "name": "3 Daughters Brewing",
+      "address": "222 22nd St S, St. Petersburg, FL 33712, US",
+      "count": 2
+    }
+  ],
+  "players": [
+    {
+      "id": "m1540",
+      "name": "Rob Endo",
+      "rating": 1723.48,
+      "rd": 18.13,
+      "ratingClass": "Expert",
+      "homeLocation": "Replay Museum",
+      "homeLocationId": "7285",
+      "percentile": 97.88046769460101,
+      "changeDisplay": "+3.7",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m24211",
+      "name": "Adam Gray",
+      "rating": 1686.92,
+      "rd": 19.44,
+      "ratingClass": "A",
+      "homeLocation": "Replay Museum",
+      "homeLocationId": "7285",
+      "percentile": 95.66776913401965,
+      "changeDisplay": "+6.1",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m40158",
+      "name": "Andrew Hernandez",
+      "rating": 1666.63,
+      "rd": 17.18,
+      "ratingClass": "A",
+      "homeLocation": "Replay Museum",
+      "homeLocationId": "7285",
+      "percentile": 93.79046909209484,
+      "changeDisplay": "+7.9",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m690",
+      "name": "Patrick Shatzer",
+      "rating": 1645.66,
+      "rd": 26.87,
+      "ratingClass": "A",
+      "homeLocation": "Replay Museum",
+      "homeLocationId": "7285",
+      "percentile": 91.10728094284251,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m30255",
+      "name": "Matt Odechuck",
+      "rating": 1624.87,
+      "rd": 23.15,
+      "ratingClass": "A",
+      "homeLocation": "Ballerz Pinball Cafe",
+      "homeLocationId": "12244",
+      "percentile": 87.57627987143056,
+      "changeDisplay": "-2.3",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m46942",
+      "name": "Cleveland Harper",
+      "rating": 1606.37,
+      "rd": 27.56,
+      "ratingClass": "A",
+      "homeLocation": "Lowry Parcade",
+      "homeLocationId": "8768",
+      "percentile": 83.5375227092747,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m27060",
+      "name": "Fred Cook",
+      "rating": 1601.67,
+      "rd": 19.88,
+      "ratingClass": "A",
+      "homeLocation": "Replay Museum",
+      "homeLocationId": "7285",
+      "percentile": 82.42884427260447,
+      "changeDisplay": "-2.6",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m25662",
+      "name": "Andrew Robishaw",
+      "rating": 1576.43,
+      "rd": 22.88,
+      "ratingClass": "B",
+      "homeLocation": "Replay Museum",
+      "homeLocationId": "7285",
+      "percentile": 75.62770764429125,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m30307",
+      "name": "Michael Brower",
+      "rating": 1571.93,
+      "rd": 31.1,
+      "ratingClass": "B",
+      "homeLocation": "Sting Rays Bar And Grill",
+      "homeLocationId": "7527",
+      "percentile": 74.08580612102297,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m56389",
+      "name": "Ed Aborn",
+      "rating": 1532.13,
+      "rd": 50.18,
+      "ratingClass": "B",
+      "homeLocation": "Sting Rays Bar And Grill",
+      "homeLocationId": "7527",
+      "percentile": 59.92453533330227,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i126737",
+      "name": "Mike Hall",
+      "rating": 1525.67,
+      "rd": 23.96,
+      "ratingClass": "B",
+      "homeLocation": "Ballerz Pinball Cafe",
+      "homeLocationId": "12244",
+      "percentile": 57.34383006475055,
+      "changeDisplay": "+27.4",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m19069",
+      "name": "Ryan Bobko",
+      "rating": 1519.04,
+      "rd": 27.86,
+      "ratingClass": "B",
+      "homeLocation": "The Pinball Asylum",
+      "homeLocationId": "904",
+      "percentile": 54.73983323240322,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m60509",
+      "name": "Jason Decarmine",
+      "rating": 1509.33,
+      "rd": 34.25,
+      "ratingClass": "B",
+      "homeLocation": "Lowry Parcade",
+      "homeLocationId": "8768",
+      "percentile": 50.961941584757994,
+      "changeDisplay": "+14.5",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m40377",
+      "name": "Ryder Harlin",
+      "rating": 1496.82,
+      "rd": 45.72,
+      "ratingClass": "C",
+      "homeLocation": "Sting Rays Bar And Grill",
+      "homeLocationId": "7527",
+      "percentile": 45.809847673172776,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i13934",
+      "name": "Mike Hall",
+      "rating": 1479.49,
+      "rd": 42.97,
+      "ratingClass": "C",
+      "homeLocation": "Sting Rays Bar And Grill",
+      "homeLocationId": "7527",
+      "percentile": 38.71523734103508,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i100076",
+      "name": "Mike Matthay",
+      "rating": 1477.46,
+      "rd": 35.94,
+      "ratingClass": "C",
+      "homeLocation": "Sting Rays Bar And Grill",
+      "homeLocationId": "7527",
+      "percentile": 37.90469092094843,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m38581",
+      "name": "Vinnie Draino",
+      "rating": 1459.81,
+      "rd": 20.56,
+      "ratingClass": "C",
+      "homeLocation": "Replay Museum",
+      "homeLocationId": "7285",
+      "percentile": 30.92188009502958,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m33859",
+      "name": "JD Barile",
+      "rating": 1443.29,
+      "rd": 36.69,
+      "ratingClass": "C",
+      "homeLocation": "Sting Rays Bar And Grill",
+      "homeLocationId": "7527",
+      "percentile": 24.856756882657102,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m60510",
+      "name": "Jessica Coiro",
+      "rating": 1434.1,
+      "rd": 35.04,
+      "ratingClass": "C",
+      "homeLocation": "Lowry Parcade",
+      "homeLocationId": "8768",
+      "percentile": 21.824195276470864,
+      "changeDisplay": "-11.4",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "i115146",
+      "name": "Hope Barile",
+      "rating": 1348.51,
+      "rd": 49.83,
+      "ratingClass": "D",
+      "homeLocation": "Sting Rays Bar And Grill",
+      "homeLocationId": "7527",
+      "percentile": 4.0899986025061725,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i96864",
+      "name": "Tom Quigley",
+      "rating": null,
+      "rd": null,
+      "ratingClass": "N/A",
+      "homeLocation": "Sting Rays Bar And Grill",
+      "homeLocationId": "7527",
+      "percentile": null,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

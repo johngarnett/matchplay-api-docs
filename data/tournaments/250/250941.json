@@ -1,0 +1,270 @@
+{
+  "tournamentId": 250941,
+  "name": "Summer Slam 2026",
+  "date": "2026-07-30",
+  "locationId": "10016",
+  "locationName": "One Well Brewing",
+  "playerCount": 37,
+  "ratingsDate": "2026-07-30",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "i87653",
+      "name": "Josh Dearman",
+      "rating": 1652.14,
+      "dailyRatingChange": 3.61
+    },
+    {
+      "position": 1,
+      "playerId": "m20025",
+      "name": "Jason Kramer",
+      "rating": 1657.57,
+      "dailyRatingChange": 15.41
+    },
+    {
+      "position": 1,
+      "playerId": "m50256",
+      "name": "Daniel Tabaka",
+      "rating": 1671.5,
+      "dailyRatingChange": -0.64
+    },
+    {
+      "position": 4,
+      "playerId": "m878",
+      "name": "Chris Tabaka",
+      "rating": 1778.14,
+      "dailyRatingChange": 2.26
+    },
+    {
+      "position": 5,
+      "playerId": "m20029",
+      "name": "Drainin' Desi",
+      "rating": 1527.63,
+      "dailyRatingChange": 7.51
+    },
+    {
+      "position": 6,
+      "playerId": "i120086",
+      "name": "Jerome Gabriault",
+      "rating": 1416.17,
+      "dailyRatingChange": 18.08
+    },
+    {
+      "position": 7,
+      "playerId": "m11689",
+      "name": "Jordan Easterday",
+      "rating": 1540.08,
+      "dailyRatingChange": 7.49
+    },
+    {
+      "position": 8,
+      "playerId": "m20018",
+      "name": "Teague Robins",
+      "rating": 1646.68,
+      "dailyRatingChange": -0.5
+    },
+    {
+      "position": 8,
+      "playerId": "m13830",
+      "name": "Blaine Carney",
+      "rating": 1583.04,
+      "dailyRatingChange": 2.12
+    },
+    {
+      "position": 8,
+      "playerId": "m5384",
+      "name": "Dan Murphy MI",
+      "rating": 1635.22,
+      "dailyRatingChange": -1.17
+    },
+    {
+      "position": 8,
+      "playerId": "m21976",
+      "name": "Bruce Lack",
+      "rating": 1538.27,
+      "dailyRatingChange": 5.36
+    },
+    {
+      "position": 8,
+      "playerId": "m7525",
+      "name": "Maribeth Tabaka",
+      "rating": 1473.92,
+      "dailyRatingChange": 6.48
+    },
+    {
+      "position": 13,
+      "playerId": "m20247",
+      "name": "Noah Oesterle",
+      "rating": 1701.88,
+      "dailyRatingChange": -6.88
+    },
+    {
+      "position": 13,
+      "playerId": "m858",
+      "name": "Aron Duby",
+      "rating": 1603.46,
+      "dailyRatingChange": -1.34
+    },
+    {
+      "position": 13,
+      "playerId": "m53960",
+      "name": "Benjamin Beam",
+      "rating": 1524.57,
+      "dailyRatingChange": -0.64
+    },
+    {
+      "position": 13,
+      "playerId": "m21545",
+      "name": "Aaron Niemi",
+      "rating": 1544.61,
+      "dailyRatingChange": -0.85
+    },
+    {
+      "position": 13,
+      "playerId": "m23150",
+      "name": "Matt Murphy MI",
+      "rating": 1548.95,
+      "dailyRatingChange": 0.14
+    },
+    {
+      "position": 13,
+      "playerId": "m21028",
+      "name": "Mary Spiewak",
+      "rating": 1462.94,
+      "dailyRatingChange": 1.03
+    },
+    {
+      "position": 13,
+      "playerId": "m21484",
+      "name": "Charlotte Bowser",
+      "rating": 1546.49,
+      "dailyRatingChange": -1.04
+    },
+    {
+      "position": 13,
+      "playerId": "i69689",
+      "name": "Justin Nelson",
+      "rating": 1434.76,
+      "dailyRatingChange": 3.06
+    },
+    {
+      "position": 13,
+      "playerId": "m20527",
+      "name": "Jenny Lentz",
+      "rating": 1569.61,
+      "dailyRatingChange": -1.32
+    },
+    {
+      "position": 13,
+      "playerId": "m44907",
+      "name": "Jeremy Koss",
+      "rating": 1485.79,
+      "dailyRatingChange": 2.46
+    },
+    {
+      "position": 23,
+      "playerId": "m56643",
+      "name": "Noah Hudson",
+      "rating": 1378.37,
+      "dailyRatingChange": 0.79
+    },
+    {
+      "position": 23,
+      "playerId": "m3175",
+      "name": "Mike Schudel",
+      "rating": 1550.64,
+      "dailyRatingChange": -4.25
+    },
+    {
+      "position": 23,
+      "playerId": "m23147",
+      "name": "Doug Connor",
+      "rating": 1459.59,
+      "dailyRatingChange": -0.94
+    },
+    {
+      "position": 23,
+      "playerId": "m29348",
+      "name": "Rhythm",
+      "rating": 1584.73,
+      "dailyRatingChange": -8.04
+    },
+    {
+      "position": 23,
+      "playerId": "m26663",
+      "name": "Michael Westdorp",
+      "rating": 1666.82,
+      "dailyRatingChange": -5.92
+    },
+    {
+      "position": 23,
+      "playerId": "m23331",
+      "name": "Meredith Miller",
+      "rating": 1484.73,
+      "dailyRatingChange": -0.71
+    },
+    {
+      "position": 23,
+      "playerId": "m21257",
+      "name": "William Elmore",
+      "rating": 1513.08,
+      "dailyRatingChange": -3.54
+    },
+    {
+      "position": 23,
+      "playerId": "m50257",
+      "name": "Madeleine Tabaka",
+      "rating": 1479.41,
+      "dailyRatingChange": -3.32
+    },
+    {
+      "position": 23,
+      "playerId": "i85957",
+      "name": "William Lack",
+      "rating": 1561.6,
+      "dailyRatingChange": -3.89
+    },
+    {
+      "position": 23,
+      "playerId": "m53438",
+      "name": "Storm Hudson",
+      "rating": 1437.64,
+      "dailyRatingChange": -0.24
+    },
+    {
+      "position": 33,
+      "playerId": "m23151",
+      "name": "JJ Nelson",
+      "rating": 1517.99,
+      "dailyRatingChange": -5.33
+    },
+    {
+      "position": 33,
+      "playerId": "m17224",
+      "name": "Chris ONeill",
+      "rating": 1586.07,
+      "dailyRatingChange": -8.3
+    },
+    {
+      "position": 33,
+      "playerId": "m36545",
+      "name": "Sandy Gabriault",
+      "rating": 1404.07,
+      "dailyRatingChange": -3.36
+    },
+    {
+      "position": 36,
+      "playerId": "m574624",
+      "name": "Alvie Zink",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 36,
+      "playerId": "m582826",
+      "name": "Xander",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

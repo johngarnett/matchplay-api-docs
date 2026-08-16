@@ -1,0 +1,39 @@
+{
+  "tournamentId": 263200,
+  "name": "Finals Tuesday Night at Koots 072126",
+  "date": "2026-07-22",
+  "locationId": "12333",
+  "locationName": "Chilkoot Charlie's (Koot's)",
+  "playerCount": 4,
+  "ratingsDate": "2026-07-22",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m31943",
+      "name": "Snow Swanland",
+      "rating": 1661.32,
+      "dailyRatingChange": 10.61
+    },
+    {
+      "position": 2,
+      "playerId": "i117700",
+      "name": "Michael Olsen",
+      "rating": 1562.17,
+      "dailyRatingChange": 72.07
+    },
+    {
+      "position": 3,
+      "playerId": "i141716",
+      "name": "Bryce Brockelmann",
+      "rating": 1637.28,
+      "dailyRatingChange": 7.53
+    },
+    {
+      "position": 4,
+      "playerId": "m17800",
+      "name": "Matthew Sitko",
+      "rating": 1673.23,
+      "dailyRatingChange": -0.19
+    }
+  ]
+}

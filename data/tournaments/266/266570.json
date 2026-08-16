@@ -1,0 +1,74 @@
+{
+  "tournamentId": 266570,
+  "name": "ICTuesday Night Women's League Timeout",
+  "date": "2026-08-12",
+  "locationId": null,
+  "locationName": null,
+  "playerCount": 9,
+  "ratingsDate": "2026-08-12",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "i116794",
+      "name": "Meadow Duran",
+      "rating": 1664.39,
+      "dailyRatingChange": 2.98
+    },
+    {
+      "position": 2,
+      "playerId": "m27228",
+      "name": "Jaden Jacks",
+      "rating": 1537.24,
+      "dailyRatingChange": 9.5
+    },
+    {
+      "position": 3,
+      "playerId": "m36388",
+      "name": "Leslie Smith KS",
+      "rating": 1564.14,
+      "dailyRatingChange": -0.9
+    },
+    {
+      "position": 4,
+      "playerId": "m44336",
+      "name": "Patricia Ball",
+      "rating": 1385.97,
+      "dailyRatingChange": 10.16
+    },
+    {
+      "position": 5,
+      "playerId": "m586421",
+      "name": "Julie Stimson",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 6,
+      "playerId": "m31013",
+      "name": "Victoria Whitetree",
+      "rating": 1510.06,
+      "dailyRatingChange": -3.44
+    },
+    {
+      "position": 7,
+      "playerId": "m8508",
+      "name": "Casey Swain",
+      "rating": 1487.5,
+      "dailyRatingChange": -8.53
+    },
+    {
+      "position": 8,
+      "playerId": "m44238",
+      "name": "Casie Ohmes",
+      "rating": 1356.37,
+      "dailyRatingChange": 0.75
+    },
+    {
+      "position": 8,
+      "playerId": "m30373",
+      "name": "Brandie Hinds",
+      "rating": 1442.42,
+      "dailyRatingChange": -6.49
+    }
+  ]
+}

@@ -1,0 +1,299 @@
+{
+  "locationId": "11012",
+  "name": "Fizzy's Arcade",
+  "address": "4770 PA-405, Milton, PA 17847",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 19,
+  "relatedVenues": [
+    {
+      "locationId": "12658",
+      "name": "61PinBar / Cointaker",
+      "address": "1437 State Route 61 Sunbury, Pa 17801",
+      "count": 9
+    },
+    {
+      "locationId": "9084",
+      "name": "Flat Top Johnny's",
+      "address": "300 Main St, Cambridge, MA 02142, US",
+      "count": 7
+    },
+    {
+      "locationId": "12206",
+      "name": "Riverside Saloon",
+      "address": "309 N Grove St, Lock Haven, PA 17745",
+      "count": 7
+    },
+    {
+      "locationId": "11131",
+      "name": "Pop's Pinball - Deep Cuts",
+      "address": "21 Main St, Medford, MA, 02155, US",
+      "count": 6
+    },
+    {
+      "locationId": "8271",
+      "name": "Rezzanine Esports",
+      "address": "1025 Washington Pike, Bridgeville, PA 15017, US",
+      "count": 4
+    },
+    {
+      "locationId": "6346",
+      "name": "NWPAS",
+      "address": "",
+      "count": 3
+    },
+    {
+      "locationId": "6438",
+      "name": "Bartari",
+      "address": "101 Adams Ave, Scranton, PA 18503, USA",
+      "count": 2
+    },
+    {
+      "locationId": "6675",
+      "name": "Pizza J",
+      "address": "967 Westminster St, Providence, RI 02903, USA",
+      "count": 2
+    },
+    {
+      "locationId": "7705",
+      "name": "Pop's Pinball - Bow Market",
+      "address": "1 Bow Market Wy, Somerville, MA, 02143, US",
+      "count": 2
+    },
+    {
+      "locationId": "12193",
+      "name": "The KavaKade",
+      "address": "701 Quail Ave",
+      "count": 2
+    }
+  ],
+  "players": [
+    {
+      "id": "m10837",
+      "name": "Seamus Meader",
+      "rating": 1747.88,
+      "rd": 20.23,
+      "ratingClass": "Expert",
+      "homeLocation": "Flat Top Johnny's",
+      "homeLocationId": "9084",
+      "percentile": 98.66306423813295,
+      "changeDisplay": "+6.1",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m23660",
+      "name": "Travis Hurst",
+      "rating": 1701.97,
+      "rd": 31.15,
+      "ratingClass": "Expert",
+      "homeLocation": "Fizzy's Arcade",
+      "homeLocationId": "11012",
+      "percentile": 96.71588950482135,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m24558",
+      "name": "Daniel Ben-ami",
+      "rating": 1693.22,
+      "rd": 26.31,
+      "ratingClass": "A",
+      "homeLocation": "Level 256 Classic Arcade Bar",
+      "homeLocationId": "8072",
+      "percentile": 96.14291703544976,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m5592",
+      "name": "Joel Basta",
+      "rating": 1649.81,
+      "rd": 27.05,
+      "ratingClass": "A",
+      "homeLocation": "Fizzy's Arcade",
+      "homeLocationId": "11012",
+      "percentile": 91.68957003773234,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m59486",
+      "name": "Chris Schrope",
+      "rating": 1643.26,
+      "rd": 21.33,
+      "ratingClass": "A",
+      "homeLocation": "Fizzy's Arcade",
+      "homeLocationId": "11012",
+      "percentile": 90.81846555177715,
+      "changeDisplay": "+4.0",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m45754",
+      "name": "Bret Anderson",
+      "rating": 1606.77,
+      "rd": 22.82,
+      "ratingClass": "A",
+      "homeLocation": "Fizzy's Arcade",
+      "homeLocationId": "11012",
+      "percentile": 83.6400055899753,
+      "changeDisplay": "+10.4",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m52429",
+      "name": "Alex Di Costanzo",
+      "rating": 1601.34,
+      "rd": 29.78,
+      "ratingClass": "A",
+      "homeLocation": "Fizzy's Arcade",
+      "homeLocationId": "11012",
+      "percentile": 82.3403363301812,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i142926",
+      "name": "Sean Baumgartner",
+      "rating": 1570.42,
+      "rd": 28.06,
+      "ratingClass": "B",
+      "homeLocation": "Fizzy's Arcade",
+      "homeLocationId": "11012",
+      "percentile": 73.60599990683374,
+      "changeDisplay": "+8.0",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "i144949",
+      "name": "James Lawson",
+      "rating": 1562.34,
+      "rd": 32.35,
+      "ratingClass": "B",
+      "homeLocation": "Fizzy's Arcade",
+      "homeLocationId": "11012",
+      "percentile": 71.09516932966879,
+      "changeDisplay": "+12.1",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "i146026",
+      "name": "Mark Mull",
+      "rating": 1518.47,
+      "rd": 39.74,
+      "ratingClass": "B",
+      "homeLocation": "Fizzy's Arcade",
+      "homeLocationId": "11012",
+      "percentile": 54.60474216238879,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i131480",
+      "name": "Liam Dalton",
+      "rating": 1504.27,
+      "rd": 27.8,
+      "ratingClass": "B",
+      "homeLocation": "Fizzy's Arcade",
+      "homeLocationId": "11012",
+      "percentile": 48.93091722178227,
+      "changeDisplay": "-12.0",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "i17663",
+      "name": "Alex Fehervari",
+      "rating": 1503.25,
+      "rd": 54.65,
+      "ratingClass": "B",
+      "homeLocation": "Fizzy's Arcade",
+      "homeLocationId": "11012",
+      "percentile": 48.45111100759305,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i44001",
+      "name": "Aislynn Paccio",
+      "rating": 1496.18,
+      "rd": 49.09,
+      "ratingClass": "C",
+      "homeLocation": "Fizzy's Arcade",
+      "homeLocationId": "11012",
+      "percentile": 45.53500722038478,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i142927",
+      "name": "Deanna Schrope",
+      "rating": 1493.78,
+      "rd": 24.29,
+      "ratingClass": "C",
+      "homeLocation": "Fizzy's Arcade",
+      "homeLocationId": "11012",
+      "percentile": 44.640611170633996,
+      "changeDisplay": "-2.2",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m60828",
+      "name": "Brodie Anderson",
+      "rating": 1469.4,
+      "rd": 41.27,
+      "ratingClass": "C",
+      "homeLocation": "Fizzy's Arcade",
+      "homeLocationId": "11012",
+      "percentile": 34.643871989565376,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i142920",
+      "name": "Mark Patrick",
+      "rating": 1467.06,
+      "rd": 26.7,
+      "ratingClass": "C",
+      "homeLocation": "Fizzy's Arcade",
+      "homeLocationId": "11012",
+      "percentile": 33.6749429356687,
+      "changeDisplay": "-19.6",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "i145589",
+      "name": "Jim Murray",
+      "rating": 1437.64,
+      "rd": 36.43,
+      "ratingClass": "C",
+      "homeLocation": "Fizzy's Arcade",
+      "homeLocationId": "11012",
+      "percentile": 22.914240462104626,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i61830",
+      "name": "Bret Anderson",
+      "rating": null,
+      "rd": null,
+      "ratingClass": "N/A",
+      "homeLocation": "Fizzy's Arcade",
+      "homeLocationId": "11012",
+      "percentile": null,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i132939",
+      "name": "Chris Schrope",
+      "rating": null,
+      "rd": null,
+      "ratingClass": "N/A",
+      "homeLocation": "Fizzy's Arcade",
+      "homeLocationId": "11012",
+      "percentile": null,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

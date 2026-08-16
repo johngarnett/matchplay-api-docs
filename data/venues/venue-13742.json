@@ -1,0 +1,46 @@
+{
+  "locationId": "13742",
+  "name": "Pop's Pinball - South Berwick",
+  "address": "261 Main St, South Berwick, ME 03908, US",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 3,
+  "relatedVenues": [],
+  "players": [
+    {
+      "id": "m14606",
+      "name": "Jillian Towne",
+      "rating": 1660.46,
+      "rd": 27.32,
+      "ratingClass": "A",
+      "homeLocation": "Pop's Pinball - South Berwick",
+      "homeLocationId": "13742",
+      "percentile": 93.1289886803,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m13118",
+      "name": "Daniel Nieves",
+      "rating": 1560.51,
+      "rd": 29.58,
+      "ratingClass": "B",
+      "homeLocation": "Pop's Pinball - South Berwick",
+      "homeLocationId": "13742",
+      "percentile": 70.45698048166955,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m46240",
+      "name": "Isaac Stanchina",
+      "rating": 1504.66,
+      "rd": 29.81,
+      "ratingClass": "B",
+      "homeLocation": "Pop's Pinball - South Berwick",
+      "homeLocationId": "13742",
+      "percentile": 49.121908044906135,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "tournamentId": 249050,
+  "name": "Playoffs for MMG Pins and Pours S4 - Group A",
+  "date": "2026-07-24",
+  "locationId": "9842",
+  "locationName": "MarTEEnez Minigolf & Arcade",
+  "playerCount": 13,
+  "ratingsDate": "2026-07-24",
+  "standings": [
+    {
+      "position": 4,
+      "playerId": "m6120",
+      "name": "Alex Gomes",
+      "rating": 1810.2,
+      "dailyRatingChange": -5.61
+    },
+    {
+      "position": 5,
+      "playerId": "m47712",
+      "name": "Michael Evans",
+      "rating": 1604,
+      "dailyRatingChange": 0.25
+    },
+    {
+      "position": 5,
+      "playerId": "m49336",
+      "name": "Quaid Matthews",
+      "rating": 1438.79,
+      "dailyRatingChange": 1.73
+    },
+    {
+      "position": 7,
+      "playerId": "m38875",
+      "name": "Ryan Matthews",
+      "rating": 1505.98,
+      "dailyRatingChange": 0.74
+    },
+    {
+      "position": 7,
+      "playerId": "m43379",
+      "name": "Sasha Watchman",
+      "rating": 1471.5,
+      "dailyRatingChange": 1.31
+    },
+    {
+      "position": 9,
+      "playerId": "m49369",
+      "name": "Brittany Swearingen",
+      "rating": 1409.32,
+      "dailyRatingChange": 0.17
+    },
+    {
+      "position": 9,
+      "playerId": "m49796",
+      "name": "Keith Parkins",
+      "rating": 1603.42,
+      "dailyRatingChange": -1.31
+    },
+    {
+      "position": 9,
+      "playerId": "m52335",
+      "name": "Rob Hunt",
+      "rating": 1465.8,
+      "dailyRatingChange": 0.12
+    },
+    {
+      "position": 9,
+      "playerId": "m27777",
+      "name": "AJ Santos",
+      "rating": 1576.2,
+      "dailyRatingChange": -1.42
+    },
+    {
+      "position": 13,
+      "playerId": "m40179",
+      "name": "Dean Burns",
+      "rating": 1517.04,
+      "dailyRatingChange": -2.76
+    },
+    {
+      "position": 13,
+      "playerId": "m47714",
+      "name": "Jesse Alvarado",
+      "rating": 1533.54,
+      "dailyRatingChange": -4.13
+    },
+    {
+      "position": 13,
+      "playerId": "m49363",
+      "name": "Joseph Ostler",
+      "rating": 1560.3,
+      "dailyRatingChange": -4.32
+    },
+    {
+      "position": 13,
+      "playerId": "m47711",
+      "name": "Melissa Hatlen",
+      "rating": 1389.87,
+      "dailyRatingChange": -2.12
+    }
+  ]
+}

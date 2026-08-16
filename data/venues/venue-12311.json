@@ -1,0 +1,179 @@
+{
+  "locationId": "12311",
+  "name": "3rd Lair Skatepark and Skate Shop",
+  "address": "850 Florida Ave S, Minneapolis, MN 55426, US",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 9,
+  "relatedVenues": [
+    {
+      "locationId": "8625",
+      "name": "LITT Pinball Bar",
+      "address": "2021 Hennepin Ave S, Minneapolis, MN, 55405, US",
+      "count": 40
+    },
+    {
+      "locationId": "8863",
+      "name": "Northstar Pinball Collective",
+      "address": "5636 West 125th Street, Savage, MN",
+      "count": 28
+    },
+    {
+      "locationId": "5500",
+      "name": "Blainbrook",
+      "address": "",
+      "count": 22
+    },
+    {
+      "locationId": "12233",
+      "name": "Full Tilt Tavern",
+      "address": "8301 Normandale Service Rd, Bloomington, MN 55437, US",
+      "count": 11
+    },
+    {
+      "locationId": "4804",
+      "name": "District 82 Pinball",
+      "address": "800 O Keefe Rd, De Pere, WI 54115, USA",
+      "count": 9
+    },
+    {
+      "locationId": "8209",
+      "name": "Broken Clock Brewing Cooperative",
+      "address": "1712 Marshall St NE, Minneapolis, MN 55413, US",
+      "count": 5
+    },
+    {
+      "locationId": "11685",
+      "name": "56 Brewing",
+      "address": "3055 NE Columbia St, Minneapolis, MN 55418, US",
+      "count": 5
+    },
+    {
+      "locationId": "12344",
+      "name": "Flahertys Arden Bowl",
+      "address": "1273 West County Road East, Arden Hills, MN 55112, US",
+      "count": 4
+    },
+    {
+      "locationId": "13408",
+      "name": "Stray Dog",
+      "address": "401 E Hennepin Ave, Minneapolis, MN 55414, US",
+      "count": 3
+    },
+    {
+      "locationId": "9019",
+      "name": "Rock Fantasy",
+      "address": "12 East Main Street, Middletown, New York 10940, US",
+      "count": 2
+    }
+  ],
+  "players": [
+    {
+      "id": "m19651",
+      "name": "Phil Frazier",
+      "rating": 1664.43,
+      "rd": 22.71,
+      "ratingClass": "A",
+      "homeLocation": "Blainbrook",
+      "homeLocationId": "5500",
+      "percentile": 93.57152839241627,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m21536",
+      "name": "Erika Corio",
+      "rating": 1605.84,
+      "rd": 20.58,
+      "ratingClass": "A",
+      "homeLocation": "Northstar Pinball Collective",
+      "homeLocationId": "8863",
+      "percentile": 83.37914007546466,
+      "changeDisplay": "-3.5",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m19909",
+      "name": "Kyle Corio",
+      "rating": 1547.02,
+      "rd": 23.78,
+      "ratingClass": "B",
+      "homeLocation": "Northstar Pinball Collective",
+      "homeLocationId": "8863",
+      "percentile": 65.58438533563144,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m10047",
+      "name": "Brooke Hipsher",
+      "rating": 1533.42,
+      "rd": 20.29,
+      "ratingClass": "B",
+      "homeLocation": "LITT Pinball Bar",
+      "homeLocationId": "8625",
+      "percentile": 60.418316485768855,
+      "changeDisplay": "+0.5",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m60698",
+      "name": "Jana Young",
+      "rating": 1532.83,
+      "rd": 45.06,
+      "ratingClass": "B",
+      "homeLocation": "LITT Pinball Bar",
+      "homeLocationId": "8625",
+      "percentile": 60.222667349885874,
+      "changeDisplay": "+19.6",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m19072",
+      "name": "Elizabeth Boelke",
+      "rating": 1532.76,
+      "rd": 16.83,
+      "ratingClass": "B",
+      "homeLocation": "LITT Pinball Bar",
+      "homeLocationId": "8625",
+      "percentile": 60.17608422229469,
+      "changeDisplay": "-3.1",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m25042",
+      "name": "Bill Wilson",
+      "rating": 1478.84,
+      "rd": 19.03,
+      "ratingClass": "C",
+      "homeLocation": "Blainbrook",
+      "homeLocationId": "5500",
+      "percentile": 38.50561326687474,
+      "changeDisplay": "+7.0",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m25054",
+      "name": "Kristin Lund",
+      "rating": 1403.16,
+      "rd": 27.48,
+      "ratingClass": "C",
+      "homeLocation": "LITT Pinball Bar",
+      "homeLocationId": "8625",
+      "percentile": 13.299482927283737,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m24490",
+      "name": "Mary Palmer",
+      "rating": 1341.9,
+      "rd": 31.08,
+      "ratingClass": "D",
+      "homeLocation": "3rd Lair Skatepark and Skate Shop",
+      "homeLocationId": "12311",
+      "percentile": 3.395910001397494,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

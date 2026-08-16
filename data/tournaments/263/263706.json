@@ -1,0 +1,67 @@
+{
+  "tournamentId": 263706,
+  "name": "Next level final",
+  "date": "2026-07-25",
+  "locationId": "10677",
+  "locationName": "Next Level Pinball Museum",
+  "playerCount": 8,
+  "ratingsDate": "2026-07-25",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m56494",
+      "name": "Joseph Rembecki",
+      "rating": 1671.41,
+      "dailyRatingChange": 6.94
+    },
+    {
+      "position": 2,
+      "playerId": "m27863",
+      "name": "Michael Dorland",
+      "rating": 1584.64,
+      "dailyRatingChange": 11.45
+    },
+    {
+      "position": 3,
+      "playerId": "m14940",
+      "name": "Derek Jennings",
+      "rating": 1743.53,
+      "dailyRatingChange": -8.17
+    },
+    {
+      "position": 4,
+      "playerId": "m7530",
+      "name": "Mathew Peterson",
+      "rating": 1704.17,
+      "dailyRatingChange": 1.62
+    },
+    {
+      "position": 5,
+      "playerId": "m20914",
+      "name": "Jeff Monroe",
+      "rating": 1705.52,
+      "dailyRatingChange": -0.18
+    },
+    {
+      "position": 5,
+      "playerId": "m62024",
+      "name": "Liam Fitzpatrick",
+      "rating": 1602.43,
+      "dailyRatingChange": 55.37
+    },
+    {
+      "position": 7,
+      "playerId": "m48271",
+      "name": "Logan Seidl",
+      "rating": 1636.08,
+      "dailyRatingChange": -2.41
+    },
+    {
+      "position": 7,
+      "playerId": "m35230",
+      "name": "Joseph Sachs",
+      "rating": 1589.07,
+      "dailyRatingChange": 6.5
+    }
+  ]
+}

@@ -1,0 +1,275 @@
+{
+  "locationId": "9208",
+  "name": "Burn Block Social Club",
+  "address": "1217B 9 Ave SE Calgary AB",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 17,
+  "relatedVenues": [
+    {
+      "locationId": "13187",
+      "name": "Nightwave Arcade",
+      "address": "2020 32 Ave NE R, Calgary, AB T2E 9A7",
+      "count": 66
+    },
+    {
+      "locationId": "6599",
+      "name": "The Hidden Spot - DSP",
+      "address": "2323 32 Ave NE #125, Calgary, AB T2E 6Z3, Canada",
+      "count": 47
+    },
+    {
+      "locationId": "13099",
+      "name": "Nightwave Arcade",
+      "address": "2020 32 Ave NE, Calgary, AB, T2E 9A7, CA",
+      "count": 33
+    },
+    {
+      "locationId": "10939",
+      "name": "Millennium Place",
+      "address": "2000 Premier Way, Sherwood Park, AB",
+      "count": 8
+    },
+    {
+      "locationId": "11525",
+      "name": "Big Four Stampede Grounds",
+      "address": "Calgary, AB T2G 2W1",
+      "count": 6
+    },
+    {
+      "locationId": "12582",
+      "name": "Nightwave Arcade",
+      "address": "2020 32 Ave NE, Calgary, AB T2E 9A7, CA",
+      "count": 4
+    },
+    {
+      "locationId": "9318",
+      "name": "The Hidden Spot",
+      "address": "2323 32 Ave NE, Calgary, AB T2E 6Z3, CA",
+      "count": 3
+    },
+    {
+      "locationId": "11387",
+      "name": "M&M's RaveCaveArcade",
+      "address": "",
+      "count": 3
+    },
+    {
+      "locationId": "10133",
+      "name": "Burn Block Social Club",
+      "address": "1219 9 Ave SE",
+      "count": 2
+    },
+    {
+      "locationId": "10614",
+      "name": "Phantom Amusement",
+      "address": "1 Forks Market Rd, Winnipeg, MB R3C 4L9, CA",
+      "count": 2
+    }
+  ],
+  "players": [
+    {
+      "id": "m30014",
+      "name": "Phil Tremblay",
+      "rating": 1599.57,
+      "rd": 21.37,
+      "ratingClass": "B",
+      "homeLocation": "Nightwave Arcade",
+      "homeLocationId": "13187",
+      "percentile": 81.89779661806493,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m6746",
+      "name": "William Thomson",
+      "rating": 1584.68,
+      "rd": 24.85,
+      "ratingClass": "B",
+      "homeLocation": "The Hidden Spot - DSP",
+      "homeLocationId": "6599",
+      "percentile": 77.97083896212791,
+      "changeDisplay": "-3.8",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m39933",
+      "name": "Rob Kropodra",
+      "rating": 1584.44,
+      "rd": 22.54,
+      "ratingClass": "B",
+      "homeLocation": "The Hidden Spot - DSP",
+      "homeLocationId": "6599",
+      "percentile": 77.91959752177762,
+      "changeDisplay": "-8.0",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m9510",
+      "name": "Bill Henry",
+      "rating": 1564.01,
+      "rd": 29.72,
+      "ratingClass": "B",
+      "homeLocation": "Burn Block Social Club",
+      "homeLocationId": "9208",
+      "percentile": 71.64019192248567,
+      "changeDisplay": "-0.0",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m9509",
+      "name": "Nancy Barnes",
+      "rating": 1563.07,
+      "rd": 18.47,
+      "ratingClass": "B",
+      "homeLocation": "Nightwave Arcade",
+      "homeLocationId": "13187",
+      "percentile": 71.32808496762473,
+      "changeDisplay": "-4.2",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m30981",
+      "name": "Lukasz Szczepkowski",
+      "rating": 1556.34,
+      "rd": 22.06,
+      "ratingClass": "B",
+      "homeLocation": "Nightwave Arcade",
+      "homeLocationId": "13187",
+      "percentile": 69.14333628359807,
+      "changeDisplay": "+4.2",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m58351",
+      "name": "Ron Nelson (CAN)",
+      "rating": 1551.19,
+      "rd": 23.57,
+      "ratingClass": "B",
+      "homeLocation": "Nightwave Arcade",
+      "homeLocationId": "13187",
+      "percentile": 67.1728699864909,
+      "changeDisplay": "-3.9",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m22227",
+      "name": "Peter Zareba",
+      "rating": 1526.94,
+      "rd": 67.45,
+      "ratingClass": "B",
+      "homeLocation": "Burn Block Social Club",
+      "homeLocationId": "9208",
+      "percentile": 57.81431965342153,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m54223",
+      "name": "Mark Foran",
+      "rating": 1512.61,
+      "rd": 30.25,
+      "ratingClass": "B",
+      "homeLocation": "Burn Block Social Club",
+      "homeLocationId": "9208",
+      "percentile": 52.23831928075651,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m41404",
+      "name": "Jenny Nystrom",
+      "rating": 1503.71,
+      "rd": 22.63,
+      "ratingClass": "B",
+      "homeLocation": "Nightwave Arcade",
+      "homeLocationId": "13187",
+      "percentile": 48.7119765221037,
+      "changeDisplay": "+0.6",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m49194",
+      "name": "Cory Bond",
+      "rating": 1497.33,
+      "rd": 23.8,
+      "ratingClass": "C",
+      "homeLocation": "The Hidden Spot - DSP",
+      "homeLocationId": "6599",
+      "percentile": 46.01947174733312,
+      "changeDisplay": "-2.6",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m55508",
+      "name": "Steve Mercer (CAN)",
+      "rating": 1445.78,
+      "rd": 43.27,
+      "ratingClass": "C",
+      "homeLocation": "Nightwave Arcade",
+      "homeLocationId": "13099",
+      "percentile": 25.681278241021104,
+      "changeDisplay": "+10.7",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m40836",
+      "name": "Chris Blanton",
+      "rating": 1434.73,
+      "rd": 60.6,
+      "ratingClass": "C",
+      "homeLocation": "Burn Block Social Club",
+      "homeLocationId": "9208",
+      "percentile": 22.024502725112963,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m59163",
+      "name": "Allie Yeats",
+      "rating": 1375.05,
+      "rd": 27.31,
+      "ratingClass": "D",
+      "homeLocation": "Nightwave Arcade",
+      "homeLocationId": "13187",
+      "percentile": 7.430008850794242,
+      "changeDisplay": "+4.5",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "i103060",
+      "name": "Steve Fugel",
+      "rating": 1366.31,
+      "rd": 32.85,
+      "ratingClass": "D",
+      "homeLocation": "Burn Block Social Club",
+      "homeLocationId": "9208",
+      "percentile": 6.218847533423394,
+      "changeDisplay": "-13.1",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "i128415",
+      "name": "Charlie Ivany",
+      "rating": 1294.26,
+      "rd": 52.41,
+      "ratingClass": "E",
+      "homeLocation": "Burn Block Social Club",
+      "homeLocationId": "9208",
+      "percentile": 0.8617878604369498,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i156142",
+      "name": "Ron Nelson CAN",
+      "rating": null,
+      "rd": null,
+      "ratingClass": "N/A",
+      "homeLocation": "Burn Block Social Club",
+      "homeLocationId": "9208",
+      "percentile": null,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

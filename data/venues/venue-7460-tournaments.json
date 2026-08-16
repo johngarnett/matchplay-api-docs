@@ -1,0 +1,73 @@
+{
+  "locationId": "7460",
+  "venueName": "The Brewtique",
+  "venueAddress": "401 Cypress Creek Road, Cedar Park, TX 78613, US",
+  "tournaments": [
+    {
+      "id": 266969,
+      "name": "BrewQrew Tournament  - Return of the King",
+      "date": "8/13/2026",
+      "playerCount": 16,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m1048",
+          "name": "Jason Newman",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m486",
+          "name": "Brad Holliday",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "p316335",
+          "name": "Adam Barnett",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "p322403",
+          "name": "Link Wilson",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 264680,
+      "name": "Brewqrew - Dogs Dayz of Summer Edition - 7/30/26",
+      "date": "7/30/2026",
+      "playerCount": 16,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m39331",
+          "name": "Paul Young",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "p554369",
+          "name": "Stephen Dick",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m13131",
+          "name": "Christopher Welch",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "p376870",
+          "name": "Scott Smith",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

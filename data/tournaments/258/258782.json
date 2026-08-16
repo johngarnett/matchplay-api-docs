@@ -1,0 +1,74 @@
+{
+  "tournamentId": 258782,
+  "name": "Third Fridays at Gift",
+  "date": "2026-07-18",
+  "locationId": "12907",
+  "locationName": "Gift",
+  "playerCount": 9,
+  "ratingsDate": "2026-07-18",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m2042",
+      "name": "Andy Burton",
+      "rating": 1730.61,
+      "dailyRatingChange": 21.35
+    },
+    {
+      "position": 2,
+      "playerId": "m13872",
+      "name": "Jason Galginaitis",
+      "rating": 1741.74,
+      "dailyRatingChange": -11.13
+    },
+    {
+      "position": 3,
+      "playerId": "m48960",
+      "name": "Cory Butcher",
+      "rating": 1560.81,
+      "dailyRatingChange": 1.99
+    },
+    {
+      "position": 4,
+      "playerId": "m2635",
+      "name": "Suppressed Player",
+      "rating": 1618.32,
+      "dailyRatingChange": -13.81
+    },
+    {
+      "position": 5,
+      "playerId": "m53232",
+      "name": "Brit Barnhouse",
+      "rating": 1396.4,
+      "dailyRatingChange": 17.23
+    },
+    {
+      "position": 6,
+      "playerId": "i131540",
+      "name": "Rob Polivka",
+      "rating": 1606.1,
+      "dailyRatingChange": -17.46
+    },
+    {
+      "position": 6,
+      "playerId": "m53770",
+      "name": "David Zulaica",
+      "rating": 1426.65,
+      "dailyRatingChange": 65.18
+    },
+    {
+      "position": 8,
+      "playerId": "i145185",
+      "name": "Miguel Gandara",
+      "rating": 1479.6,
+      "dailyRatingChange": -32.72
+    },
+    {
+      "position": 9,
+      "playerId": "m579345",
+      "name": "Dexter Polivka",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

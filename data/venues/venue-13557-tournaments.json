@@ -1,0 +1,40 @@
+{
+  "locationId": "13557",
+  "venueName": "Playground Mini Golf",
+  "venueAddress": "300 Pacific Coast Hwy #112, Huntington Beach, CA 92648, US",
+  "tournaments": [
+    {
+      "id": 265181,
+      "name": "Playground Mini Golf Strikes - Aug. 2026",
+      "date": "8/2/2026",
+      "playerCount": 5,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "i104052",
+          "name": "Andrew Tenbrink",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m60995",
+          "name": "robert strahler",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "p569937",
+          "name": "Geoff Kruki",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "i92043",
+          "name": "Micah Womack",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

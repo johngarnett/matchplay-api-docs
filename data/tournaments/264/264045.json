@@ -1,0 +1,67 @@
+{
+  "tournamentId": 264045,
+  "name": "Lewis and clarkade 7/27 women’s tourni",
+  "date": "2026-07-28",
+  "locationId": "8571",
+  "locationName": "Lewis & Clark Brewing Co.",
+  "playerCount": 8,
+  "ratingsDate": "2026-07-28",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m46011",
+      "name": "Tiffany Pfleger",
+      "rating": 1600.13,
+      "dailyRatingChange": 0.49
+    },
+    {
+      "position": 2,
+      "playerId": "m449395",
+      "name": "Olivia Wright",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 3,
+      "playerId": "m578349",
+      "name": "Janie Harris",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 3,
+      "playerId": "i124244",
+      "name": "Becky Cedar",
+      "rating": 1353.32,
+      "dailyRatingChange": -0.22
+    },
+    {
+      "position": 5,
+      "playerId": "m546549",
+      "name": "Cathy Harris",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 5,
+      "playerId": "m440939",
+      "name": "Tona Iwen",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 7,
+      "playerId": "m546553",
+      "name": "Taysa Conger",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 7,
+      "playerId": "m574350",
+      "name": "Mackenzie Iwen",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

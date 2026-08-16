@@ -1,0 +1,67 @@
+{
+  "tournamentId": 263601,
+  "name": "Finals for Utopia Pinball Weekly Summer League - B Division",
+  "date": "2026-07-31",
+  "locationId": "13382",
+  "locationName": "Utopia Pinball Lounge",
+  "playerCount": 8,
+  "ratingsDate": "2026-07-31",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m61088",
+      "name": "Derric Broussard",
+      "rating": 1560.29,
+      "dailyRatingChange": 9.35
+    },
+    {
+      "position": 2,
+      "playerId": "m571122",
+      "name": "Don Cossey",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 3,
+      "playerId": "m58904",
+      "name": "Bari Jo Berman",
+      "rating": 1549.66,
+      "dailyRatingChange": 1.58
+    },
+    {
+      "position": 4,
+      "playerId": "i55386",
+      "name": "Kyle Perkins",
+      "rating": 1397.44,
+      "dailyRatingChange": -0.21
+    },
+    {
+      "position": 5,
+      "playerId": "m61567",
+      "name": "Samuel Procopio",
+      "rating": 1435.69,
+      "dailyRatingChange": 3.96
+    },
+    {
+      "position": 6,
+      "playerId": "m61615",
+      "name": "Hava Brown",
+      "rating": 1445.33,
+      "dailyRatingChange": -0.34
+    },
+    {
+      "position": 7,
+      "playerId": "m61825",
+      "name": "Desiree Zone",
+      "rating": 1379.49,
+      "dailyRatingChange": -5.74
+    },
+    {
+      "position": 8,
+      "playerId": "m575207",
+      "name": "Dylan Lawrence",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

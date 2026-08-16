@@ -1,0 +1,112 @@
+{
+  "locationId": "13766",
+  "venueName": "Klub Kapla",
+  "venueAddress": "12893 Alcosta Blvd, Suite I, San Ramon, CA, 94583",
+  "tournaments": [
+    {
+      "id": 265146,
+      "name": "Drain Gang #3",
+      "date": "8/2/2026",
+      "playerCount": 8,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m62540",
+          "name": "Brandon Lai",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m62584",
+          "name": "Gary Rudolph",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m62582",
+          "name": "Toby Gelb",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m62579",
+          "name": "Josh Gelb",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m62570",
+          "name": "Cherry Shukla",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 264001,
+      "name": "Drain Gang #2",
+      "date": "7/26/2026",
+      "playerCount": 10,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m55217",
+          "name": "Varun Kapoor",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m61775",
+          "name": "Troy Springett",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m29835",
+          "name": "Winnie DeGregorio",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m30758",
+          "name": "Roger Avalos",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 263766,
+      "name": "Drain Gang #1",
+      "date": "7/26/2026",
+      "playerCount": 12,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m47476",
+          "name": "Andre Bravo",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m29835",
+          "name": "Winnie DeGregorio",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m29839",
+          "name": "Danny DeGregorio",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m55217",
+          "name": "Varun Kapoor",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

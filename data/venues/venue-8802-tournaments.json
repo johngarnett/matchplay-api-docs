@@ -1,0 +1,44 @@
+{
+  "locationId": "8802",
+  "venueName": "Meta Games Unlimited",
+  "venueAddress": "3309 East Sunshine Street, Springfield, MO 65804, US",
+  "tournaments": [
+    {
+      "id": 266481,
+      "name": "Finals for Queen City Pinball Transformers Launch Party",
+      "date": "8/11/2026",
+      "playerCount": 8,
+      "qualifying": {
+        "id": 266480,
+        "name": "Queen City Pinball Transformers Launch Party",
+        "playerCount": 18
+      },
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m1853",
+          "name": "Kyle Sharp",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "i50863",
+          "name": "Chris Jackson",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "p444978",
+          "name": "Everett Darst",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "i17799",
+          "name": "Justin Maples",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

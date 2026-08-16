@@ -1,0 +1,112 @@
+{
+  "locationId": "8704",
+  "venueName": "Axecadia",
+  "venueAddress": "55 W Nepessing St, Lapeer, MI 48446, US",
+  "tournaments": [
+    {
+      "id": 266679,
+      "name": "Finals for Axecadia Pinball Weekly",
+      "date": "8/11/2026",
+      "playerCount": 4,
+      "qualifying": {
+        "id": 266616,
+        "name": "Axecadia Pinball Weekly",
+        "playerCount": 10
+      },
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m37969",
+          "name": "Arthur Ruple",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m24215",
+          "name": "Chris Herr",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m43618",
+          "name": "Kristen Pfaff",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "p486168",
+          "name": "James Frank",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 265550,
+      "name": "Finals for Axecadia Pinball Weekly",
+      "date": "8/4/2026",
+      "playerCount": 3,
+      "qualifying": {
+        "id": 265513,
+        "name": "Axecadia Pinball Weekly",
+        "playerCount": 6
+      },
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m37969",
+          "name": "Arthur Ruple",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m37006",
+          "name": "Terry Oles",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m34517",
+          "name": "Guy Miele",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 263194,
+      "name": "Finals for Axecadia Pinball Weekly",
+      "date": "7/21/2026",
+      "playerCount": 4,
+      "qualifying": {
+        "id": 263155,
+        "name": "Axecadia Pinball Weekly",
+        "playerCount": 8
+      },
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m37969",
+          "name": "Arthur Ruple",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m37006",
+          "name": "Terry Oles",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m22819",
+          "name": "Wesley Chappell",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m35204",
+          "name": "Stephen Mowbray",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

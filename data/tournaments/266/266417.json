@@ -1,0 +1,53 @@
+{
+  "tournamentId": 266417,
+  "name": "Stern Army FlipperGaraget månadstävling augusti 2026",
+  "date": "2026-08-10",
+  "locationId": "6531",
+  "locationName": "FlipperGaraget",
+  "playerCount": 6,
+  "ratingsDate": "2026-08-10",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m7949",
+      "name": "Joakim Sjöblom",
+      "rating": 1629.84,
+      "dailyRatingChange": 5.58
+    },
+    {
+      "position": 2,
+      "playerId": "m29592",
+      "name": "Theo Söderström",
+      "rating": 1599.98,
+      "dailyRatingChange": 3.01
+    },
+    {
+      "position": 3,
+      "playerId": "i88389",
+      "name": "Juha Vierola",
+      "rating": 1545.8,
+      "dailyRatingChange": 7.04
+    },
+    {
+      "position": 4,
+      "playerId": "m1401",
+      "name": "Anders Bengtsson",
+      "rating": 1570.99,
+      "dailyRatingChange": -1.76
+    },
+    {
+      "position": 5,
+      "playerId": "m27444",
+      "name": "Mats Waltersson",
+      "rating": 1564.06,
+      "dailyRatingChange": -20.73
+    },
+    {
+      "position": 6,
+      "playerId": "i66409",
+      "name": "Pierre Jansberg",
+      "rating": 1326.57,
+      "dailyRatingChange": -12.29
+    }
+  ]
+}

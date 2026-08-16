@@ -1,0 +1,238 @@
+{
+  "locationId": "9542",
+  "venueName": "Capital Pinball Parlor",
+  "venueAddress": "117 J St, Sacramento, CA 95814, US",
+  "tournaments": [
+    {
+      "id": 206251,
+      "name": "Friday Night Strikes #130 at Capital Pinball Parlor",
+      "date": "8/14/2026",
+      "playerCount": 31,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m25062",
+          "name": "Ryan Dunn",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m36281",
+          "name": "Elliott Rose",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m56288",
+          "name": "Calvin DeOliveira",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m54061",
+          "name": "Kyle Van Eenennaam",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 206250,
+      "name": "Friday Night Strikes #129 at Capital Pinball Parlor",
+      "date": "8/7/2026",
+      "playerCount": 15,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "p583321",
+          "name": "Eli Wernigg",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m59169",
+          "name": "Truman Conlee",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m60347",
+          "name": "John Demarco",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "i135418",
+          "name": "Xavier Medina",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 265924,
+      "name": "Final",
+      "date": "8/6/2026",
+      "playerCount": 6,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m7530",
+          "name": "Mathew Peterson",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 1,
+          "playerId": "m24655",
+          "name": "Kevin Lane",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m54841",
+          "name": "Sean Rader",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m37540",
+          "name": "Eric Sarell",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m13296",
+          "name": "Erica Verville",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 206249,
+      "name": "Friday Night Strikes #128 at Capital Pinball Parlor",
+      "date": "7/31/2026",
+      "playerCount": 25,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m41628",
+          "name": "Phil Redmon",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m33596",
+          "name": "Jake MacKenzie",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "p583321",
+          "name": "Eli Wernigg",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m56288",
+          "name": "Calvin DeOliveira",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 264712,
+      "name": "Capital women’s tournament",
+      "date": "7/30/2026",
+      "playerCount": 3,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "p583201",
+          "name": "Rayna Jamorabon",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m35945",
+          "name": "Elsie Oster",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m51958",
+          "name": "Alicia vierra",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 206248,
+      "name": "Friday Night Strikes #127 at Capital Pinball Parlor",
+      "date": "7/24/2026",
+      "playerCount": 21,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m49154",
+          "name": "Carter Wink",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m7998",
+          "name": "Patrik Bodin",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m35945",
+          "name": "Elsie Oster",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "i135418",
+          "name": "Xavier Medina",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 206247,
+      "name": "Friday Night Strikes #126 at Capital Pinball Parlor",
+      "date": "7/17/2026",
+      "playerCount": 25,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m34729",
+          "name": "Jack Slovacek",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m25062",
+          "name": "Ryan Dunn",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m30853",
+          "name": "Eric Murphy",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m34202",
+          "name": "Christopher Mendoza",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

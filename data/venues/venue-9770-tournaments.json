@@ -1,0 +1,40 @@
+{
+  "locationId": "9770",
+  "venueName": "Wye Beer Co.",
+  "venueAddress": "3 Forbes Rd, Trafford, PA 15085, US",
+  "tournaments": [
+    {
+      "id": 263527,
+      "name": "Wye Beer Co. - July 2026 - Matchplay Tournament",
+      "date": "7/25/2026",
+      "playerCount": 12,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m37604",
+          "name": "Al Thomka",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m41316",
+          "name": "Fred Bergman",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "i6857",
+          "name": "Blair Love",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m45232",
+          "name": "Matt Cipperly",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

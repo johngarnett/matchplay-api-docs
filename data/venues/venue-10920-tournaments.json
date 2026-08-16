@@ -1,0 +1,40 @@
+{
+  "locationId": "10920",
+  "venueName": "Lowertown Brewery",
+  "venueAddress": "73 York St, Ottawa, Ontario K1N 5T2, CA",
+  "tournaments": [
+    {
+      "id": 255110,
+      "name": "PWO @ Lowertown -  August 2026",
+      "date": "8/5/2026",
+      "playerCount": 10,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m14750",
+          "name": "Heather Ryerse",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "p584840",
+          "name": "Chantal Lavigne",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m17823",
+          "name": "Jeanne Klodt",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m27593",
+          "name": "LC Buckingham",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,311 @@
+{
+  "locationId": "10348",
+  "name": "Luckycreature hq",
+  "address": "Asheville, NC",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 20,
+  "relatedVenues": [
+    {
+      "locationId": "8072",
+      "name": "Level 256 Classic Arcade Bar",
+      "address": "79 Coxe Ave, Asheville, NC, 28801, US",
+      "count": 184
+    },
+    {
+      "locationId": "11549",
+      "name": "Flight Deck NC",
+      "address": "9521 Lumley Rd, Morrisville, NC 27560, US",
+      "count": 34
+    },
+    {
+      "locationId": "8746",
+      "name": "The Retrocade",
+      "address": "800 Haywood Road, Asheville, NC 28806, US",
+      "count": 28
+    },
+    {
+      "locationId": "13088",
+      "name": "Distant View",
+      "address": "115 Distant View Dr., Asheville, NC 28803",
+      "count": 18
+    },
+    {
+      "locationId": "9921",
+      "name": "Renaissance Atlanta Waverly Hotel & Convention Center",
+      "address": "2450 Galleria Pkwy Atlanta, GA 30339",
+      "count": 14
+    },
+    {
+      "locationId": "10319",
+      "name": "Turtledove",
+      "address": "4 Turtledove Trl., Asheville NC",
+      "count": 14
+    },
+    {
+      "locationId": "12063",
+      "name": "Neon Moon",
+      "address": "1805 N Roan St G9, Johnson City, TN, 37601, US",
+      "count": 13
+    },
+    {
+      "locationId": "12788",
+      "name": "Pinky's Revenge",
+      "address": "250 Mill Street, Taylors, SC 29687, US",
+      "count": 12
+    },
+    {
+      "locationId": "2469",
+      "name": "Fellowship of the silver ball clubhouse",
+      "address": "",
+      "count": 9
+    },
+    {
+      "locationId": "8950",
+      "name": "The Pinball Barn",
+      "address": "250 Stoneybrook Road, Pelzer, SC  29669",
+      "count": 8
+    }
+  ],
+  "players": [
+    {
+      "id": "m3090",
+      "name": "Drew Cedolia",
+      "rating": 1860.34,
+      "rd": 22.04,
+      "ratingClass": "Master",
+      "homeLocation": "Flight Deck NC",
+      "homeLocationId": "11549",
+      "percentile": 99.89285880654027,
+      "changeDisplay": "-16.0",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m23955",
+      "name": "Liam Bradley",
+      "rating": 1810.14,
+      "rd": 20.89,
+      "ratingClass": "Master",
+      "homeLocation": "Flight Deck NC",
+      "homeLocationId": "11549",
+      "percentile": 99.64596823030698,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m31837",
+      "name": "Andrew Spillios",
+      "rating": 1786.86,
+      "rd": 19.08,
+      "ratingClass": "Expert",
+      "homeLocation": "Level 256 Classic Arcade Bar",
+      "homeLocationId": "8072",
+      "percentile": 99.38976102855545,
+      "changeDisplay": "-3.3",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m23956",
+      "name": "Miles Bradley",
+      "rating": 1711.01,
+      "rd": 21.88,
+      "ratingClass": "Expert",
+      "homeLocation": "Flight Deck NC",
+      "homeLocationId": "11549",
+      "percentile": 97.21432897004705,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m9093",
+      "name": "Todd Reynolds",
+      "rating": 1664.16,
+      "rd": 16.88,
+      "ratingClass": "A",
+      "homeLocation": "Pinky's Revenge",
+      "homeLocationId": "12788",
+      "percentile": 93.52494526482508,
+      "changeDisplay": "+1.2",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m28580",
+      "name": "Steve Lane",
+      "rating": 1663.66,
+      "rd": 15.74,
+      "ratingClass": "A",
+      "homeLocation": "Level 256 Classic Arcade Bar",
+      "homeLocationId": "8072",
+      "percentile": 93.45972888619742,
+      "changeDisplay": "+13.7",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m10283",
+      "name": "Austin Fanger",
+      "rating": 1656.38,
+      "rd": 23.16,
+      "ratingClass": "A",
+      "homeLocation": "The Retrocade",
+      "homeLocationId": "8746",
+      "percentile": 92.58862440024224,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m16531",
+      "name": "Courtland Cain",
+      "rating": 1628.13,
+      "rd": 25.4,
+      "ratingClass": "A",
+      "homeLocation": "Level 256 Classic Arcade Bar",
+      "homeLocationId": "8072",
+      "percentile": 88.20049378115246,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m21857",
+      "name": "Kyle Voorhees",
+      "rating": 1610.12,
+      "rd": 19.02,
+      "ratingClass": "A",
+      "homeLocation": "Level 256 Classic Arcade Bar",
+      "homeLocationId": "8072",
+      "percentile": 84.49713513765315,
+      "changeDisplay": "-1.3",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m23953",
+      "name": "Michael Bradley",
+      "rating": 1601.95,
+      "rd": 22.88,
+      "ratingClass": "A",
+      "homeLocation": "Flight Deck NC",
+      "homeLocationId": "11549",
+      "percentile": 82.49406065123213,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m35855",
+      "name": "Laura Varney",
+      "rating": 1591.03,
+      "rd": 19.39,
+      "ratingClass": "B",
+      "homeLocation": "Level 256 Classic Arcade Bar",
+      "homeLocationId": "8072",
+      "percentile": 79.740997810593,
+      "changeDisplay": "-2.1",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m19925",
+      "name": "Jonathan Lewis",
+      "rating": 1590.25,
+      "rd": 20.86,
+      "ratingClass": "B",
+      "homeLocation": "The Retrocade",
+      "homeLocationId": "8746",
+      "percentile": 79.52205711091442,
+      "changeDisplay": "+1.9",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m8906",
+      "name": "Shawn Scott Smith",
+      "rating": 1587.2,
+      "rd": 18.18,
+      "ratingClass": "B",
+      "homeLocation": "Level 256 Classic Arcade Bar",
+      "homeLocationId": "8072",
+      "percentile": 78.63697768668189,
+      "changeDisplay": "+5.5",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m45479",
+      "name": "Cailan Curtis",
+      "rating": 1572.33,
+      "rd": 32.63,
+      "ratingClass": "B",
+      "homeLocation": "Level 256 Classic Arcade Bar",
+      "homeLocationId": "8072",
+      "percentile": 74.24418875483299,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m19236",
+      "name": "Brian Tavener",
+      "rating": 1552.38,
+      "rd": 21.1,
+      "ratingClass": "B",
+      "homeLocation": "Level 256 Classic Arcade Bar",
+      "homeLocationId": "8072",
+      "percentile": 67.64335957516188,
+      "changeDisplay": "-4.3",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m30417",
+      "name": "Brian Dunn",
+      "rating": 1489.3,
+      "rd": 28.72,
+      "ratingClass": "C",
+      "homeLocation": "Level 256 Classic Arcade Bar",
+      "homeLocationId": "8072",
+      "percentile": 42.73536125215447,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m52747",
+      "name": "Kit Lafoon",
+      "rating": 1480.7,
+      "rd": 21.02,
+      "ratingClass": "C",
+      "homeLocation": "Level 256 Classic Arcade Bar",
+      "homeLocationId": "8072",
+      "percentile": 39.13448548935576,
+      "changeDisplay": "-10.9",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m50391",
+      "name": "Alicia Curtis",
+      "rating": 1446.66,
+      "rd": 29.79,
+      "ratingClass": "C",
+      "homeLocation": "Level 256 Classic Arcade Bar",
+      "homeLocationId": "8072",
+      "percentile": 26.03531001071412,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m51712",
+      "name": "Milo Smith",
+      "rating": 1406.24,
+      "rd": 28.03,
+      "ratingClass": "C",
+      "homeLocation": "Level 256 Classic Arcade Bar",
+      "homeLocationId": "8072",
+      "percentile": 14.096054409093025,
+      "changeDisplay": "-5.2",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m26497",
+      "name": "Katie Sampler",
+      "rating": 1316.06,
+      "rd": 19.53,
+      "ratingClass": "D",
+      "homeLocation": "Level 256 Classic Arcade Bar",
+      "homeLocationId": "8072",
+      "percentile": 1.6583593422462386,
+      "changeDisplay": "-3.3",
+      "changeClass": "change-negative"
+    }
+  ]
+}

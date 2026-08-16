@@ -1,0 +1,67 @@
+{
+  "tournamentId": 263136,
+  "name": "Finals for The LockBar League: Season 7",
+  "date": "2026-07-22",
+  "locationId": "8817",
+  "locationName": "The Library Square Pub",
+  "playerCount": 8,
+  "ratingsDate": "2026-07-22",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m1295",
+      "name": "Brennan Lloyd",
+      "rating": 1699.75,
+      "dailyRatingChange": 11.34
+    },
+    {
+      "position": 2,
+      "playerId": "m1194",
+      "name": "Sara Little",
+      "rating": 1757.57,
+      "dailyRatingChange": 5.02
+    },
+    {
+      "position": 3,
+      "playerId": "m27946",
+      "name": "Jeremy Matthews",
+      "rating": 1685.98,
+      "dailyRatingChange": -1.79
+    },
+    {
+      "position": 4,
+      "playerId": "m11889",
+      "name": "Esteban Astudillo",
+      "rating": 1645.05,
+      "dailyRatingChange": -2.9
+    },
+    {
+      "position": 5,
+      "playerId": "m50001",
+      "name": "Raymond Nemetz",
+      "rating": 1588.71,
+      "dailyRatingChange": 1.41
+    },
+    {
+      "position": 6,
+      "playerId": "m27032",
+      "name": "Eddie DeWolfe",
+      "rating": 1533.35,
+      "dailyRatingChange": 0.06
+    },
+    {
+      "position": 7,
+      "playerId": "m6309",
+      "name": "Garrett Wolf",
+      "rating": 1593.47,
+      "dailyRatingChange": -5.87
+    },
+    {
+      "position": 7,
+      "playerId": "m13315",
+      "name": "Rhys Coulter",
+      "rating": 1615.01,
+      "dailyRatingChange": -6.92
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "tournamentId": 264201,
+  "name": "Qualifying for Tower Tuesday 28/7/26",
+  "date": "2026-07-28",
+  "locationId": "12625",
+  "locationName": "Tower Cinema",
+  "playerCount": 16,
+  "ratingsDate": "2026-07-28",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m1599",
+      "name": "Pat Nichols",
+      "rating": 1757.88,
+      "dailyRatingChange": -1.55
+    },
+    {
+      "position": 2,
+      "playerId": "m3519",
+      "name": "Naiomi Goodwin",
+      "rating": 1575.84,
+      "dailyRatingChange": 14.05
+    },
+    {
+      "position": 3,
+      "playerId": "m572228",
+      "name": "Andrew Hankin",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 3,
+      "playerId": "i113264",
+      "name": "Tom Nichols",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 5,
+      "playerId": "m626",
+      "name": "Brett Goodwin",
+      "rating": 1708.39,
+      "dailyRatingChange": -6.42
+    },
+    {
+      "position": 6,
+      "playerId": "m32732",
+      "name": "Richard Suters",
+      "rating": 1561.56,
+      "dailyRatingChange": -2.18
+    },
+    {
+      "position": 6,
+      "playerId": "m538160",
+      "name": "Daika Scott",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 8,
+      "playerId": "m582607",
+      "name": "Owen Scott",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 8,
+      "playerId": "m62127",
+      "name": "Gabe McGrath",
+      "rating": 1504.57,
+      "dailyRatingChange": null
+    },
+    {
+      "position": 10,
+      "playerId": "m59111",
+      "name": "Peter Schmalenberg",
+      "rating": 1544.32,
+      "dailyRatingChange": -3.58
+    },
+    {
+      "position": 10,
+      "playerId": "m59385",
+      "name": "Nick Schmalenberg",
+      "rating": 1515.61,
+      "dailyRatingChange": -1.53
+    },
+    {
+      "position": 12,
+      "playerId": "m557794",
+      "name": "Annette Vickery",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 12,
+      "playerId": "m559706",
+      "name": "Mal Cawthorne",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 12,
+      "playerId": "m60025",
+      "name": "Craig Andriessen",
+      "rating": 1429.45,
+      "dailyRatingChange": 1.33
+    },
+    {
+      "position": 15,
+      "playerId": "m582606",
+      "name": "Kourtney Kew",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 15,
+      "playerId": "m582605",
+      "name": "Paul Kew",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

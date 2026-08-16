@@ -1,0 +1,40 @@
+{
+  "locationId": "10474",
+  "venueName": "Boxcar Bar + Arcade",
+  "venueAddress": "120 West Lewis Street, Greensboro, NC 27406, US",
+  "tournaments": [
+    {
+      "id": 263003,
+      "name": "GSO Boxcar Pin Pals and Pints 7/20",
+      "date": "7/20/2026",
+      "playerCount": 8,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m3090",
+          "name": "Drew Cedolia",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m5322",
+          "name": "Tim McCool",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m25874",
+          "name": "Farmers Only",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "i116938",
+          "name": "Darius Alston",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "tournamentId": 264541,
+  "name": "Houndstooth Wednesday Night Weekly 7/29/2026",
+  "date": "2026-07-30",
+  "locationId": "11192",
+  "locationName": "Houndstooth Public House",
+  "playerCount": 16,
+  "ratingsDate": "2026-07-30",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m1513",
+      "name": "Jarrett Gaddy",
+      "rating": 1753.62,
+      "dailyRatingChange": 2.48
+    },
+    {
+      "position": 2,
+      "playerId": "m17637",
+      "name": "Elliott Johnson",
+      "rating": 1560.45,
+      "dailyRatingChange": 1.46
+    },
+    {
+      "position": 3,
+      "playerId": "m5750",
+      "name": "John Garnett",
+      "rating": 1608.86,
+      "dailyRatingChange": 2.4
+    },
+    {
+      "position": 4,
+      "playerId": "m28825",
+      "name": "Ben Fodor",
+      "rating": 1526.66,
+      "dailyRatingChange": 1.2
+    },
+    {
+      "position": 4,
+      "playerId": "m20283",
+      "name": "Dan Cevetello",
+      "rating": 1648.11,
+      "dailyRatingChange": -1.16
+    },
+    {
+      "position": 4,
+      "playerId": "m55225",
+      "name": "Vincent Iannucci",
+      "rating": 1439.37,
+      "dailyRatingChange": 3.69
+    },
+    {
+      "position": 7,
+      "playerId": "m43302",
+      "name": "Sterling Butterfield",
+      "rating": 1576.98,
+      "dailyRatingChange": -1.18
+    },
+    {
+      "position": 7,
+      "playerId": "m24744",
+      "name": "Alex Lehnert",
+      "rating": 1383.31,
+      "dailyRatingChange": 7.94
+    },
+    {
+      "position": 7,
+      "playerId": "m14942",
+      "name": "Candice McGinnis",
+      "rating": 1440.15,
+      "dailyRatingChange": 3.43
+    },
+    {
+      "position": 10,
+      "playerId": "m18234",
+      "name": "Katja Rodgers",
+      "rating": 1520.26,
+      "dailyRatingChange": -1.52
+    },
+    {
+      "position": 10,
+      "playerId": "m33341",
+      "name": "Dina Robinson",
+      "rating": 1378.39,
+      "dailyRatingChange": 1.39
+    },
+    {
+      "position": 12,
+      "playerId": "m53373",
+      "name": "Noah Rubin",
+      "rating": 1371.72,
+      "dailyRatingChange": -1.41
+    },
+    {
+      "position": 12,
+      "playerId": "m15643",
+      "name": "Daniel Mays",
+      "rating": 1514.27,
+      "dailyRatingChange": -4.88
+    },
+    {
+      "position": 12,
+      "playerId": "m5387",
+      "name": "Paul White",
+      "rating": 1459.54,
+      "dailyRatingChange": -3.16
+    },
+    {
+      "position": 15,
+      "playerId": "m25327",
+      "name": "Cat Alexander",
+      "rating": 1411.51,
+      "dailyRatingChange": -6.19
+    },
+    {
+      "position": 15,
+      "playerId": "m56155",
+      "name": "Sammi Snyder",
+      "rating": 1481.38,
+      "dailyRatingChange": -3.97
+    }
+  ]
+}

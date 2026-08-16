@@ -1,0 +1,74 @@
+{
+  "tournamentId": 263161,
+  "name": "Masonic match-up",
+  "date": "2026-07-22",
+  "locationId": "5763",
+  "locationName": "Idaho Pinball Museum",
+  "playerCount": 9,
+  "ratingsDate": null,
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "i84206",
+      "name": "Skyler Lenz",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 2,
+      "playerId": "m580568",
+      "name": "Heidi A",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 3,
+      "playerId": "m580574",
+      "name": "Carlos F",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 3,
+      "playerId": "m580573",
+      "name": "Kyle S",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 3,
+      "playerId": "m580578",
+      "name": "Steve S",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 6,
+      "playerId": "m580569",
+      "name": "Wayne R",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 6,
+      "playerId": "m580572",
+      "name": "Dan M",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 6,
+      "playerId": "m580567",
+      "name": "Steven A",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 9,
+      "playerId": "m580571",
+      "name": "Amanda M",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

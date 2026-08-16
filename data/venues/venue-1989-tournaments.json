@@ -1,0 +1,73 @@
+{
+  "locationId": "1989",
+  "venueName": "Brewskis Bar & Arcade",
+  "venueAddress": "8670 Miramar Rd, San Diego, CA 92126, USA",
+  "tournaments": [
+    {
+      "id": 255109,
+      "name": "San Diego Pinball League - Brewskis Summer 2026 #6",
+      "date": "8/4/2026",
+      "playerCount": 36,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m32293",
+          "name": "Gaizah Wagschal",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 1,
+          "playerId": "m14153",
+          "name": "Derek Price",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 1,
+          "playerId": "m14250",
+          "name": "Tom Isaak",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 1,
+          "playerId": "m24625",
+          "name": "David Dau",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 265175,
+      "name": "Transformers Launch Party - Brewskis SD",
+      "date": "8/2/2026",
+      "playerCount": 26,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m14250",
+          "name": "Tom Isaak",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m14153",
+          "name": "Derek Price",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m46702",
+          "name": "Jeffrey Wright",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m34422",
+          "name": "Michael Sorrentino",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

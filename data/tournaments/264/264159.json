@@ -1,0 +1,319 @@
+{
+  "tournamentId": 264159,
+  "name": "On Tilt West Hills Season 6 #3",
+  "date": "2026-07-28",
+  "locationId": "5464",
+  "locationName": "AYCE Gogi Korean BBQ & Pinball",
+  "playerCount": 44,
+  "ratingsDate": "2026-07-28",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m576465",
+      "name": "Evin Lopez",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 1,
+      "playerId": "m13471",
+      "name": "Scott Yarrow",
+      "rating": 1541.78,
+      "dailyRatingChange": 22.5
+    },
+    {
+      "position": 3,
+      "playerId": "m8128",
+      "name": "raymond ashby",
+      "rating": 1823.06,
+      "dailyRatingChange": 0.07
+    },
+    {
+      "position": 3,
+      "playerId": "m56176",
+      "name": "Alexa Feiner",
+      "rating": 1505.43,
+      "dailyRatingChange": 25.62
+    },
+    {
+      "position": 5,
+      "playerId": "m19366",
+      "name": "Gary Brown",
+      "rating": 1782.83,
+      "dailyRatingChange": -2.27
+    },
+    {
+      "position": 5,
+      "playerId": "m48392",
+      "name": "Arron Szabo",
+      "rating": 1575.13,
+      "dailyRatingChange": 4.91
+    },
+    {
+      "position": 5,
+      "playerId": "m55894",
+      "name": "Cameron Elmore",
+      "rating": 1578.77,
+      "dailyRatingChange": 13.24
+    },
+    {
+      "position": 5,
+      "playerId": "m31793",
+      "name": "Terri Thompson",
+      "rating": 1643.3,
+      "dailyRatingChange": 1.71
+    },
+    {
+      "position": 9,
+      "playerId": "m30772",
+      "name": "Andrew Klokow",
+      "rating": 1598.04,
+      "dailyRatingChange": 5.16
+    },
+    {
+      "position": 10,
+      "playerId": "i63751",
+      "name": "Tom Everitt",
+      "rating": 1609.84,
+      "dailyRatingChange": 2.03
+    },
+    {
+      "position": 11,
+      "playerId": "m49251",
+      "name": "Ron Lam",
+      "rating": 1452.13,
+      "dailyRatingChange": 11.59
+    },
+    {
+      "position": 11,
+      "playerId": "m12881",
+      "name": "Glenn Habas",
+      "rating": 1646.91,
+      "dailyRatingChange": -3.01
+    },
+    {
+      "position": 11,
+      "playerId": "m12864",
+      "name": "Aaron Malchose",
+      "rating": 1491.37,
+      "dailyRatingChange": 4.05
+    },
+    {
+      "position": 11,
+      "playerId": "m48680",
+      "name": "Lauren Richmond",
+      "rating": 1542.97,
+      "dailyRatingChange": 3.08
+    },
+    {
+      "position": 11,
+      "playerId": "m2247",
+      "name": "Shane Nazari",
+      "rating": 1533.63,
+      "dailyRatingChange": 8.36
+    },
+    {
+      "position": 11,
+      "playerId": "i156325",
+      "name": "Rachel simmer",
+      "rating": 1525.09,
+      "dailyRatingChange": 10.91
+    },
+    {
+      "position": 17,
+      "playerId": "m49249",
+      "name": "Tommy Capistrano",
+      "rating": 1519.76,
+      "dailyRatingChange": 2.53
+    },
+    {
+      "position": 17,
+      "playerId": "m53557",
+      "name": "Todd Feuerherm",
+      "rating": 1513.94,
+      "dailyRatingChange": 5.14
+    },
+    {
+      "position": 17,
+      "playerId": "m42474",
+      "name": "Rhett Guenthner",
+      "rating": 1611.45,
+      "dailyRatingChange": -1.9
+    },
+    {
+      "position": 17,
+      "playerId": "m56371",
+      "name": "Ken mcelvaney",
+      "rating": 1537.49,
+      "dailyRatingChange": 4.31
+    },
+    {
+      "position": 17,
+      "playerId": "m56172",
+      "name": "Bibi Krausz",
+      "rating": 1420.34,
+      "dailyRatingChange": 5.34
+    },
+    {
+      "position": 17,
+      "playerId": "m11692",
+      "name": "matt rowbottom",
+      "rating": 1639.99,
+      "dailyRatingChange": -9.54
+    },
+    {
+      "position": 17,
+      "playerId": "m576482",
+      "name": "Alan Sam",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 24,
+      "playerId": "m49252",
+      "name": "Jason Solomon",
+      "rating": 1600.13,
+      "dailyRatingChange": -3.57
+    },
+    {
+      "position": 24,
+      "playerId": "i143276",
+      "name": "Chris Etzbach",
+      "rating": 1486.99,
+      "dailyRatingChange": -8.89
+    },
+    {
+      "position": 24,
+      "playerId": "m12074",
+      "name": "Adam Page",
+      "rating": 1540.7,
+      "dailyRatingChange": -5.76
+    },
+    {
+      "position": 27,
+      "playerId": "m51846",
+      "name": "Michael Bennett",
+      "rating": 1530.21,
+      "dailyRatingChange": -5.16
+    },
+    {
+      "position": 27,
+      "playerId": "m61726",
+      "name": "Alex Krell",
+      "rating": 1410.4,
+      "dailyRatingChange": 30
+    },
+    {
+      "position": 27,
+      "playerId": "m56173",
+      "name": "William Costello",
+      "rating": 1536.64,
+      "dailyRatingChange": -5.69
+    },
+    {
+      "position": 27,
+      "playerId": "i146610",
+      "name": "Gary Steven",
+      "rating": 1474.53,
+      "dailyRatingChange": -5.89
+    },
+    {
+      "position": 27,
+      "playerId": "i97610",
+      "name": "Josh Levenbrown",
+      "rating": 1468.64,
+      "dailyRatingChange": -1.87
+    },
+    {
+      "position": 27,
+      "playerId": "m22556",
+      "name": "Jeff Leedom",
+      "rating": 1451.33,
+      "dailyRatingChange": -5.04
+    },
+    {
+      "position": 27,
+      "playerId": "m53389",
+      "name": "Chris Parnell",
+      "rating": 1440.74,
+      "dailyRatingChange": -3.05
+    },
+    {
+      "position": 34,
+      "playerId": "m50843",
+      "name": "Thomas Hancher",
+      "rating": 1477.1,
+      "dailyRatingChange": -7.98
+    },
+    {
+      "position": 34,
+      "playerId": "m56174",
+      "name": "Victor Kong",
+      "rating": 1448.92,
+      "dailyRatingChange": 0.03
+    },
+    {
+      "position": 34,
+      "playerId": "i147140",
+      "name": "Michelle Lam",
+      "rating": 1474.59,
+      "dailyRatingChange": -11.23
+    },
+    {
+      "position": 37,
+      "playerId": "m53199",
+      "name": "Ryan Benson LA",
+      "rating": 1424.49,
+      "dailyRatingChange": -8.06
+    },
+    {
+      "position": 37,
+      "playerId": "m56369",
+      "name": "Kaci Garrison",
+      "rating": 1347.19,
+      "dailyRatingChange": 0.59
+    },
+    {
+      "position": 39,
+      "playerId": "i79060",
+      "name": "David Bennett",
+      "rating": 1429.78,
+      "dailyRatingChange": -6.78
+    },
+    {
+      "position": 39,
+      "playerId": "i156328",
+      "name": "Jerry Tate",
+      "rating": 1418.86,
+      "dailyRatingChange": -18.38
+    },
+    {
+      "position": 41,
+      "playerId": "m553667",
+      "name": "Juan Reyes",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 42,
+      "playerId": "i143283",
+      "name": "Andrea Tutone",
+      "rating": 1387.68,
+      "dailyRatingChange": -19.21
+    },
+    {
+      "position": 42,
+      "playerId": "i156329",
+      "name": "William Chen",
+      "rating": 1356.77,
+      "dailyRatingChange": -17.04
+    },
+    {
+      "position": 42,
+      "playerId": "m61725",
+      "name": "Tawny Krell",
+      "rating": 1270.25,
+      "dailyRatingChange": -33.05
+    }
+  ]
+}

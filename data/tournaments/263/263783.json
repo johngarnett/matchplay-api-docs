@@ -1,0 +1,67 @@
+{
+  "tournamentId": 263783,
+  "name": "Finals for Pinball Kai & Michael erweitern sich",
+  "date": "2026-07-25",
+  "locationId": "9326",
+  "locationName": "Kai&Michael Pinball",
+  "playerCount": 8,
+  "ratingsDate": "2026-07-25",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m32799",
+      "name": "Roland Hart",
+      "rating": 1632.68,
+      "dailyRatingChange": 24.65
+    },
+    {
+      "position": 2,
+      "playerId": "m4146",
+      "name": "Eberhard Hattemer",
+      "rating": 1678.59,
+      "dailyRatingChange": 6.7
+    },
+    {
+      "position": 3,
+      "playerId": "m46124",
+      "name": "Hans-Joachim Meyer",
+      "rating": 1622.22,
+      "dailyRatingChange": 9.51
+    },
+    {
+      "position": 4,
+      "playerId": "m53490",
+      "name": "Eike Rothauge",
+      "rating": 1583.38,
+      "dailyRatingChange": 2.93
+    },
+    {
+      "position": 5,
+      "playerId": "m23255",
+      "name": "Kai Teuber",
+      "rating": 1616.49,
+      "dailyRatingChange": 16.27
+    },
+    {
+      "position": 6,
+      "playerId": "m14621",
+      "name": "Maximilian Bösel",
+      "rating": 1620.74,
+      "dailyRatingChange": -1.59
+    },
+    {
+      "position": 7,
+      "playerId": "m33924",
+      "name": "Branko Radosavljevic",
+      "rating": 1605.27,
+      "dailyRatingChange": -13.01
+    },
+    {
+      "position": 8,
+      "playerId": "m15987",
+      "name": "Sven Peters",
+      "rating": 1531.03,
+      "dailyRatingChange": -4.05
+    }
+  ]
+}

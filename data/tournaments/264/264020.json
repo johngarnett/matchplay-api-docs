@@ -1,0 +1,67 @@
+{
+  "tournamentId": 264020,
+  "name": "Finals for Maltese V&V Benefit Tournament",
+  "date": "2026-07-26",
+  "locationId": "4194",
+  "locationName": "Maltese Brewing",
+  "playerCount": 8,
+  "ratingsDate": "2026-07-26",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m33285",
+      "name": "Lauren Cooley",
+      "rating": 1652.16,
+      "dailyRatingChange": 12.42
+    },
+    {
+      "position": 2,
+      "playerId": "m13042",
+      "name": "James Allen",
+      "rating": 1660.72,
+      "dailyRatingChange": 14.89
+    },
+    {
+      "position": 3,
+      "playerId": "m371",
+      "name": "Madmike Richardson",
+      "rating": 1586.65,
+      "dailyRatingChange": 7.59
+    },
+    {
+      "position": 4,
+      "playerId": "m1499",
+      "name": "Andrew Pancoast",
+      "rating": 1816.02,
+      "dailyRatingChange": -9.56
+    },
+    {
+      "position": 5,
+      "playerId": "m24191",
+      "name": "Kate Hernandez",
+      "rating": 1514.62,
+      "dailyRatingChange": 12.81
+    },
+    {
+      "position": 6,
+      "playerId": "m29752",
+      "name": "Neil Jablonski",
+      "rating": 1531.17,
+      "dailyRatingChange": 9.04
+    },
+    {
+      "position": 7,
+      "playerId": "m29734",
+      "name": "Mark Migliaccio",
+      "rating": 1524.66,
+      "dailyRatingChange": 1.19
+    },
+    {
+      "position": 7,
+      "playerId": "m18776",
+      "name": "Matt Larsen",
+      "rating": 1674.86,
+      "dailyRatingChange": -6.61
+    }
+  ]
+}

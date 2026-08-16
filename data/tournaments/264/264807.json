@@ -1,0 +1,354 @@
+{
+  "tournamentId": 264807,
+  "name": "Outlanes Pinball Lounge Friday Night Bounty & Transformer Launch Party",
+  "date": "2026-08-08",
+  "locationId": "11477",
+  "locationName": "Outlanes Pinball Lounge",
+  "playerCount": 49,
+  "ratingsDate": "2026-08-08",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m19050",
+      "name": "Walt Wood",
+      "rating": 1908.08,
+      "dailyRatingChange": -0.07
+    },
+    {
+      "position": 2,
+      "playerId": "m25842",
+      "name": "Marshall Weasel",
+      "rating": 1705.57,
+      "dailyRatingChange": 5.14
+    },
+    {
+      "position": 3,
+      "playerId": "m26437",
+      "name": "Kanin Cadam",
+      "rating": 1688.8,
+      "dailyRatingChange": 5.79
+    },
+    {
+      "position": 4,
+      "playerId": "m29079",
+      "name": "Oliver Baker",
+      "rating": 1732.67,
+      "dailyRatingChange": 3.58
+    },
+    {
+      "position": 5,
+      "playerId": "m26607",
+      "name": "Mark White",
+      "rating": 1613.54,
+      "dailyRatingChange": 3.01
+    },
+    {
+      "position": 6,
+      "playerId": "m13551",
+      "name": "Derrick Casto",
+      "rating": 1539.05,
+      "dailyRatingChange": 7.1
+    },
+    {
+      "position": 6,
+      "playerId": "m11960",
+      "name": "John Devore",
+      "rating": 1660.85,
+      "dailyRatingChange": 0.62
+    },
+    {
+      "position": 6,
+      "playerId": "m7430",
+      "name": "Mike Paproski",
+      "rating": 1657.94,
+      "dailyRatingChange": -0.39
+    },
+    {
+      "position": 9,
+      "playerId": "m47991",
+      "name": "Jeffrey Peralta",
+      "rating": 1486.13,
+      "dailyRatingChange": 5.55
+    },
+    {
+      "position": 9,
+      "playerId": "m22921",
+      "name": "John Marez",
+      "rating": 1585.34,
+      "dailyRatingChange": 2.53
+    },
+    {
+      "position": 9,
+      "playerId": "m27502",
+      "name": "Tim Bruner",
+      "rating": 1606.98,
+      "dailyRatingChange": 1.01
+    },
+    {
+      "position": 12,
+      "playerId": "m42824",
+      "name": "Ben Zatz",
+      "rating": 1607.51,
+      "dailyRatingChange": 1.57
+    },
+    {
+      "position": 12,
+      "playerId": "m22898",
+      "name": "Niki Summers",
+      "rating": 1506.74,
+      "dailyRatingChange": 2.7
+    },
+    {
+      "position": 12,
+      "playerId": "m9163",
+      "name": "Tracy Whetstine",
+      "rating": 1519.53,
+      "dailyRatingChange": 2.38
+    },
+    {
+      "position": 12,
+      "playerId": "m14189",
+      "name": "David Keller",
+      "rating": 1529.14,
+      "dailyRatingChange": 4.1
+    },
+    {
+      "position": 12,
+      "playerId": "m33823",
+      "name": "Jimmy Morgan",
+      "rating": 1611.49,
+      "dailyRatingChange": -0.2
+    },
+    {
+      "position": 12,
+      "playerId": "m18564",
+      "name": "Brian Wonderly",
+      "rating": 1601.3,
+      "dailyRatingChange": 0.07
+    },
+    {
+      "position": 18,
+      "playerId": "m55381",
+      "name": "Stephanie Schmidt",
+      "rating": 1391.35,
+      "dailyRatingChange": 8.29
+    },
+    {
+      "position": 18,
+      "playerId": "m11999",
+      "name": "Ryan Altermatt",
+      "rating": 1757.92,
+      "dailyRatingChange": -4.93
+    },
+    {
+      "position": 18,
+      "playerId": "m26500",
+      "name": "Liz Grimm-Morales",
+      "rating": 1481.22,
+      "dailyRatingChange": 0.75
+    },
+    {
+      "position": 18,
+      "playerId": "m60871",
+      "name": "Jason Fye",
+      "rating": 1472.56,
+      "dailyRatingChange": 4.53
+    },
+    {
+      "position": 18,
+      "playerId": "m35260",
+      "name": "Tyler Wandesforde",
+      "rating": 1600.39,
+      "dailyRatingChange": -0.36
+    },
+    {
+      "position": 18,
+      "playerId": "m14258",
+      "name": "Troy Isaacs",
+      "rating": 1543.79,
+      "dailyRatingChange": -2.17
+    },
+    {
+      "position": 18,
+      "playerId": "m51629",
+      "name": "Rocio Paz",
+      "rating": 1444.55,
+      "dailyRatingChange": 2.42
+    },
+    {
+      "position": 18,
+      "playerId": "m55390",
+      "name": "Brittani Silchia",
+      "rating": 1476.97,
+      "dailyRatingChange": 2.07
+    },
+    {
+      "position": 26,
+      "playerId": "m24135",
+      "name": "Scott Brown CO",
+      "rating": 1474.24,
+      "dailyRatingChange": 1.02
+    },
+    {
+      "position": 26,
+      "playerId": "m55383",
+      "name": "Ben Mishler",
+      "rating": 1364.69,
+      "dailyRatingChange": 4.16
+    },
+    {
+      "position": 26,
+      "playerId": "m39822",
+      "name": "Andrew Graneto",
+      "rating": 1595.89,
+      "dailyRatingChange": -2.21
+    },
+    {
+      "position": 26,
+      "playerId": "m52261",
+      "name": "Danielle Ferguson",
+      "rating": 1404.34,
+      "dailyRatingChange": 0.89
+    },
+    {
+      "position": 26,
+      "playerId": "m34127",
+      "name": "Daniel Albeyta",
+      "rating": 1727.81,
+      "dailyRatingChange": -3.99
+    },
+    {
+      "position": 26,
+      "playerId": "i163445",
+      "name": "Evan Reed",
+      "rating": 1499.52,
+      "dailyRatingChange": null
+    },
+    {
+      "position": 26,
+      "playerId": "m30451",
+      "name": "Scott Johnson CO",
+      "rating": 1481.39,
+      "dailyRatingChange": -0.84
+    },
+    {
+      "position": 26,
+      "playerId": "m56832",
+      "name": "Luciano Madrigal",
+      "rating": 1476.53,
+      "dailyRatingChange": 0.33
+    },
+    {
+      "position": 26,
+      "playerId": "m57614",
+      "name": "Cruz Pedregon",
+      "rating": 1479.29,
+      "dailyRatingChange": -1.18
+    },
+    {
+      "position": 26,
+      "playerId": "m5123",
+      "name": "Cassie Begay",
+      "rating": 1625,
+      "dailyRatingChange": -1.43
+    },
+    {
+      "position": 36,
+      "playerId": "m585314",
+      "name": "Ian Brown",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 36,
+      "playerId": "m41355",
+      "name": "Tony Somma",
+      "rating": 1547.34,
+      "dailyRatingChange": -2.67
+    },
+    {
+      "position": 36,
+      "playerId": "m58003",
+      "name": "Kyle Ragan",
+      "rating": 1472,
+      "dailyRatingChange": -5.53
+    },
+    {
+      "position": 36,
+      "playerId": "m18276",
+      "name": "Danny Casto",
+      "rating": 1559.26,
+      "dailyRatingChange": -4.66
+    },
+    {
+      "position": 36,
+      "playerId": "m5288",
+      "name": "Justin Searles",
+      "rating": 1525.28,
+      "dailyRatingChange": -2.83
+    },
+    {
+      "position": 36,
+      "playerId": "i159208",
+      "name": "Connor Teevens",
+      "rating": 1439,
+      "dailyRatingChange": -4.85
+    },
+    {
+      "position": 36,
+      "playerId": "m60792",
+      "name": "Matt Barron",
+      "rating": 1336.74,
+      "dailyRatingChange": 0.69
+    },
+    {
+      "position": 36,
+      "playerId": "i162363",
+      "name": "Jasmine Schweigerdt",
+      "rating": 1443.36,
+      "dailyRatingChange": null
+    },
+    {
+      "position": 36,
+      "playerId": "m42065",
+      "name": "Guilherme Paes",
+      "rating": 1537.55,
+      "dailyRatingChange": -3.84
+    },
+    {
+      "position": 45,
+      "playerId": "m585304",
+      "name": "Andrea Tinseth",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 45,
+      "playerId": "i143145",
+      "name": "Keelan tinseth",
+      "rating": 1411.55,
+      "dailyRatingChange": -10.16
+    },
+    {
+      "position": 45,
+      "playerId": "m585325",
+      "name": "Bruce Miles",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 45,
+      "playerId": "m56828",
+      "name": "Jon Bowman",
+      "rating": 1428.01,
+      "dailyRatingChange": -13.98
+    },
+    {
+      "position": 45,
+      "playerId": "i155673",
+      "name": "Matt Schweigerdt",
+      "rating": 1412.19,
+      "dailyRatingChange": null
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "locationId": "13728",
+  "venueName": "The AK Arcade",
+  "venueAddress": "3809 Piaffe Ave, Mint Hill 28227",
+  "tournaments": [
+    {
+      "id": 265770,
+      "name": "AK Friendly Strikes",
+      "date": "8/6/2026",
+      "playerCount": 4,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m61752",
+          "name": "Cliff Albanese",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m48973",
+          "name": "Kenyon Rooker",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "p583033",
+          "name": "Andrew Keele",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m36024",
+          "name": "Ryan Mcentire",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 264618,
+      "name": "Thursday Flip Frenzy",
+      "date": "7/30/2026",
+      "playerCount": 3,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "p583033",
+          "name": "Andrew Keele",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m48973",
+          "name": "Kenyon Rooker",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m61752",
+          "name": "Cliff Albanese",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

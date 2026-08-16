@@ -1,0 +1,119 @@
+{
+  "locationId": "13045",
+  "name": "Heroes & Fantasies",
+  "address": "13013 N. US-Hwy 281; suite 120, San Antonio, TX 78216, US",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 7,
+  "relatedVenues": [
+    {
+      "locationId": "2123",
+      "name": "What's Brewing? Coffee Roasters",
+      "address": "138 West Rhapsody Drive, San Antonio, TX, 78216, US",
+      "count": 105
+    },
+    {
+      "locationId": "11561",
+      "name": "Austin Pinball Collective",
+      "address": "1106 Clayton Ln, Austin, TX 78723, US",
+      "count": 13
+    },
+    {
+      "locationId": "8994",
+      "name": "Bender Bar and Grill",
+      "address": "321 W Ben White Blvd Ste 300, Austin, TX 78704, US",
+      "count": 2
+    },
+    {
+      "locationId": "13780",
+      "name": "Pure Joy Toys",
+      "address": "6959 Bandera Rd. San Antonio, Tx. 78238",
+      "count": 1
+    }
+  ],
+  "players": [
+    {
+      "id": "m22141",
+      "name": "Don Baker",
+      "rating": 1614.43,
+      "rd": 20.4,
+      "ratingClass": "A",
+      "homeLocation": "What's Brewing? Coffee Roasters",
+      "homeLocationId": "2123",
+      "percentile": 85.44277262775422,
+      "changeDisplay": "-3.0",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m43447",
+      "name": "Schuyler Allison",
+      "rating": 1527.56,
+      "rd": 25.27,
+      "ratingClass": "B",
+      "homeLocation": "What's Brewing? Coffee Roasters",
+      "homeLocationId": "2123",
+      "percentile": 58.02394372758187,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m56824",
+      "name": "Sona Rivera",
+      "rating": 1505.47,
+      "rd": 15.26,
+      "ratingClass": "B",
+      "homeLocation": "What's Brewing? Coffee Roasters",
+      "homeLocationId": "2123",
+      "percentile": 49.42935668700797,
+      "changeDisplay": "+2.3",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m47566",
+      "name": "Charles Peck",
+      "rating": 1481.83,
+      "rd": 24.84,
+      "ratingClass": "C",
+      "homeLocation": "What's Brewing? Coffee Roasters",
+      "homeLocationId": "2123",
+      "percentile": 39.66087483113616,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m49051",
+      "name": "Brad Frantz",
+      "rating": 1479.69,
+      "rd": 26.92,
+      "ratingClass": "C",
+      "homeLocation": "What's Brewing? Coffee Roasters",
+      "homeLocationId": "2123",
+      "percentile": 38.81306190897657,
+      "changeDisplay": "-5.0",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m51360",
+      "name": "Elizabeth Harwood",
+      "rating": 1452.47,
+      "rd": 22.94,
+      "ratingClass": "C",
+      "homeLocation": "What's Brewing? Coffee Roasters",
+      "homeLocationId": "2123",
+      "percentile": 28.084967624726325,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m56825",
+      "name": "Emily Matson",
+      "rating": 1431.7,
+      "rd": 16.61,
+      "ratingClass": "C",
+      "homeLocation": "What's Brewing? Coffee Roasters",
+      "homeLocationId": "2123",
+      "percentile": 21.07420692225276,
+      "changeDisplay": "+0.2",
+      "changeClass": "change-positive"
+    }
+  ]
+}

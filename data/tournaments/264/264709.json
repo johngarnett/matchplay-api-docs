@@ -1,0 +1,53 @@
+{
+  "tournamentId": 264709,
+  "name": "Sand bar weekly knock out",
+  "date": "2026-07-31",
+  "locationId": "12988",
+  "locationName": "The SandBar & Grill",
+  "playerCount": 6,
+  "ratingsDate": "2026-07-31",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m26678",
+      "name": "Kilian Inglett",
+      "rating": 1722.18,
+      "dailyRatingChange": 2.3
+    },
+    {
+      "position": 2,
+      "playerId": "m8829",
+      "name": "Nate Nielsen",
+      "rating": 1592.95,
+      "dailyRatingChange": 6.63
+    },
+    {
+      "position": 3,
+      "playerId": "m7961",
+      "name": "Altwin Hawksford",
+      "rating": 1535.59,
+      "dailyRatingChange": -2.09
+    },
+    {
+      "position": 3,
+      "playerId": "m552064",
+      "name": "Andrew Demchuck",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 5,
+      "playerId": "m12153",
+      "name": "Bradley Bonner",
+      "rating": 1404.06,
+      "dailyRatingChange": -3.78
+    },
+    {
+      "position": 6,
+      "playerId": "m35231",
+      "name": "Raya Moss",
+      "rating": 1382.4,
+      "dailyRatingChange": -14.97
+    }
+  ]
+}

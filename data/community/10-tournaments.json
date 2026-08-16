@@ -1,0 +1,427 @@
+{
+  "communityId": "10",
+  "locations": [
+    {
+      "id": "11119",
+      "name": "Bayside Anglican Church Hall",
+      "address": "Pitt-Owen Street, Arncliffe",
+      "tournaments": [
+        {
+          "id": 266894,
+          "name": "Real B Finals for Flipper Fellowship Group Matchplay",
+          "date": "8/13/2026",
+          "playerCount": 7,
+          "qualifying": {
+            "id": 264651,
+            "name": "Qualifying Flipper Fellowship Group Matchplay",
+            "playerCount": 17
+          },
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m23374",
+              "name": "Daniel Zachariou",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m47690",
+              "name": "Theo Charalambous",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m44996",
+              "name": "Lisa Herrod",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m48637",
+              "name": "Ian Mcintosh",
+              "isCommunityMember": true
+            }
+          ]
+        },
+        {
+          "id": 264652,
+          "name": "A Finals for Flipper Fellowship Group Matchplay",
+          "date": "8/13/2026",
+          "playerCount": 8,
+          "qualifying": {
+            "id": 264651,
+            "name": "Qualifying Flipper Fellowship Group Matchplay",
+            "playerCount": 17
+          },
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m22190",
+              "name": "Andrew Gliatis",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m24214",
+              "name": "Steve O'Bryan",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m40160",
+              "name": "Sierra Charalambous",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "i153012",
+              "name": "John Koralis",
+              "isCommunityMember": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "10800",
+      "name": "Illawarra Pinball Clubhouse",
+      "address": "147 Kembla Street, Wollongong",
+      "tournaments": [
+        {
+          "id": 266893,
+          "name": "Top 8 Illawarra Pinball Club: Thursday IFPA Flip Frenzy 13.8",
+          "date": "8/13/2026",
+          "playerCount": 8,
+          "qualifying": {
+            "id": 266210,
+            "name": "Illawarra Pinball Club: Thursday IFPA Flip Frenzy 13.8",
+            "playerCount": 20
+          },
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m39451",
+              "name": "Mags Craze",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m23351",
+              "name": "Matt Roberts",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m43815",
+              "name": "Ryan Halstead",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "i160544",
+              "name": "Kurt Basedow",
+              "isCommunityMember": true
+            }
+          ]
+        },
+        {
+          "id": 266211,
+          "name": "Playoff for 8th - Flip Frenzy 13.8",
+          "date": "8/13/2026",
+          "playerCount": 2,
+          "qualifying": {
+            "id": 266210,
+            "name": "Illawarra Pinball Club: Thursday IFPA Flip Frenzy 13.8",
+            "playerCount": 20
+          },
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m43815",
+              "name": "Ryan Halstead",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m58485",
+              "name": "Jimmy Penno",
+              "isCommunityMember": true
+            }
+          ]
+        },
+        {
+          "id": 265577,
+          "name": "Illawarra Pinball Open 2026 - Finals",
+          "date": "8/9/2026",
+          "playerCount": 32,
+          "qualifying": {
+            "id": 263673,
+            "name": "Illawarra Pinball Open 2026",
+            "playerCount": 85
+          },
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m1599",
+              "name": "Pat Nichols",
+              "isCommunityMember": false
+            },
+            {
+              "position": 2,
+              "playerId": "m1548",
+              "name": "Paul Jones AUS",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m22190",
+              "name": "Andrew Gliatis",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m60757",
+              "name": "Gabriel Magdalawi",
+              "isCommunityMember": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "12095",
+      "name": "The Basement Canberra",
+      "address": "2 Cohen Street, Belconnen, ACT 2617, AU",
+      "tournaments": [
+        {
+          "id": 266522,
+          "name": "Finals for Pinball at the Basement Aug 2026",
+          "date": "8/11/2026",
+          "playerCount": 4,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m32084",
+              "name": "Brett Hennock",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m56373",
+              "name": "Sean Warren",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "i162455",
+              "name": "Chris Harvey AUS",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m7205",
+              "name": "Ted Woods",
+              "isCommunityMember": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "13625",
+      "name": "The Ex Servos",
+      "address": "157 Junction Street, Nowra, NSW 2541",
+      "tournaments": [
+        {
+          "id": 259166,
+          "name": "Shoalhaven League Season 5 2026 Wk 3",
+          "date": "8/12/2026",
+          "playerCount": 11,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m52577",
+              "name": "Alex Williams AUS",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "i12064",
+              "name": "Stuart Hunt",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "i133291",
+              "name": "Lionel Boekenstein",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m57831",
+              "name": "Peter Godfrey",
+              "isCommunityMember": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "13069",
+      "name": "The Fraternity Club",
+      "address": "11 Bourke St, Fairy Meadow",
+      "tournaments": [
+        {
+          "id": 260169,
+          "name": "Illawarra Pinball Club - Fair Strikes",
+          "date": "8/9/2026",
+          "playerCount": 45,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m42085",
+              "name": "Sue Hantzi",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "i159758",
+              "name": "Giles Bowen",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m9285",
+              "name": "Peter Menzel",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m47097",
+              "name": "Craig Stanford",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m52577",
+              "name": "Alex Williams AUS",
+              "isCommunityMember": true
+            }
+          ]
+        },
+        {
+          "id": 266035,
+          "name": "Position '16' Playoff (for only 2 players)",
+          "date": "8/8/2026",
+          "playerCount": 2,
+          "qualifying": {
+            "id": 263673,
+            "name": "Illawarra Pinball Open 2026",
+            "playerCount": 85
+          },
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m32732",
+              "name": "Richard Suters",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m11522",
+              "name": "Andre Thomson",
+              "isCommunityMember": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "12458",
+      "name": "The Saloon Barcade",
+      "address": "273 Nepean Highway, Edithvale, VIC 3196, AU",
+      "tournaments": [
+        {
+          "id": 264228,
+          "name": "Saloon Barcade August 2nd Thursday Tournament",
+          "date": "8/13/2026",
+          "playerCount": 11,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m17468",
+              "name": "Andy Coffey",
+              "isCommunityMember": false
+            },
+            {
+              "position": 2,
+              "playerId": "m53902",
+              "name": "Michael Khamatgaleev",
+              "isCommunityMember": false
+            },
+            {
+              "position": 3,
+              "playerId": "m43768",
+              "name": "Phillip De Bortoli",
+              "isCommunityMember": false
+            },
+            {
+              "position": 4,
+              "playerId": "m12726",
+              "name": "Zac Veron",
+              "isCommunityMember": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "12625",
+      "name": "Tower Cinema",
+      "address": "183-185 King St, Newcastle NSW 2300",
+      "tournaments": [
+        {
+          "id": 266523,
+          "name": "A Finals for Tower Tuesday 11/8/26",
+          "date": "8/11/2026",
+          "playerCount": 6,
+          "qualifying": {
+            "id": 266516,
+            "name": "Qualifying for Tower Tuesday 11/8/26",
+            "playerCount": 12
+          },
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "i42252",
+              "name": "David McKinnon",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m626",
+              "name": "Brett Goodwin",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m1746",
+              "name": "Clinton Starrett",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m59385",
+              "name": "Nick Schmalenberg",
+              "isCommunityMember": true
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

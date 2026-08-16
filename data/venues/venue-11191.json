@@ -1,0 +1,347 @@
+{
+  "locationId": "11191",
+  "name": "The Flipper Room",
+  "address": "221新北市汐止區大同路一段94號",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 25,
+  "relatedVenues": [
+    {
+      "locationId": "5557",
+      "name": "JFPA Pinball Dojo",
+      "address": "北海道札幌市白石区東米里2038第1倉庫内, Sapporo, Hokkaido, 003-0876, JP",
+      "count": 7
+    },
+    {
+      "locationId": "1346",
+      "name": "SALOOON",
+      "address": "20-29 Honcho, Ota, Gunma Prefecture, 373-0057, JP",
+      "count": 2
+    },
+    {
+      "locationId": "12660",
+      "name": "Redstone Pinball GBG",
+      "address": "Sockerbruket 22, Göteborg",
+      "count": 2
+    },
+    {
+      "locationId": "4804",
+      "name": "District 82 Pinball",
+      "address": "800 O Keefe Rd, De Pere, WI 54115, USA",
+      "count": 1
+    },
+    {
+      "locationId": "7837",
+      "name": "Super Abari Game Bar",
+      "address": "1015 Seigle Ave, Charlotte, NC, 2820, US",
+      "count": 1
+    },
+    {
+      "locationId": "8090",
+      "name": "The Basement Arcade Bar",
+      "address": "14 Union St S, Concord, NC 28025, US",
+      "count": 1
+    }
+  ],
+  "players": [
+    {
+      "id": "m16603",
+      "name": "Takaya Yamaguchi",
+      "rating": 1751.41,
+      "rd": 31.36,
+      "ratingClass": "Expert",
+      "homeLocation": "JFPA Pinball Dojo",
+      "homeLocationId": "5557",
+      "percentile": 98.81678855918386,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m3460",
+      "name": "Yoshihiro Fujisawa",
+      "rating": 1718.65,
+      "rd": 25.81,
+      "ratingClass": "Expert",
+      "homeLocation": "District 82 Pinball",
+      "homeLocationId": "4804",
+      "percentile": 97.59165230353565,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m16804",
+      "name": "Jake Crimmins",
+      "rating": 1697.82,
+      "rd": 26.68,
+      "ratingClass": "A",
+      "homeLocation": "The Flipper Room",
+      "homeLocationId": "11191",
+      "percentile": 96.46899892858806,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m13970",
+      "name": "Kengtai Ko",
+      "rating": 1628.55,
+      "rd": 31.62,
+      "ratingClass": "A",
+      "homeLocation": "The Flipper Room",
+      "homeLocationId": "11191",
+      "percentile": 88.25173522150277,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i145582",
+      "name": "Trevor Klippenstein",
+      "rating": 1607.81,
+      "rd": 41.69,
+      "ratingClass": "A",
+      "homeLocation": "The Flipper Room",
+      "homeLocationId": "11191",
+      "percentile": 83.90087110448596,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i142443",
+      "name": "Cheng Yue Wu",
+      "rating": 1599.12,
+      "rd": 31.99,
+      "ratingClass": "B",
+      "homeLocation": "The Flipper Room",
+      "homeLocationId": "11191",
+      "percentile": 81.77668048632786,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m5791",
+      "name": "Norio Iwai",
+      "rating": 1594.55,
+      "rd": 29.78,
+      "ratingClass": "B",
+      "homeLocation": "JFPA Pinball Dojo",
+      "homeLocationId": "5557",
+      "percentile": 80.69129361345321,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m30111",
+      "name": "David Jarlestedt",
+      "rating": 1589.32,
+      "rd": 21.23,
+      "ratingClass": "B",
+      "homeLocation": "Redstone Pinball GBG",
+      "homeLocationId": "12660",
+      "percentile": 79.28914147295849,
+      "changeDisplay": "-6.0",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m59936",
+      "name": "Sin Lee",
+      "rating": 1575.92,
+      "rd": 31.26,
+      "ratingClass": "B",
+      "homeLocation": "The Flipper Room",
+      "homeLocationId": "11191",
+      "percentile": 75.45535007220386,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i82246",
+      "name": "Hunter DiLeo",
+      "rating": 1569.32,
+      "rd": 32.46,
+      "ratingClass": "B",
+      "homeLocation": "The Flipper Room",
+      "homeLocationId": "11191",
+      "percentile": 73.2938929519728,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i148644",
+      "name": "Jack Pinfire",
+      "rating": 1558.34,
+      "rd": 60.6,
+      "ratingClass": "B",
+      "homeLocation": "The Flipper Room",
+      "homeLocationId": "11191",
+      "percentile": 69.79084175711557,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m16763",
+      "name": "Miho Yamaguchi",
+      "rating": 1544.64,
+      "rd": 28.82,
+      "ratingClass": "B",
+      "homeLocation": "JFPA Pinball Dojo",
+      "homeLocationId": "5557",
+      "percentile": 64.80644710485862,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i99987",
+      "name": "Guillaume Hay-Sabourin",
+      "rating": 1541.71,
+      "rd": 44.31,
+      "ratingClass": "B",
+      "homeLocation": "The Flipper Room",
+      "homeLocationId": "11191",
+      "percentile": 63.75832673405692,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i148645",
+      "name": "Noah Gold",
+      "rating": 1506.33,
+      "rd": 60.86,
+      "ratingClass": "B",
+      "homeLocation": "The Flipper Room",
+      "homeLocationId": "11191",
+      "percentile": 49.75078026738715,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i145583",
+      "name": "Kenneth Cheung",
+      "rating": 1505.07,
+      "rd": 64.79,
+      "ratingClass": "B",
+      "homeLocation": "The Flipper Room",
+      "homeLocationId": "11191",
+      "percentile": 49.34550705734383,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i144265",
+      "name": "Miller Wang",
+      "rating": 1501.51,
+      "rd": 48.67,
+      "ratingClass": "B",
+      "homeLocation": "The Flipper Room",
+      "homeLocationId": "11191",
+      "percentile": 47.72441421717054,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i162643",
+      "name": "Mike Tseng",
+      "rating": 1469.79,
+      "rd": 46.61,
+      "ratingClass": "C",
+      "homeLocation": "The Flipper Room",
+      "homeLocationId": "11191",
+      "percentile": 34.80691293613453,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m48505",
+      "name": "Alice Kuo",
+      "rating": 1447.55,
+      "rd": 40.68,
+      "ratingClass": "C",
+      "homeLocation": "The Flipper Room",
+      "homeLocationId": "11191",
+      "percentile": 26.29617552522476,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i163350",
+      "name": "Julia Liao",
+      "rating": 1416.1,
+      "rd": 56.38,
+      "ratingClass": "C",
+      "homeLocation": "The Flipper Room",
+      "homeLocationId": "11191",
+      "percentile": 16.583593422462386,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i148646",
+      "name": "Michelle Lee",
+      "rating": 1379.17,
+      "rd": 37.29,
+      "ratingClass": "D",
+      "homeLocation": "The Flipper Room",
+      "homeLocationId": "11191",
+      "percentile": 8.179997205012345,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i162642",
+      "name": "Eugene Lee",
+      "rating": 1376.74,
+      "rd": 47.81,
+      "ratingClass": "D",
+      "homeLocation": "The Flipper Room",
+      "homeLocationId": "11191",
+      "percentile": 7.737457492896073,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i150493",
+      "name": "Jill Chen",
+      "rating": 1365.07,
+      "rd": 50.79,
+      "ratingClass": "D",
+      "homeLocation": "The Flipper Room",
+      "homeLocationId": "11191",
+      "percentile": 6.0651232123724785,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i94711",
+      "name": "Sin Lee",
+      "rating": null,
+      "rd": null,
+      "ratingClass": "N/A",
+      "homeLocation": "The Flipper Room",
+      "homeLocationId": "11191",
+      "percentile": null,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i145584",
+      "name": "Demi Tsai",
+      "rating": null,
+      "rd": null,
+      "ratingClass": "N/A",
+      "homeLocation": "The Flipper Room",
+      "homeLocationId": "11191",
+      "percentile": null,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i136694",
+      "name": "On Li",
+      "rating": null,
+      "rd": null,
+      "ratingClass": "N/A",
+      "homeLocation": "The Flipper Room",
+      "homeLocationId": "11191",
+      "percentile": null,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

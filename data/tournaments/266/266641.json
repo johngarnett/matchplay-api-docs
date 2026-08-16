@@ -1,0 +1,102 @@
+{
+  "tournamentId": 266641,
+  "name": "The Tuesday Night Local 08-11-2026 (clone)",
+  "date": "2026-08-12",
+  "locationId": "10621",
+  "locationName": "PCP",
+  "playerCount": 13,
+  "ratingsDate": "2026-08-12",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m36789",
+      "name": "Michael Hew",
+      "rating": 1656.66,
+      "dailyRatingChange": 0.48
+    },
+    {
+      "position": 2,
+      "playerId": "m35194",
+      "name": "Harrison Maxwell",
+      "rating": 1723.49,
+      "dailyRatingChange": 2.78
+    },
+    {
+      "position": 3,
+      "playerId": "m289",
+      "name": "Ken Kemp",
+      "rating": 1675.66,
+      "dailyRatingChange": -7.82
+    },
+    {
+      "position": 4,
+      "playerId": "m30725",
+      "name": "Joe Woody",
+      "rating": 1439.12,
+      "dailyRatingChange": 63.14
+    },
+    {
+      "position": 5,
+      "playerId": "m21048",
+      "name": "Summer Armistead",
+      "rating": 1575.57,
+      "dailyRatingChange": 2.86
+    },
+    {
+      "position": 6,
+      "playerId": "m1945",
+      "name": "Lora Tennison",
+      "rating": 1546.5,
+      "dailyRatingChange": -0.41
+    },
+    {
+      "position": 7,
+      "playerId": "m34715",
+      "name": "Chris Noah",
+      "rating": 1647.17,
+      "dailyRatingChange": -5.89
+    },
+    {
+      "position": 7,
+      "playerId": "m21665",
+      "name": "Cody Jones",
+      "rating": 1578.19,
+      "dailyRatingChange": -2.43
+    },
+    {
+      "position": 9,
+      "playerId": "m22831",
+      "name": "April Kemp",
+      "rating": 1487.22,
+      "dailyRatingChange": 3.09
+    },
+    {
+      "position": 10,
+      "playerId": "i160174",
+      "name": "Mark Cappio",
+      "rating": 1471.41,
+      "dailyRatingChange": 10.89
+    },
+    {
+      "position": 11,
+      "playerId": "m58482",
+      "name": "Joey Hamad",
+      "rating": 1526.77,
+      "dailyRatingChange": -7.98
+    },
+    {
+      "position": 12,
+      "playerId": "m2454",
+      "name": "Tim Tennison",
+      "rating": 1568.27,
+      "dailyRatingChange": -15.72
+    },
+    {
+      "position": 13,
+      "playerId": "i162826",
+      "name": "Lynne Garrett",
+      "rating": 1388.5,
+      "dailyRatingChange": null
+    }
+  ]
+}

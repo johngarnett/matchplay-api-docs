@@ -1,0 +1,407 @@
+{
+  "locationId": "13037",
+  "name": "Carolina Beer Temple & the Ames Street Marketplace",
+  "address": "215 N Ames St, Matthews, NC 28105, US",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 28,
+  "relatedVenues": [
+    {
+      "locationId": "7837",
+      "name": "Super Abari Game Bar",
+      "address": "1015 Seigle Ave, Charlotte, NC, 2820, US",
+      "count": 148
+    },
+    {
+      "locationId": "5106",
+      "name": "Player 1UP",
+      "address": "140 E Main St Suite 140, Rock Hill, SC 29730, United States",
+      "count": 6
+    },
+    {
+      "locationId": "11003",
+      "name": "Abari Game Bar",
+      "address": "1721 N Davidson St, Charlotte, NC 28206, US",
+      "count": 6
+    },
+    {
+      "locationId": "8950",
+      "name": "The Pinball Barn",
+      "address": "250 Stoneybrook Road, Pelzer, SC  29669",
+      "count": 5
+    },
+    {
+      "locationId": "10474",
+      "name": "Boxcar Bar + Arcade",
+      "address": "120 West Lewis Street, Greensboro, NC 27406, US",
+      "count": 5
+    },
+    {
+      "locationId": "11549",
+      "name": "Flight Deck NC",
+      "address": "9521 Lumley Rd, Morrisville, NC 27560, US",
+      "count": 5
+    },
+    {
+      "locationId": "13728",
+      "name": "The AK Arcade",
+      "address": "3809 Piaffe Ave, Mint Hill 28227",
+      "count": 5
+    },
+    {
+      "locationId": "7528",
+      "name": "Bang Back Pinball Lounge",
+      "address": "741 Saluda Ave, Columbia, SC, 29205, US",
+      "count": 3
+    },
+    {
+      "locationId": "8946",
+      "name": "Craft And Draft Irmo",
+      "address": "7583 Saint Andrews Road, Irmo, SC 29063, US",
+      "count": 3
+    },
+    {
+      "locationId": "13474",
+      "name": "Greensboro Pinball Museum",
+      "address": "2140 Lawndale Dr, Greensboro, NC 27408, US",
+      "count": 3
+    }
+  ],
+  "players": [
+    {
+      "id": "m14875",
+      "name": "Reed Silverstein",
+      "rating": 1688.56,
+      "rd": 25.48,
+      "ratingClass": "A",
+      "homeLocation": "The Pinball Barn",
+      "homeLocationId": "8950",
+      "percentile": 95.82615176782969,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m61752",
+      "name": "Cliff Albanese",
+      "rating": 1678.14,
+      "rd": 48.92,
+      "ratingClass": "A",
+      "homeLocation": "The AK Arcade",
+      "homeLocationId": "13728",
+      "percentile": 94.94573065635626,
+      "changeDisplay": "★",
+      "changeClass": "change-new"
+    },
+    {
+      "id": "m28956",
+      "name": "Phillip Davis",
+      "rating": 1668.83,
+      "rd": 19.12,
+      "ratingClass": "A",
+      "homeLocation": "Super Abari Game Bar",
+      "homeLocationId": "7837",
+      "percentile": 93.97214328970047,
+      "changeDisplay": "-0.4",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m32292",
+      "name": "Jesse Escobar",
+      "rating": 1641.25,
+      "rd": 19.41,
+      "ratingClass": "A",
+      "homeLocation": "Super Abari Game Bar",
+      "homeLocationId": "7837",
+      "percentile": 90.55294172450739,
+      "changeDisplay": "+1.0",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m33871",
+      "name": "Jeff Latham",
+      "rating": 1623.64,
+      "rd": 16.35,
+      "ratingClass": "A",
+      "homeLocation": "Super Abari Game Bar",
+      "homeLocationId": "7837",
+      "percentile": 87.33870592071553,
+      "changeDisplay": "-6.5",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m39144",
+      "name": "Kristen Weirich",
+      "rating": 1605.95,
+      "rd": 17.84,
+      "ratingClass": "A",
+      "homeLocation": "Abari Game Bar",
+      "homeLocationId": "11003",
+      "percentile": 83.41640657753761,
+      "changeDisplay": "+2.7",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m36024",
+      "name": "Ryan McEntire",
+      "rating": 1599.9,
+      "rd": 19.34,
+      "ratingClass": "B",
+      "homeLocation": "Super Abari Game Bar",
+      "homeLocationId": "7837",
+      "percentile": 81.9863045604882,
+      "changeDisplay": "-10.2",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m31009",
+      "name": "Brandon Forbes",
+      "rating": 1589.38,
+      "rd": 22.11,
+      "ratingClass": "B",
+      "homeLocation": "Super Abari Game Bar",
+      "homeLocationId": "7837",
+      "percentile": 79.3170913495132,
+      "changeDisplay": "-0.9",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m48973",
+      "name": "Kenyon Rooker",
+      "rating": 1581.61,
+      "rd": 19.11,
+      "ratingClass": "B",
+      "homeLocation": "Super Abari Game Bar",
+      "homeLocationId": "7837",
+      "percentile": 77.09041785065449,
+      "changeDisplay": "+3.5",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m61751",
+      "name": "Andrew drewkeele22@gmail.com",
+      "rating": 1575.46,
+      "rd": 59.96,
+      "ratingClass": "B",
+      "homeLocation": "Carolina Beer Temple & the Ames Street Marketplace",
+      "homeLocationId": "13037",
+      "percentile": 75.25038431080263,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m56385",
+      "name": "Stu Allison",
+      "rating": 1553.23,
+      "rd": 25.82,
+      "ratingClass": "B",
+      "homeLocation": "Super Abari Game Bar",
+      "homeLocationId": "7837",
+      "percentile": 68.01136628313225,
+      "changeDisplay": "+15.2",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m53230",
+      "name": "Kamaran McClanahan",
+      "rating": 1520.97,
+      "rd": 47.79,
+      "ratingClass": "B",
+      "homeLocation": "Carolina Beer Temple & the Ames Street Marketplace",
+      "homeLocationId": "13037",
+      "percentile": 55.55969627800811,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m61742",
+      "name": "Derick Mullis",
+      "rating": 1519.89,
+      "rd": 56.42,
+      "ratingClass": "B",
+      "homeLocation": "Carolina Beer Temple & the Ames Street Marketplace",
+      "homeLocationId": "13037",
+      "percentile": 55.14044812968743,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m47115",
+      "name": "Greg Lege",
+      "rating": 1487.91,
+      "rd": 26.7,
+      "ratingClass": "C",
+      "homeLocation": "Super Abari Game Bar",
+      "homeLocationId": "7837",
+      "percentile": 42.13443890622817,
+      "changeDisplay": "+4.2",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m47318",
+      "name": "MARCIO PINTO",
+      "rating": 1468.43,
+      "rd": 38.78,
+      "ratingClass": "C",
+      "homeLocation": "Carolina Beer Temple & the Ames Street Marketplace",
+      "homeLocationId": "13037",
+      "percentile": 34.23859877952206,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m59818",
+      "name": "Jason Groff",
+      "rating": 1466.06,
+      "rd": 39.05,
+      "ratingClass": "C",
+      "homeLocation": "Carolina Beer Temple & the Ames Street Marketplace",
+      "homeLocationId": "13037",
+      "percentile": 33.29296128942097,
+      "changeDisplay": "+1.0",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m49547",
+      "name": "Rick Kite",
+      "rating": 1464.18,
+      "rd": 37.79,
+      "ratingClass": "C",
+      "homeLocation": "Carolina Beer Temple & the Ames Street Marketplace",
+      "homeLocationId": "13037",
+      "percentile": 32.510364745889035,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m47563",
+      "name": "Mercedes Johnson",
+      "rating": 1452.57,
+      "rd": 26.74,
+      "ratingClass": "C",
+      "homeLocation": "Super Abari Game Bar",
+      "homeLocationId": "7837",
+      "percentile": 28.13155075231751,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m61812",
+      "name": "Tyler Allen",
+      "rating": 1440.87,
+      "rd": 60.9,
+      "ratingClass": "C",
+      "homeLocation": "Carolina Beer Temple & the Ames Street Marketplace",
+      "homeLocationId": "13037",
+      "percentile": 24.022918898774865,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m49938",
+      "name": "Cheyenne Herron",
+      "rating": 1434.23,
+      "rd": 22.42,
+      "ratingClass": "C",
+      "homeLocation": "Super Abari Game Bar",
+      "homeLocationId": "7837",
+      "percentile": 21.880095029580286,
+      "changeDisplay": "-3.3",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m59873",
+      "name": "William Buras",
+      "rating": 1432.87,
+      "rd": 69.41,
+      "ratingClass": "C",
+      "homeLocation": "Carolina Beer Temple & the Ames Street Marketplace",
+      "homeLocationId": "13037",
+      "percentile": 21.423580379186657,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m58833",
+      "name": "Nancy nolff",
+      "rating": 1428.31,
+      "rd": 55.14,
+      "ratingClass": "C",
+      "homeLocation": "Carolina Beer Temple & the Ames Street Marketplace",
+      "homeLocationId": "13037",
+      "percentile": 20.06801136628313,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m44007",
+      "name": "Sean Tracy",
+      "rating": 1424.79,
+      "rd": 31.2,
+      "ratingClass": "C",
+      "homeLocation": "Boxcar Bar + Arcade",
+      "homeLocationId": "10474",
+      "percentile": 19.05249918479527,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m47562",
+      "name": "Maxwell Johnson",
+      "rating": 1413.25,
+      "rd": 26.78,
+      "ratingClass": "C",
+      "homeLocation": "Super Abari Game Bar",
+      "homeLocationId": "7837",
+      "percentile": 15.996646014813434,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m61814",
+      "name": "carleigh long",
+      "rating": 1382.76,
+      "rd": 38.22,
+      "ratingClass": "D",
+      "homeLocation": "Super Abari Game Bar",
+      "homeLocationId": "7837",
+      "percentile": 8.822844365770719,
+      "changeDisplay": "+9.3",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m54990",
+      "name": "Kyndall Sutherland",
+      "rating": 1366.9,
+      "rd": 39.79,
+      "ratingClass": "D",
+      "homeLocation": "Carolina Beer Temple & the Ames Street Marketplace",
+      "homeLocationId": "13037",
+      "percentile": 6.3026971630875295,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m61815",
+      "name": "Devin Carper",
+      "rating": 1355.52,
+      "rd": 40.12,
+      "ratingClass": "D",
+      "homeLocation": "Super Abari Game Bar",
+      "homeLocationId": "7837",
+      "percentile": 4.839986956724275,
+      "changeDisplay": "+18.1",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m54980",
+      "name": "Matthew Meier",
+      "rating": 1315.59,
+      "rd": 53.52,
+      "ratingClass": "D",
+      "homeLocation": "Carolina Beer Temple & the Ames Street Marketplace",
+      "homeLocationId": "13037",
+      "percentile": 1.635067778450645,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

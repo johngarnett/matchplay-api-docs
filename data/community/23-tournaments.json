@@ -1,0 +1,173 @@
+{
+  "communityId": "23",
+  "locations": [
+    {
+      "id": "13342",
+      "name": "8 Bit Arcade Bar",
+      "address": "217 W Jefferson St, Bloomington, IL 61701, US",
+      "tournaments": [
+        {
+          "id": 266016,
+          "name": "Finals for 8 bit Arcade Bar August monthly Transformers Launch Party",
+          "date": "8/7/2026",
+          "playerCount": 4,
+          "qualifying": {
+            "id": 265986,
+            "name": "8 bit Arcade Bar August monthly Transformers Launch Party",
+            "playerCount": 14
+          },
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m28887",
+              "name": "CJ Krawcyk",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "p539187",
+              "name": "Kris Wells",
+              "isCommunityMember": false
+            },
+            {
+              "position": 3,
+              "playerId": "m40545",
+              "name": "Mike Felumlee",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m51133",
+              "name": "Chris Golwitzer",
+              "isCommunityMember": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "12612",
+      "name": "Pour Bros Bloomington",
+      "address": "",
+      "tournaments": [
+        {
+          "id": 266344,
+          "name": "Finals for Pour Bros Bloomington - August Monthly PRP & Stern Army",
+          "date": "8/9/2026",
+          "playerCount": 4,
+          "qualifying": {
+            "id": 257007,
+            "name": "Pour Bros Bloomington - August Monthly PRP & Stern Army",
+            "playerCount": 10
+          },
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m46473",
+              "name": "Kevin Johnson IL",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m53515",
+              "name": "Matt Richards IL",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m44385",
+              "name": "Kat Davis",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m40545",
+              "name": "Mike Felumlee",
+              "isCommunityMember": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "12500",
+      "name": "Pour Bros. Craft Taproom",
+      "address": "236 E Front St, Bloomington, IL 61701, US",
+      "tournaments": [
+        {
+          "id": 260939,
+          "name": "Pour Bros. \"Tilted Taps\" Pinball League - Season 3 #4",
+          "date": "8/11/2026",
+          "playerCount": 7,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m54680",
+              "name": "Sarah Flick",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m44385",
+              "name": "Kat Davis",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m55475",
+              "name": "Kayla Fallen",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "p513231",
+              "name": "Michael Minning",
+              "isCommunityMember": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "12479",
+      "name": "PRPHQ",
+      "address": "Bloomington, IL",
+      "tournaments": [
+        {
+          "id": 264190,
+          "name": "PRP HQ 2026 Q3 League #8",
+          "date": "8/13/2026",
+          "playerCount": 22,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m40900",
+              "name": "Chris O'Brien IL",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m28887",
+              "name": "CJ Krawcyk",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m40545",
+              "name": "Mike Felumlee",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m38803",
+              "name": "Rosie Theisen",
+              "isCommunityMember": true
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

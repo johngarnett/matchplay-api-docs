@@ -1,0 +1,221 @@
+{
+  "locationId": "12682",
+  "name": "Pollett Bislett",
+  "address": "60 Pilestredet, Sankt Hanshaugen, 0167, NO",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 16,
+  "relatedVenues": [
+    {
+      "locationId": "10477",
+      "name": "Illegal Pinball",
+      "address": "28A Storgata, Sentrum, Oslo 0184, NO",
+      "count": 42
+    },
+    {
+      "locationId": "3960",
+      "name": "Kristiania Flipperselskap",
+      "address": "Veitvetveien 8, 0596 Oslo, Norge",
+      "count": 32
+    },
+    {
+      "locationId": "634",
+      "name": "Tilt",
+      "address": "Torggata 16, 0181 Oslo, Norway",
+      "count": 10
+    }
+  ],
+  "players": [
+    {
+      "id": "m10609",
+      "name": "Kim Degerth",
+      "rating": 1681.17,
+      "rd": 20.43,
+      "ratingClass": "A",
+      "homeLocation": "Kristiania Flipperselskap",
+      "homeLocationId": "3960",
+      "percentile": 95.23920436018074,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m37260",
+      "name": "Haakon Galaasen",
+      "rating": 1669.82,
+      "rd": 19.73,
+      "ratingClass": "A",
+      "homeLocation": "Kristiania Flipperselskap",
+      "homeLocationId": "3960",
+      "percentile": 94.06530954488285,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m1264",
+      "name": "Olav Hjelmstadstuen",
+      "rating": 1654.78,
+      "rd": 20.56,
+      "ratingClass": "A",
+      "homeLocation": "Kristiania Flipperselskap",
+      "homeLocationId": "3960",
+      "percentile": 92.38365863884101,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m44850",
+      "name": "Geir Kreken",
+      "rating": 1553.15,
+      "rd": 20.04,
+      "ratingClass": "B",
+      "homeLocation": "Kristiania Flipperselskap",
+      "homeLocationId": "3960",
+      "percentile": 67.97875809381841,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m47628",
+      "name": "Emily Storm Bligh",
+      "rating": 1551.77,
+      "rd": 23.31,
+      "ratingClass": "B",
+      "homeLocation": "Illegal Pinball",
+      "homeLocationId": "10477",
+      "percentile": 67.42907718824242,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m46468",
+      "name": "Kaj Karlsson",
+      "rating": 1522.84,
+      "rd": 27.57,
+      "ratingClass": "B",
+      "homeLocation": "Tilt",
+      "homeLocationId": "634",
+      "percentile": 56.277076442912374,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m47397",
+      "name": "Carl-Fredrik Giertsen",
+      "rating": 1513.54,
+      "rd": 23.59,
+      "ratingClass": "B",
+      "homeLocation": "Kristiania Flipperselskap",
+      "homeLocationId": "3960",
+      "percentile": 52.583034424931284,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i95079",
+      "name": "Pål Anders Vold",
+      "rating": 1474.78,
+      "rd": 30.51,
+      "ratingClass": "C",
+      "homeLocation": "Pollett Bislett",
+      "homeLocationId": "12682",
+      "percentile": 36.81930404807379,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m51517",
+      "name": "Christine Rasch",
+      "rating": 1473.35,
+      "rd": 27.3,
+      "ratingClass": "C",
+      "homeLocation": "Pollett Bislett",
+      "homeLocationId": "12682",
+      "percentile": 36.25098989146131,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m52731",
+      "name": "Ingunn Vold",
+      "rating": 1463.93,
+      "rd": 22.69,
+      "ratingClass": "C",
+      "homeLocation": "Illegal Pinball",
+      "homeLocationId": "10477",
+      "percentile": 32.41254017794755,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m58974",
+      "name": "Eivinn Arctander",
+      "rating": 1453.55,
+      "rd": 24.93,
+      "ratingClass": "C",
+      "homeLocation": "Illegal Pinball",
+      "homeLocationId": "10477",
+      "percentile": 28.476265896492293,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m58973",
+      "name": "Pernille Elverhøy Tårnes",
+      "rating": 1446.3,
+      "rd": 22.95,
+      "ratingClass": "C",
+      "homeLocation": "Illegal Pinball",
+      "homeLocationId": "10477",
+      "percentile": 25.862952438626728,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m51516",
+      "name": "Elisabeth Aflekt Bligh",
+      "rating": 1421.56,
+      "rd": 25.22,
+      "ratingClass": "C",
+      "homeLocation": "Pollett Bislett",
+      "homeLocationId": "12682",
+      "percentile": 18.07891181813947,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i157698",
+      "name": "Nora Wulff",
+      "rating": 1397.18,
+      "rd": 33.63,
+      "ratingClass": "D",
+      "homeLocation": "Illegal Pinball",
+      "homeLocationId": "10477",
+      "percentile": 11.780872967811058,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i157957",
+      "name": "Pernille Elverhøy Tårnes",
+      "rating": null,
+      "rd": null,
+      "ratingClass": "N/A",
+      "homeLocation": "Illegal Pinball",
+      "homeLocationId": "10477",
+      "percentile": null,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i150250",
+      "name": "Ivar Frølich",
+      "rating": null,
+      "rd": null,
+      "ratingClass": "N/A",
+      "homeLocation": "Pollett Bislett",
+      "homeLocationId": "12682",
+      "percentile": null,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

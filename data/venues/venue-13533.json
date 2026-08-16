@@ -1,0 +1,221 @@
+{
+  "locationId": "13533",
+  "name": "The Woolies",
+  "address": "Olive",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 14,
+  "relatedVenues": [
+    {
+      "locationId": "13324",
+      "name": "The Cruz Room",
+      "address": "1520 Mission St, Santa Cruz, CA, 95060",
+      "count": 88
+    },
+    {
+      "locationId": "6612",
+      "name": "Lynn's Arcade: A Pinball Parlor and Can Slangery",
+      "address": "1760 Fremont Boulevard, Suite D1, Seaside, California 93955, US",
+      "count": 35
+    },
+    {
+      "locationId": "13762",
+      "name": "Clever Unicorn Pinball Arcade",
+      "address": "1855 41st Ave Spc F-11, Capitola, CA 95010, US",
+      "count": 29
+    },
+    {
+      "locationId": "11141",
+      "name": "Slingshot Pinball",
+      "address": "460 Lincoln Ave #70, San Jose, CA 95126, US",
+      "count": 6
+    },
+    {
+      "locationId": "12634",
+      "name": "The Outpost",
+      "address": "1773 Kingsway, Vancouver, BC V5N 2S5, US",
+      "count": 2
+    },
+    {
+      "locationId": "13055",
+      "name": "VanCity Pinball & Arcade",
+      "address": "1739 Venables St, Vancouver, BC V5L 2H3, CA",
+      "count": 2
+    },
+    {
+      "locationId": "13043",
+      "name": "GSPF",
+      "address": "413 E. Rockford Street, Lodi, CA 95240",
+      "count": 1
+    }
+  ],
+  "players": [
+    {
+      "id": "m31319",
+      "name": "Kevin Johnston",
+      "rating": 1633.53,
+      "rd": 19.88,
+      "ratingClass": "A",
+      "homeLocation": "Lynn's Arcade: A Pinball Parlor and Can Slangery",
+      "homeLocationId": "6612",
+      "percentile": 89.21134764988122,
+      "changeDisplay": "-5.9",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m40769",
+      "name": "Morgan Louis",
+      "rating": 1591.55,
+      "rd": 25.88,
+      "ratingClass": "B",
+      "homeLocation": "The Cruz Room",
+      "homeLocationId": "13324",
+      "percentile": 79.8900638188848,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m52019",
+      "name": "Banyan Wools",
+      "rating": 1589,
+      "rd": 19.37,
+      "ratingClass": "B",
+      "homeLocation": "The Cruz Room",
+      "homeLocationId": "13324",
+      "percentile": 79.20063353053524,
+      "changeDisplay": "+0.6",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m40431",
+      "name": "Lawrence Plageman",
+      "rating": 1568.95,
+      "rd": 32.73,
+      "ratingClass": "B",
+      "homeLocation": "The Cruz Room",
+      "homeLocationId": "13324",
+      "percentile": 73.15880188195835,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i137506",
+      "name": "Quinn Sandberg",
+      "rating": 1564.74,
+      "rd": 24.61,
+      "ratingClass": "B",
+      "homeLocation": "The Cruz Room",
+      "homeLocationId": "13324",
+      "percentile": 71.89639912423719,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m50075",
+      "name": "Dean Wools",
+      "rating": 1547.78,
+      "rd": 19.71,
+      "ratingClass": "B",
+      "homeLocation": "The Cruz Room",
+      "homeLocationId": "13324",
+      "percentile": 65.8732007266968,
+      "changeDisplay": "+0.6",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m43720",
+      "name": "Mike hill",
+      "rating": 1538.62,
+      "rd": 27.32,
+      "ratingClass": "B",
+      "homeLocation": "The Cruz Room",
+      "homeLocationId": "13324",
+      "percentile": 62.51921554013137,
+      "changeDisplay": "+21.2",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m27598",
+      "name": "Dean Roblee",
+      "rating": 1537.92,
+      "rd": 26.84,
+      "ratingClass": "B",
+      "homeLocation": "Lynn's Arcade: A Pinball Parlor and Can Slangery",
+      "homeLocationId": "6612",
+      "percentile": 62.244375087343364,
+      "changeDisplay": "-10.5",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "i150512",
+      "name": "Justin Ritondo",
+      "rating": 1529.32,
+      "rd": 27.7,
+      "ratingClass": "B",
+      "homeLocation": "The Cruz Room",
+      "homeLocationId": "13324",
+      "percentile": 58.783248707318215,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i150513",
+      "name": "Pete Schwab",
+      "rating": 1516.01,
+      "rd": 24.76,
+      "ratingClass": "B",
+      "homeLocation": "The Cruz Room",
+      "homeLocationId": "13324",
+      "percentile": 53.61252154469651,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m49534",
+      "name": "Joachim Deguara",
+      "rating": 1503.97,
+      "rd": 24.12,
+      "ratingClass": "B",
+      "homeLocation": "The Cruz Room",
+      "homeLocationId": "13324",
+      "percentile": 48.8144594028043,
+      "changeDisplay": "+5.8",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "i138610",
+      "name": "Aaron Raif",
+      "rating": 1485.67,
+      "rd": 31.01,
+      "ratingClass": "C",
+      "homeLocation": "The Woolies",
+      "homeLocationId": "13533",
+      "percentile": 41.1934597288862,
+      "changeDisplay": "+15.9",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m56394",
+      "name": "Aaron Peterson",
+      "rating": 1431.73,
+      "rd": 23.05,
+      "ratingClass": "C",
+      "homeLocation": "The Cruz Room",
+      "homeLocationId": "13324",
+      "percentile": 21.092840173289236,
+      "changeDisplay": "★",
+      "changeClass": "change-new"
+    },
+    {
+      "id": "m54724",
+      "name": "Johnny Darko",
+      "rating": 1378.09,
+      "rd": 27.94,
+      "ratingClass": "D",
+      "homeLocation": "The Cruz Room",
+      "homeLocationId": "13324",
+      "percentile": 7.965714818092887,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

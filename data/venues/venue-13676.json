@@ -1,0 +1,35 @@
+{
+  "locationId": "13676",
+  "name": "Brew U Arcade",
+  "address": "99 Main St, Oneonta, NY 13820",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 1,
+  "relatedVenues": [
+    {
+      "locationId": "3109",
+      "name": "Buttermilk Bar",
+      "address": "577 5th Ave, Brooklyn, NY, 11215, US",
+      "count": 2
+    },
+    {
+      "locationId": "8493",
+      "name": "Rullo's",
+      "address": "560 5th Avenue, Brooklyn, NY 11215, US",
+      "count": 2
+    }
+  ],
+  "players": [
+    {
+      "id": "m9941",
+      "name": "Ed Hourigan",
+      "rating": 1501.53,
+      "rd": 32.22,
+      "ratingClass": "B",
+      "homeLocation": "Buttermilk Bar",
+      "homeLocationId": "3109",
+      "percentile": 47.73373084268878,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

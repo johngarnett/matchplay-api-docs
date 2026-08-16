@@ -1,0 +1,53 @@
+{
+  "tournamentId": 251731,
+  "name": "FINALS for The Biggest Little Pinball League – Reno/Sparks NV -- Summer 2026",
+  "date": "2026-07-30",
+  "locationId": "11603",
+  "locationName": "Playfield Sports & Games",
+  "playerCount": 6,
+  "ratingsDate": "2026-07-30",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m1468",
+      "name": "Mark Skoff",
+      "rating": 1704.53,
+      "dailyRatingChange": 2.68
+    },
+    {
+      "position": 2,
+      "playerId": "m30143",
+      "name": "Brandon Hart",
+      "rating": 1762.29,
+      "dailyRatingChange": -0.82
+    },
+    {
+      "position": 3,
+      "playerId": "m19276",
+      "name": "Dan Armstrong",
+      "rating": 1697.86,
+      "dailyRatingChange": -1.38
+    },
+    {
+      "position": 4,
+      "playerId": "m27354",
+      "name": "Tammy Thiel",
+      "rating": 1579.75,
+      "dailyRatingChange": 0.69
+    },
+    {
+      "position": 5,
+      "playerId": "m45548",
+      "name": "Ashton Hunter",
+      "rating": 1606.1,
+      "dailyRatingChange": -0.32
+    },
+    {
+      "position": 6,
+      "playerId": "m30230",
+      "name": "Aaron Johnston NV",
+      "rating": 1546.46,
+      "dailyRatingChange": -1.34
+    }
+  ]
+}

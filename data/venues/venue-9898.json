@@ -1,0 +1,107 @@
+{
+  "locationId": "9898",
+  "name": "kældren",
+  "address": "bispensgade 146 9800 hjørring",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 5,
+  "relatedVenues": [
+    {
+      "locationId": "6552",
+      "name": "Lunderskov Garage",
+      "address": "",
+      "count": 6
+    },
+    {
+      "locationId": "10335",
+      "name": "Krik Pinball",
+      "address": "Oksenbølvej 2, 7770 Vestervig, Danmark",
+      "count": 4
+    },
+    {
+      "locationId": "13398",
+      "name": "Storms Pakhus",
+      "address": "Lerchesgade 4, 5000 Odense C, Denmark",
+      "count": 4
+    },
+    {
+      "locationId": "5700",
+      "name": "Odense Pinball Arkade",
+      "address": "Dannebrogsgade 3, Odense, 5000, DK",
+      "count": 1
+    },
+    {
+      "locationId": "12926",
+      "name": "FlippArena Aarhus",
+      "address": "Østergade 42, Aarhus, 8000, DK",
+      "count": 1
+    },
+    {
+      "locationId": "13809",
+      "name": "YEA Pinball Stureby",
+      "address": "Bäckaskiftsvägen 2 på gaveln, Enskede",
+      "count": 1
+    }
+  ],
+  "players": [
+    {
+      "id": "m21169",
+      "name": "Philip Petersen",
+      "rating": 1555.99,
+      "rd": 36.83,
+      "ratingClass": "B",
+      "homeLocation": "kældren",
+      "homeLocationId": "9898",
+      "percentile": 69.02222015186099,
+      "changeDisplay": "-7.6",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m53711",
+      "name": "Jonathan Lomar",
+      "rating": 1511.22,
+      "rd": 39.47,
+      "ratingClass": "B",
+      "homeLocation": "Lunderskov Garage",
+      "homeLocationId": "6552",
+      "percentile": 51.75385475380817,
+      "changeDisplay": "+5.5",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m38648",
+      "name": "Lars Pedersen",
+      "rating": 1489.9,
+      "rd": 30.71,
+      "ratingClass": "C",
+      "homeLocation": "Krik Pinball",
+      "homeLocationId": "10335",
+      "percentile": 42.9682768901104,
+      "changeDisplay": "-5.6",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m19382",
+      "name": "Niels Ronni Deppe",
+      "rating": 1457.41,
+      "rd": 27.86,
+      "ratingClass": "C",
+      "homeLocation": "Lunderskov Garage",
+      "homeLocationId": "6552",
+      "percentile": 29.89705128802348,
+      "changeDisplay": "-0.8",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "i84489",
+      "name": "Christian Christensen",
+      "rating": 1442.75,
+      "rd": 25.3,
+      "ratingClass": "C",
+      "homeLocation": "Lunderskov Garage",
+      "homeLocationId": "6552",
+      "percentile": 24.633157870219407,
+      "changeDisplay": "+0.7",
+      "changeClass": "change-positive"
+    }
+  ]
+}

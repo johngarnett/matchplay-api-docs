@@ -1,0 +1,57 @@
+{
+  "communityId": "102",
+  "locations": [
+    {
+      "id": "5209",
+      "name": "Bite Me Cake Company",
+      "address": "",
+      "tournaments": [
+        {
+          "id": 261074,
+          "name": "Bite Me x Lindstrom Law strikes Tournament",
+          "date": "8/8/2026",
+          "playerCount": 46,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m19050",
+              "name": "Walt Wood",
+              "isCommunityMember": false
+            },
+            {
+              "position": 2,
+              "playerId": "m9166",
+              "name": "Adam Jordan",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m18564",
+              "name": "Brian Wonderly",
+              "isCommunityMember": false
+            },
+            {
+              "position": 4,
+              "playerId": "m6091",
+              "name": "Justin Rausch",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m5123",
+              "name": "Cassie Begay",
+              "isCommunityMember": false
+            },
+            {
+              "position": 4,
+              "playerId": "m29079",
+              "name": "Oliver Baker",
+              "isCommunityMember": false
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

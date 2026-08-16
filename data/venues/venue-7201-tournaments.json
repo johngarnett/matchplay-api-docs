@@ -1,0 +1,44 @@
+{
+  "locationId": "7201",
+  "venueName": "Revenge Of",
+  "venueAddress": "3420 Eagle Rock Boulevard, Los Angeles, CA 90065, US",
+  "tournaments": [
+    {
+      "id": 264940,
+      "name": "Finals for Revenge of Ladies Choice! 7.31",
+      "date": "7/31/2026",
+      "playerCount": 4,
+      "qualifying": {
+        "id": 264921,
+        "name": "Revenge of Ladies Choice! 7.31",
+        "playerCount": 10
+      },
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m48680",
+          "name": "Lauren Richmond",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "p305555",
+          "name": "Janine Lim",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m23123",
+          "name": "Sheri Howell",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m10118",
+          "name": "Cory Casella",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

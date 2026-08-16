@@ -1,0 +1,53 @@
+{
+  "locationId": "13084",
+  "name": "Solids & Stripes",
+  "address": "175 Blanding Blvd Ste 4, Orange Park, FL 32073, US",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 2,
+  "relatedVenues": [
+    {
+      "locationId": "10950",
+      "name": "LeaderBoard Arcade Bar & Pizzeria Jax",
+      "address": "5285 Shad Rd, Jacksonville, FL 32257, US",
+      "count": 6
+    },
+    {
+      "locationId": "7501",
+      "name": "Tepey’s Taps & Tacos",
+      "address": "2130 Kings Ave, Jacksonville, FL 32207, US",
+      "count": 5
+    },
+    {
+      "locationId": "10353",
+      "name": "The Pinball Palace",
+      "address": "3303 Hopkins Avenue, Brunswick, GA 31520, US",
+      "count": 1
+    }
+  ],
+  "players": [
+    {
+      "id": "m39831",
+      "name": "Mike Mutone",
+      "rating": 1520.72,
+      "rd": 24.58,
+      "ratingClass": "B",
+      "homeLocation": "LeaderBoard Arcade Bar & Pizzeria Jax",
+      "homeLocationId": "10950",
+      "percentile": 55.471188335584856,
+      "changeDisplay": "-3.3",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "i151430",
+      "name": "Kevin Higgins",
+      "rating": null,
+      "rd": null,
+      "ratingClass": "N/A",
+      "homeLocation": "Solids & Stripes",
+      "homeLocationId": "13084",
+      "percentile": null,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

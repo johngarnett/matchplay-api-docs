@@ -1,0 +1,39 @@
+{
+  "tournamentId": 266781,
+  "name": "A-Finals for OPA Onsdag 12/08",
+  "date": "2026-08-12",
+  "locationId": "5700",
+  "locationName": "Odense Pinball Arkade",
+  "playerCount": 4,
+  "ratingsDate": "2026-08-12",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m32777",
+      "name": "Thorsten Hansen",
+      "rating": 1593.94,
+      "dailyRatingChange": 13.04
+    },
+    {
+      "position": 2,
+      "playerId": "m31857",
+      "name": "Tordur Debes",
+      "rating": 1544.33,
+      "dailyRatingChange": 2.72
+    },
+    {
+      "position": 3,
+      "playerId": "m31586",
+      "name": "Richard Nørgaard",
+      "rating": 1646.8,
+      "dailyRatingChange": -3.83
+    },
+    {
+      "position": 4,
+      "playerId": "m48260",
+      "name": "Sebastian Kyster-Hansen",
+      "rating": 1488,
+      "dailyRatingChange": 4.82
+    }
+  ]
+}

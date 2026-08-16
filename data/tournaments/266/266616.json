@@ -1,0 +1,81 @@
+{
+  "tournamentId": 266616,
+  "name": "Axecadia Pinball Weekly",
+  "date": "2026-08-12",
+  "locationId": "8704",
+  "locationName": "Axecadia",
+  "playerCount": 10,
+  "ratingsDate": "2026-08-12",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m37969",
+      "name": "Arthur Ruple",
+      "rating": 1716.65,
+      "dailyRatingChange": 8.49
+    },
+    {
+      "position": 2,
+      "playerId": "m24215",
+      "name": "Chris Herr",
+      "rating": 1621.18,
+      "dailyRatingChange": 1.53
+    },
+    {
+      "position": 3,
+      "playerId": "m43618",
+      "name": "Kristen Pfaff",
+      "rating": 1491.02,
+      "dailyRatingChange": 3.43
+    },
+    {
+      "position": 4,
+      "playerId": "m486168",
+      "name": "James Frank",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 5,
+      "playerId": "m37006",
+      "name": "Terry Oles",
+      "rating": 1595.88,
+      "dailyRatingChange": -3.3
+    },
+    {
+      "position": 6,
+      "playerId": "m42398",
+      "name": "Holly Helterhoff",
+      "rating": 1502.66,
+      "dailyRatingChange": 0.84
+    },
+    {
+      "position": 7,
+      "playerId": "m34517",
+      "name": "Guy Miele",
+      "rating": 1498.47,
+      "dailyRatingChange": -2.57
+    },
+    {
+      "position": 8,
+      "playerId": "m482845",
+      "name": "Lucas Frank",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 9,
+      "playerId": "m62831",
+      "name": "Katie Frank",
+      "rating": 1461.98,
+      "dailyRatingChange": null
+    },
+    {
+      "position": 10,
+      "playerId": "m586377",
+      "name": "Mike Frank",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "tournamentId": 261803,
+  "name": "Finals for Lights Out Arcade Monthly July 2026",
+  "date": "2026-07-25",
+  "locationId": "12242",
+  "locationName": "Lights Out Arcade at Santa Maria Billiards Lounge",
+  "playerCount": 4,
+  "ratingsDate": "2026-07-25",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m8797",
+      "name": "Shane Russell",
+      "rating": 1668.95,
+      "dailyRatingChange": 9.28
+    },
+    {
+      "position": 2,
+      "playerId": "m7428",
+      "name": "Jason Burton",
+      "rating": 1541.84,
+      "dailyRatingChange": 25.17
+    },
+    {
+      "position": 3,
+      "playerId": "m581554",
+      "name": "Robert Chris Weber",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 4,
+      "playerId": "i123920",
+      "name": "Howard Butlar",
+      "rating": 1669.89,
+      "dailyRatingChange": -50.05
+    }
+  ]
+}

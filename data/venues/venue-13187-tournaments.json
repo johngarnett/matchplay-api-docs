@@ -1,0 +1,46 @@
+{
+  "locationId": "13187",
+  "venueName": "Nightwave Arcade",
+  "venueAddress": "2020 32 Ave NE R, Calgary, AB T2E 9A7",
+  "tournaments": [
+    {
+      "id": 264509,
+      "name": "DSP Calgary and Stern Army Transformers LAUNCH Party",
+      "date": "7/29/2026",
+      "playerCount": 40,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m23137",
+          "name": "Mike Tzanakos",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m33368",
+          "name": "Dylan Medeiros",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m21500",
+          "name": "Jana Tzanakos",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m26458",
+          "name": "Glenn Romaniuk",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m43123",
+          "name": "Alex D'Ippolito",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

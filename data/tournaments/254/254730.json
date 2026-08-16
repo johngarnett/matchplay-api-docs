@@ -1,0 +1,228 @@
+{
+  "tournamentId": 254730,
+  "name": "GameCraft - NPC Season 3 #4",
+  "date": "2026-08-05",
+  "locationId": "11378",
+  "locationName": "GameCraft Arcade",
+  "playerCount": 31,
+  "ratingsDate": "2026-08-05",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m40393",
+      "name": "Connor Mulberry",
+      "rating": 1832.01,
+      "dailyRatingChange": 0.16
+    },
+    {
+      "position": 2,
+      "playerId": "m48956",
+      "name": "Patrick Casey",
+      "rating": 1648.72,
+      "dailyRatingChange": 5.61
+    },
+    {
+      "position": 3,
+      "playerId": "m39236",
+      "name": "Travis Simpson",
+      "rating": 1635.16,
+      "dailyRatingChange": 0.03
+    },
+    {
+      "position": 3,
+      "playerId": "m40387",
+      "name": "Rick Passmore",
+      "rating": 1569.08,
+      "dailyRatingChange": 6.61
+    },
+    {
+      "position": 3,
+      "playerId": "m18926",
+      "name": "Nicolas Quadrini",
+      "rating": 1592.02,
+      "dailyRatingChange": 3.37
+    },
+    {
+      "position": 3,
+      "playerId": "m49973",
+      "name": "Morgan Nelson",
+      "rating": 1492.26,
+      "dailyRatingChange": 2.9
+    },
+    {
+      "position": 3,
+      "playerId": "m16563",
+      "name": "Brody Marion",
+      "rating": 1695.84,
+      "dailyRatingChange": 1.36
+    },
+    {
+      "position": 8,
+      "playerId": "m20084",
+      "name": "Jason Corrado",
+      "rating": 1636.08,
+      "dailyRatingChange": -0.97
+    },
+    {
+      "position": 8,
+      "playerId": "m27841",
+      "name": "Matt Venuti",
+      "rating": 1593.41,
+      "dailyRatingChange": 8.92
+    },
+    {
+      "position": 8,
+      "playerId": "m49810",
+      "name": "Ashleigh Haberski",
+      "rating": 1454.85,
+      "dailyRatingChange": 4.17
+    },
+    {
+      "position": 8,
+      "playerId": "m50313",
+      "name": "Matthew Tumpney",
+      "rating": 1465.15,
+      "dailyRatingChange": 10.95
+    },
+    {
+      "position": 8,
+      "playerId": "m61222",
+      "name": "Joel DeBishop",
+      "rating": 1375.5,
+      "dailyRatingChange": null
+    },
+    {
+      "position": 13,
+      "playerId": "m40897",
+      "name": "Beth Cleveland",
+      "rating": 1375.05,
+      "dailyRatingChange": 8.75
+    },
+    {
+      "position": 13,
+      "playerId": "m56624",
+      "name": "Kyle Cox",
+      "rating": 1468.31,
+      "dailyRatingChange": -1.74
+    },
+    {
+      "position": 13,
+      "playerId": "m50956",
+      "name": "Dave Mobley",
+      "rating": 1514.82,
+      "dailyRatingChange": 4.77
+    },
+    {
+      "position": 13,
+      "playerId": "m43648",
+      "name": "Timothy Dargan",
+      "rating": 1583.03,
+      "dailyRatingChange": 0.34
+    },
+    {
+      "position": 13,
+      "playerId": "m45862",
+      "name": "Zach Slinsky",
+      "rating": 1498.34,
+      "dailyRatingChange": 5.06
+    },
+    {
+      "position": 18,
+      "playerId": "m50296",
+      "name": "Jon Rocha",
+      "rating": 1456.74,
+      "dailyRatingChange": -2.09
+    },
+    {
+      "position": 18,
+      "playerId": "m40898",
+      "name": "Collan Cleveland",
+      "rating": 1448.63,
+      "dailyRatingChange": 9.1
+    },
+    {
+      "position": 20,
+      "playerId": "m40392",
+      "name": "Brittney Malackanich",
+      "rating": 1475,
+      "dailyRatingChange": 5.06
+    },
+    {
+      "position": 21,
+      "playerId": "m27749",
+      "name": "Mell Scalzi",
+      "rating": 1435.85,
+      "dailyRatingChange": 0.82
+    },
+    {
+      "position": 21,
+      "playerId": "m40316",
+      "name": "David Kroll",
+      "rating": 1462.99,
+      "dailyRatingChange": -3.21
+    },
+    {
+      "position": 21,
+      "playerId": "m580516",
+      "name": "Dalton Quint",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 24,
+      "playerId": "m50094",
+      "name": "Matthew Nelson",
+      "rating": 1533.18,
+      "dailyRatingChange": -2.94
+    },
+    {
+      "position": 24,
+      "playerId": "m580517",
+      "name": "Joseph Peterson",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 24,
+      "playerId": "m46971",
+      "name": "Kate Finnegan",
+      "rating": 1504.35,
+      "dailyRatingChange": -9.66
+    },
+    {
+      "position": 24,
+      "playerId": "m39238",
+      "name": "Kelly Simpson",
+      "rating": 1419.58,
+      "dailyRatingChange": -2.52
+    },
+    {
+      "position": 24,
+      "playerId": "m56430",
+      "name": "Tim Liden",
+      "rating": 1340.57,
+      "dailyRatingChange": -13.84
+    },
+    {
+      "position": 29,
+      "playerId": "m30512",
+      "name": "Scott Belisle",
+      "rating": 1543.55,
+      "dailyRatingChange": -17.32
+    },
+    {
+      "position": 29,
+      "playerId": "m53674",
+      "name": "Rachel Marsh",
+      "rating": 1349.81,
+      "dailyRatingChange": -11.86
+    },
+    {
+      "position": 31,
+      "playerId": "m50282",
+      "name": "Jenny Cleary",
+      "rating": 1393.32,
+      "dailyRatingChange": null
+    }
+  ]
+}

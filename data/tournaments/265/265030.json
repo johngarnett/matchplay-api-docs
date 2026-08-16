@@ -1,0 +1,95 @@
+{
+  "tournamentId": 265030,
+  "name": "B Div SCPL Finals: Super Saturday Series 2026 #7 - NASA",
+  "date": "2026-08-01",
+  "locationId": "7731",
+  "locationName": "The Game Preserve NASA",
+  "playerCount": 12,
+  "ratingsDate": "2026-08-01",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m43895",
+      "name": "Mike Lee TX",
+      "rating": 1617.14,
+      "dailyRatingChange": 0.11
+    },
+    {
+      "position": 2,
+      "playerId": "m42329",
+      "name": "Jack Schiffer",
+      "rating": 1659.66,
+      "dailyRatingChange": -10.95
+    },
+    {
+      "position": 3,
+      "playerId": "m2647",
+      "name": "Lisa Shore 👩‍🚀",
+      "rating": 1519.66,
+      "dailyRatingChange": 3.26
+    },
+    {
+      "position": 3,
+      "playerId": "m50748",
+      "name": "Story Witherspoon",
+      "rating": 1413.1,
+      "dailyRatingChange": 5.35
+    },
+    {
+      "position": 5,
+      "playerId": "m22134",
+      "name": "Summer Ellington",
+      "rating": 1454.75,
+      "dailyRatingChange": -1.36
+    },
+    {
+      "position": 5,
+      "playerId": "m25191",
+      "name": "Alex Anthony",
+      "rating": 1538.89,
+      "dailyRatingChange": -0.76
+    },
+    {
+      "position": 7,
+      "playerId": "m33978",
+      "name": "Darrin Schonefeld",
+      "rating": 1568.6,
+      "dailyRatingChange": -7.2
+    },
+    {
+      "position": 7,
+      "playerId": "m40033",
+      "name": "Andrew Murillo",
+      "rating": 1421.25,
+      "dailyRatingChange": 11.61
+    },
+    {
+      "position": 9,
+      "playerId": "m16884",
+      "name": "John Syers",
+      "rating": 1532.33,
+      "dailyRatingChange": -11
+    },
+    {
+      "position": 9,
+      "playerId": "m38175",
+      "name": "Jessica Murillo",
+      "rating": 1503.8,
+      "dailyRatingChange": -0.71
+    },
+    {
+      "position": 9,
+      "playerId": "m52634",
+      "name": "Joshua Valdez",
+      "rating": 1412.98,
+      "dailyRatingChange": 0.08
+    },
+    {
+      "position": 9,
+      "playerId": "m51098",
+      "name": "Caroline Guevara",
+      "rating": 1408.07,
+      "dailyRatingChange": -0.42
+    }
+  ]
+}

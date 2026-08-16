@@ -1,0 +1,40 @@
+{
+  "locationId": "13713",
+  "venueName": "Game Galaxy",
+  "venueAddress": "38 Ráday u., Budapest, 1092, HU",
+  "tournaments": [
+    {
+      "id": 261971,
+      "name": "Kitti18",
+      "date": "7/18/2026",
+      "playerCount": 28,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m16593",
+          "name": "Kitti Fruhvald",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m32157",
+          "name": "Szabo Istvan",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m27350",
+          "name": "Zoltán Dósa",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "i60239",
+          "name": "Gabor Veszelovszky",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

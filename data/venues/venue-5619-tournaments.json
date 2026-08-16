@@ -1,0 +1,40 @@
+{
+  "locationId": "5619",
+  "venueName": "Skill Shot Arcade",
+  "venueAddress": "5949 East Molloy Rd  Syracuse, NY 13211",
+  "tournaments": [
+    {
+      "id": 263696,
+      "name": "Skill Shot Arcade Transformers Launch Knockout",
+      "date": "7/25/2026",
+      "playerCount": 14,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m391",
+          "name": "Eric Russell",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m3300",
+          "name": "Andy Cushman",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m19411",
+          "name": "Michael Geiss",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m4726",
+          "name": "Ryan Zlomek",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

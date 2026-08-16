@@ -1,0 +1,95 @@
+{
+  "tournamentId": 263646,
+  "name": "Friday Night Pinball",
+  "date": "2026-07-25",
+  "locationId": "9122",
+  "locationName": "Remi’s Arcade & Bistro",
+  "playerCount": 12,
+  "ratingsDate": "2026-07-25",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m51947",
+      "name": "Gage Greenhouse",
+      "rating": 1573.35,
+      "dailyRatingChange": 5.42
+    },
+    {
+      "position": 2,
+      "playerId": "i109832",
+      "name": "Tim Gardner",
+      "rating": 1573.43,
+      "dailyRatingChange": -5.62
+    },
+    {
+      "position": 3,
+      "playerId": "m27396",
+      "name": "Emmanuel Turinetti",
+      "rating": 1516.6,
+      "dailyRatingChange": 6.03
+    },
+    {
+      "position": 3,
+      "playerId": "m17973",
+      "name": "Dalton Briggs",
+      "rating": 1593.62,
+      "dailyRatingChange": -3
+    },
+    {
+      "position": 5,
+      "playerId": "m28072",
+      "name": "Jonathan Spalding",
+      "rating": 1456.71,
+      "dailyRatingChange": 10.66
+    },
+    {
+      "position": 5,
+      "playerId": "i157182",
+      "name": "Connie Ausland",
+      "rating": 1475.29,
+      "dailyRatingChange": 9.33
+    },
+    {
+      "position": 7,
+      "playerId": "i157184",
+      "name": "Deep Bhari",
+      "rating": 1339.08,
+      "dailyRatingChange": 0.74
+    },
+    {
+      "position": 8,
+      "playerId": "m28087",
+      "name": "David Turinetti",
+      "rating": 1380.91,
+      "dailyRatingChange": -2.85
+    },
+    {
+      "position": 8,
+      "playerId": "i104081",
+      "name": "Katrina Spalding",
+      "rating": 1407.7,
+      "dailyRatingChange": -3.62
+    },
+    {
+      "position": 10,
+      "playerId": "i157183",
+      "name": "Ethan Stoner",
+      "rating": 1362.81,
+      "dailyRatingChange": -21.36
+    },
+    {
+      "position": 11,
+      "playerId": "m61381",
+      "name": "Daniel Whitworth",
+      "rating": 1413.97,
+      "dailyRatingChange": -28.73
+    },
+    {
+      "position": 12,
+      "playerId": "m549556",
+      "name": "Nick Stokes",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

@@ -1,0 +1,190 @@
+{
+  "locationId": "8980",
+  "venueName": "Riptide Brewing Company",
+  "venueAddress": "28120 Hunters Ridge Blvd, Bonita Springs, FL 34135",
+  "tournaments": [
+    {
+      "id": 266458,
+      "name": "Riptide Pinball League Q3 2026 Week 8",
+      "date": "8/10/2026",
+      "playerCount": 25,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m35033",
+          "name": "Shaun Purslow",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 1,
+          "playerId": "m35035",
+          "name": "Larry Hendricks",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m13702",
+          "name": "Eric Leon",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m38361",
+          "name": "Chris Johnson",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "i65323",
+          "name": "Leila Leon",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 265328,
+      "name": "Riptide Pinball League Q3 2026 Week 7",
+      "date": "8/3/2026",
+      "playerCount": 20,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m35035",
+          "name": "Larry Hendricks",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 1,
+          "playerId": "m18652",
+          "name": "Thomas Weger",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m38361",
+          "name": "Chris Johnson",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m35580",
+          "name": "Corey Stewart",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m13702",
+          "name": "Eric Leon",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 265136,
+      "name": "Riptide Brewing Classics Fairstrikes Pinball Fundraiser",
+      "date": "8/2/2026",
+      "playerCount": 24,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m62012",
+          "name": "Colton Varnadore",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m18652",
+          "name": "Thomas Weger",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m35033",
+          "name": "Shaun Purslow",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m39103",
+          "name": "Andrew Currie",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 264156,
+      "name": "Riptide Pinball League Q3 2026 Week 6",
+      "date": "7/27/2026",
+      "playerCount": 22,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "i65323",
+          "name": "Leila Leon",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 1,
+          "playerId": "m35580",
+          "name": "Corey Stewart",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m20875",
+          "name": "Jeanine Leon",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m13702",
+          "name": "Eric Leon",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m38361",
+          "name": "Chris Johnson",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 263004,
+      "name": "Riptide Pinball League Q3 2026 Week 5",
+      "date": "7/20/2026",
+      "playerCount": 22,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "i151435",
+          "name": "Mike Sellick",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 1,
+          "playerId": "m35033",
+          "name": "Shaun Purslow",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m13702",
+          "name": "Eric Leon",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m29728",
+          "name": "Joe Benedetto",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

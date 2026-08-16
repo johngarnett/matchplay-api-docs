@@ -1,0 +1,151 @@
+{
+  "tournamentId": 263225,
+  "name": "Illawarra Pinball Club 2026: Tuesday League - Season 5 wk1",
+  "date": "2026-07-28",
+  "locationId": "10800",
+  "locationName": "Illawarra Pinball Clubhouse",
+  "playerCount": 20,
+  "ratingsDate": "2026-07-28",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m48552",
+      "name": "Ron Lengling",
+      "rating": 1634.29,
+      "dailyRatingChange": 4.84
+    },
+    {
+      "position": 2,
+      "playerId": "m32734",
+      "name": "Rowan Franke",
+      "rating": 1544.68,
+      "dailyRatingChange": 7.81
+    },
+    {
+      "position": 3,
+      "playerId": "m351511",
+      "name": "Tim Clark AUS",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 3,
+      "playerId": "m59815",
+      "name": "Kurt Basedow",
+      "rating": 1580.87,
+      "dailyRatingChange": 0.53
+    },
+    {
+      "position": 3,
+      "playerId": "m57825",
+      "name": "Daniel Titcume",
+      "rating": 1546.6,
+      "dailyRatingChange": 5.84
+    },
+    {
+      "position": 6,
+      "playerId": "i126598",
+      "name": "Rob O'Connor",
+      "rating": 1578.64,
+      "dailyRatingChange": 5.57
+    },
+    {
+      "position": 7,
+      "playerId": "m26170",
+      "name": "Murray Boyce",
+      "rating": 1620.36,
+      "dailyRatingChange": -0.55
+    },
+    {
+      "position": 7,
+      "playerId": "m48919",
+      "name": "Christopher Farrell",
+      "rating": 1525.08,
+      "dailyRatingChange": 5.79
+    },
+    {
+      "position": 9,
+      "playerId": "m39452",
+      "name": "Dan Craze",
+      "rating": 1560.62,
+      "dailyRatingChange": -2.78
+    },
+    {
+      "position": 10,
+      "playerId": "m48122",
+      "name": "John Fish",
+      "rating": 1577.57,
+      "dailyRatingChange": -6.08
+    },
+    {
+      "position": 10,
+      "playerId": "i123565",
+      "name": "Chad Mac",
+      "rating": 1486.83,
+      "dailyRatingChange": 3.67
+    },
+    {
+      "position": 10,
+      "playerId": "i135590",
+      "name": "Corben Stanford",
+      "rating": 1519.58,
+      "dailyRatingChange": -1.25
+    },
+    {
+      "position": 13,
+      "playerId": "m23351",
+      "name": "Matt Roberts",
+      "rating": 1598.99,
+      "dailyRatingChange": -4.4
+    },
+    {
+      "position": 14,
+      "playerId": "m47097",
+      "name": "Craig Stanford",
+      "rating": 1525.12,
+      "dailyRatingChange": -0.72
+    },
+    {
+      "position": 14,
+      "playerId": "m39451",
+      "name": "Mags Craze",
+      "rating": 1528.31,
+      "dailyRatingChange": -0.9
+    },
+    {
+      "position": 14,
+      "playerId": "m582609",
+      "name": "Peter James",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 14,
+      "playerId": "m469919",
+      "name": "Chris Thurbon",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 18,
+      "playerId": "m48270",
+      "name": "Jonno Greig",
+      "rating": 1412.03,
+      "dailyRatingChange": 0.4
+    },
+    {
+      "position": 19,
+      "playerId": "m582608",
+      "name": "Joe Horvath",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 19,
+      "playerId": "i126600",
+      "name": "Ivan Poo",
+      "rating": 1445.09,
+      "dailyRatingChange": -16.41
+    }
+  ]
+}

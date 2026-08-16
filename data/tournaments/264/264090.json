@@ -1,0 +1,67 @@
+{
+  "tournamentId": 264090,
+  "name": "B Finals for Brisbane Pinball Club 28/07/2026",
+  "date": "2026-07-28",
+  "locationId": "7371",
+  "locationName": "Netherworld",
+  "playerCount": 8,
+  "ratingsDate": "2026-07-28",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m2500",
+      "name": "Thibaut Allender",
+      "rating": 1629.8,
+      "dailyRatingChange": 6.04
+    },
+    {
+      "position": 2,
+      "playerId": "m17690",
+      "name": "Nicolas Aizier",
+      "rating": 1607.8,
+      "dailyRatingChange": 1.74
+    },
+    {
+      "position": 3,
+      "playerId": "m30901",
+      "name": "Gabriella Panucci",
+      "rating": 1495.61,
+      "dailyRatingChange": 4.2
+    },
+    {
+      "position": 4,
+      "playerId": "m44341",
+      "name": "Sharlene Green",
+      "rating": 1433.5,
+      "dailyRatingChange": 4.45
+    },
+    {
+      "position": 5,
+      "playerId": "m27750",
+      "name": "Tony Fischer",
+      "rating": 1631.04,
+      "dailyRatingChange": -5.87
+    },
+    {
+      "position": 6,
+      "playerId": "m4669",
+      "name": "Dan Olejniczak",
+      "rating": 1568.3,
+      "dailyRatingChange": -1.21
+    },
+    {
+      "position": 7,
+      "playerId": "m3782",
+      "name": "Ross Pattison",
+      "rating": 1535.76,
+      "dailyRatingChange": -4.68
+    },
+    {
+      "position": 8,
+      "playerId": "m28309",
+      "name": "Justine Cadell",
+      "rating": 1495.53,
+      "dailyRatingChange": -3.49
+    }
+  ]
+}

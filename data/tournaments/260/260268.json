@@ -1,0 +1,53 @@
+{
+  "tournamentId": 260268,
+  "name": "Transformers Launch Party",
+  "date": "2026-07-18",
+  "locationId": "13659",
+  "locationName": "Tycoon Arcade",
+  "playerCount": 6,
+  "ratingsDate": "2026-07-18",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "i156890",
+      "name": "Kai Ellis",
+      "rating": 1503.72,
+      "dailyRatingChange": 17.58
+    },
+    {
+      "position": 2,
+      "playerId": "m577106",
+      "name": "Taolan Meyers",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 2,
+      "playerId": "m48952",
+      "name": "Dana Boisvert",
+      "rating": 1452.25,
+      "dailyRatingChange": 5.23
+    },
+    {
+      "position": 4,
+      "playerId": "m48322",
+      "name": "Graham Kinsey",
+      "rating": 1458.23,
+      "dailyRatingChange": -4.7
+    },
+    {
+      "position": 5,
+      "playerId": "m61957",
+      "name": "Justin Moore",
+      "rating": 1398.54,
+      "dailyRatingChange": null
+    },
+    {
+      "position": 6,
+      "playerId": "i124759",
+      "name": "Mallory Boisvert",
+      "rating": 1357.71,
+      "dailyRatingChange": -61.83
+    }
+  ]
+}

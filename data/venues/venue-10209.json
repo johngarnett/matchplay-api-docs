@@ -1,0 +1,395 @@
+{
+  "locationId": "10209",
+  "name": "8-Bit Beans",
+  "address": "100 Brock St South, Whitby, ON, L1N 4J8, CA",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 27,
+  "relatedVenues": [
+    {
+      "locationId": "6680",
+      "name": "Bluffs Pinball",
+      "address": "442 Brimley Rd, Scarborough, ON M1J 1A1, Canada",
+      "count": 22
+    },
+    {
+      "locationId": "9650",
+      "name": "Cabin Fever",
+      "address": "1669 Bloor St W, Toronto, ON M6P 1A6, CA",
+      "count": 14
+    },
+    {
+      "locationId": "6085",
+      "name": "Maple Pinball",
+      "address": "",
+      "count": 8
+    },
+    {
+      "locationId": "6118",
+      "name": "Maple Pinball",
+      "address": "245 Matheson Boulevard East, Mississauga, ON L4Z 3K2, CA",
+      "count": 7
+    },
+    {
+      "locationId": "8645",
+      "name": "The American",
+      "address": "926 Main St, Vancouver, BC V6A 2W1, CA",
+      "count": 7
+    },
+    {
+      "locationId": "8817",
+      "name": "The Library Square Pub",
+      "address": "300 W Georgia St, Vancouver, BC V6B 6B1, CA",
+      "count": 7
+    },
+    {
+      "locationId": "12732",
+      "name": "Propeller Brewing Company",
+      "address": "2015 Gottingen St, Halifax, NS B3K 3B1, CA",
+      "count": 7
+    },
+    {
+      "locationId": "12634",
+      "name": "The Outpost",
+      "address": "1773 Kingsway, Vancouver, BC V5N 2S5, US",
+      "count": 5
+    },
+    {
+      "locationId": "6764",
+      "name": "Cabin Fever",
+      "address": "1669 Bloor St W, Toronto, ON M6P 1A6, Canada",
+      "count": 4
+    },
+    {
+      "locationId": "11503",
+      "name": "PINFEST 2025",
+      "address": "Great Northern Exhibition - 2220 Fairgrounds Rd. Stayner, Ontario L0M 1S0",
+      "count": 4
+    }
+  ],
+  "players": [
+    {
+      "id": "i129412",
+      "name": "Deirdre Skye",
+      "rating": 1643.69,
+      "rd": 26.64,
+      "ratingClass": "A",
+      "homeLocation": "8-Bit Beans",
+      "homeLocationId": "10209",
+      "percentile": 90.8790236176457,
+      "changeDisplay": "+19.9",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m33304",
+      "name": "Aaron Wallace",
+      "rating": 1630.72,
+      "rd": 27.9,
+      "ratingClass": "A",
+      "homeLocation": "Propeller Brewing Company",
+      "homeLocationId": "12732",
+      "percentile": 88.71290818465552,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m49587",
+      "name": "James Englefield",
+      "rating": 1630.44,
+      "rd": 19.83,
+      "ratingClass": "A",
+      "homeLocation": "Bluffs Pinball",
+      "homeLocationId": "6680",
+      "percentile": 88.66632505706433,
+      "changeDisplay": "+1.9",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m53138",
+      "name": "Robert Gordon",
+      "rating": 1626.9,
+      "rd": 24.28,
+      "ratingClass": "A",
+      "homeLocation": "8-Bit Beans",
+      "homeLocationId": "10209",
+      "percentile": 87.94894489216006,
+      "changeDisplay": "-3.3",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "i86705",
+      "name": "Jonathan Podwin",
+      "rating": 1625.3,
+      "rd": 35.49,
+      "ratingClass": "A",
+      "homeLocation": "Cabin Fever",
+      "homeLocationId": "6764",
+      "percentile": 87.6601295010947,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m48883",
+      "name": "Chase Ivany",
+      "rating": 1585.99,
+      "rd": 18.62,
+      "ratingClass": "B",
+      "homeLocation": "8-Bit Beans",
+      "homeLocationId": "10209",
+      "percentile": 78.3388456700983,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m9384",
+      "name": "Steven Moses",
+      "rating": 1570.46,
+      "rd": 45.17,
+      "ratingClass": "B",
+      "homeLocation": "8-Bit Beans",
+      "homeLocationId": "10209",
+      "percentile": 73.62463315787022,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m59018",
+      "name": "Earl Tadman",
+      "rating": 1552.86,
+      "rd": 33.29,
+      "ratingClass": "B",
+      "homeLocation": "Maple Pinball",
+      "homeLocationId": "6118",
+      "percentile": 67.81571714724926,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m53993",
+      "name": "Jake Parsonson",
+      "rating": 1550.51,
+      "rd": 22.29,
+      "ratingClass": "B",
+      "homeLocation": "The American",
+      "homeLocationId": "8645",
+      "percentile": 66.90268784646202,
+      "changeDisplay": "-1.8",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m59428",
+      "name": "Winnie Fung",
+      "rating": 1548.41,
+      "rd": 21.65,
+      "ratingClass": "B",
+      "homeLocation": "Bluffs Pinball",
+      "homeLocationId": "6680",
+      "percentile": 66.13872455396655,
+      "changeDisplay": "-9.2",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m48948",
+      "name": "Mark Anderson",
+      "rating": 1536.24,
+      "rd": 25.34,
+      "ratingClass": "B",
+      "homeLocation": "8-Bit Beans",
+      "homeLocationId": "10209",
+      "percentile": 61.55028648623468,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i147148",
+      "name": "Brian Phillips",
+      "rating": 1534.65,
+      "rd": 21.66,
+      "ratingClass": "B",
+      "homeLocation": "8-Bit Beans",
+      "homeLocationId": "10209",
+      "percentile": 60.86085619788513,
+      "changeDisplay": "+1.0",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "i137203",
+      "name": "Stacey Cooper",
+      "rating": 1528.74,
+      "rd": 20.6,
+      "ratingClass": "B",
+      "homeLocation": "8-Bit Beans",
+      "homeLocationId": "10209",
+      "percentile": 58.5316998183258,
+      "changeDisplay": "-10.3",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "i129411",
+      "name": "Mike Mutimer",
+      "rating": 1528.66,
+      "rd": 28.79,
+      "ratingClass": "B",
+      "homeLocation": "8-Bit Beans",
+      "homeLocationId": "10209",
+      "percentile": 58.49443331625286,
+      "changeDisplay": "+13.7",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m35956",
+      "name": "Kathy Podwin",
+      "rating": 1523.51,
+      "rd": 27.05,
+      "ratingClass": "B",
+      "homeLocation": "Cabin Fever",
+      "homeLocationId": "9650",
+      "percentile": 56.51930870638655,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i130134",
+      "name": "John Keys",
+      "rating": 1497.92,
+      "rd": 27.78,
+      "ratingClass": "C",
+      "homeLocation": "8-Bit Beans",
+      "homeLocationId": "10209",
+      "percentile": 46.289653887362,
+      "changeDisplay": "+3.6",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m43864",
+      "name": "Addie Sorrell",
+      "rating": 1483,
+      "rd": 22.81,
+      "ratingClass": "C",
+      "homeLocation": "Cabin Fever",
+      "homeLocationId": "9650",
+      "percentile": 40.13136441980715,
+      "changeDisplay": "-6.1",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "i145070",
+      "name": "Sean Logan",
+      "rating": 1477.38,
+      "rd": 31.87,
+      "ratingClass": "C",
+      "homeLocation": "8-Bit Beans",
+      "homeLocationId": "10209",
+      "percentile": 37.86276610611636,
+      "changeDisplay": "-1.2",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "i154400",
+      "name": "Judah Hunziker",
+      "rating": 1475.52,
+      "rd": 48.39,
+      "ratingClass": "C",
+      "homeLocation": "8-Bit Beans",
+      "homeLocationId": "10209",
+      "percentile": 37.07085293706619,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m43088",
+      "name": "Jessica Babineau",
+      "rating": 1467.98,
+      "rd": 20.91,
+      "ratingClass": "C",
+      "homeLocation": "Cabin Fever",
+      "homeLocationId": "9650",
+      "percentile": 34.056924581916434,
+      "changeDisplay": "-22.1",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "i125404",
+      "name": "Sam Tadman",
+      "rating": 1464.33,
+      "rd": 35.12,
+      "ratingClass": "C",
+      "homeLocation": "8-Bit Beans",
+      "homeLocationId": "10209",
+      "percentile": 32.566264498998464,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i151446",
+      "name": "Matt Rauch",
+      "rating": 1457.29,
+      "rd": 24.87,
+      "ratingClass": "C",
+      "homeLocation": "8-Bit Beans",
+      "homeLocationId": "10209",
+      "percentile": 29.84580984767317,
+      "changeDisplay": "-9.2",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "i130135",
+      "name": "Leighton Mutimer",
+      "rating": 1456.51,
+      "rd": 30.61,
+      "ratingClass": "C",
+      "homeLocation": "8-Bit Beans",
+      "homeLocationId": "10209",
+      "percentile": 29.58494433316253,
+      "changeDisplay": "+18.1",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m46471",
+      "name": "Nils Edenloff",
+      "rating": 1452.66,
+      "rd": 45.89,
+      "ratingClass": "C",
+      "homeLocation": "Bluffs Pinball",
+      "homeLocationId": "6680",
+      "percentile": 28.154842316113104,
+      "changeDisplay": "+40.8",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "i137204",
+      "name": "Chris Parson",
+      "rating": 1432.67,
+      "rd": 45.01,
+      "ratingClass": "C",
+      "homeLocation": "8-Bit Beans",
+      "homeLocationId": "10209",
+      "percentile": 21.372338938836354,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i129406",
+      "name": "Leanne Moore",
+      "rating": 1421.86,
+      "rd": 30.72,
+      "ratingClass": "C",
+      "homeLocation": "8-Bit Beans",
+      "homeLocationId": "10209",
+      "percentile": 18.17673638608096,
+      "changeDisplay": "+10.7",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "i133079",
+      "name": "Rob Hartwig",
+      "rating": 1390.42,
+      "rd": 30.3,
+      "ratingClass": "D",
+      "homeLocation": "8-Bit Beans",
+      "homeLocationId": "10209",
+      "percentile": 10.336796012484278,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

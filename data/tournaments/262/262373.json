@@ -1,0 +1,74 @@
+{
+  "tournamentId": 262373,
+  "name": "Pfalzliga Spieltag Juli 2026",
+  "date": "2026-07-18",
+  "locationId": "11847",
+  "locationName": "Troy",
+  "playerCount": 9,
+  "ratingsDate": "2026-07-18",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m597",
+      "name": "Martin Zawar",
+      "rating": 1560,
+      "dailyRatingChange": 8.12
+    },
+    {
+      "position": 2,
+      "playerId": "m970",
+      "name": "Sacha Grebil",
+      "rating": 1578.28,
+      "dailyRatingChange": 6.27
+    },
+    {
+      "position": 3,
+      "playerId": "m9902",
+      "name": "Alex Reihle",
+      "rating": 1609.22,
+      "dailyRatingChange": 4.09
+    },
+    {
+      "position": 4,
+      "playerId": "i82682",
+      "name": "Robin Weber",
+      "rating": 1613.59,
+      "dailyRatingChange": -0.5
+    },
+    {
+      "position": 4,
+      "playerId": "m13242",
+      "name": "Claudia Chelius",
+      "rating": 1522.08,
+      "dailyRatingChange": 4.58
+    },
+    {
+      "position": 6,
+      "playerId": "i62562",
+      "name": "Troy Landis",
+      "rating": 1573.58,
+      "dailyRatingChange": -3.51
+    },
+    {
+      "position": 7,
+      "playerId": "m258749",
+      "name": "Thomas Geib",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 8,
+      "playerId": "m8480",
+      "name": "Andreas Fischbach",
+      "rating": 1451.28,
+      "dailyRatingChange": -12.34
+    },
+    {
+      "position": 9,
+      "playerId": "m40536",
+      "name": "Jan Busch",
+      "rating": 1503.08,
+      "dailyRatingChange": -23.18
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "tournamentId": 257153,
+  "name": "The Control Room Summer League 2026 #2",
+  "date": "2026-07-21",
+  "locationId": "13093",
+  "locationName": "The Control Room",
+  "playerCount": 8,
+  "ratingsDate": "2026-07-21",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m45346",
+      "name": "Luke Rognlien",
+      "rating": 1714.36,
+      "dailyRatingChange": 10.94
+    },
+    {
+      "position": 2,
+      "playerId": "m54486",
+      "name": "Tim L",
+      "rating": 1506.27,
+      "dailyRatingChange": 26.28
+    },
+    {
+      "position": 3,
+      "playerId": "m541714",
+      "name": "Bobby A",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 4,
+      "playerId": "m580370",
+      "name": "Rob Still",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 5,
+      "playerId": "m45475",
+      "name": "Edward Boeneke",
+      "rating": 1531.37,
+      "dailyRatingChange": -8.99
+    },
+    {
+      "position": 6,
+      "playerId": "m41540",
+      "name": "Austin H",
+      "rating": 1467.54,
+      "dailyRatingChange": -15.46
+    },
+    {
+      "position": 7,
+      "playerId": "m53662",
+      "name": "Lauren H",
+      "rating": 1406.56,
+      "dailyRatingChange": -18.1
+    },
+    {
+      "position": 8,
+      "playerId": "m44919",
+      "name": "Alex P",
+      "rating": 1344.96,
+      "dailyRatingChange": -11.7
+    }
+  ]
+}

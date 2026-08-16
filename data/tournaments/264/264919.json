@@ -1,0 +1,39 @@
+{
+  "tournamentId": 264919,
+  "name": "Finals for Friday Tournament at The Pinball Palace",
+  "date": "2026-08-01",
+  "locationId": "10353",
+  "locationName": "The Pinball Palace",
+  "playerCount": 4,
+  "ratingsDate": "2026-08-01",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m7709",
+      "name": "Andrew Dunn",
+      "rating": 1642.76,
+      "dailyRatingChange": 2.87
+    },
+    {
+      "position": 2,
+      "playerId": "m9521",
+      "name": "Scott Slifka",
+      "rating": 1620.7,
+      "dailyRatingChange": -1.04
+    },
+    {
+      "position": 3,
+      "playerId": "m35057",
+      "name": "Christine Dunn",
+      "rating": 1455.69,
+      "dailyRatingChange": 13.58
+    },
+    {
+      "position": 4,
+      "playerId": "i138020",
+      "name": "David Bruce",
+      "rating": 1489.65,
+      "dailyRatingChange": -5.57
+    }
+  ]
+}

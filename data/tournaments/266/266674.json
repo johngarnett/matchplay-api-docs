@@ -1,0 +1,39 @@
+{
+  "tournamentId": 266674,
+  "name": "Finals for Bump & Nudge at The Break 8/11/26",
+  "date": "2026-08-12",
+  "locationId": "10825",
+  "locationName": "The Break",
+  "playerCount": 4,
+  "ratingsDate": "2026-08-12",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m1927",
+      "name": "David Benke",
+      "rating": 1714.73,
+      "dailyRatingChange": 5.93
+    },
+    {
+      "position": 2,
+      "playerId": "m11900",
+      "name": "Evan Tucker",
+      "rating": 1638.96,
+      "dailyRatingChange": 2.97
+    },
+    {
+      "position": 3,
+      "playerId": "m27762",
+      "name": "Chad Corcoran",
+      "rating": 1541.92,
+      "dailyRatingChange": 4.61
+    },
+    {
+      "position": 4,
+      "playerId": "m44878",
+      "name": "Andrew Gushen",
+      "rating": 1590.16,
+      "dailyRatingChange": -4.7
+    }
+  ]
+}

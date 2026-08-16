@@ -1,0 +1,53 @@
+{
+  "tournamentId": 263613,
+  "name": "Szybki 2",
+  "date": "2026-07-24",
+  "locationId": "4889",
+  "locationName": "Pinballium.pl",
+  "playerCount": 6,
+  "ratingsDate": "2026-07-24",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m4927",
+      "name": "Marek Szymborski",
+      "rating": 1513.56,
+      "dailyRatingChange": 2.95
+    },
+    {
+      "position": 2,
+      "playerId": "m60844",
+      "name": "Jakub Kochaniak",
+      "rating": 1522.84,
+      "dailyRatingChange": 1.01
+    },
+    {
+      "position": 2,
+      "playerId": "m14959",
+      "name": "Andrzej Kaminski",
+      "rating": 1573.08,
+      "dailyRatingChange": -1.56
+    },
+    {
+      "position": 4,
+      "playerId": "m16096",
+      "name": "Nikodem Kaczmarek",
+      "rating": 1624.09,
+      "dailyRatingChange": 3.95
+    },
+    {
+      "position": 5,
+      "playerId": "m60111",
+      "name": "Angelika Koralewska",
+      "rating": 1524.6,
+      "dailyRatingChange": -0.45
+    },
+    {
+      "position": 6,
+      "playerId": "m581385",
+      "name": "Piotr Jedrzejczak",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

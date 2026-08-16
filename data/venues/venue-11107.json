@@ -1,0 +1,419 @@
+{
+  "locationId": "11107",
+  "name": "CaskCades",
+  "address": "106 North Meridian, Puyallup, WA 98371, US",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 29,
+  "relatedVenues": [
+    {
+      "locationId": "8789",
+      "name": "Flip Off Arcade",
+      "address": "15941 Meridian Ave E, Puyallup, WA 98374, US",
+      "count": 38
+    },
+    {
+      "locationId": "13021",
+      "name": "South Sound Vapor Lounge | The Turtle Lounge",
+      "address": "200 Division St NW, Olympia, WA 98502, US",
+      "count": 35
+    },
+    {
+      "locationId": "10577",
+      "name": "South Bay Dickerson's BBQ",
+      "address": "619 Legion Way Southeast, Olympia, WA 98501, US",
+      "count": 34
+    },
+    {
+      "locationId": "8819",
+      "name": "Legends Arcade",
+      "address": "109 State Ave NE, Olympia, WA 98501, US",
+      "count": 31
+    },
+    {
+      "locationId": "8474",
+      "name": "The Triple Knock",
+      "address": "2713 6th Avenue, Tacoma, WA 98406, US",
+      "count": 16
+    },
+    {
+      "locationId": "10002",
+      "name": "North Mountain Brewing Company",
+      "address": "522 E Dunlap Ave, Phoenix, AZ 85020, US",
+      "count": 11
+    },
+    {
+      "locationId": "10355",
+      "name": "Insert Coin - Arcade & Bar",
+      "address": "3430 Pacific Ave SE, Olympia, WA 98501, US",
+      "count": 11
+    },
+    {
+      "locationId": "7481",
+      "name": "Electric Bat Arcade",
+      "address": "25 W Southern Ave, Tempe, AZ 85282, US",
+      "count": 10
+    },
+    {
+      "locationId": "11148",
+      "name": "BRI Taproom & Arcade",
+      "address": "213 W Main St, Mesa, AZ, 85201, US",
+      "count": 9
+    },
+    {
+      "locationId": "6346",
+      "name": "NWPAS",
+      "address": "",
+      "count": 8
+    }
+  ],
+  "players": [
+    {
+      "id": "m11768",
+      "name": "Robert Brook",
+      "rating": 1739.43,
+      "rd": 36.05,
+      "ratingClass": "Expert",
+      "homeLocation": "CaskCades",
+      "homeLocationId": "11107",
+      "percentile": 98.40685703638142,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m39215",
+      "name": "Jared Harris WA",
+      "rating": 1735.17,
+      "rd": 16.54,
+      "ratingClass": "Expert",
+      "homeLocation": "North Mountain Brewing Company",
+      "homeLocationId": "10002",
+      "percentile": 98.29039921740346,
+      "changeDisplay": "-7.5",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m26678",
+      "name": "Kilian Inglett",
+      "rating": 1719.21,
+      "rd": 19.11,
+      "ratingClass": "Expert",
+      "homeLocation": "The Triple Knock",
+      "homeLocationId": "8474",
+      "percentile": 97.61960218009037,
+      "changeDisplay": "+4.4",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m37462",
+      "name": "Brian Harris WA",
+      "rating": 1637.32,
+      "rd": 26.07,
+      "ratingClass": "A",
+      "homeLocation": "Flip Off Arcade",
+      "homeLocationId": "8789",
+      "percentile": 89.89611962547166,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m6778",
+      "name": "Nick Wold",
+      "rating": 1626.38,
+      "rd": 26.39,
+      "ratingClass": "A",
+      "homeLocation": "Volition Brewing Co.",
+      "homeLocationId": "8678",
+      "percentile": 87.84180369870033,
+      "changeDisplay": "-12.1",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m48927",
+      "name": "Caleb Armstrong WA",
+      "rating": 1606.85,
+      "rd": 30.59,
+      "ratingClass": "A",
+      "homeLocation": "CaskCades",
+      "homeLocationId": "11107",
+      "percentile": 83.66795546653002,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m58806",
+      "name": "Jayden Gregory",
+      "rating": 1584.83,
+      "rd": 22.09,
+      "ratingClass": "B",
+      "homeLocation": "Legends Arcade",
+      "homeLocationId": "8819",
+      "percentile": 78.00344715144175,
+      "changeDisplay": "-3.1",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m42333",
+      "name": "Gavin Harris",
+      "rating": 1577.59,
+      "rd": 29.16,
+      "ratingClass": "B",
+      "homeLocation": "Flip Off Arcade",
+      "homeLocationId": "8789",
+      "percentile": 75.91186472259747,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m41114",
+      "name": "Noah Castillo",
+      "rating": 1572.2,
+      "rd": 34.39,
+      "ratingClass": "B",
+      "homeLocation": "South Sound Vapor Lounge | The Turtle Lounge",
+      "homeLocationId": "13021",
+      "percentile": 74.18828900172358,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m32358",
+      "name": "John Marquardt Jr",
+      "rating": 1513.1,
+      "rd": 28.87,
+      "ratingClass": "B",
+      "homeLocation": "Flip Off Arcade",
+      "homeLocationId": "8789",
+      "percentile": 52.39670191456655,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i120510",
+      "name": "Nick Noland",
+      "rating": 1502.4,
+      "rd": 36.84,
+      "ratingClass": "B",
+      "homeLocation": "CaskCades",
+      "homeLocationId": "11107",
+      "percentile": 48.04117948479061,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m39992",
+      "name": "Cashley",
+      "rating": 1496.76,
+      "rd": 33.09,
+      "ratingClass": "C",
+      "homeLocation": "CaskCades",
+      "homeLocationId": "11107",
+      "percentile": 45.76326454558159,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m55405",
+      "name": "Rylan Harris",
+      "rating": 1492.26,
+      "rd": 42.08,
+      "ratingClass": "C",
+      "homeLocation": "CaskCades",
+      "homeLocationId": "11107",
+      "percentile": 43.90925606745237,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m56396",
+      "name": "ky",
+      "rating": 1489.31,
+      "rd": 23.61,
+      "ratingClass": "C",
+      "homeLocation": "South Bay Dickerson's BBQ",
+      "homeLocationId": "10577",
+      "percentile": 42.749336190431826,
+      "changeDisplay": "-0.7",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m51581",
+      "name": "Burton Matchette",
+      "rating": 1487.65,
+      "rd": 47.6,
+      "ratingClass": "C",
+      "homeLocation": "CaskCades",
+      "homeLocationId": "11107",
+      "percentile": 42.00866446173196,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m32360",
+      "name": "John Marquardt",
+      "rating": 1478.14,
+      "rd": 31.19,
+      "ratingClass": "C",
+      "homeLocation": "Flip Off Arcade",
+      "homeLocationId": "8789",
+      "percentile": 38.13294824614525,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m48925",
+      "name": "Taylor Harris",
+      "rating": 1477.6,
+      "rd": 33.85,
+      "ratingClass": "C",
+      "homeLocation": "Flip Off Arcade",
+      "homeLocationId": "8789",
+      "percentile": 37.97456561233521,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m7895",
+      "name": "Tomar Schell",
+      "rating": 1471.42,
+      "rd": 40.06,
+      "ratingClass": "C",
+      "homeLocation": "ADD-A-Ball",
+      "homeLocationId": "8582",
+      "percentile": 35.417151907579075,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i120508",
+      "name": "Chris Parsons",
+      "rating": 1466.65,
+      "rd": 37.61,
+      "ratingClass": "C",
+      "homeLocation": "CaskCades",
+      "homeLocationId": "11107",
+      "percentile": 33.50724367634043,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m57896",
+      "name": "Aaron Anderson",
+      "rating": 1446.77,
+      "rd": 58.72,
+      "ratingClass": "C",
+      "homeLocation": "CaskCades",
+      "homeLocationId": "11107",
+      "percentile": 26.05860157450971,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m57219",
+      "name": "Jasmyne Baylie",
+      "rating": 1434.83,
+      "rd": 30.62,
+      "ratingClass": "C",
+      "homeLocation": "South Bay Dickerson's BBQ",
+      "homeLocationId": "10577",
+      "percentile": 22.066427539945032,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m61151",
+      "name": "Rashaad",
+      "rating": 1434.78,
+      "rd": 67.36,
+      "ratingClass": "C",
+      "homeLocation": "CaskCades",
+      "homeLocationId": "11107",
+      "percentile": 22.061769227185913,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m49538",
+      "name": "Jeff Gregory",
+      "rating": 1424.25,
+      "rd": 25.02,
+      "ratingClass": "C",
+      "homeLocation": "Legends Arcade",
+      "homeLocationId": "8819",
+      "percentile": 18.870824987189643,
+      "changeDisplay": "+3.8",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m50655",
+      "name": "Liam Harris",
+      "rating": 1418.89,
+      "rd": 34.79,
+      "ratingClass": "C",
+      "homeLocation": "Flip Off Arcade",
+      "homeLocationId": "8789",
+      "percentile": 17.310290212884894,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m61150",
+      "name": "Shannon",
+      "rating": 1416.36,
+      "rd": 67.9,
+      "ratingClass": "C",
+      "homeLocation": "CaskCades",
+      "homeLocationId": "11107",
+      "percentile": 16.648809801090046,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m61149",
+      "name": "Jim Witwer",
+      "rating": 1410.35,
+      "rd": 55.43,
+      "ratingClass": "C",
+      "homeLocation": "CaskCades",
+      "homeLocationId": "11107",
+      "percentile": 15.144174779894723,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m48920",
+      "name": "David Templeton WA",
+      "rating": 1397.92,
+      "rd": 36,
+      "ratingClass": "D",
+      "homeLocation": "CaskCades",
+      "homeLocationId": "11107",
+      "percentile": 11.976522103694041,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m51580",
+      "name": "Shelby Schuur",
+      "rating": 1385.25,
+      "rd": 44.74,
+      "ratingClass": "D",
+      "homeLocation": "CaskCades",
+      "homeLocationId": "11107",
+      "percentile": 9.353892020310244,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m56734",
+      "name": "George Weener",
+      "rating": 1348.78,
+      "rd": 50.44,
+      "ratingClass": "D",
+      "homeLocation": "CaskCades",
+      "homeLocationId": "11107",
+      "percentile": 4.1179484790608845,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

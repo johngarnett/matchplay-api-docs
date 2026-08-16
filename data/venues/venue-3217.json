@@ -1,0 +1,383 @@
+{
+  "locationId": "3217",
+  "name": "Birdfish Brewing Co. DOWN LOW",
+  "address": "140 E Park Ave, Columbiana, OH 44408, USA",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 26,
+  "relatedVenues": [
+    {
+      "locationId": "8555",
+      "name": "Past Times Arcade",
+      "address": "419 N State St, Girard, OH, 44420, US",
+      "count": 74
+    },
+    {
+      "locationId": "10061",
+      "name": "Sandy Springs Brewing Company",
+      "address": "232 N Market St, Minerva, OH 44657, US",
+      "count": 24
+    },
+    {
+      "locationId": "13054",
+      "name": "Beer Run & Some with Nimbus Vapors",
+      "address": "17800 Chillicothe Rd, Chagrin Falls, OH 44023, US",
+      "count": 19
+    },
+    {
+      "locationId": "11578",
+      "name": "station 300",
+      "address": "580 e cuyahoga ave, akron 44310",
+      "count": 13
+    },
+    {
+      "locationId": "7382",
+      "name": "Station300 Akron",
+      "address": "580 E Cuyahoga Falls Ave, Akron, OH, 44310, US",
+      "count": 10
+    },
+    {
+      "locationId": "535",
+      "name": "Superelectric Pinball Parlor",
+      "address": "6500 Detroit Ave, Cleveland, OH 44102, USA",
+      "count": 9
+    },
+    {
+      "locationId": "6198",
+      "name": "Quarter Up",
+      "address": "Parking lot, 1452 N Portage Path, Akron, OH 44313, USA",
+      "count": 5
+    },
+    {
+      "locationId": "13248",
+      "name": "North Canton Masonic Temple",
+      "address": "805 Orchard Ave NE, North Canton, OH 44720, US",
+      "count": 5
+    },
+    {
+      "locationId": "10146",
+      "name": "Stonehedge Family Fun Center",
+      "address": "580 East Cuyahoga Falls Avenue, Akron, OH 44310, US",
+      "count": 2
+    },
+    {
+      "locationId": "10180",
+      "name": "Pinball Planet",
+      "address": "6277E Pearl Rd, Parma Heights, OH 44130",
+      "count": 2
+    }
+  ],
+  "players": [
+    {
+      "id": "m955",
+      "name": "David Terkel",
+      "rating": 1712.71,
+      "rd": 26.25,
+      "ratingClass": "Expert",
+      "homeLocation": "station 300",
+      "homeLocationId": "11578",
+      "percentile": 97.31681185074767,
+      "changeDisplay": "+1.6",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m56006",
+      "name": "Kincaid Wilson",
+      "rating": 1695.17,
+      "rd": 28.1,
+      "ratingClass": "A",
+      "homeLocation": "Past Times Arcade",
+      "homeLocationId": "8555",
+      "percentile": 96.28266641822331,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i90313",
+      "name": "Finley Wilson",
+      "rating": 1678.25,
+      "rd": 34.18,
+      "ratingClass": "A",
+      "homeLocation": "Birdfish Brewing Co. DOWN LOW",
+      "homeLocationId": "3217",
+      "percentile": 94.95970559463362,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m33803",
+      "name": "Jordan Fulton",
+      "rating": 1642.44,
+      "rd": 16.18,
+      "ratingClass": "A",
+      "homeLocation": "Past Times Arcade",
+      "homeLocationId": "8555",
+      "percentile": 90.69269110728094,
+      "changeDisplay": "+2.8",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m22477",
+      "name": "Gregg Sayers",
+      "rating": 1613.55,
+      "rd": 26.55,
+      "ratingClass": "A",
+      "homeLocation": "Sandy Springs Brewing Company",
+      "homeLocationId": "10061",
+      "percentile": 85.2098569897983,
+      "changeDisplay": "+2.1",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m13037",
+      "name": "Jackson Dunlope",
+      "rating": 1611.76,
+      "rd": 33.54,
+      "ratingClass": "A",
+      "homeLocation": "Birdfish Brewing Co. DOWN LOW",
+      "homeLocationId": "3217",
+      "percentile": 84.84185028182793,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m36784",
+      "name": "Matt Virostek",
+      "rating": 1599.55,
+      "rd": 38.94,
+      "ratingClass": "B",
+      "homeLocation": "Birdfish Brewing Co. DOWN LOW",
+      "homeLocationId": "3217",
+      "percentile": 81.89313830530583,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m8578",
+      "name": "Ken Fairbanks",
+      "rating": 1564.36,
+      "rd": 19.31,
+      "ratingClass": "B",
+      "homeLocation": "Past Times Arcade",
+      "homeLocationId": "8555",
+      "percentile": 71.78925793077747,
+      "changeDisplay": "+4.5",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "i102396",
+      "name": "Tim Brewer",
+      "rating": 1560.34,
+      "rd": 27.23,
+      "ratingClass": "B",
+      "homeLocation": "Sandy Springs Brewing Company",
+      "homeLocationId": "10061",
+      "percentile": 70.396422415801,
+      "changeDisplay": "+3.6",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m32456",
+      "name": "Nick Baylor",
+      "rating": 1543.34,
+      "rd": 43.16,
+      "ratingClass": "B",
+      "homeLocation": "Birdfish Brewing Co. DOWN LOW",
+      "homeLocationId": "3217",
+      "percentile": 64.34527414170587,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i96104",
+      "name": "Eric bailey",
+      "rating": 1540.99,
+      "rd": 33.85,
+      "ratingClass": "B",
+      "homeLocation": "Birdfish Brewing Co. DOWN LOW",
+      "homeLocationId": "3217",
+      "percentile": 63.49746121954628,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i77566",
+      "name": "Todd Tesner",
+      "rating": 1532.17,
+      "rd": 42.83,
+      "ratingClass": "B",
+      "homeLocation": "Birdfish Brewing Co. DOWN LOW",
+      "homeLocationId": "3217",
+      "percentile": 59.94316858433876,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m27694",
+      "name": "Grant Wilson",
+      "rating": 1522.43,
+      "rd": 26.32,
+      "ratingClass": "B",
+      "homeLocation": "Past Times Arcade",
+      "homeLocationId": "8555",
+      "percentile": 56.08608561978852,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m10346",
+      "name": "Keith Campanelli",
+      "rating": 1518.29,
+      "rd": 55.88,
+      "ratingClass": "B",
+      "homeLocation": "Birdfish Brewing Co. DOWN LOW",
+      "homeLocationId": "3217",
+      "percentile": 54.50691759444729,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m18710",
+      "name": "Emily Felvus",
+      "rating": 1516.92,
+      "rd": 16.06,
+      "ratingClass": "B",
+      "homeLocation": "Past Times Arcade",
+      "homeLocationId": "8555",
+      "percentile": 53.989844878185124,
+      "changeDisplay": "+10.0",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m39657",
+      "name": "John Elias",
+      "rating": 1512.65,
+      "rd": 20.31,
+      "ratingClass": "B",
+      "homeLocation": "Past Times Arcade",
+      "homeLocationId": "8555",
+      "percentile": 52.25695253179299,
+      "changeDisplay": "+13.8",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "i102398",
+      "name": "Caleb Brewer",
+      "rating": 1498.75,
+      "rd": 41.56,
+      "ratingClass": "C",
+      "homeLocation": "Birdfish Brewing Co. DOWN LOW",
+      "homeLocationId": "3217",
+      "percentile": 46.60641915498206,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m28706",
+      "name": "Pat Kupniewski",
+      "rating": 1495.29,
+      "rd": 23.37,
+      "ratingClass": "C",
+      "homeLocation": "Beer Run & Some with Nimbus Vapors",
+      "homeLocationId": "13054",
+      "percentile": 45.21824195276471,
+      "changeDisplay": "-7.6",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m47700",
+      "name": "Brian Maurer",
+      "rating": 1495.02,
+      "rd": 49.67,
+      "ratingClass": "C",
+      "homeLocation": "Birdfish Brewing Co. DOWN LOW",
+      "homeLocationId": "3217",
+      "percentile": 45.12507569758233,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m8910",
+      "name": "David Johnson OH",
+      "rating": 1486.2,
+      "rd": 44.15,
+      "ratingClass": "C",
+      "homeLocation": "Birdfish Brewing Co. DOWN LOW",
+      "homeLocationId": "3217",
+      "percentile": 41.42637536684213,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m48592",
+      "name": "Dennis Walton",
+      "rating": 1481.5,
+      "rd": 42.54,
+      "ratingClass": "C",
+      "homeLocation": "Birdfish Brewing Co. DOWN LOW",
+      "homeLocationId": "3217",
+      "percentile": 39.5211254483626,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m26447",
+      "name": "Ron Coon",
+      "rating": 1457.84,
+      "rd": 45.71,
+      "ratingClass": "C",
+      "homeLocation": "Birdfish Brewing Co. DOWN LOW",
+      "homeLocationId": "3217",
+      "percentile": 30.078725485629104,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i110579",
+      "name": "Wayne Meyers",
+      "rating": 1448.33,
+      "rd": 51.79,
+      "ratingClass": "C",
+      "homeLocation": "Birdfish Brewing Co. DOWN LOW",
+      "homeLocationId": "3217",
+      "percentile": 26.543066101458052,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m56621",
+      "name": "Joey Baylor",
+      "rating": 1400,
+      "rd": 47.75,
+      "ratingClass": "C",
+      "homeLocation": "Birdfish Brewing Co. DOWN LOW",
+      "homeLocationId": "3217",
+      "percentile": 12.493594819956213,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m60784",
+      "name": "Julie Maurer",
+      "rating": 1392.3,
+      "rd": 55.59,
+      "ratingClass": "D",
+      "homeLocation": "Birdfish Brewing Co. DOWN LOW",
+      "homeLocationId": "3217",
+      "percentile": 10.71411934597289,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i90040",
+      "name": "Sam Paterson",
+      "rating": null,
+      "rd": null,
+      "ratingClass": "N/A",
+      "homeLocation": "Beer Run & Some with Nimbus Vapors",
+      "homeLocationId": "13054",
+      "percentile": null,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "tournamentId": 264991,
+  "name": "Landlocked Ales August",
+  "date": "2026-08-02",
+  "locationId": "11081",
+  "locationName": "LandLocked Ales",
+  "playerCount": 17,
+  "ratingsDate": "2026-08-02",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m11992",
+      "name": "Justin Hinman",
+      "rating": 1710.99,
+      "dailyRatingChange": 7.39
+    },
+    {
+      "position": 2,
+      "playerId": "m25842",
+      "name": "Marshall Weasel",
+      "rating": 1693.64,
+      "dailyRatingChange": 4.45
+    },
+    {
+      "position": 3,
+      "playerId": "m35260",
+      "name": "Tyler Wandesforde",
+      "rating": 1601.38,
+      "dailyRatingChange": 2.5
+    },
+    {
+      "position": 4,
+      "playerId": "m30804",
+      "name": "Casey Yordy",
+      "rating": 1531.23,
+      "dailyRatingChange": 17.94
+    },
+    {
+      "position": 4,
+      "playerId": "m567417",
+      "name": "Henry Lewis",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 6,
+      "playerId": "m39275",
+      "name": "Randy Pierce",
+      "rating": 1550.09,
+      "dailyRatingChange": 4.06
+    },
+    {
+      "position": 6,
+      "playerId": "m14189",
+      "name": "David Keller",
+      "rating": 1525.04,
+      "dailyRatingChange": -3.96
+    },
+    {
+      "position": 8,
+      "playerId": "m42412",
+      "name": "Salinova Yordy",
+      "rating": 1427.64,
+      "dailyRatingChange": 18.48
+    },
+    {
+      "position": 9,
+      "playerId": "m42824",
+      "name": "Ben Zatz",
+      "rating": 1601.29,
+      "dailyRatingChange": -3.1
+    },
+    {
+      "position": 9,
+      "playerId": "m3189",
+      "name": "Russell Dare",
+      "rating": 1490.15,
+      "dailyRatingChange": -16.6
+    },
+    {
+      "position": 11,
+      "playerId": "m29646",
+      "name": "Scott Peterson",
+      "rating": 1526.33,
+      "dailyRatingChange": -4.85
+    },
+    {
+      "position": 11,
+      "playerId": "m1469",
+      "name": "Masha Dare",
+      "rating": 1559.25,
+      "dailyRatingChange": -7.99
+    },
+    {
+      "position": 13,
+      "playerId": "i93758",
+      "name": "River Dare",
+      "rating": 1328.76,
+      "dailyRatingChange": 0.99
+    },
+    {
+      "position": 13,
+      "playerId": "m55874",
+      "name": "Nicki Moser",
+      "rating": 1471.18,
+      "dailyRatingChange": -6.88
+    },
+    {
+      "position": 13,
+      "playerId": "m41048",
+      "name": "Mike Cooley",
+      "rating": 1565.75,
+      "dailyRatingChange": -16.87
+    },
+    {
+      "position": 16,
+      "playerId": "m25796",
+      "name": "Sean Kuhlman",
+      "rating": 1550.72,
+      "dailyRatingChange": 13.74
+    },
+    {
+      "position": 17,
+      "playerId": "m44784",
+      "name": "Lauren Rusnak",
+      "rating": 1383.48,
+      "dailyRatingChange": -6.8
+    }
+  ]
+}

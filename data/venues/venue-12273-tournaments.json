@@ -1,0 +1,40 @@
+{
+  "locationId": "12273",
+  "venueName": "BB's Amusements - Flashbax Arcade",
+  "venueAddress": "4130 Arendell Street, Morehead City, NC 28557, US",
+  "tournaments": [
+    {
+      "id": 264282,
+      "name": "Flashbax's Flipper Frenzy",
+      "date": "7/28/2026",
+      "playerCount": 15,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "p533588",
+          "name": "Alexander King",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "i111699",
+          "name": "Evan Otto",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "p533623",
+          "name": "Thomas Otto",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "p497310",
+          "name": "Tim Long",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

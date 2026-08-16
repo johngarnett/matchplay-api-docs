@@ -1,0 +1,323 @@
+{
+  "locationId": "8117",
+  "name": "Evil Horse Brewing Company",
+  "address": "1338 Main St, Crete, IL 60417, US",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 21,
+  "relatedVenues": [
+    {
+      "locationId": "9680",
+      "name": "Odyssey SweetSpot Sports Bar and Driving Range",
+      "address": "19110 Oak Park Ave, Tinley Park, IL 60477, US",
+      "count": 41
+    },
+    {
+      "locationId": "7363",
+      "name": "Crafted 1979",
+      "address": "19200 South La Grange Road, Mokena, IL 60448, US",
+      "count": 31
+    },
+    {
+      "locationId": "12978",
+      "name": "The Pinball Capital",
+      "address": "3200 W Le Moyne St, Stone Park, IL 60165",
+      "count": 26
+    },
+    {
+      "locationId": "13865",
+      "name": "Soundgrowler Brewing Co.",
+      "address": "8201 183rd St Ste P, Tinley Park, IL, 60487, US",
+      "count": 16
+    },
+    {
+      "locationId": "11533",
+      "name": "Bradley Billiards Club",
+      "address": "359 S Kinzie Ave, Bradley, IL 60915, US",
+      "count": 15
+    },
+    {
+      "locationId": "9028",
+      "name": "Hickory Creek Brewing Co",
+      "address": "1333 S Schoolhouse Rd, New Lenox, IL 60451, US",
+      "count": 12
+    },
+    {
+      "locationId": "9188",
+      "name": "Rock Island Public House",
+      "address": "13328 Old Western Ave, Blue Island, IL 60406, US",
+      "count": 4
+    },
+    {
+      "locationId": "10370",
+      "name": "Cory's House",
+      "address": "3386 W Lake Storey Rd Galesburg, IL 61401",
+      "count": 4
+    },
+    {
+      "locationId": "13824",
+      "name": "Superjumbo Records and Arcade",
+      "address": "55 S Lake St, Aurora, IL 60506, US",
+      "count": 4
+    },
+    {
+      "locationId": "2469",
+      "name": "Fellowship of the silver ball clubhouse",
+      "address": "",
+      "count": 2
+    }
+  ],
+  "players": [
+    {
+      "id": "m1372",
+      "name": "Todd Rafacz",
+      "rating": 1802.99,
+      "rd": 24.44,
+      "ratingClass": "Master",
+      "homeLocation": "Evil Horse Brewing Company",
+      "homeLocationId": "8117",
+      "percentile": 99.56677691340197,
+      "changeDisplay": "+9.1",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m30876",
+      "name": "Christopher Habrelewicz",
+      "rating": 1753.41,
+      "rd": 19.07,
+      "ratingClass": "Expert",
+      "homeLocation": "The Pinball Capital",
+      "homeLocationId": "12978",
+      "percentile": 98.87268831229329,
+      "changeDisplay": "-6.0",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "i19257",
+      "name": "Christopher Becker",
+      "rating": 1737.49,
+      "rd": 33.69,
+      "ratingClass": "Expert",
+      "homeLocation": "Bradley Billiards Club",
+      "homeLocationId": "11533",
+      "percentile": 98.35561559603111,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m37833",
+      "name": "Dan Spayer",
+      "rating": 1656.26,
+      "rd": 23.45,
+      "ratingClass": "A",
+      "homeLocation": "Crafted 1979",
+      "homeLocationId": "7363",
+      "percentile": 92.56999114920575,
+      "changeDisplay": "+0.1",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m35469",
+      "name": "Jim Piarowski",
+      "rating": 1601.5,
+      "rd": 21.11,
+      "ratingClass": "A",
+      "homeLocation": "The Pinball Capital",
+      "homeLocationId": "12978",
+      "percentile": 82.38226114501327,
+      "changeDisplay": "+2.2",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "i110591",
+      "name": "Miles Rafacz",
+      "rating": 1562.47,
+      "rd": 23.8,
+      "ratingClass": "B",
+      "homeLocation": "Evil Horse Brewing Company",
+      "homeLocationId": "8117",
+      "percentile": 71.1464107700191,
+      "changeDisplay": "-6.4",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m25477",
+      "name": "Matthew Knippen",
+      "rating": 1558.04,
+      "rd": 25.24,
+      "ratingClass": "B",
+      "homeLocation": "Evil Horse Brewing Company",
+      "homeLocationId": "8117",
+      "percentile": 69.73028369124702,
+      "changeDisplay": "+7.6",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m47820",
+      "name": "Morgan Clarke",
+      "rating": 1550.07,
+      "rd": 24.68,
+      "ratingClass": "B",
+      "homeLocation": "Rock Island Public House",
+      "homeLocationId": "9188",
+      "percentile": 66.73033027437462,
+      "changeDisplay": "-3.4",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m60869",
+      "name": "Joe Wozniak",
+      "rating": 1544.49,
+      "rd": 30.01,
+      "ratingClass": "B",
+      "homeLocation": "Odyssey SweetSpot Sports Bar and Driving Range",
+      "homeLocationId": "9680",
+      "percentile": 64.76452229002655,
+      "changeDisplay": "-4.6",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "i112976",
+      "name": "Jeffrey Hall",
+      "rating": 1500.72,
+      "rd": 39.44,
+      "ratingClass": "B",
+      "homeLocation": "Evil Horse Brewing Company",
+      "homeLocationId": "8117",
+      "percentile": 47.41696557506871,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m36362",
+      "name": "Jim Detloff",
+      "rating": 1495.39,
+      "rd": 25.68,
+      "ratingClass": "C",
+      "homeLocation": "Crafted 1979",
+      "homeLocationId": "7363",
+      "percentile": 45.26016676759678,
+      "changeDisplay": "-10.9",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "i140738",
+      "name": "Nathan Piarowski",
+      "rating": 1487.2,
+      "rd": 30.56,
+      "ratingClass": "C",
+      "homeLocation": "Cory's House",
+      "homeLocationId": "10370",
+      "percentile": 41.83630688964457,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i129340",
+      "name": "Mason Wozniak",
+      "rating": 1473.69,
+      "rd": 38.54,
+      "ratingClass": "C",
+      "homeLocation": "Evil Horse Brewing Company",
+      "homeLocationId": "8117",
+      "percentile": 36.35347277216192,
+      "changeDisplay": "-4.4",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m61014",
+      "name": "Laurie Davis",
+      "rating": 1429,
+      "rd": 33.35,
+      "ratingClass": "C",
+      "homeLocation": "Evil Horse Brewing Company",
+      "homeLocationId": "8117",
+      "percentile": 20.300927004239064,
+      "changeDisplay": "+1.6",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m38712",
+      "name": "Pamela Tusack",
+      "rating": 1410.04,
+      "rd": 27.54,
+      "ratingClass": "C",
+      "homeLocation": "Evil Horse Brewing Company",
+      "homeLocationId": "8117",
+      "percentile": 15.078958401267062,
+      "changeDisplay": "+9.7",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m61016",
+      "name": "Marco Borrelli",
+      "rating": 1400.43,
+      "rd": 25.35,
+      "ratingClass": "C",
+      "homeLocation": "The Pinball Capital",
+      "homeLocationId": "12978",
+      "percentile": 12.59607770065682,
+      "changeDisplay": "+3.5",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m40624",
+      "name": "Claudine Feliciano",
+      "rating": 1390.91,
+      "rd": 41.66,
+      "ratingClass": "D",
+      "homeLocation": "Crafted 1979",
+      "homeLocationId": "7363",
+      "percentile": 10.453253831462245,
+      "changeDisplay": "+13.9",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m60531",
+      "name": "Kyle Mahalik",
+      "rating": 1380.23,
+      "rd": 28.75,
+      "ratingClass": "D",
+      "homeLocation": "Crafted 1979",
+      "homeLocationId": "7363",
+      "percentile": 8.352354777099734,
+      "changeDisplay": "-18.4",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "i129339",
+      "name": "Tyler Wozniak",
+      "rating": 1366.01,
+      "rd": 40.35,
+      "ratingClass": "D",
+      "homeLocation": "Evil Horse Brewing Company",
+      "homeLocationId": "8117",
+      "percentile": 6.190897656868683,
+      "changeDisplay": "-27.8",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "i119265",
+      "name": "James Tusack",
+      "rating": 1358.52,
+      "rd": 31.89,
+      "ratingClass": "D",
+      "homeLocation": "Evil Horse Brewing Company",
+      "homeLocationId": "8117",
+      "percentile": 5.2545767922858335,
+      "changeDisplay": "+12.3",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "i106262",
+      "name": "Joe Wozniak",
+      "rating": null,
+      "rd": null,
+      "ratingClass": "N/A",
+      "homeLocation": "Evil Horse Brewing Company",
+      "homeLocationId": "8117",
+      "percentile": null,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

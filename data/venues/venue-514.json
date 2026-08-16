@@ -1,0 +1,293 @@
+{
+  "locationId": "514",
+  "name": "Townsville",
+  "address": "",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 20,
+  "relatedVenues": [
+    {
+      "locationId": "2605",
+      "name": "Empire Alternacade",
+      "address": "409 Flinders St, Townsville City QLD 4810, Australia",
+      "count": 64
+    },
+    {
+      "locationId": "10753",
+      "name": "Empire Alternacade & Events",
+      "address": "409 Flinders St, Townsville, QLD 4810, AU",
+      "count": 26
+    },
+    {
+      "locationId": "7450",
+      "name": "The Clubhouse Moorooka",
+      "address": "76 Koala Road, Moorooka, QLD 4105, AU",
+      "count": 24
+    },
+    {
+      "locationId": "10329",
+      "name": "Empire Level 1",
+      "address": "Level 1, 409 Flinders Street",
+      "count": 11
+    },
+    {
+      "locationId": "13811",
+      "name": "Rising Sun FPV",
+      "address": "22 Castlemaine Street, Kirwan",
+      "count": 7
+    },
+    {
+      "locationId": "7180",
+      "name": "Netherworld",
+      "address": "186 Brunswick St, Fortitude Valley, QLD 4006, AU",
+      "count": 3
+    },
+    {
+      "locationId": "12187",
+      "name": "Belconnen Bowling Club",
+      "address": "Beetaloo St, Hawker, ACT 2614, AU",
+      "count": 1
+    }
+  ],
+  "players": [
+    {
+      "id": "m13951",
+      "name": "David Beri",
+      "rating": 1716.46,
+      "rd": 30.08,
+      "ratingClass": "Expert",
+      "homeLocation": "Empire Alternacade",
+      "homeLocationId": "2605",
+      "percentile": 97.4519029207621,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m1463",
+      "name": "Rob Milla",
+      "rating": 1687.11,
+      "rd": 21.43,
+      "ratingClass": "A",
+      "homeLocation": "The Clubhouse Moorooka",
+      "homeLocationId": "7450",
+      "percentile": 95.67708575953789,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m22694",
+      "name": "Michael Holden",
+      "rating": 1647.31,
+      "rd": 19.98,
+      "ratingClass": "A",
+      "homeLocation": "Empire Alternacade",
+      "homeLocationId": "2605",
+      "percentile": 91.35417151907579,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m13344",
+      "name": "Chris Sommerville AUS",
+      "rating": 1618.38,
+      "rd": 20.79,
+      "ratingClass": "A",
+      "homeLocation": "The Clubhouse Moorooka",
+      "homeLocationId": "7450",
+      "percentile": 86.28126892439558,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m23476",
+      "name": "Ryan Lacaze",
+      "rating": 1617.31,
+      "rd": 24.24,
+      "ratingClass": "A",
+      "homeLocation": "Empire Alternacade",
+      "homeLocationId": "2605",
+      "percentile": 86.06698653747613,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m23478",
+      "name": "Amelia Applewaite",
+      "rating": 1609.22,
+      "rd": 21.88,
+      "ratingClass": "A",
+      "homeLocation": "Empire Alternacade",
+      "homeLocationId": "2605",
+      "percentile": 84.25956118693809,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m33747",
+      "name": "Rob Douma",
+      "rating": 1574.11,
+      "rd": 20.62,
+      "ratingClass": "B",
+      "homeLocation": "Empire Alternacade",
+      "homeLocationId": "2605",
+      "percentile": 74.84045278800019,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m36228",
+      "name": "Natalie Jo",
+      "rating": 1563.26,
+      "rd": 23.04,
+      "ratingClass": "B",
+      "homeLocation": "Empire Alternacade",
+      "homeLocationId": "2605",
+      "percentile": 71.3979596590115,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m59470",
+      "name": "Joanie Garbutt",
+      "rating": 1559.04,
+      "rd": 22.79,
+      "ratingClass": "B",
+      "homeLocation": "Empire Alternacade",
+      "homeLocationId": "2605",
+      "percentile": 70.03307402058975,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m56584",
+      "name": "Chris Lynch",
+      "rating": 1549.75,
+      "rd": 29.97,
+      "ratingClass": "B",
+      "homeLocation": "Townsville",
+      "homeLocationId": "514",
+      "percentile": 66.60455582987842,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m59469",
+      "name": "Braeden Wilson",
+      "rating": 1545.57,
+      "rd": 25.63,
+      "ratingClass": "B",
+      "homeLocation": "Empire Alternacade",
+      "homeLocationId": "2605",
+      "percentile": 65.14650393627429,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i58979",
+      "name": "Harley Milla",
+      "rating": 1537.36,
+      "rd": 38.64,
+      "ratingClass": "B",
+      "homeLocation": "Townsville",
+      "homeLocationId": "514",
+      "percentile": 62.02543438766479,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m44410",
+      "name": "Michael Searston",
+      "rating": 1534,
+      "rd": 21.32,
+      "ratingClass": "B",
+      "homeLocation": "Empire Alternacade",
+      "homeLocationId": "2605",
+      "percentile": 60.59533237061536,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m36243",
+      "name": "Natalie Albert",
+      "rating": 1530.32,
+      "rd": 20.99,
+      "ratingClass": "B",
+      "homeLocation": "Empire Alternacade",
+      "homeLocationId": "2605",
+      "percentile": 59.17454697908418,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m25905",
+      "name": "Jimmy Giddings",
+      "rating": 1527.99,
+      "rd": 23.27,
+      "ratingClass": "B",
+      "homeLocation": "The Clubhouse Moorooka",
+      "homeLocationId": "7450",
+      "percentile": 58.23356780174221,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m24568",
+      "name": "Chris Hurdle",
+      "rating": 1526.76,
+      "rd": 25.33,
+      "ratingClass": "B",
+      "homeLocation": "Empire Alternacade",
+      "homeLocationId": "2605",
+      "percentile": 57.758419900312106,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m45829",
+      "name": "Gunho Jang",
+      "rating": 1484.13,
+      "rd": 25.61,
+      "ratingClass": "C",
+      "homeLocation": "Empire Alternacade",
+      "homeLocationId": "2605",
+      "percentile": 40.56458750640518,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m54425",
+      "name": "Brad Bartram",
+      "rating": 1455.3,
+      "rd": 25.04,
+      "ratingClass": "C",
+      "homeLocation": "Empire Alternacade",
+      "homeLocationId": "2605",
+      "percentile": 29.202962686914802,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m37622",
+      "name": "Debra Anderson",
+      "rating": 1452.53,
+      "rd": 35.41,
+      "ratingClass": "C",
+      "homeLocation": "Empire Alternacade",
+      "homeLocationId": "2605",
+      "percentile": 28.122234126799274,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m41645",
+      "name": "Maia Solager",
+      "rating": 1402.32,
+      "rd": 37.6,
+      "ratingClass": "C",
+      "homeLocation": "Townsville",
+      "homeLocationId": "514",
+      "percentile": 13.113150416918993,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

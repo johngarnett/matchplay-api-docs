@@ -1,0 +1,100 @@
+{
+  "locationId": "10171",
+  "venueName": "Vertigo Pinball",
+  "venueAddress": "322 West Main St., Suite 1D, Blue Ridge, GA 30513",
+  "tournaments": [
+    {
+      "id": 264501,
+      "name": "Vertigo Summer League 2026 #3",
+      "date": "7/29/2026",
+      "playerCount": 9,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m34307",
+          "name": "Brett Baudet",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m18172",
+          "name": "Chris Casey",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m34271",
+          "name": "Bo Bohannon",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "p388833",
+          "name": "Leonard Hogenboom",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 263303,
+      "name": "Vertigo Summer League 2026 #2",
+      "date": "7/22/2026",
+      "playerCount": 9,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m874",
+          "name": "Mark McGuire",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 1,
+          "playerId": "m18172",
+          "name": "Chris Casey",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m34307",
+          "name": "Brett Baudet",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 262823,
+      "name": "Vertigo Transformers Launch Tournament",
+      "date": "7/19/2026",
+      "playerCount": 14,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m6126",
+          "name": "Karrie Weddle",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m41006",
+          "name": "Jason Davis GA2",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "p580085",
+          "name": "Brandon Ralston",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m874",
+          "name": "Mark McGuire",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

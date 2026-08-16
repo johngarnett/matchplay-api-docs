@@ -1,0 +1,40 @@
+{
+  "locationId": "9208",
+  "venueName": "Burn Block Social Club",
+  "venueAddress": "1217B 9 Ave SE Calgary AB",
+  "tournaments": [
+    {
+      "id": 264737,
+      "name": "Burn Block Pinball 08/13",
+      "date": "8/13/2026",
+      "playerCount": 12,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m54223",
+          "name": "Mark Foran",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 1,
+          "playerId": "m9509",
+          "name": "Nancy Barnes",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m9510",
+          "name": "Bill Henry",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "p549022",
+          "name": "Dan Delegarde",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

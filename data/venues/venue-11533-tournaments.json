@@ -1,0 +1,44 @@
+{
+  "locationId": "11533",
+  "venueName": "Bradley Billiards Club",
+  "venueAddress": "359 S Kinzie Ave, Bradley, IL 60915, US",
+  "tournaments": [
+    {
+      "id": 264539,
+      "name": "July Monthly Finals",
+      "date": "7/29/2026",
+      "playerCount": 4,
+      "qualifying": {
+        "id": 264504,
+        "name": "July Monthly",
+        "playerCount": 13
+      },
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "i19257",
+          "name": "Christopher Becker",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "p536328",
+          "name": "Jason Dionne",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m44385",
+          "name": "Kat Davis",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m33619",
+          "name": "Derek Yarno",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

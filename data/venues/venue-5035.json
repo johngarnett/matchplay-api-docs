@@ -1,0 +1,221 @@
+{
+  "locationId": "5035",
+  "name": "Rock 'N Roll Pinball",
+  "address": "815 S Railroad Ave, Opelika, AL 36801, USA",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 14,
+  "relatedVenues": [
+    {
+      "locationId": "9921",
+      "name": "Renaissance Atlanta Waverly Hotel & Convention Center",
+      "address": "2450 Galleria Pkwy Atlanta, GA 30339",
+      "count": 17
+    },
+    {
+      "locationId": "3374",
+      "name": "Portal Pinball Arcade",
+      "address": "3335 Cobb Pkwy Suite 800, Acworth, GA, 30101, US",
+      "count": 5
+    },
+    {
+      "locationId": "13354",
+      "name": "Berto's DrinkOne Arcade",
+      "address": "Acworth, GA",
+      "count": 3
+    },
+    {
+      "locationId": "6091",
+      "name": "Uncle Sam's Pinball",
+      "address": "9 Ronnebygatan, Galgamarken-Trossö, 371 32, SE",
+      "count": 2
+    },
+    {
+      "locationId": "11166",
+      "name": "Pinball inn",
+      "address": "Vetlandavägen 10, 574 75 korsberga",
+      "count": 2
+    },
+    {
+      "locationId": "3488",
+      "name": "BumperNets ",
+      "address": "2000 Galleria Cir, Birmingham, AL 35244, USA",
+      "count": 1
+    },
+    {
+      "locationId": "10551",
+      "name": "Alex Huffman’s place",
+      "address": "",
+      "count": 1
+    }
+  ],
+  "players": [
+    {
+      "id": "m2769",
+      "name": "Braden Gentry",
+      "rating": 1799.35,
+      "rd": 21.45,
+      "ratingClass": "Expert",
+      "homeLocation": "Rock 'N Roll Pinball",
+      "homeLocationId": "5035",
+      "percentile": 99.52019378581079,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m785",
+      "name": "Scott Mount",
+      "rating": 1684.2,
+      "rd": 27.53,
+      "ratingClass": "A",
+      "homeLocation": "Rock 'N Roll Pinball",
+      "homeLocationId": "5035",
+      "percentile": 95.42087855778637,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m7556",
+      "name": "Addison Mount",
+      "rating": 1665.72,
+      "rd": 24.68,
+      "ratingClass": "A",
+      "homeLocation": "Renaissance Atlanta Waverly Hotel & Convention Center",
+      "homeLocationId": "9921",
+      "percentile": 93.68332789863511,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m30549",
+      "name": "Eric Hedström",
+      "rating": 1662.3,
+      "rd": 22.9,
+      "ratingClass": "A",
+      "homeLocation": "Rock 'N Roll Pinball",
+      "homeLocationId": "5035",
+      "percentile": 93.31532119066475,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m2768",
+      "name": "Stephen Gentry",
+      "rating": 1650.2,
+      "rd": 25.01,
+      "ratingClass": "A",
+      "homeLocation": "Rock 'N Roll Pinball",
+      "homeLocationId": "5035",
+      "percentile": 91.76410304187823,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m23362",
+      "name": "Eric McLendon",
+      "rating": 1568.63,
+      "rd": 23.72,
+      "ratingClass": "B",
+      "homeLocation": "Rock 'N Roll Pinball",
+      "homeLocationId": "5035",
+      "percentile": 73.07961056505333,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i90210",
+      "name": "Wesley Lindsey",
+      "rating": 1515.98,
+      "rd": 41.34,
+      "ratingClass": "B",
+      "homeLocation": "Rock 'N Roll Pinball",
+      "homeLocationId": "5035",
+      "percentile": 53.59854660641915,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m27074",
+      "name": "Tracy Adair",
+      "rating": 1485.01,
+      "rd": 35.74,
+      "ratingClass": "C",
+      "homeLocation": "Rock 'N Roll Pinball",
+      "homeLocationId": "5035",
+      "percentile": 40.8953277123026,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m39499",
+      "name": "Lyndsey Long",
+      "rating": 1472.92,
+      "rd": 26.1,
+      "ratingClass": "C",
+      "homeLocation": "Rock 'N Roll Pinball",
+      "homeLocationId": "5035",
+      "percentile": 36.078632319373924,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i83354",
+      "name": "Ernie Rains",
+      "rating": 1472.89,
+      "rd": 35.86,
+      "ratingClass": "C",
+      "homeLocation": "Rock 'N Roll Pinball",
+      "homeLocationId": "5035",
+      "percentile": 36.05999906833745,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m44982",
+      "name": "John Leprettre",
+      "rating": 1468.45,
+      "rd": 46.21,
+      "ratingClass": "C",
+      "homeLocation": "Rock 'N Roll Pinball",
+      "homeLocationId": "5035",
+      "percentile": 34.257232030558534,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i148379",
+      "name": "Justin Curtis",
+      "rating": 1421.5,
+      "rd": 52.73,
+      "ratingClass": "C",
+      "homeLocation": "Rock 'N Roll Pinball",
+      "homeLocationId": "5035",
+      "percentile": 18.069595192621232,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i144216",
+      "name": "Hallie Sampson",
+      "rating": 1395.11,
+      "rd": 38.41,
+      "ratingClass": "D",
+      "homeLocation": "Rock 'N Roll Pinball",
+      "homeLocationId": "5035",
+      "percentile": 11.29640844086272,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i93544",
+      "name": "Christina Zaccardi",
+      "rating": 1314.92,
+      "rd": 47.66,
+      "ratingClass": "D",
+      "homeLocation": "Rock 'N Roll Pinball",
+      "homeLocationId": "5035",
+      "percentile": 1.597801276377696,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

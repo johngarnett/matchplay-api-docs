@@ -1,0 +1,123 @@
+{
+  "tournamentId": 262510,
+  "name": "Scott Kakavis Memorial Matchplay 2026",
+  "date": "2026-07-18",
+  "locationId": "904",
+  "locationName": "The Pinball Asylum",
+  "playerCount": 16,
+  "ratingsDate": "2026-07-18",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m43031",
+      "name": "Jim Linehan",
+      "rating": 1566.47,
+      "dailyRatingChange": 10.48
+    },
+    {
+      "position": 1,
+      "playerId": "m702",
+      "name": "David Denholtz",
+      "rating": 1532.58,
+      "dailyRatingChange": 16.84
+    },
+    {
+      "position": 3,
+      "playerId": "m53218",
+      "name": "Steve Mick",
+      "rating": 1664.59,
+      "dailyRatingChange": -43.34
+    },
+    {
+      "position": 4,
+      "playerId": "i151435",
+      "name": "Mike Sellick",
+      "rating": 1503.1,
+      "dailyRatingChange": 12.61
+    },
+    {
+      "position": 4,
+      "playerId": "m38323",
+      "name": "Keith Phillips FL",
+      "rating": 1533.18,
+      "dailyRatingChange": 23.09
+    },
+    {
+      "position": 6,
+      "playerId": "i7740",
+      "name": "Tony Verzelli",
+      "rating": 1551.95,
+      "dailyRatingChange": -5.9
+    },
+    {
+      "position": 6,
+      "playerId": "m31297",
+      "name": "Viktoria Phillips",
+      "rating": 1571.28,
+      "dailyRatingChange": 20.35
+    },
+    {
+      "position": 8,
+      "playerId": "m17972",
+      "name": "Justin Fontaine",
+      "rating": 1534.03,
+      "dailyRatingChange": -3.01
+    },
+    {
+      "position": 8,
+      "playerId": "m51057",
+      "name": "Jonathan Zakel",
+      "rating": 1586.71,
+      "dailyRatingChange": -4.67
+    },
+    {
+      "position": 10,
+      "playerId": "m61452",
+      "name": "Jason Klass",
+      "rating": 1512.41,
+      "dailyRatingChange": -14.98
+    },
+    {
+      "position": 10,
+      "playerId": "m24322",
+      "name": "Jeannie Zapata",
+      "rating": 1486.27,
+      "dailyRatingChange": -7.41
+    },
+    {
+      "position": 12,
+      "playerId": "m579724",
+      "name": "Austin Wardensky",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 12,
+      "playerId": "m579729",
+      "name": "Ariel Larrabee",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 12,
+      "playerId": "m41062",
+      "name": "Mark Ward",
+      "rating": 1562.78,
+      "dailyRatingChange": -9.98
+    },
+    {
+      "position": 15,
+      "playerId": "m58166",
+      "name": "Benjamin Macdonough",
+      "rating": 1381.71,
+      "dailyRatingChange": 6.14
+    },
+    {
+      "position": 16,
+      "playerId": "m62053",
+      "name": "Robert O'Brion",
+      "rating": 1356.09,
+      "dailyRatingChange": null
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "tournamentId": 229187,
+  "name": "Finals for Craft and Draft monthly tournament (July)",
+  "date": "2026-07-20",
+  "locationId": "8946",
+  "locationName": "Craft And Draft Irmo",
+  "playerCount": 16,
+  "ratingsDate": "2026-07-20",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m22349",
+      "name": "Andrew Foard",
+      "rating": 1861.95,
+      "dailyRatingChange": 6.14
+    },
+    {
+      "position": 2,
+      "playerId": "m30876",
+      "name": "Christopher Habrelewicz",
+      "rating": 1764.72,
+      "dailyRatingChange": 2.81
+    },
+    {
+      "position": 3,
+      "playerId": "m9093",
+      "name": "Todd Reynolds",
+      "rating": 1680.59,
+      "dailyRatingChange": 5.15
+    },
+    {
+      "position": 4,
+      "playerId": "m34807",
+      "name": "Jason Burleson",
+      "rating": 1717.44,
+      "dailyRatingChange": -4.93
+    },
+    {
+      "position": 5,
+      "playerId": "m2848",
+      "name": "Conner Silverstein",
+      "rating": 1741.76,
+      "dailyRatingChange": 1.31
+    },
+    {
+      "position": 6,
+      "playerId": "m42014",
+      "name": "Christopher Tirro",
+      "rating": 1674.26,
+      "dailyRatingChange": 1.86
+    },
+    {
+      "position": 7,
+      "playerId": "m53154",
+      "name": "Matt Davies SC",
+      "rating": 1659.46,
+      "dailyRatingChange": 0.59
+    },
+    {
+      "position": 8,
+      "playerId": "m17233",
+      "name": "Mark Widdis",
+      "rating": 1562.74,
+      "dailyRatingChange": -0.14
+    },
+    {
+      "position": 9,
+      "playerId": "m39270",
+      "name": "Kody Scholl",
+      "rating": 1718.99,
+      "dailyRatingChange": -0.65
+    },
+    {
+      "position": 10,
+      "playerId": "i96703",
+      "name": "Jeff Latham",
+      "rating": 1626.67,
+      "dailyRatingChange": -1.62
+    },
+    {
+      "position": 10,
+      "playerId": "m41182",
+      "name": "Kory Scholl",
+      "rating": 1698.58,
+      "dailyRatingChange": -1.78
+    },
+    {
+      "position": 10,
+      "playerId": "m50708",
+      "name": "Brian Kern",
+      "rating": 1583.99,
+      "dailyRatingChange": 0.19
+    },
+    {
+      "position": 10,
+      "playerId": "m10184",
+      "name": "Travis Kelly",
+      "rating": 1681.88,
+      "dailyRatingChange": -5.1
+    },
+    {
+      "position": 14,
+      "playerId": "m25559",
+      "name": "Catherine Rithianos",
+      "rating": 1605.74,
+      "dailyRatingChange": -2.97
+    },
+    {
+      "position": 14,
+      "playerId": "m17869",
+      "name": "Veronica Carbonell",
+      "rating": 1530.93,
+      "dailyRatingChange": -1.67
+    },
+    {
+      "position": 16,
+      "playerId": "m17782",
+      "name": "Mark Thornton",
+      "rating": 1531.44,
+      "dailyRatingChange": -4.6
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "tournamentId": 262789,
+  "name": "VOSS Sunday Group KO",
+  "date": "2026-07-20",
+  "locationId": "13190",
+  "locationName": "South Sound Vapor Lounge | The Turtle Lounge",
+  "playerCount": 12,
+  "ratingsDate": "2026-07-20",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m29339",
+      "name": "Patrick Wees",
+      "rating": 1764.68,
+      "dailyRatingChange": 12.53
+    },
+    {
+      "position": 2,
+      "playerId": "m12839",
+      "name": "Aaron Shervin",
+      "rating": 1639.77,
+      "dailyRatingChange": 3.02
+    },
+    {
+      "position": 3,
+      "playerId": "m29360",
+      "name": "Alan Dick",
+      "rating": 1586.24,
+      "dailyRatingChange": 0.89
+    },
+    {
+      "position": 4,
+      "playerId": "m25037",
+      "name": "Kathleen Rush",
+      "rating": 1540.82,
+      "dailyRatingChange": 4.1
+    },
+    {
+      "position": 4,
+      "playerId": "m55032",
+      "name": "Tom McCullough",
+      "rating": 1591.49,
+      "dailyRatingChange": 0.01
+    },
+    {
+      "position": 6,
+      "playerId": "m58806",
+      "name": "Jayden gregory",
+      "rating": 1593.58,
+      "dailyRatingChange": -1.83
+    },
+    {
+      "position": 6,
+      "playerId": "i147760",
+      "name": "Eric Morrissey",
+      "rating": 1398.27,
+      "dailyRatingChange": 17.68
+    },
+    {
+      "position": 6,
+      "playerId": "m5979",
+      "name": "Katie Lorz",
+      "rating": 1481.58,
+      "dailyRatingChange": 0.97
+    },
+    {
+      "position": 9,
+      "playerId": "m48989",
+      "name": "Blake Harris",
+      "rating": 1392.53,
+      "dailyRatingChange": -2.21
+    },
+    {
+      "position": 10,
+      "playerId": "m580168",
+      "name": "Bekah May",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 11,
+      "playerId": "m49538",
+      "name": "Jeff Gregory",
+      "rating": 1411.12,
+      "dailyRatingChange": -6.19
+    },
+    {
+      "position": 11,
+      "playerId": "m55175",
+      "name": "Mandy McCullough",
+      "rating": 1449.28,
+      "dailyRatingChange": -9.54
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "tournamentId": 262818,
+  "name": "8-Bit Beans Stern Army Knockout Tournament",
+  "date": "2026-07-19",
+  "locationId": "10209",
+  "locationName": "8-Bit Beans",
+  "playerCount": 19,
+  "ratingsDate": "2026-07-19",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m48883",
+      "name": "Chase Ivany",
+      "rating": 1580.59,
+      "dailyRatingChange": 10.99
+    },
+    {
+      "position": 2,
+      "playerId": "i137203",
+      "name": "Stacey Cooper",
+      "rating": 1532.06,
+      "dailyRatingChange": 4.98
+    },
+    {
+      "position": 2,
+      "playerId": "m43088",
+      "name": "Jessica Babineau",
+      "rating": 1490.16,
+      "dailyRatingChange": 14.51
+    },
+    {
+      "position": 2,
+      "playerId": "i129411",
+      "name": "Mike Mutimer",
+      "rating": 1514.99,
+      "dailyRatingChange": 20.68
+    },
+    {
+      "position": 5,
+      "playerId": "i147148",
+      "name": "Brian Phillips",
+      "rating": 1532.39,
+      "dailyRatingChange": 2.95
+    },
+    {
+      "position": 5,
+      "playerId": "i86705",
+      "name": "Jonathan Podwin",
+      "rating": 1625.3,
+      "dailyRatingChange": -11.7
+    },
+    {
+      "position": 5,
+      "playerId": "m59428",
+      "name": "Winnie Fung",
+      "rating": 1549.81,
+      "dailyRatingChange": 0.88
+    },
+    {
+      "position": 8,
+      "playerId": "m43864",
+      "name": "Addie Sorrell",
+      "rating": 1496.48,
+      "dailyRatingChange": 0.66
+    },
+    {
+      "position": 9,
+      "playerId": "m580077",
+      "name": "Joe Cooper",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 9,
+      "playerId": "i130134",
+      "name": "John Keys",
+      "rating": 1494.33,
+      "dailyRatingChange": 0.89
+    },
+    {
+      "position": 9,
+      "playerId": "m33304",
+      "name": "Aaron Wallace",
+      "rating": 1630.72,
+      "dailyRatingChange": -11.26
+    },
+    {
+      "position": 12,
+      "playerId": "i130135",
+      "name": "Leighton Mutimer",
+      "rating": 1438.39,
+      "dailyRatingChange": 2.26
+    },
+    {
+      "position": 13,
+      "playerId": "m35956",
+      "name": "Kathy Podwin",
+      "rating": 1509.44,
+      "dailyRatingChange": -5.04
+    },
+    {
+      "position": 13,
+      "playerId": "m46471",
+      "name": "Nils Edenloff",
+      "rating": 1411.83,
+      "dailyRatingChange": 1.72
+    },
+    {
+      "position": 15,
+      "playerId": "m580079",
+      "name": "Miranda Kehoe",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 16,
+      "playerId": "m580080",
+      "name": "Riley Kehoe",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 16,
+      "playerId": "i129406",
+      "name": "Leanne Moore",
+      "rating": 1411.16,
+      "dailyRatingChange": -7.34
+    },
+    {
+      "position": 16,
+      "playerId": "m578541",
+      "name": "Ian Castro",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 19,
+      "playerId": "m580078",
+      "name": "Emmett Cooper",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

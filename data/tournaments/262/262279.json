@@ -1,0 +1,74 @@
+{
+  "tournamentId": 262279,
+  "name": "Transformer more then meets the Eye Launch Party",
+  "date": "2026-07-19",
+  "locationId": "11959",
+  "locationName": "The Pinball Place New Ulm",
+  "playerCount": 9,
+  "ratingsDate": "2026-07-19",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m46560",
+      "name": "Jeff Stenzel",
+      "rating": 1639.31,
+      "dailyRatingChange": 2.68
+    },
+    {
+      "position": 2,
+      "playerId": "i142618",
+      "name": "Dan Graf",
+      "rating": 1505.62,
+      "dailyRatingChange": 14.04
+    },
+    {
+      "position": 3,
+      "playerId": "m579883",
+      "name": "Eugene Buhr",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 3,
+      "playerId": "m579886",
+      "name": "Melissa Smisek",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 5,
+      "playerId": "i158182",
+      "name": "Carrie Martonik",
+      "rating": 1376.34,
+      "dailyRatingChange": 7.62
+    },
+    {
+      "position": 6,
+      "playerId": "m579885",
+      "name": "Krystal Berg",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 7,
+      "playerId": "m54414",
+      "name": "Matt McMillan",
+      "rating": 1405.22,
+      "dailyRatingChange": 2.27
+    },
+    {
+      "position": 8,
+      "playerId": "m522694",
+      "name": "RYAN L",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 9,
+      "playerId": "m579887",
+      "name": "Peyton Smisek",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

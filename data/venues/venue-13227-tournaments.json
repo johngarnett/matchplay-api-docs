@@ -1,0 +1,44 @@
+{
+  "locationId": "13227",
+  "venueName": "Dumb Records",
+  "venueAddress": "418 East Monroe St, Springfield, IL 62701, US",
+  "tournaments": [
+    {
+      "id": 264925,
+      "name": "Finals for Dumb Records Monthly - July",
+      "date": "7/31/2026",
+      "playerCount": 8,
+      "qualifying": {
+        "id": 264832,
+        "name": "Dumb Records Monthly - July",
+        "playerCount": 29
+      },
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m58018",
+          "name": "Jeff Black",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 1,
+          "playerId": "m40900",
+          "name": "Chris O'Brien IL",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m46473",
+          "name": "Kevin Johnson IL",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "p550388",
+          "name": "Brian Galecki",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

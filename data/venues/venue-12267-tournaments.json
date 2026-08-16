@@ -1,0 +1,52 @@
+{
+  "locationId": "12267",
+  "venueName": "T&T Trinity Arcade Bar",
+  "venueAddress": "1338 Epiphany Wy N-105, Trinity, FL 34655, US",
+  "tournaments": [
+    {
+      "id": 266092,
+      "name": "Finals for T&T Trinity Arcade Stern Army Transformers Launch Party",
+      "date": "8/8/2026",
+      "playerCount": 4,
+      "qualifying": {
+        "id": 266055,
+        "name": "T&T Trinity Arcade Stern Army Transformers Launch Party",
+        "playerCount": 19
+      },
+      "standings": []
+    },
+    {
+      "id": 260782,
+      "name": "T&T and Little Shop of Games Return of the Flip Frenzy!",
+      "date": "7/23/2026",
+      "playerCount": 18,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m10388",
+          "name": "Lonnie Mihin",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "p581246",
+          "name": "Dustin Guibert",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m51057",
+          "name": "Jonathan Zakel",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "p581228",
+          "name": "Jason Berger",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "tournamentId": 266110,
+  "name": "Finals for Hub City Flip Out 7",
+  "date": "2026-08-08",
+  "locationId": "11419",
+  "locationName": "Xeroz",
+  "playerCount": 12,
+  "ratingsDate": "2026-08-08",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m56354",
+      "name": "Jaden Shaddick",
+      "rating": 1709.37,
+      "dailyRatingChange": 7.28
+    },
+    {
+      "position": 2,
+      "playerId": "m5954",
+      "name": "Albert Agar",
+      "rating": 1585.46,
+      "dailyRatingChange": 28.78
+    },
+    {
+      "position": 3,
+      "playerId": "m585490",
+      "name": "Corey Dougay",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 4,
+      "playerId": "i134093",
+      "name": "Sebastienn Laflechbe",
+      "rating": 1523.98,
+      "dailyRatingChange": 1.72
+    },
+    {
+      "position": 5,
+      "playerId": "i57808",
+      "name": "Brandon Baxter",
+      "rating": 1593.8,
+      "dailyRatingChange": 23.22
+    },
+    {
+      "position": 6,
+      "playerId": "m5225",
+      "name": "Tom MacArthur",
+      "rating": 1557.01,
+      "dailyRatingChange": 13.4
+    },
+    {
+      "position": 7,
+      "playerId": "i56328",
+      "name": "June Madeley",
+      "rating": 1512.8,
+      "dailyRatingChange": 10.16
+    },
+    {
+      "position": 8,
+      "playerId": "m36422",
+      "name": "Denny LeClair",
+      "rating": 1545.62,
+      "dailyRatingChange": 2.81
+    },
+    {
+      "position": 9,
+      "playerId": "m11735",
+      "name": "Rod Beaton",
+      "rating": 1523.13,
+      "dailyRatingChange": 3.57
+    },
+    {
+      "position": 9,
+      "playerId": "i138985",
+      "name": "Andy Tommy",
+      "rating": 1594.22,
+      "dailyRatingChange": 4.53
+    },
+    {
+      "position": 9,
+      "playerId": "m49844",
+      "name": "Troy Donovan",
+      "rating": 1498.46,
+      "dailyRatingChange": 5.8
+    },
+    {
+      "position": 9,
+      "playerId": "m47363",
+      "name": "Natalia Evdokimova",
+      "rating": 1557.44,
+      "dailyRatingChange": -8.85
+    }
+  ]
+}

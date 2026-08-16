@@ -197,13 +197,20 @@ function looksTruncated(mirroredCount, matchplayCount, pageSize) {
 
 ## Scale, roughly
 
-Measured by the PinPoint team against production traffic, useful for sizing a sync:
+Two independent measurements, useful for sizing a sync. The per-24-hour completed figure and
+the latencies come from [PinPoint](https://pinpoint.lol/); the daily totals and tournament
+sizes are derived from a 30-day global snapshot of 2,755 tournaments.
+
+They count different things — a shallow walk of the completed feed against every tournament
+a community-analysis pipeline retained — so read them as two views rather than one number:
 
 <div class="table-scroll">
 
 | | |
 | --- | --- |
 | Completed tournaments worldwide | ~59 per 24 hours — about 3 pages at 25 |
+| Tournaments worldwide, all statuses | median ~97 per day, peaking at 156 |
+| Players per tournament | median 12, mean 15.4, largest seen 191 |
 | One page of played history | ~200 ms |
 | A 500-tournament player at 25/page | ~20 calls, ~5 s |
 | The same player at `limit=100` | ~5 calls |

@@ -1,0 +1,39 @@
+{
+  "tournamentId": 264462,
+  "name": "Finals for OPA Onsdag 29/07 A",
+  "date": "2026-07-29",
+  "locationId": "5700",
+  "locationName": "Odense Pinball Arkade",
+  "playerCount": 4,
+  "ratingsDate": "2026-07-29",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m17970",
+      "name": "Julian Legind",
+      "rating": 1673.22,
+      "dailyRatingChange": 3.5
+    },
+    {
+      "position": 2,
+      "playerId": "m48260",
+      "name": "Sebastian Kyster-Hansen",
+      "rating": 1483.18,
+      "dailyRatingChange": 10.05
+    },
+    {
+      "position": 3,
+      "playerId": "m38650",
+      "name": "Villads Legind",
+      "rating": 1555.21,
+      "dailyRatingChange": 4.34
+    },
+    {
+      "position": 4,
+      "playerId": "m38652",
+      "name": "Danni Larsen",
+      "rating": 1590.77,
+      "dailyRatingChange": -5.31
+    }
+  ]
+}

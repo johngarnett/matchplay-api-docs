@@ -1,0 +1,45 @@
+{
+  "communityId": "176",
+  "locations": [
+    {
+      "id": "12271",
+      "name": "The Local Arcade",
+      "address": "916 6th St, Clarkston, WA, 99403, US",
+      "tournaments": [
+        {
+          "id": 266665,
+          "name": "Lock Lit Summer Series #5",
+          "date": "8/11/2026",
+          "playerCount": 13,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m55021",
+              "name": "Joha Grant",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "p493884",
+              "name": "Rodney Harrington",
+              "isCommunityMember": false
+            },
+            {
+              "position": 3,
+              "playerId": "p362874",
+              "name": "Bill",
+              "isCommunityMember": false
+            },
+            {
+              "position": 4,
+              "playerId": "p558049",
+              "name": "Sandy",
+              "isCommunityMember": false
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "locationId": "11430",
+  "venueName": "Brothers Beer & Juke Joint BBQ | Mount Eden",
+  "venueAddress": "5 Akiraho St, Auckland, Auckland 1024, NZ",
+  "tournaments": [
+    {
+      "id": 266892,
+      "name": "Finals for Max Matchplay at Brothers! August 2026",
+      "date": "8/13/2026",
+      "playerCount": 4,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m13041",
+          "name": "Laurence Smith",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m10593",
+          "name": "Craig Easson",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m22235",
+          "name": "Nikolas Busljeta",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m3030",
+          "name": "Danielle Peck",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 263688,
+      "name": "Brothers 3 Strike 25 July 2026",
+      "date": "7/25/2026",
+      "playerCount": 27,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m4915",
+          "name": "Aidan Kersley",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m3030",
+          "name": "Danielle Peck",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m10593",
+          "name": "Craig Easson",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m39277",
+          "name": "Sean Fausett",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

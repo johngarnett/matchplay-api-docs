@@ -1,0 +1,431 @@
+{
+  "locationId": "12818",
+  "name": "Reno Pinball Underground",
+  "address": "1274 S Virginia St, Reno, NV 89502, US",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 30,
+  "relatedVenues": [
+    {
+      "locationId": "9024",
+      "name": "Elbow Room",
+      "address": "2002 Victorian Ave, Sparks NV 89431",
+      "count": 193
+    },
+    {
+      "locationId": "8514",
+      "name": "Press Start",
+      "address": "600 S Center St, Reno, NV 89501, US",
+      "count": 166
+    },
+    {
+      "locationId": "11524",
+      "name": "Comic Kingdom",
+      "address": "2700 S. Virginia St. Reno, NV 89502",
+      "count": 100
+    },
+    {
+      "locationId": "12991",
+      "name": "Club Cal Neva",
+      "address": "38 E 2nd St, Reno, NV 89501, US",
+      "count": 87
+    },
+    {
+      "locationId": "8386",
+      "name": "Tahoe Paddle Sports",
+      "address": "230 Village Blvd, Incline Village, NV 89451, US",
+      "count": 27
+    },
+    {
+      "locationId": "11603",
+      "name": "Playfield Sports & Games",
+      "address": "235 Lake Street Reno, NV 89501",
+      "count": 26
+    },
+    {
+      "locationId": "4804",
+      "name": "District 82 Pinball",
+      "address": "800 O Keefe Rd, De Pere, WI 54115, USA",
+      "count": 12
+    },
+    {
+      "locationId": "5173",
+      "name": "The Flipper Room",
+      "address": "1033 Shary Cir, Concord, CA 94518, USA",
+      "count": 6
+    },
+    {
+      "locationId": "13348",
+      "name": "Utopia Pinball Lounge",
+      "address": "555 California Ave, Boulder City, NV 89005, US",
+      "count": 6
+    },
+    {
+      "locationId": "11416",
+      "name": "Rivets American Grill",
+      "address": "2307 Oakdale Rd, Modesto, CA 95355, US",
+      "count": 4
+    }
+  ],
+  "players": [
+    {
+      "id": "m12606",
+      "name": "Jeff Rinehart",
+      "rating": 1772.03,
+      "rd": 22.61,
+      "ratingClass": "Expert",
+      "homeLocation": "Press Start",
+      "homeLocationId": "8514",
+      "percentile": 99.2034285181907,
+      "changeDisplay": "-5.8",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m30143",
+      "name": "Brandon Hart",
+      "rating": 1767.83,
+      "rd": 17.98,
+      "ratingClass": "Expert",
+      "homeLocation": "Press Start",
+      "homeLocationId": "8514",
+      "percentile": 99.14752876508129,
+      "changeDisplay": "+7.5",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m31937",
+      "name": "Jeffrey Neumann",
+      "rating": 1729.51,
+      "rd": 18.84,
+      "ratingClass": "Expert",
+      "homeLocation": "Press Start",
+      "homeLocationId": "8514",
+      "percentile": 98.13667489635253,
+      "changeDisplay": "+1.2",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m1468",
+      "name": "Mark Skoff",
+      "rating": 1699.17,
+      "rd": 16.82,
+      "ratingClass": "A",
+      "homeLocation": "Elbow Room",
+      "homeLocationId": "9024",
+      "percentile": 96.55750687101133,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m19276",
+      "name": "Dan Armstrong",
+      "rating": 1695.43,
+      "rd": 17.91,
+      "ratingClass": "A",
+      "homeLocation": "Press Start",
+      "homeLocationId": "8514",
+      "percentile": 96.30595798201891,
+      "changeDisplay": "-3.4",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m11029",
+      "name": "Michael LaFrieda",
+      "rating": 1657.88,
+      "rd": 15.09,
+      "ratingClass": "A",
+      "homeLocation": "Elbow Room",
+      "homeLocationId": "9024",
+      "percentile": 92.78893184888433,
+      "changeDisplay": "+9.1",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m23455",
+      "name": "Eric Kellermeyer",
+      "rating": 1639.46,
+      "rd": 20.83,
+      "ratingClass": "A",
+      "homeLocation": "Press Start",
+      "homeLocationId": "8514",
+      "percentile": 90.24549308240555,
+      "changeDisplay": "+6.2",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m34710",
+      "name": "Bradley David Tammen",
+      "rating": 1634.33,
+      "rd": 20.5,
+      "ratingClass": "A",
+      "homeLocation": "Elbow Room",
+      "homeLocationId": "9024",
+      "percentile": 89.3324637816183,
+      "changeDisplay": "+6.6",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m15496",
+      "name": "Michelle Leutzinger",
+      "rating": 1624.39,
+      "rd": 16.46,
+      "ratingClass": "A",
+      "homeLocation": "Press Start",
+      "homeLocationId": "8514",
+      "percentile": 87.49243024176643,
+      "changeDisplay": "+0.1",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m53171",
+      "name": "Bret Stilwill",
+      "rating": 1614.45,
+      "rd": 27.67,
+      "ratingClass": "A",
+      "homeLocation": "Rivets American Grill",
+      "homeLocationId": "11416",
+      "percentile": 85.45208925327246,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m50326",
+      "name": "Patrick Heath",
+      "rating": 1605.78,
+      "rd": 15.44,
+      "ratingClass": "A",
+      "homeLocation": "Elbow Room",
+      "homeLocationId": "9024",
+      "percentile": 83.34187357339172,
+      "changeDisplay": "+6.5",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m12586",
+      "name": "Kyle Rinehart",
+      "rating": 1603.27,
+      "rd": 20.09,
+      "ratingClass": "A",
+      "homeLocation": "Elbow Room",
+      "homeLocationId": "9024",
+      "percentile": 82.78753435505661,
+      "changeDisplay": "-11.8",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m37852",
+      "name": "Daniela Sonnino",
+      "rating": 1590.92,
+      "rd": 17.71,
+      "ratingClass": "B",
+      "homeLocation": "Elbow Room",
+      "homeLocationId": "9024",
+      "percentile": 79.6897563702427,
+      "changeDisplay": "+2.2",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m40982",
+      "name": "Michael Pelster",
+      "rating": 1575.3,
+      "rd": 16.75,
+      "ratingClass": "B",
+      "homeLocation": "Elbow Room",
+      "homeLocationId": "9024",
+      "percentile": 75.20380118321144,
+      "changeDisplay": "+0.0",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m27354",
+      "name": "Tammy Thiel",
+      "rating": 1567.56,
+      "rd": 15.5,
+      "ratingClass": "B",
+      "homeLocation": "Elbow Room",
+      "homeLocationId": "9024",
+      "percentile": 72.69297060604649,
+      "changeDisplay": "-8.1",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m33877",
+      "name": "Michael Roehr",
+      "rating": 1552.44,
+      "rd": 25.55,
+      "ratingClass": "B",
+      "homeLocation": "Elbow Room",
+      "homeLocationId": "9024",
+      "percentile": 67.65733451343922,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m30230",
+      "name": "Aaron Johnston NV",
+      "rating": 1550.03,
+      "rd": 15.94,
+      "ratingClass": "B",
+      "homeLocation": "Elbow Room",
+      "homeLocationId": "9024",
+      "percentile": 66.71169702333815,
+      "changeDisplay": "+2.7",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "i123584",
+      "name": "Jame Linker",
+      "rating": 1543.82,
+      "rd": 17.96,
+      "ratingClass": "B",
+      "homeLocation": "Press Start",
+      "homeLocationId": "8514",
+      "percentile": 64.52229002655238,
+      "changeDisplay": "+4.5",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m19797",
+      "name": "Jason Cummins",
+      "rating": 1543.54,
+      "rd": 20.03,
+      "ratingClass": "B",
+      "homeLocation": "Elbow Room",
+      "homeLocationId": "9024",
+      "percentile": 64.41049052033352,
+      "changeDisplay": "-2.3",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m46188",
+      "name": "George Marshall",
+      "rating": 1541.39,
+      "rd": 19.01,
+      "ratingClass": "B",
+      "homeLocation": "Tahoe Paddle Sports",
+      "homeLocationId": "8386",
+      "percentile": 63.64652722783808,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m54834",
+      "name": "Will Roya",
+      "rating": 1540.6,
+      "rd": 18.47,
+      "ratingClass": "B",
+      "homeLocation": "Utopia Pinball Lounge",
+      "homeLocationId": "13348",
+      "percentile": 63.3530535240136,
+      "changeDisplay": "-11.1",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m22860",
+      "name": "Cory Dacha",
+      "rating": 1483.94,
+      "rd": 22.22,
+      "ratingClass": "C",
+      "homeLocation": "Elbow Room",
+      "homeLocationId": "9024",
+      "percentile": 40.499371127777515,
+      "changeDisplay": "-8.6",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m62745",
+      "name": "Peyton Swanson",
+      "rating": 1479.99,
+      "rd": 63.86,
+      "ratingClass": "C",
+      "homeLocation": "Reno Pinball Underground",
+      "homeLocationId": "12818",
+      "percentile": 38.9202031024363,
+      "changeDisplay": "★",
+      "changeClass": "change-new"
+    },
+    {
+      "id": "i138315",
+      "name": "Ray Behney",
+      "rating": 1477.18,
+      "rd": 17.38,
+      "ratingClass": "C",
+      "homeLocation": "Press Start",
+      "homeLocationId": "8514",
+      "percentile": 37.80220804024782,
+      "changeDisplay": "-4.5",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m47186",
+      "name": "Candice Smith",
+      "rating": 1441.77,
+      "rd": 21.58,
+      "ratingClass": "C",
+      "homeLocation": "Elbow Room",
+      "homeLocationId": "9024",
+      "percentile": 24.293101038803748,
+      "changeDisplay": "+3.2",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "i155728",
+      "name": "Vince Mitchell",
+      "rating": 1437.23,
+      "rd": 28.55,
+      "ratingClass": "C",
+      "homeLocation": "Press Start",
+      "homeLocationId": "8514",
+      "percentile": 22.755857828294594,
+      "changeDisplay": "-4.0",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m12614",
+      "name": "Stacee LaFrieda",
+      "rating": 1428.09,
+      "rd": 19.93,
+      "ratingClass": "C",
+      "homeLocation": "Comic Kingdom",
+      "homeLocationId": "11524",
+      "percentile": 19.99813667489635,
+      "changeDisplay": "+8.7",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m59892",
+      "name": "Craig Andersen",
+      "rating": 1423.15,
+      "rd": 30.35,
+      "ratingClass": "C",
+      "homeLocation": "Elbow Room",
+      "homeLocationId": "9024",
+      "percentile": 18.549401406810453,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i81345",
+      "name": "Tim Chriss",
+      "rating": 1388.14,
+      "rd": 22.85,
+      "ratingClass": "D",
+      "homeLocation": "Elbow Room",
+      "homeLocationId": "9024",
+      "percentile": 9.88493967484977,
+      "changeDisplay": "-0.5",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "i149006",
+      "name": "Glenda Medhurst",
+      "rating": 1365.5,
+      "rd": 49.54,
+      "ratingClass": "D",
+      "homeLocation": "Reno Pinball Underground",
+      "homeLocationId": "12818",
+      "percentile": 6.121022965481902,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

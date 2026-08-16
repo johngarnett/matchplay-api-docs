@@ -1,0 +1,113 @@
+{
+  "locationId": "8025",
+  "name": "Chillicothe Antique Emporium",
+  "address": "59 East Main Street, Chillicothe, Ohio 45601",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 6,
+  "relatedVenues": [
+    {
+      "locationId": "8414",
+      "name": "Quicksilver Arcade Bar",
+      "address": "16 Pullman Square, Huntington, WV 25701, US",
+      "count": 13
+    },
+    {
+      "locationId": "9990",
+      "name": "Homestead Taproom & Kitchen",
+      "address": "10 S High St, Canal Winchester, OH 43110, US",
+      "count": 6
+    },
+    {
+      "locationId": "8939",
+      "name": "Grizzlybird Brewing Company",
+      "address": "5901 Chandler Ct, Westerville, OH 43082, US",
+      "count": 3
+    },
+    {
+      "locationId": "13781",
+      "name": "Ben's Place",
+      "address": "",
+      "count": 3
+    },
+    {
+      "locationId": "13403",
+      "name": "The Peddler",
+      "address": "835 Third Ave, Huntington, WV 25701, US",
+      "count": 2
+    }
+  ],
+  "players": [
+    {
+      "id": "m3622",
+      "name": "David Burrier",
+      "rating": 1673.33,
+      "rd": 33.76,
+      "ratingClass": "A",
+      "homeLocation": "Chillicothe Antique Emporium",
+      "homeLocationId": "8025",
+      "percentile": 94.43797456561234,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m6195",
+      "name": "Brent Umina",
+      "rating": 1578.31,
+      "rd": 30.26,
+      "ratingClass": "B",
+      "homeLocation": "Homestead Taproom & Kitchen",
+      "homeLocationId": "9990",
+      "percentile": 76.12614710951692,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i7723",
+      "name": "Mike Seebauer",
+      "rating": 1577.69,
+      "rd": 38.56,
+      "ratingClass": "B",
+      "homeLocation": "Chillicothe Antique Emporium",
+      "homeLocationId": "8025",
+      "percentile": 75.93049797363395,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m55140",
+      "name": "Matt Allen",
+      "rating": 1567.35,
+      "rd": 36.58,
+      "ratingClass": "B",
+      "homeLocation": "Chillicothe Antique Emporium",
+      "homeLocationId": "8025",
+      "percentile": 72.63707085293707,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m28422",
+      "name": "Steve Dardinger",
+      "rating": 1560.92,
+      "rd": 28.07,
+      "ratingClass": "B",
+      "homeLocation": "Chillicothe Antique Emporium",
+      "homeLocationId": "8025",
+      "percentile": 70.61536311547957,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m9232",
+      "name": "Paul Hesson",
+      "rating": 1525.3,
+      "rd": 30.08,
+      "ratingClass": "B",
+      "homeLocation": "Quicksilver Arcade Bar",
+      "homeLocationId": "8414",
+      "percentile": 57.21805562025435,
+      "changeDisplay": "+1.6",
+      "changeClass": "change-positive"
+    }
+  ]
+}

@@ -1,0 +1,270 @@
+{
+  "tournamentId": 265997,
+  "name": "Stern Army: Pokemon Launch Party",
+  "date": "2026-08-08",
+  "locationId": "8959",
+  "locationName": "Western Mass Pinball Club",
+  "playerCount": 37,
+  "ratingsDate": "2026-08-08",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m35366",
+      "name": "Corey Scott",
+      "rating": 1666.23,
+      "dailyRatingChange": 6.13
+    },
+    {
+      "position": 2,
+      "playerId": "m34451",
+      "name": "Alec Kehrhahn",
+      "rating": 1616.98,
+      "dailyRatingChange": 8.73
+    },
+    {
+      "position": 3,
+      "playerId": "m965",
+      "name": "Kevin Duffy MA",
+      "rating": 1650.99,
+      "dailyRatingChange": -1.49
+    },
+    {
+      "position": 3,
+      "playerId": "m13400",
+      "name": "Anna Siembor",
+      "rating": 1579.4,
+      "dailyRatingChange": 10.8
+    },
+    {
+      "position": 5,
+      "playerId": "m3259",
+      "name": "Ed Giardina",
+      "rating": 1674.34,
+      "dailyRatingChange": 0.28
+    },
+    {
+      "position": 6,
+      "playerId": "m29035",
+      "name": "Arthur Audet",
+      "rating": 1507.16,
+      "dailyRatingChange": 15.9
+    },
+    {
+      "position": 7,
+      "playerId": "m217",
+      "name": "Augustis Eustis",
+      "rating": 1615.73,
+      "dailyRatingChange": -0.29
+    },
+    {
+      "position": 8,
+      "playerId": "m54642",
+      "name": "Jason Wawrzyniak",
+      "rating": 1508.55,
+      "dailyRatingChange": 21.54
+    },
+    {
+      "position": 8,
+      "playerId": "m30619",
+      "name": "Ben Scott CT",
+      "rating": 1633.47,
+      "dailyRatingChange": -0.4
+    },
+    {
+      "position": 10,
+      "playerId": "m39513",
+      "name": "Max Giardina",
+      "rating": 1479.97,
+      "dailyRatingChange": 26.88
+    },
+    {
+      "position": 11,
+      "playerId": "m585291",
+      "name": "Christopher Wardlaw",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 12,
+      "playerId": "m1816",
+      "name": "Keith Merrill",
+      "rating": 1591.33,
+      "dailyRatingChange": -3.62
+    },
+    {
+      "position": 13,
+      "playerId": "m21738",
+      "name": "Scott Temple",
+      "rating": 1532.92,
+      "dailyRatingChange": 4.29
+    },
+    {
+      "position": 14,
+      "playerId": "m37548",
+      "name": "Greg Pascale",
+      "rating": 1574.99,
+      "dailyRatingChange": 2.8
+    },
+    {
+      "position": 14,
+      "playerId": "i72806",
+      "name": "Connor Lewis",
+      "rating": 1504.23,
+      "dailyRatingChange": 71.35
+    },
+    {
+      "position": 16,
+      "playerId": "m40729",
+      "name": "Patrick Burns",
+      "rating": 1626.58,
+      "dailyRatingChange": -5.84
+    },
+    {
+      "position": 16,
+      "playerId": "m24552",
+      "name": "Bryan Hunter",
+      "rating": 1509.53,
+      "dailyRatingChange": 1.28
+    },
+    {
+      "position": 18,
+      "playerId": "m30309",
+      "name": "Peter Roarke",
+      "rating": 1530.96,
+      "dailyRatingChange": 5.41
+    },
+    {
+      "position": 18,
+      "playerId": "m32042",
+      "name": "Pearl Burns",
+      "rating": 1520.03,
+      "dailyRatingChange": 2.19
+    },
+    {
+      "position": 18,
+      "playerId": "m45768",
+      "name": "Shyla Maung",
+      "rating": 1454.05,
+      "dailyRatingChange": 5.12
+    },
+    {
+      "position": 21,
+      "playerId": "m406004",
+      "name": "Dillon Lewis",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 21,
+      "playerId": "m20377",
+      "name": "Daniel Reigner",
+      "rating": 1547.03,
+      "dailyRatingChange": -3.41
+    },
+    {
+      "position": 21,
+      "playerId": "m20084",
+      "name": "Jason Corrado",
+      "rating": 1636.76,
+      "dailyRatingChange": -6.38
+    },
+    {
+      "position": 21,
+      "playerId": "m21226",
+      "name": "Nicole Turcotte",
+      "rating": 1567.53,
+      "dailyRatingChange": -1.69
+    },
+    {
+      "position": 25,
+      "playerId": "m53345",
+      "name": "Joslin Howes",
+      "rating": 1462.81,
+      "dailyRatingChange": 1.72
+    },
+    {
+      "position": 26,
+      "playerId": "m61090",
+      "name": "Earl Hill",
+      "rating": 1524.03,
+      "dailyRatingChange": -0.48
+    },
+    {
+      "position": 26,
+      "playerId": "m43648",
+      "name": "Timothy Dargan",
+      "rating": 1576.94,
+      "dailyRatingChange": -6.09
+    },
+    {
+      "position": 28,
+      "playerId": "m448",
+      "name": "Andrew Stevens",
+      "rating": 1544.46,
+      "dailyRatingChange": -6.21
+    },
+    {
+      "position": 28,
+      "playerId": "m2318",
+      "name": "Mike Schmitt",
+      "rating": 1586.89,
+      "dailyRatingChange": -27.78
+    },
+    {
+      "position": 30,
+      "playerId": "m30623",
+      "name": "Tones Smith",
+      "rating": 1576.53,
+      "dailyRatingChange": -8.78
+    },
+    {
+      "position": 30,
+      "playerId": "m37879",
+      "name": "Amy McDonough",
+      "rating": 1463.9,
+      "dailyRatingChange": -3.01
+    },
+    {
+      "position": 32,
+      "playerId": "m11330",
+      "name": "Kristen Bayusik",
+      "rating": 1535.23,
+      "dailyRatingChange": -8.63
+    },
+    {
+      "position": 33,
+      "playerId": "i81658",
+      "name": "Brayden Reigner",
+      "rating": 1337.51,
+      "dailyRatingChange": -5.78
+    },
+    {
+      "position": 33,
+      "playerId": "m31818",
+      "name": "Ed Jacques",
+      "rating": 1521.46,
+      "dailyRatingChange": -17.9
+    },
+    {
+      "position": 33,
+      "playerId": "m959",
+      "name": "Anthony Radzicki",
+      "rating": 1536.72,
+      "dailyRatingChange": -17.03
+    },
+    {
+      "position": 33,
+      "playerId": "m966",
+      "name": "Sharon Hebenstreit",
+      "rating": 1467.15,
+      "dailyRatingChange": -11.89
+    },
+    {
+      "position": 37,
+      "playerId": "m10211",
+      "name": "Wes Frosolone",
+      "rating": 1500.98,
+      "dailyRatingChange": -14.48
+    }
+  ]
+}

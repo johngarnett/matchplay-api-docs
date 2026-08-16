@@ -1,0 +1,39 @@
+{
+  "tournamentId": 222654,
+  "name": "Full Tilt Arcade - 4 Strike Tournament - Jul 29th",
+  "date": "2026-07-30",
+  "locationId": "7392",
+  "locationName": "Full Tilt Arcade & Pinball",
+  "playerCount": 4,
+  "ratingsDate": "2026-07-30",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m22683",
+      "name": "Chris Friend",
+      "rating": 1647.14,
+      "dailyRatingChange": 1.99
+    },
+    {
+      "position": 2,
+      "playerId": "m32433",
+      "name": "Chris Burgo",
+      "rating": 1593,
+      "dailyRatingChange": 3.6
+    },
+    {
+      "position": 3,
+      "playerId": "m30542",
+      "name": "Tony Baldini",
+      "rating": 1561.95,
+      "dailyRatingChange": -1.03
+    },
+    {
+      "position": 4,
+      "playerId": "m50488",
+      "name": "Scott Sweitzer",
+      "rating": 1469.78,
+      "dailyRatingChange": -2.44
+    }
+  ]
+}

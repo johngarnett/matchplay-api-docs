@@ -1,0 +1,67 @@
+{
+  "tournamentId": 264701,
+  "name": "Semi-Finals for Transformers Launch Party at Under The Glass",
+  "date": "2026-07-31",
+  "locationId": "13266",
+  "locationName": "Under The Glass",
+  "playerCount": 8,
+  "ratingsDate": "2026-07-31",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m35537",
+      "name": "Will Gordon",
+      "rating": 1669.55,
+      "dailyRatingChange": 6.01
+    },
+    {
+      "position": 1,
+      "playerId": "m29755",
+      "name": "Joe Broccoli",
+      "rating": 1648,
+      "dailyRatingChange": 8.37
+    },
+    {
+      "position": 3,
+      "playerId": "m53919",
+      "name": "Margaret Fox",
+      "rating": 1467.79,
+      "dailyRatingChange": 4.05
+    },
+    {
+      "position": 3,
+      "playerId": "m13181",
+      "name": "Kevin Stanley",
+      "rating": 1636.46,
+      "dailyRatingChange": 2.35
+    },
+    {
+      "position": 5,
+      "playerId": "m583118",
+      "name": "Scott Miller",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 5,
+      "playerId": "m28381",
+      "name": "Mike Baiano",
+      "rating": 1526.73,
+      "dailyRatingChange": -0.23
+    },
+    {
+      "position": 7,
+      "playerId": "m60268",
+      "name": "Kate Strong",
+      "rating": 1495.28,
+      "dailyRatingChange": -7.31
+    },
+    {
+      "position": 7,
+      "playerId": "m5728",
+      "name": "Koi Morris",
+      "rating": 1618.66,
+      "dailyRatingChange": -3.81
+    }
+  ]
+}

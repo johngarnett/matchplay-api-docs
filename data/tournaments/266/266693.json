@@ -1,0 +1,39 @@
+{
+  "tournamentId": 266693,
+  "name": "Finals for Soundgrowler - Transformers Launch Party",
+  "date": "2026-08-12",
+  "locationId": "13865",
+  "locationName": "Soundgrowler Brewing Co.",
+  "playerCount": 4,
+  "ratingsDate": "2026-08-12",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m1372",
+      "name": "Todd Rafacz",
+      "rating": 1802.99,
+      "dailyRatingChange": 9.12
+    },
+    {
+      "position": 2,
+      "playerId": "m13977",
+      "name": "Mike Kolman",
+      "rating": 1673.1,
+      "dailyRatingChange": 7.05
+    },
+    {
+      "position": 3,
+      "playerId": "m25477",
+      "name": "Matthew Knippen",
+      "rating": 1558.04,
+      "dailyRatingChange": 7.59
+    },
+    {
+      "position": 4,
+      "playerId": "m37833",
+      "name": "Dan Spayer",
+      "rating": 1656.26,
+      "dailyRatingChange": 0.06
+    }
+  ]
+}

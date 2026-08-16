@@ -1,0 +1,212 @@
+{
+  "communityId": "9",
+  "locations": [
+    {
+      "id": "7171",
+      "name": "Einstein's Pub",
+      "address": "873 South Mason Rd, Ste. 360, Katy, TX 77450, US",
+      "tournaments": [
+        {
+          "id": 266695,
+          "name": "Finals for Space City Pinball: PhysXXX - Extra Credit",
+          "date": "8/11/2026",
+          "playerCount": 4,
+          "qualifying": {
+            "id": 266623,
+            "name": "Space City Pinball: PhysXXX - Extra Credit",
+            "playerCount": 8
+          },
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m32037",
+              "name": "Matt Katsarelis",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m25959",
+              "name": "Cindi Brennan 💗",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m45623",
+              "name": "Heatherleigh Juarez",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m10010",
+              "name": "Dani Wade 🍀",
+              "isCommunityMember": true
+            }
+          ]
+        },
+        {
+          "id": 266225,
+          "name": "EinStein's Drainiacs (8/9)",
+          "date": "8/9/2026",
+          "playerCount": 36,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m31621",
+              "name": "Kevin Hemann",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m7084",
+              "name": "Jim Mueller",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m31630",
+              "name": "Ty Katsarelis",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m42259",
+              "name": "Kevin Sturhan",
+              "isCommunityMember": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "11917",
+      "name": "Hot Dog Shop",
+      "address": "6405 Brittmoore Rd, Houston, TX, 77041, US",
+      "tournaments": [
+        {
+          "id": 266179,
+          "name": "Finals for Belles of Space City 2026 #8",
+          "date": "8/8/2026",
+          "playerCount": 4,
+          "qualifying": {
+            "id": 265932,
+            "name": "Belles of Space City 2026 #8",
+            "playerCount": 17
+          },
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m31453",
+              "name": "Piper Chirichigno",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m6234",
+              "name": "Evelyn Carroll",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m4343",
+              "name": "Elizabeth Dronet",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m34242",
+              "name": "Emma Cornbower",
+              "isCommunityMember": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "11888",
+      "name": "The Game Preserve",
+      "address": "473 Sawdust Rd, Spring, TX 77380, US",
+      "tournaments": [
+        {
+          "id": 266612,
+          "name": "Three Strike - XXX Tuesday (08/11)",
+          "date": "8/11/2026",
+          "playerCount": 19,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m18425",
+              "name": "Cameron Warren",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m3535",
+              "name": "Nicholas Gustafson",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m3614",
+              "name": "Sam Hall TX",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "p278981",
+              "name": "Hayden Crookham",
+              "isCommunityMember": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7731",
+      "name": "The Game Preserve NASA",
+      "address": "20810 Gulf Freeway, Webster, TX 77598, US",
+      "tournaments": [
+        {
+          "id": 266613,
+          "name": "Interstellar Training TGP NASA S8 #4",
+          "date": "8/11/2026",
+          "playerCount": 24,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m28177",
+              "name": "Quinton Lowe",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m40863",
+              "name": "Branden Martin TX",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m25191",
+              "name": "Alex Anthony",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "i87009",
+              "name": "Jay Martinets",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m38547",
+              "name": "Rob Bellotto",
+              "isCommunityMember": true
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

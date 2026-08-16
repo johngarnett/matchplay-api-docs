@@ -1,0 +1,179 @@
+{
+  "locationId": "13780",
+  "name": "Pure Joy Toys",
+  "address": "6959 Bandera Rd. San Antonio, Tx. 78238",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 10,
+  "relatedVenues": [
+    {
+      "locationId": "2123",
+      "name": "What's Brewing? Coffee Roasters",
+      "address": "138 West Rhapsody Drive, San Antonio, TX, 78216, US",
+      "count": 139
+    },
+    {
+      "locationId": "11561",
+      "name": "Austin Pinball Collective",
+      "address": "1106 Clayton Ln, Austin, TX 78723, US",
+      "count": 7
+    },
+    {
+      "locationId": "3790",
+      "name": "Cactus Jacks",
+      "address": "",
+      "count": 2
+    },
+    {
+      "locationId": "12942",
+      "name": "RETRO",
+      "address": "326 N Chaparral St, Corpus Christi, TX 78401, US",
+      "count": 2
+    },
+    {
+      "locationId": "13452",
+      "name": "Hamby's",
+      "address": "437 S Main St, Boerne, TX 78006, US",
+      "count": 2
+    },
+    {
+      "locationId": "66",
+      "name": "Cactus Jack's",
+      "address": "",
+      "count": 1
+    },
+    {
+      "locationId": "5624",
+      "name": "Cactus Jack's Family Fun Center",
+      "address": "1211 N. Council Road, Oklahoma City, OK, 73127, US",
+      "count": 1
+    },
+    {
+      "locationId": "13045",
+      "name": "Heroes & Fantasies",
+      "address": "13013 N. US-Hwy 281; suite 120, San Antonio, TX 78216, US",
+      "count": 1
+    }
+  ],
+  "players": [
+    {
+      "id": "m8322",
+      "name": "Gilbert Herrera",
+      "rating": 1709.66,
+      "rd": 17.12,
+      "ratingClass": "Expert",
+      "homeLocation": "What's Brewing? Coffee Roasters",
+      "homeLocationId": "2123",
+      "percentile": 97.15842921693762,
+      "changeDisplay": "+4.7",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m36589",
+      "name": "Mario Garza",
+      "rating": 1689.99,
+      "rd": 16.38,
+      "ratingClass": "A",
+      "homeLocation": "What's Brewing? Coffee Roasters",
+      "homeLocationId": "2123",
+      "percentile": 95.91465971025295,
+      "changeDisplay": "+6.3",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m26633",
+      "name": "Trevor Miller",
+      "rating": 1598.85,
+      "rd": 19.12,
+      "ratingClass": "B",
+      "homeLocation": "What's Brewing? Coffee Roasters",
+      "homeLocationId": "2123",
+      "percentile": 81.70680579494108,
+      "changeDisplay": "-4.3",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m43007",
+      "name": "AJ Lopez",
+      "rating": 1549.34,
+      "rd": 19.23,
+      "ratingClass": "B",
+      "homeLocation": "What's Brewing? Coffee Roasters",
+      "homeLocationId": "2123",
+      "percentile": 66.44151488330927,
+      "changeDisplay": "-0.3",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m42522",
+      "name": "Chris Boss",
+      "rating": 1542.59,
+      "rd": 21.77,
+      "ratingClass": "B",
+      "homeLocation": "What's Brewing? Coffee Roasters",
+      "homeLocationId": "2123",
+      "percentile": 64.10770019099083,
+      "changeDisplay": "-4.7",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m50807",
+      "name": "Liam Boss",
+      "rating": 1525.44,
+      "rd": 18.68,
+      "ratingClass": "B",
+      "homeLocation": "What's Brewing? Coffee Roasters",
+      "homeLocationId": "2123",
+      "percentile": 57.27395537336377,
+      "changeDisplay": "+5.1",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m56824",
+      "name": "Sona Rivera",
+      "rating": 1505.47,
+      "rd": 15.26,
+      "ratingClass": "B",
+      "homeLocation": "What's Brewing? Coffee Roasters",
+      "homeLocationId": "2123",
+      "percentile": 49.42935668700797,
+      "changeDisplay": "+2.3",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m62687",
+      "name": "Jonathan Kantor",
+      "rating": 1442.94,
+      "rd": 60.62,
+      "ratingClass": "C",
+      "homeLocation": "Pure Joy Toys",
+      "homeLocationId": "13780",
+      "percentile": 24.712349187124424,
+      "changeDisplay": "★",
+      "changeClass": "change-new"
+    },
+    {
+      "id": "m54458",
+      "name": "Mario Gutierrez",
+      "rating": 1441.52,
+      "rd": 25.05,
+      "ratingClass": "C",
+      "homeLocation": "What's Brewing? Coffee Roasters",
+      "homeLocationId": "2123",
+      "percentile": 24.227884660176084,
+      "changeDisplay": "+1.4",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m39244",
+      "name": "Aimee Miller",
+      "rating": 1322.47,
+      "rd": 45.3,
+      "ratingClass": "D",
+      "homeLocation": "Pure Joy Toys",
+      "homeLocationId": "13780",
+      "percentile": 1.9984161736618995,
+      "changeDisplay": "-33.3",
+      "changeClass": "change-negative"
+    }
+  ]
+}

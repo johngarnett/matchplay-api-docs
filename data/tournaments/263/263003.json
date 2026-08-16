@@ -1,0 +1,67 @@
+{
+  "tournamentId": 263003,
+  "name": "GSO Boxcar Pin Pals and Pints 7/20",
+  "date": "2026-07-21",
+  "locationId": "10474",
+  "locationName": "Boxcar Bar + Arcade",
+  "playerCount": 8,
+  "ratingsDate": "2026-07-21",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m3090",
+      "name": "Drew Cedolia",
+      "rating": 1887.57,
+      "dailyRatingChange": 4.38
+    },
+    {
+      "position": 2,
+      "playerId": "m5322",
+      "name": "Tim McCool",
+      "rating": 1820.96,
+      "dailyRatingChange": 4.06
+    },
+    {
+      "position": 3,
+      "playerId": "m25874",
+      "name": "Farmers Only",
+      "rating": 1557.52,
+      "dailyRatingChange": 14.29
+    },
+    {
+      "position": 4,
+      "playerId": "i116938",
+      "name": "Darius Alston",
+      "rating": 1495.16,
+      "dailyRatingChange": 12.66
+    },
+    {
+      "position": 5,
+      "playerId": "m30520",
+      "name": "Stephen Kulin",
+      "rating": 1598.67,
+      "dailyRatingChange": -10.8
+    },
+    {
+      "position": 5,
+      "playerId": "m30437",
+      "name": "Andi Carly",
+      "rating": 1397.86,
+      "dailyRatingChange": 7.45
+    },
+    {
+      "position": 7,
+      "playerId": "m44007",
+      "name": "Sean Tracy",
+      "rating": 1424.79,
+      "dailyRatingChange": -16.73
+    },
+    {
+      "position": 8,
+      "playerId": "i160255",
+      "name": "Howard Bowker",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

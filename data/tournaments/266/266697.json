@@ -1,0 +1,67 @@
+{
+  "tournamentId": 266697,
+  "name": "Flip⚡️Side Weekly 8/11/26 B Division",
+  "date": "2026-08-12",
+  "locationId": "6223",
+  "locationName": "Flip⚡️Side",
+  "playerCount": 8,
+  "ratingsDate": "2026-08-12",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m47351",
+      "name": "Grahmy Boy",
+      "rating": 1503.41,
+      "dailyRatingChange": 13.76
+    },
+    {
+      "position": 2,
+      "playerId": "m45626",
+      "name": "Torri Havelka",
+      "rating": 1510.79,
+      "dailyRatingChange": -0.79
+    },
+    {
+      "position": 3,
+      "playerId": "i144154",
+      "name": "Rick Bennett",
+      "rating": 1379.39,
+      "dailyRatingChange": 5.02
+    },
+    {
+      "position": 4,
+      "playerId": "m42553",
+      "name": "Amy Cole MS",
+      "rating": 1454.19,
+      "dailyRatingChange": -13.77
+    },
+    {
+      "position": 5,
+      "playerId": "m42810",
+      "name": "Brenna Walker",
+      "rating": 1469.99,
+      "dailyRatingChange": -0.63
+    },
+    {
+      "position": 5,
+      "playerId": "m6796",
+      "name": "Fred Jennings",
+      "rating": 1508.27,
+      "dailyRatingChange": -9.34
+    },
+    {
+      "position": 7,
+      "playerId": "m56978",
+      "name": "A",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 7,
+      "playerId": "m56979",
+      "name": "B",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

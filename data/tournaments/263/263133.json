@@ -1,0 +1,102 @@
+{
+  "tournamentId": 263133,
+  "name": "NPC Season 3 at JR's Playhouse #2",
+  "date": "2026-07-22",
+  "locationId": "13691",
+  "locationName": "JR's House",
+  "playerCount": 13,
+  "ratingsDate": "2026-07-22",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m43110",
+      "name": "Ryan Howard ME",
+      "rating": 1562.45,
+      "dailyRatingChange": 5.63
+    },
+    {
+      "position": 1,
+      "playerId": "m13526",
+      "name": "Traynor Gauthier",
+      "rating": 1671.68,
+      "dailyRatingChange": -0.14
+    },
+    {
+      "position": 1,
+      "playerId": "m33610",
+      "name": "Sarah Plourde",
+      "rating": 1464.31,
+      "dailyRatingChange": 11.31
+    },
+    {
+      "position": 1,
+      "playerId": "m235",
+      "name": "Jake Erskine",
+      "rating": 1580.3,
+      "dailyRatingChange": 24.48
+    },
+    {
+      "position": 1,
+      "playerId": "m26025",
+      "name": "Matt Liskom",
+      "rating": 1610.33,
+      "dailyRatingChange": 25.04
+    },
+    {
+      "position": 6,
+      "playerId": "m106",
+      "name": "Theresa Nessel",
+      "rating": 1657.93,
+      "dailyRatingChange": -2.76
+    },
+    {
+      "position": 6,
+      "playerId": "m2788",
+      "name": "Seth Clayter",
+      "rating": 1597.12,
+      "dailyRatingChange": 0.24
+    },
+    {
+      "position": 6,
+      "playerId": "m1815",
+      "name": "Paul Conley",
+      "rating": 1578.81,
+      "dailyRatingChange": 1.57
+    },
+    {
+      "position": 9,
+      "playerId": "m430",
+      "name": "Nate Straz",
+      "rating": 1599.33,
+      "dailyRatingChange": -4.61
+    },
+    {
+      "position": 10,
+      "playerId": "m32463",
+      "name": "Billy Marshall III",
+      "rating": 1447.31,
+      "dailyRatingChange": -1.36
+    },
+    {
+      "position": 11,
+      "playerId": "m5653",
+      "name": "Jake Holz",
+      "rating": 1525,
+      "dailyRatingChange": -6
+    },
+    {
+      "position": 12,
+      "playerId": "m38623",
+      "name": "Pedro Nieves",
+      "rating": 1412.24,
+      "dailyRatingChange": -9.18
+    },
+    {
+      "position": 13,
+      "playerId": "m44882",
+      "name": "Emilee Love",
+      "rating": 1491.05,
+      "dailyRatingChange": -8.05
+    }
+  ]
+}

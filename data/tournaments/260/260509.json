@@ -1,0 +1,123 @@
+{
+  "tournamentId": 260509,
+  "name": "NPC Season 3 @ The Dusty Planet Week 3",
+  "date": "2026-07-31",
+  "locationId": "11626",
+  "locationName": "The Dusty Planet",
+  "playerCount": 16,
+  "ratingsDate": "2026-07-31",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m49666",
+      "name": "Quinn Miller",
+      "rating": 1619.64,
+      "dailyRatingChange": 22.44
+    },
+    {
+      "position": 2,
+      "playerId": "m1085",
+      "name": "Chris Harvey",
+      "rating": 1494.47,
+      "dailyRatingChange": 7.97
+    },
+    {
+      "position": 3,
+      "playerId": "m5899",
+      "name": "Bill MacDonald",
+      "rating": 1582.51,
+      "dailyRatingChange": 0.91
+    },
+    {
+      "position": 3,
+      "playerId": "m27923",
+      "name": "Colleen Riley",
+      "rating": 1484.59,
+      "dailyRatingChange": 13.63
+    },
+    {
+      "position": 3,
+      "playerId": "m53883",
+      "name": "Larry Wineland",
+      "rating": 1462.06,
+      "dailyRatingChange": 13.32
+    },
+    {
+      "position": 6,
+      "playerId": "m37767",
+      "name": "John Todd",
+      "rating": 1375.4,
+      "dailyRatingChange": 11.88
+    },
+    {
+      "position": 6,
+      "playerId": "m33421",
+      "name": "Mike Renzi",
+      "rating": 1491.25,
+      "dailyRatingChange": 7.06
+    },
+    {
+      "position": 8,
+      "playerId": "m20488",
+      "name": "Amber Lee RI",
+      "rating": 1434.82,
+      "dailyRatingChange": 3.42
+    },
+    {
+      "position": 8,
+      "playerId": "m28369",
+      "name": "Christopher Cardaci",
+      "rating": 1597.71,
+      "dailyRatingChange": -8.51
+    },
+    {
+      "position": 8,
+      "playerId": "m23490",
+      "name": "Dave Rabinowitz",
+      "rating": 1561.72,
+      "dailyRatingChange": -11.14
+    },
+    {
+      "position": 11,
+      "playerId": "m1084",
+      "name": "Stephanie Harvey",
+      "rating": 1441.17,
+      "dailyRatingChange": -1.42
+    },
+    {
+      "position": 12,
+      "playerId": "i136784",
+      "name": "Matthew Pieper",
+      "rating": 1387.93,
+      "dailyRatingChange": -9.17
+    },
+    {
+      "position": 12,
+      "playerId": "i136786",
+      "name": "Evan Cohen",
+      "rating": 1476.6,
+      "dailyRatingChange": -10.54
+    },
+    {
+      "position": 14,
+      "playerId": "m36978",
+      "name": "Holly Papaw",
+      "rating": 1496.58,
+      "dailyRatingChange": -13.43
+    },
+    {
+      "position": 14,
+      "playerId": "m62461",
+      "name": "Greg Abrams",
+      "rating": 1357.39,
+      "dailyRatingChange": -41.7
+    },
+    {
+      "position": 14,
+      "playerId": "i136787",
+      "name": "Bonnie Clayton",
+      "rating": 1404.14,
+      "dailyRatingChange": -19.58
+    }
+  ]
+}

@@ -1,0 +1,227 @@
+{
+  "locationId": "13372",
+  "name": "Low Bar",
+  "address": "724 E Burnside St, Portland, OR 97214, US",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 13,
+  "relatedVenues": [
+    {
+      "locationId": "7334",
+      "name": "Ground Kontrol Classic Arcade",
+      "address": "115 NW 5th Ave, Portland, OR 97209, US",
+      "count": 71
+    },
+    {
+      "locationId": "5246",
+      "name": "Next Level Pinball Museum",
+      "address": "1458 NE 25th Ave, Hillsboro, OR 97124, USA",
+      "count": 17
+    },
+    {
+      "locationId": "9540",
+      "name": "The Fixin' To",
+      "address": "8218 North Lombard Street, Portland, OR 97203, US",
+      "count": 12
+    },
+    {
+      "locationId": "11443",
+      "name": "C-Bar",
+      "address": "2880 SE Gladstone St, Portland, OR 97202, US",
+      "count": 12
+    },
+    {
+      "locationId": "7559",
+      "name": "Slingshot Lounge",
+      "address": "5532 SE Center, Portland, OR 97206, US",
+      "count": 9
+    },
+    {
+      "locationId": "13370",
+      "name": "Kim's Manor",
+      "address": "9029 N Saint Johns Ave, Portland OR 97203",
+      "count": 8
+    },
+    {
+      "locationId": "6346",
+      "name": "NWPAS",
+      "address": "",
+      "count": 6
+    },
+    {
+      "locationId": "12907",
+      "name": "Gift",
+      "address": "1935 SE Hawthorne Blvd, Portland, OR 97214, US",
+      "count": 6
+    },
+    {
+      "locationId": "8429",
+      "name": "Hungry Tiger",
+      "address": "213 Southeast 12th Avenue, Portland, OR 97214, US",
+      "count": 5
+    },
+    {
+      "locationId": "7749",
+      "name": "Merry Time Restaurant & Lounge",
+      "address": "995 Marine Drive, Astoria, OR 97103, US",
+      "count": 4
+    }
+  ],
+  "players": [
+    {
+      "id": "m28287",
+      "name": "Evan Amano",
+      "rating": 1740.06,
+      "rd": 20.31,
+      "ratingClass": "Expert",
+      "homeLocation": "Ground Kontrol Classic Arcade",
+      "homeLocationId": "7334",
+      "percentile": 98.43014860017702,
+      "changeDisplay": "+0.8",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m7530",
+      "name": "Mathew Peterson",
+      "rating": 1723.23,
+      "rd": 16.99,
+      "ratingClass": "Expert",
+      "homeLocation": "Next Level Pinball Museum",
+      "homeLocationId": "5246",
+      "percentile": 97.84785950528718,
+      "changeDisplay": "+11.4",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m20914",
+      "name": "Jeff Monroe",
+      "rating": 1701.92,
+      "rd": 20.15,
+      "ratingClass": "Expert",
+      "homeLocation": "Ground Kontrol Classic Arcade",
+      "homeLocationId": "7334",
+      "percentile": 96.71123119206223,
+      "changeDisplay": "-3.4",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m42880",
+      "name": "Nicholas Curtis",
+      "rating": 1687.26,
+      "rd": 21.01,
+      "ratingClass": "A",
+      "homeLocation": "Ground Kontrol Classic Arcade",
+      "homeLocationId": "7334",
+      "percentile": 95.69106069781526,
+      "changeDisplay": "+2.0",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m19718",
+      "name": "Ben Massey",
+      "rating": 1684.56,
+      "rd": 24.47,
+      "ratingClass": "A",
+      "homeLocation": "Ground Kontrol Classic Arcade",
+      "homeLocationId": "7334",
+      "percentile": 95.49541156193226,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m7235",
+      "name": "Dylan Snow",
+      "rating": 1672.02,
+      "rd": 23.71,
+      "ratingClass": "A",
+      "homeLocation": "Ground Kontrol Classic Arcade",
+      "homeLocationId": "7334",
+      "percentile": 94.28425024456142,
+      "changeDisplay": "+0.1",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m30817",
+      "name": "Ashlee von Buttlar",
+      "rating": 1633.53,
+      "rd": 23.99,
+      "ratingClass": "A",
+      "homeLocation": "Ground Kontrol Classic Arcade",
+      "homeLocationId": "7334",
+      "percentile": 89.20668933712209,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m6122",
+      "name": "John Hartman",
+      "rating": 1619.37,
+      "rd": 27.88,
+      "ratingClass": "A",
+      "homeLocation": "C-Bar",
+      "homeLocationId": "11443",
+      "percentile": 86.47691806027856,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m29721",
+      "name": "Sahara Scott",
+      "rating": 1570.57,
+      "rd": 23.79,
+      "ratingClass": "B",
+      "homeLocation": "Ground Kontrol Classic Arcade",
+      "homeLocationId": "7334",
+      "percentile": 73.69916616201611,
+      "changeDisplay": "+2.3",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m39616",
+      "name": "Anthony Rice",
+      "rating": 1530.11,
+      "rd": 30.02,
+      "ratingClass": "B",
+      "homeLocation": "Ground Kontrol Classic Arcade",
+      "homeLocationId": "7334",
+      "percentile": 59.10467228769739,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m27622",
+      "name": "Rick Abruzzo",
+      "rating": 1481.67,
+      "rd": 34.5,
+      "ratingClass": "C",
+      "homeLocation": "Ground Kontrol Classic Arcade",
+      "homeLocationId": "7334",
+      "percentile": 39.59100013974938,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m32898",
+      "name": "Osa Hale",
+      "rating": 1474.33,
+      "rd": 24.42,
+      "ratingClass": "C",
+      "homeLocation": "The Fixin' To",
+      "homeLocationId": "9540",
+      "percentile": 36.63297153770904,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m53232",
+      "name": "Brit Barnhouse",
+      "rating": 1396.4,
+      "rd": 28.92,
+      "ratingClass": "D",
+      "homeLocation": "Ground Kontrol Classic Arcade",
+      "homeLocationId": "7334",
+      "percentile": 11.627148646760144,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

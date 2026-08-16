@@ -1,0 +1,371 @@
+{
+  "locationId": "13635",
+  "name": "The Pinball Factory",
+  "address": "33 Veldweg, Herkenbosch, 6075 NL, NL",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 25,
+  "relatedVenues": [
+    {
+      "locationId": "6012",
+      "name": "The Pinball Club",
+      "address": "Torenallee 20, 5617 BC Eindhoven, Nederland",
+      "count": 36
+    },
+    {
+      "locationId": "12119",
+      "name": "Dipsy Doodle Pinball Club Oisterwijk",
+      "address": "Gasthuisstraat 24 Oisterwijk",
+      "count": 29
+    },
+    {
+      "locationId": "7593",
+      "name": "The Pinball Lounge Amersfoort",
+      "address": "",
+      "count": 8
+    },
+    {
+      "locationId": "5407",
+      "name": "Albert All games",
+      "address": "",
+      "count": 7
+    },
+    {
+      "locationId": "8992",
+      "name": "Clubhouse NFV",
+      "address": "5 Turbinestraat, Veenendaal, UT 3903 LV, NL",
+      "count": 5
+    },
+    {
+      "locationId": "9739",
+      "name": "Pinball Eindhoven",
+      "address": "4509 Ekkersrijt, Son, NB 5692 DN, NL",
+      "count": 5
+    },
+    {
+      "locationId": "3767",
+      "name": "FreePlay",
+      "address": "Ewaldstraße 25, 45699 Herten, Germany",
+      "count": 2
+    },
+    {
+      "locationId": "13015",
+      "name": "Soplay",
+      "address": "950 Rue Maurice Herzog, 59810 Lesquin",
+      "count": 2
+    },
+    {
+      "locationId": "13016",
+      "name": "Chantilly club",
+      "address": "1 Rue Hoche, Villeneuve-d'Ascq, Hauts-de-France 59491, FR",
+      "count": 2
+    },
+    {
+      "locationId": "137",
+      "name": "Bart's place",
+      "address": "",
+      "count": 1
+    }
+  ],
+  "players": [
+    {
+      "id": "m16229",
+      "name": "Paul Englert",
+      "rating": 1829.95,
+      "rd": 25.34,
+      "ratingClass": "Master",
+      "homeLocation": "FreePlay",
+      "homeLocationId": "3767",
+      "percentile": 99.77640098756231,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m21465",
+      "name": "Roy Wils",
+      "rating": 1778.11,
+      "rd": 25.72,
+      "ratingClass": "Expert",
+      "homeLocation": "The Pinball Lounge Amersfoort",
+      "homeLocationId": "7593",
+      "percentile": 99.26864489681837,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m43915",
+      "name": "Barry Hoeben",
+      "rating": 1684.46,
+      "rd": 23.92,
+      "ratingClass": "A",
+      "homeLocation": "Clubhouse NFV",
+      "homeLocationId": "8992",
+      "percentile": 95.4767783108958,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m9006",
+      "name": "Jürgen Schmitz",
+      "rating": 1624.92,
+      "rd": 33.46,
+      "ratingClass": "A",
+      "homeLocation": "The Pinball Factory",
+      "homeLocationId": "13635",
+      "percentile": 87.59025480970793,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m24175",
+      "name": "Henk koster",
+      "rating": 1622.81,
+      "rd": 18.81,
+      "ratingClass": "A",
+      "homeLocation": "Dipsy Doodle Pinball Club Oisterwijk",
+      "homeLocationId": "12119",
+      "percentile": 87.21758978897843,
+      "changeDisplay": "-6.3",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m16377",
+      "name": "Michael Reuter",
+      "rating": 1621.08,
+      "rd": 35.81,
+      "ratingClass": "A",
+      "homeLocation": "The Pinball Factory",
+      "homeLocationId": "13635",
+      "percentile": 86.84958308100806,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m31948",
+      "name": "Maurice Brouwers",
+      "rating": 1598.3,
+      "rd": 21.29,
+      "ratingClass": "B",
+      "homeLocation": "The Pinball Club",
+      "homeLocationId": "6012",
+      "percentile": 81.55773978664928,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m33671",
+      "name": "Xandro Schellen",
+      "rating": 1591.67,
+      "rd": 21.57,
+      "ratingClass": "B",
+      "homeLocation": "The Pinball Lounge Amersfoort",
+      "homeLocationId": "7593",
+      "percentile": 79.93664694647599,
+      "changeDisplay": "-0.1",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m12416",
+      "name": "Serf Schellen",
+      "rating": 1582.87,
+      "rd": 17.5,
+      "ratingClass": "B",
+      "homeLocation": "Dipsy Doodle Pinball Club Oisterwijk",
+      "homeLocationId": "12119",
+      "percentile": 77.41184143103368,
+      "changeDisplay": "-10.1",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m52993",
+      "name": "Max Birk",
+      "rating": 1580.39,
+      "rd": 21.61,
+      "ratingClass": "B",
+      "homeLocation": "Dipsy Doodle Pinball Club Oisterwijk",
+      "homeLocationId": "12119",
+      "percentile": 76.73172776820236,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m22630",
+      "name": "Adamo Eijkenboom",
+      "rating": 1575.49,
+      "rd": 22.95,
+      "ratingClass": "B",
+      "homeLocation": "Albert All games",
+      "homeLocationId": "5407",
+      "percentile": 75.27833418735734,
+      "changeDisplay": "-6.5",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m5594",
+      "name": "Frank Linden",
+      "rating": 1573.42,
+      "rd": 29.56,
+      "ratingClass": "B",
+      "homeLocation": "The Pinball Factory",
+      "homeLocationId": "13635",
+      "percentile": 74.58424558624867,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m51575",
+      "name": "Ilana Weizman",
+      "rating": 1567.15,
+      "rd": 19.52,
+      "ratingClass": "B",
+      "homeLocation": "Albert All games",
+      "homeLocationId": "5407",
+      "percentile": 72.56719616155029,
+      "changeDisplay": "-6.7",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m23100",
+      "name": "Ralf Behr",
+      "rating": 1556.34,
+      "rd": 29.05,
+      "ratingClass": "B",
+      "homeLocation": "The Pinball Factory",
+      "homeLocationId": "13635",
+      "percentile": 69.13867797083896,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m20971",
+      "name": "Jose Marin Huttinga",
+      "rating": 1542.64,
+      "rd": 20.89,
+      "ratingClass": "B",
+      "homeLocation": "The Pinball Club",
+      "homeLocationId": "6012",
+      "percentile": 64.12633344202729,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m41248",
+      "name": "Micky Schröder",
+      "rating": 1540.28,
+      "rd": 27.46,
+      "ratingClass": "B",
+      "homeLocation": "7-Mountains-Pinball Club House",
+      "homeLocationId": "7047",
+      "percentile": 63.23659570503564,
+      "changeDisplay": "+7.9",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m40485",
+      "name": "Michael Wahn",
+      "rating": 1518.88,
+      "rd": 27.71,
+      "ratingClass": "B",
+      "homeLocation": "Clubhouse NFV",
+      "homeLocationId": "8992",
+      "percentile": 54.69790841757115,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m58690",
+      "name": "Yves Schepkens",
+      "rating": 1518.47,
+      "rd": 37.75,
+      "ratingClass": "B",
+      "homeLocation": "The Pinball Factory",
+      "homeLocationId": "13635",
+      "percentile": 54.60008384962967,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m43681",
+      "name": "Kelvin Eijkenboom",
+      "rating": 1494.77,
+      "rd": 23.31,
+      "ratingClass": "C",
+      "homeLocation": "Albert All games",
+      "homeLocationId": "5407",
+      "percentile": 45.00861787860437,
+      "changeDisplay": "+11.3",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m42103",
+      "name": "Dave Hesen",
+      "rating": 1493.97,
+      "rd": 29.74,
+      "ratingClass": "C",
+      "homeLocation": "Pinball Eindhoven",
+      "homeLocationId": "9739",
+      "percentile": 44.72911911305725,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m55601",
+      "name": "René Klein",
+      "rating": 1472.08,
+      "rd": 32.71,
+      "ratingClass": "C",
+      "homeLocation": "The Pinball Factory",
+      "homeLocationId": "13635",
+      "percentile": 35.65472585829413,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m22625",
+      "name": "Willem van Lierop",
+      "rating": 1459.75,
+      "rd": 30.55,
+      "ratingClass": "C",
+      "homeLocation": "The Pinball Club",
+      "homeLocationId": "6012",
+      "percentile": 30.89858853123399,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m57592",
+      "name": "Xavier Kleuters",
+      "rating": 1452.43,
+      "rd": 26.96,
+      "ratingClass": "C",
+      "homeLocation": "The Pinball Club",
+      "homeLocationId": "6012",
+      "percentile": 28.075650999208086,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m17993",
+      "name": "Vera Stobbe",
+      "rating": 1435.01,
+      "rd": 30.75,
+      "ratingClass": "C",
+      "homeLocation": "FreePlay",
+      "homeLocationId": "3767",
+      "percentile": 22.13630223133181,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m43642",
+      "name": "Bram Arts",
+      "rating": 1369.7,
+      "rd": 39.94,
+      "ratingClass": "D",
+      "homeLocation": "The Pinball Factory",
+      "homeLocationId": "13635",
+      "percentile": 6.652070620021429,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

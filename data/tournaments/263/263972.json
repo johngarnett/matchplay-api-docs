@@ -1,0 +1,53 @@
+{
+  "tournamentId": 263972,
+  "name": "Roshambo 4th Sunday July 2026 (good)",
+  "date": "2026-07-26",
+  "locationId": "9113",
+  "locationName": "Roshambo Beverage Company",
+  "playerCount": 6,
+  "ratingsDate": "2026-07-26",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m7791",
+      "name": "Jason Keith",
+      "rating": 1704,
+      "dailyRatingChange": -1.67
+    },
+    {
+      "position": 2,
+      "playerId": "m41496",
+      "name": "Ed Plut",
+      "rating": 1574.11,
+      "dailyRatingChange": 8.88
+    },
+    {
+      "position": 3,
+      "playerId": "m2324",
+      "name": "Paul Sanders",
+      "rating": 1618.45,
+      "dailyRatingChange": -3.97
+    },
+    {
+      "position": 4,
+      "playerId": "m60001",
+      "name": "Jeremy Hakes",
+      "rating": 1642.48,
+      "dailyRatingChange": -2.4
+    },
+    {
+      "position": 5,
+      "playerId": "m49457",
+      "name": "Nathan Plourde",
+      "rating": 1462.49,
+      "dailyRatingChange": 3.66
+    },
+    {
+      "position": 6,
+      "playerId": "i88026",
+      "name": "Curtis Smith",
+      "rating": 1469.78,
+      "dailyRatingChange": -10.96
+    }
+  ]
+}

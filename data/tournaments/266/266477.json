@@ -1,0 +1,256 @@
+{
+  "tournamentId": 266477,
+  "name": "Das Flipperhaus 3 Strikes IFPA Monday Madness 08/10/2026",
+  "date": "2026-08-11",
+  "locationId": "7008",
+  "locationName": "Das Flipperhaus",
+  "playerCount": 35,
+  "ratingsDate": "2026-08-11",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m38368",
+      "name": "Kevin Winters",
+      "rating": 1640.82,
+      "dailyRatingChange": 9.15
+    },
+    {
+      "position": 2,
+      "playerId": "m34667",
+      "name": "Bruce Utzig",
+      "rating": 1543.57,
+      "dailyRatingChange": 11.79
+    },
+    {
+      "position": 3,
+      "playerId": "m62618",
+      "name": "Shayne Stacy",
+      "rating": 1557.8,
+      "dailyRatingChange": 38.64
+    },
+    {
+      "position": 3,
+      "playerId": "i114041",
+      "name": "Kristofer Vincent",
+      "rating": 1507.35,
+      "dailyRatingChange": 22.28
+    },
+    {
+      "position": 5,
+      "playerId": "m34202",
+      "name": "Christopher Mendoza",
+      "rating": 1655.37,
+      "dailyRatingChange": -1.02
+    },
+    {
+      "position": 5,
+      "playerId": "m27353",
+      "name": "Michael Striplin",
+      "rating": 1561.2,
+      "dailyRatingChange": 3.11
+    },
+    {
+      "position": 7,
+      "playerId": "m44465",
+      "name": "Ripley Randall",
+      "rating": 1562.03,
+      "dailyRatingChange": 1.29
+    },
+    {
+      "position": 7,
+      "playerId": "m35945",
+      "name": "Elsie Oster",
+      "rating": 1534.93,
+      "dailyRatingChange": 2.53
+    },
+    {
+      "position": 7,
+      "playerId": "i43816",
+      "name": "Cody Hoffman",
+      "rating": 1532.31,
+      "dailyRatingChange": 7.99
+    },
+    {
+      "position": 10,
+      "playerId": "m25825",
+      "name": "Charissa Raufmann",
+      "rating": 1537.34,
+      "dailyRatingChange": 3.38
+    },
+    {
+      "position": 10,
+      "playerId": "i135934",
+      "name": "Gary Barbarick",
+      "rating": 1485.15,
+      "dailyRatingChange": 2.84
+    },
+    {
+      "position": 10,
+      "playerId": "m59169",
+      "name": "Truman Conlee",
+      "rating": 1444.65,
+      "dailyRatingChange": 6.42
+    },
+    {
+      "position": 10,
+      "playerId": "m27572",
+      "name": "Tyler Heath",
+      "rating": 1565.43,
+      "dailyRatingChange": -0.62
+    },
+    {
+      "position": 14,
+      "playerId": "m62795",
+      "name": "Derek Noose",
+      "rating": 1506.98,
+      "dailyRatingChange": null
+    },
+    {
+      "position": 14,
+      "playerId": "m35340",
+      "name": "Danny Lewis",
+      "rating": 1658.47,
+      "dailyRatingChange": -4.23
+    },
+    {
+      "position": 14,
+      "playerId": "m25983",
+      "name": "Pasha Korneychuk",
+      "rating": 1537.6,
+      "dailyRatingChange": -0.98
+    },
+    {
+      "position": 14,
+      "playerId": "m61234",
+      "name": "Tyler Harvey",
+      "rating": 1488.8,
+      "dailyRatingChange": 0.95
+    },
+    {
+      "position": 14,
+      "playerId": "m586288",
+      "name": "Tristan Wood",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 19,
+      "playerId": "m47758",
+      "name": "Andrew Taraschke",
+      "rating": 1585.81,
+      "dailyRatingChange": -1.68
+    },
+    {
+      "position": 19,
+      "playerId": "m53390",
+      "name": "Erik Walther",
+      "rating": 1491.16,
+      "dailyRatingChange": -2.67
+    },
+    {
+      "position": 19,
+      "playerId": "m59168",
+      "name": "Kaitlyn Hopper",
+      "rating": 1364.78,
+      "dailyRatingChange": 6.27
+    },
+    {
+      "position": 19,
+      "playerId": "m561609",
+      "name": "Ron Fenis",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 19,
+      "playerId": "m34340",
+      "name": "Julia Randall",
+      "rating": 1512.25,
+      "dailyRatingChange": -0.79
+    },
+    {
+      "position": 19,
+      "playerId": "m27623",
+      "name": "Allison Hom",
+      "rating": 1543.16,
+      "dailyRatingChange": -2.23
+    },
+    {
+      "position": 25,
+      "playerId": "m39274",
+      "name": "Stephanie Kirby",
+      "rating": 1552,
+      "dailyRatingChange": -2.99
+    },
+    {
+      "position": 25,
+      "playerId": "m586275",
+      "name": "Mark Crawford",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 25,
+      "playerId": "m52266",
+      "name": "Tim Duran",
+      "rating": 1406.44,
+      "dailyRatingChange": -2.64
+    },
+    {
+      "position": 25,
+      "playerId": "m47653",
+      "name": "Natalie deWitt",
+      "rating": 1485.91,
+      "dailyRatingChange": -3.89
+    },
+    {
+      "position": 25,
+      "playerId": "m42596",
+      "name": "Katie Hepler",
+      "rating": 1452.11,
+      "dailyRatingChange": -3.62
+    },
+    {
+      "position": 25,
+      "playerId": "m44466",
+      "name": "Steve Husted",
+      "rating": 1465.13,
+      "dailyRatingChange": -4.65
+    },
+    {
+      "position": 31,
+      "playerId": "m576455",
+      "name": "Blake Stacy",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 31,
+      "playerId": "m586289",
+      "name": "Ryder Wood",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 31,
+      "playerId": "m404909",
+      "name": "AARON WALTMAN",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 31,
+      "playerId": "m39501",
+      "name": "Abbie Joy",
+      "rating": 1414.56,
+      "dailyRatingChange": -14.89
+    },
+    {
+      "position": 31,
+      "playerId": "m49024",
+      "name": "Stephen Hernandez",
+      "rating": 1475.88,
+      "dailyRatingChange": -11.38
+    }
+  ]
+}

@@ -1,0 +1,359 @@
+{
+  "locationId": "10357",
+  "name": "Offworld Arcade",
+  "address": "1420 E Fisher Fwy, Detroit, MI 48207",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 24,
+  "relatedVenues": [
+    {
+      "locationId": "5718",
+      "name": "Barcade Detroit",
+      "address": "666 Selden St, Detroit, MI, 48201, US",
+      "count": 38
+    },
+    {
+      "locationId": "5287",
+      "name": "ULEKstore's Pinball and Classic Arcade",
+      "address": "2121 North Monroe St, Monroe, MI, 48162, US",
+      "count": 35
+    },
+    {
+      "locationId": "12620",
+      "name": "Pinball Playhouse",
+      "address": "3642 W Eleven Mile Road, Berkley, MI 48072",
+      "count": 19
+    },
+    {
+      "locationId": "12723",
+      "name": "Dr. Tilt’s Arcade",
+      "address": "20734 Chesley Dr",
+      "count": 17
+    },
+    {
+      "locationId": "12444",
+      "name": "Sparks Pinball Museum & Arcade",
+      "address": "412 W 14 Mile Rd, Troy, MI 48083, US",
+      "count": 16
+    },
+    {
+      "locationId": "12869",
+      "name": "Mum's Arcade",
+      "address": "17738 Mack Ave, Grosse Pointe, MI 48230, US",
+      "count": 13
+    },
+    {
+      "locationId": "13356",
+      "name": "Pinball Pete's Ann Arbor",
+      "address": "500 E Liberty St, Ann Arbor, MI 48104",
+      "count": 8
+    },
+    {
+      "locationId": "11709",
+      "name": "US12 Bar & Grill",
+      "address": "34824 W Michigan Ave, Wayne, MI 48184",
+      "count": 5
+    },
+    {
+      "locationId": "10767",
+      "name": "Crazy Quarters Arcade",
+      "address": "401 Center Ave, Bay City, MI 48708",
+      "count": 4
+    },
+    {
+      "locationId": "7465",
+      "name": "RLM Amusements",
+      "address": "4318 Plainfield Avenue Northeast, Grand Rapids, MI 49525, US",
+      "count": 3
+    }
+  ],
+  "players": [
+    {
+      "id": "m32535",
+      "name": "Austin Quinty",
+      "rating": 1718.6,
+      "rd": 26.46,
+      "ratingClass": "Expert",
+      "homeLocation": "The 1up Arcade Bar - Westminster",
+      "homeLocationId": "11099",
+      "percentile": 97.57767736525831,
+      "changeDisplay": "-1.1",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m21002",
+      "name": "Aaron Wilburn Jr.",
+      "rating": 1691.91,
+      "rd": 24.29,
+      "ratingClass": "A",
+      "homeLocation": "Barcade Detroit",
+      "homeLocationId": "5718",
+      "percentile": 96.0544090930265,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m25776",
+      "name": "Uber Hubris",
+      "rating": 1640.66,
+      "rd": 18.84,
+      "ratingClass": "A",
+      "homeLocation": "ULEKstore's Pinball and Classic Arcade",
+      "homeLocationId": "5287",
+      "percentile": 90.42716728001118,
+      "changeDisplay": "-4.4",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m56276",
+      "name": "Greg Barrus",
+      "rating": 1626.63,
+      "rd": 19.54,
+      "ratingClass": "A",
+      "homeLocation": "Offworld Arcade",
+      "homeLocationId": "10357",
+      "percentile": 87.92565332836446,
+      "changeDisplay": "+13.5",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m37176",
+      "name": "Scott Sheahan",
+      "rating": 1623.14,
+      "rd": 19.32,
+      "ratingClass": "A",
+      "homeLocation": "Offworld Arcade",
+      "homeLocationId": "10357",
+      "percentile": 87.2595146038105,
+      "changeDisplay": "-0.3",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m44645",
+      "name": "J. Utley",
+      "rating": 1613.43,
+      "rd": 23.12,
+      "ratingClass": "A",
+      "homeLocation": "Offworld Arcade",
+      "homeLocationId": "10357",
+      "percentile": 85.13998229841152,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m42304",
+      "name": "Walter Depuydt",
+      "rating": 1593.97,
+      "rd": 37.51,
+      "ratingClass": "B",
+      "homeLocation": "Offworld Arcade",
+      "homeLocationId": "10357",
+      "percentile": 80.52825266688406,
+      "changeDisplay": "-13.6",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m21125",
+      "name": "Paul Patzer",
+      "rating": 1592.74,
+      "rd": 35.68,
+      "ratingClass": "B",
+      "homeLocation": "Offworld Arcade",
+      "homeLocationId": "10357",
+      "percentile": 80.19285414822751,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m33849",
+      "name": "Jamie",
+      "rating": 1585.71,
+      "rd": 19.25,
+      "ratingClass": "B",
+      "homeLocation": "Offworld Arcade",
+      "homeLocationId": "10357",
+      "percentile": 78.25033772767503,
+      "changeDisplay": "-0.1",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m48545",
+      "name": "Bret Trocchio",
+      "rating": 1579.8,
+      "rd": 19.88,
+      "ratingClass": "B",
+      "homeLocation": "ULEKstore's Pinball and Classic Arcade",
+      "homeLocationId": "5287",
+      "percentile": 76.56402850887409,
+      "changeDisplay": "+2.1",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "i77988",
+      "name": "Dave Zuchora",
+      "rating": 1576.91,
+      "rd": 37.7,
+      "ratingClass": "B",
+      "homeLocation": "Offworld Arcade",
+      "homeLocationId": "10357",
+      "percentile": 75.74882377602832,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m19888",
+      "name": "Captain Planet",
+      "rating": 1573.87,
+      "rd": 31.55,
+      "ratingClass": "B",
+      "homeLocation": "Barcade Detroit",
+      "homeLocationId": "5718",
+      "percentile": 74.76126147109517,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m53017",
+      "name": "omgkylebby",
+      "rating": 1570.1,
+      "rd": 38.74,
+      "ratingClass": "B",
+      "homeLocation": "Offworld Arcade",
+      "homeLocationId": "10357",
+      "percentile": 73.4709088368193,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m27748",
+      "name": "Peter Spivak",
+      "rating": 1566.81,
+      "rd": 26.39,
+      "ratingClass": "B",
+      "homeLocation": "Dr. Tilt’s Arcade",
+      "homeLocationId": "12723",
+      "percentile": 72.52061303395911,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m61760",
+      "name": "Ken McCarthy",
+      "rating": 1564.01,
+      "rd": 29.49,
+      "ratingClass": "B",
+      "homeLocation": "Offworld Arcade",
+      "homeLocationId": "10357",
+      "percentile": 71.63553360972655,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m30234",
+      "name": "Matthew Pagnani",
+      "rating": 1542.99,
+      "rd": 24.99,
+      "ratingClass": "B",
+      "homeLocation": "Pinball Playhouse",
+      "homeLocationId": "12620",
+      "percentile": 64.21949969720967,
+      "changeDisplay": "-1.1",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m44329",
+      "name": "Parallax",
+      "rating": 1535.44,
+      "rd": 42.52,
+      "ratingClass": "B",
+      "homeLocation": "Offworld Arcade",
+      "homeLocationId": "10357",
+      "percentile": 61.15898821446872,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m41703",
+      "name": "Clint Wright",
+      "rating": 1535.25,
+      "rd": 33.62,
+      "ratingClass": "B",
+      "homeLocation": "Offworld Arcade",
+      "homeLocationId": "10357",
+      "percentile": 61.09843014860018,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m4761",
+      "name": "Tim Carpenter MI",
+      "rating": 1534.45,
+      "rd": 22.67,
+      "ratingClass": "B",
+      "homeLocation": "Barcade Detroit",
+      "homeLocationId": "5718",
+      "percentile": 60.77234825546187,
+      "changeDisplay": "+11.5",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m38710",
+      "name": "Kelley sheahan",
+      "rating": 1493.42,
+      "rd": 22.47,
+      "ratingClass": "C",
+      "homeLocation": "ULEKstore's Pinball and Classic Arcade",
+      "homeLocationId": "5287",
+      "percentile": 44.46825359854661,
+      "changeDisplay": "+1.6",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m12488",
+      "name": "Courtney McGee",
+      "rating": 1446.86,
+      "rd": 28.29,
+      "ratingClass": "C",
+      "homeLocation": "Barcade Detroit",
+      "homeLocationId": "5718",
+      "percentile": 26.086551451064427,
+      "changeDisplay": "-0.3",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m25658",
+      "name": "Jenica Allman",
+      "rating": 1438.89,
+      "rd": 21.97,
+      "ratingClass": "C",
+      "homeLocation": "ULEKstore's Pinball and Classic Arcade",
+      "homeLocationId": "5287",
+      "percentile": 23.324171984907068,
+      "changeDisplay": "+14.4",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "i139253",
+      "name": "Travis Smilowski",
+      "rating": 1404.21,
+      "rd": 39.01,
+      "ratingClass": "C",
+      "homeLocation": "Offworld Arcade",
+      "homeLocationId": "10357",
+      "percentile": 13.578981692830858,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i97872",
+      "name": "Ken McCarthy",
+      "rating": null,
+      "rd": null,
+      "ratingClass": "N/A",
+      "homeLocation": "Offworld Arcade",
+      "homeLocationId": "10357",
+      "percentile": null,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

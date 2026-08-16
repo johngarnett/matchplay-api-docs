@@ -1,0 +1,155 @@
+{
+  "locationId": "11347",
+  "name": "Griffin's PH",
+  "address": "813 Surfside Drive Surfside Beach, SC",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 9,
+  "relatedVenues": [
+    {
+      "locationId": "11059",
+      "name": "Grand Strand Brewing",
+      "address": "819 North Kings Hwy. Myrtle Beach, SC 29577",
+      "count": 23
+    },
+    {
+      "locationId": "9921",
+      "name": "Renaissance Atlanta Waverly Hotel & Convention Center",
+      "address": "2450 Galleria Pkwy Atlanta, GA 30339",
+      "count": 6
+    },
+    {
+      "locationId": "10710",
+      "name": "The Backyard Arcade @ Coastal Hemp Company",
+      "address": "8207 Market St. Unit I, Wilmington, NC, 28411, US",
+      "count": 4
+    },
+    {
+      "locationId": "10825",
+      "name": "The Break",
+      "address": "778 Folly Rd, Charleston, SC 29412, US",
+      "count": 2
+    },
+    {
+      "locationId": "3374",
+      "name": "Portal Pinball Arcade",
+      "address": "3335 Cobb Pkwy Suite 800, Acworth, GA, 30101, US",
+      "count": 1
+    },
+    {
+      "locationId": "7771",
+      "name": "The Pinball Foundry",
+      "address": "3310 Hemlock Way Winnabow NC 28479",
+      "count": 1
+    }
+  ],
+  "players": [
+    {
+      "id": "i94832",
+      "name": "Jack Kuiken",
+      "rating": 1750.09,
+      "rd": 27.3,
+      "ratingClass": "Expert",
+      "homeLocation": "Grand Strand Brewing",
+      "homeLocationId": "11059",
+      "percentile": 98.76088880607445,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i94833",
+      "name": "Brady Purvis",
+      "rating": 1628.24,
+      "rd": 32.16,
+      "ratingClass": "A",
+      "homeLocation": "Grand Strand Brewing",
+      "homeLocationId": "11059",
+      "percentile": 88.21446871942982,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m3553",
+      "name": "Kevin Myers MD",
+      "rating": 1595.43,
+      "rd": 25.66,
+      "ratingClass": "B",
+      "homeLocation": "Grand Strand Brewing",
+      "homeLocationId": "11059",
+      "percentile": 80.88694274933619,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i26635",
+      "name": "Shawn Speir",
+      "rating": 1569.04,
+      "rd": 26.01,
+      "ratingClass": "B",
+      "homeLocation": "Grand Strand Brewing",
+      "homeLocationId": "11059",
+      "percentile": 73.19141007127219,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m26934",
+      "name": "Paul Kowal",
+      "rating": 1558.81,
+      "rd": 23.18,
+      "ratingClass": "B",
+      "homeLocation": "The Backyard Arcade @ Coastal Hemp Company",
+      "homeLocationId": "10710",
+      "percentile": 69.95388270368473,
+      "changeDisplay": "+12.4",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m45484",
+      "name": "Jeffrey Laitinen",
+      "rating": 1550.32,
+      "rd": 27.75,
+      "ratingClass": "B",
+      "homeLocation": "Grand Strand Brewing",
+      "homeLocationId": "11059",
+      "percentile": 66.80952159127965,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m47494",
+      "name": "Tom Emmert",
+      "rating": 1526.58,
+      "rd": 33.65,
+      "ratingClass": "B",
+      "homeLocation": "Griffin's PH",
+      "homeLocationId": "11347",
+      "percentile": 57.65593701961149,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m43955",
+      "name": "Gregory Boos",
+      "rating": 1502.53,
+      "rd": 35.2,
+      "ratingClass": "B",
+      "homeLocation": "Grand Strand Brewing",
+      "homeLocationId": "11059",
+      "percentile": 48.12502911445474,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m51491",
+      "name": "Mike Nealy",
+      "rating": 1498.6,
+      "rd": 24.27,
+      "ratingClass": "C",
+      "homeLocation": "Grand Strand Brewing",
+      "homeLocationId": "11059",
+      "percentile": 46.54586108911352,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

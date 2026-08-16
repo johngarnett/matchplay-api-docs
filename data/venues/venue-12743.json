@@ -1,0 +1,143 @@
+{
+  "locationId": "12743",
+  "name": "Eastside Bowl",
+  "address": "1508A Gallatin Pike S, Nashville, TN 37115, US",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 6,
+  "relatedVenues": [
+    {
+      "locationId": "3448",
+      "name": "Game Galaxy Arcade",
+      "address": "3 S Lowry St, Smyrna, TN 37167, USA",
+      "count": 22
+    },
+    {
+      "locationId": "11652",
+      "name": "Hot Rod",
+      "address": "1022 Knight Road    Joel ton Tn",
+      "count": 11
+    },
+    {
+      "locationId": "9049",
+      "name": "Pleasant Hill Pinranch",
+      "address": "7698 Reynoldsburg Rd Springville, TN",
+      "count": 9
+    },
+    {
+      "locationId": "11567",
+      "name": "Up-Down",
+      "address": "927 Woodland Street, Nashville, TN 37206, US",
+      "count": 9
+    },
+    {
+      "locationId": "7156",
+      "name": "No Quarter",
+      "address": "922 Main St, Nashville, TN 37206, USA",
+      "count": 5
+    },
+    {
+      "locationId": "10074",
+      "name": "Hot rod arcade",
+      "address": "1022 knight road Joelton tn",
+      "count": 3
+    },
+    {
+      "locationId": "11760",
+      "name": "High Score Saloon",
+      "address": "309 Main St, Evansville, IN, 47708, US",
+      "count": 3
+    },
+    {
+      "locationId": "13244",
+      "name": "City Oasis",
+      "address": "1103 Kirkwood Ave. Murfreesboro TN 37130",
+      "count": 3
+    },
+    {
+      "locationId": "11389",
+      "name": "Quarter Bandits Arcade",
+      "address": "4910 Main St, Spring Hill, TN, 37174, US",
+      "count": 2
+    },
+    {
+      "locationId": "13707",
+      "name": "Hub Haus",
+      "address": "109 S. Main Street , Elizabethtown KY. 42701",
+      "count": 2
+    }
+  ],
+  "players": [
+    {
+      "id": "m34634",
+      "name": "Nicole beck",
+      "rating": 1539.04,
+      "rd": 17.53,
+      "ratingClass": "B",
+      "homeLocation": "Game Galaxy Arcade",
+      "homeLocationId": "3448",
+      "percentile": 62.73349792705082,
+      "changeDisplay": "-3.9",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m21055",
+      "name": "Sara Yoder",
+      "rating": 1535.35,
+      "rd": 18.98,
+      "ratingClass": "B",
+      "homeLocation": "Game Galaxy Arcade",
+      "homeLocationId": "3448",
+      "percentile": 61.126380025154894,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m25384",
+      "name": "Kathy Adler",
+      "rating": 1534.19,
+      "rd": 17.83,
+      "ratingClass": "B",
+      "homeLocation": "Game Galaxy Arcade",
+      "homeLocationId": "3448",
+      "percentile": 60.67452368752038,
+      "changeDisplay": "-2.8",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m19549",
+      "name": "Bonnie Aldcroft-Curran",
+      "rating": 1485.14,
+      "rd": 29.5,
+      "ratingClass": "C",
+      "homeLocation": "No Quarter",
+      "homeLocationId": "7156",
+      "percentile": 40.941910839893794,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m34913",
+      "name": "Hillory Springer",
+      "rating": 1428.55,
+      "rd": 32.64,
+      "ratingClass": "C",
+      "homeLocation": "Up-Down",
+      "homeLocationId": "11567",
+      "percentile": 20.14254437042903,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m58990",
+      "name": "Kimberly Farmer",
+      "rating": 1334.09,
+      "rd": 37.84,
+      "ratingClass": "D",
+      "homeLocation": "Pleasant Hill Pinranch",
+      "homeLocationId": "9049",
+      "percentile": 2.748404527880002,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

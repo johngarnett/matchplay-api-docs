@@ -1,0 +1,102 @@
+{
+  "tournamentId": 264472,
+  "name": "Experience Social - OPA Weekly Jul 29 2026",
+  "date": "2026-07-30",
+  "locationId": "13569",
+  "locationName": "Experience Social - Ottawa Pinball Arcade",
+  "playerCount": 13,
+  "ratingsDate": "2026-07-30",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "i26574",
+      "name": "Steve Powell",
+      "rating": 1611.01,
+      "dailyRatingChange": 10.31
+    },
+    {
+      "position": 2,
+      "playerId": "i93702",
+      "name": "Jesse Devine",
+      "rating": 1603.57,
+      "dailyRatingChange": 5.04
+    },
+    {
+      "position": 3,
+      "playerId": "i54102",
+      "name": "Ross Cicchini",
+      "rating": 1669.61,
+      "dailyRatingChange": -2.13
+    },
+    {
+      "position": 4,
+      "playerId": "m6355",
+      "name": "Steve Tremblay",
+      "rating": 1633.36,
+      "dailyRatingChange": -2.24
+    },
+    {
+      "position": 5,
+      "playerId": "i132524",
+      "name": "Sam Tweedle",
+      "rating": 1438.11,
+      "dailyRatingChange": 9.66
+    },
+    {
+      "position": 6,
+      "playerId": "m25047",
+      "name": "James Devine",
+      "rating": 1478.63,
+      "dailyRatingChange": 2.62
+    },
+    {
+      "position": 6,
+      "playerId": "i106723",
+      "name": "Kory Sculthorpe",
+      "rating": 1387.7,
+      "dailyRatingChange": 10.46
+    },
+    {
+      "position": 8,
+      "playerId": "m27156",
+      "name": "Matt Aumont",
+      "rating": 1526.43,
+      "dailyRatingChange": -2.3
+    },
+    {
+      "position": 8,
+      "playerId": "i103051",
+      "name": "Evan Jesty",
+      "rating": 1542.43,
+      "dailyRatingChange": -5.84
+    },
+    {
+      "position": 10,
+      "playerId": "i101854",
+      "name": "Charles Barabe",
+      "rating": 1495.05,
+      "dailyRatingChange": -9.21
+    },
+    {
+      "position": 10,
+      "playerId": "m56841",
+      "name": "Chris Dugmore DJ SPIN",
+      "rating": 1528.11,
+      "dailyRatingChange": -5.16
+    },
+    {
+      "position": 10,
+      "playerId": "i106720",
+      "name": "Sophia Sculthorpe",
+      "rating": 1440.28,
+      "dailyRatingChange": -6
+    },
+    {
+      "position": 13,
+      "playerId": "i100482",
+      "name": "Henry Aumont",
+      "rating": 1497.11,
+      "dailyRatingChange": -19.01
+    }
+  ]
+}

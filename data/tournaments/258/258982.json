@@ -1,0 +1,95 @@
+{
+  "tournamentId": 258982,
+  "name": "D1 Transformers Pinball Launch Party 7-29-26",
+  "date": "2026-07-30",
+  "locationId": "5202",
+  "locationName": "District 1 Brewing Company",
+  "playerCount": 12,
+  "ratingsDate": "2026-07-30",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m16101",
+      "name": "Matt McCarty",
+      "rating": 1674.05,
+      "dailyRatingChange": 3.04
+    },
+    {
+      "position": 2,
+      "playerId": "i65116",
+      "name": "Joe Hartjes",
+      "rating": 1587.85,
+      "dailyRatingChange": 50.02
+    },
+    {
+      "position": 3,
+      "playerId": "i73504",
+      "name": "Reed Hartjes",
+      "rating": 1644.51,
+      "dailyRatingChange": -4.43
+    },
+    {
+      "position": 3,
+      "playerId": "m32477",
+      "name": "Hunter Neidermann",
+      "rating": 1613.27,
+      "dailyRatingChange": -13.51
+    },
+    {
+      "position": 5,
+      "playerId": "i87051",
+      "name": "Shaina Shatters",
+      "rating": 1554.45,
+      "dailyRatingChange": 19.9
+    },
+    {
+      "position": 6,
+      "playerId": "m16701",
+      "name": "Scott Hintze",
+      "rating": 1539.26,
+      "dailyRatingChange": 17.41
+    },
+    {
+      "position": 6,
+      "playerId": "m409067",
+      "name": "Brody Brunner",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 8,
+      "playerId": "m551585",
+      "name": "Andy Sutton",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 8,
+      "playerId": "i5164",
+      "name": "Ed Owens",
+      "rating": 1514.83,
+      "dailyRatingChange": -21.34
+    },
+    {
+      "position": 10,
+      "playerId": "m17904",
+      "name": "Steve Dix",
+      "rating": 1434.31,
+      "dailyRatingChange": 5.69
+    },
+    {
+      "position": 11,
+      "playerId": "m34254",
+      "name": "John Zalewski",
+      "rating": 1449.26,
+      "dailyRatingChange": -17.64
+    },
+    {
+      "position": 12,
+      "playerId": "i73507",
+      "name": "Baylee Hartjes",
+      "rating": 1356.28,
+      "dailyRatingChange": -70.36
+    }
+  ]
+}

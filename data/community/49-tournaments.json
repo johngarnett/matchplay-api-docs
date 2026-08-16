@@ -1,0 +1,295 @@
+{
+  "communityId": "49",
+  "locations": [
+    {
+      "id": "11549",
+      "name": "Flight Deck NC",
+      "address": "9521 Lumley Rd, Morrisville, NC 27560, US",
+      "tournaments": [
+        {
+          "id": 265777,
+          "name": "Raleighwood Heat 2026-Women’s Tournament",
+          "date": "8/14/2026",
+          "playerCount": 17,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m47782",
+              "name": "Leslie McCallon 2",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m36044",
+              "name": "Noelle Rousseau",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m51684",
+              "name": "Lauren Green",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m1933",
+              "name": "Joan McCool",
+              "isCommunityMember": true
+            }
+          ]
+        },
+        {
+          "id": 263077,
+          "name": "Raleighwood Heat 2026 - Side Tournament",
+          "date": "8/13/2026",
+          "playerCount": 48,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m1663",
+              "name": "Bryan Caudill",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m20650",
+              "name": "Matthew Stapleton NC",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m8888",
+              "name": "Jeremy Weaver",
+              "isCommunityMember": false
+            },
+            {
+              "position": 3,
+              "playerId": "m23956",
+              "name": "Miles Bradley",
+              "isCommunityMember": true
+            }
+          ]
+        },
+        {
+          "id": 266094,
+          "name": "AUGUST Even Odds - Classics & DMD Matchplay",
+          "date": "8/9/2026",
+          "playerCount": 17,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m3633",
+              "name": "Morgan Grimes",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m32966",
+              "name": "Michael Casey",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m20650",
+              "name": "Matthew Stapleton NC",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m37557",
+              "name": "Gabriel Josset",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m62764",
+              "name": "Tim Wheaton",
+              "isCommunityMember": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "13474",
+      "name": "Greensboro Pinball Museum",
+      "address": "2140 Lawndale Dr, Greensboro, NC 27408, US",
+      "tournaments": [
+        {
+          "id": 264800,
+          "name": "GSO Pinball League Season 1 #1",
+          "date": "8/9/2026",
+          "playerCount": 13,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m60001",
+              "name": "Jeremy Hakes",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m8888",
+              "name": "Jeremy Weaver",
+              "isCommunityMember": false
+            },
+            {
+              "position": 3,
+              "playerId": "m3090",
+              "name": "Drew Cedolia",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "i73999",
+              "name": "Scott Berry",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m30520",
+              "name": "Stephen Kulin",
+              "isCommunityMember": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8072",
+      "name": "Level 256 Classic Arcade Bar",
+      "address": "79 Coxe Ave, Asheville, NC, 28801, US",
+      "tournaments": [
+        {
+          "id": 266270,
+          "name": "Level 256 Weekly Knockout - 8/9/2026",
+          "date": "8/9/2026",
+          "playerCount": 23,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m13906",
+              "name": "Adam Bowman",
+              "isCommunityMember": false
+            },
+            {
+              "position": 2,
+              "playerId": "m8906",
+              "name": "Shawn Scott Smith",
+              "isCommunityMember": false
+            },
+            {
+              "position": 3,
+              "playerId": "m31837",
+              "name": "Andrew Spillios",
+              "isCommunityMember": false
+            },
+            {
+              "position": 3,
+              "playerId": "m16926",
+              "name": "Mike Talmarkes",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m28580",
+              "name": "Steve Lane",
+              "isCommunityMember": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8955",
+      "name": "Roshambo Beverage Company",
+      "address": "231 South East Street, Raleigh, NC 27601, US",
+      "tournaments": [
+        {
+          "id": 266461,
+          "name": "Triangle Belles & Chimes - August Roshambo 2026",
+          "date": "8/10/2026",
+          "playerCount": 7,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m47782",
+              "name": "Leslie McCallon",
+              "isCommunityMember": true
+            },
+            {
+              "position": 1,
+              "playerId": "m29858",
+              "name": "Elia Lake",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m23550",
+              "name": "Kat Lake",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m2939",
+              "name": "Meredith Fowler",
+              "isCommunityMember": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "unknown",
+      "name": "Unknown Location",
+      "address": "",
+      "tournaments": [
+        {
+          "id": 266454,
+          "name": "DJ'S Dive Monday Night Pinball",
+          "date": "8/10/2026",
+          "playerCount": 6,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m6118",
+              "name": "Samantha Bacon",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m37830",
+              "name": "Steve Bevilacqua",
+              "isCommunityMember": false
+            },
+            {
+              "position": 3,
+              "playerId": "p586228",
+              "name": "Chase",
+              "isCommunityMember": false
+            },
+            {
+              "position": 4,
+              "playerId": "m37832",
+              "name": "Tessa Bevilacqua",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "p586229",
+              "name": "Mary",
+              "isCommunityMember": false
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

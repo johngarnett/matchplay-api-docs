@@ -1,0 +1,305 @@
+{
+  "tournamentId": 259260,
+  "name": "MFPinball Summer Season 26 #5",
+  "date": "2026-08-04",
+  "locationId": "6612",
+  "locationName": "Lynn's Arcade: A Pinball Parlor and Can Slangery",
+  "playerCount": 42,
+  "ratingsDate": "2026-08-04",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m3108",
+      "name": "John Tracey",
+      "rating": 1697.37,
+      "dailyRatingChange": 4.05
+    },
+    {
+      "position": 1,
+      "playerId": "m52231",
+      "name": "David Warner",
+      "rating": 1619.87,
+      "dailyRatingChange": 21.13
+    },
+    {
+      "position": 3,
+      "playerId": "m21063",
+      "name": "Andreina Ramirez",
+      "rating": 1504.45,
+      "dailyRatingChange": 12.75
+    },
+    {
+      "position": 3,
+      "playerId": "m334",
+      "name": "Michael Mattsson",
+      "rating": 1684.84,
+      "dailyRatingChange": 4.21
+    },
+    {
+      "position": 5,
+      "playerId": "m12915",
+      "name": "Eric Garcia",
+      "rating": 1621.93,
+      "dailyRatingChange": 3.03
+    },
+    {
+      "position": 6,
+      "playerId": "m25875",
+      "name": "Vincent Dane",
+      "rating": 1506.61,
+      "dailyRatingChange": 45.95
+    },
+    {
+      "position": 6,
+      "playerId": "m21217",
+      "name": "Harry Franklin",
+      "rating": 1559.73,
+      "dailyRatingChange": 7.51
+    },
+    {
+      "position": 6,
+      "playerId": "m4141",
+      "name": "Philip Priddy",
+      "rating": 1630.22,
+      "dailyRatingChange": 3
+    },
+    {
+      "position": 6,
+      "playerId": "m6045",
+      "name": "Mike Hubbard",
+      "rating": 1597.74,
+      "dailyRatingChange": 4.87
+    },
+    {
+      "position": 6,
+      "playerId": "m31319",
+      "name": "Kevin Johnston",
+      "rating": 1633.89,
+      "dailyRatingChange": 4.9
+    },
+    {
+      "position": 11,
+      "playerId": "m27132",
+      "name": "Mitch Fadem",
+      "rating": 1555.5,
+      "dailyRatingChange": 5.31
+    },
+    {
+      "position": 11,
+      "playerId": "m17857",
+      "name": "Matt Delsman",
+      "rating": 1638.27,
+      "dailyRatingChange": -1
+    },
+    {
+      "position": 11,
+      "playerId": "m10235",
+      "name": "BeeOtch Westrum",
+      "rating": 1582.59,
+      "dailyRatingChange": 0.23
+    },
+    {
+      "position": 11,
+      "playerId": "m4414",
+      "name": "Xavier Marin",
+      "rating": 1673.92,
+      "dailyRatingChange": -1.73
+    },
+    {
+      "position": 11,
+      "playerId": "m8185",
+      "name": "Jaclyn Tingco",
+      "rating": 1596.25,
+      "dailyRatingChange": 0.76
+    },
+    {
+      "position": 16,
+      "playerId": "m60214",
+      "name": "Pete Lee",
+      "rating": 1540.58,
+      "dailyRatingChange": 1.23
+    },
+    {
+      "position": 16,
+      "playerId": "m4762",
+      "name": "Sneha Kolar",
+      "rating": 1504.21,
+      "dailyRatingChange": 2.98
+    },
+    {
+      "position": 16,
+      "playerId": "m25049",
+      "name": "Amy Wolfrum",
+      "rating": 1574.53,
+      "dailyRatingChange": 0.04
+    },
+    {
+      "position": 16,
+      "playerId": "m22564",
+      "name": "Matt Nielsen",
+      "rating": 1633.51,
+      "dailyRatingChange": -2.29
+    },
+    {
+      "position": 16,
+      "playerId": "m60",
+      "name": "Cary Carmichael",
+      "rating": 1603.12,
+      "dailyRatingChange": -1.28
+    },
+    {
+      "position": 16,
+      "playerId": "m50075",
+      "name": "Dean Wools",
+      "rating": 1545.04,
+      "dailyRatingChange": -1.65
+    },
+    {
+      "position": 22,
+      "playerId": "m21218",
+      "name": "Anthony Garcia CA",
+      "rating": 1566.44,
+      "dailyRatingChange": -1.26
+    },
+    {
+      "position": 23,
+      "playerId": "m26039",
+      "name": "Vincent Ruggiero",
+      "rating": 1527.08,
+      "dailyRatingChange": -1.3
+    },
+    {
+      "position": 23,
+      "playerId": "m59833",
+      "name": "Colin Dyson",
+      "rating": 1470.68,
+      "dailyRatingChange": -0.05
+    },
+    {
+      "position": 23,
+      "playerId": "m58472",
+      "name": "David Seagal",
+      "rating": 1483.96,
+      "dailyRatingChange": 4.14
+    },
+    {
+      "position": 23,
+      "playerId": "m254389",
+      "name": "Danica Delsman",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 23,
+      "playerId": "m52019",
+      "name": "Banyan Wools",
+      "rating": 1584.13,
+      "dailyRatingChange": -5.28
+    },
+    {
+      "position": 28,
+      "playerId": "m10713",
+      "name": "Ikela Lagapa",
+      "rating": 1497.31,
+      "dailyRatingChange": -0.32
+    },
+    {
+      "position": 29,
+      "playerId": "m29260",
+      "name": "Wade Violini",
+      "rating": 1452.53,
+      "dailyRatingChange": -3.05
+    },
+    {
+      "position": 29,
+      "playerId": "m532879",
+      "name": "Nando Neira",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 29,
+      "playerId": "m53318",
+      "name": "Robert James",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 32,
+      "playerId": "i76288",
+      "name": "Paul Seagal",
+      "rating": 1554.07,
+      "dailyRatingChange": -11.19
+    },
+    {
+      "position": 32,
+      "playerId": "m33700",
+      "name": "Terrie White",
+      "rating": 1497.44,
+      "dailyRatingChange": -2.58
+    },
+    {
+      "position": 34,
+      "playerId": "i34623",
+      "name": "Joshua Phillips",
+      "rating": 1373.72,
+      "dailyRatingChange": 4.11
+    },
+    {
+      "position": 34,
+      "playerId": "m6943",
+      "name": "Dexter Farm",
+      "rating": 1548.61,
+      "dailyRatingChange": -9.77
+    },
+    {
+      "position": 34,
+      "playerId": "m584336",
+      "name": "Rosa Acosta",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 37,
+      "playerId": "m38922",
+      "name": "Aaron Villegas",
+      "rating": 1404.35,
+      "dailyRatingChange": -3.24
+    },
+    {
+      "position": 37,
+      "playerId": "m14455",
+      "name": "Barrett Lindstrom",
+      "rating": 1546.69,
+      "dailyRatingChange": -9.82
+    },
+    {
+      "position": 37,
+      "playerId": "m19871",
+      "name": "Melina Meltzer",
+      "rating": 1510.2,
+      "dailyRatingChange": -3.02
+    },
+    {
+      "position": 40,
+      "playerId": "m52457",
+      "name": "Greg Perkins",
+      "rating": 1481.05,
+      "dailyRatingChange": -7.87
+    },
+    {
+      "position": 41,
+      "playerId": "m7178",
+      "name": "Jasmine Phillips",
+      "rating": 1441.86,
+      "dailyRatingChange": -7.61
+    },
+    {
+      "position": 42,
+      "playerId": "m26518",
+      "name": "Jim Dismukes",
+      "rating": 1489.18,
+      "dailyRatingChange": -20.1
+    }
+  ]
+}

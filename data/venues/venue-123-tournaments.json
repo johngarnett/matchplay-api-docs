@@ -1,0 +1,40 @@
+{
+  "locationId": "123",
+  "venueName": "House of TARG",
+  "venueAddress": "1077 Bank St, Ottawa, ON K1S, Canada",
+  "tournaments": [
+    {
+      "id": 255423,
+      "name": "Monthly Tournament at House of TARG",
+      "date": "7/22/2026",
+      "playerCount": 20,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m27378",
+          "name": "Paul Bakker",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m56841",
+          "name": "Chris Dugmore",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m27593",
+          "name": "LC Buckingham",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m16215",
+          "name": "Sean Baizana",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

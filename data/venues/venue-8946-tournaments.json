@@ -1,0 +1,114 @@
+{
+  "locationId": "8946",
+  "venueName": "Craft And Draft Irmo",
+  "venueAddress": "7583 Saint Andrews Road, Irmo, SC 29063, US",
+  "tournaments": [
+    {
+      "id": 265371,
+      "name": "Finals for Summer Showdown",
+      "date": "8/3/2026",
+      "playerCount": 8,
+      "qualifying": {
+        "id": 260966,
+        "name": "Summer Showdown",
+        "playerCount": 28
+      },
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m22349",
+          "name": "Andrew Foard",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m35070",
+          "name": "Brianna Horrell",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m18180",
+          "name": "Michael Egbert",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m30794",
+          "name": "DJ Crawford",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 257746,
+      "name": "Finals for Cola Belles and Chimes Ladies Summer League",
+      "date": "7/30/2026",
+      "playerCount": 16,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m39144",
+          "name": "Kristen Weirich",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m24008",
+          "name": "Allison Brillhart",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m18463",
+          "name": "Erin Sweeney",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m23592",
+          "name": "Ansley Green",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 229187,
+      "name": "Finals for Craft and Draft monthly tournament (July)",
+      "date": "7/19/2026",
+      "playerCount": 16,
+      "qualifying": {
+        "id": 220582,
+        "name": "Craft and Draft monthly tournament (July)",
+        "playerCount": 46
+      },
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m22349",
+          "name": "Andrew Foard",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m30876",
+          "name": "Christopher Habrelewicz",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m9093",
+          "name": "Todd Reynolds",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m34807",
+          "name": "Jason Burleson",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

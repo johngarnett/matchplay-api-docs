@@ -1,0 +1,39 @@
+{
+  "tournamentId": 264249,
+  "name": "B Finals for Brisbane Pinball Club 11/08/2026",
+  "date": "2026-08-11",
+  "locationId": "7371",
+  "locationName": "Netherworld",
+  "playerCount": 4,
+  "ratingsDate": "2026-08-11",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m36071",
+      "name": "Will Stinson",
+      "rating": 1531.54,
+      "dailyRatingChange": 9.01
+    },
+    {
+      "position": 2,
+      "playerId": "m4807",
+      "name": "Bobby Rein",
+      "rating": 1631.74,
+      "dailyRatingChange": -3.17
+    },
+    {
+      "position": 3,
+      "playerId": "m3782",
+      "name": "Ross Pattison",
+      "rating": 1535.72,
+      "dailyRatingChange": -0.04
+    },
+    {
+      "position": 4,
+      "playerId": "m4669",
+      "name": "Dan Olejniczak",
+      "rating": 1561.53,
+      "dailyRatingChange": -4.01
+    }
+  ]
+}

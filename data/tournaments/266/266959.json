@@ -1,0 +1,81 @@
+{
+  "tournamentId": 266959,
+  "name": "Midtown Bar Thursday Matchplay 8/13",
+  "date": "2026-08-14",
+  "locationId": "5593",
+  "locationName": "Midtown Bar & Grill",
+  "playerCount": 10,
+  "ratingsDate": null,
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m17129",
+      "name": "Drew Smith",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 2,
+      "playerId": "m40999",
+      "name": "John Schollmeyer",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 3,
+      "playerId": "i113323",
+      "name": "Terry Thorsten",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 4,
+      "playerId": "m40510",
+      "name": "Paul Obrien",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 5,
+      "playerId": "i150270",
+      "name": "Casey Bateman",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 6,
+      "playerId": "i114276",
+      "name": "Kevin Reishus",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 7,
+      "playerId": "m23871",
+      "name": "Tony Kramer",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 8,
+      "playerId": "i96594",
+      "name": "Gabe Schmidt",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 9,
+      "playerId": "i121697",
+      "name": "Justin Backes",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 10,
+      "playerId": "m18721",
+      "name": "Curtis Kranz",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "tournamentId": 264310,
+  "name": "Acadiana Pinball League - Season 1 - Round 3",
+  "date": "2026-07-29",
+  "locationId": "11276",
+  "locationName": "Bayou Teche Brewing",
+  "playerCount": 12,
+  "ratingsDate": "2026-07-29",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m48527",
+      "name": "Shane Fontenot",
+      "rating": 1625.01,
+      "dailyRatingChange": 10.77
+    },
+    {
+      "position": 2,
+      "playerId": "m454798",
+      "name": "coyo showz",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 3,
+      "playerId": "m56451",
+      "name": "Josh M.",
+      "rating": 1446.69,
+      "dailyRatingChange": 5.59
+    },
+    {
+      "position": 3,
+      "playerId": "m24680",
+      "name": "Bennett Dungan",
+      "rating": 1633.55,
+      "dailyRatingChange": -1.07
+    },
+    {
+      "position": 5,
+      "playerId": "m578560",
+      "name": "Jared Henry",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 5,
+      "playerId": "m48531",
+      "name": "Michael Burrow",
+      "rating": 1527.21,
+      "dailyRatingChange": 1.49
+    },
+    {
+      "position": 7,
+      "playerId": "m582652",
+      "name": "Tiffany Gauthier",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 8,
+      "playerId": "i143489",
+      "name": "Donna Fontenot",
+      "rating": 1431.04,
+      "dailyRatingChange": -1.52
+    },
+    {
+      "position": 8,
+      "playerId": "i145337",
+      "name": "Shelley Fritz",
+      "rating": 1329.08,
+      "dailyRatingChange": 3.76
+    },
+    {
+      "position": 8,
+      "playerId": "m582653",
+      "name": "Brett Gauthier",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 11,
+      "playerId": "m467720",
+      "name": "Huey Wyble",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 12,
+      "playerId": "i145335",
+      "name": "Michael Daniels",
+      "rating": 1422.7,
+      "dailyRatingChange": -17.07
+    }
+  ]
+}

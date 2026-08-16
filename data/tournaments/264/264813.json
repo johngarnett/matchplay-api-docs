@@ -1,0 +1,137 @@
+{
+  "tournamentId": 264813,
+  "name": "Prescott Pinball League - Season 1 - Week 3",
+  "date": "2026-08-07",
+  "locationId": "13804",
+  "locationName": "Park Plaza Liquor & Deli",
+  "playerCount": 18,
+  "ratingsDate": "2026-08-07",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m582822",
+      "name": "Ian Coony",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 2,
+      "playerId": "m62450",
+      "name": "Tom Stoxen",
+      "rating": 1578.61,
+      "dailyRatingChange": null
+    },
+    {
+      "position": 2,
+      "playerId": "m62469",
+      "name": "Steve Huddleston",
+      "rating": 1558.52,
+      "dailyRatingChange": 49.54
+    },
+    {
+      "position": 2,
+      "playerId": "m582817",
+      "name": "Lisa Huddleston",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 5,
+      "playerId": "m62436",
+      "name": "Sara Marie Berry",
+      "rating": 1479.85,
+      "dailyRatingChange": 44.67
+    },
+    {
+      "position": 5,
+      "playerId": "m60743",
+      "name": "Justin Leonard",
+      "rating": 1623.95,
+      "dailyRatingChange": -12.33
+    },
+    {
+      "position": 7,
+      "playerId": "m62423",
+      "name": "Larry Russo",
+      "rating": 1546.6,
+      "dailyRatingChange": -0.28
+    },
+    {
+      "position": 8,
+      "playerId": "m583166",
+      "name": "Greg Purcell",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 8,
+      "playerId": "m62600",
+      "name": "Bradley Nelson",
+      "rating": 1499.14,
+      "dailyRatingChange": null
+    },
+    {
+      "position": 10,
+      "playerId": "m585075",
+      "name": "Daniel Ghan",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 11,
+      "playerId": "m584263",
+      "name": "James Siart",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 11,
+      "playerId": "m62483",
+      "name": "JD",
+      "rating": 1521.29,
+      "dailyRatingChange": -21.56
+    },
+    {
+      "position": 13,
+      "playerId": "m583247",
+      "name": "Sue Prario",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 13,
+      "playerId": "m62432",
+      "name": "Jailene Leonard",
+      "rating": 1473.65,
+      "dailyRatingChange": -25.93
+    },
+    {
+      "position": 13,
+      "playerId": "m582821",
+      "name": "Wednesday Magdalena",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 16,
+      "playerId": "m583246",
+      "name": "William Prario",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 17,
+      "playerId": "m582819",
+      "name": "Jayla Wall",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 17,
+      "playerId": "m62434",
+      "name": "Teo Wall",
+      "rating": 1417.75,
+      "dailyRatingChange": -29.66
+    }
+  ]
+}

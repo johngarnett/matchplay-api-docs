@@ -1,0 +1,503 @@
+{
+  "locationId": "163",
+  "name": "Shorty's",
+  "address": "",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 36,
+  "relatedVenues": [
+    {
+      "locationId": "1893",
+      "name": "The Ice Box",
+      "address": "615 NW Bright St, Seattle, WA 98107, USA",
+      "count": 213
+    },
+    {
+      "locationId": "8898",
+      "name": "Shorty's",
+      "address": "2222 2nd Avenue, Seattle, WA 98121, US",
+      "count": 208
+    },
+    {
+      "locationId": "7491",
+      "name": "Jupiter Gameroom",
+      "address": "2126 2nd Ave Suite A, Seattle, WA 98121, US",
+      "count": 165
+    },
+    {
+      "locationId": "8582",
+      "name": "ADD-A-Ball",
+      "address": "315 N 36th St, Seattle, WA 98103, US",
+      "count": 58
+    },
+    {
+      "locationId": "9576",
+      "name": "The Kraken Bar & Lounge",
+      "address": "5828 Roosevelt Way NE, Seattle, WA 98105, US",
+      "count": 57
+    },
+    {
+      "locationId": "6346",
+      "name": "NWPAS",
+      "address": "",
+      "count": 46
+    },
+    {
+      "locationId": "8014",
+      "name": "Georgetown Pizza & Arcade",
+      "address": "5513 Airport Way S, Seattle, WA 98108, US",
+      "count": 45
+    },
+    {
+      "locationId": "5959",
+      "name": "Another Castle Arcade Edition Edmonds",
+      "address": "23303 Hwy 99 c, Edmonds, WA 98026, USA",
+      "count": 37
+    },
+    {
+      "locationId": "11192",
+      "name": "Houndstooth Public House",
+      "address": "8551 Greenwood Ave N, Seattle, WA 98103, USA",
+      "count": 20
+    },
+    {
+      "locationId": "9778",
+      "name": "Black Raven Brewing - Woodinville",
+      "address": "15902 Redmond - Woodinville Rd NE, Woodinville, WA 98072, US",
+      "count": 15
+    }
+  ],
+  "players": [
+    {
+      "id": "m1513",
+      "name": "Jarrett Gaddy",
+      "rating": 1747.24,
+      "rd": 18.7,
+      "ratingClass": "Expert",
+      "homeLocation": "The Ice Box",
+      "homeLocationId": "1893",
+      "percentile": 98.64443098709647,
+      "changeDisplay": "+1.8",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m12491",
+      "name": "Alex Skinner",
+      "rating": 1710.52,
+      "rd": 19.2,
+      "ratingClass": "Expert",
+      "homeLocation": "Shorty's",
+      "homeLocationId": "8898",
+      "percentile": 97.19103740625145,
+      "changeDisplay": "-2.0",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m33371",
+      "name": "Owen Weyland",
+      "rating": 1706.11,
+      "rd": 19.86,
+      "ratingClass": "Expert",
+      "homeLocation": "The Ice Box",
+      "homeLocationId": "1893",
+      "percentile": 96.94414683001817,
+      "changeDisplay": "-3.1",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m17561",
+      "name": "Matthew Roggenkamp",
+      "rating": 1693.23,
+      "rd": 20.97,
+      "ratingClass": "A",
+      "homeLocation": "Another Castle Arcade Edition Edmonds",
+      "homeLocationId": "5959",
+      "percentile": 96.14757534820887,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m4451",
+      "name": "Leslie Ruckman",
+      "rating": 1685.35,
+      "rd": 19.11,
+      "ratingClass": "A",
+      "homeLocation": "The Ice Box",
+      "homeLocationId": "1893",
+      "percentile": 95.54665300228258,
+      "changeDisplay": "-0.5",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m28800",
+      "name": "Ryan Slanicka",
+      "rating": 1676.29,
+      "rd": 19.81,
+      "ratingClass": "A",
+      "homeLocation": "The Triple Knock",
+      "homeLocationId": "8474",
+      "percentile": 94.76405645875064,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m3796",
+      "name": "Vincent Sperrazza",
+      "rating": 1669.78,
+      "rd": 23.57,
+      "ratingClass": "A",
+      "homeLocation": "The Ice Box",
+      "homeLocationId": "1893",
+      "percentile": 94.05133460660548,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m11760",
+      "name": "Isabelle Grams",
+      "rating": 1655.68,
+      "rd": 21.75,
+      "ratingClass": "A",
+      "homeLocation": "The Ice Box",
+      "homeLocationId": "1893",
+      "percentile": 92.50943308333721,
+      "changeDisplay": "-5.0",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m20283",
+      "name": "Dan Cevetello",
+      "rating": 1647.9,
+      "rd": 22.83,
+      "ratingClass": "A",
+      "homeLocation": "Houndstooth Public House",
+      "homeLocationId": "11192",
+      "percentile": 91.43802114873992,
+      "changeDisplay": "+3.7",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m14335",
+      "name": "Lee Ford",
+      "rating": 1635.11,
+      "rd": 24.74,
+      "ratingClass": "A",
+      "homeLocation": "The Ice Box",
+      "homeLocationId": "1893",
+      "percentile": 89.48618810266922,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m4747",
+      "name": "Ryan Odonnell CA",
+      "rating": 1634.16,
+      "rd": 24.43,
+      "ratingClass": "A",
+      "homeLocation": "The Ice Box",
+      "homeLocationId": "1893",
+      "percentile": 89.30451390506359,
+      "changeDisplay": "-3.1",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m15569",
+      "name": "Bird Arzoumanian",
+      "rating": 1629.14,
+      "rd": 19.44,
+      "ratingClass": "A",
+      "homeLocation": "The Ice Box",
+      "homeLocationId": "1893",
+      "percentile": 88.41477616807192,
+      "changeDisplay": "-5.2",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m3217",
+      "name": "Brian Chesbrough",
+      "rating": 1627.55,
+      "rd": 20.66,
+      "ratingClass": "A",
+      "homeLocation": "Shorty's",
+      "homeLocationId": "8898",
+      "percentile": 88.06540271113803,
+      "changeDisplay": "-0.4",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m7066",
+      "name": "Chelsie Hulka",
+      "rating": 1627.29,
+      "rd": 24.21,
+      "ratingClass": "A",
+      "homeLocation": "The Ice Box",
+      "homeLocationId": "1893",
+      "percentile": 88.02813620906508,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m38356",
+      "name": "Andrew Meuser",
+      "rating": 1624.92,
+      "rd": 18.75,
+      "ratingClass": "A",
+      "homeLocation": "The Ice Box",
+      "homeLocationId": "1893",
+      "percentile": 87.59491312246705,
+      "changeDisplay": "+0.3",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m44891",
+      "name": "Andrew Furdell",
+      "rating": 1623.85,
+      "rd": 21.64,
+      "ratingClass": "A",
+      "homeLocation": "The Ice Box",
+      "homeLocationId": "1893",
+      "percentile": 87.38063073554758,
+      "changeDisplay": "-1.9",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m797",
+      "name": "Matt Galbraith",
+      "rating": 1606.7,
+      "rd": 22.47,
+      "ratingClass": "A",
+      "homeLocation": "The Ice Box",
+      "homeLocationId": "1893",
+      "percentile": 83.6120557134206,
+      "changeDisplay": "+5.7",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m21668",
+      "name": "Gus Voss",
+      "rating": 1593.31,
+      "rd": 18.38,
+      "ratingClass": "B",
+      "homeLocation": "Shorty's",
+      "homeLocationId": "8898",
+      "percentile": 80.32794521824195,
+      "changeDisplay": "-0.9",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m31886",
+      "name": "Los Rangel",
+      "rating": 1585.02,
+      "rd": 21.79,
+      "ratingClass": "B",
+      "homeLocation": "Jupiter Gameroom",
+      "homeLocationId": "7491",
+      "percentile": 78.0640052173103,
+      "changeDisplay": "-0.4",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m8214",
+      "name": "JEN de jour",
+      "rating": 1566.03,
+      "rd": 33.97,
+      "ratingClass": "B",
+      "homeLocation": "ADD-A-Ball",
+      "homeLocationId": "8582",
+      "percentile": 72.28303908324405,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m12768",
+      "name": "Guadalupe Bryan",
+      "rating": 1563.34,
+      "rd": 20.52,
+      "ratingClass": "B",
+      "homeLocation": "The Ice Box",
+      "homeLocationId": "1893",
+      "percentile": 71.43056784832534,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m40608",
+      "name": "Julie Finco",
+      "rating": 1545.03,
+      "rd": 18.5,
+      "ratingClass": "B",
+      "homeLocation": "The Republic Bottle Shop",
+      "homeLocationId": "6881",
+      "percentile": 64.96482973866866,
+      "changeDisplay": "+6.8",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m30748",
+      "name": "Andrew Stauffer",
+      "rating": 1530.27,
+      "rd": 22.5,
+      "ratingClass": "B",
+      "homeLocation": "Shorty's",
+      "homeLocationId": "8898",
+      "percentile": 59.15591372804771,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m32272",
+      "name": "Hunter Vogt",
+      "rating": 1526.93,
+      "rd": 18.87,
+      "ratingClass": "B",
+      "homeLocation": "The Ice Box",
+      "homeLocationId": "1893",
+      "percentile": 57.80966134066241,
+      "changeDisplay": "+7.3",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m20230",
+      "name": "Ryan Tamm",
+      "rating": 1526.63,
+      "rd": 23.78,
+      "ratingClass": "B",
+      "homeLocation": "Shorty's",
+      "homeLocationId": "8898",
+      "percentile": 57.697861834443565,
+      "changeDisplay": "-2.7",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m40409",
+      "name": "Todd Finco",
+      "rating": 1519.19,
+      "rd": 21.46,
+      "ratingClass": "B",
+      "homeLocation": "Crave 80s",
+      "homeLocationId": "13531",
+      "percentile": 54.82834117482648,
+      "changeDisplay": "-1.4",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m7059",
+      "name": "Dwayne Collins",
+      "rating": 1518.38,
+      "rd": 20.99,
+      "ratingClass": "B",
+      "homeLocation": "Jupiter Gameroom",
+      "homeLocationId": "7491",
+      "percentile": 54.54884240927937,
+      "changeDisplay": "+5.8",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m39959",
+      "name": "Gage Glupker",
+      "rating": 1512.33,
+      "rd": 28.59,
+      "ratingClass": "B",
+      "homeLocation": "The Kraken Bar & Lounge",
+      "homeLocationId": "9576",
+      "percentile": 52.12186146177854,
+      "changeDisplay": "+0.1",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m28733",
+      "name": "Jette Chhoun",
+      "rating": 1501.25,
+      "rd": 28.56,
+      "ratingClass": "B",
+      "homeLocation": "NWPAS",
+      "homeLocationId": "6346",
+      "percentile": 47.64522290026552,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m25914",
+      "name": "William Scott Jordan",
+      "rating": 1500.41,
+      "rd": 30.86,
+      "ratingClass": "B",
+      "homeLocation": "ADD-A-Ball",
+      "homeLocationId": "8582",
+      "percentile": 47.24460800298132,
+      "changeDisplay": "+4.2",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m45593",
+      "name": "Mae Collin",
+      "rating": 1488.5,
+      "rd": 18.23,
+      "ratingClass": "C",
+      "homeLocation": "Jupiter Gameroom",
+      "homeLocationId": "7491",
+      "percentile": 42.35803791866586,
+      "changeDisplay": "+7.7",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m19401",
+      "name": "Mandy Woodard",
+      "rating": 1481.13,
+      "rd": 22.76,
+      "ratingClass": "C",
+      "homeLocation": "The Ice Box",
+      "homeLocationId": "1893",
+      "percentile": 39.33945125075697,
+      "changeDisplay": "-2.8",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m30905",
+      "name": "Kali Banks",
+      "rating": 1478.64,
+      "rd": 23.83,
+      "ratingClass": "C",
+      "homeLocation": "The Kraken Bar & Lounge",
+      "homeLocationId": "9576",
+      "percentile": 38.417105324451484,
+      "changeDisplay": "+3.3",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m45873",
+      "name": "Keith Spencer WA",
+      "rating": 1446,
+      "rd": 27.99,
+      "ratingClass": "C",
+      "homeLocation": "Shorty's",
+      "homeLocationId": "8898",
+      "percentile": 25.741836306889642,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m55225",
+      "name": "Vincent iannucci",
+      "rating": 1441.07,
+      "rd": 21.64,
+      "ratingClass": "C",
+      "homeLocation": "The Kraken Bar & Lounge",
+      "homeLocationId": "9576",
+      "percentile": 24.102110215679883,
+      "changeDisplay": "-2.5",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m53044",
+      "name": "Jordon Jahns-Budke",
+      "rating": 1390.92,
+      "rd": 25.42,
+      "ratingClass": "D",
+      "homeLocation": "Shorty's",
+      "homeLocationId": "8898",
+      "percentile": 10.462570456980481,
+      "changeDisplay": "-0.3",
+      "changeClass": "change-negative"
+    }
+  ]
+}

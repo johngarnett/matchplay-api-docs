@@ -1,0 +1,67 @@
+{
+  "tournamentId": 263056,
+  "name": "Div B Finals - Tuesday League #4 (clone)",
+  "date": "2026-07-21",
+  "locationId": "10800",
+  "locationName": "Illawarra Pinball Clubhouse",
+  "playerCount": 8,
+  "ratingsDate": "2026-07-21",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "i135590",
+      "name": "Corben Stanford",
+      "rating": 1520.83,
+      "dailyRatingChange": 12.24
+    },
+    {
+      "position": 2,
+      "playerId": "m26170",
+      "name": "Murray Boyce",
+      "rating": 1620.91,
+      "dailyRatingChange": 0.11
+    },
+    {
+      "position": 3,
+      "playerId": "m57825",
+      "name": "Daniel Titcume",
+      "rating": 1540.76,
+      "dailyRatingChange": -6.15
+    },
+    {
+      "position": 4,
+      "playerId": "m351511",
+      "name": "Tim Clark AUS",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 5,
+      "playerId": "i123565",
+      "name": "Chad Mac",
+      "rating": 1483.16,
+      "dailyRatingChange": 2.85
+    },
+    {
+      "position": 6,
+      "playerId": "m39452",
+      "name": "Dan Craze",
+      "rating": 1561.44,
+      "dailyRatingChange": -2.19
+    },
+    {
+      "position": 7,
+      "playerId": "m570341",
+      "name": "Jeremy Moir",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 8,
+      "playerId": "m570340",
+      "name": "Jayden Copping",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

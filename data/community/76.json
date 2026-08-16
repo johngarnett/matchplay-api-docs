@@ -1,0 +1,40 @@
+{
+  "communityId": "76",
+  "playerCount": 2,
+  "ratingsDate": "2026-08-12",
+  "relatedCommunities": [],
+  "topVenues": [
+    {
+      "locationId": "unknown",
+      "name": "Unknown",
+      "address": "",
+      "count": 2
+    }
+  ],
+  "players": [
+    {
+      "id": "m32295",
+      "name": "Pete Tomaszek",
+      "rating": 1545.75,
+      "rd": 51.88,
+      "ratingClass": "B",
+      "homeLocation": "N/A",
+      "homeLocationId": null,
+      "percentile": 65.22103694042019,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m39132",
+      "name": "Matthew Hodges",
+      "rating": 1468.76,
+      "rd": 50.7,
+      "ratingClass": "C",
+      "homeLocation": "N/A",
+      "homeLocationId": null,
+      "percentile": 34.36903153677738,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

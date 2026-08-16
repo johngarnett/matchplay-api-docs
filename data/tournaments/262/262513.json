@@ -1,0 +1,60 @@
+{
+  "tournamentId": 262513,
+  "name": "Panhandle Pinettes Summer Series - July 25",
+  "date": "2026-07-25",
+  "locationId": "13672",
+  "locationName": "Mountaineer Meat Smokers",
+  "playerCount": 7,
+  "ratingsDate": "2026-07-25",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m29440",
+      "name": "Alex Brackett",
+      "rating": 1629.42,
+      "dailyRatingChange": 0.9
+    },
+    {
+      "position": 2,
+      "playerId": "m42806",
+      "name": "Melissa Hienkle",
+      "rating": 1462.51,
+      "dailyRatingChange": 5.69
+    },
+    {
+      "position": 3,
+      "playerId": "i154670",
+      "name": "Adria Spikes",
+      "rating": 1442.21,
+      "dailyRatingChange": 16.28
+    },
+    {
+      "position": 4,
+      "playerId": "m25464",
+      "name": "Cindy Brackett",
+      "rating": 1587.55,
+      "dailyRatingChange": -2.92
+    },
+    {
+      "position": 5,
+      "playerId": "m577724",
+      "name": "Tracy Sinclair",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 6,
+      "playerId": "m581778",
+      "name": "Debra Scott",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 7,
+      "playerId": "i162652",
+      "name": "Mariah Shoemaker",
+      "rating": 1373.52,
+      "dailyRatingChange": -17.52
+    }
+  ]
+}

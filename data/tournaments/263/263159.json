@@ -1,0 +1,137 @@
+{
+  "tournamentId": 263159,
+  "name": "Stingray's Stern Army July Match Play",
+  "date": "2026-07-22",
+  "locationId": "7527",
+  "locationName": "Sting Rays Bar And Grill",
+  "playerCount": 18,
+  "ratingsDate": "2026-07-22",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m1540",
+      "name": "Rob Endo",
+      "rating": 1718.41,
+      "dailyRatingChange": 8.84
+    },
+    {
+      "position": 2,
+      "playerId": "m30255",
+      "name": "Matt Odechuck",
+      "rating": 1627.3,
+      "dailyRatingChange": 8.8
+    },
+    {
+      "position": 2,
+      "playerId": "m24211",
+      "name": "Adam Gray",
+      "rating": 1683.71,
+      "dailyRatingChange": 4.27
+    },
+    {
+      "position": 4,
+      "playerId": "m25662",
+      "name": "Andrew Robishaw",
+      "rating": 1596.17,
+      "dailyRatingChange": 4.03
+    },
+    {
+      "position": 4,
+      "playerId": "m46942",
+      "name": "Cleveland Harper",
+      "rating": 1617.17,
+      "dailyRatingChange": -23.62
+    },
+    {
+      "position": 6,
+      "playerId": "m27060",
+      "name": "Fred Cook",
+      "rating": 1610.69,
+      "dailyRatingChange": -1.61
+    },
+    {
+      "position": 7,
+      "playerId": "m56389",
+      "name": "Ed Aborn",
+      "rating": 1532.13,
+      "dailyRatingChange": 6.81
+    },
+    {
+      "position": 8,
+      "playerId": "m60509",
+      "name": "Jason Decarmine",
+      "rating": 1472.93,
+      "dailyRatingChange": 14.71
+    },
+    {
+      "position": 9,
+      "playerId": "m30307",
+      "name": "Michael Brower",
+      "rating": 1543.54,
+      "dailyRatingChange": -20.55
+    },
+    {
+      "position": 9,
+      "playerId": "m356793",
+      "name": "Christian Curry",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 9,
+      "playerId": "i100076",
+      "name": "Mike Matthay",
+      "rating": 1477.46,
+      "dailyRatingChange": 10.7
+    },
+    {
+      "position": 12,
+      "playerId": "m40377",
+      "name": "Ryder Harlin",
+      "rating": 1496.82,
+      "dailyRatingChange": -0.36
+    },
+    {
+      "position": 13,
+      "playerId": "m60510",
+      "name": "Jessica Coiro",
+      "rating": 1471.92,
+      "dailyRatingChange": 1.4
+    },
+    {
+      "position": 13,
+      "playerId": "i96864",
+      "name": "Tom Quigley",
+      "rating": 1521.29,
+      "dailyRatingChange": -3.92
+    },
+    {
+      "position": 13,
+      "playerId": "m566249",
+      "name": "Anthony Brower",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 16,
+      "playerId": "m427073",
+      "name": "Branning Hollis",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 17,
+      "playerId": "i13934",
+      "name": "Mike Hall",
+      "rating": 1479.49,
+      "dailyRatingChange": -18.51
+    },
+    {
+      "position": 18,
+      "playerId": "m33859",
+      "name": "JD Barile",
+      "rating": 1443.29,
+      "dailyRatingChange": -18.51
+    }
+  ]
+}

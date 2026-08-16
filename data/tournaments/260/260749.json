@@ -1,0 +1,81 @@
+{
+  "tournamentId": 260749,
+  "name": "Comic Kingdom Monday Madness 07/20",
+  "date": "2026-07-21",
+  "locationId": "11524",
+  "locationName": "Comic Kingdom",
+  "playerCount": 10,
+  "ratingsDate": "2026-07-21",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m15496",
+      "name": "Michelle Leutzinger",
+      "rating": 1615.83,
+      "dailyRatingChange": 2.64
+    },
+    {
+      "position": 2,
+      "playerId": "m24109",
+      "name": "Cody Laux",
+      "rating": 1644.07,
+      "dailyRatingChange": 3
+    },
+    {
+      "position": 3,
+      "playerId": "m27354",
+      "name": "Tammy Thiel",
+      "rating": 1586.66,
+      "dailyRatingChange": 0.3
+    },
+    {
+      "position": 4,
+      "playerId": "m580395",
+      "name": "Travis Priestley",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 5,
+      "playerId": "m324151",
+      "name": "Megan Laux",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 6,
+      "playerId": "m50326",
+      "name": "Patrick Heath",
+      "rating": 1604.14,
+      "dailyRatingChange": -0.6
+    },
+    {
+      "position": 7,
+      "playerId": "m30230",
+      "name": "Aaron Johnston NV",
+      "rating": 1555.26,
+      "dailyRatingChange": -3.54
+    },
+    {
+      "position": 8,
+      "playerId": "m580383",
+      "name": "Keith York",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 9,
+      "playerId": "m580384",
+      "name": "Fox York",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 10,
+      "playerId": "m576454",
+      "name": "Mike Ryan",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

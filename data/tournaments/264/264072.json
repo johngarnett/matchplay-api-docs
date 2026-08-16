@@ -1,0 +1,256 @@
+{
+  "tournamentId": 264072,
+  "name": "Philly Pinball Club: 2026 Summer Season #2",
+  "date": "2026-08-04",
+  "locationId": "9809",
+  "locationName": "Barcade",
+  "playerCount": 35,
+  "ratingsDate": "2026-08-04",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m27753",
+      "name": "Rocco Shefski",
+      "rating": 1464.44,
+      "dailyRatingChange": 18.26
+    },
+    {
+      "position": 2,
+      "playerId": "i66129",
+      "name": "Matt Uriell",
+      "rating": 1512.38,
+      "dailyRatingChange": 37.12
+    },
+    {
+      "position": 2,
+      "playerId": "m34321",
+      "name": "Erin Y",
+      "rating": 1717.33,
+      "dailyRatingChange": 4.61
+    },
+    {
+      "position": 2,
+      "playerId": "i148403",
+      "name": "Tyler Kramer",
+      "rating": 1606.3,
+      "dailyRatingChange": 8.07
+    },
+    {
+      "position": 5,
+      "playerId": "i144750",
+      "name": "Luke Coffey",
+      "rating": 1502.27,
+      "dailyRatingChange": 14
+    },
+    {
+      "position": 5,
+      "playerId": "m36482",
+      "name": "Joe Cerasi",
+      "rating": 1616.04,
+      "dailyRatingChange": 6.88
+    },
+    {
+      "position": 5,
+      "playerId": "m27587",
+      "name": "Eric Menzel",
+      "rating": 1635.77,
+      "dailyRatingChange": 3.83
+    },
+    {
+      "position": 8,
+      "playerId": "m37447",
+      "name": "Ed Downs",
+      "rating": 1532.48,
+      "dailyRatingChange": 2.89
+    },
+    {
+      "position": 8,
+      "playerId": "m555717",
+      "name": "Ian Glowen",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 8,
+      "playerId": "m30410",
+      "name": "Patrick Mitchell",
+      "rating": 1418.6,
+      "dailyRatingChange": 12.54
+    },
+    {
+      "position": 8,
+      "playerId": "m559629",
+      "name": "Brandon A",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 8,
+      "playerId": "m6530",
+      "name": "Rose Malinowski Weingartner",
+      "rating": 1528.1,
+      "dailyRatingChange": -4.1
+    },
+    {
+      "position": 13,
+      "playerId": "m36765",
+      "name": "Jen Beals",
+      "rating": 1394.91,
+      "dailyRatingChange": 3.72
+    },
+    {
+      "position": 13,
+      "playerId": "m27752",
+      "name": "Tori Gant",
+      "rating": 1453.67,
+      "dailyRatingChange": 5.95
+    },
+    {
+      "position": 13,
+      "playerId": "m13027",
+      "name": "Jason Aschenbach",
+      "rating": 1496.84,
+      "dailyRatingChange": 0.81
+    },
+    {
+      "position": 13,
+      "playerId": "m33864",
+      "name": "Aaron Hamlin",
+      "rating": 1532.82,
+      "dailyRatingChange": 4.54
+    },
+    {
+      "position": 13,
+      "playerId": "m29833",
+      "name": "Alex Haber",
+      "rating": 1503.42,
+      "dailyRatingChange": -1.61
+    },
+    {
+      "position": 13,
+      "playerId": "m23814",
+      "name": "Becca Lipstein",
+      "rating": 1548.34,
+      "dailyRatingChange": -3.34
+    },
+    {
+      "position": 13,
+      "playerId": "m26426",
+      "name": "Felix Sanchez",
+      "rating": 1566.78,
+      "dailyRatingChange": 1.39
+    },
+    {
+      "position": 20,
+      "playerId": "m61516",
+      "name": "Joe Martin",
+      "rating": 1424.04,
+      "dailyRatingChange": 12.88
+    },
+    {
+      "position": 20,
+      "playerId": "m43394",
+      "name": "A Kacmarsky",
+      "rating": 1572.18,
+      "dailyRatingChange": -6.19
+    },
+    {
+      "position": 20,
+      "playerId": "m41718",
+      "name": "Rebecca Solomon",
+      "rating": 1509.81,
+      "dailyRatingChange": -11.62
+    },
+    {
+      "position": 23,
+      "playerId": "m5147",
+      "name": "Brian Weingartner",
+      "rating": 1540.27,
+      "dailyRatingChange": -13.04
+    },
+    {
+      "position": 23,
+      "playerId": "i46365",
+      "name": "Caitlin Reed",
+      "rating": 1383.08,
+      "dailyRatingChange": 4.57
+    },
+    {
+      "position": 23,
+      "playerId": "m29831",
+      "name": "Cammie Storms",
+      "rating": 1424.18,
+      "dailyRatingChange": 3.1
+    },
+    {
+      "position": 23,
+      "playerId": "m40519",
+      "name": "Roger Wolf",
+      "rating": 1452.5,
+      "dailyRatingChange": -2.86
+    },
+    {
+      "position": 27,
+      "playerId": "i106451",
+      "name": "Charles Trulear",
+      "rating": 1455.39,
+      "dailyRatingChange": 4.41
+    },
+    {
+      "position": 28,
+      "playerId": "m525443",
+      "name": "Tyler Smith",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 28,
+      "playerId": "m45813",
+      "name": "Andrea Kellner",
+      "rating": 1307.41,
+      "dailyRatingChange": -1.76
+    },
+    {
+      "position": 30,
+      "playerId": "m26425",
+      "name": "Erica Thomas",
+      "rating": 1486.88,
+      "dailyRatingChange": -11.09
+    },
+    {
+      "position": 31,
+      "playerId": "i144752",
+      "name": "Alex Peters",
+      "rating": 1424.33,
+      "dailyRatingChange": -13.76
+    },
+    {
+      "position": 31,
+      "playerId": "m32503",
+      "name": "Lain Kaplan",
+      "rating": 1572.11,
+      "dailyRatingChange": -22.28
+    },
+    {
+      "position": 31,
+      "playerId": "m559898",
+      "name": "Selene",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 31,
+      "playerId": "i144751",
+      "name": "Miles Roux",
+      "rating": 1337.17,
+      "dailyRatingChange": -17.2
+    },
+    {
+      "position": 35,
+      "playerId": "m61518",
+      "name": "Joseph B",
+      "rating": 1335.19,
+      "dailyRatingChange": -81.45
+    }
+  ]
+}

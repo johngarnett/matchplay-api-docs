@@ -1,0 +1,353 @@
+{
+  "locationId": "9616",
+  "name": "Best Western Plus Chocolate Lake Hotel",
+  "address": "250 Saint Margarets Bay Road, Halifax, NS B3N, CA",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 25,
+  "relatedVenues": [
+    {
+      "locationId": "12732",
+      "name": "Propeller Brewing Company",
+      "address": "2015 Gottingen St, Halifax, NS B3K 3B1, CA",
+      "count": 89
+    },
+    {
+      "locationId": "13524",
+      "name": "Arcade73",
+      "address": "",
+      "count": 24
+    },
+    {
+      "locationId": "11304",
+      "name": "Propeller Arcade",
+      "address": "2015 Gottingen st.",
+      "count": 12
+    },
+    {
+      "locationId": "5388",
+      "name": "June and Tom's",
+      "address": "",
+      "count": 3
+    },
+    {
+      "locationId": "11419",
+      "name": "Xeroz",
+      "address": "234 Saint George Street, Moncton, NB",
+      "count": 3
+    },
+    {
+      "locationId": "10209",
+      "name": "8-Bit Beans",
+      "address": "100 Brock St South, Whitby, ON, L1N 4J8, CA",
+      "count": 1
+    },
+    {
+      "locationId": "10233",
+      "name": "Flippins Bar/Arcade",
+      "address": "375 King St. Fredericton, NB Canada",
+      "count": 1
+    }
+  ],
+  "players": [
+    {
+      "id": "m1638",
+      "name": "Doug Parsons",
+      "rating": 1718.36,
+      "rd": 36.24,
+      "ratingClass": "Expert",
+      "homeLocation": "Best Western Plus Chocolate Lake Hotel",
+      "homeLocationId": "9616",
+      "percentile": 97.56836073974007,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m33304",
+      "name": "Aaron Wallace",
+      "rating": 1630.72,
+      "rd": 27.9,
+      "ratingClass": "A",
+      "homeLocation": "Propeller Brewing Company",
+      "homeLocationId": "12732",
+      "percentile": 88.71290818465552,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m38238",
+      "name": "Andrew Harper",
+      "rating": 1623.04,
+      "rd": 29.21,
+      "ratingClass": "A",
+      "homeLocation": "Propeller Brewing Company",
+      "homeLocationId": "12732",
+      "percentile": 87.24553966553314,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m53342",
+      "name": "Kyle Hillier",
+      "rating": 1604.17,
+      "rd": 31.91,
+      "ratingClass": "A",
+      "homeLocation": "Best Western Plus Chocolate Lake Hotel",
+      "homeLocationId": "9616",
+      "percentile": 82.97386686542134,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m52279",
+      "name": "Mike Gniewek",
+      "rating": 1598.01,
+      "rd": 26.51,
+      "ratingClass": "B",
+      "homeLocation": "Propeller Brewing Company",
+      "homeLocationId": "12732",
+      "percentile": 81.49252340802161,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m35615",
+      "name": "Brian Audain",
+      "rating": 1580.77,
+      "rd": 28.85,
+      "ratingClass": "B",
+      "homeLocation": "Propeller Brewing Company",
+      "homeLocationId": "12732",
+      "percentile": 76.8668188382168,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m5212",
+      "name": "Magen Savary",
+      "rating": 1580.07,
+      "rd": 30.32,
+      "ratingClass": "B",
+      "homeLocation": "Propeller Arcade",
+      "homeLocationId": "11304",
+      "percentile": 76.63390320026086,
+      "changeDisplay": "-3.7",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m15723",
+      "name": "Peter St. George",
+      "rating": 1579.76,
+      "rd": 38.02,
+      "ratingClass": "B",
+      "homeLocation": "Arcade73",
+      "homeLocationId": "13524",
+      "percentile": 76.55005357059673,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m21305",
+      "name": "John Greatwich",
+      "rating": 1575.18,
+      "rd": 32.83,
+      "ratingClass": "B",
+      "homeLocation": "June and Tom's",
+      "homeLocationId": "5388",
+      "percentile": 75.15255974286113,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m32491",
+      "name": "Adam Durling",
+      "rating": 1551.42,
+      "rd": 24.79,
+      "ratingClass": "B",
+      "homeLocation": "Propeller Brewing Company",
+      "homeLocationId": "12732",
+      "percentile": 67.28001117995063,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m26947",
+      "name": "Fred Lai",
+      "rating": 1548.09,
+      "rd": 25.22,
+      "ratingClass": "B",
+      "homeLocation": "Propeller Brewing Company",
+      "homeLocationId": "12732",
+      "percentile": 66.01760842222947,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m38736",
+      "name": "Will Burns",
+      "rating": 1545.87,
+      "rd": 35.12,
+      "ratingClass": "B",
+      "homeLocation": "Best Western Plus Chocolate Lake Hotel",
+      "homeLocationId": "9616",
+      "percentile": 65.2769366935296,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m27940",
+      "name": "Liz Chu",
+      "rating": 1543.7,
+      "rd": 23.77,
+      "ratingClass": "B",
+      "homeLocation": "Propeller Arcade",
+      "homeLocationId": "11304",
+      "percentile": 64.46173196068385,
+      "changeDisplay": "+4.8",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "i103654",
+      "name": "Rodney Durling",
+      "rating": 1543.57,
+      "rd": 27.91,
+      "ratingClass": "B",
+      "homeLocation": "Best Western Plus Chocolate Lake Hotel",
+      "homeLocationId": "9616",
+      "percentile": 64.4244654586109,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m28903",
+      "name": "Christie Cox",
+      "rating": 1516.72,
+      "rd": 22.91,
+      "ratingClass": "B",
+      "homeLocation": "Propeller Brewing Company",
+      "homeLocationId": "12732",
+      "percentile": 53.91065356128011,
+      "changeDisplay": "+22.9",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m35628",
+      "name": "Edward Daniel",
+      "rating": 1514.37,
+      "rd": 26.1,
+      "ratingClass": "B",
+      "homeLocation": "Propeller Brewing Company",
+      "homeLocationId": "12732",
+      "percentile": 52.89514137979224,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m56164",
+      "name": "Michael Andrea",
+      "rating": 1502.57,
+      "rd": 27.19,
+      "ratingClass": "B",
+      "homeLocation": "Propeller Brewing Company",
+      "homeLocationId": "12732",
+      "percentile": 48.14366236549122,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m33935",
+      "name": "Avi Adamski",
+      "rating": 1491.85,
+      "rd": 38.88,
+      "ratingClass": "C",
+      "homeLocation": "Arcade73",
+      "homeLocationId": "13524",
+      "percentile": 43.78348162295617,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m28222",
+      "name": "Aaron MacNeill",
+      "rating": 1489.64,
+      "rd": 36.95,
+      "ratingClass": "C",
+      "homeLocation": "Propeller Brewing Company",
+      "homeLocationId": "12732",
+      "percentile": 42.86579400940979,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m54282",
+      "name": "Dave Andrea",
+      "rating": 1476.62,
+      "rd": 26.12,
+      "ratingClass": "C",
+      "homeLocation": "Propeller Brewing Company",
+      "homeLocationId": "12732",
+      "percentile": 37.53202590021894,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m38738",
+      "name": "Marc Gille",
+      "rating": 1459.24,
+      "rd": 33.67,
+      "ratingClass": "C",
+      "homeLocation": "Best Western Plus Chocolate Lake Hotel",
+      "homeLocationId": "9616",
+      "percentile": 30.68896445707365,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m53341",
+      "name": "Kelly Blair",
+      "rating": 1440.25,
+      "rd": 34.64,
+      "ratingClass": "C",
+      "homeLocation": "Best Western Plus Chocolate Lake Hotel",
+      "homeLocationId": "9616",
+      "percentile": 23.776028322541578,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m5201",
+      "name": "Cody Nodding",
+      "rating": 1435.86,
+      "rd": 39.3,
+      "ratingClass": "C",
+      "homeLocation": "Best Western Plus Chocolate Lake Hotel",
+      "homeLocationId": "9616",
+      "percentile": 22.369217869287745,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m56402",
+      "name": "Rick Snowdon",
+      "rating": 1407.95,
+      "rd": 28.81,
+      "ratingClass": "C",
+      "homeLocation": "Propeller Brewing Company",
+      "homeLocationId": "12732",
+      "percentile": 14.524619182931941,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m53340",
+      "name": "Adriean Gay",
+      "rating": null,
+      "rd": null,
+      "ratingClass": "N/A",
+      "homeLocation": "Best Western Plus Chocolate Lake Hotel",
+      "homeLocationId": "9616",
+      "percentile": null,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

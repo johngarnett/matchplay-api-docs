@@ -1,0 +1,60 @@
+{
+  "tournamentId": 255217,
+  "name": "Beaverton Pinball Summer 2026 #2",
+  "date": "2026-07-23",
+  "locationId": "13178",
+  "locationName": "SuperPlay",
+  "playerCount": 7,
+  "ratingsDate": "2026-07-23",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m31992",
+      "name": "Noah Sicard",
+      "rating": 1826.86,
+      "dailyRatingChange": 10.47
+    },
+    {
+      "position": 2,
+      "playerId": "m14940",
+      "name": "Derek Jennings",
+      "rating": 1752.7,
+      "dailyRatingChange": -1.32
+    },
+    {
+      "position": 3,
+      "playerId": "m50450",
+      "name": "Andrew Stone",
+      "rating": 1528.18,
+      "dailyRatingChange": 13.41
+    },
+    {
+      "position": 4,
+      "playerId": "m35230",
+      "name": "Joseph Sachs",
+      "rating": 1586.08,
+      "dailyRatingChange": -4.61
+    },
+    {
+      "position": 5,
+      "playerId": "m27863",
+      "name": "Michael Dorland",
+      "rating": 1573.19,
+      "dailyRatingChange": -1.47
+    },
+    {
+      "position": 6,
+      "playerId": "m50363",
+      "name": "Chris Grucza",
+      "rating": 1541.49,
+      "dailyRatingChange": -7.01
+    },
+    {
+      "position": 7,
+      "playerId": "m51747",
+      "name": "Mark Catalfano",
+      "rating": 1446.06,
+      "dailyRatingChange": -3.64
+    }
+  ]
+}

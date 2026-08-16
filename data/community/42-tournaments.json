@@ -1,0 +1,340 @@
+{
+  "communityId": "42",
+  "locations": [
+    {
+      "id": "7102",
+      "name": "403 Club",
+      "address": "614 Reynolds Ave, Kansas City, KS, 66101, US",
+      "tournaments": [
+        {
+          "id": 265884,
+          "name": "KCK Women's League #2",
+          "date": "8/13/2026",
+          "playerCount": 14,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "p586842",
+              "name": "Casey Berges",
+              "isCommunityMember": false
+            },
+            {
+              "position": 2,
+              "playerId": "m59718",
+              "name": "Micki Welcome Hill",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m35433",
+              "name": "Liz Wade",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "i141742",
+              "name": "Carol Normandin",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m41254",
+              "name": "Jennifer Waters",
+              "isCommunityMember": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9348",
+      "name": "Chartroose Caboose",
+      "address": "10636 Metcalf Ave, Overland Park, KS, 66212, US",
+      "tournaments": [
+        {
+          "id": 265970,
+          "name": "Finals for Second Saturdays at the Caboose Aug 2026",
+          "date": "8/8/2026",
+          "playerCount": 4,
+          "qualifying": {
+            "id": 265969,
+            "name": "Second Saturdays at the Caboose Aug 2026",
+            "playerCount": 14
+          },
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m35911",
+              "name": "Kelly Coin",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m35319",
+              "name": "Drew Baranowski",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m1542",
+              "name": "Marion Richards",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m41184",
+              "name": "Artie Munoz",
+              "isCommunityMember": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "10044",
+      "name": "Knub's Pub",
+      "address": "5386 Roberts Street, Shawnee, KS 66226, US",
+      "tournaments": [
+        {
+          "id": 266330,
+          "name": "Finals for Knub's Pub Monthly Matchplay",
+          "date": "8/9/2026",
+          "playerCount": 4,
+          "qualifying": {
+            "id": 261866,
+            "name": "Knub's Pub Monthly Matchplay",
+            "playerCount": 10
+          },
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m19848",
+              "name": "Gordon Brown KS",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m49340",
+              "name": "Jacob Burrows",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m1542",
+              "name": "Marion Richards",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m1879",
+              "name": "Logan Harding",
+              "isCommunityMember": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9336",
+      "name": "Main Street Pinball",
+      "address": "518 North Main Street, Grain Valley, MO 64029, US",
+      "tournaments": [
+        {
+          "id": 266965,
+          "name": "Main Street Pinball Summer League #3",
+          "date": "8/13/2026",
+          "playerCount": 8,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m19845",
+              "name": "Kraig Blaeuer",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m48103",
+              "name": "Ryan Weaver",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m33311",
+              "name": "Darin Embry",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m46771",
+              "name": "Jason Sieg",
+              "isCommunityMember": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "10542",
+      "name": "Solid State Pinball Supply",
+      "address": "2529 Jefferson St, Kansas City, MO 64108, US",
+      "tournaments": [
+        {
+          "id": 265618,
+          "name": "KCMO Pinball League #2",
+          "date": "8/12/2026",
+          "playerCount": 28,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m20223",
+              "name": "Brian Berg",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m49340",
+              "name": "Jacob Burrows",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m40554",
+              "name": "Aaron Schieffer",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m22075",
+              "name": "Justin Erickson",
+              "isCommunityMember": true
+            }
+          ]
+        },
+        {
+          "id": 266099,
+          "name": "Finals for Little Flippers",
+          "date": "8/8/2026",
+          "playerCount": 3,
+          "qualifying": {
+            "id": 250989,
+            "name": "Little Flippers",
+            "playerCount": 7
+          },
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "p559227",
+              "name": "Harrison Mank",
+              "isCommunityMember": false
+            },
+            {
+              "position": 2,
+              "playerId": "p585539",
+              "name": "Bridget McMahon",
+              "isCommunityMember": false
+            },
+            {
+              "position": 3,
+              "playerId": "m48712",
+              "name": "Violet Forster",
+              "isCommunityMember": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "12144",
+      "name": "The Pennant",
+      "address": "915 South Kansas Avenue, Topeka, KS 66612, US",
+      "tournaments": [
+        {
+          "id": 260924,
+          "name": "Pennant Women's Pinball League 8/5-9/23 #2",
+          "date": "8/12/2026",
+          "playerCount": 8,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m48911",
+              "name": "Mackenzie Hegedusich",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m52759",
+              "name": "Shelley Haugh",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "i147955",
+              "name": "Lisa Ranker",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m40294",
+              "name": "Denise Appelhanz",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m40446",
+              "name": "Jane Warkentine",
+              "isCommunityMember": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "unknown",
+      "name": "Unknown Location",
+      "address": "",
+      "tournaments": [
+        {
+          "id": 266501,
+          "name": "Finals for Monday Multiball Madness at Up-Down - August",
+          "date": "8/10/2026",
+          "playerCount": 4,
+          "qualifying": {
+            "id": 266468,
+            "name": "Monday Multiball Madness at Up-Down - August",
+            "playerCount": 9
+          },
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m36013",
+              "name": "Tovi Cayton",
+              "isCommunityMember": false
+            },
+            {
+              "position": 2,
+              "playerId": "m1542",
+              "name": "Marion Richards",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m54016",
+              "name": "Dan Anderson IA",
+              "isCommunityMember": false
+            },
+            {
+              "position": 4,
+              "playerId": "m32233",
+              "name": "Alivia Haley",
+              "isCommunityMember": false
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

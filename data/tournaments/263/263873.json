@@ -1,0 +1,39 @@
+{
+  "tournamentId": 263873,
+  "name": "Finals for The Pinball Studio",
+  "date": "2026-07-26",
+  "locationId": "11488",
+  "locationName": "The Pinball Studio",
+  "playerCount": 4,
+  "ratingsDate": "2026-07-26",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m3980",
+      "name": "Neal Wagoner",
+      "rating": 1659.81,
+      "dailyRatingChange": 4.52
+    },
+    {
+      "position": 2,
+      "playerId": "m34827",
+      "name": "Brian Salvaggio",
+      "rating": 1565.12,
+      "dailyRatingChange": 6.53
+    },
+    {
+      "position": 3,
+      "playerId": "m42920",
+      "name": "James deal",
+      "rating": 1436.21,
+      "dailyRatingChange": 28.67
+    },
+    {
+      "position": 4,
+      "playerId": "m51787",
+      "name": "Robert Terry",
+      "rating": 1523.23,
+      "dailyRatingChange": -4.29
+    }
+  ]
+}

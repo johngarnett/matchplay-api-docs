@@ -1,0 +1,39 @@
+{
+  "tournamentId": 238803,
+  "name": "Finals for Special When Lit – Match Play Tournament",
+  "date": "2026-08-09",
+  "locationId": "9714",
+  "locationName": "Special When Lit Pinball",
+  "playerCount": 4,
+  "ratingsDate": "2026-08-09",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m9486",
+      "name": "Bill Volckening",
+      "rating": 1520.35,
+      "dailyRatingChange": 10.78
+    },
+    {
+      "position": 2,
+      "playerId": "m23091",
+      "name": "Nick Elliott",
+      "rating": 1657.56,
+      "dailyRatingChange": 4.98
+    },
+    {
+      "position": 3,
+      "playerId": "m29558",
+      "name": "Edward Schmucker",
+      "rating": 1583.75,
+      "dailyRatingChange": 0.14
+    },
+    {
+      "position": 4,
+      "playerId": "m49461",
+      "name": "Sydney Rowbottom",
+      "rating": 1421.68,
+      "dailyRatingChange": 12.95
+    }
+  ]
+}

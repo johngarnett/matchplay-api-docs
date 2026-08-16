@@ -1,0 +1,67 @@
+{
+  "tournamentId": 259686,
+  "name": "Finals for Bumper Babes 8/8/2026",
+  "date": "2026-08-08",
+  "locationId": "11149",
+  "locationName": "Delaware Pinball Collective",
+  "playerCount": 8,
+  "ratingsDate": "2026-08-08",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m25093",
+      "name": "Samantha Jacob",
+      "rating": 1627.6,
+      "dailyRatingChange": 5.03
+    },
+    {
+      "position": 2,
+      "playerId": "m6160",
+      "name": "Tuna Queen",
+      "rating": 1548.8,
+      "dailyRatingChange": 13.98
+    },
+    {
+      "position": 3,
+      "playerId": "m12290",
+      "name": "Terri Morton",
+      "rating": 1571.96,
+      "dailyRatingChange": 6.82
+    },
+    {
+      "position": 4,
+      "playerId": "m29505",
+      "name": "Jennifer Richardson",
+      "rating": 1547.39,
+      "dailyRatingChange": 8.7
+    },
+    {
+      "position": 5,
+      "playerId": "m23814",
+      "name": "Becca Lip",
+      "rating": 1563.22,
+      "dailyRatingChange": 14.88
+    },
+    {
+      "position": 6,
+      "playerId": "m18061",
+      "name": "Tina Kirby",
+      "rating": 1509.7,
+      "dailyRatingChange": 7.73
+    },
+    {
+      "position": 7,
+      "playerId": "m4153",
+      "name": "Kim Smith",
+      "rating": 1581.04,
+      "dailyRatingChange": 0.81
+    },
+    {
+      "position": 8,
+      "playerId": "m8052",
+      "name": "Kathy Bobeck",
+      "rating": 1578.19,
+      "dailyRatingChange": 4.73
+    }
+  ]
+}

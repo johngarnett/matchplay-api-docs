@@ -1,0 +1,67 @@
+{
+  "tournamentId": 265661,
+  "name": "Finals for August Pintopia Frenzy",
+  "date": "2026-08-06",
+  "locationId": "12765",
+  "locationName": "Richmond Pinball Collective",
+  "playerCount": 8,
+  "ratingsDate": "2026-08-06",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m4579",
+      "name": "Brian Garbera",
+      "rating": 1706.75,
+      "dailyRatingChange": 12.45
+    },
+    {
+      "position": 2,
+      "playerId": "m34512",
+      "name": "Cam Harrahy",
+      "rating": 1866.13,
+      "dailyRatingChange": -2.54
+    },
+    {
+      "position": 3,
+      "playerId": "m39939",
+      "name": "Stoller Schiltz",
+      "rating": 1746.38,
+      "dailyRatingChange": 5.39
+    },
+    {
+      "position": 4,
+      "playerId": "m32053",
+      "name": "Jim Klingenberg",
+      "rating": 1600.36,
+      "dailyRatingChange": 9.48
+    },
+    {
+      "position": 5,
+      "playerId": "m35097",
+      "name": "Julian Carlucci",
+      "rating": 1693.82,
+      "dailyRatingChange": 1.24
+    },
+    {
+      "position": 6,
+      "playerId": "m2129",
+      "name": "Mike Ogilvie",
+      "rating": 1613.88,
+      "dailyRatingChange": -0.64
+    },
+    {
+      "position": 6,
+      "playerId": "m4563",
+      "name": "Dave Weaver",
+      "rating": 1578.8,
+      "dailyRatingChange": 4.07
+    },
+    {
+      "position": 8,
+      "playerId": "m2886",
+      "name": "Robert Peters",
+      "rating": 1659.43,
+      "dailyRatingChange": -2.03
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "tournamentId": 266651,
+  "name": "Women's League Season 3 #7",
+  "date": "2026-08-12",
+  "locationId": null,
+  "locationName": null,
+  "playerCount": 6,
+  "ratingsDate": "2026-08-12",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m525677",
+      "name": "Kylie Botkin",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 2,
+      "playerId": "m44473",
+      "name": "Mimi Ramirez",
+      "rating": 1549.3,
+      "dailyRatingChange": -2.87
+    },
+    {
+      "position": 2,
+      "playerId": "m525678",
+      "name": "Tori Benton",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 4,
+      "playerId": "i59297",
+      "name": "Chloe Saccol",
+      "rating": 1461.77,
+      "dailyRatingChange": -5.58
+    },
+    {
+      "position": 4,
+      "playerId": "m525675",
+      "name": "Teresa Solis",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 6,
+      "playerId": "m582709",
+      "name": "Ghost",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

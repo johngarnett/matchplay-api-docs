@@ -1,0 +1,116 @@
+{
+  "tournamentId": 266604,
+  "name": "Women's 2nd Tuesday 7-Round Matchplay at Beercade2",
+  "date": "2026-08-12",
+  "locationId": "11641",
+  "locationName": "Beercade 2",
+  "playerCount": 15,
+  "ratingsDate": "2026-08-12",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m33537",
+      "name": "Ivy Smolinski",
+      "rating": 1645.09,
+      "dailyRatingChange": 8.58
+    },
+    {
+      "position": 2,
+      "playerId": "m35093",
+      "name": "Courtney Moncrief",
+      "rating": 1669.9,
+      "dailyRatingChange": 0.11
+    },
+    {
+      "position": 3,
+      "playerId": "m4858",
+      "name": "Kara Galle",
+      "rating": 1654.24,
+      "dailyRatingChange": -0.92
+    },
+    {
+      "position": 4,
+      "playerId": "m41085",
+      "name": "Jeni Brewer",
+      "rating": 1453.59,
+      "dailyRatingChange": 22.69
+    },
+    {
+      "position": 5,
+      "playerId": "i79411",
+      "name": "Lindsay Wiley",
+      "rating": 1538.41,
+      "dailyRatingChange": 2.2
+    },
+    {
+      "position": 6,
+      "playerId": "m45644",
+      "name": "Heidi Smith",
+      "rating": 1348.55,
+      "dailyRatingChange": 11.01
+    },
+    {
+      "position": 7,
+      "playerId": "m18383",
+      "name": "Jen Skibbe",
+      "rating": 1466.71,
+      "dailyRatingChange": -1.67
+    },
+    {
+      "position": 8,
+      "playerId": "m456002",
+      "name": "Jenifer Piatt",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 9,
+      "playerId": "i70634",
+      "name": "Heidi Wullschleger",
+      "rating": 1375.99,
+      "dailyRatingChange": 0.02
+    },
+    {
+      "position": 10,
+      "playerId": "m51099",
+      "name": "Sera Harbert",
+      "rating": 1432.14,
+      "dailyRatingChange": -2.32
+    },
+    {
+      "position": 11,
+      "playerId": "m58233",
+      "name": "Abby Patterson",
+      "rating": 1387.88,
+      "dailyRatingChange": -0.52
+    },
+    {
+      "position": 12,
+      "playerId": "m27234",
+      "name": "Sara Paczosa",
+      "rating": 1454.24,
+      "dailyRatingChange": -8.22
+    },
+    {
+      "position": 13,
+      "playerId": "m56823",
+      "name": "Taylor Van Vliet",
+      "rating": 1299.74,
+      "dailyRatingChange": -3.77
+    },
+    {
+      "position": 14,
+      "playerId": "m56675",
+      "name": "Tara Meadows",
+      "rating": 1306.56,
+      "dailyRatingChange": -5.7
+    },
+    {
+      "position": 15,
+      "playerId": "m586427",
+      "name": "Bailey Gittler",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

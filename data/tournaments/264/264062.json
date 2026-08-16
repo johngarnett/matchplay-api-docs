@@ -1,0 +1,67 @@
+{
+  "tournamentId": 264062,
+  "name": "Finals for ORD Pinball - July's Last Sunday of the Month - IPFA - 6 Rounds Match Play - 7/26/2026",
+  "date": "2026-07-27",
+  "locationId": "13794",
+  "locationName": "ORD 3.0",
+  "playerCount": 8,
+  "ratingsDate": "2026-07-27",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m45169",
+      "name": "Sean Brennan",
+      "rating": 1577.94,
+      "dailyRatingChange": 19.06
+    },
+    {
+      "position": 2,
+      "playerId": "m28986",
+      "name": "Danny Bronny",
+      "rating": 1653.43,
+      "dailyRatingChange": 1.57
+    },
+    {
+      "position": 3,
+      "playerId": "m10481",
+      "name": "Glenn Krause",
+      "rating": 1670.9,
+      "dailyRatingChange": 12.94
+    },
+    {
+      "position": 4,
+      "playerId": "m39177",
+      "name": "Charles Jackson IN",
+      "rating": 1772.78,
+      "dailyRatingChange": 3.61
+    },
+    {
+      "position": 5,
+      "playerId": "m61700",
+      "name": "Kyle Carr",
+      "rating": 1534.34,
+      "dailyRatingChange": 31.53
+    },
+    {
+      "position": 5,
+      "playerId": "m11184",
+      "name": "Quinn Yost",
+      "rating": 1617.61,
+      "dailyRatingChange": 5.19
+    },
+    {
+      "position": 7,
+      "playerId": "m6810",
+      "name": "Dan Caschetto",
+      "rating": 1589.63,
+      "dailyRatingChange": 18.2
+    },
+    {
+      "position": 7,
+      "playerId": "m24151",
+      "name": "Lily Piazza",
+      "rating": 1627.25,
+      "dailyRatingChange": 3.8
+    }
+  ]
+}

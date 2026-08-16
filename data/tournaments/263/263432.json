@@ -1,0 +1,137 @@
+{
+  "tournamentId": 263432,
+  "name": "Tiki Tilt at The Pinball Social Club",
+  "date": "2026-07-25",
+  "locationId": "12217",
+  "locationName": "The Pinball Social Club",
+  "playerCount": 18,
+  "ratingsDate": "2026-07-25",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m43367",
+      "name": "Everett Darst",
+      "rating": 1724.63,
+      "dailyRatingChange": 0.53
+    },
+    {
+      "position": 2,
+      "playerId": "i107962",
+      "name": "Anthony Ogden",
+      "rating": 1650.96,
+      "dailyRatingChange": 11.06
+    },
+    {
+      "position": 3,
+      "playerId": "m31254",
+      "name": "Trenton Kent",
+      "rating": 1639.22,
+      "dailyRatingChange": 2.11
+    },
+    {
+      "position": 4,
+      "playerId": "m1853",
+      "name": "Kyle Sharp",
+      "rating": 1684.54,
+      "dailyRatingChange": -13.06
+    },
+    {
+      "position": 5,
+      "playerId": "m32883",
+      "name": "Adrian Rhoads",
+      "rating": 1585.17,
+      "dailyRatingChange": 23.73
+    },
+    {
+      "position": 6,
+      "playerId": "m46167",
+      "name": "Matt Darst",
+      "rating": 1640.69,
+      "dailyRatingChange": 2.58
+    },
+    {
+      "position": 7,
+      "playerId": "m45031",
+      "name": "kaden Hemphill",
+      "rating": 1581.06,
+      "dailyRatingChange": 6.91
+    },
+    {
+      "position": 8,
+      "playerId": "m48103",
+      "name": "Ryan Weaver",
+      "rating": 1522.02,
+      "dailyRatingChange": 13.07
+    },
+    {
+      "position": 9,
+      "playerId": "m22782",
+      "name": "Scott Holcomb",
+      "rating": 1536.17,
+      "dailyRatingChange": 3.26
+    },
+    {
+      "position": 10,
+      "playerId": "m46215",
+      "name": "Chris Jones MO",
+      "rating": 1481.04,
+      "dailyRatingChange": 0.85
+    },
+    {
+      "position": 11,
+      "playerId": "m32388",
+      "name": "Thomas Fetters",
+      "rating": 1592.86,
+      "dailyRatingChange": -2.8
+    },
+    {
+      "position": 12,
+      "playerId": "m46501",
+      "name": "Hank Owen",
+      "rating": 1535.09,
+      "dailyRatingChange": -8.13
+    },
+    {
+      "position": 13,
+      "playerId": "m32751",
+      "name": "Robbie Holcomb",
+      "rating": 1505.52,
+      "dailyRatingChange": -22.88
+    },
+    {
+      "position": 14,
+      "playerId": "m581770",
+      "name": "Daisy Weaver",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 15,
+      "playerId": "m43046",
+      "name": "Jason Bisby",
+      "rating": 1463.37,
+      "dailyRatingChange": -7.61
+    },
+    {
+      "position": 16,
+      "playerId": "m60153",
+      "name": "Lillian Weaver",
+      "rating": 1421.92,
+      "dailyRatingChange": -19.5
+    },
+    {
+      "position": 17,
+      "playerId": "m40538",
+      "name": "Morgan Reddell",
+      "rating": 1306.67,
+      "dailyRatingChange": -7.17
+    },
+    {
+      "position": 18,
+      "playerId": "i153505",
+      "name": "Juliette Darst",
+      "rating": 1353.29,
+      "dailyRatingChange": -0.45
+    }
+  ]
+}

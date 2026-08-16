@@ -1,0 +1,85 @@
+{
+  "locationId": "13470",
+  "venueName": "Spalding House",
+  "venueAddress": "1 W Main St, Crosby, MN 56441, US",
+  "tournaments": [
+    {
+      "id": 264167,
+      "name": "Spald-Pin 7",
+      "date": "7/27/2026",
+      "playerCount": 11,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m44248",
+          "name": "Michael Seamans",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "i138076",
+          "name": "Lee Seamans",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m54395",
+          "name": "James Nysather",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "p581525",
+          "name": "Mitch Mimbach",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m60732",
+          "name": "Tony Jorgensen",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m61011",
+          "name": "Deb Seamans",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 260822,
+      "name": "Spald-Pin 6",
+      "date": "7/20/2026",
+      "playerCount": 5,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "i138076",
+          "name": "Lee Seamans",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m44248",
+          "name": "Michael Seamans",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "p570261",
+          "name": "Darold Wodarz",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m61011",
+          "name": "Deb Seamans",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

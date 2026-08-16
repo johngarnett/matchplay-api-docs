@@ -1,0 +1,88 @@
+{
+  "tournamentId": 263261,
+  "name": "Legends Weds free knockout tournament 7/22/2026",
+  "date": "2026-07-23",
+  "locationId": "8819",
+  "locationName": "Legends Arcade",
+  "playerCount": 11,
+  "ratingsDate": "2026-07-23",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m50087",
+      "name": "Bobby Williams",
+      "rating": 1498.53,
+      "dailyRatingChange": 20.97
+    },
+    {
+      "position": 2,
+      "playerId": "m13886",
+      "name": "Kirk Leonard",
+      "rating": 1664.92,
+      "dailyRatingChange": -1.8
+    },
+    {
+      "position": 3,
+      "playerId": "i45391",
+      "name": "David Schaffer",
+      "rating": 1521.04,
+      "dailyRatingChange": 16.54
+    },
+    {
+      "position": 4,
+      "playerId": "m56396",
+      "name": "Ky Liebau",
+      "rating": 1486.76,
+      "dailyRatingChange": 3.48
+    },
+    {
+      "position": 5,
+      "playerId": "m267806",
+      "name": "Chris sierra",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 5,
+      "playerId": "m58806",
+      "name": "Jayden Gregory",
+      "rating": 1595.67,
+      "dailyRatingChange": -1.9
+    },
+    {
+      "position": 7,
+      "playerId": "m12839",
+      "name": "Aaron Shervin",
+      "rating": 1635.76,
+      "dailyRatingChange": -4.01
+    },
+    {
+      "position": 7,
+      "playerId": "i127477",
+      "name": "Sean Harris",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 9,
+      "playerId": "m60072",
+      "name": "Willy Shaughnessy",
+      "rating": 1473.36,
+      "dailyRatingChange": -5.39
+    },
+    {
+      "position": 9,
+      "playerId": "i113637",
+      "name": "Leah Harper",
+      "rating": 1358.16,
+      "dailyRatingChange": -3.58
+    },
+    {
+      "position": 11,
+      "playerId": "m580971",
+      "name": "Amanda Lohmeyer",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

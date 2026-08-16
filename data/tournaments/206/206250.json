@@ -1,0 +1,116 @@
+{
+  "tournamentId": 206250,
+  "name": "Friday Night Strikes #129 at Capital Pinball Parlor",
+  "date": "2026-08-08",
+  "locationId": "9542",
+  "locationName": "Capital Pinball Parlor",
+  "playerCount": 15,
+  "ratingsDate": "2026-08-08",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m583321",
+      "name": "Eli Wernigg",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 2,
+      "playerId": "m59169",
+      "name": "Truman Conlee",
+      "rating": 1438.23,
+      "dailyRatingChange": 18.69
+    },
+    {
+      "position": 3,
+      "playerId": "m60347",
+      "name": "John Demarco",
+      "rating": 1522.58,
+      "dailyRatingChange": 15.15
+    },
+    {
+      "position": 4,
+      "playerId": "i135418",
+      "name": "Xavier Medina",
+      "rating": 1485.17,
+      "dailyRatingChange": 5.63
+    },
+    {
+      "position": 5,
+      "playerId": "m49155",
+      "name": "James Gray",
+      "rating": 1493.82,
+      "dailyRatingChange": 4.25
+    },
+    {
+      "position": 6,
+      "playerId": "i160081",
+      "name": "Ron Fenis",
+      "rating": 1501.6,
+      "dailyRatingChange": 2.1
+    },
+    {
+      "position": 7,
+      "playerId": "m50453",
+      "name": "Carter Schulte",
+      "rating": 1540.34,
+      "dailyRatingChange": -2.56
+    },
+    {
+      "position": 7,
+      "playerId": "m473045",
+      "name": "Daniel Jerrett",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 9,
+      "playerId": "m585368",
+      "name": "Brian flaherty",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 9,
+      "playerId": "i20263",
+      "name": "Ryan Lee",
+      "rating": 1481.47,
+      "dailyRatingChange": -5.48
+    },
+    {
+      "position": 9,
+      "playerId": "m585355",
+      "name": "Rich viano-nitschke",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 12,
+      "playerId": "m54401",
+      "name": "Suzette Dupre",
+      "rating": 1419.85,
+      "dailyRatingChange": -1.76
+    },
+    {
+      "position": 12,
+      "playerId": "m49401",
+      "name": "Josh Gray",
+      "rating": 1474.66,
+      "dailyRatingChange": -5.43
+    },
+    {
+      "position": 14,
+      "playerId": "m473046",
+      "name": "Danny Jerrett",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 15,
+      "playerId": "m60348",
+      "name": "Mya Demarco",
+      "rating": 1443.27,
+      "dailyRatingChange": -22.37
+    }
+  ]
+}

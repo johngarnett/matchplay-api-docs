@@ -1,0 +1,39 @@
+{
+  "tournamentId": 266136,
+  "name": "DIVBB Finals for Riverside BBQ Company Launch Party",
+  "date": "2026-08-08",
+  "locationId": "12428",
+  "locationName": "Riverside BBQ Company",
+  "playerCount": 4,
+  "ratingsDate": "2026-08-08",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m31307",
+      "name": "Delaney Smith",
+      "rating": 1521.93,
+      "dailyRatingChange": 15.64
+    },
+    {
+      "position": 2,
+      "playerId": "i99298",
+      "name": "Michaela Mahoney",
+      "rating": 1386.11,
+      "dailyRatingChange": 8.57
+    },
+    {
+      "position": 3,
+      "playerId": "m539559",
+      "name": "Precious Pratt",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 4,
+      "playerId": "m512630",
+      "name": "Mike Krischak",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "locationId": "9616",
+  "venueName": "Best Western Plus Chocolate Lake Hotel",
+  "venueAddress": "250 Saint Margarets Bay Road, Halifax, NS B3N, CA",
+  "tournaments": [
+    {
+      "id": 263934,
+      "name": "Stern Army Halifax July 26 2026 Playoffs",
+      "date": "7/26/2026",
+      "playerCount": 4,
+      "qualifying": {
+        "id": 263954,
+        "name": "Stern Army Halifax - July 26 2026",
+        "playerCount": 13
+      },
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "i103654",
+          "name": "Rodney Durling",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m21305",
+          "name": "John Greatwich",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m33935",
+          "name": "Avi Adamski",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m26947",
+          "name": "Fred Lai",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

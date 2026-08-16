@@ -1,0 +1,39 @@
+{
+  "tournamentId": 262630,
+  "name": "Finals for Ice Box Friday Night Live 7/17/26",
+  "date": "2026-07-18",
+  "locationId": "4319",
+  "locationName": "Ice Box Arcade",
+  "playerCount": 4,
+  "ratingsDate": "2026-07-18",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m6374",
+      "name": "David Johnston US",
+      "rating": 1721.8,
+      "dailyRatingChange": 11.67
+    },
+    {
+      "position": 2,
+      "playerId": "m3563",
+      "name": "Robbie Finnigan",
+      "rating": 1654.56,
+      "dailyRatingChange": 7.25
+    },
+    {
+      "position": 3,
+      "playerId": "m1819",
+      "name": "Maka Honig",
+      "rating": 1650.07,
+      "dailyRatingChange": 0.05
+    },
+    {
+      "position": 4,
+      "playerId": "m17637",
+      "name": "Elliott Johnson",
+      "rating": 1559.71,
+      "dailyRatingChange": -1.3
+    }
+  ]
+}

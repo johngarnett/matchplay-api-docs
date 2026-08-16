@@ -1,0 +1,39 @@
+{
+  "tournamentId": 264696,
+  "name": "Finals for Pinball AF Stern Transformers Launch Party @ Iron Horse",
+  "date": "2026-07-31",
+  "locationId": "12714",
+  "locationName": "Iron Horse Pub",
+  "playerCount": 4,
+  "ratingsDate": "2026-07-31",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m20084",
+      "name": "Jason Corrado",
+      "rating": 1625.81,
+      "dailyRatingChange": 12.98
+    },
+    {
+      "position": 2,
+      "playerId": "m8645",
+      "name": "Tommy Loranger",
+      "rating": 1574.3,
+      "dailyRatingChange": 9.03
+    },
+    {
+      "position": 3,
+      "playerId": "m48617",
+      "name": "Charles Crosby",
+      "rating": 1550.6,
+      "dailyRatingChange": 10.45
+    },
+    {
+      "position": 4,
+      "playerId": "m35109",
+      "name": "Luke Norman",
+      "rating": 1694,
+      "dailyRatingChange": 2.95
+    }
+  ]
+}

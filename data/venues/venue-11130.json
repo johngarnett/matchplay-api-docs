@@ -1,0 +1,443 @@
+{
+  "locationId": "11130",
+  "name": "The Tokyo Club",
+  "address": "709 Fay Street, Columbia, MO",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 31,
+  "relatedVenues": [
+    {
+      "locationId": "11654",
+      "name": "Capital Mall - QuikPlay Arcade",
+      "address": "3600 Country Club Dr, Jefferson City, MO 65109",
+      "count": 46
+    },
+    {
+      "locationId": "12217",
+      "name": "The Pinball Social Club",
+      "address": "406 S Miller Rd, Willard, MO 65781",
+      "count": 29
+    },
+    {
+      "locationId": "6583",
+      "name": "Murphy's on 21",
+      "address": "13226 Tesson Ferry Rd, St. Louis, MO 63128, USA",
+      "count": 14
+    },
+    {
+      "locationId": "13349",
+      "name": "Hexagon Alley",
+      "address": "111 S 9th St #10, Columbia, MO 65201, US",
+      "count": 8
+    },
+    {
+      "locationId": "13545",
+      "name": "Lane 25 at West County Lanes",
+      "address": "15727 Manchester Rd. Ellisville, MO 63011",
+      "count": 7
+    },
+    {
+      "locationId": "4804",
+      "name": "District 82 Pinball",
+      "address": "800 O Keefe Rd, De Pere, WI 54115, USA",
+      "count": 6
+    },
+    {
+      "locationId": "9336",
+      "name": "Main Street Pinball",
+      "address": "518 North Main Street, Grain Valley, MO 64029, US",
+      "count": 6
+    },
+    {
+      "locationId": "9416",
+      "name": "RetroZone Arcade",
+      "address": "118 Commercial St. Marshfield, MO",
+      "count": 4
+    },
+    {
+      "locationId": "11561",
+      "name": "Austin Pinball Collective",
+      "address": "1106 Clayton Ln, Austin, TX 78723, US",
+      "count": 4
+    },
+    {
+      "locationId": "11946",
+      "name": "RetroZone Marshfield",
+      "address": "118 E Commercial St, Marshfield, MO, 65706, US",
+      "count": 4
+    }
+  ],
+  "players": [
+    {
+      "id": "m821",
+      "name": "Adam McKinnie",
+      "rating": 1779.15,
+      "rd": 26.29,
+      "ratingClass": "Expert",
+      "homeLocation": "The Tokyo Club",
+      "homeLocationId": "11130",
+      "percentile": 99.29193646061395,
+      "changeDisplay": "+4.1",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m10859",
+      "name": "Jacob Rogers",
+      "rating": 1681.99,
+      "rd": 28.22,
+      "ratingClass": "A",
+      "homeLocation": "The Tokyo Club",
+      "homeLocationId": "11130",
+      "percentile": 95.29510411329017,
+      "changeDisplay": "-5.5",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m1330",
+      "name": "Sunshine Bon",
+      "rating": 1676.01,
+      "rd": 25.8,
+      "ratingClass": "A",
+      "homeLocation": "The Tokyo Club",
+      "homeLocationId": "11130",
+      "percentile": 94.73610658219593,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m12500",
+      "name": "Rodney Viessman",
+      "rating": 1659.75,
+      "rd": 23.68,
+      "ratingClass": "A",
+      "homeLocation": "Capital Mall - QuikPlay Arcade",
+      "homeLocationId": "11654",
+      "percentile": 93.05911398891321,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m50278",
+      "name": "Shane Blackburn",
+      "rating": 1632.72,
+      "rd": 23.25,
+      "ratingClass": "A",
+      "homeLocation": "Capital Mall - QuikPlay Arcade",
+      "homeLocationId": "11654",
+      "percentile": 89.10886476918061,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i90002",
+      "name": "Rob Parker MO",
+      "rating": 1612.36,
+      "rd": 27.78,
+      "ratingClass": "A",
+      "homeLocation": "The Tokyo Club",
+      "homeLocationId": "11130",
+      "percentile": 84.92569991149206,
+      "changeDisplay": "+13.7",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m35728",
+      "name": "Matthew Schuchard",
+      "rating": 1609.17,
+      "rd": 33,
+      "ratingClass": "A",
+      "homeLocation": "The Tokyo Club",
+      "homeLocationId": "11130",
+      "percentile": 84.23161131038339,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m49059",
+      "name": "Joe Fulca",
+      "rating": 1605.36,
+      "rd": 25.45,
+      "ratingClass": "A",
+      "homeLocation": "The Tokyo Club",
+      "homeLocationId": "11130",
+      "percentile": 83.23473237993198,
+      "changeDisplay": "-12.0",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m56996",
+      "name": "Ryan Woods MO",
+      "rating": 1583.29,
+      "rd": 28.89,
+      "ratingClass": "B",
+      "homeLocation": "The Tokyo Club",
+      "homeLocationId": "11130",
+      "percentile": 77.55159081380724,
+      "changeDisplay": "-13.0",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m29666",
+      "name": "Kristin Machalek",
+      "rating": 1564.53,
+      "rd": 17.05,
+      "ratingClass": "B",
+      "homeLocation": "Murphy's on 21",
+      "homeLocationId": "6583",
+      "percentile": 71.8451576838869,
+      "changeDisplay": "+7.8",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "i151146",
+      "name": "John S Heinz",
+      "rating": 1564.33,
+      "rd": 27.03,
+      "ratingClass": "B",
+      "homeLocation": "The Tokyo Club",
+      "homeLocationId": "11130",
+      "percentile": 71.77994130525923,
+      "changeDisplay": "+9.3",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "i22775",
+      "name": "Dave Wiseman",
+      "rating": 1548.19,
+      "rd": 36.75,
+      "ratingClass": "B",
+      "homeLocation": "The Tokyo Club",
+      "homeLocationId": "11130",
+      "percentile": 66.07350817533889,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i140295",
+      "name": "Blake Dinsdale",
+      "rating": 1533.87,
+      "rd": 31.85,
+      "ratingClass": "B",
+      "homeLocation": "The Tokyo Club",
+      "homeLocationId": "11130",
+      "percentile": 60.56738249406065,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m39400",
+      "name": "Dalton Perry",
+      "rating": 1524.47,
+      "rd": 27.86,
+      "ratingClass": "B",
+      "homeLocation": "The Tokyo Club",
+      "homeLocationId": "11130",
+      "percentile": 56.854707225043086,
+      "changeDisplay": "-3.6",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m28264",
+      "name": "Howie Ambrus",
+      "rating": 1513.15,
+      "rd": 27.17,
+      "ratingClass": "B",
+      "homeLocation": "The Tokyo Club",
+      "homeLocationId": "11130",
+      "percentile": 52.429310103880375,
+      "changeDisplay": "-4.0",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m24498",
+      "name": "Michael Cunningham",
+      "rating": 1498.91,
+      "rd": 23.65,
+      "ratingClass": "C",
+      "homeLocation": "The Tokyo Club",
+      "homeLocationId": "11130",
+      "percentile": 46.67163553360973,
+      "changeDisplay": "+0.7",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m57461",
+      "name": "Bob Kelley",
+      "rating": 1478.48,
+      "rd": 44.75,
+      "ratingClass": "C",
+      "homeLocation": "The Tokyo Club",
+      "homeLocationId": "11130",
+      "percentile": 38.33325569478735,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i144383",
+      "name": "Chris Norton",
+      "rating": 1471.87,
+      "rd": 29.02,
+      "ratingClass": "C",
+      "homeLocation": "Capital Mall - QuikPlay Arcade",
+      "homeLocationId": "11654",
+      "percentile": 35.58019285414823,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i150881",
+      "name": "Eric Pherigo",
+      "rating": 1471.39,
+      "rd": 37.82,
+      "ratingClass": "C",
+      "homeLocation": "The Tokyo Club",
+      "homeLocationId": "11130",
+      "percentile": 35.39386034378349,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m46215",
+      "name": "Chris Jones MO",
+      "rating": 1467.03,
+      "rd": 19.87,
+      "ratingClass": "C",
+      "homeLocation": "The Pinball Social Club",
+      "homeLocationId": "12217",
+      "percentile": 33.65630968463223,
+      "changeDisplay": "+1.4",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m34663",
+      "name": "Mark Krieger",
+      "rating": 1461.2,
+      "rd": 34.26,
+      "ratingClass": "C",
+      "homeLocation": "Murphy's on 21",
+      "homeLocationId": "6583",
+      "percentile": 31.406344621977922,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i108776",
+      "name": "Amy Meier",
+      "rating": 1448.04,
+      "rd": 24.71,
+      "ratingClass": "C",
+      "homeLocation": "The Tokyo Club",
+      "homeLocationId": "11130",
+      "percentile": 26.468533097312154,
+      "changeDisplay": "-1.4",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "i155804",
+      "name": "Josh Nichols",
+      "rating": 1434.48,
+      "rd": 34.76,
+      "ratingClass": "C",
+      "homeLocation": "The Tokyo Club",
+      "homeLocationId": "11130",
+      "percentile": 21.96860297200354,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m28816",
+      "name": "Tricia Cunningham",
+      "rating": 1419.36,
+      "rd": 24.66,
+      "ratingClass": "C",
+      "homeLocation": "The Tokyo Club",
+      "homeLocationId": "11130",
+      "percentile": 17.440722970140214,
+      "changeDisplay": "+3.3",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "i105904",
+      "name": "Jahia Murphy",
+      "rating": 1327.4,
+      "rd": 44.4,
+      "ratingClass": "D",
+      "homeLocation": "The Tokyo Club",
+      "homeLocationId": "11130",
+      "percentile": 2.315181441281968,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m35548",
+      "name": "Brandy Ambrus",
+      "rating": 1323.83,
+      "rd": 30.04,
+      "ratingClass": "D",
+      "homeLocation": "The Tokyo Club",
+      "homeLocationId": "11130",
+      "percentile": 2.0449993012530863,
+      "changeDisplay": "-1.2",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m40538",
+      "name": "Morgan Reddell",
+      "rating": 1307.33,
+      "rd": 21.34,
+      "ratingClass": "D",
+      "homeLocation": "The Pinball Social Club",
+      "homeLocationId": "12217",
+      "percentile": 1.2950109470349838,
+      "changeDisplay": "+2.4",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m50873",
+      "name": "Tammy Brewer",
+      "rating": 1302.13,
+      "rd": 26.84,
+      "ratingClass": "D",
+      "homeLocation": "The Tokyo Club",
+      "homeLocationId": "11130",
+      "percentile": 1.1040201239111194,
+      "changeDisplay": "-0.2",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "i144382",
+      "name": "Catherine Norton",
+      "rating": 1282.43,
+      "rd": 31.51,
+      "ratingClass": "E",
+      "homeLocation": "Capital Mall - QuikPlay Arcade",
+      "homeLocationId": "11654",
+      "percentile": 0.6568220990357292,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i130518",
+      "name": "Anthony Cunningham MO",
+      "rating": 1259.54,
+      "rd": 45.02,
+      "ratingClass": "E",
+      "homeLocation": "The Tokyo Club",
+      "homeLocationId": "11130",
+      "percentile": 0.3260818931383053,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i155803",
+      "name": "Brooke Walden",
+      "rating": null,
+      "rd": null,
+      "ratingClass": "N/A",
+      "homeLocation": "The Tokyo Club",
+      "homeLocationId": "11130",
+      "percentile": null,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

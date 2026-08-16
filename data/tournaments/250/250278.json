@@ -1,0 +1,67 @@
+{
+  "tournamentId": 250278,
+  "name": "Finals for Full Tilt Arcade - Pinbowling League - May 10th  thru July 19th - Season 10",
+  "date": "2026-07-20",
+  "locationId": "7392",
+  "locationName": "Full Tilt Arcade & Pinball",
+  "playerCount": 8,
+  "ratingsDate": "2026-07-20",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m22683",
+      "name": "Chris Friend",
+      "rating": 1652.83,
+      "dailyRatingChange": 2.13
+    },
+    {
+      "position": 2,
+      "playerId": "m52704",
+      "name": "Amber McGinley",
+      "rating": 1499.51,
+      "dailyRatingChange": 2.58
+    },
+    {
+      "position": 3,
+      "playerId": "m39329",
+      "name": "Ken Marciniak",
+      "rating": 1488.64,
+      "dailyRatingChange": 2.19
+    },
+    {
+      "position": 4,
+      "playerId": "m400078",
+      "name": "Aaron Bennett",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 5,
+      "playerId": "i125887",
+      "name": "Julie Pitman",
+      "rating": 1489.11,
+      "dailyRatingChange": 8.26
+    },
+    {
+      "position": 6,
+      "playerId": "i125889",
+      "name": "Isaac Pitman",
+      "rating": 1454.85,
+      "dailyRatingChange": 5.68
+    },
+    {
+      "position": 7,
+      "playerId": "m39388",
+      "name": "Justin Garza",
+      "rating": 1428.73,
+      "dailyRatingChange": -2.21
+    },
+    {
+      "position": 8,
+      "playerId": "m39328",
+      "name": "Kris Marciniak",
+      "rating": 1544.07,
+      "dailyRatingChange": -14.88
+    }
+  ]
+}

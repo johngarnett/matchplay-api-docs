@@ -1,0 +1,39 @@
+{
+  "tournamentId": 265135,
+  "name": "Finals for Bahia Bay pinBallers 12 a",
+  "date": "2026-08-02",
+  "locationId": "13820",
+  "locationName": "Lock Is Lit Pinball",
+  "playerCount": 4,
+  "ratingsDate": "2026-08-02",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m32292",
+      "name": "Jesse Escobar",
+      "rating": 1636.3,
+      "dailyRatingChange": 6.56
+    },
+    {
+      "position": 2,
+      "playerId": "m290223",
+      "name": "Michael Rimmey",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 3,
+      "playerId": "m583873",
+      "name": "Craig Raymond",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 4,
+      "playerId": "i144338",
+      "name": "Andy Prince",
+      "rating": 1523.98,
+      "dailyRatingChange": null
+    }
+  ]
+}

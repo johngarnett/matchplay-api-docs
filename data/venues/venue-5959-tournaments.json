@@ -1,0 +1,347 @@
+{
+  "locationId": "5959",
+  "venueName": "Another Castle Arcade Edition Edmonds",
+  "venueAddress": "23303 Hwy 99 c, Edmonds, WA 98026, USA",
+  "tournaments": [
+    {
+      "id": 266362,
+      "name": "Just Another Another Castle Tournament",
+      "date": "8/9/2026",
+      "playerCount": 12,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m38834",
+          "name": "Brian Reinhard",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m748",
+          "name": "Aaron Garberding",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m47138",
+          "name": "Chris Ripley",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m45593",
+          "name": "Mae Collin",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 266202,
+      "name": "Another Castle Weekly 3 Strike",
+      "date": "8/8/2026",
+      "playerCount": 14,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m55357",
+          "name": "Chris Chrenka",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m45593",
+          "name": "Mae Collin",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m33379",
+          "name": "Erik Rikansrud",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m46831",
+          "name": "Trace Sendele",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 265714,
+      "name": "Another Castle Amazing Race",
+      "date": "8/5/2026",
+      "playerCount": 6,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m3038",
+          "name": "Joshua Francis",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m28883",
+          "name": "Cole Anthony",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "i133359",
+          "name": "Shervin Moheb",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m33281",
+          "name": "Daniel Anthony",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 265216,
+      "name": "Just Another Another Castle Tournament",
+      "date": "8/2/2026",
+      "playerCount": 8,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m6553",
+          "name": "Chris Tinney",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m33281",
+          "name": "Daniel Anthony",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m33379",
+          "name": "Erik Rikansrud",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "i125185",
+          "name": "Nick schackel",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 265094,
+      "name": "Another Castle Weekly 3 Strike",
+      "date": "8/1/2026",
+      "playerCount": 16,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m3038",
+          "name": "Joshua Francis",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m32357",
+          "name": "Matt Ramey",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m2809",
+          "name": "Nigel Colbert",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m17561",
+          "name": "Matthew Roggenkamp",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 264906,
+      "name": "ACAE Friday Night Bowling",
+      "date": "7/31/2026",
+      "playerCount": 12,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "p583490",
+          "name": "Justin",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "p391322",
+          "name": "Becky Richards",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "p530404",
+          "name": "Graham Benjamin",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m3324",
+          "name": "Michael Warfield",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m21233",
+          "name": "Jameson Culler",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 264538,
+      "name": "Another Castle Amazing Race 07/29/26",
+      "date": "7/29/2026",
+      "playerCount": 8,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m33379",
+          "name": "Erik Rikansrud",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m3563",
+          "name": "Robbie Finnigan",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m4007",
+          "name": "Tim Collins",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m24436",
+          "name": "Ariel Bedolla",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 263898,
+      "name": "Another Castle Weekly 3 Strike",
+      "date": "7/25/2026",
+      "playerCount": 21,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m30349",
+          "name": "Grey Ertl",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m32357",
+          "name": "Matt Ramey",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m2809",
+          "name": "Nigel Colbert",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m3038",
+          "name": "Joshua Francis",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 263352,
+      "name": "Another Castle Amazing Race 07/22/26",
+      "date": "7/22/2026",
+      "playerCount": 10,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m23211",
+          "name": "Misha Alexeeff",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m49009",
+          "name": "Lauren Fischer",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m33281",
+          "name": "Daniel Anthony",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m3563",
+          "name": "Robbie Finnigan",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 262786,
+      "name": "Castle Siege for Project Pinball Finals",
+      "date": "7/19/2026",
+      "playerCount": 26,
+      "qualifying": {
+        "id": 256510,
+        "name": "Castle Siege for Project Pinball Qualifying",
+        "playerCount": 51
+      },
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m17561",
+          "name": "Matthew Roggenkamp",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m3038",
+          "name": "Joshua Francis",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m38834",
+          "name": "Brian Reinhard",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m46411",
+          "name": "Rob M Miller",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "locationId": "13707",
+  "name": "Hub Haus",
+  "address": "109 S. Main Street , Elizabethtown KY. 42701",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 5,
+  "relatedVenues": [
+    {
+      "locationId": "9741",
+      "name": "Recbar",
+      "address": "10301 Taylorsville Road, Louisville, KY 40299, US",
+      "count": 12
+    },
+    {
+      "locationId": "7439",
+      "name": "Arcade Legacy Sharonville",
+      "address": "2241 Crowne Point Dr, Cincinnati, OH 45241, US",
+      "count": 10
+    },
+    {
+      "locationId": "3448",
+      "name": "Game Galaxy Arcade",
+      "address": "3 S Lowry St, Smyrna, TN 37167, USA",
+      "count": 5
+    },
+    {
+      "locationId": "9049",
+      "name": "Pleasant Hill Pinranch",
+      "address": "7698 Reynoldsburg Rd Springville, TN",
+      "count": 3
+    },
+    {
+      "locationId": "11760",
+      "name": "High Score Saloon",
+      "address": "309 Main St, Evansville, IN, 47708, US",
+      "count": 3
+    },
+    {
+      "locationId": "11542",
+      "name": "Our Lady of Perpetual Hops",
+      "address": "300 Foundation Ct, New Albany, IN 47150, US",
+      "count": 2
+    },
+    {
+      "locationId": "11567",
+      "name": "Up-Down",
+      "address": "927 Woodland Street, Nashville, TN 37206, US",
+      "count": 2
+    },
+    {
+      "locationId": "11652",
+      "name": "Hot Rod",
+      "address": "1022 Knight Road    Joel ton Tn",
+      "count": 2
+    },
+    {
+      "locationId": "5771",
+      "name": "The Pinvault",
+      "address": "1043 Virginia Ave, Indianapolis, IN 46203, USA",
+      "count": 1
+    },
+    {
+      "locationId": "7156",
+      "name": "No Quarter",
+      "address": "922 Main St, Nashville, TN 37206, USA",
+      "count": 1
+    }
+  ],
+  "players": [
+    {
+      "id": "m20992",
+      "name": "Chris Dewitt",
+      "rating": 1646.35,
+      "rd": 21.24,
+      "ratingClass": "A",
+      "homeLocation": "Recbar",
+      "homeLocationId": "9741",
+      "percentile": 91.25168863837519,
+      "changeDisplay": "-5.1",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m16216",
+      "name": "Joe Ashley",
+      "rating": 1624.09,
+      "rd": 22.66,
+      "ratingClass": "A",
+      "homeLocation": "Arcade Legacy Sharonville",
+      "homeLocationId": "7439",
+      "percentile": 87.43187217589788,
+      "changeDisplay": "+10.0",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m25384",
+      "name": "Kathy Adler",
+      "rating": 1534.19,
+      "rd": 17.83,
+      "ratingClass": "B",
+      "homeLocation": "Game Galaxy Arcade",
+      "homeLocationId": "3448",
+      "percentile": 60.67452368752038,
+      "changeDisplay": "-2.8",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "i160020",
+      "name": "Leonard Spiers",
+      "rating": 1449.51,
+      "rd": 33.76,
+      "ratingClass": "C",
+      "homeLocation": "Hub Haus",
+      "homeLocationId": "13707",
+      "percentile": 26.971630875296963,
+      "changeDisplay": "-20.8",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "i159154",
+      "name": "Richard Leister",
+      "rating": null,
+      "rd": null,
+      "ratingClass": "N/A",
+      "homeLocation": "Hub Haus",
+      "homeLocationId": "13707",
+      "percentile": null,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

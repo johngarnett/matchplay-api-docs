@@ -1,0 +1,89 @@
+{
+  "locationId": "2859",
+  "name": "Midlife Crisis Pinball Club",
+  "address": "",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 5,
+  "relatedVenues": [
+    {
+      "locationId": "3970",
+      "name": "Flippnic",
+      "address": "Badendorf 12b, 8413 Badendorf, Austria",
+      "count": 4
+    },
+    {
+      "locationId": "8617",
+      "name": "Biljardna Hisa Ljubljana - Slovenska",
+      "address": "Slovenska 58, 1000 Ljubljana",
+      "count": 3
+    },
+    {
+      "locationId": "11426",
+      "name": "Buzas Pinball & Wine Guesthouse",
+      "address": "3013 Ecséd, Kossuth Lajos u. 134. - Hungary",
+      "count": 2
+    }
+  ],
+  "players": [
+    {
+      "id": "m25937",
+      "name": "Zoltan Pataki",
+      "rating": 1636.76,
+      "rd": 28.96,
+      "ratingClass": "A",
+      "homeLocation": "Midlife Crisis Pinball Club",
+      "homeLocationId": "2859",
+      "percentile": 89.78897843201193,
+      "changeDisplay": "+6.6",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "i43277",
+      "name": "Zsolt Csiszka",
+      "rating": 1589.52,
+      "rd": 35.55,
+      "ratingClass": "B",
+      "homeLocation": "Midlife Crisis Pinball Club",
+      "homeLocationId": "2859",
+      "percentile": 79.34504122606792,
+      "changeDisplay": "+5.7",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m23285",
+      "name": "László Bugledits",
+      "rating": 1558.42,
+      "rd": 32.69,
+      "ratingClass": "B",
+      "homeLocation": "Midlife Crisis Pinball Club",
+      "homeLocationId": "2859",
+      "percentile": 69.81879163367029,
+      "changeDisplay": "+6.7",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m32879",
+      "name": "Gyorgy Kamaras",
+      "rating": 1533.78,
+      "rd": 24.41,
+      "ratingClass": "B",
+      "homeLocation": "Flippnic",
+      "homeLocationId": "3970",
+      "percentile": 60.53943261750594,
+      "changeDisplay": "-5.8",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m27212",
+      "name": "Peter Varga",
+      "rating": 1511.56,
+      "rd": 33.31,
+      "ratingClass": "B",
+      "homeLocation": "Midlife Crisis Pinball Club",
+      "homeLocationId": "2859",
+      "percentile": 51.856337634508776,
+      "changeDisplay": "-10.2",
+      "changeClass": "change-negative"
+    }
+  ]
+}

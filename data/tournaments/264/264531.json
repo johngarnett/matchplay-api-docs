@@ -1,0 +1,39 @@
+{
+  "tournamentId": 264531,
+  "name": "Finals for Summer Slam 2026",
+  "date": "2026-07-30",
+  "locationId": "10016",
+  "locationName": "One Well Brewing",
+  "playerCount": 4,
+  "ratingsDate": "2026-07-30",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m878",
+      "name": "Chris Tabaka",
+      "rating": 1778.14,
+      "dailyRatingChange": 2.26
+    },
+    {
+      "position": 2,
+      "playerId": "m20025",
+      "name": "Jason Kramer",
+      "rating": 1657.57,
+      "dailyRatingChange": 15.41
+    },
+    {
+      "position": 3,
+      "playerId": "i87653",
+      "name": "Josh Dearman",
+      "rating": 1652.14,
+      "dailyRatingChange": 3.61
+    },
+    {
+      "position": 4,
+      "playerId": "m50256",
+      "name": "Daniel Tabaka",
+      "rating": 1671.5,
+      "dailyRatingChange": -0.64
+    }
+  ]
+}

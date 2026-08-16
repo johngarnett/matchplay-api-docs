@@ -1,0 +1,123 @@
+{
+  "tournamentId": 265807,
+  "name": "Bang Back Pinball League- The Grateful Summer 2026 #5- A Division",
+  "date": "2026-08-12",
+  "locationId": "7528",
+  "locationName": "Bang Back Pinball Lounge",
+  "playerCount": 16,
+  "ratingsDate": "2026-08-12",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m4775",
+      "name": "Nate Grant",
+      "rating": 1801.61,
+      "dailyRatingChange": 12.2
+    },
+    {
+      "position": 2,
+      "playerId": "m58524",
+      "name": "Patrick Bailey",
+      "rating": 1709.2,
+      "dailyRatingChange": 7.73
+    },
+    {
+      "position": 3,
+      "playerId": "m28153",
+      "name": "Michael Moore",
+      "rating": 1584.51,
+      "dailyRatingChange": 5.19
+    },
+    {
+      "position": 4,
+      "playerId": "m43397",
+      "name": "Jared Wilson",
+      "rating": 1632.97,
+      "dailyRatingChange": 1.48
+    },
+    {
+      "position": 5,
+      "playerId": "m18180",
+      "name": "Michael Egbert",
+      "rating": 1657.72,
+      "dailyRatingChange": 1.18
+    },
+    {
+      "position": 5,
+      "playerId": "m44867",
+      "name": "Riley Winslow",
+      "rating": 1646.55,
+      "dailyRatingChange": -4.76
+    },
+    {
+      "position": 7,
+      "playerId": "m58540",
+      "name": "Alex Anderson-Mcleod",
+      "rating": 1505.53,
+      "dailyRatingChange": 7.24
+    },
+    {
+      "position": 8,
+      "playerId": "m48673",
+      "name": "Cody Haigler",
+      "rating": 1474.36,
+      "dailyRatingChange": 10.4
+    },
+    {
+      "position": 9,
+      "playerId": "m19013",
+      "name": "Brittney Matto",
+      "rating": 1514.48,
+      "dailyRatingChange": -5.95
+    },
+    {
+      "position": 10,
+      "playerId": "i156450",
+      "name": "Trajaun Duckett",
+      "rating": 1437.17,
+      "dailyRatingChange": -2.93
+    },
+    {
+      "position": 10,
+      "playerId": "m17579",
+      "name": "Vicky Quinonez",
+      "rating": 1442.84,
+      "dailyRatingChange": 4.24
+    },
+    {
+      "position": 12,
+      "playerId": "m60799",
+      "name": "Ash Jacobson",
+      "rating": 1497.89,
+      "dailyRatingChange": -1.85
+    },
+    {
+      "position": 12,
+      "playerId": "m548306",
+      "name": "Zac Golpira",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 14,
+      "playerId": "m548297",
+      "name": "Alex Dowdy",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 15,
+      "playerId": "m19562",
+      "name": "Gabrielle Baggette",
+      "rating": 1473.72,
+      "dailyRatingChange": -5.31
+    },
+    {
+      "position": 16,
+      "playerId": "m21972",
+      "name": "Paul LoPresti",
+      "rating": 1530.27,
+      "dailyRatingChange": -13.94
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "tournamentId": 262528,
+  "name": "South Bay Tilt Arcade - Transformers Launch Party @Hermosa Brewing Co",
+  "date": "2026-08-02",
+  "locationId": "11143",
+  "locationName": "Hermosa Brewing Company",
+  "playerCount": 12,
+  "ratingsDate": "2026-08-02",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m4742",
+      "name": "Jonathan Soon",
+      "rating": 1679.52,
+      "dailyRatingChange": 5.48
+    },
+    {
+      "position": 2,
+      "playerId": "m30453",
+      "name": "Luc Kleiner",
+      "rating": 1620.47,
+      "dailyRatingChange": 24.61
+    },
+    {
+      "position": 3,
+      "playerId": "m26158",
+      "name": "Robert Potter",
+      "rating": 1786.79,
+      "dailyRatingChange": -4.71
+    },
+    {
+      "position": 4,
+      "playerId": "m40281",
+      "name": "Derek Johnson",
+      "rating": 1573.26,
+      "dailyRatingChange": 5.6
+    },
+    {
+      "position": 5,
+      "playerId": "m49252",
+      "name": "Jason Solomon",
+      "rating": 1599.74,
+      "dailyRatingChange": 0.74
+    },
+    {
+      "position": 6,
+      "playerId": "m13157",
+      "name": "Matt Falzone",
+      "rating": 1684.89,
+      "dailyRatingChange": -0.75
+    },
+    {
+      "position": 7,
+      "playerId": "m34576",
+      "name": "Carl Alvarez",
+      "rating": 1571.52,
+      "dailyRatingChange": -1.87
+    },
+    {
+      "position": 8,
+      "playerId": "m18360",
+      "name": "Bee Kong",
+      "rating": 1547.6,
+      "dailyRatingChange": -6.78
+    },
+    {
+      "position": 9,
+      "playerId": "m44020",
+      "name": "Mason Guffey",
+      "rating": 1399.08,
+      "dailyRatingChange": -12.18
+    },
+    {
+      "position": 9,
+      "playerId": "m62264",
+      "name": "Kristi Thomas",
+      "rating": 1352.1,
+      "dailyRatingChange": 1.74
+    },
+    {
+      "position": 11,
+      "playerId": "m584116",
+      "name": "Kayden Bartlett",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 12,
+      "playerId": "m584119",
+      "name": "Matthew Brannan",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "tournamentId": 266169,
+  "name": "Women's Transformers LP Finals",
+  "date": "2026-08-09",
+  "locationId": "8603",
+  "locationName": "I Need a Miracle Tickets",
+  "playerCount": 4,
+  "ratingsDate": "2026-08-09",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m35940",
+      "name": "Amanda Little",
+      "rating": 1527.29,
+      "dailyRatingChange": 9.78
+    },
+    {
+      "position": 2,
+      "playerId": "m38997",
+      "name": "Friday Wainfan",
+      "rating": 1612.44,
+      "dailyRatingChange": 10.7
+    },
+    {
+      "position": 3,
+      "playerId": "m7803",
+      "name": "Lisa Buhrmester",
+      "rating": 1644.83,
+      "dailyRatingChange": -5.22
+    },
+    {
+      "position": 4,
+      "playerId": "m48802",
+      "name": "Lily Sims-Williams",
+      "rating": 1516.05,
+      "dailyRatingChange": -8.84
+    }
+  ]
+}

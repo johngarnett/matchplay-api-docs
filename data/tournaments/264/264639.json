@@ -1,0 +1,39 @@
+{
+  "tournamentId": 264639,
+  "name": "Belles & Chimes Tallahassee League Night 7/30/2026",
+  "date": "2026-07-31",
+  "locationId": "10087",
+  "locationName": "Flippin' Great Pinball",
+  "playerCount": 4,
+  "ratingsDate": "2026-07-31",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m30837",
+      "name": "Ailsa Riddell",
+      "rating": 1722.61,
+      "dailyRatingChange": -1.5
+    },
+    {
+      "position": 2,
+      "playerId": "i125452",
+      "name": "Susan Cloos",
+      "rating": 1522.48,
+      "dailyRatingChange": 29.87
+    },
+    {
+      "position": 3,
+      "playerId": "i161493",
+      "name": "yatub",
+      "rating": 1546.86,
+      "dailyRatingChange": -7.45
+    },
+    {
+      "position": 4,
+      "playerId": "i161490",
+      "name": "Mary Charlotte Sullivan",
+      "rating": 1542.68,
+      "dailyRatingChange": -25.52
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "tournamentId": 262685,
+  "name": "Finals for Ballerz - IFPA Stern Army Pokemon Launch Party Tournament",
+  "date": "2026-07-18",
+  "locationId": "12244",
+  "locationName": "Ballerz Pinball Cafe",
+  "playerCount": 4,
+  "ratingsDate": "2026-07-18",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m1540",
+      "name": "Rob Endo",
+      "rating": 1698.14,
+      "dailyRatingChange": -1.72
+    },
+    {
+      "position": 2,
+      "playerId": "m40158",
+      "name": "Andrew Hernandez",
+      "rating": 1666.24,
+      "dailyRatingChange": 9.4
+    },
+    {
+      "position": 3,
+      "playerId": "m16109",
+      "name": "Derek Jensen",
+      "rating": 1649.73,
+      "dailyRatingChange": 2.14
+    },
+    {
+      "position": 4,
+      "playerId": "i13427",
+      "name": "Kyle Hotchkiss",
+      "rating": 1658.91,
+      "dailyRatingChange": -24.45
+    }
+  ]
+}

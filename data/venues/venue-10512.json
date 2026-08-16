@@ -1,0 +1,125 @@
+{
+  "locationId": "10512",
+  "name": "Five Shores Brewing",
+  "address": "163 S Benzie Blvd, Beulah, MI 49617, US",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 8,
+  "relatedVenues": [
+    {
+      "locationId": "6846",
+      "name": "The Coin Slot",
+      "address": "346 E Front Street, Traverse City, MI 49684, US",
+      "count": 72
+    },
+    {
+      "locationId": "6879",
+      "name": "Right Brain Brewery",
+      "address": "225 E Sixteenth St, Traverse City, MI, 49684, US",
+      "count": 54
+    },
+    {
+      "locationId": "13436",
+      "name": "Stone Hound Brewing Company",
+      "address": "3593 Bunker Hill Rd, Williamsburg, MI 49690, US",
+      "count": 5
+    }
+  ],
+  "players": [
+    {
+      "id": "m7468",
+      "name": "Scott Pierson",
+      "rating": 1611.11,
+      "rd": 28.07,
+      "ratingClass": "A",
+      "homeLocation": "The Coin Slot",
+      "homeLocationId": "6846",
+      "percentile": 84.69744258629525,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m44725",
+      "name": "Mike Alfaro",
+      "rating": 1597.66,
+      "rd": 18.47,
+      "ratingClass": "B",
+      "homeLocation": "The Coin Slot",
+      "homeLocationId": "6846",
+      "percentile": 81.42264871663484,
+      "changeDisplay": "+1.2",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m32189",
+      "name": "Dan Daberkoe",
+      "rating": 1590.95,
+      "rd": 47.42,
+      "ratingClass": "B",
+      "homeLocation": "Five Shores Brewing",
+      "homeLocationId": "10512",
+      "percentile": 79.69441468300181,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m41939",
+      "name": "Marshal McMillan",
+      "rating": 1582.97,
+      "rd": 20.51,
+      "ratingClass": "B",
+      "homeLocation": "The Coin Slot",
+      "homeLocationId": "6846",
+      "percentile": 77.4397913075884,
+      "changeDisplay": "-9.4",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m13877",
+      "name": "Tracy Ward",
+      "rating": 1526.6,
+      "rd": 18.04,
+      "ratingClass": "B",
+      "homeLocation": "The Coin Slot",
+      "homeLocationId": "6846",
+      "percentile": 57.66525364512973,
+      "changeDisplay": "-1.0",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m25014",
+      "name": "Ben Harris",
+      "rating": 1514.37,
+      "rd": 18.96,
+      "ratingClass": "B",
+      "homeLocation": "The Coin Slot",
+      "homeLocationId": "6846",
+      "percentile": 52.899799692551355,
+      "changeDisplay": "+3.0",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "i148345",
+      "name": "Lily Deisig",
+      "rating": 1488.54,
+      "rd": 29.01,
+      "ratingClass": "C",
+      "homeLocation": "The Coin Slot",
+      "homeLocationId": "6846",
+      "percentile": 42.36269623142498,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i132226",
+      "name": "Maggie MacGirr",
+      "rating": 1443.02,
+      "rd": 55.75,
+      "ratingClass": "C",
+      "homeLocation": "Five Shores Brewing",
+      "homeLocationId": "10512",
+      "percentile": 24.754274001956492,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

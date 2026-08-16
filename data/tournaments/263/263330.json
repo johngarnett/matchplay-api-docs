@@ -1,0 +1,67 @@
+{
+  "tournamentId": 263330,
+  "name": "2026 S2 Week 6",
+  "date": "2026-07-23",
+  "locationId": "9600",
+  "locationName": "The Mighty Axe - TO",
+  "playerCount": 8,
+  "ratingsDate": "2026-07-23",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "i123907",
+      "name": "Dustin Kopel",
+      "rating": 1705.62,
+      "dailyRatingChange": 5.1
+    },
+    {
+      "position": 1,
+      "playerId": "m40668",
+      "name": "Trent Barnhart",
+      "rating": 1542.95,
+      "dailyRatingChange": 16.66
+    },
+    {
+      "position": 3,
+      "playerId": "i127934",
+      "name": "Shawn Raft",
+      "rating": 1566.43,
+      "dailyRatingChange": 5.92
+    },
+    {
+      "position": 4,
+      "playerId": "m56179",
+      "name": "Zac Pritchard",
+      "rating": 1537.79,
+      "dailyRatingChange": 2.03
+    },
+    {
+      "position": 5,
+      "playerId": "m492515",
+      "name": "Ryan Thomas",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 6,
+      "playerId": "m572718",
+      "name": "Joey Kelly",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 7,
+      "playerId": "i34607",
+      "name": "Robert Williams",
+      "rating": 1482.38,
+      "dailyRatingChange": -21.25
+    },
+    {
+      "position": 8,
+      "playerId": "m580965",
+      "name": "Joe Pinball805",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

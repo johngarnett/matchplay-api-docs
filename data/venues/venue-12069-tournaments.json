@@ -1,0 +1,40 @@
+{
+  "locationId": "12069",
+  "venueName": "Ben’s Brew Station",
+  "venueAddress": "719 Walnut Street, Yankton, SD 57078, US",
+  "tournaments": [
+    {
+      "id": 266226,
+      "name": "Max Matchplay",
+      "date": "8/9/2026",
+      "playerCount": 8,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m49004",
+          "name": "Neil Herbold",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "p537712",
+          "name": "Dustin Stahl",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "p495694",
+          "name": "Doug Sanders",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "p495695",
+          "name": "Jessica Sanders",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

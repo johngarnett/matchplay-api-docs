@@ -1,0 +1,95 @@
+{
+  "tournamentId": 266516,
+  "name": "Qualifying for Tower Tuesday 11/8/26",
+  "date": "2026-08-11",
+  "locationId": "12625",
+  "locationName": "Tower Cinema",
+  "playerCount": 12,
+  "ratingsDate": "2026-08-11",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m1746",
+      "name": "Clinton Starrett",
+      "rating": 1653.57,
+      "dailyRatingChange": 9.93
+    },
+    {
+      "position": 2,
+      "playerId": "i42252",
+      "name": "David McKinnon",
+      "rating": 1570.2,
+      "dailyRatingChange": 81.74
+    },
+    {
+      "position": 3,
+      "playerId": "m59385",
+      "name": "Nick Schmalenberg",
+      "rating": 1514.58,
+      "dailyRatingChange": 7.98
+    },
+    {
+      "position": 3,
+      "playerId": "m32732",
+      "name": "Richard Suters",
+      "rating": 1569.22,
+      "dailyRatingChange": 3.08
+    },
+    {
+      "position": 5,
+      "playerId": "m523979",
+      "name": "Ben Schaeffer",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 6,
+      "playerId": "m59111",
+      "name": "Peter Schmalenberg",
+      "rating": 1545.8,
+      "dailyRatingChange": -4.83
+    },
+    {
+      "position": 6,
+      "playerId": "m626",
+      "name": "Brett Goodwin",
+      "rating": 1697.87,
+      "dailyRatingChange": -7.9
+    },
+    {
+      "position": 8,
+      "playerId": "i159381",
+      "name": "Mal Cawthorne",
+      "rating": 1513.57,
+      "dailyRatingChange": -11
+    },
+    {
+      "position": 9,
+      "playerId": "m544417",
+      "name": "Flynn Stacey",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 10,
+      "playerId": "i113264",
+      "name": "Tom Nichols",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 11,
+      "playerId": "i155340",
+      "name": "Craig Andriessen",
+      "rating": 1428.91,
+      "dailyRatingChange": -12.38
+    },
+    {
+      "position": 12,
+      "playerId": "m586318",
+      "name": "Ouke",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

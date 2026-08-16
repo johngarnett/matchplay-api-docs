@@ -1,0 +1,79 @@
+{
+  "locationId": "13054",
+  "venueName": "Beer Run & Some with Nimbus Vapors",
+  "venueAddress": "17800 Chillicothe Rd, Chagrin Falls, OH 44023, US",
+  "tournaments": [
+    {
+      "id": 258270,
+      "name": "Knockout at the Beer Run",
+      "date": "7/31/2026",
+      "playerCount": 10,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m18069",
+          "name": "Richard Rulong",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "i90040",
+          "name": "Sam Paterson",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m61096",
+          "name": "David Tokos",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m28706",
+          "name": "Pat Kupniewski",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m50539",
+          "name": "Brian Schultz",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 263665,
+      "name": "Flipper Frenzy",
+      "date": "7/24/2026",
+      "playerCount": 10,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m46085",
+          "name": "Ben Dunn",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 1,
+          "playerId": "i90040",
+          "name": "Sam Paterson",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 1,
+          "playerId": "m61096",
+          "name": "David Tokos",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 1,
+          "playerId": "m7772",
+          "name": "Max Broun",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

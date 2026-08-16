@@ -1,0 +1,39 @@
+{
+  "tournamentId": 265727,
+  "name": "Finals for PinCrossing August 2026 Monthly Tournament - Max Match Play",
+  "date": "2026-08-06",
+  "locationId": "6971",
+  "locationName": "Railroad Street Bar and Grill",
+  "playerCount": 4,
+  "ratingsDate": "2026-08-06",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m38730",
+      "name": "Justin Stone OH",
+      "rating": 1740.67,
+      "dailyRatingChange": 1.78
+    },
+    {
+      "position": 2,
+      "playerId": "m627",
+      "name": "Jay Robinson",
+      "rating": 1644.86,
+      "dailyRatingChange": 5.48
+    },
+    {
+      "position": 3,
+      "playerId": "m58383",
+      "name": "Albert Zuba",
+      "rating": 1615.01,
+      "dailyRatingChange": 3
+    },
+    {
+      "position": 4,
+      "playerId": "m45868",
+      "name": "Ben Lewis",
+      "rating": 1556.48,
+      "dailyRatingChange": 0.99
+    }
+  ]
+}

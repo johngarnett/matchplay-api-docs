@@ -1,0 +1,40 @@
+{
+  "locationId": "9906",
+  "venueName": "B. A. Start Arcade and Tap - A Pinball Lounge & Social Club",
+  "venueAddress": "647 Higuera St, San Luis Obispo, Ca 93401",
+  "tournaments": [
+    {
+      "id": 264545,
+      "name": "End of The Month Tournament BA Start SLO Town",
+      "date": "7/29/2026",
+      "playerCount": 10,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m39159",
+          "name": "Timber Amaral",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "i8622",
+          "name": "Mike Nedresky",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "p269938",
+          "name": "Biba Pickles",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m28971",
+          "name": "Randall Lakey",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

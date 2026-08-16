@@ -1,0 +1,383 @@
+{
+  "locationId": "13118",
+  "name": "Fast Eddie's Moab Meal On Bun",
+  "address": "1228 Tully Rd, Modesto, CA 95350, US",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 26,
+  "relatedVenues": [
+    {
+      "locationId": "5173",
+      "name": "The Flipper Room",
+      "address": "1033 Shary Cir, Concord, CA 94518, USA",
+      "count": 82
+    },
+    {
+      "locationId": "11416",
+      "name": "Rivets American Grill",
+      "address": "2307 Oakdale Rd, Modesto, CA 95355, US",
+      "count": 26
+    },
+    {
+      "locationId": "6612",
+      "name": "Lynn's Arcade: A Pinball Parlor and Can Slangery",
+      "address": "1760 Fremont Boulevard, Suite D1, Seaside, California 93955, US",
+      "count": 18
+    },
+    {
+      "locationId": "12580",
+      "name": "Sparky's House",
+      "address": "7637 Mitchell Road, Ceres, CA  95307",
+      "count": 12
+    },
+    {
+      "locationId": "9842",
+      "name": "MarTEEnez Minigolf & Arcade",
+      "address": "701 Escobar St, Martinez, CA, 94553, US",
+      "count": 11
+    },
+    {
+      "locationId": "10372",
+      "name": "Joystiq",
+      "address": "325 west main",
+      "count": 11
+    },
+    {
+      "locationId": "11141",
+      "name": "Slingshot Pinball",
+      "address": "460 Lincoln Ave #70, San Jose, CA 95126, US",
+      "count": 7
+    },
+    {
+      "locationId": "13043",
+      "name": "GSPF",
+      "address": "413 E. Rockford Street, Lodi, CA 95240",
+      "count": 7
+    },
+    {
+      "locationId": "11556",
+      "name": "Marquee Pinball Lounge",
+      "address": "1311 1st St, Napa, CA 94559, US",
+      "count": 6
+    },
+    {
+      "locationId": "9542",
+      "name": "Capital Pinball Parlor",
+      "address": "117 J St, Sacramento, CA 95814, US",
+      "count": 3
+    }
+  ],
+  "players": [
+    {
+      "id": "m27559",
+      "name": "Scott Burgess",
+      "rating": 1714.57,
+      "rd": 19.92,
+      "ratingClass": "Expert",
+      "homeLocation": "The Flipper Room",
+      "homeLocationId": "5173",
+      "percentile": 97.39134485489356,
+      "changeDisplay": "+1.4",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m13063",
+      "name": "Daniel Gonzalez",
+      "rating": 1707.05,
+      "rd": 18.49,
+      "ratingClass": "Expert",
+      "homeLocation": "The Flipper Room",
+      "homeLocationId": "5173",
+      "percentile": 96.98607164485024,
+      "changeDisplay": "+3.0",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m17705",
+      "name": "Kwang Chong",
+      "rating": 1679.61,
+      "rd": 17.18,
+      "ratingClass": "A",
+      "homeLocation": "The Flipper Room",
+      "homeLocationId": "5173",
+      "percentile": 95.08548003912983,
+      "changeDisplay": "+5.9",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "i16934",
+      "name": "Chris Kuntz",
+      "rating": 1659.86,
+      "rd": 47.39,
+      "ratingClass": "A",
+      "homeLocation": "Fast Eddie's Moab Meal On Bun",
+      "homeLocationId": "13118",
+      "percentile": 93.07774723994969,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m49696",
+      "name": "chad schott",
+      "rating": 1651.71,
+      "rd": 29.59,
+      "ratingClass": "A",
+      "homeLocation": "Sparky's House",
+      "homeLocationId": "12580",
+      "percentile": 91.94111892672474,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i104745",
+      "name": "Chad Schott",
+      "rating": 1649.22,
+      "rd": 26.12,
+      "ratingClass": "A",
+      "homeLocation": "Rivets American Grill",
+      "homeLocationId": "11416",
+      "percentile": 91.61037872082731,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m48063",
+      "name": "Anthony Rios",
+      "rating": 1645.51,
+      "rd": 29.72,
+      "ratingClass": "A",
+      "homeLocation": "Rivets American Grill",
+      "homeLocationId": "11416",
+      "percentile": 91.08864769180602,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m321",
+      "name": "TJ Beyer",
+      "rating": 1639.91,
+      "rd": 28.96,
+      "ratingClass": "A",
+      "homeLocation": "The Flipper Room",
+      "homeLocationId": "5173",
+      "percentile": 90.31536777379233,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m53171",
+      "name": "Bret Stilwill",
+      "rating": 1614.45,
+      "rd": 27.67,
+      "ratingClass": "A",
+      "homeLocation": "Rivets American Grill",
+      "homeLocationId": "11416",
+      "percentile": 85.45208925327246,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m44408",
+      "name": "Nick Chambers",
+      "rating": 1606.05,
+      "rd": 27.15,
+      "ratingClass": "A",
+      "homeLocation": "Rivets American Grill",
+      "homeLocationId": "11416",
+      "percentile": 83.44901476685145,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m24476",
+      "name": "Amy Martin",
+      "rating": 1605.75,
+      "rd": 18.79,
+      "ratingClass": "A",
+      "homeLocation": "The Flipper Room",
+      "homeLocationId": "5173",
+      "percentile": 83.32789863511437,
+      "changeDisplay": "+5.7",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m47470",
+      "name": "James Elola",
+      "rating": 1593.27,
+      "rd": 24.41,
+      "ratingClass": "B",
+      "homeLocation": "Joystiq",
+      "homeLocationId": "10372",
+      "percentile": 80.3139702799646,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m52774",
+      "name": "Nickel Chambers",
+      "rating": 1580.61,
+      "rd": 28.33,
+      "ratingClass": "B",
+      "homeLocation": "Rivets American Grill",
+      "homeLocationId": "11416",
+      "percentile": 76.80160245958913,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m52579",
+      "name": "Mark Malmberg",
+      "rating": 1575.05,
+      "rd": 27.67,
+      "ratingClass": "B",
+      "homeLocation": "Das Flipperhaus",
+      "homeLocationId": "7008",
+      "percentile": 75.07802673871524,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m55141",
+      "name": "Robert Riess",
+      "rating": 1533.67,
+      "rd": 29.41,
+      "ratingClass": "B",
+      "homeLocation": "Rivets American Grill",
+      "homeLocationId": "11416",
+      "percentile": 60.502166115432985,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m47485",
+      "name": "Alex Macias",
+      "rating": 1532.69,
+      "rd": 23.27,
+      "ratingClass": "B",
+      "homeLocation": "Rivets American Grill",
+      "homeLocationId": "11416",
+      "percentile": 60.14813434573997,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m48149",
+      "name": "Jacob Hill",
+      "rating": 1524.67,
+      "rd": 29.09,
+      "ratingClass": "B",
+      "homeLocation": "Fast Eddie's Moab Meal On Bun",
+      "homeLocationId": "13118",
+      "percentile": 56.96650673126194,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m46294",
+      "name": "Robert wilson",
+      "rating": 1514.72,
+      "rd": 37.91,
+      "ratingClass": "B",
+      "homeLocation": "Fast Eddie's Moab Meal On Bun",
+      "homeLocationId": "13118",
+      "percentile": 53.067498951879635,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m33305",
+      "name": "Jeannie Rodriguez",
+      "rating": 1512.06,
+      "rd": 21.13,
+      "ratingClass": "B",
+      "homeLocation": "The Flipper Room",
+      "homeLocationId": "5173",
+      "percentile": 52.028695206596176,
+      "changeDisplay": "-4.0",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m47481",
+      "name": "Des Stone",
+      "rating": 1502.35,
+      "rd": 26.2,
+      "ratingClass": "B",
+      "homeLocation": "Fast Eddie's Moab Meal On Bun",
+      "homeLocationId": "13118",
+      "percentile": 48.02720454651325,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m41686",
+      "name": "Ryan Knight",
+      "rating": 1484.65,
+      "rd": 23.55,
+      "ratingClass": "C",
+      "homeLocation": "Slingshot Pinball",
+      "homeLocationId": "11141",
+      "percentile": 40.73694507849257,
+      "changeDisplay": "+7.3",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m61023",
+      "name": "Preston Osbourn",
+      "rating": 1394.96,
+      "rd": 52.32,
+      "ratingClass": "D",
+      "homeLocation": "Fast Eddie's Moab Meal On Bun",
+      "homeLocationId": "13118",
+      "percentile": 11.263800251548888,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i158010",
+      "name": "Preston Osbourn",
+      "rating": null,
+      "rd": null,
+      "ratingClass": "N/A",
+      "homeLocation": "Fast Eddie's Moab Meal On Bun",
+      "homeLocationId": "13118",
+      "percentile": null,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i156379",
+      "name": "John Fabela",
+      "rating": null,
+      "rd": null,
+      "ratingClass": "N/A",
+      "homeLocation": "Fast Eddie's Moab Meal On Bun",
+      "homeLocationId": "13118",
+      "percentile": null,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i121424",
+      "name": "Eddie Dobson",
+      "rating": null,
+      "rd": null,
+      "ratingClass": "N/A",
+      "homeLocation": "Fast Eddie's Moab Meal On Bun",
+      "homeLocationId": "13118",
+      "percentile": null,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i153077",
+      "name": "Des Stone",
+      "rating": null,
+      "rd": null,
+      "ratingClass": "N/A",
+      "homeLocation": "Fast Eddie's Moab Meal On Bun",
+      "homeLocationId": "13118",
+      "percentile": null,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

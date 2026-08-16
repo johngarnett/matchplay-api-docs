@@ -1,0 +1,39 @@
+{
+  "tournamentId": 262926,
+  "name": "Finals for Silverball Sunday 7/20",
+  "date": "2026-07-20",
+  "locationId": "7961",
+  "locationName": "Blairalley",
+  "playerCount": 4,
+  "ratingsDate": "2026-07-20",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m23834",
+      "name": "Michael Veirs",
+      "rating": 1699.64,
+      "dailyRatingChange": 4.42
+    },
+    {
+      "position": 2,
+      "playerId": "m34328",
+      "name": "Gary Kochel",
+      "rating": 1564.18,
+      "dailyRatingChange": 14.16
+    },
+    {
+      "position": 3,
+      "playerId": "m4071",
+      "name": "Ryan Whitmore",
+      "rating": 1569.92,
+      "dailyRatingChange": 3.83
+    },
+    {
+      "position": 4,
+      "playerId": "m50884",
+      "name": "Derek Brenden",
+      "rating": 1583.22,
+      "dailyRatingChange": -1.79
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "tournamentId": 261910,
+  "name": "Div B Quarter Final - Monday League #4",
+  "date": "2026-07-20",
+  "locationId": "10800",
+  "locationName": "Illawarra Pinball Clubhouse",
+  "playerCount": 8,
+  "ratingsDate": "2026-07-20",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m550907",
+      "name": "Giles Bowen",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 2,
+      "playerId": "m48919",
+      "name": "Christopher Farrell",
+      "rating": 1511.35,
+      "dailyRatingChange": 3.47
+    },
+    {
+      "position": 3,
+      "playerId": "m48270",
+      "name": "Jonno Greig",
+      "rating": 1424.51,
+      "dailyRatingChange": 11.68
+    },
+    {
+      "position": 4,
+      "playerId": "i126600",
+      "name": "Ivan Poo",
+      "rating": 1468.08,
+      "dailyRatingChange": -4.16
+    },
+    {
+      "position": 5,
+      "playerId": "m47097",
+      "name": "Craig Stanford",
+      "rating": 1525.28,
+      "dailyRatingChange": -3.4
+    },
+    {
+      "position": 5,
+      "playerId": "m446069",
+      "name": "Brett Harris",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 7,
+      "playerId": "i110888",
+      "name": "Josh Elm",
+      "rating": 1428.82,
+      "dailyRatingChange": -4.13
+    },
+    {
+      "position": 8,
+      "playerId": "m580235",
+      "name": "David Woodward",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

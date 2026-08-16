@@ -1,0 +1,44 @@
+{
+  "locationId": "7388",
+  "venueName": "Nacka Flipper",
+  "venueAddress": "Fredrik Jahns Gränd, Nacka, 131 36, SE",
+  "tournaments": [
+    {
+      "id": 260863,
+      "name": "Finals for Nackas SommarPAPA",
+      "date": "7/26/2026",
+      "playerCount": 20,
+      "qualifying": {
+        "id": 252367,
+        "name": "Nackas SommarPAPA",
+        "playerCount": 44
+      },
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m53744",
+          "name": "Iván Håkansson",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m34010",
+          "name": "Patrik Lindberg",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m164",
+          "name": "Mats Runsten",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m12463",
+          "name": "Adam Higgins",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

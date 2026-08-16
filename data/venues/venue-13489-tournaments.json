@@ -1,0 +1,151 @@
+{
+  "locationId": "13489",
+  "venueName": "Back to the Nineties Retro Arcade",
+  "venueAddress": "451 SW Madison Ave, Corvallis, OR 97333, US",
+  "tournaments": [
+    {
+      "id": 261083,
+      "name": "Corvallis Women's Pinball League Season 1 Week #6",
+      "date": "8/11/2026",
+      "playerCount": 17,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m60790",
+          "name": "Sally Sheldon",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m61630",
+          "name": "Ruby Weaver",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m62623",
+          "name": "Katrina Anderson",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m61148",
+          "name": "Candi Lopez",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m61697",
+          "name": "Elizabeth Rudisill",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 261082,
+      "name": "Corvallis Women's Pinball League Season 1 Week #5",
+      "date": "8/4/2026",
+      "playerCount": 13,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m61630",
+          "name": "Ruby Weaver",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m61707",
+          "name": "Ana Monreal",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m62623",
+          "name": "Katrina Anderson",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m61686",
+          "name": "Bree Abel",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 261081,
+      "name": "Corvallis Women's Pinball League Season 1 Week #4",
+      "date": "7/28/2026",
+      "playerCount": 20,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m61697",
+          "name": "Elizabeth Rudisill",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m61630",
+          "name": "Ruby Weaver",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m61686",
+          "name": "Bree Abel",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m60764",
+          "name": "Kelley Swanson",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "p576643",
+          "name": "Stephanie Rasor",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 261080,
+      "name": "Corvallis Women's Pinball League Season 1 Week #3",
+      "date": "7/21/2026",
+      "playerCount": 18,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m60762",
+          "name": "Dawn Duerksen",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m61630",
+          "name": "Ruby Weaver",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m61720",
+          "name": "Josey King",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m60764",
+          "name": "Kelley Swanson",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

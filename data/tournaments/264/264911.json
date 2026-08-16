@@ -1,0 +1,67 @@
+{
+  "tournamentId": 264911,
+  "name": "Inclined to Play Friday Flip Off 7.31.26",
+  "date": "2026-08-01",
+  "locationId": "8386",
+  "locationName": "Tahoe Paddle Sports",
+  "playerCount": 8,
+  "ratingsDate": "2026-08-01",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m45548",
+      "name": "Ashton Hunter",
+      "rating": 1605.72,
+      "dailyRatingChange": -0.38
+    },
+    {
+      "position": 2,
+      "playerId": "m45878",
+      "name": "Amber Durfee",
+      "rating": 1535.5,
+      "dailyRatingChange": 10.43
+    },
+    {
+      "position": 3,
+      "playerId": "m46188",
+      "name": "George Marshall",
+      "rating": 1541.39,
+      "dailyRatingChange": 4.94
+    },
+    {
+      "position": 4,
+      "playerId": "m23456",
+      "name": "Anthony Spatucci",
+      "rating": 1607.64,
+      "dailyRatingChange": -2.45
+    },
+    {
+      "position": 5,
+      "playerId": "m34075",
+      "name": "Geoff Klemens",
+      "rating": 1501.55,
+      "dailyRatingChange": -9.74
+    },
+    {
+      "position": 6,
+      "playerId": "m35483",
+      "name": "Devin MC",
+      "rating": 1528.73,
+      "dailyRatingChange": -3.23
+    },
+    {
+      "position": 7,
+      "playerId": "m34248",
+      "name": "Marcos Gaeta",
+      "rating": 1511.65,
+      "dailyRatingChange": -7.46
+    },
+    {
+      "position": 8,
+      "playerId": "m334966",
+      "name": "Ellie Winiecae",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

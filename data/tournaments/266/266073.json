@@ -1,0 +1,102 @@
+{
+  "tournamentId": 266073,
+  "name": "Jims revange",
+  "date": "2026-08-08",
+  "locationId": "11166",
+  "locationName": "Pinball inn",
+  "playerCount": 13,
+  "ratingsDate": "2026-08-08",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m7903",
+      "name": "Urban Bergh",
+      "rating": 1554.05,
+      "dailyRatingChange": -17.59
+    },
+    {
+      "position": 2,
+      "playerId": "m53835",
+      "name": "Evelina Andreasson",
+      "rating": 1469.56,
+      "dailyRatingChange": 17.13
+    },
+    {
+      "position": 3,
+      "playerId": "m62729",
+      "name": "Andreas Karlsson",
+      "rating": 1459.25,
+      "dailyRatingChange": null
+    },
+    {
+      "position": 4,
+      "playerId": "i160774",
+      "name": "Jonathan Ahlstrand",
+      "rating": 1408.2,
+      "dailyRatingChange": null
+    },
+    {
+      "position": 4,
+      "playerId": "m50572",
+      "name": "Tomas Olsson TOM",
+      "rating": 1563.35,
+      "dailyRatingChange": -3.8
+    },
+    {
+      "position": 6,
+      "playerId": "m62726",
+      "name": "Simon Lindberg",
+      "rating": 1481.16,
+      "dailyRatingChange": null
+    },
+    {
+      "position": 6,
+      "playerId": "m3662",
+      "name": "Pia Nokkanen",
+      "rating": 1540.45,
+      "dailyRatingChange": -8.52
+    },
+    {
+      "position": 6,
+      "playerId": "m30656",
+      "name": "Helena Isaksson",
+      "rating": 1442.07,
+      "dailyRatingChange": -1.22
+    },
+    {
+      "position": 9,
+      "playerId": "m60149",
+      "name": "Jim Jansson",
+      "rating": 1399.01,
+      "dailyRatingChange": -56.47
+    },
+    {
+      "position": 10,
+      "playerId": "m585252",
+      "name": "Nicola Petrov",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 10,
+      "playerId": "m52733",
+      "name": "Melvin Schenell",
+      "rating": 1340.43,
+      "dailyRatingChange": 32.66
+    },
+    {
+      "position": 12,
+      "playerId": "m60152",
+      "name": "Oscar Lennartsson",
+      "rating": 1412.89,
+      "dailyRatingChange": -21.13
+    },
+    {
+      "position": 12,
+      "playerId": "m47661",
+      "name": "Jonas Schenell",
+      "rating": 1345.79,
+      "dailyRatingChange": 9.31
+    }
+  ]
+}

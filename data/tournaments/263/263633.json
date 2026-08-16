@@ -1,0 +1,95 @@
+{
+  "tournamentId": 263633,
+  "name": "Kidforce Matchplay 7/24/26",
+  "date": "2026-07-25",
+  "locationId": "10914",
+  "locationName": "Kidforce Pinball",
+  "playerCount": 12,
+  "ratingsDate": "2026-07-25",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m28944",
+      "name": "Paul Ellis",
+      "rating": 1643.43,
+      "dailyRatingChange": 12.22
+    },
+    {
+      "position": 2,
+      "playerId": "m29767",
+      "name": "Chris Pavlic",
+      "rating": 1569.17,
+      "dailyRatingChange": 7.78
+    },
+    {
+      "position": 3,
+      "playerId": "m5364",
+      "name": "Tedd Mirgliotta",
+      "rating": 1600.09,
+      "dailyRatingChange": -3.24
+    },
+    {
+      "position": 4,
+      "playerId": "m549568",
+      "name": "Hayden Byrnes",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 4,
+      "playerId": "m34590",
+      "name": "Larry Kuczynski",
+      "rating": 1563.81,
+      "dailyRatingChange": 5.46
+    },
+    {
+      "position": 6,
+      "playerId": "m18069",
+      "name": "Richard Rulong",
+      "rating": 1569.97,
+      "dailyRatingChange": -3.84
+    },
+    {
+      "position": 6,
+      "playerId": "m35167",
+      "name": "Ali Cokeley",
+      "rating": 1385.27,
+      "dailyRatingChange": 3.88
+    },
+    {
+      "position": 6,
+      "playerId": "m28404",
+      "name": "Justin Reitz",
+      "rating": 1438.71,
+      "dailyRatingChange": 1.82
+    },
+    {
+      "position": 6,
+      "playerId": "m9211",
+      "name": "Clay Hinson",
+      "rating": 1521.28,
+      "dailyRatingChange": -2.95
+    },
+    {
+      "position": 10,
+      "playerId": "i42664",
+      "name": "Mike McCandless",
+      "rating": 1502.98,
+      "dailyRatingChange": -13.06
+    },
+    {
+      "position": 11,
+      "playerId": "m50003",
+      "name": "Connor Shepherd",
+      "rating": 1426.68,
+      "dailyRatingChange": -6
+    },
+    {
+      "position": 11,
+      "playerId": "m46270",
+      "name": "Dustin Shepherd",
+      "rating": 1532.72,
+      "dailyRatingChange": -13.09
+    }
+  ]
+}

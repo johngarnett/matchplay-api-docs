@@ -1,0 +1,239 @@
+{
+  "locationId": "4657",
+  "name": "FlipperVerein Fünflibertal",
+  "address": "Tittertenstr. 18; 4418 Reigoldswil",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 16,
+  "relatedVenues": [
+    {
+      "locationId": "1408",
+      "name": "Flipperclub Regio Basel",
+      "address": "Grabenackerstrasse 8A, 4142 Münchenstein, Schweiz",
+      "count": 19
+    },
+    {
+      "locationId": "10084",
+      "name": "Flipperclub Regio Basel",
+      "address": "8A Grabenackerstrasse, Münchenstein, BL 4142, CH",
+      "count": 11
+    },
+    {
+      "locationId": "6211",
+      "name": "Silverball",
+      "address": "8956 Killwangen, Switzerland",
+      "count": 3
+    },
+    {
+      "locationId": "87",
+      "name": "Martins Flipperbude",
+      "address": "",
+      "count": 2
+    },
+    {
+      "locationId": "2322",
+      "name": "Pinsone Flipperclub Ticino",
+      "address": "",
+      "count": 2
+    },
+    {
+      "locationId": "5407",
+      "name": "Albert All games",
+      "address": "",
+      "count": 1
+    }
+  ],
+  "players": [
+    {
+      "id": "m7132",
+      "name": "Stefan Mory",
+      "rating": 1642.53,
+      "rd": 30.11,
+      "ratingClass": "A",
+      "homeLocation": "FlipperVerein Fünflibertal",
+      "homeLocationId": "4657",
+      "percentile": 90.70666604555831,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m14535",
+      "name": "Gunnar Loewe",
+      "rating": 1594.28,
+      "rd": 27.24,
+      "ratingClass": "B",
+      "homeLocation": "Flipperclub Regio Basel",
+      "homeLocationId": "1408",
+      "percentile": 80.63073554758466,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m19833",
+      "name": "Stefan Hess",
+      "rating": 1576.84,
+      "rd": 25.84,
+      "ratingClass": "B",
+      "homeLocation": "Flipperclub Regio Basel",
+      "homeLocationId": "1408",
+      "percentile": 75.72553221223272,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m49010",
+      "name": "Michi Bachmann & Elias Brunner / one-handed",
+      "rating": 1576.14,
+      "rd": 28.32,
+      "ratingClass": "B",
+      "homeLocation": "FlipperVerein Fünflibertal",
+      "homeLocationId": "4657",
+      "percentile": 75.52056645083151,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m7041",
+      "name": "Roland Brandes",
+      "rating": 1569.55,
+      "rd": 24.77,
+      "ratingClass": "B",
+      "homeLocation": "Flipperclub Regio Basel",
+      "homeLocationId": "1408",
+      "percentile": 73.36376764335958,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m24382",
+      "name": "Thomas Kull",
+      "rating": 1556.52,
+      "rd": 25.19,
+      "ratingClass": "B",
+      "homeLocation": "Flipperclub Regio Basel",
+      "homeLocationId": "1408",
+      "percentile": 69.2225276005031,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m33768",
+      "name": "Jan Mory",
+      "rating": 1553.75,
+      "rd": 32.25,
+      "ratingClass": "B",
+      "homeLocation": "FlipperVerein Fünflibertal",
+      "homeLocationId": "4657",
+      "percentile": 68.24894023384729,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i56437",
+      "name": "Klärli Saner",
+      "rating": 1548.81,
+      "rd": 24.63,
+      "ratingClass": "B",
+      "homeLocation": "Flipperclub Regio Basel",
+      "homeLocationId": "1408",
+      "percentile": 66.23189080914894,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m30870",
+      "name": "Nadine Bauen",
+      "rating": 1536.81,
+      "rd": 24.88,
+      "ratingClass": "B",
+      "homeLocation": "Flipperclub Regio Basel",
+      "homeLocationId": "1408",
+      "percentile": 61.81115200074533,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m30459",
+      "name": "Bruno Bauen",
+      "rating": 1511.73,
+      "rd": 24.53,
+      "ratingClass": "B",
+      "homeLocation": "Flipperclub Regio Basel",
+      "homeLocationId": "1408",
+      "percentile": 51.91689570037732,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m24318",
+      "name": "Gert Rauber",
+      "rating": 1506.32,
+      "rd": 25.21,
+      "ratingClass": "B",
+      "homeLocation": "Flipperclub Regio Basel",
+      "homeLocationId": "1408",
+      "percentile": 49.74146364186892,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m36099",
+      "name": "Jasmin Hess",
+      "rating": 1504.16,
+      "rd": 26.64,
+      "ratingClass": "B",
+      "homeLocation": "Flipperclub Regio Basel",
+      "homeLocationId": "10084",
+      "percentile": 48.8889924069502,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m56709",
+      "name": "Bernard Jordan",
+      "rating": 1495.61,
+      "rd": 26.97,
+      "ratingClass": "C",
+      "homeLocation": "Martins Flipperbude",
+      "homeLocationId": "87",
+      "percentile": 45.348674710020035,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m40203",
+      "name": "Marcel Reck",
+      "rating": 1488.23,
+      "rd": 38.14,
+      "ratingClass": "C",
+      "homeLocation": "FlipperVerein Fünflibertal",
+      "homeLocationId": "4657",
+      "percentile": 42.2695299762426,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i123001",
+      "name": "Rico Schneider",
+      "rating": 1444.83,
+      "rd": 31.5,
+      "ratingClass": "C",
+      "homeLocation": "FlipperVerein Fünflibertal",
+      "homeLocationId": "4657",
+      "percentile": 25.364512973401034,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i104243",
+      "name": "Sandra Ammann",
+      "rating": null,
+      "rd": null,
+      "ratingClass": "N/A",
+      "homeLocation": "FlipperVerein Fünflibertal",
+      "homeLocationId": "4657",
+      "percentile": null,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

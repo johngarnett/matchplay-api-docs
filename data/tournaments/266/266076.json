@@ -1,0 +1,123 @@
+{
+  "tournamentId": 266076,
+  "name": "Finals for Flipperikellarin kesäkisa 2026",
+  "date": "2026-08-08",
+  "locationId": null,
+  "locationName": null,
+  "playerCount": 16,
+  "ratingsDate": "2026-08-08",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m43450",
+      "name": "Valtteri Kärkäs",
+      "rating": 1678.81,
+      "dailyRatingChange": 17.98
+    },
+    {
+      "position": 2,
+      "playerId": "m43069",
+      "name": "Kai Mononen",
+      "rating": 1626.54,
+      "dailyRatingChange": 30.99
+    },
+    {
+      "position": 3,
+      "playerId": "m33786",
+      "name": "Joonas Tuhkanen",
+      "rating": 1594.81,
+      "dailyRatingChange": 41.58
+    },
+    {
+      "position": 4,
+      "playerId": "m43126",
+      "name": "Lassi Vapaakallio",
+      "rating": 1586.08,
+      "dailyRatingChange": 16.58
+    },
+    {
+      "position": 5,
+      "playerId": "m43545",
+      "name": "Matti Salervo",
+      "rating": 1548.16,
+      "dailyRatingChange": 57.53
+    },
+    {
+      "position": 5,
+      "playerId": "m23860",
+      "name": "Luukas Marttinen",
+      "rating": 1752.56,
+      "dailyRatingChange": -9.46
+    },
+    {
+      "position": 7,
+      "playerId": "m25465",
+      "name": "Jarko Manninen",
+      "rating": 1605.94,
+      "dailyRatingChange": 10.69
+    },
+    {
+      "position": 8,
+      "playerId": "m27061",
+      "name": "Viljami Myrttinen",
+      "rating": 1534.05,
+      "dailyRatingChange": 8.29
+    },
+    {
+      "position": 9,
+      "playerId": "m19123",
+      "name": "Arsi Rosengren",
+      "rating": 1593.69,
+      "dailyRatingChange": 1.86
+    },
+    {
+      "position": 9,
+      "playerId": "m23873",
+      "name": "Topi Ahonen",
+      "rating": 1715.1,
+      "dailyRatingChange": -22.08
+    },
+    {
+      "position": 11,
+      "playerId": "m52692",
+      "name": "Ville Toivonen",
+      "rating": 1549.21,
+      "dailyRatingChange": 10.74
+    },
+    {
+      "position": 11,
+      "playerId": "m42763",
+      "name": "Verneri Miettinen",
+      "rating": 1645.89,
+      "dailyRatingChange": 10.55
+    },
+    {
+      "position": 11,
+      "playerId": "m11987",
+      "name": "Mikko Nurmi",
+      "rating": 1597.43,
+      "dailyRatingChange": -1.29
+    },
+    {
+      "position": 14,
+      "playerId": "i14910",
+      "name": "Mikko Tarmia",
+      "rating": 1648.17,
+      "dailyRatingChange": 58.78
+    },
+    {
+      "position": 14,
+      "playerId": "m30162",
+      "name": "Jiro Suvanto",
+      "rating": 1766.04,
+      "dailyRatingChange": -0.27
+    },
+    {
+      "position": 16,
+      "playerId": "m10143",
+      "name": "Joonas Haverinen",
+      "rating": 1666.49,
+      "dailyRatingChange": -12.31
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "tournamentId": 262534,
+  "name": "Denver Belles & Chimes Camp Flipwood 2026 #3",
+  "date": "2026-07-23",
+  "locationId": "7098",
+  "locationName": "1up Greenwood",
+  "playerCount": 11,
+  "ratingsDate": "2026-07-23",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m576973",
+      "name": "Kello McCardell",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 2,
+      "playerId": "m9163",
+      "name": "Tracy Whetstine",
+      "rating": 1515.32,
+      "dailyRatingChange": 2.3
+    },
+    {
+      "position": 3,
+      "playerId": "m7802",
+      "name": "Gretchen Garcia",
+      "rating": 1482.77,
+      "dailyRatingChange": 3.91
+    },
+    {
+      "position": 4,
+      "playerId": "m49774",
+      "name": "Kyrah Harvey",
+      "rating": 1492.09,
+      "dailyRatingChange": 1.26
+    },
+    {
+      "position": 4,
+      "playerId": "m42117",
+      "name": "Kassy Harvey",
+      "rating": 1443.57,
+      "dailyRatingChange": 2.54
+    },
+    {
+      "position": 6,
+      "playerId": "m26853",
+      "name": "Brittany Hethcock",
+      "rating": 1472.99,
+      "dailyRatingChange": -3.44
+    },
+    {
+      "position": 7,
+      "playerId": "m49552",
+      "name": "Kristina Nielsen",
+      "rating": 1324.39,
+      "dailyRatingChange": 12.04
+    },
+    {
+      "position": 8,
+      "playerId": "m55766",
+      "name": "Crystal Dacar",
+      "rating": 1437.69,
+      "dailyRatingChange": -6.11
+    },
+    {
+      "position": 9,
+      "playerId": "m25717",
+      "name": "Alexis Whyte",
+      "rating": 1404.32,
+      "dailyRatingChange": -5.35
+    },
+    {
+      "position": 10,
+      "playerId": "m61826",
+      "name": "Isa Rocha",
+      "rating": 1361.97,
+      "dailyRatingChange": null
+    },
+    {
+      "position": 11,
+      "playerId": "m45569",
+      "name": "Alexa Fitzpatrick",
+      "rating": 1417.68,
+      "dailyRatingChange": -9.11
+    }
+  ]
+}

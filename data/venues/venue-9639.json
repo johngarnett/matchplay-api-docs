@@ -1,0 +1,155 @@
+{
+  "locationId": "9639",
+  "name": "Canton Brew Works",
+  "address": "8521 N Lilley Rd., Canton, MI 48187, US",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 7,
+  "relatedVenues": [
+    {
+      "locationId": "5287",
+      "name": "ULEKstore's Pinball and Classic Arcade",
+      "address": "2121 North Monroe St, Monroe, MI, 48162, US",
+      "count": 34
+    },
+    {
+      "locationId": "10357",
+      "name": "Offworld Arcade",
+      "address": "1420 E Fisher Fwy, Detroit, MI 48207",
+      "count": 9
+    },
+    {
+      "locationId": "11709",
+      "name": "US12 Bar & Grill",
+      "address": "34824 W Michigan Ave, Wayne, MI 48184",
+      "count": 7
+    },
+    {
+      "locationId": "12444",
+      "name": "Sparks Pinball Museum & Arcade",
+      "address": "412 W 14 Mile Rd, Troy, MI 48083, US",
+      "count": 6
+    },
+    {
+      "locationId": "12869",
+      "name": "Mum's Arcade",
+      "address": "17738 Mack Ave, Grosse Pointe, MI 48230, US",
+      "count": 6
+    },
+    {
+      "locationId": "13356",
+      "name": "Pinball Pete's Ann Arbor",
+      "address": "500 E Liberty St, Ann Arbor, MI 48104",
+      "count": 6
+    },
+    {
+      "locationId": "12723",
+      "name": "Dr. Tilt’s Arcade",
+      "address": "20734 Chesley Dr",
+      "count": 5
+    },
+    {
+      "locationId": "9981",
+      "name": "Last Level Fenton",
+      "address": "14281 Fenton Rd, Fenton MI 48430",
+      "count": 4
+    },
+    {
+      "locationId": "12620",
+      "name": "Pinball Playhouse",
+      "address": "3642 W Eleven Mile Road, Berkley, MI 48072",
+      "count": 4
+    },
+    {
+      "locationId": "5718",
+      "name": "Barcade Detroit",
+      "address": "666 Selden St, Detroit, MI, 48201, US",
+      "count": 3
+    }
+  ],
+  "players": [
+    {
+      "id": "m995",
+      "name": "Evan Williams",
+      "rating": 1669.99,
+      "rd": 18.68,
+      "ratingClass": "A",
+      "homeLocation": "ULEKstore's Pinball and Classic Arcade",
+      "homeLocationId": "5287",
+      "percentile": 94.08860110867843,
+      "changeDisplay": "-9.6",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m25776",
+      "name": "Uber Hubris",
+      "rating": 1640.66,
+      "rd": 18.84,
+      "ratingClass": "A",
+      "homeLocation": "ULEKstore's Pinball and Classic Arcade",
+      "homeLocationId": "5287",
+      "percentile": 90.42716728001118,
+      "changeDisplay": "-4.4",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m33893",
+      "name": "Phillip Brooks",
+      "rating": 1634.25,
+      "rd": 22.78,
+      "ratingClass": "A",
+      "homeLocation": "US12 Bar & Grill",
+      "homeLocationId": "11709",
+      "percentile": 89.32314715610006,
+      "changeDisplay": "+9.1",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m44645",
+      "name": "J. Utley",
+      "rating": 1613.43,
+      "rd": 23.12,
+      "ratingClass": "A",
+      "homeLocation": "Offworld Arcade",
+      "homeLocationId": "10357",
+      "percentile": 85.13998229841152,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m23311",
+      "name": "daniel walczak",
+      "rating": 1572.54,
+      "rd": 20.86,
+      "ratingClass": "B",
+      "homeLocation": "ULEKstore's Pinball and Classic Arcade",
+      "homeLocationId": "5287",
+      "percentile": 74.34201332277449,
+      "changeDisplay": "+2.0",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "i159459",
+      "name": "Will Atkin",
+      "rating": 1500.68,
+      "rd": 24.78,
+      "ratingClass": "B",
+      "homeLocation": "Starlite Arcade",
+      "homeLocationId": "7606",
+      "percentile": 47.39833232403223,
+      "changeDisplay": "-3.2",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m60336",
+      "name": "Shelby Atkin",
+      "rating": 1399.03,
+      "rd": 33.49,
+      "ratingClass": "D",
+      "homeLocation": "Sparks Pinball Museum & Arcade",
+      "homeLocationId": "12444",
+      "percentile": 12.28862905855499,
+      "changeDisplay": "+10.2",
+      "changeClass": "change-positive"
+    }
+  ]
+}

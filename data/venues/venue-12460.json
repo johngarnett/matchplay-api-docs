@@ -1,0 +1,34 @@
+{
+  "locationId": "12460",
+  "name": "Glitch Barcadium",
+  "address": "44 Mulberry Ave",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 2,
+  "relatedVenues": [],
+  "players": [
+    {
+      "id": "m22912",
+      "name": "Kevin Wright",
+      "rating": 1493.63,
+      "rd": 37.96,
+      "ratingClass": "C",
+      "homeLocation": "Glitch Barcadium",
+      "homeLocationId": "12460",
+      "percentile": 44.55676154096986,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m59052",
+      "name": "Kelton Kennedy",
+      "rating": 1483.15,
+      "rd": 47.68,
+      "ratingClass": "C",
+      "homeLocation": "Glitch Barcadium",
+      "homeLocationId": "12460",
+      "percentile": 40.19658079843481,
+      "changeDisplay": "+56.4",
+      "changeClass": "change-positive"
+    }
+  ]
+}

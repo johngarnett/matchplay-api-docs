@@ -1,0 +1,123 @@
+{
+  "tournamentId": 264248,
+  "name": "Finals for Brisbane Pinball Club 11/08/2026",
+  "date": "2026-08-11",
+  "locationId": "7371",
+  "locationName": "Netherworld",
+  "playerCount": 16,
+  "ratingsDate": "2026-08-11",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m15791",
+      "name": "Escher Lefkoff",
+      "rating": 1925.8,
+      "dailyRatingChange": 2.11
+    },
+    {
+      "position": 2,
+      "playerId": "m35108",
+      "name": "Joe Doran",
+      "rating": 1646.07,
+      "dailyRatingChange": 4.64
+    },
+    {
+      "position": 3,
+      "playerId": "m45667",
+      "name": "Connor Weekes",
+      "rating": 1640.02,
+      "dailyRatingChange": 4.58
+    },
+    {
+      "position": 4,
+      "playerId": "m12672",
+      "name": "Gino Thimios",
+      "rating": 1737.33,
+      "dailyRatingChange": -0.64
+    },
+    {
+      "position": 5,
+      "playerId": "m13279",
+      "name": "Michael Dodt",
+      "rating": 1663.76,
+      "dailyRatingChange": 0.73
+    },
+    {
+      "position": 5,
+      "playerId": "m35924",
+      "name": "Daniel Greenwood",
+      "rating": 1651.02,
+      "dailyRatingChange": 1.13
+    },
+    {
+      "position": 7,
+      "playerId": "m28113",
+      "name": "Paul Eliseo",
+      "rating": 1661.27,
+      "dailyRatingChange": 0.63
+    },
+    {
+      "position": 7,
+      "playerId": "m8940",
+      "name": "Mike Pascale",
+      "rating": 1620.59,
+      "dailyRatingChange": 0.62
+    },
+    {
+      "position": 9,
+      "playerId": "m2500",
+      "name": "Thibaut Allender",
+      "rating": 1627.66,
+      "dailyRatingChange": -2.14
+    },
+    {
+      "position": 9,
+      "playerId": "m27750",
+      "name": "Tony Fischer",
+      "rating": 1632.36,
+      "dailyRatingChange": -1.41
+    },
+    {
+      "position": 9,
+      "playerId": "m12724",
+      "name": "Jonathan Chabowski",
+      "rating": 1658.99,
+      "dailyRatingChange": -2.21
+    },
+    {
+      "position": 9,
+      "playerId": "m43839",
+      "name": "Valerio Cassimatis",
+      "rating": 1588.73,
+      "dailyRatingChange": 0.15
+    },
+    {
+      "position": 13,
+      "playerId": "m10279",
+      "name": "Tom Fletcher AUS",
+      "rating": 1661.68,
+      "dailyRatingChange": -3.13
+    },
+    {
+      "position": 13,
+      "playerId": "m11730",
+      "name": "Emily Cosson",
+      "rating": 1648.67,
+      "dailyRatingChange": -2.18
+    },
+    {
+      "position": 13,
+      "playerId": "m32251",
+      "name": "Chris Chris AUS",
+      "rating": 1569.79,
+      "dailyRatingChange": -4.89
+    },
+    {
+      "position": 13,
+      "playerId": "m40067",
+      "name": "Lana Pellowe",
+      "rating": 1514.85,
+      "dailyRatingChange": -1.48
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "locationId": "12317",
+  "name": "North Coast Pinball",
+  "address": "35995 North Highway 101, Nehalem, OR 97131, US",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 6,
+  "relatedVenues": [
+    {
+      "locationId": "5246",
+      "name": "Next Level Pinball Museum",
+      "address": "1458 NE 25th Ave, Hillsboro, OR 97124, USA",
+      "count": 12
+    },
+    {
+      "locationId": "1989",
+      "name": "Brewskis Bar & Arcade",
+      "address": "8670 Miramar Rd, San Diego, CA 92126, USA",
+      "count": 4
+    },
+    {
+      "locationId": "12649",
+      "name": "The Brew Inn Tavern",
+      "address": "1910 Oceanside Blvd Ste F, Oceanside, CA 92054, US",
+      "count": 4
+    },
+    {
+      "locationId": "7346",
+      "name": "Dyno Bar (Aero Club)",
+      "address": "3367 India Street, San Diego, CA 92103, US",
+      "count": 3
+    },
+    {
+      "locationId": "9448",
+      "name": "The Hills Pub",
+      "address": "8758 La Mesa Blvd, La Mesa, CA 91942, US",
+      "count": 3
+    },
+    {
+      "locationId": "7481",
+      "name": "Electric Bat Arcade",
+      "address": "25 W Southern Ave, Tempe, AZ 85282, US",
+      "count": 2
+    },
+    {
+      "locationId": "9586",
+      "name": "Cool Dogs Sports Pub",
+      "address": "3025 E Desert Inn Rd, Las Vegas, NV 89121",
+      "count": 2
+    },
+    {
+      "locationId": "11907",
+      "name": "Lost Abbey Brewing Vista",
+      "address": "1347 Keystone Way Ste C Vista, CA 92081",
+      "count": 2
+    },
+    {
+      "locationId": "6751",
+      "name": "Atomic Age Modern",
+      "address": "140 W Main St, Mesa, AZ 85201, USA",
+      "count": 1
+    },
+    {
+      "locationId": "9714",
+      "name": "Special When Lit Pinball",
+      "address": "15685 SW 116th Ave King City, OR 97224",
+      "count": 1
+    }
+  ],
+  "players": [
+    {
+      "id": "m2821",
+      "name": "Mark Maleko Schulz 👾",
+      "rating": 1773.73,
+      "rd": 20.63,
+      "ratingClass": "Expert",
+      "homeLocation": "Brewskis Bar & Arcade",
+      "homeLocationId": "1989",
+      "percentile": 99.22672008198631,
+      "changeDisplay": "+9.7",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m23628",
+      "name": "Jacob E",
+      "rating": 1606.14,
+      "rd": 25.56,
+      "ratingClass": "A",
+      "homeLocation": "Next Level Pinball Museum",
+      "homeLocationId": "5246",
+      "percentile": 83.48162295616528,
+      "changeDisplay": "+5.0",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m26181",
+      "name": "Tim Mahoney",
+      "rating": 1590.74,
+      "rd": 37.39,
+      "ratingClass": "B",
+      "homeLocation": "Cool Dogs Sports Pub",
+      "homeLocationId": "9586",
+      "percentile": 79.65248986816975,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m49180",
+      "name": "TJ T",
+      "rating": 1534.51,
+      "rd": 69.94,
+      "ratingClass": "B",
+      "homeLocation": "North Coast Pinball",
+      "homeLocationId": "12317",
+      "percentile": 60.809614757534824,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m24260",
+      "name": "Gabriel Wiegan",
+      "rating": 1513.21,
+      "rd": 52.1,
+      "ratingClass": "B",
+      "homeLocation": "Next Level Pinball Museum",
+      "homeLocationId": "5246",
+      "percentile": 52.447943354916845,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m48774",
+      "name": "Holly S",
+      "rating": 1471.05,
+      "rd": 72.59,
+      "ratingClass": "C",
+      "homeLocation": "North Coast Pinball",
+      "homeLocationId": "12317",
+      "percentile": 35.2727442120464,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

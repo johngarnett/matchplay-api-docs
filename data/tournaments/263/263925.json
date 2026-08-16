@@ -1,0 +1,67 @@
+{
+  "tournamentId": 263925,
+  "name": "Finals for Stern Army Silverball Sunday at The Pin Ballroom - Pro Re Nata",
+  "date": "2026-07-26",
+  "locationId": "13106",
+  "locationName": "Pro Re Nata Brewpub & Music Hall",
+  "playerCount": 8,
+  "ratingsDate": "2026-07-26",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m2886",
+      "name": "Robert Peters",
+      "rating": 1657.85,
+      "dailyRatingChange": 3.5
+    },
+    {
+      "position": 2,
+      "playerId": "m32059",
+      "name": "Ryan Galla",
+      "rating": 1624.9,
+      "dailyRatingChange": 7.83
+    },
+    {
+      "position": 3,
+      "playerId": "m15242",
+      "name": "Brian Rodeffer",
+      "rating": 1625.94,
+      "dailyRatingChange": 1.03
+    },
+    {
+      "position": 4,
+      "playerId": "m4563",
+      "name": "Dave Weaver",
+      "rating": 1574.95,
+      "dailyRatingChange": 4.32
+    },
+    {
+      "position": 5,
+      "playerId": "m41383",
+      "name": "Jon Holleran",
+      "rating": 1470.62,
+      "dailyRatingChange": 5.47
+    },
+    {
+      "position": 5,
+      "playerId": "m52425",
+      "name": "Steve Percosky",
+      "rating": 1544.64,
+      "dailyRatingChange": -1.14
+    },
+    {
+      "position": 7,
+      "playerId": "m60725",
+      "name": "Ryan Shobe",
+      "rating": 1407.4,
+      "dailyRatingChange": 26.73
+    },
+    {
+      "position": 7,
+      "playerId": "m42056",
+      "name": "Sam McGeehan",
+      "rating": 1540.88,
+      "dailyRatingChange": -0.2
+    }
+  ]
+}

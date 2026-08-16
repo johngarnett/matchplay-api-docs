@@ -1,0 +1,161 @@
+{
+  "locationId": "6956",
+  "name": "The Grid Arcade",
+  "address": "2414 N Pace Blvd, Pensacola, FL 32505, USA",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 12,
+  "relatedVenues": [
+    {
+      "locationId": "11369",
+      "name": "Captain Crazy's Paradise",
+      "address": "2139 S McKenzie St, Foley, AL 36535, US",
+      "count": 43
+    }
+  ],
+  "players": [
+    {
+      "id": "i2337",
+      "name": "Andy O’Connell",
+      "rating": 1748.79,
+      "rd": 38.02,
+      "ratingClass": "Expert",
+      "homeLocation": "The Grid Arcade",
+      "homeLocationId": "6956",
+      "percentile": 98.68635580192854,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m35551",
+      "name": "Tyler Gatlin",
+      "rating": 1634.68,
+      "rd": 22.55,
+      "ratingClass": "A",
+      "homeLocation": "Captain Crazy's Paradise",
+      "homeLocationId": "11369",
+      "percentile": 89.40233847300509,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m36060",
+      "name": "Sean Waters",
+      "rating": 1620.35,
+      "rd": 27.57,
+      "ratingClass": "A",
+      "homeLocation": "Captain Crazy's Paradise",
+      "homeLocationId": "11369",
+      "percentile": 86.68188382167979,
+      "changeDisplay": "-7.0",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m49465",
+      "name": "Dakotah Brown",
+      "rating": 1574.45,
+      "rd": 35.8,
+      "ratingClass": "B",
+      "homeLocation": "The Grid Arcade",
+      "homeLocationId": "6956",
+      "percentile": 74.90566916662786,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i147964",
+      "name": "Brian Carey",
+      "rating": 1540.98,
+      "rd": 35.78,
+      "ratingClass": "B",
+      "homeLocation": "The Grid Arcade",
+      "homeLocationId": "6956",
+      "percentile": 63.48348628126892,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m51652",
+      "name": "Grav Smith",
+      "rating": 1515.09,
+      "rd": 34.32,
+      "ratingClass": "B",
+      "homeLocation": "The Grid Arcade",
+      "homeLocationId": "6956",
+      "percentile": 53.2351982112079,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m25260",
+      "name": "Susana Maldonado",
+      "rating": 1494.49,
+      "rd": 26.64,
+      "ratingClass": "C",
+      "homeLocation": "The Grid Arcade",
+      "homeLocationId": "6956",
+      "percentile": 44.896818372385525,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m52226",
+      "name": "Heather Carey",
+      "rating": 1462.28,
+      "rd": 29.54,
+      "ratingClass": "C",
+      "homeLocation": "The Grid Arcade",
+      "homeLocationId": "6956",
+      "percentile": 31.84422602133507,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m54331",
+      "name": "Brianna Beck",
+      "rating": 1452.12,
+      "rd": 36.49,
+      "ratingClass": "C",
+      "homeLocation": "The Grid Arcade",
+      "homeLocationId": "6956",
+      "percentile": 27.949876554711885,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i140709",
+      "name": "Ryan Nelson",
+      "rating": 1451.05,
+      "rd": 40.28,
+      "ratingClass": "C",
+      "homeLocation": "The Grid Arcade",
+      "homeLocationId": "6956",
+      "percentile": 27.52131178087297,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m57417",
+      "name": "Rowan Rayon",
+      "rating": 1447.46,
+      "rd": 26.98,
+      "ratingClass": "C",
+      "homeLocation": "Captain Crazy's Paradise",
+      "homeLocationId": "11369",
+      "percentile": 26.26356733591093,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i147915",
+      "name": "Jacob Price",
+      "rating": null,
+      "rd": null,
+      "ratingClass": "N/A",
+      "homeLocation": "Captain Crazy's Paradise",
+      "homeLocationId": "11369",
+      "percentile": null,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "tournamentId": 263659,
+  "name": "Finals for Locavore Beer Works July Pinball Tournament",
+  "date": "2026-07-26",
+  "locationId": "7572",
+  "locationName": "Locavore Beer Works",
+  "playerCount": 8,
+  "ratingsDate": "2026-07-26",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m27502",
+      "name": "Tim Bruner",
+      "rating": 1612.32,
+      "dailyRatingChange": 8.15
+    },
+    {
+      "position": 2,
+      "playerId": "m35260",
+      "name": "Tyler Wandesforde",
+      "rating": 1598.88,
+      "dailyRatingChange": 7.94
+    },
+    {
+      "position": 3,
+      "playerId": "m20302",
+      "name": "Ross Unruh",
+      "rating": 1637.59,
+      "dailyRatingChange": 5.75
+    },
+    {
+      "position": 4,
+      "playerId": "m33823",
+      "name": "Jimmy Morgan",
+      "rating": 1607.16,
+      "dailyRatingChange": -5.6
+    },
+    {
+      "position": 5,
+      "playerId": "m23360",
+      "name": "Lewis Ritenour",
+      "rating": 1711.26,
+      "dailyRatingChange": -4.39
+    },
+    {
+      "position": 6,
+      "playerId": "m53912",
+      "name": "Evan Robertson",
+      "rating": 1569.06,
+      "dailyRatingChange": -2.6
+    },
+    {
+      "position": 7,
+      "playerId": "m20605",
+      "name": "Rob Tompkins",
+      "rating": 1622.58,
+      "dailyRatingChange": -6.65
+    },
+    {
+      "position": 7,
+      "playerId": "m41352",
+      "name": "Aaron Young",
+      "rating": 1526.64,
+      "dailyRatingChange": -3.77
+    }
+  ]
+}

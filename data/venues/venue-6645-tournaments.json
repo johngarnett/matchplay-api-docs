@@ -1,0 +1,40 @@
+{
+  "locationId": "6645",
+  "venueName": "1up Lounge",
+  "venueAddress": "1121 McKenzie Ave, Bellingham, WA 98225, USA",
+  "tournaments": [
+    {
+      "id": 266247,
+      "name": "Transformers Launch Party at 1-Up Lounge.",
+      "date": "8/9/2026",
+      "playerCount": 14,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m3038",
+          "name": "Joshua Francis",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "p220363",
+          "name": "Cody gessell",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m26178",
+          "name": "Hugh newmark",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m24928",
+          "name": "Laser halprin",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

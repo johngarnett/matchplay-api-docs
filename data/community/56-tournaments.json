@@ -1,0 +1,519 @@
+{
+  "communityId": "56",
+  "locations": [
+    {
+      "id": "603",
+      "name": "Free Gold Watch",
+      "address": "1767 Waller St, San Francisco, CA 94117, USA",
+      "tournaments": [
+        {
+          "id": 266999,
+          "name": "Finals for Street Level FC #2",
+          "date": "8/13/2026",
+          "playerCount": 16,
+          "qualifying": {
+            "id": 266962,
+            "name": "Street Level FC #2",
+            "playerCount": 28
+          },
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m1002",
+              "name": "Andrei Massenkoff",
+              "isCommunityMember": false
+            },
+            {
+              "position": 2,
+              "playerId": "m15018",
+              "name": "Lawrence Aguiar",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "p586894",
+              "name": "Pat Hafner",
+              "isCommunityMember": false
+            },
+            {
+              "position": 4,
+              "playerId": "m45355",
+              "name": "Isaiah Rodriguez",
+              "isCommunityMember": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9842",
+      "name": "MarTEEnez Minigolf & Arcade",
+      "address": "701 Escobar St, Martinez, CA, 94553, US",
+      "tournaments": [
+        {
+          "id": 265332,
+          "name": "MMG Pins and Pours S5 #2",
+          "date": "8/13/2026",
+          "playerCount": 25,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m6120",
+              "name": "Alex Gomes",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m13063",
+              "name": "Daniel Gonzalez (DGG)",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m47712",
+              "name": "Michael Evans",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "p486811",
+              "name": "Chip Ostler",
+              "isCommunityMember": false
+            },
+            {
+              "position": 3,
+              "playerId": "m38875",
+              "name": "Ryan Matthews",
+              "isCommunityMember": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1412",
+      "name": "Pacific Pinball Museum",
+      "address": "1510 Webster St, Alameda, CA 94501, USA",
+      "tournaments": [
+        {
+          "id": 266804,
+          "name": "Pacific League S24-W4 Social Night 3",
+          "date": "8/12/2026",
+          "playerCount": 15,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m20322",
+              "name": "Peach Ruiz",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m38969",
+              "name": "Frank Duncan",
+              "isCommunityMember": false
+            },
+            {
+              "position": 3,
+              "playerId": "m2933",
+              "name": "Jon Olkowski",
+              "isCommunityMember": false
+            },
+            {
+              "position": 4,
+              "playerId": "m27439",
+              "name": "Mattie Culkin",
+              "isCommunityMember": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "11141",
+      "name": "Slingshot Pinball",
+      "address": "460 Lincoln Ave #70, San Jose, CA 95126, US",
+      "tournaments": [
+        {
+          "id": 266278,
+          "name": "Finals for Slingshot Monthly Tournament August 2026",
+          "date": "8/9/2026",
+          "playerCount": 4,
+          "qualifying": {
+            "id": 266272,
+            "name": "Slingshot Monthly Tournament August 2026",
+            "playerCount": 18
+          },
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m35145",
+              "name": "Edgar Flores",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m17857",
+              "name": "Matt Delsman",
+              "isCommunityMember": false
+            },
+            {
+              "position": 3,
+              "playerId": "i140522",
+              "name": "Goran Loncar",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m47522",
+              "name": "Pierre Tschaeppaet",
+              "isCommunityMember": true
+            }
+          ]
+        },
+        {
+          "id": 266279,
+          "name": "B Div Finals for Slingshot Monthly Tournament August 2026",
+          "date": "8/9/2026",
+          "playerCount": 4,
+          "qualifying": {
+            "id": 266272,
+            "name": "Slingshot Monthly Tournament August 2026",
+            "playerCount": 18
+          },
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m964",
+              "name": "Aaron F. Taylor",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m34313",
+              "name": "Matt Hickman",
+              "isCommunityMember": false
+            },
+            {
+              "position": 3,
+              "playerId": "m51173",
+              "name": "Mike Leland-Nascimento",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m13586",
+              "name": "Ivy Simpson",
+              "isCommunityMember": false
+            }
+          ]
+        },
+        {
+          "id": 265995,
+          "name": "The Bumper Club Session #3 2026 #1",
+          "date": "8/7/2026",
+          "playerCount": 18,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "i41343",
+              "name": "Dylan Carlaftes",
+              "isCommunityMember": true
+            },
+            {
+              "position": 1,
+              "playerId": "m3197",
+              "name": "Tony Lavigna",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m47522",
+              "name": "Pierre Tschaeppaet",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m55011",
+              "name": "Kevin Yang",
+              "isCommunityMember": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5173",
+      "name": "The Flipper Room",
+      "address": "1033 Shary Cir, Concord, CA 94518, USA",
+      "tournaments": [
+        {
+          "id": 266644,
+          "name": "TFR League Season 30 #1",
+          "date": "8/11/2026",
+          "playerCount": 47,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m156",
+              "name": "Eric Wagensonner",
+              "isCommunityMember": false
+            },
+            {
+              "position": 1,
+              "playerId": "m38875",
+              "name": "Ryan Matthews",
+              "isCommunityMember": true
+            },
+            {
+              "position": 1,
+              "playerId": "m36437",
+              "name": "Jack Morgan",
+              "isCommunityMember": true
+            },
+            {
+              "position": 1,
+              "playerId": "m27559",
+              "name": "Scott Burgess",
+              "isCommunityMember": true
+            },
+            {
+              "position": 1,
+              "playerId": "m25143",
+              "name": "Mike Owen",
+              "isCommunityMember": true
+            },
+            {
+              "position": 1,
+              "playerId": "m13063",
+              "name": "Daniel Gonzalez",
+              "isCommunityMember": true
+            },
+            {
+              "position": 1,
+              "playerId": "m2965",
+              "name": "Dan Dempsey",
+              "isCommunityMember": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "13529",
+      "name": "Unknown Location",
+      "address": "",
+      "tournaments": [
+        {
+          "id": 267102,
+          "name": "Critical Hit takes over Finals for The Flipper Room CSL July 2026",
+          "date": "8/14/2026",
+          "playerCount": 14,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m53177",
+              "name": "Oliver Davidson",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m33305",
+              "name": "Jeannie Rodriguez",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m2931",
+              "name": "Chris Heilig",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m5975",
+              "name": "Mike Moretti",
+              "isCommunityMember": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "unknown",
+      "name": "Unknown Location",
+      "address": "",
+      "tournaments": [
+        {
+          "id": 266851,
+          "name": "Pinball Brew 8-7",
+          "date": "8/12/2026",
+          "playerCount": 4,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "i73886",
+              "name": "Greg Reppert",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "p492525",
+              "name": "Brad Beecher",
+              "isCommunityMember": false
+            },
+            {
+              "position": 3,
+              "playerId": "p460350",
+              "name": "Jay Ridl",
+              "isCommunityMember": false
+            },
+            {
+              "position": 3,
+              "playerId": "p521787",
+              "name": "Mike Adams",
+              "isCommunityMember": false
+            }
+          ]
+        },
+        {
+          "id": 266213,
+          "name": "Cal Extreme '26 A Finals",
+          "date": "8/9/2026",
+          "playerCount": 24,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m34729",
+              "name": "Jack Slovacek",
+              "isCommunityMember": false
+            },
+            {
+              "position": 2,
+              "playerId": "m7260",
+              "name": "Nic Stein",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m135",
+              "name": "Jared Garvey",
+              "isCommunityMember": false
+            },
+            {
+              "position": 4,
+              "playerId": "m2936",
+              "name": "Tim Hansen",
+              "isCommunityMember": true
+            }
+          ]
+        },
+        {
+          "id": 266208,
+          "name": "Cal Extreme '26 B Finals",
+          "date": "8/9/2026",
+          "playerCount": 16,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m47805",
+              "name": "Cristian Twist",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m4141",
+              "name": "Philip Priddy",
+              "isCommunityMember": false
+            },
+            {
+              "position": 3,
+              "playerId": "m42701",
+              "name": "David A Green",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m54841",
+              "name": "Sean Rader",
+              "isCommunityMember": false
+            }
+          ]
+        },
+        {
+          "id": 266175,
+          "name": "CAX 2026 Classics Finals",
+          "date": "8/8/2026",
+          "playerCount": 16,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m34729",
+              "name": "Jack Slovacek",
+              "isCommunityMember": false
+            },
+            {
+              "position": 2,
+              "playerId": "m14153",
+              "name": "Derek Price",
+              "isCommunityMember": false
+            },
+            {
+              "position": 3,
+              "playerId": "m1002",
+              "name": "Andrei Massenkoff",
+              "isCommunityMember": false
+            },
+            {
+              "position": 4,
+              "playerId": "m2965",
+              "name": "Dan Dempsey",
+              "isCommunityMember": true
+            }
+          ]
+        },
+        {
+          "id": 266100,
+          "name": "CAX 2026 Women's Finals",
+          "date": "8/8/2026",
+          "playerCount": 8,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m44465",
+              "name": "Ripley Randall",
+              "isCommunityMember": false
+            },
+            {
+              "position": 2,
+              "playerId": "p585720",
+              "name": "Brianne Berlin",
+              "isCommunityMember": false
+            },
+            {
+              "position": 3,
+              "playerId": "m24476",
+              "name": "Amy Martin",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m39871",
+              "name": "Jenni Honka",
+              "isCommunityMember": false
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

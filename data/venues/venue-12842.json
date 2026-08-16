@@ -1,0 +1,203 @@
+{
+  "locationId": "12842",
+  "name": "Open World - eSport Eatery & Bar",
+  "address": "U Bahn Bogen 185, Wien, 1190, AT",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 13,
+  "relatedVenues": [
+    {
+      "locationId": "8617",
+      "name": "Biljardna Hisa Ljubljana - Slovenska",
+      "address": "Slovenska 58, 1000 Ljubljana",
+      "count": 12
+    },
+    {
+      "locationId": "9847",
+      "name": "Arcade Keller",
+      "address": "Auersthal",
+      "count": 9
+    },
+    {
+      "locationId": "3970",
+      "name": "Flippnic",
+      "address": "Badendorf 12b, 8413 Badendorf, Austria",
+      "count": 6
+    },
+    {
+      "locationId": "12068",
+      "name": "Flipperasyl",
+      "address": "Hasnerstraße 45, Wien, 1160, AT",
+      "count": 6
+    },
+    {
+      "locationId": "9256",
+      "name": "VFR - Verein Flipper Rebläuse - Auersthal",
+      "address": "Wunderberg 79",
+      "count": 5
+    },
+    {
+      "locationId": "10940",
+      "name": "Flippermuseum Wiebelskirchen",
+      "address": "Schillerstraße 22, 66540 Neunkirchen",
+      "count": 1
+    }
+  ],
+  "players": [
+    {
+      "id": "m8",
+      "name": "Arno Nöbl",
+      "rating": 1717.92,
+      "rd": 26.84,
+      "ratingClass": "Expert",
+      "homeLocation": "Flippnic",
+      "homeLocationId": "3970",
+      "percentile": 97.53575255042624,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m31509",
+      "name": "Jamel Chaabane",
+      "rating": 1663.37,
+      "rd": 31.86,
+      "ratingClass": "A",
+      "homeLocation": "Flipperasyl",
+      "homeLocationId": "12068",
+      "percentile": 93.43177900964271,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m26342",
+      "name": "Alois Kozar",
+      "rating": 1608.24,
+      "rd": 33.99,
+      "ratingClass": "A",
+      "homeLocation": "Open World - eSport Eatery & Bar",
+      "homeLocationId": "12842",
+      "percentile": 84.0359621745004,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m24269",
+      "name": "Robert Glashuettner",
+      "rating": 1602.78,
+      "rd": 26.01,
+      "ratingClass": "A",
+      "homeLocation": "Biljardna Hisa Ljubljana - Slovenska",
+      "homeLocationId": "8617",
+      "percentile": 82.68505147435599,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m26738",
+      "name": "Felix Radinger",
+      "rating": 1594.7,
+      "rd": 27.36,
+      "ratingClass": "B",
+      "homeLocation": "Biljardna Hisa Ljubljana - Slovenska",
+      "homeLocationId": "8617",
+      "percentile": 80.72856011552616,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m47066",
+      "name": "Elli Paschalis",
+      "rating": 1555.23,
+      "rd": 27.38,
+      "ratingClass": "B",
+      "homeLocation": "Arcade Keller",
+      "homeLocationId": "9847",
+      "percentile": 68.73340476079564,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m42578",
+      "name": "Anna Moosmann",
+      "rating": 1537.35,
+      "rd": 32.38,
+      "ratingClass": "B",
+      "homeLocation": "Biljardna Hisa Ljubljana - Slovenska",
+      "homeLocationId": "8617",
+      "percentile": 62.02077607490567,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m40575",
+      "name": "Ashlyn Neader",
+      "rating": 1532.78,
+      "rd": 38.85,
+      "ratingClass": "B",
+      "homeLocation": "Open World - eSport Eatery & Bar",
+      "homeLocationId": "12842",
+      "percentile": 60.18540084781292,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m15075",
+      "name": "Linda Alpstad",
+      "rating": 1513.57,
+      "rd": 28.12,
+      "ratingClass": "B",
+      "homeLocation": "Arcade Keller",
+      "homeLocationId": "9847",
+      "percentile": 52.59700936320865,
+      "changeDisplay": "-0.1",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m49859",
+      "name": "Michael Waldegg",
+      "rating": 1500.08,
+      "rd": 26.98,
+      "ratingClass": "B",
+      "homeLocation": "Biljardna Hisa Ljubljana - Slovenska",
+      "homeLocationId": "8617",
+      "percentile": 47.123491871244234,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m44622",
+      "name": "Siu Yin Lin",
+      "rating": 1459.09,
+      "rd": 31.88,
+      "ratingClass": "C",
+      "homeLocation": "Arcade Keller",
+      "homeLocationId": "9847",
+      "percentile": 30.614431452927747,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i158570",
+      "name": "Autumn Campbell",
+      "rating": 1446.26,
+      "rd": 55.17,
+      "ratingClass": "C",
+      "homeLocation": "Open World - eSport Eatery & Bar",
+      "homeLocationId": "12842",
+      "percentile": 25.825685936553782,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m43814",
+      "name": "Irene Mayrhofer",
+      "rating": 1411.07,
+      "rd": 27.35,
+      "ratingClass": "C",
+      "homeLocation": "Flippnic",
+      "homeLocationId": "3970",
+      "percentile": 15.38640704336889,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

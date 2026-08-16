@@ -1,0 +1,143 @@
+{
+  "locationId": "9605",
+  "name": "Hunter Household",
+  "address": "6110 E. Myrtle Bay Drive",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 6,
+  "relatedVenues": [
+    {
+      "locationId": "12943",
+      "name": "SWLA Pinball Club House",
+      "address": "1807 Lake Street, Lake Charles, Louisiana, 70601",
+      "count": 33
+    },
+    {
+      "locationId": "11888",
+      "name": "The Game Preserve",
+      "address": "473 Sawdust Rd, Spring, TX 77380, US",
+      "count": 13
+    },
+    {
+      "locationId": "9515",
+      "name": "Eureka Heights Brew Co",
+      "address": "941 West 18th St, Houston, Texas 77008",
+      "count": 9
+    },
+    {
+      "locationId": "11561",
+      "name": "Austin Pinball Collective",
+      "address": "1106 Clayton Ln, Austin, TX 78723, US",
+      "count": 7
+    },
+    {
+      "locationId": "2110",
+      "name": "4820 W. Shoal Creek Dr. lake Charles",
+      "address": "",
+      "count": 3
+    },
+    {
+      "locationId": "10346",
+      "name": "LOWer Level Arcade",
+      "address": "19318 Wood Village Lane",
+      "count": 3
+    },
+    {
+      "locationId": "13404",
+      "name": "Crying Eagle University",
+      "address": "1165 E McNeese St, Lake Charles, LA 70607",
+      "count": 3
+    },
+    {
+      "locationId": "7731",
+      "name": "The Game Preserve NASA",
+      "address": "20810 Gulf Freeway, Webster, TX 77598, US",
+      "count": 2
+    },
+    {
+      "locationId": "9784",
+      "name": "Jim & Stephanie's",
+      "address": "19218 Greenview Glen Dr., Cypress, TX",
+      "count": 2
+    },
+    {
+      "locationId": "12996",
+      "name": "Habetz Pinball Party Pad",
+      "address": "939 Robinson Cutoff, Vinton, Louisiana",
+      "count": 2
+    }
+  ],
+  "players": [
+    {
+      "id": "m2885",
+      "name": "Pav Hunter",
+      "rating": 1523.47,
+      "rd": 30.5,
+      "ratingClass": "B",
+      "homeLocation": "SWLA Pinball Club House",
+      "homeLocationId": "12943",
+      "percentile": 56.50533376810919,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m58078",
+      "name": "Carrie Lafargue",
+      "rating": 1458.28,
+      "rd": 47.87,
+      "ratingClass": "C",
+      "homeLocation": "SWLA Pinball Club House",
+      "homeLocationId": "12943",
+      "percentile": 30.24642474495738,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m45625",
+      "name": "Stephanie manley",
+      "rating": 1453.54,
+      "rd": 18.9,
+      "ratingClass": "C",
+      "homeLocation": "The Game Preserve",
+      "homeLocationId": "11888",
+      "percentile": 28.47160758373317,
+      "changeDisplay": "+1.3",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m53224",
+      "name": "Jennifer Pugh",
+      "rating": 1451.92,
+      "rd": 41.65,
+      "ratingClass": "C",
+      "homeLocation": "SWLA Pinball Club House",
+      "homeLocationId": "12943",
+      "percentile": 27.880001863325106,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m37997",
+      "name": "Cristin Andrews",
+      "rating": 1440.28,
+      "rd": 21.36,
+      "ratingClass": "C",
+      "homeLocation": "Eureka Heights Brew Co",
+      "homeLocationId": "9515",
+      "percentile": 23.79466157357805,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i142124",
+      "name": "Joanne Patterson",
+      "rating": null,
+      "rd": null,
+      "ratingClass": "N/A",
+      "homeLocation": "Hunter Household",
+      "homeLocationId": "9605",
+      "percentile": null,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

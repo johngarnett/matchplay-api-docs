@@ -1,0 +1,39 @@
+{
+  "tournamentId": 266002,
+  "name": "Finals for Friday Night Pinball",
+  "date": "2026-08-08",
+  "locationId": "9122",
+  "locationName": "Remi’s Arcade & Bistro",
+  "playerCount": 4,
+  "ratingsDate": "2026-08-08",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m17973",
+      "name": "Dalton Briggs",
+      "rating": 1613.95,
+      "dailyRatingChange": 15.34
+    },
+    {
+      "position": 2,
+      "playerId": "i107502",
+      "name": "Cynthia Turinetti",
+      "rating": 1458.54,
+      "dailyRatingChange": -5.82
+    },
+    {
+      "position": 3,
+      "playerId": "m27396",
+      "name": "Emmanuel Turinetti",
+      "rating": 1516.54,
+      "dailyRatingChange": 3.32
+    },
+    {
+      "position": 4,
+      "playerId": "i157184",
+      "name": "Deep Bhari",
+      "rating": 1369.24,
+      "dailyRatingChange": 17.17
+    }
+  ]
+}

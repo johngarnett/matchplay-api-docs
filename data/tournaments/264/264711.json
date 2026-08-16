@@ -1,0 +1,39 @@
+{
+  "tournamentId": 264711,
+  "name": "Finals for Fun Stop Weekly  7/30/2026",
+  "date": "2026-07-31",
+  "locationId": "8743",
+  "locationName": "Fun Stop Arcade",
+  "playerCount": 4,
+  "ratingsDate": "2026-07-31",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m27587",
+      "name": "Eric Menzel",
+      "rating": 1627.53,
+      "dailyRatingChange": 4.11
+    },
+    {
+      "position": 2,
+      "playerId": "m8971",
+      "name": "Jason Lally",
+      "rating": 1589.55,
+      "dailyRatingChange": -2.66
+    },
+    {
+      "position": 2,
+      "playerId": "m314079",
+      "name": "Mike O'Hara",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 4,
+      "playerId": "m60038",
+      "name": "Brett Baron",
+      "rating": 1604.7,
+      "dailyRatingChange": 0.7
+    }
+  ]
+}

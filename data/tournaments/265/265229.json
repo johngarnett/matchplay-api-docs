@@ -1,0 +1,95 @@
+{
+  "tournamentId": 265229,
+  "name": "Let’s Go To Shorty’s 71",
+  "date": "2026-08-03",
+  "locationId": "5461",
+  "locationName": "JUPITER",
+  "playerCount": 12,
+  "ratingsDate": "2026-08-03",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m1506",
+      "name": "Neil Kubath",
+      "rating": 1624.11,
+      "dailyRatingChange": 13.4
+    },
+    {
+      "position": 2,
+      "playerId": "m12491",
+      "name": "Alex Skinner",
+      "rating": 1712.54,
+      "dailyRatingChange": -0.78
+    },
+    {
+      "position": 3,
+      "playerId": "m30880",
+      "name": "Andy Bernard",
+      "rating": 1521.86,
+      "dailyRatingChange": 2.94
+    },
+    {
+      "position": 4,
+      "playerId": "m26886",
+      "name": "Emily Young",
+      "rating": 1553.32,
+      "dailyRatingChange": -0.03
+    },
+    {
+      "position": 4,
+      "playerId": "m31718",
+      "name": "Madison Masterson",
+      "rating": 1621.05,
+      "dailyRatingChange": 0.14
+    },
+    {
+      "position": 6,
+      "playerId": "m31886",
+      "name": "Los Rangel",
+      "rating": 1584.84,
+      "dailyRatingChange": -0.01
+    },
+    {
+      "position": 6,
+      "playerId": "m17400",
+      "name": "Michael Gray",
+      "rating": 1556.99,
+      "dailyRatingChange": -0.12
+    },
+    {
+      "position": 8,
+      "playerId": "m30748",
+      "name": "Andrew Stauffer",
+      "rating": 1530.27,
+      "dailyRatingChange": 0.19
+    },
+    {
+      "position": 9,
+      "playerId": "m45918",
+      "name": "Dakota Green",
+      "rating": 1482.72,
+      "dailyRatingChange": -2.37
+    },
+    {
+      "position": 9,
+      "playerId": "m20409",
+      "name": "Courtney Hoppus",
+      "rating": 1417.85,
+      "dailyRatingChange": -4.32
+    },
+    {
+      "position": 11,
+      "playerId": "m57272",
+      "name": "Kim Smirke",
+      "rating": 1395.68,
+      "dailyRatingChange": -3.98
+    },
+    {
+      "position": 11,
+      "playerId": "m3217",
+      "name": "Brian Chesbrough",
+      "rating": 1627.93,
+      "dailyRatingChange": -4.03
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "tournamentId": 265045,
+  "name": "Scanlines Arcade Stern Army Tournament",
+  "date": "2026-08-02",
+  "locationId": "12802",
+  "locationName": "Scanlines Arcade",
+  "playerCount": 17,
+  "ratingsDate": "2026-08-02",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m36804",
+      "name": "Ryan Calhoun",
+      "rating": 1579.61,
+      "dailyRatingChange": 13.7
+    },
+    {
+      "position": 2,
+      "playerId": "m11159",
+      "name": "rick dunkin",
+      "rating": 1615.94,
+      "dailyRatingChange": 6.66
+    },
+    {
+      "position": 3,
+      "playerId": "m6235",
+      "name": "Mark Moore",
+      "rating": 1573.77,
+      "dailyRatingChange": 1.74
+    },
+    {
+      "position": 4,
+      "playerId": "m1763",
+      "name": "Dennis Baker",
+      "rating": 1573.61,
+      "dailyRatingChange": 1.6
+    },
+    {
+      "position": 5,
+      "playerId": "m55605",
+      "name": "Olivia Smith",
+      "rating": 1509.49,
+      "dailyRatingChange": 6.93
+    },
+    {
+      "position": 5,
+      "playerId": "i5154",
+      "name": "Jason Paul",
+      "rating": 1565.17,
+      "dailyRatingChange": -5.22
+    },
+    {
+      "position": 7,
+      "playerId": "m543948",
+      "name": "Mini Benson",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 7,
+      "playerId": "m56301",
+      "name": "Brooke Stewart",
+      "rating": 1449.09,
+      "dailyRatingChange": 10.22
+    },
+    {
+      "position": 9,
+      "playerId": "m55627",
+      "name": "Josh Benson",
+      "rating": 1488.93,
+      "dailyRatingChange": 1.18
+    },
+    {
+      "position": 10,
+      "playerId": "m530775",
+      "name": "zander paul",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 11,
+      "playerId": "m40862",
+      "name": "Brett Schroder",
+      "rating": 1441.13,
+      "dailyRatingChange": 0.84
+    },
+    {
+      "position": 12,
+      "playerId": "m56305",
+      "name": "Xavier Johnson",
+      "rating": 1424.75,
+      "dailyRatingChange": -1.68
+    },
+    {
+      "position": 13,
+      "playerId": "m27265",
+      "name": "Digger Bell",
+      "rating": 1514.24,
+      "dailyRatingChange": -8.03
+    },
+    {
+      "position": 13,
+      "playerId": "m56764",
+      "name": "Kelly Riley",
+      "rating": 1415.97,
+      "dailyRatingChange": -9.21
+    },
+    {
+      "position": 15,
+      "playerId": "m55591",
+      "name": "Jessica Thomas",
+      "rating": 1409.78,
+      "dailyRatingChange": -10.44
+    },
+    {
+      "position": 16,
+      "playerId": "m30974",
+      "name": "Jason Jones",
+      "rating": 1455.11,
+      "dailyRatingChange": -36.21
+    },
+    {
+      "position": 17,
+      "playerId": "m555261",
+      "name": "Baron",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

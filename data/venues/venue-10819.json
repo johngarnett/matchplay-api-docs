@@ -1,0 +1,191 @@
+{
+  "locationId": "10819",
+  "name": "The Vapor Cloud",
+  "address": "1445 Washington Rd, Washington, PA 15301, US",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 10,
+  "relatedVenues": [
+    {
+      "locationId": "9489",
+      "name": "Verdetto’s Bar",
+      "address": "814 Madison Avenue, Pittsburgh, PA 15212, US",
+      "count": 42
+    },
+    {
+      "locationId": "2480",
+      "name": "Pittsburgh Pinball Dojo",
+      "address": "2 N Balph Ave, Bellevue PA 15202",
+      "count": 40
+    },
+    {
+      "locationId": "8271",
+      "name": "Rezzanine Esports",
+      "address": "1025 Washington Pike, Bridgeville, PA 15017, US",
+      "count": 24
+    },
+    {
+      "locationId": "9215",
+      "name": "Velum Fermentation",
+      "address": "2120 Jane St, Pittsburgh, PA 15203, US",
+      "count": 22
+    },
+    {
+      "locationId": "7785",
+      "name": "Helicon Brewing",
+      "address": "102 Union Ave, Oakdale, PA 15071, US",
+      "count": 20
+    },
+    {
+      "locationId": "11359",
+      "name": "Pinball Perfection",
+      "address": "231 Perry Highway, Westview, PA 15229, US",
+      "count": 7
+    },
+    {
+      "locationId": "13462",
+      "name": "Row House Cinemas - Hollywood",
+      "address": "1449 Potomac Ave, Pittsburgh, PA 15216, US",
+      "count": 5
+    },
+    {
+      "locationId": "11201",
+      "name": "Lawrence Hall",
+      "address": "4609 Butler St, Pittsburgh, PA 15201, US",
+      "count": 4
+    },
+    {
+      "locationId": "12777",
+      "name": "The Church Arcade",
+      "address": "32 S 1st Street, Duquesne PA, 15110",
+      "count": 3
+    },
+    {
+      "locationId": "8555",
+      "name": "Past Times Arcade",
+      "address": "419 N State St, Girard, OH, 44420, US",
+      "count": 1
+    }
+  ],
+  "players": [
+    {
+      "id": "m32306",
+      "name": "Walt Lannis",
+      "rating": 1699.02,
+      "rd": 20.98,
+      "ratingClass": "A",
+      "homeLocation": "Pittsburgh Pinball Dojo",
+      "homeLocationId": "2480",
+      "percentile": 96.53421530721573,
+      "changeDisplay": "-0.1",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m7900",
+      "name": "Chris Brunetti",
+      "rating": 1615.67,
+      "rd": 22.14,
+      "ratingClass": "A",
+      "homeLocation": "Helicon Brewing",
+      "homeLocationId": "7785",
+      "percentile": 85.67568826571016,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m16031",
+      "name": "John Thwaite",
+      "rating": 1614.88,
+      "rd": 21.88,
+      "ratingClass": "A",
+      "homeLocation": "Pittsburgh Pinball Dojo",
+      "homeLocationId": "2480",
+      "percentile": 85.54525550845484,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m3307",
+      "name": "Sandy Graver",
+      "rating": 1561.53,
+      "rd": 28.03,
+      "ratingClass": "B",
+      "homeLocation": "Pittsburgh Pinball Dojo",
+      "homeLocationId": "2480",
+      "percentile": 70.86691200447198,
+      "changeDisplay": "+5.6",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m4069",
+      "name": "Jordan Retterer",
+      "rating": 1553.54,
+      "rd": 22.06,
+      "ratingClass": "B",
+      "homeLocation": "Velum Fermentation",
+      "homeLocationId": "9215",
+      "percentile": 68.17906554246052,
+      "changeDisplay": "+9.1",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m10590",
+      "name": "tia roberts",
+      "rating": 1531.16,
+      "rd": 24.28,
+      "ratingClass": "B",
+      "homeLocation": "Verdetto’s Bar",
+      "homeLocationId": "9489",
+      "percentile": 59.49597055946336,
+      "changeDisplay": "+1.9",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m25615",
+      "name": "Derek Anderson",
+      "rating": 1530.32,
+      "rd": 25.11,
+      "ratingClass": "B",
+      "homeLocation": "Pittsburgh Pinball Dojo",
+      "homeLocationId": "2480",
+      "percentile": 59.16988866632506,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m6481",
+      "name": "Peace Nick Mann",
+      "rating": 1448.13,
+      "rd": 30.29,
+      "ratingClass": "C",
+      "homeLocation": "Pittsburgh Pinball Dojo",
+      "homeLocationId": "2480",
+      "percentile": 26.48716634834863,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m44388",
+      "name": "John Gregor",
+      "rating": 1422.11,
+      "rd": 44.47,
+      "ratingClass": "C",
+      "homeLocation": "The Vapor Cloud",
+      "homeLocationId": "10819",
+      "percentile": 18.24661107746774,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m37055",
+      "name": "Megan Pantanella",
+      "rating": 1355.49,
+      "rd": 30,
+      "ratingClass": "D",
+      "homeLocation": "Pittsburgh Pinball Dojo",
+      "homeLocationId": "2480",
+      "percentile": 4.835328643965156,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

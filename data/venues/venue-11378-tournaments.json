@@ -1,0 +1,233 @@
+{
+  "locationId": "11378",
+  "venueName": "GameCraft Arcade",
+  "venueAddress": "168 Center Street, Southington, CT 06489, US",
+  "tournaments": [
+    {
+      "id": 254731,
+      "name": "GameCraft - NPC Season 3 #5",
+      "date": "8/11/2026",
+      "playerCount": 36,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m40393",
+          "name": "Connor Mulberry",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 1,
+          "playerId": "m20084",
+          "name": "Jason Corrado",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 1,
+          "playerId": "m49973",
+          "name": "Morgan Nelson",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m18926",
+          "name": "Nicolas Quadrini",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 265665,
+      "name": "Transformers Launch party",
+      "date": "8/5/2026",
+      "playerCount": 11,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m1115",
+          "name": "Holly Danowski",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m37775",
+          "name": "Tori Danger",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m40897",
+          "name": "Elisabeth Cleveland",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m49810",
+          "name": "Ashleigh Haberski",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 254730,
+      "name": "GameCraft - NPC Season 3 #4",
+      "date": "8/4/2026",
+      "playerCount": 31,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m40393",
+          "name": "Connor Mulberry",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m48956",
+          "name": "Patrick Casey",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m39236",
+          "name": "Travis Simpson",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m40387",
+          "name": "Rick Passmore",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m18926",
+          "name": "Nicolas Quadrini",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m49973",
+          "name": "Morgan Nelson",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m16563",
+          "name": "Brody Marion",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 264710,
+      "name": "Finals for Friendship Matchplay @ GameCraft",
+      "date": "7/30/2026",
+      "playerCount": 5,
+      "qualifying": {
+        "id": 259582,
+        "name": "Friendship Matchplay @ GameCraft",
+        "playerCount": 24
+      },
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m41338",
+          "name": "Josh Felton",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m48956",
+          "name": "Patrick Casey",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m50002",
+          "name": "Daniel Cleary",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m16563",
+          "name": "Brody Marion",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 254729,
+      "name": "GameCraft - NPC Season 3 #3",
+      "date": "7/28/2026",
+      "playerCount": 34,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m39236",
+          "name": "Travis Simpson",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m34451",
+          "name": "Alec Kehrhahn",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m13850",
+          "name": "Ryan Belisle",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m48956",
+          "name": "Patrick Casey",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m49973",
+          "name": "Morgan Nelson",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 254728,
+      "name": "GameCraft - NPC Season 3 #2",
+      "date": "7/21/2026",
+      "playerCount": 37,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m16563",
+          "name": "Brody Marion",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m13850",
+          "name": "Ryan Belisle",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m18926",
+          "name": "Nicolas Quadrini",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m50094",
+          "name": "Matthew Nelson",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "tournamentId": 264785,
+  "name": "Belles and Chimes Columbus Season 24 Fun Night",
+  "date": "2026-08-06",
+  "locationId": "12162",
+  "locationName": "Level One Bar + Arcade",
+  "playerCount": 13,
+  "ratingsDate": "2026-08-06",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m16968",
+      "name": "Liz Goode",
+      "rating": 1615.5,
+      "dailyRatingChange": 2.04
+    },
+    {
+      "position": 2,
+      "playerId": "m9632",
+      "name": "Heather Binns",
+      "rating": 1440.6,
+      "dailyRatingChange": 6.32
+    },
+    {
+      "position": 3,
+      "playerId": "m177",
+      "name": "Therese Edwards",
+      "rating": 1489.88,
+      "dailyRatingChange": 5.22
+    },
+    {
+      "position": 4,
+      "playerId": "i100677",
+      "name": "Susan Gorman",
+      "rating": 1467.82,
+      "dailyRatingChange": 7.46
+    },
+    {
+      "position": 5,
+      "playerId": "m16997",
+      "name": "Abbey Johnson",
+      "rating": 1524.61,
+      "dailyRatingChange": -0.19
+    },
+    {
+      "position": 6,
+      "playerId": "m11376",
+      "name": "Mollie Johnson",
+      "rating": 1477.52,
+      "dailyRatingChange": 3.9
+    },
+    {
+      "position": 7,
+      "playerId": "m17923",
+      "name": "Lizz McDaniels",
+      "rating": 1502.02,
+      "dailyRatingChange": -4.12
+    },
+    {
+      "position": 8,
+      "playerId": "m55956",
+      "name": "Kay Dean",
+      "rating": 1399.31,
+      "dailyRatingChange": -0.92
+    },
+    {
+      "position": 9,
+      "playerId": "m584839",
+      "name": "Victoria Holland",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 10,
+      "playerId": "m568513",
+      "name": "Carol Sheridan",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 11,
+      "playerId": "m21446",
+      "name": "Stephanie Zona",
+      "rating": 1572,
+      "dailyRatingChange": -4.86
+    },
+    {
+      "position": 12,
+      "playerId": "m568514",
+      "name": "Jessica Sheridan",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 13,
+      "playerId": "m51694",
+      "name": "Elana Bolen",
+      "rating": 1370.01,
+      "dailyRatingChange": -4.75
+    }
+  ]
+}

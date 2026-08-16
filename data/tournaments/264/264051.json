@@ -1,0 +1,39 @@
+{
+  "tournamentId": 264051,
+  "name": "A Finals for Belles & Chimes SATX - Summer 2026 #4",
+  "date": "2026-07-27",
+  "locationId": "7560",
+  "locationName": "What's Brewing? Coffee Roasters",
+  "playerCount": 4,
+  "ratingsDate": "2026-07-27",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m24442",
+      "name": "Cinthia Whitefield",
+      "rating": 1573,
+      "dailyRatingChange": 2.19
+    },
+    {
+      "position": 2,
+      "playerId": "m21085",
+      "name": "Kristen Saunders",
+      "rating": 1548.45,
+      "dailyRatingChange": -4.28
+    },
+    {
+      "position": 3,
+      "playerId": "m9464",
+      "name": "Destiny Moreno",
+      "rating": 1449.54,
+      "dailyRatingChange": 3.52
+    },
+    {
+      "position": 4,
+      "playerId": "m56824",
+      "name": "Sona Rivera",
+      "rating": 1502.95,
+      "dailyRatingChange": -1.58
+    }
+  ]
+}

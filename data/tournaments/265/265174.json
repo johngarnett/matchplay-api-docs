@@ -1,0 +1,102 @@
+{
+  "tournamentId": 265174,
+  "name": "Level 256 Weekly Knockout - 8/2/2026",
+  "date": "2026-08-03",
+  "locationId": "13302",
+  "locationName": "Level 256 Classic Arcade Bar",
+  "playerCount": 13,
+  "ratingsDate": "2026-08-03",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m31837",
+      "name": "Andrew Spillios",
+      "rating": 1790.17,
+      "dailyRatingChange": 5.55
+    },
+    {
+      "position": 2,
+      "playerId": "m13906",
+      "name": "Adam Bowman",
+      "rating": 1632.84,
+      "dailyRatingChange": 0.08
+    },
+    {
+      "position": 3,
+      "playerId": "m55016",
+      "name": "Nora Collins",
+      "rating": 1406.29,
+      "dailyRatingChange": 20.48
+    },
+    {
+      "position": 3,
+      "playerId": "m47114",
+      "name": "Vincent Sparacino",
+      "rating": 1542.81,
+      "dailyRatingChange": 1.41
+    },
+    {
+      "position": 5,
+      "playerId": "i147973",
+      "name": "Nathan Sabo",
+      "rating": 1448.19,
+      "dailyRatingChange": 2.19
+    },
+    {
+      "position": 6,
+      "playerId": "m30100",
+      "name": "Mark Lathrop",
+      "rating": 1486.5,
+      "dailyRatingChange": -1.74
+    },
+    {
+      "position": 6,
+      "playerId": "m19354",
+      "name": "Noah Clarke",
+      "rating": 1580.11,
+      "dailyRatingChange": -3.57
+    },
+    {
+      "position": 8,
+      "playerId": "m21857",
+      "name": "Kyle Voorhees",
+      "rating": 1611.42,
+      "dailyRatingChange": -5
+    },
+    {
+      "position": 8,
+      "playerId": "m584133",
+      "name": "Austin Mace",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 10,
+      "playerId": "m584156",
+      "name": "Naythan Heil",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 10,
+      "playerId": "m584146",
+      "name": "Dylan Metz",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 12,
+      "playerId": "m26497",
+      "name": "Katie Sampler",
+      "rating": 1299.22,
+      "dailyRatingChange": -0.77
+    },
+    {
+      "position": 13,
+      "playerId": "m584155",
+      "name": "Elisabeth Dupuy",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

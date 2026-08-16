@@ -1,0 +1,368 @@
+{
+  "tournamentId": 257057,
+  "name": "Extra Ball Battle 4 Event #1 @ The Pinball Co-op",
+  "date": "2026-07-18",
+  "locationId": "10560",
+  "locationName": "Pinball Co-op",
+  "playerCount": 51,
+  "ratingsDate": "2026-07-18",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m1440",
+      "name": "Beau Blanchard",
+      "rating": 1627.84,
+      "dailyRatingChange": 28.83
+    },
+    {
+      "position": 2,
+      "playerId": "m9561",
+      "name": "Bill McHugh",
+      "rating": 1648.29,
+      "dailyRatingChange": 22.15
+    },
+    {
+      "position": 3,
+      "playerId": "m15626",
+      "name": "Carter Casselman",
+      "rating": 1799.23,
+      "dailyRatingChange": -2.07
+    },
+    {
+      "position": 4,
+      "playerId": "m455",
+      "name": "Jamie MacLeish",
+      "rating": 1656.44,
+      "dailyRatingChange": 16.36
+    },
+    {
+      "position": 5,
+      "playerId": "m10054",
+      "name": "Chris Brunette",
+      "rating": 1630.69,
+      "dailyRatingChange": 11.64
+    },
+    {
+      "position": 6,
+      "playerId": "m34724",
+      "name": "Doug Blackmore",
+      "rating": 1664.32,
+      "dailyRatingChange": 9.7
+    },
+    {
+      "position": 7,
+      "playerId": "m36821",
+      "name": "Jess Lovely",
+      "rating": 1506.55,
+      "dailyRatingChange": 49.46
+    },
+    {
+      "position": 8,
+      "playerId": "m8932",
+      "name": "Mike Havens",
+      "rating": 1669.96,
+      "dailyRatingChange": -1.93
+    },
+    {
+      "position": 9,
+      "playerId": "m7617",
+      "name": "Mike Casselman",
+      "rating": 1724.15,
+      "dailyRatingChange": -7.57
+    },
+    {
+      "position": 10,
+      "playerId": "m2112",
+      "name": "Tyler Aas",
+      "rating": 1689.49,
+      "dailyRatingChange": -7.72
+    },
+    {
+      "position": 11,
+      "playerId": "m34929",
+      "name": "Brandon Arnold",
+      "rating": 1619.57,
+      "dailyRatingChange": 12.21
+    },
+    {
+      "position": 12,
+      "playerId": "m184",
+      "name": "Brian O'Neill NH",
+      "rating": 1767.06,
+      "dailyRatingChange": -17.26
+    },
+    {
+      "position": 13,
+      "playerId": "m41618",
+      "name": "Josh Bigelow",
+      "rating": 1620.61,
+      "dailyRatingChange": 1.99
+    },
+    {
+      "position": 14,
+      "playerId": "m24745",
+      "name": "Pat Lampron",
+      "rating": 1645.09,
+      "dailyRatingChange": -2.88
+    },
+    {
+      "position": 15,
+      "playerId": "m31040",
+      "name": "Coleman Papa-Musgrave",
+      "rating": 1586.99,
+      "dailyRatingChange": 2.37
+    },
+    {
+      "position": 16,
+      "playerId": "m9748",
+      "name": "Connor Shlatz",
+      "rating": 1678.17,
+      "dailyRatingChange": -12.48
+    },
+    {
+      "position": 17,
+      "playerId": "m5524",
+      "name": "Eric Marz",
+      "rating": 1674.12,
+      "dailyRatingChange": -11.11
+    },
+    {
+      "position": 18,
+      "playerId": "m2957",
+      "name": "Emily May",
+      "rating": 1619.55,
+      "dailyRatingChange": 3.88
+    },
+    {
+      "position": 19,
+      "playerId": "m2955",
+      "name": "Mark Dabelstein",
+      "rating": 1564.3,
+      "dailyRatingChange": 9.37
+    },
+    {
+      "position": 20,
+      "playerId": "m38904",
+      "name": "Teigen Pillsbury",
+      "rating": 1553.63,
+      "dailyRatingChange": 11.95
+    },
+    {
+      "position": 21,
+      "playerId": "i22236",
+      "name": "Kyle Marshall",
+      "rating": 1606.72,
+      "dailyRatingChange": -8.38
+    },
+    {
+      "position": 22,
+      "playerId": "m181",
+      "name": "Allison O'Neill",
+      "rating": 1570.42,
+      "dailyRatingChange": 1.59
+    },
+    {
+      "position": 23,
+      "playerId": "m9871",
+      "name": "Justin Buck VT",
+      "rating": 1540.28,
+      "dailyRatingChange": 0.69
+    },
+    {
+      "position": 24,
+      "playerId": "m27033",
+      "name": "Maryz Bedard",
+      "rating": 1543.64,
+      "dailyRatingChange": 3.05
+    },
+    {
+      "position": 25,
+      "playerId": "m42105",
+      "name": "Dominique Rabideau",
+      "rating": 1551.43,
+      "dailyRatingChange": 2.97
+    },
+    {
+      "position": 26,
+      "playerId": "m17521",
+      "name": "Allison Havens",
+      "rating": 1462.89,
+      "dailyRatingChange": 18.87
+    },
+    {
+      "position": 26,
+      "playerId": "m27845",
+      "name": "Vincent Vitiello",
+      "rating": 1690.24,
+      "dailyRatingChange": -18.37
+    },
+    {
+      "position": 28,
+      "playerId": "m28581",
+      "name": "Tammy Charbonneau",
+      "rating": 1426.37,
+      "dailyRatingChange": 20.5
+    },
+    {
+      "position": 29,
+      "playerId": "m5899",
+      "name": "Bill MacDonald",
+      "rating": 1581.6,
+      "dailyRatingChange": -6.99
+    },
+    {
+      "position": 30,
+      "playerId": "m451",
+      "name": "Alex Yeager",
+      "rating": 1537.34,
+      "dailyRatingChange": -3.08
+    },
+    {
+      "position": 31,
+      "playerId": "m53118",
+      "name": "Tristan Langevin",
+      "rating": 1474.13,
+      "dailyRatingChange": 16.74
+    },
+    {
+      "position": 32,
+      "playerId": "m59668",
+      "name": "Max Lyons",
+      "rating": 1511.81,
+      "dailyRatingChange": 11.59
+    },
+    {
+      "position": 33,
+      "playerId": "m50291",
+      "name": "Jeff Wheeler",
+      "rating": null,
+      "dailyRatingChange": 4.29
+    },
+    {
+      "position": 34,
+      "playerId": "m9534",
+      "name": "Jody Stahlman",
+      "rating": 1549.96,
+      "dailyRatingChange": -8.73
+    },
+    {
+      "position": 35,
+      "playerId": "m62041",
+      "name": "Brendan Devitt",
+      "rating": 1497.74,
+      "dailyRatingChange": null
+    },
+    {
+      "position": 36,
+      "playerId": "m29840",
+      "name": "Kim Musgrave",
+      "rating": 1451.87,
+      "dailyRatingChange": 9.78
+    },
+    {
+      "position": 37,
+      "playerId": "m59216",
+      "name": "Kyle Simard",
+      "rating": 1412.45,
+      "dailyRatingChange": 46.94
+    },
+    {
+      "position": 38,
+      "playerId": "m37835",
+      "name": "Ashley Carroll",
+      "rating": 1479.79,
+      "dailyRatingChange": -2
+    },
+    {
+      "position": 39,
+      "playerId": "m4497",
+      "name": "Buddy Meilleur",
+      "rating": 1451.3,
+      "dailyRatingChange": 7.78
+    },
+    {
+      "position": 40,
+      "playerId": "m31481",
+      "name": "Seth Rosen",
+      "rating": 1470.05,
+      "dailyRatingChange": -19.99
+    },
+    {
+      "position": 41,
+      "playerId": "m398983",
+      "name": "Mark Rappold",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 42,
+      "playerId": "m49905",
+      "name": "Evan Mahakian",
+      "rating": 1493.7,
+      "dailyRatingChange": -14.53
+    },
+    {
+      "position": 43,
+      "playerId": "m53110",
+      "name": "Megan Landry",
+      "rating": 1454.65,
+      "dailyRatingChange": -13.05
+    },
+    {
+      "position": 44,
+      "playerId": "m37853",
+      "name": "Suppressed Player",
+      "rating": 1496.77,
+      "dailyRatingChange": -11.27
+    },
+    {
+      "position": 45,
+      "playerId": "m30939",
+      "name": "Philip Stevens",
+      "rating": 1523.09,
+      "dailyRatingChange": -16.92
+    },
+    {
+      "position": 46,
+      "playerId": "i141537",
+      "name": "Pig in Sh*t",
+      "rating": 1439.61,
+      "dailyRatingChange": null
+    },
+    {
+      "position": 47,
+      "playerId": "m9556",
+      "name": "Kristine Buck",
+      "rating": 1402.1,
+      "dailyRatingChange": -4.24
+    },
+    {
+      "position": 48,
+      "playerId": "m41765",
+      "name": "Jacob Stone",
+      "rating": 1441.71,
+      "dailyRatingChange": -11.1
+    },
+    {
+      "position": 49,
+      "playerId": "m13715",
+      "name": "Lisa Casselman",
+      "rating": 1424.57,
+      "dailyRatingChange": -21.48
+    },
+    {
+      "position": 50,
+      "playerId": "m49949",
+      "name": "Gennaro Marletta",
+      "rating": 1408.01,
+      "dailyRatingChange": -103.7
+    },
+    {
+      "position": 51,
+      "playerId": "m60271",
+      "name": "Tim Russell",
+      "rating": 1353.34,
+      "dailyRatingChange": null
+    }
+  ]
+}

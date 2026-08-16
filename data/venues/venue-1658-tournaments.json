@@ -1,0 +1,100 @@
+{
+  "locationId": "1658",
+  "venueName": "North End Pub",
+  "venueAddress": "2100 Elmwood Ave, Lafayette, IN 47904, USA",
+  "tournaments": [
+    {
+      "id": 266240,
+      "name": "North End Belles and Chimes Monthly August (Lafayette, IN)",
+      "date": "8/9/2026",
+      "playerCount": 3,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m26073",
+          "name": "Lindsey Sickler",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "i157213",
+          "name": "Lex Sell",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m30954",
+          "name": "Amanda Akers",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 253588,
+      "name": "North End Pub 2026 Summer League Flip Frenzy Finals",
+      "date": "7/30/2026",
+      "playerCount": 15,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m13",
+          "name": "Tommy Skinner",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m30542",
+          "name": "Tony Baldini",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m27563",
+          "name": "Michael Wertz",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m1759",
+          "name": "Ryan Donohue",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 253151,
+      "name": "North End Pub July Price is Right Group Matchplay",
+      "date": "7/24/2026",
+      "playerCount": 10,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m30954",
+          "name": "Amanda Akers",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m27563",
+          "name": "Michael Wertz",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "i157213",
+          "name": "Lex Sell",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m8076",
+          "name": "Casey Taylor",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

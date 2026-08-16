@@ -1,0 +1,359 @@
+{
+  "locationId": "10372",
+  "name": "Joystiq",
+  "address": "325 west main",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 24,
+  "relatedVenues": [
+    {
+      "locationId": "6612",
+      "name": "Lynn's Arcade: A Pinball Parlor and Can Slangery",
+      "address": "1760 Fremont Boulevard, Suite D1, Seaside, California 93955, US",
+      "count": 59
+    },
+    {
+      "locationId": "11141",
+      "name": "Slingshot Pinball",
+      "address": "460 Lincoln Ave #70, San Jose, CA 95126, US",
+      "count": 14
+    },
+    {
+      "locationId": "11416",
+      "name": "Rivets American Grill",
+      "address": "2307 Oakdale Rd, Modesto, CA 95355, US",
+      "count": 12
+    },
+    {
+      "locationId": "12580",
+      "name": "Sparky's House",
+      "address": "7637 Mitchell Road, Ceres, CA  95307",
+      "count": 7
+    },
+    {
+      "locationId": "13118",
+      "name": "Fast Eddie's Moab Meal On Bun",
+      "address": "1228 Tully Rd, Modesto, CA 95350, US",
+      "count": 7
+    },
+    {
+      "locationId": "5173",
+      "name": "The Flipper Room",
+      "address": "1033 Shary Cir, Concord, CA 94518, USA",
+      "count": 6
+    },
+    {
+      "locationId": "1412",
+      "name": "Pacific Pinball Museum",
+      "address": "1510 Webster St, Alameda, CA 94501, USA",
+      "count": 5
+    },
+    {
+      "locationId": "13043",
+      "name": "GSPF",
+      "address": "413 E. Rockford Street, Lodi, CA 95240",
+      "count": 3
+    },
+    {
+      "locationId": "13762",
+      "name": "Clever Unicorn Pinball Arcade",
+      "address": "1855 41st Ave Spc F-11, Capitola, CA 95010, US",
+      "count": 3
+    },
+    {
+      "locationId": "6346",
+      "name": "NWPAS",
+      "address": "",
+      "count": 2
+    }
+  ],
+  "players": [
+    {
+      "id": "m37802",
+      "name": "Matt Ernst",
+      "rating": 1710.63,
+      "rd": 29.2,
+      "ratingClass": "Expert",
+      "homeLocation": "Rivets American Grill",
+      "homeLocationId": "11416",
+      "percentile": 97.19569571901057,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m39996",
+      "name": "Tyler Turner",
+      "rating": 1688.81,
+      "rd": 26.98,
+      "ratingClass": "A",
+      "homeLocation": "Joystiq",
+      "homeLocationId": "10372",
+      "percentile": 95.83546839334794,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m60006",
+      "name": "Brett Frago",
+      "rating": 1659,
+      "rd": 24.91,
+      "ratingClass": "A",
+      "homeLocation": "Joystiq",
+      "homeLocationId": "10372",
+      "percentile": 92.95197279545349,
+      "changeDisplay": "-4.9",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m50976",
+      "name": "Trevor Turner",
+      "rating": 1646.77,
+      "rd": 26.17,
+      "ratingClass": "A",
+      "homeLocation": "Joystiq",
+      "homeLocationId": "10372",
+      "percentile": 91.29827176596636,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i136249",
+      "name": "Nicolas Banh",
+      "rating": 1631.72,
+      "rd": 23.55,
+      "ratingClass": "A",
+      "homeLocation": "Slingshot Pinball",
+      "homeLocationId": "11141",
+      "percentile": 88.92719057157498,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m22564",
+      "name": "Matt Nielsen",
+      "rating": 1630.93,
+      "rd": 17.86,
+      "ratingClass": "A",
+      "homeLocation": "Lynn's Arcade: A Pinball Parlor and Can Slangery",
+      "homeLocationId": "6612",
+      "percentile": 88.77812456328317,
+      "changeDisplay": "+0.6",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m12915",
+      "name": "Eric Garcia",
+      "rating": 1629.57,
+      "rd": 18.12,
+      "ratingClass": "A",
+      "homeLocation": "Lynn's Arcade: A Pinball Parlor and Can Slangery",
+      "homeLocationId": "6612",
+      "percentile": 88.49862579773607,
+      "changeDisplay": "+7.6",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m51649",
+      "name": "Hugo Mejia",
+      "rating": 1618.81,
+      "rd": 39.29,
+      "ratingClass": "A",
+      "homeLocation": "Joystiq",
+      "homeLocationId": "10372",
+      "percentile": 86.3604602413006,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m53171",
+      "name": "Bret Stilwill",
+      "rating": 1614.45,
+      "rd": 27.67,
+      "ratingClass": "A",
+      "homeLocation": "Rivets American Grill",
+      "homeLocationId": "11416",
+      "percentile": 85.45208925327246,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m47470",
+      "name": "James Elola",
+      "rating": 1593.27,
+      "rd": 24.41,
+      "ratingClass": "B",
+      "homeLocation": "Joystiq",
+      "homeLocationId": "10372",
+      "percentile": 80.3139702799646,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i138875",
+      "name": "Daniel Munoz",
+      "rating": 1579.97,
+      "rd": 33.24,
+      "ratingClass": "B",
+      "homeLocation": "Joystiq",
+      "homeLocationId": "10372",
+      "percentile": 76.60595332370616,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m52579",
+      "name": "Mark Malmberg",
+      "rating": 1575.05,
+      "rd": 27.67,
+      "ratingClass": "B",
+      "homeLocation": "Das Flipperhaus",
+      "homeLocationId": "7008",
+      "percentile": 75.07802673871524,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m2641",
+      "name": "Robert Rusticus",
+      "rating": 1553.81,
+      "rd": 25.8,
+      "ratingClass": "B",
+      "homeLocation": "Joystiq",
+      "homeLocationId": "10372",
+      "percentile": 68.27223179764289,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m47485",
+      "name": "Alex Macias",
+      "rating": 1532.69,
+      "rd": 23.27,
+      "ratingClass": "B",
+      "homeLocation": "Rivets American Grill",
+      "homeLocationId": "11416",
+      "percentile": 60.14813434573997,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m5632",
+      "name": "Tim Chevalier",
+      "rating": 1514.72,
+      "rd": 22.55,
+      "ratingClass": "B",
+      "homeLocation": "Pacific Pinball Museum",
+      "homeLocationId": "1412",
+      "percentile": 53.072157264638754,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m58772",
+      "name": "Addie Godinho",
+      "rating": 1498.69,
+      "rd": 31.95,
+      "ratingClass": "C",
+      "homeLocation": "Joystiq",
+      "homeLocationId": "10372",
+      "percentile": 46.583127591186475,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i137810",
+      "name": "Kimberly Bristow",
+      "rating": 1476.5,
+      "rd": 34.06,
+      "ratingClass": "C",
+      "homeLocation": "Joystiq",
+      "homeLocationId": "10372",
+      "percentile": 37.48544277262775,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i137809",
+      "name": "Kevin Eno",
+      "rating": 1470.25,
+      "rd": 31.1,
+      "ratingClass": "C",
+      "homeLocation": "Joystiq",
+      "homeLocationId": "10372",
+      "percentile": 34.95597894442633,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i137808",
+      "name": "Robert Rusticus Jr",
+      "rating": 1454.49,
+      "rd": 27.59,
+      "ratingClass": "C",
+      "homeLocation": "Joystiq",
+      "homeLocationId": "10372",
+      "percentile": 28.82563935342619,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i141441",
+      "name": "Matthew Aaron",
+      "rating": 1439.88,
+      "rd": 31.56,
+      "ratingClass": "C",
+      "homeLocation": "Joystiq",
+      "homeLocationId": "10372",
+      "percentile": 23.65957050356361,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i137806",
+      "name": "Sherrie West",
+      "rating": 1417.09,
+      "rd": 31.16,
+      "ratingClass": "C",
+      "homeLocation": "Joystiq",
+      "homeLocationId": "10372",
+      "percentile": 16.90501700284157,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i138873",
+      "name": "Mike Rusticus",
+      "rating": 1385.49,
+      "rd": 45.27,
+      "ratingClass": "D",
+      "homeLocation": "Joystiq",
+      "homeLocationId": "10372",
+      "percentile": 9.414450086178785,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i141743",
+      "name": "Ciara Turner",
+      "rating": 1349.44,
+      "rd": 31.51,
+      "ratingClass": "D",
+      "homeLocation": "Joystiq",
+      "homeLocationId": "10372",
+      "percentile": 4.192481483206782,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i137804",
+      "name": "Brett Frago",
+      "rating": null,
+      "rd": null,
+      "ratingClass": "N/A",
+      "homeLocation": "Joystiq",
+      "homeLocationId": "10372",
+      "percentile": null,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

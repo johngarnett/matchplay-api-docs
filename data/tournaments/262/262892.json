@@ -1,0 +1,32 @@
+{
+  "tournamentId": 262892,
+  "name": "Still drunk Sundays #1",
+  "date": "2026-07-20",
+  "locationId": "9576",
+  "locationName": "The Kraken Bar & Lounge",
+  "playerCount": 3,
+  "ratingsDate": "2026-07-20",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m32272",
+      "name": "Hunter Vogt",
+      "rating": 1530.21,
+      "dailyRatingChange": 0.03
+    },
+    {
+      "position": 2,
+      "playerId": "m476",
+      "name": "Michael Adcock",
+      "rating": 1559.5,
+      "dailyRatingChange": -1.17
+    },
+    {
+      "position": 3,
+      "playerId": "m55225",
+      "name": "Vincent iannucci",
+      "rating": 1433.89,
+      "dailyRatingChange": -0.39
+    }
+  ]
+}

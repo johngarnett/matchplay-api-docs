@@ -1,0 +1,191 @@
+{
+  "locationId": "12234",
+  "name": "Louie’s Deli",
+  "address": "401 2nd Ave S Suite 103, Seattle, WA 98104",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 10,
+  "relatedVenues": [
+    {
+      "locationId": "8898",
+      "name": "Shorty's",
+      "address": "2222 2nd Avenue, Seattle, WA 98121, US",
+      "count": 50
+    },
+    {
+      "locationId": "1893",
+      "name": "The Ice Box",
+      "address": "615 NW Bright St, Seattle, WA 98107, USA",
+      "count": 34
+    },
+    {
+      "locationId": "8582",
+      "name": "ADD-A-Ball",
+      "address": "315 N 36th St, Seattle, WA 98103, US",
+      "count": 26
+    },
+    {
+      "locationId": "7491",
+      "name": "Jupiter Gameroom",
+      "address": "2126 2nd Ave Suite A, Seattle, WA 98121, US",
+      "count": 12
+    },
+    {
+      "locationId": "11892",
+      "name": "Locust Cider HarborCade",
+      "address": "3207 57th St Ct, Gig Harbor, WA 98335",
+      "count": 12
+    },
+    {
+      "locationId": "8474",
+      "name": "The Triple Knock",
+      "address": "2713 6th Avenue, Tacoma, WA 98406, US",
+      "count": 11
+    },
+    {
+      "locationId": "8014",
+      "name": "Georgetown Pizza & Arcade",
+      "address": "5513 Airport Way S, Seattle, WA 98108, US",
+      "count": 9
+    },
+    {
+      "locationId": "3191",
+      "name": "Tik Tok’s Workshop ",
+      "address": "1216 Sylvan Way, Bremerton, WA 98310, USA",
+      "count": 8
+    },
+    {
+      "locationId": "12679",
+      "name": "Olaf's",
+      "address": "6301 24th Ave NW, Seattle, WA 98107, US",
+      "count": 8
+    },
+    {
+      "locationId": "6346",
+      "name": "NWPAS",
+      "address": "",
+      "count": 7
+    }
+  ],
+  "players": [
+    {
+      "id": "m11001",
+      "name": "Jaran Jones",
+      "rating": 1721.41,
+      "rd": 17.74,
+      "ratingClass": "Expert",
+      "homeLocation": "The Ice Box",
+      "homeLocationId": "1893",
+      "percentile": 97.74537662458658,
+      "changeDisplay": "-2.0",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m31718",
+      "name": "Madison Masterson",
+      "rating": 1620.32,
+      "rd": 19.81,
+      "ratingClass": "A",
+      "homeLocation": "Shorty's",
+      "homeLocationId": "8898",
+      "percentile": 86.67722550892067,
+      "changeDisplay": "-0.2",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m15575",
+      "name": "Jessica Barron",
+      "rating": 1609.39,
+      "rd": 19.53,
+      "ratingClass": "A",
+      "homeLocation": "Tik Tok’s Workshop ",
+      "homeLocationId": "3191",
+      "percentile": 84.32011925280663,
+      "changeDisplay": "+1.8",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m17659",
+      "name": "Val Gaifoulline",
+      "rating": 1592.49,
+      "rd": 23.87,
+      "ratingClass": "B",
+      "homeLocation": "The Ice Box",
+      "homeLocationId": "1893",
+      "percentile": 80.13695439511808,
+      "changeDisplay": "+5.7",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m25037",
+      "name": "Kathleen Rush",
+      "rating": 1543.08,
+      "rd": 21.46,
+      "ratingClass": "B",
+      "homeLocation": "The Triple Knock",
+      "homeLocationId": "8474",
+      "percentile": 64.2521078865235,
+      "changeDisplay": "-0.8",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m59782",
+      "name": "Tamara M",
+      "rating": 1490.53,
+      "rd": 63.27,
+      "ratingClass": "C",
+      "homeLocation": "ADD-A-Ball",
+      "homeLocationId": "8582",
+      "percentile": 43.229142404621044,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m18704",
+      "name": "Steve Geluso",
+      "rating": 1479.14,
+      "rd": 28.68,
+      "ratingClass": "C",
+      "homeLocation": "Shorty's",
+      "homeLocationId": "8898",
+      "percentile": 38.60809614757535,
+      "changeDisplay": "+4.3",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m26205",
+      "name": "Kourtne Kaoss",
+      "rating": 1464.28,
+      "rd": 30.68,
+      "ratingClass": "C",
+      "homeLocation": "Shorty's",
+      "homeLocationId": "8898",
+      "percentile": 32.54297293520287,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m51509",
+      "name": "Nausicaa Warner",
+      "rating": 1459.86,
+      "rd": 34.71,
+      "ratingClass": "C",
+      "homeLocation": "ADD-A-Ball",
+      "homeLocationId": "8582",
+      "percentile": 30.94517165882517,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m30470",
+      "name": "Jackie Simmons",
+      "rating": 1391.44,
+      "rd": 27.11,
+      "ratingClass": "D",
+      "homeLocation": "Olaf's",
+      "homeLocationId": "12679",
+      "percentile": 10.593003214235804,
+      "changeDisplay": "+3.1",
+      "changeClass": "change-positive"
+    }
+  ]
+}

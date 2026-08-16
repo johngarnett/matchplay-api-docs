@@ -1,0 +1,88 @@
+{
+  "tournamentId": 264125,
+  "name": "MINIBOSS: MULTIBALL of Rage 2000",
+  "date": "2026-07-29",
+  "locationId": "9055",
+  "locationName": "Miniboss",
+  "playerCount": 11,
+  "ratingsDate": "2026-07-29",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m23397",
+      "name": "Dustin Goldbarg",
+      "rating": 1829.66,
+      "dailyRatingChange": 8.85
+    },
+    {
+      "position": 2,
+      "playerId": "m42701",
+      "name": "David A Green",
+      "rating": 1555.1,
+      "dailyRatingChange": 8.17
+    },
+    {
+      "position": 3,
+      "playerId": "m2936",
+      "name": "Tim Hansen",
+      "rating": 1776.57,
+      "dailyRatingChange": -6.53
+    },
+    {
+      "position": 4,
+      "playerId": "m35145",
+      "name": "Edgar Flores",
+      "rating": 1685.38,
+      "dailyRatingChange": 10.98
+    },
+    {
+      "position": 5,
+      "playerId": "m29835",
+      "name": "Winnie DeGregorio",
+      "rating": 1621.46,
+      "dailyRatingChange": 6.63
+    },
+    {
+      "position": 6,
+      "playerId": "m37958",
+      "name": "Jonathan Hsiao",
+      "rating": 1648.44,
+      "dailyRatingChange": 0.89
+    },
+    {
+      "position": 7,
+      "playerId": "m29839",
+      "name": "Danny DeGregorio",
+      "rating": 1575.77,
+      "dailyRatingChange": -4.57
+    },
+    {
+      "position": 8,
+      "playerId": "m35143",
+      "name": "Kane Kenney",
+      "rating": 1430.77,
+      "dailyRatingChange": -34.02
+    },
+    {
+      "position": 9,
+      "playerId": "i140522",
+      "name": "Goran Loncar",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 10,
+      "playerId": "m466318",
+      "name": "James Federico",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 10,
+      "playerId": "m20322",
+      "name": "Peach Ruiz",
+      "rating": 1574.61,
+      "dailyRatingChange": -4.3
+    }
+  ]
+}

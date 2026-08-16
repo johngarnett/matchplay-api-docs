@@ -1,0 +1,32 @@
+{
+  "tournamentId": 255035,
+  "name": "Finals for Caltowie Pinball Festival Flip Frenzy 2026",
+  "date": "2026-08-01",
+  "locationId": "11748",
+  "locationName": "Caltowie Memorial Hall",
+  "playerCount": 3,
+  "ratingsDate": "2026-08-01",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m557898",
+      "name": "Mark Easson",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 2,
+      "playerId": "m51737",
+      "name": "Jim Tyas",
+      "rating": 1517.64,
+      "dailyRatingChange": -6.8
+    },
+    {
+      "position": 3,
+      "playerId": "m6632",
+      "name": "Ray Gillett",
+      "rating": 1577.91,
+      "dailyRatingChange": -12.55
+    }
+  ]
+}

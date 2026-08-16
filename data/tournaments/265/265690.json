@@ -1,0 +1,67 @@
+{
+  "tournamentId": 265690,
+  "name": "Robocade Wednesday Match Play",
+  "date": "2026-08-06",
+  "locationId": "13284",
+  "locationName": "Robocade",
+  "playerCount": 8,
+  "ratingsDate": "2026-08-06",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "i44227",
+      "name": "Scott Shelton",
+      "rating": 1704.73,
+      "dailyRatingChange": 8.59
+    },
+    {
+      "position": 2,
+      "playerId": "m49210",
+      "name": "Tony Reining",
+      "rating": 1562.47,
+      "dailyRatingChange": 5
+    },
+    {
+      "position": 3,
+      "playerId": "m12891",
+      "name": "Gwen Octavia",
+      "rating": 1699.51,
+      "dailyRatingChange": -6.3
+    },
+    {
+      "position": 4,
+      "playerId": "m584837",
+      "name": "Darrel Hoffer",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 5,
+      "playerId": "m62504",
+      "name": "Daniel Strelow",
+      "rating": 1494.4,
+      "dailyRatingChange": -1.11
+    },
+    {
+      "position": 6,
+      "playerId": "m18675",
+      "name": "Michela Phillabaum",
+      "rating": 1571.16,
+      "dailyRatingChange": -4.23
+    },
+    {
+      "position": 7,
+      "playerId": "m578731",
+      "name": "Dennis Arnold",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 8,
+      "playerId": "m584838",
+      "name": "Alejandro Cruz",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

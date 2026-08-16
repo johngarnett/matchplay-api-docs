@@ -1,0 +1,109 @@
+{
+  "tournamentId": 263492,
+  "name": "Bluffs Tournament  2026 07 23",
+  "date": "2026-07-24",
+  "locationId": "6680",
+  "locationName": "Bluffs Pinball",
+  "playerCount": 14,
+  "ratingsDate": "2026-07-24",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m48883",
+      "name": "Chase Ivany",
+      "rating": 1588.91,
+      "dailyRatingChange": 7.57
+    },
+    {
+      "position": 2,
+      "playerId": "m59795",
+      "name": "Greg Smith CAN",
+      "rating": 1519.42,
+      "dailyRatingChange": 9.31
+    },
+    {
+      "position": 3,
+      "playerId": "m28340",
+      "name": "Dave McGarva",
+      "rating": 1608.7,
+      "dailyRatingChange": 10.6
+    },
+    {
+      "position": 4,
+      "playerId": "m57041",
+      "name": "Christopher Madden",
+      "rating": 1514.95,
+      "dailyRatingChange": -3.93
+    },
+    {
+      "position": 5,
+      "playerId": "m28312",
+      "name": "Liz Rayment",
+      "rating": 1522.46,
+      "dailyRatingChange": -6.3
+    },
+    {
+      "position": 6,
+      "playerId": "m32505",
+      "name": "Heather McKellar",
+      "rating": 1456.41,
+      "dailyRatingChange": 0.11
+    },
+    {
+      "position": 7,
+      "playerId": "i77651",
+      "name": "Paul Lozier",
+      "rating": 1506.33,
+      "dailyRatingChange": -28.31
+    },
+    {
+      "position": 8,
+      "playerId": "m61333",
+      "name": "Nate Seyler",
+      "rating": 1411.12,
+      "dailyRatingChange": null
+    },
+    {
+      "position": 9,
+      "playerId": "i92767",
+      "name": "Jared Friedberg",
+      "rating": 1539.67,
+      "dailyRatingChange": 9.39
+    },
+    {
+      "position": 10,
+      "playerId": "m300757",
+      "name": "Derek Pigeon",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 11,
+      "playerId": "m400660",
+      "name": "Kevin Rice",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 12,
+      "playerId": "m56498",
+      "name": "Jason Ainsworth",
+      "rating": 1460.19,
+      "dailyRatingChange": -35.04
+    },
+    {
+      "position": 13,
+      "playerId": "m294300",
+      "name": "Abigail McKellar",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 14,
+      "playerId": "m479071",
+      "name": "Jane Airewele",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

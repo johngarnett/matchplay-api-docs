@@ -1,0 +1,74 @@
+{
+  "tournamentId": 264294,
+  "name": "Queen of the Silver Ball- July 2026",
+  "date": "2026-07-29",
+  "locationId": "7836",
+  "locationName": "Free Play Dallas",
+  "playerCount": 9,
+  "ratingsDate": "2026-07-29",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m56270",
+      "name": "Jackie Kegley",
+      "rating": 1629.19,
+      "dailyRatingChange": 6.47
+    },
+    {
+      "position": 2,
+      "playerId": "i87121",
+      "name": "Erin Clarner",
+      "rating": 1530.96,
+      "dailyRatingChange": 16.73
+    },
+    {
+      "position": 3,
+      "playerId": "m49338",
+      "name": "Darian Fazeli",
+      "rating": 1359.35,
+      "dailyRatingChange": 5.52
+    },
+    {
+      "position": 3,
+      "playerId": "m36767",
+      "name": "Grimora",
+      "rating": 1327.52,
+      "dailyRatingChange": 9.05
+    },
+    {
+      "position": 5,
+      "playerId": "m40787",
+      "name": "Alex Moore TX",
+      "rating": 1478.85,
+      "dailyRatingChange": -6.84
+    },
+    {
+      "position": 6,
+      "playerId": "i142249",
+      "name": "Michelle Leddon",
+      "rating": 1423.24,
+      "dailyRatingChange": -1.72
+    },
+    {
+      "position": 7,
+      "playerId": "i149129",
+      "name": "Soc Lenard",
+      "rating": 1329.86,
+      "dailyRatingChange": -11.65
+    },
+    {
+      "position": 8,
+      "playerId": "m55959",
+      "name": "Naomi Lipsky",
+      "rating": 1397.68,
+      "dailyRatingChange": -23.75
+    },
+    {
+      "position": 8,
+      "playerId": "m49342",
+      "name": "Autumn Hargett",
+      "rating": 1479.16,
+      "dailyRatingChange": -4.27
+    }
+  ]
+}

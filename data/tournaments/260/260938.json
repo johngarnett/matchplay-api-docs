@@ -1,0 +1,60 @@
+{
+  "tournamentId": 260938,
+  "name": "Pour Bros. \"Tilted Taps\" Pinball League - Season 3 #3",
+  "date": "2026-08-05",
+  "locationId": "12500",
+  "locationName": "Pour Bros. Craft Taproom",
+  "playerCount": 7,
+  "ratingsDate": "2026-08-05",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m53515",
+      "name": "Matt Richards IL",
+      "rating": 1604.85,
+      "dailyRatingChange": 12.86
+    },
+    {
+      "position": 2,
+      "playerId": "m510902",
+      "name": "Mitch Rogalla",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 3,
+      "playerId": "m44385",
+      "name": "Kat Davis",
+      "rating": 1500.04,
+      "dailyRatingChange": -0.71
+    },
+    {
+      "position": 3,
+      "playerId": "m513234",
+      "name": "Natasha Jilek",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 5,
+      "playerId": "m513231",
+      "name": "Michael Minning",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 6,
+      "playerId": "i155251",
+      "name": "Jakai Martin",
+      "rating": 1352.12,
+      "dailyRatingChange": -2.87
+    },
+    {
+      "position": 7,
+      "playerId": "m510903",
+      "name": "Andrea Guevara",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

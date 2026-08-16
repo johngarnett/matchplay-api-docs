@@ -1,0 +1,123 @@
+{
+  "tournamentId": 264434,
+  "name": "A Finals for August Strikes at The Manor",
+  "date": "2026-08-10",
+  "locationId": "11249",
+  "locationName": "The Manor",
+  "playerCount": 16,
+  "ratingsDate": "2026-08-10",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m9202",
+      "name": "Matthew Richardson",
+      "rating": 1823.98,
+      "dailyRatingChange": 17.45
+    },
+    {
+      "position": 2,
+      "playerId": "m44146",
+      "name": "Nicholas Carman",
+      "rating": 1720.99,
+      "dailyRatingChange": 6.15
+    },
+    {
+      "position": 3,
+      "playerId": "m26268",
+      "name": "James Perugini",
+      "rating": 1749.19,
+      "dailyRatingChange": 2.12
+    },
+    {
+      "position": 4,
+      "playerId": "m22315",
+      "name": "Matthew Hartmann",
+      "rating": 1730.28,
+      "dailyRatingChange": -11.49
+    },
+    {
+      "position": 5,
+      "playerId": "m10933",
+      "name": "Scott Mott",
+      "rating": 1713,
+      "dailyRatingChange": -3.37
+    },
+    {
+      "position": 5,
+      "playerId": "m44145",
+      "name": "Chris Carman",
+      "rating": 1642.89,
+      "dailyRatingChange": 2.75
+    },
+    {
+      "position": 7,
+      "playerId": "m6619",
+      "name": "Mike Germscheid",
+      "rating": 1659.1,
+      "dailyRatingChange": 3.63
+    },
+    {
+      "position": 8,
+      "playerId": "m8971",
+      "name": "jason Lally",
+      "rating": 1604.68,
+      "dailyRatingChange": 3.46
+    },
+    {
+      "position": 9,
+      "playerId": "m28868",
+      "name": "Stefano Pinti",
+      "rating": 1682.23,
+      "dailyRatingChange": 0.37
+    },
+    {
+      "position": 10,
+      "playerId": "m16806",
+      "name": "John Pursglove",
+      "rating": 1573.96,
+      "dailyRatingChange": -1.5
+    },
+    {
+      "position": 10,
+      "playerId": "m28977",
+      "name": "David Basile",
+      "rating": 1663.94,
+      "dailyRatingChange": 0.78
+    },
+    {
+      "position": 12,
+      "playerId": "m30667",
+      "name": "Pete Jalbert",
+      "rating": 1583.14,
+      "dailyRatingChange": -1.85
+    },
+    {
+      "position": 12,
+      "playerId": "m23515",
+      "name": "Matt Pursglove",
+      "rating": 1749.06,
+      "dailyRatingChange": -3.47
+    },
+    {
+      "position": 12,
+      "playerId": "m30187",
+      "name": "Richard Kennison",
+      "rating": 1568.95,
+      "dailyRatingChange": -0.88
+    },
+    {
+      "position": 15,
+      "playerId": "m41111",
+      "name": "Ryan Pfeffer",
+      "rating": 1604.92,
+      "dailyRatingChange": -4.31
+    },
+    {
+      "position": 16,
+      "playerId": "m4782",
+      "name": "Russell Davis",
+      "rating": 1556.49,
+      "dailyRatingChange": -6.62
+    }
+  ]
+}

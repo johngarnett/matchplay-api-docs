@@ -1,0 +1,116 @@
+{
+  "tournamentId": 256547,
+  "name": "NPC Season 3 @ OMG Pinball! #3",
+  "date": "2026-08-01",
+  "locationId": "12468",
+  "locationName": "OMG Pinball!",
+  "playerCount": 15,
+  "ratingsDate": "2026-08-01",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m56339",
+      "name": "Paul Borne",
+      "rating": 1489.82,
+      "dailyRatingChange": 11.16
+    },
+    {
+      "position": 2,
+      "playerId": "m579235",
+      "name": "Marc Tancrell",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 3,
+      "playerId": "m36465",
+      "name": "Michael Jonah Salzman",
+      "rating": 1547.59,
+      "dailyRatingChange": 6.88
+    },
+    {
+      "position": 3,
+      "playerId": "m30368",
+      "name": "Kayla neumeyer",
+      "rating": 1507.09,
+      "dailyRatingChange": 7.17
+    },
+    {
+      "position": 5,
+      "playerId": "m60087",
+      "name": "Nathaniel Borne",
+      "rating": 1542.09,
+      "dailyRatingChange": 1.59
+    },
+    {
+      "position": 5,
+      "playerId": "m62487",
+      "name": "Colby Gunther",
+      "rating": 1524.46,
+      "dailyRatingChange": null
+    },
+    {
+      "position": 7,
+      "playerId": "m10573",
+      "name": "Anthony Kret",
+      "rating": 1613.45,
+      "dailyRatingChange": -8.04
+    },
+    {
+      "position": 8,
+      "playerId": "i155598",
+      "name": "Jacob Nordquist",
+      "rating": 1493.56,
+      "dailyRatingChange": -2.42
+    },
+    {
+      "position": 9,
+      "playerId": "i162586",
+      "name": "Mike Fontaine",
+      "rating": 1452.35,
+      "dailyRatingChange": null
+    },
+    {
+      "position": 9,
+      "playerId": "m43910",
+      "name": "Molly Pope",
+      "rating": 1550.33,
+      "dailyRatingChange": -5.29
+    },
+    {
+      "position": 11,
+      "playerId": "m579233",
+      "name": "Charles Kalish",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 11,
+      "playerId": "m581465",
+      "name": "Angela Quartarone",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 13,
+      "playerId": "m579234",
+      "name": "George Kalish",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 13,
+      "playerId": "m579236",
+      "name": "Mike Leighton",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 15,
+      "playerId": "m581479",
+      "name": "Anthony Borne",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

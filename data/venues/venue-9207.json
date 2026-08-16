@@ -1,0 +1,143 @@
+{
+  "locationId": "9207",
+  "name": "Global Brew",
+  "address": "2100 Prairie St. Saint Charles, IL",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 6,
+  "relatedVenues": [
+    {
+      "locationId": "12269",
+      "name": "Rec Haus",
+      "address": "12 N 3rd St, St. Charles, IL, 60174, US",
+      "count": 10
+    },
+    {
+      "locationId": "5315",
+      "name": "Enterrium",
+      "address": "2 Woodfield Mall Unit A, Schaumburg, IL 60173, USA",
+      "count": 9
+    },
+    {
+      "locationId": "10441",
+      "name": "CWF Arcade",
+      "address": "Elmhurst, IL",
+      "count": 6
+    },
+    {
+      "locationId": "10431",
+      "name": "Pollyanna Brewing & Distilling Company - St Charles",
+      "address": "106 S Riverside Ave, St. Charles, IL 60174, US",
+      "count": 5
+    },
+    {
+      "locationId": "12978",
+      "name": "The Pinball Capital",
+      "address": "3200 W Le Moyne St, Stone Park, IL 60165",
+      "count": 5
+    },
+    {
+      "locationId": "8601",
+      "name": "Bowlero",
+      "address": "1611 S Randall Rd, Algonquin, IL 60102, US",
+      "count": 4
+    },
+    {
+      "locationId": "10071",
+      "name": "Two Brothers Tap House",
+      "address": "30W315 Calumet Ave W, Warrenville, IL 60555, US",
+      "count": 4
+    },
+    {
+      "locationId": "13824",
+      "name": "Superjumbo Records and Arcade",
+      "address": "55 S Lake St, Aurora, IL 60506, US",
+      "count": 4
+    },
+    {
+      "locationId": "5770",
+      "name": "ORD",
+      "address": "",
+      "count": 3
+    },
+    {
+      "locationId": "8675",
+      "name": "Sew Hop’d",
+      "address": "1 Union Special Plaza, Huntley, IL 60142, US",
+      "count": 3
+    }
+  ],
+  "players": [
+    {
+      "id": "m13977",
+      "name": "Mike Kolman",
+      "rating": 1673.1,
+      "rd": 20.37,
+      "ratingClass": "A",
+      "homeLocation": "Enterrium",
+      "homeLocationId": "5315",
+      "percentile": 94.41002468905762,
+      "changeDisplay": "+7.0",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m28207",
+      "name": "Tom Knorst",
+      "rating": 1643.64,
+      "rd": 20.32,
+      "ratingClass": "A",
+      "homeLocation": "Bowlero",
+      "homeLocationId": "8601",
+      "percentile": 90.86504867936833,
+      "changeDisplay": "-5.5",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m43986",
+      "name": "Matt Michels",
+      "rating": 1641.6,
+      "rd": 24.31,
+      "ratingClass": "A",
+      "homeLocation": "Two Brothers Tap House",
+      "homeLocationId": "10071",
+      "percentile": 90.6088414776168,
+      "changeDisplay": "+7.5",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m53385",
+      "name": "Tim Johnson Illinois",
+      "rating": 1490.06,
+      "rd": 22.47,
+      "ratingClass": "C",
+      "homeLocation": "Rec Haus",
+      "homeLocationId": "12269",
+      "percentile": 43.05212651977454,
+      "changeDisplay": "-9.3",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m48197",
+      "name": "Jon Hurlbutt",
+      "rating": 1472.57,
+      "rd": 37.29,
+      "ratingClass": "C",
+      "homeLocation": "Global Brew",
+      "homeLocationId": "9207",
+      "percentile": 35.892299809009174,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i14705",
+      "name": "Kelly Knorst",
+      "rating": 1471.4,
+      "rd": 43.92,
+      "ratingClass": "C",
+      "homeLocation": "Global Brew",
+      "homeLocationId": "9207",
+      "percentile": 35.40317696930172,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

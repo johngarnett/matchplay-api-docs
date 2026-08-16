@@ -1,0 +1,263 @@
+{
+  "locationId": "13465",
+  "name": "Morphettville Function Centre",
+  "address": "79 Morphettville Road, Morphettville SA, Australia5043",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 16,
+  "relatedVenues": [
+    {
+      "locationId": "7450",
+      "name": "The Clubhouse Moorooka",
+      "address": "76 Koala Road, Moorooka, QLD 4105, AU",
+      "count": 30
+    },
+    {
+      "locationId": "7180",
+      "name": "Netherworld",
+      "address": "186 Brunswick St, Fortitude Valley, QLD 4006, AU",
+      "count": 12
+    },
+    {
+      "locationId": "8872",
+      "name": "FLOP",
+      "address": "6 Scenic Drive Maslin Beach",
+      "count": 12
+    },
+    {
+      "locationId": "10753",
+      "name": "Empire Alternacade & Events",
+      "address": "409 Flinders St, Townsville, QLD 4810, AU",
+      "count": 7
+    },
+    {
+      "locationId": "13042",
+      "name": "Atomic Arcade",
+      "address": "248 Newcastle St, Perth, WA, 6000, AU",
+      "count": 7
+    },
+    {
+      "locationId": "13611",
+      "name": "Morphettville Racecourse",
+      "address": "79 Morphett Road Morphettville, SA 5043",
+      "count": 7
+    },
+    {
+      "locationId": "10472",
+      "name": "The Suburban Brew",
+      "address": "96 Goodwood Rd, Goodwood, SA, 5034, AU",
+      "count": 5
+    },
+    {
+      "locationId": "10565",
+      "name": "The Suburban Brew",
+      "address": "96 Goodwood Rd, Goodwood, SA 5034, AU",
+      "count": 5
+    },
+    {
+      "locationId": "11555",
+      "name": "The Ice ArenA",
+      "address": "23 James Congdon Dr, Thebarton, SA 5031, AU",
+      "count": 5
+    },
+    {
+      "locationId": "13644",
+      "name": "Morphettville Racecourse",
+      "address": "79 Morphett Rd, Adelaide South Australia 5043",
+      "count": 5
+    }
+  ],
+  "players": [
+    {
+      "id": "m11730",
+      "name": "Emily Cosson",
+      "rating": 1648.67,
+      "rd": 19.54,
+      "ratingClass": "A",
+      "homeLocation": "Netherworld",
+      "homeLocationId": "7180",
+      "percentile": 91.54982065495876,
+      "changeDisplay": "-2.2",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m8961",
+      "name": "Jessica De Mercurio",
+      "rating": 1595.05,
+      "rd": 19.13,
+      "ratingClass": "B",
+      "homeLocation": "The Clubhouse Moorooka",
+      "homeLocationId": "7450",
+      "percentile": 80.80309311967206,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m18161",
+      "name": "Tammy Paton",
+      "rating": 1579.01,
+      "rd": 17.61,
+      "ratingClass": "B",
+      "homeLocation": "Atomic Arcade",
+      "homeLocationId": "13042",
+      "percentile": 76.36372106023198,
+      "changeDisplay": "+0.9",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "i68489",
+      "name": "Fennessah Carter",
+      "rating": 1550.11,
+      "rd": 29.99,
+      "ratingClass": "B",
+      "homeLocation": "Australian Pinball Museum",
+      "homeLocationId": "1231",
+      "percentile": 66.74430521265198,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m45161",
+      "name": "Suzanne van Strien",
+      "rating": 1536.65,
+      "rd": 26.07,
+      "ratingClass": "B",
+      "homeLocation": "Saloon Barcade",
+      "homeLocationId": "11215",
+      "percentile": 61.708669120044725,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m17536",
+      "name": "Petra Saurbrey",
+      "rating": 1513.52,
+      "rd": 20.35,
+      "ratingClass": "B",
+      "homeLocation": "The Clubhouse Moorooka",
+      "homeLocationId": "7450",
+      "percentile": 52.57371779941305,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m42401",
+      "name": "Fiona Goss",
+      "rating": 1509.35,
+      "rd": 18.97,
+      "ratingClass": "B",
+      "homeLocation": "The Clubhouse Moorooka",
+      "homeLocationId": "7450",
+      "percentile": 50.97591652303536,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m40435",
+      "name": "Lita Neptune",
+      "rating": 1507.25,
+      "rd": 27.61,
+      "ratingClass": "B",
+      "homeLocation": "The Clubhouse Moorooka",
+      "homeLocationId": "7450",
+      "percentile": 50.07686216052546,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m45212",
+      "name": "Julie Redzepi",
+      "rating": 1466.34,
+      "rd": 36.83,
+      "ratingClass": "C",
+      "homeLocation": "Morphettville Function Centre",
+      "homeLocationId": "13465",
+      "percentile": 33.36749429356687,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m2328",
+      "name": "Amity Wells",
+      "rating": 1450.35,
+      "rd": 19.2,
+      "ratingClass": "C",
+      "homeLocation": "The Clubhouse Moorooka",
+      "homeLocationId": "7450",
+      "percentile": 27.29771276843527,
+      "changeDisplay": "+1.9",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m22705",
+      "name": "Hannah Rumsey",
+      "rating": 1428.43,
+      "rd": 31.14,
+      "ratingClass": "C",
+      "homeLocation": "Netherworld",
+      "homeLocationId": "7180",
+      "percentile": 20.091302930078726,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m28173",
+      "name": "Sammi L",
+      "rating": 1424.52,
+      "rd": 21.3,
+      "ratingClass": "C",
+      "homeLocation": "Little Bang Brewing Company",
+      "homeLocationId": "12751",
+      "percentile": 18.97330786789025,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m45173",
+      "name": "Delanie Lewis",
+      "rating": 1420.85,
+      "rd": 30.74,
+      "ratingClass": "C",
+      "homeLocation": "Saloon Barcade",
+      "homeLocationId": "11215",
+      "percentile": 17.883262682256486,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i119764",
+      "name": "Laura Hewitt",
+      "rating": 1418.25,
+      "rd": 41.56,
+      "ratingClass": "C",
+      "homeLocation": "The Suburban Brew",
+      "homeLocationId": "10565",
+      "percentile": 17.18451576838869,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m54857",
+      "name": "Kat Jackson",
+      "rating": 1417.37,
+      "rd": 25.6,
+      "ratingClass": "C",
+      "homeLocation": "FLOP",
+      "homeLocationId": "8872",
+      "percentile": 16.98420831974659,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i158852",
+      "name": "Belinda Eden",
+      "rating": 1410.76,
+      "rd": 44.74,
+      "ratingClass": "C",
+      "homeLocation": "Morphettville Function Centre",
+      "homeLocationId": "13465",
+      "percentile": 15.297899100945639,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

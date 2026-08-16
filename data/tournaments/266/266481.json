@@ -1,0 +1,67 @@
+{
+  "tournamentId": 266481,
+  "name": "Finals for Queen City Pinball Transformers Launch Party",
+  "date": "2026-08-12",
+  "locationId": "8802",
+  "locationName": "Meta Games Unlimited",
+  "playerCount": 8,
+  "ratingsDate": "2026-08-12",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m1853",
+      "name": "Kyle Sharp",
+      "rating": 1686.47,
+      "dailyRatingChange": 3.51
+    },
+    {
+      "position": 2,
+      "playerId": "i50863",
+      "name": "Chris Jackson",
+      "rating": 1577.92,
+      "dailyRatingChange": 39.45
+    },
+    {
+      "position": 3,
+      "playerId": "m444978",
+      "name": "Everett Darst",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 4,
+      "playerId": "i17799",
+      "name": "Justin Maples",
+      "rating": 1588.97,
+      "dailyRatingChange": 8.27
+    },
+    {
+      "position": 5,
+      "playerId": "m31254",
+      "name": "Trenton Kent",
+      "rating": 1666.23,
+      "dailyRatingChange": -0.41
+    },
+    {
+      "position": 6,
+      "playerId": "m11217",
+      "name": "roy barham",
+      "rating": 1687.76,
+      "dailyRatingChange": 15.21
+    },
+    {
+      "position": 7,
+      "playerId": "m43046",
+      "name": "Jason Bisby",
+      "rating": 1477.29,
+      "dailyRatingChange": 5.07
+    },
+    {
+      "position": 8,
+      "playerId": "m2028",
+      "name": "Aaron Pennington",
+      "rating": 1551.64,
+      "dailyRatingChange": 4.86
+    }
+  ]
+}

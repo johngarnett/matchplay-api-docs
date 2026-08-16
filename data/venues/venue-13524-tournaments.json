@@ -1,0 +1,19 @@
+{
+  "locationId": "13524",
+  "venueName": "Arcade73",
+  "venueAddress": "",
+  "tournaments": [
+    {
+      "id": 265093,
+      "name": "Greg Levy's August Tournament - Hosted by John Greatwich and Avi Adamski. Playoffs",
+      "date": "8/1/2026",
+      "playerCount": 8,
+      "qualifying": {
+        "id": 264803,
+        "name": "Greg Levy's August Tournament - Hosted by John Greatwich and Avi Adamski.",
+        "playerCount": 22
+      },
+      "standings": []
+    }
+  ]
+}

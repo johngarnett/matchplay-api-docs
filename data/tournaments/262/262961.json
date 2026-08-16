@@ -1,0 +1,235 @@
+{
+  "tournamentId": 262961,
+  "name": "Bang Back Pinball League- The Grateful Summer 2026 #2",
+  "date": "2026-07-22",
+  "locationId": "7528",
+  "locationName": "Bang Back Pinball Lounge",
+  "playerCount": 32,
+  "ratingsDate": "2026-07-22",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m2650",
+      "name": "Brian Krivonak",
+      "rating": 1658.31,
+      "dailyRatingChange": 8.49
+    },
+    {
+      "position": 1,
+      "playerId": "m4775",
+      "name": "Nate Grant",
+      "rating": 1794.5,
+      "dailyRatingChange": 6
+    },
+    {
+      "position": 3,
+      "playerId": "m44867",
+      "name": "Riley Winslow",
+      "rating": 1640.68,
+      "dailyRatingChange": 11.97
+    },
+    {
+      "position": 3,
+      "playerId": "m58524",
+      "name": "Patrick Bailey",
+      "rating": 1678.76,
+      "dailyRatingChange": 9.68
+    },
+    {
+      "position": 5,
+      "playerId": "m18180",
+      "name": "Michael Egbert",
+      "rating": 1648.28,
+      "dailyRatingChange": 1.45
+    },
+    {
+      "position": 6,
+      "playerId": "m43397",
+      "name": "Jared Wilson",
+      "rating": 1636.12,
+      "dailyRatingChange": 3.24
+    },
+    {
+      "position": 7,
+      "playerId": "m58540",
+      "name": "Alex Anderson-Mcleod",
+      "rating": 1496.46,
+      "dailyRatingChange": 11.99
+    },
+    {
+      "position": 8,
+      "playerId": "m7748",
+      "name": "Krystal Grant",
+      "rating": 1573.73,
+      "dailyRatingChange": 3.51
+    },
+    {
+      "position": 8,
+      "playerId": "m17579",
+      "name": "Vicky Quinonez",
+      "rating": 1429.72,
+      "dailyRatingChange": 9.24
+    },
+    {
+      "position": 8,
+      "playerId": "m548297",
+      "name": "Alex Dowdy",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 11,
+      "playerId": "m48673",
+      "name": "Cody Haigler",
+      "rating": 1460.61,
+      "dailyRatingChange": 3.09
+    },
+    {
+      "position": 11,
+      "playerId": "m21972",
+      "name": "Paul LoPresti",
+      "rating": 1538.14,
+      "dailyRatingChange": 0.97
+    },
+    {
+      "position": 11,
+      "playerId": "i156450",
+      "name": "Trajaun Duckett",
+      "rating": 1446.41,
+      "dailyRatingChange": 7.29
+    },
+    {
+      "position": 14,
+      "playerId": "m571382",
+      "name": "Ronick Saraswat",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 15,
+      "playerId": "m28153",
+      "name": "Michael Moore",
+      "rating": 1562.79,
+      "dailyRatingChange": -6.72
+    },
+    {
+      "position": 16,
+      "playerId": "m52194",
+      "name": "Mickey Parker",
+      "rating": 1452.76,
+      "dailyRatingChange": null
+    },
+    {
+      "position": 16,
+      "playerId": "m19562",
+      "name": "Gabrielle Baggette",
+      "rating": 1479.64,
+      "dailyRatingChange": 1.91
+    },
+    {
+      "position": 16,
+      "playerId": "m548306",
+      "name": "Zac Golpira",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 19,
+      "playerId": "i126182",
+      "name": "Rixbie Watson",
+      "rating": 1364.09,
+      "dailyRatingChange": 12.72
+    },
+    {
+      "position": 19,
+      "playerId": "m580539",
+      "name": "Stephen Myrick",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 19,
+      "playerId": "m19013",
+      "name": "Brittney Matto",
+      "rating": 1527.27,
+      "dailyRatingChange": -13.81
+    },
+    {
+      "position": 22,
+      "playerId": "m62142",
+      "name": "Mark Odom",
+      "rating": 1449.21,
+      "dailyRatingChange": null
+    },
+    {
+      "position": 22,
+      "playerId": "m580540",
+      "name": "Rebekah Caceres",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 22,
+      "playerId": "m60799",
+      "name": "Ash Jacobson",
+      "rating": 1446.65,
+      "dailyRatingChange": null
+    },
+    {
+      "position": 25,
+      "playerId": "i126741",
+      "name": "Matthew Duggan",
+      "rating": 1463.87,
+      "dailyRatingChange": -9.04
+    },
+    {
+      "position": 25,
+      "playerId": "m60243",
+      "name": "Jeffrey Cooley",
+      "rating": 1401.19,
+      "dailyRatingChange": -4.24
+    },
+    {
+      "position": 25,
+      "playerId": "m49150",
+      "name": "Julia Geith",
+      "rating": 1386.97,
+      "dailyRatingChange": -5.11
+    },
+    {
+      "position": 28,
+      "playerId": "m27756",
+      "name": "Joyce Rose-Harris",
+      "rating": 1363.25,
+      "dailyRatingChange": -4.09
+    },
+    {
+      "position": 29,
+      "playerId": "m18463",
+      "name": "Erin Sweeney",
+      "rating": 1593.14,
+      "dailyRatingChange": -10.91
+    },
+    {
+      "position": 29,
+      "playerId": "i105495",
+      "name": "Ben Yarborough",
+      "rating": 1389.66,
+      "dailyRatingChange": -2.92
+    },
+    {
+      "position": 29,
+      "playerId": "i129262",
+      "name": "Krystal Rampalli",
+      "rating": 1314.91,
+      "dailyRatingChange": -0.36
+    },
+    {
+      "position": 32,
+      "playerId": "m44868",
+      "name": "Lauri Sargent",
+      "rating": 1395.04,
+      "dailyRatingChange": -1.02
+    }
+  ]
+}

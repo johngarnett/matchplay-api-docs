@@ -1,0 +1,67 @@
+{
+  "tournamentId": 258654,
+  "name": "Retrocade Weekly 6 round Group Matchplay with 3 round Finals (7/22/26)",
+  "date": "2026-07-23",
+  "locationId": "8746",
+  "locationName": "The Retrocade",
+  "playerCount": 8,
+  "ratingsDate": "2026-07-23",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m46134",
+      "name": "Leighton Simpson",
+      "rating": 1503.13,
+      "dailyRatingChange": 9.23
+    },
+    {
+      "position": 2,
+      "playerId": "m19925",
+      "name": "Jonathan Lewis",
+      "rating": 1590,
+      "dailyRatingChange": 11.35
+    },
+    {
+      "position": 2,
+      "playerId": "m33888",
+      "name": "Austin Wayman",
+      "rating": 1612.69,
+      "dailyRatingChange": 4.43
+    },
+    {
+      "position": 4,
+      "playerId": "m50864",
+      "name": "Dan Walker NC",
+      "rating": 1444.94,
+      "dailyRatingChange": 3.74
+    },
+    {
+      "position": 5,
+      "playerId": "m33484",
+      "name": "Zak S",
+      "rating": 1498.59,
+      "dailyRatingChange": -2.56
+    },
+    {
+      "position": 6,
+      "playerId": "m22377",
+      "name": "Adam Adkins",
+      "rating": 1458.35,
+      "dailyRatingChange": -4.07
+    },
+    {
+      "position": 7,
+      "playerId": "m54300",
+      "name": "Nathan Sabo",
+      "rating": 1442.83,
+      "dailyRatingChange": null
+    },
+    {
+      "position": 8,
+      "playerId": "m580919",
+      "name": "Jessica Miller",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

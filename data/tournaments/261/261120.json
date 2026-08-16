@@ -1,0 +1,172 @@
+{
+  "tournamentId": 261120,
+  "name": "VÜK Pinball League Summer 2026 Week 7",
+  "date": "2026-07-29",
+  "locationId": "10688",
+  "locationName": "VÜK Pinball",
+  "playerCount": 23,
+  "ratingsDate": "2026-07-29",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m36012",
+      "name": "Tom Kenyon",
+      "rating": 1608.49,
+      "dailyRatingChange": 2.89
+    },
+    {
+      "position": 1,
+      "playerId": "m9987",
+      "name": "Derek Swanson",
+      "rating": 1620.62,
+      "dailyRatingChange": 5.82
+    },
+    {
+      "position": 3,
+      "playerId": "m1530",
+      "name": "Rob Wintler-Cox",
+      "rating": 1638.11,
+      "dailyRatingChange": 6.65
+    },
+    {
+      "position": 3,
+      "playerId": "m3146",
+      "name": "Stephanie Traub",
+      "rating": 1676.29,
+      "dailyRatingChange": 2.83
+    },
+    {
+      "position": 3,
+      "playerId": "m34527",
+      "name": "Stuart Weiser",
+      "rating": 1502.32,
+      "dailyRatingChange": 12.28
+    },
+    {
+      "position": 6,
+      "playerId": "m42894",
+      "name": "Tommy Shotton",
+      "rating": 1644.99,
+      "dailyRatingChange": 4.02
+    },
+    {
+      "position": 6,
+      "playerId": "m4353",
+      "name": "John Locke",
+      "rating": 1550.07,
+      "dailyRatingChange": 4.26
+    },
+    {
+      "position": 6,
+      "playerId": "m2813",
+      "name": "Jose Chong",
+      "rating": 1637.88,
+      "dailyRatingChange": 2.55
+    },
+    {
+      "position": 6,
+      "playerId": "m9988",
+      "name": "Stephen O'Connor",
+      "rating": 1419.8,
+      "dailyRatingChange": 6.95
+    },
+    {
+      "position": 10,
+      "playerId": "m58299",
+      "name": "Ben Schiffrin",
+      "rating": 1488.88,
+      "dailyRatingChange": 8.73
+    },
+    {
+      "position": 11,
+      "playerId": "m58840",
+      "name": "Rich Strayer",
+      "rating": 1481.18,
+      "dailyRatingChange": 14.28
+    },
+    {
+      "position": 11,
+      "playerId": "m27915",
+      "name": "Calvin Oung",
+      "rating": 1665.05,
+      "dailyRatingChange": -3.26
+    },
+    {
+      "position": 11,
+      "playerId": "m56888",
+      "name": "Adam Ruben",
+      "rating": 1709.42,
+      "dailyRatingChange": -6.08
+    },
+    {
+      "position": 11,
+      "playerId": "m2856",
+      "name": "Fil Baird",
+      "rating": 1661.41,
+      "dailyRatingChange": -1.88
+    },
+    {
+      "position": 15,
+      "playerId": "m12211",
+      "name": "J.D. Mack",
+      "rating": 1492.81,
+      "dailyRatingChange": -2.12
+    },
+    {
+      "position": 15,
+      "playerId": "m58102",
+      "name": "Filemon Palero",
+      "rating": 1496.82,
+      "dailyRatingChange": -3.76
+    },
+    {
+      "position": 15,
+      "playerId": "m8166",
+      "name": "Benjamin Linkow",
+      "rating": 1643.42,
+      "dailyRatingChange": -6.48
+    },
+    {
+      "position": 18,
+      "playerId": "i142601",
+      "name": "Charles Childress",
+      "rating": 1397.22,
+      "dailyRatingChange": -6.77
+    },
+    {
+      "position": 18,
+      "playerId": "i4198",
+      "name": "Dan Northover",
+      "rating": 1412.94,
+      "dailyRatingChange": -23.24
+    },
+    {
+      "position": 20,
+      "playerId": "m533632",
+      "name": "Ryan Low",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 20,
+      "playerId": "m29292",
+      "name": "Kevin Walton",
+      "rating": 1483.9,
+      "dailyRatingChange": -26.23
+    },
+    {
+      "position": 20,
+      "playerId": "m6573",
+      "name": "Zach Jones",
+      "rating": 1509.41,
+      "dailyRatingChange": -4.68
+    },
+    {
+      "position": 23,
+      "playerId": "m45105",
+      "name": "Kyle Orland",
+      "rating": 1522.54,
+      "dailyRatingChange": -12
+    }
+  ]
+}

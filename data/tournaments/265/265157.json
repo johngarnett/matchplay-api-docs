@@ -1,0 +1,95 @@
+{
+  "tournamentId": 265157,
+  "name": "Punk Rock Max Matchplay",
+  "date": "2026-08-02",
+  "locationId": "8555",
+  "locationName": "Past Times Arcade",
+  "playerCount": 12,
+  "ratingsDate": "2026-08-02",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m39602",
+      "name": "Nolan Liem",
+      "rating": 1683.71,
+      "dailyRatingChange": 1.88
+    },
+    {
+      "position": 2,
+      "playerId": "m33803",
+      "name": "Jordan Fulton",
+      "rating": 1639.63,
+      "dailyRatingChange": 3.26
+    },
+    {
+      "position": 3,
+      "playerId": "m42632",
+      "name": "Beth Shepherd",
+      "rating": 1545.99,
+      "dailyRatingChange": 3.94
+    },
+    {
+      "position": 4,
+      "playerId": "m41639",
+      "name": "JJ Lehett",
+      "rating": 1602.59,
+      "dailyRatingChange": 2.58
+    },
+    {
+      "position": 5,
+      "playerId": "m33182",
+      "name": "Patrick Baldwin",
+      "rating": 1553.09,
+      "dailyRatingChange": 0.68
+    },
+    {
+      "position": 6,
+      "playerId": "m40545",
+      "name": "Mike Felumlee",
+      "rating": 1582.48,
+      "dailyRatingChange": -0.58
+    },
+    {
+      "position": 7,
+      "playerId": "m47957",
+      "name": "Kevin Funnell",
+      "rating": 1527.74,
+      "dailyRatingChange": -0.93
+    },
+    {
+      "position": 8,
+      "playerId": "m26263",
+      "name": "Krista Liem",
+      "rating": 1576.73,
+      "dailyRatingChange": -1.69
+    },
+    {
+      "position": 9,
+      "playerId": "m584134",
+      "name": "Brian Davis",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 10,
+      "playerId": "m40044",
+      "name": "Stephanie Wysocki",
+      "rating": 1560.42,
+      "dailyRatingChange": -2.05
+    },
+    {
+      "position": 11,
+      "playerId": "m584136",
+      "name": "Ethan wagner",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 12,
+      "playerId": "m584135",
+      "name": "Isabella Davis",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

@@ -1,0 +1,263 @@
+{
+  "locationId": "8713",
+  "name": "Three Bull Taphouse",
+  "address": "127 Ave C Suite B Snohomish",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 16,
+  "relatedVenues": [
+    {
+      "locationId": "1893",
+      "name": "The Ice Box",
+      "address": "615 NW Bright St, Seattle, WA 98107, USA",
+      "count": 10
+    },
+    {
+      "locationId": "13134",
+      "name": "White Buffalo Saloon",
+      "address": "5614 Evergreen Way, Everett, WA 98203, US",
+      "count": 8
+    },
+    {
+      "locationId": "9778",
+      "name": "Black Raven Brewing - Woodinville",
+      "address": "15902 Redmond - Woodinville Rd NE, Woodinville, WA 98072, US",
+      "count": 6
+    },
+    {
+      "locationId": "11611",
+      "name": "Larry's",
+      "address": "",
+      "count": 6
+    },
+    {
+      "locationId": "13464",
+      "name": "Three Bull Brewing Taphouse",
+      "address": "127 Ave C, Suite B, Snohomish, WA 98290, US",
+      "count": 6
+    },
+    {
+      "locationId": "11561",
+      "name": "Austin Pinball Collective",
+      "address": "1106 Clayton Ln, Austin, TX 78723, US",
+      "count": 5
+    },
+    {
+      "locationId": "6312",
+      "name": "Crave 80s Arcade Bar",
+      "address": "",
+      "count": 4
+    },
+    {
+      "locationId": "8898",
+      "name": "Shorty's",
+      "address": "2222 2nd Avenue, Seattle, WA 98121, US",
+      "count": 4
+    },
+    {
+      "locationId": "3790",
+      "name": "Cactus Jacks",
+      "address": "",
+      "count": 2
+    },
+    {
+      "locationId": "5959",
+      "name": "Another Castle Arcade Edition Edmonds",
+      "address": "23303 Hwy 99 c, Edmonds, WA 98026, USA",
+      "count": 2
+    }
+  ],
+  "players": [
+    {
+      "id": "m8000",
+      "name": "Robert Byers",
+      "rating": 1723.26,
+      "rd": 18.33,
+      "ratingClass": "Expert",
+      "homeLocation": "Austin Pinball Collective",
+      "homeLocationId": "11561",
+      "percentile": 97.85717613080543,
+      "changeDisplay": "+1.6",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m11407",
+      "name": "Matt McChesney",
+      "rating": 1610.08,
+      "rd": 39.24,
+      "ratingClass": "A",
+      "homeLocation": "Three Bull Taphouse",
+      "homeLocationId": "8713",
+      "percentile": 84.47850188661667,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m13692",
+      "name": "Jobie Allen",
+      "rating": 1587.27,
+      "rd": 26.2,
+      "ratingClass": "B",
+      "homeLocation": "The Republic Bottle Shop",
+      "homeLocationId": "6881",
+      "percentile": 78.64629431220011,
+      "changeDisplay": "+6.6",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m11278",
+      "name": "Matt Metzger",
+      "rating": 1585.56,
+      "rd": 27.03,
+      "ratingClass": "B",
+      "homeLocation": "White Buffalo Saloon",
+      "homeLocationId": "13134",
+      "percentile": 78.19909628732474,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m44174",
+      "name": "Aaron Hernandez",
+      "rating": 1584.26,
+      "rd": 30.98,
+      "ratingClass": "B",
+      "homeLocation": "Three Bull Taphouse",
+      "homeLocationId": "8713",
+      "percentile": 77.83574789211347,
+      "changeDisplay": "+21.1",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m28989",
+      "name": "Ryan Shelton",
+      "rating": 1578.91,
+      "rd": 26.07,
+      "ratingClass": "B",
+      "homeLocation": "Three Bull Taphouse",
+      "homeLocationId": "8713",
+      "percentile": 76.3171379326408,
+      "changeDisplay": "-0.7",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m28359",
+      "name": "Craig Pritzkau",
+      "rating": 1539.18,
+      "rd": 32.38,
+      "ratingClass": "B",
+      "homeLocation": "Three Bull Taphouse",
+      "homeLocationId": "8713",
+      "percentile": 62.803372618437606,
+      "changeDisplay": "+1.6",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m45847",
+      "name": "Paul Seiler",
+      "rating": 1536.32,
+      "rd": 33.57,
+      "ratingClass": "B",
+      "homeLocation": "White Buffalo Saloon",
+      "homeLocationId": "13134",
+      "percentile": 61.592211301066754,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m53046",
+      "name": "Jane Greve",
+      "rating": 1509.39,
+      "rd": 41.14,
+      "ratingClass": "B",
+      "homeLocation": "Three Bull Taphouse",
+      "homeLocationId": "8713",
+      "percentile": 50.9852331485536,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m21300",
+      "name": "Tessi Brumley",
+      "rating": 1492.64,
+      "rd": 34.92,
+      "ratingClass": "C",
+      "homeLocation": "The Ice Box",
+      "homeLocationId": "1893",
+      "percentile": 44.123538454371825,
+      "changeDisplay": "-6.9",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "i117054",
+      "name": "Dave Polaski",
+      "rating": 1474.48,
+      "rd": 42.72,
+      "ratingClass": "C",
+      "homeLocation": "Three Bull Taphouse",
+      "homeLocationId": "8713",
+      "percentile": 36.70284622909582,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i117047",
+      "name": "Brian Felske",
+      "rating": 1472.56,
+      "rd": 50.54,
+      "ratingClass": "C",
+      "homeLocation": "Three Bull Taphouse",
+      "homeLocationId": "8713",
+      "percentile": 35.878324870731824,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m52617",
+      "name": "Adam Montgomery WA",
+      "rating": 1463.47,
+      "rd": 34.02,
+      "ratingClass": "C",
+      "homeLocation": "Black Raven Brewing - Woodinville",
+      "homeLocationId": "9778",
+      "percentile": 32.26347416965575,
+      "changeDisplay": "-15.6",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m47464",
+      "name": "Scott Hansford",
+      "rating": 1424.93,
+      "rd": 40.34,
+      "ratingClass": "C",
+      "homeLocation": "Three Bull Taphouse",
+      "homeLocationId": "8713",
+      "percentile": 19.113057250663807,
+      "changeDisplay": "-4.1",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m33341",
+      "name": "Dina Robinson",
+      "rating": 1383.47,
+      "rd": 26.12,
+      "ratingClass": "D",
+      "homeLocation": "Shorty's",
+      "homeLocationId": "8898",
+      "percentile": 8.971910374062514,
+      "changeDisplay": "+2.5",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "i127294",
+      "name": "Gary Pritzkau",
+      "rating": 1268.14,
+      "rd": 46.2,
+      "ratingClass": "E",
+      "homeLocation": "Three Bull Taphouse",
+      "homeLocationId": "8713",
+      "percentile": 0.44253971211627147,
+      "changeDisplay": "-11.4",
+      "changeClass": "change-negative"
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "tournamentId": 265042,
+  "name": "Finals for Level One Dog Days of Summer 2026",
+  "date": "2026-08-01",
+  "locationId": "7969",
+  "locationName": "Level One Bar + Arcade",
+  "playerCount": 16,
+  "ratingsDate": "2026-08-01",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m21446",
+      "name": "Stephanie Zona",
+      "rating": 1576.86,
+      "dailyRatingChange": 6.55
+    },
+    {
+      "position": 2,
+      "playerId": "m177",
+      "name": "Therese Edwards",
+      "rating": 1484.66,
+      "dailyRatingChange": 13.51
+    },
+    {
+      "position": 3,
+      "playerId": "m4459",
+      "name": "Lucas Berger",
+      "rating": 1590.32,
+      "dailyRatingChange": 3.29
+    },
+    {
+      "position": 4,
+      "playerId": "m35312",
+      "name": "Adam Barney",
+      "rating": 1589.74,
+      "dailyRatingChange": 17.88
+    },
+    {
+      "position": 5,
+      "playerId": "m46053",
+      "name": "Sarah Foster OH",
+      "rating": 1476.16,
+      "dailyRatingChange": 26.58
+    },
+    {
+      "position": 5,
+      "playerId": "m38662",
+      "name": "Peter Veley",
+      "rating": 1481.34,
+      "dailyRatingChange": 13.68
+    },
+    {
+      "position": 5,
+      "playerId": "m35573",
+      "name": "Brendan Reznik",
+      "rating": 1699.72,
+      "dailyRatingChange": -0.67
+    },
+    {
+      "position": 5,
+      "playerId": "m1490",
+      "name": "Russell Crane",
+      "rating": 1617.44,
+      "dailyRatingChange": 3.89
+    },
+    {
+      "position": 9,
+      "playerId": "m3577",
+      "name": "John Reemtsen",
+      "rating": 1637.03,
+      "dailyRatingChange": 4.15
+    },
+    {
+      "position": 9,
+      "playerId": "m7634",
+      "name": "Doug Goode",
+      "rating": 1594.73,
+      "dailyRatingChange": 2.82
+    },
+    {
+      "position": 9,
+      "playerId": "m8646",
+      "name": "Chris Scott",
+      "rating": 1600.57,
+      "dailyRatingChange": 8
+    },
+    {
+      "position": 9,
+      "playerId": "m16997",
+      "name": "Abbey Johnson",
+      "rating": 1524.8,
+      "dailyRatingChange": 9.85
+    },
+    {
+      "position": 9,
+      "playerId": "m16968",
+      "name": "Liz Goode",
+      "rating": 1613.46,
+      "dailyRatingChange": 4.95
+    },
+    {
+      "position": 9,
+      "playerId": "m11606",
+      "name": "Chris Adams OH",
+      "rating": 1515.56,
+      "dailyRatingChange": 36.32
+    },
+    {
+      "position": 9,
+      "playerId": "m7146",
+      "name": "Anthony Olivieri",
+      "rating": 1585.19,
+      "dailyRatingChange": 1.4
+    },
+    {
+      "position": 9,
+      "playerId": "m3981",
+      "name": "James Stethem",
+      "rating": 1582.13,
+      "dailyRatingChange": -0.72
+    }
+  ]
+}

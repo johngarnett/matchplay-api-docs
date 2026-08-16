@@ -1,0 +1,383 @@
+{
+  "communityId": "65",
+  "locations": [
+    {
+      "id": "3448",
+      "name": "Game Galaxy Arcade",
+      "address": "3 S Lowry St, Smyrna, TN 37167, USA",
+      "tournaments": [
+        {
+          "id": 266700,
+          "name": "Finals for Game Galaxy August 11 2026 2nd Tuesday Monthly",
+          "date": "8/11/2026",
+          "playerCount": 8,
+          "qualifying": {
+            "id": 266019,
+            "name": "Game Galaxy August 11 2026 2nd Tuesday Monthly",
+            "playerCount": 17
+          },
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m18644",
+              "name": "Trent Leach",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m47047",
+              "name": "Tommy Thompson",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m21145",
+              "name": "Ryan Nole",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "i51149",
+              "name": "Charles \"Beatemup\" Haley",
+              "isCommunityMember": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "12063",
+      "name": "Neon Moon",
+      "address": "1805 N Roan St G9, Johnson City, TN, 37601, US",
+      "tournaments": [
+        {
+          "id": 267130,
+          "name": "Finals for Neon Moon Weekly Matchplay",
+          "date": "8/14/2026",
+          "playerCount": 4,
+          "qualifying": {
+            "id": 261681,
+            "name": "Neon Moon Weekly Matchplay",
+            "playerCount": 4
+          },
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m33263",
+              "name": "Jordan Orren",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m55286",
+              "name": "greg lettich",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m35476",
+              "name": "Jessica Diciuccio",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m56464",
+              "name": "Lindsey lettich",
+              "isCommunityMember": true
+            }
+          ]
+        },
+        {
+          "id": 266188,
+          "name": "Finals for Neon Moon 150% - FIRST EVER (FIXED)",
+          "date": "8/8/2026",
+          "playerCount": 8,
+          "qualifying": {
+            "id": 259289,
+            "name": "Neon Moon 150% - FIRST EVER (Be nice pls)",
+            "playerCount": 27
+          },
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m28580",
+              "name": "Steve Lane",
+              "isCommunityMember": false
+            },
+            {
+              "position": 2,
+              "playerId": "m27968",
+              "name": "Jesse Sexton",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m36331",
+              "name": "Brian Carrell",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m23243",
+              "name": "Michael Feiertag",
+              "isCommunityMember": true
+            }
+          ]
+        },
+        {
+          "id": 266007,
+          "name": "Finals for Neon Moon Weekly Matchplay",
+          "date": "8/7/2026",
+          "playerCount": 4,
+          "qualifying": {
+            "id": 265880,
+            "name": "Neon Moon Weekly Matchplay",
+            "playerCount": 7
+          },
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m28580",
+              "name": "Steve Lane",
+              "isCommunityMember": false
+            },
+            {
+              "position": 2,
+              "playerId": "m33263",
+              "name": "Jordan Orren",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m27968",
+              "name": "Jesse Sexton",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m35476",
+              "name": "Jessica Diciuccio",
+              "isCommunityMember": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "10100",
+      "name": "Pins and Pints",
+      "address": "1336 E Emory Rd, Knoxville, TN 37938, US",
+      "tournaments": [
+        {
+          "id": 266342,
+          "name": "Finals for Sunday Funday!!",
+          "date": "8/9/2026",
+          "playerCount": 6,
+          "qualifying": {
+            "id": 266292,
+            "name": "Sunday Funday!!",
+            "playerCount": 14
+          },
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m28119",
+              "name": "Brian Malbec",
+              "isCommunityMember": false
+            },
+            {
+              "position": 2,
+              "playerId": "m25118",
+              "name": "Thomas Noble",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m6844",
+              "name": "John Tyner",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m28768",
+              "name": "Kyle Skogen",
+              "isCommunityMember": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3687",
+      "name": "Rocket City Matchplay",
+      "address": "100 Cutter Ln, Meridianville, AL 35759, USA",
+      "tournaments": [
+        {
+          "id": 266105,
+          "name": "Finals for RCMP Aug. 8th Battle for the Belt",
+          "date": "8/8/2026",
+          "playerCount": 10,
+          "qualifying": {
+            "id": 266054,
+            "name": "RCMP Aug. 8th Battle for the Belt",
+            "playerCount": 20
+          },
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m19185",
+              "name": "Paul Budko",
+              "isCommunityMember": false
+            },
+            {
+              "position": 2,
+              "playerId": "m30480",
+              "name": "Josh philpott",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m36181",
+              "name": "Matt Zollner",
+              "isCommunityMember": false
+            },
+            {
+              "position": 4,
+              "playerId": "m53272",
+              "name": "Garrett Ulmer",
+              "isCommunityMember": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8485",
+      "name": "Token Game Tavern",
+      "address": "213 North Seven Oaks Drive, Knoxville, TN 37922, US",
+      "tournaments": [
+        {
+          "id": 266680,
+          "name": "Finals for Token 8/11",
+          "date": "8/11/2026",
+          "playerCount": 12,
+          "qualifying": {
+            "id": 266610,
+            "name": "Token 8/11",
+            "playerCount": 27
+          },
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m28119",
+              "name": "Brian Malbec",
+              "isCommunityMember": false
+            },
+            {
+              "position": 2,
+              "playerId": "m9701",
+              "name": "Blake Mink",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m6844",
+              "name": "John Tyner",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m27969",
+              "name": "Johnny Nowell",
+              "isCommunityMember": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "unknown",
+      "name": "Unknown Location",
+      "address": "",
+      "tournaments": [
+        {
+          "id": 266320,
+          "name": "Finals for Rude Dude August",
+          "date": "8/9/2026",
+          "playerCount": 7,
+          "qualifying": {
+            "id": 266252,
+            "name": "Rude Dude August",
+            "playerCount": 14
+          },
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m20221",
+              "name": "Preston Currie",
+              "isCommunityMember": false
+            },
+            {
+              "position": 2,
+              "playerId": "m21145",
+              "name": "Ryan Nole",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m26618",
+              "name": "Sarah Crismore",
+              "isCommunityMember": false
+            },
+            {
+              "position": 4,
+              "playerId": "m36418",
+              "name": "Carey Huffman",
+              "isCommunityMember": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "11567",
+      "name": "Up-Down",
+      "address": "927 Woodland Street, Nashville, TN 37206, US",
+      "tournaments": [
+        {
+          "id": 266828,
+          "name": "Up Down Wednesday Strikes 💥",
+          "date": "8/13/2026",
+          "playerCount": 12,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "i161663",
+              "name": "Scott Sauers",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m52647",
+              "name": "Marian Mast",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m32111",
+              "name": "Erin Telfer",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m32161",
+              "name": "Emily Solomon",
+              "isCommunityMember": true
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "locationId": "8494",
+  "venueName": "Vegga's Pub",
+  "venueAddress": "2479 North Fratney Street, Milwaukee, WI 53212, US",
+  "tournaments": [
+    {
+      "id": 263156,
+      "name": "Veggas Pub Monthly Pinball Tournament - July 2026",
+      "date": "7/21/2026",
+      "playerCount": 16,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "i126879",
+          "name": "Gavin Zold",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m27113",
+          "name": "Paul Regner",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m13092",
+          "name": "Aaron Katter",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "i29124",
+          "name": "Russell Fox",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m15139",
+          "name": "Todd Miller",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

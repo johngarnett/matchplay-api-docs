@@ -1,0 +1,144 @@
+{
+  "tournamentId": 265737,
+  "name": "Last Arcade Summer League #3",
+  "date": "2026-08-07",
+  "locationId": "11963",
+  "locationName": "Last Arcade",
+  "playerCount": 19,
+  "ratingsDate": "2026-08-07",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m41764",
+      "name": "Jason Lewis",
+      "rating": 1780.71,
+      "dailyRatingChange": 1.69
+    },
+    {
+      "position": 2,
+      "playerId": "m53178",
+      "name": "Hunter Bay",
+      "rating": 1488.3,
+      "dailyRatingChange": 42.45
+    },
+    {
+      "position": 3,
+      "playerId": "m1242",
+      "name": "Mark Gunter",
+      "rating": 1603.98,
+      "dailyRatingChange": 1.83
+    },
+    {
+      "position": 4,
+      "playerId": "i125210",
+      "name": "Kyle Cooper",
+      "rating": 1530.63,
+      "dailyRatingChange": 5.33
+    },
+    {
+      "position": 5,
+      "playerId": "m62097",
+      "name": "Neil Sutschek",
+      "rating": 1504.08,
+      "dailyRatingChange": 13.51
+    },
+    {
+      "position": 6,
+      "playerId": "i125206",
+      "name": "Cindy Veazey",
+      "rating": 1558.85,
+      "dailyRatingChange": -0.72
+    },
+    {
+      "position": 7,
+      "playerId": "i154896",
+      "name": "Abby Sheets AR",
+      "rating": 1355.98,
+      "dailyRatingChange": 12.19
+    },
+    {
+      "position": 7,
+      "playerId": "i144417",
+      "name": "Brent Hobson",
+      "rating": 1442.27,
+      "dailyRatingChange": 14.7
+    },
+    {
+      "position": 9,
+      "playerId": "m59389",
+      "name": "Gerard Epps",
+      "rating": 1482.45,
+      "dailyRatingChange": 2.31
+    },
+    {
+      "position": 10,
+      "playerId": "i159692",
+      "name": "Bambeekoe Parker",
+      "rating": 1514.69,
+      "dailyRatingChange": -6.21
+    },
+    {
+      "position": 11,
+      "playerId": "m55791",
+      "name": "Alan Rail",
+      "rating": 1439.45,
+      "dailyRatingChange": -0.72
+    },
+    {
+      "position": 11,
+      "playerId": "m54209",
+      "name": "Joseph Olejniczak",
+      "rating": 1538.32,
+      "dailyRatingChange": -7.14
+    },
+    {
+      "position": 13,
+      "playerId": "i154895",
+      "name": "Greg Sheets",
+      "rating": 1501.01,
+      "dailyRatingChange": -8.02
+    },
+    {
+      "position": 14,
+      "playerId": "m581247",
+      "name": "Allen Haney",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 14,
+      "playerId": "i158027",
+      "name": "Moneybags Ray",
+      "rating": 1489.99,
+      "dailyRatingChange": -10.94
+    },
+    {
+      "position": 14,
+      "playerId": "m56008",
+      "name": "Allen Roberts AR",
+      "rating": 1483.53,
+      "dailyRatingChange": -10.26
+    },
+    {
+      "position": 17,
+      "playerId": "m53166",
+      "name": "Jennifer Epps",
+      "rating": 1393.7,
+      "dailyRatingChange": -2.89
+    },
+    {
+      "position": 18,
+      "playerId": "i161464",
+      "name": "Denise Harmon",
+      "rating": 1380.53,
+      "dailyRatingChange": -12.64
+    },
+    {
+      "position": 19,
+      "playerId": "i159693",
+      "name": "Toby Patrick",
+      "rating": 1415.24,
+      "dailyRatingChange": -22.42
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "tournamentId": 263412,
+  "name": "Flipperikellarin viikkokisa 23.7.2026",
+  "date": "2026-07-23",
+  "locationId": "8539",
+  "locationName": "Flipperikellari",
+  "playerCount": 7,
+  "ratingsDate": "2026-07-23",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "i82363",
+      "name": "Tomi Toiviainen",
+      "rating": 1420.61,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 2,
+      "playerId": "m41357",
+      "name": "Kimmo Aaltonen",
+      "rating": 1532.28,
+      "dailyRatingChange": 5.8
+    },
+    {
+      "position": 3,
+      "playerId": "i96996",
+      "name": "Matti Kunttu",
+      "rating": 1497.41,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 4,
+      "playerId": "m3710",
+      "name": "Jussi Rantala",
+      "rating": 1723.04,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 5,
+      "playerId": "m43545",
+      "name": "Matti Salervo",
+      "rating": 1490.63,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 6,
+      "playerId": "m39404",
+      "name": "Aleksi Matsi",
+      "rating": 1552.19,
+      "dailyRatingChange": 7.24
+    },
+    {
+      "position": 7,
+      "playerId": "m19123",
+      "name": "Arsi Rosengren",
+      "rating": 1605.34,
+      "dailyRatingChange": 0
+    }
+  ]
+}

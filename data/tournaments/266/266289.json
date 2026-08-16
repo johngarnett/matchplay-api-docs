@@ -1,0 +1,95 @@
+{
+  "tournamentId": 266289,
+  "name": "Long Beach Pinball Club: Finals Second Chances Transformers Launch",
+  "date": "2026-08-10",
+  "locationId": "8378",
+  "locationName": "I Need a Miracle Tickets and Pinball",
+  "playerCount": 12,
+  "ratingsDate": "2026-08-10",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "i96308",
+      "name": "Dechen Rojas",
+      "rating": 1467.93,
+      "dailyRatingChange": null
+    },
+    {
+      "position": 2,
+      "playerId": "i96310",
+      "name": "Paul Rojas",
+      "rating": 1489.39,
+      "dailyRatingChange": 0.33
+    },
+    {
+      "position": 3,
+      "playerId": "i162775",
+      "name": "Joshua Mccartney",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 3,
+      "playerId": "i74241",
+      "name": "Micah Zemlyn",
+      "rating": 1407.4,
+      "dailyRatingChange": 24.55
+    },
+    {
+      "position": 5,
+      "playerId": "m562422",
+      "name": "Mason Dropekin",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 6,
+      "playerId": "m62264",
+      "name": "Kristi Thomas",
+      "rating": 1378.29,
+      "dailyRatingChange": -0.15
+    },
+    {
+      "position": 6,
+      "playerId": "i147617",
+      "name": "Laurie Farrier",
+      "rating": 1387.76,
+      "dailyRatingChange": -1.2
+    },
+    {
+      "position": 8,
+      "playerId": "i147615",
+      "name": "Tommy Farrier",
+      "rating": 1400.24,
+      "dailyRatingChange": -2.68
+    },
+    {
+      "position": 9,
+      "playerId": "m562447",
+      "name": "Amanda Fera",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 10,
+      "playerId": "m586045",
+      "name": "Shaun Hill",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 11,
+      "playerId": "m471520",
+      "name": "Tom Escalnte",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 11,
+      "playerId": "m62049",
+      "name": "Scott Fullerton",
+      "rating": 1587.38,
+      "dailyRatingChange": -3.14
+    }
+  ]
+}

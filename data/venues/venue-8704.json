@@ -1,0 +1,311 @@
+{
+  "locationId": "8704",
+  "name": "Axecadia",
+  "address": "55 W Nepessing St, Lapeer, MI 48446, US",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 20,
+  "relatedVenues": [
+    {
+      "locationId": "5287",
+      "name": "ULEKstore's Pinball and Classic Arcade",
+      "address": "2121 North Monroe St, Monroe, MI, 48162, US",
+      "count": 13
+    },
+    {
+      "locationId": "10767",
+      "name": "Crazy Quarters Arcade",
+      "address": "401 Center Ave, Bay City, MI 48708",
+      "count": 12
+    },
+    {
+      "locationId": "7606",
+      "name": "Starlite Arcade",
+      "address": "69345 Main Street, Richmond, MI 48062, US",
+      "count": 10
+    },
+    {
+      "locationId": "6118",
+      "name": "Maple Pinball",
+      "address": "245 Matheson Boulevard East, Mississauga, ON L4Z 3K2, CA",
+      "count": 9
+    },
+    {
+      "locationId": "12444",
+      "name": "Sparks Pinball Museum & Arcade",
+      "address": "412 W 14 Mile Rd, Troy, MI 48083, US",
+      "count": 7
+    },
+    {
+      "locationId": "9981",
+      "name": "Last Level Fenton",
+      "address": "14281 Fenton Rd, Fenton MI 48430",
+      "count": 6
+    },
+    {
+      "locationId": "13356",
+      "name": "Pinball Pete's Ann Arbor",
+      "address": "500 E Liberty St, Ann Arbor, MI 48104",
+      "count": 6
+    },
+    {
+      "locationId": "12620",
+      "name": "Pinball Playhouse",
+      "address": "3642 W Eleven Mile Road, Berkley, MI 48072",
+      "count": 5
+    },
+    {
+      "locationId": "13187",
+      "name": "Nightwave Arcade",
+      "address": "2020 32 Ave NE R, Calgary, AB T2E 9A7",
+      "count": 5
+    },
+    {
+      "locationId": "6085",
+      "name": "Maple Pinball",
+      "address": "",
+      "count": 4
+    }
+  ],
+  "players": [
+    {
+      "id": "m37969",
+      "name": "Arthur Ruple",
+      "rating": 1716.65,
+      "rd": 20.31,
+      "ratingClass": "Expert",
+      "homeLocation": "Axecadia",
+      "homeLocationId": "8704",
+      "percentile": 97.46121954628035,
+      "changeDisplay": "+8.5",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m26722",
+      "name": "David Cowling",
+      "rating": 1694.59,
+      "rd": 18.02,
+      "ratingClass": "A",
+      "homeLocation": "Maple Pinball",
+      "homeLocationId": "6118",
+      "percentile": 96.24539991615036,
+      "changeDisplay": "+6.7",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m17645",
+      "name": "Patrick Mendis",
+      "rating": 1638.44,
+      "rd": 17.33,
+      "ratingClass": "A",
+      "homeLocation": "ULEKstore's Pinball and Classic Arcade",
+      "homeLocationId": "5287",
+      "percentile": 90.07313551031815,
+      "changeDisplay": "+13.7",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m24215",
+      "name": "Chris Herr",
+      "rating": 1621.18,
+      "rd": 33.57,
+      "ratingClass": "A",
+      "homeLocation": "Axecadia",
+      "homeLocationId": "8704",
+      "percentile": 86.87753295756278,
+      "changeDisplay": "+1.5",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m35204",
+      "name": "Stephen Mowbray",
+      "rating": 1615.96,
+      "rd": 22.56,
+      "ratingClass": "A",
+      "homeLocation": "Axecadia",
+      "homeLocationId": "8704",
+      "percentile": 85.72227139330134,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m37006",
+      "name": "Terry Oles",
+      "rating": 1595.88,
+      "rd": 24.47,
+      "ratingClass": "B",
+      "homeLocation": "Axecadia",
+      "homeLocationId": "8704",
+      "percentile": 81.00805888107328,
+      "changeDisplay": "-3.3",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m46359",
+      "name": "Nolan Mckay",
+      "rating": 1560.6,
+      "rd": 27.4,
+      "ratingClass": "B",
+      "homeLocation": "Axecadia",
+      "homeLocationId": "8704",
+      "percentile": 70.48493035822425,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m22819",
+      "name": "Wesley Chappell",
+      "rating": 1541.46,
+      "rd": 21.5,
+      "ratingClass": "B",
+      "homeLocation": "Axecadia",
+      "homeLocationId": "8704",
+      "percentile": 63.67447710439279,
+      "changeDisplay": "-1.5",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m58326",
+      "name": "Jon Boetefuer",
+      "rating": 1538.25,
+      "rd": 23.59,
+      "ratingClass": "B",
+      "homeLocation": "Crazy Quarters Arcade",
+      "homeLocationId": "10767",
+      "percentile": 62.37014953183957,
+      "changeDisplay": "+12.4",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m28467",
+      "name": "Brendan Kuras",
+      "rating": 1507.75,
+      "rd": 22.3,
+      "ratingClass": "B",
+      "homeLocation": "Starlite Arcade",
+      "homeLocationId": "7606",
+      "percentile": 50.32841104951786,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m42398",
+      "name": "Holly Helterhoff",
+      "rating": 1502.66,
+      "rd": 22.82,
+      "ratingClass": "B",
+      "homeLocation": "Sparks Pinball Museum & Arcade",
+      "homeLocationId": "12444",
+      "percentile": 48.19024549308241,
+      "changeDisplay": "-7.0",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m34517",
+      "name": "Guy Miele",
+      "rating": 1498.47,
+      "rd": 24.65,
+      "ratingClass": "C",
+      "homeLocation": "Axecadia",
+      "homeLocationId": "8704",
+      "percentile": 46.49927796152233,
+      "changeDisplay": "-2.6",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m43618",
+      "name": "Kristen Pfaff",
+      "rating": 1491.02,
+      "rd": 24.11,
+      "ratingClass": "C",
+      "homeLocation": "Axecadia",
+      "homeLocationId": "8704",
+      "percentile": 43.42479154050403,
+      "changeDisplay": "+3.4",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "i149087",
+      "name": "Dan Haner",
+      "rating": 1474.12,
+      "rd": 28.83,
+      "ratingClass": "C",
+      "homeLocation": "Axecadia",
+      "homeLocationId": "8704",
+      "percentile": 36.516513718731076,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i19668",
+      "name": "Drake Weglarz",
+      "rating": 1469.33,
+      "rd": 47.27,
+      "ratingClass": "C",
+      "homeLocation": "Axecadia",
+      "homeLocationId": "8704",
+      "percentile": 34.60194717473331,
+      "changeDisplay": "+26.9",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m46387",
+      "name": "Ryan McKay",
+      "rating": 1463.22,
+      "rd": 30.59,
+      "ratingClass": "C",
+      "homeLocation": "Axecadia",
+      "homeLocationId": "8704",
+      "percentile": 32.19359947826897,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m62831",
+      "name": "Katie Frank",
+      "rating": 1461.98,
+      "rd": 62.65,
+      "ratingClass": "C",
+      "homeLocation": "Axecadia",
+      "homeLocationId": "8704",
+      "percentile": 31.685843387525036,
+      "changeDisplay": "★",
+      "changeClass": "change-new"
+    },
+    {
+      "id": "m60241",
+      "name": "Danny Burton",
+      "rating": 1426.58,
+      "rd": 64.97,
+      "ratingClass": "C",
+      "homeLocation": "Axecadia",
+      "homeLocationId": "8704",
+      "percentile": 19.578888526575675,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m48985",
+      "name": "Kathryn Chappell",
+      "rating": 1397.51,
+      "rd": 45.21,
+      "ratingClass": "D",
+      "homeLocation": "Axecadia",
+      "homeLocationId": "8704",
+      "percentile": 11.87869753575255,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i142736",
+      "name": "Christine Chappell",
+      "rating": 1378.96,
+      "rd": 34.87,
+      "ratingClass": "D",
+      "homeLocation": "Axecadia",
+      "homeLocationId": "8704",
+      "percentile": 8.147389015698515,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

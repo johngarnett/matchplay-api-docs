@@ -1,0 +1,53 @@
+{
+  "tournamentId": 266257,
+  "name": "Defcon 34 - pinball high score contest",
+  "date": "2026-08-09",
+  "locationId": null,
+  "locationName": null,
+  "playerCount": 6,
+  "ratingsDate": null,
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m19173",
+      "name": "Manny Costa",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 2,
+      "playerId": "m1422",
+      "name": "Edan Grossman",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 3,
+      "playerId": "m7614",
+      "name": "Mike Polisky",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 4,
+      "playerId": "m52488",
+      "name": "Alex Mulfinger",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 5,
+      "playerId": "i112338",
+      "name": "Joe Marchfield",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 6,
+      "playerId": "m46188",
+      "name": "George Marshall",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "tournamentId": 253737,
+  "name": "D Division Finals for KCMO Pinball League - July 29",
+  "date": "2026-07-30",
+  "locationId": "10584",
+  "locationName": "Solid State Pinball Supply",
+  "playerCount": 6,
+  "ratingsDate": "2026-07-30",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m37169",
+      "name": "Chris Freedom",
+      "rating": 1517.13,
+      "dailyRatingChange": 1.57
+    },
+    {
+      "position": 2,
+      "playerId": "m48435",
+      "name": "Kevin Grunwald",
+      "rating": 1400.02,
+      "dailyRatingChange": 20.41
+    },
+    {
+      "position": 3,
+      "playerId": "m55498",
+      "name": "Caleb Kimbrough",
+      "rating": 1428.44,
+      "dailyRatingChange": -2.69
+    },
+    {
+      "position": 4,
+      "playerId": "m34337",
+      "name": "Jeremy Hipsh",
+      "rating": 1547.71,
+      "dailyRatingChange": 1.21
+    },
+    {
+      "position": 5,
+      "playerId": "m52109",
+      "name": "Christopher Spaw",
+      "rating": 1498.29,
+      "dailyRatingChange": -13.03
+    },
+    {
+      "position": 6,
+      "playerId": "m30960",
+      "name": "Keaton Vaughn",
+      "rating": 1522.55,
+      "dailyRatingChange": -6.18
+    }
+  ]
+}

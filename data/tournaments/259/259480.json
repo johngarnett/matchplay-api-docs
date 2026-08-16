@@ -1,0 +1,109 @@
+{
+  "tournamentId": 259480,
+  "name": "Finals for Pinball Factory Summer Tournament",
+  "date": "2026-08-01",
+  "locationId": "13635",
+  "locationName": "The Pinball Factory",
+  "playerCount": 14,
+  "ratingsDate": "2026-08-01",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m16229",
+      "name": "Paul Englert",
+      "rating": 1829.95,
+      "dailyRatingChange": 16.82
+    },
+    {
+      "position": 2,
+      "playerId": "m21465",
+      "name": "Roy Wils",
+      "rating": 1778.11,
+      "dailyRatingChange": 9.87
+    },
+    {
+      "position": 3,
+      "playerId": "m43915",
+      "name": "Barry Hoeben",
+      "rating": 1684.46,
+      "dailyRatingChange": 11.67
+    },
+    {
+      "position": 4,
+      "playerId": "m33671",
+      "name": "Xandro Schellen",
+      "rating": 1591.72,
+      "dailyRatingChange": 14.7
+    },
+    {
+      "position": 5,
+      "playerId": "m24175",
+      "name": "Henk Koster",
+      "rating": 1629.09,
+      "dailyRatingChange": 3.18
+    },
+    {
+      "position": 6,
+      "playerId": "m52993",
+      "name": "Max Birk",
+      "rating": 1580.39,
+      "dailyRatingChange": 8.17
+    },
+    {
+      "position": 7,
+      "playerId": "m31948",
+      "name": "Maurice Brouwers",
+      "rating": 1598.3,
+      "dailyRatingChange": 4.94
+    },
+    {
+      "position": 7,
+      "playerId": "m22630",
+      "name": "Adamo Eijkenboom",
+      "rating": 1582.04,
+      "dailyRatingChange": 17.22
+    },
+    {
+      "position": 9,
+      "playerId": "m16377",
+      "name": "Michael Reuter",
+      "rating": 1621.08,
+      "dailyRatingChange": 7.66
+    },
+    {
+      "position": 10,
+      "playerId": "m41248",
+      "name": "Micky Schröder",
+      "rating": 1532.36,
+      "dailyRatingChange": 2.39
+    },
+    {
+      "position": 11,
+      "playerId": "m40485",
+      "name": "Michael Wahn",
+      "rating": 1518.88,
+      "dailyRatingChange": 11.16
+    },
+    {
+      "position": 11,
+      "playerId": "m58690",
+      "name": "Yves Schepkens",
+      "rating": 1518.47,
+      "dailyRatingChange": 22.59
+    },
+    {
+      "position": 13,
+      "playerId": "m5594",
+      "name": "Frank Linden",
+      "rating": 1573.42,
+      "dailyRatingChange": -21.33
+    },
+    {
+      "position": 13,
+      "playerId": "m51575",
+      "name": "Ilana Weizman",
+      "rating": 1573.89,
+      "dailyRatingChange": 9.55
+    }
+  ]
+}

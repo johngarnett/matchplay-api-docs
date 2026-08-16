@@ -1,0 +1,299 @@
+{
+  "communityId": "69",
+  "locations": [
+    {
+      "id": "8072",
+      "name": "Level 256 Classic Arcade Bar",
+      "address": "79 Coxe Ave, Asheville, NC, 28801, US",
+      "tournaments": [
+        {
+          "id": 266607,
+          "name": "Asheville Femmes & Thems Pinball League - Event 3",
+          "date": "8/11/2026",
+          "playerCount": 5,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m35855",
+              "name": "Laura Varney",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m28725",
+              "name": "Adrian Ogletree",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m46768",
+              "name": "Heather Labarbera",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m55016",
+              "name": "Nora Collins",
+              "isCommunityMember": true
+            }
+          ]
+        },
+        {
+          "id": 266270,
+          "name": "Level 256 Weekly Knockout - 8/9/2026",
+          "date": "8/9/2026",
+          "playerCount": 23,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m13906",
+              "name": "Adam Bowman",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m8906",
+              "name": "Shawn Scott Smith",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m31837",
+              "name": "Andrew Spillios",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m16926",
+              "name": "Mike Talmarkes",
+              "isCommunityMember": false
+            },
+            {
+              "position": 3,
+              "playerId": "m28580",
+              "name": "Steve Lane",
+              "isCommunityMember": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "12063",
+      "name": "Neon Moon",
+      "address": "1805 N Roan St G9, Johnson City, TN, 37601, US",
+      "tournaments": [
+        {
+          "id": 266188,
+          "name": "Finals for Neon Moon 150% - FIRST EVER (FIXED)",
+          "date": "8/8/2026",
+          "playerCount": 8,
+          "qualifying": {
+            "id": 259289,
+            "name": "Neon Moon 150% - FIRST EVER (Be nice pls)",
+            "playerCount": 27
+          },
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m28580",
+              "name": "Steve Lane",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m27968",
+              "name": "Jesse Sexton",
+              "isCommunityMember": false
+            },
+            {
+              "position": 3,
+              "playerId": "m36331",
+              "name": "Brian Carrell",
+              "isCommunityMember": false
+            },
+            {
+              "position": 4,
+              "playerId": "m23243",
+              "name": "Michael Feiertag",
+              "isCommunityMember": false
+            }
+          ]
+        },
+        {
+          "id": 266007,
+          "name": "Finals for Neon Moon Weekly Matchplay",
+          "date": "8/7/2026",
+          "playerCount": 4,
+          "qualifying": {
+            "id": 265880,
+            "name": "Neon Moon Weekly Matchplay",
+            "playerCount": 7
+          },
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m28580",
+              "name": "Steve Lane",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m33263",
+              "name": "Jordan Orren",
+              "isCommunityMember": false
+            },
+            {
+              "position": 3,
+              "playerId": "m27968",
+              "name": "Jesse Sexton",
+              "isCommunityMember": false
+            },
+            {
+              "position": 4,
+              "playerId": "m35476",
+              "name": "Jessica Diciuccio",
+              "isCommunityMember": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "13295",
+      "name": "Prayer & Pinball",
+      "address": "2332 US 70E Morganton, NC",
+      "tournaments": [
+        {
+          "id": 266121,
+          "name": "Finals for Prayer & Pinball Max Matchplay",
+          "date": "8/8/2026",
+          "playerCount": 4,
+          "qualifying": {
+            "id": 266112,
+            "name": "Prayer & Pinball Max Matchplay",
+            "playerCount": 6
+          },
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m37526",
+              "name": "Joshua Singleton",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m31892",
+              "name": "Justin Lail",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "i110083",
+              "name": "Ezekiel Wright",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "i122981",
+              "name": "Ryan Doherty",
+              "isCommunityMember": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7007",
+      "name": "Sidetracked Brewery",
+      "address": "",
+      "tournaments": [
+        {
+          "id": 266813,
+          "name": "Sidetracked weekly matchplay",
+          "date": "8/12/2026",
+          "playerCount": 8,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m25712",
+              "name": "Diamond Justice Villanueva",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m25710",
+              "name": "Joseph Ackerman",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "i109353",
+              "name": "Zach Shumway",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "i122981",
+              "name": "Ryan Doherty",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "p582810",
+              "name": "Kendra Jean",
+              "isCommunityMember": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8746",
+      "name": "The Retrocade",
+      "address": "800 Haywood Road, Asheville, NC 28806, US",
+      "tournaments": [
+        {
+          "id": 266863,
+          "name": "Finals for Retrocade Weekly 6 round Group Matchplay with 3 round Finals (8/12/26)",
+          "date": "8/12/2026",
+          "playerCount": 4,
+          "qualifying": {
+            "id": 258659,
+            "name": "Retrocade Weekly 6 round Group Matchplay with 3 round Finals (8/12/26)",
+            "playerCount": 12
+          },
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m33888",
+              "name": "Austin Wayman",
+              "isCommunityMember": false
+            },
+            {
+              "position": 2,
+              "playerId": "m25151",
+              "name": "Jeff Hittenberger",
+              "isCommunityMember": false
+            },
+            {
+              "position": 3,
+              "playerId": "m30571",
+              "name": "Preston Powell",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m30441",
+              "name": "Jason Riggs",
+              "isCommunityMember": true
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

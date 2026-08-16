@@ -1,0 +1,323 @@
+{
+  "locationId": "13741",
+  "name": "Båstad Pinball&Beer",
+  "address": "Vilhelmsfältsvägen 137, 26993 Båstad",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 21,
+  "relatedVenues": [
+    {
+      "locationId": "4930",
+      "name": "C4 Flipper",
+      "address": "",
+      "count": 32
+    },
+    {
+      "locationId": "1696",
+      "name": "LPA",
+      "address": "Vårvädersvägen 4i, Lund, Sweden",
+      "count": 24
+    },
+    {
+      "locationId": "2377",
+      "name": "Falkenberg",
+      "address": "Vinbyvägen 2a",
+      "count": 24
+    },
+    {
+      "locationId": "7088",
+      "name": "Hiltunen Bar`n Pinball",
+      "address": "Ljung 963 26453 Ljungbyhed",
+      "count": 23
+    },
+    {
+      "locationId": "13759",
+      "name": "Atlas",
+      "address": "",
+      "count": 22
+    },
+    {
+      "locationId": "13283",
+      "name": "Flippermagasinet, Kristianstad Pinball",
+      "address": "Bromsaregatan 8, Kristianstad",
+      "count": 21
+    },
+    {
+      "locationId": "9328",
+      "name": "Stackarp",
+      "address": "",
+      "count": 19
+    },
+    {
+      "locationId": "6091",
+      "name": "Uncle Sam's Pinball",
+      "address": "9 Ronnebygatan, Galgamarken-Trossö, 371 32, SE",
+      "count": 5
+    },
+    {
+      "locationId": "11166",
+      "name": "Pinball inn",
+      "address": "Vetlandavägen 10, 574 75 korsberga",
+      "count": 4
+    },
+    {
+      "locationId": "12660",
+      "name": "Redstone Pinball GBG",
+      "address": "Sockerbruket 22, Göteborg",
+      "count": 3
+    }
+  ],
+  "players": [
+    {
+      "id": "m15712",
+      "name": "Martin Arenlind",
+      "rating": 1660.63,
+      "rd": 21.87,
+      "ratingClass": "A",
+      "homeLocation": "Stackarp",
+      "homeLocationId": "9328",
+      "percentile": 93.15693855685471,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m32866",
+      "name": "Henrik Hedberg",
+      "rating": 1638.52,
+      "rd": 20.61,
+      "ratingClass": "A",
+      "homeLocation": "LPA",
+      "homeLocationId": "1696",
+      "percentile": 90.09176876135464,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m15312",
+      "name": "Mikael Juusola",
+      "rating": 1634.76,
+      "rd": 28.12,
+      "ratingClass": "A",
+      "homeLocation": "Stackarp",
+      "homeLocationId": "9328",
+      "percentile": 89.41165509852331,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m20155",
+      "name": "Kim Green",
+      "rating": 1629.11,
+      "rd": 20.96,
+      "ratingClass": "A",
+      "homeLocation": "LPA",
+      "homeLocationId": "1696",
+      "percentile": 88.40080122979457,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m3679",
+      "name": "Michael Nilsson",
+      "rating": 1626.92,
+      "rd": 21.13,
+      "ratingClass": "A",
+      "homeLocation": "C4 Flipper",
+      "homeLocationId": "4930",
+      "percentile": 87.9582615176783,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m42747",
+      "name": "Michael Carlsson",
+      "rating": 1619.67,
+      "rd": 18.33,
+      "ratingClass": "A",
+      "homeLocation": "LPA",
+      "homeLocationId": "1696",
+      "percentile": 86.55610937718359,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m7078",
+      "name": "Fredrik Löwgren",
+      "rating": 1593.14,
+      "rd": 18.47,
+      "ratingClass": "B",
+      "homeLocation": "LPA",
+      "homeLocationId": "1696",
+      "percentile": 80.27670377789164,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m37647",
+      "name": "Sebbe Juusola",
+      "rating": 1588.79,
+      "rd": 25.48,
+      "ratingClass": "B",
+      "homeLocation": "Hiltunen Bar`n Pinball",
+      "homeLocationId": "7088",
+      "percentile": 79.11212558811198,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m55085",
+      "name": "Peter Knudsen",
+      "rating": 1587.55,
+      "rd": 17.91,
+      "ratingClass": "B",
+      "homeLocation": "C4 Flipper",
+      "homeLocationId": "4930",
+      "percentile": 78.77206875669633,
+      "changeDisplay": "+5.4",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m8622",
+      "name": "Markus Hiltunen",
+      "rating": 1580.16,
+      "rd": 26,
+      "ratingClass": "B",
+      "homeLocation": "LPA",
+      "homeLocationId": "1696",
+      "percentile": 76.66185307681558,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m50572",
+      "name": "Tomas Olsson TOM",
+      "rating": 1563.35,
+      "rd": 17.35,
+      "ratingClass": "B",
+      "homeLocation": "C4 Flipper",
+      "homeLocationId": "4930",
+      "percentile": 71.43522616108446,
+      "changeDisplay": "-3.8",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m44537",
+      "name": "Hans Persson",
+      "rating": 1562.53,
+      "rd": 24.78,
+      "ratingClass": "B",
+      "homeLocation": "Falkenberg",
+      "homeLocationId": "2377",
+      "percentile": 71.16970233381468,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i51210",
+      "name": "Helma Wierda",
+      "rating": 1532.97,
+      "rd": 31.19,
+      "ratingClass": "B",
+      "homeLocation": "LPA",
+      "homeLocationId": "1696",
+      "percentile": 60.292542041272654,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m44350",
+      "name": "Adam Carlsson",
+      "rating": 1526.77,
+      "rd": 21.95,
+      "ratingClass": "B",
+      "homeLocation": "C4 Flipper",
+      "homeLocationId": "4930",
+      "percentile": 57.76773652583035,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m49749",
+      "name": "Fredrik Lindqvist",
+      "rating": 1521.69,
+      "rd": 19.35,
+      "ratingClass": "B",
+      "homeLocation": "C4 Flipper",
+      "homeLocationId": "4930",
+      "percentile": 55.83919504355522,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m37648",
+      "name": "Kristofer Nennestam",
+      "rating": 1514.88,
+      "rd": 21.85,
+      "ratingClass": "B",
+      "homeLocation": "Falkenberg",
+      "homeLocationId": "2377",
+      "percentile": 53.15600689430289,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m55084",
+      "name": "Ragnar Gustafsson",
+      "rating": 1504.36,
+      "rd": 27.22,
+      "ratingClass": "B",
+      "homeLocation": "Båstad Pinball&Beer",
+      "homeLocationId": "13741",
+      "percentile": 48.96818372385522,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m54764",
+      "name": "Pär Andersson",
+      "rating": 1458.5,
+      "rd": 24.13,
+      "ratingClass": "C",
+      "homeLocation": "Falkenberg",
+      "homeLocationId": "2377",
+      "percentile": 30.33493268738063,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i139239",
+      "name": "Joakim Johansson JJ",
+      "rating": 1438.21,
+      "rd": 27.32,
+      "ratingClass": "C",
+      "homeLocation": "Hiltunen Bar`n Pinball",
+      "homeLocationId": "7088",
+      "percentile": 23.119206223505845,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i159266",
+      "name": "Oscar Nennestam",
+      "rating": 1424.8,
+      "rd": 26.35,
+      "ratingClass": "C",
+      "homeLocation": "Falkenberg",
+      "homeLocationId": "2377",
+      "percentile": 19.057157497554385,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i141228",
+      "name": "Leeloo Hiltunen",
+      "rating": 1337.01,
+      "rd": 50.95,
+      "ratingClass": "D",
+      "homeLocation": "Båstad Pinball&Beer",
+      "homeLocationId": "13741",
+      "percentile": 2.948711976522104,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "tournamentId": 263503,
+  "name": "Pinball Social Club 7/23/26",
+  "date": "2026-07-24",
+  "locationId": "12265",
+  "locationName": "Aftershock Classic Arcade",
+  "playerCount": 16,
+  "ratingsDate": "2026-07-24",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m38932",
+      "name": "True Garlynd",
+      "rating": 1731.07,
+      "dailyRatingChange": 38.24
+    },
+    {
+      "position": 2,
+      "playerId": "m49091",
+      "name": "Jamie Kruser",
+      "rating": 1547.15,
+      "dailyRatingChange": 3.5
+    },
+    {
+      "position": 3,
+      "playerId": "i132769",
+      "name": "Steve Queen",
+      "rating": 1502.71,
+      "dailyRatingChange": 11.2
+    },
+    {
+      "position": 4,
+      "playerId": "i132771",
+      "name": "Tumiracle Horton",
+      "rating": 1480.78,
+      "dailyRatingChange": 1.78
+    },
+    {
+      "position": 4,
+      "playerId": "m578562",
+      "name": "Mike Ryan",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 4,
+      "playerId": "m22640",
+      "name": "Keith Waz",
+      "rating": 1693.95,
+      "dailyRatingChange": -16.97
+    },
+    {
+      "position": 7,
+      "playerId": "i137200",
+      "name": "Zack Miller",
+      "rating": 1527.49,
+      "dailyRatingChange": -1.38
+    },
+    {
+      "position": 7,
+      "playerId": "m51129",
+      "name": "Josh Gribble",
+      "rating": 1489.04,
+      "dailyRatingChange": -0.33
+    },
+    {
+      "position": 9,
+      "playerId": "m570493",
+      "name": "Shawn Wood",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 9,
+      "playerId": "m55616",
+      "name": "James Evans WI",
+      "rating": 1562.2,
+      "dailyRatingChange": -1.1
+    },
+    {
+      "position": 9,
+      "playerId": "i52143",
+      "name": "Mike Schnapp",
+      "rating": 1496.26,
+      "dailyRatingChange": -1.98
+    },
+    {
+      "position": 12,
+      "playerId": "i140583",
+      "name": "Justin Kurth",
+      "rating": 1527.71,
+      "dailyRatingChange": -4.27
+    },
+    {
+      "position": 12,
+      "playerId": "m59861",
+      "name": "Kia Haugen",
+      "rating": 1410.33,
+      "dailyRatingChange": -2.06
+    },
+    {
+      "position": 12,
+      "playerId": "m56238",
+      "name": "Veronica Winslow",
+      "rating": 1385.94,
+      "dailyRatingChange": -2.93
+    },
+    {
+      "position": 15,
+      "playerId": "m13641",
+      "name": "Andrew Van Roekel",
+      "rating": 1638.38,
+      "dailyRatingChange": -6.05
+    },
+    {
+      "position": 15,
+      "playerId": "i144903",
+      "name": "Kris Hansen",
+      "rating": 1331.28,
+      "dailyRatingChange": -9.65
+    }
+  ]
+}

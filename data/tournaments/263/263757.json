@@ -1,0 +1,144 @@
+{
+  "tournamentId": 263757,
+  "name": "Flip-Offs XI",
+  "date": "2026-07-25",
+  "locationId": "10233",
+  "locationName": "Flippins Bar/Arcade",
+  "playerCount": 19,
+  "ratingsDate": "2026-07-25",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "i116901",
+      "name": "Victor Keane",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 2,
+      "playerId": "m56354",
+      "name": "Jaden Shaddick",
+      "rating": 1703.26,
+      "dailyRatingChange": 6.07
+    },
+    {
+      "position": 3,
+      "playerId": "m49845",
+      "name": "Sam Westfield",
+      "rating": 1619.48,
+      "dailyRatingChange": 17.81
+    },
+    {
+      "position": 4,
+      "playerId": "i138984",
+      "name": "Chris Nealis",
+      "rating": 1610.08,
+      "dailyRatingChange": 17.29
+    },
+    {
+      "position": 5,
+      "playerId": "m15711",
+      "name": "Dylan Papazian-Clare",
+      "rating": 1664.61,
+      "dailyRatingChange": -12.34
+    },
+    {
+      "position": 6,
+      "playerId": "m54094",
+      "name": "Nick Ward",
+      "rating": 1582.53,
+      "dailyRatingChange": 3.25
+    },
+    {
+      "position": 7,
+      "playerId": "i134415",
+      "name": "David Wells CAN",
+      "rating": 1570.11,
+      "dailyRatingChange": 0.56
+    },
+    {
+      "position": 7,
+      "playerId": "m570714",
+      "name": "Luke MacMillan",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 9,
+      "playerId": "m8484",
+      "name": "Alex Longmire",
+      "rating": 1537.99,
+      "dailyRatingChange": 1.43
+    },
+    {
+      "position": 10,
+      "playerId": "i136974",
+      "name": "Abby Jackson",
+      "rating": 1514.64,
+      "dailyRatingChange": 5.56
+    },
+    {
+      "position": 11,
+      "playerId": "i138985",
+      "name": "Andy Tommy",
+      "rating": 1575.58,
+      "dailyRatingChange": -4.79
+    },
+    {
+      "position": 12,
+      "playerId": "m56682",
+      "name": "Owen Boyle",
+      "rating": 1463.91,
+      "dailyRatingChange": 6.92
+    },
+    {
+      "position": 13,
+      "playerId": "i65782",
+      "name": "Kerry Donovan",
+      "rating": 1479.05,
+      "dailyRatingChange": -0.61
+    },
+    {
+      "position": 13,
+      "playerId": "i136973",
+      "name": "Randy Comeau",
+      "rating": 1543.76,
+      "dailyRatingChange": -6.06
+    },
+    {
+      "position": 15,
+      "playerId": "m62305",
+      "name": "Arden MacDonald",
+      "rating": 1479.7,
+      "dailyRatingChange": -0.47
+    },
+    {
+      "position": 16,
+      "playerId": "i140833",
+      "name": "Lucas Gray",
+      "rating": 1529.05,
+      "dailyRatingChange": -8.68
+    },
+    {
+      "position": 17,
+      "playerId": "m5225",
+      "name": "Tom MacArthur",
+      "rating": 1543.61,
+      "dailyRatingChange": -15.11
+    },
+    {
+      "position": 18,
+      "playerId": "i56328",
+      "name": "June Madeley",
+      "rating": 1502.64,
+      "dailyRatingChange": -17.26
+    },
+    {
+      "position": 19,
+      "playerId": "i156085",
+      "name": "Hannah Sharpe",
+      "rating": 1302.94,
+      "dailyRatingChange": -4.94
+    }
+  ]
+}

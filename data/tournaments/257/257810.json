@@ -1,0 +1,46 @@
+{
+  "tournamentId": 257810,
+  "name": "July '26 Bumper Baddies Tivoli Bowl Womens' Tournament",
+  "date": "2026-07-21",
+  "locationId": "13191",
+  "locationName": "Tivoli Bowl",
+  "playerCount": 5,
+  "ratingsDate": "2026-07-21",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m43402",
+      "name": "Kayla Bivens",
+      "rating": 1589.77,
+      "dailyRatingChange": 5.58
+    },
+    {
+      "position": 2,
+      "playerId": "m568009",
+      "name": "Rozanova Hunter",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 3,
+      "playerId": "m572130",
+      "name": "Ash Silguero",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 4,
+      "playerId": "m572122",
+      "name": "Chyna DeSantiago",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 5,
+      "playerId": "m572121",
+      "name": "Monica Allen",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

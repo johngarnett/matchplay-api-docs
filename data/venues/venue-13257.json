@@ -1,0 +1,167 @@
+{
+  "locationId": "13257",
+  "name": "Juan's House",
+  "address": "10253 Agnes Cir, Rancho Cordova, CA 95670",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 8,
+  "relatedVenues": [
+    {
+      "locationId": "9542",
+      "name": "Capital Pinball Parlor",
+      "address": "117 J St, Sacramento, CA 95814, US",
+      "count": 40
+    },
+    {
+      "locationId": "7008",
+      "name": "Das Flipperhaus",
+      "address": "4835 Granite Dr, Rocklin, Ca",
+      "count": 22
+    },
+    {
+      "locationId": "9130",
+      "name": "Shannon's Treehouse",
+      "address": "143 Hopfield Drive, Folsom CA, 95630",
+      "count": 16
+    },
+    {
+      "locationId": "10882",
+      "name": "Out of Order Arcade",
+      "address": "13320 Lincoln Way, Auburn Ca 95602",
+      "count": 14
+    },
+    {
+      "locationId": "5173",
+      "name": "The Flipper Room",
+      "address": "1033 Shary Cir, Concord, CA 94518, USA",
+      "count": 7
+    },
+    {
+      "locationId": "8715",
+      "name": "Jack’s Cameron Park",
+      "address": "",
+      "count": 5
+    },
+    {
+      "locationId": "10013",
+      "name": "Frank's House",
+      "address": "6057 Garden Hwy Sacramento, CA 95837",
+      "count": 5
+    },
+    {
+      "locationId": "10931",
+      "name": "Fore Play Simulators",
+      "address": "601 Orange Dr. Suite G. Vacaville, CA 95687",
+      "count": 5
+    },
+    {
+      "locationId": "6612",
+      "name": "Lynn's Arcade: A Pinball Parlor and Can Slangery",
+      "address": "1760 Fremont Boulevard, Suite D1, Seaside, California 93955, US",
+      "count": 4
+    },
+    {
+      "locationId": "7428",
+      "name": "David's House",
+      "address": "Edison Ave",
+      "count": 4
+    }
+  ],
+  "players": [
+    {
+      "id": "m25062",
+      "name": "Ryan Dunn",
+      "rating": 1704.72,
+      "rd": 18.92,
+      "ratingClass": "Expert",
+      "homeLocation": "Capital Pinball Parlor",
+      "homeLocationId": "9542",
+      "percentile": 96.86961382587226,
+      "changeDisplay": "+8.5",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m23297",
+      "name": "Juan Bermudez",
+      "rating": 1587.51,
+      "rd": 28.11,
+      "ratingClass": "B",
+      "homeLocation": "Shannon's Tree House",
+      "homeLocationId": "11167",
+      "percentile": 78.74877719290073,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m47758",
+      "name": "Andrew Taraschke",
+      "rating": 1583.43,
+      "rd": 20.39,
+      "ratingClass": "B",
+      "homeLocation": "Das Flipperhaus",
+      "homeLocationId": "7008",
+      "percentile": 77.59817394139843,
+      "changeDisplay": "-4.1",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m30853",
+      "name": "Eric Murphy",
+      "rating": 1529.03,
+      "rd": 18.89,
+      "ratingClass": "B",
+      "homeLocation": "Capital Pinball Parlor",
+      "homeLocationId": "9542",
+      "percentile": 58.662132575581126,
+      "changeDisplay": "-0.4",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m56288",
+      "name": "Calvin DeOliveira",
+      "rating": 1521.77,
+      "rd": 25.13,
+      "ratingClass": "B",
+      "homeLocation": "Capital Pinball Parlor",
+      "homeLocationId": "9542",
+      "percentile": 55.867144920109936,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i136480",
+      "name": "Mike Braun",
+      "rating": 1509.58,
+      "rd": 40.52,
+      "ratingClass": "B",
+      "homeLocation": "David's House",
+      "homeLocationId": "7428",
+      "percentile": 51.073741090976846,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m46375",
+      "name": "George Gandara",
+      "rating": 1447.37,
+      "rd": 34.66,
+      "ratingClass": "C",
+      "homeLocation": "Shannon's Treehouse",
+      "homeLocationId": "9130",
+      "percentile": 26.221642521078863,
+      "changeDisplay": "+14.4",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "i115357",
+      "name": "Tara Gandara",
+      "rating": 1208.52,
+      "rd": 38.53,
+      "ratingClass": "E",
+      "homeLocation": "Shannon's Treehouse",
+      "homeLocationId": "9130",
+      "percentile": 0.05589975310942377,
+      "changeDisplay": "-9.4",
+      "changeClass": "change-negative"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "tournamentId": 263196,
+  "name": "Finals for Tuesday Summer Nights @ Gebhard's #7",
+  "date": "2026-07-22",
+  "locationId": "10065",
+  "locationName": "Gebhard's Beer Culture",
+  "playerCount": 4,
+  "ratingsDate": "2026-07-22",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m13181",
+      "name": "Kevin Stanley",
+      "rating": 1638.08,
+      "dailyRatingChange": 4.38
+    },
+    {
+      "position": 2,
+      "playerId": "m42253",
+      "name": "Adam Goldberg",
+      "rating": 1544.09,
+      "dailyRatingChange": 17.44
+    },
+    {
+      "position": 3,
+      "playerId": "m12591",
+      "name": "Jeff Anderson NJ",
+      "rating": 1600.56,
+      "dailyRatingChange": 16.43
+    },
+    {
+      "position": 4,
+      "playerId": "m57880",
+      "name": "Tome Tanasovski",
+      "rating": 1533.13,
+      "dailyRatingChange": 0.22
+    }
+  ]
+}

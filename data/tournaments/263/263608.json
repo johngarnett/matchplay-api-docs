@@ -1,0 +1,67 @@
+{
+  "tournamentId": 263608,
+  "name": "Tilted Sisters Season 3 - Playoffs",
+  "date": "2026-07-25",
+  "locationId": "8715",
+  "locationName": "Jack’s Cameron Park",
+  "playerCount": 8,
+  "ratingsDate": "2026-07-25",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m476311",
+      "name": "Jeanette Deml",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 2,
+      "playerId": "m47825",
+      "name": "Wendy Brown",
+      "rating": 1546.88,
+      "dailyRatingChange": -6.02
+    },
+    {
+      "position": 3,
+      "playerId": "m13541",
+      "name": "Kendra Bishop",
+      "rating": 1470.07,
+      "dailyRatingChange": 3.34
+    },
+    {
+      "position": 4,
+      "playerId": "i147223",
+      "name": "Giao Villalobos",
+      "rating": 1481.07,
+      "dailyRatingChange": -1.64
+    },
+    {
+      "position": 5,
+      "playerId": "i103073",
+      "name": "Barbie Hope",
+      "rating": 1394.11,
+      "dailyRatingChange": 1.77
+    },
+    {
+      "position": 6,
+      "playerId": "m29148",
+      "name": "Jenn Jarrett",
+      "rating": 1376.06,
+      "dailyRatingChange": -2.79
+    },
+    {
+      "position": 7,
+      "playerId": "m43058",
+      "name": "Jenn Adamson",
+      "rating": 1501.19,
+      "dailyRatingChange": -10.79
+    },
+    {
+      "position": 7,
+      "playerId": "i151924",
+      "name": "Kathy Clendenning",
+      "rating": 1336.65,
+      "dailyRatingChange": -12.78
+    }
+  ]
+}

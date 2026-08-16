@@ -1,0 +1,147 @@
+{
+  "locationId": "12802",
+  "venueName": "Scanlines Arcade",
+  "venueAddress": "2320 Valentine Dr, Kokomo, IN 46902, US",
+  "tournaments": [
+    {
+      "id": 266284,
+      "name": "Scanlines Pingolf",
+      "date": "8/9/2026",
+      "playerCount": 13,
+      "qualifying": null,
+      "standings": []
+    },
+    {
+      "id": 266134,
+      "name": "Scanlines Arcade Womens Stern Army Pinball Tournament",
+      "date": "8/8/2026",
+      "playerCount": 5,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m55605",
+          "name": "Olivia Smith",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m56304",
+          "name": "Misti Sukle",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m56764",
+          "name": "Kelly Riley",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "p555255",
+          "name": "Lex",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 265045,
+      "name": "Scanlines Arcade Stern Army Tournament",
+      "date": "8/1/2026",
+      "playerCount": 17,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m36804",
+          "name": "Ryan Calhoun",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m11159",
+          "name": "rick dunkin",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m6235",
+          "name": "Mark Moore",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m1763",
+          "name": "Dennis Baker",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 263813,
+      "name": "Sparkle Cup Tournament",
+      "date": "7/25/2026",
+      "playerCount": 10,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m56324",
+          "name": "Obby Bird",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m56305",
+          "name": "Xavier Johnson",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m56304",
+          "name": "Misti Sukle",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m36804",
+          "name": "Ryan Calhoun",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 262697,
+      "name": "Scanlines Arcade Classics Pinball Tournament",
+      "date": "7/18/2026",
+      "playerCount": 12,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m1763",
+          "name": "Dennis Baker",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "p543948",
+          "name": "josh benson 2",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m56304",
+          "name": "Misti Sukle",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m56324",
+          "name": "Obby Bird",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

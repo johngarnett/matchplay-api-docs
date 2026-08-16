@@ -1,0 +1,263 @@
+{
+  "locationId": "10641",
+  "name": "Spooky's",
+  "address": "2920 Stanford Dr NE Suite A Albuquerque, NM 87107",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 16,
+  "relatedVenues": [
+    {
+      "locationId": "10207",
+      "name": "Boxing Bear Brewing Co. Bridges on Tramway Taproom",
+      "address": "12501 Candelaria Rd NE, Albuquerque, NM 87111, US",
+      "count": 25
+    },
+    {
+      "locationId": "8912",
+      "name": "Sister",
+      "address": "407 Central Ave NW, Albuquerque, NM 87102, US",
+      "count": 16
+    },
+    {
+      "locationId": "9515",
+      "name": "Eureka Heights Brew Co",
+      "address": "941 West 18th St, Houston, Texas 77008",
+      "count": 11
+    },
+    {
+      "locationId": "13854",
+      "name": "Skogen Residence",
+      "address": "",
+      "count": 10
+    },
+    {
+      "locationId": "12972",
+      "name": "Brew Lab 101 Beer & Cider Co.",
+      "address": "3301 Southern Blvd SE, Rio Rancho, NM 87124, US",
+      "count": 7
+    },
+    {
+      "locationId": "7929",
+      "name": "13008 Desert Moon Pl NE Albuquerque NM.  87110",
+      "address": "",
+      "count": 4
+    },
+    {
+      "locationId": "11561",
+      "name": "Austin Pinball Collective",
+      "address": "1106 Clayton Ln, Austin, TX 78723, US",
+      "count": 4
+    },
+    {
+      "locationId": "12571",
+      "name": "Little Dipper Lounge",
+      "address": "304 Main St, Houston, TX 77002, US",
+      "count": 3
+    },
+    {
+      "locationId": "7731",
+      "name": "The Game Preserve NASA",
+      "address": "20810 Gulf Freeway, Webster, TX 77598, US",
+      "count": 2
+    },
+    {
+      "locationId": "13364",
+      "name": "Rio Bravo Brewing Company",
+      "address": "1912 2nd St NW, Albuquerque, NM 87102, US",
+      "count": 2
+    }
+  ],
+  "players": [
+    {
+      "id": "m9097",
+      "name": "Fiona Chiong",
+      "rating": 1624.66,
+      "rd": 26.14,
+      "ratingClass": "A",
+      "homeLocation": "Boxing Bear Brewing Co. Bridges on Tramway Taproom",
+      "homeLocationId": "10207",
+      "percentile": 87.53901336935762,
+      "changeDisplay": "-4.3",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m41324",
+      "name": "Becca Addie",
+      "rating": 1602.25,
+      "rd": 25.04,
+      "ratingClass": "A",
+      "homeLocation": "Sister",
+      "homeLocationId": "8912",
+      "percentile": 82.5639353426189,
+      "changeDisplay": "+7.4",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m10964",
+      "name": "Meghan Shattuck",
+      "rating": 1581.02,
+      "rd": 27.84,
+      "ratingClass": "B",
+      "homeLocation": "Boxing Bear Brewing Co. Bridges on Tramway Taproom",
+      "homeLocationId": "10207",
+      "percentile": 76.95066846788093,
+      "changeDisplay": "+15.7",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m43167",
+      "name": "Danielle Jones",
+      "rating": 1553.46,
+      "rd": 24.7,
+      "ratingClass": "B",
+      "homeLocation": "Sister",
+      "homeLocationId": "8912",
+      "percentile": 68.12316578935109,
+      "changeDisplay": "-8.2",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m31596",
+      "name": "Dee Ray",
+      "rating": 1542.35,
+      "rd": 24.06,
+      "ratingClass": "B",
+      "homeLocation": "Sister",
+      "homeLocationId": "8912",
+      "percentile": 64.03316718684492,
+      "changeDisplay": "+8.4",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m42492",
+      "name": "Sedes Whiddon",
+      "rating": 1537.87,
+      "rd": 26.27,
+      "ratingClass": "B",
+      "homeLocation": "Boxing Bear Brewing Co. Bridges on Tramway Taproom",
+      "homeLocationId": "10207",
+      "percentile": 62.2024502725113,
+      "changeDisplay": "-2.0",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m38175",
+      "name": "Jessica Murillo",
+      "rating": 1507.79,
+      "rd": 18.24,
+      "ratingClass": "B",
+      "homeLocation": "Eureka Heights Brew Co",
+      "homeLocationId": "9515",
+      "percentile": 50.342385987795225,
+      "changeDisplay": "+4.0",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m41323",
+      "name": "Faye Olguin",
+      "rating": 1480.87,
+      "rd": 33.83,
+      "ratingClass": "C",
+      "homeLocation": "Boxing Bear Brewing Co. Bridges on Tramway Taproom",
+      "homeLocationId": "10207",
+      "percentile": 39.23696837005636,
+      "changeDisplay": "-13.3",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m57675",
+      "name": "Annie Zawadzki",
+      "rating": 1480.21,
+      "rd": 40.19,
+      "ratingClass": "C",
+      "homeLocation": "Boxing Bear Brewing Co. Bridges on Tramway Taproom",
+      "homeLocationId": "10207",
+      "percentile": 38.98076116830484,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m42238",
+      "name": "Charlotte Wansa",
+      "rating": 1448.54,
+      "rd": 27.2,
+      "ratingClass": "C",
+      "homeLocation": "Sister",
+      "homeLocationId": "8912",
+      "percentile": 26.58964922904924,
+      "changeDisplay": "-17.6",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m32215",
+      "name": "Ruth Dove",
+      "rating": 1430.11,
+      "rd": 25.54,
+      "ratingClass": "C",
+      "homeLocation": "Sister",
+      "homeLocationId": "8912",
+      "percentile": 20.613033959100015,
+      "changeDisplay": "+12.1",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "i84191",
+      "name": "Max Cohen",
+      "rating": 1407.46,
+      "rd": 55.73,
+      "ratingClass": "C",
+      "homeLocation": "Spooky's",
+      "homeLocationId": "10641",
+      "percentile": 14.403503051194857,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m46622",
+      "name": "Penni Rivera",
+      "rating": 1385.79,
+      "rd": 37.17,
+      "ratingClass": "D",
+      "homeLocation": "Boxing Bear Brewing Co. Bridges on Tramway Taproom",
+      "homeLocationId": "10207",
+      "percentile": 9.479666464806446,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i144307",
+      "name": "Jo Bautista",
+      "rating": 1355.62,
+      "rd": 26.98,
+      "ratingClass": "D",
+      "homeLocation": "Brew Lab 101 Beer & Cider Co.",
+      "homeLocationId": "12972",
+      "percentile": 4.858620207760749,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i95521",
+      "name": "Santana Chavez",
+      "rating": 1351.68,
+      "rd": 53.05,
+      "ratingClass": "D",
+      "homeLocation": "Spooky's",
+      "homeLocationId": "10641",
+      "percentile": 4.467321935994783,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i131638",
+      "name": "Kelsey Gutierrez",
+      "rating": null,
+      "rd": null,
+      "ratingClass": "N/A",
+      "homeLocation": "Boxing Bear Brewing Co. Bridges on Tramway Taproom",
+      "homeLocationId": "10207",
+      "percentile": null,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

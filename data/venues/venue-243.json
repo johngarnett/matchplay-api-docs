@@ -1,0 +1,107 @@
+{
+  "locationId": "243",
+  "name": "Robert's",
+  "address": "",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 4,
+  "relatedVenues": [
+    {
+      "locationId": "12499",
+      "name": "DPC",
+      "address": "1100 first state blvd, wilmington DE",
+      "count": 7
+    },
+    {
+      "locationId": "5785",
+      "name": "Delaware Pinball Collective",
+      "address": "1100 First State Blvd. Wilmington, DE 19804",
+      "count": 4
+    },
+    {
+      "locationId": "11249",
+      "name": "The Manor",
+      "address": "1329 Kings Highway, Pilesgrove, NJ 08098",
+      "count": 3
+    },
+    {
+      "locationId": "7208",
+      "name": "Rochester Pinball Collective",
+      "address": "349 West Commercial Street, East Rochester, NY 14445, US",
+      "count": 2
+    },
+    {
+      "locationId": "237",
+      "name": "Dennis’s Arcade",
+      "address": "",
+      "count": 1
+    },
+    {
+      "locationId": "1482",
+      "name": "Chad's House",
+      "address": "147 Paysan Ln, Magnolia, DE 19962, USA",
+      "count": 1
+    },
+    {
+      "locationId": "4097",
+      "name": "Starcade",
+      "address": "",
+      "count": 1
+    },
+    {
+      "locationId": "8271",
+      "name": "Rezzanine Esports",
+      "address": "1025 Washington Pike, Bridgeville, PA 15017, US",
+      "count": 1
+    }
+  ],
+  "players": [
+    {
+      "id": "m10328",
+      "name": "Joseph Casacio III",
+      "rating": 1628.72,
+      "rd": 46.88,
+      "ratingClass": "A",
+      "homeLocation": "Robert's",
+      "homeLocationId": "243",
+      "percentile": 88.27968509805748,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m10084",
+      "name": "Bill Richardson",
+      "rating": 1561.83,
+      "rd": 18.34,
+      "ratingClass": "B",
+      "homeLocation": "DPC",
+      "homeLocationId": "12499",
+      "percentile": 70.94144500861788,
+      "changeDisplay": "-3.1",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m19242",
+      "name": "Tim Dolan",
+      "rating": 1507.44,
+      "rd": 37.68,
+      "ratingClass": "B",
+      "homeLocation": "Dennis’s Arcade",
+      "homeLocationId": "237",
+      "percentile": 50.1886616667443,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m483",
+      "name": "Jason Burgess",
+      "rating": 1492.99,
+      "rd": 35.66,
+      "ratingClass": "C",
+      "homeLocation": "Robert's",
+      "homeLocationId": "243",
+      "percentile": 44.28192108818186,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

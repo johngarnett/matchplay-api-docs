@@ -1,0 +1,39 @@
+{
+  "tournamentId": 264148,
+  "name": "Finals for A.P.C. Stern Army Pokémon Party 2026 Chase Tournament @ Rock ‘N Roll Pinball",
+  "date": "2026-07-27",
+  "locationId": "5035",
+  "locationName": "Rock 'N Roll Pinball",
+  "playerCount": 4,
+  "ratingsDate": "2026-07-27",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m2769",
+      "name": "Braden Gentry",
+      "rating": 1787.19,
+      "dailyRatingChange": -2.82
+    },
+    {
+      "position": 2,
+      "playerId": "m30549",
+      "name": "Eric Hedström",
+      "rating": 1653.76,
+      "dailyRatingChange": 0.88
+    },
+    {
+      "position": 3,
+      "playerId": "m2768",
+      "name": "Stephen Gentry",
+      "rating": 1633.04,
+      "dailyRatingChange": -1.97
+    },
+    {
+      "position": 4,
+      "playerId": "m39499",
+      "name": "Lyndsey Long",
+      "rating": 1472.29,
+      "dailyRatingChange": 3.73
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "locationId": "11295",
+  "venueName": "Kristof's Entertainment Center",
+  "venueAddress": "421 West Rollins Road, Round Lake Beach, IL 60073, US",
+  "tournaments": [
+    {
+      "id": 266685,
+      "name": "Finals for Kristof's Silverball Transformers Pinball Party",
+      "date": "8/11/2026",
+      "playerCount": 16,
+      "qualifying": {
+        "id": 266544,
+        "name": "Kristof's Silverball Transformers Pinball Party",
+        "playerCount": 41
+      },
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m16391",
+          "name": "Jason Werdrick",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m45971",
+          "name": "Nik Grosch",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m45169",
+          "name": "Sean Brennan",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m28462",
+          "name": "Dan Sweeney",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

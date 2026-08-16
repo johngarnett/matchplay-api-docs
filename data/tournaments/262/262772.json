@@ -1,0 +1,123 @@
+{
+  "tournamentId": 262772,
+  "name": "Finals for PRP-HQ July 2026 Monthly Match Play Tournament",
+  "date": "2026-07-19",
+  "locationId": "12479",
+  "locationName": "PRPHQ",
+  "playerCount": 16,
+  "ratingsDate": "2026-07-19",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m43269",
+      "name": "Josh Slaunwhite",
+      "rating": 1682.37,
+      "dailyRatingChange": 7.21
+    },
+    {
+      "position": 2,
+      "playerId": "m46473",
+      "name": "Kevin Johnson IL",
+      "rating": 1631,
+      "dailyRatingChange": 5.81
+    },
+    {
+      "position": 3,
+      "playerId": "m40044",
+      "name": "Stephanie Wysocki",
+      "rating": 1566.06,
+      "dailyRatingChange": 2.64
+    },
+    {
+      "position": 4,
+      "playerId": "i108024",
+      "name": "Greg Halperin",
+      "rating": 1543.38,
+      "dailyRatingChange": 7.87
+    },
+    {
+      "position": 5,
+      "playerId": "m38081",
+      "name": "Chad Udell",
+      "rating": 1504.89,
+      "dailyRatingChange": 4.47
+    },
+    {
+      "position": 5,
+      "playerId": "m38803",
+      "name": "Rosie Theisen",
+      "rating": 1525.63,
+      "dailyRatingChange": 5.01
+    },
+    {
+      "position": 7,
+      "playerId": "m40131",
+      "name": "Mike Dafforn",
+      "rating": 1530,
+      "dailyRatingChange": 0.75
+    },
+    {
+      "position": 7,
+      "playerId": "m59475",
+      "name": "Lucas Ross",
+      "rating": 1546.99,
+      "dailyRatingChange": null
+    },
+    {
+      "position": 9,
+      "playerId": "m40900",
+      "name": "Chris O'Brien IL",
+      "rating": 1568.4,
+      "dailyRatingChange": 0.76
+    },
+    {
+      "position": 9,
+      "playerId": "m30105",
+      "name": "Joe Sharpe",
+      "rating": 1703.83,
+      "dailyRatingChange": -4.46
+    },
+    {
+      "position": 9,
+      "playerId": "i110000",
+      "name": "Jason Richards IL",
+      "rating": 1556.67,
+      "dailyRatingChange": 8.2
+    },
+    {
+      "position": 9,
+      "playerId": "m57949",
+      "name": "Tyler Bickett",
+      "rating": 1475.13,
+      "dailyRatingChange": 12.71
+    },
+    {
+      "position": 13,
+      "playerId": "m24151",
+      "name": "Lily Pizza",
+      "rating": 1631.39,
+      "dailyRatingChange": -2.54
+    },
+    {
+      "position": 13,
+      "playerId": "m42040",
+      "name": "Tom Eaton",
+      "rating": 1552.91,
+      "dailyRatingChange": 1.85
+    },
+    {
+      "position": 13,
+      "playerId": "i127291",
+      "name": "Terry Goforth",
+      "rating": 1548.3,
+      "dailyRatingChange": 4.9
+    },
+    {
+      "position": 13,
+      "playerId": "m44385",
+      "name": "Kat Davis",
+      "rating": 1490.3,
+      "dailyRatingChange": 3.3
+    }
+  ]
+}

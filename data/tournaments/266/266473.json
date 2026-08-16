@@ -1,0 +1,67 @@
+{
+  "tournamentId": 266473,
+  "name": "Finals for Stern Army Fort Wayne Pinball Wizard's World Weekly Aug 10, 2026",
+  "date": "2026-08-11",
+  "locationId": "7369",
+  "locationName": "Wizard's World",
+  "playerCount": 8,
+  "ratingsDate": "2026-08-11",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m54838",
+      "name": "Andrew Carey IN",
+      "rating": 1554.81,
+      "dailyRatingChange": 21.59
+    },
+    {
+      "position": 2,
+      "playerId": "m23372",
+      "name": "Austin Deventer",
+      "rating": 1634.35,
+      "dailyRatingChange": 5.98
+    },
+    {
+      "position": 3,
+      "playerId": "m13190",
+      "name": "Matt Winteregg",
+      "rating": 1630.96,
+      "dailyRatingChange": -0.18
+    },
+    {
+      "position": 4,
+      "playerId": "m17652",
+      "name": "Kurt Swank",
+      "rating": 1577.66,
+      "dailyRatingChange": 10.75
+    },
+    {
+      "position": 5,
+      "playerId": "m29645",
+      "name": "Clem Fingerle",
+      "rating": 1650.81,
+      "dailyRatingChange": 0.34
+    },
+    {
+      "position": 6,
+      "playerId": "m10064",
+      "name": "Preston Surdo",
+      "rating": 1561.06,
+      "dailyRatingChange": 5.88
+    },
+    {
+      "position": 7,
+      "playerId": "m7341",
+      "name": "Mattison Ogden",
+      "rating": 1595.19,
+      "dailyRatingChange": 3.84
+    },
+    {
+      "position": 8,
+      "playerId": "m30690",
+      "name": "Caleb Anderson",
+      "rating": 1558.75,
+      "dailyRatingChange": -4.93
+    }
+  ]
+}

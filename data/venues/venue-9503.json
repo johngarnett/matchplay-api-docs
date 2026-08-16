@@ -1,0 +1,131 @@
+{
+  "locationId": "9503",
+  "name": "YaYa Brewing",
+  "address": "11712 E Montgomery Dr Unit F1-3, Spokane Valley, WA 99206",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 5,
+  "relatedVenues": [
+    {
+      "locationId": "7869",
+      "name": "Bolo's Bar & Grill",
+      "address": "116 S Best Road, Spokane Valley, WA 99216, US",
+      "count": 12
+    },
+    {
+      "locationId": "11072",
+      "name": "Vantage Point",
+      "address": "208 E Coeur D'Alene Lake Dr, Coeur d'Alene, ID 83814",
+      "count": 8
+    },
+    {
+      "locationId": "12845",
+      "name": "The Wonder Building",
+      "address": "835 N. Post St Spokane, WA 99201",
+      "count": 6
+    },
+    {
+      "locationId": "12978",
+      "name": "The Pinball Capital",
+      "address": "3200 W Le Moyne St, Stone Park, IL 60165",
+      "count": 6
+    },
+    {
+      "locationId": "5770",
+      "name": "ORD",
+      "address": "",
+      "count": 3
+    },
+    {
+      "locationId": "6346",
+      "name": "NWPAS",
+      "address": "",
+      "count": 2
+    },
+    {
+      "locationId": "10802",
+      "name": "Lilac Lanes & Casino",
+      "address": "1112 E Magnesium Rd, Spokane, WA 99208",
+      "count": 2
+    },
+    {
+      "locationId": "13191",
+      "name": "Tivoli Bowl",
+      "address": "938 Warren Ave, Downers Grove, IL 60515, US",
+      "count": 2
+    },
+    {
+      "locationId": "10071",
+      "name": "Two Brothers Tap House",
+      "address": "30W315 Calumet Ave W, Warrenville, IL 60555, US",
+      "count": 1
+    },
+    {
+      "locationId": "12269",
+      "name": "Rec Haus",
+      "address": "12 N 3rd St, St. Charles, IL, 60174, US",
+      "count": 1
+    }
+  ],
+  "players": [
+    {
+      "id": "m24351",
+      "name": "John Cambareri",
+      "rating": 1752.11,
+      "rd": 24.12,
+      "ratingClass": "Expert",
+      "homeLocation": "Bolo's Bar & Grill",
+      "homeLocationId": "7869",
+      "percentile": 98.84008012297946,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m47368",
+      "name": "Marc Weiland",
+      "rating": 1717.27,
+      "rd": 36.2,
+      "ratingClass": "Expert",
+      "homeLocation": "The Wonder Building",
+      "homeLocationId": "12845",
+      "percentile": 97.48916942283505,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m58572",
+      "name": "Jeremy Youngman",
+      "rating": 1592.89,
+      "rd": 22.73,
+      "ratingClass": "B",
+      "homeLocation": "The Pinball Capital",
+      "homeLocationId": "12978",
+      "percentile": 80.23012065030046,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i153303",
+      "name": "Ryan Duncan",
+      "rating": 1525.46,
+      "rd": 36.53,
+      "ratingClass": "B",
+      "homeLocation": "Vantage Point",
+      "homeLocationId": "11072",
+      "percentile": 57.292588624400246,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i153302",
+      "name": "Kevan McCrummen",
+      "rating": 1521.59,
+      "rd": 37.94,
+      "ratingClass": "B",
+      "homeLocation": "Vantage Point",
+      "homeLocationId": "11072",
+      "percentile": 55.80658685424139,
+      "changeDisplay": "-9.3",
+      "changeClass": "change-negative"
+    }
+  ]
+}

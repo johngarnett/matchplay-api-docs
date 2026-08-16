@@ -1,0 +1,191 @@
+{
+  "locationId": "10395",
+  "name": "PIXELS - Pints & Bytes",
+  "address": "2117 Colonial Avenue, Norfolk, VA 23517, US",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 13,
+  "relatedVenues": [
+    {
+      "locationId": "8416",
+      "name": "Flippers Arcade",
+      "address": "6615 Caratoke Highway, Grandy, NC 27939, US",
+      "count": 2
+    },
+    {
+      "locationId": "4194",
+      "name": "Maltese Brewing",
+      "address": "11800 Main St. Building #3, Fredericksburg VA 22408",
+      "count": 1
+    },
+    {
+      "locationId": "8090",
+      "name": "The Basement Arcade Bar",
+      "address": "14 Union St S, Concord, NC 28025, US",
+      "count": 1
+    },
+    {
+      "locationId": "8931",
+      "name": "Wax Moon",
+      "address": "1310 Altamont Avenue, Richmond, VA 23230, US",
+      "count": 1
+    }
+  ],
+  "players": [
+    {
+      "id": "m1499",
+      "name": "Andrew Pancoast",
+      "rating": 1808.06,
+      "rd": 26.52,
+      "ratingClass": "Master",
+      "homeLocation": "PIXELS - Pints & Bytes",
+      "homeLocationId": "10395",
+      "percentile": 99.62733497927051,
+      "changeDisplay": "-8.0",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m42893",
+      "name": "Jordan Creamer",
+      "rating": 1701.1,
+      "rd": 26.07,
+      "ratingClass": "Expert",
+      "homeLocation": "Flippers Arcade",
+      "homeLocationId": "8416",
+      "percentile": 96.67396468998929,
+      "changeDisplay": "-5.1",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m33395",
+      "name": "Robert Suddeth",
+      "rating": 1664.7,
+      "rd": 29.15,
+      "ratingClass": "A",
+      "homeLocation": "PIXELS - Pints & Bytes",
+      "homeLocationId": "10395",
+      "percentile": 93.58550333069363,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m22715",
+      "name": "Sean Kardaras",
+      "rating": 1624.75,
+      "rd": 27.05,
+      "ratingClass": "A",
+      "homeLocation": "PIXELS - Pints & Bytes",
+      "homeLocationId": "10395",
+      "percentile": 87.55298830763498,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m42889",
+      "name": "Cameron Linkous",
+      "rating": 1562.44,
+      "rd": 33.53,
+      "ratingClass": "B",
+      "homeLocation": "PIXELS - Pints & Bytes",
+      "homeLocationId": "10395",
+      "percentile": 71.10914426794615,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m25053",
+      "name": "Kelly Walker",
+      "rating": 1557.33,
+      "rd": 27.53,
+      "ratingClass": "B",
+      "homeLocation": "The Basement Arcade Bar",
+      "homeLocationId": "8090",
+      "percentile": 69.47873480225462,
+      "changeDisplay": "-7.0",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m55507",
+      "name": "Alex Ballou",
+      "rating": 1518.23,
+      "rd": 28.89,
+      "ratingClass": "B",
+      "homeLocation": "PIXELS - Pints & Bytes",
+      "homeLocationId": "10395",
+      "percentile": 54.48828434341082,
+      "changeDisplay": "+11.8",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m7550",
+      "name": "Avi Rosenberg",
+      "rating": 1484.39,
+      "rd": 29.74,
+      "ratingClass": "C",
+      "homeLocation": "PIXELS - Pints & Bytes",
+      "homeLocationId": "10395",
+      "percentile": 40.63446219779196,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m42888",
+      "name": "Gabby Frazier",
+      "rating": 1469.59,
+      "rd": 33.32,
+      "ratingClass": "C",
+      "homeLocation": "PIXELS - Pints & Bytes",
+      "homeLocationId": "10395",
+      "percentile": 34.7230633064704,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m42860",
+      "name": "Jasmine Fantastic",
+      "rating": 1430.64,
+      "rd": 53.88,
+      "ratingClass": "C",
+      "homeLocation": "PIXELS - Pints & Bytes",
+      "homeLocationId": "10395",
+      "percentile": 20.738808403596217,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m56431",
+      "name": "Nevis Muir",
+      "rating": 1427.4,
+      "rd": 38.06,
+      "ratingClass": "C",
+      "homeLocation": "PIXELS - Pints & Bytes",
+      "homeLocationId": "10395",
+      "percentile": 19.80248753901337,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m45550",
+      "name": "Aaron Lachman",
+      "rating": 1416.72,
+      "rd": 30.92,
+      "ratingClass": "C",
+      "homeLocation": "PIXELS - Pints & Bytes",
+      "homeLocationId": "10395",
+      "percentile": 16.802534122140962,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i130756",
+      "name": "Whitney Weireter",
+      "rating": 1405.14,
+      "rd": 30.24,
+      "ratingClass": "C",
+      "homeLocation": "PIXELS - Pints & Bytes",
+      "homeLocationId": "10395",
+      "percentile": 13.797922392509431,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

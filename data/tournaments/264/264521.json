@@ -1,0 +1,74 @@
+{
+  "tournamentId": 264521,
+  "name": "Finals for Out Of Order Arcade - Wednesday Night Tournament 07-29-26",
+  "date": "2026-07-30",
+  "locationId": "10882",
+  "locationName": "Out of Order Arcade",
+  "playerCount": 9,
+  "ratingsDate": "2026-07-30",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m25062",
+      "name": "Ryan Dunn",
+      "rating": 1702.73,
+      "dailyRatingChange": 0.21
+    },
+    {
+      "position": 2,
+      "playerId": "m42524",
+      "name": "Geoff Kessenich",
+      "rating": 1563.79,
+      "dailyRatingChange": 6.17
+    },
+    {
+      "position": 3,
+      "playerId": "i135932",
+      "name": "Craig Weiss",
+      "rating": 1456.11,
+      "dailyRatingChange": 29.14
+    },
+    {
+      "position": 4,
+      "playerId": "m52666",
+      "name": "Corey Troxell",
+      "rating": 1532.66,
+      "dailyRatingChange": 2.07
+    },
+    {
+      "position": 5,
+      "playerId": "m48233",
+      "name": "Keaton Row",
+      "rating": 1459.81,
+      "dailyRatingChange": 6.34
+    },
+    {
+      "position": 5,
+      "playerId": "i69481",
+      "name": "Mike McDonald",
+      "rating": 1568.88,
+      "dailyRatingChange": -1.37
+    },
+    {
+      "position": 7,
+      "playerId": "i90914",
+      "name": "Wayne Pittman",
+      "rating": 1511.07,
+      "dailyRatingChange": 6.1
+    },
+    {
+      "position": 7,
+      "playerId": "m47758",
+      "name": "Andrew Taraschke",
+      "rating": 1587.62,
+      "dailyRatingChange": 7.52
+    },
+    {
+      "position": 9,
+      "playerId": "i115365",
+      "name": "Steve Byrne",
+      "rating": 1552.88,
+      "dailyRatingChange": -8.13
+    }
+  ]
+}

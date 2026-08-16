@@ -1,0 +1,67 @@
+{
+  "tournamentId": 263108,
+  "name": "Finals for Stern Army Kristianstad Pinball månadstävling 22 juli 2026",
+  "date": "2026-07-22",
+  "locationId": "13283",
+  "locationName": "Flippermagasinet, Kristianstad Pinball",
+  "playerCount": 8,
+  "ratingsDate": "2026-07-22",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m6134",
+      "name": "Thomas Näslund",
+      "rating": 1633.71,
+      "dailyRatingChange": 3.68
+    },
+    {
+      "position": 2,
+      "playerId": "m914",
+      "name": "Marcus Jeppsson",
+      "rating": 1620.83,
+      "dailyRatingChange": 3.41
+    },
+    {
+      "position": 3,
+      "playerId": "m24752",
+      "name": "Magnus Olsson",
+      "rating": 1557.09,
+      "dailyRatingChange": 13.65
+    },
+    {
+      "position": 4,
+      "playerId": "m13710",
+      "name": "Anton Vlassiouk",
+      "rating": 1463.38,
+      "dailyRatingChange": 19.78
+    },
+    {
+      "position": 5,
+      "playerId": "m45398",
+      "name": "Adrian Anderstedt",
+      "rating": 1598.54,
+      "dailyRatingChange": 1.75
+    },
+    {
+      "position": 5,
+      "playerId": "m53643",
+      "name": "Jörgen Thornberg",
+      "rating": 1572.86,
+      "dailyRatingChange": -5.92
+    },
+    {
+      "position": 5,
+      "playerId": "m49749",
+      "name": "Fredrik Lindqvist",
+      "rating": 1528.97,
+      "dailyRatingChange": 4.75
+    },
+    {
+      "position": 5,
+      "playerId": "m50572",
+      "name": "Tomas Olsson TOM",
+      "rating": 1559.06,
+      "dailyRatingChange": -0.86
+    }
+  ]
+}

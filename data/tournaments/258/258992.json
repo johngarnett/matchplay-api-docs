@@ -1,0 +1,102 @@
+{
+  "tournamentId": 258992,
+  "name": "Sunday Progressive 10-Strikes @ComicKingdom (26 July 2026)",
+  "date": "2026-07-26",
+  "locationId": "12208",
+  "locationName": "Comic Kingdom",
+  "playerCount": 13,
+  "ratingsDate": "2026-07-26",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m30143",
+      "name": "Brandon Hart",
+      "rating": 1763.11,
+      "dailyRatingChange": -0.22
+    },
+    {
+      "position": 2,
+      "playerId": "m1468",
+      "name": "Mark Skoff",
+      "rating": 1699.28,
+      "dailyRatingChange": 0.48
+    },
+    {
+      "position": 3,
+      "playerId": "m50326",
+      "name": "Patrick Heath",
+      "rating": 1602.89,
+      "dailyRatingChange": 7.21
+    },
+    {
+      "position": 4,
+      "playerId": "m40982",
+      "name": "Michael Pelster",
+      "rating": 1572.75,
+      "dailyRatingChange": 5.56
+    },
+    {
+      "position": 5,
+      "playerId": "m23455",
+      "name": "Eric Kellermeyer",
+      "rating": 1626.7,
+      "dailyRatingChange": 3.21
+    },
+    {
+      "position": 5,
+      "playerId": "m27354",
+      "name": "Tammy Thiel",
+      "rating": 1580.22,
+      "dailyRatingChange": 5.21
+    },
+    {
+      "position": 7,
+      "playerId": "m12586",
+      "name": "Kyle Rinehart",
+      "rating": 1613.52,
+      "dailyRatingChange": -8.41
+    },
+    {
+      "position": 8,
+      "playerId": "m15496",
+      "name": "Michelle Leutzinger",
+      "rating": 1620.32,
+      "dailyRatingChange": -4.11
+    },
+    {
+      "position": 8,
+      "playerId": "m11029",
+      "name": "Michael LaFrieda",
+      "rating": 1647.15,
+      "dailyRatingChange": -5.32
+    },
+    {
+      "position": 10,
+      "playerId": "m59892",
+      "name": "Craig Andersen",
+      "rating": 1423.15,
+      "dailyRatingChange": 4.15
+    },
+    {
+      "position": 11,
+      "playerId": "m30230",
+      "name": "Aaron Johnston NV",
+      "rating": 1546.22,
+      "dailyRatingChange": -3.23
+    },
+    {
+      "position": 12,
+      "playerId": "m47186",
+      "name": "Candice Smith",
+      "rating": 1439.83,
+      "dailyRatingChange": -4.79
+    },
+    {
+      "position": 13,
+      "playerId": "m12614",
+      "name": "Stacee LaFrieda",
+      "rating": 1413.83,
+      "dailyRatingChange": -2.38
+    }
+  ]
+}

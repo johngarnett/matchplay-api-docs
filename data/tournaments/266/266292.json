@@ -1,0 +1,109 @@
+{
+  "tournamentId": 266292,
+  "name": "Sunday Funday!!",
+  "date": "2026-08-09",
+  "locationId": "11321",
+  "locationName": "Pins and Pints",
+  "playerCount": 14,
+  "ratingsDate": "2026-08-09",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m25118",
+      "name": "Thomas Noble",
+      "rating": 1655.16,
+      "dailyRatingChange": 3.66
+    },
+    {
+      "position": 2,
+      "playerId": "m28119",
+      "name": "Brian Malbec",
+      "rating": 1699.25,
+      "dailyRatingChange": -26.94
+    },
+    {
+      "position": 3,
+      "playerId": "m17556",
+      "name": "Jef Damewood",
+      "rating": 1579.58,
+      "dailyRatingChange": 6.61
+    },
+    {
+      "position": 3,
+      "playerId": "m60420",
+      "name": "Calep Surgener",
+      "rating": 1530.2,
+      "dailyRatingChange": 7.18
+    },
+    {
+      "position": 5,
+      "playerId": "m6844",
+      "name": "John Tyner",
+      "rating": 1656.05,
+      "dailyRatingChange": -1.25
+    },
+    {
+      "position": 6,
+      "playerId": "m28768",
+      "name": "Kyle Skogen",
+      "rating": 1580.89,
+      "dailyRatingChange": -2.48
+    },
+    {
+      "position": 7,
+      "playerId": "m48412",
+      "name": "Gordon Duddy",
+      "rating": 1544.9,
+      "dailyRatingChange": 3.24
+    },
+    {
+      "position": 8,
+      "playerId": "m24593",
+      "name": "Tyler Crutcher",
+      "rating": 1585.93,
+      "dailyRatingChange": -1.31
+    },
+    {
+      "position": 8,
+      "playerId": "m52191",
+      "name": "Allison Von Gruenigen",
+      "rating": 1492.74,
+      "dailyRatingChange": 2.5
+    },
+    {
+      "position": 10,
+      "playerId": "m47916",
+      "name": "Jane tyner",
+      "rating": 1421.09,
+      "dailyRatingChange": 2.49
+    },
+    {
+      "position": 11,
+      "playerId": "m27967",
+      "name": "Lindsay Auble",
+      "rating": 1583.9,
+      "dailyRatingChange": -19.54
+    },
+    {
+      "position": 12,
+      "playerId": "m52227",
+      "name": "Tara Pannell",
+      "rating": 1496.72,
+      "dailyRatingChange": -6.43
+    },
+    {
+      "position": 13,
+      "playerId": "m58930",
+      "name": "Rachel Stock",
+      "rating": 1353.14,
+      "dailyRatingChange": 3.1
+    },
+    {
+      "position": 14,
+      "playerId": "m15240",
+      "name": "Andi Damewood",
+      "rating": 1498.34,
+      "dailyRatingChange": -7.57
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "tournamentId": 263834,
+  "name": "C & C Arcade",
+  "date": "2026-07-26",
+  "locationId": "13789",
+  "locationName": "Pirate Kitty's Hideout",
+  "playerCount": 4,
+  "ratingsDate": null,
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "i157596",
+      "name": "Cindy Lim Root",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 2,
+      "playerId": "i157597",
+      "name": "Chad Root",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 3,
+      "playerId": "m560886",
+      "name": "Alan",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 3,
+      "playerId": "m560885",
+      "name": "Michael",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

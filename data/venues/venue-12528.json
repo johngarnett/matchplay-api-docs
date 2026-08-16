@@ -1,0 +1,70 @@
+{
+  "locationId": "12528",
+  "name": "Right Around the Corner",
+  "address": "2244 Central Ave, St. Petersburg, FL 33712, US",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 5,
+  "relatedVenues": [],
+  "players": [
+    {
+      "id": "i153119",
+      "name": "Jacob Terrell",
+      "rating": 1635.68,
+      "rd": 36.14,
+      "ratingClass": "A",
+      "homeLocation": "Right Around the Corner",
+      "homeLocationId": "12528",
+      "percentile": 89.58867098336982,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i146327",
+      "name": "Pat Fruin",
+      "rating": 1606.03,
+      "rd": 34.49,
+      "ratingClass": "A",
+      "homeLocation": "Right Around the Corner",
+      "homeLocationId": "12528",
+      "percentile": 83.44435645409233,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m16752",
+      "name": "Morgan Sherman",
+      "rating": 1604.54,
+      "rd": 39.66,
+      "ratingClass": "A",
+      "homeLocation": "Right Around the Corner",
+      "homeLocationId": "12528",
+      "percentile": 83.07169143336284,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i151037",
+      "name": "Johnny McDrama",
+      "rating": 1575.17,
+      "rd": 38.43,
+      "ratingClass": "B",
+      "homeLocation": "Right Around the Corner",
+      "homeLocationId": "12528",
+      "percentile": 75.13858480458377,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i147834",
+      "name": "Shaun Salzberg",
+      "rating": 1556.9,
+      "rd": 38.53,
+      "ratingClass": "B",
+      "homeLocation": "Right Around the Corner",
+      "homeLocationId": "12528",
+      "percentile": 69.30637723016724,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

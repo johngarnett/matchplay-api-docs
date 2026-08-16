@@ -1,0 +1,116 @@
+{
+  "tournamentId": 263728,
+  "name": "8. Ligaspieltag Flipperliga FlippArena",
+  "date": "2026-07-25",
+  "locationId": "1917",
+  "locationName": "FlippArena Vöcklabruck",
+  "playerCount": 15,
+  "ratingsDate": "2026-07-25",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m8302",
+      "name": "Peter Kroiss",
+      "rating": 1677.23,
+      "dailyRatingChange": -2.14
+    },
+    {
+      "position": 2,
+      "playerId": "m5507",
+      "name": "Markus Ramsner",
+      "rating": 1693.97,
+      "dailyRatingChange": 17.14
+    },
+    {
+      "position": 3,
+      "playerId": "m7402",
+      "name": "Uwe Ramsner",
+      "rating": 1559.02,
+      "dailyRatingChange": 2.52
+    },
+    {
+      "position": 4,
+      "playerId": "m29915",
+      "name": "Kurt Ploier",
+      "rating": 1557.69,
+      "dailyRatingChange": -7.54
+    },
+    {
+      "position": 5,
+      "playerId": "i94323",
+      "name": "Gerald Rottinger",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 6,
+      "playerId": "m26427",
+      "name": "Lance Shepherd",
+      "rating": 1542.4,
+      "dailyRatingChange": 5.66
+    },
+    {
+      "position": 7,
+      "playerId": "m59933",
+      "name": "Johannes Spießberger",
+      "rating": 1473.49,
+      "dailyRatingChange": 4.47
+    },
+    {
+      "position": 8,
+      "playerId": "m59935",
+      "name": "Lukas Adler",
+      "rating": 1431.57,
+      "dailyRatingChange": 6.86
+    },
+    {
+      "position": 9,
+      "playerId": "m6301",
+      "name": "Stefan Riedler",
+      "rating": 1580.28,
+      "dailyRatingChange": -9.41
+    },
+    {
+      "position": 9,
+      "playerId": "m50826",
+      "name": "Sebastian Bustamante",
+      "rating": 1511.58,
+      "dailyRatingChange": -2.94
+    },
+    {
+      "position": 9,
+      "playerId": "m23883",
+      "name": "Sabine Ramsner",
+      "rating": 1513.81,
+      "dailyRatingChange": -2.65
+    },
+    {
+      "position": 12,
+      "playerId": "m8301",
+      "name": "Helmut Kröll",
+      "rating": 1369.91,
+      "dailyRatingChange": 3.07
+    },
+    {
+      "position": 13,
+      "playerId": "i144066",
+      "name": "Anita weje",
+      "rating": 1420.6,
+      "dailyRatingChange": null
+    },
+    {
+      "position": 14,
+      "playerId": "i144064",
+      "name": "Lars Rolf Weje",
+      "rating": 1410.56,
+      "dailyRatingChange": null
+    },
+    {
+      "position": 15,
+      "playerId": "m324691",
+      "name": "Dominik Steinbichler",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

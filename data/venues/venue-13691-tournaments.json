@@ -1,0 +1,85 @@
+{
+  "locationId": "13691",
+  "venueName": "JR's House",
+  "venueAddress": "25 Hickory Ln Gorham, ME 04038",
+  "tournaments": [
+    {
+      "id": 265527,
+      "name": "NPC Season 3 at JR's Playhouse #4",
+      "date": "8/4/2026",
+      "playerCount": 12,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m13526",
+          "name": "Traynor Gauthier",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m106",
+          "name": "Theresa Nessel",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m5653",
+          "name": "Jake Holz",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m26025",
+          "name": "Matt Liskom",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m1815",
+          "name": "Paul Conley",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 263133,
+      "name": "NPC Season 3 at JR's Playhouse #2",
+      "date": "7/21/2026",
+      "playerCount": 13,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m43110",
+          "name": "Ryan Howard ME",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 1,
+          "playerId": "m13526",
+          "name": "Traynor Gauthier",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 1,
+          "playerId": "m33610",
+          "name": "Sarah Plourde",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 1,
+          "playerId": "m235",
+          "name": "Jake Erskine",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 1,
+          "playerId": "m26025",
+          "name": "Matt Liskom",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

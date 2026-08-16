@@ -1,0 +1,40 @@
+{
+  "locationId": "8193",
+  "venueName": "Simpsons Playroom",
+  "venueAddress": "",
+  "tournaments": [
+    {
+      "id": 266413,
+      "name": "Liga Rhein-Neckar",
+      "date": "8/13/2026",
+      "playerCount": 16,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m647",
+          "name": "Jürgen Storck",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "i58413",
+          "name": "Michael Styner",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m3237",
+          "name": "Benedict Bauer",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m24765",
+          "name": "Harald Frei",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

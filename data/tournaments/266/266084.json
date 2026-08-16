@@ -1,0 +1,53 @@
+{
+  "tournamentId": 266084,
+  "name": "Finals for Saturday Classics Clash @ OLPH - 8 AUG",
+  "date": "2026-08-08",
+  "locationId": "11814",
+  "locationName": "Our Lady of Perpetual Hops",
+  "playerCount": 6,
+  "ratingsDate": "2026-08-08",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m35337",
+      "name": "Quentin Cordy",
+      "rating": 1658.93,
+      "dailyRatingChange": -11.76
+    },
+    {
+      "position": 2,
+      "playerId": "m10080",
+      "name": "Tim Ellis",
+      "rating": 1692.05,
+      "dailyRatingChange": -2.17
+    },
+    {
+      "position": 3,
+      "playerId": "m55284",
+      "name": "Jason McKay IN",
+      "rating": 1514.3,
+      "dailyRatingChange": 14.67
+    },
+    {
+      "position": 4,
+      "playerId": "m10877",
+      "name": "Brian Marks",
+      "rating": 1527.17,
+      "dailyRatingChange": 0.19
+    },
+    {
+      "position": 5,
+      "playerId": "m35158",
+      "name": "Adam Faris",
+      "rating": 1512.5,
+      "dailyRatingChange": 3.72
+    },
+    {
+      "position": 6,
+      "playerId": "m48897",
+      "name": "Nick Thornsberry",
+      "rating": 1452.51,
+      "dailyRatingChange": 8.56
+    }
+  ]
+}

@@ -1,0 +1,395 @@
+{
+  "locationId": "9226",
+  "name": "Forked River Brewing Company",
+  "address": "45 Pacific Ct, London, ON N5V 3N4, CA",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 27,
+  "relatedVenues": [
+    {
+      "locationId": "6085",
+      "name": "Maple Pinball",
+      "address": "",
+      "count": 26
+    },
+    {
+      "locationId": "6118",
+      "name": "Maple Pinball",
+      "address": "245 Matheson Boulevard East, Mississauga, ON L4Z 3K2, CA",
+      "count": 11
+    },
+    {
+      "locationId": "6438",
+      "name": "Bartari",
+      "address": "101 Adams Ave, Scranton, PA 18503, USA",
+      "count": 10
+    },
+    {
+      "locationId": "11302",
+      "name": "Iceberg Arcade",
+      "address": "Sych Drywall, 8 Don Valley Parkway, Sunnyside, Manitoba",
+      "count": 9
+    },
+    {
+      "locationId": "5287",
+      "name": "ULEKstore's Pinball and Classic Arcade",
+      "address": "2121 North Monroe St, Monroe, MI, 48162, US",
+      "count": 8
+    },
+    {
+      "locationId": "11503",
+      "name": "PINFEST 2025",
+      "address": "Great Northern Exhibition - 2220 Fairgrounds Rd. Stayner, Ontario L0M 1S0",
+      "count": 6
+    },
+    {
+      "locationId": "6680",
+      "name": "Bluffs Pinball",
+      "address": "442 Brimley Rd, Scarborough, ON M1J 1A1, Canada",
+      "count": 5
+    },
+    {
+      "locationId": "9650",
+      "name": "Cabin Fever",
+      "address": "1669 Bloor St W, Toronto, ON M6P 1A6, CA",
+      "count": 5
+    },
+    {
+      "locationId": "10939",
+      "name": "Millennium Place",
+      "address": "2000 Premier Way, Sherwood Park, AB",
+      "count": 4
+    },
+    {
+      "locationId": "11766",
+      "name": "The Fort Fun Centre",
+      "address": "689 Texas Rd, Amherstburg, ON N9V 3R3, CA",
+      "count": 4
+    }
+  ],
+  "players": [
+    {
+      "id": "m341",
+      "name": "Mike Dymus",
+      "rating": 1719.68,
+      "rd": 19.04,
+      "ratingClass": "Expert",
+      "homeLocation": "Forked River Brewing Company",
+      "homeLocationId": "9226",
+      "percentile": 97.67084362044068,
+      "changeDisplay": "-12.5",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m9037",
+      "name": "Nick Greenen",
+      "rating": 1691.73,
+      "rd": 25.72,
+      "ratingClass": "A",
+      "homeLocation": "Maple Pinball",
+      "homeLocationId": "6085",
+      "percentile": 96.03111752923091,
+      "changeDisplay": "-10.3",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m4413",
+      "name": "Shaun Russell",
+      "rating": 1683.1,
+      "rd": 21.1,
+      "ratingClass": "A",
+      "homeLocation": "Forked River Brewing Company",
+      "homeLocationId": "9226",
+      "percentile": 95.33237061536312,
+      "changeDisplay": "-15.8",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m37833",
+      "name": "Dan Spayer",
+      "rating": 1656.26,
+      "rd": 23.45,
+      "ratingClass": "A",
+      "homeLocation": "Crafted 1979",
+      "homeLocationId": "7363",
+      "percentile": 92.56999114920575,
+      "changeDisplay": "+0.1",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m54610",
+      "name": "Kyle Mack",
+      "rating": 1647.83,
+      "rd": 21.28,
+      "ratingClass": "A",
+      "homeLocation": "Maple Pinball",
+      "homeLocationId": "6085",
+      "percentile": 91.41938789770346,
+      "changeDisplay": "-20.4",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m1100",
+      "name": "Mark Incitti",
+      "rating": 1644.77,
+      "rd": 28.44,
+      "ratingClass": "A",
+      "homeLocation": "Forked River Brewing Company",
+      "homeLocationId": "9226",
+      "percentile": 91.00479806214189,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m38501",
+      "name": "Eric Hunter",
+      "rating": 1638.11,
+      "rd": 18.15,
+      "ratingClass": "A",
+      "homeLocation": "ULEKstore's Pinball and Classic Arcade",
+      "homeLocationId": "5287",
+      "percentile": 90.02189406996786,
+      "changeDisplay": "-18.8",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m15630",
+      "name": "Aiden Greenen",
+      "rating": 1631.15,
+      "rd": 40.46,
+      "ratingClass": "A",
+      "homeLocation": "Forked River Brewing Company",
+      "homeLocationId": "9226",
+      "percentile": 88.8340243163926,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m53551",
+      "name": "Dan Howard",
+      "rating": 1616.61,
+      "rd": 23.8,
+      "ratingClass": "A",
+      "homeLocation": "Forked River Brewing Company",
+      "homeLocationId": "9226",
+      "percentile": 85.90394559090697,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m10719",
+      "name": "Brad Hopkins",
+      "rating": 1611.5,
+      "rd": 21.14,
+      "ratingClass": "A",
+      "homeLocation": "Forked River Brewing Company",
+      "homeLocationId": "9226",
+      "percentile": 84.79060884147762,
+      "changeDisplay": "+18.2",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m50169",
+      "name": "Robert MacDonell",
+      "rating": 1605.35,
+      "rd": 19.21,
+      "ratingClass": "A",
+      "homeLocation": "Forked River Brewing Company",
+      "homeLocationId": "9226",
+      "percentile": 83.23007406717286,
+      "changeDisplay": "+7.8",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "i23395",
+      "name": "Greg Benz",
+      "rating": 1592.41,
+      "rd": 31.64,
+      "ratingClass": "B",
+      "homeLocation": "Forked River Brewing Company",
+      "homeLocationId": "9226",
+      "percentile": 80.10900451856338,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m11000",
+      "name": "Julie Dorssers",
+      "rating": 1576.76,
+      "rd": 21.74,
+      "ratingClass": "B",
+      "homeLocation": "Forked River Brewing Company",
+      "homeLocationId": "9226",
+      "percentile": 75.71155727395538,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m21332",
+      "name": "Robert Vieira",
+      "rating": 1561.22,
+      "rd": 28.67,
+      "ratingClass": "B",
+      "homeLocation": "Forked River Brewing Company",
+      "homeLocationId": "9226",
+      "percentile": 70.74113755997577,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m59428",
+      "name": "Winnie Fung",
+      "rating": 1548.41,
+      "rd": 21.65,
+      "ratingClass": "B",
+      "homeLocation": "Bluffs Pinball",
+      "homeLocationId": "6680",
+      "percentile": 66.13872455396655,
+      "changeDisplay": "-9.2",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m54046",
+      "name": "Tama Samus",
+      "rating": 1541.82,
+      "rd": 29.86,
+      "ratingClass": "B",
+      "homeLocation": "Cabin Fever",
+      "homeLocationId": "9650",
+      "percentile": 63.83285973820282,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m34606",
+      "name": "John Charest",
+      "rating": 1524.05,
+      "rd": 23.08,
+      "ratingClass": "B",
+      "homeLocation": "Forked River Brewing Company",
+      "homeLocationId": "9226",
+      "percentile": 56.733591093306,
+      "changeDisplay": "-29.9",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m39712",
+      "name": "Stefanie Stolzel",
+      "rating": 1517.5,
+      "rd": 32.74,
+      "ratingClass": "B",
+      "homeLocation": "Forked River Brewing Company",
+      "homeLocationId": "9226",
+      "percentile": 54.232077141659296,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i159849",
+      "name": "Christopher West",
+      "rating": 1501.12,
+      "rd": 46.78,
+      "ratingClass": "B",
+      "homeLocation": "Forked River Brewing Company",
+      "homeLocationId": "9226",
+      "percentile": 47.570689896119625,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m48953",
+      "name": "Mark Arts",
+      "rating": 1489.81,
+      "rd": 29.55,
+      "ratingClass": "C",
+      "homeLocation": "Forked River Brewing Company",
+      "homeLocationId": "9226",
+      "percentile": 42.92635207527834,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i47346",
+      "name": "Chris Bowden",
+      "rating": 1482.17,
+      "rd": 32.67,
+      "ratingClass": "C",
+      "homeLocation": "Forked River Brewing Company",
+      "homeLocationId": "9226",
+      "percentile": 39.78664927563237,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m33573",
+      "name": "Brad Wells",
+      "rating": 1455.63,
+      "rd": 25.98,
+      "ratingClass": "C",
+      "homeLocation": "Bartari",
+      "homeLocationId": "6438",
+      "percentile": 29.296128942097173,
+      "changeDisplay": "+15.3",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "i114639",
+      "name": "Sebastian Bigotti",
+      "rating": 1435.56,
+      "rd": 38.93,
+      "ratingClass": "C",
+      "homeLocation": "Forked River Brewing Company",
+      "homeLocationId": "9226",
+      "percentile": 22.285368239623608,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i17564",
+      "name": "Jay Eaton",
+      "rating": 1412.58,
+      "rd": 27.74,
+      "ratingClass": "C",
+      "homeLocation": "Forked River Brewing Company",
+      "homeLocationId": "9226",
+      "percentile": 15.782363627893977,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i162201",
+      "name": "Tyrone Warner",
+      "rating": 1380.65,
+      "rd": 35.16,
+      "ratingClass": "D",
+      "homeLocation": "Bluffs Pinball",
+      "homeLocationId": "6680",
+      "percentile": 8.412912842968277,
+      "changeDisplay": "-6.7",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "i111061",
+      "name": "John Highfield",
+      "rating": 1368.47,
+      "rd": 33.23,
+      "ratingClass": "D",
+      "homeLocation": "Forked River Brewing Company",
+      "homeLocationId": "9226",
+      "percentile": 6.475054735174919,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i110362",
+      "name": "Chris White",
+      "rating": 1365.78,
+      "rd": 39.14,
+      "ratingClass": "D",
+      "homeLocation": "Forked River Brewing Company",
+      "homeLocationId": "9226",
+      "percentile": 6.16294778031397,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

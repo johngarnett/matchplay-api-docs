@@ -1,0 +1,179 @@
+{
+  "locationId": "5498",
+  "name": "Pappis Pinball",
+  "address": "",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 9,
+  "relatedVenues": [
+    {
+      "locationId": "4930",
+      "name": "C4 Flipper",
+      "address": "",
+      "count": 44
+    },
+    {
+      "locationId": "13283",
+      "name": "Flippermagasinet, Kristianstad Pinball",
+      "address": "Bromsaregatan 8, Kristianstad",
+      "count": 32
+    },
+    {
+      "locationId": "6091",
+      "name": "Uncle Sam's Pinball",
+      "address": "9 Ronnebygatan, Galgamarken-Trossö, 371 32, SE",
+      "count": 18
+    },
+    {
+      "locationId": "1696",
+      "name": "LPA",
+      "address": "Vårvädersvägen 4i, Lund, Sweden",
+      "count": 14
+    },
+    {
+      "locationId": "7088",
+      "name": "Hiltunen Bar`n Pinball",
+      "address": "Ljung 963 26453 Ljungbyhed",
+      "count": 12
+    },
+    {
+      "locationId": "13759",
+      "name": "Atlas",
+      "address": "",
+      "count": 10
+    },
+    {
+      "locationId": "2377",
+      "name": "Falkenberg",
+      "address": "Vinbyvägen 2a",
+      "count": 6
+    },
+    {
+      "locationId": "11166",
+      "name": "Pinball inn",
+      "address": "Vetlandavägen 10, 574 75 korsberga",
+      "count": 5
+    },
+    {
+      "locationId": "9328",
+      "name": "Stackarp",
+      "address": "",
+      "count": 3
+    },
+    {
+      "locationId": "13741",
+      "name": "Båstad Pinball&Beer",
+      "address": "Vilhelmsfältsvägen 137, 26993 Båstad",
+      "count": 2
+    }
+  ],
+  "players": [
+    {
+      "id": "m6134",
+      "name": "Thomas Näslund",
+      "rating": 1648.95,
+      "rd": 17.88,
+      "ratingClass": "A",
+      "homeLocation": "C4 Flipper",
+      "homeLocationId": "4930",
+      "percentile": 91.59640378254996,
+      "changeDisplay": "+3.0",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m45398",
+      "name": "Adrian Anderstedt",
+      "rating": 1591.72,
+      "rd": 19.66,
+      "ratingClass": "B",
+      "homeLocation": "LPA",
+      "homeLocationId": "1696",
+      "percentile": 79.95993851027158,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m50572",
+      "name": "Tomas Olsson TOM",
+      "rating": 1563.35,
+      "rd": 17.35,
+      "ratingClass": "B",
+      "homeLocation": "C4 Flipper",
+      "homeLocationId": "4930",
+      "percentile": 71.43522616108446,
+      "changeDisplay": "-3.8",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m7080",
+      "name": "Andreas Adamsson",
+      "rating": 1545.01,
+      "rd": 23.9,
+      "ratingClass": "B",
+      "homeLocation": "C4 Flipper",
+      "homeLocationId": "4930",
+      "percentile": 64.95551311315042,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m49749",
+      "name": "Fredrik Lindqvist",
+      "rating": 1521.69,
+      "rd": 19.35,
+      "ratingClass": "B",
+      "homeLocation": "C4 Flipper",
+      "homeLocationId": "4930",
+      "percentile": 55.83919504355522,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m55156",
+      "name": "Bianca Andreasson",
+      "rating": 1479.53,
+      "rd": 20.99,
+      "ratingClass": "C",
+      "homeLocation": "C4 Flipper",
+      "homeLocationId": "4930",
+      "percentile": 38.733870592071554,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m53835",
+      "name": "Evelina Andreasson",
+      "rating": 1469.56,
+      "rd": 19.03,
+      "ratingClass": "C",
+      "homeLocation": "C4 Flipper",
+      "homeLocationId": "4930",
+      "percentile": 34.6997717426748,
+      "changeDisplay": "+17.1",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m13710",
+      "name": "Anton Vlassiouk",
+      "rating": 1466.23,
+      "rd": 25.43,
+      "ratingClass": "C",
+      "homeLocation": "Flippermagasinet, Kristianstad Pinball",
+      "homeLocationId": "13283",
+      "percentile": 33.353519355289514,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m51732",
+      "name": "Joel Cohen SWE",
+      "rating": 1435.9,
+      "rd": 25.42,
+      "ratingClass": "C",
+      "homeLocation": "C4 Flipper",
+      "homeLocationId": "4930",
+      "percentile": 22.37387618204686,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

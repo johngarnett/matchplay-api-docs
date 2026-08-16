@@ -1,0 +1,311 @@
+{
+  "locationId": "5974",
+  "name": "Titletown Taproom",
+  "address": "",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 20,
+  "relatedVenues": [
+    {
+      "locationId": "4804",
+      "name": "District 82 Pinball",
+      "address": "800 O Keefe Rd, De Pere, WI 54115, USA",
+      "count": 455
+    },
+    {
+      "locationId": "8200",
+      "name": "Player 2 Green Bay",
+      "address": "",
+      "count": 33
+    },
+    {
+      "locationId": "10138",
+      "name": "Lumberjack Johnnys Appleton - Axe Throwing & Pinball",
+      "address": "2701 N Oneida St, Appleton, WI 54911, US",
+      "count": 26
+    },
+    {
+      "locationId": "12684",
+      "name": "Lumberjack Johnny's Appleton",
+      "address": "2701 N. Oneida Street, Appleton, WI 54911",
+      "count": 12
+    },
+    {
+      "locationId": "8275",
+      "name": "Player 2 Arcade Bar",
+      "address": "215 E College Avenue, Appleton, WI 54911, US",
+      "count": 10
+    },
+    {
+      "locationId": "9390",
+      "name": "Glow In The Park Indoor Mini Golf",
+      "address": "300 S Koeller St, Oshkosh, WI 54902, US",
+      "count": 8
+    },
+    {
+      "locationId": "5726",
+      "name": "Steve Fabry's",
+      "address": "",
+      "count": 5
+    },
+    {
+      "locationId": "10170",
+      "name": "The Kickback",
+      "address": "7622 Lisa Lane, Middleton WI 53562",
+      "count": 2
+    },
+    {
+      "locationId": "5202",
+      "name": "District 1 Brewing Company",
+      "address": "200 Division St N, Stevens Point, WI 54481, USA",
+      "count": 1
+    },
+    {
+      "locationId": "6588",
+      "name": "Pocketeer Billiards",
+      "address": "",
+      "count": 1
+    }
+  ],
+  "players": [
+    {
+      "id": "m22",
+      "name": "Tom Graf",
+      "rating": 1706.51,
+      "rd": 16.79,
+      "ratingClass": "Expert",
+      "homeLocation": "District 82 Pinball",
+      "homeLocationId": "4804",
+      "percentile": 96.95812176829553,
+      "changeDisplay": "-5.5",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m16101",
+      "name": "Matt McCarty **TD**",
+      "rating": 1681.78,
+      "rd": 15.38,
+      "ratingClass": "A",
+      "homeLocation": "District 82 Pinball",
+      "homeLocationId": "4804",
+      "percentile": 95.28578748777193,
+      "changeDisplay": "+6.5",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m20690",
+      "name": "Alex Phelps",
+      "rating": 1662.91,
+      "rd": 17.2,
+      "ratingClass": "A",
+      "homeLocation": "District 82 Pinball",
+      "homeLocationId": "4804",
+      "percentile": 93.38519588205152,
+      "changeDisplay": "+8.1",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m38543",
+      "name": "Mike Carlson",
+      "rating": 1653.62,
+      "rd": 15.8,
+      "ratingClass": "A",
+      "homeLocation": "District 82 Pinball",
+      "homeLocationId": "4804",
+      "percentile": 92.2299343177901,
+      "changeDisplay": "+0.0",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m16106",
+      "name": "Michael Reiman",
+      "rating": 1620.28,
+      "rd": 21.78,
+      "ratingClass": "A",
+      "homeLocation": "District 82 Pinball",
+      "homeLocationId": "4804",
+      "percentile": 86.67256719616155,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m27606",
+      "name": "Alex Charles",
+      "rating": 1616.17,
+      "rd": 20.06,
+      "ratingClass": "A",
+      "homeLocation": "District 82 Pinball",
+      "homeLocationId": "4804",
+      "percentile": 85.79680439744725,
+      "changeDisplay": "+10.7",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m24874",
+      "name": "Gerald Morrison",
+      "rating": 1601.17,
+      "rd": 15.99,
+      "ratingClass": "A",
+      "homeLocation": "District 82 Pinball",
+      "homeLocationId": "4804",
+      "percentile": 82.29841151534914,
+      "changeDisplay": "+1.0",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m15446",
+      "name": "Peter Goeben",
+      "rating": 1591.37,
+      "rd": 17.2,
+      "ratingClass": "B",
+      "homeLocation": "District 82 Pinball",
+      "homeLocationId": "4804",
+      "percentile": 79.85745562957098,
+      "changeDisplay": "-5.1",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m2747",
+      "name": "Chuck Blohm",
+      "rating": 1587,
+      "rd": 16,
+      "ratingClass": "B",
+      "homeLocation": "District 82 Pinball",
+      "homeLocationId": "4804",
+      "percentile": 78.60902781012717,
+      "changeDisplay": "-3.9",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m28601",
+      "name": "Jeff Asman",
+      "rating": 1584.56,
+      "rd": 20.04,
+      "ratingClass": "B",
+      "homeLocation": "District 82 Pinball",
+      "homeLocationId": "4804",
+      "percentile": 77.95220571109144,
+      "changeDisplay": "+9.7",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m49583",
+      "name": "Mike Hetzel",
+      "rating": 1581.87,
+      "rd": 25.34,
+      "ratingClass": "B",
+      "homeLocation": "Player 2 Green Bay",
+      "homeLocationId": "8200",
+      "percentile": 77.1696091675595,
+      "changeDisplay": "-0.6",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m32722",
+      "name": "Eddie Smith",
+      "rating": 1579.5,
+      "rd": 15.89,
+      "ratingClass": "B",
+      "homeLocation": "District 82 Pinball",
+      "homeLocationId": "4804",
+      "percentile": 76.45688731541436,
+      "changeDisplay": "-1.2",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m8955",
+      "name": "Mike Schlumpf",
+      "rating": 1579.13,
+      "rd": 19.56,
+      "ratingClass": "B",
+      "homeLocation": "District 82 Pinball",
+      "homeLocationId": "4804",
+      "percentile": 76.38235431126846,
+      "changeDisplay": "+13.8",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m47647",
+      "name": "Joe Reynolds",
+      "rating": 1573.2,
+      "rd": 19.88,
+      "ratingClass": "B",
+      "homeLocation": "District 82 Pinball",
+      "homeLocationId": "4804",
+      "percentile": 74.52368752038012,
+      "changeDisplay": "-10.8",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m16041",
+      "name": "Steve Beno",
+      "rating": 1560.61,
+      "rd": 22,
+      "ratingClass": "B",
+      "homeLocation": "District 82 Pinball",
+      "homeLocationId": "4804",
+      "percentile": 70.48958867098337,
+      "changeDisplay": "-3.5",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "i97734",
+      "name": "Zack Oppeneer",
+      "rating": 1549.83,
+      "rd": 26.84,
+      "ratingClass": "B",
+      "homeLocation": "Player 2 Green Bay",
+      "homeLocationId": "8200",
+      "percentile": 66.64182233195137,
+      "changeDisplay": "+2.7",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m31471",
+      "name": "Chrissy Klitzke",
+      "rating": 1539.46,
+      "rd": 16.87,
+      "ratingClass": "B",
+      "homeLocation": "District 82 Pinball",
+      "homeLocationId": "4804",
+      "percentile": 62.92914706293381,
+      "changeDisplay": "-5.2",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "i127735",
+      "name": "Nolan Farr",
+      "rating": 1521.53,
+      "rd": 28.76,
+      "ratingClass": "B",
+      "homeLocation": "Titletown Taproom",
+      "homeLocationId": "5974",
+      "percentile": 55.78795360320492,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m51096",
+      "name": "Clay Ryan",
+      "rating": 1487.61,
+      "rd": 19.79,
+      "ratingClass": "C",
+      "homeLocation": "District 82 Pinball",
+      "homeLocationId": "4804",
+      "percentile": 41.980714585177246,
+      "changeDisplay": "-7.5",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m11622",
+      "name": "Rob Noe",
+      "rating": 1486.6,
+      "rd": 33.51,
+      "ratingClass": "C",
+      "homeLocation": "Titletown Taproom",
+      "homeLocationId": "5974",
+      "percentile": 41.57544137513393,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "tournamentId": 263813,
+  "name": "Sparkle Cup Tournament",
+  "date": "2026-07-26",
+  "locationId": "12802",
+  "locationName": "Scanlines Arcade",
+  "playerCount": 10,
+  "ratingsDate": "2026-07-26",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m56324",
+      "name": "Obby Bird",
+      "rating": 1621.43,
+      "dailyRatingChange": 10.04
+    },
+    {
+      "position": 2,
+      "playerId": "m56305",
+      "name": "Xavier Johnson",
+      "rating": 1426.43,
+      "dailyRatingChange": 25.62
+    },
+    {
+      "position": 3,
+      "playerId": "m56304",
+      "name": "Misti Sukle",
+      "rating": 1468.72,
+      "dailyRatingChange": 10.96
+    },
+    {
+      "position": 3,
+      "playerId": "m36804",
+      "name": "Ryan Calhoun",
+      "rating": 1565.91,
+      "dailyRatingChange": 0.82
+    },
+    {
+      "position": 5,
+      "playerId": "m55605",
+      "name": "Olivia Smith",
+      "rating": 1502.56,
+      "dailyRatingChange": -4.9
+    },
+    {
+      "position": 6,
+      "playerId": "m55627",
+      "name": "Josh Benson",
+      "rating": 1487.75,
+      "dailyRatingChange": -6.85
+    },
+    {
+      "position": 7,
+      "playerId": "m543948",
+      "name": "Mini Benson",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 8,
+      "playerId": "m57390",
+      "name": "Spencer Guignet",
+      "rating": 1358.04,
+      "dailyRatingChange": 4.48
+    },
+    {
+      "position": 9,
+      "playerId": "m40862",
+      "name": "Brett Schroder",
+      "rating": 1440.29,
+      "dailyRatingChange": -10.72
+    },
+    {
+      "position": 10,
+      "playerId": "m56301",
+      "name": "Brooke Stewart",
+      "rating": 1438.87,
+      "dailyRatingChange": -18.18
+    }
+  ]
+}

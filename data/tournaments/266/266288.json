@@ -1,0 +1,39 @@
+{
+  "tournamentId": 266288,
+  "name": "Finals for Belles of Steel @ Golden Cactus Aug 2026",
+  "date": "2026-08-09",
+  "locationId": "12525",
+  "locationName": "Golden Cactus Brewing",
+  "playerCount": 4,
+  "ratingsDate": "2026-08-09",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m50388",
+      "name": "Lex True",
+      "rating": 1556.23,
+      "dailyRatingChange": 20.16
+    },
+    {
+      "position": 2,
+      "playerId": "m55700",
+      "name": "Geo McCutcheon",
+      "rating": 1530.48,
+      "dailyRatingChange": 11.52
+    },
+    {
+      "position": 3,
+      "playerId": "m49497",
+      "name": "Judy Harveycutter",
+      "rating": 1457.71,
+      "dailyRatingChange": 8.65
+    },
+    {
+      "position": 4,
+      "playerId": "m48524",
+      "name": "Kathryn Willis",
+      "rating": 1539.34,
+      "dailyRatingChange": -8.89
+    }
+  ]
+}

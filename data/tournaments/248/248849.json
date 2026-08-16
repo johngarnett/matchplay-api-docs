@@ -1,0 +1,123 @@
+{
+  "tournamentId": 248849,
+  "name": "Finals for The Pinball Factory - Custard Cup II",
+  "date": "2026-07-25",
+  "locationId": "13241",
+  "locationName": "The Pinball Factory",
+  "playerCount": 16,
+  "ratingsDate": "2026-07-25",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m40410",
+      "name": "Jason Pitt",
+      "rating": 1718.76,
+      "dailyRatingChange": 14.57
+    },
+    {
+      "position": 2,
+      "playerId": "m12829",
+      "name": "Ian Walmsley",
+      "rating": 1553.09,
+      "dailyRatingChange": 11.16
+    },
+    {
+      "position": 3,
+      "playerId": "m19253",
+      "name": "Gene Aw",
+      "rating": 1602.04,
+      "dailyRatingChange": 16.48
+    },
+    {
+      "position": 4,
+      "playerId": "m28562",
+      "name": "Dan Pocklington",
+      "rating": 1678.32,
+      "dailyRatingChange": -4.23
+    },
+    {
+      "position": 5,
+      "playerId": "m35335",
+      "name": "Simon Love",
+      "rating": 1599.62,
+      "dailyRatingChange": 4.84
+    },
+    {
+      "position": 5,
+      "playerId": "m32367",
+      "name": "Paul Barber",
+      "rating": 1603.76,
+      "dailyRatingChange": 11.19
+    },
+    {
+      "position": 5,
+      "playerId": "m12828",
+      "name": "Kevin Donovan",
+      "rating": 1610.19,
+      "dailyRatingChange": 3.25
+    },
+    {
+      "position": 5,
+      "playerId": "m12889",
+      "name": "Stewart Judson",
+      "rating": 1525.04,
+      "dailyRatingChange": 13.94
+    },
+    {
+      "position": 9,
+      "playerId": "m25313",
+      "name": "Tim Knowles",
+      "rating": 1530.16,
+      "dailyRatingChange": 7.39
+    },
+    {
+      "position": 9,
+      "playerId": "m54438",
+      "name": "Dai James",
+      "rating": 1579.41,
+      "dailyRatingChange": 6.64
+    },
+    {
+      "position": 9,
+      "playerId": "m22006",
+      "name": "Paul Owen",
+      "rating": 1549.71,
+      "dailyRatingChange": 8.7
+    },
+    {
+      "position": 9,
+      "playerId": "m40574",
+      "name": "Glen Cockell",
+      "rating": 1556.65,
+      "dailyRatingChange": 4.58
+    },
+    {
+      "position": 9,
+      "playerId": "m25185",
+      "name": "Steven Kielty",
+      "rating": 1621.71,
+      "dailyRatingChange": 25.92
+    },
+    {
+      "position": 9,
+      "playerId": "m22062",
+      "name": "Dan Prachar",
+      "rating": 1571,
+      "dailyRatingChange": 6.52
+    },
+    {
+      "position": 9,
+      "playerId": "m9824",
+      "name": "Dan Williams",
+      "rating": 1596.61,
+      "dailyRatingChange": 13.05
+    },
+    {
+      "position": 9,
+      "playerId": "m22491",
+      "name": "Gareth Arnold",
+      "rating": 1508.53,
+      "dailyRatingChange": 16.26
+    }
+  ]
+}

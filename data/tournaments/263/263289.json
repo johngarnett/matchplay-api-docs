@@ -1,0 +1,116 @@
+{
+  "tournamentId": 263289,
+  "name": "Maltese Wed Tourny",
+  "date": "2026-07-23",
+  "locationId": "4194",
+  "locationName": "Maltese Brewing",
+  "playerCount": 15,
+  "ratingsDate": "2026-07-23",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m41965",
+      "name": "James Matarrese",
+      "rating": 1638.91,
+      "dailyRatingChange": 6.29
+    },
+    {
+      "position": 2,
+      "playerId": "m30212",
+      "name": "Lance Keylon",
+      "rating": 1665.97,
+      "dailyRatingChange": 2.96
+    },
+    {
+      "position": 3,
+      "playerId": "m4825",
+      "name": "Bayless Rutherford",
+      "rating": 1605.73,
+      "dailyRatingChange": 4.11
+    },
+    {
+      "position": 4,
+      "playerId": "m12962",
+      "name": "Phil Irey",
+      "rating": 1539.4,
+      "dailyRatingChange": 1.32
+    },
+    {
+      "position": 5,
+      "playerId": "m371",
+      "name": "Madmike Richardson",
+      "rating": 1579.14,
+      "dailyRatingChange": 0.68
+    },
+    {
+      "position": 5,
+      "playerId": "m33285",
+      "name": "Lauren Cooley",
+      "rating": 1634.62,
+      "dailyRatingChange": -1.48
+    },
+    {
+      "position": 5,
+      "playerId": "m18776",
+      "name": "Matt Larsen",
+      "rating": 1681.47,
+      "dailyRatingChange": -2.23
+    },
+    {
+      "position": 8,
+      "playerId": "m29752",
+      "name": "Neil Jablonski",
+      "rating": 1522.13,
+      "dailyRatingChange": -2.82
+    },
+    {
+      "position": 8,
+      "playerId": "m380",
+      "name": "Dale Geiger",
+      "rating": 1713.65,
+      "dailyRatingChange": -3.7
+    },
+    {
+      "position": 10,
+      "playerId": "m36931",
+      "name": "Kerry Keylon",
+      "rating": 1415.56,
+      "dailyRatingChange": 0.3
+    },
+    {
+      "position": 10,
+      "playerId": "m210226",
+      "name": "Troy Jones",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 12,
+      "playerId": "m11058",
+      "name": "Paula Bailey",
+      "rating": 1382.7,
+      "dailyRatingChange": 0.56
+    },
+    {
+      "position": 12,
+      "playerId": "m580853",
+      "name": "Zack Chouca",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 14,
+      "playerId": "m232320",
+      "name": "Grant Cutler",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 14,
+      "playerId": "i90935",
+      "name": "Liz jones",
+      "rating": 1328.63,
+      "dailyRatingChange": -2.46
+    }
+  ]
+}

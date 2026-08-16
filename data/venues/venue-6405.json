@@ -1,0 +1,443 @@
+{
+  "locationId": "6405",
+  "name": "1UP Games & Repairs",
+  "address": "4628 State St, Saginaw, MI 48603, USA",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 31,
+  "relatedVenues": [
+    {
+      "locationId": "10767",
+      "name": "Crazy Quarters Arcade",
+      "address": "401 Center Ave, Bay City, MI 48708",
+      "count": 79
+    },
+    {
+      "locationId": "9981",
+      "name": "Last Level Fenton",
+      "address": "14281 Fenton Rd, Fenton MI 48430",
+      "count": 11
+    },
+    {
+      "locationId": "6137",
+      "name": "The Avenue Cafe",
+      "address": "2021 E Michigan Ave, Lansing, MI 48912, USA",
+      "count": 9
+    },
+    {
+      "locationId": "8704",
+      "name": "Axecadia",
+      "address": "55 W Nepessing St, Lapeer, MI 48446, US",
+      "count": 7
+    },
+    {
+      "locationId": "6879",
+      "name": "Right Brain Brewery",
+      "address": "225 E Sixteenth St, Traverse City, MI, 49684, US",
+      "count": 5
+    },
+    {
+      "locationId": "7465",
+      "name": "RLM Amusements",
+      "address": "4318 Plainfield Avenue Northeast, Grand Rapids, MI 49525, US",
+      "count": 5
+    },
+    {
+      "locationId": "12620",
+      "name": "Pinball Playhouse",
+      "address": "3642 W Eleven Mile Road, Berkley, MI 48072",
+      "count": 3
+    },
+    {
+      "locationId": "7171",
+      "name": "Einstein's Pub",
+      "address": "873 South Mason Rd, Ste. 360, Katy, TX 77450, US",
+      "count": 2
+    },
+    {
+      "locationId": "8513",
+      "name": "Brinstar",
+      "address": "415 E Main St, Midland, MI 48640, US",
+      "count": 2
+    },
+    {
+      "locationId": "12444",
+      "name": "Sparks Pinball Museum & Arcade",
+      "address": "412 W 14 Mile Rd, Troy, MI 48083, US",
+      "count": 2
+    }
+  ],
+  "players": [
+    {
+      "id": "i76",
+      "name": "Todd Seaver",
+      "rating": 1680.92,
+      "rd": 30.24,
+      "ratingClass": "A",
+      "homeLocation": "The Avenue Cafe",
+      "homeLocationId": "6137",
+      "percentile": 95.22057110914427,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m21064",
+      "name": "Ian Montgomery",
+      "rating": 1671.29,
+      "rd": 27.46,
+      "ratingClass": "A",
+      "homeLocation": "1UP Games & Repairs",
+      "homeLocationId": "6405",
+      "percentile": 94.20040061489729,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i27027",
+      "name": "Chris Gonzales MI",
+      "rating": 1635.44,
+      "rd": 20.09,
+      "ratingClass": "A",
+      "homeLocation": "1UP Games & Repairs",
+      "homeLocationId": "6405",
+      "percentile": 89.55140448129687,
+      "changeDisplay": "+5.3",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m7218",
+      "name": "Philip Salminen",
+      "rating": 1634.07,
+      "rd": 17.77,
+      "ratingClass": "A",
+      "homeLocation": "Crazy Quarters Arcade",
+      "homeLocationId": "10767",
+      "percentile": 89.27656402850887,
+      "changeDisplay": "+7.3",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m2697",
+      "name": "Joe Wade US",
+      "rating": 1620.77,
+      "rd": 23.14,
+      "ratingClass": "A",
+      "homeLocation": "1UP Games & Repairs",
+      "homeLocationId": "6405",
+      "percentile": 86.77039176410304,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i90484",
+      "name": "Guy Lore",
+      "rating": 1615.46,
+      "rd": 17.41,
+      "ratingClass": "A",
+      "homeLocation": "Crazy Quarters Arcade",
+      "homeLocationId": "10767",
+      "percentile": 85.61978851260073,
+      "changeDisplay": "-2.1",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m9293",
+      "name": "Josh Grosteffon",
+      "rating": 1603.61,
+      "rd": 23.88,
+      "ratingClass": "A",
+      "homeLocation": "1UP Games & Repairs",
+      "homeLocationId": "6405",
+      "percentile": 82.8620673592025,
+      "changeDisplay": "-3.7",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m28812",
+      "name": "Mike Papesh",
+      "rating": 1583.91,
+      "rd": 16.9,
+      "ratingClass": "B",
+      "homeLocation": "1UP Games & Repairs",
+      "homeLocationId": "6405",
+      "percentile": 77.70997344761727,
+      "changeDisplay": "+3.8",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m32572",
+      "name": "Paul Knific",
+      "rating": 1583.86,
+      "rd": 31.54,
+      "ratingClass": "B",
+      "homeLocation": "1UP Games & Repairs",
+      "homeLocationId": "6405",
+      "percentile": 77.69599850933992,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m33433",
+      "name": "Terry Coe",
+      "rating": 1577.85,
+      "rd": 16.56,
+      "ratingClass": "B",
+      "homeLocation": "1UP Games & Repairs",
+      "homeLocationId": "6405",
+      "percentile": 75.9677644757069,
+      "changeDisplay": "-7.0",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m19989",
+      "name": "Jamie Abbott",
+      "rating": 1576.3,
+      "rd": 35.77,
+      "ratingClass": "B",
+      "homeLocation": "1UP Games & Repairs",
+      "homeLocationId": "6405",
+      "percentile": 75.56249126566358,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m9927",
+      "name": "melinda salminen",
+      "rating": 1559.69,
+      "rd": 18.59,
+      "ratingClass": "B",
+      "homeLocation": "Crazy Quarters Arcade",
+      "homeLocationId": "10767",
+      "percentile": 70.21474821819537,
+      "changeDisplay": "+6.2",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m22819",
+      "name": "Wesley Chappell",
+      "rating": 1541.46,
+      "rd": 21.5,
+      "ratingClass": "B",
+      "homeLocation": "Axecadia",
+      "homeLocationId": "8704",
+      "percentile": 63.67447710439279,
+      "changeDisplay": "-1.5",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m58326",
+      "name": "Jon Boetefuer",
+      "rating": 1538.25,
+      "rd": 23.59,
+      "ratingClass": "B",
+      "homeLocation": "Crazy Quarters Arcade",
+      "homeLocationId": "10767",
+      "percentile": 62.37014953183957,
+      "changeDisplay": "+12.4",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m28617",
+      "name": "Mark Reichert",
+      "rating": 1512.5,
+      "rd": 24.93,
+      "ratingClass": "B",
+      "homeLocation": "Right Brain Brewery",
+      "homeLocationId": "6879",
+      "percentile": 52.19173615316532,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i88985",
+      "name": "David Creel",
+      "rating": 1500.82,
+      "rd": 32.12,
+      "ratingClass": "B",
+      "homeLocation": "1UP Games & Repairs",
+      "homeLocationId": "6405",
+      "percentile": 47.45889038990077,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m30280",
+      "name": "brandon thatcher",
+      "rating": 1495,
+      "rd": 23.43,
+      "ratingClass": "C",
+      "homeLocation": "Crazy Quarters Arcade",
+      "homeLocationId": "10767",
+      "percentile": 45.101784133786744,
+      "changeDisplay": "-1.7",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m27816",
+      "name": "Robin Abbott",
+      "rating": 1467.53,
+      "rd": 36.17,
+      "ratingClass": "C",
+      "homeLocation": "1UP Games & Repairs",
+      "homeLocationId": "6405",
+      "percentile": 33.856617133274334,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m54740",
+      "name": "Ryan Jennings",
+      "rating": 1456.83,
+      "rd": 24.25,
+      "ratingClass": "C",
+      "homeLocation": "Crazy Quarters Arcade",
+      "homeLocationId": "10767",
+      "percentile": 29.668793962826662,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i154124",
+      "name": "Emiliano Gomez MI",
+      "rating": 1456.24,
+      "rd": 28.03,
+      "ratingClass": "C",
+      "homeLocation": "1UP Games & Repairs",
+      "homeLocationId": "6405",
+      "percentile": 29.482461452461916,
+      "changeDisplay": "-10.3",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m45889",
+      "name": "Kris Lore",
+      "rating": 1435.5,
+      "rd": 21.28,
+      "ratingClass": "C",
+      "homeLocation": "1UP Games & Repairs",
+      "homeLocationId": "6405",
+      "percentile": 22.27139330134625,
+      "changeDisplay": "-11.0",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m42301",
+      "name": "John Hart",
+      "rating": 1422.2,
+      "rd": 24.3,
+      "ratingClass": "C",
+      "homeLocation": "1UP Games & Repairs",
+      "homeLocationId": "6405",
+      "percentile": 18.25592770298598,
+      "changeDisplay": "-14.1",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "i144411",
+      "name": "Chris White MI",
+      "rating": 1410.84,
+      "rd": 34.03,
+      "ratingClass": "C",
+      "homeLocation": "1UP Games & Repairs",
+      "homeLocationId": "6405",
+      "percentile": 15.32119066474123,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m35820",
+      "name": "Ashley Davis",
+      "rating": 1395.58,
+      "rd": 50.91,
+      "ratingClass": "D",
+      "homeLocation": "1UP Games & Repairs",
+      "homeLocationId": "6405",
+      "percentile": 11.417524572599804,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i157322",
+      "name": "Gregory Harper Jr",
+      "rating": 1383.24,
+      "rd": 43.67,
+      "ratingClass": "D",
+      "homeLocation": "1UP Games & Repairs",
+      "homeLocationId": "6405",
+      "percentile": 8.911352308193973,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i145705",
+      "name": "Rob Corner",
+      "rating": 1378.36,
+      "rd": 35.48,
+      "ratingClass": "D",
+      "homeLocation": "1UP Games & Repairs",
+      "homeLocationId": "6405",
+      "percentile": 8.030931196720548,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m58349",
+      "name": "Katie Lore",
+      "rating": 1360.44,
+      "rd": 25.6,
+      "ratingClass": "D",
+      "homeLocation": "Crazy Quarters Arcade",
+      "homeLocationId": "10767",
+      "percentile": 5.492150743000885,
+      "changeDisplay": "-4.9",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "i157324",
+      "name": "Gregory Harper Sr",
+      "rating": 1358.74,
+      "rd": 43.76,
+      "ratingClass": "D",
+      "homeLocation": "1UP Games & Repairs",
+      "homeLocationId": "6405",
+      "percentile": 5.296501607117902,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m42153",
+      "name": "Torrey Johnson",
+      "rating": 1322.64,
+      "rd": 24.16,
+      "ratingClass": "D",
+      "homeLocation": "1UP Games & Repairs",
+      "homeLocationId": "6405",
+      "percentile": 2.0030744864210184,
+      "changeDisplay": "+17.0",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "i133440",
+      "name": "Corbin Grosteffon",
+      "rating": 1286.91,
+      "rd": 43.06,
+      "ratingClass": "E",
+      "homeLocation": "1UP Games & Repairs",
+      "homeLocationId": "6405",
+      "percentile": 0.7406717286998649,
+      "changeDisplay": "+19.0",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "i123497",
+      "name": "Torrey Johnson",
+      "rating": null,
+      "rd": null,
+      "ratingClass": "N/A",
+      "homeLocation": "1UP Games & Repairs",
+      "homeLocationId": "6405",
+      "percentile": null,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

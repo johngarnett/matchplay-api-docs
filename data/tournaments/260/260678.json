@@ -1,0 +1,67 @@
+{
+  "tournamentId": 260678,
+  "name": "Tilts Out- August 2026",
+  "date": "2026-08-05",
+  "locationId": "11259",
+  "locationName": "Asheville Retrocade",
+  "playerCount": 8,
+  "ratingsDate": "2026-08-05",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m584579",
+      "name": "Avy NC",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 2,
+      "playerId": "m26497",
+      "name": "Katie Sampler",
+      "rating": 1319.31,
+      "dailyRatingChange": 20.09
+    },
+    {
+      "position": 3,
+      "playerId": "m33124",
+      "name": "Carrie Willis",
+      "rating": 1394.66,
+      "dailyRatingChange": 13.8
+    },
+    {
+      "position": 4,
+      "playerId": "m48074",
+      "name": "Peyton Mozer",
+      "rating": 1416.71,
+      "dailyRatingChange": 7.27
+    },
+    {
+      "position": 5,
+      "playerId": "m584594",
+      "name": "Natalie Lester",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 6,
+      "playerId": "m584580",
+      "name": "Breanna NC",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 7,
+      "playerId": "i156158",
+      "name": "Lilly NC",
+      "rating": 1253.53,
+      "dailyRatingChange": -3.71
+    },
+    {
+      "position": 8,
+      "playerId": "m584593",
+      "name": "Hayley Pionk",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

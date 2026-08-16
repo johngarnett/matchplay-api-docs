@@ -1,0 +1,38 @@
+{
+  "locationId": "12688",
+  "venueName": "East Coast  Pinball",
+  "venueAddress": "Fatabursvägen 19 Kalmar",
+  "tournaments": [
+    {
+      "id": 264129,
+      "name": "Finals for Stern Army East Coast Pinball Juli",
+      "date": "7/27/2026",
+      "playerCount": 3,
+      "qualifying": {
+        "id": 264113,
+        "name": "Stern Army East Coast Pinball Juli",
+        "playerCount": 7
+      },
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m7425",
+          "name": "Johnny Mårtensson",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m7949",
+          "name": "Joakim Sjöblom",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m29592",
+          "name": "Theo Söderström",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

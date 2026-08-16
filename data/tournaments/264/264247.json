@@ -1,0 +1,39 @@
+{
+  "tournamentId": 264247,
+  "name": "Finals for Silver Ball Sac Pinball Club #77 - Juan's House",
+  "date": "2026-07-29",
+  "locationId": "13257",
+  "locationName": "Juan's House",
+  "playerCount": 4,
+  "ratingsDate": "2026-07-29",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m25062",
+      "name": "Ryan Dunn",
+      "rating": 1702.52,
+      "dailyRatingChange": 0.56
+    },
+    {
+      "position": 2,
+      "playerId": "m23297",
+      "name": "Juan Bermudez",
+      "rating": 1587.51,
+      "dailyRatingChange": 10.67
+    },
+    {
+      "position": 3,
+      "playerId": "m47758",
+      "name": "Andrew Taraschke",
+      "rating": 1580.1,
+      "dailyRatingChange": -0.43
+    },
+    {
+      "position": 4,
+      "playerId": "i136480",
+      "name": "Mike Braun",
+      "rating": 1509.58,
+      "dailyRatingChange": 8.19
+    }
+  ]
+}

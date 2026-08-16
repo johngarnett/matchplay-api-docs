@@ -1,0 +1,102 @@
+{
+  "tournamentId": 256836,
+  "name": "Northeast Pinball Challenge (NPC) Season 3 @ The Acton Bowladrome (Team Drome!) Week #3",
+  "date": "2026-07-29",
+  "locationId": "11424",
+  "locationName": "The Acton Bowladrome (The Drome!)",
+  "playerCount": 13,
+  "ratingsDate": "2026-07-29",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m30914",
+      "name": "Benjamin Bloomstein",
+      "rating": 1780.56,
+      "dailyRatingChange": 4.13
+    },
+    {
+      "position": 1,
+      "playerId": "m14465",
+      "name": "Noah Crable",
+      "rating": 1852.42,
+      "dailyRatingChange": 3.03
+    },
+    {
+      "position": 3,
+      "playerId": "m1096",
+      "name": "Joe Lemire",
+      "rating": 1758.12,
+      "dailyRatingChange": 3.74
+    },
+    {
+      "position": 4,
+      "playerId": "m51812",
+      "name": "Sam Hilty",
+      "rating": 1587.55,
+      "dailyRatingChange": 6.49
+    },
+    {
+      "position": 5,
+      "playerId": "m48167",
+      "name": "Matt Shulman",
+      "rating": 1520.69,
+      "dailyRatingChange": 3.23
+    },
+    {
+      "position": 6,
+      "playerId": "m27845",
+      "name": "Vincent Vitiello",
+      "rating": 1688.35,
+      "dailyRatingChange": -1.89
+    },
+    {
+      "position": 6,
+      "playerId": "m4808",
+      "name": "Jason Aloisi",
+      "rating": 1605.25,
+      "dailyRatingChange": 3.24
+    },
+    {
+      "position": 8,
+      "playerId": "m61756",
+      "name": "James Baron",
+      "rating": 1434.55,
+      "dailyRatingChange": 14.55
+    },
+    {
+      "position": 9,
+      "playerId": "m57787",
+      "name": "Lee Phillips",
+      "rating": 1465.64,
+      "dailyRatingChange": 3.57
+    },
+    {
+      "position": 10,
+      "playerId": "m61047",
+      "name": "brian mernoff",
+      "rating": 1485.54,
+      "dailyRatingChange": -63.85
+    },
+    {
+      "position": 11,
+      "playerId": "m11761",
+      "name": "Andrew Berryman",
+      "rating": 1494.87,
+      "dailyRatingChange": -4.89
+    },
+    {
+      "position": 11,
+      "playerId": "m49231",
+      "name": "Conner Shulman",
+      "rating": 1518.3,
+      "dailyRatingChange": -6.54
+    },
+    {
+      "position": 13,
+      "playerId": "m61929",
+      "name": "Luca Phillips",
+      "rating": 1436.05,
+      "dailyRatingChange": -6.53
+    }
+  ]
+}

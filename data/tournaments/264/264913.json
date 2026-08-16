@@ -1,0 +1,67 @@
+{
+  "tournamentId": 264913,
+  "name": "Semi finals for Transformers Launch Party",
+  "date": "2026-08-01",
+  "locationId": "9336",
+  "locationName": "Main Street Pinball",
+  "playerCount": 8,
+  "ratingsDate": "2026-08-01",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m35911",
+      "name": "Kelly Coin",
+      "rating": 1550.82,
+      "dailyRatingChange": 16.61
+    },
+    {
+      "position": 1,
+      "playerId": "m19845",
+      "name": "Kraig Blaeuer",
+      "rating": 1635.53,
+      "dailyRatingChange": 2.49
+    },
+    {
+      "position": 3,
+      "playerId": "m40309",
+      "name": "Daniel Heiser",
+      "rating": 1672.8,
+      "dailyRatingChange": -1.91
+    },
+    {
+      "position": 3,
+      "playerId": "m33311",
+      "name": "Darin Embry",
+      "rating": 1626.29,
+      "dailyRatingChange": 20.43
+    },
+    {
+      "position": 5,
+      "playerId": "m46771",
+      "name": "Jason Sieg",
+      "rating": 1501.6,
+      "dailyRatingChange": 21.44
+    },
+    {
+      "position": 5,
+      "playerId": "m47195",
+      "name": "Mike Pryor",
+      "rating": 1592.89,
+      "dailyRatingChange": 0.15
+    },
+    {
+      "position": 7,
+      "playerId": "m1666",
+      "name": "Dylan Michalski",
+      "rating": 1699.7,
+      "dailyRatingChange": -1.07
+    },
+    {
+      "position": 7,
+      "playerId": "m44391",
+      "name": "Chris Reed",
+      "rating": 1608.67,
+      "dailyRatingChange": 10.92
+    }
+  ]
+}

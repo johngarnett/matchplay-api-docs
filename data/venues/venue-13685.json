@@ -1,0 +1,371 @@
+{
+  "locationId": "13685",
+  "name": "Faction Brewing",
+  "address": "2501 Monarch St, Alameda, CA 94501, US",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 25,
+  "relatedVenues": [
+    {
+      "locationId": "1412",
+      "name": "Pacific Pinball Museum",
+      "address": "1510 Webster St, Alameda, CA 94501, USA",
+      "count": 159
+    },
+    {
+      "locationId": "5173",
+      "name": "The Flipper Room",
+      "address": "1033 Shary Cir, Concord, CA 94518, USA",
+      "count": 24
+    },
+    {
+      "locationId": "9842",
+      "name": "MarTEEnez Minigolf & Arcade",
+      "address": "701 Escobar St, Martinez, CA, 94553, US",
+      "count": 4
+    },
+    {
+      "locationId": "6612",
+      "name": "Lynn's Arcade: A Pinball Parlor and Can Slangery",
+      "address": "1760 Fremont Boulevard, Suite D1, Seaside, California 93955, US",
+      "count": 3
+    },
+    {
+      "locationId": "11141",
+      "name": "Slingshot Pinball",
+      "address": "460 Lincoln Ave #70, San Jose, CA 95126, US",
+      "count": 3
+    },
+    {
+      "locationId": "13043",
+      "name": "GSPF",
+      "address": "413 E. Rockford Street, Lodi, CA 95240",
+      "count": 3
+    },
+    {
+      "locationId": "9939",
+      "name": "Berryland",
+      "address": "2318 telegraph ave Oakland ca 94612",
+      "count": 2
+    },
+    {
+      "locationId": "603",
+      "name": "Free Gold Watch",
+      "address": "1767 Waller St, San Francisco, CA 94117, USA",
+      "count": 1
+    },
+    {
+      "locationId": "7465",
+      "name": "RLM Amusements",
+      "address": "4318 Plainfield Avenue Northeast, Grand Rapids, MI 49525, US",
+      "count": 1
+    },
+    {
+      "locationId": "10372",
+      "name": "Joystiq",
+      "address": "325 west main",
+      "count": 1
+    }
+  ],
+  "players": [
+    {
+      "id": "m162",
+      "name": "David Lee",
+      "rating": 1670.08,
+      "rd": 25.23,
+      "ratingClass": "A",
+      "homeLocation": "Pacific Pinball Museum",
+      "homeLocationId": "1412",
+      "percentile": 94.10257604695579,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m8569",
+      "name": "Ben Chen",
+      "rating": 1597.07,
+      "rd": 19.09,
+      "ratingClass": "B",
+      "homeLocation": "The Flipper Room",
+      "homeLocationId": "5173",
+      "percentile": 81.27824102110216,
+      "changeDisplay": "-4.5",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m18508",
+      "name": "Craig Yen",
+      "rating": 1582.45,
+      "rd": 26.98,
+      "ratingClass": "B",
+      "homeLocation": "Pacific Pinball Museum",
+      "homeLocationId": "1412",
+      "percentile": 77.33730842688779,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m910",
+      "name": "Peter Soriano",
+      "rating": 1580.27,
+      "rd": 24.26,
+      "ratingClass": "B",
+      "homeLocation": "Pacific Pinball Museum",
+      "homeLocationId": "1412",
+      "percentile": 76.69446126612941,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m30271",
+      "name": "Todd Caris",
+      "rating": 1578.72,
+      "rd": 23.05,
+      "ratingClass": "B",
+      "homeLocation": "Pacific Pinball Museum",
+      "homeLocationId": "1412",
+      "percentile": 76.25192155401314,
+      "changeDisplay": "-8.1",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m18054",
+      "name": "Ralph Margado",
+      "rating": 1570.9,
+      "rd": 26.22,
+      "ratingClass": "B",
+      "homeLocation": "Pacific Pinball Museum",
+      "homeLocationId": "1412",
+      "percentile": 73.82494060651233,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m35399",
+      "name": "Alex Cheng",
+      "rating": 1565.98,
+      "rd": 26.35,
+      "ratingClass": "B",
+      "homeLocation": "Pacific Pinball Museum",
+      "homeLocationId": "1412",
+      "percentile": 72.27372245772581,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m2933",
+      "name": "Jon Olkowski",
+      "rating": 1565.9,
+      "rd": 25.19,
+      "ratingClass": "B",
+      "homeLocation": "Pacific Pinball Museum",
+      "homeLocationId": "1412",
+      "percentile": 72.25974751944845,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m17903",
+      "name": "Max Martin",
+      "rating": 1559.28,
+      "rd": 28.48,
+      "ratingClass": "B",
+      "homeLocation": "Pacific Pinball Museum",
+      "homeLocationId": "1412",
+      "percentile": 70.08431546094005,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m42124",
+      "name": "EILEEN TRACY",
+      "rating": 1554.73,
+      "rd": 25.93,
+      "ratingClass": "B",
+      "homeLocation": "Pacific Pinball Museum",
+      "homeLocationId": "1412",
+      "percentile": 68.58433875250385,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m48448",
+      "name": "Geoff Rantala",
+      "rating": 1550.94,
+      "rd": 26.15,
+      "ratingClass": "B",
+      "homeLocation": "Pacific Pinball Museum",
+      "homeLocationId": "1412",
+      "percentile": 67.0470955419947,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m18606",
+      "name": "Brandon Schuler",
+      "rating": 1537.02,
+      "rd": 25.72,
+      "ratingClass": "B",
+      "homeLocation": "Pacific Pinball Museum",
+      "homeLocationId": "1412",
+      "percentile": 61.89965994316859,
+      "changeDisplay": "-1.6",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m5632",
+      "name": "Tim Chevalier",
+      "rating": 1514.72,
+      "rd": 22.55,
+      "ratingClass": "B",
+      "homeLocation": "Pacific Pinball Museum",
+      "homeLocationId": "1412",
+      "percentile": 53.072157264638754,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m36295",
+      "name": "Joshua Weber",
+      "rating": 1505.6,
+      "rd": 25.8,
+      "ratingClass": "B",
+      "homeLocation": "Pacific Pinball Museum",
+      "homeLocationId": "1412",
+      "percentile": 49.48059812735827,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i68320",
+      "name": "Miles Goodrich",
+      "rating": 1489.51,
+      "rd": 25.48,
+      "ratingClass": "C",
+      "homeLocation": "Faction Brewing",
+      "homeLocationId": "13685",
+      "percentile": 42.823869194577725,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m37590",
+      "name": "scott Badovick",
+      "rating": 1476.08,
+      "rd": 27.88,
+      "ratingClass": "C",
+      "homeLocation": "Pacific Pinball Museum",
+      "homeLocationId": "1412",
+      "percentile": 37.29911026226301,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m56239",
+      "name": "Nate Stone",
+      "rating": 1467.35,
+      "rd": 43.06,
+      "ratingClass": "C",
+      "homeLocation": "Pacific Pinball Museum",
+      "homeLocationId": "1412",
+      "percentile": 33.791400754646666,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m62546",
+      "name": "Cathie Caris",
+      "rating": 1465.88,
+      "rd": 59.25,
+      "ratingClass": "C",
+      "homeLocation": "Faction Brewing",
+      "homeLocationId": "13685",
+      "percentile": 33.213769972515955,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m2175",
+      "name": "Tim Harrison",
+      "rating": 1465.8,
+      "rd": 37.93,
+      "ratingClass": "C",
+      "homeLocation": "Faction Brewing",
+      "homeLocationId": "13685",
+      "percentile": 33.176503470443,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m44185",
+      "name": "Erika Benitez",
+      "rating": 1453.44,
+      "rd": 29.25,
+      "ratingClass": "C",
+      "homeLocation": "Pacific Pinball Museum",
+      "homeLocationId": "1412",
+      "percentile": 28.43899939441934,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m35869",
+      "name": "Katie Haverkamp",
+      "rating": 1449.73,
+      "rd": 26.58,
+      "ratingClass": "C",
+      "homeLocation": "Pacific Pinball Museum",
+      "homeLocationId": "1412",
+      "percentile": 27.083430381515818,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m42122",
+      "name": "Kimberly McBee",
+      "rating": 1449.71,
+      "rd": 27.17,
+      "ratingClass": "C",
+      "homeLocation": "Pacific Pinball Museum",
+      "homeLocationId": "1412",
+      "percentile": 27.06479713047934,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m37372",
+      "name": "Melissa Chamberlain",
+      "rating": 1433.03,
+      "rd": 23.48,
+      "ratingClass": "C",
+      "homeLocation": "Pacific Pinball Museum",
+      "homeLocationId": "1412",
+      "percentile": 21.49345507057344,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m55257",
+      "name": "Andrea Wirgler",
+      "rating": 1409.14,
+      "rd": 29.65,
+      "ratingClass": "C",
+      "homeLocation": "Pacific Pinball Museum",
+      "homeLocationId": "1412",
+      "percentile": 14.846042763311129,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m18122",
+      "name": "Stephanie Martens",
+      "rating": 1399.47,
+      "rd": 31.92,
+      "ratingClass": "D",
+      "homeLocation": "Pacific Pinball Museum",
+      "homeLocationId": "1412",
+      "percentile": 12.400428564773838,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

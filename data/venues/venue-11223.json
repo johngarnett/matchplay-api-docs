@@ -1,0 +1,203 @@
+{
+  "locationId": "11223",
+  "name": "Longshot Restaurant and Lounge",
+  "address": "3665 S Federal Blvd, Sheridan, CO 80110, US",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 11,
+  "relatedVenues": [
+    {
+      "locationId": "11477",
+      "name": "Outlanes Pinball Lounge",
+      "address": "2555 West Alamo Ave. Littleton, CO 80120",
+      "count": 33
+    },
+    {
+      "locationId": "9651",
+      "name": "Colorado Pinball Pub",
+      "address": "6209 South Santa Fe Drive, Littleton, CO 80120, US",
+      "count": 12
+    },
+    {
+      "locationId": "5946",
+      "name": "1UP COLFAX",
+      "address": "717 E Colfax Ave, Denver, CO 80203, USA",
+      "count": 10
+    },
+    {
+      "locationId": "7572",
+      "name": "Locavore Beer Works",
+      "address": "5950 South Platte Canyon Road, Littleton, CO 80123, US",
+      "count": 9
+    },
+    {
+      "locationId": "12564",
+      "name": "Arapahoe Bowling Center",
+      "address": "6850 S Dayton St, Greenwood Village, CO 80112, US",
+      "count": 9
+    },
+    {
+      "locationId": "11081",
+      "name": "LandLocked Ales",
+      "address": "3225 S Wadsworth Blvd, Lakewood, CO 80227, US",
+      "count": 7
+    },
+    {
+      "locationId": "9837",
+      "name": "Colorado Pinball Pub",
+      "address": "303 E Hwy 105, Monument, CO 80132, US",
+      "count": 6
+    },
+    {
+      "locationId": "12778",
+      "name": "The 1up Arcade Bar - Greenwood",
+      "address": "6864 South Clinton Court, Greenwood Village, CO 80112, US",
+      "count": 6
+    },
+    {
+      "locationId": "4804",
+      "name": "District 82 Pinball",
+      "address": "800 O Keefe Rd, De Pere, WI 54115, USA",
+      "count": 4
+    },
+    {
+      "locationId": "11316",
+      "name": "1up Arcade Bar-Westminster",
+      "address": "4750 W 120th Ave #900, Westminster, CO 80020",
+      "count": 4
+    }
+  ],
+  "players": [
+    {
+      "id": "m23360",
+      "name": "Lewis Ritenour",
+      "rating": 1724.66,
+      "rd": 19.2,
+      "ratingClass": "Expert",
+      "homeLocation": "Outlanes Pinball Lounge",
+      "homeLocationId": "11477",
+      "percentile": 97.91773419667396,
+      "changeDisplay": "+10.3",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m11992",
+      "name": "Justin Hinman",
+      "rating": 1712.68,
+      "rd": 17.31,
+      "ratingClass": "Expert",
+      "homeLocation": "Outlanes Pinball Lounge",
+      "homeLocationId": "11477",
+      "percentile": 97.31215353798855,
+      "changeDisplay": "+5.0",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m8180",
+      "name": "David Johnson CO",
+      "rating": 1626.01,
+      "rd": 22.38,
+      "ratingClass": "A",
+      "homeLocation": "District 82 Pinball",
+      "homeLocationId": "4804",
+      "percentile": 87.7859039455909,
+      "changeDisplay": "-16.3",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m18680",
+      "name": "Mike Ulreich",
+      "rating": 1590.62,
+      "rd": 22.61,
+      "ratingClass": "B",
+      "homeLocation": "Outlanes Pinball Lounge",
+      "homeLocationId": "11477",
+      "percentile": 79.60590674057856,
+      "changeDisplay": "+0.3",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m1317",
+      "name": "Aaron Moore",
+      "rating": 1585.85,
+      "rd": 29.16,
+      "ratingClass": "B",
+      "homeLocation": "Longshot Restaurant and Lounge",
+      "homeLocationId": "11223",
+      "percentile": 78.30157916802534,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m59971",
+      "name": "Pete Hemley",
+      "rating": 1539.65,
+      "rd": 43.81,
+      "ratingClass": "B",
+      "homeLocation": "Longshot Restaurant and Lounge",
+      "homeLocationId": "11223",
+      "percentile": 63.012996692597945,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i88940",
+      "name": "Jason Wodarski",
+      "rating": 1509.39,
+      "rd": 36.67,
+      "ratingClass": "B",
+      "homeLocation": "Longshot Restaurant and Lounge",
+      "homeLocationId": "11223",
+      "percentile": 50.98057483579448,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i74199",
+      "name": "Ellen Landy",
+      "rating": 1508.69,
+      "rd": 45.42,
+      "ratingClass": "B",
+      "homeLocation": "Longshot Restaurant and Lounge",
+      "homeLocationId": "11223",
+      "percentile": 50.724367634042956,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m60871",
+      "name": "Jason Fye",
+      "rating": 1472.56,
+      "rd": 27.33,
+      "ratingClass": "C",
+      "homeLocation": "Outlanes Pinball Lounge",
+      "homeLocationId": "11477",
+      "percentile": 35.88298318349094,
+      "changeDisplay": "+8.4",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m57938",
+      "name": "Jared campbell",
+      "rating": 1471.53,
+      "rd": 42.01,
+      "ratingClass": "C",
+      "homeLocation": "Longshot Restaurant and Lounge",
+      "homeLocationId": "11223",
+      "percentile": 35.46839334792938,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i114408",
+      "name": "Andrew kreutzer",
+      "rating": 1370.55,
+      "rd": 47.49,
+      "ratingClass": "D",
+      "homeLocation": "Longshot Restaurant and Lounge",
+      "homeLocationId": "11223",
+      "percentile": 6.773186751758513,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

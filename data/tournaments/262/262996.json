@@ -1,0 +1,74 @@
+{
+  "tournamentId": 262996,
+  "name": "Avatar Tournament at The FlipSide Arcade",
+  "date": "2026-07-21",
+  "locationId": "9007",
+  "locationName": "Kirby's FlipSide",
+  "playerCount": 9,
+  "ratingsDate": "2026-07-21",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m2254",
+      "name": "Preston Pywell",
+      "rating": 1727.54,
+      "dailyRatingChange": 0.22
+    },
+    {
+      "position": 2,
+      "playerId": "m37758",
+      "name": "Jacob Nelson",
+      "rating": 1614.77,
+      "dailyRatingChange": -3.6
+    },
+    {
+      "position": 3,
+      "playerId": "m5578",
+      "name": "Joey Henry",
+      "rating": 1688.08,
+      "dailyRatingChange": -4.71
+    },
+    {
+      "position": 4,
+      "playerId": "i161922",
+      "name": "Kelby Connell",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 5,
+      "playerId": "m37993",
+      "name": "Courtland Elliott",
+      "rating": 1538.09,
+      "dailyRatingChange": 4.12
+    },
+    {
+      "position": 6,
+      "playerId": "m176",
+      "name": "Rob Huffman",
+      "rating": 1599.83,
+      "dailyRatingChange": -2.34
+    },
+    {
+      "position": 7,
+      "playerId": "m33695",
+      "name": "Ryan Bell KS",
+      "rating": 1546.95,
+      "dailyRatingChange": 9.51
+    },
+    {
+      "position": 8,
+      "playerId": "i117539",
+      "name": "caleb adcock",
+      "rating": 1445.09,
+      "dailyRatingChange": 37.41
+    },
+    {
+      "position": 9,
+      "playerId": "m40225",
+      "name": "Jan Atakpa",
+      "rating": 1387.22,
+      "dailyRatingChange": -3.59
+    }
+  ]
+}

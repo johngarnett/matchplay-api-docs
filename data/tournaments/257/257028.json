@@ -1,0 +1,60 @@
+{
+  "tournamentId": 257028,
+  "name": "Flippin' Summer School #3",
+  "date": "2026-07-27",
+  "locationId": "13270",
+  "locationName": "Level Beer Buckman Kerns",
+  "playerCount": 7,
+  "ratingsDate": "2026-07-27",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m38401",
+      "name": "Neve Lane",
+      "rating": 1456,
+      "dailyRatingChange": 5.81
+    },
+    {
+      "position": 2,
+      "playerId": "m28287",
+      "name": "Evan Amano",
+      "rating": 1736.59,
+      "dailyRatingChange": 0.92
+    },
+    {
+      "position": 3,
+      "playerId": "i59261",
+      "name": "Geoff Greene",
+      "rating": 1496.8,
+      "dailyRatingChange": 4.03
+    },
+    {
+      "position": 4,
+      "playerId": "m43689",
+      "name": "Dominique Whittaker",
+      "rating": 1445.54,
+      "dailyRatingChange": 1.28
+    },
+    {
+      "position": 5,
+      "playerId": "m47552",
+      "name": "Andrew Whitaker",
+      "rating": 1400.56,
+      "dailyRatingChange": -3.27
+    },
+    {
+      "position": 6,
+      "playerId": "m43687",
+      "name": "Amy Souza",
+      "rating": 1398.97,
+      "dailyRatingChange": -7.4
+    },
+    {
+      "position": 7,
+      "playerId": "i145215",
+      "name": "Mica Prado",
+      "rating": 1301.13,
+      "dailyRatingChange": -5.84
+    }
+  ]
+}

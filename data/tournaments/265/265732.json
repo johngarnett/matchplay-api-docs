@@ -1,0 +1,158 @@
+{
+  "tournamentId": 265732,
+  "name": "Wednesday Flip-Off 8/5/26",
+  "date": "2026-08-06",
+  "locationId": "8750",
+  "locationName": "ADD-A-Ball",
+  "playerCount": 21,
+  "ratingsDate": "2026-08-06",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m11001",
+      "name": "Jaran Jones",
+      "rating": 1724.51,
+      "dailyRatingChange": 1.05
+    },
+    {
+      "position": 2,
+      "playerId": "m32272",
+      "name": "Hunter Vogt",
+      "rating": 1524.44,
+      "dailyRatingChange": 4.85
+    },
+    {
+      "position": 3,
+      "playerId": "m17659",
+      "name": "Val Gaifoulline",
+      "rating": 1591.3,
+      "dailyRatingChange": 4.52
+    },
+    {
+      "position": 4,
+      "playerId": "m33132",
+      "name": "Louis Gordon",
+      "rating": 1519.51,
+      "dailyRatingChange": 37.56
+    },
+    {
+      "position": 4,
+      "playerId": "m3242",
+      "name": "Matt Golden",
+      "rating": 1576.44,
+      "dailyRatingChange": 2.64
+    },
+    {
+      "position": 6,
+      "playerId": "m23268",
+      "name": "Ben Simmons",
+      "rating": 1643.24,
+      "dailyRatingChange": -2.5
+    },
+    {
+      "position": 6,
+      "playerId": "m7518",
+      "name": "Todd Larsen",
+      "rating": 1605.01,
+      "dailyRatingChange": -0.93
+    },
+    {
+      "position": 6,
+      "playerId": "m24000",
+      "name": "Sam Wiedmann",
+      "rating": 1507.76,
+      "dailyRatingChange": 3.06
+    },
+    {
+      "position": 9,
+      "playerId": "m29150",
+      "name": "Kevin Deschenes",
+      "rating": 1517.06,
+      "dailyRatingChange": -2.12
+    },
+    {
+      "position": 9,
+      "playerId": "m46116",
+      "name": "Alisha Maligon",
+      "rating": 1423.02,
+      "dailyRatingChange": 22.78
+    },
+    {
+      "position": 9,
+      "playerId": "m32359",
+      "name": "Mark Kushino",
+      "rating": 1510.36,
+      "dailyRatingChange": 2.75
+    },
+    {
+      "position": 12,
+      "playerId": "m1776",
+      "name": "Paul Williams WA",
+      "rating": 1672.68,
+      "dailyRatingChange": -9.95
+    },
+    {
+      "position": 12,
+      "playerId": "m52381",
+      "name": "Jason Trojan",
+      "rating": 1551.34,
+      "dailyRatingChange": -1.19
+    },
+    {
+      "position": 12,
+      "playerId": "m19614",
+      "name": "Sam Stiles",
+      "rating": 1586.09,
+      "dailyRatingChange": -4.27
+    },
+    {
+      "position": 12,
+      "playerId": "i108924",
+      "name": "Mike McCurley",
+      "rating": 1423.98,
+      "dailyRatingChange": -8.46
+    },
+    {
+      "position": 16,
+      "playerId": "m33135",
+      "name": "Chris Hensley",
+      "rating": 1417.55,
+      "dailyRatingChange": -5.02
+    },
+    {
+      "position": 16,
+      "playerId": "m13413",
+      "name": "Matt Korsmoe",
+      "rating": 1633.71,
+      "dailyRatingChange": -3.21
+    },
+    {
+      "position": 16,
+      "playerId": "m58354",
+      "name": "Graham Ellis",
+      "rating": 1468.76,
+      "dailyRatingChange": -20.32
+    },
+    {
+      "position": 16,
+      "playerId": "m50995",
+      "name": "Neil Lindquist",
+      "rating": 1486.05,
+      "dailyRatingChange": -2.54
+    },
+    {
+      "position": 20,
+      "playerId": "m19957",
+      "name": "Billy Musselman",
+      "rating": 1594.7,
+      "dailyRatingChange": -6.73
+    },
+    {
+      "position": 20,
+      "playerId": "m584942",
+      "name": "Selah McCleod",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "communityId": "141",
+  "locations": [
+    {
+      "id": "11246",
+      "name": "The Back Page",
+      "address": "199 Phibsborough Rd, Phibsborough, D07 A0X2, IE",
+      "tournaments": [
+        {
+          "id": 261322,
+          "name": "Dublin City Pinball League Season 1 #1",
+          "date": "8/9/2026",
+          "playerCount": 15,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m29875",
+              "name": "Brian O'Rourke",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m34029",
+              "name": "Adam Kenny",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m9817",
+              "name": "Alex Sperellis",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m13426",
+              "name": "Jack Waycik",
+              "isCommunityMember": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "13643",
+      "name": "Token",
+      "address": "Custom House Square, Unit 4 Mayor Street Lower, North Wall, Dublin, Co. Dublin D01 DE47, IE",
+      "tournaments": [
+        {
+          "id": 248713,
+          "name": "Token Throwdown",
+          "date": "8/12/2026",
+          "playerCount": 11,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m9817",
+              "name": "Alex Sperellis",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m29875",
+              "name": "Brian O'Rourke",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "i162212",
+              "name": "Emmet O'Neill",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m62857",
+              "name": "Eanna Brown",
+              "isCommunityMember": true
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

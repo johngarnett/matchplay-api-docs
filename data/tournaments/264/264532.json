@@ -1,0 +1,137 @@
+{
+  "tournamentId": 264532,
+  "name": "Triple Knock Weekly Tournament (7/29/26)",
+  "date": "2026-07-30",
+  "locationId": "9721",
+  "locationName": "The Triple Knock",
+  "playerCount": 18,
+  "ratingsDate": "2026-07-30",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m28800",
+      "name": "Ryan Slanicka",
+      "rating": 1685.27,
+      "dailyRatingChange": 3.65
+    },
+    {
+      "position": 2,
+      "playerId": "m26678",
+      "name": "Kilian Inglett",
+      "rating": 1719.88,
+      "dailyRatingChange": -0.23
+    },
+    {
+      "position": 3,
+      "playerId": "m31487",
+      "name": "Julianne Hassman",
+      "rating": 1547.45,
+      "dailyRatingChange": 8.04
+    },
+    {
+      "position": 4,
+      "playerId": "m8829",
+      "name": "Nate Nielsen",
+      "rating": 1586.32,
+      "dailyRatingChange": 7.01
+    },
+    {
+      "position": 5,
+      "playerId": "m7961",
+      "name": "Altwin Hawksford",
+      "rating": 1537.68,
+      "dailyRatingChange": 0.89
+    },
+    {
+      "position": 5,
+      "playerId": "m37861",
+      "name": "Craig Garrett",
+      "rating": 1664.49,
+      "dailyRatingChange": 0.05
+    },
+    {
+      "position": 7,
+      "playerId": "m8670",
+      "name": "Andy Duval",
+      "rating": 1517.33,
+      "dailyRatingChange": -2.35
+    },
+    {
+      "position": 7,
+      "playerId": "m55969",
+      "name": "Ty Dillow",
+      "rating": 1440.52,
+      "dailyRatingChange": 3.87
+    },
+    {
+      "position": 7,
+      "playerId": "m18220",
+      "name": "Harold Noble",
+      "rating": 1472.49,
+      "dailyRatingChange": -1.75
+    },
+    {
+      "position": 7,
+      "playerId": "m19264",
+      "name": "Jordan West",
+      "rating": 1496.73,
+      "dailyRatingChange": -0.05
+    },
+    {
+      "position": 11,
+      "playerId": "m61802",
+      "name": "Chase Richards",
+      "rating": 1380.73,
+      "dailyRatingChange": 2.75
+    },
+    {
+      "position": 11,
+      "playerId": "m27986",
+      "name": "Chris Seehafer",
+      "rating": 1412.53,
+      "dailyRatingChange": 3.12
+    },
+    {
+      "position": 11,
+      "playerId": "m566653",
+      "name": "Jack Lancaster",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 14,
+      "playerId": "m61945",
+      "name": "Moon Cohen",
+      "rating": 1362.86,
+      "dailyRatingChange": -14.36
+    },
+    {
+      "position": 14,
+      "playerId": "m61801",
+      "name": "Mathew Hasting",
+      "rating": 1408.42,
+      "dailyRatingChange": -3.31
+    },
+    {
+      "position": 16,
+      "playerId": "m472622",
+      "name": "Dean Mahon",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 16,
+      "playerId": "m61979",
+      "name": "Tetra Gomez",
+      "rating": 1472.39,
+      "dailyRatingChange": -36.66
+    },
+    {
+      "position": 16,
+      "playerId": "m20960",
+      "name": "Rachel Fulton",
+      "rating": 1391.72,
+      "dailyRatingChange": -4.53
+    }
+  ]
+}

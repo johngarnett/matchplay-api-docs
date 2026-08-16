@@ -1,0 +1,130 @@
+{
+  "tournamentId": 255772,
+  "name": "Weeknight Pinball at My Parents' Basement Aug 6 2026 MPB",
+  "date": "2026-08-07",
+  "locationId": "6570",
+  "locationName": "My Parents' Basement",
+  "playerCount": 17,
+  "ratingsDate": "2026-08-07",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m10434",
+      "name": "Harold VanPatten",
+      "rating": 1683.11,
+      "dailyRatingChange": 1.81
+    },
+    {
+      "position": 2,
+      "playerId": "m49922",
+      "name": "Max Woo",
+      "rating": 1614.44,
+      "dailyRatingChange": 5.67
+    },
+    {
+      "position": 2,
+      "playerId": "m11142",
+      "name": "Tommy Vernieri",
+      "rating": 1674.08,
+      "dailyRatingChange": 0.14
+    },
+    {
+      "position": 4,
+      "playerId": "m15379",
+      "name": "Michael Glidewell",
+      "rating": 1573.33,
+      "dailyRatingChange": 7.99
+    },
+    {
+      "position": 5,
+      "playerId": "m28515",
+      "name": "Jake Michael",
+      "rating": 1663.69,
+      "dailyRatingChange": 5.62
+    },
+    {
+      "position": 6,
+      "playerId": "m15389",
+      "name": "Cat McFarland",
+      "rating": 1577.82,
+      "dailyRatingChange": 0.05
+    },
+    {
+      "position": 7,
+      "playerId": "m26599",
+      "name": "Tucker Godek",
+      "rating": 1610.3,
+      "dailyRatingChange": 4.36
+    },
+    {
+      "position": 8,
+      "playerId": "m49715",
+      "name": "Michael Gaddis",
+      "rating": 1506.86,
+      "dailyRatingChange": 1.36
+    },
+    {
+      "position": 9,
+      "playerId": "m15392",
+      "name": "Dillon McFarland",
+      "rating": 1609.48,
+      "dailyRatingChange": -3.7
+    },
+    {
+      "position": 10,
+      "playerId": "m12318",
+      "name": "Timothy Ensor",
+      "rating": 1483.89,
+      "dailyRatingChange": -1.03
+    },
+    {
+      "position": 11,
+      "playerId": "m26348",
+      "name": "Tim Raulerson",
+      "rating": 1552.27,
+      "dailyRatingChange": -4.26
+    },
+    {
+      "position": 11,
+      "playerId": "m47812",
+      "name": "Sarah Warlick",
+      "rating": 1556.53,
+      "dailyRatingChange": -0.83
+    },
+    {
+      "position": 11,
+      "playerId": "m36871",
+      "name": "Courtney Jones",
+      "rating": 1478.73,
+      "dailyRatingChange": 1.36
+    },
+    {
+      "position": 14,
+      "playerId": "m61595",
+      "name": "Charlie Mikulich",
+      "rating": 1474.51,
+      "dailyRatingChange": null
+    },
+    {
+      "position": 15,
+      "playerId": "m3301",
+      "name": "Tina Park",
+      "rating": 1426.1,
+      "dailyRatingChange": -2.48
+    },
+    {
+      "position": 16,
+      "playerId": "m15383",
+      "name": "Brittany Glidewell",
+      "rating": 1453.17,
+      "dailyRatingChange": -9.55
+    },
+    {
+      "position": 17,
+      "playerId": "i121577",
+      "name": "Craig McCoy",
+      "rating": 1403.91,
+      "dailyRatingChange": -66.75
+    }
+  ]
+}

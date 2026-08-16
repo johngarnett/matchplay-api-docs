@@ -1,0 +1,25 @@
+{
+  "tournamentId": 265209,
+  "name": "Finals for Squamish Transformers Launch Party",
+  "date": "2026-08-03",
+  "locationId": "10113",
+  "locationName": "Chieftain Pool & Pinball",
+  "playerCount": 2,
+  "ratingsDate": "2026-08-03",
+  "standings": [
+    {
+      "position": 3,
+      "playerId": "m10129",
+      "name": "David Brocklebank",
+      "rating": 1647.37,
+      "dailyRatingChange": -0.01
+    },
+    {
+      "position": 4,
+      "playerId": "i104319",
+      "name": "Carl Taylor",
+      "rating": 1577.03,
+      "dailyRatingChange": -2.01
+    }
+  ]
+}

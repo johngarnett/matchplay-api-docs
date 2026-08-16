@@ -1,0 +1,203 @@
+{
+  "locationId": "13226",
+  "name": "Cuff's Game Room",
+  "address": "",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 11,
+  "relatedVenues": [
+    {
+      "locationId": "8417",
+      "name": "Big John's Billiards",
+      "address": "9819 M Street, Omaha, NE 68127, US",
+      "count": 120
+    },
+    {
+      "locationId": "4189",
+      "name": "Beercade 2",
+      "address": "1423 S 13th St, Omaha, NE 68108, USA",
+      "count": 101
+    },
+    {
+      "locationId": "1137",
+      "name": "Beercade",
+      "address": "",
+      "count": 24
+    },
+    {
+      "locationId": "3790",
+      "name": "Cactus Jacks",
+      "address": "",
+      "count": 8
+    },
+    {
+      "locationId": "6860",
+      "name": "The Operating Room Ankeny",
+      "address": "1631 SW Main St Suite 105, Ankeny, IA 50023, USA",
+      "count": 8
+    },
+    {
+      "locationId": "11887",
+      "name": "Beercade",
+      "address": "6102 Maple St, Omaha, NE 68104, US",
+      "count": 7
+    },
+    {
+      "locationId": "5624",
+      "name": "Cactus Jack's Family Fun Center",
+      "address": "1211 N. Council Road, Oklahoma City, OK, 73127, US",
+      "count": 6
+    },
+    {
+      "locationId": "66",
+      "name": "Cactus Jack's",
+      "address": "",
+      "count": 4
+    },
+    {
+      "locationId": "8762",
+      "name": "Operating Room - Ankeny",
+      "address": "1631 Southwest Main Street, Ankeny, IA 50023, US",
+      "count": 2
+    },
+    {
+      "locationId": "9336",
+      "name": "Main Street Pinball",
+      "address": "518 North Main Street, Grain Valley, MO 64029, US",
+      "count": 2
+    }
+  ],
+  "players": [
+    {
+      "id": "m19412",
+      "name": "Geoff Davis",
+      "rating": 1824.71,
+      "rd": 21.74,
+      "ratingClass": "Master",
+      "homeLocation": "Big John's Billiards",
+      "homeLocationId": "8417",
+      "percentile": 99.74379279824848,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m37701",
+      "name": "Geddy Johnson",
+      "rating": 1696.75,
+      "rd": 21.12,
+      "ratingClass": "A",
+      "homeLocation": "Big John's Billiards",
+      "homeLocationId": "8417",
+      "percentile": 96.3758326734057,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m35093",
+      "name": "Courtney Moncrief",
+      "rating": 1669.9,
+      "rd": 19.43,
+      "ratingClass": "A",
+      "homeLocation": "Big John's Billiards",
+      "homeLocationId": "8417",
+      "percentile": 94.07462617040107,
+      "changeDisplay": "+0.1",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m33537",
+      "name": "Ivy Smolinski",
+      "rating": 1645.09,
+      "rd": 18.87,
+      "ratingClass": "A",
+      "homeLocation": "Big John's Billiards",
+      "homeLocationId": "8417",
+      "percentile": 91.04672287697396,
+      "changeDisplay": "+8.6",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m51100",
+      "name": "Stephen Cano",
+      "rating": 1586.58,
+      "rd": 19.61,
+      "ratingClass": "B",
+      "homeLocation": "Big John's Billiards",
+      "homeLocationId": "8417",
+      "percentile": 78.47393674011272,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m17541",
+      "name": "Greg Cuff",
+      "rating": 1544.96,
+      "rd": 19.35,
+      "ratingClass": "B",
+      "homeLocation": "Big John's Billiards",
+      "homeLocationId": "8417",
+      "percentile": 64.93687986211394,
+      "changeDisplay": "+2.6",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m18383",
+      "name": "Jen Skibbe",
+      "rating": 1466.71,
+      "rd": 18.56,
+      "ratingClass": "C",
+      "homeLocation": "Big John's Billiards",
+      "homeLocationId": "8417",
+      "percentile": 33.544510178413375,
+      "changeDisplay": "-9.2",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m51099",
+      "name": "Sera Harbert",
+      "rating": 1432.14,
+      "rd": 18.73,
+      "ratingClass": "C",
+      "homeLocation": "Big John's Billiards",
+      "homeLocationId": "8417",
+      "percentile": 21.251222807099268,
+      "changeDisplay": "-2.3",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m49488",
+      "name": "Jenifer Piatt",
+      "rating": 1399.17,
+      "rd": 21.51,
+      "ratingClass": "D",
+      "homeLocation": "Big John's Billiards",
+      "homeLocationId": "8417",
+      "percentile": 12.339870498905297,
+      "changeDisplay": "+0.8",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m58233",
+      "name": "Abby Patterson",
+      "rating": 1387.88,
+      "rd": 26.05,
+      "ratingClass": "D",
+      "homeLocation": "Beercade 2",
+      "homeLocationId": "4189",
+      "percentile": 9.85233148553594,
+      "changeDisplay": "-0.5",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "i70634",
+      "name": "Heidi Wullschleger",
+      "rating": 1375.99,
+      "rd": 36.04,
+      "ratingClass": "D",
+      "homeLocation": "Beercade 2",
+      "homeLocationId": "4189",
+      "percentile": 7.607024735640751,
+      "changeDisplay": "+0.0",
+      "changeClass": "change-positive"
+    }
+  ]
+}

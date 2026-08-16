@@ -1,0 +1,40 @@
+{
+  "locationId": "12448",
+  "venueName": "Super Rad Retro Lounge",
+  "venueAddress": "106 Glenwood Ave, Raleigh, NC 27603, US",
+  "tournaments": [
+    {
+      "id": 261031,
+      "name": "Super Rad 3rd Sunday Tournament",
+      "date": "7/19/2026",
+      "playerCount": 9,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m2324",
+          "name": "Paul Sanders",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m3764",
+          "name": "Asa Cooney",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m25688",
+          "name": "Ken Lane",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m27217",
+          "name": "John Robertson",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "locationId": "11959",
+  "venueName": "The Pinball Place New Ulm",
+  "venueAddress": "827 N Broadway St, New Ulm, MN 56073, US",
+  "tournaments": [
+    {
+      "id": 262768,
+      "name": "Finals for Transformer more then meets the Eye Launch Party",
+      "date": "7/18/2026",
+      "playerCount": 4,
+      "qualifying": {
+        "id": 262279,
+        "name": "Transformer more then meets the Eye Launch Party",
+        "playerCount": 9
+      },
+      "standings": []
+    }
+  ]
+}

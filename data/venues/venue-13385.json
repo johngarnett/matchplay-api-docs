@@ -1,0 +1,77 @@
+{
+  "locationId": "13385",
+  "name": "House",
+  "address": "",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 3,
+  "relatedVenues": [
+    {
+      "locationId": "7303",
+      "name": "The Pinball Lounge @Oviedo Bowling Center",
+      "address": "376 E Broadway Street, Oviedo, FL 32765, US",
+      "count": 18
+    },
+    {
+      "locationId": "13284",
+      "name": "Robocade",
+      "address": "1149 1st St South, Winter Haven, FL 33880, US",
+      "count": 12
+    },
+    {
+      "locationId": "4589",
+      "name": "District Eat and Play @ Oviedo, Fl",
+      "address": "1395 Oviedo Mall Boulevard, Oviedo, FL 32765, USA",
+      "count": 10
+    },
+    {
+      "locationId": "888",
+      "name": "Al Pinball Garage",
+      "address": "",
+      "count": 6
+    },
+    {
+      "locationId": "8768",
+      "name": "Lowry Parcade",
+      "address": "1213 W Waters Ave, Tampa, FL 33604, US",
+      "count": 3
+    }
+  ],
+  "players": [
+    {
+      "id": "m52928",
+      "name": "Steve Reining",
+      "rating": 1585.87,
+      "rd": 19.9,
+      "ratingClass": "B",
+      "homeLocation": "The Pinball Lounge @Oviedo Bowling Center",
+      "homeLocationId": "7303",
+      "percentile": 78.31089579354358,
+      "changeDisplay": "-0.2",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m50653",
+      "name": "Brandon Reining",
+      "rating": 1583.41,
+      "rd": 22.78,
+      "ratingClass": "B",
+      "homeLocation": "The Pinball Lounge @Oviedo Bowling Center",
+      "homeLocationId": "7303",
+      "percentile": 77.59351562863931,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m49210",
+      "name": "Tony Reining",
+      "rating": 1552.52,
+      "rd": 19.75,
+      "ratingClass": "B",
+      "homeLocation": "Robocade",
+      "homeLocationId": "13284",
+      "percentile": 67.68062607723483,
+      "changeDisplay": "-5.0",
+      "changeClass": "change-negative"
+    }
+  ]
+}

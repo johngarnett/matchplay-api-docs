@@ -1,0 +1,106 @@
+{
+  "locationId": "10349",
+  "name": "Matze",
+  "address": "",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 8,
+  "relatedVenues": [],
+  "players": [
+    {
+      "id": "i85588",
+      "name": "Dirk Teuffert",
+      "rating": 1623.25,
+      "rd": 31.54,
+      "ratingClass": "A",
+      "homeLocation": "Matze",
+      "homeLocationId": "10349",
+      "percentile": 87.2828061676061,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m374",
+      "name": "Kay Haberkorn",
+      "rating": 1588.89,
+      "rd": 61.78,
+      "ratingClass": "B",
+      "homeLocation": "Matze",
+      "homeLocationId": "10349",
+      "percentile": 79.1400754646667,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m4111",
+      "name": "Jürgen Zwilling",
+      "rating": 1566.36,
+      "rd": 32.04,
+      "ratingClass": "B",
+      "homeLocation": "Matze",
+      "homeLocationId": "10349",
+      "percentile": 72.39949690222201,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m5539",
+      "name": "Mathias Jung",
+      "rating": 1540.85,
+      "rd": 46.99,
+      "ratingClass": "B",
+      "homeLocation": "Matze",
+      "homeLocationId": "10349",
+      "percentile": 63.43690315367774,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m29596",
+      "name": "Sören Frenzel",
+      "rating": 1524.1,
+      "rd": 40.47,
+      "ratingClass": "B",
+      "homeLocation": "Matze",
+      "homeLocationId": "10349",
+      "percentile": 56.74756603158336,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m19113",
+      "name": "Enver Haase",
+      "rating": 1522.73,
+      "rd": 42.87,
+      "ratingClass": "B",
+      "homeLocation": "Matze",
+      "homeLocationId": "10349",
+      "percentile": 56.2351516280803,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m50619",
+      "name": "Andreas Kipp",
+      "rating": 1497.66,
+      "rd": 37.74,
+      "ratingClass": "C",
+      "homeLocation": "Matze",
+      "homeLocationId": "10349",
+      "percentile": 46.1638794428658,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m28559",
+      "name": "Martin Gosling",
+      "rating": 1416.69,
+      "rd": 33.97,
+      "ratingClass": "C",
+      "homeLocation": "Matze",
+      "homeLocationId": "10349",
+      "percentile": 16.783900871104485,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

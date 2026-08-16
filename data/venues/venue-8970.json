@@ -1,0 +1,227 @@
+{
+  "locationId": "8970",
+  "name": "CityCade Arcade Bar",
+  "address": "122 South Oakland Street, Gastonia NC 28052",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 13,
+  "relatedVenues": [
+    {
+      "locationId": "3374",
+      "name": "Portal Pinball Arcade",
+      "address": "3335 Cobb Pkwy Suite 800, Acworth, GA, 30101, US",
+      "count": 7
+    },
+    {
+      "locationId": "5106",
+      "name": "Player 1UP",
+      "address": "140 E Main St Suite 140, Rock Hill, SC 29730, United States",
+      "count": 5
+    },
+    {
+      "locationId": "9460",
+      "name": "Melt Yard",
+      "address": "800 Whitlock Ave NW, Marietta, GA 30064, US",
+      "count": 4
+    },
+    {
+      "locationId": "8090",
+      "name": "The Basement Arcade Bar",
+      "address": "14 Union St S, Concord, NC 28025, US",
+      "count": 3
+    },
+    {
+      "locationId": "2469",
+      "name": "Fellowship of the silver ball clubhouse",
+      "address": "",
+      "count": 2
+    },
+    {
+      "locationId": "7837",
+      "name": "Super Abari Game Bar",
+      "address": "1015 Seigle Ave, Charlotte, NC, 2820, US",
+      "count": 2
+    },
+    {
+      "locationId": "12788",
+      "name": "Pinky's Revenge",
+      "address": "250 Mill Street, Taylors, SC 29687, US",
+      "count": 2
+    },
+    {
+      "locationId": "13212",
+      "name": "Classic Arcade and Pinball Museum",
+      "address": "3210 Union Rd, Gastonia, NC 28056, US",
+      "count": 2
+    },
+    {
+      "locationId": "5040",
+      "name": "Transmission Arcade",
+      "address": "1712 Main St, Columbia, SC 29201, USA",
+      "count": 1
+    },
+    {
+      "locationId": "8946",
+      "name": "Craft And Draft Irmo",
+      "address": "7583 Saint Andrews Road, Irmo, SC 29063, US",
+      "count": 1
+    }
+  ],
+  "players": [
+    {
+      "id": "m35446",
+      "name": "David Kanwisher",
+      "rating": 1668.5,
+      "rd": 35.49,
+      "ratingClass": "A",
+      "homeLocation": "CityCade Arcade Bar",
+      "homeLocationId": "8970",
+      "percentile": 93.95816835142311,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m45874",
+      "name": "Bryan Fraley",
+      "rating": 1626.18,
+      "rd": 24.21,
+      "ratingClass": "A",
+      "homeLocation": "CityCade Arcade Bar",
+      "homeLocationId": "8970",
+      "percentile": 87.81851213490474,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m29829",
+      "name": "Nathan Irvin",
+      "rating": 1622.63,
+      "rd": 27.5,
+      "ratingClass": "A",
+      "homeLocation": "CityCade Arcade Bar",
+      "homeLocationId": "8970",
+      "percentile": 87.18963991242373,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m42478",
+      "name": "AJ Snyder",
+      "rating": 1585.78,
+      "rd": 19.82,
+      "ratingClass": "B",
+      "homeLocation": "Portal Pinball Arcade",
+      "homeLocationId": "3374",
+      "percentile": 78.26897097871152,
+      "changeDisplay": "-6.2",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m10192",
+      "name": "Randy Bowman",
+      "rating": 1537.12,
+      "rd": 23.93,
+      "ratingClass": "B",
+      "homeLocation": "CityCade Arcade Bar",
+      "homeLocationId": "8970",
+      "percentile": 61.93692644524154,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m57822",
+      "name": "Luis Cortes",
+      "rating": 1520.99,
+      "rd": 24.79,
+      "ratingClass": "B",
+      "homeLocation": "CityCade Arcade Bar",
+      "homeLocationId": "8970",
+      "percentile": 55.569012903526335,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m19175",
+      "name": "Joe Scott",
+      "rating": 1485.45,
+      "rd": 35.59,
+      "ratingClass": "C",
+      "homeLocation": "CityCade Arcade Bar",
+      "homeLocationId": "8970",
+      "percentile": 41.11426841198118,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m60823",
+      "name": "Kate Lavender",
+      "rating": 1485.04,
+      "rd": 38.44,
+      "ratingClass": "C",
+      "homeLocation": "CityCade Arcade Bar",
+      "homeLocationId": "8970",
+      "percentile": 40.89998602506172,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m48728",
+      "name": "Heather Alspach",
+      "rating": 1440.91,
+      "rd": 29,
+      "ratingClass": "C",
+      "homeLocation": "Player 1UP",
+      "homeLocationId": "5106",
+      "percentile": 24.03689383705222,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m50917",
+      "name": "Ramon Bauza",
+      "rating": 1423.9,
+      "rd": 33.62,
+      "ratingClass": "C",
+      "homeLocation": "CityCade Arcade Bar",
+      "homeLocationId": "8970",
+      "percentile": 18.76368379372991,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m60273",
+      "name": "Ben Downing",
+      "rating": 1420.22,
+      "rd": 31.74,
+      "ratingClass": "C",
+      "homeLocation": "CityCade Arcade Bar",
+      "homeLocationId": "8970",
+      "percentile": 17.70158848465086,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m60691",
+      "name": "Daniel Cortes",
+      "rating": 1400.65,
+      "rd": 36.42,
+      "ratingClass": "C",
+      "homeLocation": "CityCade Arcade Bar",
+      "homeLocationId": "8970",
+      "percentile": 12.638002515488889,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m61075",
+      "name": "Trina Leah",
+      "rating": 1272.63,
+      "rd": 43.97,
+      "ratingClass": "E",
+      "homeLocation": "CityCade Arcade Bar",
+      "homeLocationId": "8970",
+      "percentile": 0.5030977779848139,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

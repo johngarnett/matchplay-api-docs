@@ -1,0 +1,281 @@
+{
+  "locationId": "11504",
+  "name": "LumberjAxe",
+  "address": "308 Merchant St, Fairmont, WV 26554, US",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 21,
+  "relatedVenues": [
+    {
+      "locationId": "9232",
+      "name": "Levels Arcade",
+      "address": "228 Walnut St, Morgantown, WV 26505, US",
+      "count": 78
+    },
+    {
+      "locationId": "7785",
+      "name": "Helicon Brewing",
+      "address": "102 Union Ave, Oakdale, PA 15071, US",
+      "count": 2
+    },
+    {
+      "locationId": "8271",
+      "name": "Rezzanine Esports",
+      "address": "1025 Washington Pike, Bridgeville, PA 15017, US",
+      "count": 1
+    }
+  ],
+  "players": [
+    {
+      "id": "m285",
+      "name": "Brian Dye",
+      "rating": 1733.45,
+      "rd": 29.59,
+      "ratingClass": "Expert",
+      "homeLocation": "Levels Arcade",
+      "homeLocationId": "9232",
+      "percentile": 98.25313271533051,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m8546",
+      "name": "Andy Pickens",
+      "rating": 1729.18,
+      "rd": 25.08,
+      "ratingClass": "Expert",
+      "homeLocation": "Levels Arcade",
+      "homeLocationId": "9232",
+      "percentile": 98.11338333255695,
+      "changeDisplay": "-3.1",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m23567",
+      "name": "Kent Aycoth",
+      "rating": 1566.78,
+      "rd": 31.44,
+      "ratingClass": "B",
+      "homeLocation": "Levels Arcade",
+      "homeLocationId": "9232",
+      "percentile": 72.50197978292262,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i75430",
+      "name": "Mark Witkowski",
+      "rating": 1559.75,
+      "rd": 37.9,
+      "ratingClass": "B",
+      "homeLocation": "LumberjAxe",
+      "homeLocationId": "11504",
+      "percentile": 70.23803978199096,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m31633",
+      "name": "Uriah Summers",
+      "rating": 1557.57,
+      "rd": 27.5,
+      "ratingClass": "B",
+      "homeLocation": "Levels Arcade",
+      "homeLocationId": "9232",
+      "percentile": 69.5486094936414,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m26062",
+      "name": "Beth Howell",
+      "rating": 1555.87,
+      "rd": 25.48,
+      "ratingClass": "B",
+      "homeLocation": "Levels Arcade",
+      "homeLocationId": "9232",
+      "percentile": 68.98495364978805,
+      "changeDisplay": "-6.7",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m26756",
+      "name": "Erica Stewart",
+      "rating": 1549.15,
+      "rd": 26.25,
+      "ratingClass": "B",
+      "homeLocation": "Levels Arcade",
+      "homeLocationId": "9232",
+      "percentile": 66.36698187916336,
+      "changeDisplay": "+8.1",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m30645",
+      "name": "Jaxon Schwab",
+      "rating": 1547.4,
+      "rd": 38.12,
+      "ratingClass": "B",
+      "homeLocation": "LumberjAxe",
+      "homeLocationId": "11504",
+      "percentile": 65.71947640564588,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i116165",
+      "name": "Thaddeus Aycoth",
+      "rating": 1532.56,
+      "rd": 56.54,
+      "ratingClass": "B",
+      "homeLocation": "LumberjAxe",
+      "homeLocationId": "11504",
+      "percentile": 60.101551218148785,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m30647",
+      "name": "Hayley Schwab",
+      "rating": 1500.1,
+      "rd": 29.53,
+      "ratingClass": "B",
+      "homeLocation": "Levels Arcade",
+      "homeLocationId": "9232",
+      "percentile": 47.13280849676247,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m47003",
+      "name": "Kaitlin Gammack",
+      "rating": 1482.51,
+      "rd": 25.54,
+      "ratingClass": "C",
+      "homeLocation": "Levels Arcade",
+      "homeLocationId": "9232",
+      "percentile": 39.94037359668328,
+      "changeDisplay": "+13.0",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m54474",
+      "name": "Ben Lawson",
+      "rating": 1459.32,
+      "rd": 44.55,
+      "ratingClass": "C",
+      "homeLocation": "LumberjAxe",
+      "homeLocationId": "11504",
+      "percentile": 30.74952252294219,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m37521",
+      "name": "Jim Boyce WV",
+      "rating": 1458.82,
+      "rd": 37.19,
+      "ratingClass": "C",
+      "homeLocation": "LumberjAxe",
+      "homeLocationId": "11504",
+      "percentile": 30.52126519774538,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m10532",
+      "name": "Sal Sulick",
+      "rating": 1452.16,
+      "rd": 34.11,
+      "ratingClass": "C",
+      "homeLocation": "Levels Arcade",
+      "homeLocationId": "9232",
+      "percentile": 27.973168118507473,
+      "changeDisplay": "-5.7",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "i157661",
+      "name": "Nick Carpenter",
+      "rating": 1440.54,
+      "rd": 41.99,
+      "ratingClass": "C",
+      "homeLocation": "LumberjAxe",
+      "homeLocationId": "11504",
+      "percentile": 23.878511203242187,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m54483",
+      "name": "Natalie Fox",
+      "rating": 1401.57,
+      "rd": 50.35,
+      "ratingClass": "C",
+      "homeLocation": "Levels Arcade",
+      "homeLocationId": "9232",
+      "percentile": 12.88023477896306,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m54484",
+      "name": "Elizabeth Wiles",
+      "rating": 1390.4,
+      "rd": 36.08,
+      "ratingClass": "D",
+      "homeLocation": "Levels Arcade",
+      "homeLocationId": "9232",
+      "percentile": 10.332137699725159,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i136999",
+      "name": "Matt Daniel",
+      "rating": 1382.04,
+      "rd": 38.71,
+      "ratingClass": "D",
+      "homeLocation": "Levels Arcade",
+      "homeLocationId": "9232",
+      "percentile": 8.697069921274514,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i157662",
+      "name": "Trevor Sestito",
+      "rating": 1309.29,
+      "rd": 42.04,
+      "ratingClass": "D",
+      "homeLocation": "LumberjAxe",
+      "homeLocationId": "11504",
+      "percentile": 1.3648856384217636,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i139161",
+      "name": "Justin Kifer",
+      "rating": null,
+      "rd": null,
+      "ratingClass": "N/A",
+      "homeLocation": "LumberjAxe",
+      "homeLocationId": "11504",
+      "percentile": null,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i138018",
+      "name": "Chris Thompson WV",
+      "rating": null,
+      "rd": null,
+      "ratingClass": "N/A",
+      "homeLocation": "LumberjAxe",
+      "homeLocationId": "11504",
+      "percentile": null,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

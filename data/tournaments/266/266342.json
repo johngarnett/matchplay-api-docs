@@ -1,0 +1,53 @@
+{
+  "tournamentId": 266342,
+  "name": "Finals for Sunday Funday!!",
+  "date": "2026-08-10",
+  "locationId": "11321",
+  "locationName": "Pins and Pints",
+  "playerCount": 6,
+  "ratingsDate": "2026-08-10",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m28119",
+      "name": "Brian Malbec",
+      "rating": 1701.02,
+      "dailyRatingChange": 1.77
+    },
+    {
+      "position": 2,
+      "playerId": "m25118",
+      "name": "Thomas Noble",
+      "rating": 1659.83,
+      "dailyRatingChange": 4.67
+    },
+    {
+      "position": 3,
+      "playerId": "m6844",
+      "name": "John Tyner",
+      "rating": 1658.51,
+      "dailyRatingChange": 2.46
+    },
+    {
+      "position": 4,
+      "playerId": "m28768",
+      "name": "Kyle Skogen",
+      "rating": 1579.46,
+      "dailyRatingChange": -1.43
+    },
+    {
+      "position": 5,
+      "playerId": "m60420",
+      "name": "Calep Surgener",
+      "rating": 1526.72,
+      "dailyRatingChange": -3.48
+    },
+    {
+      "position": 6,
+      "playerId": "m17556",
+      "name": "Jef Damewood",
+      "rating": 1575.71,
+      "dailyRatingChange": -3.87
+    }
+  ]
+}

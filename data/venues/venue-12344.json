@@ -1,0 +1,359 @@
+{
+  "locationId": "12344",
+  "name": "Flahertys Arden Bowl",
+  "address": "1273 West County Road East, Arden Hills, MN 55112, US",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 24,
+  "relatedVenues": [
+    {
+      "locationId": "8625",
+      "name": "LITT Pinball Bar",
+      "address": "2021 Hennepin Ave S, Minneapolis, MN, 55405, US",
+      "count": 129
+    },
+    {
+      "locationId": "8863",
+      "name": "Northstar Pinball Collective",
+      "address": "5636 West 125th Street, Savage, MN",
+      "count": 30
+    },
+    {
+      "locationId": "12233",
+      "name": "Full Tilt Tavern",
+      "address": "8301 Normandale Service Rd, Bloomington, MN 55437, US",
+      "count": 16
+    },
+    {
+      "locationId": "5500",
+      "name": "Blainbrook",
+      "address": "",
+      "count": 15
+    },
+    {
+      "locationId": "4804",
+      "name": "District 82 Pinball",
+      "address": "800 O Keefe Rd, De Pere, WI 54115, USA",
+      "count": 14
+    },
+    {
+      "locationId": "8209",
+      "name": "Broken Clock Brewing Cooperative",
+      "address": "1712 Marshall St NE, Minneapolis, MN 55413, US",
+      "count": 10
+    },
+    {
+      "locationId": "11685",
+      "name": "56 Brewing",
+      "address": "3055 NE Columbia St, Minneapolis, MN 55418, US",
+      "count": 7
+    },
+    {
+      "locationId": "13408",
+      "name": "Stray Dog",
+      "address": "401 E Hennepin Ave, Minneapolis, MN 55414, US",
+      "count": 5
+    },
+    {
+      "locationId": "6223",
+      "name": "Flip⚡️Side",
+      "address": "1349 Autumn Ave, Memphis, TN 38104, USA",
+      "count": 3
+    },
+    {
+      "locationId": "9676",
+      "name": "56 Brewing",
+      "address": "3055 Northeast Columbia Avenue #Suite 102, Minneapolis, MN, United States, Minnesota",
+      "count": 3
+    }
+  ],
+  "players": [
+    {
+      "id": "m17800",
+      "name": "Matthew Sitko",
+      "rating": 1672.3,
+      "rd": 18.33,
+      "ratingClass": "A",
+      "homeLocation": "Flip⚡️Side",
+      "homeLocationId": "6223",
+      "percentile": 94.32617505939349,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m21262",
+      "name": "Angie DonCarlos",
+      "rating": 1631.68,
+      "rd": 22.46,
+      "ratingClass": "A",
+      "homeLocation": "LITT Pinball Bar",
+      "homeLocationId": "8625",
+      "percentile": 88.91787394605673,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m28155",
+      "name": "Michelle Ebert",
+      "rating": 1620.02,
+      "rd": 24.25,
+      "ratingClass": "A",
+      "homeLocation": "LITT Pinball Bar",
+      "homeLocationId": "8625",
+      "percentile": 86.61200913029302,
+      "changeDisplay": "+3.3",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m27316",
+      "name": "Leah Odegard",
+      "rating": 1575.85,
+      "rd": 20.69,
+      "ratingClass": "B",
+      "homeLocation": "LITT Pinball Bar",
+      "homeLocationId": "8625",
+      "percentile": 75.43671682116737,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m24512",
+      "name": "Melissa DonCarlos",
+      "rating": 1551.06,
+      "rd": 22.28,
+      "ratingClass": "B",
+      "homeLocation": "LITT Pinball Bar",
+      "homeLocationId": "8625",
+      "percentile": 67.11231192062235,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m10047",
+      "name": "Brooke Hipsher",
+      "rating": 1533.42,
+      "rd": 20.29,
+      "ratingClass": "B",
+      "homeLocation": "LITT Pinball Bar",
+      "homeLocationId": "8625",
+      "percentile": 60.418316485768855,
+      "changeDisplay": "+0.5",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m19072",
+      "name": "Elizabeth Boelke",
+      "rating": 1532.76,
+      "rd": 16.83,
+      "ratingClass": "B",
+      "homeLocation": "LITT Pinball Bar",
+      "homeLocationId": "8625",
+      "percentile": 60.17608422229469,
+      "changeDisplay": "-3.1",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m57888",
+      "name": "Robert Montoni",
+      "rating": 1499.48,
+      "rd": 37.05,
+      "ratingClass": "C",
+      "homeLocation": "LITT Pinball Bar",
+      "homeLocationId": "8625",
+      "percentile": 46.89989285880654,
+      "changeDisplay": "-2.1",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m23621",
+      "name": "Amber Ringgenberg",
+      "rating": 1490.86,
+      "rd": 24.08,
+      "ratingClass": "C",
+      "homeLocation": "LITT Pinball Bar",
+      "homeLocationId": "8625",
+      "percentile": 43.354916849117245,
+      "changeDisplay": "+8.4",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m18875",
+      "name": "Colin Tierney",
+      "rating": 1476.41,
+      "rd": 61.83,
+      "ratingClass": "C",
+      "homeLocation": "Flahertys Arden Bowl",
+      "homeLocationId": "12344",
+      "percentile": 37.448176270554804,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m47029",
+      "name": "Aubrey Miller",
+      "rating": 1464.36,
+      "rd": 21.79,
+      "ratingClass": "C",
+      "homeLocation": "LITT Pinball Bar",
+      "homeLocationId": "8625",
+      "percentile": 32.59421437555318,
+      "changeDisplay": "-8.8",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m61143",
+      "name": "Hannah-Ruth Patterson",
+      "rating": 1464.36,
+      "rd": 52.55,
+      "ratingClass": "C",
+      "homeLocation": "Flahertys Arden Bowl",
+      "homeLocationId": "12344",
+      "percentile": 32.58489775003493,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m29329",
+      "name": "Lindsey Bushnell",
+      "rating": 1462.59,
+      "rd": 47.92,
+      "ratingClass": "C",
+      "homeLocation": "Flahertys Arden Bowl",
+      "homeLocationId": "12344",
+      "percentile": 31.960683840313038,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m30897",
+      "name": "Cydnee Lystad",
+      "rating": 1457.38,
+      "rd": 29.01,
+      "ratingClass": "C",
+      "homeLocation": "LITT Pinball Bar",
+      "homeLocationId": "8625",
+      "percentile": 29.883076349746123,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m40074",
+      "name": "Alyssa Tourdot",
+      "rating": 1455.63,
+      "rd": 20.15,
+      "ratingClass": "C",
+      "homeLocation": "LITT Pinball Bar",
+      "homeLocationId": "8625",
+      "percentile": 29.300787254856292,
+      "changeDisplay": "+3.1",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m45604",
+      "name": "Jari Corbo",
+      "rating": 1452.38,
+      "rd": 22.99,
+      "ratingClass": "C",
+      "homeLocation": "LITT Pinball Bar",
+      "homeLocationId": "8625",
+      "percentile": 28.06633437368985,
+      "changeDisplay": "+3.5",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m48626",
+      "name": "David Potter MN",
+      "rating": 1442.83,
+      "rd": 52.79,
+      "ratingClass": "C",
+      "homeLocation": "Flahertys Arden Bowl",
+      "homeLocationId": "12344",
+      "percentile": 24.665766059533237,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m20544",
+      "name": "Dana Platt-Nelson",
+      "rating": 1434.23,
+      "rd": 21.13,
+      "ratingClass": "C",
+      "homeLocation": "LITT Pinball Bar",
+      "homeLocationId": "8625",
+      "percentile": 21.884753342339405,
+      "changeDisplay": "-8.5",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "i130003",
+      "name": "Naomi Montesa",
+      "rating": 1434.12,
+      "rd": 43.15,
+      "ratingClass": "C",
+      "homeLocation": "LITT Pinball Bar",
+      "homeLocationId": "8625",
+      "percentile": 21.82885358922998,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m61144",
+      "name": "Michelle Wright",
+      "rating": 1427,
+      "rd": 45.34,
+      "ratingClass": "C",
+      "homeLocation": "Flahertys Arden Bowl",
+      "homeLocationId": "12344",
+      "percentile": 19.69534634555364,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m40974",
+      "name": "Camryn Schake",
+      "rating": 1408.35,
+      "rd": 32.45,
+      "ratingClass": "C",
+      "homeLocation": "LITT Pinball Bar",
+      "homeLocationId": "8625",
+      "percentile": 14.627102063632552,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m31560",
+      "name": "Tiffany Noll",
+      "rating": 1400.75,
+      "rd": 19.45,
+      "ratingClass": "C",
+      "homeLocation": "LITT Pinball Bar",
+      "homeLocationId": "8625",
+      "percentile": 12.665952392043604,
+      "changeDisplay": "-10.8",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m55545",
+      "name": "Krissy Rootes",
+      "rating": 1397.38,
+      "rd": 45.64,
+      "ratingClass": "D",
+      "homeLocation": "LITT Pinball Bar",
+      "homeLocationId": "8625",
+      "percentile": 11.832114408161363,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m60126",
+      "name": "Carlee Wehrman",
+      "rating": 1365.67,
+      "rd": 49.63,
+      "ratingClass": "D",
+      "homeLocation": "Flahertys Arden Bowl",
+      "homeLocationId": "12344",
+      "percentile": 6.1536311547957325,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

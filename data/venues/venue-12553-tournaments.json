@@ -1,0 +1,40 @@
+{
+  "locationId": "12553",
+  "venueName": "Gateway City Brewery",
+  "venueAddress": "490 Gormanville Road, North Bay, ON P1B 9S7, CA",
+  "tournaments": [
+    {
+      "id": 264954,
+      "name": "GCB Monthly Match Play - Aug 2026",
+      "date": "8/3/2026",
+      "playerCount": 9,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m44377",
+          "name": "Ian Johnson",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m46816",
+          "name": "Tommy Gagne",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "i97407",
+          "name": "Colton Chalkley",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "p557665",
+          "name": "Mike Watson",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

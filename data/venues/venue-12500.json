@@ -1,0 +1,143 @@
+{
+  "locationId": "12500",
+  "name": "Pour Bros. Craft Taproom",
+  "address": "236 E Front St, Bloomington, IL 61701, US",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 6,
+  "relatedVenues": [
+    {
+      "locationId": "12479",
+      "name": "PRPHQ",
+      "address": "Bloomington, IL",
+      "count": 68
+    },
+    {
+      "locationId": "13342",
+      "name": "8 Bit Arcade Bar",
+      "address": "217 W Jefferson St, Bloomington, IL 61701, US",
+      "count": 13
+    },
+    {
+      "locationId": "12612",
+      "name": "Pour Bros Bloomington",
+      "address": "",
+      "count": 10
+    },
+    {
+      "locationId": "13434",
+      "name": "Pinball Haven Workshop",
+      "address": "2914 court st. Pekin, IL",
+      "count": 7
+    },
+    {
+      "locationId": "8431",
+      "name": "Triptych Brewing",
+      "address": "1703 Woodfield Dr, Savoy, IL 61874, US",
+      "count": 5
+    },
+    {
+      "locationId": "8541",
+      "name": "Atomic Pinball",
+      "address": "102 N Whitelaw Ave, Wood River, IL 62095, US",
+      "count": 3
+    },
+    {
+      "locationId": "10370",
+      "name": "Cory's House",
+      "address": "3386 W Lake Storey Rd Galesburg, IL 61401",
+      "count": 2
+    },
+    {
+      "locationId": "11533",
+      "name": "Bradley Billiards Club",
+      "address": "359 S Kinzie Ave, Bradley, IL 60915, US",
+      "count": 2
+    },
+    {
+      "locationId": "13227",
+      "name": "Dumb Records",
+      "address": "418 East Monroe St, Springfield, IL 62701, US",
+      "count": 2
+    },
+    {
+      "locationId": "7392",
+      "name": "Full Tilt Arcade & Pinball",
+      "address": "701 N Fail Rd, La Porte, IN 46350, US",
+      "count": 1
+    }
+  ],
+  "players": [
+    {
+      "id": "m53515",
+      "name": "Matt Richards IL",
+      "rating": 1591.87,
+      "rd": 25.33,
+      "ratingClass": "B",
+      "homeLocation": "Pour Bros. Craft Taproom",
+      "homeLocationId": "12500",
+      "percentile": 79.9925466995854,
+      "changeDisplay": "-13.0",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m45602",
+      "name": "Scott Loser",
+      "rating": 1549,
+      "rd": 18.19,
+      "ratingClass": "B",
+      "homeLocation": "PRPHQ",
+      "homeLocationId": "12479",
+      "percentile": 66.30176550053571,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m55475",
+      "name": "Kayla Fallen",
+      "rating": 1495.05,
+      "rd": 19.64,
+      "ratingClass": "C",
+      "homeLocation": "PRPHQ",
+      "homeLocationId": "12479",
+      "percentile": 45.13439232310058,
+      "changeDisplay": "+1.8",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m44385",
+      "name": "Kat Davis",
+      "rating": 1493.85,
+      "rd": 15.96,
+      "ratingClass": "C",
+      "homeLocation": "PRPHQ",
+      "homeLocationId": "12479",
+      "percentile": 44.68253598546607,
+      "changeDisplay": "-6.2",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m54680",
+      "name": "Sarah Scott",
+      "rating": 1416.49,
+      "rd": 20.98,
+      "ratingClass": "C",
+      "homeLocation": "PRPHQ",
+      "homeLocationId": "12479",
+      "percentile": 16.695392928681233,
+      "changeDisplay": "+15.6",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "i155251",
+      "name": "Jakai Martin",
+      "rating": 1348.99,
+      "rd": 28.94,
+      "ratingClass": "D",
+      "homeLocation": "Pour Bros. Craft Taproom",
+      "homeLocationId": "12500",
+      "percentile": 4.141240042856477,
+      "changeDisplay": "-3.1",
+      "changeClass": "change-negative"
+    }
+  ]
+}

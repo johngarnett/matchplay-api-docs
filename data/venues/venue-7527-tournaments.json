@@ -1,0 +1,44 @@
+{
+  "locationId": "7527",
+  "venueName": "Sting Rays Bar And Grill",
+  "venueAddress": "3112 East State Road 60, Valrico, FL 33594, US",
+  "tournaments": [
+    {
+      "id": 263203,
+      "name": "Finals for Stingray's Stern Army July Match Play",
+      "date": "7/21/2026",
+      "playerCount": 4,
+      "qualifying": {
+        "id": 263159,
+        "name": "Stingray's Stern Army July Match Play",
+        "playerCount": 18
+      },
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m1540",
+          "name": "Rob Endo",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m24211",
+          "name": "Adam Gray",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m30255",
+          "name": "Matt Odechuck",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m46942",
+          "name": "Cleveland Harper",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

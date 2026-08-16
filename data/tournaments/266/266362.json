@@ -1,0 +1,95 @@
+{
+  "tournamentId": 266362,
+  "name": "Just Another Another Castle Tournament",
+  "date": "2026-08-10",
+  "locationId": "8302",
+  "locationName": "Another Castle Arcade Edition -Edmonds",
+  "playerCount": 12,
+  "ratingsDate": "2026-08-10",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m38834",
+      "name": "Brian Reinhard",
+      "rating": 1661.01,
+      "dailyRatingChange": 3.11
+    },
+    {
+      "position": 2,
+      "playerId": "m748",
+      "name": "Aaron Garberding",
+      "rating": 1621.53,
+      "dailyRatingChange": 7.34
+    },
+    {
+      "position": 3,
+      "playerId": "m47138",
+      "name": "Chris Ripley",
+      "rating": 1619.35,
+      "dailyRatingChange": -1.03
+    },
+    {
+      "position": 3,
+      "playerId": "m45593",
+      "name": "Mae Collin",
+      "rating": 1487.8,
+      "dailyRatingChange": 1.34
+    },
+    {
+      "position": 5,
+      "playerId": "m3045",
+      "name": "Timm Shere",
+      "rating": 1549.88,
+      "dailyRatingChange": 0.19
+    },
+    {
+      "position": 5,
+      "playerId": "m33281",
+      "name": "Daniel Anthony",
+      "rating": 1529.98,
+      "dailyRatingChange": 0.58
+    },
+    {
+      "position": 5,
+      "playerId": "m19401",
+      "name": "Mandy Woodard",
+      "rating": 1481.13,
+      "dailyRatingChange": -0.89
+    },
+    {
+      "position": 8,
+      "playerId": "m40382",
+      "name": "Bryan Hernandez",
+      "rating": 1465.7,
+      "dailyRatingChange": 0.68
+    },
+    {
+      "position": 8,
+      "playerId": "m33379",
+      "name": "Erik Rikansrud",
+      "rating": 1576.25,
+      "dailyRatingChange": -2.69
+    },
+    {
+      "position": 10,
+      "playerId": "m4253",
+      "name": "Sandy Magallanes",
+      "rating": 1472.37,
+      "dailyRatingChange": -3.95
+    },
+    {
+      "position": 11,
+      "playerId": "m49411",
+      "name": "JD Hill",
+      "rating": 1409.08,
+      "dailyRatingChange": -11.63
+    },
+    {
+      "position": 11,
+      "playerId": "m49412",
+      "name": "Nate Tompkins",
+      "rating": 1510.85,
+      "dailyRatingChange": -6.6
+    }
+  ]
+}

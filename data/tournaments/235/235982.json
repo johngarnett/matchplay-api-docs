@@ -1,0 +1,67 @@
+{
+  "tournamentId": 235982,
+  "name": "Fair Strikes Pinball at The Escape Gamebar - Brookhaven, GA",
+  "date": "2026-07-25",
+  "locationId": "10192",
+  "locationName": "The Escape Gamebar",
+  "playerCount": 8,
+  "ratingsDate": "2026-07-25",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m2819",
+      "name": "Angela Pecora",
+      "rating": 1540.23,
+      "dailyRatingChange": 9.29
+    },
+    {
+      "position": 2,
+      "playerId": "m25698",
+      "name": "Andy Kastelik",
+      "rating": 1583.64,
+      "dailyRatingChange": -3.88
+    },
+    {
+      "position": 2,
+      "playerId": "m47812",
+      "name": "Sarah Warlick",
+      "rating": 1543.67,
+      "dailyRatingChange": 0.89
+    },
+    {
+      "position": 4,
+      "playerId": "m54701",
+      "name": "Jason Dela Cruz",
+      "rating": 1560.08,
+      "dailyRatingChange": -3.18
+    },
+    {
+      "position": 5,
+      "playerId": "m34341",
+      "name": "Curtis Allen",
+      "rating": 1580.18,
+      "dailyRatingChange": -4.7
+    },
+    {
+      "position": 5,
+      "playerId": "m5834",
+      "name": "Pants Haidar",
+      "rating": 1485.95,
+      "dailyRatingChange": 0.48
+    },
+    {
+      "position": 7,
+      "playerId": "m56245",
+      "name": "Joe Minichowski",
+      "rating": 1510.26,
+      "dailyRatingChange": -1.49
+    },
+    {
+      "position": 8,
+      "playerId": "m3301",
+      "name": "Tina Park",
+      "rating": 1425.77,
+      "dailyRatingChange": -1.48
+    }
+  ]
+}

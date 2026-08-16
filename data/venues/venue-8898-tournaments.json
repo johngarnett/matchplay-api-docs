@@ -1,0 +1,316 @@
+{
+  "locationId": "8898",
+  "venueName": "Shorty's",
+  "venueAddress": "2222 2nd Avenue, Seattle, WA 98121, US",
+  "tournaments": [
+    {
+      "id": 266885,
+      "name": "Finals for Shorty’s Clown Town Throw Down #32",
+      "date": "8/12/2026",
+      "playerCount": 4,
+      "qualifying": {
+        "id": 266845,
+        "name": "Shorty’s Clown Town Throw Down #32",
+        "playerCount": 11
+      },
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m12491",
+          "name": "Alex Skinner",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m38356",
+          "name": "Andrew Meuser",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m33341",
+          "name": "Dina Robinson",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m31718",
+          "name": "Madison Masterson",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 266372,
+      "name": "Let’s Go To Shorty’s 72",
+      "date": "8/9/2026",
+      "playerCount": 11,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m45918",
+          "name": "Dakota Green",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m1506",
+          "name": "Neil Kubath",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m18704",
+          "name": "Steve Geluso",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m7059",
+          "name": "Dwayne Collins",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 265400,
+      "name": "Monday High Rollers™️ 8",
+      "date": "8/3/2026",
+      "playerCount": 10,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m1506",
+          "name": "Neil Kubath",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m12045",
+          "name": "Matt Slater",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m31718",
+          "name": "Madison Masterson",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m17433",
+          "name": "Graham Klym",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 264564,
+      "name": "Finals for Shorty’s Clown Town Throw Down #30",
+      "date": "7/29/2026",
+      "playerCount": 4,
+      "qualifying": {
+        "id": 264530,
+        "name": "Shorty’s Clown Town Throw Down #30",
+        "playerCount": 22
+      },
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m21668",
+          "name": "Gus Voss",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m12491",
+          "name": "Alex Skinner",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m17433",
+          "name": "Graham Klym",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m20236",
+          "name": "Zachary Peeples",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 264213,
+      "name": "Monday High Rollers™️ Seven",
+      "date": "7/27/2026",
+      "playerCount": 7,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m21668",
+          "name": "Gus Voss",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m7059",
+          "name": "Dwayne Collins",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m25930",
+          "name": "Luke Camarda",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m30880",
+          "name": "Andy Bernard",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 264070,
+      "name": "Let's go to Shorty's 70",
+      "date": "7/26/2026",
+      "playerCount": 10,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m1506",
+          "name": "Neil Kubath",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "i158554",
+          "name": "Kim Smirke",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m31718",
+          "name": "Madison Masterson",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m20230",
+          "name": "Ryan Tamm",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 263384,
+      "name": "Finals for Shorty’s Clown Town Throw Down #29",
+      "date": "7/22/2026",
+      "playerCount": 4,
+      "qualifying": {
+        "id": 263345,
+        "name": "Shorty’s Clown Town Throw Down #29",
+        "playerCount": 17
+      },
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m31718",
+          "name": "Madison Masterson",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m38356",
+          "name": "Andrew Meuser",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m46997",
+          "name": "Mark McMahon",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m3217",
+          "name": "Brian Chesbrough",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 263043,
+      "name": "Monday High Rollers™️ Six",
+      "date": "7/20/2026",
+      "playerCount": 4,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m21668",
+          "name": "Gus Voss",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m31718",
+          "name": "Madison Masterson",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m7059",
+          "name": "Dwayne Collins",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m53044",
+          "name": "Jordon Jahns-Budke",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 262931,
+      "name": "Let’s Go To Shorty’s 69",
+      "date": "7/19/2026",
+      "playerCount": 10,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m12491",
+          "name": "Alex Skinner",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m7059",
+          "name": "Dwayne Collins",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m19059",
+          "name": "Marisa McClintock",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m12045",
+          "name": "Matt Slater",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

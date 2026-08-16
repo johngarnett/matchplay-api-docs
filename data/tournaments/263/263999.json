@@ -1,0 +1,109 @@
+{
+  "tournamentId": 263999,
+  "name": "Belles Christmas in July @ Barcade",
+  "date": "2026-07-26",
+  "locationId": "10376",
+  "locationName": "Barcade Detroit",
+  "playerCount": 14,
+  "ratingsDate": "2026-07-26",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m33775",
+      "name": "Abigail Rose",
+      "rating": 1500.08,
+      "dailyRatingChange": 24.8
+    },
+    {
+      "position": 2,
+      "playerId": "m25658",
+      "name": "Jenica",
+      "rating": 1430.64,
+      "dailyRatingChange": 16.18
+    },
+    {
+      "position": 3,
+      "playerId": "m38710",
+      "name": "Kelley sheahan",
+      "rating": 1485.78,
+      "dailyRatingChange": 8.6
+    },
+    {
+      "position": 3,
+      "playerId": "m42398",
+      "name": "Holly Helterhoff",
+      "rating": 1509.68,
+      "dailyRatingChange": 5.32
+    },
+    {
+      "position": 5,
+      "playerId": "m32140",
+      "name": "Meredith Walton",
+      "rating": 1639.78,
+      "dailyRatingChange": -11.28
+    },
+    {
+      "position": 6,
+      "playerId": "m62034",
+      "name": "Elke Noor-Brooks",
+      "rating": 1460.41,
+      "dailyRatingChange": null
+    },
+    {
+      "position": 6,
+      "playerId": "m52661",
+      "name": "Kim Clapsaddle",
+      "rating": 1432.97,
+      "dailyRatingChange": 21.54
+    },
+    {
+      "position": 8,
+      "playerId": "m414048",
+      "name": "dyanna cogswell",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 9,
+      "playerId": "i72239",
+      "name": "Cassandra Madek",
+      "rating": 1486.32,
+      "dailyRatingChange": -21.4
+    },
+    {
+      "position": 10,
+      "playerId": "m12488",
+      "name": "Courtney McGee",
+      "rating": 1447.18,
+      "dailyRatingChange": -5.07
+    },
+    {
+      "position": 11,
+      "playerId": "m41817",
+      "name": "Evie Rose",
+      "rating": 1449.39,
+      "dailyRatingChange": -11.68
+    },
+    {
+      "position": 12,
+      "playerId": "m582225",
+      "name": "Lillian Encalado",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 13,
+      "playerId": "m42845",
+      "name": "Kim Depuydt",
+      "rating": 1407.75,
+      "dailyRatingChange": -25.19
+    },
+    {
+      "position": 14,
+      "playerId": "m540550",
+      "name": "Anna Ryan",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

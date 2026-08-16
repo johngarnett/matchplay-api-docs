@@ -1,0 +1,361 @@
+{
+  "tournamentId": 260296,
+  "name": "Pre-CAX Beetlejuice Launch Party at The Flipper Room",
+  "date": "2026-08-02",
+  "locationId": "11251",
+  "locationName": "The Flipper Room",
+  "playerCount": 50,
+  "ratingsDate": "2026-08-02",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m27559",
+      "name": "Scott Burgess",
+      "rating": 1713.15,
+      "dailyRatingChange": 7.68
+    },
+    {
+      "position": 2,
+      "playerId": "m2936",
+      "name": "Tim Hansen",
+      "rating": 1786.15,
+      "dailyRatingChange": 9.58
+    },
+    {
+      "position": 3,
+      "playerId": "m13063",
+      "name": "Daniel Gonzalez CA",
+      "rating": 1704.1,
+      "dailyRatingChange": 6.07
+    },
+    {
+      "position": 4,
+      "playerId": "m29099",
+      "name": "Bobby Miller",
+      "rating": 1677.53,
+      "dailyRatingChange": 11.6
+    },
+    {
+      "position": 5,
+      "playerId": "m24476",
+      "name": "Amy Martin",
+      "rating": 1600.01,
+      "dailyRatingChange": 10.95
+    },
+    {
+      "position": 6,
+      "playerId": "m19546",
+      "name": "Brandon DuBois",
+      "rating": 1608.94,
+      "dailyRatingChange": 13.76
+    },
+    {
+      "position": 7,
+      "playerId": "m35400",
+      "name": "Adam Sims",
+      "rating": 1662.21,
+      "dailyRatingChange": 7.78
+    },
+    {
+      "position": 8,
+      "playerId": "m44126",
+      "name": "Zack Stephens",
+      "rating": 1657.36,
+      "dailyRatingChange": 8.43
+    },
+    {
+      "position": 9,
+      "playerId": "m1671",
+      "name": "Brian Alexander",
+      "rating": 1665.46,
+      "dailyRatingChange": 4.26
+    },
+    {
+      "position": 10,
+      "playerId": "m42700",
+      "name": "Ruben Green",
+      "rating": 1678.06,
+      "dailyRatingChange": 0.01
+    },
+    {
+      "position": 11,
+      "playerId": "m42701",
+      "name": "David A Green",
+      "rating": 1567.01,
+      "dailyRatingChange": 11.91
+    },
+    {
+      "position": 12,
+      "playerId": "m31935",
+      "name": "Joy Ang",
+      "rating": 1511.3,
+      "dailyRatingChange": 18.63
+    },
+    {
+      "position": 13,
+      "playerId": "m23397",
+      "name": "Dustin Goldbarg",
+      "rating": 1821.53,
+      "dailyRatingChange": -7.64
+    },
+    {
+      "position": 14,
+      "playerId": "m54841",
+      "name": "Sean Rader",
+      "rating": 1597.33,
+      "dailyRatingChange": 7.96
+    },
+    {
+      "position": 15,
+      "playerId": "m3449",
+      "name": "Josh Warren",
+      "rating": 1651.95,
+      "dailyRatingChange": -0.71
+    },
+    {
+      "position": 16,
+      "playerId": "m5975",
+      "name": "Mike Moretti",
+      "rating": 1673.58,
+      "dailyRatingChange": 2.29
+    },
+    {
+      "position": 17,
+      "playerId": "m25062",
+      "name": "Ryan Dunn",
+      "rating": 1697.21,
+      "dailyRatingChange": -3.17
+    },
+    {
+      "position": 18,
+      "playerId": "m7530",
+      "name": "Mathew Peterson",
+      "rating": 1706.38,
+      "dailyRatingChange": -4.32
+    },
+    {
+      "position": 19,
+      "playerId": "i109999",
+      "name": "Fox Fisher",
+      "rating": 1402.34,
+      "dailyRatingChange": 51.68
+    },
+    {
+      "position": 20,
+      "playerId": "m3546",
+      "name": "Shawna Scarrow",
+      "rating": 1616.62,
+      "dailyRatingChange": 12.2
+    },
+    {
+      "position": 21,
+      "playerId": "m55011",
+      "name": "Kevin Yang",
+      "rating": 1577.04,
+      "dailyRatingChange": 0.85
+    },
+    {
+      "position": 22,
+      "playerId": "m49746",
+      "name": "Goran Loncar",
+      "rating": 1604.23,
+      "dailyRatingChange": 2.02
+    },
+    {
+      "position": 23,
+      "playerId": "m11029",
+      "name": "Michael LaFrieda",
+      "rating": 1644.57,
+      "dailyRatingChange": -1.52
+    },
+    {
+      "position": 24,
+      "playerId": "m27409",
+      "name": "Rex Sparklin",
+      "rating": 1560.49,
+      "dailyRatingChange": 30.4
+    },
+    {
+      "position": 25,
+      "playerId": "m47712",
+      "name": "Mike Evans",
+      "rating": 1591.67,
+      "dailyRatingChange": -3.76
+    },
+    {
+      "position": 26,
+      "playerId": "m31936",
+      "name": "Bobby Lawson",
+      "rating": 1591.13,
+      "dailyRatingChange": 1.1
+    },
+    {
+      "position": 27,
+      "playerId": "m36437",
+      "name": "Jack Morgan",
+      "rating": 1716.78,
+      "dailyRatingChange": -12.68
+    },
+    {
+      "position": 28,
+      "playerId": "m44541",
+      "name": "Matt Caramella",
+      "rating": 1597.76,
+      "dailyRatingChange": -1.43
+    },
+    {
+      "position": 29,
+      "playerId": "i163070",
+      "name": "Greg McCleary",
+      "rating": 1472.03,
+      "dailyRatingChange": null
+    },
+    {
+      "position": 30,
+      "playerId": "m41488",
+      "name": "Elliot Taylor",
+      "rating": 1591.01,
+      "dailyRatingChange": -18.39
+    },
+    {
+      "position": 31,
+      "playerId": "m3197",
+      "name": "Tony Lavigna",
+      "rating": 1687.76,
+      "dailyRatingChange": -0.35
+    },
+    {
+      "position": 32,
+      "playerId": "m12601",
+      "name": "Michael Nardo",
+      "rating": 1591.48,
+      "dailyRatingChange": -0.12
+    },
+    {
+      "position": 33,
+      "playerId": "m14930",
+      "name": "Jonathan Gomez",
+      "rating": 1559.54,
+      "dailyRatingChange": -5
+    },
+    {
+      "position": 34,
+      "playerId": "m18050",
+      "name": "Scott Isaac",
+      "rating": 1577.82,
+      "dailyRatingChange": -12.97
+    },
+    {
+      "position": 35,
+      "playerId": "m8569",
+      "name": "Ben Chen",
+      "rating": 1601.55,
+      "dailyRatingChange": -5.44
+    },
+    {
+      "position": 36,
+      "playerId": "m29356",
+      "name": "Jackie Diorio",
+      "rating": 1505.91,
+      "dailyRatingChange": 4.78
+    },
+    {
+      "position": 37,
+      "playerId": "m20322",
+      "name": "Peach Ruiz",
+      "rating": 1578.89,
+      "dailyRatingChange": -2.39
+    },
+    {
+      "position": 38,
+      "playerId": "m12614",
+      "name": "Stacee LaFrieda",
+      "rating": 1419.38,
+      "dailyRatingChange": -0.03
+    },
+    {
+      "position": 38,
+      "playerId": "m17705",
+      "name": "Kwang Chong",
+      "rating": 1673.34,
+      "dailyRatingChange": -6.86
+    },
+    {
+      "position": 40,
+      "playerId": "m40179",
+      "name": "dean burns",
+      "rating": 1524.43,
+      "dailyRatingChange": -3.03
+    },
+    {
+      "position": 41,
+      "playerId": "m55818",
+      "name": "Nick Hawkins",
+      "rating": 1594.26,
+      "dailyRatingChange": -6.4
+    },
+    {
+      "position": 42,
+      "playerId": "m36443",
+      "name": "Jose Aguilar",
+      "rating": 1531.08,
+      "dailyRatingChange": -5.67
+    },
+    {
+      "position": 43,
+      "playerId": "m27439",
+      "name": "Mattie Culkin",
+      "rating": 1548.39,
+      "dailyRatingChange": -1.91
+    },
+    {
+      "position": 44,
+      "playerId": "m58263",
+      "name": "David Price CA",
+      "rating": 1488,
+      "dailyRatingChange": -14.29
+    },
+    {
+      "position": 45,
+      "playerId": "m27777",
+      "name": "AJ Santos",
+      "rating": 1560.52,
+      "dailyRatingChange": -4.62
+    },
+    {
+      "position": 46,
+      "playerId": "m30853",
+      "name": "Eric Murphy",
+      "rating": 1530.9,
+      "dailyRatingChange": -3.38
+    },
+    {
+      "position": 47,
+      "playerId": "m2175",
+      "name": "Tim Harrison",
+      "rating": 1465.8,
+      "dailyRatingChange": -18.3
+    },
+    {
+      "position": 48,
+      "playerId": "m964",
+      "name": "Aaron F. Taylor",
+      "rating": 1510.35,
+      "dailyRatingChange": -4.63
+    },
+    {
+      "position": 49,
+      "playerId": "m5632",
+      "name": "Tim Chevalier",
+      "rating": 1514.72,
+      "dailyRatingChange": -9.03
+    },
+    {
+      "position": 50,
+      "playerId": "i155366",
+      "name": "Jamie Caldwell",
+      "rating": 1461.69,
+      "dailyRatingChange": -16.35
+    }
+  ]
+}

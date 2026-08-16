@@ -1,0 +1,359 @@
+{
+  "locationId": "3488",
+  "name": "BumperNets ",
+  "address": "2000 Galleria Cir, Birmingham, AL 35244, USA",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 24,
+  "relatedVenues": [
+    {
+      "locationId": "6223",
+      "name": "Flip⚡️Side",
+      "address": "1349 Autumn Ave, Memphis, TN 38104, USA",
+      "count": 43
+    },
+    {
+      "locationId": "3687",
+      "name": "Rocket City Matchplay",
+      "address": "100 Cutter Ln, Meridianville, AL 35759, USA",
+      "count": 17
+    },
+    {
+      "locationId": "9921",
+      "name": "Renaissance Atlanta Waverly Hotel & Convention Center",
+      "address": "2450 Galleria Pkwy Atlanta, GA 30339",
+      "count": 13
+    },
+    {
+      "locationId": "10551",
+      "name": "Alex Huffman’s place",
+      "address": "",
+      "count": 12
+    },
+    {
+      "locationId": "6337",
+      "name": "Chris Harris @ Silver Lakes",
+      "address": "",
+      "count": 9
+    },
+    {
+      "locationId": "9021",
+      "name": "Game Over Arcade Bar",
+      "address": "1868 1st Commercial Dr, Southaven, MS 38671, US",
+      "count": 5
+    },
+    {
+      "locationId": "12135",
+      "name": "Leo's House",
+      "address": "",
+      "count": 4
+    },
+    {
+      "locationId": "12221",
+      "name": "Michael's Place",
+      "address": "",
+      "count": 4
+    },
+    {
+      "locationId": "12262",
+      "name": "Chris' house",
+      "address": "",
+      "count": 4
+    },
+    {
+      "locationId": "3374",
+      "name": "Portal Pinball Arcade",
+      "address": "3335 Cobb Pkwy Suite 800, Acworth, GA, 30101, US",
+      "count": 3
+    }
+  ],
+  "players": [
+    {
+      "id": "m316",
+      "name": "Chris Warren AL",
+      "rating": 1726.33,
+      "rd": 19.36,
+      "ratingClass": "Expert",
+      "homeLocation": "BumperNets ",
+      "homeLocationId": "3488",
+      "percentile": 97.98760888806073,
+      "changeDisplay": "+10.7",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m24861",
+      "name": "Jason Wilson AL",
+      "rating": 1633.65,
+      "rd": 22.39,
+      "ratingClass": "A",
+      "homeLocation": "BumperNets ",
+      "homeLocationId": "3488",
+      "percentile": 89.22998090091768,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m11558",
+      "name": "Alex Updike",
+      "rating": 1600.34,
+      "rd": 23.81,
+      "ratingClass": "A",
+      "homeLocation": "Rocket City Matchplay",
+      "homeLocationId": "3687",
+      "percentile": 82.06549587739322,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m781",
+      "name": "Jeff Street",
+      "rating": 1591.46,
+      "rd": 23.71,
+      "ratingClass": "B",
+      "homeLocation": "BumperNets ",
+      "homeLocationId": "3488",
+      "percentile": 79.8667722550892,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m26409",
+      "name": "Hank Patton",
+      "rating": 1586.9,
+      "rd": 23.08,
+      "ratingClass": "B",
+      "homeLocation": "Cool Dogs Sports Pub",
+      "homeLocationId": "9586",
+      "percentile": 78.57176130805422,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m16213",
+      "name": "Bill Scrivener",
+      "rating": 1584.79,
+      "rd": 26.45,
+      "ratingClass": "B",
+      "homeLocation": "BumperNets ",
+      "homeLocationId": "3488",
+      "percentile": 77.99413052592351,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m54858",
+      "name": "Johnnie Ellis",
+      "rating": 1579.25,
+      "rd": 26.45,
+      "ratingClass": "B",
+      "homeLocation": "BumperNets ",
+      "homeLocationId": "3488",
+      "percentile": 76.39632924954581,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m11554",
+      "name": "Todd Michard",
+      "rating": 1571.27,
+      "rd": 22.43,
+      "ratingClass": "B",
+      "homeLocation": "BumperNets ",
+      "homeLocationId": "3488",
+      "percentile": 73.93674011273117,
+      "changeDisplay": "+9.7",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m6192",
+      "name": "David Wurst",
+      "rating": 1568.88,
+      "rd": 23.79,
+      "ratingClass": "B",
+      "homeLocation": "BumperNets ",
+      "homeLocationId": "3488",
+      "percentile": 73.14948525644012,
+      "changeDisplay": "-8.7",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m36181",
+      "name": "Matt Zollner",
+      "rating": 1568.7,
+      "rd": 19.26,
+      "ratingClass": "B",
+      "homeLocation": "Rocket City Matchplay",
+      "homeLocationId": "3687",
+      "percentile": 73.0935855033307,
+      "changeDisplay": "+7.2",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m23362",
+      "name": "Eric McLendon",
+      "rating": 1568.63,
+      "rd": 23.72,
+      "ratingClass": "B",
+      "homeLocation": "Rock 'N Roll Pinball",
+      "homeLocationId": "5035",
+      "percentile": 73.07961056505333,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m5908",
+      "name": "Frank Williamson",
+      "rating": 1563.09,
+      "rd": 23.33,
+      "ratingClass": "B",
+      "homeLocation": "BumperNets ",
+      "homeLocationId": "3488",
+      "percentile": 71.33740159314297,
+      "changeDisplay": "-5.3",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m53206",
+      "name": "Jacob Prejean",
+      "rating": 1548.25,
+      "rd": 24.72,
+      "ratingClass": "B",
+      "homeLocation": "BumperNets ",
+      "homeLocationId": "3488",
+      "percentile": 66.08748311361626,
+      "changeDisplay": "-17.1",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m38408",
+      "name": "Blake Gaylor",
+      "rating": 1540.28,
+      "rd": 27.07,
+      "ratingClass": "B",
+      "homeLocation": "BumperNets ",
+      "homeLocationId": "3488",
+      "percentile": 63.227279079517395,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m54209",
+      "name": "Joseph Olejniczak",
+      "rating": 1538.06,
+      "rd": 20.42,
+      "ratingClass": "B",
+      "homeLocation": "Portal Pinball Arcade",
+      "homeLocationId": "3374",
+      "percentile": 62.29561652769367,
+      "changeDisplay": "-7.4",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m54964",
+      "name": "Brooke McLendon",
+      "rating": 1535.57,
+      "rd": 30.81,
+      "ratingClass": "B",
+      "homeLocation": "BumperNets ",
+      "homeLocationId": "3488",
+      "percentile": 61.23817953137374,
+      "changeDisplay": "-4.1",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m33578",
+      "name": "Alan Aycock",
+      "rating": 1519.09,
+      "rd": 28.89,
+      "ratingClass": "B",
+      "homeLocation": "Renaissance Atlanta Waverly Hotel & Convention Center",
+      "homeLocationId": "9921",
+      "percentile": 54.76312479619882,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m6796",
+      "name": "Fred Jennings",
+      "rating": 1508.27,
+      "rd": 18.68,
+      "ratingClass": "B",
+      "homeLocation": "Flip⚡️Side",
+      "homeLocationId": "6223",
+      "percentile": 50.561326687473795,
+      "changeDisplay": "-12.1",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m46221",
+      "name": "Dan Shook",
+      "rating": 1454.82,
+      "rd": 21.55,
+      "ratingClass": "C",
+      "homeLocation": "Flip⚡️Side",
+      "homeLocationId": "6223",
+      "percentile": 29.016630176550052,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m42713",
+      "name": "Shawn Oliver",
+      "rating": 1428.91,
+      "rd": 24.28,
+      "ratingClass": "C",
+      "homeLocation": "BumperNets ",
+      "homeLocationId": "3488",
+      "percentile": 20.268318814925234,
+      "changeDisplay": "+15.5",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m49596",
+      "name": "Justin Philpot",
+      "rating": 1409.65,
+      "rd": 30.81,
+      "ratingClass": "C",
+      "homeLocation": "BumperNets ",
+      "homeLocationId": "3488",
+      "percentile": 14.990450458843807,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m59773",
+      "name": "Susan Mollica",
+      "rating": 1397.4,
+      "rd": 27.67,
+      "ratingClass": "D",
+      "homeLocation": "BumperNets ",
+      "homeLocationId": "3488",
+      "percentile": 11.841431033679601,
+      "changeDisplay": "+3.1",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m56763",
+      "name": "JaBron Swann",
+      "rating": 1386.8,
+      "rd": 47.24,
+      "ratingClass": "D",
+      "homeLocation": "BumperNets ",
+      "homeLocationId": "3488",
+      "percentile": 9.652024036893838,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m56674",
+      "name": "Joshua Turner",
+      "rating": 1352.32,
+      "rd": 33.52,
+      "ratingClass": "D",
+      "homeLocation": "BumperNets ",
+      "homeLocationId": "3488",
+      "percentile": 4.541854940140682,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

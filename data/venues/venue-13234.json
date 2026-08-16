@@ -1,0 +1,89 @@
+{
+  "locationId": "13234",
+  "name": "Red Dawns Place",
+  "address": "20006 W 89th St Lenexa KS",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 4,
+  "relatedVenues": [
+    {
+      "locationId": "12035",
+      "name": "Reds Castle",
+      "address": "Lenexa Kansas",
+      "count": 4
+    },
+    {
+      "locationId": "9336",
+      "name": "Main Street Pinball",
+      "address": "518 North Main Street, Grain Valley, MO 64029, US",
+      "count": 3
+    },
+    {
+      "locationId": "9348",
+      "name": "Chartroose Caboose",
+      "address": "10636 Metcalf Ave, Overland Park, KS, 66212, US",
+      "count": 3
+    },
+    {
+      "locationId": "10044",
+      "name": "Knub's Pub",
+      "address": "5386 Roberts Street, Shawnee, KS 66226, US",
+      "count": 3
+    },
+    {
+      "locationId": "13255",
+      "name": "Chartroose Caboose",
+      "address": "12976 W 87th St Pkwy, Lenexa, KS 66215, US",
+      "count": 2
+    }
+  ],
+  "players": [
+    {
+      "id": "m43805",
+      "name": "Fred Gruhn",
+      "rating": 1515.16,
+      "rd": 24.24,
+      "ratingClass": "B",
+      "homeLocation": "Chartroose Caboose",
+      "homeLocationId": "9348",
+      "percentile": 53.263148087762616,
+      "changeDisplay": "-0.5",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m51204",
+      "name": "Chad Salisbury",
+      "rating": 1514.52,
+      "rd": 36.17,
+      "ratingClass": "B",
+      "homeLocation": "Knub's Pub",
+      "homeLocationId": "10044",
+      "percentile": 52.969674383938134,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m42046",
+      "name": "Scott Avery",
+      "rating": 1509.53,
+      "rd": 31.15,
+      "ratingClass": "B",
+      "homeLocation": "Main Street Pinball",
+      "homeLocationId": "9336",
+      "percentile": 51.04579121442213,
+      "changeDisplay": "+0.6",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "i135358",
+      "name": "Chad Hornbaker",
+      "rating": 1476.02,
+      "rd": 31.7,
+      "ratingClass": "C",
+      "homeLocation": "Knub's Pub",
+      "homeLocationId": "10044",
+      "percentile": 37.26184376019006,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

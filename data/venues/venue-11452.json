@@ -1,0 +1,443 @@
+{
+  "locationId": "11452",
+  "name": "XGolf Chester Springs",
+  "address": "12 Pottstown Pike, Chester Springs, PA 19425",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 31,
+  "relatedVenues": [
+    {
+      "locationId": "1142",
+      "name": "Pinball Gallery",
+      "address": "81 Lancaster Ave, Great Valley Center #20, Malvern, PA 19355, USA",
+      "count": 147
+    },
+    {
+      "locationId": "6971",
+      "name": "Railroad Street Bar and Grill",
+      "address": "36 Railroad Street, Linfield, PA 19468, US",
+      "count": 98
+    },
+    {
+      "locationId": "5785",
+      "name": "Delaware Pinball Collective",
+      "address": "1100 First State Blvd. Wilmington, DE 19804",
+      "count": 22
+    },
+    {
+      "locationId": "11249",
+      "name": "The Manor",
+      "address": "1329 Kings Highway, Pilesgrove, NJ 08098",
+      "count": 19
+    },
+    {
+      "locationId": "12858",
+      "name": "115 E. Glenside Avenue",
+      "address": "Glenside, PA 19038",
+      "count": 8
+    },
+    {
+      "locationId": "10241",
+      "name": "DPC Main",
+      "address": "",
+      "count": 7
+    },
+    {
+      "locationId": "1482",
+      "name": "Chad's House",
+      "address": "147 Paysan Ln, Magnolia, DE 19962, USA",
+      "count": 6
+    },
+    {
+      "locationId": "8271",
+      "name": "Rezzanine Esports",
+      "address": "1025 Washington Pike, Bridgeville, PA 15017, US",
+      "count": 5
+    },
+    {
+      "locationId": "12499",
+      "name": "DPC",
+      "address": "1100 first state blvd, wilmington DE",
+      "count": 5
+    },
+    {
+      "locationId": "11916",
+      "name": "Glenside Machine Shop",
+      "address": "115 E. Glenside Ave., Glenside PA 19038",
+      "count": 4
+    }
+  ],
+  "players": [
+    {
+      "id": "m18203",
+      "name": "Matt Strzelecki",
+      "rating": 1697.4,
+      "rd": 16.63,
+      "ratingClass": "A",
+      "homeLocation": "Pinball Gallery",
+      "homeLocationId": "1142",
+      "percentile": 96.44570736479248,
+      "changeDisplay": "-17.1",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m23142",
+      "name": "Austin Snyder",
+      "rating": 1693.55,
+      "rd": 29.4,
+      "ratingClass": "A",
+      "homeLocation": "Delaware Pinball Collective",
+      "homeLocationId": "5785",
+      "percentile": 96.17552522476359,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m36118",
+      "name": "Don Werth",
+      "rating": 1657.56,
+      "rd": 17.62,
+      "ratingClass": "A",
+      "homeLocation": "Pinball Gallery",
+      "homeLocationId": "1142",
+      "percentile": 92.74700703405226,
+      "changeDisplay": "+9.5",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m50092",
+      "name": "Kevin Bull",
+      "rating": 1645.86,
+      "rd": 20.8,
+      "ratingClass": "A",
+      "homeLocation": "Quarter Bandits Arcade",
+      "homeLocationId": "11389",
+      "percentile": 91.13523081939722,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m627",
+      "name": "Jay Robinson",
+      "rating": 1644.86,
+      "rd": 24.13,
+      "ratingClass": "A",
+      "homeLocation": "Railroad Street Bar and Grill",
+      "homeLocationId": "6971",
+      "percentile": 91.009456374901,
+      "changeDisplay": "+5.5",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m3162",
+      "name": "Brandon Service",
+      "rating": 1644.71,
+      "rd": 19.78,
+      "ratingClass": "A",
+      "homeLocation": "Railroad Street Bar and Grill",
+      "homeLocationId": "6971",
+      "percentile": 91.00013974938277,
+      "changeDisplay": "-1.0",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m26128",
+      "name": "Tony Makowski",
+      "rating": 1621.66,
+      "rd": 21.66,
+      "ratingClass": "A",
+      "homeLocation": "Pinball Gallery",
+      "homeLocationId": "1142",
+      "percentile": 86.98001583826338,
+      "changeDisplay": "-5.5",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m7361",
+      "name": "Rodney Comegys",
+      "rating": 1614.21,
+      "rd": 21.87,
+      "ratingClass": "A",
+      "homeLocation": "XGolf Chester Springs",
+      "homeLocationId": "11452",
+      "percentile": 85.39618950016305,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m48302",
+      "name": "Zac Martin",
+      "rating": 1612.89,
+      "rd": 17.98,
+      "ratingClass": "A",
+      "homeLocation": "Pinball Gallery",
+      "homeLocationId": "1142",
+      "percentile": 85.0374994177109,
+      "changeDisplay": "+12.9",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "i61059",
+      "name": "Keith Saroka",
+      "rating": 1608.26,
+      "rd": 19.45,
+      "ratingClass": "A",
+      "homeLocation": "Pinball Gallery",
+      "homeLocationId": "1142",
+      "percentile": 84.0406204872595,
+      "changeDisplay": "-4.7",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m58383",
+      "name": "Albert Zuba",
+      "rating": 1608.19,
+      "rd": 21.46,
+      "ratingClass": "A",
+      "homeLocation": "Railroad Street Bar and Grill",
+      "homeLocationId": "6971",
+      "percentile": 84.02664554898216,
+      "changeDisplay": "-3.8",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "i151340",
+      "name": "Elliott Eames",
+      "rating": 1580.86,
+      "rd": 29.12,
+      "ratingClass": "B",
+      "homeLocation": "XGolf Chester Springs",
+      "homeLocationId": "11452",
+      "percentile": 76.89942702753063,
+      "changeDisplay": "-4.2",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m12290",
+      "name": "Terri Morton",
+      "rating": 1571.96,
+      "rd": 20.28,
+      "ratingClass": "B",
+      "homeLocation": "Pinball Gallery",
+      "homeLocationId": "1142",
+      "percentile": 74.09046443378209,
+      "changeDisplay": "-8.3",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m45868",
+      "name": "Ben Lewis",
+      "rating": 1550.86,
+      "rd": 20.67,
+      "ratingClass": "B",
+      "homeLocation": "Railroad Street Bar and Grill",
+      "homeLocationId": "6971",
+      "percentile": 67.02846229095822,
+      "changeDisplay": "-4.6",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m4347",
+      "name": "Stephen Haberman",
+      "rating": 1550.25,
+      "rd": 25.73,
+      "ratingClass": "B",
+      "homeLocation": "Railroad Street Bar and Grill",
+      "homeLocationId": "6971",
+      "percentile": 66.79088834024316,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m9660",
+      "name": "Jamme Thomas",
+      "rating": 1547.65,
+      "rd": 18.76,
+      "ratingClass": "B",
+      "homeLocation": "Pinball Gallery",
+      "homeLocationId": "1142",
+      "percentile": 65.80798434806913,
+      "changeDisplay": "-0.5",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m60017",
+      "name": "Brendan Amicone",
+      "rating": 1536.47,
+      "rd": 28.85,
+      "ratingClass": "B",
+      "homeLocation": "XGolf Chester Springs",
+      "homeLocationId": "11452",
+      "percentile": 61.65742767969441,
+      "changeDisplay": "+4.2",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m4148",
+      "name": "Nicholas Wahal",
+      "rating": 1531.51,
+      "rd": 32.98,
+      "ratingClass": "B",
+      "homeLocation": "XGolf Chester Springs",
+      "homeLocationId": "11452",
+      "percentile": 59.62640331671868,
+      "changeDisplay": "-26.4",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m4154",
+      "name": "Chris Chow",
+      "rating": 1525.26,
+      "rd": 25.64,
+      "ratingClass": "B",
+      "homeLocation": "XGolf Chester Springs",
+      "homeLocationId": "11452",
+      "percentile": 57.20408068197699,
+      "changeDisplay": "-11.2",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m36974",
+      "name": "Guy Merrill",
+      "rating": 1485.61,
+      "rd": 18.33,
+      "ratingClass": "C",
+      "homeLocation": "Pinball Gallery",
+      "homeLocationId": "1142",
+      "percentile": 41.16550985233148,
+      "changeDisplay": "+6.9",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m52488",
+      "name": "Alex Mulfinger",
+      "rating": 1482.88,
+      "rd": 25.09,
+      "ratingClass": "C",
+      "homeLocation": "XGolf Chester Springs",
+      "homeLocationId": "11452",
+      "percentile": 40.07080635393861,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i144378",
+      "name": "Kevin Lindsay",
+      "rating": 1465.35,
+      "rd": 24.36,
+      "ratingClass": "C",
+      "homeLocation": "XGolf Chester Springs",
+      "homeLocationId": "11452",
+      "percentile": 32.98085433456002,
+      "changeDisplay": "-9.5",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "i136296",
+      "name": "Tom Fusco",
+      "rating": 1464.79,
+      "rd": 30.94,
+      "ratingClass": "C",
+      "homeLocation": "XGolf Chester Springs",
+      "homeLocationId": "11452",
+      "percentile": 32.74328038384497,
+      "changeDisplay": "-12.4",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m20451",
+      "name": "Kim Zink",
+      "rating": 1461.99,
+      "rd": 17.79,
+      "ratingClass": "C",
+      "homeLocation": "Delaware Pinball Collective",
+      "homeLocationId": "5785",
+      "percentile": 31.699818325802394,
+      "changeDisplay": "-11.9",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "i105945",
+      "name": "Cameron Miller",
+      "rating": 1453.04,
+      "rd": 34.56,
+      "ratingClass": "C",
+      "homeLocation": "XGolf Chester Springs",
+      "homeLocationId": "11452",
+      "percentile": 28.3039083244049,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m52965",
+      "name": "Cooper Martin",
+      "rating": 1451.98,
+      "rd": 20.1,
+      "ratingClass": "C",
+      "homeLocation": "Pinball Gallery",
+      "homeLocationId": "1142",
+      "percentile": 27.88931848884334,
+      "changeDisplay": "+1.9",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m50759",
+      "name": "Pam Pastorino",
+      "rating": 1444.75,
+      "rd": 20.55,
+      "ratingClass": "C",
+      "homeLocation": "Pinball Gallery",
+      "homeLocationId": "1142",
+      "percentile": 25.34587972236456,
+      "changeDisplay": "+17.4",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m48306",
+      "name": "Sarah Wosczyna",
+      "rating": 1443.86,
+      "rd": 20.07,
+      "ratingClass": "C",
+      "homeLocation": "XGolf Chester Springs",
+      "homeLocationId": "11452",
+      "percentile": 25.047747705780964,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i143593",
+      "name": "Michael Perre",
+      "rating": 1431.58,
+      "rd": 35.99,
+      "ratingClass": "C",
+      "homeLocation": "XGolf Chester Springs",
+      "homeLocationId": "11452",
+      "percentile": 21.03228210742069,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m60160",
+      "name": "Maddie Scalea",
+      "rating": 1334.29,
+      "rd": 28.03,
+      "ratingClass": "D",
+      "homeLocation": "Railroad Street Bar and Grill",
+      "homeLocationId": "6971",
+      "percentile": 2.757721153398239,
+      "changeDisplay": "+14.5",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "i160057",
+      "name": "Albert Zuba",
+      "rating": null,
+      "rd": null,
+      "ratingClass": "N/A",
+      "homeLocation": "XGolf Chester Springs",
+      "homeLocationId": "11452",
+      "percentile": null,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

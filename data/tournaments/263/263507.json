@@ -1,0 +1,32 @@
+{
+  "tournamentId": 263507,
+  "name": "Finals for Asheville Femmes & Thems Pinball Night",
+  "date": "2026-07-24",
+  "locationId": "13302",
+  "locationName": "Level 256 Classic Arcade Bar",
+  "playerCount": 3,
+  "ratingsDate": "2026-07-24",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m28725",
+      "name": "Adrian Ogletree",
+      "rating": 1501.44,
+      "dailyRatingChange": 13.53
+    },
+    {
+      "position": 2,
+      "playerId": "m35855",
+      "name": "Laura Varney",
+      "rating": 1581.22,
+      "dailyRatingChange": 0.78
+    },
+    {
+      "position": 3,
+      "playerId": "m55016",
+      "name": "Nora Collins",
+      "rating": 1391.17,
+      "dailyRatingChange": 10.53
+    }
+  ]
+}

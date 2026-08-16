@@ -1,0 +1,44 @@
+{
+  "locationId": "13102",
+  "venueName": "Pinball in the Mall",
+  "venueAddress": "2401 S Stemmons Fwy, Lewisville, TX 75067, US",
+  "tournaments": [
+    {
+      "id": 261225,
+      "name": "Finals for The Vista Ridge Mall Lewisville July 17, 2026 - 3 Strikes",
+      "date": "7/17/2026",
+      "playerCount": 4,
+      "qualifying": {
+        "id": 261181,
+        "name": "The Vista Ridge Mall Lewisville July 17, 2026 - Head-to-Head Match Play & Strikes",
+        "playerCount": 20
+      },
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m3005",
+          "name": "Jim Burrill",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m36789",
+          "name": "Michael Hew",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "p571900",
+          "name": "Curtiss Carroll",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "p579224",
+          "name": "Jason Duncan",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "tournamentId": 264073,
+  "name": "Philly Pinball Club: 2026 Summer Season #3",
+  "date": "2026-08-11",
+  "locationId": "9809",
+  "locationName": "Barcade",
+  "playerCount": 27,
+  "ratingsDate": "2026-08-11",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m6017",
+      "name": "Schu .",
+      "rating": 1729.4,
+      "dailyRatingChange": 9.49
+    },
+    {
+      "position": 2,
+      "playerId": "m29321",
+      "name": "Alistair Wright",
+      "rating": 1478.15,
+      "dailyRatingChange": 12.46
+    },
+    {
+      "position": 2,
+      "playerId": "m32503",
+      "name": "Lain Kaplan",
+      "rating": 1586.74,
+      "dailyRatingChange": 14.63
+    },
+    {
+      "position": 2,
+      "playerId": "m34321",
+      "name": "Erin Y",
+      "rating": 1722.54,
+      "dailyRatingChange": -0.12
+    },
+    {
+      "position": 5,
+      "playerId": "i144751",
+      "name": "Miles Roux",
+      "rating": 1363.33,
+      "dailyRatingChange": 26.16
+    },
+    {
+      "position": 5,
+      "playerId": "m555718",
+      "name": "Grant S",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 5,
+      "playerId": "m36765",
+      "name": "Jen Beals",
+      "rating": 1406.02,
+      "dailyRatingChange": 11.11
+    },
+    {
+      "position": 8,
+      "playerId": "i148403",
+      "name": "Tyler Kramer",
+      "rating": 1609.31,
+      "dailyRatingChange": 3.01
+    },
+    {
+      "position": 9,
+      "playerId": "m6530",
+      "name": "Rose Malinowski Weingartner",
+      "rating": 1521.37,
+      "dailyRatingChange": -6.73
+    },
+    {
+      "position": 9,
+      "playerId": "m26426",
+      "name": "Felix Sanchez",
+      "rating": 1572.2,
+      "dailyRatingChange": 5.42
+    },
+    {
+      "position": 9,
+      "playerId": "m559629",
+      "name": "Brandon A",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 9,
+      "playerId": "m525443",
+      "name": "Tyler Smith",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 13,
+      "playerId": "m27587",
+      "name": "Eric Menzel",
+      "rating": 1627.74,
+      "dailyRatingChange": -3
+    },
+    {
+      "position": 13,
+      "playerId": "m30410",
+      "name": "Patrick Mitchell",
+      "rating": 1426.39,
+      "dailyRatingChange": 7.79
+    },
+    {
+      "position": 13,
+      "playerId": "m27752",
+      "name": "Tori Gant",
+      "rating": 1462.76,
+      "dailyRatingChange": 9.09
+    },
+    {
+      "position": 13,
+      "playerId": "m37447",
+      "name": "Ed Downs",
+      "rating": 1534.68,
+      "dailyRatingChange": -3.34
+    },
+    {
+      "position": 17,
+      "playerId": "m61516",
+      "name": "Joe Martin",
+      "rating": 1428.85,
+      "dailyRatingChange": 4.81
+    },
+    {
+      "position": 17,
+      "playerId": "i106451",
+      "name": "Charles Trulear",
+      "rating": 1450.8,
+      "dailyRatingChange": -4.59
+    },
+    {
+      "position": 19,
+      "playerId": "m555717",
+      "name": "Ian Glowen",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 19,
+      "playerId": "m504190",
+      "name": "Jess Matthews",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 21,
+      "playerId": "m36766",
+      "name": "Erica Moser",
+      "rating": 1395.17,
+      "dailyRatingChange": 6.01
+    },
+    {
+      "position": 22,
+      "playerId": "m27753",
+      "name": "Rocco Shefski",
+      "rating": 1454.62,
+      "dailyRatingChange": -9.82
+    },
+    {
+      "position": 22,
+      "playerId": "m23814",
+      "name": "Becca Lipstein",
+      "rating": 1550.4,
+      "dailyRatingChange": -12.82
+    },
+    {
+      "position": 24,
+      "playerId": "m26425",
+      "name": "Erica Thomas",
+      "rating": 1479.39,
+      "dailyRatingChange": -7.49
+    },
+    {
+      "position": 25,
+      "playerId": "m586263",
+      "name": "Sam L",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 25,
+      "playerId": "i46365",
+      "name": "Caitlin Reed",
+      "rating": 1369.91,
+      "dailyRatingChange": -13.17
+    },
+    {
+      "position": 27,
+      "playerId": "m5147",
+      "name": "Brian Weingartner",
+      "rating": 1514.16,
+      "dailyRatingChange": -26.11
+    }
+  ]
+}

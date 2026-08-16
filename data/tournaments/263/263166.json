@@ -1,0 +1,207 @@
+{
+  "tournamentId": 263166,
+  "name": "Tuesday Forked July 21",
+  "date": "2026-07-22",
+  "locationId": "9226",
+  "locationName": "Forked River Brewing Company",
+  "playerCount": 28,
+  "ratingsDate": "2026-07-22",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m325018",
+      "name": "Alex Stager",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 2,
+      "playerId": "m4413",
+      "name": "Shaun Russell",
+      "rating": 1691.2,
+      "dailyRatingChange": 4.97
+    },
+    {
+      "position": 3,
+      "playerId": "m341",
+      "name": "Mike Dymus",
+      "rating": 1700.65,
+      "dailyRatingChange": 10.61
+    },
+    {
+      "position": 4,
+      "playerId": "m1100",
+      "name": "Mark Incitti",
+      "rating": 1644.77,
+      "dailyRatingChange": 13.52
+    },
+    {
+      "position": 5,
+      "playerId": "m10719",
+      "name": "Brad Hopkins",
+      "rating": 1578.68,
+      "dailyRatingChange": 5.36
+    },
+    {
+      "position": 6,
+      "playerId": "m13594",
+      "name": "Paul Dewar",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 7,
+      "playerId": "m38501",
+      "name": "Eric Hunter",
+      "rating": 1656.9,
+      "dailyRatingChange": -0.02
+    },
+    {
+      "position": 8,
+      "playerId": "m11000",
+      "name": "Julie Dorssers",
+      "rating": 1562.44,
+      "dailyRatingChange": 3.5
+    },
+    {
+      "position": 9,
+      "playerId": "m427881",
+      "name": "Brenden Fraser",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 9,
+      "playerId": "m37833",
+      "name": "Dan Spayer",
+      "rating": 1662.18,
+      "dailyRatingChange": -6.09
+    },
+    {
+      "position": 11,
+      "playerId": "m558026",
+      "name": "Steve Silva",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 12,
+      "playerId": "m548339",
+      "name": "Carrolleigh Cecile",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 13,
+      "playerId": "m130746",
+      "name": "Kevin Grasley",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 14,
+      "playerId": "m130747",
+      "name": "Dutch Grasley",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 15,
+      "playerId": "m487892",
+      "name": "Mark Farrow",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 16,
+      "playerId": "m392331",
+      "name": "Eric Boyle",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 17,
+      "playerId": "m580563",
+      "name": "Elton Schebesch",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 18,
+      "playerId": "m329064",
+      "name": "Brian Liebusch",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 19,
+      "playerId": "m34606",
+      "name": "John Charest",
+      "rating": 1555.29,
+      "dailyRatingChange": -7.21
+    },
+    {
+      "position": 20,
+      "playerId": "m48953",
+      "name": "Mark Arts",
+      "rating": 1489.81,
+      "dailyRatingChange": 1.77
+    },
+    {
+      "position": 21,
+      "playerId": "m21332",
+      "name": "Robert Vieira",
+      "rating": 1561.22,
+      "dailyRatingChange": -13.82
+    },
+    {
+      "position": 22,
+      "playerId": "m53551",
+      "name": "Dan Howard",
+      "rating": 1613.8,
+      "dailyRatingChange": -12.82
+    },
+    {
+      "position": 23,
+      "playerId": "m566260",
+      "name": "Trina Lewis",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 24,
+      "playerId": "m50169",
+      "name": "Robert MacDonell",
+      "rating": 1597.54,
+      "dailyRatingChange": -9.98
+    },
+    {
+      "position": 25,
+      "playerId": "m427882",
+      "name": "Norm Fraser",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 26,
+      "playerId": "i111061",
+      "name": "John Highfield",
+      "rating": 1368.47,
+      "dailyRatingChange": 2.39
+    },
+    {
+      "position": 27,
+      "playerId": "m580560",
+      "name": "Matt Dasilva",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 28,
+      "playerId": "i17564",
+      "name": "Jay Eaton",
+      "rating": 1424.96,
+      "dailyRatingChange": -9.55
+    }
+  ]
+}

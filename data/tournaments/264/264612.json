@@ -1,0 +1,123 @@
+{
+  "tournamentId": 264612,
+  "name": "The Dive Pinball League #2",
+  "date": "2026-07-31",
+  "locationId": "13172",
+  "locationName": "The Dive",
+  "playerCount": 16,
+  "ratingsDate": "2026-07-31",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m11806",
+      "name": "Chris Vaught",
+      "rating": 1544.72,
+      "dailyRatingChange": 9.48
+    },
+    {
+      "position": 1,
+      "playerId": "m20379",
+      "name": "Steve Rolsing",
+      "rating": 1713.2,
+      "dailyRatingChange": 2.66
+    },
+    {
+      "position": 3,
+      "playerId": "m25175",
+      "name": "Andrew Evers",
+      "rating": 1659.1,
+      "dailyRatingChange": 8.45
+    },
+    {
+      "position": 4,
+      "playerId": "m23781",
+      "name": "Richard Wilke",
+      "rating": 1689.73,
+      "dailyRatingChange": -2.29
+    },
+    {
+      "position": 5,
+      "playerId": "m3103",
+      "name": "Brian Bannon",
+      "rating": 1619.79,
+      "dailyRatingChange": 3.19
+    },
+    {
+      "position": 5,
+      "playerId": "m57568",
+      "name": "Crystal Berry",
+      "rating": 1422.4,
+      "dailyRatingChange": 14.93
+    },
+    {
+      "position": 7,
+      "playerId": "m17335",
+      "name": "Greg Duffner",
+      "rating": 1590.96,
+      "dailyRatingChange": -2.12
+    },
+    {
+      "position": 7,
+      "playerId": "m50190",
+      "name": "Connor Loftus",
+      "rating": 1535.31,
+      "dailyRatingChange": -0.26
+    },
+    {
+      "position": 7,
+      "playerId": "m59919",
+      "name": "Tim Hahn",
+      "rating": 1458.16,
+      "dailyRatingChange": 0.76
+    },
+    {
+      "position": 7,
+      "playerId": "i97172",
+      "name": "Eric Duffner",
+      "rating": 1602.13,
+      "dailyRatingChange": -1.56
+    },
+    {
+      "position": 11,
+      "playerId": "m59922",
+      "name": "Melanie Sloan",
+      "rating": 1293.32,
+      "dailyRatingChange": 9.74
+    },
+    {
+      "position": 11,
+      "playerId": "m33855",
+      "name": "Jeff Groh",
+      "rating": 1599.23,
+      "dailyRatingChange": -6.89
+    },
+    {
+      "position": 11,
+      "playerId": "i135461",
+      "name": "Justin Lopez",
+      "rating": 1547.83,
+      "dailyRatingChange": -4.61
+    },
+    {
+      "position": 11,
+      "playerId": "m46864",
+      "name": "Scott Tetmeyer",
+      "rating": 1418.55,
+      "dailyRatingChange": -4.2
+    },
+    {
+      "position": 11,
+      "playerId": "i157670",
+      "name": "Daniel Rootz",
+      "rating": 1431.2,
+      "dailyRatingChange": -5.05
+    },
+    {
+      "position": 16,
+      "playerId": "m50191",
+      "name": "Jeff Britton",
+      "rating": 1568.19,
+      "dailyRatingChange": -18.44
+    }
+  ]
+}

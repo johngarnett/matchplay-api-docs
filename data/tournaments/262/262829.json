@@ -1,0 +1,116 @@
+{
+  "tournamentId": 262829,
+  "name": "Glass City Pinball @Toledo Spirits Company: Underground Bar",
+  "date": "2026-08-02",
+  "locationId": "10672",
+  "locationName": "Toledo Spirits",
+  "playerCount": 15,
+  "ratingsDate": "2026-08-02",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m29652",
+      "name": "Josh Ludeker",
+      "rating": 1612.5,
+      "dailyRatingChange": 15.17
+    },
+    {
+      "position": 2,
+      "playerId": "i98054",
+      "name": "Allen Szczypkowski",
+      "rating": 1634.52,
+      "dailyRatingChange": 7.32
+    },
+    {
+      "position": 3,
+      "playerId": "m56133",
+      "name": "Laurie Ott",
+      "rating": 1502.38,
+      "dailyRatingChange": 1.05
+    },
+    {
+      "position": 4,
+      "playerId": "m42469",
+      "name": "Ed Ott",
+      "rating": 1607.22,
+      "dailyRatingChange": 0.8
+    },
+    {
+      "position": 5,
+      "playerId": "m539559",
+      "name": "Precious Pratt",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 6,
+      "playerId": "m29809",
+      "name": "Mike Pilarczyk",
+      "rating": 1528.85,
+      "dailyRatingChange": 5.28
+    },
+    {
+      "position": 7,
+      "playerId": "i148280",
+      "name": "Kevin Dietsch",
+      "rating": 1410.82,
+      "dailyRatingChange": 9.44
+    },
+    {
+      "position": 8,
+      "playerId": "m53585",
+      "name": "Sara Dietsch",
+      "rating": 1350.24,
+      "dailyRatingChange": -0.59
+    },
+    {
+      "position": 9,
+      "playerId": "m53174",
+      "name": "Casey Cox",
+      "rating": 1422.2,
+      "dailyRatingChange": 2.26
+    },
+    {
+      "position": 10,
+      "playerId": "m535013",
+      "name": "Chris Lewis",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 11,
+      "playerId": "i99298",
+      "name": "Michaela Mahoney",
+      "rating": 1377.54,
+      "dailyRatingChange": -7.22
+    },
+    {
+      "position": 12,
+      "playerId": "m19973",
+      "name": "Rob Presley",
+      "rating": 1520.11,
+      "dailyRatingChange": -29.4
+    },
+    {
+      "position": 13,
+      "playerId": "m512630",
+      "name": "Mike Krischak",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 14,
+      "playerId": "m53587",
+      "name": "Cecilia Tucker",
+      "rating": 1285.51,
+      "dailyRatingChange": -7.17
+    },
+    {
+      "position": 15,
+      "playerId": "m584095",
+      "name": "Michael Mahoney",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

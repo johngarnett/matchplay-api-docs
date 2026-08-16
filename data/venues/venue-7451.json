@@ -1,0 +1,227 @@
+{
+  "locationId": "7451",
+  "name": "Dave's",
+  "address": "",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 13,
+  "relatedVenues": [
+    {
+      "locationId": "9304",
+      "name": "Jeph's",
+      "address": "",
+      "count": 13
+    },
+    {
+      "locationId": "10450",
+      "name": "Elisha and JJs",
+      "address": "",
+      "count": 13
+    },
+    {
+      "locationId": "12382",
+      "name": "Clifford Brewing Company",
+      "address": "398 Nash Road North, Hamilton, ON L8H 7P5, CA",
+      "count": 9
+    },
+    {
+      "locationId": "10451",
+      "name": "Gregs",
+      "address": "",
+      "count": 8
+    },
+    {
+      "locationId": "9226",
+      "name": "Forked River Brewing Company",
+      "address": "45 Pacific Ct, London, ON N5V 3N4, CA",
+      "count": 3
+    },
+    {
+      "locationId": "6118",
+      "name": "Maple Pinball",
+      "address": "245 Matheson Boulevard East, Mississauga, ON L4Z 3K2, CA",
+      "count": 2
+    },
+    {
+      "locationId": "3616",
+      "name": "Nick's",
+      "address": "",
+      "count": 1
+    },
+    {
+      "locationId": "6085",
+      "name": "Maple Pinball",
+      "address": "",
+      "count": 1
+    },
+    {
+      "locationId": "11302",
+      "name": "Iceberg Arcade",
+      "address": "Sych Drywall, 8 Don Valley Parkway, Sunnyside, Manitoba",
+      "count": 1
+    },
+    {
+      "locationId": "11503",
+      "name": "PINFEST 2025",
+      "address": "Great Northern Exhibition - 2220 Fairgrounds Rd. Stayner, Ontario L0M 1S0",
+      "count": 1
+    }
+  ],
+  "players": [
+    {
+      "id": "m22440",
+      "name": "Peter Taplay",
+      "rating": 1604.43,
+      "rd": 27.6,
+      "ratingClass": "A",
+      "homeLocation": "Maple Pinball",
+      "homeLocationId": "6118",
+      "percentile": 83.02044999301253,
+      "changeDisplay": "-13.1",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m21332",
+      "name": "Robert Vieira",
+      "rating": 1561.22,
+      "rd": 28.67,
+      "ratingClass": "B",
+      "homeLocation": "Forked River Brewing Company",
+      "homeLocationId": "9226",
+      "percentile": 70.74113755997577,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m140",
+      "name": "Myles Cameron",
+      "rating": 1544.09,
+      "rd": 36.96,
+      "ratingClass": "B",
+      "homeLocation": "Nick's",
+      "homeLocationId": "3616",
+      "percentile": 64.61545628173475,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m34047",
+      "name": "Victor Sadauskas",
+      "rating": 1539.32,
+      "rd": 56.31,
+      "ratingClass": "B",
+      "homeLocation": "Dave's",
+      "homeLocationId": "7451",
+      "percentile": 62.873247309824386,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i65277",
+      "name": "Ryan McCabe",
+      "rating": 1532.47,
+      "rd": 75,
+      "ratingClass": "B",
+      "homeLocation": "Dave's",
+      "homeLocationId": "7451",
+      "percentile": 60.06428471607583,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m33919",
+      "name": "Jeph Stahl",
+      "rating": 1516.03,
+      "rd": 51.67,
+      "ratingClass": "B",
+      "homeLocation": "Dave's",
+      "homeLocationId": "7451",
+      "percentile": 53.63115479573298,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i115484",
+      "name": "Paul Schebesch",
+      "rating": 1479.09,
+      "rd": 50.6,
+      "ratingClass": "C",
+      "homeLocation": "Dave's",
+      "homeLocationId": "7451",
+      "percentile": 38.59877952205711,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m43162",
+      "name": "Mike Henstra",
+      "rating": 1478.22,
+      "rd": 37.53,
+      "ratingClass": "C",
+      "homeLocation": "Dave's",
+      "homeLocationId": "7451",
+      "percentile": 38.19350631201379,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m27298",
+      "name": "Greg MacKenzie",
+      "rating": 1476,
+      "rd": 57.98,
+      "ratingClass": "C",
+      "homeLocation": "Dave's",
+      "homeLocationId": "7451",
+      "percentile": 37.247868821912704,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i104419",
+      "name": "Melissa Minnich",
+      "rating": 1458.05,
+      "rd": 73.91,
+      "ratingClass": "C",
+      "homeLocation": "Dave's",
+      "homeLocationId": "7451",
+      "percentile": 30.176550053570594,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i145924",
+      "name": "Perry Perryson",
+      "rating": 1455.35,
+      "rd": 75,
+      "ratingClass": "C",
+      "homeLocation": "Dave's",
+      "homeLocationId": "7451",
+      "percentile": 29.212279312433036,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i70896",
+      "name": "John Rogler",
+      "rating": 1434.39,
+      "rd": 74,
+      "ratingClass": "C",
+      "homeLocation": "Dave's",
+      "homeLocationId": "7451",
+      "percentile": 21.945311408207946,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m44989",
+      "name": "Erynn Henderson",
+      "rating": 1419.88,
+      "rd": 46.35,
+      "ratingClass": "C",
+      "homeLocation": "Dave's",
+      "homeLocationId": "7451",
+      "percentile": 17.585130665672892,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

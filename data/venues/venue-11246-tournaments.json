@@ -1,0 +1,151 @@
+{
+  "locationId": "11246",
+  "venueName": "The Back Page",
+  "venueAddress": "199 Phibsborough Rd, Phibsborough, D07 A0X2, IE",
+  "tournaments": [
+    {
+      "id": 261322,
+      "name": "Dublin City Pinball League Season 1 #1",
+      "date": "8/9/2026",
+      "playerCount": 15,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m29875",
+          "name": "Brian O'Rourke",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m34029",
+          "name": "Adam Kenny",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m9817",
+          "name": "Alex Sperellis",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m13426",
+          "name": "Jack Waycik",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 265663,
+      "name": "Finals for Pinball Wednesdays at The Back Page",
+      "date": "8/5/2026",
+      "playerCount": 4,
+      "qualifying": {
+        "id": 248727,
+        "name": "Pinball Wednesdays at The Back Page",
+        "playerCount": 15
+      },
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m30115",
+          "name": "Graeme Burchael",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m9817",
+          "name": "Alex Sperellis",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m29502",
+          "name": "Donovan Delaney",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m42269",
+          "name": "George Rusu",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 263281,
+      "name": "Finals for Pinball Wednesdays at The Back Page",
+      "date": "7/22/2026",
+      "playerCount": 4,
+      "qualifying": {
+        "id": 248726,
+        "name": "Pinball Wednesdays at The Back Page",
+        "playerCount": 10
+      },
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m9817",
+          "name": "Alex Sperellis",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m29875",
+          "name": "Brian O'Rourke",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m51332",
+          "name": "Rachel Kenna",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m13426",
+          "name": "Jack Waycik",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 262696,
+      "name": "Finals for Pinbaile PinGolf",
+      "date": "7/18/2026",
+      "playerCount": 6,
+      "qualifying": {
+        "id": 248734,
+        "name": "Pinbaile PinGolf",
+        "playerCount": 15
+      },
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m26768",
+          "name": "Daniel O'Neill",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m29875",
+          "name": "Brian O'Rourke",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m9817",
+          "name": "Alex Sperellis",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m30115",
+          "name": "Graeme Burchael",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

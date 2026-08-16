@@ -1,0 +1,60 @@
+{
+  "tournamentId": 263477,
+  "name": "Transformers Party Le 2000",
+  "date": "2026-07-24",
+  "locationId": "10605",
+  "locationName": "Resto Pub Le 2000",
+  "playerCount": 7,
+  "ratingsDate": "2026-07-24",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m54443",
+      "name": "Jean-Philippe Champagne",
+      "rating": 1608.28,
+      "dailyRatingChange": 7.6
+    },
+    {
+      "position": 2,
+      "playerId": "m407989",
+      "name": "Judith Marcoux",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 3,
+      "playerId": "m50940",
+      "name": "Gilles Perryman",
+      "rating": 1469.46,
+      "dailyRatingChange": 0.52
+    },
+    {
+      "position": 3,
+      "playerId": "m58558",
+      "name": "Charles-Antoine Fournier",
+      "rating": 1417.1,
+      "dailyRatingChange": 6.55
+    },
+    {
+      "position": 5,
+      "playerId": "m53113",
+      "name": "patrick dionne",
+      "rating": 1466.62,
+      "dailyRatingChange": -1.46
+    },
+    {
+      "position": 6,
+      "playerId": "m581205",
+      "name": "Jean-Francois Poitras",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 7,
+      "playerId": "m43865",
+      "name": "Michael Harvey",
+      "rating": 1436.5,
+      "dailyRatingChange": -20.2
+    }
+  ]
+}

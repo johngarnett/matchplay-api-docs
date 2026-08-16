@@ -1,0 +1,123 @@
+{
+  "tournamentId": 266685,
+  "name": "Finals for Kristof's Silverball Transformers Pinball Party",
+  "date": "2026-08-12",
+  "locationId": "11295",
+  "locationName": "Kristof's Entertainment Center",
+  "playerCount": 16,
+  "ratingsDate": "2026-08-12",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m16391",
+      "name": "Jason Werdrick",
+      "rating": 1793.73,
+      "dailyRatingChange": 5.07
+    },
+    {
+      "position": 2,
+      "playerId": "m45971",
+      "name": "Nik Grosch",
+      "rating": 1669.61,
+      "dailyRatingChange": 9.54
+    },
+    {
+      "position": 3,
+      "playerId": "m45169",
+      "name": "Sean Brennan",
+      "rating": 1582.14,
+      "dailyRatingChange": 5.63
+    },
+    {
+      "position": 4,
+      "playerId": "m28462",
+      "name": "Dan Sweeney",
+      "rating": 1717.04,
+      "dailyRatingChange": 8.24
+    },
+    {
+      "position": 5,
+      "playerId": "m28154",
+      "name": "Ricky Bryant",
+      "rating": 1665.92,
+      "dailyRatingChange": 11.14
+    },
+    {
+      "position": 5,
+      "playerId": "m47341",
+      "name": "Michael Castiglia",
+      "rating": 1527.9,
+      "dailyRatingChange": 7.57
+    },
+    {
+      "position": 7,
+      "playerId": "m540267",
+      "name": "Justin Beales",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 7,
+      "playerId": "m39082",
+      "name": "Ron Malenke",
+      "rating": 1538.32,
+      "dailyRatingChange": 2.56
+    },
+    {
+      "position": 9,
+      "playerId": "m24353",
+      "name": "Ric Knopfhart",
+      "rating": 1640.43,
+      "dailyRatingChange": -5.62
+    },
+    {
+      "position": 9,
+      "playerId": "i143608",
+      "name": "Kevin Grosch",
+      "rating": 1408.13,
+      "dailyRatingChange": 11.14
+    },
+    {
+      "position": 9,
+      "playerId": "m523465",
+      "name": "Chris Hill",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 9,
+      "playerId": "m47344",
+      "name": "Kim Castiglia",
+      "rating": 1429.75,
+      "dailyRatingChange": 8.82
+    },
+    {
+      "position": 13,
+      "playerId": "m23648",
+      "name": "Nick Klein",
+      "rating": 1596.79,
+      "dailyRatingChange": 6.45
+    },
+    {
+      "position": 13,
+      "playerId": "m53151",
+      "name": "Grant Gembra",
+      "rating": 1603.67,
+      "dailyRatingChange": 5.28
+    },
+    {
+      "position": 13,
+      "playerId": "m49275",
+      "name": "Rob Kaufman",
+      "rating": 1498.77,
+      "dailyRatingChange": 17.2
+    },
+    {
+      "position": 13,
+      "playerId": "m61985",
+      "name": "Aaron Brean",
+      "rating": 1501.97,
+      "dailyRatingChange": -14.11
+    }
+  ]
+}

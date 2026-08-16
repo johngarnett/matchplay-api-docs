@@ -1,0 +1,40 @@
+{
+  "locationId": "2859",
+  "venueName": "Midlife Crisis Pinball Club",
+  "venueAddress": "",
+  "tournaments": [
+    {
+      "id": 265968,
+      "name": "Nyaralós",
+      "date": "8/7/2026",
+      "playerCount": 7,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m25937",
+          "name": "Zoltan Pataki",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "i43277",
+          "name": "Zsolt Csiszka",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m23285",
+          "name": "László Bugledits",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "p136840",
+          "name": "Oláh Bálint",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

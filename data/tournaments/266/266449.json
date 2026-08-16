@@ -1,0 +1,102 @@
+{
+  "tournamentId": 266449,
+  "name": "tcpinball.org @ The Coin Slot 2026-08-10",
+  "date": "2026-08-11",
+  "locationId": "7370",
+  "locationName": "The Coin Slot",
+  "playerCount": 13,
+  "ratingsDate": "2026-08-11",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m32231",
+      "name": "Johnny G",
+      "rating": 1645.87,
+      "dailyRatingChange": 3.2
+    },
+    {
+      "position": 2,
+      "playerId": "m44725",
+      "name": "Mike Alfaro",
+      "rating": 1597.66,
+      "dailyRatingChange": 6.03
+    },
+    {
+      "position": 3,
+      "playerId": "m10803",
+      "name": "Dingo Hilgard",
+      "rating": 1705.34,
+      "dailyRatingChange": 0.09
+    },
+    {
+      "position": 4,
+      "playerId": "m39327",
+      "name": "Jansen Tolle",
+      "rating": 1635.94,
+      "dailyRatingChange": 4.01
+    },
+    {
+      "position": 5,
+      "playerId": "m34231",
+      "name": "Joe Beyer",
+      "rating": 1453.66,
+      "dailyRatingChange": 6.3
+    },
+    {
+      "position": 6,
+      "playerId": "m31151",
+      "name": "Mickey Delucia",
+      "rating": 1612.23,
+      "dailyRatingChange": 7.38
+    },
+    {
+      "position": 7,
+      "playerId": "m49802",
+      "name": "Annie Dro",
+      "rating": 1628.45,
+      "dailyRatingChange": -3.69
+    },
+    {
+      "position": 8,
+      "playerId": "m13877",
+      "name": "Tracy Ward",
+      "rating": 1526.6,
+      "dailyRatingChange": -0.13
+    },
+    {
+      "position": 9,
+      "playerId": "m34066",
+      "name": "Beth Milligan",
+      "rating": 1507.39,
+      "dailyRatingChange": -1.05
+    },
+    {
+      "position": 10,
+      "playerId": "m13782",
+      "name": "Brion roper",
+      "rating": 1468.8,
+      "dailyRatingChange": -2.02
+    },
+    {
+      "position": 11,
+      "playerId": "m25014",
+      "name": "Ben Harris",
+      "rating": 1514.37,
+      "dailyRatingChange": -3.5
+    },
+    {
+      "position": 12,
+      "playerId": "m31152",
+      "name": "Danny Tewers",
+      "rating": 1541.33,
+      "dailyRatingChange": -8.57
+    },
+    {
+      "position": 13,
+      "playerId": "m60674",
+      "name": "John Anderson",
+      "rating": 1438.45,
+      "dailyRatingChange": -5.33
+    }
+  ]
+}

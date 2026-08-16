@@ -1,0 +1,102 @@
+{
+  "tournamentId": 246888,
+  "name": "FPPL - Season 20 - Arlington #8",
+  "date": "2026-07-24",
+  "locationId": "13259",
+  "locationName": "Tokyo Station",
+  "playerCount": 13,
+  "ratingsDate": "2026-07-24",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m29234",
+      "name": "Dagny Cosgrove",
+      "rating": 1508.2,
+      "dailyRatingChange": 18.39
+    },
+    {
+      "position": 2,
+      "playerId": "m47123",
+      "name": "Brett Leedy",
+      "rating": 1504.17,
+      "dailyRatingChange": 4.64
+    },
+    {
+      "position": 2,
+      "playerId": "m26400",
+      "name": "Daniel Martin",
+      "rating": 1628.95,
+      "dailyRatingChange": 0.6
+    },
+    {
+      "position": 2,
+      "playerId": "m25466",
+      "name": "John Richardson",
+      "rating": 1662.65,
+      "dailyRatingChange": 3.19
+    },
+    {
+      "position": 5,
+      "playerId": "m58410",
+      "name": "Landon Fearing",
+      "rating": 1568.76,
+      "dailyRatingChange": -1.52
+    },
+    {
+      "position": 6,
+      "playerId": "m26452",
+      "name": "Mike Perlick",
+      "rating": 1434.03,
+      "dailyRatingChange": 4.48
+    },
+    {
+      "position": 6,
+      "playerId": "m54147",
+      "name": "Ryan Perlick",
+      "rating": 1517.39,
+      "dailyRatingChange": 4.9
+    },
+    {
+      "position": 8,
+      "playerId": "m581241",
+      "name": "Laura Kern",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 9,
+      "playerId": "m24795",
+      "name": "Brian Perlick",
+      "rating": 1543.67,
+      "dailyRatingChange": -3.81
+    },
+    {
+      "position": 10,
+      "playerId": "m52637",
+      "name": "Greg Girkin",
+      "rating": 1501.72,
+      "dailyRatingChange": -3.5
+    },
+    {
+      "position": 10,
+      "playerId": "m61323",
+      "name": "Logan Fearing",
+      "rating": 1414.24,
+      "dailyRatingChange": -18.55
+    },
+    {
+      "position": 12,
+      "playerId": "m60589",
+      "name": "Abel Cardona",
+      "rating": 1514.2,
+      "dailyRatingChange": -7.27
+    },
+    {
+      "position": 13,
+      "playerId": "m60588",
+      "name": "Shawn Cavanaugh",
+      "rating": 1408.44,
+      "dailyRatingChange": -23.2
+    }
+  ]
+}

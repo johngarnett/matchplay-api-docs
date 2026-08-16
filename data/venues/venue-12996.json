@@ -1,0 +1,191 @@
+{
+  "locationId": "12996",
+  "name": "Habetz Pinball Party Pad",
+  "address": "939 Robinson Cutoff, Vinton, Louisiana",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 10,
+  "relatedVenues": [
+    {
+      "locationId": "12943",
+      "name": "SWLA Pinball Club House",
+      "address": "1807 Lake Street, Lake Charles, Louisiana, 70601",
+      "count": 86
+    },
+    {
+      "locationId": "13404",
+      "name": "Crying Eagle University",
+      "address": "1165 E McNeese St, Lake Charles, LA 70607",
+      "count": 8
+    },
+    {
+      "locationId": "11276",
+      "name": "Bayou Teche Brewing",
+      "address": "1002 Noth Lane, Arnaudville, LA 70512, US",
+      "count": 5
+    },
+    {
+      "locationId": "9605",
+      "name": "Hunter Household",
+      "address": "6110 E. Myrtle Bay Drive",
+      "count": 4
+    },
+    {
+      "locationId": "3790",
+      "name": "Cactus Jacks",
+      "address": "",
+      "count": 2
+    },
+    {
+      "locationId": "66",
+      "name": "Cactus Jack's",
+      "address": "",
+      "count": 1
+    },
+    {
+      "locationId": "7171",
+      "name": "Einstein's Pub",
+      "address": "873 South Mason Rd, Ste. 360, Katy, TX 77450, US",
+      "count": 1
+    },
+    {
+      "locationId": "7731",
+      "name": "The Game Preserve NASA",
+      "address": "20810 Gulf Freeway, Webster, TX 77598, US",
+      "count": 1
+    },
+    {
+      "locationId": "12079",
+      "name": "BR.cade",
+      "address": "2963 Government Street, Baton Rouge, LA 70806, US",
+      "count": 1
+    },
+    {
+      "locationId": "12837",
+      "name": "The Music Room",
+      "address": "Vinton, LA",
+      "count": 1
+    }
+  ],
+  "players": [
+    {
+      "id": "m2624",
+      "name": "Jody Aucoin",
+      "rating": 1654.18,
+      "rd": 28.18,
+      "ratingClass": "A",
+      "homeLocation": "SWLA Pinball Club House",
+      "homeLocationId": "12943",
+      "percentile": 92.29980900917688,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m11257",
+      "name": "Brian Fults",
+      "rating": 1644.9,
+      "rd": 20.94,
+      "ratingClass": "A",
+      "homeLocation": "SWLA Pinball Club House",
+      "homeLocationId": "12943",
+      "percentile": 91.02343131317838,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m2887",
+      "name": "Edwin Hunter",
+      "rating": 1637.68,
+      "rd": 31.21,
+      "ratingClass": "A",
+      "homeLocation": "SWLA Pinball Club House",
+      "homeLocationId": "12943",
+      "percentile": 89.95201937858108,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m11258",
+      "name": "Joshua Dupre",
+      "rating": 1606.62,
+      "rd": 32.62,
+      "ratingClass": "A",
+      "homeLocation": "SWLA Pinball Club House",
+      "homeLocationId": "12943",
+      "percentile": 83.59342246238413,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m55558",
+      "name": "Scott Habetz",
+      "rating": 1546.24,
+      "rd": 34.43,
+      "ratingClass": "B",
+      "homeLocation": "SWLA Pinball Club House",
+      "homeLocationId": "12943",
+      "percentile": 65.37010294871197,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m38303",
+      "name": "Andrew Davies",
+      "rating": 1513.67,
+      "rd": 37.09,
+      "ratingClass": "B",
+      "homeLocation": "SWLA Pinball Club House",
+      "homeLocationId": "12943",
+      "percentile": 52.63893417804071,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m58078",
+      "name": "Carrie Lafargue",
+      "rating": 1458.28,
+      "rd": 47.87,
+      "ratingClass": "C",
+      "homeLocation": "SWLA Pinball Club House",
+      "homeLocationId": "12943",
+      "percentile": 30.24642474495738,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m53224",
+      "name": "Jennifer Pugh",
+      "rating": 1451.92,
+      "rd": 41.65,
+      "ratingClass": "C",
+      "homeLocation": "SWLA Pinball Club House",
+      "homeLocationId": "12943",
+      "percentile": 27.880001863325106,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i49204",
+      "name": "Josh Aucoin",
+      "rating": 1416.97,
+      "rd": 75,
+      "ratingClass": "C",
+      "homeLocation": "Habetz Pinball Party Pad",
+      "homeLocationId": "12996",
+      "percentile": 16.87240881352774,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m11256",
+      "name": "Raynna Dupre",
+      "rating": 1334.13,
+      "rd": 63.65,
+      "ratingClass": "D",
+      "homeLocation": "Habetz Pinball Party Pad",
+      "homeLocationId": "12996",
+      "percentile": 2.7530628406391204,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

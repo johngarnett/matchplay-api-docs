@@ -1,0 +1,95 @@
+{
+  "tournamentId": 262819,
+  "name": "Flip⚡️Side Weekly 7/21/26 B Division",
+  "date": "2026-07-22",
+  "locationId": "6223",
+  "locationName": "Flip⚡️Side",
+  "playerCount": 12,
+  "ratingsDate": "2026-07-22",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "i140956",
+      "name": "Nick O",
+      "rating": 1490.45,
+      "dailyRatingChange": 0.08
+    },
+    {
+      "position": 2,
+      "playerId": "m2632",
+      "name": "Kevin Hale",
+      "rating": 1584.65,
+      "dailyRatingChange": 1.03
+    },
+    {
+      "position": 3,
+      "playerId": "m15525",
+      "name": "Trey Morton",
+      "rating": 1464.16,
+      "dailyRatingChange": 2.85
+    },
+    {
+      "position": 4,
+      "playerId": "m45626",
+      "name": "Torri Havelka",
+      "rating": 1499.46,
+      "dailyRatingChange": -4.14
+    },
+    {
+      "position": 5,
+      "playerId": "m28116",
+      "name": "Krista Waldee",
+      "rating": 1470.88,
+      "dailyRatingChange": 3.49
+    },
+    {
+      "position": 5,
+      "playerId": "i95864",
+      "name": "Rory Shrader",
+      "rating": 1402.2,
+      "dailyRatingChange": -14.63
+    },
+    {
+      "position": 7,
+      "playerId": "m47351",
+      "name": "Grahmy Boy",
+      "rating": 1436.39,
+      "dailyRatingChange": -9.36
+    },
+    {
+      "position": 7,
+      "playerId": "m26932",
+      "name": "Katherine Saba-Hale",
+      "rating": 1384.34,
+      "dailyRatingChange": 2.42
+    },
+    {
+      "position": 9,
+      "playerId": "m56978",
+      "name": "A",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 9,
+      "playerId": "m23655",
+      "name": "Eian Carmona",
+      "rating": 1594.73,
+      "dailyRatingChange": -3.77
+    },
+    {
+      "position": 11,
+      "playerId": "m56979",
+      "name": "B",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 11,
+      "playerId": "m56980",
+      "name": "C",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

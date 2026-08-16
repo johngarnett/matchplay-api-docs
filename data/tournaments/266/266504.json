@@ -1,0 +1,263 @@
+{
+  "tournamentId": 266504,
+  "name": "Crabtowne IFPA Strike Tournament - 081126",
+  "date": "2026-08-12",
+  "locationId": "2573",
+  "locationName": "Crabtowne",
+  "playerCount": 36,
+  "ratingsDate": "2026-08-12",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m3352",
+      "name": "Elliott Keith",
+      "rating": 1784.89,
+      "dailyRatingChange": 5.72
+    },
+    {
+      "position": 2,
+      "playerId": "m31841",
+      "name": "Casey Fowler",
+      "rating": 1759.49,
+      "dailyRatingChange": 0.91
+    },
+    {
+      "position": 3,
+      "playerId": "i85667",
+      "name": "Finn Garman",
+      "rating": 1649.41,
+      "dailyRatingChange": 5.23
+    },
+    {
+      "position": 3,
+      "playerId": "m2644",
+      "name": "Alex Jeffrey",
+      "rating": 1650.7,
+      "dailyRatingChange": 1.07
+    },
+    {
+      "position": 5,
+      "playerId": "m34146",
+      "name": "Mike Krauss",
+      "rating": 1493.55,
+      "dailyRatingChange": 13.6
+    },
+    {
+      "position": 5,
+      "playerId": "m2330",
+      "name": "Justin Bath",
+      "rating": 1741.56,
+      "dailyRatingChange": -1.35
+    },
+    {
+      "position": 7,
+      "playerId": "m39333",
+      "name": "Natalie Morningstar",
+      "rating": 1388.58,
+      "dailyRatingChange": 12.16
+    },
+    {
+      "position": 7,
+      "playerId": "m59127",
+      "name": "Dave Collins",
+      "rating": 1546.5,
+      "dailyRatingChange": 9.26
+    },
+    {
+      "position": 7,
+      "playerId": "m47567",
+      "name": "Jeff Helgeson",
+      "rating": 1563.14,
+      "dailyRatingChange": 0.98
+    },
+    {
+      "position": 10,
+      "playerId": "m51476",
+      "name": "Aaron Quade",
+      "rating": 1498.03,
+      "dailyRatingChange": 1.68
+    },
+    {
+      "position": 10,
+      "playerId": "m46305",
+      "name": "Chris Fort",
+      "rating": 1505.79,
+      "dailyRatingChange": 1.02
+    },
+    {
+      "position": 10,
+      "playerId": "m11369",
+      "name": "Theresa Schultz",
+      "rating": 1454.04,
+      "dailyRatingChange": 5.25
+    },
+    {
+      "position": 10,
+      "playerId": "m41741",
+      "name": "Seth Rudesill",
+      "rating": 1438.56,
+      "dailyRatingChange": 3.78
+    },
+    {
+      "position": 14,
+      "playerId": "m47670",
+      "name": "Courtney Coleman",
+      "rating": 1552.21,
+      "dailyRatingChange": -1.7
+    },
+    {
+      "position": 14,
+      "playerId": "m22181",
+      "name": "Dana Ost",
+      "rating": 1529.17,
+      "dailyRatingChange": -2.11
+    },
+    {
+      "position": 14,
+      "playerId": "m39519",
+      "name": "Al Yeager",
+      "rating": 1591.96,
+      "dailyRatingChange": -5.43
+    },
+    {
+      "position": 14,
+      "playerId": "m36420",
+      "name": "Tom Craven",
+      "rating": 1538.04,
+      "dailyRatingChange": 1.15
+    },
+    {
+      "position": 14,
+      "playerId": "m58300",
+      "name": "Noah Strothers",
+      "rating": 1399.4,
+      "dailyRatingChange": 25.37
+    },
+    {
+      "position": 19,
+      "playerId": "m55030",
+      "name": "Cliff Forster",
+      "rating": 1404.16,
+      "dailyRatingChange": 4.8
+    },
+    {
+      "position": 19,
+      "playerId": "m7815",
+      "name": "Dave Snyder VA",
+      "rating": 1595.63,
+      "dailyRatingChange": -3.24
+    },
+    {
+      "position": 19,
+      "playerId": "m35572",
+      "name": "Chris Anderson",
+      "rating": 1394.42,
+      "dailyRatingChange": -1.67
+    },
+    {
+      "position": 19,
+      "playerId": "m52503",
+      "name": "Paul Halliday",
+      "rating": 1512.19,
+      "dailyRatingChange": -1.64
+    },
+    {
+      "position": 19,
+      "playerId": "m41737",
+      "name": "Chris Luci",
+      "rating": 1489.43,
+      "dailyRatingChange": -2.61
+    },
+    {
+      "position": 24,
+      "playerId": "m39300",
+      "name": "Laura Francis",
+      "rating": 1433.27,
+      "dailyRatingChange": -1.39
+    },
+    {
+      "position": 24,
+      "playerId": "m58037",
+      "name": "Eva Barber",
+      "rating": 1361,
+      "dailyRatingChange": 1.49
+    },
+    {
+      "position": 24,
+      "playerId": "m449757",
+      "name": "Melissa Ascione",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 24,
+      "playerId": "m586430",
+      "name": "Liz Kruse",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 24,
+      "playerId": "m9506",
+      "name": "Paul Gussack",
+      "rating": 1471.8,
+      "dailyRatingChange": -1.8
+    },
+    {
+      "position": 24,
+      "playerId": "m584595",
+      "name": "Amy Conley",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 24,
+      "playerId": "m58039",
+      "name": "Karla Hernandez",
+      "rating": 1460.33,
+      "dailyRatingChange": -7.95
+    },
+    {
+      "position": 31,
+      "playerId": "m586424",
+      "name": "Richard Briggs",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 31,
+      "playerId": "m586429",
+      "name": "Ryan Schrenk",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 31,
+      "playerId": "m25196",
+      "name": "David Smitley",
+      "rating": 1516.09,
+      "dailyRatingChange": -17.22
+    },
+    {
+      "position": 34,
+      "playerId": "m586442",
+      "name": "Chadwick Chowanett",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 34,
+      "playerId": "m34384",
+      "name": "Karli Tumbleson",
+      "rating": 1409.61,
+      "dailyRatingChange": -4.69
+    },
+    {
+      "position": 34,
+      "playerId": "m453252",
+      "name": "Squirrel",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

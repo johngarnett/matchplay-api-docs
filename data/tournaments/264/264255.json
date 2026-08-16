@@ -1,0 +1,46 @@
+{
+  "tournamentId": 264255,
+  "name": "GCA Battle Night #7",
+  "date": "2026-07-28",
+  "locationId": "11985",
+  "locationName": "Grand Champion Arcade",
+  "playerCount": 5,
+  "ratingsDate": "2026-07-28",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m31567",
+      "name": "Kenny Damm Jacobsen",
+      "rating": 1598.53,
+      "dailyRatingChange": 7.73
+    },
+    {
+      "position": 2,
+      "playerId": "m31565",
+      "name": "Jørn Elgaard Nielsen",
+      "rating": 1553.56,
+      "dailyRatingChange": 2.76
+    },
+    {
+      "position": 3,
+      "playerId": "m30932",
+      "name": "Anders Pedersen",
+      "rating": 1550.7,
+      "dailyRatingChange": 6.99
+    },
+    {
+      "position": 4,
+      "playerId": "m53377",
+      "name": "Oliver Nemet",
+      "rating": 1534.86,
+      "dailyRatingChange": -15.11
+    },
+    {
+      "position": 5,
+      "playerId": "m40119",
+      "name": "Kenneth Hansen DEN",
+      "rating": 1488.04,
+      "dailyRatingChange": -14.64
+    }
+  ]
+}

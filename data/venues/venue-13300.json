@@ -1,0 +1,125 @@
+{
+  "locationId": "13300",
+  "name": "Nerdin out",
+  "address": "NerdinOut coon Rapids",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 7,
+  "relatedVenues": [
+    {
+      "locationId": "5500",
+      "name": "Blainbrook",
+      "address": "",
+      "count": 37
+    },
+    {
+      "locationId": "8818",
+      "name": "Blainbrook Bowl",
+      "address": "12000 Central Ave NE Blaine, MN",
+      "count": 10
+    },
+    {
+      "locationId": "8625",
+      "name": "LITT Pinball Bar",
+      "address": "2021 Hennepin Ave S, Minneapolis, MN, 55405, US",
+      "count": 3
+    },
+    {
+      "locationId": "12311",
+      "name": "3rd Lair Skatepark and Skate Shop",
+      "address": "850 Florida Ave S, Minneapolis, MN 55426, US",
+      "count": 3
+    },
+    {
+      "locationId": "8863",
+      "name": "Northstar Pinball Collective",
+      "address": "5636 West 125th Street, Savage, MN",
+      "count": 2
+    }
+  ],
+  "players": [
+    {
+      "id": "m5091",
+      "name": "Trevor Klungseth",
+      "rating": 1700.99,
+      "rd": 18.54,
+      "ratingClass": "Expert",
+      "homeLocation": "Blainbrook",
+      "homeLocationId": "5500",
+      "percentile": 96.65998975171193,
+      "changeDisplay": "+7.4",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m1382",
+      "name": "Adam Turgeson",
+      "rating": 1693.42,
+      "rd": 20.89,
+      "ratingClass": "A",
+      "homeLocation": "Blainbrook",
+      "homeLocationId": "5500",
+      "percentile": 96.16155028648623,
+      "changeDisplay": "+8.7",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m19651",
+      "name": "Phil Frazier",
+      "rating": 1664.43,
+      "rd": 22.71,
+      "ratingClass": "A",
+      "homeLocation": "Blainbrook",
+      "homeLocationId": "5500",
+      "percentile": 93.57152839241627,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m1379",
+      "name": "Keith Bittner",
+      "rating": 1601.91,
+      "rd": 20.73,
+      "ratingClass": "A",
+      "homeLocation": "Blainbrook",
+      "homeLocationId": "5500",
+      "percentile": 82.47542740019564,
+      "changeDisplay": "-11.2",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m27049",
+      "name": "Gary Gazda",
+      "rating": 1540.35,
+      "rd": 28.37,
+      "ratingClass": "B",
+      "homeLocation": "Blainbrook",
+      "homeLocationId": "5500",
+      "percentile": 63.26454558159035,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m27647",
+      "name": "Wendy Gazda",
+      "rating": 1440.84,
+      "rd": 31.22,
+      "ratingClass": "C",
+      "homeLocation": "Blainbrook",
+      "homeLocationId": "5500",
+      "percentile": 23.994969022220154,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i85334",
+      "name": "Tristan Turgeson",
+      "rating": 1437.9,
+      "rd": 36.73,
+      "ratingClass": "C",
+      "homeLocation": "Blainbrook Bowl",
+      "homeLocationId": "8818",
+      "percentile": 23.007406717286997,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

@@ -1,0 +1,207 @@
+{
+  "tournamentId": 263224,
+  "name": "Illawarra Pinball Club 2026: Monday League - Season 5 wk1",
+  "date": "2026-07-27",
+  "locationId": "10800",
+  "locationName": "Illawarra Pinball Clubhouse",
+  "playerCount": 28,
+  "ratingsDate": "2026-07-27",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m39452",
+      "name": "Dan Craze",
+      "rating": 1563.4,
+      "dailyRatingChange": 1.96
+    },
+    {
+      "position": 1,
+      "playerId": "m48122",
+      "name": "John Fish",
+      "rating": 1583.65,
+      "dailyRatingChange": 6.35
+    },
+    {
+      "position": 1,
+      "playerId": "m57442",
+      "name": "Gerry Barranquero",
+      "rating": 1569.88,
+      "dailyRatingChange": 7.5
+    },
+    {
+      "position": 4,
+      "playerId": "m29363",
+      "name": "JayTee Saward",
+      "rating": 1601.41,
+      "dailyRatingChange": 4.62
+    },
+    {
+      "position": 5,
+      "playerId": "m48919",
+      "name": "Christopher Farrell",
+      "rating": 1519.29,
+      "dailyRatingChange": 7.94
+    },
+    {
+      "position": 5,
+      "playerId": "m47944",
+      "name": "Susie Morgan",
+      "rating": 1469.7,
+      "dailyRatingChange": 6.64
+    },
+    {
+      "position": 5,
+      "playerId": "m48278",
+      "name": "Ben Greig",
+      "rating": 1501.94,
+      "dailyRatingChange": 4.65
+    },
+    {
+      "position": 8,
+      "playerId": "m57885",
+      "name": "Sienna Wilson",
+      "rating": 1540.09,
+      "dailyRatingChange": 7.98
+    },
+    {
+      "position": 8,
+      "playerId": "m52577",
+      "name": "Alex Williams AUS",
+      "rating": 1623,
+      "dailyRatingChange": -0.54
+    },
+    {
+      "position": 8,
+      "playerId": "m43815",
+      "name": "Ryan Halstead",
+      "rating": 1609.3,
+      "dailyRatingChange": 2.19
+    },
+    {
+      "position": 8,
+      "playerId": "m48552",
+      "name": "Ron Lengling",
+      "rating": 1629.45,
+      "dailyRatingChange": -2.91
+    },
+    {
+      "position": 8,
+      "playerId": "m9641",
+      "name": "Jayson Walsh",
+      "rating": 1660.42,
+      "dailyRatingChange": -0.94
+    },
+    {
+      "position": 13,
+      "playerId": "m59815",
+      "name": "Kurt Basedow",
+      "rating": 1580.34,
+      "dailyRatingChange": 3.41
+    },
+    {
+      "position": 13,
+      "playerId": "m34995",
+      "name": "Chad Mulheron",
+      "rating": 1584.82,
+      "dailyRatingChange": -0.15
+    },
+    {
+      "position": 13,
+      "playerId": "m582379",
+      "name": "Washout Robbo",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 13,
+      "playerId": "m29929",
+      "name": "Paul Soutter",
+      "rating": 1605.81,
+      "dailyRatingChange": -3.19
+    },
+    {
+      "position": 17,
+      "playerId": "m24791",
+      "name": "Chris Fleming",
+      "rating": 1541.64,
+      "dailyRatingChange": 0.62
+    },
+    {
+      "position": 17,
+      "playerId": "m454976",
+      "name": "Chris Hodson",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 19,
+      "playerId": "m57831",
+      "name": "Peter Godfrey",
+      "rating": 1604.53,
+      "dailyRatingChange": -8.94
+    },
+    {
+      "position": 19,
+      "playerId": "m445503",
+      "name": "Braxton Farrell",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 19,
+      "playerId": "m30040",
+      "name": "Kris Forner",
+      "rating": 1541.39,
+      "dailyRatingChange": 1.12
+    },
+    {
+      "position": 22,
+      "playerId": "m48163",
+      "name": "Matt Stewart",
+      "rating": 1406.73,
+      "dailyRatingChange": 15.25
+    },
+    {
+      "position": 23,
+      "playerId": "i133882",
+      "name": "Sandra Simpson",
+      "rating": 1413.32,
+      "dailyRatingChange": -2.32
+    },
+    {
+      "position": 23,
+      "playerId": "m42706",
+      "name": "Corey Hackett",
+      "rating": 1548.74,
+      "dailyRatingChange": -5.36
+    },
+    {
+      "position": 25,
+      "playerId": "i126600",
+      "name": "Ivan Poo",
+      "rating": 1461.5,
+      "dailyRatingChange": -6.58
+    },
+    {
+      "position": 26,
+      "playerId": "m58485",
+      "name": "Jimmy Penno",
+      "rating": 1487.41,
+      "dailyRatingChange": -10.23
+    },
+    {
+      "position": 27,
+      "playerId": "i110888",
+      "name": "Josh Elm",
+      "rating": 1419.29,
+      "dailyRatingChange": -9.53
+    },
+    {
+      "position": 28,
+      "playerId": "m48270",
+      "name": "Jonno Greig",
+      "rating": 1411.63,
+      "dailyRatingChange": -12.88
+    }
+  ]
+}

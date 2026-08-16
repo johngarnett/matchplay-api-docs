@@ -1,0 +1,144 @@
+{
+  "tournamentId": 266703,
+  "name": "JUPITOURNEY 25.8",
+  "date": "2026-08-12",
+  "locationId": "5461",
+  "locationName": "JUPITER",
+  "playerCount": 19,
+  "ratingsDate": "2026-08-12",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m6374",
+      "name": "David Johnston US",
+      "rating": 1711.57,
+      "dailyRatingChange": 3.89
+    },
+    {
+      "position": 2,
+      "playerId": "m38834",
+      "name": "Brian Reinhard",
+      "rating": 1663.65,
+      "dailyRatingChange": 2.64
+    },
+    {
+      "position": 3,
+      "playerId": "m18585",
+      "name": "Kevin Coffey",
+      "rating": 1699.25,
+      "dailyRatingChange": -1.02
+    },
+    {
+      "position": 3,
+      "playerId": "m7059",
+      "name": "Dwayne Collins",
+      "rating": 1518.38,
+      "dailyRatingChange": 6.56
+    },
+    {
+      "position": 5,
+      "playerId": "m31886",
+      "name": "Los Rangel",
+      "rating": 1585.02,
+      "dailyRatingChange": 0.05
+    },
+    {
+      "position": 5,
+      "playerId": "m519333",
+      "name": "Christopher Noerr",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 5,
+      "playerId": "m23268",
+      "name": "Ben Simmons",
+      "rating": 1641.89,
+      "dailyRatingChange": -1.07
+    },
+    {
+      "position": 8,
+      "playerId": "m29150",
+      "name": "Kevin Deschenes",
+      "rating": 1518.14,
+      "dailyRatingChange": 1.08
+    },
+    {
+      "position": 8,
+      "playerId": "m7002",
+      "name": "Colin O'Keefe",
+      "rating": 1602.85,
+      "dailyRatingChange": -2.09
+    },
+    {
+      "position": 8,
+      "playerId": "m45593",
+      "name": "Mae Collin",
+      "rating": 1488.5,
+      "dailyRatingChange": 0.7
+    },
+    {
+      "position": 11,
+      "playerId": "m31717",
+      "name": "Jackilyn Hoxworth",
+      "rating": 1403.75,
+      "dailyRatingChange": 1.51
+    },
+    {
+      "position": 11,
+      "playerId": "m18646",
+      "name": "Kristin Vick",
+      "rating": 1622.16,
+      "dailyRatingChange": -3.26
+    },
+    {
+      "position": 11,
+      "playerId": "m11760",
+      "name": "Isabelle Grams",
+      "rating": 1655.68,
+      "dailyRatingChange": -4.27
+    },
+    {
+      "position": 11,
+      "playerId": "m21668",
+      "name": "Gus Voss",
+      "rating": 1593.31,
+      "dailyRatingChange": -0.88
+    },
+    {
+      "position": 15,
+      "playerId": "m14086",
+      "name": "Melanie Meyer WA",
+      "rating": 1533.82,
+      "dailyRatingChange": -2.37
+    },
+    {
+      "position": 15,
+      "playerId": "m44490",
+      "name": "Marissa Rodriguez",
+      "rating": 1476.4,
+      "dailyRatingChange": -1.29
+    },
+    {
+      "position": 15,
+      "playerId": "m43718",
+      "name": "Mike Murphy WA",
+      "rating": 1522.57,
+      "dailyRatingChange": -1.96
+    },
+    {
+      "position": 18,
+      "playerId": "m586556",
+      "name": "Anthony Alvizar",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 18,
+      "playerId": "m45918",
+      "name": "Dakota Green",
+      "rating": 1502.52,
+      "dailyRatingChange": -2.8
+    }
+  ]
+}

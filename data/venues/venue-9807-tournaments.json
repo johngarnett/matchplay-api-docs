@@ -1,0 +1,155 @@
+{
+  "locationId": "9807",
+  "venueName": "Minnesota Pinball @ Bucks Mill Brewing",
+  "venueAddress": "824 Washington Ave, Detroit Lakes, MN, 56501, US",
+  "tournaments": [
+    {
+      "id": 266687,
+      "name": "Finals for Tilt & Tap Tuesday's!",
+      "date": "8/11/2026",
+      "playerCount": 6,
+      "qualifying": {
+        "id": 251514,
+        "name": "Tilt & Tap Tuesday's!",
+        "playerCount": 15
+      },
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m6843",
+          "name": "Tim Fiechtner",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m45268",
+          "name": "Ross mickelson",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m40084",
+          "name": "Chris Smith",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m55926",
+          "name": "Chris Sebastian",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 265559,
+      "name": "Finals for Tilt & Tap Tuesday's!",
+      "date": "8/4/2026",
+      "playerCount": 4,
+      "qualifying": {
+        "id": 251512,
+        "name": "Tilt & Tap Tuesday's!",
+        "playerCount": 14
+      },
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "i158680",
+          "name": "Sean Oakes",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m44885",
+          "name": "Bill Esterby",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "i122699",
+          "name": "Jim Francis",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m40082",
+          "name": "Jed Arneson",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 264377,
+      "name": "Finals for Tilt & Tap Tuesday's!",
+      "date": "7/28/2026",
+      "playerCount": 8,
+      "qualifying": {
+        "id": 251511,
+        "name": "Tilt & Tap Tuesday's!",
+        "playerCount": 24
+      },
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m6492",
+          "name": "Mike Moberg",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m45268",
+          "name": "Ross mickelson",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m40440",
+          "name": "Patrick Williams",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "i122699",
+          "name": "Jim Francis",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 262882,
+      "name": "Finals for Transformers Launch Party!",
+      "date": "7/19/2026",
+      "playerCount": 8,
+      "qualifying": {
+        "id": 262835,
+        "name": "Transformers Launch Party!",
+        "playerCount": 29
+      },
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m44885",
+          "name": "Bill Esterby",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m47856",
+          "name": "Patton Kruger",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m59992",
+          "name": "Steven Graser",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m60732",
+          "name": "Tony Jorgensen",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

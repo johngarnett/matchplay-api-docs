@@ -1,0 +1,53 @@
+{
+  "locationId": "5050",
+  "name": "The No-Go-Rona Pinball Room",
+  "address": "119 Norrington Dr, Pittsburgh, PA 15236, USA",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 2,
+  "relatedVenues": [
+    {
+      "locationId": "2480",
+      "name": "Pittsburgh Pinball Dojo",
+      "address": "2 N Balph Ave, Bellevue PA 15202",
+      "count": 5
+    },
+    {
+      "locationId": "8271",
+      "name": "Rezzanine Esports",
+      "address": "1025 Washington Pike, Bridgeville, PA 15017, US",
+      "count": 3
+    },
+    {
+      "locationId": "13462",
+      "name": "Row House Cinemas - Hollywood",
+      "address": "1449 Potomac Ave, Pittsburgh, PA 15216, US",
+      "count": 1
+    }
+  ],
+  "players": [
+    {
+      "id": "m42215",
+      "name": "Mason Callahan",
+      "rating": 1610.56,
+      "rd": 34.07,
+      "ratingClass": "A",
+      "homeLocation": "Pittsburgh Pinball Dojo",
+      "homeLocationId": "2480",
+      "percentile": 84.59961801835375,
+      "changeDisplay": "-7.8",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m16891",
+      "name": "Evan Callahan",
+      "rating": 1606.02,
+      "rd": 28.83,
+      "ratingClass": "A",
+      "homeLocation": "Pittsburgh Pinball Dojo",
+      "homeLocationId": "2480",
+      "percentile": 83.43969814133321,
+      "changeDisplay": "+7.8",
+      "changeClass": "change-positive"
+    }
+  ]
+}

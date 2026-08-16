@@ -1,0 +1,74 @@
+{
+  "tournamentId": 250498,
+  "name": "Fair-Strike Knockout at Pinball Planet",
+  "date": "2026-08-14",
+  "locationId": "10180",
+  "locationName": "Pinball Planet",
+  "playerCount": 9,
+  "ratingsDate": null,
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m55203",
+      "name": "Erik Abols",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 2,
+      "playerId": "m34742",
+      "name": "Jessica Canterbury",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 3,
+      "playerId": "m9669",
+      "name": "Brent Reed",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 4,
+      "playerId": "m43456",
+      "name": "Brianna Weber",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 5,
+      "playerId": "m28944",
+      "name": "Paul Ellis",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 6,
+      "playerId": "m46270",
+      "name": "Dustin Shepherd",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 6,
+      "playerId": "m5410",
+      "name": "Chris Weber",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 8,
+      "playerId": "m43715",
+      "name": "Wayne Guk",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 9,
+      "playerId": "m38334",
+      "name": "Mike Prewett",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

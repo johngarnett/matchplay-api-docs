@@ -1,0 +1,39 @@
+{
+  "tournamentId": 265089,
+  "name": "Finals for Women's Transformer Launch Party",
+  "date": "2026-08-02",
+  "locationId": "9002",
+  "locationName": "Game Galaxy",
+  "playerCount": 4,
+  "ratingsDate": "2026-08-02",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m34634",
+      "name": "Nicole beck",
+      "rating": 1542.98,
+      "dailyRatingChange": 12.08
+    },
+    {
+      "position": 2,
+      "playerId": "m39788",
+      "name": "Alyssa Vidrine",
+      "rating": 1529.25,
+      "dailyRatingChange": 8.04
+    },
+    {
+      "position": 3,
+      "playerId": "m25384",
+      "name": "Kathy Adler",
+      "rating": 1536.99,
+      "dailyRatingChange": 2.66
+    },
+    {
+      "position": 4,
+      "playerId": "m21055",
+      "name": "Sara Yoder",
+      "rating": 1535.35,
+      "dailyRatingChange": -5.8
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "tournamentId": 262734,
+  "name": "Finals for July 2026 Belles Cookout Tournament - Pin Golf",
+  "date": "2026-07-18",
+  "locationId": "3691",
+  "locationName": "The Arrrrrcade",
+  "playerCount": 8,
+  "ratingsDate": "2026-07-18",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m12505",
+      "name": "Chrissy Papnick",
+      "rating": 1475.09,
+      "dailyRatingChange": 23.68
+    },
+    {
+      "position": 2,
+      "playerId": "m22772",
+      "name": "Regina Allen",
+      "rating": 1520.75,
+      "dailyRatingChange": 43.71
+    },
+    {
+      "position": 3,
+      "playerId": "m4813",
+      "name": "Erin Seiden",
+      "rating": 1501.34,
+      "dailyRatingChange": 1.16
+    },
+    {
+      "position": 4,
+      "playerId": "m29575",
+      "name": "Jenni Tucker",
+      "rating": 1554.97,
+      "dailyRatingChange": -3.21
+    },
+    {
+      "position": 5,
+      "playerId": "m13156",
+      "name": "Penni Epstein",
+      "rating": 1545.25,
+      "dailyRatingChange": -1.66
+    },
+    {
+      "position": 6,
+      "playerId": "m27795",
+      "name": "Danny Tucker",
+      "rating": 1530.89,
+      "dailyRatingChange": -7.43
+    },
+    {
+      "position": 6,
+      "playerId": "m43402",
+      "name": "Kayla Bivens",
+      "rating": 1584.19,
+      "dailyRatingChange": -8.58
+    },
+    {
+      "position": 8,
+      "playerId": "m27367",
+      "name": "Victoria Lehman",
+      "rating": 1512.67,
+      "dailyRatingChange": -9.02
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "tournamentId": 266579,
+  "name": "Tuesday Night Smackdown 8/11/26",
+  "date": "2026-08-12",
+  "locationId": "6137",
+  "locationName": "The Avenue Cafe",
+  "playerCount": 11,
+  "ratingsDate": "2026-08-12",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m43454",
+      "name": "Peter C. Liu",
+      "rating": 1568.83,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 2,
+      "playerId": "m47118",
+      "name": "Mackenzie Merryfield",
+      "rating": 1459.24,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 3,
+      "playerId": "m15735",
+      "name": "Derik Schimberg",
+      "rating": 1734.7,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 4,
+      "playerId": "m26198",
+      "name": "Bryan Johnson",
+      "rating": 1428.25,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 5,
+      "playerId": "m13998",
+      "name": "Tim Treichel",
+      "rating": 1803.43,
+      "dailyRatingChange": 3.07
+    },
+    {
+      "position": 6,
+      "playerId": "i159396",
+      "name": "David Austen Jr",
+      "rating": 1526.73,
+      "dailyRatingChange": -21.06
+    },
+    {
+      "position": 7,
+      "playerId": "m894",
+      "name": "Joseph Nebus",
+      "rating": 1609.72,
+      "dailyRatingChange": -1.81
+    },
+    {
+      "position": 8,
+      "playerId": "m893",
+      "name": "Heather Kendrick",
+      "rating": 1578.98,
+      "dailyRatingChange": 2.2
+    },
+    {
+      "position": 9,
+      "playerId": "m54716",
+      "name": "Linda Edgar",
+      "rating": 1430.16,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 10,
+      "playerId": "m48007",
+      "name": "Chris Arsenault",
+      "rating": 1520.59,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 11,
+      "playerId": "m49730",
+      "name": "Stephanie Vasko",
+      "rating": 1371.15,
+      "dailyRatingChange": 0
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "locationId": "5649",
+  "name": "Enid",
+  "address": "",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 2,
+  "relatedVenues": [],
+  "players": [
+    {
+      "id": "m2954",
+      "name": "Kyle Culver",
+      "rating": 1678.56,
+      "rd": 45.86,
+      "ratingClass": "A",
+      "homeLocation": "Enid",
+      "homeLocationId": "5649",
+      "percentile": 94.98765547118833,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i57066",
+      "name": "Shaelee Culver",
+      "rating": 1420.67,
+      "rd": 45.62,
+      "ratingClass": "C",
+      "homeLocation": "Enid",
+      "homeLocationId": "5649",
+      "percentile": 17.818046303628826,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

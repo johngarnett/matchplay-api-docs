@@ -1,0 +1,67 @@
+{
+  "tournamentId": 265560,
+  "name": "Finals for TNT 8/4/26",
+  "date": "2026-08-05",
+  "locationId": "10910",
+  "locationName": "What's Brewing? Coffee Roasters",
+  "playerCount": 8,
+  "ratingsDate": "2026-08-05",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m36589",
+      "name": "Mario Garza",
+      "rating": 1683.65,
+      "dailyRatingChange": 0.81
+    },
+    {
+      "position": 2,
+      "playerId": "m32921",
+      "name": "Thomas Dessens",
+      "rating": 1623.67,
+      "dailyRatingChange": 4.16
+    },
+    {
+      "position": 3,
+      "playerId": "m45686",
+      "name": "Christopher Bell II",
+      "rating": 1566.59,
+      "dailyRatingChange": 6.4
+    },
+    {
+      "position": 4,
+      "playerId": "m22141",
+      "name": "Don Baker",
+      "rating": 1617.42,
+      "dailyRatingChange": 12.28
+    },
+    {
+      "position": 5,
+      "playerId": "m55724",
+      "name": "Sean Simpson TX",
+      "rating": 1484.86,
+      "dailyRatingChange": 9.69
+    },
+    {
+      "position": 5,
+      "playerId": "m24442",
+      "name": "Cinthia Whitefield",
+      "rating": 1565.63,
+      "dailyRatingChange": 3.28
+    },
+    {
+      "position": 7,
+      "playerId": "m39784",
+      "name": "Kali Blanchard",
+      "rating": 1482.25,
+      "dailyRatingChange": 11.19
+    },
+    {
+      "position": 7,
+      "playerId": "m7483",
+      "name": "Collier Whitefield",
+      "rating": 1746.56,
+      "dailyRatingChange": -3.12
+    }
+  ]
+}

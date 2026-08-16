@@ -1,0 +1,40 @@
+{
+  "locationId": "9202",
+  "venueName": "Player 1 Video Game Bar",
+  "venueAddress": "2797 South Maryland Parkway, Las Vegas, NV 89109, US",
+  "tournaments": [
+    {
+      "id": 263875,
+      "name": "Player 1 Video Game Bar FINALS 2026-07-25",
+      "date": "7/25/2026",
+      "playerCount": 8,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m41405",
+          "name": "Tom Stewart",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m14217",
+          "name": "Craig Sengstock",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m36769",
+          "name": "Josh Capp",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m19173",
+          "name": "Manny Costa",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

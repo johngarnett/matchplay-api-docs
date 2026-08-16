@@ -1,0 +1,287 @@
+{
+  "locationId": "13854",
+  "name": "Skogen Residence",
+  "address": "",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 18,
+  "relatedVenues": [
+    {
+      "locationId": "8912",
+      "name": "Sister",
+      "address": "407 Central Ave NW, Albuquerque, NM 87102, US",
+      "count": 23
+    },
+    {
+      "locationId": "10207",
+      "name": "Boxing Bear Brewing Co. Bridges on Tramway Taproom",
+      "address": "12501 Candelaria Rd NE, Albuquerque, NM 87111, US",
+      "count": 23
+    },
+    {
+      "locationId": "9515",
+      "name": "Eureka Heights Brew Co",
+      "address": "941 West 18th St, Houston, Texas 77008",
+      "count": 11
+    },
+    {
+      "locationId": "10641",
+      "name": "Spooky's",
+      "address": "2920 Stanford Dr NE Suite A Albuquerque, NM 87107",
+      "count": 10
+    },
+    {
+      "locationId": "7929",
+      "name": "13008 Desert Moon Pl NE Albuquerque NM.  87110",
+      "address": "",
+      "count": 4
+    },
+    {
+      "locationId": "11561",
+      "name": "Austin Pinball Collective",
+      "address": "1106 Clayton Ln, Austin, TX 78723, US",
+      "count": 4
+    },
+    {
+      "locationId": "12571",
+      "name": "Little Dipper Lounge",
+      "address": "304 Main St, Houston, TX 77002, US",
+      "count": 3
+    },
+    {
+      "locationId": "7731",
+      "name": "The Game Preserve NASA",
+      "address": "20810 Gulf Freeway, Webster, TX 77598, US",
+      "count": 2
+    },
+    {
+      "locationId": "5492",
+      "name": "Lyons Classic Pinball",
+      "address": "339 W Main St, Lyons, CO 80540, USA",
+      "count": 1
+    },
+    {
+      "locationId": "7414",
+      "name": "Gandalf's Arcade",
+      "address": "10606 Hempstead Road, Houston, TX, 77092, US",
+      "count": 1
+    }
+  ],
+  "players": [
+    {
+      "id": "m9097",
+      "name": "Fiona Chiong",
+      "rating": 1624.66,
+      "rd": 26.14,
+      "ratingClass": "A",
+      "homeLocation": "Boxing Bear Brewing Co. Bridges on Tramway Taproom",
+      "homeLocationId": "10207",
+      "percentile": 87.53901336935762,
+      "changeDisplay": "-4.3",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m41324",
+      "name": "Becca Addie",
+      "rating": 1602.25,
+      "rd": 25.04,
+      "ratingClass": "A",
+      "homeLocation": "Sister",
+      "homeLocationId": "8912",
+      "percentile": 82.5639353426189,
+      "changeDisplay": "+7.4",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "i93302",
+      "name": "Lauren Skogen",
+      "rating": 1581.87,
+      "rd": 42.12,
+      "ratingClass": "B",
+      "homeLocation": "Skogen Residence",
+      "homeLocationId": "13854",
+      "percentile": 77.17426748031862,
+      "changeDisplay": "+7.1",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m10964",
+      "name": "Meghan Shattuck",
+      "rating": 1581.02,
+      "rd": 27.84,
+      "ratingClass": "B",
+      "homeLocation": "Boxing Bear Brewing Co. Bridges on Tramway Taproom",
+      "homeLocationId": "10207",
+      "percentile": 76.95066846788093,
+      "changeDisplay": "+15.7",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m43167",
+      "name": "Danielle Jones",
+      "rating": 1553.46,
+      "rd": 24.7,
+      "ratingClass": "B",
+      "homeLocation": "Sister",
+      "homeLocationId": "8912",
+      "percentile": 68.12316578935109,
+      "changeDisplay": "-8.2",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m31596",
+      "name": "Dee Ray",
+      "rating": 1542.35,
+      "rd": 24.06,
+      "ratingClass": "B",
+      "homeLocation": "Sister",
+      "homeLocationId": "8912",
+      "percentile": 64.03316718684492,
+      "changeDisplay": "+8.4",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m42492",
+      "name": "Sedes Whiddon",
+      "rating": 1537.87,
+      "rd": 26.27,
+      "ratingClass": "B",
+      "homeLocation": "Boxing Bear Brewing Co. Bridges on Tramway Taproom",
+      "homeLocationId": "10207",
+      "percentile": 62.2024502725113,
+      "changeDisplay": "-2.0",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m61183",
+      "name": "Kelsey Gutierrez",
+      "rating": 1527.14,
+      "rd": 27.87,
+      "ratingClass": "B",
+      "homeLocation": "Skogen Residence",
+      "homeLocationId": "13854",
+      "percentile": 57.888852657567426,
+      "changeDisplay": "+7.7",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m38175",
+      "name": "Jessica Murillo",
+      "rating": 1507.79,
+      "rd": 18.24,
+      "ratingClass": "B",
+      "homeLocation": "Eureka Heights Brew Co",
+      "homeLocationId": "9515",
+      "percentile": 50.342385987795225,
+      "changeDisplay": "+4.0",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m20491",
+      "name": "Kristin Skogen",
+      "rating": 1495.44,
+      "rd": 40.15,
+      "ratingClass": "C",
+      "homeLocation": "Boxing Bear Brewing Co. Bridges on Tramway Taproom",
+      "homeLocationId": "10207",
+      "percentile": 45.278800018633255,
+      "changeDisplay": "-2.3",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m41323",
+      "name": "Faye Olguin",
+      "rating": 1480.87,
+      "rd": 33.83,
+      "ratingClass": "C",
+      "homeLocation": "Boxing Bear Brewing Co. Bridges on Tramway Taproom",
+      "homeLocationId": "10207",
+      "percentile": 39.23696837005636,
+      "changeDisplay": "-13.3",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m37269",
+      "name": "Leah Duran",
+      "rating": 1472.78,
+      "rd": 27.54,
+      "ratingClass": "C",
+      "homeLocation": "Sister",
+      "homeLocationId": "8912",
+      "percentile": 36.008757627987144,
+      "changeDisplay": "+4.3",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m42238",
+      "name": "Charlotte Wansa",
+      "rating": 1448.54,
+      "rd": 27.2,
+      "ratingClass": "C",
+      "homeLocation": "Sister",
+      "homeLocationId": "8912",
+      "percentile": 26.58964922904924,
+      "changeDisplay": "-17.6",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m62742",
+      "name": "Hannah Edstrom",
+      "rating": 1432.4,
+      "rd": 56.06,
+      "ratingClass": "C",
+      "homeLocation": "Skogen Residence",
+      "homeLocationId": "13854",
+      "percentile": 21.325755811245166,
+      "changeDisplay": "★",
+      "changeClass": "change-new"
+    },
+    {
+      "id": "i145944",
+      "name": "Lyss Ruben",
+      "rating": 1431.76,
+      "rd": 46.68,
+      "ratingClass": "C",
+      "homeLocation": "Skogen Residence",
+      "homeLocationId": "13854",
+      "percentile": 21.11147342432571,
+      "changeDisplay": "-33.9",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m32215",
+      "name": "Ruth Dove",
+      "rating": 1430.11,
+      "rd": 25.54,
+      "ratingClass": "C",
+      "homeLocation": "Sister",
+      "homeLocationId": "8912",
+      "percentile": 20.613033959100015,
+      "changeDisplay": "+12.1",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "i86658",
+      "name": "Nancy Ellis",
+      "rating": 1393.36,
+      "rd": 39.66,
+      "ratingClass": "D",
+      "homeLocation": "Sister",
+      "homeLocationId": "8912",
+      "percentile": 10.961009922206177,
+      "changeDisplay": "+2.0",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "i131031",
+      "name": "Elly Cates",
+      "rating": 1367.44,
+      "rd": 32.98,
+      "ratingClass": "D",
+      "homeLocation": "Sister",
+      "homeLocationId": "8912",
+      "percentile": 6.3632552289560715,
+      "changeDisplay": "+16.0",
+      "changeClass": "change-positive"
+    }
+  ]
+}

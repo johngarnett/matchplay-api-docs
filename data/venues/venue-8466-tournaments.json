@@ -1,0 +1,52 @@
+{
+  "locationId": "8466",
+  "venueName": "Mikerphone Brewing",
+  "venueAddress": "121 Garlisch Drive, Elk Grove Village, IL 60007, US",
+  "tournaments": [
+    {
+      "id": 265882,
+      "name": "August Mikerphone Stern Army",
+      "date": "8/6/2026",
+      "playerCount": 16,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m25531",
+          "name": "Andrew Wilkening",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m43402",
+          "name": "Kayla Bivens",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m56951",
+          "name": "Phil Pappas",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "i3339",
+          "name": "Joseph Blasi",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m2249",
+          "name": "Mark Bjorkquist",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m49970",
+          "name": "Gavin Miller",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

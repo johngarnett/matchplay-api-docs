@@ -1,0 +1,144 @@
+{
+  "tournamentId": 263466,
+  "name": "Tilt Gamez Weekly Tournament",
+  "date": "2026-08-06",
+  "locationId": "12581",
+  "locationName": "Tilt Gamez",
+  "playerCount": 19,
+  "ratingsDate": "2026-08-06",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m5656",
+      "name": "Jim Smith AZ",
+      "rating": 1637.38,
+      "dailyRatingChange": 6.75
+    },
+    {
+      "position": 2,
+      "playerId": "m52466",
+      "name": "Louis Rulon",
+      "rating": 1592.78,
+      "dailyRatingChange": 3.96
+    },
+    {
+      "position": 3,
+      "playerId": "m55310",
+      "name": "Jack Felumlee",
+      "rating": 1564.58,
+      "dailyRatingChange": 12.97
+    },
+    {
+      "position": 4,
+      "playerId": "m55271",
+      "name": "James Wilson AZ",
+      "rating": 1566.29,
+      "dailyRatingChange": 5.59
+    },
+    {
+      "position": 5,
+      "playerId": "m584893",
+      "name": "Jerry Clayton",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 6,
+      "playerId": "m54421",
+      "name": "Jason Webb",
+      "rating": 1511.93,
+      "dailyRatingChange": 4.57
+    },
+    {
+      "position": 7,
+      "playerId": "m55509",
+      "name": "Ashley Kellett",
+      "rating": 1361.96,
+      "dailyRatingChange": 15.04
+    },
+    {
+      "position": 8,
+      "playerId": "m35210",
+      "name": "Chris Salmas",
+      "rating": 1597.14,
+      "dailyRatingChange": -7.3
+    },
+    {
+      "position": 9,
+      "playerId": "m50727",
+      "name": "Victoria Herring",
+      "rating": 1511.38,
+      "dailyRatingChange": 1
+    },
+    {
+      "position": 10,
+      "playerId": "m50875",
+      "name": "Goshy",
+      "rating": 1562.69,
+      "dailyRatingChange": -5.41
+    },
+    {
+      "position": 11,
+      "playerId": "m55506",
+      "name": "Sean Kellett",
+      "rating": 1407.33,
+      "dailyRatingChange": 5.67
+    },
+    {
+      "position": 12,
+      "playerId": "m578850",
+      "name": "Var Prock",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 13,
+      "playerId": "m56924",
+      "name": "David Whitt",
+      "rating": 1473.48,
+      "dailyRatingChange": 1.22
+    },
+    {
+      "position": 14,
+      "playerId": "m50744",
+      "name": "Zac Webb",
+      "rating": 1518.11,
+      "dailyRatingChange": -6.63
+    },
+    {
+      "position": 15,
+      "playerId": "m23903",
+      "name": "Justin Miller AZ",
+      "rating": 1507.03,
+      "dailyRatingChange": -10.64
+    },
+    {
+      "position": 16,
+      "playerId": "i97140",
+      "name": "Landon Paluc",
+      "rating": 1405.4,
+      "dailyRatingChange": -7.02
+    },
+    {
+      "position": 17,
+      "playerId": "m584879",
+      "name": "Ben Dyer",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 18,
+      "playerId": "m62551",
+      "name": "Sophie Kellett",
+      "rating": 1321.71,
+      "dailyRatingChange": -13.84
+    },
+    {
+      "position": 19,
+      "playerId": "m62048",
+      "name": "Stephany Miller",
+      "rating": 1390.46,
+      "dailyRatingChange": -7.41
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "communityId": "68",
+  "locations": [
+    {
+      "id": "7211",
+      "name": "Arkadium Retro Arcade",
+      "address": "180 - 130 Broadway Blvd, Sherwood Park, Alberta T8H2A3, CA",
+      "tournaments": [
+        {
+          "id": 266972,
+          "name": "A Finals for 2026 DHPL League Championship Series #13",
+          "date": "8/14/2026",
+          "playerCount": 16,
+          "qualifying": {
+            "id": 266961,
+            "name": "2026 DHPL League Championship Series #13",
+            "playerCount": 44
+          },
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m44520",
+              "name": "Leighton Blomme",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m2299",
+              "name": "Mike Wieschorster",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m44359",
+              "name": "Gary Wong",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m35214",
+              "name": "Mike Bowman",
+              "isCommunityMember": true
+            }
+          ]
+        },
+        {
+          "id": 266975,
+          "name": "Novice Finals for 2026 DHPL League Championship Series #13",
+          "date": "8/13/2026",
+          "playerCount": 8,
+          "qualifying": {
+            "id": 266961,
+            "name": "2026 DHPL League Championship Series #13",
+            "playerCount": 44
+          },
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m62696",
+              "name": "Scott Treasure",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m44736",
+              "name": "Caitlyn Lattin",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m27662",
+              "name": "Benjamin Still",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m22915",
+              "name": "Lonni Melvyn",
+              "isCommunityMember": true
+            }
+          ]
+        },
+        {
+          "id": 266973,
+          "name": "B Finals for 2026 DHPL League Championship Series #13",
+          "date": "8/13/2026",
+          "playerCount": 8,
+          "qualifying": {
+            "id": 266961,
+            "name": "2026 DHPL League Championship Series #13",
+            "playerCount": 44
+          },
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m23545",
+              "name": "Amanda Anderson",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m46225",
+              "name": "Garrett Kruger",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m49112",
+              "name": "Chris Gabber",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m14382",
+              "name": "Scott Stinchcombe",
+              "isCommunityMember": true
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

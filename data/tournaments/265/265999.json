@@ -1,0 +1,39 @@
+{
+  "tournamentId": 265999,
+  "name": "Level 99 Tournament",
+  "date": "2026-08-08",
+  "locationId": "13782",
+  "locationName": "Level 99 Arcade",
+  "playerCount": 4,
+  "ratingsDate": "2026-08-08",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m44248",
+      "name": "Michael Seamans",
+      "rating": 1597.98,
+      "dailyRatingChange": 0.63
+    },
+    {
+      "position": 2,
+      "playerId": "m54395",
+      "name": "James Nysather",
+      "rating": 1443.41,
+      "dailyRatingChange": 8.4
+    },
+    {
+      "position": 3,
+      "playerId": "m585312",
+      "name": "Noah",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 4,
+      "playerId": "m581523",
+      "name": "Dave Jopp",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

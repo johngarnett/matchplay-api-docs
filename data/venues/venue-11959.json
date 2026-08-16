@@ -1,0 +1,95 @@
+{
+  "locationId": "11959",
+  "name": "The Pinball Place New Ulm",
+  "address": "827 N Broadway St, New Ulm, MN 56073, US",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 4,
+  "relatedVenues": [
+    {
+      "locationId": "8863",
+      "name": "Northstar Pinball Collective",
+      "address": "5636 West 125th Street, Savage, MN",
+      "count": 20
+    },
+    {
+      "locationId": "11415",
+      "name": "Social House Mankato",
+      "address": "509 S Front St, Mankato, MN 56001",
+      "count": 4
+    },
+    {
+      "locationId": "5949",
+      "name": "The Upside Down",
+      "address": "614 Parkview Ct, North Mankato, MN 56003, USA",
+      "count": 2
+    },
+    {
+      "locationId": "2726",
+      "name": "GSpot",
+      "address": "401 Page Ave.  North Mankato, MN 56003",
+      "count": 1
+    },
+    {
+      "locationId": "5951",
+      "name": "Low Scores",
+      "address": "111 S Plainview Ave, Mankato, MN 56001, USA",
+      "count": 1
+    },
+    {
+      "locationId": "13035",
+      "name": "Funderdome",
+      "address": "112 Pfau St. Mankato, MN 56001",
+      "count": 1
+    }
+  ],
+  "players": [
+    {
+      "id": "m46560",
+      "name": "Jeff Stenzel",
+      "rating": 1637.9,
+      "rd": 18.15,
+      "ratingClass": "A",
+      "homeLocation": "Northstar Pinball Collective",
+      "homeLocationId": "8863",
+      "percentile": 89.98928588065402,
+      "changeDisplay": "-5.2",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "i142618",
+      "name": "Dan Graf",
+      "rating": 1505.62,
+      "rd": 29.02,
+      "ratingClass": "B",
+      "homeLocation": "Social House Mankato",
+      "homeLocationId": "11415",
+      "percentile": 49.49457306563563,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m54414",
+      "name": "Matt Mcmillan",
+      "rating": 1405.22,
+      "rd": 32.12,
+      "ratingClass": "C",
+      "homeLocation": "Northstar Pinball Collective",
+      "homeLocationId": "8863",
+      "percentile": 13.84450552010062,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i158182",
+      "name": "Carrie Martonik",
+      "rating": 1376.34,
+      "rd": 30.9,
+      "ratingClass": "D",
+      "homeLocation": "Social House Mankato",
+      "homeLocationId": "11415",
+      "percentile": 7.667582801509293,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

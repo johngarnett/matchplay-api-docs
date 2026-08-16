@@ -1,0 +1,40 @@
+{
+  "communityId": "144",
+  "playerCount": 2,
+  "ratingsDate": "2026-08-12",
+  "relatedCommunities": [],
+  "topVenues": [
+    {
+      "locationId": "unknown",
+      "name": "Unknown",
+      "address": "",
+      "count": 5
+    }
+  ],
+  "players": [
+    {
+      "id": "m44574",
+      "name": "Adam Brooks",
+      "rating": 1527.84,
+      "rd": 39.48,
+      "ratingClass": "B",
+      "homeLocation": "N/A",
+      "homeLocationId": null,
+      "percentile": 58.15903479759631,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i125103",
+      "name": "Nichole Falcon",
+      "rating": 1440.08,
+      "rd": 38.71,
+      "ratingClass": "C",
+      "homeLocation": "N/A",
+      "homeLocationId": null,
+      "percentile": 23.72478688219127,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

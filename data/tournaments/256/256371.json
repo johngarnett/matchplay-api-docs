@@ -1,0 +1,95 @@
+{
+  "tournamentId": 256371,
+  "name": "Westy Colfax Queens: 2026 Summer Season #7",
+  "date": "2026-07-24",
+  "locationId": "11099",
+  "locationName": "The 1up Arcade Bar - Westminster",
+  "playerCount": 12,
+  "ratingsDate": "2026-07-24",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m38955",
+      "name": "Hayley Mitrano",
+      "rating": 1536.88,
+      "dailyRatingChange": 1.91
+    },
+    {
+      "position": 1,
+      "playerId": "m7971",
+      "name": "Rach Duran",
+      "rating": 1538.86,
+      "dailyRatingChange": 6.22
+    },
+    {
+      "position": 3,
+      "playerId": "m24500",
+      "name": "Whitney Lockhart",
+      "rating": 1546.94,
+      "dailyRatingChange": 3.1
+    },
+    {
+      "position": 3,
+      "playerId": "m8006",
+      "name": "Kelli Raisler",
+      "rating": 1552.65,
+      "dailyRatingChange": 3.1
+    },
+    {
+      "position": 5,
+      "playerId": "m1469",
+      "name": "Masha Dare",
+      "rating": 1556.14,
+      "dailyRatingChange": -5.09
+    },
+    {
+      "position": 5,
+      "playerId": "m32344",
+      "name": "Karen Mooney",
+      "rating": 1464.32,
+      "dailyRatingChange": -1.25
+    },
+    {
+      "position": 7,
+      "playerId": "m45491",
+      "name": "Markie Cecelones",
+      "rating": 1489.78,
+      "dailyRatingChange": -0.58
+    },
+    {
+      "position": 8,
+      "playerId": "m568812",
+      "name": "Mila Carabajal",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 9,
+      "playerId": "m57795",
+      "name": "Kira Wulf",
+      "rating": 1345.18,
+      "dailyRatingChange": -1.43
+    },
+    {
+      "position": 10,
+      "playerId": "m538427",
+      "name": "Ashley Morgan",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 11,
+      "playerId": "i93758",
+      "name": "River Dare",
+      "rating": 1311.29,
+      "dailyRatingChange": -10.6
+    },
+    {
+      "position": 12,
+      "playerId": "m568811",
+      "name": "Michelle Greenwell",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

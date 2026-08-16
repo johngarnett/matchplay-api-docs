@@ -1,0 +1,260 @@
+{
+  "communityId": "94",
+  "playerCount": 19,
+  "ratingsDate": "2026-08-12",
+  "relatedCommunities": [
+    "56",
+    "7",
+    "119"
+  ],
+  "topVenues": [
+    {
+      "locationId": "4518",
+      "name": "Co. Bar",
+      "address": "610 East Main St, Frisco, CO, 80443, US",
+      "count": 155
+    },
+    {
+      "locationId": "13770",
+      "name": "Harris House",
+      "address": "Leadville, CO",
+      "count": 13
+    },
+    {
+      "locationId": "722",
+      "name": "Stumpy's Pizza",
+      "address": "138 S Wilcox St, Castle Rock, CO, 80104, US",
+      "count": 1
+    }
+  ],
+  "players": [
+    {
+      "id": "i6854",
+      "name": "Jordan Bebout",
+      "rating": 1744.78,
+      "rd": 44.18,
+      "ratingClass": "Expert",
+      "homeLocation": "Co. Bar",
+      "homeLocationId": "4518",
+      "percentile": 98.5745562957097,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m19898",
+      "name": "Peter Pierpont",
+      "rating": 1729.36,
+      "rd": 26.35,
+      "ratingClass": "Expert",
+      "homeLocation": "Co. Bar",
+      "homeLocationId": "4518",
+      "percentile": 98.12269995807519,
+      "changeDisplay": "+5.4",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m27188",
+      "name": "Tim Hosbach",
+      "rating": 1680.92,
+      "rd": 26.31,
+      "ratingClass": "A",
+      "homeLocation": "Co. Bar",
+      "homeLocationId": "4518",
+      "percentile": 95.22522942190339,
+      "changeDisplay": "+14.4",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m2473",
+      "name": "Jeff Rank",
+      "rating": 1667.33,
+      "rd": 27.84,
+      "ratingClass": "A",
+      "homeLocation": "Co. Bar",
+      "homeLocationId": "4518",
+      "percentile": 93.86966040899985,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m31402",
+      "name": "Owen Harris",
+      "rating": 1664.25,
+      "rd": 26.5,
+      "ratingClass": "A",
+      "homeLocation": "Co. Bar",
+      "homeLocationId": "4518",
+      "percentile": 93.54357851586155,
+      "changeDisplay": "-1.2",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "i79413",
+      "name": "Kevin Smerdell",
+      "rating": 1651.22,
+      "rd": 28.92,
+      "ratingClass": "A",
+      "homeLocation": "Co. Bar",
+      "homeLocationId": "4518",
+      "percentile": 91.87124423533795,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m42073",
+      "name": "Devin Michael",
+      "rating": 1650.18,
+      "rd": 27.5,
+      "ratingClass": "A",
+      "homeLocation": "Co. Bar",
+      "homeLocationId": "4518",
+      "percentile": 91.75944472911911,
+      "changeDisplay": "+4.8",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m34957",
+      "name": "Rob Harris",
+      "rating": 1580.54,
+      "rd": 27.22,
+      "ratingClass": "B",
+      "homeLocation": "Co. Bar",
+      "homeLocationId": "4518",
+      "percentile": 76.78762752131179,
+      "changeDisplay": "-6.3",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m46571",
+      "name": "Mariana Hosbach",
+      "rating": 1562.95,
+      "rd": 26.22,
+      "ratingClass": "B",
+      "homeLocation": "Co. Bar",
+      "homeLocationId": "4518",
+      "percentile": 71.2954767783109,
+      "changeDisplay": "-8.5",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "i82052",
+      "name": "Brett Esser",
+      "rating": 1507.17,
+      "rd": 32.03,
+      "ratingClass": "B",
+      "homeLocation": "Co. Bar",
+      "homeLocationId": "4518",
+      "percentile": 50.058228909488975,
+      "changeDisplay": "-5.2",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "i129675",
+      "name": "Ian Geise",
+      "rating": 1496.17,
+      "rd": 33.82,
+      "ratingClass": "C",
+      "homeLocation": "Co. Bar",
+      "homeLocationId": "4518",
+      "percentile": 45.53034890762566,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m40585",
+      "name": "Taylor Corris",
+      "rating": 1480.19,
+      "rd": 28.5,
+      "ratingClass": "C",
+      "homeLocation": "Co. Bar",
+      "homeLocationId": "4518",
+      "percentile": 38.97144454278661,
+      "changeDisplay": "-6.1",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m33134",
+      "name": "Sean Gallagher",
+      "rating": 1473.78,
+      "rd": 27.27,
+      "ratingClass": "C",
+      "homeLocation": "Co. Bar",
+      "homeLocationId": "4518",
+      "percentile": 36.390739274234875,
+      "changeDisplay": "+13.3",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "i111924",
+      "name": "Cory Shafer",
+      "rating": 1473.13,
+      "rd": 31.6,
+      "ratingClass": "C",
+      "homeLocation": "Co. Bar",
+      "homeLocationId": "4518",
+      "percentile": 36.18577351283365,
+      "changeDisplay": "-0.8",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "i82046",
+      "name": "Rachel Esser",
+      "rating": 1465.87,
+      "rd": 31.33,
+      "ratingClass": "C",
+      "homeLocation": "Co. Bar",
+      "homeLocationId": "4518",
+      "percentile": 33.209111659756836,
+      "changeDisplay": "-5.0",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "i12554",
+      "name": "Joel Godfrey",
+      "rating": 1456.38,
+      "rd": 51.69,
+      "ratingClass": "C",
+      "homeLocation": "Co. Bar",
+      "homeLocationId": "4518",
+      "percentile": 29.556994456607814,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i129677",
+      "name": "Jimmy Waters",
+      "rating": 1426.59,
+      "rd": 31,
+      "ratingClass": "C",
+      "homeLocation": "Co. Bar",
+      "homeLocationId": "4518",
+      "percentile": 19.592863464853032,
+      "changeDisplay": "+3.8",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "i96707",
+      "name": "Larken Petardi",
+      "rating": 1370.21,
+      "rd": 28.9,
+      "ratingClass": "D",
+      "homeLocation": "Co. Bar",
+      "homeLocationId": "4518",
+      "percentile": 6.726603624167327,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m53447",
+      "name": "Jimmy Waters",
+      "rating": null,
+      "rd": null,
+      "ratingClass": "N/A",
+      "homeLocation": "Co. Bar",
+      "homeLocationId": "4518",
+      "percentile": null,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

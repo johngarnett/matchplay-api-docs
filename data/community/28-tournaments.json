@@ -1,0 +1,129 @@
+{
+  "communityId": "28",
+  "locations": [
+    {
+      "id": "7392",
+      "name": "Full Tilt Arcade & Pinball",
+      "address": "701 N Fail Rd, La Porte, IN 46350, US",
+      "tournaments": [
+        {
+          "id": 222656,
+          "name": "Full Tilt Arcade - 4 Strike Tournament - Aug 12th",
+          "date": "8/12/2026",
+          "playerCount": 5,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m32433",
+              "name": "Chris Burgo",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "p475869",
+              "name": "Kent Rogers",
+              "isCommunityMember": false
+            },
+            {
+              "position": 3,
+              "playerId": "m22683",
+              "name": "Chris Friend",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m30411",
+              "name": "Mark Schult",
+              "isCommunityMember": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "12802",
+      "name": "Scanlines Arcade",
+      "address": "2320 Valentine Dr, Kokomo, IN 46902, US",
+      "tournaments": [
+        {
+          "id": 266134,
+          "name": "Scanlines Arcade Womens Stern Army Pinball Tournament",
+          "date": "8/8/2026",
+          "playerCount": 5,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m55605",
+              "name": "Olivia Smith",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m56304",
+              "name": "Misti Sukle",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m56764",
+              "name": "Kelly Riley",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "p555255",
+              "name": "Lex",
+              "isCommunityMember": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1451",
+      "name": "Wizard's World",
+      "address": "14613 Lima Rd, Fort Wayne, IN 46818, USA",
+      "tournaments": [
+        {
+          "id": 266473,
+          "name": "Finals for Stern Army Fort Wayne Pinball Wizard's World Weekly Aug 10, 2026",
+          "date": "8/10/2026",
+          "playerCount": 8,
+          "qualifying": {
+            "id": 266347,
+            "name": "Stern Army Fort Wayne Pinball Wizard's World Weekly Aug 10, 2026",
+            "playerCount": 41
+          },
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m54838",
+              "name": "Andrew Carey IN",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m23372",
+              "name": "Austin Deventer",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m13190",
+              "name": "Matt Winteregg",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m17652",
+              "name": "Kurt Swank",
+              "isCommunityMember": true
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

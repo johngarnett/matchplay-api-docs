@@ -1,0 +1,235 @@
+{
+  "tournamentId": 263490,
+  "name": "Southeastern PA Pinball League - Summer 2026 W7",
+  "date": "2026-07-31",
+  "locationId": "1142",
+  "locationName": "Pinball Gallery",
+  "playerCount": 32,
+  "ratingsDate": "2026-07-31",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m28868",
+      "name": "Stefano Pinti",
+      "rating": 1674.49,
+      "dailyRatingChange": 12.58
+    },
+    {
+      "position": 2,
+      "playerId": "m3161",
+      "name": "Michael Reimer",
+      "rating": 1617.5,
+      "dailyRatingChange": -0.79
+    },
+    {
+      "position": 2,
+      "playerId": "m42457",
+      "name": "Jason Patterson PA",
+      "rating": 1611.91,
+      "dailyRatingChange": 7.59
+    },
+    {
+      "position": 2,
+      "playerId": "i160907",
+      "name": "Trey Poland",
+      "rating": 1470.53,
+      "dailyRatingChange": 29.33
+    },
+    {
+      "position": 5,
+      "playerId": "m18203",
+      "name": "Matt Strzelecki",
+      "rating": 1709.64,
+      "dailyRatingChange": -0.06
+    },
+    {
+      "position": 6,
+      "playerId": "m9660",
+      "name": "Jamme Thomas",
+      "rating": 1548.18,
+      "dailyRatingChange": 0.89
+    },
+    {
+      "position": 7,
+      "playerId": "m8086",
+      "name": "Gabe Patterson",
+      "rating": 1536.28,
+      "dailyRatingChange": 7.73
+    },
+    {
+      "position": 7,
+      "playerId": "m36118",
+      "name": "Don Werth",
+      "rating": 1660.21,
+      "dailyRatingChange": 3.82
+    },
+    {
+      "position": 7,
+      "playerId": "m54031",
+      "name": "Peter Hovey",
+      "rating": 1433.17,
+      "dailyRatingChange": 1.91
+    },
+    {
+      "position": 7,
+      "playerId": "m558564",
+      "name": "Isaiah Gingrich",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 11,
+      "playerId": "m53707",
+      "name": "Bill Lorenz",
+      "rating": 1529.45,
+      "dailyRatingChange": 2.95
+    },
+    {
+      "position": 11,
+      "playerId": "m44941",
+      "name": "James Battaglia",
+      "rating": 1383.34,
+      "dailyRatingChange": 9.65
+    },
+    {
+      "position": 11,
+      "playerId": "i6725",
+      "name": "Craig Powell",
+      "rating": 1614.92,
+      "dailyRatingChange": 3.19
+    },
+    {
+      "position": 11,
+      "playerId": "m33645",
+      "name": "Adam Saylor",
+      "rating": 1499.58,
+      "dailyRatingChange": 5.95
+    },
+    {
+      "position": 15,
+      "playerId": "i7162",
+      "name": "Frank Egitto",
+      "rating": 1662.53,
+      "dailyRatingChange": -1.66
+    },
+    {
+      "position": 15,
+      "playerId": "i82647",
+      "name": "Geoff Warke",
+      "rating": 1624.55,
+      "dailyRatingChange": 2.42
+    },
+    {
+      "position": 15,
+      "playerId": "i6999",
+      "name": "Dom Carr",
+      "rating": 1493.93,
+      "dailyRatingChange": -2.47
+    },
+    {
+      "position": 15,
+      "playerId": "m37702",
+      "name": "Ryan Strobel",
+      "rating": 1539.62,
+      "dailyRatingChange": 5.23
+    },
+    {
+      "position": 15,
+      "playerId": "m4147",
+      "name": "Mike Rudowsky",
+      "rating": 1542.44,
+      "dailyRatingChange": 1.29
+    },
+    {
+      "position": 20,
+      "playerId": "m55333",
+      "name": "Karen Babala",
+      "rating": 1373.67,
+      "dailyRatingChange": 0.92
+    },
+    {
+      "position": 21,
+      "playerId": "i61059",
+      "name": "Keith Saroka",
+      "rating": 1621.27,
+      "dailyRatingChange": -2.81
+    },
+    {
+      "position": 22,
+      "playerId": "m22008",
+      "name": "Craig Patton",
+      "rating": 1496.14,
+      "dailyRatingChange": -4.92
+    },
+    {
+      "position": 22,
+      "playerId": "m22097",
+      "name": "Todd Reinmiller",
+      "rating": 1381.57,
+      "dailyRatingChange": 1.39
+    },
+    {
+      "position": 22,
+      "playerId": "i155920",
+      "name": "Rob Podbielski",
+      "rating": 1346.29,
+      "dailyRatingChange": 0.79
+    },
+    {
+      "position": 25,
+      "playerId": "m56454",
+      "name": "Andrew Babala",
+      "rating": 1454.7,
+      "dailyRatingChange": -15.89
+    },
+    {
+      "position": 25,
+      "playerId": "i160469",
+      "name": "JD Foltz",
+      "rating": 1330.69,
+      "dailyRatingChange": -3.61
+    },
+    {
+      "position": 27,
+      "playerId": "m12406",
+      "name": "Mark R. Lariviere",
+      "rating": 1512.91,
+      "dailyRatingChange": -5.48
+    },
+    {
+      "position": 27,
+      "playerId": "m570675",
+      "name": "Jason Podbielski",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 29,
+      "playerId": "m36974",
+      "name": "Guy Merrill",
+      "rating": 1474.73,
+      "dailyRatingChange": -6.36
+    },
+    {
+      "position": 29,
+      "playerId": "m22081",
+      "name": "Matt Zwitkowits",
+      "rating": 1638.65,
+      "dailyRatingChange": -14.46
+    },
+    {
+      "position": 29,
+      "playerId": "m44812",
+      "name": "Ken Baum",
+      "rating": 1454.3,
+      "dailyRatingChange": -13.7
+    },
+    {
+      "position": 29,
+      "playerId": "m59488",
+      "name": "Adam Keyes",
+      "rating": 1587.99,
+      "dailyRatingChange": -11.15
+    }
+  ]
+}

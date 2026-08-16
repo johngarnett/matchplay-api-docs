@@ -1,0 +1,149 @@
+{
+  "locationId": "3942",
+  "venueName": "The Arcade",
+  "venueAddress": "906 E 3rd St N, Wichita, KS 67202, USA",
+  "tournaments": [
+    {
+      "id": 266572,
+      "name": "Finals for Thursday Night Pinball: TIMEOUT",
+      "date": "8/13/2026",
+      "playerCount": 8,
+      "qualifying": {
+        "id": 266573,
+        "name": "Thursday Night Pinball: TIMEOUT",
+        "playerCount": 23
+      },
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m2254",
+          "name": "Preston Pywell",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "i125068",
+          "name": "Dennis Dixon",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m5279",
+          "name": "Sam Swain",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m44195",
+          "name": "Cody Reynolds",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 265879,
+      "name": "A Final for Thursday Night Pinball League Summer Session '26",
+      "date": "8/6/2026",
+      "playerCount": 8,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m176",
+          "name": "Rob Huffman",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m44195",
+          "name": "Cody Reynolds",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m37758",
+          "name": "Jacob Nelson",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m9164",
+          "name": "Cory Moren",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 265881,
+      "name": "B Final for Thursday Night Pinball League Session '26",
+      "date": "8/6/2026",
+      "playerCount": 18,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "i162658",
+          "name": "Richard Paul III",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m11050",
+          "name": "Logan Wiehn",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m51421",
+          "name": "Spencer Hamilton",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m37993",
+          "name": "Courtland Elliott",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m6417",
+          "name": "Chad Cowan",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 263768,
+      "name": "The Arcade's Monthly Plunge",
+      "date": "7/25/2026",
+      "playerCount": 30,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "i125068",
+          "name": "Dennis Dixon",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m176",
+          "name": "Rob Huffman",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m2254",
+          "name": "Preston Pywell",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m44400",
+          "name": "Jacob Miller",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

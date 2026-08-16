@@ -1,0 +1,67 @@
+{
+  "tournamentId": 264010,
+  "name": "Finals for Slingshot Transformers Launch Party",
+  "date": "2026-07-27",
+  "locationId": "11872",
+  "locationName": "Slingshot Pinball",
+  "playerCount": 8,
+  "ratingsDate": "2026-07-27",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m15018",
+      "name": "Lawrence Aguiar",
+      "rating": 1703.3,
+      "dailyRatingChange": 5.13
+    },
+    {
+      "position": 2,
+      "playerId": "m17705",
+      "name": "Kwang Chong",
+      "rating": 1675.55,
+      "dailyRatingChange": 3.54
+    },
+    {
+      "position": 3,
+      "playerId": "m44538",
+      "name": "Minh Nguyen",
+      "rating": 1646.95,
+      "dailyRatingChange": 4.5
+    },
+    {
+      "position": 4,
+      "playerId": "m3197",
+      "name": "Tony Lavigna",
+      "rating": 1688.11,
+      "dailyRatingChange": -0.69
+    },
+    {
+      "position": 5,
+      "playerId": "m18606",
+      "name": "Brandon Schuler",
+      "rating": 1517.32,
+      "dailyRatingChange": 6.49
+    },
+    {
+      "position": 6,
+      "playerId": "m35145",
+      "name": "Edgar Flores",
+      "rating": 1674.4,
+      "dailyRatingChange": -5.11
+    },
+    {
+      "position": 7,
+      "playerId": "m41700",
+      "name": "Edgard Arroliga",
+      "rating": 1591.6,
+      "dailyRatingChange": -4.79
+    },
+    {
+      "position": 8,
+      "playerId": "m47522",
+      "name": "Pierre Tschaeppaet",
+      "rating": 1612.89,
+      "dailyRatingChange": -9.13
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "tournamentId": 261087,
+  "name": "Finals for Wyoming Pinball League - August Tournament",
+  "date": "2026-08-09",
+  "locationId": "8592",
+  "locationName": "Cody Craft Brewing",
+  "playerCount": 6,
+  "ratingsDate": "2026-08-09",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m43438",
+      "name": "Corey Anco",
+      "rating": 1696.12,
+      "dailyRatingChange": 13.17
+    },
+    {
+      "position": 2,
+      "playerId": "m52022",
+      "name": "Trenton Agee",
+      "rating": 1602.65,
+      "dailyRatingChange": 1.69
+    },
+    {
+      "position": 3,
+      "playerId": "m51057",
+      "name": "Jonathan Zakel",
+      "rating": 1571.26,
+      "dailyRatingChange": 5.24
+    },
+    {
+      "position": 4,
+      "playerId": "m62766",
+      "name": "Nick Simpson",
+      "rating": 1549.63,
+      "dailyRatingChange": null
+    },
+    {
+      "position": 5,
+      "playerId": "m52065",
+      "name": "Benjamin Galagan",
+      "rating": 1591.67,
+      "dailyRatingChange": 3.19
+    },
+    {
+      "position": 5,
+      "playerId": "m52804",
+      "name": "Kim Jacobs",
+      "rating": 1498.15,
+      "dailyRatingChange": 16.76
+    }
+  ]
+}

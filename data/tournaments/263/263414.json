@@ -1,0 +1,74 @@
+{
+  "tournamentId": 263414,
+  "name": "Playoffs MMG Pins and Pours S4 - Group B",
+  "date": "2026-07-24",
+  "locationId": "9842",
+  "locationName": "MarTEEnez Minigolf & Arcade",
+  "playerCount": 9,
+  "ratingsDate": "2026-07-24",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m43378",
+      "name": "John Ortiz",
+      "rating": 1520.6,
+      "dailyRatingChange": -0.61
+    },
+    {
+      "position": 2,
+      "playerId": "m522112",
+      "name": "Little Frankie",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 3,
+      "playerId": "m53177",
+      "name": "O D",
+      "rating": 1566.79,
+      "dailyRatingChange": 0.71
+    },
+    {
+      "position": 4,
+      "playerId": "m51930",
+      "name": "Ken Davidson",
+      "rating": 1450.47,
+      "dailyRatingChange": -1.08
+    },
+    {
+      "position": 5,
+      "playerId": "m49354",
+      "name": "Kelsey Bennett",
+      "rating": 1461.59,
+      "dailyRatingChange": -2.61
+    },
+    {
+      "position": 5,
+      "playerId": "m12601",
+      "name": "Michael N",
+      "rating": 1583.66,
+      "dailyRatingChange": -1.82
+    },
+    {
+      "position": 5,
+      "playerId": "m56697",
+      "name": "Kyle G",
+      "rating": 1486.48,
+      "dailyRatingChange": -5.34
+    },
+    {
+      "position": 5,
+      "playerId": "m56696",
+      "name": "Gabie C",
+      "rating": 1491.77,
+      "dailyRatingChange": -3.69
+    },
+    {
+      "position": 9,
+      "playerId": "m55321",
+      "name": "Frank Harrington",
+      "rating": 1428.81,
+      "dailyRatingChange": -5.94
+    }
+  ]
+}

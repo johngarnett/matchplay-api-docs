@@ -1,0 +1,102 @@
+{
+  "tournamentId": 227471,
+  "name": "Pinball At The Pig: Weekly Head to Head Match Play Tournament - 8/4/2026",
+  "date": "2026-08-05",
+  "locationId": "10577",
+  "locationName": "South Bay Dickerson's BBQ",
+  "playerCount": 13,
+  "ratingsDate": "2026-08-05",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m45663",
+      "name": "Alex Lyon",
+      "rating": 1536.73,
+      "dailyRatingChange": 9.41
+    },
+    {
+      "position": 2,
+      "playerId": "m18779",
+      "name": "Mark Beerbower",
+      "rating": 1656.66,
+      "dailyRatingChange": -0.11
+    },
+    {
+      "position": 3,
+      "playerId": "m56396",
+      "name": "Ky Liebau",
+      "rating": 1490.01,
+      "dailyRatingChange": 4.92
+    },
+    {
+      "position": 4,
+      "playerId": "m56469",
+      "name": "Sean Harris WA",
+      "rating": 1489.3,
+      "dailyRatingChange": 2.43
+    },
+    {
+      "position": 5,
+      "playerId": "m49486",
+      "name": "Dirt McGirt",
+      "rating": 1511.05,
+      "dailyRatingChange": 0.75
+    },
+    {
+      "position": 6,
+      "playerId": "m60072",
+      "name": "Willy shaughnessy",
+      "rating": 1490.9,
+      "dailyRatingChange": 0.5
+    },
+    {
+      "position": 7,
+      "playerId": "m50571",
+      "name": "Brittany Gillia",
+      "rating": 1487.29,
+      "dailyRatingChange": -0.92
+    },
+    {
+      "position": 8,
+      "playerId": "m58806",
+      "name": "Jayden Gregory",
+      "rating": 1587.94,
+      "dailyRatingChange": -4.31
+    },
+    {
+      "position": 9,
+      "playerId": "m52464",
+      "name": "Evelyn Gutierrez",
+      "rating": 1294.4,
+      "dailyRatingChange": 3.98
+    },
+    {
+      "position": 10,
+      "playerId": "m49538",
+      "name": "Jeff Gregory",
+      "rating": 1420.49,
+      "dailyRatingChange": -1.78
+    },
+    {
+      "position": 11,
+      "playerId": "m531493",
+      "name": "Casey Mauck",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 11,
+      "playerId": "m46353",
+      "name": "Levi Robischon",
+      "rating": 1447.23,
+      "dailyRatingChange": -4.02
+    },
+    {
+      "position": 13,
+      "playerId": "m584677",
+      "name": "Amanda Lohmeyer",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

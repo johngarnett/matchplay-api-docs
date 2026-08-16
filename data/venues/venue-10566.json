@@ -1,0 +1,89 @@
+{
+  "locationId": "10566",
+  "name": "Pinball Republic",
+  "address": "Centrale Shopping Centre, Unit 60, 21 Lower Mall, N End, Croydon CR0 1TY",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 5,
+  "relatedVenues": [
+    {
+      "locationId": "11885",
+      "name": "Pinball Republic",
+      "address": "Unit 60 Centrale Shopping Centre, Lower Ground Floor, London, England CR0 1TY, GB",
+      "count": 8
+    },
+    {
+      "locationId": "9720",
+      "name": "Pinball Republic",
+      "address": "Unit 60, Lower Ground Floor,  Centrale Westfields Mall, Croydon",
+      "count": 4
+    },
+    {
+      "locationId": "5471",
+      "name": "Domino Arcade",
+      "address": "Darroch, Wych Hill Lane, Woking, England, GU22 0AA, GB",
+      "count": 1
+    }
+  ],
+  "players": [
+    {
+      "id": "m8744",
+      "name": "Tim Thornton",
+      "rating": 1603.92,
+      "rd": 30.92,
+      "ratingClass": "A",
+      "homeLocation": "Pinball Republic",
+      "homeLocationId": "10566",
+      "percentile": 82.94125867610751,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m6910",
+      "name": "Ed Rojas",
+      "rating": 1602.12,
+      "rd": 27.89,
+      "ratingClass": "A",
+      "homeLocation": "Pinball Republic",
+      "homeLocationId": "9720",
+      "percentile": 82.53132715330507,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m16434",
+      "name": "Anton Stewart",
+      "rating": 1596.34,
+      "rd": 26.36,
+      "ratingClass": "B",
+      "homeLocation": "Pinball Republic",
+      "homeLocationId": "11885",
+      "percentile": 81.15246657660595,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m8538",
+      "name": "Nick Hamill",
+      "rating": 1586.72,
+      "rd": 23.5,
+      "ratingClass": "B",
+      "homeLocation": "Pinball Republic",
+      "homeLocationId": "9720",
+      "percentile": 78.52051986770392,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m22382",
+      "name": "Tony Greenwood",
+      "rating": 1477.22,
+      "rd": 24.87,
+      "ratingClass": "C",
+      "homeLocation": "Pinball Republic",
+      "homeLocationId": "11885",
+      "percentile": 37.81618297852518,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

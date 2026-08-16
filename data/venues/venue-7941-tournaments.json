@@ -1,0 +1,40 @@
+{
+  "locationId": "7941",
+  "venueName": "Heart State Brewing",
+  "venueAddress": "750 Cross Pointe Rd, Columbus, OH 43230",
+  "tournaments": [
+    {
+      "id": 264683,
+      "name": "The Real Joy Division Finals for League Super Awesome Season 41 (clone)",
+      "date": "7/30/2026",
+      "playerCount": 10,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m343",
+          "name": "John Geiger",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m7508",
+          "name": "tyler trollinger",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m3320",
+          "name": "Ryan Butke",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m4459",
+          "name": "Lucas Berger",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

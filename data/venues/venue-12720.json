@@ -1,0 +1,293 @@
+{
+  "locationId": "12720",
+  "name": "Caputi's Sheridan Pub",
+  "address": "2351 Sheridan Dr, Tonawanda, NY 14150, US",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 22,
+  "relatedVenues": [
+    {
+      "locationId": "7208",
+      "name": "Rochester Pinball Collective",
+      "address": "349 West Commercial Street, East Rochester, NY 14445, US",
+      "count": 4
+    },
+    {
+      "locationId": "11954",
+      "name": "Nickel City Pinball Club",
+      "address": "5521 Transit Rd, Depew, NY 14043, US",
+      "count": 3
+    },
+    {
+      "locationId": "11492",
+      "name": "Pinky & Clyde's Arcade Bar",
+      "address": "1044 East Montague Ave, Unit 101 North Charleston, SC 29405",
+      "count": 1
+    }
+  ],
+  "players": [
+    {
+      "id": "m5090",
+      "name": "Summer Galarneau",
+      "rating": 1569.35,
+      "rd": 31.58,
+      "ratingClass": "B",
+      "homeLocation": "Caputi's Sheridan Pub",
+      "homeLocationId": "12720",
+      "percentile": 73.30786789025015,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m1715",
+      "name": "Brandy Kaiser",
+      "rating": 1563.65,
+      "rd": 36.4,
+      "ratingClass": "B",
+      "homeLocation": "Caputi's Sheridan Pub",
+      "homeLocationId": "12720",
+      "percentile": 71.53305072902594,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m6326",
+      "name": "Gretchen Kamke",
+      "rating": 1561.18,
+      "rd": 32.29,
+      "ratingClass": "B",
+      "homeLocation": "Pinky & Clyde's Arcade Bar",
+      "homeLocationId": "11492",
+      "percentile": 70.68989611962547,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i67306",
+      "name": "Kelsey Faulise",
+      "rating": 1556.8,
+      "rd": 38.32,
+      "ratingClass": "B",
+      "homeLocation": "Caputi's Sheridan Pub",
+      "homeLocationId": "12720",
+      "percentile": 69.27842735361253,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m55123",
+      "name": "Natalie Battaglia-Szyjka",
+      "rating": 1551.08,
+      "rd": 38.84,
+      "ratingClass": "B",
+      "homeLocation": "Caputi's Sheridan Pub",
+      "homeLocationId": "12720",
+      "percentile": 67.12162854614058,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i57885",
+      "name": "Tess Schwartz",
+      "rating": 1548.92,
+      "rd": 35.39,
+      "ratingClass": "B",
+      "homeLocation": "Caputi's Sheridan Pub",
+      "homeLocationId": "12720",
+      "percentile": 66.26449899846276,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m26577",
+      "name": "Kristie Weese",
+      "rating": 1534.46,
+      "rd": 22.96,
+      "ratingClass": "B",
+      "homeLocation": "Rochester Pinball Collective",
+      "homeLocationId": "7208",
+      "percentile": 60.77700656822099,
+      "changeDisplay": "-8.5",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "i144678",
+      "name": "Katie Banaszak",
+      "rating": 1496.3,
+      "rd": 42.15,
+      "ratingClass": "C",
+      "homeLocation": "Caputi's Sheridan Pub",
+      "homeLocationId": "12720",
+      "percentile": 45.56761540969861,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i52815",
+      "name": "Sharon Zimpfer",
+      "rating": 1491.71,
+      "rd": 36.5,
+      "ratingClass": "C",
+      "homeLocation": "Caputi's Sheridan Pub",
+      "homeLocationId": "12720",
+      "percentile": 43.736898495364976,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i57890",
+      "name": "Sherry Evans",
+      "rating": 1485.44,
+      "rd": 38.92,
+      "ratingClass": "C",
+      "homeLocation": "Caputi's Sheridan Pub",
+      "homeLocationId": "12720",
+      "percentile": 41.10029347370382,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i57886",
+      "name": "Liz Sharratt",
+      "rating": 1476.69,
+      "rd": 39.56,
+      "ratingClass": "C",
+      "homeLocation": "Caputi's Sheridan Pub",
+      "homeLocationId": "12720",
+      "percentile": 37.573950715051005,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i59395",
+      "name": "Carrie Hosenfeld",
+      "rating": 1474.74,
+      "rd": 36.55,
+      "ratingClass": "C",
+      "homeLocation": "Caputi's Sheridan Pub",
+      "homeLocationId": "12720",
+      "percentile": 36.80998742255555,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i120540",
+      "name": "Caitlin O'Keefe",
+      "rating": 1469.76,
+      "rd": 49.49,
+      "ratingClass": "C",
+      "homeLocation": "Caputi's Sheridan Pub",
+      "homeLocationId": "12720",
+      "percentile": 34.79293799785717,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i59389",
+      "name": "Linda Gale",
+      "rating": 1466.59,
+      "rd": 42.73,
+      "ratingClass": "C",
+      "homeLocation": "Caputi's Sheridan Pub",
+      "homeLocationId": "12720",
+      "percentile": 33.474635487026596,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i120542",
+      "name": "Elizabeth O'Keefe",
+      "rating": 1458.21,
+      "rd": 52.61,
+      "ratingClass": "C",
+      "homeLocation": "Caputi's Sheridan Pub",
+      "homeLocationId": "12720",
+      "percentile": 30.22313318116178,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i57889",
+      "name": "Pamela Scinta",
+      "rating": 1433.43,
+      "rd": 35.42,
+      "ratingClass": "C",
+      "homeLocation": "Caputi's Sheridan Pub",
+      "homeLocationId": "12720",
+      "percentile": 21.581963012996695,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i57892",
+      "name": "Dani Heinemann",
+      "rating": 1427.5,
+      "rd": 38.94,
+      "ratingClass": "C",
+      "homeLocation": "Caputi's Sheridan Pub",
+      "homeLocationId": "12720",
+      "percentile": 19.8350957283272,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m55128",
+      "name": "Jackie Lemon",
+      "rating": 1410.74,
+      "rd": 37.21,
+      "ratingClass": "C",
+      "homeLocation": "Caputi's Sheridan Pub",
+      "homeLocationId": "12720",
+      "percentile": 15.269949224390924,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m8251",
+      "name": "Phyllis Rubino",
+      "rating": 1404.53,
+      "rd": 31.42,
+      "ratingClass": "C",
+      "homeLocation": "Caputi's Sheridan Pub",
+      "homeLocationId": "12720",
+      "percentile": 13.67214794801323,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i57882",
+      "name": "Jen Wagle",
+      "rating": 1390.52,
+      "rd": 56.06,
+      "ratingClass": "D",
+      "homeLocation": "Caputi's Sheridan Pub",
+      "homeLocationId": "12720",
+      "percentile": 10.36474588903899,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m9270",
+      "name": "Pam Scinta",
+      "rating": 1375.76,
+      "rd": 55.17,
+      "ratingClass": "D",
+      "homeLocation": "Caputi's Sheridan Pub",
+      "homeLocationId": "12720",
+      "percentile": 7.560441608049564,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i57891",
+      "name": "Ryann Foster",
+      "rating": 1357.47,
+      "rd": 44.61,
+      "ratingClass": "D",
+      "homeLocation": "Caputi's Sheridan Pub",
+      "homeLocationId": "12720",
+      "percentile": 5.086877532957563,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

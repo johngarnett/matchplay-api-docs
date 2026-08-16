@@ -1,0 +1,53 @@
+{
+  "tournamentId": 253471,
+  "name": "Belles & Chimes at The Escape",
+  "date": "2026-07-18",
+  "locationId": "10192",
+  "locationName": "The Escape Gamebar",
+  "playerCount": 6,
+  "ratingsDate": "2026-07-18",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m6126",
+      "name": "Karrie Weddle",
+      "rating": 1500.26,
+      "dailyRatingChange": 2.07
+    },
+    {
+      "position": 2,
+      "playerId": "m37504",
+      "name": "Katie Williams",
+      "rating": 1533.74,
+      "dailyRatingChange": 0.86
+    },
+    {
+      "position": 3,
+      "playerId": "m31830",
+      "name": "Kamarin Winans",
+      "rating": 1428.09,
+      "dailyRatingChange": 7.87
+    },
+    {
+      "position": 3,
+      "playerId": "m37464",
+      "name": "Tiffany Thomas",
+      "rating": 1544.79,
+      "dailyRatingChange": -1.69
+    },
+    {
+      "position": 5,
+      "playerId": "m3301",
+      "name": "Tina Park",
+      "rating": 1426.44,
+      "dailyRatingChange": 4.69
+    },
+    {
+      "position": 6,
+      "playerId": "m37517",
+      "name": "Alejandra Thomas",
+      "rating": 1393.52,
+      "dailyRatingChange": -4.94
+    }
+  ]
+}

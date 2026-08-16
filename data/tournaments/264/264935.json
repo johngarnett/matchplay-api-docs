@@ -1,0 +1,67 @@
+{
+  "tournamentId": 264935,
+  "name": "Finals for Pins & Pirates League - Season #11 -2",
+  "date": "2026-08-01",
+  "locationId": "8081",
+  "locationName": "Captain's Arcade Showroom",
+  "playerCount": 8,
+  "ratingsDate": "2026-08-01",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m10264",
+      "name": "Scott Macias",
+      "rating": 1811.12,
+      "dailyRatingChange": -1.72
+    },
+    {
+      "position": 2,
+      "playerId": "m2842",
+      "name": "Johnny Modica",
+      "rating": 1749.4,
+      "dailyRatingChange": 7.11
+    },
+    {
+      "position": 3,
+      "playerId": "m7803",
+      "name": "Lisa Buhrmester",
+      "rating": 1643.72,
+      "dailyRatingChange": 9.53
+    },
+    {
+      "position": 4,
+      "playerId": "m26158",
+      "name": "Robert Potter",
+      "rating": 1791.5,
+      "dailyRatingChange": -6.26
+    },
+    {
+      "position": 5,
+      "playerId": "m13309",
+      "name": "Brian Sutherland",
+      "rating": 1674.01,
+      "dailyRatingChange": 1.15
+    },
+    {
+      "position": 6,
+      "playerId": "m49252",
+      "name": "Jason Solomon",
+      "rating": 1599,
+      "dailyRatingChange": 2.28
+    },
+    {
+      "position": 6,
+      "playerId": "m13926",
+      "name": "Michael Kostolnik",
+      "rating": 1705.67,
+      "dailyRatingChange": -12.65
+    },
+    {
+      "position": 8,
+      "playerId": "m40609",
+      "name": "Ku Paik",
+      "rating": 1642.81,
+      "dailyRatingChange": -4.83
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "tournamentId": 263431,
+  "name": "Finals for I/O Monthly Stern Army Tournament July",
+  "date": "2026-07-23",
+  "locationId": "12584",
+  "locationName": "I/O Arcade Bar",
+  "playerCount": 4,
+  "ratingsDate": "2026-07-23",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m22640",
+      "name": "Keith Waz",
+      "rating": 1710.92,
+      "dailyRatingChange": 14.98
+    },
+    {
+      "position": 2,
+      "playerId": "m55164",
+      "name": "Julian Bundy",
+      "rating": 1675.52,
+      "dailyRatingChange": 19.33
+    },
+    {
+      "position": 3,
+      "playerId": "m9062",
+      "name": "Ken Kulig",
+      "rating": 1657.34,
+      "dailyRatingChange": -0.7
+    },
+    {
+      "position": 4,
+      "playerId": "m28141",
+      "name": "Mike Kennedy",
+      "rating": 1651.41,
+      "dailyRatingChange": -1.46
+    }
+  ]
+}

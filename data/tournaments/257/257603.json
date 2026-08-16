@@ -1,0 +1,130 @@
+{
+  "tournamentId": 257603,
+  "name": "2CP Stern ARMY IFPA \"Battle of the Bands\" 7 Strikes Knockout Tournament",
+  "date": "2026-07-26",
+  "locationId": "13096",
+  "locationName": "Two Cousins Pinball",
+  "playerCount": 17,
+  "ratingsDate": "2026-07-26",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m391",
+      "name": "Eric Russell CNY",
+      "rating": 1718.15,
+      "dailyRatingChange": 13.66
+    },
+    {
+      "position": 2,
+      "playerId": "m59925",
+      "name": "Alex Tracy",
+      "rating": 1559.29,
+      "dailyRatingChange": 38.19
+    },
+    {
+      "position": 3,
+      "playerId": "i151529",
+      "name": "Ivan Potocnik",
+      "rating": 1601.02,
+      "dailyRatingChange": 13.21
+    },
+    {
+      "position": 4,
+      "playerId": "i147184",
+      "name": "Jason Horvath",
+      "rating": 1557.1,
+      "dailyRatingChange": -0.02
+    },
+    {
+      "position": 5,
+      "playerId": "m59905",
+      "name": "John Dent",
+      "rating": 1524.7,
+      "dailyRatingChange": 19.87
+    },
+    {
+      "position": 6,
+      "playerId": "m60107",
+      "name": "Jeff Panasen",
+      "rating": 1549.97,
+      "dailyRatingChange": -5.72
+    },
+    {
+      "position": 7,
+      "playerId": "m58604",
+      "name": "Stacy Rieck",
+      "rating": 1444.04,
+      "dailyRatingChange": 4.06
+    },
+    {
+      "position": 8,
+      "playerId": "m581903",
+      "name": "Michael Fatiuk",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 8,
+      "playerId": "m581869",
+      "name": "Chris Furney",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 8,
+      "playerId": "m60089",
+      "name": "Shannon David",
+      "rating": 1450.08,
+      "dailyRatingChange": -2.35
+    },
+    {
+      "position": 8,
+      "playerId": "m62274",
+      "name": "Arthur Brady",
+      "rating": 1478.91,
+      "dailyRatingChange": null
+    },
+    {
+      "position": 12,
+      "playerId": "i160427",
+      "name": "Matt Wojcik",
+      "rating": 1467.64,
+      "dailyRatingChange": -40.5
+    },
+    {
+      "position": 12,
+      "playerId": "m581901",
+      "name": "Sydney Lawson",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 14,
+      "playerId": "i156918",
+      "name": "Chris Dechene CNY",
+      "rating": 1441.94,
+      "dailyRatingChange": -13.87
+    },
+    {
+      "position": 14,
+      "playerId": "m60164",
+      "name": "Kristopher Korzec",
+      "rating": 1488.22,
+      "dailyRatingChange": -9.3
+    },
+    {
+      "position": 16,
+      "playerId": "i155306",
+      "name": "Craig Battes",
+      "rating": 1383.79,
+      "dailyRatingChange": -39.77
+    },
+    {
+      "position": 17,
+      "playerId": "m58603",
+      "name": "Jason Rieck",
+      "rating": 1387.87,
+      "dailyRatingChange": -12.37
+    }
+  ]
+}

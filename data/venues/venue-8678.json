@@ -1,0 +1,371 @@
+{
+  "locationId": "8678",
+  "name": "Volition Brewing Co.",
+  "address": "112 W North Bend Way, North Bend, WA 98045, US",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 25,
+  "relatedVenues": [
+    {
+      "locationId": "9778",
+      "name": "Black Raven Brewing - Woodinville",
+      "address": "15902 Redmond - Woodinville Rd NE, Woodinville, WA 98072, US",
+      "count": 21
+    },
+    {
+      "locationId": "1893",
+      "name": "The Ice Box",
+      "address": "615 NW Bright St, Seattle, WA 98107, USA",
+      "count": 16
+    },
+    {
+      "locationId": "7165",
+      "name": "8-Bit Arcade Bar",
+      "address": "916 South 3rd Street, Renton, WA 98057, US",
+      "count": 6
+    },
+    {
+      "locationId": "5959",
+      "name": "Another Castle Arcade Edition Edmonds",
+      "address": "23303 Hwy 99 c, Edmonds, WA 98026, USA",
+      "count": 5
+    },
+    {
+      "locationId": "8789",
+      "name": "Flip Off Arcade",
+      "address": "15941 Meridian Ave E, Puyallup, WA 98374, US",
+      "count": 4
+    },
+    {
+      "locationId": "12988",
+      "name": "The SandBar & Grill",
+      "address": "1941 Marine View Dr, Tacoma, WA 98422, US",
+      "count": 2
+    },
+    {
+      "locationId": "161",
+      "name": "8 Bit Arcade",
+      "address": "",
+      "count": 1
+    },
+    {
+      "locationId": "6280",
+      "name": "Admiral Pub",
+      "address": "2306 California Ave SW, Seattle, WA 98116, USA",
+      "count": 1
+    },
+    {
+      "locationId": "6346",
+      "name": "NWPAS",
+      "address": "",
+      "count": 1
+    },
+    {
+      "locationId": "7491",
+      "name": "Jupiter Gameroom",
+      "address": "2126 2nd Ave Suite A, Seattle, WA 98121, US",
+      "count": 1
+    }
+  ],
+  "players": [
+    {
+      "id": "m36756",
+      "name": "Chad Haynie",
+      "rating": 1648.4,
+      "rd": 32.2,
+      "ratingClass": "A",
+      "homeLocation": "Volition Brewing Co.",
+      "homeLocationId": "8678",
+      "percentile": 91.51255415288583,
+      "changeDisplay": "+4.2",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m6778",
+      "name": "Nick Wold",
+      "rating": 1626.38,
+      "rd": 26.39,
+      "ratingClass": "A",
+      "homeLocation": "Volition Brewing Co.",
+      "homeLocationId": "8678",
+      "percentile": 87.84180369870033,
+      "changeDisplay": "-12.1",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m16678",
+      "name": "Christopher Daniels",
+      "rating": 1599.17,
+      "rd": 30.11,
+      "ratingClass": "B",
+      "homeLocation": "Black Raven Brewing - Woodinville",
+      "homeLocationId": "9778",
+      "percentile": 81.78599711184609,
+      "changeDisplay": "+8.9",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m22541",
+      "name": "Lucas Haines",
+      "rating": 1599.05,
+      "rd": 34.47,
+      "ratingClass": "B",
+      "homeLocation": "Volition Brewing Co.",
+      "homeLocationId": "8678",
+      "percentile": 81.74873060977313,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m46411",
+      "name": "Rob M Miller",
+      "rating": 1588.59,
+      "rd": 18.61,
+      "ratingClass": "B",
+      "homeLocation": "The Ice Box",
+      "homeLocationId": "1893",
+      "percentile": 79.07020077327992,
+      "changeDisplay": "+12.3",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m35651",
+      "name": "Brandi Van de Houten",
+      "rating": 1570.48,
+      "rd": 31.23,
+      "ratingClass": "B",
+      "homeLocation": "Volition Brewing Co.",
+      "homeLocationId": "8678",
+      "percentile": 73.64792472166582,
+      "changeDisplay": "+2.0",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m33690",
+      "name": "Aubrey White",
+      "rating": 1542.01,
+      "rd": 31.68,
+      "ratingClass": "B",
+      "homeLocation": "Volition Brewing Co.",
+      "homeLocationId": "8678",
+      "percentile": 63.921367680626076,
+      "changeDisplay": "+39.4",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "i139762",
+      "name": "Kellan Gary",
+      "rating": 1537.99,
+      "rd": 54.17,
+      "ratingClass": "B",
+      "homeLocation": "Volition Brewing Co.",
+      "homeLocationId": "8678",
+      "percentile": 62.26766665113895,
+      "changeDisplay": "-13.7",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m14431",
+      "name": "Alison Barker",
+      "rating": 1519.42,
+      "rd": 32.06,
+      "ratingClass": "B",
+      "homeLocation": "Volition Brewing Co.",
+      "homeLocationId": "8678",
+      "percentile": 54.972748870359155,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m34323",
+      "name": "Nic Huntley",
+      "rating": 1518.44,
+      "rd": 35.99,
+      "ratingClass": "B",
+      "homeLocation": "Volition Brewing Co.",
+      "homeLocationId": "8678",
+      "percentile": 54.576792285834074,
+      "changeDisplay": "+2.3",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m34322",
+      "name": "Kevin Brown WA",
+      "rating": 1508.23,
+      "rd": 52.32,
+      "ratingClass": "B",
+      "homeLocation": "Volition Brewing Co.",
+      "homeLocationId": "8678",
+      "percentile": 50.547351749196444,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i117452",
+      "name": "Roy Hahn",
+      "rating": 1485.96,
+      "rd": 33.43,
+      "ratingClass": "C",
+      "homeLocation": "Volition Brewing Co.",
+      "homeLocationId": "8678",
+      "percentile": 41.33786742441888,
+      "changeDisplay": "+16.7",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m39553",
+      "name": "Alex Estey",
+      "rating": 1481.9,
+      "rd": 32.46,
+      "ratingClass": "C",
+      "homeLocation": "Volition Brewing Co.",
+      "homeLocationId": "8678",
+      "percentile": 39.68882470769087,
+      "changeDisplay": "+15.1",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "i133738",
+      "name": "Bryce Anderson",
+      "rating": 1478.48,
+      "rd": 44.27,
+      "ratingClass": "C",
+      "homeLocation": "Volition Brewing Co.",
+      "homeLocationId": "8678",
+      "percentile": 38.32859738202823,
+      "changeDisplay": "-1.2",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "i87109",
+      "name": "Jamie Haines",
+      "rating": 1477.52,
+      "rd": 33.56,
+      "ratingClass": "C",
+      "homeLocation": "Volition Brewing Co.",
+      "homeLocationId": "8678",
+      "percentile": 37.92332417198491,
+      "changeDisplay": "+3.2",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "i117454",
+      "name": "Nic Huntley",
+      "rating": 1465.32,
+      "rd": 52.42,
+      "ratingClass": "C",
+      "homeLocation": "Volition Brewing Co.",
+      "homeLocationId": "8678",
+      "percentile": 32.97153770904179,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m52617",
+      "name": "Adam Montgomery WA",
+      "rating": 1463.47,
+      "rd": 34.02,
+      "ratingClass": "C",
+      "homeLocation": "Black Raven Brewing - Woodinville",
+      "homeLocationId": "9778",
+      "percentile": 32.26347416965575,
+      "changeDisplay": "-15.6",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "i25477",
+      "name": "Joe Fernandez",
+      "rating": 1455.42,
+      "rd": 36.49,
+      "ratingClass": "C",
+      "homeLocation": "Volition Brewing Co.",
+      "homeLocationId": "8678",
+      "percentile": 29.24488750174687,
+      "changeDisplay": "-13.7",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "i55729",
+      "name": "Morgan Daniels",
+      "rating": 1445.04,
+      "rd": 70.84,
+      "ratingClass": "C",
+      "homeLocation": "Volition Brewing Co.",
+      "homeLocationId": "8678",
+      "percentile": 25.41109610099222,
+      "changeDisplay": "-52.0",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "i118961",
+      "name": "Karl Schuttler",
+      "rating": 1436.7,
+      "rd": 36.89,
+      "ratingClass": "C",
+      "homeLocation": "Volition Brewing Co.",
+      "homeLocationId": "8678",
+      "percentile": 22.583500256207202,
+      "changeDisplay": "-11.8",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m34126",
+      "name": "Matt Karvonen",
+      "rating": 1421.2,
+      "rd": 36.13,
+      "ratingClass": "C",
+      "homeLocation": "Volition Brewing Co.",
+      "homeLocationId": "8678",
+      "percentile": 17.999720501234453,
+      "changeDisplay": "+28.4",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m33688",
+      "name": "Nick Stevenson",
+      "rating": 1416.44,
+      "rd": 44.27,
+      "ratingClass": "C",
+      "homeLocation": "Volition Brewing Co.",
+      "homeLocationId": "8678",
+      "percentile": 16.681417990403876,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i17293",
+      "name": "Sam Hahn",
+      "rating": 1395.98,
+      "rd": 33.88,
+      "ratingClass": "D",
+      "homeLocation": "Volition Brewing Co.",
+      "homeLocationId": "8678",
+      "percentile": 11.524665766059533,
+      "changeDisplay": "+1.8",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m21235",
+      "name": "Jamie Haines",
+      "rating": null,
+      "rd": null,
+      "ratingClass": "N/A",
+      "homeLocation": "Volition Brewing Co.",
+      "homeLocationId": "8678",
+      "percentile": null,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m33682",
+      "name": "Jose Fernandez",
+      "rating": null,
+      "rd": null,
+      "ratingClass": "N/A",
+      "homeLocation": "Volition Brewing Co.",
+      "homeLocationId": "8678",
+      "percentile": null,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

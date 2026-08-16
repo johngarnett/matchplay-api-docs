@@ -1,0 +1,106 @@
+{
+  "locationId": "12630",
+  "venueName": "Arcadia National Bar",
+  "venueAddress": "504 Congress St, Portland, ME 04101, US",
+  "tournaments": [
+    {
+      "id": 254940,
+      "name": "Arcadia npc season 3 #5",
+      "date": "8/10/2026",
+      "playerCount": 4,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m32408",
+          "name": "Ryan Lazzarin",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m23632",
+          "name": "Nate Mills",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m430",
+          "name": "Nate Straz",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "i64025",
+          "name": "Dan Patey",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 254938,
+      "name": "Arcadia npc season 3 #4",
+      "date": "8/3/2026",
+      "playerCount": 8,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m31074",
+          "name": "Bruce Water",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m23632",
+          "name": "Nate Mills",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m32408",
+          "name": "Ryan Lazzarin",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m23631",
+          "name": "Victoria Fura",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 254937,
+      "name": "Arcadia npc season 3 #3",
+      "date": "7/27/2026",
+      "playerCount": 8,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m23631",
+          "name": "Victoria Fura",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m37835",
+          "name": "Ashley Carroll",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m37853",
+          "name": "Derek Carroll",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m430",
+          "name": "Nate Straz",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

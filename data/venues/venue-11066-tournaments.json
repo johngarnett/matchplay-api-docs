@@ -1,0 +1,143 @@
+{
+  "locationId": "11066",
+  "venueName": "Double Tap Beercade",
+  "venueAddress": "312 Main St, Cedar Falls, IA 50613, US",
+  "tournaments": [
+    {
+      "id": 266626,
+      "name": "Double Tap CF League Sep-Aug #2",
+      "date": "8/12/2026",
+      "playerCount": 8,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "i110717",
+          "name": "Gabe Luloff",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m40182",
+          "name": "Shawn Pitt",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m29800",
+          "name": "Scott Millman",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "p561845",
+          "name": "Cam Mehmen IA",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 265531,
+      "name": "Double Tap CF League Season 2 Week 1",
+      "date": "8/4/2026",
+      "playerCount": 8,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m40182",
+          "name": "Shawn Pitt",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m12961",
+          "name": "Lance Bolson",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m29800",
+          "name": "Scott Millman",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "p561845",
+          "name": "Cam Mehmen IA",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 263165,
+      "name": "Finals for Double Tap First League",
+      "date": "7/21/2026",
+      "playerCount": 7,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m35778",
+          "name": "Seth Van Wert",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m34833",
+          "name": "Madison Chidester",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m40182",
+          "name": "Shawn Pitt",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m12961",
+          "name": "Lance Bolson",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 262578,
+      "name": "Stern Army July Final",
+      "date": "7/17/2026",
+      "playerCount": 5,
+      "qualifying": {
+        "id": 257330,
+        "name": "Double Tap CF Stern Army July Third Friday",
+        "playerCount": 11
+      },
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m40182",
+          "name": "Shawn Pitt",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m29800",
+          "name": "Scott Millman",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m17392",
+          "name": "Sean Clarke",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m47198",
+          "name": "Chris Farmer",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

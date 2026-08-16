@@ -1,0 +1,32 @@
+{
+  "tournamentId": 266873,
+  "name": "Finals for EBD H2H MP AUG 2026",
+  "date": "2026-08-13",
+  "locationId": "9600",
+  "locationName": "The Mighty Axe - TO",
+  "playerCount": 3,
+  "ratingsDate": null,
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "i123907",
+      "name": "Dustin Kopel",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 2,
+      "playerId": "m580965",
+      "name": "Joe Pinball805",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 3,
+      "playerId": "m49251",
+      "name": "Ron Lam",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

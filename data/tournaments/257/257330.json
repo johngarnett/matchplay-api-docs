@@ -1,0 +1,88 @@
+{
+  "tournamentId": 257330,
+  "name": "Double Tap CF Stern Army July Third Friday",
+  "date": "2026-07-18",
+  "locationId": "11066",
+  "locationName": "Double Tap Beercade",
+  "playerCount": 11,
+  "ratingsDate": "2026-07-18",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m40182",
+      "name": "Shawn Pitt",
+      "rating": 1662.03,
+      "dailyRatingChange": 14.28
+    },
+    {
+      "position": 2,
+      "playerId": "m17392",
+      "name": "Sean Clarke",
+      "rating": 1580.79,
+      "dailyRatingChange": 9.22
+    },
+    {
+      "position": 3,
+      "playerId": "m29800",
+      "name": "Scott Millman",
+      "rating": 1653.55,
+      "dailyRatingChange": 0.68
+    },
+    {
+      "position": 4,
+      "playerId": "m47198",
+      "name": "Chris Farmer",
+      "rating": 1580.37,
+      "dailyRatingChange": 1.42
+    },
+    {
+      "position": 5,
+      "playerId": "m43932",
+      "name": "Jordan Dorrington",
+      "rating": 1619.18,
+      "dailyRatingChange": -2.58
+    },
+    {
+      "position": 6,
+      "playerId": "m42039",
+      "name": "Greg M Smith",
+      "rating": 1514.32,
+      "dailyRatingChange": 2.92
+    },
+    {
+      "position": 7,
+      "playerId": "m35778",
+      "name": "Seth Van Wert",
+      "rating": 1610.22,
+      "dailyRatingChange": -5.61
+    },
+    {
+      "position": 8,
+      "playerId": "m34286",
+      "name": "Isaac Millman",
+      "rating": 1338.94,
+      "dailyRatingChange": 3.99
+    },
+    {
+      "position": 9,
+      "playerId": "m47197",
+      "name": "Patrick Frost IA",
+      "rating": 1474.99,
+      "dailyRatingChange": -20.87
+    },
+    {
+      "position": 10,
+      "playerId": "m55600",
+      "name": "Eric Kuennen",
+      "rating": 1485.36,
+      "dailyRatingChange": -16.11
+    },
+    {
+      "position": 10,
+      "playerId": "m29805",
+      "name": "Anna Millman",
+      "rating": 1409.39,
+      "dailyRatingChange": -7.06
+    }
+  ]
+}

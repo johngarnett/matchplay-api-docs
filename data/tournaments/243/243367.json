@@ -1,0 +1,53 @@
+{
+  "tournamentId": 243367,
+  "name": "Manitoba CASUAL League 2026 - JUL (S05S07)",
+  "date": "2026-07-25",
+  "locationId": "10614",
+  "locationName": "Phantom Amusement",
+  "playerCount": 6,
+  "ratingsDate": "2026-07-25",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "i109723",
+      "name": "Shane St Germain",
+      "rating": 1574.06,
+      "dailyRatingChange": 9.26
+    },
+    {
+      "position": 2,
+      "playerId": "m31218",
+      "name": "John Marquez",
+      "rating": 1574.91,
+      "dailyRatingChange": -0.84
+    },
+    {
+      "position": 2,
+      "playerId": "m46181",
+      "name": "Russell Sward",
+      "rating": 1546.21,
+      "dailyRatingChange": 0.68
+    },
+    {
+      "position": 4,
+      "playerId": "m51466",
+      "name": "Tina Reno",
+      "rating": 1408.34,
+      "dailyRatingChange": 9.05
+    },
+    {
+      "position": 4,
+      "playerId": "m38366",
+      "name": "Trudy Bais",
+      "rating": 1501.08,
+      "dailyRatingChange": 0.59
+    },
+    {
+      "position": 6,
+      "playerId": "m29118",
+      "name": "John Bear",
+      "rating": 1472.68,
+      "dailyRatingChange": -31.5
+    }
+  ]
+}

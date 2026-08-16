@@ -1,0 +1,503 @@
+{
+  "locationId": "11813",
+  "name": "Mountaineer Meat Smokers",
+  "address": "45 Monroe St, Martinsburg, WV 25404, US",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 36,
+  "relatedVenues": [
+    {
+      "locationId": "9887",
+      "name": "Tilty McFlipperz",
+      "address": "809 E Moler Ave, Martinsburg, WV 25404, US",
+      "count": 107
+    },
+    {
+      "locationId": "7109",
+      "name": "Spinners Pinball Arcade",
+      "address": "1301 W Patrick St, Frederick, MD 21701",
+      "count": 57
+    },
+    {
+      "locationId": "10688",
+      "name": "VÜK Pinball",
+      "address": "5335 Wisconsin Ave, Washington, DC 20015, US",
+      "count": 12
+    },
+    {
+      "locationId": "7953",
+      "name": "Richmond Pinball Collective",
+      "address": "9550 Midlothian Turnpike, Unit 112, Midlothian, VA 23235, US",
+      "count": 11
+    },
+    {
+      "locationId": "9505",
+      "name": "Jackpot Pinball Arcade",
+      "address": "144 N. 21st st. Purcellville VA 20132",
+      "count": 11
+    },
+    {
+      "locationId": "13590",
+      "name": "The Pinball Castle",
+      "address": "303 N Washington St, Berkeley Springs, WV 25411, US",
+      "count": 10
+    },
+    {
+      "locationId": "11970",
+      "name": "Richmond Pinball Collective",
+      "address": "9550 Midlothian Tpke #106, Richmond, VA 23235",
+      "count": 7
+    },
+    {
+      "locationId": "5785",
+      "name": "Delaware Pinball Collective",
+      "address": "1100 First State Blvd. Wilmington, DE 19804",
+      "count": 6
+    },
+    {
+      "locationId": "6886",
+      "name": "Department of Pinball and Gaming Redundancy Department",
+      "address": "",
+      "count": 6
+    },
+    {
+      "locationId": "11570",
+      "name": "TPDC Pinball at The Red Rocker",
+      "address": "15 Hershey Rd. Shippensburg, PA 17257",
+      "count": 6
+    }
+  ],
+  "players": [
+    {
+      "id": "m1397",
+      "name": "Will Krusa",
+      "rating": 1697.68,
+      "rd": 22.82,
+      "ratingClass": "A",
+      "homeLocation": "Tilty McFlipperz",
+      "homeLocationId": "9887",
+      "percentile": 96.45968230306983,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m14521",
+      "name": "Rene Hilbach-Barger",
+      "rating": 1678.9,
+      "rd": 28.26,
+      "ratingClass": "A",
+      "homeLocation": "Mountaineer Meat Smokers",
+      "homeLocationId": "11813",
+      "percentile": 95.01094703498393,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m2886",
+      "name": "Robert Peters",
+      "rating": 1674.26,
+      "rd": 18.05,
+      "ratingClass": "A",
+      "homeLocation": "Richmond Pinball Collective",
+      "homeLocationId": "7953",
+      "percentile": 94.53114082079472,
+      "changeDisplay": "+12.8",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m47745",
+      "name": "Sterling Sinclair",
+      "rating": 1653.72,
+      "rd": 22.56,
+      "ratingClass": "A",
+      "homeLocation": "Tilty McFlipperz",
+      "homeLocationId": "9887",
+      "percentile": 92.23459263054922,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m37143",
+      "name": "Tyler Pirrone",
+      "rating": 1640.74,
+      "rd": 22.72,
+      "ratingClass": "A",
+      "homeLocation": "Mountaineer Meat Smokers",
+      "homeLocationId": "11813",
+      "percentile": 90.45977546932501,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m29440",
+      "name": "Alex Brackett",
+      "rating": 1625.35,
+      "rd": 23.02,
+      "ratingClass": "A",
+      "homeLocation": "Tilty McFlipperz",
+      "homeLocationId": "9887",
+      "percentile": 87.67410443937206,
+      "changeDisplay": "-0.9",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "i155034",
+      "name": "Brian Johnson WV",
+      "rating": 1612.96,
+      "rd": 22.55,
+      "ratingClass": "A",
+      "homeLocation": "Tilty McFlipperz",
+      "homeLocationId": "9887",
+      "percentile": 85.05613266874738,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m33250",
+      "name": "Matt Armel",
+      "rating": 1592.59,
+      "rd": 25.56,
+      "ratingClass": "B",
+      "homeLocation": "Mountaineer Meat Smokers",
+      "homeLocationId": "11813",
+      "percentile": 80.16956258443192,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m25464",
+      "name": "Cindy Brackett",
+      "rating": 1586.3,
+      "rd": 23.68,
+      "ratingClass": "B",
+      "homeLocation": "Tilty McFlipperz",
+      "homeLocationId": "9887",
+      "percentile": 78.40406204872595,
+      "changeDisplay": "+1.7",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m8052",
+      "name": "Kathy Bobeck",
+      "rating": 1578.19,
+      "rd": 21.87,
+      "ratingClass": "B",
+      "homeLocation": "Delaware Pinball Collective",
+      "homeLocationId": "5785",
+      "percentile": 76.06093073088928,
+      "changeDisplay": "+4.7",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m47449",
+      "name": "Matt Welker",
+      "rating": 1567.89,
+      "rd": 22,
+      "ratingClass": "B",
+      "homeLocation": "Spinners Pinball Arcade",
+      "homeLocationId": "7109",
+      "percentile": 72.83271998882005,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m13476",
+      "name": "Matt Newton",
+      "rating": 1565.08,
+      "rd": 22.63,
+      "ratingClass": "B",
+      "homeLocation": "Spinners Pinball Arcade",
+      "homeLocationId": "7109",
+      "percentile": 71.96627381562398,
+      "changeDisplay": "+2.0",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m51094",
+      "name": "Justice Sinclair",
+      "rating": 1553.35,
+      "rd": 39.66,
+      "ratingClass": "B",
+      "homeLocation": "Mountaineer Meat Smokers",
+      "homeLocationId": "11813",
+      "percentile": 68.06260772348256,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m2819",
+      "name": "Angela Pecora",
+      "rating": 1538.79,
+      "rd": 17.04,
+      "ratingClass": "B",
+      "homeLocation": "Portal Pinball Arcade",
+      "homeLocationId": "3374",
+      "percentile": 62.59374854427726,
+      "changeDisplay": "-3.5",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "i144351",
+      "name": "Mike Fowell",
+      "rating": 1532.7,
+      "rd": 29.06,
+      "ratingClass": "B",
+      "homeLocation": "Mountaineer Meat Smokers",
+      "homeLocationId": "11813",
+      "percentile": 60.15745097125821,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m43516",
+      "name": "Dylan Turner",
+      "rating": 1525.47,
+      "rd": 30.39,
+      "ratingClass": "B",
+      "homeLocation": "Tilty McFlipperz",
+      "homeLocationId": "9887",
+      "percentile": 57.297246937159365,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i121636",
+      "name": "Michael Jones FL",
+      "rating": 1525.3,
+      "rd": 47.52,
+      "ratingClass": "B",
+      "homeLocation": "Mountaineer Meat Smokers",
+      "homeLocationId": "11813",
+      "percentile": 57.21339730749523,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i158501",
+      "name": "Christopher Cox",
+      "rating": 1516.69,
+      "rd": 25.6,
+      "ratingClass": "B",
+      "homeLocation": "Spinners Pinball Arcade",
+      "homeLocationId": "7109",
+      "percentile": 53.8827036847254,
+      "changeDisplay": "+3.5",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m58479",
+      "name": "Harper Welker",
+      "rating": 1514.42,
+      "rd": 27.8,
+      "ratingClass": "B",
+      "homeLocation": "Spinners Pinball Arcade",
+      "homeLocationId": "7109",
+      "percentile": 52.91843294358783,
+      "changeDisplay": "-0.9",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m6573",
+      "name": "Zach Jones",
+      "rating": 1504.52,
+      "rd": 21.86,
+      "ratingClass": "B",
+      "homeLocation": "VÜK Pinball",
+      "homeLocationId": "10688",
+      "percentile": 49.052033353519356,
+      "changeDisplay": "-0.6",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m28662",
+      "name": "Wendy Dunn",
+      "rating": 1489.7,
+      "rd": 21.98,
+      "ratingClass": "C",
+      "homeLocation": "Delaware Pinball Collective",
+      "homeLocationId": "5785",
+      "percentile": 42.889085573205385,
+      "changeDisplay": "+0.7",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m37965",
+      "name": "Donald Nisewarner",
+      "rating": 1479.5,
+      "rd": 40.35,
+      "ratingClass": "C",
+      "homeLocation": "Mountaineer Meat Smokers",
+      "homeLocationId": "11813",
+      "percentile": 38.7198956537942,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i121634",
+      "name": "Tracie Jones",
+      "rating": 1478.25,
+      "rd": 45.18,
+      "ratingClass": "C",
+      "homeLocation": "Mountaineer Meat Smokers",
+      "homeLocationId": "11813",
+      "percentile": 38.216797875809384,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m42806",
+      "name": "Melissa Hienkle",
+      "rating": 1467.66,
+      "rd": 20.47,
+      "ratingClass": "C",
+      "homeLocation": "Tilty McFlipperz",
+      "homeLocationId": "9887",
+      "percentile": 33.88922532258816,
+      "changeDisplay": "+7.0",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m38557",
+      "name": "Sara Morris",
+      "rating": 1460.22,
+      "rd": 28.73,
+      "ratingClass": "C",
+      "homeLocation": "Mountaineer Meat Smokers",
+      "homeLocationId": "11813",
+      "percentile": 31.103554292635206,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i154670",
+      "name": "Adria Spikes",
+      "rating": 1449.2,
+      "rd": 42.51,
+      "ratingClass": "C",
+      "homeLocation": "Mountaineer Meat Smokers",
+      "homeLocationId": "11813",
+      "percentile": 26.822564867005173,
+      "changeDisplay": "+7.0",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "i148515",
+      "name": "Ryan Jenkins",
+      "rating": 1437.12,
+      "rd": 43.58,
+      "ratingClass": "C",
+      "homeLocation": "Mountaineer Meat Smokers",
+      "homeLocationId": "11813",
+      "percentile": 22.699958075185165,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m36290",
+      "name": "Ken Kalbaugh",
+      "rating": 1436.74,
+      "rd": 28.24,
+      "ratingClass": "C",
+      "homeLocation": "Mountaineer Meat Smokers",
+      "homeLocationId": "11813",
+      "percentile": 22.62076675828015,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m47867",
+      "name": "Elaina Welker",
+      "rating": 1431.73,
+      "rd": 24.69,
+      "ratingClass": "C",
+      "homeLocation": "Spinners Pinball Arcade",
+      "homeLocationId": "7109",
+      "percentile": 21.09749848604835,
+      "changeDisplay": "-2.0",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m45724",
+      "name": "Heron Hilbach-Barger",
+      "rating": 1426.56,
+      "rd": 44.02,
+      "ratingClass": "C",
+      "homeLocation": "Mountaineer Meat Smokers",
+      "homeLocationId": "11813",
+      "percentile": 19.569571901057436,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i118415",
+      "name": "oliver.k",
+      "rating": 1426.27,
+      "rd": 52.91,
+      "ratingClass": "C",
+      "homeLocation": "Mountaineer Meat Smokers",
+      "homeLocationId": "11813",
+      "percentile": 19.49038058415242,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m49417",
+      "name": "Richie Diehl",
+      "rating": 1417.65,
+      "rd": 32.24,
+      "ratingClass": "C",
+      "homeLocation": "Mountaineer Meat Smokers",
+      "homeLocationId": "11813",
+      "percentile": 17.04942469837425,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i127887",
+      "name": "Tyler Luksis",
+      "rating": 1417.02,
+      "rd": 30.98,
+      "ratingClass": "C",
+      "homeLocation": "Tilty McFlipperz",
+      "homeLocationId": "9887",
+      "percentile": 16.886383751805095,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i41655",
+      "name": "Tiffany Diehl",
+      "rating": 1391.31,
+      "rd": 33.05,
+      "ratingClass": "D",
+      "homeLocation": "Mountaineer Meat Smokers",
+      "homeLocationId": "11813",
+      "percentile": 10.546420086644618,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i162652",
+      "name": "Mariah Shoemaker",
+      "rating": 1367.48,
+      "rd": 51.95,
+      "ratingClass": "D",
+      "homeLocation": "Mountaineer Meat Smokers",
+      "homeLocationId": "11813",
+      "percentile": 6.367913541715191,
+      "changeDisplay": "-6.0",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "i151026",
+      "name": "John Adams",
+      "rating": 1360.55,
+      "rd": 33.27,
+      "ratingClass": "D",
+      "homeLocation": "Mountaineer Meat Smokers",
+      "homeLocationId": "11813",
+      "percentile": 5.501467368519123,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "tournamentId": 265152,
+  "name": "Huntington Pinball League - 8/2",
+  "date": "2026-08-02",
+  "locationId": "8414",
+  "locationName": "Quicksilver Arcade Bar",
+  "playerCount": 16,
+  "ratingsDate": "2026-08-02",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m57707",
+      "name": "Jon Insco",
+      "rating": 1640.63,
+      "dailyRatingChange": 17.14
+    },
+    {
+      "position": 2,
+      "playerId": "m58230",
+      "name": "Bob Glasser",
+      "rating": 1553.07,
+      "dailyRatingChange": 19.06
+    },
+    {
+      "position": 2,
+      "playerId": "m57418",
+      "name": "Noah Cobb",
+      "rating": 1570.46,
+      "dailyRatingChange": 19.76
+    },
+    {
+      "position": 4,
+      "playerId": "m56321",
+      "name": "Derek Adkins",
+      "rating": 1542.35,
+      "dailyRatingChange": 9.72
+    },
+    {
+      "position": 5,
+      "playerId": "m56803",
+      "name": "Brian Cobb",
+      "rating": 1566.05,
+      "dailyRatingChange": 2.46
+    },
+    {
+      "position": 6,
+      "playerId": "m9232",
+      "name": "Paul Hesson",
+      "rating": 1523.69,
+      "dailyRatingChange": -0.33
+    },
+    {
+      "position": 6,
+      "playerId": "m57001",
+      "name": "David Estep",
+      "rating": 1502.99,
+      "dailyRatingChange": 1.11
+    },
+    {
+      "position": 8,
+      "playerId": "m61884",
+      "name": "Michael Anders",
+      "rating": 1466.33,
+      "dailyRatingChange": -0.61
+    },
+    {
+      "position": 8,
+      "playerId": "m59930",
+      "name": "Alan Fowler",
+      "rating": 1439.88,
+      "dailyRatingChange": 1.21
+    },
+    {
+      "position": 10,
+      "playerId": "m57975",
+      "name": "Sean J",
+      "rating": 1475.29,
+      "dailyRatingChange": -11.54
+    },
+    {
+      "position": 10,
+      "playerId": "m57413",
+      "name": "Nick Phelps",
+      "rating": 1486.62,
+      "dailyRatingChange": -12.28
+    },
+    {
+      "position": 10,
+      "playerId": "m62576",
+      "name": "Jim Gray",
+      "rating": 1461.17,
+      "dailyRatingChange": null
+    },
+    {
+      "position": 10,
+      "playerId": "m59991",
+      "name": "Tim George",
+      "rating": 1493.35,
+      "dailyRatingChange": -25.66
+    },
+    {
+      "position": 14,
+      "playerId": "m59792",
+      "name": "Howard Cobb",
+      "rating": 1428.67,
+      "dailyRatingChange": -26.78
+    },
+    {
+      "position": 14,
+      "playerId": "m57130",
+      "name": "David Estep II",
+      "rating": 1297.68,
+      "dailyRatingChange": -1.49
+    },
+    {
+      "position": 16,
+      "playerId": "m60185",
+      "name": "Nate Cobb",
+      "rating": 1357.52,
+      "dailyRatingChange": -57.09
+    }
+  ]
+}

@@ -1,0 +1,158 @@
+{
+  "tournamentId": 262672,
+  "name": "Tournoi mensuel Pace Matchplay - La Société du Pinball",
+  "date": "2026-07-18",
+  "locationId": "10694",
+  "locationName": "La Société du Pinball",
+  "playerCount": 21,
+  "ratingsDate": "2026-07-18",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "i143571",
+      "name": "Steve Audet",
+      "rating": 1633.21,
+      "dailyRatingChange": 91.73
+    },
+    {
+      "position": 2,
+      "playerId": "m39054",
+      "name": "Pierre Lavoie",
+      "rating": 1646.98,
+      "dailyRatingChange": 7.1
+    },
+    {
+      "position": 3,
+      "playerId": "m59282",
+      "name": "Patrick Guay",
+      "rating": 1589.01,
+      "dailyRatingChange": 2.25
+    },
+    {
+      "position": 4,
+      "playerId": "i122539",
+      "name": "Gabriel Houde-Tardif",
+      "rating": 1673.08,
+      "dailyRatingChange": 7.13
+    },
+    {
+      "position": 5,
+      "playerId": "m46424",
+      "name": "Roxanne Nolet",
+      "rating": 1589.31,
+      "dailyRatingChange": 0.33
+    },
+    {
+      "position": 6,
+      "playerId": "m57656",
+      "name": "Anthony Guay-Roy",
+      "rating": 1447.97,
+      "dailyRatingChange": 26.91
+    },
+    {
+      "position": 7,
+      "playerId": "m57659",
+      "name": "Louis Lefrançois Perreault",
+      "rating": 1444.79,
+      "dailyRatingChange": 28.85
+    },
+    {
+      "position": 8,
+      "playerId": "m59284",
+      "name": "Michel Sanfacon",
+      "rating": 1547.88,
+      "dailyRatingChange": 0.12
+    },
+    {
+      "position": 8,
+      "playerId": "m54443",
+      "name": "Jean-Philippe Champagne",
+      "rating": 1600.68,
+      "dailyRatingChange": -7.27
+    },
+    {
+      "position": 8,
+      "playerId": "i139653",
+      "name": "Sébastien Tremblay",
+      "rating": 1519.09,
+      "dailyRatingChange": -3.99
+    },
+    {
+      "position": 11,
+      "playerId": "m50992",
+      "name": "Alex Houde-Tardif",
+      "rating": 1541.29,
+      "dailyRatingChange": -4.49
+    },
+    {
+      "position": 12,
+      "playerId": "m474946",
+      "name": "Yanik Simard",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 13,
+      "playerId": "m58814",
+      "name": "Sylvain Ouellet",
+      "rating": 1482.1,
+      "dailyRatingChange": -3.1
+    },
+    {
+      "position": 13,
+      "playerId": "m57655",
+      "name": "Sébastien Thibodeau",
+      "rating": 1664.86,
+      "dailyRatingChange": -15.19
+    },
+    {
+      "position": 15,
+      "playerId": "m50940",
+      "name": "Gilles Perryman",
+      "rating": 1468.94,
+      "dailyRatingChange": 7.38
+    },
+    {
+      "position": 16,
+      "playerId": "m57663",
+      "name": "André Chabot",
+      "rating": 1497.53,
+      "dailyRatingChange": -7.55
+    },
+    {
+      "position": 17,
+      "playerId": "i147488",
+      "name": "Simon Dufour",
+      "rating": 1436.2,
+      "dailyRatingChange": -11.95
+    },
+    {
+      "position": 17,
+      "playerId": "m55622",
+      "name": "Judith Marcoux",
+      "rating": 1469.48,
+      "dailyRatingChange": -9.88
+    },
+    {
+      "position": 19,
+      "playerId": "m57684",
+      "name": "Patrick Robitaille",
+      "rating": 1379.85,
+      "dailyRatingChange": -9.93
+    },
+    {
+      "position": 20,
+      "playerId": "m59278",
+      "name": "Jean-Sébastien Fortin",
+      "rating": 1456.89,
+      "dailyRatingChange": -37.67
+    },
+    {
+      "position": 21,
+      "playerId": "m476278",
+      "name": "Adeline Mbock",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

@@ -1,0 +1,367 @@
+{
+  "locationId": "7961",
+  "venueName": "Blairalley",
+  "venueAddress": "245 Blair Blvd, Eugene, OR 97402, USA",
+  "tournaments": [
+    {
+      "id": 266843,
+      "name": "Pinball Knights 8/12",
+      "date": "8/12/2026",
+      "playerCount": 23,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m23834",
+          "name": "Michael Veirs",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m31688",
+          "name": "Annie Smith",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m19110",
+          "name": "Mason Kazer",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m34328",
+          "name": "Gary Kochel",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 266710,
+      "name": "Finals for Belles Blair 8/11",
+      "date": "8/11/2026",
+      "playerCount": 4,
+      "qualifying": {
+        "id": 266678,
+        "name": "Belles Blair 8/11",
+        "playerCount": 11
+      },
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m25256",
+          "name": "Jen Daeges",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m8010",
+          "name": "Sunni Williams",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m35831",
+          "name": "Kay McFadyen",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m31688",
+          "name": "Annie Smith",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 266513,
+      "name": "Finals for Power to the Pinballers 8.10",
+      "date": "8/10/2026",
+      "playerCount": 4,
+      "qualifying": {
+        "id": 266496,
+        "name": "Power to the Pinballers 8.10",
+        "playerCount": 18
+      },
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m14697",
+          "name": "Dominic Lemas",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m20993",
+          "name": "Eric Merchant",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m34328",
+          "name": "Gary Kochel",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m31688",
+          "name": "Annie Smith",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 266368,
+      "name": "Finals for Silverball Sunday 8/9",
+      "date": "8/9/2026",
+      "playerCount": 4,
+      "qualifying": {
+        "id": 266339,
+        "name": "Silverball Sunday 8/9",
+        "playerCount": 18
+      },
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m23834",
+          "name": "Michael Veirs",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m29812",
+          "name": "Augie Nielson",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m23596",
+          "name": "Jon Cunningham",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m50884",
+          "name": "Derek Brenden",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 265706,
+      "name": "Pinball Knights 8/5",
+      "date": "8/5/2026",
+      "playerCount": 19,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m23834",
+          "name": "Michael Veirs",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m56180",
+          "name": "Taylor Graham",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m58353",
+          "name": "cassie brown",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m23596",
+          "name": "Jon Cunningham",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 265221,
+      "name": "Finals for Silverball Sunday 8/2",
+      "date": "8/2/2026",
+      "playerCount": 4,
+      "qualifying": {
+        "id": 265200,
+        "name": "Silverball Sunday 8/2",
+        "playerCount": 11
+      },
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m34328",
+          "name": "Gary Kochel",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m23596",
+          "name": "Jon Cunningham",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m20993",
+          "name": "Eric Merchant",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m22910",
+          "name": "Sean Kato",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 264528,
+      "name": "Pinball Knights 7/29",
+      "date": "7/29/2026",
+      "playerCount": 22,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m20993",
+          "name": "Eric Merchant",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m18218",
+          "name": "Cory Anderson",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m23596",
+          "name": "Jon Cunningham",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m29812",
+          "name": "Augie Nielson",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 264080,
+      "name": "Finals for Silverball Sunday 7/26",
+      "date": "7/26/2026",
+      "playerCount": 4,
+      "qualifying": {
+        "id": 264030,
+        "name": "Silverball Sunday 7/26",
+        "playerCount": 21
+      },
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m23834",
+          "name": "Michael Veirs",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m20993",
+          "name": "Eric Merchant",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m23596",
+          "name": "Jon Cunningham",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m29812",
+          "name": "Augie Nielson",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 263347,
+      "name": "Pinball Knights 7/22",
+      "date": "7/22/2026",
+      "playerCount": 12,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m19110",
+          "name": "Mason Kazer",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m22910",
+          "name": "Sean Kato",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m47387",
+          "name": "Loxias",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m29812",
+          "name": "Augie Nielson",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m23834",
+          "name": "Michael Veirs",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 262926,
+      "name": "Finals for Silverball Sunday 7/20",
+      "date": "7/19/2026",
+      "playerCount": 4,
+      "qualifying": {
+        "id": 262889,
+        "name": "Silverball Sunday 7/20",
+        "playerCount": 22
+      },
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m23834",
+          "name": "Michael Veirs",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m34328",
+          "name": "Gary Kochel",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m4071",
+          "name": "Ryan Whitmore",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m50884",
+          "name": "Derek Brenden",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

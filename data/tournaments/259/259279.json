@@ -1,0 +1,263 @@
+{
+  "tournamentId": 259279,
+  "name": "Treehouse 1000",
+  "date": "2026-08-02",
+  "locationId": "10026",
+  "locationName": "Treehouse",
+  "playerCount": 36,
+  "ratingsDate": "2026-08-02",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m13006",
+      "name": "Alex Lambert",
+      "rating": 1729.87,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 1,
+      "playerId": "m28759",
+      "name": "Brett Dippert",
+      "rating": 1618.26,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 3,
+      "playerId": "m28326",
+      "name": "Jack Jarrett US",
+      "rating": 1652.4,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 4,
+      "playerId": "m36281",
+      "name": "Elliott Rose",
+      "rating": 1691.38,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 5,
+      "playerId": "m25062",
+      "name": "Ryan Dunn",
+      "rating": 1697.21,
+      "dailyRatingChange": -3.17
+    },
+    {
+      "position": 5,
+      "playerId": "m12915",
+      "name": "Eric Garcia",
+      "rating": 1618.9,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 7,
+      "playerId": "m11029",
+      "name": "Michael LaFrieda",
+      "rating": 1644.57,
+      "dailyRatingChange": -1.52
+    },
+    {
+      "position": 8,
+      "playerId": "m17705",
+      "name": "Kwang Chong",
+      "rating": 1673.34,
+      "dailyRatingChange": -6.86
+    },
+    {
+      "position": 9,
+      "playerId": "m34202",
+      "name": "Chris Mendoza",
+      "rating": 1651.62,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 9,
+      "playerId": "m21218",
+      "name": "Anthony Garcia CA",
+      "rating": 1567.7,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 11,
+      "playerId": "m35340",
+      "name": "Danny Lewis",
+      "rating": 1663.67,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 12,
+      "playerId": "m5214",
+      "name": "Adam Preszler",
+      "rating": 1654.1,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 13,
+      "playerId": "m21047",
+      "name": "Mike Hentrich",
+      "rating": 1503.73,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 14,
+      "playerId": "m29495",
+      "name": "Marc Caswell",
+      "rating": 1543.99,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 15,
+      "playerId": "m8037",
+      "name": "Kevin Curry",
+      "rating": 1520.04,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 16,
+      "playerId": "m35945",
+      "name": "Elsie Oster",
+      "rating": 1530.46,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 17,
+      "playerId": "m13192",
+      "name": "Cip Garcia",
+      "rating": 1480.63,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 18,
+      "playerId": "m23297",
+      "name": "Juan Bermudez",
+      "rating": 1587.51,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 19,
+      "playerId": "m47470",
+      "name": "James Elola",
+      "rating": 1593.27,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 20,
+      "playerId": "m62554",
+      "name": "Eli Wernigg",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 21,
+      "playerId": "m209",
+      "name": "Rory McClure",
+      "rating": 1546.96,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 22,
+      "playerId": "m12614",
+      "name": "Stacee LaFrieda",
+      "rating": 1419.38,
+      "dailyRatingChange": -0.03
+    },
+    {
+      "position": 23,
+      "playerId": "m34340",
+      "name": "Julia Randall",
+      "rating": 1510.45,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 24,
+      "playerId": "m56288",
+      "name": "Calvin DeOliveira",
+      "rating": 1521.77,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 25,
+      "playerId": "m54725",
+      "name": "Bradley Sellers",
+      "rating": 1530.04,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 26,
+      "playerId": "m39579",
+      "name": "Emmett Dippert",
+      "rating": 1628.69,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 27,
+      "playerId": "m36443",
+      "name": "Jose Aguilar",
+      "rating": 1531.08,
+      "dailyRatingChange": -5.67
+    },
+    {
+      "position": 28,
+      "playerId": "m54061",
+      "name": "Kyle Van Eenennaam",
+      "rating": 1469.9,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 29,
+      "playerId": "m46375",
+      "name": "George Gandara",
+      "rating": 1433,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 30,
+      "playerId": "m38516",
+      "name": "Jason Garcia",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 31,
+      "playerId": "m54841",
+      "name": "Sean Rader",
+      "rating": 1597.33,
+      "dailyRatingChange": 7.96
+    },
+    {
+      "position": 32,
+      "playerId": "m41371",
+      "name": "BRIAN FURLONG",
+      "rating": 1475.91,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 33,
+      "playerId": "m55331",
+      "name": "Joanna Guan",
+      "rating": 1416.48,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 34,
+      "playerId": "m583722",
+      "name": "Silas caswell",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 35,
+      "playerId": "m62548",
+      "name": "Jocelyn Dean",
+      "rating": 1400.38,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 36,
+      "playerId": "i115357",
+      "name": "Tara Gandara",
+      "rating": 1217.93,
+      "dailyRatingChange": 0
+    }
+  ]
+}

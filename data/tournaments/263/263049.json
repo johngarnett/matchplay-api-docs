@@ -1,0 +1,81 @@
+{
+  "tournamentId": 263049,
+  "name": "Taiwan August 2026",
+  "date": "2026-08-01",
+  "locationId": "11191",
+  "locationName": "The Flipper Room",
+  "playerCount": 10,
+  "ratingsDate": "2026-08-01",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m16804",
+      "name": "Jake Crimmins",
+      "rating": 1697.82,
+      "dailyRatingChange": 13.27
+    },
+    {
+      "position": 2,
+      "playerId": "m30111",
+      "name": "David Jarlestedt",
+      "rating": 1595.32,
+      "dailyRatingChange": 6.68
+    },
+    {
+      "position": 3,
+      "playerId": "i82246",
+      "name": "Hunter DiLeo",
+      "rating": 1569.32,
+      "dailyRatingChange": 11.69
+    },
+    {
+      "position": 4,
+      "playerId": "m59936",
+      "name": "Sin Lee",
+      "rating": 1575.92,
+      "dailyRatingChange": 8.79
+    },
+    {
+      "position": 5,
+      "playerId": "i142443",
+      "name": "Cheng Yue Wu",
+      "rating": 1599.12,
+      "dailyRatingChange": -7.1
+    },
+    {
+      "position": 6,
+      "playerId": "m13970",
+      "name": "Kengtai Ko",
+      "rating": 1628.55,
+      "dailyRatingChange": -13.18
+    },
+    {
+      "position": 7,
+      "playerId": "i162643",
+      "name": "Mike Tseng",
+      "rating": 1469.79,
+      "dailyRatingChange": null
+    },
+    {
+      "position": 8,
+      "playerId": "i148646",
+      "name": "Michelle Lee",
+      "rating": 1379.17,
+      "dailyRatingChange": 0.27
+    },
+    {
+      "position": 9,
+      "playerId": "i162642",
+      "name": "Eugene Lee",
+      "rating": 1376.74,
+      "dailyRatingChange": null
+    },
+    {
+      "position": 10,
+      "playerId": "i163350",
+      "name": "Julia Liao",
+      "rating": 1416.1,
+      "dailyRatingChange": null
+    }
+  ]
+}

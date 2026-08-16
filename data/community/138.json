@@ -1,0 +1,120 @@
+{
+  "communityId": "138",
+  "playerCount": 8,
+  "ratingsDate": "2026-08-12",
+  "relatedCommunities": [
+    "98"
+  ],
+  "topVenues": [
+    {
+      "locationId": "7201",
+      "name": "Revenge Of",
+      "address": "3420 Eagle Rock Boulevard, Los Angeles, CA 90065, US",
+      "count": 11
+    },
+    {
+      "locationId": "7606",
+      "name": "Starlite Arcade",
+      "address": "69345 Main Street, Richmond, MI 48062, US",
+      "count": 1
+    }
+  ],
+  "players": [
+    {
+      "id": "m41054",
+      "name": "Chad Benton",
+      "rating": 1475.23,
+      "rd": 28.83,
+      "ratingClass": "C",
+      "homeLocation": "Revenge Of",
+      "homeLocationId": "7201",
+      "percentile": 36.95905343084735,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m43423",
+      "name": "Rian Seeley",
+      "rating": 1446.46,
+      "rd": 30.38,
+      "ratingClass": "C",
+      "homeLocation": "Revenge Of",
+      "homeLocationId": "7201",
+      "percentile": 25.946802068290864,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i112268",
+      "name": "Adam Wolf",
+      "rating": 1441.93,
+      "rd": 31.18,
+      "ratingClass": "C",
+      "homeLocation": "Revenge Of",
+      "homeLocationId": "7201",
+      "percentile": 24.316392602599336,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i95552",
+      "name": "Greg Miller",
+      "rating": 1436.1,
+      "rd": 29.73,
+      "ratingClass": "C",
+      "homeLocation": "Revenge Of",
+      "homeLocationId": "7201",
+      "percentile": 22.406484371360694,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m38148",
+      "name": "Jacob Ramirez",
+      "rating": 1434.85,
+      "rd": 30.46,
+      "ratingClass": "C",
+      "homeLocation": "Revenge Of",
+      "homeLocationId": "7201",
+      "percentile": 22.07108585270415,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i143282",
+      "name": "Brian Rainman",
+      "rating": 1424.74,
+      "rd": 30.27,
+      "ratingClass": "C",
+      "homeLocation": "Revenge Of",
+      "homeLocationId": "7201",
+      "percentile": 19.024549308240555,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m35304",
+      "name": "Jay Shadow",
+      "rating": 1412.12,
+      "rd": 28.97,
+      "ratingClass": "C",
+      "homeLocation": "Revenge Of",
+      "homeLocationId": "7201",
+      "percentile": 15.623980994083944,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m38150",
+      "name": "John Mendez",
+      "rating": 1275.41,
+      "rd": 31.08,
+      "ratingClass": "E",
+      "homeLocation": "Revenge Of",
+      "homeLocationId": "7201",
+      "percentile": 0.554339218335119,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "tournamentId": 262712,
+  "name": "Waterland's 3 Strike Q-Bert Special! (07/18) (clone)",
+  "date": "2026-07-18",
+  "locationId": "13180",
+  "locationName": "Waterland Arcade",
+  "playerCount": 5,
+  "ratingsDate": "2026-07-18",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m51408",
+      "name": "Bud Lipke",
+      "rating": 1589.33,
+      "dailyRatingChange": 16.77
+    },
+    {
+      "position": 2,
+      "playerId": "m41888",
+      "name": "peyton conrad",
+      "rating": 1576.63,
+      "dailyRatingChange": 3.67
+    },
+    {
+      "position": 2,
+      "playerId": "m61395",
+      "name": "Jessie Ruiz",
+      "rating": 1373.35,
+      "dailyRatingChange": 8.03
+    },
+    {
+      "position": 4,
+      "playerId": "i73585",
+      "name": "Elliott Bliss",
+      "rating": 1651.84,
+      "dailyRatingChange": -19.91
+    },
+    {
+      "position": 5,
+      "playerId": "m579852",
+      "name": "Arthur Gross",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

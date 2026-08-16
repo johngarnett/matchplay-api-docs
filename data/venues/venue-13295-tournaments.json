@@ -1,0 +1,81 @@
+{
+  "locationId": "13295",
+  "venueName": "Prayer & Pinball",
+  "venueAddress": "2332 US 70E Morganton, NC",
+  "tournaments": [
+    {
+      "id": 266121,
+      "name": "Finals for Prayer & Pinball Max Matchplay",
+      "date": "8/8/2026",
+      "playerCount": 4,
+      "qualifying": {
+        "id": 266112,
+        "name": "Prayer & Pinball Max Matchplay",
+        "playerCount": 6
+      },
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m37526",
+          "name": "Joshua Singleton",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m31892",
+          "name": "Justin Lail",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "i110083",
+          "name": "Ezekiel Wright",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "i122981",
+          "name": "Ryan Doherty",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 263846,
+      "name": "Prayer & Pinball monthly tournament",
+      "date": "7/25/2026",
+      "playerCount": 6,
+      "qualifying": {
+        "id": 263815,
+        "name": "Prayer & Pinball monthly tournament",
+        "playerCount": 6
+      },
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m37526",
+          "name": "Joshua Singleton",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "i122981",
+          "name": "Ryan Doherty",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "i110083",
+          "name": "Ezekiel Wright",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "i36218",
+          "name": "Chipper Hughes",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

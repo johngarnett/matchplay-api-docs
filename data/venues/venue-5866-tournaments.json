@@ -1,0 +1,151 @@
+{
+  "locationId": "5866",
+  "venueName": "Kiitos Brewing",
+  "venueAddress": "",
+  "tournaments": [
+    {
+      "id": 266664,
+      "name": "Kiitos Summer Series 8/11/26",
+      "date": "8/11/2026",
+      "playerCount": 42,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "p586467",
+          "name": "Nathan Wright UT",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 1,
+          "playerId": "m28108",
+          "name": "Yusuf Yarow",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "i90170",
+          "name": "Aaron Record",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m29053",
+          "name": "Jeff Peters",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 265541,
+      "name": "Kiitos Summer Series 8/4/26",
+      "date": "8/4/2026",
+      "playerCount": 30,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m23934",
+          "name": "Sean Christensen",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 1,
+          "playerId": "m33267",
+          "name": "Jeffrey Larsen",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m30818",
+          "name": "Simone Bateman",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m20943",
+          "name": "Paige Peck",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m36795",
+          "name": "Alex Reynolds",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 265024,
+      "name": "Kiitos Transformers Launch Party",
+      "date": "8/1/2026",
+      "playerCount": 25,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m4485",
+          "name": "Dan Newman",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m23934",
+          "name": "Sean Christensen",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m20943",
+          "name": "Paige Peck",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m18902",
+          "name": "Wyatt Capener",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m45331",
+          "name": "Katy Lee",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 264345,
+      "name": "Kiitos Summer Series 7/28/26",
+      "date": "7/28/2026",
+      "playerCount": 38,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m47315",
+          "name": "Cody Copeland",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m30818",
+          "name": "Simone Bateman",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m20943",
+          "name": "Paige Peck",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m25474",
+          "name": "Kevin Tuck",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "tournamentId": 266157,
+  "name": "Autobot Finals for Transformers - More Than Flips The Eye",
+  "date": "2026-08-09",
+  "locationId": "7208",
+  "locationName": "Rochester Pinball Collective",
+  "playerCount": 8,
+  "ratingsDate": "2026-08-09",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m55424",
+      "name": "Steve Schaefer",
+      "rating": 1528.02,
+      "dailyRatingChange": 5.94
+    },
+    {
+      "position": 2,
+      "playerId": "i162985",
+      "name": "Danny Murphy ROC",
+      "rating": 1413.83,
+      "dailyRatingChange": 45.86
+    },
+    {
+      "position": 3,
+      "playerId": "m60162",
+      "name": "Gabe Weiss",
+      "rating": 1503.42,
+      "dailyRatingChange": 2.99
+    },
+    {
+      "position": 4,
+      "playerId": "m36955",
+      "name": "Tim Fisher",
+      "rating": 1553.1,
+      "dailyRatingChange": -1.53
+    },
+    {
+      "position": 5,
+      "playerId": "m30338",
+      "name": "Amy Murphy",
+      "rating": 1478.34,
+      "dailyRatingChange": 0.64
+    },
+    {
+      "position": 6,
+      "playerId": "m585543",
+      "name": "Neil Deiboldt",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 7,
+      "playerId": "i85376",
+      "name": "Brent Gramkee",
+      "rating": 1472.76,
+      "dailyRatingChange": -24.11
+    },
+    {
+      "position": 8,
+      "playerId": "m46354",
+      "name": "Eric Werner",
+      "rating": 1466.51,
+      "dailyRatingChange": -13.28
+    }
+  ]
+}

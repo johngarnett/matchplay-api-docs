@@ -1,0 +1,74 @@
+{
+  "tournamentId": 266129,
+  "name": "Transformers LE Launch Party at Birdsmouth Beer",
+  "date": "2026-08-09",
+  "locationId": "13856",
+  "locationName": "Birdsmouth Beer",
+  "playerCount": 9,
+  "ratingsDate": "2026-08-09",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m29755",
+      "name": "Joe Broccoli",
+      "rating": 1653.07,
+      "dailyRatingChange": -0.22
+    },
+    {
+      "position": 2,
+      "playerId": "m30548",
+      "name": "Justin Kole",
+      "rating": 1585.85,
+      "dailyRatingChange": 26.39
+    },
+    {
+      "position": 3,
+      "playerId": "m49146",
+      "name": "Edward Haran",
+      "rating": 1583.55,
+      "dailyRatingChange": 23.55
+    },
+    {
+      "position": 4,
+      "playerId": "i110761",
+      "name": "Joey Fiore",
+      "rating": 1576.87,
+      "dailyRatingChange": -0.85
+    },
+    {
+      "position": 5,
+      "playerId": "m61287",
+      "name": "Jay Gill",
+      "rating": 1509.86,
+      "dailyRatingChange": 4.99
+    },
+    {
+      "position": 6,
+      "playerId": "m53919",
+      "name": "Margaret Fox",
+      "rating": 1461.88,
+      "dailyRatingChange": -1.86
+    },
+    {
+      "position": 6,
+      "playerId": "m585731",
+      "name": "Colleen McGowan",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 8,
+      "playerId": "m60268",
+      "name": "Kate Strong NJ",
+      "rating": 1482.42,
+      "dailyRatingChange": -12.88
+    },
+    {
+      "position": 9,
+      "playerId": "m585732",
+      "name": "Michele Occimio",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

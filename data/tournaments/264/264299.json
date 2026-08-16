@@ -1,0 +1,291 @@
+{
+  "tournamentId": 264299,
+  "name": "Throne Pinball Thursday Night League Season 1 #1",
+  "date": "2026-08-07",
+  "locationId": "13609",
+  "locationName": "Throne Brewing",
+  "playerCount": 40,
+  "ratingsDate": "2026-08-07",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m20681",
+      "name": "Cara Eisinger",
+      "rating": 1601.54,
+      "dailyRatingChange": 12.15
+    },
+    {
+      "position": 2,
+      "playerId": "m20676",
+      "name": "Mike Mcclure",
+      "rating": 1624.92,
+      "dailyRatingChange": 2.35
+    },
+    {
+      "position": 2,
+      "playerId": "m5656",
+      "name": "Jim Smith AZ",
+      "rating": 1639.75,
+      "dailyRatingChange": 2.37
+    },
+    {
+      "position": 2,
+      "playerId": "m585132",
+      "name": "Matt Jensen",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 5,
+      "playerId": "i159635",
+      "name": "Justin Rupp",
+      "rating": 1560,
+      "dailyRatingChange": 24.55
+    },
+    {
+      "position": 5,
+      "playerId": "m52466",
+      "name": "Louis Rulon",
+      "rating": 1594.88,
+      "dailyRatingChange": 2.1
+    },
+    {
+      "position": 5,
+      "playerId": "i121491",
+      "name": "Amanda McElroy",
+      "rating": 1390.76,
+      "dailyRatingChange": 89.44
+    },
+    {
+      "position": 5,
+      "playerId": "m39847",
+      "name": "Xris Rincon",
+      "rating": 1531.14,
+      "dailyRatingChange": 3.5
+    },
+    {
+      "position": 9,
+      "playerId": "i161122",
+      "name": "Aisha Overholt",
+      "rating": 1483.99,
+      "dailyRatingChange": 31.29
+    },
+    {
+      "position": 9,
+      "playerId": "m50744",
+      "name": "Zac Webb",
+      "rating": 1522.58,
+      "dailyRatingChange": 4.47
+    },
+    {
+      "position": 11,
+      "playerId": "m14907",
+      "name": "Diane Smith",
+      "rating": 1466.32,
+      "dailyRatingChange": 4.32
+    },
+    {
+      "position": 11,
+      "playerId": "m55271",
+      "name": "James Wilson AZ",
+      "rating": 1564.42,
+      "dailyRatingChange": -1.87
+    },
+    {
+      "position": 11,
+      "playerId": "m50875",
+      "name": "Gosnje",
+      "rating": 1564.5,
+      "dailyRatingChange": 1.81
+    },
+    {
+      "position": 14,
+      "playerId": "m55506",
+      "name": "Sean Kellett",
+      "rating": 1416.37,
+      "dailyRatingChange": 9.04
+    },
+    {
+      "position": 14,
+      "playerId": "m61598",
+      "name": "Hayden McElroy",
+      "rating": 1530.46,
+      "dailyRatingChange": -4.65
+    },
+    {
+      "position": 14,
+      "playerId": "m32030",
+      "name": "Kevin Erickson AZ",
+      "rating": 1570.35,
+      "dailyRatingChange": -2.63
+    },
+    {
+      "position": 14,
+      "playerId": "m24202",
+      "name": "Joel Daniel",
+      "rating": 1556.17,
+      "dailyRatingChange": -2.59
+    },
+    {
+      "position": 18,
+      "playerId": "i107505",
+      "name": "David Sanders AZ",
+      "rating": 1618.07,
+      "dailyRatingChange": -5.04
+    },
+    {
+      "position": 18,
+      "playerId": "m39311",
+      "name": "Frankie Estrella",
+      "rating": 1478.46,
+      "dailyRatingChange": 0.28
+    },
+    {
+      "position": 20,
+      "playerId": "m24201",
+      "name": "Brittany Daniel AZ",
+      "rating": 1504.79,
+      "dailyRatingChange": 0.08
+    },
+    {
+      "position": 20,
+      "playerId": "i66633",
+      "name": "Tiffany Rigstad",
+      "rating": 1417.67,
+      "dailyRatingChange": null
+    },
+    {
+      "position": 22,
+      "playerId": "i93668",
+      "name": "Matthew Shanks",
+      "rating": 1445.69,
+      "dailyRatingChange": 0.11
+    },
+    {
+      "position": 23,
+      "playerId": "i97140",
+      "name": "Landon Paluc",
+      "rating": 1406.93,
+      "dailyRatingChange": 1.53
+    },
+    {
+      "position": 23,
+      "playerId": "m62048",
+      "name": "Yo Mama",
+      "rating": 1394.01,
+      "dailyRatingChange": 3.55
+    },
+    {
+      "position": 23,
+      "playerId": "i159636",
+      "name": "Andrew Davis AZ",
+      "rating": 1469.18,
+      "dailyRatingChange": -21.26
+    },
+    {
+      "position": 23,
+      "playerId": "m62551",
+      "name": "Sophie Kellett",
+      "rating": 1340.53,
+      "dailyRatingChange": 18.82
+    },
+    {
+      "position": 27,
+      "playerId": "m55509",
+      "name": "Ashley Kellett",
+      "rating": 1364.91,
+      "dailyRatingChange": 2.95
+    },
+    {
+      "position": 28,
+      "playerId": "i145713",
+      "name": "Adrian Miranda-Hill",
+      "rating": 1501.93,
+      "dailyRatingChange": -13.08
+    },
+    {
+      "position": 28,
+      "playerId": "m12918",
+      "name": "Kevin Ehlers",
+      "rating": 1594.49,
+      "dailyRatingChange": -9.69
+    },
+    {
+      "position": 28,
+      "playerId": "m12446",
+      "name": "Moto",
+      "rating": 1484.52,
+      "dailyRatingChange": -24.81
+    },
+    {
+      "position": 28,
+      "playerId": "i140797",
+      "name": "Sophia Sanders",
+      "rating": 1322.61,
+      "dailyRatingChange": 2.63
+    },
+    {
+      "position": 28,
+      "playerId": "i145711",
+      "name": "Jake MIranda-Hill",
+      "rating": 1489.68,
+      "dailyRatingChange": -11.05
+    },
+    {
+      "position": 28,
+      "playerId": "m55310",
+      "name": "Jack Felumlee",
+      "rating": 1551.21,
+      "dailyRatingChange": -13.37
+    },
+    {
+      "position": 34,
+      "playerId": "i161068",
+      "name": "Mira Datoon",
+      "rating": 1439.46,
+      "dailyRatingChange": null
+    },
+    {
+      "position": 34,
+      "playerId": "m585079",
+      "name": "Andy Wilson AZ",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 36,
+      "playerId": "m583165",
+      "name": "Amy Kaminski",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 37,
+      "playerId": "m54421",
+      "name": "Jason Webb",
+      "rating": 1507.83,
+      "dailyRatingChange": -4.1
+    },
+    {
+      "position": 38,
+      "playerId": "m29677",
+      "name": "Robert Paluc",
+      "rating": 1472.82,
+      "dailyRatingChange": -15.97
+    },
+    {
+      "position": 39,
+      "playerId": "m579074",
+      "name": "Kyle Burdell",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 40,
+      "playerId": "m585133",
+      "name": "Michelle Jensen",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

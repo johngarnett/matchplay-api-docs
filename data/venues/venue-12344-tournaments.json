@@ -1,0 +1,40 @@
+{
+  "locationId": "12344",
+  "venueName": "Flahertys Arden Bowl",
+  "venueAddress": "1273 West County Road East, Arden Hills, MN 55112, US",
+  "tournaments": [
+    {
+      "id": 263647,
+      "name": "Flippin' at Flaherty's #3",
+      "date": "7/24/2026",
+      "playerCount": 14,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m28155",
+          "name": "Michelle Ebert",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m24512",
+          "name": "Melissa DonCarlos",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m21262",
+          "name": "Angie DonCarlos",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m10047",
+          "name": "Brooke Hipsher",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

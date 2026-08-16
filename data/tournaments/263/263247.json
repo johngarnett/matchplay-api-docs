@@ -1,0 +1,67 @@
+{
+  "tournamentId": 263247,
+  "name": "PinCrossing Pinball League - Spring 2026  - A Finals",
+  "date": "2026-07-23",
+  "locationId": "6971",
+  "locationName": "Railroad Street Bar and Grill",
+  "playerCount": 8,
+  "ratingsDate": "2026-07-23",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m9856",
+      "name": "Dennis Gilbert",
+      "rating": 1612.38,
+      "dailyRatingChange": 9.15
+    },
+    {
+      "position": 2,
+      "playerId": "m7853",
+      "name": "Daniel Gilbert",
+      "rating": 1712.22,
+      "dailyRatingChange": 5.27
+    },
+    {
+      "position": 3,
+      "playerId": "m3162",
+      "name": "Brandon Service",
+      "rating": 1648.12,
+      "dailyRatingChange": 8.35
+    },
+    {
+      "position": 4,
+      "playerId": "m11190",
+      "name": "Mark Miles",
+      "rating": 1508.19,
+      "dailyRatingChange": -7.2
+    },
+    {
+      "position": 5,
+      "playerId": "i115427",
+      "name": "John Shehan",
+      "rating": 1526.74,
+      "dailyRatingChange": -3
+    },
+    {
+      "position": 6,
+      "playerId": "m627",
+      "name": "Jay Robinson",
+      "rating": 1636.63,
+      "dailyRatingChange": -7.72
+    },
+    {
+      "position": 6,
+      "playerId": "m45868",
+      "name": "Ben Lewis",
+      "rating": 1544.12,
+      "dailyRatingChange": -1.92
+    },
+    {
+      "position": 8,
+      "playerId": "m6171",
+      "name": "Brian Service",
+      "rating": 1588.55,
+      "dailyRatingChange": -8.58
+    }
+  ]
+}

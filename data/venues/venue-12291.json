@@ -1,0 +1,197 @@
+{
+  "locationId": "12291",
+  "name": "keelerland",
+  "address": "147 wawayanda ave middletown ny 10940",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 11,
+  "relatedVenues": [
+    {
+      "locationId": "9019",
+      "name": "Rock Fantasy",
+      "address": "12 East Main Street, Middletown, New York 10940, US",
+      "count": 85
+    },
+    {
+      "locationId": "13138",
+      "name": "Happy Valley Arcade Bar",
+      "address": "296 Main St, Beacon, NY 12508, US",
+      "count": 9
+    },
+    {
+      "locationId": "6813",
+      "name": "Morristown Game Vault",
+      "address": "22 South St, Morristown, NJ, 07960, US",
+      "count": 6
+    },
+    {
+      "locationId": "12253",
+      "name": "Barcade FiDi",
+      "address": "10 Cortlandt St, New York, NY 10007, US",
+      "count": 2
+    },
+    {
+      "locationId": "11216",
+      "name": "Scrappleland",
+      "address": "1150 Manhattan Ave, Brooklyn, NY 11222, US",
+      "count": 1
+    },
+    {
+      "locationId": "11249",
+      "name": "The Manor",
+      "address": "1329 Kings Highway, Pilesgrove, NJ 08098",
+      "count": 1
+    },
+    {
+      "locationId": "11388",
+      "name": "Red Hook Pinball Museum",
+      "address": "228 Van Brunt St, Brooklyn, NY 11231, US",
+      "count": 1
+    },
+    {
+      "locationId": "13266",
+      "name": "Under The Glass",
+      "address": "7 Broad Street Red Bank NJ 07701",
+      "count": 1
+    },
+    {
+      "locationId": "13338",
+      "name": "Pinfest",
+      "address": "",
+      "count": 1
+    }
+  ],
+  "players": [
+    {
+      "id": "m10437",
+      "name": "Frank Romero",
+      "rating": 1695.46,
+      "rd": 22.24,
+      "ratingClass": "A",
+      "homeLocation": "Rock Fantasy",
+      "homeLocationId": "9019",
+      "percentile": 96.31061629477803,
+      "changeDisplay": "-2.6",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m32855",
+      "name": "Kate Smith NY",
+      "rating": 1595.8,
+      "rd": 19.66,
+      "ratingClass": "B",
+      "homeLocation": "Rock Fantasy",
+      "homeLocationId": "9019",
+      "percentile": 80.9894256300368,
+      "changeDisplay": "+3.6",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m10362",
+      "name": "David Long",
+      "rating": 1593.52,
+      "rd": 21.47,
+      "ratingClass": "B",
+      "homeLocation": "Rock Fantasy",
+      "homeLocationId": "9019",
+      "percentile": 80.38850328411048,
+      "changeDisplay": "+1.3",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m51151",
+      "name": "michael Vaccarino",
+      "rating": 1580.49,
+      "rd": 20.68,
+      "ratingClass": "B",
+      "homeLocation": "Rock Fantasy",
+      "homeLocationId": "9019",
+      "percentile": 76.76433595751618,
+      "changeDisplay": "+11.7",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m525",
+      "name": "Stephen Keeler",
+      "rating": 1555.88,
+      "rd": 20.26,
+      "ratingClass": "B",
+      "homeLocation": "Rock Fantasy",
+      "homeLocationId": "9019",
+      "percentile": 68.98961196254717,
+      "changeDisplay": "-12.3",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "i105695",
+      "name": "Frank Grieco",
+      "rating": 1542.94,
+      "rd": 21.1,
+      "ratingClass": "B",
+      "homeLocation": "Rock Fantasy",
+      "homeLocationId": "9019",
+      "percentile": 64.21018307169143,
+      "changeDisplay": "+2.9",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "i129489",
+      "name": "elliot torres",
+      "rating": 1531.19,
+      "rd": 32,
+      "ratingClass": "B",
+      "homeLocation": "Happy Valley Arcade Bar",
+      "homeLocationId": "13138",
+      "percentile": 59.500628872222485,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m34386",
+      "name": "Alec Vanacore",
+      "rating": 1524.66,
+      "rd": 25.48,
+      "ratingClass": "B",
+      "homeLocation": "Rock Fantasy",
+      "homeLocationId": "9019",
+      "percentile": 56.957190105743706,
+      "changeDisplay": "+5.4",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "i103246",
+      "name": "Amalia Truglio",
+      "rating": 1517.35,
+      "rd": 24.68,
+      "ratingClass": "B",
+      "homeLocation": "Rock Fantasy",
+      "homeLocationId": "9019",
+      "percentile": 54.15288582475427,
+      "changeDisplay": "+8.6",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m37348",
+      "name": "Kurtis Jones",
+      "rating": 1492.21,
+      "rd": 23.81,
+      "ratingClass": "C",
+      "homeLocation": "Rock Fantasy",
+      "homeLocationId": "9019",
+      "percentile": 43.89528112917501,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i146918",
+      "name": "Tiffany Long",
+      "rating": 1401.99,
+      "rd": 23.44,
+      "ratingClass": "C",
+      "homeLocation": "Rock Fantasy",
+      "homeLocationId": "9019",
+      "percentile": 13.01998416173662,
+      "changeDisplay": "-2.7",
+      "changeClass": "change-negative"
+    }
+  ]
+}

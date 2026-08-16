@@ -1,0 +1,263 @@
+{
+  "locationId": "8931",
+  "name": "Wax Moon",
+  "address": "1310 Altamont Avenue, Richmond, VA 23230, US",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 16,
+  "relatedVenues": [
+    {
+      "locationId": "7953",
+      "name": "Richmond Pinball Collective",
+      "address": "9550 Midlothian Turnpike, Unit 112, Midlothian, VA 23235, US",
+      "count": 54
+    },
+    {
+      "locationId": "11970",
+      "name": "Richmond Pinball Collective",
+      "address": "9550 Midlothian Tpke #106, Richmond, VA 23235",
+      "count": 16
+    },
+    {
+      "locationId": "8336",
+      "name": "R/C Lexington Exchange Movies 12",
+      "address": "44800 Oak Crest Dr, California, MD 20619, US",
+      "count": 11
+    },
+    {
+      "locationId": "13495",
+      "name": "Maltese Brewery",
+      "address": "11800 Main Street Bld 3 Fredericksburg, Va",
+      "count": 9
+    },
+    {
+      "locationId": "12832",
+      "name": "Reclaim Arcade",
+      "address": "2324 Plank Road, Fredericksburg, VA 22401, US",
+      "count": 5
+    },
+    {
+      "locationId": "11772",
+      "name": "Chris Seaver's House",
+      "address": "1550 Hollow Log Dr, Powhatan, VA 23139",
+      "count": 4
+    },
+    {
+      "locationId": "8271",
+      "name": "Rezzanine Esports",
+      "address": "1025 Washington Pike, Bridgeville, PA 15017, US",
+      "count": 3
+    },
+    {
+      "locationId": "11774",
+      "name": "Jim's House",
+      "address": "1506 Hearthglow Ln, Henrico VA, 23238",
+      "count": 3
+    },
+    {
+      "locationId": "2573",
+      "name": "Crabtowne",
+      "address": "1500 Crain Hwy S, Glen Burnie, MD 21061, USA",
+      "count": 2
+    },
+    {
+      "locationId": "8416",
+      "name": "Flippers Arcade",
+      "address": "6615 Caratoke Highway, Grandy, NC 27939, US",
+      "count": 2
+    }
+  ],
+  "players": [
+    {
+      "id": "m34512",
+      "name": "Cam Harrahy",
+      "rating": 1868.29,
+      "rd": 18.74,
+      "ratingClass": "Master",
+      "homeLocation": "Richmond Pinball Collective",
+      "homeLocationId": "7953",
+      "percentile": 99.91615037033587,
+      "changeDisplay": "-0.4",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m42893",
+      "name": "Jordan Creamer",
+      "rating": 1701.1,
+      "rd": 26.07,
+      "ratingClass": "Expert",
+      "homeLocation": "Flippers Arcade",
+      "homeLocationId": "8416",
+      "percentile": 96.67396468998929,
+      "changeDisplay": "-5.1",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m2615",
+      "name": "Malik Berger",
+      "rating": 1690.37,
+      "rd": 19.92,
+      "ratingClass": "A",
+      "homeLocation": "Maltese Brewery",
+      "homeLocationId": "13495",
+      "percentile": 95.94726789956678,
+      "changeDisplay": "+6.5",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m18818",
+      "name": "Jon Cohodas",
+      "rating": 1617.15,
+      "rd": 23.92,
+      "ratingClass": "A",
+      "homeLocation": "Richmond Pinball Collective",
+      "homeLocationId": "7953",
+      "percentile": 86.04835328643965,
+      "changeDisplay": "+2.3",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m31353",
+      "name": "Katie Price",
+      "rating": 1581.41,
+      "rd": 42.9,
+      "ratingClass": "B",
+      "homeLocation": "Wax Moon",
+      "homeLocationId": "8931",
+      "percentile": 77.02985978478594,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i122452",
+      "name": "Stephanie Monfort",
+      "rating": 1558.38,
+      "rd": 38.2,
+      "ratingClass": "B",
+      "homeLocation": "Wax Moon",
+      "homeLocationId": "8931",
+      "percentile": 69.80947500815205,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i90268",
+      "name": "Kennan McArtor",
+      "rating": 1553.46,
+      "rd": 34.86,
+      "ratingClass": "B",
+      "homeLocation": "Richmond Pinball Collective",
+      "homeLocationId": "7953",
+      "percentile": 68.12782410211021,
+      "changeDisplay": "-21.9",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m40659",
+      "name": "Liz Scott",
+      "rating": 1549.63,
+      "rd": 25.09,
+      "ratingClass": "B",
+      "homeLocation": "R/C Lexington Exchange Movies 12",
+      "homeLocationId": "8336",
+      "percentile": 66.56728932780547,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i133948",
+      "name": "Josh Hoey",
+      "rating": 1547.39,
+      "rd": 40.89,
+      "ratingClass": "B",
+      "homeLocation": "Wax Moon",
+      "homeLocationId": "8931",
+      "percentile": 65.71481809288674,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i90880",
+      "name": "Andrew Griimoiire",
+      "rating": 1542.98,
+      "rd": 49.52,
+      "ratingClass": "B",
+      "homeLocation": "Wax Moon",
+      "homeLocationId": "8931",
+      "percentile": 64.21484138445055,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m29732",
+      "name": "Erin Comerford",
+      "rating": 1532.05,
+      "rd": 27.68,
+      "ratingClass": "B",
+      "homeLocation": "Richmond Pinball Collective",
+      "homeLocationId": "7953",
+      "percentile": 59.905902082265804,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i99823",
+      "name": "Kate Granfield",
+      "rating": 1527.76,
+      "rd": 44.82,
+      "ratingClass": "B",
+      "homeLocation": "Wax Moon",
+      "homeLocationId": "8931",
+      "percentile": 58.12642660828248,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m57805",
+      "name": "Megan Rudman",
+      "rating": 1483.97,
+      "rd": 46.63,
+      "ratingClass": "C",
+      "homeLocation": "Wax Moon",
+      "homeLocationId": "8931",
+      "percentile": 40.51800437881399,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i99109",
+      "name": "Rob Di Leo",
+      "rating": 1480.83,
+      "rd": 64.82,
+      "ratingClass": "C",
+      "homeLocation": "Wax Moon",
+      "homeLocationId": "8931",
+      "percentile": 39.21367680626077,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m32517",
+      "name": "Drea Keppler",
+      "rating": 1470.18,
+      "rd": 22.85,
+      "ratingClass": "C",
+      "homeLocation": "Richmond Pinball Collective",
+      "homeLocationId": "7953",
+      "percentile": 34.94200400614898,
+      "changeDisplay": "+4.4",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m32154",
+      "name": "Emily Mansfield",
+      "rating": 1412.49,
+      "rd": 35.26,
+      "ratingClass": "C",
+      "homeLocation": "Richmond Pinball Collective",
+      "homeLocationId": "7953",
+      "percentile": 15.749755438580145,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

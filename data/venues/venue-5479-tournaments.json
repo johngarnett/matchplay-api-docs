@@ -1,0 +1,163 @@
+{
+  "locationId": "5479",
+  "venueName": "Canal Street Arcade and Deli",
+  "venueAddress": "308 East 1st St, Dayton, OH, 45402, US",
+  "tournaments": [
+    {
+      "id": 265305,
+      "name": "Gem City Pinball League Season 18 Week 2",
+      "date": "8/10/2026",
+      "playerCount": 39,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m38141",
+          "name": "Steve Mills",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 1,
+          "playerId": "m19563",
+          "name": "Chad Marsh",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "i73109",
+          "name": "Casey Barber",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m40173",
+          "name": "Matt Juhascik",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 265298,
+      "name": "Gem City Pinball League Season 18 Week 1",
+      "date": "8/3/2026",
+      "playerCount": 39,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "p487584",
+          "name": "Eric Beason",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m7284",
+          "name": "Dave Jones",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m38141",
+          "name": "Steve Mills",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "i113715",
+          "name": "Luke Guthrie",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m18285",
+          "name": "Jon Vollmer",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m26174",
+          "name": "Derek Helton",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m27207",
+          "name": "Jason Johnson",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 263005,
+      "name": "Gem City 5th Anniversary Party",
+      "date": "7/20/2026",
+      "playerCount": 36,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m19563",
+          "name": "Chad Marsh",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m36501",
+          "name": "Doug Kuykendoll",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m36480",
+          "name": "Zach Hiler",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m27207",
+          "name": "Jason Johnson",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "i122266",
+          "name": "Tony Maniscalli",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 262828,
+      "name": "Gem City Monthly Stern Army",
+      "date": "7/19/2026",
+      "playerCount": 39,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m28322",
+          "name": "Chris Schram",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m18285",
+          "name": "Jon Vollmer",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m41140",
+          "name": "Jeremy Boyle",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m19563",
+          "name": "Chad Marsh",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

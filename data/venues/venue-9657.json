@@ -1,0 +1,83 @@
+{
+  "locationId": "9657",
+  "name": "Pinball Planet",
+  "address": "2 Truro St, Torquay, QLD, 4655, AU",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 3,
+  "relatedVenues": [
+    {
+      "locationId": "13394",
+      "name": "Pinball Planet",
+      "address": "2 Truro St, Torquay, QLD 4655, AU",
+      "count": 10
+    },
+    {
+      "locationId": "7450",
+      "name": "The Clubhouse Moorooka",
+      "address": "76 Koala Road, Moorooka, QLD 4105, AU",
+      "count": 8
+    },
+    {
+      "locationId": "11299",
+      "name": "Burnside Pinball Club",
+      "address": "13 Robertson drive, Burnside",
+      "count": 2
+    },
+    {
+      "locationId": "13069",
+      "name": "The Fraternity Club",
+      "address": "11 Bourke St, Fairy Meadow",
+      "count": 2
+    },
+    {
+      "locationId": "10800",
+      "name": "Illawarra Pinball Clubhouse",
+      "address": "147 Kembla Street, Wollongong",
+      "count": 1
+    },
+    {
+      "locationId": "13271",
+      "name": "384 North Brewing",
+      "address": "2/13 Brickworks Cct, Svensson Heights QLD 4670",
+      "count": 1
+    }
+  ],
+  "players": [
+    {
+      "id": "m6562",
+      "name": "Andrew Priest",
+      "rating": 1673.14,
+      "rd": 19.15,
+      "ratingClass": "A",
+      "homeLocation": "Pinball Planet",
+      "homeLocationId": "13394",
+      "percentile": 94.41934131457586,
+      "changeDisplay": "-9.4",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m44223",
+      "name": "Robert Taylor AUS",
+      "rating": 1537.65,
+      "rd": 35.06,
+      "ratingClass": "B",
+      "homeLocation": "Pinball Planet",
+      "homeLocationId": "13394",
+      "percentile": 62.123258955606275,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m39015",
+      "name": "Heidi Byrne",
+      "rating": 1531.49,
+      "rd": 21.55,
+      "ratingClass": "B",
+      "homeLocation": "The Clubhouse Moorooka",
+      "homeLocationId": "7450",
+      "percentile": 59.61708669120045,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

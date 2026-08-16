@@ -1,0 +1,209 @@
+{
+  "locationId": "9549",
+  "name": "TILT AMUSEMENTS DUBAI",
+  "address": "AL QOUZ INDUSTRIAL AREA 3, DUBAI",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 15,
+  "relatedVenues": [
+    {
+      "locationId": "9570",
+      "name": "RobinJo Game Room",
+      "address": "Dubai, UAE",
+      "count": 11
+    },
+    {
+      "locationId": "10433",
+      "name": "Pinball Union",
+      "address": "Väinölänkatu 2, Tampere, 33100, FI",
+      "count": 2
+    },
+    {
+      "locationId": "10542",
+      "name": "Solid State Pinball Supply",
+      "address": "2529 Jefferson St, Kansas City, MO 64108, US",
+      "count": 1
+    }
+  ],
+  "players": [
+    {
+      "id": "m36540",
+      "name": "Sahem Azzam",
+      "rating": 1752.24,
+      "rd": 37.7,
+      "ratingClass": "Expert",
+      "homeLocation": "RobinJo Game Room",
+      "homeLocationId": "9570",
+      "percentile": 98.8493967484977,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m5867",
+      "name": "David Marsh",
+      "rating": 1726.2,
+      "rd": 45.41,
+      "ratingClass": "Expert",
+      "homeLocation": "TILT AMUSEMENTS DUBAI",
+      "homeLocationId": "9549",
+      "percentile": 97.97363394978339,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m48776",
+      "name": "Michele Gelmini",
+      "rating": 1667.63,
+      "rd": 33.46,
+      "ratingClass": "A",
+      "homeLocation": "Pinball Union",
+      "homeLocationId": "10433",
+      "percentile": 93.89295197279546,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m36265",
+      "name": "Omar Kawas",
+      "rating": 1635.02,
+      "rd": 41.04,
+      "ratingClass": "A",
+      "homeLocation": "TILT AMUSEMENTS DUBAI",
+      "homeLocationId": "9549",
+      "percentile": 89.45357991335538,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m38059",
+      "name": "Amir Azzam",
+      "rating": 1593.18,
+      "rd": 40.64,
+      "ratingClass": "B",
+      "homeLocation": "RobinJo Game Room",
+      "homeLocationId": "9570",
+      "percentile": 80.29533702892813,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m36470",
+      "name": "Dean Holmes",
+      "rating": 1578.89,
+      "rd": 42.89,
+      "ratingClass": "B",
+      "homeLocation": "TILT AMUSEMENTS DUBAI",
+      "homeLocationId": "9549",
+      "percentile": 76.30782130712255,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m38056",
+      "name": "Sven Reinicke",
+      "rating": 1573.74,
+      "rd": 38.88,
+      "ratingClass": "B",
+      "homeLocation": "TILT AMUSEMENTS DUBAI",
+      "homeLocationId": "9549",
+      "percentile": 74.70070340522663,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m59841",
+      "name": "Alex Zen",
+      "rating": 1567.75,
+      "rd": 62.63,
+      "ratingClass": "B",
+      "homeLocation": "TILT AMUSEMENTS DUBAI",
+      "homeLocationId": "9549",
+      "percentile": 72.73955373363768,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m38837",
+      "name": "Faris Azzam",
+      "rating": 1536.67,
+      "rd": 38.77,
+      "ratingClass": "B",
+      "homeLocation": "RobinJo Game Room",
+      "homeLocationId": "9570",
+      "percentile": 61.722644058322075,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m43261",
+      "name": "Klaus Viesteg",
+      "rating": 1527.74,
+      "rd": 44.21,
+      "ratingClass": "B",
+      "homeLocation": "TILT AMUSEMENTS DUBAI",
+      "homeLocationId": "9549",
+      "percentile": 58.11245167000513,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m53669",
+      "name": "Michael Seddon",
+      "rating": 1523.1,
+      "rd": 53.04,
+      "ratingClass": "B",
+      "homeLocation": "TILT AMUSEMENTS DUBAI",
+      "homeLocationId": "9549",
+      "percentile": 56.37024269809475,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m42230",
+      "name": "Greg Spaw",
+      "rating": 1507.74,
+      "rd": 46.94,
+      "ratingClass": "B",
+      "homeLocation": "TILT AMUSEMENTS DUBAI",
+      "homeLocationId": "9549",
+      "percentile": 50.30046117296315,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m36605",
+      "name": "Richard Brew",
+      "rating": 1497.4,
+      "rd": 57.99,
+      "ratingClass": "C",
+      "homeLocation": "TILT AMUSEMENTS DUBAI",
+      "homeLocationId": "9549",
+      "percentile": 46.04742162388783,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m59957",
+      "name": "Girolamo Parisi",
+      "rating": 1492.72,
+      "rd": 62.85,
+      "ratingClass": "C",
+      "homeLocation": "TILT AMUSEMENTS DUBAI",
+      "homeLocationId": "9549",
+      "percentile": 44.14683001816742,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m45808",
+      "name": "Ismael Couture",
+      "rating": 1483.99,
+      "rd": 56.47,
+      "ratingClass": "C",
+      "homeLocation": "TILT AMUSEMENTS DUBAI",
+      "homeLocationId": "9549",
+      "percentile": 40.53197931709135,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "tournamentId": 264707,
+  "name": "Pixels Summer Sprint Matchplay Tuesday July 28 2026",
+  "date": "2026-07-31",
+  "locationId": "9555",
+  "locationName": "Pixels Arcade & Taproom",
+  "playerCount": 4,
+  "ratingsDate": "2026-07-31",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m377954",
+      "name": "Devon Brewer",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 2,
+      "playerId": "m377946",
+      "name": "Chris Taravella",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 3,
+      "playerId": "i62620",
+      "name": "Will Shore",
+      "rating": 1494.78,
+      "dailyRatingChange": 15.6
+    },
+    {
+      "position": 4,
+      "playerId": "m381203",
+      "name": "Taroo Berry",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

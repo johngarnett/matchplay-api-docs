@@ -1,0 +1,74 @@
+{
+  "tournamentId": 265068,
+  "name": "transformer launch party",
+  "date": "2026-08-02",
+  "locationId": "13819",
+  "locationName": "Pinball Museum of Corbin",
+  "playerCount": 9,
+  "ratingsDate": "2026-08-02",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m7701",
+      "name": "Justin Ryan",
+      "rating": 1636.24,
+      "dailyRatingChange": 2.57
+    },
+    {
+      "position": 1,
+      "playerId": "m43896",
+      "name": "Daniel Sargent",
+      "rating": 1616,
+      "dailyRatingChange": 7.51
+    },
+    {
+      "position": 1,
+      "playerId": "m583905",
+      "name": "ron robinette",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 4,
+      "playerId": "m12470",
+      "name": "Jeremy Ryan",
+      "rating": 1625.07,
+      "dailyRatingChange": -5.43
+    },
+    {
+      "position": 5,
+      "playerId": "m31490",
+      "name": "Michelle Scarborough",
+      "rating": 1486.39,
+      "dailyRatingChange": 4.45
+    },
+    {
+      "position": 6,
+      "playerId": "m7327",
+      "name": "Nathan Brandt",
+      "rating": 1581.44,
+      "dailyRatingChange": -2.13
+    },
+    {
+      "position": 6,
+      "playerId": "m32591",
+      "name": "Alex Scarborough",
+      "rating": 1528.7,
+      "dailyRatingChange": -2.28
+    },
+    {
+      "position": 8,
+      "playerId": "m583903",
+      "name": "trent marshall",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 8,
+      "playerId": "m41789",
+      "name": "joey taylor",
+      "rating": 1595.99,
+      "dailyRatingChange": -23.56
+    }
+  ]
+}

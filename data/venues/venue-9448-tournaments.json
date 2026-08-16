@@ -1,0 +1,44 @@
+{
+  "locationId": "9448",
+  "venueName": "The Hills Pub",
+  "venueAddress": "8758 La Mesa Blvd, La Mesa, CA 91942, US",
+  "tournaments": [
+    {
+      "id": 264221,
+      "name": "Finals for The Hills Pub Monthly - Jul 2026",
+      "date": "7/27/2026",
+      "playerCount": 6,
+      "qualifying": {
+        "id": 264195,
+        "name": "The Hills Pub Monthly - Jul 2026",
+        "playerCount": 12
+      },
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m14250",
+          "name": "Tom Isaak",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m2821",
+          "name": "Mark Maleko Schulz 👾",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m3911",
+          "name": "Mike Welsh",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m48032",
+          "name": "Kevin Evans",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "locationId": "9586",
+  "venueName": "Cool Dogs Sports Pub",
+  "venueAddress": "3025 E Desert Inn Rd, Las Vegas, NV 89121",
+  "tournaments": [
+    {
+      "id": 266514,
+      "name": "Cool Dogs Finals 2026-08-10",
+      "date": "8/10/2026",
+      "playerCount": 10,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m47550",
+          "name": "Sonya Duex",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m11741",
+          "name": "Jay M Kinney",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m17028",
+          "name": "Richard Jenkins",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m9954",
+          "name": "Steve Strom",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

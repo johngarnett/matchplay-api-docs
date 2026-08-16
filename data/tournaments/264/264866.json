@@ -1,0 +1,39 @@
+{
+  "tournamentId": 264866,
+  "name": "Finals for Kuban vs Tczajkowsky",
+  "date": "2026-07-31",
+  "locationId": "4889",
+  "locationName": "Pinballium.pl",
+  "playerCount": 4,
+  "ratingsDate": "2026-07-31",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m4696",
+      "name": "Daniel Nowak",
+      "rating": 1722.34,
+      "dailyRatingChange": 2.82
+    },
+    {
+      "position": 2,
+      "playerId": "m16096",
+      "name": "Nikodem Kaczmarek",
+      "rating": 1632.13,
+      "dailyRatingChange": 8.04
+    },
+    {
+      "position": 3,
+      "playerId": "m61355",
+      "name": "Michal Nowicki",
+      "rating": 1523.41,
+      "dailyRatingChange": 3.56
+    },
+    {
+      "position": 4,
+      "playerId": "m60111",
+      "name": "Angelika Koralewska",
+      "rating": 1521.63,
+      "dailyRatingChange": -2.97
+    }
+  ]
+}

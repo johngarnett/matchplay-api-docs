@@ -1,0 +1,67 @@
+{
+  "tournamentId": 266663,
+  "name": "Jason’s flip frenzy (clone)",
+  "date": "2026-08-12",
+  "locationId": null,
+  "locationName": null,
+  "playerCount": 8,
+  "ratingsDate": "2026-08-12",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m57694",
+      "name": "Robert Gibson",
+      "rating": 1627.4,
+      "dailyRatingChange": 1.92
+    },
+    {
+      "position": 2,
+      "playerId": "m46328",
+      "name": "Jason Skolits",
+      "rating": 1684.29,
+      "dailyRatingChange": 4.16
+    },
+    {
+      "position": 3,
+      "playerId": "m9072",
+      "name": "David Bushea",
+      "rating": 1705.35,
+      "dailyRatingChange": -3.3
+    },
+    {
+      "position": 3,
+      "playerId": "m54831",
+      "name": "Anthony Kniss",
+      "rating": 1456.87,
+      "dailyRatingChange": 12.92
+    },
+    {
+      "position": 3,
+      "playerId": "m29297",
+      "name": "Dominic Fiori",
+      "rating": 1590.81,
+      "dailyRatingChange": 0.93
+    },
+    {
+      "position": 6,
+      "playerId": "m43307",
+      "name": "Brandon Boltz",
+      "rating": 1651.69,
+      "dailyRatingChange": -2.98
+    },
+    {
+      "position": 7,
+      "playerId": "m14553",
+      "name": "Lucas Dailey",
+      "rating": 1593.44,
+      "dailyRatingChange": -1.98
+    },
+    {
+      "position": 8,
+      "playerId": "i158556",
+      "name": "Marcus Kaczala",
+      "rating": 1417.36,
+      "dailyRatingChange": -0.01
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "tournamentId": 263313,
+  "name": "A Finals for Second Saturday @ APC - August 2026",
+  "date": "2026-08-09",
+  "locationId": "11561",
+  "locationName": "Austin Pinball Collective",
+  "playerCount": 8,
+  "ratingsDate": "2026-08-09",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m1048",
+      "name": "Jason Newman",
+      "rating": 1657.89,
+      "dailyRatingChange": 5.93
+    },
+    {
+      "position": 2,
+      "playerId": "m8000",
+      "name": "Robert Byers",
+      "rating": 1723.26,
+      "dailyRatingChange": 1.77
+    },
+    {
+      "position": 3,
+      "playerId": "m486",
+      "name": "Brad Holliday",
+      "rating": 1687.18,
+      "dailyRatingChange": 1.21
+    },
+    {
+      "position": 4,
+      "playerId": "m57340",
+      "name": "Bailey Brilley",
+      "rating": 1546.16,
+      "dailyRatingChange": 9.97
+    },
+    {
+      "position": 5,
+      "playerId": "m2804",
+      "name": "Jonathon Morales",
+      "rating": 1685.68,
+      "dailyRatingChange": -0.63
+    },
+    {
+      "position": 6,
+      "playerId": "m39331",
+      "name": "Paul Young",
+      "rating": 1702.66,
+      "dailyRatingChange": -1.88
+    },
+    {
+      "position": 7,
+      "playerId": "m20287",
+      "name": "Victor Evans",
+      "rating": 1653.84,
+      "dailyRatingChange": -6.05
+    },
+    {
+      "position": 8,
+      "playerId": "m1050",
+      "name": "Nadia Didehbani",
+      "rating": 1598.64,
+      "dailyRatingChange": -3.23
+    }
+  ]
+}

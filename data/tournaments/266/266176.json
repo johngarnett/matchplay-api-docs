@@ -1,0 +1,67 @@
+{
+  "tournamentId": 266176,
+  "name": "Finals for The Pinball Studio 8-8-26",
+  "date": "2026-08-09",
+  "locationId": "11488",
+  "locationName": "The Pinball Studio",
+  "playerCount": 8,
+  "ratingsDate": "2026-08-09",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m40049",
+      "name": "Rich Mazzolini",
+      "rating": 1635.03,
+      "dailyRatingChange": 7.84
+    },
+    {
+      "position": 2,
+      "playerId": "m26022",
+      "name": "Nick Daniel",
+      "rating": 1722.38,
+      "dailyRatingChange": -6.87
+    },
+    {
+      "position": 3,
+      "playerId": "m42931",
+      "name": "Miles Drew",
+      "rating": 1606.71,
+      "dailyRatingChange": 6.82
+    },
+    {
+      "position": 4,
+      "playerId": "m51787",
+      "name": "Robert Terry",
+      "rating": 1536.68,
+      "dailyRatingChange": 13.45
+    },
+    {
+      "position": 5,
+      "playerId": "m49602",
+      "name": "John F. Kreppein",
+      "rating": 1609.28,
+      "dailyRatingChange": 5.41
+    },
+    {
+      "position": 6,
+      "playerId": "m3980",
+      "name": "Neal Wagoner",
+      "rating": 1650.29,
+      "dailyRatingChange": -6.93
+    },
+    {
+      "position": 7,
+      "playerId": "i143965",
+      "name": "John Atkinson GA",
+      "rating": 1437.46,
+      "dailyRatingChange": 14.01
+    },
+    {
+      "position": 8,
+      "playerId": "m17599",
+      "name": "William Johnson",
+      "rating": 1593.87,
+      "dailyRatingChange": -12.71
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "locationId": "13514",
+  "venueName": "Time Out Ames",
+  "venueAddress": "120 Kellogg Ave, Ames, IA 50010, US",
+  "tournaments": [
+    {
+      "id": 266155,
+      "name": "Finals for Time Out Pinball Tournament - August",
+      "date": "8/8/2026",
+      "playerCount": 6,
+      "qualifying": {
+        "id": 265955,
+        "name": "Time Out Pinball Tournament - August",
+        "playerCount": 15
+      },
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m35265",
+          "name": "Trevor Blunk",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m35054",
+          "name": "Matt Abbott",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m59750",
+          "name": "Layne Ristau",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m35055",
+          "name": "Chase Colton",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

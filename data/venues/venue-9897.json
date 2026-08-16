@@ -1,0 +1,179 @@
+{
+  "locationId": "9897",
+  "name": "Urban House",
+  "address": "",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 9,
+  "relatedVenues": [
+    {
+      "locationId": "12658",
+      "name": "61PinBar / Cointaker",
+      "address": "1437 State Route 61 Sunbury, Pa 17801",
+      "count": 9
+    },
+    {
+      "locationId": "13309",
+      "name": "Urban House",
+      "address": "York",
+      "count": 8
+    },
+    {
+      "locationId": "13318",
+      "name": "Fauth House",
+      "address": "Lancaster",
+      "count": 8
+    },
+    {
+      "locationId": "13397",
+      "name": "Romano House",
+      "address": "Harrisburg",
+      "count": 8
+    },
+    {
+      "locationId": "13499",
+      "name": "Dodds House",
+      "address": "Middletown",
+      "count": 8
+    },
+    {
+      "locationId": "5785",
+      "name": "Delaware Pinball Collective",
+      "address": "1100 First State Blvd. Wilmington, DE 19804",
+      "count": 3
+    },
+    {
+      "locationId": "8416",
+      "name": "Flippers Arcade",
+      "address": "6615 Caratoke Highway, Grandy, NC 27939, US",
+      "count": 2
+    },
+    {
+      "locationId": "11249",
+      "name": "The Manor",
+      "address": "1329 Kings Highway, Pilesgrove, NJ 08098",
+      "count": 2
+    },
+    {
+      "locationId": "11570",
+      "name": "TPDC Pinball at The Red Rocker",
+      "address": "15 Hershey Rd. Shippensburg, PA 17257",
+      "count": 2
+    },
+    {
+      "locationId": "11813",
+      "name": "Mountaineer Meat Smokers",
+      "address": "45 Monroe St, Martinsburg, WV 25404, US",
+      "count": 1
+    }
+  ],
+  "players": [
+    {
+      "id": "m23085",
+      "name": "Andy Specht",
+      "rating": 1618.69,
+      "rd": 35.79,
+      "ratingClass": "A",
+      "homeLocation": "Urban House",
+      "homeLocationId": "9897",
+      "percentile": 86.34648530302324,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m39447",
+      "name": "Chris Urban",
+      "rating": 1605.27,
+      "rd": 32.14,
+      "ratingClass": "A",
+      "homeLocation": "Flippers Arcade",
+      "homeLocationId": "8416",
+      "percentile": 83.21144081613639,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m8052",
+      "name": "Kathy Bobeck",
+      "rating": 1578.19,
+      "rd": 21.87,
+      "ratingClass": "B",
+      "homeLocation": "Delaware Pinball Collective",
+      "homeLocationId": "5785",
+      "percentile": 76.06093073088928,
+      "changeDisplay": "+4.7",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m5841",
+      "name": "Justin Semke",
+      "rating": 1568.98,
+      "rd": 27.39,
+      "ratingClass": "B",
+      "homeLocation": "61PinBar / Cointaker",
+      "homeLocationId": "12658",
+      "percentile": 73.16811850747659,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m30069",
+      "name": "Bobbi Urban",
+      "rating": 1540.7,
+      "rd": 27.25,
+      "ratingClass": "B",
+      "homeLocation": "Urban House",
+      "homeLocationId": "13309",
+      "percentile": 63.38566171332744,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m28718",
+      "name": "Mike Calvert",
+      "rating": 1534.86,
+      "rd": 31.87,
+      "ratingClass": "B",
+      "homeLocation": "Urban House",
+      "homeLocationId": "9897",
+      "percentile": 60.94004751479014,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i113940",
+      "name": "Scott Marks",
+      "rating": 1522,
+      "rd": 37.82,
+      "ratingClass": "B",
+      "homeLocation": "Urban House",
+      "homeLocationId": "9897",
+      "percentile": 55.95565286253319,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m36110",
+      "name": "Sarah Landau",
+      "rating": 1511.2,
+      "rd": 28.62,
+      "ratingClass": "B",
+      "homeLocation": "61PinBar / Cointaker",
+      "homeLocationId": "12658",
+      "percentile": 51.74453812828993,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m33022",
+      "name": "Kristy Abbe",
+      "rating": 1433.62,
+      "rd": 23.7,
+      "ratingClass": "C",
+      "homeLocation": "61PinBar / Cointaker",
+      "homeLocationId": "12658",
+      "percentile": 21.66581264266083,
+      "changeDisplay": "-18.5",
+      "changeClass": "change-negative"
+    }
+  ]
+}

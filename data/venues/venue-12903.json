@@ -1,0 +1,383 @@
+{
+  "locationId": "12903",
+  "name": "GameOn Bar+Arcade Annapolis",
+  "address": "114 West St, Annapolis, MD 21401, US",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 26,
+  "relatedVenues": [
+    {
+      "locationId": "2573",
+      "name": "Crabtowne",
+      "address": "1500 Crain Hwy S, Glen Burnie, MD 21061, USA",
+      "count": 229
+    },
+    {
+      "locationId": "9780",
+      "name": "GameOn Bar+Arcade Columbia",
+      "address": "6000 Merriweather Dr, Columbia, MD, 21044, US",
+      "count": 113
+    },
+    {
+      "locationId": "6886",
+      "name": "Department of Pinball and Gaming Redundancy Department",
+      "address": "",
+      "count": 58
+    },
+    {
+      "locationId": "7109",
+      "name": "Spinners Pinball Arcade",
+      "address": "1301 W Patrick St, Frederick, MD 21701",
+      "count": 46
+    },
+    {
+      "locationId": "11466",
+      "name": "UPSIDE on Moore",
+      "address": "1700 N Moore St level m1, Arlington, VA 22209",
+      "count": 20
+    },
+    {
+      "locationId": "7053",
+      "name": "CarPool",
+      "address": "900 North Glebe Road, Arlington, VA 22203, US",
+      "count": 17
+    },
+    {
+      "locationId": "7815",
+      "name": "Holy Frijoles",
+      "address": "908 W 36th St, Baltimore, MD 21211, US",
+      "count": 12
+    },
+    {
+      "locationId": "5785",
+      "name": "Delaware Pinball Collective",
+      "address": "1100 First State Blvd. Wilmington, DE 19804",
+      "count": 10
+    },
+    {
+      "locationId": "1482",
+      "name": "Chad's House",
+      "address": "147 Paysan Ln, Magnolia, DE 19962, USA",
+      "count": 8
+    },
+    {
+      "locationId": "11249",
+      "name": "The Manor",
+      "address": "1329 Kings Highway, Pilesgrove, NJ 08098",
+      "count": 8
+    }
+  ],
+  "players": [
+    {
+      "id": "m3352",
+      "name": "Elliott Keith",
+      "rating": 1784.89,
+      "rd": 18.68,
+      "ratingClass": "Expert",
+      "homeLocation": "Crabtowne",
+      "homeLocationId": "2573",
+      "percentile": 99.38044440303722,
+      "changeDisplay": "+17.6",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m31841",
+      "name": "Casey Fowler",
+      "rating": 1759.49,
+      "rd": 22.33,
+      "ratingClass": "Expert",
+      "homeLocation": "Crabtowne",
+      "homeLocationId": "2573",
+      "percentile": 99.02175432058509,
+      "changeDisplay": "-8.8",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m39437",
+      "name": "Garrett Maury",
+      "rating": 1742.79,
+      "rd": 18.39,
+      "ratingClass": "Expert",
+      "homeLocation": "GameOn Bar+Arcade Columbia",
+      "homeLocationId": "9780",
+      "percentile": 98.51399822984115,
+      "changeDisplay": "+4.0",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m2330",
+      "name": "Justin Bath",
+      "rating": 1741.56,
+      "rd": 18.05,
+      "ratingClass": "Expert",
+      "homeLocation": "GameOn Bar+Arcade Columbia",
+      "homeLocationId": "9780",
+      "percentile": 98.47673172776821,
+      "changeDisplay": "-5.4",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m5141",
+      "name": "Doru Zuba",
+      "rating": 1676.87,
+      "rd": 19.19,
+      "ratingClass": "A",
+      "homeLocation": "GameOn Bar+Arcade Columbia",
+      "homeLocationId": "9780",
+      "percentile": 94.83393115013742,
+      "changeDisplay": "+6.5",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m37819",
+      "name": "Dave Blouch Jr.",
+      "rating": 1591.8,
+      "rd": 21.31,
+      "ratingClass": "B",
+      "homeLocation": "GameOn Bar+Arcade Columbia",
+      "homeLocationId": "9780",
+      "percentile": 79.97391344854894,
+      "changeDisplay": "+10.6",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m2595",
+      "name": "FL Ettlin",
+      "rating": 1573.36,
+      "rd": 18.97,
+      "ratingClass": "B",
+      "homeLocation": "UPSIDE on Moore",
+      "homeLocationId": "11466",
+      "percentile": 74.5702706479713,
+      "changeDisplay": "-1.5",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m30187",
+      "name": "Richard Kennison",
+      "rating": 1568.95,
+      "rd": 18.82,
+      "ratingClass": "B",
+      "homeLocation": "GameOn Bar+Arcade Columbia",
+      "homeLocationId": "9780",
+      "percentile": 73.16346019471747,
+      "changeDisplay": "+0.3",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m47567",
+      "name": "Jeff Helgeson",
+      "rating": 1563.14,
+      "rd": 18.19,
+      "ratingClass": "B",
+      "homeLocation": "Crabtowne",
+      "homeLocationId": "2573",
+      "percentile": 71.36069315693857,
+      "changeDisplay": "+0.6",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m47670",
+      "name": "Courtney Coleman",
+      "rating": 1552.21,
+      "rd": 23.74,
+      "ratingClass": "B",
+      "homeLocation": "Crabtowne",
+      "homeLocationId": "2573",
+      "percentile": 67.58745982205245,
+      "changeDisplay": "+6.5",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m36420",
+      "name": "Tom Craven",
+      "rating": 1538.04,
+      "rd": 27.67,
+      "ratingClass": "B",
+      "homeLocation": "Crabtowne",
+      "homeLocationId": "2573",
+      "percentile": 62.290958214934555,
+      "changeDisplay": "+1.1",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m26601",
+      "name": "Shannon Keys",
+      "rating": 1519.81,
+      "rd": 20.3,
+      "ratingClass": "B",
+      "homeLocation": "GameOn Bar+Arcade Columbia",
+      "homeLocationId": "9780",
+      "percentile": 55.11249825313271,
+      "changeDisplay": "-10.3",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m46305",
+      "name": "Chris Fort",
+      "rating": 1505.79,
+      "rd": 19.26,
+      "ratingClass": "B",
+      "homeLocation": "Crabtowne",
+      "homeLocationId": "2573",
+      "percentile": 49.55513113150417,
+      "changeDisplay": "-6.6",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m18808",
+      "name": "Naiviv Sillerico",
+      "rating": 1496.43,
+      "rd": 27.13,
+      "ratingClass": "C",
+      "homeLocation": "Crabtowne",
+      "homeLocationId": "2573",
+      "percentile": 45.63749010108539,
+      "changeDisplay": "-14.3",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m58519",
+      "name": "Ryan Barber",
+      "rating": 1493.74,
+      "rd": 37.52,
+      "ratingClass": "C",
+      "homeLocation": "Crabtowne",
+      "homeLocationId": "2573",
+      "percentile": 44.61266129407929,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m20067",
+      "name": "Mac McCubbin II",
+      "rating": 1489.26,
+      "rd": 22.66,
+      "ratingClass": "C",
+      "homeLocation": "Chad's House",
+      "homeLocationId": "1482",
+      "percentile": 42.71206968835888,
+      "changeDisplay": "-9.6",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m9506",
+      "name": "Paul Gussack",
+      "rating": 1471.8,
+      "rd": 26.4,
+      "ratingClass": "C",
+      "homeLocation": "Crabtowne",
+      "homeLocationId": "2573",
+      "percentile": 35.547584664834396,
+      "changeDisplay": "-1.8",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m53176",
+      "name": "Micha Broadnax",
+      "rating": 1458.51,
+      "rd": 21.55,
+      "ratingClass": "C",
+      "homeLocation": "Crabtowne",
+      "homeLocationId": "2573",
+      "percentile": 30.344249312898867,
+      "changeDisplay": "-2.2",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m48021",
+      "name": "Jose Cortez",
+      "rating": 1455.01,
+      "rd": 23.71,
+      "ratingClass": "C",
+      "homeLocation": "Crabtowne",
+      "homeLocationId": "2573",
+      "percentile": 29.105138118973308,
+      "changeDisplay": "-4.8",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m11369",
+      "name": "Theresa Schultz",
+      "rating": 1454.04,
+      "rd": 24.48,
+      "ratingClass": "C",
+      "homeLocation": "Crabtowne",
+      "homeLocationId": "2573",
+      "percentile": 28.676573345134393,
+      "changeDisplay": "+2.8",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m39300",
+      "name": "Laura Francis",
+      "rating": 1433.27,
+      "rd": 21.53,
+      "ratingClass": "C",
+      "homeLocation": "Crabtowne",
+      "homeLocationId": "2573",
+      "percentile": 21.56332976196022,
+      "changeDisplay": "+0.9",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m59119",
+      "name": "Kevin Shaughnessy",
+      "rating": 1396.91,
+      "rd": 29.88,
+      "ratingClass": "D",
+      "homeLocation": "Crabtowne",
+      "homeLocationId": "2573",
+      "percentile": 11.743606465738111,
+      "changeDisplay": "-4.9",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "i129902",
+      "name": "Graham Owems",
+      "rating": 1368.55,
+      "rd": 45.77,
+      "ratingClass": "D",
+      "homeLocation": "Crabtowne",
+      "homeLocationId": "2573",
+      "percentile": 6.503004611729632,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m58037",
+      "name": "Eva Barber",
+      "rating": 1361,
+      "rd": 25.71,
+      "ratingClass": "D",
+      "homeLocation": "Crabtowne",
+      "homeLocationId": "2573",
+      "percentile": 5.548050496110308,
+      "changeDisplay": "+1.5",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m48408",
+      "name": "Mary Camper",
+      "rating": 1302.73,
+      "rd": 28.24,
+      "ratingClass": "D",
+      "homeLocation": "Crabtowne",
+      "homeLocationId": "2573",
+      "percentile": 1.122653374947594,
+      "changeDisplay": "-5.0",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m59123",
+      "name": "Brooke Ledford",
+      "rating": 1302.25,
+      "rd": 46.38,
+      "ratingClass": "D",
+      "homeLocation": "Crabtowne",
+      "homeLocationId": "2573",
+      "percentile": 1.108678436670238,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

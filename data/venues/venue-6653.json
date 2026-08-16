@@ -1,0 +1,179 @@
+{
+  "locationId": "6653",
+  "name": "MaxiPinball",
+  "address": "Rue de l'Industrie, 59113 Seclin, France",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 9,
+  "relatedVenues": [
+    {
+      "locationId": "13015",
+      "name": "Soplay",
+      "address": "950 Rue Maurice Herzog, 59810 Lesquin",
+      "count": 13
+    },
+    {
+      "locationId": "13016",
+      "name": "Chantilly club",
+      "address": "1 Rue Hoche, Villeneuve-d'Ascq, Hauts-de-France 59491, FR",
+      "count": 12
+    },
+    {
+      "locationId": "12278",
+      "name": "MAXIPINBALL",
+      "address": "Rue de l'Industrie, 59113 Seclin",
+      "count": 11
+    },
+    {
+      "locationId": "9440",
+      "name": "Internaute",
+      "address": "63 Rue du Château, Tournai, Wallonie 7500, BE",
+      "count": 8
+    },
+    {
+      "locationId": "9350",
+      "name": "Morlacchi Showroom",
+      "address": "viale Troya 20 , Milan , Italy",
+      "count": 4
+    },
+    {
+      "locationId": "5407",
+      "name": "Albert All games",
+      "address": "",
+      "count": 3
+    },
+    {
+      "locationId": "8617",
+      "name": "Biljardna Hisa Ljubljana - Slovenska",
+      "address": "Slovenska 58, 1000 Ljubljana",
+      "count": 3
+    },
+    {
+      "locationId": "9058",
+      "name": "Internaute Pinball Bar",
+      "address": "Rue du chateau 63 7500 Tournai (Belgium)",
+      "count": 2
+    },
+    {
+      "locationId": "9622",
+      "name": "Gate Ninety World",
+      "address": "7 Rue de l'Industrie, Nivelles, Région Wallonne, 1400, BE",
+      "count": 2
+    },
+    {
+      "locationId": "7482",
+      "name": "Bingovit",
+      "address": "",
+      "count": 1
+    }
+  ],
+  "players": [
+    {
+      "id": "m30250",
+      "name": "Clément Delporte",
+      "rating": 1716.22,
+      "rd": 23.13,
+      "ratingClass": "Expert",
+      "homeLocation": "Morlacchi Showroom",
+      "homeLocationId": "9350",
+      "percentile": 97.44724460800298,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m8862",
+      "name": "Archibald Lefevre",
+      "rating": 1677.57,
+      "rd": 21.27,
+      "ratingClass": "A",
+      "homeLocation": "Biljardna Hisa Ljubljana - Slovenska",
+      "homeLocationId": "8617",
+      "percentile": 94.9038058415242,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m24248",
+      "name": "Stéphane Swaenepoel",
+      "rating": 1671.6,
+      "rd": 30.44,
+      "ratingClass": "A",
+      "homeLocation": "MaxiPinball",
+      "homeLocationId": "6653",
+      "percentile": 94.24232542972936,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m22597",
+      "name": "Quentin Binet",
+      "rating": 1666.39,
+      "rd": 23.41,
+      "ratingClass": "A",
+      "homeLocation": "MAXIPINBALL",
+      "homeLocationId": "12278",
+      "percentile": 93.757860902781,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m41635",
+      "name": "Bruno Lejeune",
+      "rating": 1575.06,
+      "rd": 25.41,
+      "ratingClass": "B",
+      "homeLocation": "Chantilly club",
+      "homeLocationId": "13016",
+      "percentile": 75.08268505147436,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m51575",
+      "name": "Ilana Weizman",
+      "rating": 1567.15,
+      "rd": 19.52,
+      "ratingClass": "B",
+      "homeLocation": "Albert All games",
+      "homeLocationId": "5407",
+      "percentile": 72.56719616155029,
+      "changeDisplay": "-6.7",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m38891",
+      "name": "romain kaczor",
+      "rating": 1497.44,
+      "rd": 26.23,
+      "ratingClass": "C",
+      "homeLocation": "Soplay",
+      "homeLocationId": "13015",
+      "percentile": 46.0660548749243,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m33205",
+      "name": "Alexandra Qui",
+      "rating": 1493.74,
+      "rd": 27.06,
+      "ratingClass": "C",
+      "homeLocation": "MAXIPINBALL",
+      "homeLocationId": "12278",
+      "percentile": 44.60800298132017,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m45807",
+      "name": "tiffany humbert",
+      "rating": 1464.97,
+      "rd": 26.97,
+      "ratingClass": "C",
+      "homeLocation": "Soplay",
+      "homeLocationId": "13015",
+      "percentile": 32.84576326454558,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

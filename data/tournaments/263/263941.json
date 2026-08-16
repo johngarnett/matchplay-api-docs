@@ -1,0 +1,256 @@
+{
+  "tournamentId": 263941,
+  "name": "1up Greenwood Village July Tournament",
+  "date": "2026-07-27",
+  "locationId": "12778",
+  "locationName": "The 1up Arcade Bar - Greenwood",
+  "playerCount": 35,
+  "ratingsDate": "2026-07-27",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m31836",
+      "name": "Logan Henderson",
+      "rating": 1851.3,
+      "dailyRatingChange": 4.23
+    },
+    {
+      "position": 2,
+      "playerId": "m11992",
+      "name": "Justin Hinman",
+      "rating": 1703.6,
+      "dailyRatingChange": 1.89
+    },
+    {
+      "position": 3,
+      "playerId": "m33823",
+      "name": "Jimmy Morgan",
+      "rating": 1610.63,
+      "dailyRatingChange": 3.47
+    },
+    {
+      "position": 3,
+      "playerId": "m20605",
+      "name": "Rob Tompkins",
+      "rating": 1625.7,
+      "dailyRatingChange": 3.12
+    },
+    {
+      "position": 5,
+      "playerId": "m25842",
+      "name": "Marshall Weasel",
+      "rating": 1689.19,
+      "dailyRatingChange": 0.21
+    },
+    {
+      "position": 5,
+      "playerId": "m41355",
+      "name": "Tony Somma",
+      "rating": 1552.31,
+      "dailyRatingChange": 4.72
+    },
+    {
+      "position": 7,
+      "playerId": "m5288",
+      "name": "Justin Searles",
+      "rating": 1538.69,
+      "dailyRatingChange": 1.29
+    },
+    {
+      "position": 7,
+      "playerId": "m39275",
+      "name": "Randy Pierce",
+      "rating": 1546.03,
+      "dailyRatingChange": 3.01
+    },
+    {
+      "position": 7,
+      "playerId": "m35556",
+      "name": "Galen Anderson",
+      "rating": 1546.19,
+      "dailyRatingChange": 8.6
+    },
+    {
+      "position": 10,
+      "playerId": "i74199",
+      "name": "Ellen Landy",
+      "rating": 1508.69,
+      "dailyRatingChange": 4.8
+    },
+    {
+      "position": 10,
+      "playerId": "m11960",
+      "name": "John Devore",
+      "rating": 1662.65,
+      "dailyRatingChange": -2.91
+    },
+    {
+      "position": 10,
+      "playerId": "m582322",
+      "name": "Evan Reed",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 10,
+      "playerId": "m39822",
+      "name": "Andrew Graneto",
+      "rating": 1592.43,
+      "dailyRatingChange": -0.44
+    },
+    {
+      "position": 14,
+      "playerId": "m42824",
+      "name": "Ben Zatz",
+      "rating": 1604.39,
+      "dailyRatingChange": -0.87
+    },
+    {
+      "position": 14,
+      "playerId": "m26607",
+      "name": "Mark White",
+      "rating": 1609.06,
+      "dailyRatingChange": -0.67
+    },
+    {
+      "position": 14,
+      "playerId": "m9163",
+      "name": "Tracy Whetstine",
+      "rating": 1516.08,
+      "dailyRatingChange": 0.76
+    },
+    {
+      "position": 14,
+      "playerId": "m582308",
+      "name": "Brandon Sheridan",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 14,
+      "playerId": "m27376",
+      "name": "Chris Beckman",
+      "rating": 1637.19,
+      "dailyRatingChange": -0.94
+    },
+    {
+      "position": 14,
+      "playerId": "m55390",
+      "name": "Brittani Silchia",
+      "rating": 1474.9,
+      "dailyRatingChange": 0.28
+    },
+    {
+      "position": 20,
+      "playerId": "i77933",
+      "name": "peter hemley",
+      "rating": 1438.02,
+      "dailyRatingChange": 6.52
+    },
+    {
+      "position": 20,
+      "playerId": "m41352",
+      "name": "Aaron Young",
+      "rating": 1524.05,
+      "dailyRatingChange": -2.59
+    },
+    {
+      "position": 20,
+      "playerId": "m60881",
+      "name": "Mary Brungardt",
+      "rating": 1385.84,
+      "dailyRatingChange": 1.42
+    },
+    {
+      "position": 20,
+      "playerId": "m49667",
+      "name": "Paul Saurini",
+      "rating": 1456.68,
+      "dailyRatingChange": 1.8
+    },
+    {
+      "position": 20,
+      "playerId": "m51444",
+      "name": "Nick Zipeto",
+      "rating": 1453.17,
+      "dailyRatingChange": -2.52
+    },
+    {
+      "position": 20,
+      "playerId": "i141845",
+      "name": "David Young",
+      "rating": 1416.11,
+      "dailyRatingChange": 5.12
+    },
+    {
+      "position": 26,
+      "playerId": "m45486",
+      "name": "Eric Beck",
+      "rating": 1462.01,
+      "dailyRatingChange": -2.36
+    },
+    {
+      "position": 26,
+      "playerId": "m60871",
+      "name": "Jason Fye",
+      "rating": 1470.23,
+      "dailyRatingChange": -4.22
+    },
+    {
+      "position": 26,
+      "playerId": "m44784",
+      "name": "Lauren Rusnak",
+      "rating": 1390.28,
+      "dailyRatingChange": -1.64
+    },
+    {
+      "position": 26,
+      "playerId": "m57614",
+      "name": "Cruz Pedregon",
+      "rating": 1496.2,
+      "dailyRatingChange": -2.68
+    },
+    {
+      "position": 26,
+      "playerId": "m56832",
+      "name": "Luciano Madrigal",
+      "rating": 1498.56,
+      "dailyRatingChange": -6.51
+    },
+    {
+      "position": 26,
+      "playerId": "m582319",
+      "name": "Lily Weighbright",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 32,
+      "playerId": "m582320",
+      "name": "Carina McCormick",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 32,
+      "playerId": "m40396",
+      "name": "Liz Baker",
+      "rating": 1597.47,
+      "dailyRatingChange": -3.17
+    },
+    {
+      "position": 32,
+      "playerId": "m582309",
+      "name": "Lennon Garcia",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 32,
+      "playerId": "m60792",
+      "name": "Matt Barron",
+      "rating": 1334.77,
+      "dailyRatingChange": -5.72
+    }
+  ]
+}

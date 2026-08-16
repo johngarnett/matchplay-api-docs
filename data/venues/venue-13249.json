@@ -1,0 +1,113 @@
+{
+  "locationId": "13249",
+  "name": "Summer Fox Tower District",
+  "address": "1426 N Van Ness Ave Fresno, CA  93728 United States",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 8,
+  "relatedVenues": [
+    {
+      "locationId": "13026",
+      "name": "Golden State Pinball Festival",
+      "address": "413 E Lockeford Street Lodi, CA 95240",
+      "count": 1
+    }
+  ],
+  "players": [
+    {
+      "id": "m56925",
+      "name": "Jon waddell",
+      "rating": 1620.49,
+      "rd": 56.19,
+      "ratingClass": "A",
+      "homeLocation": "Summer Fox Tower District",
+      "homeLocationId": "13249",
+      "percentile": 86.70983369823449,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m54973",
+      "name": "John Harris",
+      "rating": 1605.4,
+      "rd": 55.7,
+      "ratingClass": "A",
+      "homeLocation": "Summer Fox Tower District",
+      "homeLocationId": "13249",
+      "percentile": 83.25336563096847,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m57095",
+      "name": "Haley Waddell",
+      "rating": 1502.59,
+      "rd": 49.17,
+      "ratingClass": "B",
+      "homeLocation": "Golden State Pinball Festival",
+      "homeLocationId": "13026",
+      "percentile": 48.152978991009455,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m56598",
+      "name": "Sandy Harris",
+      "rating": 1474.12,
+      "rd": 55.29,
+      "ratingClass": "C",
+      "homeLocation": "Summer Fox Tower District",
+      "homeLocationId": "13249",
+      "percentile": 36.51185540597196,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m57271",
+      "name": "John H",
+      "rating": 1467.47,
+      "rd": 55.12,
+      "ratingClass": "C",
+      "homeLocation": "Summer Fox Tower District",
+      "homeLocationId": "13249",
+      "percentile": 33.83332556947873,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m47506",
+      "name": "Scott Mellon",
+      "rating": 1445.93,
+      "rd": 55.7,
+      "ratingClass": "C",
+      "homeLocation": "Summer Fox Tower District",
+      "homeLocationId": "13249",
+      "percentile": 25.723203055853173,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m59342",
+      "name": "Athena Nguyen",
+      "rating": 1431.15,
+      "rd": 55.31,
+      "ratingClass": "C",
+      "homeLocation": "Summer Fox Tower District",
+      "homeLocationId": "13249",
+      "percentile": 20.9344575394792,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m57277",
+      "name": "Cash Harris",
+      "rating": 1399.25,
+      "rd": 55.25,
+      "ratingClass": "D",
+      "homeLocation": "Summer Fox Tower District",
+      "homeLocationId": "13249",
+      "percentile": 12.349187124423535,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

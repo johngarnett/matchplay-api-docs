@@ -1,0 +1,130 @@
+{
+  "tournamentId": 263674,
+  "name": "Australian Pinball Museum (APM) July - Flip Frenzy",
+  "date": "2026-07-25",
+  "locationId": "1231",
+  "locationName": "Australian Pinball Museum",
+  "playerCount": 17,
+  "ratingsDate": "2026-07-25",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m40601",
+      "name": "Rob Redzepi",
+      "rating": 1624.65,
+      "dailyRatingChange": 9.46
+    },
+    {
+      "position": 2,
+      "playerId": "i68489",
+      "name": "Fennessah Carter",
+      "rating": 1550.11,
+      "dailyRatingChange": 25.04
+    },
+    {
+      "position": 3,
+      "playerId": "i53283",
+      "name": "Willow Williams",
+      "rating": 1620.8,
+      "dailyRatingChange": 2.46
+    },
+    {
+      "position": 4,
+      "playerId": "i68488",
+      "name": "Simon Carter",
+      "rating": 1567.81,
+      "dailyRatingChange": 7.96
+    },
+    {
+      "position": 5,
+      "playerId": "m31775",
+      "name": "Scott Bailey",
+      "rating": 1539.42,
+      "dailyRatingChange": 11.75
+    },
+    {
+      "position": 6,
+      "playerId": "i89365",
+      "name": "Neil Reid",
+      "rating": 1550,
+      "dailyRatingChange": -0.21
+    },
+    {
+      "position": 7,
+      "playerId": "m49111",
+      "name": "Jason Barr",
+      "rating": 1538.86,
+      "dailyRatingChange": 1.08
+    },
+    {
+      "position": 8,
+      "playerId": "m51560",
+      "name": "Paula Barr",
+      "rating": 1368.6,
+      "dailyRatingChange": 22.13
+    },
+    {
+      "position": 9,
+      "playerId": "m7433",
+      "name": "Jason Williams AUS",
+      "rating": 1555.45,
+      "dailyRatingChange": -6.22
+    },
+    {
+      "position": 10,
+      "playerId": "m498563",
+      "name": "Erin Jordan",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 11,
+      "playerId": "m1251",
+      "name": "Stuart McLean",
+      "rating": 1505.78,
+      "dailyRatingChange": -1.59
+    },
+    {
+      "position": 12,
+      "playerId": "m581624",
+      "name": "Gavin Moriarty",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 13,
+      "playerId": "m581622",
+      "name": "Patrick Coville",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 14,
+      "playerId": "m581618",
+      "name": "Carmelo Maccarrone",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 15,
+      "playerId": "i108748",
+      "name": "Susan Bailey",
+      "rating": 1385.46,
+      "dailyRatingChange": 4.01
+    },
+    {
+      "position": 16,
+      "playerId": "i162184",
+      "name": "Mel Browne",
+      "rating": 1442.95,
+      "dailyRatingChange": null
+    },
+    {
+      "position": 17,
+      "playerId": "m581587",
+      "name": "Angela Jordan",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

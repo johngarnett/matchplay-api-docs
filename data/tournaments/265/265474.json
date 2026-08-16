@@ -1,0 +1,95 @@
+{
+  "tournamentId": 265474,
+  "name": "Shift Change Tourney @ Gary’s Place",
+  "date": "2026-08-05",
+  "locationId": "10993",
+  "locationName": "Gary’s Place",
+  "playerCount": 12,
+  "ratingsDate": "2026-08-05",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m44491",
+      "name": "Marshall Denton",
+      "rating": 1658.4,
+      "dailyRatingChange": 1.1
+    },
+    {
+      "position": 2,
+      "playerId": "m42542",
+      "name": "David Weil WA",
+      "rating": 1615.16,
+      "dailyRatingChange": 2.17
+    },
+    {
+      "position": 3,
+      "playerId": "m53632",
+      "name": "Jamie O’Hara",
+      "rating": 1554.44,
+      "dailyRatingChange": 1
+    },
+    {
+      "position": 4,
+      "playerId": "m56037",
+      "name": "Michael Martin",
+      "rating": 1412.9,
+      "dailyRatingChange": 11.92
+    },
+    {
+      "position": 5,
+      "playerId": "m35346",
+      "name": "Sean Williams",
+      "rating": 1318.66,
+      "dailyRatingChange": 22.62
+    },
+    {
+      "position": 6,
+      "playerId": "m54351",
+      "name": "Paul Groth",
+      "rating": 1418.91,
+      "dailyRatingChange": 6.23
+    },
+    {
+      "position": 7,
+      "playerId": "m56635",
+      "name": "Galen Cichy",
+      "rating": 1359.81,
+      "dailyRatingChange": 2.16
+    },
+    {
+      "position": 7,
+      "playerId": "m52958",
+      "name": "Mark Vero",
+      "rating": 1507.8,
+      "dailyRatingChange": -5.28
+    },
+    {
+      "position": 9,
+      "playerId": "m46495",
+      "name": "Elyssa Cichy",
+      "rating": 1394.54,
+      "dailyRatingChange": -4.83
+    },
+    {
+      "position": 9,
+      "playerId": "m5387",
+      "name": "Paul White WA",
+      "rating": 1453.48,
+      "dailyRatingChange": -2.13
+    },
+    {
+      "position": 9,
+      "playerId": "m55482",
+      "name": "Noah Phipps",
+      "rating": 1516.84,
+      "dailyRatingChange": -5.22
+    },
+    {
+      "position": 12,
+      "playerId": "m41658",
+      "name": "Paul Irvine",
+      "rating": 1518.03,
+      "dailyRatingChange": -6.72
+    }
+  ]
+}

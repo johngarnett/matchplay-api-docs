@@ -1,0 +1,144 @@
+{
+  "tournamentId": 262056,
+  "name": "Carpool Summer 2026 Week 7 - A Division",
+  "date": "2026-07-21",
+  "locationId": "7053",
+  "locationName": "CarPool",
+  "playerCount": 19,
+  "ratingsDate": "2026-07-21",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m33675",
+      "name": "Mark Price",
+      "rating": 1572.52,
+      "dailyRatingChange": 20.5
+    },
+    {
+      "position": 2,
+      "playerId": "m39280",
+      "name": "Josh Murphy",
+      "rating": 1734.94,
+      "dailyRatingChange": 5.61
+    },
+    {
+      "position": 3,
+      "playerId": "m44003",
+      "name": "Dave Gustafson",
+      "rating": 1645,
+      "dailyRatingChange": 1.01
+    },
+    {
+      "position": 3,
+      "playerId": "m3146",
+      "name": "Stephanie Traub",
+      "rating": 1671.87,
+      "dailyRatingChange": -0.61
+    },
+    {
+      "position": 5,
+      "playerId": "m4439",
+      "name": "Daniel Reynolds",
+      "rating": 1756.92,
+      "dailyRatingChange": -0.44
+    },
+    {
+      "position": 5,
+      "playerId": "m1157",
+      "name": "Kevin Stone",
+      "rating": 1703.69,
+      "dailyRatingChange": 2.17
+    },
+    {
+      "position": 7,
+      "playerId": "m29919",
+      "name": "Andrew Genduso",
+      "rating": 1543.84,
+      "dailyRatingChange": 5
+    },
+    {
+      "position": 7,
+      "playerId": "m39290",
+      "name": "Jon Deiss",
+      "rating": 1552.08,
+      "dailyRatingChange": 8.94
+    },
+    {
+      "position": 7,
+      "playerId": "m39284",
+      "name": "Ryan Lugo",
+      "rating": 1660.09,
+      "dailyRatingChange": -0.39
+    },
+    {
+      "position": 7,
+      "playerId": "m58279",
+      "name": "Jake Ramey",
+      "rating": 1460.69,
+      "dailyRatingChange": 7.49
+    },
+    {
+      "position": 11,
+      "playerId": "i4164",
+      "name": "Mark Lane",
+      "rating": 1571.91,
+      "dailyRatingChange": -6.42
+    },
+    {
+      "position": 11,
+      "playerId": "m9800",
+      "name": "Paul Dreyer",
+      "rating": 1550.06,
+      "dailyRatingChange": 1.01
+    },
+    {
+      "position": 11,
+      "playerId": "m29462",
+      "name": "Tony Rollins",
+      "rating": 1672.44,
+      "dailyRatingChange": -5.19
+    },
+    {
+      "position": 14,
+      "playerId": "m47776",
+      "name": "Vishwa Iyer",
+      "rating": 1445.43,
+      "dailyRatingChange": 1.17
+    },
+    {
+      "position": 14,
+      "playerId": "m43249",
+      "name": "Varun Iyer",
+      "rating": 1471.77,
+      "dailyRatingChange": -0.68
+    },
+    {
+      "position": 16,
+      "playerId": "m23181",
+      "name": "Susan Williams",
+      "rating": 1591.36,
+      "dailyRatingChange": -0.97
+    },
+    {
+      "position": 16,
+      "playerId": "m28940",
+      "name": "Fred Freimark",
+      "rating": 1498.36,
+      "dailyRatingChange": -7.94
+    },
+    {
+      "position": 18,
+      "playerId": "m29918",
+      "name": "Calista Frederick",
+      "rating": 1516.27,
+      "dailyRatingChange": -22.75
+    },
+    {
+      "position": 19,
+      "playerId": "m36360",
+      "name": "Jessica Barth",
+      "rating": 1392.75,
+      "dailyRatingChange": -4.4
+    }
+  ]
+}

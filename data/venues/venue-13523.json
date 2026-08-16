@@ -1,0 +1,383 @@
+{
+  "locationId": "13523",
+  "name": "Greater Tacoma Convention Center",
+  "address": "1500 Commerce St.  Tacoma, WA 98402",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 26,
+  "relatedVenues": [
+    {
+      "locationId": "8898",
+      "name": "Shorty's",
+      "address": "2222 2nd Avenue, Seattle, WA 98121, US",
+      "count": 66
+    },
+    {
+      "locationId": "1893",
+      "name": "The Ice Box",
+      "address": "615 NW Bright St, Seattle, WA 98107, USA",
+      "count": 50
+    },
+    {
+      "locationId": "8474",
+      "name": "The Triple Knock",
+      "address": "2713 6th Avenue, Tacoma, WA 98406, US",
+      "count": 41
+    },
+    {
+      "locationId": "6346",
+      "name": "NWPAS",
+      "address": "",
+      "count": 31
+    },
+    {
+      "locationId": "6612",
+      "name": "Lynn's Arcade: A Pinball Parlor and Can Slangery",
+      "address": "1760 Fremont Boulevard, Suite D1, Seaside, California 93955, US",
+      "count": 30
+    },
+    {
+      "locationId": "7491",
+      "name": "Jupiter Gameroom",
+      "address": "2126 2nd Ave Suite A, Seattle, WA 98121, US",
+      "count": 27
+    },
+    {
+      "locationId": "9576",
+      "name": "The Kraken Bar & Lounge",
+      "address": "5828 Roosevelt Way NE, Seattle, WA 98105, US",
+      "count": 19
+    },
+    {
+      "locationId": "11892",
+      "name": "Locust Cider HarborCade",
+      "address": "3207 57th St Ct, Gig Harbor, WA 98335",
+      "count": 19
+    },
+    {
+      "locationId": "12988",
+      "name": "The SandBar & Grill",
+      "address": "1941 Marine View Dr, Tacoma, WA 98422, US",
+      "count": 16
+    },
+    {
+      "locationId": "3191",
+      "name": "Tik Tok’s Workshop ",
+      "address": "1216 Sylvan Way, Bremerton, WA 98310, USA",
+      "count": 14
+    }
+  ],
+  "players": [
+    {
+      "id": "m26678",
+      "name": "Kilian Inglett",
+      "rating": 1719.21,
+      "rd": 19.11,
+      "ratingClass": "Expert",
+      "homeLocation": "The Triple Knock",
+      "homeLocationId": "8474",
+      "percentile": 97.61960218009037,
+      "changeDisplay": "+4.4",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m12491",
+      "name": "Alex Skinner",
+      "rating": 1710.52,
+      "rd": 19.2,
+      "ratingClass": "Expert",
+      "homeLocation": "Shorty's",
+      "homeLocationId": "8898",
+      "percentile": 97.19103740625145,
+      "changeDisplay": "-2.0",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m2133",
+      "name": "Sergey Posrednikov",
+      "rating": 1657.79,
+      "rd": 31.56,
+      "ratingClass": "A",
+      "homeLocation": "ADD-A-Ball",
+      "homeLocationId": "8582",
+      "percentile": 92.7796152233661,
+      "changeDisplay": "-7.2",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m24093",
+      "name": "Mayumi Mae",
+      "rating": 1638.85,
+      "rd": 18.91,
+      "ratingClass": "A",
+      "homeLocation": "EightyTwo",
+      "homeLocationId": "11469",
+      "percentile": 90.13835188894582,
+      "changeDisplay": "-0.1",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m4007",
+      "name": "Tim Collins",
+      "rating": 1632.43,
+      "rd": 21.41,
+      "ratingClass": "A",
+      "homeLocation": "Black Raven Brewing - Woodinville",
+      "homeLocationId": "9778",
+      "percentile": 89.04830670331206,
+      "changeDisplay": "+6.8",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m12915",
+      "name": "Eric Garcia",
+      "rating": 1629.57,
+      "rd": 18.12,
+      "ratingClass": "A",
+      "homeLocation": "Lynn's Arcade: A Pinball Parlor and Can Slangery",
+      "homeLocationId": "6612",
+      "percentile": 88.49862579773607,
+      "changeDisplay": "+7.6",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m3217",
+      "name": "Brian Chesbrough",
+      "rating": 1627.55,
+      "rd": 20.66,
+      "ratingClass": "A",
+      "homeLocation": "Shorty's",
+      "homeLocationId": "8898",
+      "percentile": 88.06540271113803,
+      "changeDisplay": "-0.4",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m15575",
+      "name": "Jessica Barron",
+      "rating": 1609.39,
+      "rd": 19.53,
+      "ratingClass": "A",
+      "homeLocation": "Tik Tok’s Workshop ",
+      "homeLocationId": "3191",
+      "percentile": 84.32011925280663,
+      "changeDisplay": "+1.8",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m20705",
+      "name": "Sarah Bay",
+      "rating": 1606.78,
+      "rd": 20.17,
+      "ratingClass": "A",
+      "homeLocation": "Tik Tok’s Workshop ",
+      "homeLocationId": "3191",
+      "percentile": 83.64466390273442,
+      "changeDisplay": "-2.4",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m54427",
+      "name": "Beau Haagenson",
+      "rating": 1603.61,
+      "rd": 25.5,
+      "ratingClass": "A",
+      "homeLocation": "The Ice Box",
+      "homeLocationId": "1893",
+      "percentile": 82.85740904644338,
+      "changeDisplay": "+18.5",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m17565",
+      "name": "Mike Wolff",
+      "rating": 1601.03,
+      "rd": 25.47,
+      "ratingClass": "A",
+      "homeLocation": "Ruckus Room",
+      "homeLocationId": "6901",
+      "percentile": 82.27046163879443,
+      "changeDisplay": "-18.6",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m8829",
+      "name": "Nate Nielsen",
+      "rating": 1596.03,
+      "rd": 28.9,
+      "ratingClass": "B",
+      "homeLocation": "The SandBar & Grill",
+      "homeLocationId": "12988",
+      "percentile": 81.05464200866446,
+      "changeDisplay": "+3.1",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m18128",
+      "name": "Jeff diebert",
+      "rating": 1595.26,
+      "rd": 24.79,
+      "ratingClass": "B",
+      "homeLocation": "Aim & Game",
+      "homeLocationId": "11252",
+      "percentile": 80.84035962174501,
+      "changeDisplay": "-19.1",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m31365",
+      "name": "Donald Warren",
+      "rating": 1589.11,
+      "rd": 29.49,
+      "ratingClass": "B",
+      "homeLocation": "Black Raven Brewing - Woodinville",
+      "homeLocationId": "9778",
+      "percentile": 79.24721665812643,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m21824",
+      "name": "Ben bisset",
+      "rating": 1586.18,
+      "rd": 53.15,
+      "ratingClass": "B",
+      "homeLocation": "Larry's",
+      "homeLocationId": "11611",
+      "percentile": 78.37611217217125,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m11278",
+      "name": "Matt Metzger",
+      "rating": 1585.56,
+      "rd": 27.03,
+      "ratingClass": "B",
+      "homeLocation": "White Buffalo Saloon",
+      "homeLocationId": "13134",
+      "percentile": 78.19909628732474,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m42355",
+      "name": "Tyler Lant",
+      "rating": 1575.85,
+      "rd": 24.19,
+      "ratingClass": "B",
+      "homeLocation": "Tahoe Paddle Sports",
+      "homeLocationId": "8386",
+      "percentile": 75.43205850840825,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m32357",
+      "name": "Matt Ramey",
+      "rating": 1565.45,
+      "rd": 23.06,
+      "ratingClass": "B",
+      "homeLocation": "The Ice Box",
+      "homeLocationId": "1893",
+      "percentile": 72.0967065728793,
+      "changeDisplay": "+3.0",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m44510",
+      "name": "Jeremy Ritter",
+      "rating": 1556.1,
+      "rd": 31.36,
+      "ratingClass": "B",
+      "homeLocation": "Aim & Game",
+      "homeLocationId": "11252",
+      "percentile": 69.05948665393394,
+      "changeDisplay": "+20.0",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m25037",
+      "name": "Kathleen Rush",
+      "rating": 1543.08,
+      "rd": 21.46,
+      "ratingClass": "B",
+      "homeLocation": "The Triple Knock",
+      "homeLocationId": "8474",
+      "percentile": 64.2521078865235,
+      "changeDisplay": "-0.8",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "i119810",
+      "name": "Emil Jurica",
+      "rating": 1538.6,
+      "rd": 42.68,
+      "ratingClass": "B",
+      "homeLocation": "Greater Tacoma Convention Center",
+      "homeLocationId": "13523",
+      "percentile": 62.505240601854005,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m18234",
+      "name": "Katja Rodgers",
+      "rating": 1528.8,
+      "rd": 20.38,
+      "ratingClass": "B",
+      "homeLocation": "The Kraken Bar & Lounge",
+      "homeLocationId": "9576",
+      "percentile": 58.56430800763963,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m19436",
+      "name": "Alyson Ruby Rae",
+      "rating": 1502.91,
+      "rd": 39.16,
+      "ratingClass": "B",
+      "homeLocation": "Greater Tacoma Convention Center",
+      "homeLocationId": "13523",
+      "percentile": 48.278753435505664,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m45918",
+      "name": "Dakota Green",
+      "rating": 1502.52,
+      "rd": 21.49,
+      "ratingClass": "B",
+      "homeLocation": "Shorty's",
+      "homeLocationId": "8898",
+      "percentile": 48.10173755065915,
+      "changeDisplay": "+19.8",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m26163",
+      "name": "Donna Hucklebee",
+      "rating": 1494.57,
+      "rd": 27.8,
+      "ratingClass": "C",
+      "homeLocation": "Shorty's",
+      "homeLocationId": "8898",
+      "percentile": 44.93408487445847,
+      "changeDisplay": "+7.5",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m47019",
+      "name": "Ozer Kocdemir",
+      "rating": 1489.61,
+      "rd": 46.83,
+      "ratingClass": "C",
+      "homeLocation": "Greater Tacoma Convention Center",
+      "homeLocationId": "13523",
+      "percentile": 42.85647738389156,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

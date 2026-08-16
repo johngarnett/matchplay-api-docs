@@ -1,0 +1,123 @@
+{
+  "tournamentId": 259928,
+  "name": "Emporium Pinball League Season 8 #4",
+  "date": "2026-07-22",
+  "locationId": "11735",
+  "locationName": "Emporium New Orleans",
+  "playerCount": 16,
+  "ratingsDate": "2026-07-22",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m3039",
+      "name": "Roland Nadeau",
+      "rating": 1825.68,
+      "dailyRatingChange": 6
+    },
+    {
+      "position": 2,
+      "playerId": "m46978",
+      "name": "Mike LaSalle",
+      "rating": 1576.52,
+      "dailyRatingChange": 8.44
+    },
+    {
+      "position": 3,
+      "playerId": "m60655",
+      "name": "Sasha Robertson",
+      "rating": 1569.39,
+      "dailyRatingChange": 0.48
+    },
+    {
+      "position": 3,
+      "playerId": "m46980",
+      "name": "Roby Arensman",
+      "rating": 1554.11,
+      "dailyRatingChange": 0.78
+    },
+    {
+      "position": 5,
+      "playerId": "i156968",
+      "name": "Chris Vazquez",
+      "rating": 1501.6,
+      "dailyRatingChange": 1.19
+    },
+    {
+      "position": 5,
+      "playerId": "m59725",
+      "name": "Curtis Wilde",
+      "rating": 1557.84,
+      "dailyRatingChange": -3.44
+    },
+    {
+      "position": 5,
+      "playerId": "i159487",
+      "name": "Bernard M",
+      "rating": 1355.47,
+      "dailyRatingChange": 26.67
+    },
+    {
+      "position": 5,
+      "playerId": "i161592",
+      "name": "Preston Umstead",
+      "rating": 1340.4,
+      "dailyRatingChange": 21.39
+    },
+    {
+      "position": 5,
+      "playerId": "m570523",
+      "name": "Katie Burkart",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 5,
+      "playerId": "m580553",
+      "name": "Grant Barras",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 11,
+      "playerId": "m61046",
+      "name": "Ash Sonefeld",
+      "rating": 1385.2,
+      "dailyRatingChange": 9.67
+    },
+    {
+      "position": 12,
+      "playerId": "m480818",
+      "name": "Jane Madden",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 12,
+      "playerId": "m56896",
+      "name": "Elyse DaBeast",
+      "rating": 1474.79,
+      "dailyRatingChange": -3.97
+    },
+    {
+      "position": 14,
+      "playerId": "m44424",
+      "name": "Marisol Getchell",
+      "rating": 1462.11,
+      "dailyRatingChange": -6.2
+    },
+    {
+      "position": 15,
+      "playerId": "m480817",
+      "name": "Jay Madden",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 16,
+      "playerId": "m580559",
+      "name": "Ricky Robin",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

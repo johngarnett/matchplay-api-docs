@@ -1,0 +1,40 @@
+{
+  "locationId": "13442",
+  "venueName": "What's Left Records",
+  "venueAddress": "2217 E Platte Ave, Colorado Springs, CO 80909",
+  "tournaments": [
+    {
+      "id": 252783,
+      "name": "Pioneer Pinball Launch Night",
+      "date": "7/30/2026",
+      "playerCount": 14,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m19050",
+          "name": "Walt Wood",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m5123",
+          "name": "Cassie Begay",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m54488",
+          "name": "Bobby Allen",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "p583160",
+          "name": "Adam B",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

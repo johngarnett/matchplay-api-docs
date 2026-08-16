@@ -1,0 +1,260 @@
+{
+  "locationId": "7102",
+  "venueName": "403 Club",
+  "venueAddress": "614 Reynolds Ave, Kansas City, KS, 66101, US",
+  "tournaments": [
+    {
+      "id": 265884,
+      "name": "KCK Women's League #2",
+      "date": "8/13/2026",
+      "playerCount": 14,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "p586842",
+          "name": "Casey Berges",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m59718",
+          "name": "Micki Welcome Hill",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m35433",
+          "name": "Liz Wade",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "i141742",
+          "name": "Carol Normandin",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m41254",
+          "name": "Jennifer Waters",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 254101,
+      "name": "KCK Women's League #1",
+      "date": "8/6/2026",
+      "playerCount": 11,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m35433",
+          "name": "Liz Wade",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m54925",
+          "name": "Shonda Garrison",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m53156",
+          "name": "Cecilia Quick",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m62221",
+          "name": "Avery Hobbs",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 264275,
+      "name": "403 Club First Saturday 8-1-26",
+      "date": "8/1/2026",
+      "playerCount": 26,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "i41112",
+          "name": "Eric German",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m44394",
+          "name": "Henry Reed",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m51433",
+          "name": "Brendan Haugh",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m1056",
+          "name": "Artie Scholes",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m31156",
+          "name": "Matt Kittrell",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 254100,
+      "name": "A Division Finals for KCK Women's League",
+      "date": "7/30/2026",
+      "playerCount": 6,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m40587",
+          "name": "Maria Macias",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m43026",
+          "name": "Morgan DeSoignie",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m41254",
+          "name": "Jennifer Waters",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m60859",
+          "name": "Linda Holleicke",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 264677,
+      "name": "B Finals for KCK Women's League",
+      "date": "7/30/2026",
+      "playerCount": 6,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m53156",
+          "name": "Cecilia Quick",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "p556384",
+          "name": "Mandy McKinney",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "p458372",
+          "name": "Kathy Ripley",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m51591",
+          "name": "Jessica Forster",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 254090,
+      "name": "KCK Women's League #8",
+      "date": "7/23/2026",
+      "playerCount": 16,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "p581243",
+          "name": "Evelyn Arnspiger",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m43026",
+          "name": "Morgan DeSoignie",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m43033",
+          "name": "Courtney Arnote",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "p556384",
+          "name": "Mandy McKinney",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m62221",
+          "name": "Avery Hobbs",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 262610,
+      "name": "Finals for 403 Club Transformers Launch Party",
+      "date": "7/17/2026",
+      "playerCount": 8,
+      "qualifying": {
+        "id": 262441,
+        "name": "403 Club Transformers Launch Party",
+        "playerCount": 23
+      },
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m1057",
+          "name": "Jason Scheffelmaer",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "i41112",
+          "name": "Eric German",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m654",
+          "name": "Phil Cridlebaugh",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m43001",
+          "name": "Isabella Dell",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

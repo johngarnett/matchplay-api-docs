@@ -1,0 +1,443 @@
+{
+  "locationId": "9650",
+  "name": "Cabin Fever",
+  "address": "1669 Bloor St W, Toronto, ON M6P 1A6, CA",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 31,
+  "relatedVenues": [
+    {
+      "locationId": "6764",
+      "name": "Cabin Fever",
+      "address": "1669 Bloor St W, Toronto, ON M6P 1A6, Canada",
+      "count": 21
+    },
+    {
+      "locationId": "6085",
+      "name": "Maple Pinball",
+      "address": "",
+      "count": 14
+    },
+    {
+      "locationId": "13569",
+      "name": "Experience Social - Ottawa Pinball Arcade",
+      "address": "250 Greenbank Rd, Ottawa, ON K2H 8P6, CA",
+      "count": 14
+    },
+    {
+      "locationId": "6118",
+      "name": "Maple Pinball",
+      "address": "245 Matheson Boulevard East, Mississauga, ON L4Z 3K2, CA",
+      "count": 10
+    },
+    {
+      "locationId": "6680",
+      "name": "Bluffs Pinball",
+      "address": "442 Brimley Rd, Scarborough, ON M1J 1A1, Canada",
+      "count": 10
+    },
+    {
+      "locationId": "7967",
+      "name": "The Ottawa Pinball Arcade (The Neighborhood Pub)",
+      "address": "2559 Baseline Road, Ottawa, ON K2H 7B3, CA",
+      "count": 7
+    },
+    {
+      "locationId": "10209",
+      "name": "8-Bit Beans",
+      "address": "100 Brock St South, Whitby, ON, L1N 4J8, CA",
+      "count": 4
+    },
+    {
+      "locationId": "6453",
+      "name": "Millennium Place",
+      "address": "",
+      "count": 3
+    },
+    {
+      "locationId": "9226",
+      "name": "Forked River Brewing Company",
+      "address": "45 Pacific Ct, London, ON N5V 3N4, CA",
+      "count": 3
+    },
+    {
+      "locationId": "10920",
+      "name": "Lowertown Brewery",
+      "address": "73 York St, Ottawa, Ontario K1N 5T2, CA",
+      "count": 2
+    }
+  ],
+  "players": [
+    {
+      "id": "m25586",
+      "name": "Liam Cooper",
+      "rating": 1663.73,
+      "rd": 37.33,
+      "ratingClass": "A",
+      "homeLocation": "Cabin Fever",
+      "homeLocationId": "6764",
+      "percentile": 93.46904551171565,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m11767",
+      "name": "Polly Vernon",
+      "rating": 1659.2,
+      "rd": 25.55,
+      "ratingClass": "A",
+      "homeLocation": "Cabin Fever",
+      "homeLocationId": "9650",
+      "percentile": 92.98458098476732,
+      "changeDisplay": "-9.5",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m37205",
+      "name": "Scott Irvine",
+      "rating": 1624.77,
+      "rd": 18.38,
+      "ratingClass": "A",
+      "homeLocation": "Maple Pinball",
+      "homeLocationId": "6118",
+      "percentile": 87.56230493315321,
+      "changeDisplay": "-0.6",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m6355",
+      "name": "Steve Tremblay",
+      "rating": 1616.79,
+      "rd": 22.69,
+      "ratingClass": "A",
+      "homeLocation": "Experience Social - Ottawa Pinball Arcade",
+      "homeLocationId": "13569",
+      "percentile": 85.9598453440164,
+      "changeDisplay": "-16.6",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m55242",
+      "name": "Brad Pajuluoma",
+      "rating": 1614.79,
+      "rd": 31.89,
+      "ratingClass": "A",
+      "homeLocation": "Cabin Fever",
+      "homeLocationId": "9650",
+      "percentile": 85.51264731914101,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m15015",
+      "name": "Chris Tew",
+      "rating": 1586.88,
+      "rd": 39.97,
+      "ratingClass": "B",
+      "homeLocation": "Cabin Fever",
+      "homeLocationId": "6764",
+      "percentile": 78.55778636977688,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m1391",
+      "name": "Steve Martin",
+      "rating": 1572.06,
+      "rd": 37.58,
+      "ratingClass": "B",
+      "homeLocation": "Cabin Fever",
+      "homeLocationId": "6764",
+      "percentile": 74.14170587413238,
+      "changeDisplay": "+45.7",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m5481",
+      "name": "Danielle Laverdure",
+      "rating": 1568.81,
+      "rd": 23,
+      "ratingClass": "B",
+      "homeLocation": "Experience Social - Ottawa Pinball Arcade",
+      "homeLocationId": "13569",
+      "percentile": 73.1215353798854,
+      "changeDisplay": "+2.7",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m4720",
+      "name": "Bryce Moore",
+      "rating": 1566.82,
+      "rd": 28.86,
+      "ratingClass": "B",
+      "homeLocation": "Cabin Fever",
+      "homeLocationId": "9650",
+      "percentile": 72.52992965947733,
+      "changeDisplay": "+32.1",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m16136",
+      "name": "Travis Provick",
+      "rating": 1556.02,
+      "rd": 26.73,
+      "ratingClass": "B",
+      "homeLocation": "Maple Pinball",
+      "homeLocationId": "6085",
+      "percentile": 69.03153677737923,
+      "changeDisplay": "+34.6",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m59428",
+      "name": "Winnie Fung",
+      "rating": 1548.41,
+      "rd": 21.65,
+      "ratingClass": "B",
+      "homeLocation": "Bluffs Pinball",
+      "homeLocationId": "6680",
+      "percentile": 66.13872455396655,
+      "changeDisplay": "-9.2",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m41934",
+      "name": "Devra Leibovitz",
+      "rating": 1546.75,
+      "rd": 31.79,
+      "ratingClass": "B",
+      "homeLocation": "Cabin Fever",
+      "homeLocationId": "6764",
+      "percentile": 65.49121908044906,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m54046",
+      "name": "Tama Samus",
+      "rating": 1541.82,
+      "rd": 29.86,
+      "ratingClass": "B",
+      "homeLocation": "Cabin Fever",
+      "homeLocationId": "9650",
+      "percentile": 63.83285973820282,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i140459",
+      "name": "Kelvin Put",
+      "rating": 1537.17,
+      "rd": 43.34,
+      "ratingClass": "B",
+      "homeLocation": "Cabin Fever",
+      "homeLocationId": "9650",
+      "percentile": 61.96021800903713,
+      "changeDisplay": "-26.3",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "i136470",
+      "name": "Al Reid",
+      "rating": 1534.1,
+      "rd": 32.06,
+      "ratingClass": "B",
+      "homeLocation": "Cabin Fever",
+      "homeLocationId": "9650",
+      "percentile": 60.623282247170074,
+      "changeDisplay": "+5.0",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m43506",
+      "name": "Kathleen Winona Hyslop",
+      "rating": 1524.14,
+      "rd": 29.52,
+      "ratingClass": "B",
+      "homeLocation": "Cabin Fever",
+      "homeLocationId": "9650",
+      "percentile": 56.78483253365631,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m35956",
+      "name": "Kathy Podwin",
+      "rating": 1523.51,
+      "rd": 27.05,
+      "ratingClass": "B",
+      "homeLocation": "Cabin Fever",
+      "homeLocationId": "9650",
+      "percentile": 56.51930870638655,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m41811",
+      "name": "Daniel Lopez",
+      "rating": 1522.92,
+      "rd": 30.67,
+      "ratingClass": "B",
+      "homeLocation": "Cabin Fever",
+      "homeLocationId": "9650",
+      "percentile": 56.319001257744446,
+      "changeDisplay": "-8.1",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "i61433",
+      "name": "Kit Burnham",
+      "rating": 1521.01,
+      "rd": 29.71,
+      "ratingClass": "B",
+      "homeLocation": "Cabin Fever",
+      "homeLocationId": "9650",
+      "percentile": 55.58764615456282,
+      "changeDisplay": "-1.7",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m45350",
+      "name": "Feonix Cain",
+      "rating": 1505.56,
+      "rd": 26.95,
+      "ratingClass": "B",
+      "homeLocation": "Cabin Fever",
+      "homeLocationId": "9650",
+      "percentile": 49.47128150184003,
+      "changeDisplay": "+0.2",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "i116377",
+      "name": "Mike Tarves",
+      "rating": 1484.87,
+      "rd": 34.29,
+      "ratingClass": "C",
+      "homeLocation": "Cabin Fever",
+      "homeLocationId": "9650",
+      "percentile": 40.83476964643406,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m43864",
+      "name": "Addie Sorrell",
+      "rating": 1483,
+      "rd": 22.81,
+      "ratingClass": "C",
+      "homeLocation": "Cabin Fever",
+      "homeLocationId": "9650",
+      "percentile": 40.13136441980715,
+      "changeDisplay": "-6.1",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m43088",
+      "name": "Jessica Babineau",
+      "rating": 1467.98,
+      "rd": 20.91,
+      "ratingClass": "C",
+      "homeLocation": "Cabin Fever",
+      "homeLocationId": "9650",
+      "percentile": 34.056924581916434,
+      "changeDisplay": "-22.1",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "i55621",
+      "name": "Jennifer Kruusi",
+      "rating": 1461.21,
+      "rd": 30.84,
+      "ratingClass": "C",
+      "homeLocation": "Cabin Fever",
+      "homeLocationId": "9650",
+      "percentile": 31.415661247496157,
+      "changeDisplay": "+10.0",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "i90669",
+      "name": "Heather Brown",
+      "rating": 1450.81,
+      "rd": 39.83,
+      "ratingClass": "C",
+      "homeLocation": "Cabin Fever",
+      "homeLocationId": "9650",
+      "percentile": 27.43746215120883,
+      "changeDisplay": "-25.0",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m833",
+      "name": "David Wallace",
+      "rating": 1439.17,
+      "rd": 46.71,
+      "ratingClass": "C",
+      "homeLocation": "Cabin Fever",
+      "homeLocationId": "6764",
+      "percentile": 23.454604742162388,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m42111",
+      "name": "Emma Hyslop",
+      "rating": 1432.33,
+      "rd": 36.13,
+      "ratingClass": "C",
+      "homeLocation": "Cabin Fever",
+      "homeLocationId": "9650",
+      "percentile": 21.311780872967812,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m46153",
+      "name": "Caroline Ross",
+      "rating": 1342.96,
+      "rd": 35.39,
+      "ratingClass": "D",
+      "homeLocation": "Cabin Fever",
+      "homeLocationId": "9650",
+      "percentile": 3.503051194857223,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m50324",
+      "name": "Hilary Asher",
+      "rating": 1338.61,
+      "rd": 36.16,
+      "ratingClass": "D",
+      "homeLocation": "Cabin Fever",
+      "homeLocationId": "9650",
+      "percentile": 3.102436297573019,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i133254",
+      "name": "Anna Gryszkiewicz",
+      "rating": 1326.2,
+      "rd": 50.22,
+      "ratingClass": "D",
+      "homeLocation": "Cabin Fever",
+      "homeLocationId": "9650",
+      "percentile": 2.2080402478222387,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i141549",
+      "name": "Winnie Fung",
+      "rating": null,
+      "rd": null,
+      "ratingClass": "N/A",
+      "homeLocation": "Cabin Fever",
+      "homeLocationId": "9650",
+      "percentile": null,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

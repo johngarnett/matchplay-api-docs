@@ -1,0 +1,39 @@
+{
+  "tournamentId": 264475,
+  "name": "HubHaus Silver Ball Weekly Tournament 7/29/2026",
+  "date": "2026-07-30",
+  "locationId": "13707",
+  "locationName": "Hub Haus",
+  "playerCount": 4,
+  "ratingsDate": "2026-07-30",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m16216",
+      "name": "Joe Ashley",
+      "rating": 1614.13,
+      "dailyRatingChange": 1.99
+    },
+    {
+      "position": 2,
+      "playerId": "m25384",
+      "name": "Kathy Adler",
+      "rating": 1534.3,
+      "dailyRatingChange": 5.31
+    },
+    {
+      "position": 3,
+      "playerId": "i160020",
+      "name": "Leonard Spiers",
+      "rating": 1470.3,
+      "dailyRatingChange": -1.78
+    },
+    {
+      "position": 4,
+      "playerId": "i159154",
+      "name": "Richard Leister",
+      "rating": 1419.91,
+      "dailyRatingChange": -17.31
+    }
+  ]
+}

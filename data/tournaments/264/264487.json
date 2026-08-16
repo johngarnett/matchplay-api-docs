@@ -1,0 +1,123 @@
+{
+  "tournamentId": 264487,
+  "name": "Strikeout, July 29th, 2026",
+  "date": "2026-07-30",
+  "locationId": "10233",
+  "locationName": "Flippins Bar/Arcade",
+  "playerCount": 16,
+  "ratingsDate": "2026-07-30",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "i138985",
+      "name": "Andy Tommy",
+      "rating": 1589.69,
+      "dailyRatingChange": 14.11
+    },
+    {
+      "position": 2,
+      "playerId": "m15711",
+      "name": "Dylan Papazian-Clare",
+      "rating": 1676.3,
+      "dailyRatingChange": 11.69
+    },
+    {
+      "position": 3,
+      "playerId": "m56354",
+      "name": "Jaden Shaddick",
+      "rating": 1702.09,
+      "dailyRatingChange": -1.17
+    },
+    {
+      "position": 3,
+      "playerId": "m56384",
+      "name": "Quinn Legere",
+      "rating": 1580.73,
+      "dailyRatingChange": 4.14
+    },
+    {
+      "position": 5,
+      "playerId": "m409052",
+      "name": "Steven McLaughlin",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 5,
+      "playerId": "i113130",
+      "name": "Sonja Griffin",
+      "rating": 1444.96,
+      "dailyRatingChange": 13.57
+    },
+    {
+      "position": 7,
+      "playerId": "m582846",
+      "name": "Lessa Thornton",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 7,
+      "playerId": "m54094",
+      "name": "Nick Ward",
+      "rating": 1581.42,
+      "dailyRatingChange": -1.11
+    },
+    {
+      "position": 7,
+      "playerId": "m32043",
+      "name": "Meg Griffin",
+      "rating": 1480.95,
+      "dailyRatingChange": -0.37
+    },
+    {
+      "position": 10,
+      "playerId": "m564236",
+      "name": "Reka Egri",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 10,
+      "playerId": "i136974",
+      "name": "Abby Jackson",
+      "rating": 1510.45,
+      "dailyRatingChange": -3.8
+    },
+    {
+      "position": 12,
+      "playerId": "i156085",
+      "name": "Hannah Sharpe",
+      "rating": 1309.22,
+      "dailyRatingChange": -1.58
+    },
+    {
+      "position": 12,
+      "playerId": "m578700",
+      "name": "Kelli-Nicole Croucher",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 14,
+      "playerId": "m36826",
+      "name": "Dan Griffin",
+      "rating": 1565.43,
+      "dailyRatingChange": -17.65
+    },
+    {
+      "position": 14,
+      "playerId": "m58174",
+      "name": "Mac MacEachern",
+      "rating": 1468.29,
+      "dailyRatingChange": -14.45
+    },
+    {
+      "position": 14,
+      "playerId": "m576889",
+      "name": "Brent Sharpe",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

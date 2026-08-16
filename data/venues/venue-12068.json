@@ -1,0 +1,341 @@
+{
+  "locationId": "12068",
+  "name": "Flipperasyl",
+  "address": "Hasnerstraße 45, Wien, 1160, AT",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 25,
+  "relatedVenues": [
+    {
+      "locationId": "3970",
+      "name": "Flippnic",
+      "address": "Badendorf 12b, 8413 Badendorf, Austria",
+      "count": 12
+    },
+    {
+      "locationId": "8617",
+      "name": "Biljardna Hisa Ljubljana - Slovenska",
+      "address": "Slovenska 58, 1000 Ljubljana",
+      "count": 9
+    },
+    {
+      "locationId": "9256",
+      "name": "VFR - Verein Flipper Rebläuse - Auersthal",
+      "address": "Wunderberg 79",
+      "count": 8
+    },
+    {
+      "locationId": "9847",
+      "name": "Arcade Keller",
+      "address": "Auersthal",
+      "count": 6
+    },
+    {
+      "locationId": "12842",
+      "name": "Open World - eSport Eatery & Bar",
+      "address": "U Bahn Bogen 185, Wien, 1190, AT",
+      "count": 6
+    }
+  ],
+  "players": [
+    {
+      "id": "m31509",
+      "name": "Jamel Chaabane",
+      "rating": 1663.37,
+      "rd": 31.86,
+      "ratingClass": "A",
+      "homeLocation": "Flipperasyl",
+      "homeLocationId": "12068",
+      "percentile": 93.43177900964271,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m24269",
+      "name": "Robert Glashuettner",
+      "rating": 1602.78,
+      "rd": 26.01,
+      "ratingClass": "A",
+      "homeLocation": "Biljardna Hisa Ljubljana - Slovenska",
+      "homeLocationId": "8617",
+      "percentile": 82.68505147435599,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m47067",
+      "name": "Sharon Arik Karandi",
+      "rating": 1584.85,
+      "rd": 29.47,
+      "ratingClass": "B",
+      "homeLocation": "Flipperasyl",
+      "homeLocationId": "12068",
+      "percentile": 78.00810546420087,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m43813",
+      "name": "Stefan Scheibelhofer",
+      "rating": 1561.06,
+      "rd": 28.33,
+      "ratingClass": "B",
+      "homeLocation": "Flippnic",
+      "homeLocationId": "3970",
+      "percentile": 70.65728793031164,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i130584",
+      "name": "Thomas Weber",
+      "rating": 1556.07,
+      "rd": 26.23,
+      "ratingClass": "B",
+      "homeLocation": "Flippnic",
+      "homeLocationId": "3970",
+      "percentile": 69.0501700284157,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m47066",
+      "name": "Elli Paschalis",
+      "rating": 1555.23,
+      "rd": 27.38,
+      "ratingClass": "B",
+      "homeLocation": "Arcade Keller",
+      "homeLocationId": "9847",
+      "percentile": 68.73340476079564,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m35235",
+      "name": "Niklas Worisch",
+      "rating": 1553.2,
+      "rd": 31.4,
+      "ratingClass": "B",
+      "homeLocation": "Flipperasyl",
+      "homeLocationId": "12068",
+      "percentile": 68.00204965761402,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m37287",
+      "name": "Jakob Andre",
+      "rating": 1536.34,
+      "rd": 36.54,
+      "ratingClass": "B",
+      "homeLocation": "Flipperasyl",
+      "homeLocationId": "12068",
+      "percentile": 61.606186239344105,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m33731",
+      "name": "Heinz-Peter Bader",
+      "rating": 1534.16,
+      "rd": 36.12,
+      "ratingClass": "B",
+      "homeLocation": "Flipperasyl",
+      "homeLocationId": "12068",
+      "percentile": 60.665207062002146,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m15963",
+      "name": "Helmut Hepperger",
+      "rating": 1531.66,
+      "rd": 33.05,
+      "ratingClass": "B",
+      "homeLocation": "Flipperasyl",
+      "homeLocationId": "12068",
+      "percentile": 59.696278008105466,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m54136",
+      "name": "Gerhard Hornik",
+      "rating": 1531.03,
+      "rd": 25.41,
+      "ratingClass": "B",
+      "homeLocation": "Flippnic",
+      "homeLocationId": "3970",
+      "percentile": 59.45404574463129,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m27194",
+      "name": "Alexander Gmeiner",
+      "rating": 1517.08,
+      "rd": 34.88,
+      "ratingClass": "B",
+      "homeLocation": "Flipperasyl",
+      "homeLocationId": "12068",
+      "percentile": 54.0364280057763,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m37288",
+      "name": "Martina Solly",
+      "rating": 1505.95,
+      "rd": 32.54,
+      "ratingClass": "B",
+      "homeLocation": "Arcade Keller",
+      "homeLocationId": "9847",
+      "percentile": 49.62966413565007,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m52354",
+      "name": "Luis Mitas",
+      "rating": 1505.8,
+      "rd": 42.48,
+      "ratingClass": "B",
+      "homeLocation": "Flipperasyl",
+      "homeLocationId": "12068",
+      "percentile": 49.55978944426329,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m49859",
+      "name": "Michael Waldegg",
+      "rating": 1500.08,
+      "rd": 26.98,
+      "ratingClass": "B",
+      "homeLocation": "Biljardna Hisa Ljubljana - Slovenska",
+      "homeLocationId": "8617",
+      "percentile": 47.123491871244234,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m48033",
+      "name": "Lukas Scheibelhofer",
+      "rating": 1482.63,
+      "rd": 28.81,
+      "ratingClass": "C",
+      "homeLocation": "Flippnic",
+      "homeLocationId": "3970",
+      "percentile": 39.968323473237994,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m56213",
+      "name": "Travis Leggett",
+      "rating": 1476.51,
+      "rd": 42.7,
+      "ratingClass": "C",
+      "homeLocation": "Flipperasyl",
+      "homeLocationId": "12068",
+      "percentile": 37.490101085386875,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m49958",
+      "name": "Stefan Daschek",
+      "rating": 1474.32,
+      "rd": 52.41,
+      "ratingClass": "C",
+      "homeLocation": "Flipperasyl",
+      "homeLocationId": "12068",
+      "percentile": 36.61899659943168,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m16973",
+      "name": "Lukas Bramhas",
+      "rating": 1472.91,
+      "rd": 29.81,
+      "ratingClass": "C",
+      "homeLocation": "Flipperasyl",
+      "homeLocationId": "12068",
+      "percentile": 36.073974006614804,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m59386",
+      "name": "Dominik Wolf",
+      "rating": 1435.09,
+      "rd": 57.63,
+      "ratingClass": "C",
+      "homeLocation": "Flipperasyl",
+      "homeLocationId": "12068",
+      "percentile": 22.159593795127407,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m59715",
+      "name": "Natalie Ogris",
+      "rating": 1429.55,
+      "rd": 44.63,
+      "ratingClass": "C",
+      "homeLocation": "Flipperasyl",
+      "homeLocationId": "12068",
+      "percentile": 20.41738482321703,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m37302",
+      "name": "Gabriela Schieber",
+      "rating": 1392.53,
+      "rd": 41.34,
+      "ratingClass": "D",
+      "homeLocation": "Flipperasyl",
+      "homeLocationId": "12068",
+      "percentile": 10.77933572460055,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m60883",
+      "name": "Bernhard Bliem",
+      "rating": 1367.42,
+      "rd": 56.15,
+      "ratingClass": "D",
+      "homeLocation": "Flipperasyl",
+      "homeLocationId": "12068",
+      "percentile": 6.358596916196954,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m56930",
+      "name": "Max Denk-Leggett",
+      "rating": 1366.05,
+      "rd": 50.85,
+      "ratingClass": "D",
+      "homeLocation": "Flipperasyl",
+      "homeLocationId": "12068",
+      "percentile": 6.195555969627801,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m56292",
+      "name": "Anton Kaiser-Rütten",
+      "rating": 1362.94,
+      "rd": 43.82,
+      "ratingClass": "D",
+      "homeLocation": "Flipperasyl",
+      "homeLocationId": "12068",
+      "percentile": 5.762332883029766,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

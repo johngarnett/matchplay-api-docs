@@ -1,0 +1,39 @@
+{
+  "tournamentId": 263194,
+  "name": "Finals for Axecadia Pinball Weekly",
+  "date": "2026-07-22",
+  "locationId": "8704",
+  "locationName": "Axecadia",
+  "playerCount": 4,
+  "ratingsDate": "2026-07-22",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m37969",
+      "name": "Arthur Ruple",
+      "rating": 1710.41,
+      "dailyRatingChange": 7.9
+    },
+    {
+      "position": 2,
+      "playerId": "m37006",
+      "name": "Terry Oles",
+      "rating": 1605.27,
+      "dailyRatingChange": 9.32
+    },
+    {
+      "position": 3,
+      "playerId": "m22819",
+      "name": "Wesley Chappell",
+      "rating": 1547.83,
+      "dailyRatingChange": 1.36
+    },
+    {
+      "position": 4,
+      "playerId": "m35204",
+      "name": "Stephen Mowbray",
+      "rating": 1621.82,
+      "dailyRatingChange": -19.29
+    }
+  ]
+}

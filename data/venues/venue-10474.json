@@ -1,0 +1,245 @@
+{
+  "locationId": "10474",
+  "name": "Boxcar Bar + Arcade",
+  "address": "120 West Lewis Street, Greensboro, NC 27406, US",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 15,
+  "relatedVenues": [
+    {
+      "locationId": "7837",
+      "name": "Super Abari Game Bar",
+      "address": "1015 Seigle Ave, Charlotte, NC, 2820, US",
+      "count": 22
+    },
+    {
+      "locationId": "13474",
+      "name": "Greensboro Pinball Museum",
+      "address": "2140 Lawndale Dr, Greensboro, NC 27408, US",
+      "count": 21
+    },
+    {
+      "locationId": "11549",
+      "name": "Flight Deck NC",
+      "address": "9521 Lumley Rd, Morrisville, NC 27560, US",
+      "count": 16
+    },
+    {
+      "locationId": "6588",
+      "name": "Pocketeer Billiards",
+      "address": "",
+      "count": 2
+    },
+    {
+      "locationId": "8271",
+      "name": "Rezzanine Esports",
+      "address": "1025 Washington Pike, Bridgeville, PA 15017, US",
+      "count": 2
+    },
+    {
+      "locationId": "10710",
+      "name": "The Backyard Arcade @ Coastal Hemp Company",
+      "address": "8207 Market St. Unit I, Wilmington, NC, 28411, US",
+      "count": 2
+    },
+    {
+      "locationId": "12706",
+      "name": "Level Up Latte",
+      "address": "1180 Blowing Rock Rd, Boone, NC 28607, US",
+      "count": 2
+    },
+    {
+      "locationId": "13037",
+      "name": "Carolina Beer Temple & the Ames Street Marketplace",
+      "address": "215 N Ames St, Matthews, NC 28105, US",
+      "count": 2
+    },
+    {
+      "locationId": "10348",
+      "name": "Luckycreature hq",
+      "address": "Asheville, NC",
+      "count": 1
+    }
+  ],
+  "players": [
+    {
+      "id": "m3090",
+      "name": "Drew Cedolia",
+      "rating": 1860.34,
+      "rd": 22.04,
+      "ratingClass": "Master",
+      "homeLocation": "Flight Deck NC",
+      "homeLocationId": "11549",
+      "percentile": 99.89285880654027,
+      "changeDisplay": "-16.0",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m5322",
+      "name": "Tim McCool",
+      "rating": 1824.92,
+      "rd": 25.33,
+      "ratingClass": "Master",
+      "homeLocation": "Flight Deck NC",
+      "homeLocationId": "11549",
+      "percentile": 99.75310942376672,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m8888",
+      "name": "Jeremy Weaver",
+      "rating": 1716.78,
+      "rd": 23.07,
+      "ratingClass": "Expert",
+      "homeLocation": "Super Abari Game Bar",
+      "homeLocationId": "7837",
+      "percentile": 97.47053617179857,
+      "changeDisplay": "-5.3",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m28956",
+      "name": "Phillip Davis",
+      "rating": 1668.83,
+      "rd": 19.12,
+      "ratingClass": "A",
+      "homeLocation": "Super Abari Game Bar",
+      "homeLocationId": "7837",
+      "percentile": 93.97214328970047,
+      "changeDisplay": "-0.4",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m1800",
+      "name": "Keith Brown",
+      "rating": 1600.88,
+      "rd": 45.83,
+      "ratingClass": "A",
+      "homeLocation": "Boxcar Bar + Arcade",
+      "homeLocationId": "10474",
+      "percentile": 82.21922019844412,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m30520",
+      "name": "Stephen Kulin",
+      "rating": 1592.4,
+      "rd": 26.1,
+      "ratingClass": "B",
+      "homeLocation": "Boxcar Bar + Arcade",
+      "homeLocationId": "10474",
+      "percentile": 80.09968789304513,
+      "changeDisplay": "-4.7",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m1339",
+      "name": "Jeff Leone",
+      "rating": 1587.81,
+      "rd": 45.33,
+      "ratingClass": "B",
+      "homeLocation": "Boxcar Bar + Arcade",
+      "homeLocationId": "10474",
+      "percentile": 78.84660176084223,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m25874",
+      "name": "Chris Amaya",
+      "rating": 1544.76,
+      "rd": 29.27,
+      "ratingClass": "B",
+      "homeLocation": "Boxcar Bar + Arcade",
+      "homeLocationId": "10474",
+      "percentile": 64.85303023244981,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m31201",
+      "name": "Kayla Schill",
+      "rating": 1517.17,
+      "rd": 32.48,
+      "ratingClass": "B",
+      "homeLocation": "Boxcar Bar + Arcade",
+      "homeLocationId": "10474",
+      "percentile": 54.07835282060838,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i116938",
+      "name": "Darius Alston",
+      "rating": 1504.12,
+      "rd": 31.64,
+      "ratingClass": "B",
+      "homeLocation": "Boxcar Bar + Arcade",
+      "homeLocationId": "10474",
+      "percentile": 48.861042530395494,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m40638",
+      "name": "MaKayla Schill",
+      "rating": 1462.65,
+      "rd": 32.48,
+      "ratingClass": "C",
+      "homeLocation": "Boxcar Bar + Arcade",
+      "homeLocationId": "10474",
+      "percentile": 31.983975404108634,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m33071",
+      "name": "Tracey Murray",
+      "rating": 1454.92,
+      "rd": 21.17,
+      "ratingClass": "C",
+      "homeLocation": "Super Abari Game Bar",
+      "homeLocationId": "7837",
+      "percentile": 29.06321330414124,
+      "changeDisplay": "-8.4",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m44007",
+      "name": "Sean Tracy",
+      "rating": 1424.79,
+      "rd": 31.2,
+      "ratingClass": "C",
+      "homeLocation": "Boxcar Bar + Arcade",
+      "homeLocationId": "10474",
+      "percentile": 19.05249918479527,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m30437",
+      "name": "Andi Carly",
+      "rating": 1409.83,
+      "rd": 27.68,
+      "ratingClass": "C",
+      "homeLocation": "Boxcar Bar + Arcade",
+      "homeLocationId": "10474",
+      "percentile": 15.018400335398518,
+      "changeDisplay": "+9.0",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "i160255",
+      "name": "Howard Bowker",
+      "rating": null,
+      "rd": null,
+      "ratingClass": "N/A",
+      "homeLocation": "Boxcar Bar + Arcade",
+      "homeLocationId": "10474",
+      "percentile": null,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

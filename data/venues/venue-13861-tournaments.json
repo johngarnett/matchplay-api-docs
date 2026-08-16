@@ -1,0 +1,40 @@
+{
+  "locationId": "13861",
+  "venueName": "Zia Comics",
+  "venueAddress": "125 N Main St, Las Cruces, NM 88001, US",
+  "tournaments": [
+    {
+      "id": 266302,
+      "name": "Sunday Funday Pinball League Season 1 #4",
+      "date": "8/9/2026",
+      "playerCount": 22,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m31296",
+          "name": "Debbie Peel",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 1,
+          "playerId": "i7500",
+          "name": "Butch Peel",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m27846",
+          "name": "David Lopez TX",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m62681",
+          "name": "JC Felix",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

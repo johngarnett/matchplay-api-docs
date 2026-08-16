@@ -1,0 +1,145 @@
+{
+  "locationId": "12260",
+  "venueName": "Smash N Axe Arcade Disco",
+  "venueAddress": "1763 Henderson Hwy, Winnipeg, MB R2G 2H8, CA",
+  "tournaments": [
+    {
+      "id": 249717,
+      "name": "PLAYOFFS (A Division) for Manitoba SUMMER League 2026 (Season 1)",
+      "date": "7/26/2026",
+      "playerCount": 16,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m15423",
+          "name": "Drew Sych",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m25307",
+          "name": "Jay Woolston",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m10870",
+          "name": "Ian Gomm",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m33243",
+          "name": "Tony Warzel",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 259029,
+      "name": "PLAYOFFS (B Division) for Manitoba SUMMER League 2026 (Season 1)",
+      "date": "7/26/2026",
+      "playerCount": 8,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m4645",
+          "name": "David Miller CAN",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m7152",
+          "name": "Jody Linn",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m38366",
+          "name": "Trudy Bais",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "p545465",
+          "name": "Blaine Laschuk",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 259030,
+      "name": "PLAYOFFS (C Division) for Manitoba SUMMER League 2026 (Season 1)",
+      "date": "7/26/2026",
+      "playerCount": 5,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m40606",
+          "name": "Rod Betesta",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m31218",
+          "name": "John Marquez",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m59030",
+          "name": "Pamela Robertson",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m51466",
+          "name": "Tina Reno",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 249701,
+      "name": "Manitoba SUMMER League 2026 - JULY 23 (S01S06)",
+      "date": "7/23/2026",
+      "playerCount": 36,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m15423",
+          "name": "Drew Sych",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 1,
+          "playerId": "m25307",
+          "name": "Jay Woolston",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m33243",
+          "name": "Tony Warzel",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m31218",
+          "name": "John Marquez",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m10870",
+          "name": "Ian Gomm",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

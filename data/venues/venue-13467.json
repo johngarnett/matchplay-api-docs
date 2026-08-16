@@ -1,0 +1,407 @@
+{
+  "locationId": "13467",
+  "name": "Jeff's House",
+  "address": "813 hidden vale ct madison va",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 28,
+  "relatedVenues": [
+    {
+      "locationId": "7953",
+      "name": "Richmond Pinball Collective",
+      "address": "9550 Midlothian Turnpike, Unit 112, Midlothian, VA 23235, US",
+      "count": 94
+    },
+    {
+      "locationId": "11970",
+      "name": "Richmond Pinball Collective",
+      "address": "9550 Midlothian Tpke #106, Richmond, VA 23235",
+      "count": 40
+    },
+    {
+      "locationId": "13106",
+      "name": "Pro Re Nata Brewpub & Music Hall",
+      "address": "6135 Rockfish Gap Turnpike, Crozet, VA 22932, US",
+      "count": 27
+    },
+    {
+      "locationId": "11175",
+      "name": "Decades Arcade",
+      "address": "418 E Main St, Charlottesville, VA, 22902, US",
+      "count": 18
+    },
+    {
+      "locationId": "4194",
+      "name": "Maltese Brewing",
+      "address": "11800 Main St. Building #3, Fredericksburg VA 22408",
+      "count": 14
+    },
+    {
+      "locationId": "12832",
+      "name": "Reclaim Arcade",
+      "address": "2324 Plank Road, Fredericksburg, VA 22401, US",
+      "count": 12
+    },
+    {
+      "locationId": "13314",
+      "name": "Center of the Universe Brewing Company",
+      "address": "11293 Air Park Road, Ashland, VA 23005, US",
+      "count": 12
+    },
+    {
+      "locationId": "11650",
+      "name": "Roanoke Pinball Museum",
+      "address": "1 Market Square Southeast, Roanoke, VA 24011, US",
+      "count": 7
+    },
+    {
+      "locationId": "7053",
+      "name": "CarPool",
+      "address": "900 North Glebe Road, Arlington, VA 22203, US",
+      "count": 6
+    },
+    {
+      "locationId": "9505",
+      "name": "Jackpot Pinball Arcade",
+      "address": "144 N. 21st st. Purcellville VA 20132",
+      "count": 6
+    }
+  ],
+  "players": [
+    {
+      "id": "m4623",
+      "name": "Daniel Purdy",
+      "rating": 1755.13,
+      "rd": 29.4,
+      "ratingClass": "Expert",
+      "homeLocation": "Decades Arcade",
+      "homeLocationId": "11175",
+      "percentile": 98.90529650160713,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m3486",
+      "name": "Rob Pannell",
+      "rating": 1689.36,
+      "rd": 23.71,
+      "ratingClass": "A",
+      "homeLocation": "Richmond Pinball Collective",
+      "homeLocationId": "7953",
+      "percentile": 95.88205152093911,
+      "changeDisplay": "+1.2",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m18776",
+      "name": "Matt Larsen",
+      "rating": 1677.95,
+      "rd": 19.43,
+      "ratingClass": "A",
+      "homeLocation": "Maltese Brewing",
+      "homeLocationId": "4194",
+      "percentile": 94.92243909256068,
+      "changeDisplay": "-1.4",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m2886",
+      "name": "Robert Peters",
+      "rating": 1674.26,
+      "rd": 18.05,
+      "ratingClass": "A",
+      "homeLocation": "Richmond Pinball Collective",
+      "homeLocationId": "7953",
+      "percentile": 94.53114082079472,
+      "changeDisplay": "+12.8",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m2199",
+      "name": "Clark Fraley",
+      "rating": 1644.37,
+      "rd": 24.24,
+      "ratingClass": "A",
+      "homeLocation": "Richmond Pinball Collective",
+      "homeLocationId": "7953",
+      "percentile": 90.94889830903247,
+      "changeDisplay": "-2.6",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m15242",
+      "name": "Brian Rodeffer",
+      "rating": 1628.82,
+      "rd": 26.38,
+      "ratingClass": "A",
+      "homeLocation": "Pro Re Nata Brewpub & Music Hall",
+      "homeLocationId": "13106",
+      "percentile": 88.31695160013044,
+      "changeDisplay": "+2.9",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m6365",
+      "name": "Allen Foglesong",
+      "rating": 1615.52,
+      "rd": 18.91,
+      "ratingClass": "A",
+      "homeLocation": "Richmond Pinball Collective",
+      "homeLocationId": "7953",
+      "percentile": 85.63376345087809,
+      "changeDisplay": "+2.3",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m2011",
+      "name": "Scott Durfee",
+      "rating": 1607.48,
+      "rd": 27.38,
+      "ratingClass": "A",
+      "homeLocation": "Richmond Pinball Collective",
+      "homeLocationId": "7953",
+      "percentile": 83.82167978758093,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m2186",
+      "name": "Laura Fraley",
+      "rating": 1605.83,
+      "rd": 19.08,
+      "ratingClass": "A",
+      "homeLocation": "Richmond Pinball Collective",
+      "homeLocationId": "7953",
+      "percentile": 83.36982344994644,
+      "changeDisplay": "+0.5",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "i61150",
+      "name": "Paul Ferlan",
+      "rating": 1604.5,
+      "rd": 35.74,
+      "ratingClass": "A",
+      "homeLocation": "Pro Re Nata Brewpub & Music Hall",
+      "homeLocationId": "13106",
+      "percentile": 83.04839986956725,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m15236",
+      "name": "Mick Cavanaugh",
+      "rating": 1598.23,
+      "rd": 17.83,
+      "ratingClass": "B",
+      "homeLocation": "Richmond Pinball Collective",
+      "homeLocationId": "7953",
+      "percentile": 81.54842316113104,
+      "changeDisplay": "-2.9",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m16700",
+      "name": "Kendall Tawes",
+      "rating": 1585.53,
+      "rd": 40.53,
+      "ratingClass": "B",
+      "homeLocation": "Decades Arcade",
+      "homeLocationId": "11175",
+      "percentile": 78.18046303628826,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m4563",
+      "name": "Dave Weaver",
+      "rating": 1584.45,
+      "rd": 20.09,
+      "ratingClass": "B",
+      "homeLocation": "Richmond Pinball Collective",
+      "homeLocationId": "7953",
+      "percentile": 77.92425583453672,
+      "changeDisplay": "+9.7",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m42056",
+      "name": "Sam McGeehan",
+      "rating": 1558.28,
+      "rd": 30.76,
+      "ratingClass": "B",
+      "homeLocation": "Pro Re Nata Brewpub & Music Hall",
+      "homeLocationId": "13106",
+      "percentile": 69.78618344435645,
+      "changeDisplay": "+17.4",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m18681",
+      "name": "Carlton Mabe",
+      "rating": 1555.42,
+      "rd": 27.79,
+      "ratingClass": "B",
+      "homeLocation": "Roanoke Pinball Museum",
+      "homeLocationId": "11650",
+      "percentile": 68.7986211394233,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m52425",
+      "name": "Steve Percosky",
+      "rating": 1536.45,
+      "rd": 29.37,
+      "ratingClass": "B",
+      "homeLocation": "Pro Re Nata Brewpub & Music Hall",
+      "homeLocationId": "13106",
+      "percentile": 61.648111054176184,
+      "changeDisplay": "-8.2",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m51788",
+      "name": "Jeffrey Green",
+      "rating": 1536.2,
+      "rd": 49.59,
+      "ratingClass": "B",
+      "homeLocation": "Jeff's House",
+      "homeLocationId": "13467",
+      "percentile": 61.526994922439094,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m6266",
+      "name": "Ryan Shapiro",
+      "rating": 1530.84,
+      "rd": 29.26,
+      "ratingClass": "B",
+      "homeLocation": "Richmond Pinball Collective",
+      "homeLocationId": "7953",
+      "percentile": 59.379512740485396,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m60549",
+      "name": "Jennifer Seven",
+      "rating": 1506.69,
+      "rd": 56.58,
+      "ratingClass": "B",
+      "homeLocation": "Jeff's House",
+      "homeLocationId": "13467",
+      "percentile": 49.86723808636512,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m5624",
+      "name": "Jessy Kennedy",
+      "rating": 1489.15,
+      "rd": 32.4,
+      "ratingClass": "C",
+      "homeLocation": "UPSIDE on Moore",
+      "homeLocationId": "11466",
+      "percentile": 42.65151162249033,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m61495",
+      "name": "Erin Dickerson",
+      "rating": 1487.87,
+      "rd": 46.8,
+      "ratingClass": "C",
+      "homeLocation": "Decades Arcade",
+      "homeLocationId": "11175",
+      "percentile": 42.097172404155216,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m59577",
+      "name": "Doug Lucy",
+      "rating": 1474.15,
+      "rd": 37.43,
+      "ratingClass": "C",
+      "homeLocation": "Pro Re Nata Brewpub & Music Hall",
+      "homeLocationId": "13106",
+      "percentile": 36.544463595285784,
+      "changeDisplay": "-10.2",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m42059",
+      "name": "Jeannie Boatwright",
+      "rating": 1461.22,
+      "rd": 30.8,
+      "ratingClass": "C",
+      "homeLocation": "Pro Re Nata Brewpub & Music Hall",
+      "homeLocationId": "13106",
+      "percentile": 31.420319560255276,
+      "changeDisplay": "-0.0",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "i138819",
+      "name": "Nora Lopez",
+      "rating": 1419.43,
+      "rd": 30.29,
+      "ratingClass": "C",
+      "homeLocation": "Pro Re Nata Brewpub & Music Hall",
+      "homeLocationId": "13106",
+      "percentile": 17.468672846694925,
+      "changeDisplay": "+11.7",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m60725",
+      "name": "Ryan Shobe",
+      "rating": 1414.07,
+      "rd": 41.34,
+      "ratingClass": "C",
+      "homeLocation": "Pro Re Nata Brewpub & Music Hall",
+      "homeLocationId": "13106",
+      "percentile": 16.173661899659944,
+      "changeDisplay": "+6.7",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m53977",
+      "name": "Hudson Leggett",
+      "rating": 1388.29,
+      "rd": 37.12,
+      "ratingClass": "D",
+      "homeLocation": "The Maroon Door",
+      "homeLocationId": "12292",
+      "percentile": 9.898914613127126,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m61094",
+      "name": "Danica McGeehan",
+      "rating": null,
+      "rd": null,
+      "ratingClass": "N/A",
+      "homeLocation": "Jeff's House",
+      "homeLocationId": "13467",
+      "percentile": null,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m31199",
+      "name": "Dave George",
+      "rating": null,
+      "rd": null,
+      "ratingClass": "N/A",
+      "homeLocation": "Jeff's House",
+      "homeLocationId": "13467",
+      "percentile": null,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

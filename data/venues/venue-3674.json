@@ -1,0 +1,431 @@
+{
+  "locationId": "3674",
+  "name": "Up-Down Milwaukee",
+  "address": "615 E Brady St, Milwaukee, WI 53202, USA",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 30,
+  "relatedVenues": [
+    {
+      "locationId": "8494",
+      "name": "Vegga's Pub",
+      "address": "2479 North Fratney Street, Milwaukee, WI 53212, US",
+      "count": 24
+    },
+    {
+      "locationId": "3132",
+      "name": "Blackbird Bar",
+      "address": "3007 South Kinnickinnic Ave, Milwaukee, WI, 53207, US",
+      "count": 17
+    },
+    {
+      "locationId": "4804",
+      "name": "District 82 Pinball",
+      "address": "800 O Keefe Rd, De Pere, WI 54115, USA",
+      "count": 11
+    },
+    {
+      "locationId": "12057",
+      "name": "Pinball Capital at Whitewater Cinemas",
+      "address": "151 East Pearson Ln, Whitewater, WI 53190, US",
+      "count": 11
+    },
+    {
+      "locationId": "10170",
+      "name": "The Kickback",
+      "address": "7622 Lisa Lane, Middleton WI 53562",
+      "count": 5
+    },
+    {
+      "locationId": "1552",
+      "name": "Fred's place",
+      "address": "",
+      "count": 3
+    },
+    {
+      "locationId": "8498",
+      "name": "Jay's Silver Ballroom",
+      "address": "10161 Blue Spruce Dr. Peosta, IA 52068",
+      "count": 2
+    },
+    {
+      "locationId": "5828",
+      "name": "Dan's place",
+      "address": "",
+      "count": 1
+    },
+    {
+      "locationId": "8271",
+      "name": "Rezzanine Esports",
+      "address": "1025 Washington Pike, Bridgeville, PA 15017, US",
+      "count": 1
+    },
+    {
+      "locationId": "11295",
+      "name": "Kristof's Entertainment Center",
+      "address": "421 West Rollins Road, Round Lake Beach, IL 60073, US",
+      "count": 1
+    }
+  ],
+  "players": [
+    {
+      "id": "m11939",
+      "name": "Michael Ritter",
+      "rating": 1691.41,
+      "rd": 23.94,
+      "ratingClass": "A",
+      "homeLocation": "Up-Down Milwaukee",
+      "homeLocationId": "3674",
+      "percentile": 96.00782596543532,
+      "changeDisplay": "-3.5",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "i126879",
+      "name": "Gavin Zold",
+      "rating": 1646.67,
+      "rd": 31.84,
+      "ratingClass": "A",
+      "homeLocation": "Up-Down Milwaukee",
+      "homeLocationId": "3674",
+      "percentile": 91.29361345320724,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m22019",
+      "name": "Dori Zielinski",
+      "rating": 1635.57,
+      "rd": 17.6,
+      "ratingClass": "A",
+      "homeLocation": "Up-Down Milwaukee",
+      "homeLocationId": "3674",
+      "percentile": 89.57469604509247,
+      "changeDisplay": "-2.8",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m11903",
+      "name": "Dave Brennan",
+      "rating": 1617.57,
+      "rd": 27.68,
+      "ratingClass": "A",
+      "homeLocation": "Up-Down Milwaukee",
+      "homeLocationId": "3674",
+      "percentile": 86.15549447989937,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m27113",
+      "name": "Paul Regner",
+      "rating": 1616.61,
+      "rd": 22.2,
+      "ratingClass": "A",
+      "homeLocation": "Up-Down Milwaukee",
+      "homeLocationId": "3674",
+      "percentile": 85.90860390366609,
+      "changeDisplay": "+6.8",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m15139",
+      "name": "Todd Miller",
+      "rating": 1597.45,
+      "rd": 19.92,
+      "ratingClass": "B",
+      "homeLocation": "Up-Down Milwaukee",
+      "homeLocationId": "3674",
+      "percentile": 81.36674896352541,
+      "changeDisplay": "-6.2",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m12389",
+      "name": "Ben Dvorachek",
+      "rating": 1570.66,
+      "rd": 28.5,
+      "ratingClass": "B",
+      "homeLocation": "Up-Down Milwaukee",
+      "homeLocationId": "3674",
+      "percentile": 73.75040760236642,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i60868",
+      "name": "Chad Adams$$",
+      "rating": 1557.93,
+      "rd": 29.94,
+      "ratingClass": "B",
+      "homeLocation": "Up-Down Milwaukee",
+      "homeLocationId": "3674",
+      "percentile": 69.70233381469232,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m18575",
+      "name": "Ryan Shaw",
+      "rating": 1556.19,
+      "rd": 27.52,
+      "ratingClass": "B",
+      "homeLocation": "Up-Down Milwaukee",
+      "homeLocationId": "3674",
+      "percentile": 69.08277821772954,
+      "changeDisplay": "-5.6",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m12628",
+      "name": "Darrell Van Landuyt",
+      "rating": 1553.83,
+      "rd": 21.24,
+      "ratingClass": "B",
+      "homeLocation": "Up-Down Milwaukee",
+      "homeLocationId": "3674",
+      "percentile": 68.28620673592025,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m37567",
+      "name": "Mick Wynhoff",
+      "rating": 1552.67,
+      "rd": 24.22,
+      "ratingClass": "B",
+      "homeLocation": "Up-Down Milwaukee",
+      "homeLocationId": "3674",
+      "percentile": 67.71789257930777,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m49637",
+      "name": "Josh Mundt",
+      "rating": 1551.15,
+      "rd": 33.11,
+      "ratingClass": "B",
+      "homeLocation": "Up-Down Milwaukee",
+      "homeLocationId": "3674",
+      "percentile": 67.15889504821354,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m20999",
+      "name": "Pat Ritter",
+      "rating": 1546.7,
+      "rd": 22.08,
+      "ratingClass": "B",
+      "homeLocation": "Up-Down Milwaukee",
+      "homeLocationId": "3674",
+      "percentile": 65.4725858294126,
+      "changeDisplay": "+12.5",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m38203",
+      "name": "Daniel Hammer",
+      "rating": 1535.55,
+      "rd": 23.77,
+      "ratingClass": "B",
+      "homeLocation": "Up-Down Milwaukee",
+      "homeLocationId": "3674",
+      "percentile": 61.224204593096374,
+      "changeDisplay": "-10.5",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "i21152",
+      "name": "Christine Olsen",
+      "rating": 1520.2,
+      "rd": 39.34,
+      "ratingClass": "B",
+      "homeLocation": "Up-Down Milwaukee",
+      "homeLocationId": "3674",
+      "percentile": 55.25224763590627,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m38923",
+      "name": "Ben Giovingo",
+      "rating": 1514.97,
+      "rd": 29.12,
+      "ratingClass": "B",
+      "homeLocation": "Up-Down Milwaukee",
+      "homeLocationId": "3674",
+      "percentile": 53.18861508361672,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m52827",
+      "name": "Mitch Lovance",
+      "rating": 1510.97,
+      "rd": 20.72,
+      "ratingClass": "B",
+      "homeLocation": "Up-Down Milwaukee",
+      "homeLocationId": "3674",
+      "percentile": 51.62808030931196,
+      "changeDisplay": "+2.5",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m45844",
+      "name": "Scott Glatzel",
+      "rating": 1507.28,
+      "rd": 22.53,
+      "ratingClass": "B",
+      "homeLocation": "Up-Down Milwaukee",
+      "homeLocationId": "3674",
+      "percentile": 50.09083709880281,
+      "changeDisplay": "-0.2",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m23214",
+      "name": "Erasmus Zacharias",
+      "rating": 1504.93,
+      "rd": 19.59,
+      "ratingClass": "B",
+      "homeLocation": "Up-Down Milwaukee",
+      "homeLocationId": "3674",
+      "percentile": 49.261657427679694,
+      "changeDisplay": "+4.3",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m47755",
+      "name": "Jeff Frazak",
+      "rating": 1499.03,
+      "rd": 22.24,
+      "ratingClass": "C",
+      "homeLocation": "Up-Down Milwaukee",
+      "homeLocationId": "3674",
+      "percentile": 46.69958541016444,
+      "changeDisplay": "-6.3",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m24085",
+      "name": "Nathan Eccles",
+      "rating": 1497.14,
+      "rd": 39.12,
+      "ratingClass": "C",
+      "homeLocation": "District 82 Pinball",
+      "homeLocationId": "4804",
+      "percentile": 45.940280430428096,
+      "changeDisplay": "-17.8",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m58022",
+      "name": "Jdmunny",
+      "rating": 1496.42,
+      "rd": 41.41,
+      "ratingClass": "C",
+      "homeLocation": "Up-Down Milwaukee",
+      "homeLocationId": "3674",
+      "percentile": 45.62351516280803,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m26462",
+      "name": "Matt Koster",
+      "rating": 1489.15,
+      "rd": 21.38,
+      "ratingClass": "C",
+      "homeLocation": "Up-Down Milwaukee",
+      "homeLocationId": "3674",
+      "percentile": 42.66548656076769,
+      "changeDisplay": "-2.7",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m35124",
+      "name": "Randy Cochran",
+      "rating": 1484.13,
+      "rd": 25.24,
+      "ratingClass": "C",
+      "homeLocation": "Up-Down Milwaukee",
+      "homeLocationId": "3674",
+      "percentile": 40.57390413192341,
+      "changeDisplay": "+5.3",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m38206",
+      "name": "Cherise Hart",
+      "rating": 1455.79,
+      "rd": 24.81,
+      "ratingClass": "C",
+      "homeLocation": "Up-Down Milwaukee",
+      "homeLocationId": "3674",
+      "percentile": 29.361345320724837,
+      "changeDisplay": "+17.8",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "i29127",
+      "name": "Billy Ray Olsen",
+      "rating": 1446.28,
+      "rd": 44.91,
+      "ratingClass": "C",
+      "homeLocation": "Up-Down Milwaukee",
+      "homeLocationId": "3674",
+      "percentile": 25.844319187590255,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m36201",
+      "name": "Kay Mann",
+      "rating": 1443.16,
+      "rd": 34.18,
+      "ratingClass": "C",
+      "homeLocation": "Up-Down Milwaukee",
+      "homeLocationId": "3674",
+      "percentile": 24.819490380584153,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m38386",
+      "name": "Cory Forbes",
+      "rating": 1420.1,
+      "rd": 26.93,
+      "ratingClass": "C",
+      "homeLocation": "Up-Down Milwaukee",
+      "homeLocationId": "3674",
+      "percentile": 17.645688731541437,
+      "changeDisplay": "+8.3",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "i109226",
+      "name": "David Funk",
+      "rating": 1332.16,
+      "rd": 45.12,
+      "ratingClass": "D",
+      "homeLocation": "Up-Down Milwaukee",
+      "homeLocationId": "3674",
+      "percentile": 2.6272883961429168,
+      "changeDisplay": "-61.0",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "i153026",
+      "name": "Scott Cashion",
+      "rating": null,
+      "rd": null,
+      "ratingClass": "N/A",
+      "homeLocation": "Pinball Capital at Whitewater Cinemas",
+      "homeLocationId": "12057",
+      "percentile": null,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

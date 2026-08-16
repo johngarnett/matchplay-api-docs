@@ -1,0 +1,443 @@
+{
+  "locationId": "11246",
+  "name": "The Back Page",
+  "address": "199 Phibsborough Rd, Phibsborough, D07 A0X2, IE",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 31,
+  "relatedVenues": [
+    {
+      "locationId": "9654",
+      "name": "Fibber Magees",
+      "address": "80/81 Parnell St, Dublin, D01 CK74, IE",
+      "count": 38
+    },
+    {
+      "locationId": "13643",
+      "name": "Token",
+      "address": "Custom House Square, Unit 4 Mayor Street Lower, North Wall, Dublin, Co. Dublin D01 DE47, IE",
+      "count": 30
+    },
+    {
+      "locationId": "7953",
+      "name": "Richmond Pinball Collective",
+      "address": "9550 Midlothian Turnpike, Unit 112, Midlothian, VA 23235, US",
+      "count": 11
+    },
+    {
+      "locationId": "1451",
+      "name": "Wizard's World",
+      "address": "14613 Lima Rd, Fort Wayne, IN 46818, USA",
+      "count": 9
+    },
+    {
+      "locationId": "11970",
+      "name": "Richmond Pinball Collective",
+      "address": "9550 Midlothian Tpke #106, Richmond, VA 23235",
+      "count": 7
+    },
+    {
+      "locationId": "5771",
+      "name": "The Pinvault",
+      "address": "1043 Virginia Ave, Indianapolis, IN 46203, USA",
+      "count": 4
+    },
+    {
+      "locationId": "9741",
+      "name": "Recbar",
+      "address": "10301 Taylorsville Road, Louisville, KY 40299, US",
+      "count": 2
+    },
+    {
+      "locationId": "11772",
+      "name": "Chris Seaver's House",
+      "address": "1550 Hollow Log Dr, Powhatan, VA 23139",
+      "count": 2
+    },
+    {
+      "locationId": "11774",
+      "name": "Jim's House",
+      "address": "1506 Hearthglow Ln, Henrico VA, 23238",
+      "count": 2
+    },
+    {
+      "locationId": "11813",
+      "name": "Mountaineer Meat Smokers",
+      "address": "45 Monroe St, Martinsburg, WV 25404, US",
+      "count": 2
+    }
+  ],
+  "players": [
+    {
+      "id": "m9817",
+      "name": "Alex Sperellis",
+      "rating": 1743.16,
+      "rd": 20.65,
+      "ratingClass": "Expert",
+      "homeLocation": "The Back Page",
+      "homeLocationId": "11246",
+      "percentile": 98.53728979363675,
+      "changeDisplay": "+8.5",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m29875",
+      "name": "Brian O'Rourke",
+      "rating": 1685.49,
+      "rd": 25.3,
+      "ratingClass": "A",
+      "homeLocation": "The Back Page",
+      "homeLocationId": "11246",
+      "percentile": 95.56528625331904,
+      "changeDisplay": "+6.0",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m2886",
+      "name": "Robert Peters",
+      "rating": 1674.26,
+      "rd": 18.05,
+      "ratingClass": "A",
+      "homeLocation": "Richmond Pinball Collective",
+      "homeLocationId": "7953",
+      "percentile": 94.53114082079472,
+      "changeDisplay": "+12.8",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m30115",
+      "name": "Graeme Burchael",
+      "rating": 1673.19,
+      "rd": 25.45,
+      "ratingClass": "A",
+      "homeLocation": "The Back Page",
+      "homeLocationId": "11246",
+      "percentile": 94.42399962733498,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m13426",
+      "name": "Jack Waycik",
+      "rating": 1620.55,
+      "rd": 20.43,
+      "ratingClass": "A",
+      "homeLocation": "The Back Page",
+      "homeLocationId": "11246",
+      "percentile": 86.72846694927098,
+      "changeDisplay": "+3.2",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "i75935",
+      "name": "Graeme Pollard",
+      "rating": 1571.63,
+      "rd": 26.68,
+      "ratingClass": "B",
+      "homeLocation": "The Back Page",
+      "homeLocationId": "11246",
+      "percentile": 74.0205897423953,
+      "changeDisplay": "-8.4",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m34029",
+      "name": "Adam Kenny",
+      "rating": 1570.71,
+      "rd": 27.79,
+      "ratingClass": "B",
+      "homeLocation": "The Back Page",
+      "homeLocationId": "11246",
+      "percentile": 73.75972422788466,
+      "changeDisplay": "+7.5",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m10064",
+      "name": "Preston Surdo",
+      "rating": 1561.06,
+      "rd": 17.87,
+      "ratingClass": "B",
+      "homeLocation": "Wizard's World",
+      "homeLocationId": "1451",
+      "percentile": 70.66194624307076,
+      "changeDisplay": "+5.9",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m42269",
+      "name": "George Rusu",
+      "rating": 1546.91,
+      "rd": 23.16,
+      "ratingClass": "B",
+      "homeLocation": "The Back Page",
+      "homeLocationId": "11246",
+      "percentile": 65.53780220804025,
+      "changeDisplay": "+5.3",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m29502",
+      "name": "Donovan Delaney",
+      "rating": 1539.23,
+      "rd": 28.31,
+      "ratingClass": "B",
+      "homeLocation": "Fibber Magees",
+      "homeLocationId": "9654",
+      "percentile": 62.831322494992314,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i162212",
+      "name": "Emmet O'Neill",
+      "rating": 1531.79,
+      "rd": 35.13,
+      "ratingClass": "B",
+      "homeLocation": "Token",
+      "homeLocationId": "13643",
+      "percentile": 59.77546932501048,
+      "changeDisplay": "+10.4",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m39688",
+      "name": "Stephen Boland",
+      "rating": 1520.29,
+      "rd": 27.4,
+      "ratingClass": "B",
+      "homeLocation": "The Back Page",
+      "homeLocationId": "11246",
+      "percentile": 55.289514137979225,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i162702",
+      "name": "Art Corcoran",
+      "rating": 1509.41,
+      "rd": 58.75,
+      "ratingClass": "B",
+      "homeLocation": "The Back Page",
+      "homeLocationId": "11246",
+      "percentile": 50.99920808683095,
+      "changeDisplay": "★",
+      "changeClass": "change-new"
+    },
+    {
+      "id": "m59646",
+      "name": "Mick Colgan",
+      "rating": 1505.88,
+      "rd": 36.11,
+      "ratingClass": "B",
+      "homeLocation": "Token",
+      "homeLocationId": "13643",
+      "percentile": 49.60171425909535,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m51332",
+      "name": "Rachel Kenna",
+      "rating": 1486.89,
+      "rd": 23.95,
+      "ratingClass": "C",
+      "homeLocation": "The Back Page",
+      "homeLocationId": "11246",
+      "percentile": 41.673265943075414,
+      "changeDisplay": "-4.9",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "i162700",
+      "name": "Ryan Doheny",
+      "rating": 1484.32,
+      "rd": 62.3,
+      "ratingClass": "C",
+      "homeLocation": "The Back Page",
+      "homeLocationId": "11246",
+      "percentile": 40.62514557227372,
+      "changeDisplay": "★",
+      "changeClass": "change-new"
+    },
+    {
+      "id": "m44819",
+      "name": "Jed Callaghan",
+      "rating": 1478.1,
+      "rd": 28.29,
+      "ratingClass": "C",
+      "homeLocation": "The Back Page",
+      "homeLocationId": "11246",
+      "percentile": 38.12363162062701,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m45344",
+      "name": "Adam Jensen",
+      "rating": 1472.6,
+      "rd": 28.61,
+      "ratingClass": "C",
+      "homeLocation": "Fibber Magees",
+      "homeLocationId": "9654",
+      "percentile": 35.90161643452742,
+      "changeDisplay": "-5.8",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "i69353",
+      "name": "Tom Sperellis",
+      "rating": 1461.21,
+      "rd": 67.51,
+      "ratingClass": "C",
+      "homeLocation": "The Back Page",
+      "homeLocationId": "11246",
+      "percentile": 31.411002934737038,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m30113",
+      "name": "Aisling Bonner",
+      "rating": 1450.15,
+      "rd": 28.12,
+      "ratingClass": "C",
+      "homeLocation": "The Back Page",
+      "homeLocationId": "11246",
+      "percentile": 27.20920482601202,
+      "changeDisplay": "+1.0",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m30114",
+      "name": "Lorcan Bonner",
+      "rating": 1440.83,
+      "rd": 29.32,
+      "ratingClass": "C",
+      "homeLocation": "The Back Page",
+      "homeLocationId": "11246",
+      "percentile": 23.985652396701916,
+      "changeDisplay": "-2.3",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m46503",
+      "name": "Frances Johnston",
+      "rating": 1398.06,
+      "rd": 38.15,
+      "ratingClass": "D",
+      "homeLocation": "The Back Page",
+      "homeLocationId": "11246",
+      "percentile": 12.01844691852611,
+      "changeDisplay": "+43.7",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "i159828",
+      "name": "Alexandru Crisan",
+      "rating": 1395.87,
+      "rd": 61.02,
+      "ratingClass": "D",
+      "homeLocation": "The Back Page",
+      "homeLocationId": "11246",
+      "percentile": 11.496715889504822,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m30148",
+      "name": "Thea Ibba",
+      "rating": 1387.91,
+      "rd": 37.53,
+      "ratingClass": "D",
+      "homeLocation": "The Back Page",
+      "homeLocationId": "11246",
+      "percentile": 9.866306423813295,
+      "changeDisplay": "-15.6",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "i157173",
+      "name": "Dave Tinneny",
+      "rating": 1387,
+      "rd": 46.22,
+      "ratingClass": "D",
+      "homeLocation": "The Back Page",
+      "homeLocationId": "11246",
+      "percentile": 9.693948851725905,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i139114",
+      "name": "Keith Kavanagh",
+      "rating": 1385.49,
+      "rd": 52.99,
+      "ratingClass": "D",
+      "homeLocation": "The Back Page",
+      "homeLocationId": "11246",
+      "percentile": 9.419108398937905,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m52062",
+      "name": "Evan Cryan",
+      "rating": 1383.24,
+      "rd": 33.26,
+      "ratingClass": "D",
+      "homeLocation": "The Back Page",
+      "homeLocationId": "11246",
+      "percentile": 8.906693995434853,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i135509",
+      "name": "Ryan Baker",
+      "rating": 1381.62,
+      "rd": 69.31,
+      "ratingClass": "D",
+      "homeLocation": "The Back Page",
+      "homeLocationId": "11246",
+      "percentile": 8.589928727814785,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m32105",
+      "name": "Orla Keogh",
+      "rating": 1366.73,
+      "rd": 45.13,
+      "ratingClass": "D",
+      "homeLocation": "The Back Page",
+      "homeLocationId": "11246",
+      "percentile": 6.26543066101458,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i145779",
+      "name": "Rachel Skelly",
+      "rating": 1357.39,
+      "rd": 48.98,
+      "ratingClass": "D",
+      "homeLocation": "The Back Page",
+      "homeLocationId": "11246",
+      "percentile": 5.072902594680207,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i162208",
+      "name": "Lorna BASSIS",
+      "rating": null,
+      "rd": null,
+      "ratingClass": "N/A",
+      "homeLocation": "The Back Page",
+      "homeLocationId": "11246",
+      "percentile": null,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

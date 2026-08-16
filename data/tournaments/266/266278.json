@@ -1,0 +1,39 @@
+{
+  "tournamentId": 266278,
+  "name": "Finals for Slingshot Monthly Tournament August 2026",
+  "date": "2026-08-10",
+  "locationId": "11872",
+  "locationName": "Slingshot Pinball",
+  "playerCount": 4,
+  "ratingsDate": "2026-08-10",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m35145",
+      "name": "Edgar Flores",
+      "rating": 1687.91,
+      "dailyRatingChange": 3
+    },
+    {
+      "position": 2,
+      "playerId": "m17857",
+      "name": "Matt Delsman",
+      "rating": 1642.95,
+      "dailyRatingChange": 1.09
+    },
+    {
+      "position": 3,
+      "playerId": "i140522",
+      "name": "Goran Loncar",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 4,
+      "playerId": "m47522",
+      "name": "Pierre Tschaeppaet",
+      "rating": 1621.17,
+      "dailyRatingChange": -6.37
+    }
+  ]
+}

@@ -1,0 +1,311 @@
+{
+  "locationId": "13227",
+  "name": "Dumb Records",
+  "address": "418 East Monroe St, Springfield, IL 62701, US",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 20,
+  "relatedVenues": [
+    {
+      "locationId": "12479",
+      "name": "PRPHQ",
+      "address": "Bloomington, IL",
+      "count": 104
+    },
+    {
+      "locationId": "13342",
+      "name": "8 Bit Arcade Bar",
+      "address": "217 W Jefferson St, Bloomington, IL 61701, US",
+      "count": 19
+    },
+    {
+      "locationId": "12612",
+      "name": "Pour Bros Bloomington",
+      "address": "",
+      "count": 15
+    },
+    {
+      "locationId": "8541",
+      "name": "Atomic Pinball",
+      "address": "102 N Whitelaw Ave, Wood River, IL 62095, US",
+      "count": 11
+    },
+    {
+      "locationId": "8431",
+      "name": "Triptych Brewing",
+      "address": "1703 Woodfield Dr, Savoy, IL 61874, US",
+      "count": 6
+    },
+    {
+      "locationId": "5770",
+      "name": "ORD",
+      "address": "",
+      "count": 4
+    },
+    {
+      "locationId": "12500",
+      "name": "Pour Bros. Craft Taproom",
+      "address": "236 E Front St, Bloomington, IL 61701, US",
+      "count": 3
+    },
+    {
+      "locationId": "8555",
+      "name": "Past Times Arcade",
+      "address": "419 N State St, Girard, OH, 44420, US",
+      "count": 2
+    },
+    {
+      "locationId": "11533",
+      "name": "Bradley Billiards Club",
+      "address": "359 S Kinzie Ave, Bradley, IL 60915, US",
+      "count": 2
+    },
+    {
+      "locationId": "9586",
+      "name": "Cool Dogs Sports Pub",
+      "address": "3025 E Desert Inn Rd, Las Vegas, NV 89121",
+      "count": 1
+    }
+  ],
+  "players": [
+    {
+      "id": "m46473",
+      "name": "Kevin Johnson IL",
+      "rating": 1651.83,
+      "rd": 17.68,
+      "ratingClass": "A",
+      "homeLocation": "PRPHQ",
+      "homeLocationId": "12479",
+      "percentile": 91.96441049052034,
+      "changeDisplay": "+7.0",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m23014",
+      "name": "Darrin Bosco",
+      "rating": 1620.86,
+      "rd": 27.47,
+      "ratingClass": "A",
+      "homeLocation": "Atomic Pinball",
+      "homeLocationId": "8541",
+      "percentile": 86.81697489169423,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m17210",
+      "name": "Brian Galecki",
+      "rating": 1600.9,
+      "rd": 38.92,
+      "ratingClass": "A",
+      "homeLocation": "PRPHQ",
+      "homeLocationId": "12479",
+      "percentile": 82.2378534494806,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i28766",
+      "name": "Steven Lucas",
+      "rating": 1597.58,
+      "rd": 45.73,
+      "ratingClass": "B",
+      "homeLocation": "Dumb Records",
+      "homeLocationId": "13227",
+      "percentile": 81.39935715283924,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m40545",
+      "name": "Mike Felumlee",
+      "rating": 1590.06,
+      "rd": 17.77,
+      "ratingClass": "B",
+      "homeLocation": "PRPHQ",
+      "homeLocationId": "12479",
+      "percentile": 79.47547398332324,
+      "changeDisplay": "+7.6",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m40900",
+      "name": "Chris O'Brien IL",
+      "rating": 1571.26,
+      "rd": 17.56,
+      "ratingClass": "B",
+      "homeLocation": "PRPHQ",
+      "homeLocationId": "12479",
+      "percentile": 73.92742348721293,
+      "changeDisplay": "-7.8",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m40044",
+      "name": "Stephanie Wysocki",
+      "rating": 1560.42,
+      "rd": 18.82,
+      "ratingClass": "B",
+      "homeLocation": "PRPHQ",
+      "homeLocationId": "12479",
+      "percentile": 70.41505566683746,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m58018",
+      "name": "Jeff Black",
+      "rating": 1559.43,
+      "rd": 34.84,
+      "ratingClass": "B",
+      "homeLocation": "Dumb Records",
+      "homeLocationId": "13227",
+      "percentile": 70.16350677784506,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i127291",
+      "name": "Terry Goforth",
+      "rating": 1548.3,
+      "rd": 35.97,
+      "ratingClass": "B",
+      "homeLocation": "PRPHQ",
+      "homeLocationId": "12479",
+      "percentile": 66.10611636465272,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m38118",
+      "name": "James Darr",
+      "rating": 1542.7,
+      "rd": 25.82,
+      "ratingClass": "B",
+      "homeLocation": "Dumb Records",
+      "homeLocationId": "13227",
+      "percentile": 64.14030838030466,
+      "changeDisplay": "-9.8",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m58755",
+      "name": "Donald Huckstep",
+      "rating": 1529.16,
+      "rd": 47.95,
+      "ratingClass": "B",
+      "homeLocation": "Dumb Records",
+      "homeLocationId": "13227",
+      "percentile": 58.722690641449674,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i110950",
+      "name": "Jack Paciolla",
+      "rating": 1509.7,
+      "rd": 62.25,
+      "ratingClass": "B",
+      "homeLocation": "Dumb Records",
+      "homeLocationId": "13227",
+      "percentile": 51.129640844086275,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i159658",
+      "name": "Matthew Welchel",
+      "rating": 1497.97,
+      "rd": 45.67,
+      "ratingClass": "C",
+      "homeLocation": "Dumb Records",
+      "homeLocationId": "13227",
+      "percentile": 46.30828713839848,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m44385",
+      "name": "Kat Davis",
+      "rating": 1493.85,
+      "rd": 15.96,
+      "ratingClass": "C",
+      "homeLocation": "PRPHQ",
+      "homeLocationId": "12479",
+      "percentile": 44.68253598546607,
+      "changeDisplay": "-6.2",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m60174",
+      "name": "Don Huckstep",
+      "rating": 1487.96,
+      "rd": 61.44,
+      "ratingClass": "C",
+      "homeLocation": "Dumb Records",
+      "homeLocationId": "13227",
+      "percentile": 42.14841384450552,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m57674",
+      "name": "David Williams MO",
+      "rating": 1476.01,
+      "rd": 33.75,
+      "ratingClass": "C",
+      "homeLocation": "Dumb Records",
+      "homeLocationId": "13227",
+      "percentile": 37.25252713467182,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i109794",
+      "name": "Ben Roth",
+      "rating": 1454.16,
+      "rd": 44.55,
+      "ratingClass": "C",
+      "homeLocation": "Dumb Records",
+      "homeLocationId": "13227",
+      "percentile": 28.71383984720734,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i112633",
+      "name": "Calvin O'brien",
+      "rating": 1403.82,
+      "rd": 44.46,
+      "ratingClass": "C",
+      "homeLocation": "Dumb Records",
+      "homeLocationId": "13227",
+      "percentile": 13.471840499371126,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m54741",
+      "name": "Tara Overby",
+      "rating": 1399.73,
+      "rd": 34.71,
+      "ratingClass": "D",
+      "homeLocation": "Atomic Pinball",
+      "homeLocationId": "8541",
+      "percentile": 12.447011692365026,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i122305",
+      "name": "Eastie O'Brien",
+      "rating": 1319.5,
+      "rd": 46.2,
+      "ratingClass": "D",
+      "homeLocation": "Dumb Records",
+      "homeLocationId": "13227",
+      "percentile": 1.8027670377789164,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

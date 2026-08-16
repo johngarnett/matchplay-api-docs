@@ -1,0 +1,95 @@
+{
+  "tournamentId": 254250,
+  "name": "Fizzy’s SOL Season 3 #6",
+  "date": "2026-08-08",
+  "locationId": "11012",
+  "locationName": "Fizzy's Arcade",
+  "playerCount": 12,
+  "ratingsDate": "2026-08-08",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m45754",
+      "name": "Bret Anderson",
+      "rating": 1606.77,
+      "dailyRatingChange": 10.42
+    },
+    {
+      "position": 2,
+      "playerId": "m59486",
+      "name": "Chris Schrope",
+      "rating": 1643.26,
+      "dailyRatingChange": 4.02
+    },
+    {
+      "position": 3,
+      "playerId": "i142926",
+      "name": "Sean Baumgartner",
+      "rating": 1570.42,
+      "dailyRatingChange": 8.03
+    },
+    {
+      "position": 4,
+      "playerId": "i144949",
+      "name": "James Lawson",
+      "rating": 1562.34,
+      "dailyRatingChange": 12.08
+    },
+    {
+      "position": 4,
+      "playerId": "m465835",
+      "name": "Bill Dalton",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 6,
+      "playerId": "m532305",
+      "name": "Kurtis Saar",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 6,
+      "playerId": "m564983",
+      "name": "Austin Hackenberg",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 6,
+      "playerId": "i142927",
+      "name": "Deanna Schrope",
+      "rating": 1493.78,
+      "dailyRatingChange": -2.16
+    },
+    {
+      "position": 9,
+      "playerId": "i131480",
+      "name": "Liam Dalton",
+      "rating": 1504.27,
+      "dailyRatingChange": -12
+    },
+    {
+      "position": 10,
+      "playerId": "m545480",
+      "name": "Jim Shields",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 10,
+      "playerId": "m569120",
+      "name": "Morgan Reibsome",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 12,
+      "playerId": "i142920",
+      "name": "Mark Patrick",
+      "rating": 1467.06,
+      "dailyRatingChange": -19.63
+    }
+  ]
+}

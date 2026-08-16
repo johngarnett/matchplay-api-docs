@@ -1,0 +1,67 @@
+{
+  "tournamentId": 264278,
+  "name": "Finals for Stern Army Tuesday 28 juli 2026",
+  "date": "2026-07-28",
+  "locationId": "6091",
+  "locationName": "Uncle Sam's Pinball",
+  "playerCount": 8,
+  "ratingsDate": "2026-07-28",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m22067",
+      "name": "Edvard Kummel",
+      "rating": 1648.92,
+      "dailyRatingChange": 4.43
+    },
+    {
+      "position": 2,
+      "playerId": "m50572",
+      "name": "Tomas Olsson TOM",
+      "rating": 1561.37,
+      "dailyRatingChange": 1.42
+    },
+    {
+      "position": 3,
+      "playerId": "m6134",
+      "name": "Thomas Näslund",
+      "rating": 1650.33,
+      "dailyRatingChange": 0.35
+    },
+    {
+      "position": 4,
+      "playerId": "m33926",
+      "name": "Erik Hallen",
+      "rating": 1559.73,
+      "dailyRatingChange": -1.41
+    },
+    {
+      "position": 5,
+      "playerId": "m7425",
+      "name": "Johnny Mårtensson",
+      "rating": 1708.73,
+      "dailyRatingChange": 0.18
+    },
+    {
+      "position": 6,
+      "playerId": "m15255",
+      "name": "Jonas Elofsson",
+      "rating": 1520.58,
+      "dailyRatingChange": 2.38
+    },
+    {
+      "position": 7,
+      "playerId": "m24530",
+      "name": "Martin von Svensson",
+      "rating": 1538.19,
+      "dailyRatingChange": -3.39
+    },
+    {
+      "position": 8,
+      "playerId": "m44350",
+      "name": "Adam Carlsson",
+      "rating": 1529.43,
+      "dailyRatingChange": -4.69
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "tournamentId": 265212,
+  "name": "The Ex-Mayors Inauguration Celebration",
+  "date": "2026-08-03",
+  "locationId": "13827",
+  "locationName": "LITT Pinball Bar",
+  "playerCount": 16,
+  "ratingsDate": "2026-08-03",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m18387",
+      "name": "Nick Brannan",
+      "rating": 1636.11,
+      "dailyRatingChange": 4.15
+    },
+    {
+      "position": 2,
+      "playerId": "m18307",
+      "name": "Mike Paul",
+      "rating": 1536.76,
+      "dailyRatingChange": 11.3
+    },
+    {
+      "position": 3,
+      "playerId": "m23697",
+      "name": "Jurgen Hagedorn",
+      "rating": 1472.29,
+      "dailyRatingChange": 6.13
+    },
+    {
+      "position": 3,
+      "playerId": "m584199",
+      "name": "Sam Schertner",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 5,
+      "playerId": "m18865",
+      "name": "Jim Hartley",
+      "rating": 1654.03,
+      "dailyRatingChange": -4.07
+    },
+    {
+      "position": 5,
+      "playerId": "m584200",
+      "name": "Adam Bratrud",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 5,
+      "playerId": "m58077",
+      "name": "Lisa McGrath",
+      "rating": 1614.33,
+      "dailyRatingChange": -0.26
+    },
+    {
+      "position": 8,
+      "playerId": "m15866",
+      "name": "Lenny Passofaro",
+      "rating": 1546.65,
+      "dailyRatingChange": 4.88
+    },
+    {
+      "position": 8,
+      "playerId": "m23049",
+      "name": "Mark Dalton",
+      "rating": 1462.77,
+      "dailyRatingChange": -2.49
+    },
+    {
+      "position": 8,
+      "playerId": "m1446",
+      "name": "Blake Pierce",
+      "rating": 1635.18,
+      "dailyRatingChange": -6.61
+    },
+    {
+      "position": 8,
+      "playerId": "m25054",
+      "name": "Kristin Lund",
+      "rating": 1403.16,
+      "dailyRatingChange": -1.35
+    },
+    {
+      "position": 8,
+      "playerId": "m42984",
+      "name": "Alix Nichols",
+      "rating": 1310.25,
+      "dailyRatingChange": 2.02
+    },
+    {
+      "position": 13,
+      "playerId": "m584187",
+      "name": "Holly Streekstra",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 13,
+      "playerId": "m584192",
+      "name": "Rachel Robles",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 13,
+      "playerId": "m18392",
+      "name": "Blaine Mattson",
+      "rating": 1462.24,
+      "dailyRatingChange": -23.49
+    },
+    {
+      "position": 13,
+      "playerId": "m22659",
+      "name": "Betsy Oconnor",
+      "rating": 1382.76,
+      "dailyRatingChange": -3.75
+    }
+  ]
+}

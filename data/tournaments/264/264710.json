@@ -1,0 +1,46 @@
+{
+  "tournamentId": 264710,
+  "name": "Finals for Friendship Matchplay @ GameCraft",
+  "date": "2026-07-31",
+  "locationId": "11631",
+  "locationName": "GameCraft Arcade",
+  "playerCount": 5,
+  "ratingsDate": "2026-07-31",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m41338",
+      "name": "Josh Felton",
+      "rating": 1746.97,
+      "dailyRatingChange": 4.64
+    },
+    {
+      "position": 2,
+      "playerId": "m48956",
+      "name": "Patrick Casey",
+      "rating": 1643.11,
+      "dailyRatingChange": 15.36
+    },
+    {
+      "position": 3,
+      "playerId": "m50002",
+      "name": "Daniel Cleary",
+      "rating": 1600.69,
+      "dailyRatingChange": 2.13
+    },
+    {
+      "position": 4,
+      "playerId": "m16563",
+      "name": "Brody Marion",
+      "rating": 1694.48,
+      "dailyRatingChange": 1.57
+    },
+    {
+      "position": 5,
+      "playerId": "m13850",
+      "name": "Ryan Belisle",
+      "rating": 1682.35,
+      "dailyRatingChange": 5.16
+    }
+  ]
+}

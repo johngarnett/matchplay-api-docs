@@ -1,0 +1,44 @@
+{
+  "locationId": "11892",
+  "venueName": "Locust Cider HarborCade",
+  "venueAddress": "3207 57th St Ct, Gig Harbor, WA 98335",
+  "tournaments": [
+    {
+      "id": 266992,
+      "name": "Finals for Harborcade Womxn’s Tournament August",
+      "date": "8/13/2026",
+      "playerCount": 6,
+      "qualifying": {
+        "id": 266980,
+        "name": "Harborcade Womxn’s Tournament August",
+        "playerCount": 6
+      },
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m25037",
+          "name": "Kathleen Rush",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "i57875",
+          "name": "Bon Bon",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m37896",
+          "name": "Lilly Brickner",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m20705",
+          "name": "Sarah Bay",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

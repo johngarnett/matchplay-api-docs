@@ -1,0 +1,102 @@
+{
+  "tournamentId": 265658,
+  "name": "Sparks Summer Belles Bash",
+  "date": "2026-08-09",
+  "locationId": "12444",
+  "locationName": "Sparks Pinball Museum & Arcade",
+  "playerCount": 13,
+  "ratingsDate": "2026-08-09",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m486439",
+      "name": "Julia Music",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 1,
+      "playerId": "m25658",
+      "name": "Jenica",
+      "rating": 1438.89,
+      "dailyRatingChange": 14.37
+    },
+    {
+      "position": 3,
+      "playerId": "m38710",
+      "name": "Kelley sheahan",
+      "rating": 1493.42,
+      "dailyRatingChange": 1.55
+    },
+    {
+      "position": 3,
+      "playerId": "m568492",
+      "name": "Traci Salo",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 5,
+      "playerId": "m32140",
+      "name": "Meredith Walton",
+      "rating": 1632.47,
+      "dailyRatingChange": -7.17
+    },
+    {
+      "position": 5,
+      "playerId": "m60336",
+      "name": "Shelby Atkin",
+      "rating": 1399.03,
+      "dailyRatingChange": 10.19
+    },
+    {
+      "position": 7,
+      "playerId": "m42845",
+      "name": "Kim Depuydt",
+      "rating": 1412.46,
+      "dailyRatingChange": 4.71
+    },
+    {
+      "position": 8,
+      "playerId": "m414048",
+      "name": "dyanna cogswell",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 8,
+      "playerId": "m12488",
+      "name": "Courtney McGee",
+      "rating": 1446.86,
+      "dailyRatingChange": -0.32
+    },
+    {
+      "position": 10,
+      "playerId": "m42398",
+      "name": "Holly Helterhoff",
+      "rating": 1501.82,
+      "dailyRatingChange": -7.86
+    },
+    {
+      "position": 11,
+      "playerId": "i72239",
+      "name": "Cassandra Madek",
+      "rating": 1464.8,
+      "dailyRatingChange": -21.52
+    },
+    {
+      "position": 12,
+      "playerId": "m585919",
+      "name": "Mosum Trivedi",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 13,
+      "playerId": "i137087",
+      "name": "Evelyn Overbeek",
+      "rating": 1314.48,
+      "dailyRatingChange": -17.25
+    }
+  ]
+}

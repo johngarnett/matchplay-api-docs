@@ -1,0 +1,179 @@
+{
+  "tournamentId": 266115,
+  "name": "Ihmissusi - Kolmas polvi",
+  "date": "2026-08-08",
+  "locationId": null,
+  "locationName": null,
+  "playerCount": 24,
+  "ratingsDate": "2026-08-08",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m23873",
+      "name": "Topi Ahonen",
+      "rating": 1715.1,
+      "dailyRatingChange": -22.08
+    },
+    {
+      "position": 2,
+      "playerId": "m10143",
+      "name": "Joonas Haverinen",
+      "rating": 1666.49,
+      "dailyRatingChange": -12.31
+    },
+    {
+      "position": 2,
+      "playerId": "m30162",
+      "name": "Jiro Suvanto",
+      "rating": 1766.04,
+      "dailyRatingChange": -0.27
+    },
+    {
+      "position": 4,
+      "playerId": "m531879",
+      "name": "Jonne Kuittinen",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 5,
+      "playerId": "m15903",
+      "name": "Sampo Simonen",
+      "rating": 1557.09,
+      "dailyRatingChange": 8.53
+    },
+    {
+      "position": 5,
+      "playerId": "m11514",
+      "name": "Matti MTK Kinnunen",
+      "rating": 1541.97,
+      "dailyRatingChange": 2.97
+    },
+    {
+      "position": 5,
+      "playerId": "m42763",
+      "name": "Verneri Miettinen",
+      "rating": 1645.89,
+      "dailyRatingChange": 10.55
+    },
+    {
+      "position": 8,
+      "playerId": "m41357",
+      "name": "Kimmo Aaltonen",
+      "rating": 1536.63,
+      "dailyRatingChange": 4.35
+    },
+    {
+      "position": 9,
+      "playerId": "m767",
+      "name": "Marco Suvanto",
+      "rating": 1599.68,
+      "dailyRatingChange": -6.11
+    },
+    {
+      "position": 10,
+      "playerId": "m25465",
+      "name": "Jarko Manninen",
+      "rating": 1605.94,
+      "dailyRatingChange": 10.69
+    },
+    {
+      "position": 11,
+      "playerId": "m30996",
+      "name": "Janne Sandelin",
+      "rating": 1558.75,
+      "dailyRatingChange": -4.83
+    },
+    {
+      "position": 11,
+      "playerId": "m19123",
+      "name": "Arsi Rosengren",
+      "rating": 1593.69,
+      "dailyRatingChange": 1.86
+    },
+    {
+      "position": 11,
+      "playerId": "m39404",
+      "name": "Aleksi Matsi",
+      "rating": 1547.42,
+      "dailyRatingChange": -4.77
+    },
+    {
+      "position": 14,
+      "playerId": "i140011",
+      "name": "Kim Granlund",
+      "rating": 1489.01,
+      "dailyRatingChange": 14.66
+    },
+    {
+      "position": 15,
+      "playerId": "m9786",
+      "name": "Veikko Pakkala",
+      "rating": 1550.36,
+      "dailyRatingChange": -12.27
+    },
+    {
+      "position": 15,
+      "playerId": "m26285",
+      "name": "Tuukka Jääskeläinen",
+      "rating": 1512.87,
+      "dailyRatingChange": -7.54
+    },
+    {
+      "position": 17,
+      "playerId": "m43450",
+      "name": "Valtteri Kärkäs",
+      "rating": 1678.81,
+      "dailyRatingChange": 17.98
+    },
+    {
+      "position": 18,
+      "playerId": "m556302",
+      "name": "Jasse Ryhänen",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 19,
+      "playerId": "m27061",
+      "name": "Viljami Myrttinen",
+      "rating": 1534.05,
+      "dailyRatingChange": 8.29
+    },
+    {
+      "position": 20,
+      "playerId": "m11987",
+      "name": "Mikko Nurmi",
+      "rating": 1597.43,
+      "dailyRatingChange": -1.29
+    },
+    {
+      "position": 21,
+      "playerId": "m22696",
+      "name": "Erno Lahdenperä",
+      "rating": 1574.02,
+      "dailyRatingChange": -24.13
+    },
+    {
+      "position": 22,
+      "playerId": "m37469",
+      "name": "Juuso Seppälä",
+      "rating": 1574.7,
+      "dailyRatingChange": -24.29
+    },
+    {
+      "position": 22,
+      "playerId": "m43503",
+      "name": "Lari Lehmusvuori",
+      "rating": 1504.6,
+      "dailyRatingChange": 12.86
+    },
+    {
+      "position": 24,
+      "playerId": "m32452",
+      "name": "Sirpa Kokkinen",
+      "rating": 1413.77,
+      "dailyRatingChange": -4.82
+    }
+  ]
+}

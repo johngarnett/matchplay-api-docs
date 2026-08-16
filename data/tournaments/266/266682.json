@@ -1,0 +1,151 @@
+{
+  "tournamentId": 266682,
+  "name": "Shift Change Tourney @ Gary’s Place",
+  "date": "2026-08-12",
+  "locationId": "10993",
+  "locationName": "Gary’s Place",
+  "playerCount": 20,
+  "ratingsDate": "2026-08-12",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m12668",
+      "name": "Jake Hei",
+      "rating": 1696.37,
+      "dailyRatingChange": 13.1
+    },
+    {
+      "position": 2,
+      "playerId": "m28849",
+      "name": "Jay Ostby",
+      "rating": 1602.79,
+      "dailyRatingChange": 5.61
+    },
+    {
+      "position": 3,
+      "playerId": "m42542",
+      "name": "David Weil WA",
+      "rating": 1597.3,
+      "dailyRatingChange": 2.43
+    },
+    {
+      "position": 4,
+      "playerId": "m44491",
+      "name": "Marshall Denton",
+      "rating": 1660.84,
+      "dailyRatingChange": -1.3
+    },
+    {
+      "position": 4,
+      "playerId": "m41658",
+      "name": "Paul Irvine",
+      "rating": 1523.4,
+      "dailyRatingChange": 5.37
+    },
+    {
+      "position": 6,
+      "playerId": "m37860",
+      "name": "Canyon Mosely",
+      "rating": 1580.85,
+      "dailyRatingChange": -0.74
+    },
+    {
+      "position": 6,
+      "playerId": "m55482",
+      "name": "Noah Phipps",
+      "rating": 1519.28,
+      "dailyRatingChange": 2.44
+    },
+    {
+      "position": 8,
+      "playerId": "m53632",
+      "name": "Jamie O’Hara",
+      "rating": 1556.36,
+      "dailyRatingChange": -0.75
+    },
+    {
+      "position": 8,
+      "playerId": "m58388",
+      "name": "Jayme Markham",
+      "rating": 1427.96,
+      "dailyRatingChange": 11.39
+    },
+    {
+      "position": 8,
+      "playerId": "m24966",
+      "name": "Josh Samson",
+      "rating": 1463.68,
+      "dailyRatingChange": -1.19
+    },
+    {
+      "position": 11,
+      "playerId": "m46495",
+      "name": "Elyssa Cichy",
+      "rating": 1396.89,
+      "dailyRatingChange": 2.35
+    },
+    {
+      "position": 11,
+      "playerId": "m58308",
+      "name": "Carmen Caisse",
+      "rating": 1428.81,
+      "dailyRatingChange": 1.4
+    },
+    {
+      "position": 11,
+      "playerId": "m56037",
+      "name": "Michael Martin",
+      "rating": 1417.45,
+      "dailyRatingChange": 4.55
+    },
+    {
+      "position": 11,
+      "playerId": "m55640",
+      "name": "Chloe Bolton",
+      "rating": 1414.39,
+      "dailyRatingChange": 4.02
+    },
+    {
+      "position": 15,
+      "playerId": "m9303",
+      "name": "Michael Ulmen",
+      "rating": 1568.51,
+      "dailyRatingChange": -8
+    },
+    {
+      "position": 15,
+      "playerId": "m52288",
+      "name": "Matthew Zalupski",
+      "rating": 1465.45,
+      "dailyRatingChange": -6.52
+    },
+    {
+      "position": 15,
+      "playerId": "m18724",
+      "name": "Matty PinPin",
+      "rating": 1586.21,
+      "dailyRatingChange": -3.91
+    },
+    {
+      "position": 18,
+      "playerId": "m35346",
+      "name": "Sean Williams",
+      "rating": 1305.16,
+      "dailyRatingChange": -9.08
+    },
+    {
+      "position": 18,
+      "playerId": "m56923",
+      "name": "Miloh Mason",
+      "rating": 1346.46,
+      "dailyRatingChange": -8.48
+    },
+    {
+      "position": 18,
+      "playerId": "m33152",
+      "name": "Brandon Chandler",
+      "rating": 1419.2,
+      "dailyRatingChange": -10.36
+    }
+  ]
+}

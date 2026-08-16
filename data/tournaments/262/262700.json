@@ -1,0 +1,263 @@
+{
+  "tournamentId": 262700,
+  "name": "PRP-HQ July 2026 Monthly Match Play Tournament",
+  "date": "2026-07-19",
+  "locationId": "12479",
+  "locationName": "PRPHQ",
+  "playerCount": 36,
+  "ratingsDate": "2026-07-19",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m44385",
+      "name": "Kat Davis",
+      "rating": 1490.3,
+      "dailyRatingChange": 3.3
+    },
+    {
+      "position": 1,
+      "playerId": "i110000",
+      "name": "Jason Richards IL",
+      "rating": 1556.67,
+      "dailyRatingChange": 8.2
+    },
+    {
+      "position": 1,
+      "playerId": "i108024",
+      "name": "Greg Halperin",
+      "rating": 1543.38,
+      "dailyRatingChange": 7.87
+    },
+    {
+      "position": 1,
+      "playerId": "m46473",
+      "name": "Kevin Johnson IL",
+      "rating": 1631,
+      "dailyRatingChange": 5.81
+    },
+    {
+      "position": 5,
+      "playerId": "m24151",
+      "name": "Lily Pizza",
+      "rating": 1631.39,
+      "dailyRatingChange": -2.54
+    },
+    {
+      "position": 5,
+      "playerId": "m43269",
+      "name": "Josh Slaunwhite",
+      "rating": 1682.37,
+      "dailyRatingChange": 7.21
+    },
+    {
+      "position": 5,
+      "playerId": "m42040",
+      "name": "Tom Eaton",
+      "rating": 1552.91,
+      "dailyRatingChange": 1.85
+    },
+    {
+      "position": 5,
+      "playerId": "m40131",
+      "name": "Mike Dafforn",
+      "rating": 1530,
+      "dailyRatingChange": 0.75
+    },
+    {
+      "position": 5,
+      "playerId": "i127291",
+      "name": "Terry Goforth",
+      "rating": 1548.3,
+      "dailyRatingChange": 4.9
+    },
+    {
+      "position": 5,
+      "playerId": "m30105",
+      "name": "Joe Sharpe",
+      "rating": 1703.83,
+      "dailyRatingChange": -4.46
+    },
+    {
+      "position": 11,
+      "playerId": "m57949",
+      "name": "Tyler Bickett",
+      "rating": 1475.13,
+      "dailyRatingChange": 12.71
+    },
+    {
+      "position": 11,
+      "playerId": "m38803",
+      "name": "Rosie Theisen",
+      "rating": 1525.63,
+      "dailyRatingChange": 5.01
+    },
+    {
+      "position": 11,
+      "playerId": "m59475",
+      "name": "Lucas Ross",
+      "rating": 1546.99,
+      "dailyRatingChange": null
+    },
+    {
+      "position": 11,
+      "playerId": "m38081",
+      "name": "Chad Udell",
+      "rating": 1504.89,
+      "dailyRatingChange": 4.47
+    },
+    {
+      "position": 11,
+      "playerId": "m40900",
+      "name": "Chris O'Brien IL",
+      "rating": 1568.4,
+      "dailyRatingChange": 0.76
+    },
+    {
+      "position": 16,
+      "playerId": "m40129",
+      "name": "Dustin Draggist",
+      "rating": 1482.68,
+      "dailyRatingChange": 4.22
+    },
+    {
+      "position": 16,
+      "playerId": "m45602",
+      "name": "Scott Loser",
+      "rating": 1529.1,
+      "dailyRatingChange": 0.02
+    },
+    {
+      "position": 16,
+      "playerId": "i151095",
+      "name": "Leah Dafforn",
+      "rating": 1392.46,
+      "dailyRatingChange": 23.36
+    },
+    {
+      "position": 16,
+      "playerId": "m17719",
+      "name": "Zach Christopoulos",
+      "rating": 1590.97,
+      "dailyRatingChange": -3.3
+    },
+    {
+      "position": 16,
+      "playerId": "m40044",
+      "name": "Stephanie Wysocki",
+      "rating": 1566.06,
+      "dailyRatingChange": 2.64
+    },
+    {
+      "position": 21,
+      "playerId": "m50858",
+      "name": "Daniel Scott IL",
+      "rating": 1539.62,
+      "dailyRatingChange": -12.23
+    },
+    {
+      "position": 21,
+      "playerId": "i89674",
+      "name": "Anne Brown",
+      "rating": 1431.67,
+      "dailyRatingChange": 7.59
+    },
+    {
+      "position": 21,
+      "playerId": "m53510",
+      "name": "JD Mackinder",
+      "rating": 1459.42,
+      "dailyRatingChange": 0.94
+    },
+    {
+      "position": 24,
+      "playerId": "m22021",
+      "name": "Shelley Sharpe",
+      "rating": 1591.36,
+      "dailyRatingChange": -5.35
+    },
+    {
+      "position": 24,
+      "playerId": "m38118",
+      "name": "James Darr",
+      "rating": 1555.01,
+      "dailyRatingChange": -8.8
+    },
+    {
+      "position": 24,
+      "playerId": "m579861",
+      "name": "Jenni Spinner",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 24,
+      "playerId": "m552296",
+      "name": "Megan Moeller",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 28,
+      "playerId": "m55475",
+      "name": "Kayla Fallen",
+      "rating": 1495.42,
+      "dailyRatingChange": -4.4
+    },
+    {
+      "position": 28,
+      "playerId": "m579864",
+      "name": "Linda Singley",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 28,
+      "playerId": "m54680",
+      "name": "Sarah Scott",
+      "rating": 1424.88,
+      "dailyRatingChange": -0.63
+    },
+    {
+      "position": 28,
+      "playerId": "m52704",
+      "name": "Amber McGinley",
+      "rating": 1496.93,
+      "dailyRatingChange": -6.3
+    },
+    {
+      "position": 32,
+      "playerId": "i147573",
+      "name": "Lynette Scott",
+      "rating": 1377.91,
+      "dailyRatingChange": -1.7
+    },
+    {
+      "position": 32,
+      "playerId": "m40545",
+      "name": "Mike Felumlee",
+      "rating": 1578.71,
+      "dailyRatingChange": -7.38
+    },
+    {
+      "position": 32,
+      "playerId": "m579874",
+      "name": "Vi Ihm",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 35,
+      "playerId": "m579872",
+      "name": "Em Charny",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 36,
+      "playerId": "m569722",
+      "name": "Jenny Schwartzberg",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "tournamentId": 264967,
+  "name": "Tuesday Night at Koots 08/04/26",
+  "date": "2026-08-05",
+  "locationId": "12333",
+  "locationName": "Chilkoot Charlie's (Koot's)",
+  "playerCount": 13,
+  "ratingsDate": "2026-08-05",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m59360",
+      "name": "ryan shannon",
+      "rating": 1583.09,
+      "dailyRatingChange": 14.29
+    },
+    {
+      "position": 2,
+      "playerId": "m52640",
+      "name": "Cy Two Elk",
+      "rating": 1626.86,
+      "dailyRatingChange": 8.41
+    },
+    {
+      "position": 3,
+      "playerId": "m58310",
+      "name": "Jack Sjoberg",
+      "rating": 1623.49,
+      "dailyRatingChange": 12.26
+    },
+    {
+      "position": 4,
+      "playerId": "m31943",
+      "name": "Snow Swanland",
+      "rating": 1657.07,
+      "dailyRatingChange": -4.25
+    },
+    {
+      "position": 5,
+      "playerId": "m41567",
+      "name": "Brett Cranwell",
+      "rating": 1626.49,
+      "dailyRatingChange": -4.39
+    },
+    {
+      "position": 6,
+      "playerId": "m570600",
+      "name": "Ollie Leibovich",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 7,
+      "playerId": "m45030",
+      "name": "Matt Reinders",
+      "rating": 1599.42,
+      "dailyRatingChange": -5.66
+    },
+    {
+      "position": 8,
+      "playerId": "m563428",
+      "name": "Rob Hoffman",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 9,
+      "playerId": "m47726",
+      "name": "Erin Reinders",
+      "rating": 1471.69,
+      "dailyRatingChange": -1.62
+    },
+    {
+      "position": 10,
+      "playerId": "i114171",
+      "name": "Rosette Cranwell",
+      "rating": 1408.39,
+      "dailyRatingChange": -0.86
+    },
+    {
+      "position": 11,
+      "playerId": "m563429",
+      "name": "Cheryl Hoffman",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 12,
+      "playerId": "m584699",
+      "name": "Agrafenia Pletnikoff",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 13,
+      "playerId": "m584697",
+      "name": "Andrew Hewett",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

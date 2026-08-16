@@ -1,0 +1,88 @@
+{
+  "tournamentId": 266620,
+  "name": "NPC Season 3 at JR's Playhouse #5",
+  "date": "2026-08-12",
+  "locationId": null,
+  "locationName": null,
+  "playerCount": 11,
+  "ratingsDate": "2026-08-12",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m235",
+      "name": "Jake Erskine",
+      "rating": 1590.7,
+      "dailyRatingChange": 22.79
+    },
+    {
+      "position": 1,
+      "playerId": "m106",
+      "name": "Theresa Nessel",
+      "rating": 1680.57,
+      "dailyRatingChange": 15.23
+    },
+    {
+      "position": 3,
+      "playerId": "m5653",
+      "name": "Jake Holz",
+      "rating": 1541.4,
+      "dailyRatingChange": 4.65
+    },
+    {
+      "position": 4,
+      "playerId": "m1815",
+      "name": "Paul Conley",
+      "rating": 1570.65,
+      "dailyRatingChange": 4.61
+    },
+    {
+      "position": 5,
+      "playerId": "m43110",
+      "name": "Ryan Howard ME",
+      "rating": 1563.89,
+      "dailyRatingChange": -3.84
+    },
+    {
+      "position": 5,
+      "playerId": "m26025",
+      "name": "Matt Liskom",
+      "rating": 1560.1,
+      "dailyRatingChange": -14.6
+    },
+    {
+      "position": 7,
+      "playerId": "m38623",
+      "name": "Pedro Nieves",
+      "rating": 1409.14,
+      "dailyRatingChange": 2.56
+    },
+    {
+      "position": 7,
+      "playerId": "m430",
+      "name": "Nate Straz",
+      "rating": 1586.53,
+      "dailyRatingChange": -4.52
+    },
+    {
+      "position": 9,
+      "playerId": "m32463",
+      "name": "Billy Marshall III",
+      "rating": 1448.58,
+      "dailyRatingChange": 0.01
+    },
+    {
+      "position": 9,
+      "playerId": "m34880",
+      "name": "Bill Marshall",
+      "rating": 1586.58,
+      "dailyRatingChange": -6.65
+    },
+    {
+      "position": 11,
+      "playerId": "m44882",
+      "name": "Emilee Love",
+      "rating": 1484.73,
+      "dailyRatingChange": -2.59
+    }
+  ]
+}

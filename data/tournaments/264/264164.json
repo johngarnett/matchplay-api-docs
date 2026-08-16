@@ -1,0 +1,67 @@
+{
+  "tournamentId": 264164,
+  "name": "Finals for Stern Army Fort Wayne Pinball Wizard's World Weekly July 27, 2026",
+  "date": "2026-07-28",
+  "locationId": "7369",
+  "locationName": "Wizard's World",
+  "playerCount": 8,
+  "ratingsDate": "2026-07-28",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m23372",
+      "name": "Austin Deventer",
+      "rating": 1631.26,
+      "dailyRatingChange": 9.22
+    },
+    {
+      "position": 2,
+      "playerId": "m39480",
+      "name": "Kasey Jarvis",
+      "rating": 1619.04,
+      "dailyRatingChange": 2.13
+    },
+    {
+      "position": 3,
+      "playerId": "m10906",
+      "name": "Andy Dill",
+      "rating": 1674.09,
+      "dailyRatingChange": 5.68
+    },
+    {
+      "position": 4,
+      "playerId": "m7341",
+      "name": "Mattison Ogden",
+      "rating": 1588.2,
+      "dailyRatingChange": 12.73
+    },
+    {
+      "position": 5,
+      "playerId": "m21897",
+      "name": "Kristen Farnham",
+      "rating": 1572.76,
+      "dailyRatingChange": 9.07
+    },
+    {
+      "position": 5,
+      "playerId": "m29645",
+      "name": "Clem Fingerle",
+      "rating": 1652.89,
+      "dailyRatingChange": -6
+    },
+    {
+      "position": 7,
+      "playerId": "m17040",
+      "name": "Ashton Hovey",
+      "rating": 1524.9,
+      "dailyRatingChange": 10.33
+    },
+    {
+      "position": 8,
+      "playerId": "m26969",
+      "name": "Jon Jehl",
+      "rating": 1542.42,
+      "dailyRatingChange": 1.44
+    }
+  ]
+}

@@ -1,0 +1,395 @@
+{
+  "locationId": "11875",
+  "name": "Hawk’s Nest",
+  "address": "4025 W Lombard St. Davenport, IA 52804",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 27,
+  "relatedVenues": [
+    {
+      "locationId": "9681",
+      "name": "Midwest Ale Works",
+      "address": "537 12th Ave, East Moline, IL 61244, US",
+      "count": 54
+    },
+    {
+      "locationId": "12739",
+      "name": "Tap Tap | Double Tap Beercade",
+      "address": "121 E College St, Iowa City, IA 52240, US",
+      "count": 37
+    },
+    {
+      "locationId": "6610",
+      "name": "Jay’s Silver Ballroom",
+      "address": "10161 Blue Spruce",
+      "count": 35
+    },
+    {
+      "locationId": "8498",
+      "name": "Jay's Silver Ballroom",
+      "address": "10161 Blue Spruce Dr. Peosta, IA 52068",
+      "count": 28
+    },
+    {
+      "locationId": "8631",
+      "name": "Kingpin Social at Maple Lanes",
+      "address": "2608 University Ave Suite B, Waterloo, IA 50701",
+      "count": 12
+    },
+    {
+      "locationId": "10292",
+      "name": "Backpocket Taproom",
+      "address": "333 East 10th Street, Dubuque, IA 52001, US",
+      "count": 7
+    },
+    {
+      "locationId": "12439",
+      "name": "First Turn Games",
+      "address": "3625 1st Ave SE, Cedar Rapids, IA 52402, US",
+      "count": 7
+    },
+    {
+      "locationId": "12985",
+      "name": "Legends Draft Haus & Sports Bar",
+      "address": "2118 Harrison Dr, Clinton, IA 52732, US",
+      "count": 7
+    },
+    {
+      "locationId": "6860",
+      "name": "The Operating Room Ankeny",
+      "address": "1631 SW Main St Suite 105, Ankeny, IA 50023, USA",
+      "count": 6
+    },
+    {
+      "locationId": "10370",
+      "name": "Cory's House",
+      "address": "3386 W Lake Storey Rd Galesburg, IL 61401",
+      "count": 4
+    }
+  ],
+  "players": [
+    {
+      "id": "m36405",
+      "name": "Mike Haakenson",
+      "rating": 1739.61,
+      "rd": 21.1,
+      "ratingClass": "Expert",
+      "homeLocation": "Hawk’s Nest",
+      "homeLocationId": "11875",
+      "percentile": 98.41151534914054,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m40368",
+      "name": "Benjamin Haakenson",
+      "rating": 1712.43,
+      "rd": 20.33,
+      "ratingClass": "Expert",
+      "homeLocation": "Midwest Ale Works",
+      "homeLocationId": "9681",
+      "percentile": 97.29352028695206,
+      "changeDisplay": "+2.2",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m14237",
+      "name": "Ethan Bent",
+      "rating": 1708.94,
+      "rd": 24.07,
+      "ratingClass": "Expert",
+      "homeLocation": "Midwest Ale Works",
+      "homeLocationId": "9681",
+      "percentile": 97.11650440210555,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m22336",
+      "name": "Cody Hillard",
+      "rating": 1690.28,
+      "rd": 26.01,
+      "ratingClass": "A",
+      "homeLocation": "Hawk’s Nest",
+      "homeLocationId": "11875",
+      "percentile": 95.93795127404854,
+      "changeDisplay": "+7.9",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m32233",
+      "name": "Alivia Haley",
+      "rating": 1685.39,
+      "rd": 18.48,
+      "ratingClass": "A",
+      "homeLocation": "Tap Tap | Double Tap Beercade",
+      "homeLocationId": "12739",
+      "percentile": 95.55131131504169,
+      "changeDisplay": "-7.3",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m46391",
+      "name": "Matt Carter IL",
+      "rating": 1659.06,
+      "rd": 28.26,
+      "ratingClass": "A",
+      "homeLocation": "Hawk’s Nest",
+      "homeLocationId": "11875",
+      "percentile": 92.97060604648996,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m44010",
+      "name": "Mitch Jahns",
+      "rating": 1646.59,
+      "rd": 27.55,
+      "ratingClass": "A",
+      "homeLocation": "Legends Draft Haus & Sports Bar",
+      "homeLocationId": "12985",
+      "percentile": 91.28895514044812,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m19062",
+      "name": "Dennis Keppy",
+      "rating": 1638.9,
+      "rd": 25.24,
+      "ratingClass": "A",
+      "homeLocation": "Jay’s Silver Ballroom",
+      "homeLocationId": "6610",
+      "percentile": 90.14301020170494,
+      "changeDisplay": "-6.0",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m43932",
+      "name": "Jordan Dorrington",
+      "rating": 1625.79,
+      "rd": 22,
+      "ratingClass": "A",
+      "homeLocation": "First Turn Games",
+      "homeLocationId": "12439",
+      "percentile": 87.72534587972235,
+      "changeDisplay": "-3.6",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m22321",
+      "name": "Jason Peterson",
+      "rating": 1616.22,
+      "rd": 28.12,
+      "ratingClass": "A",
+      "homeLocation": "Midwest Ale Works",
+      "homeLocationId": "9681",
+      "percentile": 85.80612102296548,
+      "changeDisplay": "+20.3",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m22001",
+      "name": "Zandra Rodriguez",
+      "rating": 1608.65,
+      "rd": 26.14,
+      "ratingClass": "A",
+      "homeLocation": "Midwest Ale Works",
+      "homeLocationId": "9681",
+      "percentile": 84.12447011692366,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m39449",
+      "name": "Lindsay Hannan",
+      "rating": 1560.5,
+      "rd": 24.87,
+      "ratingClass": "B",
+      "homeLocation": "Midwest Ale Works",
+      "homeLocationId": "9681",
+      "percentile": 70.45232216891041,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m47298",
+      "name": "Felicia Haakenson",
+      "rating": 1500.24,
+      "rd": 24.46,
+      "ratingClass": "B",
+      "homeLocation": "Hawk’s Nest",
+      "homeLocationId": "11875",
+      "percentile": 47.184049937112775,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m45283",
+      "name": "Sarah Kramer",
+      "rating": 1499.63,
+      "rd": 23.48,
+      "ratingClass": "C",
+      "homeLocation": "Tap Tap | Double Tap Beercade",
+      "homeLocationId": "12739",
+      "percentile": 46.95113429915684,
+      "changeDisplay": "+7.8",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m37091",
+      "name": "Simon Gillespie",
+      "rating": 1477.97,
+      "rd": 29.37,
+      "ratingClass": "C",
+      "homeLocation": "Jay’s Silver Ballroom",
+      "homeLocationId": "6610",
+      "percentile": 38.10034005683141,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m40015",
+      "name": "Jeff Hedley",
+      "rating": 1475.9,
+      "rd": 20.06,
+      "ratingClass": "C",
+      "homeLocation": "Jay’s Silver Ballroom",
+      "homeLocationId": "6610",
+      "percentile": 37.191969068803274,
+      "changeDisplay": "-8.4",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "i104719",
+      "name": "Joel Preston",
+      "rating": 1471.95,
+      "rd": 62.49,
+      "ratingClass": "C",
+      "homeLocation": "Hawk’s Nest",
+      "homeLocationId": "11875",
+      "percentile": 35.60814273070294,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m57836",
+      "name": "Bianca Kay",
+      "rating": 1461.49,
+      "rd": 25.58,
+      "ratingClass": "C",
+      "homeLocation": "Hawk’s Nest",
+      "homeLocationId": "11875",
+      "percentile": 31.52280244095589,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m57561",
+      "name": "Amy Morris",
+      "rating": 1460.88,
+      "rd": 25.64,
+      "ratingClass": "C",
+      "homeLocation": "Midwest Ale Works",
+      "homeLocationId": "9681",
+      "percentile": 31.275911864722598,
+      "changeDisplay": "-11.9",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m22317",
+      "name": "Kaleb Bemis",
+      "rating": 1459.29,
+      "rd": 37.33,
+      "ratingClass": "C",
+      "homeLocation": "Hawk’s Nest",
+      "homeLocationId": "11875",
+      "percentile": 30.7262309591466,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m37125",
+      "name": "Jake Snyder",
+      "rating": 1459.13,
+      "rd": 22.35,
+      "ratingClass": "C",
+      "homeLocation": "Jay’s Silver Ballroom",
+      "homeLocationId": "6610",
+      "percentile": 30.628406391205104,
+      "changeDisplay": "-2.9",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m44253",
+      "name": "Brenda Foust",
+      "rating": 1454.63,
+      "rd": 23.08,
+      "ratingClass": "C",
+      "homeLocation": "Jay's Silver Ballroom",
+      "homeLocationId": "8498",
+      "percentile": 28.904830670331204,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m43267",
+      "name": "Liz Anderson",
+      "rating": 1448.52,
+      "rd": 24.36,
+      "ratingClass": "C",
+      "homeLocation": "Hawk’s Nest",
+      "homeLocationId": "11875",
+      "percentile": 26.575674290771882,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i146754",
+      "name": "Sandy Faierson",
+      "rating": 1416.56,
+      "rd": 38.51,
+      "ratingClass": "C",
+      "homeLocation": "Hawk’s Nest",
+      "homeLocationId": "11875",
+      "percentile": 16.723342805235944,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m47938",
+      "name": "Michelle Schroeder",
+      "rating": 1399.54,
+      "rd": 32.64,
+      "ratingClass": "D",
+      "homeLocation": "Hawk’s Nest",
+      "homeLocationId": "11875",
+      "percentile": 12.414403503051195,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i136175",
+      "name": "Janelle Pluta",
+      "rating": 1354.74,
+      "rd": 33.26,
+      "ratingClass": "D",
+      "homeLocation": "Midwest Ale Works",
+      "homeLocationId": "9681",
+      "percentile": 4.798062141892206,
+      "changeDisplay": "-3.1",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m46442",
+      "name": "Stephany Ginter",
+      "rating": 1301,
+      "rd": 34.48,
+      "ratingClass": "D",
+      "homeLocation": "Hawk’s Nest",
+      "homeLocationId": "11875",
+      "percentile": 1.080728560115526,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

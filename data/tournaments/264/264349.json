@@ -1,0 +1,39 @@
+{
+  "tournamentId": 264349,
+  "name": "Finals for Bump & Nudge at The Break 7/28/26",
+  "date": "2026-07-29",
+  "locationId": "10825",
+  "locationName": "The Break",
+  "playerCount": 4,
+  "ratingsDate": "2026-07-29",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m11900",
+      "name": "Evan Tucker",
+      "rating": 1638.56,
+      "dailyRatingChange": 11.54
+    },
+    {
+      "position": 2,
+      "playerId": "m49444",
+      "name": "Troy Kellogg",
+      "rating": 1679.13,
+      "dailyRatingChange": 8.08
+    },
+    {
+      "position": 3,
+      "playerId": "m8339",
+      "name": "Will King",
+      "rating": 1692.5,
+      "dailyRatingChange": -2.44
+    },
+    {
+      "position": 4,
+      "playerId": "m44878",
+      "name": "Andrew Gushen",
+      "rating": 1591.87,
+      "dailyRatingChange": 1.7
+    }
+  ]
+}

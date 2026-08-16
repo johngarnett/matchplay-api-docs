@@ -1,0 +1,197 @@
+{
+  "locationId": "13436",
+  "name": "Stone Hound Brewing Company",
+  "address": "3593 Bunker Hill Rd, Williamsburg, MI 49690, US",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 13,
+  "relatedVenues": [
+    {
+      "locationId": "6846",
+      "name": "The Coin Slot",
+      "address": "346 E Front Street, Traverse City, MI 49684, US",
+      "count": 118
+    },
+    {
+      "locationId": "6879",
+      "name": "Right Brain Brewery",
+      "address": "225 E Sixteenth St, Traverse City, MI, 49684, US",
+      "count": 84
+    },
+    {
+      "locationId": "10512",
+      "name": "Five Shores Brewing",
+      "address": "163 S Benzie Blvd, Beulah, MI 49617, US",
+      "count": 5
+    },
+    {
+      "locationId": "6405",
+      "name": "1UP Games & Repairs",
+      "address": "4628 State St, Saginaw, MI 48603, USA",
+      "count": 3
+    },
+    {
+      "locationId": "10767",
+      "name": "Crazy Quarters Arcade",
+      "address": "401 Center Ave, Bay City, MI 48708",
+      "count": 2
+    }
+  ],
+  "players": [
+    {
+      "id": "m32231",
+      "name": "Johnny G",
+      "rating": 1645.87,
+      "rd": 17.64,
+      "ratingClass": "A",
+      "homeLocation": "The Coin Slot",
+      "homeLocationId": "6846",
+      "percentile": 91.14454744491545,
+      "changeDisplay": "+0.6",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m32191",
+      "name": "Matty Maitland",
+      "rating": 1630.48,
+      "rd": 33.34,
+      "ratingClass": "A",
+      "homeLocation": "The Coin Slot",
+      "homeLocationId": "6846",
+      "percentile": 88.68961662085992,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m42516",
+      "name": "Aaron Proudfoot",
+      "rating": 1626.37,
+      "rd": 27.39,
+      "ratingClass": "A",
+      "homeLocation": "The Coin Slot",
+      "homeLocationId": "6846",
+      "percentile": 87.83714538594121,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m7468",
+      "name": "Scott Pierson",
+      "rating": 1611.11,
+      "rd": 28.07,
+      "ratingClass": "A",
+      "homeLocation": "The Coin Slot",
+      "homeLocationId": "6846",
+      "percentile": 84.69744258629525,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m44725",
+      "name": "Mike Alfaro",
+      "rating": 1597.66,
+      "rd": 18.47,
+      "ratingClass": "B",
+      "homeLocation": "The Coin Slot",
+      "homeLocationId": "6846",
+      "percentile": 81.42264871663484,
+      "changeDisplay": "+1.2",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m32193",
+      "name": "River Maitland",
+      "rating": 1593.83,
+      "rd": 45.71,
+      "ratingClass": "B",
+      "homeLocation": "The Coin Slot",
+      "homeLocationId": "6846",
+      "percentile": 80.49564447757022,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m31152",
+      "name": "Danny Tewers",
+      "rating": 1541.33,
+      "rd": 21.26,
+      "ratingClass": "B",
+      "homeLocation": "The Coin Slot",
+      "homeLocationId": "6846",
+      "percentile": 63.61857735128337,
+      "changeDisplay": "+4.4",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m13877",
+      "name": "Tracy Ward",
+      "rating": 1526.6,
+      "rd": 18.04,
+      "ratingClass": "B",
+      "homeLocation": "The Coin Slot",
+      "homeLocationId": "6846",
+      "percentile": 57.66525364512973,
+      "changeDisplay": "-1.0",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m25014",
+      "name": "Ben Harris",
+      "rating": 1514.37,
+      "rd": 18.96,
+      "ratingClass": "B",
+      "homeLocation": "The Coin Slot",
+      "homeLocationId": "6846",
+      "percentile": 52.899799692551355,
+      "changeDisplay": "+3.0",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m28617",
+      "name": "Mark Reichert",
+      "rating": 1512.5,
+      "rd": 24.93,
+      "ratingClass": "B",
+      "homeLocation": "Right Brain Brewery",
+      "homeLocationId": "6879",
+      "percentile": 52.19173615316532,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i148345",
+      "name": "Lily Deisig",
+      "rating": 1488.54,
+      "rd": 29.01,
+      "ratingClass": "C",
+      "homeLocation": "The Coin Slot",
+      "homeLocationId": "6846",
+      "percentile": 42.36269623142498,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m13782",
+      "name": "Brion roper",
+      "rating": 1468.8,
+      "rd": 23.34,
+      "ratingClass": "C",
+      "homeLocation": "The Coin Slot",
+      "homeLocationId": "6846",
+      "percentile": 34.40163972609121,
+      "changeDisplay": "-2.0",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "i133034",
+      "name": "Mark Hafeli",
+      "rating": 1364.3,
+      "rd": 36.94,
+      "ratingClass": "D",
+      "homeLocation": "The Coin Slot",
+      "homeLocationId": "6846",
+      "percentile": 5.925373829598919,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

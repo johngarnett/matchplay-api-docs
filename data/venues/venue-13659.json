@@ -1,0 +1,155 @@
+{
+  "locationId": "13659",
+  "name": "Tycoon Arcade",
+  "address": "195 McGregor St, Manchester, NH 03102, US",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 7,
+  "relatedVenues": [
+    {
+      "locationId": "11424",
+      "name": "The Acton Bowladrome (The Drome!)",
+      "address": "257 Main Street, Acton MA 01720",
+      "count": 7
+    },
+    {
+      "locationId": "12630",
+      "name": "Arcadia National Bar",
+      "address": "504 Congress St, Portland, ME 04101, US",
+      "count": 4
+    },
+    {
+      "locationId": "13498",
+      "name": "Southern New Hampshire Pinball Club",
+      "address": "48 Bridge St Nashua, NH 03060",
+      "count": 4
+    },
+    {
+      "locationId": "6247",
+      "name": "Maine Silverball Tavern",
+      "address": "",
+      "count": 3
+    },
+    {
+      "locationId": "7878",
+      "name": "Funspot",
+      "address": "579 Endicott Street North, Laconia, NH 03246, US",
+      "count": 3
+    },
+    {
+      "locationId": "12331",
+      "name": "Arcadia",
+      "address": "504 Congress St, 04101",
+      "count": 3
+    },
+    {
+      "locationId": "12728",
+      "name": "JR's",
+      "address": "25 Hickory Ln, Gotham ME",
+      "count": 3
+    },
+    {
+      "locationId": "13691",
+      "name": "JR's House",
+      "address": "25 Hickory Ln Gorham, ME 04038",
+      "count": 2
+    },
+    {
+      "locationId": "9084",
+      "name": "Flat Top Johnny's",
+      "address": "300 Main St, Cambridge, MA 02142, US",
+      "count": 1
+    },
+    {
+      "locationId": "10377",
+      "name": "Capital Pinball",
+      "address": "70 Pembroke Rd, Concord, NH 03301, US",
+      "count": 1
+    }
+  ],
+  "players": [
+    {
+      "id": "m430",
+      "name": "Nate Straz",
+      "rating": 1586.53,
+      "rd": 18.6,
+      "ratingClass": "B",
+      "homeLocation": "Arcadia National Bar",
+      "homeLocationId": "12630",
+      "percentile": 78.4646201145945,
+      "changeDisplay": "-6.3",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "i156890",
+      "name": "Kai Ellis",
+      "rating": 1503.72,
+      "rd": 46.27,
+      "ratingClass": "B",
+      "homeLocation": "Flat Top Johnny's",
+      "homeLocationId": "9084",
+      "percentile": 48.72595146038105,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m48952",
+      "name": "Dana Boisvert",
+      "rating": 1483.82,
+      "rd": 28.11,
+      "ratingClass": "C",
+      "homeLocation": "The Acton Bowladrome (The Drome!)",
+      "homeLocationId": "11424",
+      "percentile": 40.44812968742721,
+      "changeDisplay": "+12.3",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m48322",
+      "name": "Graham Kinsey",
+      "rating": 1455.85,
+      "rd": 24.96,
+      "ratingClass": "C",
+      "homeLocation": "Maine Silverball Tavern",
+      "homeLocationId": "6247",
+      "percentile": 29.379978571761306,
+      "changeDisplay": "-2.4",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m59810",
+      "name": "Patrick",
+      "rating": 1414.04,
+      "rd": 33.49,
+      "ratingClass": "C",
+      "homeLocation": "Tycoon Arcade",
+      "homeLocationId": "13659",
+      "percentile": 16.159686961382587,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m61957",
+      "name": "Justin Moore",
+      "rating": 1398.54,
+      "rd": 65.25,
+      "ratingClass": "D",
+      "homeLocation": "Tycoon Arcade",
+      "homeLocationId": "13659",
+      "percentile": 12.148879675781432,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i124759",
+      "name": "Mallory Boisvert",
+      "rating": 1357.71,
+      "rd": 65.17,
+      "ratingClass": "D",
+      "homeLocation": "Tycoon Arcade",
+      "homeLocationId": "13659",
+      "percentile": 5.142777286066987,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "locationId": "237",
+  "name": "Dennis’s Arcade",
+  "address": "",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 6,
+  "relatedVenues": [
+    {
+      "locationId": "8743",
+      "name": "Fun Stop Arcade",
+      "address": "41 Clementon Rd Berlin, NJ 08009",
+      "count": 8
+    },
+    {
+      "locationId": "4097",
+      "name": "Starcade",
+      "address": "",
+      "count": 2
+    },
+    {
+      "locationId": "243",
+      "name": "Robert's",
+      "address": "",
+      "count": 1
+    }
+  ],
+  "players": [
+    {
+      "id": "m60038",
+      "name": "Brett Baron",
+      "rating": 1613.51,
+      "rd": 28.09,
+      "ratingClass": "A",
+      "homeLocation": "Fun Stop Arcade",
+      "homeLocationId": "8743",
+      "percentile": 85.18190711324358,
+      "changeDisplay": "+8.8",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m16749",
+      "name": "Barry Myers",
+      "rating": 1547.01,
+      "rd": 35.33,
+      "ratingClass": "B",
+      "homeLocation": "Dennis’s Arcade",
+      "homeLocationId": "237",
+      "percentile": 65.57972702287232,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m6110",
+      "name": "Bill Baron",
+      "rating": 1541.11,
+      "rd": 34.72,
+      "ratingClass": "B",
+      "homeLocation": "Dennis’s Arcade",
+      "homeLocationId": "237",
+      "percentile": 63.530069408860115,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m19242",
+      "name": "Tim Dolan",
+      "rating": 1507.44,
+      "rd": 37.68,
+      "ratingClass": "B",
+      "homeLocation": "Dennis’s Arcade",
+      "homeLocationId": "237",
+      "percentile": 50.1886616667443,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m499",
+      "name": "Pat Barcello",
+      "rating": 1476.12,
+      "rd": 34.1,
+      "ratingClass": "C",
+      "homeLocation": "Dennis’s Arcade",
+      "homeLocationId": "237",
+      "percentile": 37.313085200540364,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i152932",
+      "name": "laura sweet",
+      "rating": 1312.93,
+      "rd": 34.68,
+      "ratingClass": "D",
+      "homeLocation": "Fun Stop Arcade",
+      "homeLocationId": "8743",
+      "percentile": 1.5092933339544417,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "tournamentId": 264805,
+  "name": "Finals for North Mountain Brewing League 2026 #3",
+  "date": "2026-08-04",
+  "locationId": "10002",
+  "locationName": "North Mountain Brewing Company",
+  "playerCount": 8,
+  "ratingsDate": "2026-08-04",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m3000",
+      "name": "Dave Halley",
+      "rating": 1605.1,
+      "dailyRatingChange": 5.83
+    },
+    {
+      "position": 2,
+      "playerId": "i107505",
+      "name": "David Sanders AZ",
+      "rating": 1624.09,
+      "dailyRatingChange": 3.79
+    },
+    {
+      "position": 3,
+      "playerId": "m20676",
+      "name": "Mike McClure",
+      "rating": 1622.57,
+      "dailyRatingChange": 1.1
+    },
+    {
+      "position": 4,
+      "playerId": "m14531",
+      "name": "Andrew Kohtz",
+      "rating": 1659.83,
+      "dailyRatingChange": 0.61
+    },
+    {
+      "position": 5,
+      "playerId": "m39215",
+      "name": "Jared Harris WA",
+      "rating": 1740.64,
+      "dailyRatingChange": -3.78
+    },
+    {
+      "position": 6,
+      "playerId": "m37101",
+      "name": "Stephan Klein",
+      "rating": 1621.59,
+      "dailyRatingChange": -1.88
+    },
+    {
+      "position": 7,
+      "playerId": "m52466",
+      "name": "Louis Rulon",
+      "rating": 1588.82,
+      "dailyRatingChange": -3.75
+    },
+    {
+      "position": 7,
+      "playerId": "m31786",
+      "name": "Kristofer Jonson",
+      "rating": 1558.12,
+      "dailyRatingChange": -2.83
+    }
+  ]
+}

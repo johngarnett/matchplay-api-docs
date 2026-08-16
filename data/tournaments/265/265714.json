@@ -1,0 +1,53 @@
+{
+  "tournamentId": 265714,
+  "name": "Another Castle Amazing Race",
+  "date": "2026-08-06",
+  "locationId": "8302",
+  "locationName": "Another Castle Arcade Edition -Edmonds",
+  "playerCount": 6,
+  "ratingsDate": null,
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m3038",
+      "name": "Joshua Francis",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 2,
+      "playerId": "m28883",
+      "name": "Cole Anthony",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 3,
+      "playerId": "i133359",
+      "name": "Shervin Moheb",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 4,
+      "playerId": "m33281",
+      "name": "Daniel Anthony",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 5,
+      "playerId": "m33379",
+      "name": "Erik Rikansrud",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 6,
+      "playerId": "m20284",
+      "name": "Josue Mendez",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

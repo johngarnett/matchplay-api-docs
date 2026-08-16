@@ -1,0 +1,53 @@
+{
+  "tournamentId": 266018,
+  "name": "Finals for NPC Friday Night - 8/7/2026",
+  "date": "2026-08-08",
+  "locationId": "8863",
+  "locationName": "Northstar Pinball Collective",
+  "playerCount": 6,
+  "ratingsDate": "2026-08-08",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m4138",
+      "name": "Luke Nahorniak",
+      "rating": 1835.15,
+      "dailyRatingChange": 4.98
+    },
+    {
+      "position": 2,
+      "playerId": "m51999",
+      "name": "Luke Mutchler",
+      "rating": 1643.44,
+      "dailyRatingChange": 6.69
+    },
+    {
+      "position": 3,
+      "playerId": "m35430",
+      "name": "Joe Heil",
+      "rating": 1547.83,
+      "dailyRatingChange": 8.92
+    },
+    {
+      "position": 4,
+      "playerId": "m46560",
+      "name": "Jeff Stenzel",
+      "rating": 1637.9,
+      "dailyRatingChange": -5.15
+    },
+    {
+      "position": 5,
+      "playerId": "m46445",
+      "name": "Fred Gams",
+      "rating": 1534.26,
+      "dailyRatingChange": 6.06
+    },
+    {
+      "position": 6,
+      "playerId": "m33844",
+      "name": "Stan Dessens",
+      "rating": 1624.37,
+      "dailyRatingChange": -2.75
+    }
+  ]
+}

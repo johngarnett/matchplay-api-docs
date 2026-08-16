@@ -1,0 +1,39 @@
+{
+  "tournamentId": 262764,
+  "name": "Finals for Finals for Social House Bar - XFMR Launch Party (7/18)",
+  "date": "2026-07-19",
+  "locationId": "11415",
+  "locationName": "Social House Mankato",
+  "playerCount": 4,
+  "ratingsDate": "2026-07-19",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m489764",
+      "name": "Casey Boone",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 2,
+      "playerId": "m53190",
+      "name": "Lucas Sweeney",
+      "rating": 1631.27,
+      "dailyRatingChange": 0.69
+    },
+    {
+      "position": 3,
+      "playerId": "i99135",
+      "name": "Larry Hodgson",
+      "rating": 1630.46,
+      "dailyRatingChange": 1.98
+    },
+    {
+      "position": 4,
+      "playerId": "m8777",
+      "name": "Glen VonMaluski",
+      "rating": 1599.97,
+      "dailyRatingChange": 1.01
+    }
+  ]
+}

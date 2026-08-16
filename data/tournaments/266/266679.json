@@ -1,0 +1,39 @@
+{
+  "tournamentId": 266679,
+  "name": "Finals for Axecadia Pinball Weekly",
+  "date": "2026-08-12",
+  "locationId": "8704",
+  "locationName": "Axecadia",
+  "playerCount": 4,
+  "ratingsDate": "2026-08-12",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m37969",
+      "name": "Arthur Ruple",
+      "rating": 1716.65,
+      "dailyRatingChange": 8.49
+    },
+    {
+      "position": 2,
+      "playerId": "m24215",
+      "name": "Chris Herr",
+      "rating": 1621.18,
+      "dailyRatingChange": 1.53
+    },
+    {
+      "position": 3,
+      "playerId": "m43618",
+      "name": "Kristen Pfaff",
+      "rating": 1491.02,
+      "dailyRatingChange": 3.43
+    },
+    {
+      "position": 4,
+      "playerId": "m486168",
+      "name": "James Frank",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

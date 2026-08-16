@@ -1,0 +1,287 @@
+{
+  "locationId": "8429",
+  "name": "Hungry Tiger",
+  "address": "213 Southeast 12th Avenue, Portland, OR 97214, US",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 18,
+  "relatedVenues": [
+    {
+      "locationId": "7334",
+      "name": "Ground Kontrol Classic Arcade",
+      "address": "115 NW 5th Ave, Portland, OR 97209, US",
+      "count": 79
+    },
+    {
+      "locationId": "5246",
+      "name": "Next Level Pinball Museum",
+      "address": "1458 NE 25th Ave, Hillsboro, OR 97124, USA",
+      "count": 46
+    },
+    {
+      "locationId": "9714",
+      "name": "Special When Lit Pinball",
+      "address": "15685 SW 116th Ave King City, OR 97224",
+      "count": 21
+    },
+    {
+      "locationId": "9540",
+      "name": "The Fixin' To",
+      "address": "8218 North Lombard Street, Portland, OR 97203, US",
+      "count": 17
+    },
+    {
+      "locationId": "6346",
+      "name": "NWPAS",
+      "address": "",
+      "count": 10
+    },
+    {
+      "locationId": "11443",
+      "name": "C-Bar",
+      "address": "2880 SE Gladstone St, Portland, OR 97202, US",
+      "count": 10
+    },
+    {
+      "locationId": "7559",
+      "name": "Slingshot Lounge",
+      "address": "5532 SE Center, Portland, OR 97206, US",
+      "count": 9
+    },
+    {
+      "locationId": "12907",
+      "name": "Gift",
+      "address": "1935 SE Hawthorne Blvd, Portland, OR 97214, US",
+      "count": 7
+    },
+    {
+      "locationId": "10810",
+      "name": "Level Beer Buckman Kerns",
+      "address": "1447 Northeast Sandy Boulevard, Portland, OR 97232, US",
+      "count": 6
+    },
+    {
+      "locationId": "9840",
+      "name": "The ZED",
+      "address": "5716 SE 92nd Ave, Portland, OR 97266, US",
+      "count": 5
+    }
+  ],
+  "players": [
+    {
+      "id": "m7530",
+      "name": "Mathew Peterson",
+      "rating": 1723.23,
+      "rd": 16.99,
+      "ratingClass": "Expert",
+      "homeLocation": "Next Level Pinball Museum",
+      "homeLocationId": "5246",
+      "percentile": 97.84785950528718,
+      "changeDisplay": "+11.4",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m20914",
+      "name": "Jeff Monroe",
+      "rating": 1701.92,
+      "rd": 20.15,
+      "ratingClass": "Expert",
+      "homeLocation": "Ground Kontrol Classic Arcade",
+      "homeLocationId": "7334",
+      "percentile": 96.71123119206223,
+      "changeDisplay": "-3.4",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m6039",
+      "name": "Erik Graciosa",
+      "rating": 1689.83,
+      "rd": 26.26,
+      "ratingClass": "A",
+      "homeLocation": "Ground Kontrol Classic Arcade",
+      "homeLocationId": "7334",
+      "percentile": 95.91000139749383,
+      "changeDisplay": "-7.7",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m23091",
+      "name": "Nick Elliott",
+      "rating": 1659.88,
+      "rd": 16.45,
+      "ratingClass": "A",
+      "homeLocation": "Special When Lit Pinball",
+      "homeLocationId": "9714",
+      "percentile": 93.08240555270882,
+      "changeDisplay": "+5.4",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m12661",
+      "name": "Stefan Novak",
+      "rating": 1580.38,
+      "rd": 44.84,
+      "ratingClass": "B",
+      "homeLocation": "Hungry Tiger",
+      "homeLocationId": "8429",
+      "percentile": 76.72706945544324,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m13654",
+      "name": "Bill Lascher",
+      "rating": 1578.22,
+      "rd": 25.43,
+      "ratingClass": "B",
+      "homeLocation": "Ground Kontrol Classic Arcade",
+      "homeLocationId": "7334",
+      "percentile": 76.07956398192574,
+      "changeDisplay": "+7.0",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "i8473",
+      "name": "David Morell",
+      "rating": 1573.27,
+      "rd": 22.69,
+      "ratingClass": "B",
+      "homeLocation": "The Fixin' To",
+      "homeLocationId": "9540",
+      "percentile": 74.5423207714166,
+      "changeDisplay": "+1.6",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m29721",
+      "name": "Sahara Scott",
+      "rating": 1570.57,
+      "rd": 23.79,
+      "ratingClass": "B",
+      "homeLocation": "Ground Kontrol Classic Arcade",
+      "homeLocationId": "7334",
+      "percentile": 73.69916616201611,
+      "changeDisplay": "+2.3",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m48960",
+      "name": "Cory Butcher",
+      "rating": 1554.88,
+      "rd": 24.48,
+      "ratingClass": "B",
+      "homeLocation": "Ground Kontrol Classic Arcade",
+      "homeLocationId": "7334",
+      "percentile": 68.6495551311315,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m35404",
+      "name": "Zach Marlowe",
+      "rating": 1552.89,
+      "rd": 24.25,
+      "ratingClass": "B",
+      "homeLocation": "Ground Kontrol Classic Arcade",
+      "homeLocationId": "7334",
+      "percentile": 67.8483253365631,
+      "changeDisplay": "+2.5",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m7407",
+      "name": "Dawnda Durbin",
+      "rating": 1540.9,
+      "rd": 18.87,
+      "ratingClass": "B",
+      "homeLocation": "Next Level Pinball Museum",
+      "homeLocationId": "5246",
+      "percentile": 63.45553640471421,
+      "changeDisplay": "-1.9",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m53328",
+      "name": "Emily Dombrosky",
+      "rating": 1522.36,
+      "rd": 30.3,
+      "ratingClass": "B",
+      "homeLocation": "Ground Kontrol Classic Arcade",
+      "homeLocationId": "7334",
+      "percentile": 56.06279405599292,
+      "changeDisplay": "+14.3",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m36016",
+      "name": "Rhienium",
+      "rating": 1474.43,
+      "rd": 25.27,
+      "ratingClass": "C",
+      "homeLocation": "Ground Kontrol Classic Arcade",
+      "homeLocationId": "7334",
+      "percentile": 36.67955466530023,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m55000",
+      "name": "Oscar Caceres",
+      "rating": 1467.28,
+      "rd": 36.18,
+      "ratingClass": "C",
+      "homeLocation": "Ground Kontrol Classic Arcade",
+      "homeLocationId": "7334",
+      "percentile": 33.76345087809195,
+      "changeDisplay": "-10.3",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m37387",
+      "name": "Lance Conklin",
+      "rating": 1435.08,
+      "rd": 42.38,
+      "ratingClass": "C",
+      "homeLocation": "Ground Kontrol Classic Arcade",
+      "homeLocationId": "7334",
+      "percentile": 22.154935482368288,
+      "changeDisplay": "+20.1",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m36298",
+      "name": "Alex McGregor",
+      "rating": 1434.13,
+      "rd": 47.28,
+      "ratingClass": "C",
+      "homeLocation": "Hungry Tiger",
+      "homeLocationId": "8429",
+      "percentile": 21.838170214748217,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m46439",
+      "name": "Marea Lemas",
+      "rating": 1422.25,
+      "rd": 25.44,
+      "ratingClass": "C",
+      "homeLocation": "Next Level Pinball Museum",
+      "homeLocationId": "5246",
+      "percentile": 18.274560954022455,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m61628",
+      "name": "Mitchell Clark",
+      "rating": 1318.66,
+      "rd": 44.69,
+      "ratingClass": "D",
+      "homeLocation": "Next Level Pinball Museum",
+      "homeLocationId": "5246",
+      "percentile": 1.7748171612242045,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

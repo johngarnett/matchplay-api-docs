@@ -1,0 +1,39 @@
+{
+  "tournamentId": 262711,
+  "name": "Finals for Stern Army's July RWI",
+  "date": "2026-07-20",
+  "locationId": "8493",
+  "locationName": "Rullo's",
+  "playerCount": 4,
+  "ratingsDate": "2026-07-20",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m20450",
+      "name": "Aaron Hamel",
+      "rating": 1732.81,
+      "dailyRatingChange": 47.88
+    },
+    {
+      "position": 2,
+      "playerId": "m2807",
+      "name": "Robert Wong",
+      "rating": 1696.07,
+      "dailyRatingChange": -2.74
+    },
+    {
+      "position": 3,
+      "playerId": "m15369",
+      "name": "A.J. Gould",
+      "rating": 1615.28,
+      "dailyRatingChange": 8.46
+    },
+    {
+      "position": 4,
+      "playerId": "m31412",
+      "name": "Stephen Christopher",
+      "rating": 1574.95,
+      "dailyRatingChange": -1.12
+    }
+  ]
+}

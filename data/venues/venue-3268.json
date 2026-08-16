@@ -1,0 +1,359 @@
+{
+  "locationId": "3268",
+  "name": "Ice Ice Arcade",
+  "address": "",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 24,
+  "relatedVenues": [
+    {
+      "locationId": "11386",
+      "name": "Ice Ice Arcade",
+      "address": "68 Litchfield Rd Londonderry NH 03053",
+      "count": 77
+    },
+    {
+      "locationId": "10377",
+      "name": "Capital Pinball",
+      "address": "70 Pembroke Rd, Concord, NH 03301, US",
+      "count": 16
+    },
+    {
+      "locationId": "13498",
+      "name": "Southern New Hampshire Pinball Club",
+      "address": "48 Bridge St Nashua, NH 03060",
+      "count": 13
+    },
+    {
+      "locationId": "13540",
+      "name": "The Czar's Brewery",
+      "address": "10 Pierce St, Dover, NH, 03820, US",
+      "count": 13
+    },
+    {
+      "locationId": "11626",
+      "name": "The Dusty Planet",
+      "address": "39 Troy Street Providence RI",
+      "count": 4
+    },
+    {
+      "locationId": "9441",
+      "name": "The Pinball Co-op",
+      "address": "1881 Williston Rd, South Burlington, VT, 05403, US",
+      "count": 3
+    },
+    {
+      "locationId": "11428",
+      "name": "Granite State Pinball",
+      "address": "Manchester, NH",
+      "count": 3
+    },
+    {
+      "locationId": "11424",
+      "name": "The Acton Bowladrome (The Drome!)",
+      "address": "257 Main Street, Acton MA 01720",
+      "count": 2
+    },
+    {
+      "locationId": "6675",
+      "name": "Pizza J",
+      "address": "967 Westminster St, Providence, RI 02903, USA",
+      "count": 1
+    },
+    {
+      "locationId": "7878",
+      "name": "Funspot",
+      "address": "579 Endicott Street North, Laconia, NH 03246, US",
+      "count": 1
+    }
+  ],
+  "players": [
+    {
+      "id": "m1554",
+      "name": "Alan MacLean",
+      "rating": 1660.87,
+      "rd": 24.14,
+      "ratingClass": "A",
+      "homeLocation": "Ice Ice Arcade",
+      "homeLocationId": "3268",
+      "percentile": 93.1802301206503,
+      "changeDisplay": "-0.6",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m10054",
+      "name": "Chris Brunette",
+      "rating": 1636.23,
+      "rd": 21.66,
+      "ratingClass": "A",
+      "homeLocation": "Ice Ice Arcade",
+      "homeLocationId": "3268",
+      "percentile": 89.68183723855219,
+      "changeDisplay": "+1.7",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m18373",
+      "name": "Mike Desmarais",
+      "rating": 1623.92,
+      "rd": 21.73,
+      "ratingClass": "A",
+      "homeLocation": "Ice Ice Arcade",
+      "homeLocationId": "3268",
+      "percentile": 87.39460567382494,
+      "changeDisplay": "-4.2",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m398",
+      "name": "Matt Wenger",
+      "rating": 1619.64,
+      "rd": 26.83,
+      "ratingClass": "A",
+      "homeLocation": "Ice Ice Arcade",
+      "homeLocationId": "3268",
+      "percentile": 86.55145106442447,
+      "changeDisplay": "-3.6",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m5899",
+      "name": "Bill MacDonald",
+      "rating": 1583.82,
+      "rd": 24.04,
+      "ratingClass": "B",
+      "homeLocation": "The Dusty Planet",
+      "homeLocationId": "11626",
+      "percentile": 77.68202357106256,
+      "changeDisplay": "+1.3",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m32555",
+      "name": "Jeremy Gagnon",
+      "rating": 1558,
+      "rd": 27.46,
+      "ratingClass": "B",
+      "homeLocation": "Ice Ice Arcade",
+      "homeLocationId": "3268",
+      "percentile": 69.72096706572879,
+      "changeDisplay": "+11.4",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m13539",
+      "name": "Mitch Gagnon",
+      "rating": 1543.77,
+      "rd": 24.19,
+      "ratingClass": "B",
+      "homeLocation": "Ice Ice Arcade",
+      "homeLocationId": "3268",
+      "percentile": 64.48968183723855,
+      "changeDisplay": "+3.6",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m7236",
+      "name": "Chip Morton",
+      "rating": 1543.52,
+      "rd": 24.94,
+      "ratingClass": "B",
+      "homeLocation": "Ice Ice Arcade",
+      "homeLocationId": "3268",
+      "percentile": 64.39651558205618,
+      "changeDisplay": "+4.7",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m379",
+      "name": "Keith Maffei",
+      "rating": 1543.09,
+      "rd": 39.79,
+      "ratingClass": "B",
+      "homeLocation": "Ice Ice Arcade",
+      "homeLocationId": "3268",
+      "percentile": 64.25676619928262,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m17778",
+      "name": "Derek Foxwell",
+      "rating": 1538.71,
+      "rd": 27.74,
+      "ratingClass": "B",
+      "homeLocation": "Ice Ice Arcade",
+      "homeLocationId": "3268",
+      "percentile": 62.56114035496343,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m40053",
+      "name": "Mikey Lulfs",
+      "rating": 1508.22,
+      "rd": 29.91,
+      "ratingClass": "B",
+      "homeLocation": "Ice Ice Arcade",
+      "homeLocationId": "3268",
+      "percentile": 50.542693436437325,
+      "changeDisplay": "+13.6",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m431",
+      "name": "Ron Lulfs",
+      "rating": 1506.25,
+      "rd": 27.74,
+      "ratingClass": "B",
+      "homeLocation": "Ice Ice Arcade",
+      "homeLocationId": "3268",
+      "percentile": 49.713513765314204,
+      "changeDisplay": "+4.7",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "i136719",
+      "name": "Michael Andrews",
+      "rating": 1496.42,
+      "rd": 33.16,
+      "ratingClass": "C",
+      "homeLocation": "Ice Ice Arcade",
+      "homeLocationId": "11386",
+      "percentile": 45.62817347556715,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m52981",
+      "name": "Frank Deneu",
+      "rating": 1492.33,
+      "rd": 23.66,
+      "ratingClass": "C",
+      "homeLocation": "Ice Ice Arcade",
+      "homeLocationId": "3268",
+      "percentile": 43.94652256952532,
+      "changeDisplay": "+11.3",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "i100387",
+      "name": "Chad Adamczyk",
+      "rating": 1483.86,
+      "rd": 26.33,
+      "ratingClass": "C",
+      "homeLocation": "Ice Ice Arcade",
+      "homeLocationId": "11386",
+      "percentile": 40.47142125122281,
+      "changeDisplay": "+15.4",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m50632",
+      "name": "Ian House",
+      "rating": 1462.55,
+      "rd": 25.07,
+      "ratingClass": "C",
+      "homeLocation": "Ice Ice Arcade",
+      "homeLocationId": "3268",
+      "percentile": 31.942050589276565,
+      "changeDisplay": "+0.1",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m27214",
+      "name": "Rhys Wyman",
+      "rating": 1461.48,
+      "rd": 32.12,
+      "ratingClass": "C",
+      "homeLocation": "Ice Ice Arcade",
+      "homeLocationId": "3268",
+      "percentile": 31.518144128196766,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m15294",
+      "name": "Erik Peabody",
+      "rating": 1461.14,
+      "rd": 29.29,
+      "ratingClass": "C",
+      "homeLocation": "Ice Ice Arcade",
+      "homeLocationId": "3268",
+      "percentile": 31.37839474542321,
+      "changeDisplay": "-9.1",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m10483",
+      "name": "John Luke Mills",
+      "rating": 1433.9,
+      "rd": 36.52,
+      "ratingClass": "C",
+      "homeLocation": "Southern New Hampshire Pinball Club",
+      "homeLocationId": "13498",
+      "percentile": 21.745003959565846,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i4185",
+      "name": "Paul McNamara",
+      "rating": 1429.97,
+      "rd": 38.44,
+      "ratingClass": "C",
+      "homeLocation": "Ice Ice Arcade",
+      "homeLocationId": "11386",
+      "percentile": 20.538500954954117,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i148176",
+      "name": "Hannah Foxwell",
+      "rating": 1386.19,
+      "rd": 38.58,
+      "ratingClass": "D",
+      "homeLocation": "Ice Ice Arcade",
+      "homeLocationId": "11386",
+      "percentile": 9.544882843434108,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i67313",
+      "name": "Steve Weintraub",
+      "rating": 1370.65,
+      "rd": 50.6,
+      "ratingClass": "D",
+      "homeLocation": "Ice Ice Arcade",
+      "homeLocationId": "3268",
+      "percentile": 6.782503377276751,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m54470",
+      "name": "Stacie Spenser",
+      "rating": 1364.47,
+      "rd": 32.11,
+      "ratingClass": "D",
+      "homeLocation": "Ice Ice Arcade",
+      "homeLocationId": "3268",
+      "percentile": 5.9766152699492245,
+      "changeDisplay": "+5.1",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "i85432",
+      "name": "David Foxwell",
+      "rating": null,
+      "rd": null,
+      "ratingClass": "N/A",
+      "homeLocation": "Ice Ice Arcade",
+      "homeLocationId": "3268",
+      "percentile": null,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

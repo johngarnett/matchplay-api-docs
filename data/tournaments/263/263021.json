@@ -1,0 +1,102 @@
+{
+  "tournamentId": 263021,
+  "name": "Peoria Area Summer 2026 League #8",
+  "date": "2026-07-21",
+  "locationId": "13434",
+  "locationName": "Pinball Haven Workshop",
+  "playerCount": 13,
+  "ratingsDate": "2026-07-21",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m45602",
+      "name": "Scott Loser",
+      "rating": 1541.44,
+      "dailyRatingChange": 12.34
+    },
+    {
+      "position": 2,
+      "playerId": "m30105",
+      "name": "Joe Sharpe",
+      "rating": 1705.63,
+      "dailyRatingChange": 1.8
+    },
+    {
+      "position": 3,
+      "playerId": "m40131",
+      "name": "Mike Dafforn",
+      "rating": 1536.73,
+      "dailyRatingChange": 6.73
+    },
+    {
+      "position": 4,
+      "playerId": "m28887",
+      "name": "CJ Krawcyk",
+      "rating": 1711.04,
+      "dailyRatingChange": -1.13
+    },
+    {
+      "position": 5,
+      "playerId": "i110000",
+      "name": "Jason Richards IL",
+      "rating": 1557.53,
+      "dailyRatingChange": 0.86
+    },
+    {
+      "position": 6,
+      "playerId": "m1175",
+      "name": "Katie Rosier",
+      "rating": 1537.45,
+      "dailyRatingChange": -0.31
+    },
+    {
+      "position": 7,
+      "playerId": "m40129",
+      "name": "Dustin Draggist",
+      "rating": 1482.01,
+      "dailyRatingChange": -0.67
+    },
+    {
+      "position": 8,
+      "playerId": "m51950",
+      "name": "Mark Hartman",
+      "rating": 1440.99,
+      "dailyRatingChange": 3.94
+    },
+    {
+      "position": 8,
+      "playerId": "m50858",
+      "name": "Dan Scott",
+      "rating": 1535.03,
+      "dailyRatingChange": -4.59
+    },
+    {
+      "position": 10,
+      "playerId": "m38081",
+      "name": "Chad Udell",
+      "rating": 1499.74,
+      "dailyRatingChange": -5.15
+    },
+    {
+      "position": 11,
+      "playerId": "m22021",
+      "name": "Shelley Sharpe",
+      "rating": 1584.38,
+      "dailyRatingChange": -6.98
+    },
+    {
+      "position": 11,
+      "playerId": "i88929",
+      "name": "Nikki Bosserman",
+      "rating": 1477.82,
+      "dailyRatingChange": -15.66
+    },
+    {
+      "position": 11,
+      "playerId": "i88930",
+      "name": "Ian Bosserman",
+      "rating": 1426.21,
+      "dailyRatingChange": -5.26
+    }
+  ]
+}

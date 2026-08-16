@@ -1,0 +1,137 @@
+{
+  "locationId": "1494",
+  "name": "Work-Work",
+  "address": "Munkegata 58, Trondheim, 7013, NO",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 10,
+  "relatedVenues": [
+    {
+      "locationId": "12354",
+      "name": "The Outlane",
+      "address": "Brøttemsvegen 807D, 7540 Klæbu, Norway",
+      "count": 5
+    }
+  ],
+  "players": [
+    {
+      "id": "m2875",
+      "name": "Per Sindre Larsen",
+      "rating": 1702.36,
+      "rd": 34.46,
+      "ratingClass": "Expert",
+      "homeLocation": "Work-Work",
+      "homeLocationId": "1494",
+      "percentile": 96.7298644430987,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m37229",
+      "name": "Julian Sæther",
+      "rating": 1674.53,
+      "rd": 41.58,
+      "ratingClass": "A",
+      "homeLocation": "Work-Work",
+      "homeLocationId": "1494",
+      "percentile": 94.5544323845903,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m55",
+      "name": "Øyvind Møll",
+      "rating": 1608.86,
+      "rd": 30.72,
+      "ratingClass": "A",
+      "homeLocation": "Work-Work",
+      "homeLocationId": "1494",
+      "percentile": 84.18036987003308,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m9576",
+      "name": "Øyvind Repvik",
+      "rating": 1552.89,
+      "rd": 35.75,
+      "ratingClass": "B",
+      "homeLocation": "Work-Work",
+      "homeLocationId": "1494",
+      "percentile": 67.84366702380397,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m53027",
+      "name": "Jarl-Idar Mikkelsen",
+      "rating": 1508.88,
+      "rd": 43.04,
+      "ratingClass": "B",
+      "homeLocation": "Work-Work",
+      "homeLocationId": "1494",
+      "percentile": 50.77095076163414,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m32664",
+      "name": "Andreas Møll",
+      "rating": 1490.74,
+      "rd": 31.84,
+      "ratingClass": "C",
+      "homeLocation": "Work-Work",
+      "homeLocationId": "1494",
+      "percentile": 43.280383844971354,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m48141",
+      "name": "Kristin Bylund",
+      "rating": 1488.97,
+      "rd": 34.36,
+      "ratingClass": "C",
+      "homeLocation": "Work-Work",
+      "homeLocationId": "1494",
+      "percentile": 42.553687054548845,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i50434",
+      "name": "Axel von Hanslien",
+      "rating": 1417.55,
+      "rd": 53.14,
+      "ratingClass": "C",
+      "homeLocation": "Work-Work",
+      "homeLocationId": "1494",
+      "percentile": 17.04010807285601,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i50433",
+      "name": "Vegard Mortensen",
+      "rating": 1380.39,
+      "rd": 65.29,
+      "ratingClass": "D",
+      "homeLocation": "Work-Work",
+      "homeLocationId": "1494",
+      "percentile": 8.380304653654447,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i129622",
+      "name": "Mikael Løberg",
+      "rating": null,
+      "rd": null,
+      "ratingClass": "N/A",
+      "homeLocation": "Work-Work",
+      "homeLocationId": "1494",
+      "percentile": null,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

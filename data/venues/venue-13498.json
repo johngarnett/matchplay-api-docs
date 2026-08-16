@@ -1,0 +1,275 @@
+{
+  "locationId": "13498",
+  "name": "Southern New Hampshire Pinball Club",
+  "address": "48 Bridge St Nashua, NH 03060",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 17,
+  "relatedVenues": [
+    {
+      "locationId": "11424",
+      "name": "The Acton Bowladrome (The Drome!)",
+      "address": "257 Main Street, Acton MA 01720",
+      "count": 20
+    },
+    {
+      "locationId": "11386",
+      "name": "Ice Ice Arcade",
+      "address": "68 Litchfield Rd Londonderry NH 03053",
+      "count": 17
+    },
+    {
+      "locationId": "3268",
+      "name": "Ice Ice Arcade",
+      "address": "",
+      "count": 16
+    },
+    {
+      "locationId": "10377",
+      "name": "Capital Pinball",
+      "address": "70 Pembroke Rd, Concord, NH 03301, US",
+      "count": 15
+    },
+    {
+      "locationId": "7878",
+      "name": "Funspot",
+      "address": "579 Endicott Street North, Laconia, NH 03246, US",
+      "count": 9
+    },
+    {
+      "locationId": "13540",
+      "name": "The Czar's Brewery",
+      "address": "10 Pierce St, Dover, NH, 03820, US",
+      "count": 4
+    },
+    {
+      "locationId": "8959",
+      "name": "Western Mass Pinball Club",
+      "address": "4 Springfield Street, Palmer, MA 01080, US",
+      "count": 3
+    },
+    {
+      "locationId": "9084",
+      "name": "Flat Top Johnny's",
+      "address": "300 Main St, Cambridge, MA 02142, US",
+      "count": 2
+    },
+    {
+      "locationId": "9109",
+      "name": "Double Bull Taphouse",
+      "address": "210 Andover Street, Peabody, MA 01960, US",
+      "count": 2
+    },
+    {
+      "locationId": "10939",
+      "name": "Millennium Place",
+      "address": "2000 Premier Way, Sherwood Park, AB",
+      "count": 2
+    }
+  ],
+  "players": [
+    {
+      "id": "m22635",
+      "name": "Anne Whipple",
+      "rating": 1606.12,
+      "rd": 22.62,
+      "ratingClass": "A",
+      "homeLocation": "Funspot",
+      "homeLocationId": "7878",
+      "percentile": 83.47230633064704,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m12067",
+      "name": "Matt Lemoine",
+      "rating": 1591.22,
+      "rd": 17.24,
+      "ratingClass": "B",
+      "homeLocation": "Capital Pinball",
+      "homeLocationId": "10377",
+      "percentile": 79.80621418922065,
+      "changeDisplay": "+10.1",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m1178",
+      "name": "Michael Corbett MA",
+      "rating": 1575.58,
+      "rd": 25.16,
+      "ratingClass": "B",
+      "homeLocation": "Southern New Hampshire Pinball Club",
+      "homeLocationId": "13498",
+      "percentile": 75.32491731494852,
+      "changeDisplay": "+5.0",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m37118",
+      "name": "Andrew Diorio",
+      "rating": 1550.39,
+      "rd": 44.32,
+      "ratingClass": "B",
+      "homeLocation": "Southern New Hampshire Pinball Club",
+      "homeLocationId": "13498",
+      "percentile": 66.82815484231611,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m393",
+      "name": "Mike Testa",
+      "rating": 1549.23,
+      "rd": 53.72,
+      "ratingClass": "B",
+      "homeLocation": "Southern New Hampshire Pinball Club",
+      "homeLocationId": "13498",
+      "percentile": 66.39027344295896,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m7236",
+      "name": "Chip Morton",
+      "rating": 1543.52,
+      "rd": 24.94,
+      "ratingClass": "B",
+      "homeLocation": "Ice Ice Arcade",
+      "homeLocationId": "3268",
+      "percentile": 64.39651558205618,
+      "changeDisplay": "+4.7",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m41294",
+      "name": "Chris Townsend",
+      "rating": 1531.33,
+      "rd": 23.7,
+      "ratingClass": "B",
+      "homeLocation": "Southern New Hampshire Pinball Club",
+      "homeLocationId": "13498",
+      "percentile": 59.55652862533191,
+      "changeDisplay": "+4.7",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m7796",
+      "name": "Greg Koker",
+      "rating": 1524.36,
+      "rd": 29.42,
+      "ratingClass": "B",
+      "homeLocation": "Southern New Hampshire Pinball Club",
+      "homeLocationId": "13498",
+      "percentile": 56.82675734848838,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m431",
+      "name": "Ron Lulfs",
+      "rating": 1506.25,
+      "rd": 27.74,
+      "ratingClass": "B",
+      "homeLocation": "Ice Ice Arcade",
+      "homeLocationId": "3268",
+      "percentile": 49.713513765314204,
+      "changeDisplay": "+4.7",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m26851",
+      "name": "Will Parks",
+      "rating": 1503.39,
+      "rd": 24.84,
+      "ratingClass": "B",
+      "homeLocation": "Southern New Hampshire Pinball Club",
+      "homeLocationId": "13498",
+      "percentile": 48.53030232449807,
+      "changeDisplay": "+4.8",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m48952",
+      "name": "Dana Boisvert",
+      "rating": 1483.82,
+      "rd": 28.11,
+      "ratingClass": "C",
+      "homeLocation": "The Acton Bowladrome (The Drome!)",
+      "homeLocationId": "11424",
+      "percentile": 40.44812968742721,
+      "changeDisplay": "+12.3",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m17938",
+      "name": "Joshua Mazgelis",
+      "rating": 1482.31,
+      "rd": 29.83,
+      "ratingClass": "C",
+      "homeLocation": "Southern New Hampshire Pinball Club",
+      "homeLocationId": "13498",
+      "percentile": 39.837890715982674,
+      "changeDisplay": "-13.8",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m52875",
+      "name": "Jason Foss",
+      "rating": 1474.35,
+      "rd": 23.99,
+      "ratingClass": "C",
+      "homeLocation": "Southern New Hampshire Pinball Club",
+      "homeLocationId": "13498",
+      "percentile": 36.63762985046816,
+      "changeDisplay": "-3.5",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m10483",
+      "name": "John Luke Mills",
+      "rating": 1433.9,
+      "rd": 36.52,
+      "ratingClass": "C",
+      "homeLocation": "Southern New Hampshire Pinball Club",
+      "homeLocationId": "13498",
+      "percentile": 21.745003959565846,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m34507",
+      "name": "Gerard Buchko",
+      "rating": 1417.15,
+      "rd": 39.6,
+      "ratingClass": "C",
+      "homeLocation": "Capital Pinball",
+      "homeLocationId": "10377",
+      "percentile": 16.928308566637167,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i124918",
+      "name": "Harold Scott",
+      "rating": 1411.33,
+      "rd": 41.25,
+      "ratingClass": "C",
+      "homeLocation": "Southern New Hampshire Pinball Club",
+      "homeLocationId": "13498",
+      "percentile": 15.442306796478316,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m43052",
+      "name": "Steven Weintraub",
+      "rating": 1403.44,
+      "rd": 36.51,
+      "ratingClass": "C",
+      "homeLocation": "Southern New Hampshire Pinball Club",
+      "homeLocationId": "13498",
+      "percentile": 13.378674244188755,
+      "changeDisplay": "-30.7",
+      "changeClass": "change-negative"
+    }
+  ]
+}

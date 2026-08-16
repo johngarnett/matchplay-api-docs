@@ -1,0 +1,151 @@
+{
+  "tournamentId": 260863,
+  "name": "Finals for Nackas SommarPAPA",
+  "date": "2026-07-26",
+  "locationId": "7388",
+  "locationName": "Nacka Flipper",
+  "playerCount": 20,
+  "ratingsDate": "2026-07-26",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m53744",
+      "name": "Iván Håkansson",
+      "rating": 1701.02,
+      "dailyRatingChange": 12.88
+    },
+    {
+      "position": 2,
+      "playerId": "m34010",
+      "name": "Patrik Lindberg",
+      "rating": 1695.98,
+      "dailyRatingChange": 9.21
+    },
+    {
+      "position": 3,
+      "playerId": "m164",
+      "name": "Mats Runsten",
+      "rating": 1747.54,
+      "dailyRatingChange": 13.74
+    },
+    {
+      "position": 4,
+      "playerId": "m12463",
+      "name": "Adam Higgins",
+      "rating": 1620.15,
+      "dailyRatingChange": 1.45
+    },
+    {
+      "position": 5,
+      "playerId": "m5205",
+      "name": "Mikael Lindström",
+      "rating": 1657.74,
+      "dailyRatingChange": 21.45
+    },
+    {
+      "position": 6,
+      "playerId": "m9153",
+      "name": "Johan Gehlin",
+      "rating": 1549.29,
+      "dailyRatingChange": 9.27
+    },
+    {
+      "position": 7,
+      "playerId": "m19485",
+      "name": "Martin Abelsson",
+      "rating": 1616.79,
+      "dailyRatingChange": -15.95
+    },
+    {
+      "position": 8,
+      "playerId": "m9152",
+      "name": "Mulle Livsgnist",
+      "rating": 1590.54,
+      "dailyRatingChange": -0.86
+    },
+    {
+      "position": 9,
+      "playerId": "m3686",
+      "name": "Stefan Bååth",
+      "rating": 1621.23,
+      "dailyRatingChange": 19.95
+    },
+    {
+      "position": 10,
+      "playerId": "m9148",
+      "name": "Veronica Mazurkiewicz",
+      "rating": 1533.33,
+      "dailyRatingChange": 1.8
+    },
+    {
+      "position": 10,
+      "playerId": "m3659",
+      "name": "Fredrik Malmqvist",
+      "rating": 1712.31,
+      "dailyRatingChange": -15.35
+    },
+    {
+      "position": 10,
+      "playerId": "m32545",
+      "name": "Mattias Häggström Gerdt",
+      "rating": 1585.16,
+      "dailyRatingChange": -1.96
+    },
+    {
+      "position": 10,
+      "playerId": "m349",
+      "name": "Urban Magnusson",
+      "rating": 1587.43,
+      "dailyRatingChange": -16.01
+    },
+    {
+      "position": 14,
+      "playerId": "m19121",
+      "name": "Fredrik Kaloinen",
+      "rating": 1630.06,
+      "dailyRatingChange": -12.55
+    },
+    {
+      "position": 15,
+      "playerId": "m32598",
+      "name": "Niklas Pinzke",
+      "rating": 1568.22,
+      "dailyRatingChange": 0.61
+    },
+    {
+      "position": 16,
+      "playerId": "m35752",
+      "name": "Hans Göthberg",
+      "rating": 1542.8,
+      "dailyRatingChange": -1.47
+    },
+    {
+      "position": 17,
+      "playerId": "m95",
+      "name": "Andreas Hedstrom",
+      "rating": 1614.51,
+      "dailyRatingChange": -20.69
+    },
+    {
+      "position": 17,
+      "playerId": "m28896",
+      "name": "Eskil Österberg",
+      "rating": 1554.55,
+      "dailyRatingChange": -2.52
+    },
+    {
+      "position": 19,
+      "playerId": "m90",
+      "name": "Helena Walter Higgins",
+      "rating": 1600.6,
+      "dailyRatingChange": -8.51
+    },
+    {
+      "position": 19,
+      "playerId": "m33977",
+      "name": "Patrik Johnsson",
+      "rating": 1592.49,
+      "dailyRatingChange": -7.54
+    }
+  ]
+}

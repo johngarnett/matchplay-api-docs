@@ -1,0 +1,311 @@
+{
+  "locationId": "12937",
+  "name": "Hanhenpoika",
+  "address": "Rautatienkatu 7, Lahti, 15100, FI",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 23,
+  "relatedVenues": [
+    {
+      "locationId": "10085",
+      "name": "Oldi",
+      "address": "Aleksanterinkatu 9, Lahti, 15110, FI",
+      "count": 165
+    },
+    {
+      "locationId": "12061",
+      "name": "Ravintola Hanhenpoika",
+      "address": "Rautatienkatu 7",
+      "count": 47
+    },
+    {
+      "locationId": "12600",
+      "name": "Flipperiparkki",
+      "address": "Hämeenkatu 9, Lahti, 15110, FI",
+      "count": 38
+    },
+    {
+      "locationId": "10930",
+      "name": "Flipperiparkki",
+      "address": "Hämeenkatu 9,Lahti, Finland",
+      "count": 24
+    }
+  ],
+  "players": [
+    {
+      "id": "m11987",
+      "name": "Mikko Nurmi",
+      "rating": 1595.55,
+      "rd": 19.86,
+      "ratingClass": "B",
+      "homeLocation": "Oldi",
+      "homeLocationId": "10085",
+      "percentile": 80.91955093865002,
+      "changeDisplay": "+16.2",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m35494",
+      "name": "Sulevi Ylä-Soininmäki",
+      "rating": 1585.92,
+      "rd": 27,
+      "ratingClass": "B",
+      "homeLocation": "Oldi",
+      "homeLocationId": "10085",
+      "percentile": 78.3155541063027,
+      "changeDisplay": "+0.1",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m33693",
+      "name": "Timo Parkki",
+      "rating": 1584.19,
+      "rd": 23.46,
+      "ratingClass": "B",
+      "homeLocation": "Oldi",
+      "homeLocationId": "10085",
+      "percentile": 77.81245632831788,
+      "changeDisplay": "-4.3",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m26515",
+      "name": "Timo Finsk",
+      "rating": 1581.6,
+      "rd": 28.61,
+      "ratingClass": "B",
+      "homeLocation": "Oldi",
+      "homeLocationId": "10085",
+      "percentile": 77.08575953789537,
+      "changeDisplay": "-7.1",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m37469",
+      "name": "Juuso Seppälä",
+      "rating": 1571.23,
+      "rd": 21.85,
+      "ratingClass": "B",
+      "homeLocation": "Oldi",
+      "homeLocationId": "10085",
+      "percentile": 73.92276517445382,
+      "changeDisplay": "-27.8",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m16174",
+      "name": "Antti Seroff",
+      "rating": 1550.98,
+      "rd": 25.14,
+      "ratingClass": "B",
+      "homeLocation": "Oldi",
+      "homeLocationId": "10085",
+      "percentile": 67.06107048027205,
+      "changeDisplay": "-0.0",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m25259",
+      "name": "Vanessa Sohn",
+      "rating": 1550.62,
+      "rd": 25.29,
+      "ratingClass": "B",
+      "homeLocation": "Oldi",
+      "homeLocationId": "10085",
+      "percentile": 66.93995434853495,
+      "changeDisplay": "+4.7",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m19966",
+      "name": "Pasi Rantanen",
+      "rating": 1535.08,
+      "rd": 32.91,
+      "ratingClass": "B",
+      "homeLocation": "Oldi",
+      "homeLocationId": "10085",
+      "percentile": 61.04253039549076,
+      "changeDisplay": "-9.5",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m24272",
+      "name": "Tommi Virtanen",
+      "rating": 1534.82,
+      "rd": 34.84,
+      "ratingClass": "B",
+      "homeLocation": "Flipperiparkki",
+      "homeLocationId": "12600",
+      "percentile": 60.92141426375367,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m10014",
+      "name": "Jouni Lehti",
+      "rating": 1530.91,
+      "rd": 27.58,
+      "ratingClass": "B",
+      "homeLocation": "Oldi",
+      "homeLocationId": "10085",
+      "percentile": 59.41212092979923,
+      "changeDisplay": "-5.3",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m52729",
+      "name": "Teemu Lohioja",
+      "rating": 1528.01,
+      "rd": 28.22,
+      "ratingClass": "B",
+      "homeLocation": "Flipperiparkki",
+      "homeLocationId": "12600",
+      "percentile": 58.24288442726044,
+      "changeDisplay": "+3.8",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m16166",
+      "name": "Shaun Cunningham",
+      "rating": 1526.18,
+      "rd": 33.16,
+      "ratingClass": "B",
+      "homeLocation": "Oldi",
+      "homeLocationId": "10085",
+      "percentile": 57.502212698560584,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m16212",
+      "name": "Kirsi Karppinen",
+      "rating": 1518.4,
+      "rd": 31.52,
+      "ratingClass": "B",
+      "homeLocation": "Oldi",
+      "homeLocationId": "10085",
+      "percentile": 54.55350072203847,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m30612",
+      "name": "Sanna Salokoski",
+      "rating": 1499.93,
+      "rd": 30.18,
+      "ratingClass": "C",
+      "homeLocation": "Oldi",
+      "homeLocationId": "10085",
+      "percentile": 47.06759211813481,
+      "changeDisplay": "-1.2",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "i81752",
+      "name": "Veli-Matti Kyllönen",
+      "rating": 1458.6,
+      "rd": 34.8,
+      "ratingClass": "C",
+      "homeLocation": "Oldi",
+      "homeLocationId": "10085",
+      "percentile": 30.400149066008293,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m52727",
+      "name": "Joonas Mäyrä",
+      "rating": 1439.35,
+      "rd": 29.78,
+      "ratingClass": "C",
+      "homeLocation": "Oldi",
+      "homeLocationId": "10085",
+      "percentile": 23.501187869753576,
+      "changeDisplay": "-1.0",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "i82796",
+      "name": "Olli Ripatti",
+      "rating": 1414.81,
+      "rd": 43.88,
+      "ratingClass": "C",
+      "homeLocation": "Oldi",
+      "homeLocationId": "10085",
+      "percentile": 16.378627661061163,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m14273",
+      "name": "Lauri Rajamäki",
+      "rating": 1396.37,
+      "rd": 38.98,
+      "ratingClass": "D",
+      "homeLocation": "Oldi",
+      "homeLocationId": "10085",
+      "percentile": 11.60851539572367,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i78352",
+      "name": "Eetu Kilpinen",
+      "rating": 1373.59,
+      "rd": 33.55,
+      "ratingClass": "D",
+      "homeLocation": "Oldi",
+      "homeLocationId": "10085",
+      "percentile": 7.197093212838309,
+      "changeDisplay": "-4.0",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "i124467",
+      "name": "Janne Lämsä",
+      "rating": 1361.18,
+      "rd": 44.82,
+      "ratingClass": "D",
+      "homeLocation": "Oldi",
+      "homeLocationId": "10085",
+      "percentile": 5.576000372665021,
+      "changeDisplay": "+7.6",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "i105687",
+      "name": "Ranssi Toiviainen",
+      "rating": 1349.46,
+      "rd": 36.51,
+      "ratingClass": "D",
+      "homeLocation": "Oldi",
+      "homeLocationId": "10085",
+      "percentile": 4.197139795965901,
+      "changeDisplay": "-2.5",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m51589",
+      "name": "Laura Sipiläinen",
+      "rating": 1279.15,
+      "rd": 30.64,
+      "ratingClass": "E",
+      "homeLocation": "Oldi",
+      "homeLocationId": "10085",
+      "percentile": 0.5962640331671869,
+      "changeDisplay": "-13.3",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "i56063",
+      "name": "Kalle Mattila",
+      "rating": null,
+      "rd": null,
+      "ratingClass": "N/A",
+      "homeLocation": "Oldi",
+      "homeLocationId": "10085",
+      "percentile": null,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

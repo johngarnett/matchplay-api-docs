@@ -1,0 +1,44 @@
+{
+  "locationId": "11389",
+  "venueName": "Quarter Bandits Arcade",
+  "venueAddress": "4910 Main St, Spring Hill, TN, 37174, US",
+  "tournaments": [
+    {
+      "id": 265410,
+      "name": "Finals for Quarter Bandits - First Mondays (Aug 2026)",
+      "date": "8/3/2026",
+      "playerCount": 8,
+      "qualifying": {
+        "id": 265351,
+        "name": "Quarter Bandits - First Mondays (Aug 2026)",
+        "playerCount": 20
+      },
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m2111",
+          "name": "Joe Farnsworth",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m8573",
+          "name": "Glenn waechter",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m50092",
+          "name": "Kevin Bull",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m36580",
+          "name": "Jason Wilberding",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

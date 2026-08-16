@@ -1,0 +1,81 @@
+{
+  "locationId": "6012",
+  "venueName": "The Pinball Club",
+  "venueAddress": "Torenallee 20, 5617 BC Eindhoven, Nederland",
+  "tournaments": [
+    {
+      "id": 264835,
+      "name": "B-Final for Summer Double Up Tournament",
+      "date": "8/1/2026",
+      "playerCount": 4,
+      "qualifying": {
+        "id": 264829,
+        "name": "Summer Double Up Tournament",
+        "playerCount": 28
+      },
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m26065",
+          "name": "Xander Pas",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "i107139",
+          "name": "Bram Verbruggen",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "i96849",
+          "name": "Stephan de Nobel",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m40666",
+          "name": "Sander Sol",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 264834,
+      "name": "A-Finals for Summer Double Up Tournament",
+      "date": "8/1/2026",
+      "playerCount": 8,
+      "qualifying": {
+        "id": 264829,
+        "name": "Summer Double Up Tournament",
+        "playerCount": 28
+      },
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m422",
+          "name": "Bart Volman",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m28666",
+          "name": "Tom Verbruggen",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m14121",
+          "name": "Ivan Geentjens",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "i5858",
+          "name": "Stephan Luhn",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "tournamentId": 258434,
+  "name": "A Finals for Stern Army Official HoT Pinball July '26 Monthly @ AREA 254",
+  "date": "2026-07-20",
+  "locationId": "9302",
+  "locationName": "AREA 254",
+  "playerCount": 4,
+  "ratingsDate": "2026-07-20",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m46660",
+      "name": "Mark Ratcliffe",
+      "rating": 1612.36,
+      "dailyRatingChange": 47.05
+    },
+    {
+      "position": 2,
+      "playerId": "m51009",
+      "name": "Joey Demple",
+      "rating": 1586.28,
+      "dailyRatingChange": 3.94
+    },
+    {
+      "position": 3,
+      "playerId": "m29528",
+      "name": "Brandon Borrego",
+      "rating": 1621.85,
+      "dailyRatingChange": 5.77
+    },
+    {
+      "position": 4,
+      "playerId": "m19324",
+      "name": "Grant Birdwell",
+      "rating": 1533.86,
+      "dailyRatingChange": -0.05
+    }
+  ]
+}

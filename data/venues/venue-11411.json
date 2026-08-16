@@ -1,0 +1,263 @@
+{
+  "locationId": "11411",
+  "name": "Harvard Lanes",
+  "address": "204 Ayer Rd, Harvard, MA 01451, US",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 16,
+  "relatedVenues": [
+    {
+      "locationId": "7705",
+      "name": "Pop's Pinball - Bow Market",
+      "address": "1 Bow Market Wy, Somerville, MA, 02143, US",
+      "count": 47
+    },
+    {
+      "locationId": "11131",
+      "name": "Pop's Pinball - Deep Cuts",
+      "address": "21 Main St, Medford, MA, 02155, US",
+      "count": 31
+    },
+    {
+      "locationId": "7878",
+      "name": "Funspot",
+      "address": "579 Endicott Street North, Laconia, NH 03246, US",
+      "count": 15
+    },
+    {
+      "locationId": "10377",
+      "name": "Capital Pinball",
+      "address": "70 Pembroke Rd, Concord, NH 03301, US",
+      "count": 15
+    },
+    {
+      "locationId": "9084",
+      "name": "Flat Top Johnny's",
+      "address": "300 Main St, Cambridge, MA 02142, US",
+      "count": 9
+    },
+    {
+      "locationId": "11424",
+      "name": "The Acton Bowladrome (The Drome!)",
+      "address": "257 Main Street, Acton MA 01720",
+      "count": 7
+    },
+    {
+      "locationId": "13334",
+      "name": "BareWolf Brewing",
+      "address": "12 Oakland St, Amesbury, MA 01913, US",
+      "count": 6
+    },
+    {
+      "locationId": "12468",
+      "name": "OMG Pinball!",
+      "address": "999 S Washington St, North Attleborough, MA, 02760, US",
+      "count": 5
+    },
+    {
+      "locationId": "11386",
+      "name": "Ice Ice Arcade",
+      "address": "68 Litchfield Rd Londonderry NH 03053",
+      "count": 4
+    },
+    {
+      "locationId": "7334",
+      "name": "Ground Kontrol Classic Arcade",
+      "address": "115 NW 5th Ave, Portland, OR 97209, US",
+      "count": 2
+    }
+  ],
+  "players": [
+    {
+      "id": "m1190",
+      "name": "Daniel Rone",
+      "rating": 1749.46,
+      "rd": 29.97,
+      "ratingClass": "Expert",
+      "homeLocation": "Harvard Lanes",
+      "homeLocationId": "11411",
+      "percentile": 98.72828061676061,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m65",
+      "name": "Zoe Vrabel",
+      "rating": 1717.51,
+      "rd": 23.08,
+      "ratingClass": "Expert",
+      "homeLocation": "Pop's Pinball - Bow Market",
+      "homeLocationId": "7705",
+      "percentile": 97.51711929938976,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m27845",
+      "name": "Vincent Vitiello",
+      "rating": 1686.73,
+      "rd": 23.42,
+      "ratingClass": "A",
+      "homeLocation": "The Acton Bowladrome (The Drome!)",
+      "homeLocationId": "11424",
+      "percentile": 95.64447757022407,
+      "changeDisplay": "+5.7",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m40667",
+      "name": "Micah Weston",
+      "rating": 1649.9,
+      "rd": 19.76,
+      "ratingClass": "A",
+      "homeLocation": "Pop's Pinball - Bow Market",
+      "homeLocationId": "7705",
+      "percentile": 91.70820328876881,
+      "changeDisplay": "-9.7",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m10951",
+      "name": "Ty Ueda",
+      "rating": 1645.86,
+      "rd": 27,
+      "ratingClass": "A",
+      "homeLocation": "Pop's Pinball - Bow Market",
+      "homeLocationId": "7705",
+      "percentile": 91.13988913215634,
+      "changeDisplay": "-4.2",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m52532",
+      "name": "Arlo McGinty",
+      "rating": 1642.18,
+      "rd": 19.75,
+      "ratingClass": "A",
+      "homeLocation": "Funspot",
+      "homeLocationId": "7878",
+      "percentile": 90.66939954348535,
+      "changeDisplay": "-0.4",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m5441",
+      "name": "Michael Sandler",
+      "rating": 1602.27,
+      "rd": 25.94,
+      "ratingClass": "A",
+      "homeLocation": "Pop's Pinball - Deep Cuts",
+      "homeLocationId": "11131",
+      "percentile": 82.57325196813714,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m40830",
+      "name": "Scott Ehrmann",
+      "rating": 1593.66,
+      "rd": 24.81,
+      "ratingClass": "B",
+      "homeLocation": "Pop's Pinball - Bow Market",
+      "homeLocationId": "7705",
+      "percentile": 80.43974472446081,
+      "changeDisplay": "+6.7",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m42140",
+      "name": "Dan Gonz",
+      "rating": 1569.78,
+      "rd": 24.08,
+      "ratingClass": "B",
+      "homeLocation": "Pop's Pinball - Bow Market",
+      "homeLocationId": "7705",
+      "percentile": 73.3917175199143,
+      "changeDisplay": "-10.3",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m52484",
+      "name": "Brian McGinty",
+      "rating": 1526.95,
+      "rd": 21.92,
+      "ratingClass": "B",
+      "homeLocation": "Funspot",
+      "homeLocationId": "7878",
+      "percentile": 57.82363627893977,
+      "changeDisplay": "-4.7",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m51143",
+      "name": "Ryan Thompson",
+      "rating": 1445.52,
+      "rd": 29.67,
+      "ratingClass": "C",
+      "homeLocation": "Pop's Pinball - Deep Cuts",
+      "homeLocationId": "11131",
+      "percentile": 25.574137047561372,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m34352",
+      "name": "Chris Maher",
+      "rating": 1443.48,
+      "rd": 36.85,
+      "ratingClass": "C",
+      "homeLocation": "Pop's Pinball - Bow Market",
+      "homeLocationId": "7705",
+      "percentile": 24.931289886803,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m35197",
+      "name": "Erin Farley",
+      "rating": 1386.6,
+      "rd": 34.46,
+      "ratingClass": "D",
+      "homeLocation": "Pop's Pinball - Bow Market",
+      "homeLocationId": "7705",
+      "percentile": 9.614757534820887,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m52696",
+      "name": "Alina McGinty",
+      "rating": 1382.52,
+      "rd": 36.51,
+      "ratingClass": "D",
+      "homeLocation": "BareWolf Brewing",
+      "homeLocationId": "13334",
+      "percentile": 8.771602925420414,
+      "changeDisplay": "+2.7",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m55278",
+      "name": "Nicholas Rodriguez",
+      "rating": 1365.96,
+      "rd": 39.04,
+      "ratingClass": "D",
+      "homeLocation": "Harvard Lanes",
+      "homeLocationId": "11411",
+      "percentile": 6.1862393441095636,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m54571",
+      "name": "Jacob Nordquist",
+      "rating": null,
+      "rd": null,
+      "ratingClass": "N/A",
+      "homeLocation": "OMG Pinball!",
+      "homeLocationId": "12468",
+      "percentile": null,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

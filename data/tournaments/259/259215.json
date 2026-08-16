@@ -1,0 +1,81 @@
+{
+  "tournamentId": 259215,
+  "name": "Solano Pinball Monthly 1st Friday Tournament August 7, 2026",
+  "date": "2026-08-08",
+  "locationId": "12904",
+  "locationName": "Solano 1st Friday Tournament",
+  "playerCount": 10,
+  "ratingsDate": "2026-08-08",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m54971",
+      "name": "Logan Huddleston",
+      "rating": 1495,
+      "dailyRatingChange": 36.01
+    },
+    {
+      "position": 2,
+      "playerId": "m53673",
+      "name": "Walter Pearce",
+      "rating": 1584.97,
+      "dailyRatingChange": -2.7
+    },
+    {
+      "position": 3,
+      "playerId": "i142913",
+      "name": "Frank Price",
+      "rating": 1490.39,
+      "dailyRatingChange": 6.65
+    },
+    {
+      "position": 3,
+      "playerId": "m36443",
+      "name": "Jose Aguilar",
+      "rating": 1523.86,
+      "dailyRatingChange": -2.43
+    },
+    {
+      "position": 3,
+      "playerId": "m54061",
+      "name": "Kyle Van Eenennaam",
+      "rating": 1480.68,
+      "dailyRatingChange": 10.78
+    },
+    {
+      "position": 6,
+      "playerId": "m81",
+      "name": "Mary Pearce",
+      "rating": 1406.39,
+      "dailyRatingChange": -0.43
+    },
+    {
+      "position": 7,
+      "playerId": "m54725",
+      "name": "Bradley Sellers",
+      "rating": 1530.62,
+      "dailyRatingChange": 0.29
+    },
+    {
+      "position": 8,
+      "playerId": "m55331",
+      "name": "Joanna Guan",
+      "rating": 1409.14,
+      "dailyRatingChange": -7.34
+    },
+    {
+      "position": 9,
+      "playerId": "m58423",
+      "name": "Thadeus Huddleston",
+      "rating": 1466.68,
+      "dailyRatingChange": -17.9
+    },
+    {
+      "position": 10,
+      "playerId": "m585363",
+      "name": "Matt Moss",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

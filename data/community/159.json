@@ -1,0 +1,150 @@
+{
+  "communityId": "159",
+  "playerCount": 10,
+  "ratingsDate": "2026-08-12",
+  "relatedCommunities": [
+    "180"
+  ],
+  "topVenues": [
+    {
+      "locationId": "10396",
+      "name": "Opinion Brewing Co.",
+      "address": "374 21st St Newport, MN  55055 United States",
+      "count": 58
+    },
+    {
+      "locationId": "unknown",
+      "name": "Unknown",
+      "address": "",
+      "count": 13
+    },
+    {
+      "locationId": "8209",
+      "name": "Broken Clock Brewing Cooperative",
+      "address": "1712 Marshall St NE, Minneapolis, MN 55413, US",
+      "count": 1
+    }
+  ],
+  "players": [
+    {
+      "id": "i92479",
+      "name": "Eli Barrett",
+      "rating": 1624.98,
+      "rd": 31.94,
+      "ratingClass": "A",
+      "homeLocation": "Opinion Brewing Co.",
+      "homeLocationId": "10396",
+      "percentile": 87.60888806074439,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m28228",
+      "name": "Andrew Barrett",
+      "rating": 1584.95,
+      "rd": 29.34,
+      "ratingClass": "B",
+      "homeLocation": "Opinion Brewing Co.",
+      "homeLocationId": "10396",
+      "percentile": 78.02208040247822,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i108094",
+      "name": "Henry Crockett",
+      "rating": 1560.01,
+      "rd": 31.45,
+      "ratingClass": "B",
+      "homeLocation": "Opinion Brewing Co.",
+      "homeLocationId": "10396",
+      "percentile": 70.3218894116551,
+      "changeDisplay": "+4.5",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m48913",
+      "name": "Austin Pappas",
+      "rating": 1490.11,
+      "rd": 40.93,
+      "ratingClass": "C",
+      "homeLocation": "Opinion Brewing Co.",
+      "homeLocationId": "10396",
+      "percentile": 43.070759770811016,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i122002",
+      "name": "Jeffery Boyles",
+      "rating": 1479.87,
+      "rd": 65.82,
+      "ratingClass": "C",
+      "homeLocation": "Opinion Brewing Co.",
+      "homeLocationId": "10396",
+      "percentile": 38.87827828760423,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i92159",
+      "name": "Matt Listerud",
+      "rating": 1477.67,
+      "rd": 34.65,
+      "ratingClass": "C",
+      "homeLocation": "Opinion Brewing Co.",
+      "homeLocationId": "10396",
+      "percentile": 38.00717380164904,
+      "changeDisplay": "+16.8",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "i81222",
+      "name": "Kelly Snook",
+      "rating": 1446.39,
+      "rd": 34.72,
+      "ratingClass": "C",
+      "homeLocation": "Opinion Brewing Co.",
+      "homeLocationId": "10396",
+      "percentile": 25.89556062794056,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m31224",
+      "name": "Jason Serrano",
+      "rating": 1429.52,
+      "rd": 36,
+      "ratingClass": "C",
+      "homeLocation": "Opinion Brewing Co.",
+      "homeLocationId": "10396",
+      "percentile": 20.41272651045791,
+      "changeDisplay": "-7.7",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "i142444",
+      "name": "Matthew Pappas",
+      "rating": 1418.88,
+      "rd": 41.99,
+      "ratingClass": "C",
+      "homeLocation": "Opinion Brewing Co.",
+      "homeLocationId": "10396",
+      "percentile": 17.300973587366656,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m10107",
+      "name": "Jerome Sivanich",
+      "rating": 1373.61,
+      "rd": 32.82,
+      "ratingClass": "D",
+      "homeLocation": "Opinion Brewing Co.",
+      "homeLocationId": "10396",
+      "percentile": 7.211068151115666,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

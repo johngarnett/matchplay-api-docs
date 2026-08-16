@@ -1,0 +1,39 @@
+{
+  "tournamentId": 265730,
+  "name": "Finals for Austin Belles & Chimes Night @ Bender Bar - August 2026",
+  "date": "2026-08-06",
+  "locationId": "8994",
+  "locationName": "Bender Bar and Grill",
+  "playerCount": 4,
+  "ratingsDate": "2026-08-06",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m1941",
+      "name": "Rachel Morris",
+      "rating": 1607.77,
+      "dailyRatingChange": 0.92
+    },
+    {
+      "position": 2,
+      "playerId": "m13884",
+      "name": "Valli Irvine",
+      "rating": 1530.03,
+      "dailyRatingChange": 9.26
+    },
+    {
+      "position": 3,
+      "playerId": "m13560",
+      "name": "Haley Bonds",
+      "rating": 1534.74,
+      "dailyRatingChange": 2.98
+    },
+    {
+      "position": 4,
+      "playerId": "m15035",
+      "name": "Amanda Fincher",
+      "rating": 1645.88,
+      "dailyRatingChange": -0.67
+    }
+  ]
+}

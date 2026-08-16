@@ -1,0 +1,81 @@
+{
+  "locationId": "8014",
+  "venueName": "Georgetown Pizza & Arcade",
+  "venueAddress": "5513 Airport Way S, Seattle, WA 98108, US",
+  "tournaments": [
+    {
+      "id": 266367,
+      "name": "Finals for GPA 2nd Sunday Pingolf",
+      "date": "8/9/2026",
+      "playerCount": 4,
+      "qualifying": {
+        "id": 266335,
+        "name": "GPA 2nd Sunday Pingolf",
+        "playerCount": 9
+      },
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m26801",
+          "name": "Wil Kirkland",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m763",
+          "name": "Nic Crowson",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m3128",
+          "name": "Kellan Kirkland",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m31895",
+          "name": "Rick Weber",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 264081,
+      "name": "Finals for GPA 4th Sunday Max Matchplay",
+      "date": "7/26/2026",
+      "playerCount": 5,
+      "qualifying": {
+        "id": 264029,
+        "name": "GPA 4th Sunday Max Matchplay",
+        "playerCount": 12
+      },
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m3104",
+          "name": "Bryan Eastman",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m4441",
+          "name": "Erin Malysa",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m44491",
+          "name": "Marshall Denton",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m3178",
+          "name": "Jesse Labbe",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

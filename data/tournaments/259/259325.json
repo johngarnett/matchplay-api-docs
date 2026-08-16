@@ -1,0 +1,207 @@
+{
+  "tournamentId": 259325,
+  "name": "Solid State Pinball Supply Fourth Saturday",
+  "date": "2026-07-26",
+  "locationId": "11052",
+  "locationName": "Solid State Pinball Supply",
+  "playerCount": 28,
+  "ratingsDate": "2026-07-26",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m369",
+      "name": "Steve Hill MO",
+      "rating": 1822.61,
+      "dailyRatingChange": 10.45
+    },
+    {
+      "position": 2,
+      "playerId": "m1666",
+      "name": "Dylan Michalski",
+      "rating": 1700.77,
+      "dailyRatingChange": 3.49
+    },
+    {
+      "position": 3,
+      "playerId": "m20223",
+      "name": "Brian Berg",
+      "rating": 1718.66,
+      "dailyRatingChange": -1.73
+    },
+    {
+      "position": 3,
+      "playerId": "m798",
+      "name": "Nick Greenup",
+      "rating": 1652.3,
+      "dailyRatingChange": 6.28
+    },
+    {
+      "position": 5,
+      "playerId": "m20072",
+      "name": "Jordan Baranowski",
+      "rating": 1651,
+      "dailyRatingChange": 4.3
+    },
+    {
+      "position": 6,
+      "playerId": "m35319",
+      "name": "Drew Baranowski",
+      "rating": 1592.7,
+      "dailyRatingChange": 6.56
+    },
+    {
+      "position": 6,
+      "playerId": "m44391",
+      "name": "Chris Reed",
+      "rating": 1597.75,
+      "dailyRatingChange": 10.83
+    },
+    {
+      "position": 8,
+      "playerId": "m49340",
+      "name": "Jacob Burrows",
+      "rating": 1656.09,
+      "dailyRatingChange": -0.23
+    },
+    {
+      "position": 8,
+      "playerId": "m42782",
+      "name": "Dustin Forster",
+      "rating": 1566.63,
+      "dailyRatingChange": 3.34
+    },
+    {
+      "position": 8,
+      "playerId": "m1140",
+      "name": "Joel Cash",
+      "rating": 1550.89,
+      "dailyRatingChange": 3.04
+    },
+    {
+      "position": 11,
+      "playerId": "m17792",
+      "name": "Benjamin Nelson",
+      "rating": 1535.53,
+      "dailyRatingChange": -1.92
+    },
+    {
+      "position": 11,
+      "playerId": "m48706",
+      "name": "November Magel",
+      "rating": 1560.79,
+      "dailyRatingChange": -0.04
+    },
+    {
+      "position": 11,
+      "playerId": "m45077",
+      "name": "Daniel Brodie",
+      "rating": 1566.66,
+      "dailyRatingChange": 1
+    },
+    {
+      "position": 11,
+      "playerId": "m44394",
+      "name": "Henry Reed",
+      "rating": 1601.8,
+      "dailyRatingChange": -3.07
+    },
+    {
+      "position": 11,
+      "playerId": "m28792",
+      "name": "Kevin Klem",
+      "rating": 1539.73,
+      "dailyRatingChange": 3.68
+    },
+    {
+      "position": 16,
+      "playerId": "m19126",
+      "name": "Jon Johnson",
+      "rating": 1499.67,
+      "dailyRatingChange": -0.29
+    },
+    {
+      "position": 16,
+      "playerId": "m54925",
+      "name": "Shonda Garrison",
+      "rating": 1563.6,
+      "dailyRatingChange": -2.37
+    },
+    {
+      "position": 16,
+      "playerId": "m62268",
+      "name": "Edward Pendleton",
+      "rating": 1487.62,
+      "dailyRatingChange": null
+    },
+    {
+      "position": 16,
+      "playerId": "m19848",
+      "name": "Gordon Brown KS",
+      "rating": 1566.31,
+      "dailyRatingChange": -0.06
+    },
+    {
+      "position": 20,
+      "playerId": "m60265",
+      "name": "Jim Sterner",
+      "rating": 1473.11,
+      "dailyRatingChange": -6.77
+    },
+    {
+      "position": 20,
+      "playerId": "m58331",
+      "name": "Jeff Wheaton",
+      "rating": 1503.13,
+      "dailyRatingChange": -8.63
+    },
+    {
+      "position": 20,
+      "playerId": "m48911",
+      "name": "Mackenzie Hegedusich",
+      "rating": 1549.22,
+      "dailyRatingChange": -2.75
+    },
+    {
+      "position": 20,
+      "playerId": "m581765",
+      "name": "Mike Viera",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 20,
+      "playerId": "m28299",
+      "name": "Brian Haskell",
+      "rating": 1491.97,
+      "dailyRatingChange": -3.67
+    },
+    {
+      "position": 25,
+      "playerId": "m41624",
+      "name": "Melody Burns",
+      "rating": 1373.02,
+      "dailyRatingChange": -41.33
+    },
+    {
+      "position": 25,
+      "playerId": "m24160",
+      "name": "Dan Turner",
+      "rating": 1586.91,
+      "dailyRatingChange": -8.32
+    },
+    {
+      "position": 25,
+      "playerId": "m34337",
+      "name": "Jeremy Hipsh",
+      "rating": 1546.5,
+      "dailyRatingChange": -9.47
+    },
+    {
+      "position": 25,
+      "playerId": "m43033",
+      "name": "Courtney Arnote",
+      "rating": 1471.47,
+      "dailyRatingChange": -6.73
+    }
+  ]
+}

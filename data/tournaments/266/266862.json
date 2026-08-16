@@ -1,0 +1,39 @@
+{
+  "tournamentId": 266862,
+  "name": "Finals for Talisman Pinball Party 12 Aug 26",
+  "date": "2026-08-13",
+  "locationId": "13133",
+  "locationName": "Talisman Brewing Company",
+  "playerCount": 4,
+  "ratingsDate": null,
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m41915",
+      "name": "Cade Vincent",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 2,
+      "playerId": "m28108",
+      "name": "Yusuf Yarow",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 3,
+      "playerId": "i54155",
+      "name": "EK Shaffer",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 4,
+      "playerId": "m29418",
+      "name": "Stacy Shaffer",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

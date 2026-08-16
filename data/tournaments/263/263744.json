@@ -1,0 +1,39 @@
+{
+  "tournamentId": 263744,
+  "name": "Finals for BFK Pingolf Tournament July 2026",
+  "date": "2026-07-25",
+  "locationId": "506",
+  "locationName": "Bergen Flipperspillklubb",
+  "playerCount": 4,
+  "ratingsDate": "2026-07-25",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m17220",
+      "name": "Torkel Husom",
+      "rating": 1788.16,
+      "dailyRatingChange": 48.81
+    },
+    {
+      "position": 2,
+      "playerId": "m2319",
+      "name": "Kjell Erik Husom",
+      "rating": 1633.22,
+      "dailyRatingChange": 6.31
+    },
+    {
+      "position": 3,
+      "playerId": "m581688",
+      "name": "Pierre Chambon",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 4,
+      "playerId": "m20481",
+      "name": "Sigurd Husom",
+      "rating": 1630.47,
+      "dailyRatingChange": -1.56
+    }
+  ]
+}

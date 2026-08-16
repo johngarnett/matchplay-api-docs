@@ -1,0 +1,235 @@
+{
+  "tournamentId": 250176,
+  "name": "Flipperkeller Schools out Tournament",
+  "date": "2026-08-01",
+  "locationId": "5915",
+  "locationName": "Flipperkeller Landshut",
+  "playerCount": 32,
+  "ratingsDate": "2026-08-01",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m999",
+      "name": "Stefan Herold",
+      "rating": 1693.43,
+      "dailyRatingChange": 8.84
+    },
+    {
+      "position": 2,
+      "playerId": "m21174",
+      "name": "Abraham Siedler",
+      "rating": 1697.22,
+      "dailyRatingChange": 3.78
+    },
+    {
+      "position": 2,
+      "playerId": "m14095",
+      "name": "Carsten Fleuren",
+      "rating": 1693.25,
+      "dailyRatingChange": 27.02
+    },
+    {
+      "position": 4,
+      "playerId": "m16332",
+      "name": "Robert Kappenberger",
+      "rating": 1613.47,
+      "dailyRatingChange": 5.08
+    },
+    {
+      "position": 4,
+      "playerId": "m21176",
+      "name": "Markus Pautz",
+      "rating": 1616.1,
+      "dailyRatingChange": 8.98
+    },
+    {
+      "position": 6,
+      "playerId": "m21568",
+      "name": "Gernot Türk",
+      "rating": 1532.11,
+      "dailyRatingChange": 6.94
+    },
+    {
+      "position": 6,
+      "playerId": "m393899",
+      "name": "Paul Wodok",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 6,
+      "playerId": "m19784",
+      "name": "Ralf Lindinger",
+      "rating": 1627.34,
+      "dailyRatingChange": -5.31
+    },
+    {
+      "position": 9,
+      "playerId": "m6301",
+      "name": "Stefan Riedler",
+      "rating": 1587.6,
+      "dailyRatingChange": 7.32
+    },
+    {
+      "position": 10,
+      "playerId": "m42953",
+      "name": "Martin Wodok",
+      "rating": 1523.84,
+      "dailyRatingChange": 17.63
+    },
+    {
+      "position": 11,
+      "playerId": "m13385",
+      "name": "Stefan Judmann",
+      "rating": 1519.42,
+      "dailyRatingChange": 36.42
+    },
+    {
+      "position": 11,
+      "playerId": "m42863",
+      "name": "Bernhard Wodok",
+      "rating": 1498.56,
+      "dailyRatingChange": 22.21
+    },
+    {
+      "position": 11,
+      "playerId": "m59456",
+      "name": "Simon Wodok",
+      "rating": 1587.58,
+      "dailyRatingChange": -1.81
+    },
+    {
+      "position": 14,
+      "playerId": "m62527",
+      "name": "Helmar Krupp",
+      "rating": 1521.83,
+      "dailyRatingChange": null
+    },
+    {
+      "position": 14,
+      "playerId": "m29010",
+      "name": "Michael Netsch",
+      "rating": 1538.38,
+      "dailyRatingChange": 1.34
+    },
+    {
+      "position": 14,
+      "playerId": "m33527",
+      "name": "Markus Grundler",
+      "rating": 1613.41,
+      "dailyRatingChange": -9.47
+    },
+    {
+      "position": 14,
+      "playerId": "m29620",
+      "name": "Waldemar Heiduk",
+      "rating": 1524.29,
+      "dailyRatingChange": 2.98
+    },
+    {
+      "position": 18,
+      "playerId": "m24262",
+      "name": "Yvonne Berreiter",
+      "rating": 1494.68,
+      "dailyRatingChange": 3.44
+    },
+    {
+      "position": 19,
+      "playerId": "m33078",
+      "name": "Felix Lang",
+      "rating": 1580.7,
+      "dailyRatingChange": -14.16
+    },
+    {
+      "position": 19,
+      "playerId": "m51001",
+      "name": "Uwe Knoop",
+      "rating": 1512,
+      "dailyRatingChange": -8.12
+    },
+    {
+      "position": 19,
+      "playerId": "i12170",
+      "name": "Michael Setzwein",
+      "rating": 1496.04,
+      "dailyRatingChange": null
+    },
+    {
+      "position": 19,
+      "playerId": "m62007",
+      "name": "Hermann Fraunhofer",
+      "rating": 1491.87,
+      "dailyRatingChange": null
+    },
+    {
+      "position": 19,
+      "playerId": "m23555",
+      "name": "Markus Lindwurm",
+      "rating": 1541.37,
+      "dailyRatingChange": -7.35
+    },
+    {
+      "position": 19,
+      "playerId": "m55367",
+      "name": "Gustav Netsch",
+      "rating": 1519.07,
+      "dailyRatingChange": -5.02
+    },
+    {
+      "position": 25,
+      "playerId": "m48723",
+      "name": "Robert Maric",
+      "rating": 1476.77,
+      "dailyRatingChange": -0.39
+    },
+    {
+      "position": 25,
+      "playerId": "m238310",
+      "name": "Johann Nagengast",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 25,
+      "playerId": "m41463",
+      "name": "Fedor Patrzek",
+      "rating": 1486.93,
+      "dailyRatingChange": -11.49
+    },
+    {
+      "position": 28,
+      "playerId": "m59937",
+      "name": "Maximilian Hösl",
+      "rating": 1405.89,
+      "dailyRatingChange": -1.45
+    },
+    {
+      "position": 29,
+      "playerId": "m52401",
+      "name": "Kai Rudingsdorfer",
+      "rating": 1365.08,
+      "dailyRatingChange": -31.72
+    },
+    {
+      "position": 29,
+      "playerId": "m582046",
+      "name": "Steffi Ruble",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 31,
+      "playerId": "m582039",
+      "name": "Dirk Berwinkel",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 32,
+      "playerId": "m62009",
+      "name": "Alexander Fraunhofer",
+      "rating": 1342.61,
+      "dailyRatingChange": null
+    }
+  ]
+}

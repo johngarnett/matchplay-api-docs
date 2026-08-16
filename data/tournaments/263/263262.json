@@ -1,0 +1,39 @@
+{
+  "tournamentId": 263262,
+  "name": "Pokemon Launch Party- GSO Pinball Museum Finals",
+  "date": "2026-07-23",
+  "locationId": "13474",
+  "locationName": "Greensboro Pinball Museum",
+  "playerCount": 4,
+  "ratingsDate": "2026-07-23",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m5322",
+      "name": "Tim McCool",
+      "rating": 1824.92,
+      "dailyRatingChange": 3.96
+    },
+    {
+      "position": 2,
+      "playerId": "m60001",
+      "name": "Jeremy Hakes",
+      "rating": 1644.88,
+      "dailyRatingChange": 5.64
+    },
+    {
+      "position": 3,
+      "playerId": "m8888",
+      "name": "Jeremy Weaver",
+      "rating": 1728.02,
+      "dailyRatingChange": 4.08
+    },
+    {
+      "position": 4,
+      "playerId": "m28956",
+      "name": "Phillip Davis",
+      "rating": 1653.98,
+      "dailyRatingChange": 7.72
+    }
+  ]
+}

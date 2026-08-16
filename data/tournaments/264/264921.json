@@ -1,0 +1,81 @@
+{
+  "tournamentId": 264921,
+  "name": "Revenge of Ladies Choice! 7.31",
+  "date": "2026-08-01",
+  "locationId": "7201",
+  "locationName": "Revenge Of",
+  "playerCount": 10,
+  "ratingsDate": "2026-08-01",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m10118",
+      "name": "Cory Casella",
+      "rating": 1638.31,
+      "dailyRatingChange": -2.6
+    },
+    {
+      "position": 2,
+      "playerId": "m23123",
+      "name": "Sheri Howell",
+      "rating": 1491.63,
+      "dailyRatingChange": 2.46
+    },
+    {
+      "position": 2,
+      "playerId": "m305555",
+      "name": "Janine Lim",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 2,
+      "playerId": "m48680",
+      "name": "Lauren Richmond",
+      "rating": 1552.33,
+      "dailyRatingChange": 9.36
+    },
+    {
+      "position": 5,
+      "playerId": "i112764",
+      "name": "Rayne Rojas",
+      "rating": 1481.95,
+      "dailyRatingChange": 1.17
+    },
+    {
+      "position": 5,
+      "playerId": "m14842",
+      "name": "DREA KLOTZSCHE",
+      "rating": 1479.68,
+      "dailyRatingChange": 8.96
+    },
+    {
+      "position": 5,
+      "playerId": "m24093",
+      "name": "Mayumi Mae",
+      "rating": 1638.94,
+      "dailyRatingChange": -1.13
+    },
+    {
+      "position": 8,
+      "playerId": "m47555",
+      "name": "Malvina S.",
+      "rating": 1443.76,
+      "dailyRatingChange": 0.57
+    },
+    {
+      "position": 9,
+      "playerId": "m583517",
+      "name": "Nicky Urban",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 9,
+      "playerId": "m48115",
+      "name": "Liz Fornango",
+      "rating": 1459.08,
+      "dailyRatingChange": -5.19
+    }
+  ]
+}

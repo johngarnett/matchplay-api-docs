@@ -1,0 +1,53 @@
+{
+  "tournamentId": 266692,
+  "name": "Finals for The Tuesday Night Local 08-11-2026 (clone)",
+  "date": "2026-08-12",
+  "locationId": "10621",
+  "locationName": "PCP",
+  "playerCount": 6,
+  "ratingsDate": "2026-08-12",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m35194",
+      "name": "Harrison Maxwell",
+      "rating": 1723.49,
+      "dailyRatingChange": 2.78
+    },
+    {
+      "position": 2,
+      "playerId": "m30725",
+      "name": "Joe Woody",
+      "rating": 1439.12,
+      "dailyRatingChange": 63.14
+    },
+    {
+      "position": 3,
+      "playerId": "m36789",
+      "name": "Michael Hew",
+      "rating": 1656.66,
+      "dailyRatingChange": 0.48
+    },
+    {
+      "position": 4,
+      "playerId": "m289",
+      "name": "Ken Kemp",
+      "rating": 1675.66,
+      "dailyRatingChange": -7.82
+    },
+    {
+      "position": 5,
+      "playerId": "m1945",
+      "name": "Lora Tennison",
+      "rating": 1546.5,
+      "dailyRatingChange": -0.41
+    },
+    {
+      "position": 6,
+      "playerId": "m21048",
+      "name": "Summer Armistead",
+      "rating": 1575.57,
+      "dailyRatingChange": 2.86
+    }
+  ]
+}

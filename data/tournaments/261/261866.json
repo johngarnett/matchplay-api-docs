@@ -1,0 +1,81 @@
+{
+  "tournamentId": 261866,
+  "name": "Knub's Pub Monthly Matchplay",
+  "date": "2026-08-09",
+  "locationId": "10044",
+  "locationName": "Knub's Pub",
+  "playerCount": 10,
+  "ratingsDate": "2026-08-09",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m1879",
+      "name": "Logan Harding",
+      "rating": 1659.92,
+      "dailyRatingChange": 5.42
+    },
+    {
+      "position": 2,
+      "playerId": "m1542",
+      "name": "Marion Richards",
+      "rating": 1637.22,
+      "dailyRatingChange": -0.22
+    },
+    {
+      "position": 3,
+      "playerId": "m49340",
+      "name": "Jacob Burrows",
+      "rating": 1651.49,
+      "dailyRatingChange": -1.63
+    },
+    {
+      "position": 4,
+      "playerId": "m19848",
+      "name": "Gordon Brown KS",
+      "rating": 1576.13,
+      "dailyRatingChange": 8.95
+    },
+    {
+      "position": 5,
+      "playerId": "m35319",
+      "name": "Drew Baranowski",
+      "rating": 1604.49,
+      "dailyRatingChange": -2.34
+    },
+    {
+      "position": 6,
+      "playerId": "m30540",
+      "name": "Dawn Haskell",
+      "rating": 1408.19,
+      "dailyRatingChange": 15.16
+    },
+    {
+      "position": 7,
+      "playerId": "m32888",
+      "name": "Jim Haugh",
+      "rating": 1548.99,
+      "dailyRatingChange": -1.97
+    },
+    {
+      "position": 8,
+      "playerId": "m40554",
+      "name": "Aaron Schieffer",
+      "rating": 1568.86,
+      "dailyRatingChange": -11.89
+    },
+    {
+      "position": 9,
+      "playerId": "m28299",
+      "name": "Brian Haskell",
+      "rating": 1483.55,
+      "dailyRatingChange": -8.42
+    },
+    {
+      "position": 10,
+      "playerId": "m42046",
+      "name": "Scott Avery",
+      "rating": 1509.53,
+      "dailyRatingChange": 0.63
+    }
+  ]
+}

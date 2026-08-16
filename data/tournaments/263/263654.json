@@ -1,0 +1,81 @@
+{
+  "tournamentId": 263654,
+  "name": "Friday Frenzy at Southern NH Pinball Club",
+  "date": "2026-07-25",
+  "locationId": "13498",
+  "locationName": "Southern New Hampshire Pinball Club",
+  "playerCount": 10,
+  "ratingsDate": "2026-07-25",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m48952",
+      "name": "Dana Boisvert",
+      "rating": 1471.48,
+      "dailyRatingChange": 21.37
+    },
+    {
+      "position": 2,
+      "playerId": "m37118",
+      "name": "Andrew Diorio",
+      "rating": 1550.39,
+      "dailyRatingChange": 15.31
+    },
+    {
+      "position": 3,
+      "playerId": "m415198",
+      "name": "Esteban Rodriguez",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 4,
+      "playerId": "m34507",
+      "name": "Gerard Buchko",
+      "rating": 1417.15,
+      "dailyRatingChange": 36.07
+    },
+    {
+      "position": 5,
+      "playerId": "m1178",
+      "name": "Mike Corbett",
+      "rating": 1584.28,
+      "dailyRatingChange": -8.64
+    },
+    {
+      "position": 6,
+      "playerId": "m393",
+      "name": "Mike Testa",
+      "rating": 1549.23,
+      "dailyRatingChange": -22.79
+    },
+    {
+      "position": 7,
+      "playerId": "m22635",
+      "name": "Anne Whipple",
+      "rating": 1605.85,
+      "dailyRatingChange": -4.3
+    },
+    {
+      "position": 7,
+      "playerId": "m52875",
+      "name": "Jason Foss",
+      "rating": 1469.13,
+      "dailyRatingChange": -1.35
+    },
+    {
+      "position": 9,
+      "playerId": "i124918",
+      "name": "Harold Scott",
+      "rating": 1411.33,
+      "dailyRatingChange": -9.25
+    },
+    {
+      "position": 10,
+      "playerId": "m415199",
+      "name": "Jessica Corr",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

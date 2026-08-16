@@ -1,0 +1,123 @@
+{
+  "tournamentId": 265868,
+  "name": "Midtown Bar Thursday Matchplay 8/6",
+  "date": "2026-08-07",
+  "locationId": "5593",
+  "locationName": "Midtown Bar & Grill",
+  "playerCount": 16,
+  "ratingsDate": "2026-08-07",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m40999",
+      "name": "John Schollmeyer",
+      "rating": 1608.39,
+      "dailyRatingChange": 5.42
+    },
+    {
+      "position": 2,
+      "playerId": "m17129",
+      "name": "Drew Smith",
+      "rating": 1675.45,
+      "dailyRatingChange": 6.43
+    },
+    {
+      "position": 3,
+      "playerId": "m27035",
+      "name": "Joe latterell",
+      "rating": 1652.78,
+      "dailyRatingChange": 1.12
+    },
+    {
+      "position": 4,
+      "playerId": "m33844",
+      "name": "Stan Dessens",
+      "rating": 1627.12,
+      "dailyRatingChange": 1.23
+    },
+    {
+      "position": 5,
+      "playerId": "m18721",
+      "name": "Curtis Kranz",
+      "rating": 1534.21,
+      "dailyRatingChange": 5.42
+    },
+    {
+      "position": 6,
+      "playerId": "m29376",
+      "name": "Andrew Huxley",
+      "rating": 1637.46,
+      "dailyRatingChange": -2.12
+    },
+    {
+      "position": 7,
+      "playerId": "i96594",
+      "name": "Gabe Schmidt",
+      "rating": 1507.16,
+      "dailyRatingChange": 5.82
+    },
+    {
+      "position": 8,
+      "playerId": "m53301",
+      "name": "Sawyer Koopmeiners",
+      "rating": 1685.46,
+      "dailyRatingChange": -14.58
+    },
+    {
+      "position": 9,
+      "playerId": "m31031",
+      "name": "Jon Jacklitch",
+      "rating": 1502.09,
+      "dailyRatingChange": -2.45
+    },
+    {
+      "position": 10,
+      "playerId": "m44248",
+      "name": "Michael Seamans",
+      "rating": 1597.35,
+      "dailyRatingChange": -3.61
+    },
+    {
+      "position": 11,
+      "playerId": "m5484",
+      "name": "Tony Murphy",
+      "rating": 1574.92,
+      "dailyRatingChange": -3.34
+    },
+    {
+      "position": 12,
+      "playerId": "m40510",
+      "name": "Paul Obrien",
+      "rating": 1512.43,
+      "dailyRatingChange": -8.17
+    },
+    {
+      "position": 13,
+      "playerId": "m54395",
+      "name": "James Nysather",
+      "rating": 1435.01,
+      "dailyRatingChange": 7.06
+    },
+    {
+      "position": 14,
+      "playerId": "m27999",
+      "name": "Anna Marie",
+      "rating": 1346.19,
+      "dailyRatingChange": 1.36
+    },
+    {
+      "position": 15,
+      "playerId": "i127103",
+      "name": "Bob Folger",
+      "rating": 1390.05,
+      "dailyRatingChange": -0.86
+    },
+    {
+      "position": 16,
+      "playerId": "i89804",
+      "name": "John Tuman",
+      "rating": 1343.92,
+      "dailyRatingChange": -12.1
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "tournamentId": 263623,
+  "name": "Friday Night Tournament w/ STP & RetroCC",
+  "date": "2026-07-25",
+  "locationId": "12942",
+  "locationName": "RETRO",
+  "playerCount": 5,
+  "ratingsDate": "2026-07-25",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m18519",
+      "name": "Billy Harris",
+      "rating": 1632.61,
+      "dailyRatingChange": 11.55
+    },
+    {
+      "position": 2,
+      "playerId": "m43905",
+      "name": "Lauro Hernandez",
+      "rating": 1582.7,
+      "dailyRatingChange": -0.48
+    },
+    {
+      "position": 3,
+      "playerId": "m18344",
+      "name": "Jesse Parmenter",
+      "rating": 1505.35,
+      "dailyRatingChange": -7.28
+    },
+    {
+      "position": 4,
+      "playerId": "m38350",
+      "name": "Vee Harris",
+      "rating": 1344.88,
+      "dailyRatingChange": 0.13
+    },
+    {
+      "position": 4,
+      "playerId": "m47787",
+      "name": "Samantha F",
+      "rating": 1312.21,
+      "dailyRatingChange": -6.9
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "tournamentId": 264560,
+  "name": "Belles & Chimes Melbourne July Flip Frenzy",
+  "date": "2026-07-30",
+  "locationId": "12968",
+  "locationName": "BrewDog Pentridge",
+  "playerCount": 6,
+  "ratingsDate": "2026-07-30",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m45183",
+      "name": "Ariana Coffey",
+      "rating": 1590.69,
+      "dailyRatingChange": 5.27
+    },
+    {
+      "position": 1,
+      "playerId": "m44688",
+      "name": "Mary-Ann Urquhart",
+      "rating": 1504.51,
+      "dailyRatingChange": 8.05
+    },
+    {
+      "position": 3,
+      "playerId": "m8092",
+      "name": "Ashleigh Dixon",
+      "rating": 1528.78,
+      "dailyRatingChange": 1.42
+    },
+    {
+      "position": 4,
+      "playerId": "i121882",
+      "name": "Skylar Coffey",
+      "rating": 1455.59,
+      "dailyRatingChange": -0.95
+    },
+    {
+      "position": 5,
+      "playerId": "m15426",
+      "name": "Hayley Drummond",
+      "rating": 1516.73,
+      "dailyRatingChange": -7.46
+    },
+    {
+      "position": 5,
+      "playerId": "m39937",
+      "name": "Rev Altman",
+      "rating": 1418.28,
+      "dailyRatingChange": -4.19
+    }
+  ]
+}

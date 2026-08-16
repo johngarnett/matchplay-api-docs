@@ -1,0 +1,53 @@
+{
+  "tournamentId": 262696,
+  "name": "Finals for Pinbaile PinGolf",
+  "date": "2026-07-18",
+  "locationId": "11246",
+  "locationName": "The Back Page",
+  "playerCount": 6,
+  "ratingsDate": "2026-07-18",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m26768",
+      "name": "Daniel O'Neill",
+      "rating": 1596.24,
+      "dailyRatingChange": 2.49
+    },
+    {
+      "position": 2,
+      "playerId": "m29875",
+      "name": "Brian O'Rourke",
+      "rating": 1687.15,
+      "dailyRatingChange": -2.94
+    },
+    {
+      "position": 3,
+      "playerId": "m9817",
+      "name": "Alex Sperellis",
+      "rating": 1715.34,
+      "dailyRatingChange": -2.74
+    },
+    {
+      "position": 4,
+      "playerId": "m30115",
+      "name": "Graeme Burchael",
+      "rating": 1671.23,
+      "dailyRatingChange": 10.66
+    },
+    {
+      "position": 5,
+      "playerId": "m13426",
+      "name": "Jack Waycik",
+      "rating": 1625.73,
+      "dailyRatingChange": -1.96
+    },
+    {
+      "position": 6,
+      "playerId": "m59646",
+      "name": "Mick Colgan",
+      "rating": 1479.83,
+      "dailyRatingChange": -13.12
+    }
+  ]
+}

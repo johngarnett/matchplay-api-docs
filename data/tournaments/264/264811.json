@@ -1,0 +1,130 @@
+{
+  "tournamentId": 264811,
+  "name": "Blue Bash",
+  "date": "2026-07-31",
+  "locationId": "5763",
+  "locationName": "Idaho Pinball Museum",
+  "playerCount": 17,
+  "ratingsDate": "2026-07-31",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m583256",
+      "name": "Shane J",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 2,
+      "playerId": "m583257",
+      "name": "Matt S",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 3,
+      "playerId": "m583252",
+      "name": "Rod T",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 4,
+      "playerId": "m583262",
+      "name": "Lance F",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 4,
+      "playerId": "m583253",
+      "name": "Ian T",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 6,
+      "playerId": "m7992",
+      "name": "Ben Bullock",
+      "rating": 1566.24,
+      "dailyRatingChange": 3.96
+    },
+    {
+      "position": 7,
+      "playerId": "m583255",
+      "name": "Ben C",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 7,
+      "playerId": "m583254",
+      "name": "Aaron C",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 7,
+      "playerId": "m583261",
+      "name": "Michael C",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 10,
+      "playerId": "m583251",
+      "name": "Mariah",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 10,
+      "playerId": "m583258",
+      "name": "Zach B",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 10,
+      "playerId": "m583268",
+      "name": "Darrell W",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 13,
+      "playerId": "m583265",
+      "name": "Esther S",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 13,
+      "playerId": "m583264",
+      "name": "Jennifer L",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 13,
+      "playerId": "m583259",
+      "name": "Jacob O",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 16,
+      "playerId": "m583263",
+      "name": "Stephen B",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 16,
+      "playerId": "m583250",
+      "name": "Daphne",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

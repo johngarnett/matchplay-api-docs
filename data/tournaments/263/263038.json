@@ -1,0 +1,67 @@
+{
+  "tournamentId": 263038,
+  "name": "Finals for Stern Army Elusive Orbit Replay Amusement Museum Monthly - July 2026",
+  "date": "2026-07-21",
+  "locationId": "7285",
+  "locationName": "Replay Museum",
+  "playerCount": 8,
+  "ratingsDate": "2026-07-21",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m1540",
+      "name": "Rob Endo",
+      "rating": 1709.57,
+      "dailyRatingChange": 11.43
+    },
+    {
+      "position": 2,
+      "playerId": "m46942",
+      "name": "Cleveland Harper",
+      "rating": 1640.79,
+      "dailyRatingChange": 28.53
+    },
+    {
+      "position": 3,
+      "playerId": "m690",
+      "name": "Patrick Shatzer",
+      "rating": 1645.66,
+      "dailyRatingChange": 7.98
+    },
+    {
+      "position": 4,
+      "playerId": "m17470",
+      "name": "Dr. Frank Sposaro",
+      "rating": 1668.37,
+      "dailyRatingChange": -0.92
+    },
+    {
+      "position": 5,
+      "playerId": "m52494",
+      "name": "Louis Anciaux",
+      "rating": 1552.34,
+      "dailyRatingChange": 15.74
+    },
+    {
+      "position": 6,
+      "playerId": "m40158",
+      "name": "Andrew Hernandez",
+      "rating": 1664.13,
+      "dailyRatingChange": -2.11
+    },
+    {
+      "position": 7,
+      "playerId": "m18803",
+      "name": "John JT Thomas",
+      "rating": 1592.28,
+      "dailyRatingChange": 0.33
+    },
+    {
+      "position": 7,
+      "playerId": "m56605",
+      "name": "Jakob Goodwin",
+      "rating": 1512.98,
+      "dailyRatingChange": 27.19
+    }
+  ]
+}

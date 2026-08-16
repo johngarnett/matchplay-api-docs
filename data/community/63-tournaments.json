@@ -1,0 +1,326 @@
+{
+  "communityId": "63",
+  "locations": [
+    {
+      "id": "10135",
+      "name": "Associació A.R.C.A.D.E",
+      "address": "Esmeragda 11, Esplugues de Llobregat 08950",
+      "tournaments": [
+        {
+          "id": 266045,
+          "name": "Finals for Pinball Saturday - A.R.C.A.D.E. Stern Army - Agosto 2026",
+          "date": "8/8/2026",
+          "playerCount": 8,
+          "qualifying": {
+            "id": 265952,
+            "name": "Pinball Saturday - A.R.C.A.D.E. Stern Army - Agosto 2026",
+            "playerCount": 21
+          },
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m45437",
+              "name": "Rafael de Lima",
+              "isCommunityMember": false
+            },
+            {
+              "position": 2,
+              "playerId": "m42971",
+              "name": "Danilo barbosa",
+              "isCommunityMember": false
+            },
+            {
+              "position": 3,
+              "playerId": "i158454",
+              "name": "Luis Alberto de",
+              "isCommunityMember": false
+            },
+            {
+              "position": 4,
+              "playerId": "m96",
+              "name": "Johan Småros",
+              "isCommunityMember": true
+            }
+          ]
+        },
+        {
+          "id": 266042,
+          "name": "Tie-Break for Pinball Saturday  - A.R.C.A.D.E. Stern Army - Agosto 2026",
+          "date": "8/8/2026",
+          "playerCount": 5,
+          "qualifying": {
+            "id": 265952,
+            "name": "Pinball Saturday - A.R.C.A.D.E. Stern Army - Agosto 2026",
+            "playerCount": 21
+          },
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m974",
+              "name": "Leif Spångberg",
+              "isCommunityMember": true
+            },
+            {
+              "position": 1,
+              "playerId": "m59524",
+              "name": "José luis Fernández",
+              "isCommunityMember": false
+            },
+            {
+              "position": 1,
+              "playerId": "m30537",
+              "name": "Pere Vicien",
+              "isCommunityMember": false
+            },
+            {
+              "position": 1,
+              "playerId": "m45437",
+              "name": "Rafael de Lima",
+              "isCommunityMember": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6531",
+      "name": "FlipperGaraget",
+      "address": "",
+      "tournaments": [
+        {
+          "id": 266438,
+          "name": "Finals for Stern Army FlipperGaraget månadstävling augusti 2026",
+          "date": "8/10/2026",
+          "playerCount": 3,
+          "qualifying": {
+            "id": 266417,
+            "name": "Stern Army FlipperGaraget månadstävling augusti 2026",
+            "playerCount": 6
+          },
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "i88389",
+              "name": "Juha Vierola",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m7949",
+              "name": "Joakim Sjöblom",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m29592",
+              "name": "Theo Söderström",
+              "isCommunityMember": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9898",
+      "name": "kældren",
+      "address": "bispensgade 146 9800 hjørring",
+      "tournaments": [
+        {
+          "id": 266540,
+          "name": "PinballNation",
+          "date": "8/11/2026",
+          "playerCount": 5,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "i84489",
+              "name": "Christian Christensen",
+              "isCommunityMember": false
+            },
+            {
+              "position": 2,
+              "playerId": "m19382",
+              "name": "Niels Ronni Deppe",
+              "isCommunityMember": false
+            },
+            {
+              "position": 2,
+              "playerId": "m21169",
+              "name": "Philip Petersen",
+              "isCommunityMember": false
+            },
+            {
+              "position": 2,
+              "playerId": "m53711",
+              "name": "Jonathan Lomar",
+              "isCommunityMember": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "11166",
+      "name": "Pinball inn",
+      "address": "Vetlandavägen 10, 574 75 korsberga",
+      "tournaments": [
+        {
+          "id": 266067,
+          "name": "Finals for Smålands Månadstävling",
+          "date": "8/8/2026",
+          "playerCount": 16,
+          "qualifying": {
+            "id": 265958,
+            "name": "Smålands Månadstävling",
+            "playerCount": 33
+          },
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m11354",
+              "name": "Mattias Borgström",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m5793",
+              "name": "Marcus Hugosson",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m19485",
+              "name": "Martin Abelsson",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m22106",
+              "name": "Izabelle Hugosson",
+              "isCommunityMember": true
+            }
+          ]
+        },
+        {
+          "id": 266073,
+          "name": "Jims revange",
+          "date": "8/8/2026",
+          "playerCount": 13,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m7903",
+              "name": "Urban Bergh",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m53835",
+              "name": "Evelina Andreasson",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m62729",
+              "name": "Andreas Karlsson",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "i160774",
+              "name": "Jonathan Ahlstrand",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m50572",
+              "name": "Tomas Olsson TOM",
+              "isCommunityMember": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "unknown",
+      "name": "Unknown Location",
+      "address": "",
+      "tournaments": [
+        {
+          "id": 266739,
+          "name": "Redstone Pinball GBG Weekly - 12/8",
+          "date": "8/12/2026",
+          "playerCount": 19,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m14387",
+              "name": "Elias Persson",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m33702",
+              "name": "Sadik Kreso",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m53683",
+              "name": "Erik Johansson",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m55085",
+              "name": "Peter Knudsen",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m7444",
+              "name": "Claes Wikner",
+              "isCommunityMember": true
+            }
+          ]
+        },
+        {
+          "id": 231837,
+          "name": "#8 Smålands Månadstävling Korsberga - Pinball Inn",
+          "date": "8/9/2026",
+          "playerCount": 33,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m11354",
+              "name": "Mattias Borgström",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m5793",
+              "name": "Marcus Hugosson",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m19485",
+              "name": "Martin Abelsson",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m22106",
+              "name": "Izabelle Hugosson",
+              "isCommunityMember": true
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

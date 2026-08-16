@@ -1,0 +1,131 @@
+{
+  "locationId": "11931",
+  "name": "Marcs Mansion",
+  "address": "Rodenkirchen",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 7,
+  "relatedVenues": [
+    {
+      "locationId": "11344",
+      "name": "TomDK",
+      "address": "Rommerskirchen",
+      "count": 6
+    },
+    {
+      "locationId": "5539",
+      "name": "Pinball Universe - Challenge Area",
+      "address": "Daimlerstraße 41-43, 32257 Bünde, Deutschland",
+      "count": 2
+    },
+    {
+      "locationId": "11506",
+      "name": "Pinball Universe",
+      "address": "Boschstr. 51, 32257 Bünde, Germany",
+      "count": 2
+    },
+    {
+      "locationId": "7047",
+      "name": "7-Mountains-Pinball Club House",
+      "address": "",
+      "count": 1
+    },
+    {
+      "locationId": "12379",
+      "name": "Micky's Men Cave",
+      "address": "Cologne",
+      "count": 1
+    },
+    {
+      "locationId": "13635",
+      "name": "The Pinball Factory",
+      "address": "33 Veldweg, Herkenbosch, 6075 NL, NL",
+      "count": 1
+    }
+  ],
+  "players": [
+    {
+      "id": "m37764",
+      "name": "Nils Alef",
+      "rating": 1607.76,
+      "rd": 29.45,
+      "ratingClass": "A",
+      "homeLocation": "Pinball Universe - Challenge Area",
+      "homeLocationId": "5539",
+      "percentile": 83.87757954069036,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m22311",
+      "name": "Frank Frohn",
+      "rating": 1585.51,
+      "rd": 28.52,
+      "ratingClass": "B",
+      "homeLocation": "Marcs Mansion",
+      "homeLocationId": "11931",
+      "percentile": 78.17580472352914,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m5424",
+      "name": "Thomas Harscheidt",
+      "rating": 1562.5,
+      "rd": 34.08,
+      "ratingClass": "B",
+      "homeLocation": "TomDK",
+      "homeLocationId": "11344",
+      "percentile": 71.16038570829646,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m41248",
+      "name": "Micky Schröder",
+      "rating": 1540.28,
+      "rd": 27.46,
+      "ratingClass": "B",
+      "homeLocation": "7-Mountains-Pinball Club House",
+      "homeLocationId": "7047",
+      "percentile": 63.23659570503564,
+      "changeDisplay": "+7.9",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m589",
+      "name": "Tom Altenbach",
+      "rating": 1533.63,
+      "rd": 32.48,
+      "ratingClass": "B",
+      "homeLocation": "TomDK",
+      "homeLocationId": "11344",
+      "percentile": 60.488191177155635,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m44848",
+      "name": "Marc Endlein",
+      "rating": 1494.68,
+      "rd": 38.56,
+      "ratingClass": "C",
+      "homeLocation": "TomDK",
+      "homeLocationId": "11344",
+      "percentile": 44.97600968929054,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m33187",
+      "name": "André Wannagat",
+      "rating": 1492.27,
+      "rd": 43.8,
+      "ratingClass": "C",
+      "homeLocation": "TomDK",
+      "homeLocationId": "11344",
+      "percentile": 43.91391438021149,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

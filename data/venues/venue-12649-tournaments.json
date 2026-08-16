@@ -1,0 +1,44 @@
+{
+  "locationId": "12649",
+  "venueName": "The Brew Inn Tavern",
+  "venueAddress": "1910 Oceanside Blvd Ste F, Oceanside, CA 92054, US",
+  "tournaments": [
+    {
+      "id": 262903,
+      "name": "Finals for The Brew Inn Tavern Monthly - 19 Jul 2026",
+      "date": "7/20/2026",
+      "playerCount": 8,
+      "qualifying": {
+        "id": 262853,
+        "name": "The Brew Inn Tavern Monthly - 19 Jul 2026",
+        "playerCount": 22
+      },
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m34423",
+          "name": "Jim Fitzgerald",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m2821",
+          "name": "Mark Maleko Schulz 👾",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m61041",
+          "name": "Tyler Bruhn",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m26158",
+          "name": "Robert Potter",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

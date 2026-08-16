@@ -1,0 +1,39 @@
+{
+  "tournamentId": 264546,
+  "name": "Finals for Phantom Amusement presents the Transformers Stern Army Launch Party!!",
+  "date": "2026-07-30",
+  "locationId": "10614",
+  "locationName": "Phantom Amusement",
+  "playerCount": 4,
+  "ratingsDate": "2026-07-30",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m45628",
+      "name": "James Kropodra",
+      "rating": 1600.34,
+      "dailyRatingChange": 10.08
+    },
+    {
+      "position": 2,
+      "playerId": "m33243",
+      "name": "Tony Warzel",
+      "rating": 1643.04,
+      "dailyRatingChange": 10
+    },
+    {
+      "position": 3,
+      "playerId": "m3609",
+      "name": "David Morris",
+      "rating": 1638.78,
+      "dailyRatingChange": 6.24
+    },
+    {
+      "position": 4,
+      "playerId": "m25307",
+      "name": "Jay Woolston",
+      "rating": 1739.88,
+      "dailyRatingChange": -6.85
+    }
+  ]
+}

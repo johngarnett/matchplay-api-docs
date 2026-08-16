@@ -1,0 +1,40 @@
+{
+  "communityId": "126",
+  "playerCount": 2,
+  "ratingsDate": "2026-08-12",
+  "relatedCommunities": [],
+  "topVenues": [
+    {
+      "locationId": "10136",
+      "name": "Peter's mancave",
+      "address": "15B Kruisbergstraat",
+      "count": 2
+    }
+  ],
+  "players": [
+    {
+      "id": "m33767",
+      "name": "Ralph Beckers",
+      "rating": 1637.6,
+      "rd": 48.1,
+      "ratingClass": "A",
+      "homeLocation": "Peter's mancave",
+      "homeLocationId": "10136",
+      "percentile": 89.94270275306285,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i1796",
+      "name": "Bart Bremen",
+      "rating": 1472.37,
+      "rd": 65.85,
+      "ratingClass": "C",
+      "homeLocation": "Peter's mancave",
+      "homeLocationId": "10136",
+      "percentile": 35.80379186658592,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

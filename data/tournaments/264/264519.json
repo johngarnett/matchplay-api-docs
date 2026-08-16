@@ -1,0 +1,137 @@
+{
+  "tournamentId": 264519,
+  "name": "Out Of Order Arcade - Wednesday Night Tournament 07-29-26",
+  "date": "2026-07-30",
+  "locationId": "10882",
+  "locationName": "Out of Order Arcade",
+  "playerCount": 18,
+  "ratingsDate": "2026-07-30",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m47758",
+      "name": "Andrew Taraschke",
+      "rating": 1587.62,
+      "dailyRatingChange": 7.52
+    },
+    {
+      "position": 2,
+      "playerId": "m25062",
+      "name": "Ryan Dunn",
+      "rating": 1702.73,
+      "dailyRatingChange": 0.21
+    },
+    {
+      "position": 3,
+      "playerId": "i90914",
+      "name": "Wayne Pittman",
+      "rating": 1511.07,
+      "dailyRatingChange": 6.1
+    },
+    {
+      "position": 3,
+      "playerId": "i69481",
+      "name": "Mike McDonald",
+      "rating": 1568.88,
+      "dailyRatingChange": -1.37
+    },
+    {
+      "position": 5,
+      "playerId": "m52666",
+      "name": "Corey Troxell",
+      "rating": 1532.66,
+      "dailyRatingChange": 2.07
+    },
+    {
+      "position": 5,
+      "playerId": "m42524",
+      "name": "Geoff Kessenich",
+      "rating": 1563.79,
+      "dailyRatingChange": 6.17
+    },
+    {
+      "position": 5,
+      "playerId": "m48233",
+      "name": "Keaton Row",
+      "rating": 1459.81,
+      "dailyRatingChange": 6.34
+    },
+    {
+      "position": 8,
+      "playerId": "i135932",
+      "name": "Craig Weiss",
+      "rating": 1456.11,
+      "dailyRatingChange": 29.14
+    },
+    {
+      "position": 8,
+      "playerId": "i115365",
+      "name": "Steve Byrne",
+      "rating": 1552.88,
+      "dailyRatingChange": -8.13
+    },
+    {
+      "position": 10,
+      "playerId": "m45124",
+      "name": "Tim Dean",
+      "rating": 1509.76,
+      "dailyRatingChange": 3.81
+    },
+    {
+      "position": 11,
+      "playerId": "i37765",
+      "name": "Mikey McDonald",
+      "rating": 1462.29,
+      "dailyRatingChange": 1.26
+    },
+    {
+      "position": 12,
+      "playerId": "i135934",
+      "name": "gary barbarick",
+      "rating": 1479.74,
+      "dailyRatingChange": 0.34
+    },
+    {
+      "position": 12,
+      "playerId": "m35945",
+      "name": "Elsie Oster",
+      "rating": 1530.96,
+      "dailyRatingChange": -2.36
+    },
+    {
+      "position": 12,
+      "playerId": "m30853",
+      "name": "Eric Murphy",
+      "rating": 1535.72,
+      "dailyRatingChange": -2.69
+    },
+    {
+      "position": 15,
+      "playerId": "m48630",
+      "name": "Rocco Kins",
+      "rating": 1361.94,
+      "dailyRatingChange": 0.79
+    },
+    {
+      "position": 16,
+      "playerId": "i117403",
+      "name": "David Teixeira",
+      "rating": 1556.48,
+      "dailyRatingChange": -19.04
+    },
+    {
+      "position": 16,
+      "playerId": "i90917",
+      "name": "Jordan Pittman",
+      "rating": 1460.42,
+      "dailyRatingChange": -19.86
+    },
+    {
+      "position": 18,
+      "playerId": "i155761",
+      "name": "Jocelyn Dean",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "tournamentId": 264714,
+  "name": "Finals for Game Over's Weekly Tournament 7/30",
+  "date": "2026-07-31",
+  "locationId": "9021",
+  "locationName": "Game Over Arcade Bar",
+  "playerCount": 8,
+  "ratingsDate": "2026-07-31",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m3600",
+      "name": "Tanner Wade",
+      "rating": 1758.19,
+      "dailyRatingChange": -10.37
+    },
+    {
+      "position": 2,
+      "playerId": "m5645",
+      "name": "Bill Baggett",
+      "rating": 1688.54,
+      "dailyRatingChange": 2.25
+    },
+    {
+      "position": 2,
+      "playerId": "m34208",
+      "name": "Amanda Huetson",
+      "rating": 1499.19,
+      "dailyRatingChange": 16.85
+    },
+    {
+      "position": 4,
+      "playerId": "m35622",
+      "name": "Cam Sczerba",
+      "rating": 1567.56,
+      "dailyRatingChange": 3.91
+    },
+    {
+      "position": 5,
+      "playerId": "m50011",
+      "name": "Dustin Spooner",
+      "rating": 1635.57,
+      "dailyRatingChange": 0.72
+    },
+    {
+      "position": 5,
+      "playerId": "m43672",
+      "name": "Michael Adams TN2",
+      "rating": 1560.51,
+      "dailyRatingChange": -0.67
+    },
+    {
+      "position": 7,
+      "playerId": "m12579",
+      "name": "Keith Richter",
+      "rating": 1610.46,
+      "dailyRatingChange": -1.73
+    },
+    {
+      "position": 8,
+      "playerId": "i146994",
+      "name": "Jacob W",
+      "rating": 1504.97,
+      "dailyRatingChange": 1.42
+    }
+  ]
+}

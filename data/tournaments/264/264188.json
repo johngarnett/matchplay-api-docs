@@ -1,0 +1,123 @@
+{
+  "tournamentId": 264188,
+  "name": "PRP HQ 2026 Q3 League #6",
+  "date": "2026-07-31",
+  "locationId": "12479",
+  "locationName": "PRPHQ",
+  "playerCount": 16,
+  "ratingsDate": "2026-07-31",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m46473",
+      "name": "Kevin Johnson IL",
+      "rating": 1639.19,
+      "dailyRatingChange": 6.08
+    },
+    {
+      "position": 2,
+      "playerId": "m28887",
+      "name": "CJ Krawcyk",
+      "rating": 1711.31,
+      "dailyRatingChange": 0.89
+    },
+    {
+      "position": 3,
+      "playerId": "m50858",
+      "name": "Daniel Scott IL",
+      "rating": 1526.1,
+      "dailyRatingChange": 1.16
+    },
+    {
+      "position": 3,
+      "playerId": "m566883",
+      "name": "Luanne Flick",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 5,
+      "playerId": "m44385",
+      "name": "Kat Davis",
+      "rating": 1501.97,
+      "dailyRatingChange": 4.02
+    },
+    {
+      "position": 6,
+      "playerId": "m55475",
+      "name": "Kayla Fallen",
+      "rating": 1493.25,
+      "dailyRatingChange": 1.36
+    },
+    {
+      "position": 6,
+      "playerId": "m31972",
+      "name": "Joey McAdams",
+      "rating": 1637.3,
+      "dailyRatingChange": -4.81
+    },
+    {
+      "position": 8,
+      "playerId": "m53508",
+      "name": "Rob Carroll",
+      "rating": 1395.76,
+      "dailyRatingChange": 14.73
+    },
+    {
+      "position": 8,
+      "playerId": "m572953",
+      "name": "Brent Harter",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 10,
+      "playerId": "m40900",
+      "name": "Chris O'Brien IL",
+      "rating": 1568.17,
+      "dailyRatingChange": -3.55
+    },
+    {
+      "position": 10,
+      "playerId": "m57949",
+      "name": "Tyler Bickett",
+      "rating": 1473.96,
+      "dailyRatingChange": -1.64
+    },
+    {
+      "position": 10,
+      "playerId": "m31325",
+      "name": "Rich Morgan",
+      "rating": 1563.81,
+      "dailyRatingChange": -6.4
+    },
+    {
+      "position": 10,
+      "playerId": "m59986",
+      "name": "Steve Jepson",
+      "rating": 1547,
+      "dailyRatingChange": -6.75
+    },
+    {
+      "position": 14,
+      "playerId": "m54680",
+      "name": "Sarah Scott",
+      "rating": 1400.92,
+      "dailyRatingChange": -8.14
+    },
+    {
+      "position": 15,
+      "playerId": "m40131",
+      "name": "Mike Dafforn",
+      "rating": 1522.23,
+      "dailyRatingChange": -13.56
+    },
+    {
+      "position": 16,
+      "playerId": "m552296",
+      "name": "Megan Moeller",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

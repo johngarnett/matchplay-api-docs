@@ -1,0 +1,39 @@
+{
+  "tournamentId": 263977,
+  "name": "Finals for Pindolls July 2026",
+  "date": "2026-07-26",
+  "locationId": "10233",
+  "locationName": "Flippins Bar/Arcade",
+  "playerCount": 4,
+  "ratingsDate": "2026-07-26",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m54106",
+      "name": "Shelby McDonnell",
+      "rating": 1548.51,
+      "dailyRatingChange": 2.82
+    },
+    {
+      "position": 2,
+      "playerId": "m62305",
+      "name": "Arden MacDonald",
+      "rating": 1484.68,
+      "dailyRatingChange": 4.98
+    },
+    {
+      "position": 3,
+      "playerId": "i136974",
+      "name": "Abby Jackson",
+      "rating": 1514.25,
+      "dailyRatingChange": -0.39
+    },
+    {
+      "position": 4,
+      "playerId": "m582118",
+      "name": "Julia Ramsey",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

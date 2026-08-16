@@ -1,0 +1,299 @@
+{
+  "locationId": "5362",
+  "name": "Boxcar Bar + Arcade Durham",
+  "address": "621 Foster St, Durham, NC 27701, USA",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 19,
+  "relatedVenues": [
+    {
+      "locationId": "11549",
+      "name": "Flight Deck NC",
+      "address": "9521 Lumley Rd, Morrisville, NC 27560, US",
+      "count": 119
+    },
+    {
+      "locationId": "12448",
+      "name": "Super Rad Retro Lounge",
+      "address": "106 Glenwood Ave, Raleigh, NC 27603, US",
+      "count": 15
+    },
+    {
+      "locationId": "8955",
+      "name": "Roshambo Beverage Company",
+      "address": "231 South East Street, Raleigh, NC 27601, US",
+      "count": 10
+    },
+    {
+      "locationId": "12499",
+      "name": "DPC",
+      "address": "1100 first state blvd, wilmington DE",
+      "count": 7
+    },
+    {
+      "locationId": "10710",
+      "name": "The Backyard Arcade @ Coastal Hemp Company",
+      "address": "8207 Market St. Unit I, Wilmington, NC, 28411, US",
+      "count": 6
+    },
+    {
+      "locationId": "5785",
+      "name": "Delaware Pinball Collective",
+      "address": "1100 First State Blvd. Wilmington, DE 19804",
+      "count": 3
+    },
+    {
+      "locationId": "11477",
+      "name": "Outlanes Pinball Lounge",
+      "address": "2555 West Alamo Ave. Littleton, CO 80120",
+      "count": 3
+    },
+    {
+      "locationId": "8743",
+      "name": "Fun Stop Arcade",
+      "address": "41 Clementon Rd Berlin, NJ 08009",
+      "count": 2
+    },
+    {
+      "locationId": "11249",
+      "name": "The Manor",
+      "address": "1329 Kings Highway, Pilesgrove, NJ 08098",
+      "count": 2
+    },
+    {
+      "locationId": "1142",
+      "name": "Pinball Gallery",
+      "address": "81 Lancaster Ave, Great Valley Center #20, Malvern, PA 19355, USA",
+      "count": 1
+    }
+  ],
+  "players": [
+    {
+      "id": "m20650",
+      "name": "Matthew Stapleton NC",
+      "rating": 1802.14,
+      "rd": 21.07,
+      "ratingClass": "Master",
+      "homeLocation": "Flight Deck NC",
+      "homeLocationId": "11549",
+      "percentile": 99.55746028788373,
+      "changeDisplay": "-9.6",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m16635",
+      "name": "Brian Aiken",
+      "rating": 1733.36,
+      "rd": 29.94,
+      "ratingClass": "Expert",
+      "homeLocation": "Flight Deck NC",
+      "homeLocationId": "11549",
+      "percentile": 98.24381608981227,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m1663",
+      "name": "Bryan Caudill",
+      "rating": 1711.14,
+      "rd": 28.2,
+      "ratingClass": "Expert",
+      "homeLocation": "Flight Deck NC",
+      "homeLocationId": "11549",
+      "percentile": 97.21898728280617,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m10933",
+      "name": "Scott Mott",
+      "rating": 1706.24,
+      "rd": 19.37,
+      "ratingClass": "Expert",
+      "homeLocation": "DPC",
+      "homeLocationId": "12499",
+      "percentile": 96.95346345553641,
+      "changeDisplay": "-12.3",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m3633",
+      "name": "Morgan Grimes",
+      "rating": 1702.08,
+      "rd": 19.15,
+      "ratingClass": "Expert",
+      "homeLocation": "Flight Deck NC",
+      "homeLocationId": "11549",
+      "percentile": 96.72054781758047,
+      "changeDisplay": "+6.1",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m7791",
+      "name": "Jason Keith",
+      "rating": 1691.5,
+      "rd": 20.74,
+      "ratingClass": "A",
+      "homeLocation": "Flight Deck NC",
+      "homeLocationId": "11549",
+      "percentile": 96.01248427819445,
+      "changeDisplay": "-7.6",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m32966",
+      "name": "Michael Casey",
+      "rating": 1629.48,
+      "rd": 18.59,
+      "ratingClass": "A",
+      "homeLocation": "Flight Deck NC",
+      "homeLocationId": "11549",
+      "percentile": 88.47999254669958,
+      "changeDisplay": "+3.3",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m2324",
+      "name": "Paul Sanders",
+      "rating": 1620.11,
+      "rd": 21.12,
+      "ratingClass": "A",
+      "homeLocation": "Flight Deck NC",
+      "homeLocationId": "11549",
+      "percentile": 86.64927563236596,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m25688",
+      "name": "Ken Lane",
+      "rating": 1584.31,
+      "rd": 22.5,
+      "ratingClass": "B",
+      "homeLocation": "Flight Deck NC",
+      "homeLocationId": "11549",
+      "percentile": 77.87301439418643,
+      "changeDisplay": "-12.6",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m56941",
+      "name": "Aaron Z Moore",
+      "rating": 1575.68,
+      "rd": 38.4,
+      "ratingClass": "B",
+      "homeLocation": "Boxcar Bar + Arcade Durham",
+      "homeLocationId": "5362",
+      "percentile": 75.36218381702147,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m13551",
+      "name": "Derrick Casto",
+      "rating": 1539.05,
+      "rd": 27.92,
+      "ratingClass": "B",
+      "homeLocation": "Outlanes Pinball Lounge",
+      "homeLocationId": "11477",
+      "percentile": 62.73815623980994,
+      "changeDisplay": "+7.1",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m1933",
+      "name": "Joan McCool",
+      "rating": 1523.5,
+      "rd": 20.82,
+      "ratingClass": "B",
+      "homeLocation": "Flight Deck NC",
+      "homeLocationId": "11549",
+      "percentile": 56.51465039362743,
+      "changeDisplay": "+6.4",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m43527",
+      "name": "Matt Kulka",
+      "rating": 1512.89,
+      "rd": 20.42,
+      "ratingClass": "B",
+      "homeLocation": "Flight Deck NC",
+      "homeLocationId": "11549",
+      "percentile": 52.336143848698,
+      "changeDisplay": "-2.0",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m39914",
+      "name": "Scoaljo",
+      "rating": 1467.68,
+      "rd": 35.04,
+      "ratingClass": "C",
+      "homeLocation": "Flight Deck NC",
+      "homeLocationId": "11549",
+      "percentile": 33.91717519914287,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m33355",
+      "name": "Evan Ferry",
+      "rating": 1449.25,
+      "rd": 42.28,
+      "ratingClass": "C",
+      "homeLocation": "Boxcar Bar + Arcade Durham",
+      "homeLocationId": "5362",
+      "percentile": 26.84585643080076,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i155049",
+      "name": "Josh B",
+      "rating": 1432.18,
+      "rd": 51.01,
+      "ratingClass": "C",
+      "homeLocation": "Boxcar Bar + Arcade Durham",
+      "homeLocationId": "5362",
+      "percentile": 21.260539432617506,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m58452",
+      "name": "Kyle Hovis",
+      "rating": 1401.5,
+      "rd": 50.21,
+      "ratingClass": "C",
+      "homeLocation": "Boxcar Bar + Arcade Durham",
+      "homeLocationId": "5362",
+      "percentile": 12.852284902408348,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m6378",
+      "name": "Paul Scrutton",
+      "rating": 1397.54,
+      "rd": 35.27,
+      "ratingClass": "D",
+      "homeLocation": "Boxcar Bar + Arcade Durham",
+      "homeLocationId": "5362",
+      "percentile": 11.897330786789025,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i144896",
+      "name": "Justin Salonia",
+      "rating": 1386.63,
+      "rd": 49.76,
+      "ratingClass": "D",
+      "homeLocation": "Boxcar Bar + Arcade Durham",
+      "homeLocationId": "5362",
+      "percentile": 9.624074160339125,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

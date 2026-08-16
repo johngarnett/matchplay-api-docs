@@ -1,0 +1,407 @@
+{
+  "locationId": "269",
+  "name": "Special When Lit",
+  "address": "Salisbury, Wiltshire SP2 7NS, UK",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 28,
+  "relatedVenues": [
+    {
+      "locationId": "9690",
+      "name": "Martyn Iles's House",
+      "address": "Private address, contact for details.",
+      "count": 24
+    },
+    {
+      "locationId": "13241",
+      "name": "The Pinball Factory",
+      "address": "Gibb St, Birmingham, B9 4AT, GB",
+      "count": 8
+    },
+    {
+      "locationId": "12474",
+      "name": "Retroids Arcade Bar",
+      "address": "8/9 College St, Worcestershire, England WR1 2LU, GB",
+      "count": 7
+    },
+    {
+      "locationId": "12894",
+      "name": "Pinball Factory",
+      "address": "Zellig Building, Gibb St, Deritend, Birmingham B9 4AT",
+      "count": 6
+    },
+    {
+      "locationId": "5471",
+      "name": "Domino Arcade",
+      "address": "Darroch, Wych Hill Lane, Woking, England, GU22 0AA, GB",
+      "count": 4
+    },
+    {
+      "locationId": "9720",
+      "name": "Pinball Republic",
+      "address": "Unit 60, Lower Ground Floor,  Centrale Westfields Mall, Croydon",
+      "count": 4
+    },
+    {
+      "locationId": "13710",
+      "name": "Retroids Arcade Bar",
+      "address": "8/9 College St, Worcester, WR1 2LU, GB",
+      "count": 4
+    },
+    {
+      "locationId": "12748",
+      "name": "The Pinball Office",
+      "address": "Unit T2, Allen House Business Centre, Sawbridgeworth, CM21 9JX, United Kingdom",
+      "count": 3
+    },
+    {
+      "locationId": "11885",
+      "name": "Pinball Republic",
+      "address": "Unit 60 Centrale Shopping Centre, Lower Ground Floor, London, England CR0 1TY, GB",
+      "count": 2
+    },
+    {
+      "locationId": "9654",
+      "name": "Fibber Magees",
+      "address": "80/81 Parnell St, Dublin, D01 CK74, IE",
+      "count": 1
+    }
+  ],
+  "players": [
+    {
+      "id": "m12901",
+      "name": "Joshua Iles",
+      "rating": 1728.16,
+      "rd": 26.08,
+      "ratingClass": "Expert",
+      "homeLocation": "Special When Lit",
+      "homeLocationId": "269",
+      "percentile": 98.06214189220664,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m8751",
+      "name": "Rich Mallett",
+      "rating": 1687.51,
+      "rd": 35.51,
+      "ratingClass": "A",
+      "homeLocation": "Special When Lit",
+      "homeLocationId": "269",
+      "percentile": 95.70969394885172,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m8992",
+      "name": "Luke Grayson",
+      "rating": 1675.87,
+      "rd": 39.15,
+      "ratingClass": "A",
+      "homeLocation": "Special When Lit",
+      "homeLocationId": "269",
+      "percentile": 94.69884008012298,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m773",
+      "name": "Peter Blakemore",
+      "rating": 1665.77,
+      "rd": 28.26,
+      "ratingClass": "A",
+      "homeLocation": "Special When Lit",
+      "homeLocationId": "269",
+      "percentile": 93.70196114967159,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m14183",
+      "name": "Keith Burden",
+      "rating": 1631.81,
+      "rd": 27.62,
+      "ratingClass": "A",
+      "homeLocation": "Special When Lit",
+      "homeLocationId": "269",
+      "percentile": 88.95514044812968,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m8822",
+      "name": "Greg Mott",
+      "rating": 1630.32,
+      "rd": 23.96,
+      "ratingClass": "A",
+      "homeLocation": "Special When Lit",
+      "homeLocationId": "269",
+      "percentile": 88.63371686775051,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m11573",
+      "name": "Jack Burden",
+      "rating": 1602.75,
+      "rd": 37.98,
+      "ratingClass": "A",
+      "homeLocation": "Special When Lit",
+      "homeLocationId": "269",
+      "percentile": 82.68039316159687,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m12828",
+      "name": "Kevin Donovan",
+      "rating": 1601.36,
+      "rd": 22.91,
+      "ratingClass": "A",
+      "homeLocation": "The Pinball Factory",
+      "homeLocationId": "13241",
+      "percentile": 82.34965295569945,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m26768",
+      "name": "Daniel O'Neill",
+      "rating": 1599.09,
+      "rd": 21.78,
+      "ratingClass": "B",
+      "homeLocation": "Martyn Iles's House",
+      "homeLocationId": "9690",
+      "percentile": 81.76270554805049,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m22062",
+      "name": "Dan Prachar",
+      "rating": 1571,
+      "rd": 22.21,
+      "ratingClass": "B",
+      "homeLocation": "Special When Lit",
+      "homeLocationId": "269",
+      "percentile": 73.85754879582616,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m12902",
+      "name": "Martyn Iles",
+      "rating": 1570.6,
+      "rd": 26.44,
+      "ratingClass": "B",
+      "homeLocation": "Special When Lit",
+      "homeLocationId": "269",
+      "percentile": 73.70848278753435,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m40574",
+      "name": "Glen Cockell",
+      "rating": 1557.74,
+      "rd": 19.52,
+      "ratingClass": "B",
+      "homeLocation": "The Pinball Factory",
+      "homeLocationId": "13241",
+      "percentile": 69.63711743606466,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m43331",
+      "name": "Dean Tillson",
+      "rating": 1544.37,
+      "rd": 24.69,
+      "ratingClass": "B",
+      "homeLocation": "Pinball Factory",
+      "homeLocationId": "12894",
+      "percentile": 64.71793916243537,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m35334",
+      "name": "Sean Cain",
+      "rating": 1539.33,
+      "rd": 39.08,
+      "ratingClass": "B",
+      "homeLocation": "Special When Lit",
+      "homeLocationId": "269",
+      "percentile": 62.88256393534262,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m8991",
+      "name": "Dan Lewell",
+      "rating": 1523.6,
+      "rd": 33.99,
+      "ratingClass": "B",
+      "homeLocation": "Special When Lit",
+      "homeLocationId": "269",
+      "percentile": 56.570550146736856,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m37440",
+      "name": "Eduardo Galeano",
+      "rating": 1520.71,
+      "rd": 26.15,
+      "ratingClass": "B",
+      "homeLocation": "Special When Lit",
+      "homeLocationId": "269",
+      "percentile": 55.46187171006661,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m18954",
+      "name": "Michael Addis",
+      "rating": 1490.88,
+      "rd": 32.68,
+      "ratingClass": "C",
+      "homeLocation": "Special When Lit",
+      "homeLocationId": "269",
+      "percentile": 43.36423347463549,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m26767",
+      "name": "Alan Griffin",
+      "rating": 1478.24,
+      "rd": 29.22,
+      "ratingClass": "C",
+      "homeLocation": "Martyn Iles's House",
+      "homeLocationId": "9690",
+      "percentile": 38.212139563050265,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i36866",
+      "name": "Robin Hellings",
+      "rating": 1472.39,
+      "rd": 56.83,
+      "ratingClass": "C",
+      "homeLocation": "Special When Lit",
+      "homeLocationId": "269",
+      "percentile": 35.81310849210416,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m20208",
+      "name": "Rhian Best",
+      "rating": 1458.64,
+      "rd": 39.93,
+      "ratingClass": "C",
+      "homeLocation": "Special When Lit",
+      "homeLocationId": "269",
+      "percentile": 30.414124004285647,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m37438",
+      "name": "Maria Morillo",
+      "rating": 1447.95,
+      "rd": 26.83,
+      "ratingClass": "C",
+      "homeLocation": "Special When Lit",
+      "homeLocationId": "269",
+      "percentile": 26.412633344202728,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m26769",
+      "name": "James Downey",
+      "rating": 1433.69,
+      "rd": 36.26,
+      "ratingClass": "C",
+      "homeLocation": "Special When Lit",
+      "homeLocationId": "269",
+      "percentile": 21.675129268179067,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m35753",
+      "name": "Zed Fury",
+      "rating": 1432.11,
+      "rd": 56.48,
+      "ratingClass": "C",
+      "homeLocation": "Special When Lit",
+      "homeLocationId": "269",
+      "percentile": 21.232589556062795,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m19302",
+      "name": "Darron Smith",
+      "rating": 1431.48,
+      "rd": 46.5,
+      "ratingClass": "C",
+      "homeLocation": "Special When Lit",
+      "homeLocationId": "269",
+      "percentile": 21.00433223086598,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i12409",
+      "name": "Hilary Hector",
+      "rating": 1350.95,
+      "rd": 36.92,
+      "ratingClass": "D",
+      "homeLocation": "Special When Lit",
+      "homeLocationId": "269",
+      "percentile": 4.37415568081241,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i115816",
+      "name": "Denz Lyne",
+      "rating": 1344.85,
+      "rd": 61.12,
+      "ratingClass": "D",
+      "homeLocation": "Special When Lit",
+      "homeLocationId": "269",
+      "percentile": 3.694042017981087,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m46245",
+      "name": "Nicky Crancher",
+      "rating": 1339.46,
+      "rd": 47.79,
+      "ratingClass": "D",
+      "homeLocation": "Special When Lit",
+      "homeLocationId": "269",
+      "percentile": 3.1769693017189176,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i6131",
+      "name": "William Moore",
+      "rating": null,
+      "rd": null,
+      "ratingClass": "N/A",
+      "homeLocation": "Special When Lit",
+      "homeLocationId": "269",
+      "percentile": null,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

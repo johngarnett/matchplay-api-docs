@@ -1,0 +1,186 @@
+{
+  "tournamentId": 264713,
+  "name": "ROBOCADE Silverball Showdown Pinball Tournament",
+  "date": "2026-08-08",
+  "locationId": "13440",
+  "locationName": "Robocade",
+  "playerCount": 25,
+  "ratingsDate": "2026-08-08",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m16937",
+      "name": "Tristan Stafford",
+      "rating": 1759.05,
+      "dailyRatingChange": 2
+    },
+    {
+      "position": 2,
+      "playerId": "m12891",
+      "name": "Gwen Octavia",
+      "rating": 1714.05,
+      "dailyRatingChange": 14.54
+    },
+    {
+      "position": 3,
+      "playerId": "m1540",
+      "name": "Rob Endo",
+      "rating": 1723.48,
+      "dailyRatingChange": 3.33
+    },
+    {
+      "position": 4,
+      "playerId": "m16441",
+      "name": "Shannon Stafford",
+      "rating": 1765.45,
+      "dailyRatingChange": -4.87
+    },
+    {
+      "position": 5,
+      "playerId": "m24406",
+      "name": "John Moschella",
+      "rating": 1699.84,
+      "dailyRatingChange": -2.64
+    },
+    {
+      "position": 5,
+      "playerId": "m16426",
+      "name": "Shannon Parsons",
+      "rating": 1545.46,
+      "dailyRatingChange": 10.8
+    },
+    {
+      "position": 5,
+      "playerId": "m582897",
+      "name": "Darrel Hoffer",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 8,
+      "playerId": "m8357",
+      "name": "Parker Sokol",
+      "rating": 1486.63,
+      "dailyRatingChange": 10.85
+    },
+    {
+      "position": 8,
+      "playerId": "m16198",
+      "name": "Kirby Rients",
+      "rating": 1680.65,
+      "dailyRatingChange": -4.07
+    },
+    {
+      "position": 10,
+      "playerId": "m18675",
+      "name": "Michela Phillabaum",
+      "rating": 1574.63,
+      "dailyRatingChange": 3.47
+    },
+    {
+      "position": 11,
+      "playerId": "i44227",
+      "name": "Scott Shelton",
+      "rating": 1694.45,
+      "dailyRatingChange": -10.28
+    },
+    {
+      "position": 11,
+      "playerId": "m24487",
+      "name": "Andy Sokol",
+      "rating": 1654.11,
+      "dailyRatingChange": -3.2
+    },
+    {
+      "position": 11,
+      "playerId": "m52928",
+      "name": "Steve Reining",
+      "rating": 1585.87,
+      "dailyRatingChange": -0.16
+    },
+    {
+      "position": 14,
+      "playerId": "m59116",
+      "name": "Clayton Phillabaum",
+      "rating": 1452.37,
+      "dailyRatingChange": 7.1
+    },
+    {
+      "position": 15,
+      "playerId": "m16439",
+      "name": "Stacey Stafford",
+      "rating": 1610.23,
+      "dailyRatingChange": -5.43
+    },
+    {
+      "position": 15,
+      "playerId": "m562032",
+      "name": "Dennis Arnold",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 15,
+      "playerId": "m35098",
+      "name": "Vince Trimarco",
+      "rating": 1512.51,
+      "dailyRatingChange": -3.22
+    },
+    {
+      "position": 18,
+      "playerId": "m11124",
+      "name": "Randy Parsons",
+      "rating": 1519.62,
+      "dailyRatingChange": -8.56
+    },
+    {
+      "position": 18,
+      "playerId": "m585493",
+      "name": "Jeff Laclave",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 20,
+      "playerId": "m41346",
+      "name": "Jason Phillabaum",
+      "rating": 1496.58,
+      "dailyRatingChange": -3.47
+    },
+    {
+      "position": 20,
+      "playerId": "m62504",
+      "name": "Daniel Strelow",
+      "rating": 1488.41,
+      "dailyRatingChange": -5.99
+    },
+    {
+      "position": 20,
+      "playerId": "m585496",
+      "name": "Chris Goodin",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 23,
+      "playerId": "m585495",
+      "name": "Alejandro Cruz",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 24,
+      "playerId": "m49210",
+      "name": "Tony Reining",
+      "rating": 1552.52,
+      "dailyRatingChange": -9.95
+    },
+    {
+      "position": 25,
+      "playerId": "m585494",
+      "name": "Dana Laclave",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

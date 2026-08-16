@@ -1,0 +1,479 @@
+{
+  "locationId": "52",
+  "name": "Wally & Mary in Vacaville",
+  "address": "",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 34,
+  "relatedVenues": [
+    {
+      "locationId": "981",
+      "name": "Loren & Yvette in Vacaville",
+      "address": "Vacaville",
+      "count": 85
+    },
+    {
+      "locationId": "938",
+      "name": "Jason D. in Fairfield",
+      "address": "Fairfield",
+      "count": 75
+    },
+    {
+      "locationId": "9542",
+      "name": "Capital Pinball Parlor",
+      "address": "117 J St, Sacramento, CA 95814, US",
+      "count": 38
+    },
+    {
+      "locationId": "10931",
+      "name": "Fore Play Simulators",
+      "address": "601 Orange Dr. Suite G. Vacaville, CA 95687",
+      "count": 35
+    },
+    {
+      "locationId": "12904",
+      "name": "Solano 1st Friday Tournament",
+      "address": "7404 Timm Road, Vacaville, 95688",
+      "count": 30
+    },
+    {
+      "locationId": "909",
+      "name": "Jonathan and Yoojeong in Davis",
+      "address": "Davis",
+      "count": 26
+    },
+    {
+      "locationId": "8715",
+      "name": "Jack’s Cameron Park",
+      "address": "",
+      "count": 15
+    },
+    {
+      "locationId": "10131",
+      "name": "The Rewind Arcade",
+      "address": "6780 Depot St, Sebastopol, CA 95472, US",
+      "count": 15
+    },
+    {
+      "locationId": "9024",
+      "name": "Elbow Room",
+      "address": "2002 Victorian Ave, Sparks NV 89431",
+      "count": 14
+    },
+    {
+      "locationId": "12836",
+      "name": "Giao's House",
+      "address": "Woodland, CA",
+      "count": 12
+    }
+  ],
+  "players": [
+    {
+      "id": "m27131",
+      "name": "Hector Villalobos",
+      "rating": 1709.86,
+      "rd": 27.16,
+      "ratingClass": "Expert",
+      "homeLocation": "Jason D. in Fairfield",
+      "homeLocationId": "938",
+      "percentile": 97.16308752969674,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m212",
+      "name": "Dito Milian",
+      "rating": 1679.5,
+      "rd": 37.35,
+      "ratingClass": "A",
+      "homeLocation": "Fore Play Simulators",
+      "homeLocationId": "10931",
+      "percentile": 95.06684678809336,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m11029",
+      "name": "Michael LaFrieda",
+      "rating": 1657.88,
+      "rd": 15.09,
+      "ratingClass": "A",
+      "homeLocation": "Elbow Room",
+      "homeLocationId": "9024",
+      "percentile": 92.78893184888433,
+      "changeDisplay": "+9.1",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m6963",
+      "name": "Tom Collins",
+      "rating": 1634.51,
+      "rd": 50.28,
+      "ratingClass": "A",
+      "homeLocation": "Jason D. in Fairfield",
+      "homeLocationId": "938",
+      "percentile": 89.37438859645036,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m4107",
+      "name": "Jason Delano",
+      "rating": 1609.22,
+      "rd": 46.79,
+      "ratingClass": "A",
+      "homeLocation": "Jason D. in Fairfield",
+      "homeLocationId": "938",
+      "percentile": 84.25024456141985,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m49796",
+      "name": "Keith Parkins",
+      "rating": 1603.42,
+      "rd": 35.44,
+      "ratingClass": "A",
+      "homeLocation": "MarTEEnez Minigolf & Arcade",
+      "homeLocationId": "9842",
+      "percentile": 82.82480085712955,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m55818",
+      "name": "Nick Hawkins",
+      "rating": 1596.85,
+      "rd": 21.22,
+      "ratingClass": "B",
+      "homeLocation": "The Rewind Arcade",
+      "homeLocationId": "10131",
+      "percentile": 81.25494945730657,
+      "changeDisplay": "+2.0",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m54841",
+      "name": "Sean Rader",
+      "rating": 1595.5,
+      "rd": 21.31,
+      "ratingClass": "B",
+      "homeLocation": "Capital Pinball Parlor",
+      "homeLocationId": "9542",
+      "percentile": 80.90557600037268,
+      "changeDisplay": "-1.8",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m28476",
+      "name": "Jerry Schlenker",
+      "rating": 1592.8,
+      "rd": 47.46,
+      "ratingClass": "B",
+      "homeLocation": "Loren & Yvette in Vacaville",
+      "homeLocationId": "981",
+      "percentile": 80.20682908650487,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m37839",
+      "name": "Cyrus Crawford",
+      "rating": 1588.09,
+      "rd": 38.02,
+      "ratingClass": "B",
+      "homeLocation": "Jason D. in Fairfield",
+      "homeLocationId": "938",
+      "percentile": 78.9444263287837,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m53673",
+      "name": "Walter Pearce",
+      "rating": 1584.97,
+      "rd": 25.8,
+      "ratingClass": "B",
+      "homeLocation": "Fore Play Simulators",
+      "homeLocationId": "10931",
+      "percentile": 78.03605534075558,
+      "changeDisplay": "-1.7",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m37540",
+      "name": "Eric Sarell",
+      "rating": 1583.94,
+      "rd": 25.23,
+      "ratingClass": "B",
+      "homeLocation": "Capital Pinball Parlor",
+      "homeLocationId": "9542",
+      "percentile": 77.71929007313551,
+      "changeDisplay": "-1.6",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "i109835",
+      "name": "Matt Carpenter",
+      "rating": 1579.79,
+      "rd": 34.67,
+      "ratingClass": "B",
+      "homeLocation": "Jason D. in Fairfield",
+      "homeLocationId": "938",
+      "percentile": 76.55937019611497,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m2916",
+      "name": "Peter Crawford",
+      "rating": 1578.81,
+      "rd": 46.69,
+      "ratingClass": "B",
+      "homeLocation": "Jason D. in Fairfield",
+      "homeLocationId": "938",
+      "percentile": 76.27987143056785,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m3187",
+      "name": "Loren Drowne",
+      "rating": 1572.93,
+      "rd": 44.45,
+      "ratingClass": "B",
+      "homeLocation": "Jason D. in Fairfield",
+      "homeLocationId": "938",
+      "percentile": 74.45847114175245,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m54725",
+      "name": "Bradley Sellers",
+      "rating": 1530.62,
+      "rd": 23.34,
+      "ratingClass": "B",
+      "homeLocation": "Solano 1st Friday Tournament",
+      "homeLocationId": "12904",
+      "percentile": 59.2816881725439,
+      "changeDisplay": "+0.6",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m3251",
+      "name": "Izzy Schwartz",
+      "rating": 1527.71,
+      "rd": 38.89,
+      "ratingClass": "B",
+      "homeLocation": "Jason D. in Fairfield",
+      "homeLocationId": "938",
+      "percentile": 58.093818418968645,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m36443",
+      "name": "Jose Aguilar",
+      "rating": 1523.86,
+      "rd": 21.4,
+      "ratingClass": "B",
+      "homeLocation": "Fore Play Simulators",
+      "homeLocationId": "10931",
+      "percentile": 56.659058089160105,
+      "changeDisplay": "-3.0",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m44710",
+      "name": "Bill Glade",
+      "rating": 1501.26,
+      "rd": 45.6,
+      "ratingClass": "B",
+      "homeLocation": "Loren & Yvette in Vacaville",
+      "homeLocationId": "981",
+      "percentile": 47.64988121302464,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i142913",
+      "name": "Frank Price",
+      "rating": 1490.39,
+      "rd": 34.49,
+      "ratingClass": "C",
+      "homeLocation": "Loren & Yvette in Vacaville",
+      "homeLocationId": "981",
+      "percentile": 43.1685843387525,
+      "changeDisplay": "+6.7",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "i147223",
+      "name": "Giao Villalobos",
+      "rating": 1481.07,
+      "rd": 37.44,
+      "ratingClass": "C",
+      "homeLocation": "Loren & Yvette in Vacaville",
+      "homeLocationId": "981",
+      "percentile": 39.316159686961385,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m54061",
+      "name": "Kyle Van Eenennaam",
+      "rating": 1480.68,
+      "rd": 24.04,
+      "ratingClass": "C",
+      "homeLocation": "Capital Pinball Parlor",
+      "homeLocationId": "9542",
+      "percentile": 39.1205105510784,
+      "changeDisplay": "+10.8",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "i127642",
+      "name": "Charlie Ang",
+      "rating": 1477.8,
+      "rd": 42.89,
+      "ratingClass": "C",
+      "homeLocation": "Wally & Mary in Vacaville",
+      "homeLocationId": "52",
+      "percentile": 38.04909861648111,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m3341",
+      "name": "Gerald Bechtel",
+      "rating": 1476.59,
+      "rd": 51.63,
+      "ratingClass": "C",
+      "homeLocation": "Loren & Yvette in Vacaville",
+      "homeLocationId": "981",
+      "percentile": 37.51805096194158,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i37628",
+      "name": "Shannon Bechtel",
+      "rating": 1467.82,
+      "rd": 52.49,
+      "ratingClass": "C",
+      "homeLocation": "Loren & Yvette in Vacaville",
+      "homeLocationId": "981",
+      "percentile": 34.01499976708436,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m3954",
+      "name": "Jonathan Diamant",
+      "rating": 1459.58,
+      "rd": 45.62,
+      "ratingClass": "C",
+      "homeLocation": "Jason D. in Fairfield",
+      "homeLocationId": "938",
+      "percentile": 30.856663716401922,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i142912",
+      "name": "Skye Stauffer",
+      "rating": 1456.56,
+      "rd": 71.23,
+      "ratingClass": "C",
+      "homeLocation": "Jason D. in Fairfield",
+      "homeLocationId": "938",
+      "percentile": 29.598919271439883,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m582",
+      "name": "Alex Zingorenko",
+      "rating": 1445.37,
+      "rd": 49.82,
+      "ratingClass": "C",
+      "homeLocation": "Jason D. in Fairfield",
+      "homeLocationId": "938",
+      "percentile": 25.51823729445195,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m208",
+      "name": "Mike Barry",
+      "rating": 1426.31,
+      "rd": 59.43,
+      "ratingClass": "C",
+      "homeLocation": "Jason D. in Fairfield",
+      "homeLocationId": "938",
+      "percentile": 19.504355522429776,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m55331",
+      "name": "Joanna Guan",
+      "rating": 1409.14,
+      "rd": 30.21,
+      "ratingClass": "C",
+      "homeLocation": "Capital Pinball Parlor",
+      "homeLocationId": "9542",
+      "percentile": 14.850701076070246,
+      "changeDisplay": "-7.3",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m81",
+      "name": "Walter Pearce",
+      "rating": 1406.39,
+      "rd": 32.27,
+      "ratingClass": "C",
+      "homeLocation": "Jason D. in Fairfield",
+      "homeLocationId": "938",
+      "percentile": 14.15195416220245,
+      "changeDisplay": "-0.4",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m5026",
+      "name": "Brian Shaw",
+      "rating": 1384.35,
+      "rd": 75,
+      "ratingClass": "D",
+      "homeLocation": "Jason D. in Fairfield",
+      "homeLocationId": "938",
+      "percentile": 9.186192760981973,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i75984",
+      "name": "Yoojeong Eddy",
+      "rating": null,
+      "rd": null,
+      "ratingClass": "N/A",
+      "homeLocation": "Jason D. in Fairfield",
+      "homeLocationId": "938",
+      "percentile": null,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i65182",
+      "name": "Peter Covil",
+      "rating": null,
+      "rd": null,
+      "ratingClass": "N/A",
+      "homeLocation": "Loren & Yvette in Vacaville",
+      "homeLocationId": "981",
+      "percentile": null,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

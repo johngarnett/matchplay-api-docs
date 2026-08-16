@@ -1,0 +1,109 @@
+{
+  "tournamentId": 251512,
+  "name": "Tilt & Tap Tuesday's!",
+  "date": "2026-08-05",
+  "locationId": "9807",
+  "locationName": "Minnesota Pinball @ Bucks Mill Brewing",
+  "playerCount": 14,
+  "ratingsDate": "2026-08-05",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m40082",
+      "name": "Jed Arneson",
+      "rating": 1515.1,
+      "dailyRatingChange": 14
+    },
+    {
+      "position": 1,
+      "playerId": "m44885",
+      "name": "Bill Esterby",
+      "rating": 1599.95,
+      "dailyRatingChange": 9.3
+    },
+    {
+      "position": 3,
+      "playerId": "i122699",
+      "name": "Jim Francis",
+      "rating": 1540.33,
+      "dailyRatingChange": 3.38
+    },
+    {
+      "position": 4,
+      "playerId": "i158680",
+      "name": "Sean Oakes",
+      "rating": 1422.89,
+      "dailyRatingChange": 17.11
+    },
+    {
+      "position": 4,
+      "playerId": "m45268",
+      "name": "Ross mickelson",
+      "rating": 1561.44,
+      "dailyRatingChange": -3.1
+    },
+    {
+      "position": 6,
+      "playerId": "i123074",
+      "name": "Brian Ellerbusch",
+      "rating": 1472.19,
+      "dailyRatingChange": 2.24
+    },
+    {
+      "position": 6,
+      "playerId": "m6492",
+      "name": "Mike Moberg",
+      "rating": 1594.33,
+      "dailyRatingChange": -3.09
+    },
+    {
+      "position": 8,
+      "playerId": "i123073",
+      "name": "Trent Leshovsky",
+      "rating": 1459.91,
+      "dailyRatingChange": 0.74
+    },
+    {
+      "position": 9,
+      "playerId": "m40084",
+      "name": "Chris Smith",
+      "rating": 1455.22,
+      "dailyRatingChange": -1.08
+    },
+    {
+      "position": 10,
+      "playerId": "m40440",
+      "name": "Patrick Williams",
+      "rating": 1501.48,
+      "dailyRatingChange": -3.14
+    },
+    {
+      "position": 11,
+      "playerId": "m55926",
+      "name": "Chris Sebastian",
+      "rating": 1504.53,
+      "dailyRatingChange": -5.19
+    },
+    {
+      "position": 12,
+      "playerId": "i123340",
+      "name": "Oscar Ellerbusch",
+      "rating": 1425.25,
+      "dailyRatingChange": -12.18
+    },
+    {
+      "position": 13,
+      "playerId": "i123341",
+      "name": "Lucinda Ellerbusch",
+      "rating": 1395.9,
+      "dailyRatingChange": -11.83
+    },
+    {
+      "position": 13,
+      "playerId": "m39537",
+      "name": "Don Smith",
+      "rating": 1594.83,
+      "dailyRatingChange": -8.69
+    }
+  ]
+}

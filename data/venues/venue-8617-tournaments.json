@@ -1,0 +1,44 @@
+{
+  "locationId": "8617",
+  "venueName": "Biljardna Hisa Ljubljana - Slovenska",
+  "venueAddress": "Slovenska 58, 1000 Ljubljana",
+  "tournaments": [
+    {
+      "id": 263802,
+      "name": "Finals for Ljubljana Julij Pinball 2026 4 real",
+      "date": "7/25/2026",
+      "playerCount": 8,
+      "qualifying": {
+        "id": 263739,
+        "name": "Ljubljana Julij Pinball 2026",
+        "playerCount": 12
+      },
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m26511",
+          "name": "Timotej Ponjevic",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m47954",
+          "name": "Ivan Filipic",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m56839",
+          "name": "Mirko Bogic",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m31317",
+          "name": "Žan Siter",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

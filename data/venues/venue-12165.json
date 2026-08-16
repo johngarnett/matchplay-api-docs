@@ -1,0 +1,359 @@
+{
+  "locationId": "12165",
+  "name": "The Pinball Perch",
+  "address": "Port Clinton, OH",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 24,
+  "relatedVenues": [
+    {
+      "locationId": "535",
+      "name": "Superelectric Pinball Parlor",
+      "address": "6500 Detroit Ave, Cleveland, OH 44102, USA",
+      "count": 132
+    },
+    {
+      "locationId": "10180",
+      "name": "Pinball Planet",
+      "address": "6277E Pearl Rd, Parma Heights, OH 44130",
+      "count": 117
+    },
+    {
+      "locationId": "8555",
+      "name": "Past Times Arcade",
+      "address": "419 N State St, Girard, OH, 44420, US",
+      "count": 33
+    },
+    {
+      "locationId": "13024",
+      "name": "Three Legged Dog",
+      "address": "116 Madison St, Port Clinton, OH, 43452, US",
+      "count": 27
+    },
+    {
+      "locationId": "10342",
+      "name": "Pinball Planet",
+      "address": "6277 Pearl Rd, Cleveland, OH 44130, US",
+      "count": 24
+    },
+    {
+      "locationId": "8939",
+      "name": "Grizzlybird Brewing Company",
+      "address": "5901 Chandler Ct, Westerville, OH 43082, US",
+      "count": 19
+    },
+    {
+      "locationId": "13248",
+      "name": "North Canton Masonic Temple",
+      "address": "805 Orchard Ave NE, North Canton, OH 44720, US",
+      "count": 15
+    },
+    {
+      "locationId": "7969",
+      "name": "Level One Bar + Arcade",
+      "address": "130 Hutchinson Ave, Columbus, OH 43235, US",
+      "count": 12
+    },
+    {
+      "locationId": "7439",
+      "name": "Arcade Legacy Sharonville",
+      "address": "2241 Crowne Point Dr, Cincinnati, OH 45241, US",
+      "count": 10
+    },
+    {
+      "locationId": "10672",
+      "name": "Toledo Spirits",
+      "address": "1301 N Summit Street Toledo 43604",
+      "count": 10
+    }
+  ],
+  "players": [
+    {
+      "id": "m157",
+      "name": "Sean Campbell OH",
+      "rating": 1657.78,
+      "rd": 19.74,
+      "ratingClass": "A",
+      "homeLocation": "Three Legged Dog",
+      "homeLocationId": "13024",
+      "percentile": 92.77495691060697,
+      "changeDisplay": "+24.3",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m43456",
+      "name": "Brianna Weber",
+      "rating": 1582.48,
+      "rd": 15,
+      "ratingClass": "B",
+      "homeLocation": "Pinball Planet",
+      "homeLocationId": "10180",
+      "percentile": 77.34196673964689,
+      "changeDisplay": "-0.0",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m24572",
+      "name": "Fiona Kelly",
+      "rating": 1573.66,
+      "rd": 22.57,
+      "ratingClass": "B",
+      "homeLocation": "Superelectric Pinball Parlor",
+      "homeLocationId": "535",
+      "percentile": 74.67741184143102,
+      "changeDisplay": "+2.5",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m3321",
+      "name": "Rhonda Wamsley",
+      "rating": 1570.99,
+      "rd": 18.21,
+      "ratingClass": "B",
+      "homeLocation": "Grizzlybird Brewing Company",
+      "homeLocationId": "8939",
+      "percentile": 73.85289048306703,
+      "changeDisplay": "+3.9",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m40851",
+      "name": "Jessica Reitz",
+      "rating": 1569.18,
+      "rd": 15.39,
+      "ratingClass": "B",
+      "homeLocation": "Pinball Planet",
+      "homeLocationId": "10180",
+      "percentile": 73.2426515116225,
+      "changeDisplay": "+12.5",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m42632",
+      "name": "Beth Shepherd",
+      "rating": 1538.24,
+      "rd": 16.08,
+      "ratingClass": "B",
+      "homeLocation": "Past Times Arcade",
+      "homeLocationId": "8555",
+      "percentile": 62.36083290632133,
+      "changeDisplay": "-7.8",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m45582",
+      "name": "Lydia Burke",
+      "rating": 1536.24,
+      "rd": 24.56,
+      "ratingClass": "B",
+      "homeLocation": "Superelectric Pinball Parlor",
+      "homeLocationId": "535",
+      "percentile": 61.55960311175293,
+      "changeDisplay": "-13.4",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m29084",
+      "name": "Desiree Lewis",
+      "rating": 1531.85,
+      "rd": 21.28,
+      "ratingClass": "B",
+      "homeLocation": "Superelectric Pinball Parlor",
+      "homeLocationId": "535",
+      "percentile": 59.81273582708343,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m36968",
+      "name": "Matt Barnes CA",
+      "rating": 1527.43,
+      "rd": 70.58,
+      "ratingClass": "B",
+      "homeLocation": "The Pinball Perch",
+      "homeLocationId": "12165",
+      "percentile": 57.97270228723157,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m33223",
+      "name": "Jill Grunenwald",
+      "rating": 1521.15,
+      "rd": 18.96,
+      "ratingClass": "B",
+      "homeLocation": "Superelectric Pinball Parlor",
+      "homeLocationId": "535",
+      "percentile": 55.64354590767224,
+      "changeDisplay": "-6.9",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m18710",
+      "name": "Emily Felvus",
+      "rating": 1516.92,
+      "rd": 16.06,
+      "ratingClass": "B",
+      "homeLocation": "Past Times Arcade",
+      "homeLocationId": "8555",
+      "percentile": 53.989844878185124,
+      "changeDisplay": "+10.0",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m56133",
+      "name": "Laurie Ott",
+      "rating": 1508.16,
+      "rd": 21.51,
+      "ratingClass": "B",
+      "homeLocation": "Toledo Spirits",
+      "homeLocationId": "10672",
+      "percentile": 50.50542693436437,
+      "changeDisplay": "+5.8",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m21564",
+      "name": "Kristin Vogel-Campbell",
+      "rating": 1500.68,
+      "rd": 17.69,
+      "ratingClass": "B",
+      "homeLocation": "Superelectric Pinball Parlor",
+      "homeLocationId": "535",
+      "percentile": 47.40299063679135,
+      "changeDisplay": "-19.2",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m45574",
+      "name": "Katie Kloss",
+      "rating": 1487.76,
+      "rd": 18.85,
+      "ratingClass": "C",
+      "homeLocation": "Superelectric Pinball Parlor",
+      "homeLocationId": "535",
+      "percentile": 42.04593096380491,
+      "changeDisplay": "+13.4",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m29155",
+      "name": "Sarah Kunz",
+      "rating": 1484.84,
+      "rd": 18.89,
+      "ratingClass": "C",
+      "homeLocation": "Superelectric Pinball Parlor",
+      "homeLocationId": "535",
+      "percentile": 40.820794708156704,
+      "changeDisplay": "-5.4",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "i146602",
+      "name": "Angela LeForce",
+      "rating": 1467.08,
+      "rd": 43.03,
+      "ratingClass": "C",
+      "homeLocation": "The Pinball Perch",
+      "homeLocationId": "12165",
+      "percentile": 33.68891787394605,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m34742",
+      "name": "Jessica Canterbury",
+      "rating": 1460.04,
+      "rd": 16.61,
+      "ratingClass": "C",
+      "homeLocation": "Pinball Planet",
+      "homeLocationId": "10180",
+      "percentile": 31.02436297573019,
+      "changeDisplay": "-20.2",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m47471",
+      "name": "Kaitlin Grocky",
+      "rating": 1453.16,
+      "rd": 19.91,
+      "ratingClass": "C",
+      "homeLocation": "Superelectric Pinball Parlor",
+      "homeLocationId": "535",
+      "percentile": 28.322541575441374,
+      "changeDisplay": "-1.9",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m35441",
+      "name": "Katie Avila",
+      "rating": 1452.3,
+      "rd": 26.9,
+      "ratingClass": "C",
+      "homeLocation": "Superelectric Pinball Parlor",
+      "homeLocationId": "535",
+      "percentile": 28.029067871616903,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m39402",
+      "name": "Linnea Gunvalsen",
+      "rating": 1445.57,
+      "rd": 22.78,
+      "ratingClass": "C",
+      "homeLocation": "Superelectric Pinball Parlor",
+      "homeLocationId": "535",
+      "percentile": 25.602086924116087,
+      "changeDisplay": "+9.2",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m52566",
+      "name": "Amy Howerth",
+      "rating": 1393.02,
+      "rd": 37.12,
+      "ratingClass": "D",
+      "homeLocation": "Three Legged Dog",
+      "homeLocationId": "13024",
+      "percentile": 10.891135230819398,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m35167",
+      "name": "Ali Cokeley",
+      "rating": 1391.74,
+      "rd": 22.82,
+      "ratingClass": "D",
+      "homeLocation": "Superelectric Pinball Parlor",
+      "homeLocationId": "535",
+      "percentile": 10.644244654586108,
+      "changeDisplay": "-0.8",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m51424",
+      "name": "Heather McMillin",
+      "rating": 1334.36,
+      "rd": 24.13,
+      "ratingClass": "D",
+      "homeLocation": "Superelectric Pinball Parlor",
+      "homeLocationId": "535",
+      "percentile": 2.7623794661573577,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m45909",
+      "name": "Gary Howerth",
+      "rating": 1330.41,
+      "rd": 43.46,
+      "ratingClass": "D",
+      "homeLocation": "Three Legged Dog",
+      "homeLocationId": "13024",
+      "percentile": 2.496855638887595,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

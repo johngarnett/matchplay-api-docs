@@ -1,0 +1,123 @@
+{
+  "tournamentId": 264186,
+  "name": "Rewind Pinball League Season 10 #9",
+  "date": "2026-07-28",
+  "locationId": "10131",
+  "locationName": "The Rewind Arcade",
+  "playerCount": 16,
+  "ratingsDate": "2026-07-28",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m55818",
+      "name": "Nick Hawkins",
+      "rating": 1600.66,
+      "dailyRatingChange": 8.27
+    },
+    {
+      "position": 2,
+      "playerId": "m29955",
+      "name": "Ryan Hohne",
+      "rating": 1638.95,
+      "dailyRatingChange": 5.42
+    },
+    {
+      "position": 2,
+      "playerId": "m51261",
+      "name": "Irving Lam",
+      "rating": 1605.01,
+      "dailyRatingChange": 12.69
+    },
+    {
+      "position": 4,
+      "playerId": "i115994",
+      "name": "Ryan Polite",
+      "rating": 1479.31,
+      "dailyRatingChange": 19.13
+    },
+    {
+      "position": 4,
+      "playerId": "m48474",
+      "name": "Chris Giro",
+      "rating": 1602.64,
+      "dailyRatingChange": 7.81
+    },
+    {
+      "position": 6,
+      "playerId": "m32785",
+      "name": "Nick Bower",
+      "rating": 1582.32,
+      "dailyRatingChange": 1.05
+    },
+    {
+      "position": 7,
+      "playerId": "i108118",
+      "name": "Mark Kringen",
+      "rating": 1544.61,
+      "dailyRatingChange": -0.41
+    },
+    {
+      "position": 7,
+      "playerId": "m49080",
+      "name": "Gus Rovelo",
+      "rating": 1540.9,
+      "dailyRatingChange": 0.05
+    },
+    {
+      "position": 9,
+      "playerId": "m582567",
+      "name": "Lukas Osburn",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 9,
+      "playerId": "m417766",
+      "name": "Serbeth Ramirez",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 9,
+      "playerId": "m523326",
+      "name": "Jamie Caldwell",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 12,
+      "playerId": "m43690",
+      "name": "Garth McCallum",
+      "rating": 1438.94,
+      "dailyRatingChange": -6.69
+    },
+    {
+      "position": 12,
+      "playerId": "m32628",
+      "name": "Adam Lam",
+      "rating": 1515.71,
+      "dailyRatingChange": -9.6
+    },
+    {
+      "position": 12,
+      "playerId": "m55184",
+      "name": "Juan Duran",
+      "rating": 1538.64,
+      "dailyRatingChange": -13.74
+    },
+    {
+      "position": 15,
+      "playerId": "m40613",
+      "name": "Jeffrey Songster",
+      "rating": 1477.85,
+      "dailyRatingChange": -12.59
+    },
+    {
+      "position": 15,
+      "playerId": "i159766",
+      "name": "Elke Osburn",
+      "rating": 1442.4,
+      "dailyRatingChange": null
+    }
+  ]
+}

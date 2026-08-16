@@ -1,0 +1,144 @@
+{
+  "tournamentId": 265568,
+  "name": "JUPITOURNEY 25.8",
+  "date": "2026-08-05",
+  "locationId": "5461",
+  "locationName": "JUPITER",
+  "playerCount": 19,
+  "ratingsDate": "2026-08-05",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m18585",
+      "name": "Kevin Coffey",
+      "rating": 1704.91,
+      "dailyRatingChange": 2.82
+    },
+    {
+      "position": 2,
+      "playerId": "m18646",
+      "name": "Kristin Vick",
+      "rating": 1624.49,
+      "dailyRatingChange": 2.18
+    },
+    {
+      "position": 3,
+      "playerId": "m32272",
+      "name": "Hunter Vogt",
+      "rating": 1519.59,
+      "dailyRatingChange": 5.1
+    },
+    {
+      "position": 4,
+      "playerId": "m43718",
+      "name": "Mike Murphy WA",
+      "rating": 1524.04,
+      "dailyRatingChange": 5.46
+    },
+    {
+      "position": 5,
+      "playerId": "m22613",
+      "name": "Clay Shelton",
+      "rating": 1570.32,
+      "dailyRatingChange": 7.98
+    },
+    {
+      "position": 6,
+      "playerId": "m14086",
+      "name": "Melanie Meyer WA",
+      "rating": 1537.69,
+      "dailyRatingChange": 1.73
+    },
+    {
+      "position": 6,
+      "playerId": "m31886",
+      "name": "Los Rangel",
+      "rating": 1585.4,
+      "dailyRatingChange": 0.56
+    },
+    {
+      "position": 6,
+      "playerId": "m3563",
+      "name": "Robbie Finnigan",
+      "rating": 1652.08,
+      "dailyRatingChange": -1.38
+    },
+    {
+      "position": 9,
+      "playerId": "m35417",
+      "name": "Nestor Rocha",
+      "rating": 1593.35,
+      "dailyRatingChange": -1.51
+    },
+    {
+      "position": 10,
+      "playerId": "m40946",
+      "name": "James West",
+      "rating": 1586.62,
+      "dailyRatingChange": -0.73
+    },
+    {
+      "position": 10,
+      "playerId": "m45593",
+      "name": "Mae Collin",
+      "rating": 1480.85,
+      "dailyRatingChange": 0.45
+    },
+    {
+      "position": 10,
+      "playerId": "m38834",
+      "name": "Brian Reinhard",
+      "rating": 1660.51,
+      "dailyRatingChange": -2.41
+    },
+    {
+      "position": 10,
+      "playerId": "m17659",
+      "name": "Val Gaifoulline",
+      "rating": 1586.78,
+      "dailyRatingChange": -3.23
+    },
+    {
+      "position": 10,
+      "playerId": "m23268",
+      "name": "Ben Simmons",
+      "rating": 1645.74,
+      "dailyRatingChange": -3.81
+    },
+    {
+      "position": 15,
+      "playerId": "m7059",
+      "name": "Dwayne Collins",
+      "rating": 1512.6,
+      "dailyRatingChange": -2.13
+    },
+    {
+      "position": 15,
+      "playerId": "m24480",
+      "name": "Dakota Warden",
+      "rating": 1514.53,
+      "dailyRatingChange": -6.04
+    },
+    {
+      "position": 15,
+      "playerId": "m44490",
+      "name": "Marissa Rodriguez",
+      "rating": 1477.69,
+      "dailyRatingChange": -2.2
+    },
+    {
+      "position": 18,
+      "playerId": "m35408",
+      "name": "Octavio Ramirez",
+      "rating": 1381.17,
+      "dailyRatingChange": -13
+    },
+    {
+      "position": 18,
+      "playerId": "m31717",
+      "name": "Jackilyn Hoxworth",
+      "rating": 1399.28,
+      "dailyRatingChange": -2.01
+    }
+  ]
+}

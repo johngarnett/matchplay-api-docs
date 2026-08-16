@@ -1,0 +1,83 @@
+{
+  "locationId": "10150",
+  "name": "Axemann Brewery",
+  "address": "2042 Axemann Road Bellefonte PA",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 4,
+  "relatedVenues": [
+    {
+      "locationId": "8072",
+      "name": "Level 256 Classic Arcade Bar",
+      "address": "79 Coxe Ave, Asheville, NC, 28801, US",
+      "count": 1
+    },
+    {
+      "locationId": "8271",
+      "name": "Rezzanine Esports",
+      "address": "1025 Washington Pike, Bridgeville, PA 15017, US",
+      "count": 1
+    },
+    {
+      "locationId": "11012",
+      "name": "Fizzy's Arcade",
+      "address": "4770 PA-405, Milton, PA 17847",
+      "count": 1
+    },
+    {
+      "locationId": "12244",
+      "name": "Ballerz Pinball Cafe",
+      "address": "412 12th St W, Bradenton, FL 34205, US",
+      "count": 1
+    }
+  ],
+  "players": [
+    {
+      "id": "m31891",
+      "name": "Walter Janusz",
+      "rating": 1728.59,
+      "rd": 31.82,
+      "ratingClass": "Expert",
+      "homeLocation": "Axemann Brewery",
+      "homeLocationId": "10150",
+      "percentile": 98.08077514324312,
+      "changeDisplay": "+4.0",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m24558",
+      "name": "Daniel Ben-ami",
+      "rating": 1693.22,
+      "rd": 26.31,
+      "ratingClass": "A",
+      "homeLocation": "Level 256 Classic Arcade Bar",
+      "homeLocationId": "8072",
+      "percentile": 96.14291703544976,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i85731",
+      "name": "James Sumereau",
+      "rating": 1653.57,
+      "rd": 33.86,
+      "ratingClass": "A",
+      "homeLocation": "Axemann Brewery",
+      "homeLocationId": "10150",
+      "percentile": 92.22061769227186,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i110974",
+      "name": "Anna Miraldi",
+      "rating": 1362.16,
+      "rd": 47.38,
+      "ratingClass": "D",
+      "homeLocation": "Axemann Brewery",
+      "homeLocationId": "10150",
+      "percentile": 5.669166627847394,
+      "changeDisplay": "-13.6",
+      "changeClass": "change-negative"
+    }
+  ]
+}

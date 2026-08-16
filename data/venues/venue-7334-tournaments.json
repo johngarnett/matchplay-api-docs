@@ -1,0 +1,112 @@
+{
+  "locationId": "7334",
+  "venueName": "Ground Kontrol Classic Arcade",
+  "venueAddress": "115 NW 5th Ave, Portland, OR 97209, US",
+  "tournaments": [
+    {
+      "id": 266412,
+      "name": "GK Fair Strikes August",
+      "date": "8/10/2026",
+      "playerCount": 22,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m42880",
+          "name": "Nicholas Curtis",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m28287",
+          "name": "Evan Amano",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m41506",
+          "name": "Tommy Scafidi",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m20914",
+          "name": "Jeff Monroe",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m35404",
+          "name": "Zach Marlowe",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 265713,
+      "name": "Ball Save Social Club 002",
+      "date": "8/5/2026",
+      "playerCount": 16,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m7235",
+          "name": "Dylan Snow",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m53328",
+          "name": "Emily Dombrosky",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "i44531",
+          "name": "Dylan Higgins",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m27249",
+          "name": "Dylan Reiff",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 264394,
+      "name": "Gk double head to head final",
+      "date": "7/28/2026",
+      "playerCount": 8,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m28287",
+          "name": "Evan Amano",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m7530",
+          "name": "Mathew Peterson",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m41506",
+          "name": "Tommy Scafidi",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m15794",
+          "name": "Mike Smith PDX",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

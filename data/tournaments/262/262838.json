@@ -1,0 +1,74 @@
+{
+  "tournamentId": 262838,
+  "name": "Canton Brew Works Pokemon Launmch Party",
+  "date": "2026-07-19",
+  "locationId": "9639",
+  "locationName": "Canton Brew Works",
+  "playerCount": 9,
+  "ratingsDate": "2026-07-19",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m33893",
+      "name": "Phillip Brooks",
+      "rating": 1625.2,
+      "dailyRatingChange": 24.42
+    },
+    {
+      "position": 2,
+      "playerId": "m25776",
+      "name": "Uber Hubris",
+      "rating": 1656.12,
+      "dailyRatingChange": -0.9
+    },
+    {
+      "position": 3,
+      "playerId": "m995",
+      "name": "Evan Williams",
+      "rating": 1670.06,
+      "dailyRatingChange": -3.88
+    },
+    {
+      "position": 4,
+      "playerId": "m44645",
+      "name": "J. Utley",
+      "rating": 1613.43,
+      "dailyRatingChange": -1.84
+    },
+    {
+      "position": 5,
+      "playerId": "m23311",
+      "name": "daniel walczak",
+      "rating": 1576.01,
+      "dailyRatingChange": -1.39
+    },
+    {
+      "position": 6,
+      "playerId": "i159459",
+      "name": "Will Atkin",
+      "rating": 1520.1,
+      "dailyRatingChange": -7.42
+    },
+    {
+      "position": 7,
+      "playerId": "m342253",
+      "name": "Greg Reinhart",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 8,
+      "playerId": "m60336",
+      "name": "Shelby Atkin",
+      "rating": 1366.76,
+      "dailyRatingChange": -11.93
+    },
+    {
+      "position": 9,
+      "playerId": "m362407",
+      "name": "Bryan Harris",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

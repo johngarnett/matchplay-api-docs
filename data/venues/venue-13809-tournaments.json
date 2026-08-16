@@ -1,0 +1,79 @@
+{
+  "locationId": "13809",
+  "venueName": "YEA Pinball Stureby",
+  "venueAddress": "Bäckaskiftsvägen 2 på gaveln, Enskede",
+  "tournaments": [
+    {
+      "id": 264635,
+      "name": "YEA Pinball Spelkväll 5/8, kl 17-21",
+      "date": "8/5/2026",
+      "playerCount": 16,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m40971",
+          "name": "Leif Viklund",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m32993",
+          "name": "Johan Wallin",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m34299",
+          "name": "Hans Rohdin",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m9153",
+          "name": "Johan Gehlin",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m53711",
+          "name": "Jonathan Lomar",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 265458,
+      "name": "TACK SOM FAN!",
+      "date": "8/4/2026",
+      "playerCount": 9,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m3675",
+          "name": "Andreas Lovén",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m40204",
+          "name": "Jonas Lindholm",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m94",
+          "name": "Joakim Sundberg",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "p584503",
+          "name": "Susanne",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

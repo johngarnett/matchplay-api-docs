@@ -1,0 +1,455 @@
+{
+  "locationId": "9501",
+  "name": "Schoolhouse Brewing",
+  "address": "840 Franklin Ct, Marietta, GA 30067, US",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 32,
+  "relatedVenues": [
+    {
+      "locationId": "3374",
+      "name": "Portal Pinball Arcade",
+      "address": "3335 Cobb Pkwy Suite 800, Acworth, GA, 30101, US",
+      "count": 251
+    },
+    {
+      "locationId": "9460",
+      "name": "Melt Yard",
+      "address": "800 Whitlock Ave NW, Marietta, GA 30064, US",
+      "count": 161
+    },
+    {
+      "locationId": "6570",
+      "name": "My Parents' Basement",
+      "address": "22 North Avondale Road, Atlanta, GA 30002, US",
+      "count": 81
+    },
+    {
+      "locationId": "9921",
+      "name": "Renaissance Atlanta Waverly Hotel & Convention Center",
+      "address": "2450 Galleria Pkwy Atlanta, GA 30339",
+      "count": 67
+    },
+    {
+      "locationId": "10192",
+      "name": "The Escape Gamebar",
+      "address": "1441 Dresden Dr, Atlanta, GA, 30319, US",
+      "count": 36
+    },
+    {
+      "locationId": "11020",
+      "name": "Solar Slice Pizza - Marietta",
+      "address": "497 Cobb Pkwy SE, Marietta, GA 30060, US",
+      "count": 28
+    },
+    {
+      "locationId": "8950",
+      "name": "The Pinball Barn",
+      "address": "250 Stoneybrook Road, Pelzer, SC  29669",
+      "count": 20
+    },
+    {
+      "locationId": "10197",
+      "name": "The Space Place",
+      "address": "Marietta, GA",
+      "count": 20
+    },
+    {
+      "locationId": "13354",
+      "name": "Berto's DrinkOne Arcade",
+      "address": "Acworth, GA",
+      "count": 20
+    },
+    {
+      "locationId": "8000",
+      "name": "Wes's Garage",
+      "address": "Decatur, GA",
+      "count": 12
+    }
+  ],
+  "players": [
+    {
+      "id": "m10434",
+      "name": "Harold VanPatten",
+      "rating": 1688.08,
+      "rd": 17.34,
+      "ratingClass": "A",
+      "homeLocation": "Melt Yard",
+      "homeLocationId": "9460",
+      "percentile": 95.78888526575675,
+      "changeDisplay": "+8.5",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m28515",
+      "name": "Jake Michael",
+      "rating": 1669.28,
+      "rd": 19.66,
+      "ratingClass": "A",
+      "homeLocation": "My Parents' Basement",
+      "homeLocationId": "6570",
+      "percentile": 94.00940979177342,
+      "changeDisplay": "+11.2",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m20453",
+      "name": "Jason Noa",
+      "rating": 1636.47,
+      "rd": 28.53,
+      "ratingClass": "A",
+      "homeLocation": "Portal Pinball Arcade",
+      "homeLocationId": "3374",
+      "percentile": 89.7330786789025,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m20961",
+      "name": "Erich Renken",
+      "rating": 1635.89,
+      "rd": 21.43,
+      "ratingClass": "A",
+      "homeLocation": "My Parents' Basement",
+      "homeLocationId": "6570",
+      "percentile": 89.62127917268366,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m2514",
+      "name": "Chris Compton",
+      "rating": 1633.4,
+      "rd": 34.9,
+      "ratingClass": "A",
+      "homeLocation": "The Pinball Lounge @Oviedo Bowling Center",
+      "homeLocationId": "7303",
+      "percentile": 89.1833977733265,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m30278",
+      "name": "Alex Caughman",
+      "rating": 1632.67,
+      "rd": 20.03,
+      "ratingClass": "A",
+      "homeLocation": "Portal Pinball Arcade",
+      "homeLocationId": "3374",
+      "percentile": 89.09023151814412,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m10879",
+      "name": "Mark Munder",
+      "rating": 1621.86,
+      "rd": 22.31,
+      "ratingClass": "A",
+      "homeLocation": "Portal Pinball Arcade",
+      "homeLocationId": "3374",
+      "percentile": 87.01262402757722,
+      "changeDisplay": "-10.2",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m818",
+      "name": "Charlie Gehlhaus",
+      "rating": 1619.6,
+      "rd": 21.29,
+      "ratingClass": "A",
+      "homeLocation": "Melt Yard",
+      "homeLocationId": "9460",
+      "percentile": 86.53747612614711,
+      "changeDisplay": "+6.3",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m49922",
+      "name": "Max Woo",
+      "rating": 1617.54,
+      "rd": 17.21,
+      "ratingClass": "A",
+      "homeLocation": "Fellowship of the silver ball clubhouse",
+      "homeLocationId": "2469",
+      "percentile": 86.14151954162203,
+      "changeDisplay": "+8.8",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m48384",
+      "name": "Jonathan Ziegler",
+      "rating": 1602.1,
+      "rd": 19.31,
+      "ratingClass": "A",
+      "homeLocation": "Melt Yard",
+      "homeLocationId": "9460",
+      "percentile": 82.52201052778683,
+      "changeDisplay": "-6.3",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m21393",
+      "name": "Charlie Gehring",
+      "rating": 1579.74,
+      "rd": 17.35,
+      "ratingClass": "B",
+      "homeLocation": "Portal Pinball Arcade",
+      "homeLocationId": "3374",
+      "percentile": 76.54073694507849,
+      "changeDisplay": "+0.5",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m25698",
+      "name": "Andy Kastelik",
+      "rating": 1577.84,
+      "rd": 17.49,
+      "ratingClass": "B",
+      "homeLocation": "Portal Pinball Arcade",
+      "homeLocationId": "3374",
+      "percentile": 75.96310616294778,
+      "changeDisplay": "+0.2",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m43993",
+      "name": "Christian Artieda Martinez",
+      "rating": 1576.7,
+      "rd": 20.73,
+      "ratingClass": "B",
+      "homeLocation": "Melt Yard",
+      "homeLocationId": "9460",
+      "percentile": 75.69758233567802,
+      "changeDisplay": "-15.4",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m44531",
+      "name": "Chris Borger",
+      "rating": 1574.32,
+      "rd": 26.51,
+      "ratingClass": "B",
+      "homeLocation": "Melt Yard",
+      "homeLocationId": "9460",
+      "percentile": 74.87306097731403,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m24866",
+      "name": "Nick Wigley",
+      "rating": 1568.18,
+      "rd": 21.57,
+      "ratingClass": "B",
+      "homeLocation": "Portal Pinball Arcade",
+      "homeLocationId": "3374",
+      "percentile": 72.91191130572507,
+      "changeDisplay": "+16.4",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m47812",
+      "name": "Sarah Warlick",
+      "rating": 1565.81,
+      "rd": 15.07,
+      "ratingClass": "B",
+      "homeLocation": "Melt Yard",
+      "homeLocationId": "9460",
+      "percentile": 72.23179764289375,
+      "changeDisplay": "+11.6",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m34341",
+      "name": "Curtis Allen",
+      "rating": 1563.28,
+      "rd": 18.78,
+      "ratingClass": "B",
+      "homeLocation": "Melt Yard",
+      "homeLocationId": "9460",
+      "percentile": 71.40727628452974,
+      "changeDisplay": "-9.4",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m49365",
+      "name": "Lauren Lloyd",
+      "rating": 1552.84,
+      "rd": 18.73,
+      "ratingClass": "B",
+      "homeLocation": "Portal Pinball Arcade",
+      "homeLocationId": "3374",
+      "percentile": 67.80640052173102,
+      "changeDisplay": "+4.7",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m57433",
+      "name": "Elaine Tyner",
+      "rating": 1543.27,
+      "rd": 15.47,
+      "ratingClass": "B",
+      "homeLocation": "Portal Pinball Arcade",
+      "homeLocationId": "3374",
+      "percentile": 64.31732426515117,
+      "changeDisplay": "+3.6",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m37504",
+      "name": "Katie Williams",
+      "rating": 1538.72,
+      "rd": 17.52,
+      "ratingClass": "B",
+      "homeLocation": "Melt Yard",
+      "homeLocationId": "9460",
+      "percentile": 62.57511529324079,
+      "changeDisplay": "+17.5",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m6126",
+      "name": "Karrie Weddle",
+      "rating": 1518.36,
+      "rd": 17.25,
+      "ratingClass": "B",
+      "homeLocation": "Portal Pinball Arcade",
+      "homeLocationId": "3374",
+      "percentile": 54.53952578376112,
+      "changeDisplay": "-1.0",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m49715",
+      "name": "Michael Gaddis",
+      "rating": 1515.52,
+      "rd": 19.64,
+      "ratingClass": "B",
+      "homeLocation": "Portal Pinball Arcade",
+      "homeLocationId": "3374",
+      "percentile": 53.3842642194997,
+      "changeDisplay": "+10.0",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m57431",
+      "name": "Gabe P.C.",
+      "rating": 1507.81,
+      "rd": 17.45,
+      "ratingClass": "B",
+      "homeLocation": "Portal Pinball Arcade",
+      "homeLocationId": "3374",
+      "percentile": 50.361019238831695,
+      "changeDisplay": "+2.6",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m27199",
+      "name": "Laura Nesbitt GA",
+      "rating": 1499.43,
+      "rd": 17.26,
+      "ratingClass": "C",
+      "homeLocation": "Portal Pinball Arcade",
+      "homeLocationId": "3374",
+      "percentile": 46.88125960777006,
+      "changeDisplay": "-4.0",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m51976",
+      "name": "Taylor Arnold",
+      "rating": 1493.37,
+      "rd": 19.12,
+      "ratingClass": "C",
+      "homeLocation": "Portal Pinball Arcade",
+      "homeLocationId": "3374",
+      "percentile": 44.43564540923278,
+      "changeDisplay": "+9.4",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m52003",
+      "name": "Wesley Arnold",
+      "rating": 1489.75,
+      "rd": 18.48,
+      "ratingClass": "C",
+      "homeLocation": "Portal Pinball Arcade",
+      "homeLocationId": "3374",
+      "percentile": 42.90771882424186,
+      "changeDisplay": "-3.5",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m37571",
+      "name": "Erika Howe",
+      "rating": 1475.31,
+      "rd": 18.75,
+      "ratingClass": "C",
+      "homeLocation": "Portal Pinball Arcade",
+      "homeLocationId": "3374",
+      "percentile": 36.98234499464294,
+      "changeDisplay": "+3.5",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m37737",
+      "name": "Jason Young",
+      "rating": 1474.58,
+      "rd": 17.48,
+      "ratingClass": "C",
+      "homeLocation": "Portal Pinball Arcade",
+      "homeLocationId": "3374",
+      "percentile": 36.75408766944613,
+      "changeDisplay": "-7.3",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m53526",
+      "name": "Arlo Fox Gaddis",
+      "rating": 1427.13,
+      "rd": 24.34,
+      "ratingClass": "C",
+      "homeLocation": "Portal Pinball Arcade",
+      "homeLocationId": "3374",
+      "percentile": 19.718637909349233,
+      "changeDisplay": "+3.7",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m3301",
+      "name": "Tina Park",
+      "rating": 1423.31,
+      "rd": 17.9,
+      "ratingClass": "C",
+      "homeLocation": "My Parents' Basement",
+      "homeLocationId": "6570",
+      "percentile": 18.57269297060605,
+      "changeDisplay": "-5.3",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m41191",
+      "name": "Devonne Young",
+      "rating": 1402.96,
+      "rd": 17.93,
+      "ratingClass": "C",
+      "homeLocation": "Portal Pinball Arcade",
+      "homeLocationId": "3374",
+      "percentile": 13.238924861415196,
+      "changeDisplay": "-0.3",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m37505",
+      "name": "Malachi Taylor",
+      "rating": 1380.44,
+      "rd": 24.5,
+      "ratingClass": "D",
+      "homeLocation": "Melt Yard",
+      "homeLocationId": "9460",
+      "percentile": 8.389621279172683,
+      "changeDisplay": "+2.0",
+      "changeClass": "change-positive"
+    }
+  ]
+}

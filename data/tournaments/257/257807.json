@@ -1,0 +1,88 @@
+{
+  "tournamentId": 257807,
+  "name": "NCSC PINBALL Transformers Launch Party Knockout",
+  "date": "2026-08-08",
+  "locationId": "12889",
+  "locationName": "North Canton Skate & Entertainment Center",
+  "playerCount": 11,
+  "ratingsDate": "2026-08-08",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m48717",
+      "name": "Grace wood",
+      "rating": 1503.72,
+      "dailyRatingChange": 9.79
+    },
+    {
+      "position": 2,
+      "playerId": "m49742",
+      "name": "skylie mazey",
+      "rating": 1461,
+      "dailyRatingChange": 32.61
+    },
+    {
+      "position": 3,
+      "playerId": "m35998",
+      "name": "Adam Mueller",
+      "rating": 1647.25,
+      "dailyRatingChange": -3.71
+    },
+    {
+      "position": 4,
+      "playerId": "m562001",
+      "name": "Zachary Blackiston",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 4,
+      "playerId": "m2508",
+      "name": "Emily Harrison",
+      "rating": 1629.8,
+      "dailyRatingChange": -2.63
+    },
+    {
+      "position": 6,
+      "playerId": "m29622",
+      "name": "Scott Boettger",
+      "rating": 1571.79,
+      "dailyRatingChange": -2.86
+    },
+    {
+      "position": 7,
+      "playerId": "m538572",
+      "name": "Scott Wood",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 8,
+      "playerId": "m40907",
+      "name": "joe bellochi",
+      "rating": 1545.5,
+      "dailyRatingChange": -8.04
+    },
+    {
+      "position": 9,
+      "playerId": "m566530",
+      "name": "Tyler Rich",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 9,
+      "playerId": "m585270",
+      "name": "Kyle Siedler",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 11,
+      "playerId": "m585271",
+      "name": "Mariah Siedler",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

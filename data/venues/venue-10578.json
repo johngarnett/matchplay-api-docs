@@ -1,0 +1,455 @@
+{
+  "locationId": "10578",
+  "name": "Sandy & Timm’s",
+  "address": "15505 Burke Ave N",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 32,
+  "relatedVenues": [
+    {
+      "locationId": "1893",
+      "name": "The Ice Box",
+      "address": "615 NW Bright St, Seattle, WA 98107, USA",
+      "count": 90
+    },
+    {
+      "locationId": "5959",
+      "name": "Another Castle Arcade Edition Edmonds",
+      "address": "23303 Hwy 99 c, Edmonds, WA 98026, USA",
+      "count": 81
+    },
+    {
+      "locationId": "7491",
+      "name": "Jupiter Gameroom",
+      "address": "2126 2nd Ave Suite A, Seattle, WA 98121, US",
+      "count": 54
+    },
+    {
+      "locationId": "8582",
+      "name": "ADD-A-Ball",
+      "address": "315 N 36th St, Seattle, WA 98103, US",
+      "count": 40
+    },
+    {
+      "locationId": "10993",
+      "name": "Gary’s Place",
+      "address": "2820 Alki Ave SW, Seattle, WA 98116, US",
+      "count": 34
+    },
+    {
+      "locationId": "8898",
+      "name": "Shorty's",
+      "address": "2222 2nd Avenue, Seattle, WA 98121, US",
+      "count": 33
+    },
+    {
+      "locationId": "9576",
+      "name": "The Kraken Bar & Lounge",
+      "address": "5828 Roosevelt Way NE, Seattle, WA 98105, US",
+      "count": 31
+    },
+    {
+      "locationId": "8014",
+      "name": "Georgetown Pizza & Arcade",
+      "address": "5513 Airport Way S, Seattle, WA 98108, US",
+      "count": 29
+    },
+    {
+      "locationId": "9778",
+      "name": "Black Raven Brewing - Woodinville",
+      "address": "15902 Redmond - Woodinville Rd NE, Woodinville, WA 98072, US",
+      "count": 20
+    },
+    {
+      "locationId": "11192",
+      "name": "Houndstooth Public House",
+      "address": "8551 Greenwood Ave N, Seattle, WA 98103, USA",
+      "count": 20
+    }
+  ],
+  "players": [
+    {
+      "id": "m8345",
+      "name": "Tim Uomoto",
+      "rating": 1704.05,
+      "rd": 31.47,
+      "ratingClass": "Expert",
+      "homeLocation": "Another Castle Arcade Edition Edmonds",
+      "homeLocationId": "5959",
+      "percentile": 96.82768901104019,
+      "changeDisplay": "-9.6",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m17561",
+      "name": "Matthew Roggenkamp",
+      "rating": 1693.23,
+      "rd": 20.97,
+      "ratingClass": "A",
+      "homeLocation": "Another Castle Arcade Edition Edmonds",
+      "homeLocationId": "5959",
+      "percentile": 96.14757534820887,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m38834",
+      "name": "Brian Reinhard",
+      "rating": 1663.65,
+      "rd": 17.67,
+      "ratingClass": "A",
+      "homeLocation": "Jupiter Gameroom",
+      "homeLocationId": "7491",
+      "percentile": 93.4550705734383,
+      "changeDisplay": "+3.1",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m708",
+      "name": "John Robinson WA",
+      "rating": 1636.83,
+      "rd": 25.09,
+      "ratingClass": "A",
+      "homeLocation": "The Ice Box",
+      "homeLocationId": "1893",
+      "percentile": 89.81692830856663,
+      "changeDisplay": "-2.6",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m4007",
+      "name": "Tim Collins",
+      "rating": 1632.43,
+      "rd": 21.41,
+      "ratingClass": "A",
+      "homeLocation": "Black Raven Brewing - Woodinville",
+      "homeLocationId": "9778",
+      "percentile": 89.04830670331206,
+      "changeDisplay": "+6.8",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m15569",
+      "name": "Bird Arzoumanian",
+      "rating": 1629.14,
+      "rd": 19.44,
+      "ratingClass": "A",
+      "homeLocation": "The Ice Box",
+      "homeLocationId": "1893",
+      "percentile": 88.41477616807192,
+      "changeDisplay": "-5.2",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m6642",
+      "name": "Eric Morales",
+      "rating": 1627.48,
+      "rd": 33.88,
+      "ratingClass": "A",
+      "homeLocation": "Next Level Pinball Museum",
+      "homeLocationId": "5246",
+      "percentile": 88.04676946010154,
+      "changeDisplay": "-8.5",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m748",
+      "name": "Aaron Garberding",
+      "rating": 1621.53,
+      "rd": 28.64,
+      "ratingClass": "A",
+      "homeLocation": "Another Castle Arcade Edition Edmonds",
+      "homeLocationId": "5959",
+      "percentile": 86.94740764894955,
+      "changeDisplay": "+7.3",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m21570",
+      "name": "Matt Anderson WA",
+      "rating": 1610.44,
+      "rd": 28.42,
+      "ratingClass": "A",
+      "homeLocation": "8-Bit Arcade Bar",
+      "homeLocationId": "7165",
+      "percentile": 84.57632645455816,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m2809",
+      "name": "Nigel Colbert",
+      "rating": 1595.61,
+      "rd": 24.79,
+      "ratingClass": "B",
+      "homeLocation": "Another Castle Arcade Edition Edmonds",
+      "homeLocationId": "5959",
+      "percentile": 80.94284250244561,
+      "changeDisplay": "+31.7",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m31365",
+      "name": "Donald Warren",
+      "rating": 1589.11,
+      "rd": 29.49,
+      "ratingClass": "B",
+      "homeLocation": "Black Raven Brewing - Woodinville",
+      "homeLocationId": "9778",
+      "percentile": 79.24721665812643,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m13692",
+      "name": "Jobie Allen",
+      "rating": 1587.27,
+      "rd": 26.2,
+      "ratingClass": "B",
+      "homeLocation": "The Republic Bottle Shop",
+      "homeLocationId": "6881",
+      "percentile": 78.64629431220011,
+      "changeDisplay": "+6.6",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m18724",
+      "name": "Matthew Greene",
+      "rating": 1586.21,
+      "rd": 20.36,
+      "ratingClass": "B",
+      "homeLocation": "Gary’s Place",
+      "homeLocationId": "10993",
+      "percentile": 78.38542879768947,
+      "changeDisplay": "+1.8",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m17637",
+      "name": "Elliott Johnson",
+      "rating": 1568.29,
+      "rd": 15.49,
+      "ratingClass": "B",
+      "homeLocation": "The Kraken Bar & Lounge",
+      "homeLocationId": "9576",
+      "percentile": 72.9724693715936,
+      "changeDisplay": "+2.8",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m14647",
+      "name": "Chryste Ferrara",
+      "rating": 1563.03,
+      "rd": 21.09,
+      "ratingClass": "B",
+      "homeLocation": "The Ice Box",
+      "homeLocationId": "1893",
+      "percentile": 71.31876834210648,
+      "changeDisplay": "+4.7",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m476",
+      "name": "Michael Adcock",
+      "rating": 1551.01,
+      "rd": 30.7,
+      "ratingClass": "B",
+      "homeLocation": "Another Castle Arcade Edition Edmonds",
+      "homeLocationId": "5959",
+      "percentile": 67.08436204406763,
+      "changeDisplay": "-8.5",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m3045",
+      "name": "Timm Shere",
+      "rating": 1544.77,
+      "rd": 24.13,
+      "ratingClass": "B",
+      "homeLocation": "Black Raven Brewing - Woodinville",
+      "homeLocationId": "9778",
+      "percentile": 64.86234685796805,
+      "changeDisplay": "-4.9",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m49412",
+      "name": "Nate Tompkins",
+      "rating": 1510.85,
+      "rd": 29.63,
+      "ratingClass": "B",
+      "homeLocation": "Another Castle Arcade Edition Edmonds",
+      "homeLocationId": "5959",
+      "percentile": 51.56286393068431,
+      "changeDisplay": "-6.6",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m27522",
+      "name": "Adam Calabrese",
+      "rating": 1507.73,
+      "rd": 53.29,
+      "ratingClass": "B",
+      "homeLocation": "Sandy & Timm’s",
+      "homeLocationId": "10578",
+      "percentile": 50.2864862346858,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m2115",
+      "name": "Michael Miller",
+      "rating": 1500.81,
+      "rd": 33.17,
+      "ratingClass": "B",
+      "homeLocation": "Another Castle Arcade Edition Edmonds",
+      "homeLocationId": "5959",
+      "percentile": 47.44491545162342,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m25914",
+      "name": "William Scott Jordan",
+      "rating": 1500.41,
+      "rd": 30.86,
+      "ratingClass": "B",
+      "homeLocation": "ADD-A-Ball",
+      "homeLocationId": "8582",
+      "percentile": 47.24460800298132,
+      "changeDisplay": "+4.2",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m26163",
+      "name": "Donna Hucklebee",
+      "rating": 1494.57,
+      "rd": 27.8,
+      "ratingClass": "C",
+      "homeLocation": "Shorty's",
+      "homeLocationId": "8898",
+      "percentile": 44.93408487445847,
+      "changeDisplay": "+7.5",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m21331",
+      "name": "Courtney Zeller",
+      "rating": 1494.28,
+      "rd": 47.36,
+      "ratingClass": "C",
+      "homeLocation": "Sandy & Timm’s",
+      "homeLocationId": "10578",
+      "percentile": 44.826943680998745,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m38833",
+      "name": "MJ Moscola",
+      "rating": 1493.58,
+      "rd": 32.3,
+      "ratingClass": "C",
+      "homeLocation": "Another Castle Arcade Edition Edmonds",
+      "homeLocationId": "5959",
+      "percentile": 44.53346997717426,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m33066",
+      "name": "AJ Norris",
+      "rating": 1491.35,
+      "rd": 36.84,
+      "ratingClass": "C",
+      "homeLocation": "The Ice Box",
+      "homeLocationId": "1893",
+      "percentile": 43.58783248707318,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m45593",
+      "name": "Mae Collin",
+      "rating": 1488.5,
+      "rd": 18.23,
+      "ratingClass": "C",
+      "homeLocation": "Jupiter Gameroom",
+      "homeLocationId": "7491",
+      "percentile": 42.35803791866586,
+      "changeDisplay": "+7.7",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m15145",
+      "name": "Andyroo Callan",
+      "rating": 1482.7,
+      "rd": 32.91,
+      "ratingClass": "C",
+      "homeLocation": "Another Castle Arcade Edition Edmonds",
+      "homeLocationId": "5959",
+      "percentile": 39.99161503703358,
+      "changeDisplay": "-19.6",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "i86947",
+      "name": "Brennan Zeller",
+      "rating": 1425.67,
+      "rd": 49.41,
+      "ratingClass": "C",
+      "homeLocation": "Sandy & Timm’s",
+      "homeLocationId": "10578",
+      "percentile": 19.331997950342387,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m3324",
+      "name": "Michael Warfield",
+      "rating": 1403.15,
+      "rd": 44.76,
+      "ratingClass": "C",
+      "homeLocation": "Another Castle Arcade Edition Edmonds",
+      "homeLocationId": "5959",
+      "percentile": 13.29482461452462,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m36887",
+      "name": "Karen Roggenkamp",
+      "rating": 1387.1,
+      "rd": 46.58,
+      "ratingClass": "D",
+      "homeLocation": "ADD-A-Ball",
+      "homeLocationId": "8582",
+      "percentile": 9.71258210276238,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m49009",
+      "name": "Lauren Fischer",
+      "rating": 1386.98,
+      "rd": 31.95,
+      "ratingClass": "D",
+      "homeLocation": "Another Castle Arcade Edition Edmonds",
+      "homeLocationId": "5959",
+      "percentile": 9.67997391344855,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m33341",
+      "name": "Dina Robinson",
+      "rating": 1383.47,
+      "rd": 26.12,
+      "ratingClass": "D",
+      "homeLocation": "Shorty's",
+      "homeLocationId": "8898",
+      "percentile": 8.971910374062514,
+      "changeDisplay": "+2.5",
+      "changeClass": "change-positive"
+    }
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "locationId": "9554",
+  "venueName": "Kidforce Pinball",
+  "venueAddress": "101 Front Street, Berea, OH 44017",
+  "tournaments": [
+    {
+      "id": 265441,
+      "name": "Kidforce Women’s Pinball League 2026 Summer #4",
+      "date": "8/4/2026",
+      "playerCount": 3,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m1579",
+          "name": "Tara Toth",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m29139",
+          "name": "Renee Krohn",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m3266",
+          "name": "Katie koster",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 264914,
+      "name": "Finals for Kidforce Transformers Launch Party 7/31/26",
+      "date": "7/31/2026",
+      "playerCount": 4,
+      "qualifying": {
+        "id": 264836,
+        "name": "Kidforce Transformers Launch Party 7/31/26",
+        "playerCount": 12
+      },
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m39602",
+          "name": "Nolan Liem",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m33506",
+          "name": "Mike Winzinek",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m5365",
+          "name": "Rod Lawrence",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m5364",
+          "name": "Tedd Mirgliotta",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 263670,
+      "name": "Kidforce Matchplay finals 7/24/26",
+      "date": "7/24/2026",
+      "playerCount": 6,
+      "qualifying": {
+        "id": 263633,
+        "name": "Kidforce Matchplay 7/24/26",
+        "playerCount": 12
+      },
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m28944",
+          "name": "Paul Ellis",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m34590",
+          "name": "Larry Kuczynski",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m28404",
+          "name": "Justin Reitz",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m29767",
+          "name": "Chris Pavlic",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 263127,
+      "name": "Kidforce Women’s Pinball League 2026 Summer #3",
+      "date": "7/21/2026",
+      "playerCount": 3,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m3266",
+          "name": "Katie koster",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m29139",
+          "name": "Renee Krohn",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m1579",
+          "name": "Tara Toth",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

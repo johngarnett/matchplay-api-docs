@@ -1,0 +1,197 @@
+{
+  "locationId": "9838",
+  "name": "1UP Arcade & Pub",
+  "address": "22 Brinkerhoff St, Plattsburgh, NY 12901, US",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 12,
+  "relatedVenues": [
+    {
+      "locationId": "9441",
+      "name": "The Pinball Co-op",
+      "address": "1881 Williston Rd, South Burlington, VT, 05403, US",
+      "count": 27
+    },
+    {
+      "locationId": "904",
+      "name": "The Pinball Asylum",
+      "address": "13721 Jetport Commerce Parkway, Unit 6 , Fort Myers, FL 33913",
+      "count": 3
+    },
+    {
+      "locationId": "2573",
+      "name": "Crabtowne",
+      "address": "1500 Crain Hwy S, Glen Burnie, MD 21061, USA",
+      "count": 3
+    },
+    {
+      "locationId": "10694",
+      "name": "La Société du Pinball",
+      "address": "999 Pierre-Bertrand Blvd Local 200, Québec City, Quebec G1M 2E8",
+      "count": 3
+    },
+    {
+      "locationId": "10483",
+      "name": "Nice Guys Pizza",
+      "address": "1404 Cape Coral Pkwy E, Cape Coral, FL 33904",
+      "count": 1
+    },
+    {
+      "locationId": "11386",
+      "name": "Ice Ice Arcade",
+      "address": "68 Litchfield Rd Londonderry NH 03053",
+      "count": 1
+    },
+    {
+      "locationId": "13159",
+      "name": "Brasserie Dunham",
+      "address": "3809 Rue Principale, Dunham, QC J0E 1M0, CA",
+      "count": 1
+    }
+  ],
+  "players": [
+    {
+      "id": "m53218",
+      "name": "Steve Mick",
+      "rating": 1675.96,
+      "rd": 28.53,
+      "ratingClass": "A",
+      "homeLocation": "The Pinball Asylum",
+      "homeLocationId": "904",
+      "percentile": 94.72678995667769,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i131665",
+      "name": "Phil Badger",
+      "rating": 1622.72,
+      "rd": 34.06,
+      "ratingClass": "A",
+      "homeLocation": "1UP Arcade & Pub",
+      "homeLocationId": "9838",
+      "percentile": 87.20361485070107,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m49972",
+      "name": "Carl Mailloux",
+      "rating": 1610.28,
+      "rd": 36.74,
+      "ratingClass": "A",
+      "homeLocation": "La Société du Pinball",
+      "homeLocationId": "10694",
+      "percentile": 84.54371826524432,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i131667",
+      "name": "Brian Gidman",
+      "rating": 1544.83,
+      "rd": 50.26,
+      "ratingClass": "B",
+      "homeLocation": "1UP Arcade & Pub",
+      "homeLocationId": "9838",
+      "percentile": 64.89495504728188,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m9534",
+      "name": "Jody Stahlman",
+      "rating": 1544.66,
+      "rd": 24.88,
+      "ratingClass": "B",
+      "homeLocation": "The Pinball Co-op",
+      "homeLocationId": "9441",
+      "percentile": 64.81110541761774,
+      "changeDisplay": "-5.3",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m6855",
+      "name": "Mike Oehler",
+      "rating": 1543.22,
+      "rd": 36.39,
+      "ratingClass": "B",
+      "homeLocation": "Crabtowne",
+      "homeLocationId": "2573",
+      "percentile": 64.28937438859646,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i131673",
+      "name": "Brandon Bush",
+      "rating": 1486.94,
+      "rd": 39.52,
+      "ratingClass": "C",
+      "homeLocation": "1UP Arcade & Pub",
+      "homeLocationId": "9838",
+      "percentile": 41.70121581963013,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m56528",
+      "name": "Anna Salate",
+      "rating": 1480.45,
+      "rd": 32.38,
+      "ratingClass": "C",
+      "homeLocation": "The Pinball Co-op",
+      "homeLocationId": "9441",
+      "percentile": 39.05063585969162,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i131666",
+      "name": "Marc Felio",
+      "rating": 1476.56,
+      "rd": 44.3,
+      "ratingClass": "C",
+      "homeLocation": "1UP Arcade & Pub",
+      "homeLocationId": "9838",
+      "percentile": 37.50873433642335,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m55239",
+      "name": "Brook Cornely",
+      "rating": 1466.76,
+      "rd": 30.84,
+      "ratingClass": "C",
+      "homeLocation": "The Pinball Co-op",
+      "homeLocationId": "9441",
+      "percentile": 33.55848511669073,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i154866",
+      "name": "Cindy Lavallee",
+      "rating": 1427.46,
+      "rd": 53.52,
+      "ratingClass": "C",
+      "homeLocation": "1UP Arcade & Pub",
+      "homeLocationId": "9838",
+      "percentile": 19.821120790049843,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i160010",
+      "name": "Kyle Simard",
+      "rating": 1397.81,
+      "rd": 39.18,
+      "ratingClass": "D",
+      "homeLocation": "1UP Arcade & Pub",
+      "homeLocationId": "9838",
+      "percentile": 11.953230539898449,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

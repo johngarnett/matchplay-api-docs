@@ -1,0 +1,262 @@
+{
+  "locationId": "6846",
+  "venueName": "The Coin Slot",
+  "venueAddress": "346 E Front Street, Traverse City, MI 49684, US",
+  "tournaments": [
+    {
+      "id": 266450,
+      "name": "Finals for tcpinball.org @ The Coin Slot 2026-08-10",
+      "date": "8/10/2026",
+      "playerCount": 4,
+      "qualifying": {
+        "id": 266449,
+        "name": "tcpinball.org @ The Coin Slot 2026-08-10",
+        "playerCount": 13
+      },
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m39327",
+          "name": "Jansen Tolle",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m32231",
+          "name": "Johnny G",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m44725",
+          "name": "Mike Alfaro",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m34231",
+          "name": "Joe Beyer",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 265265,
+      "name": "Finals for tcpinball.org @ The Coin Slot 2026-08-03",
+      "date": "8/3/2026",
+      "playerCount": 4,
+      "qualifying": {
+        "id": 265264,
+        "name": "tcpinball.org @ The Coin Slot 2026-08-03",
+        "playerCount": 14
+      },
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m10803",
+          "name": "Dingo Hilgard",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m32231",
+          "name": "Johnny G",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m31152",
+          "name": "Danny Tewers",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m49444",
+          "name": "Troy Kellogg",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 265213,
+      "name": "Finals for Finals for TC Belles & Chimes Transformers MTMTE Launch Party",
+      "date": "8/2/2026",
+      "playerCount": 4,
+      "qualifying": {
+        "id": 265196,
+        "name": "TC Belles & Chimes Transformers MTMTE Launch Party",
+        "playerCount": 7
+      },
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "i148345",
+          "name": "Lily Deisig",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m13877",
+          "name": "Tracy Ward",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m56275",
+          "name": "Leanna Mosoryak",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "i117448",
+          "name": "Amber Wininger",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 264138,
+      "name": "Finals for tcpinball.org @ The Coin Slot 2026-07-27",
+      "date": "7/27/2026",
+      "playerCount": 4,
+      "qualifying": {
+        "id": 264137,
+        "name": "tcpinball.org @ The Coin Slot 2026-07-27",
+        "playerCount": 13
+      },
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m39327",
+          "name": "Jansen Tolle",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m32231",
+          "name": "Johnny G",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m10803",
+          "name": "Dingo Hilgard",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m25014",
+          "name": "Ben Harris",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 262956,
+      "name": "Finals for Transformers: More Than Meets The Eye Launch Party @ The Coin Slot  2026-07-20",
+      "date": "7/20/2026",
+      "playerCount": 4,
+      "qualifying": {
+        "id": 262955,
+        "name": "Transformers: More Than Meets The Eye Launch Party @ The Coin Slot 2026-07-20",
+        "playerCount": 14
+      },
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m42516",
+          "name": "Aaron Proudfoot",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m25014",
+          "name": "Ben Harris",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m10803",
+          "name": "Dingo Hilgard",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m32231",
+          "name": "Johnny G",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 262809,
+      "name": "Finals for TC Belles & Chimes @ The Coin Slot 2026-07-19",
+      "date": "7/19/2026",
+      "playerCount": 4,
+      "qualifying": {
+        "id": 262808,
+        "name": "TC Belles & Chimes @ The Coin Slot 2026-07-19",
+        "playerCount": 8
+      },
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m34066",
+          "name": "Beth Milligan",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m13877",
+          "name": "Tracy Ward",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "i117449",
+          "name": "Jodee Taylor",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "i117447",
+          "name": "Christie Minervini",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 262566,
+      "name": "Tom 47 Strike",
+      "date": "7/17/2026",
+      "playerCount": 8,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m7468",
+          "name": "Scott Pierson",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 1,
+          "playerId": "m32231",
+          "name": "John Garavaglia",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "i160242",
+          "name": "Tom Brayton",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m41939",
+          "name": "Marshal McMillan",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

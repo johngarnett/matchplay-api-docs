@@ -1,0 +1,74 @@
+{
+  "tournamentId": 264760,
+  "name": "NPC @ Czar's Dover: Summer Season 3, Week #4",
+  "date": "2026-08-07",
+  "locationId": "13540",
+  "locationName": "The Czar's Brewery",
+  "playerCount": 9,
+  "ratingsDate": "2026-08-07",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m61585",
+      "name": "Elias Volpini",
+      "rating": 1464.56,
+      "dailyRatingChange": 22.2
+    },
+    {
+      "position": 1,
+      "playerId": "m32555",
+      "name": "Jeremy Gagnon",
+      "rating": 1558,
+      "dailyRatingChange": 11.39
+    },
+    {
+      "position": 3,
+      "playerId": "m13539",
+      "name": "Mitchell Gagnon",
+      "rating": 1545.09,
+      "dailyRatingChange": 4.94
+    },
+    {
+      "position": 4,
+      "playerId": "m12067",
+      "name": "Matthew Lemoine",
+      "rating": 1580.79,
+      "dailyRatingChange": -0.3
+    },
+    {
+      "position": 5,
+      "playerId": "m60813",
+      "name": "Nick Nordin",
+      "rating": 1501.59,
+      "dailyRatingChange": -16.17
+    },
+    {
+      "position": 5,
+      "playerId": "m57479",
+      "name": "Bruce Casassa",
+      "rating": 1566.62,
+      "dailyRatingChange": -5.08
+    },
+    {
+      "position": 7,
+      "playerId": "m15294",
+      "name": "Erik Peabody",
+      "rating": 1461.14,
+      "dailyRatingChange": -9.06
+    },
+    {
+      "position": 7,
+      "playerId": "m53124",
+      "name": "NIcholas Bourassa",
+      "rating": 1464.65,
+      "dailyRatingChange": -3.37
+    },
+    {
+      "position": 9,
+      "playerId": "m578961",
+      "name": "Elizabeth Gagnon",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

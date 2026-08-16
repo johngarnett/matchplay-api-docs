@@ -1,0 +1,479 @@
+{
+  "locationId": "6675",
+  "name": "Pizza J",
+  "address": "967 Westminster St, Providence, RI 02903, USA",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 34,
+  "relatedVenues": [
+    {
+      "locationId": "11626",
+      "name": "The Dusty Planet",
+      "address": "39 Troy Street Providence RI",
+      "count": 45
+    },
+    {
+      "locationId": "5908",
+      "name": "The Sanctum",
+      "address": "290 Pratt Street, Meriden, CT 06450, US",
+      "count": 43
+    },
+    {
+      "locationId": "7878",
+      "name": "Funspot",
+      "address": "579 Endicott Street North, Laconia, NH 03246, US",
+      "count": 24
+    },
+    {
+      "locationId": "9084",
+      "name": "Flat Top Johnny's",
+      "address": "300 Main St, Cambridge, MA 02142, US",
+      "count": 17
+    },
+    {
+      "locationId": "12468",
+      "name": "OMG Pinball!",
+      "address": "999 S Washington St, North Attleborough, MA, 02760, US",
+      "count": 17
+    },
+    {
+      "locationId": "5487",
+      "name": "Western Mass Pinball Club",
+      "address": "4 Springfield St, Three Rivers, MA 01080, USA",
+      "count": 16
+    },
+    {
+      "locationId": "11424",
+      "name": "The Acton Bowladrome (The Drome!)",
+      "address": "257 Main Street, Acton MA 01720",
+      "count": 16
+    },
+    {
+      "locationId": "10377",
+      "name": "Capital Pinball",
+      "address": "70 Pembroke Rd, Concord, NH 03301, US",
+      "count": 13
+    },
+    {
+      "locationId": "8959",
+      "name": "Western Mass Pinball Club",
+      "address": "4 Springfield Street, Palmer, MA 01080, US",
+      "count": 12
+    },
+    {
+      "locationId": "11131",
+      "name": "Pop's Pinball - Deep Cuts",
+      "address": "21 Main St, Medford, MA, 02155, US",
+      "count": 9
+    }
+  ],
+  "players": [
+    {
+      "id": "m30914",
+      "name": "Benjamin Bloomstein",
+      "rating": 1790.59,
+      "rd": 23.02,
+      "ratingClass": "Expert",
+      "homeLocation": "The Acton Bowladrome (The Drome!)",
+      "homeLocationId": "11424",
+      "percentile": 99.41771090511017,
+      "changeDisplay": "+6.2",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m10837",
+      "name": "Seamus Meader",
+      "rating": 1747.88,
+      "rd": 20.23,
+      "ratingClass": "Expert",
+      "homeLocation": "Flat Top Johnny's",
+      "homeLocationId": "9084",
+      "percentile": 98.66306423813295,
+      "changeDisplay": "+6.1",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m4842",
+      "name": "James McFatter",
+      "rating": 1702.68,
+      "rd": 25.5,
+      "ratingClass": "Expert",
+      "homeLocation": "Ice Ice Arcade",
+      "homeLocationId": "11386",
+      "percentile": 96.75781431965342,
+      "changeDisplay": "+4.7",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m2112",
+      "name": "Tyler Aas",
+      "rating": 1684.43,
+      "rd": 21.35,
+      "ratingClass": "A",
+      "homeLocation": "The Sanctum",
+      "homeLocationId": "5908",
+      "percentile": 95.47211999813668,
+      "changeDisplay": "-1.2",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m3259",
+      "name": "Ed Giardina",
+      "rating": 1674.34,
+      "rd": 24.3,
+      "ratingClass": "A",
+      "homeLocation": "Pizza J",
+      "homeLocationId": "6675",
+      "percentile": 94.53579913355382,
+      "changeDisplay": "+0.3",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m7374",
+      "name": "Kyle McFatter",
+      "rating": 1671.4,
+      "rd": 32.34,
+      "ratingClass": "A",
+      "homeLocation": "Pizza J",
+      "homeLocationId": "6675",
+      "percentile": 94.21903386593375,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m267",
+      "name": "Kenny Weiner",
+      "rating": 1633.49,
+      "rd": 37.25,
+      "ratingClass": "A",
+      "homeLocation": "Pizza J",
+      "homeLocationId": "6675",
+      "percentile": 89.19737271160386,
+      "changeDisplay": "+21.0",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m30609",
+      "name": "John Bolton",
+      "rating": 1632.65,
+      "rd": 21.26,
+      "ratingClass": "A",
+      "homeLocation": "Funspot",
+      "homeLocationId": "7878",
+      "percentile": 89.085573205385,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i51297",
+      "name": "Jared Ose",
+      "rating": 1626.3,
+      "rd": 31.58,
+      "ratingClass": "A",
+      "homeLocation": "Pizza J",
+      "homeLocationId": "6675",
+      "percentile": 87.8324870731821,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m217",
+      "name": "Augustus Eustis",
+      "rating": 1620.42,
+      "rd": 24.26,
+      "ratingClass": "A",
+      "homeLocation": "Western Mass Pinball Club",
+      "homeLocationId": "5487",
+      "percentile": 86.70051707271627,
+      "changeDisplay": "+4.4",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m7225",
+      "name": "Adam Meader",
+      "rating": 1595.37,
+      "rd": 21.41,
+      "ratingClass": "B",
+      "homeLocation": "Flat Top Johnny's",
+      "homeLocationId": "9084",
+      "percentile": 80.87762612381796,
+      "changeDisplay": "+3.7",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m28369",
+      "name": "Chris Cardaci",
+      "rating": 1587.84,
+      "rd": 26.97,
+      "ratingClass": "B",
+      "homeLocation": "The Dusty Planet",
+      "homeLocationId": "11626",
+      "percentile": 78.86057669911958,
+      "changeDisplay": "-9.9",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m5899",
+      "name": "Bill MacDonald",
+      "rating": 1583.82,
+      "rd": 24.04,
+      "ratingClass": "B",
+      "homeLocation": "The Dusty Planet",
+      "homeLocationId": "11626",
+      "percentile": 77.68202357106256,
+      "changeDisplay": "+1.3",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m23490",
+      "name": "Dave Rabinowitz",
+      "rating": 1552.01,
+      "rd": 32.23,
+      "ratingClass": "B",
+      "homeLocation": "The Dusty Planet",
+      "homeLocationId": "11626",
+      "percentile": 67.53156006894304,
+      "changeDisplay": "-9.7",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m14496",
+      "name": "Brad Sylvester",
+      "rating": 1524.67,
+      "rd": 23.83,
+      "ratingClass": "B",
+      "homeLocation": "Maine Silverball Tavern",
+      "homeLocationId": "6247",
+      "percentile": 56.971165044021056,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m23077",
+      "name": "Aaron Ciardullo",
+      "rating": 1504.78,
+      "rd": 37.11,
+      "ratingClass": "B",
+      "homeLocation": "Pizza J",
+      "homeLocationId": "6675",
+      "percentile": 49.187124423533795,
+      "changeDisplay": "-12.9",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m1085",
+      "name": "Chris Harvey",
+      "rating": 1503.82,
+      "rd": 24.02,
+      "ratingClass": "B",
+      "homeLocation": "The Dusty Planet",
+      "homeLocationId": "11626",
+      "percentile": 48.77253458797224,
+      "changeDisplay": "+9.3",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m39271",
+      "name": "Corina Malbaurn",
+      "rating": 1501.23,
+      "rd": 29.51,
+      "ratingClass": "B",
+      "homeLocation": "The Sanctum",
+      "homeLocationId": "5908",
+      "percentile": 47.640564587506404,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m56339",
+      "name": "Paul Borne",
+      "rating": 1495.15,
+      "rd": 20.07,
+      "ratingClass": "C",
+      "homeLocation": "OMG Pinball!",
+      "homeLocationId": "12468",
+      "percentile": 45.17165882517352,
+      "changeDisplay": "+5.3",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m36978",
+      "name": "Holly Papaw",
+      "rating": 1495.04,
+      "rd": 23.24,
+      "ratingClass": "C",
+      "homeLocation": "The Dusty Planet",
+      "homeLocationId": "11626",
+      "percentile": 45.12973401034145,
+      "changeDisplay": "-2.7",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m33421",
+      "name": "Mike Renzi",
+      "rating": 1491.25,
+      "rd": 32.79,
+      "ratingClass": "C",
+      "homeLocation": "The Dusty Planet",
+      "homeLocationId": "11626",
+      "percentile": 43.55056598500023,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m39513",
+      "name": "Max Giardina",
+      "rating": 1479.97,
+      "rd": 31.4,
+      "ratingClass": "C",
+      "homeLocation": "Pizza J",
+      "homeLocationId": "6675",
+      "percentile": 38.90622816415894,
+      "changeDisplay": "+26.9",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m37879",
+      "name": "Amy McDonough",
+      "rating": 1463.9,
+      "rd": 24.25,
+      "ratingClass": "C",
+      "homeLocation": "Western Mass Pinball Club",
+      "homeLocationId": "5487",
+      "percentile": 32.38924861415195,
+      "changeDisplay": "-3.0",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m53345",
+      "name": "Joslin Howes",
+      "rating": 1462.81,
+      "rd": 22.06,
+      "ratingClass": "C",
+      "homeLocation": "Western Mass Pinball Club",
+      "homeLocationId": "5487",
+      "percentile": 32.049191782736294,
+      "changeDisplay": "+1.7",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m53598",
+      "name": "Kevin Fitzgerald",
+      "rating": 1452.12,
+      "rd": 32.53,
+      "ratingClass": "C",
+      "homeLocation": "Pizza J",
+      "homeLocationId": "6675",
+      "percentile": 27.954534867471004,
+      "changeDisplay": "-14.6",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m48268",
+      "name": "Brian Costello",
+      "rating": 1451.71,
+      "rd": 35.07,
+      "ratingClass": "C",
+      "homeLocation": "Double Bull Taphouse",
+      "homeLocationId": "9109",
+      "percentile": 27.782177295383615,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m44984",
+      "name": "Carmen Wise",
+      "rating": 1448.77,
+      "rd": 27.56,
+      "ratingClass": "C",
+      "homeLocation": "The Acton Bowladrome (The Drome!)",
+      "homeLocationId": "11424",
+      "percentile": 26.65952392043602,
+      "changeDisplay": "+1.1",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m56408",
+      "name": "Jack Van Leer",
+      "rating": 1447.56,
+      "rd": 32.1,
+      "ratingClass": "C",
+      "homeLocation": "The Dusty Planet",
+      "homeLocationId": "11626",
+      "percentile": 26.305492150743,
+      "changeDisplay": "-25.7",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m20488",
+      "name": "Amber Lee",
+      "rating": 1435.37,
+      "rd": 24.38,
+      "ratingClass": "C",
+      "homeLocation": "Pizza J",
+      "homeLocationId": "6675",
+      "percentile": 22.23878511203242,
+      "changeDisplay": "-1.4",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m61483",
+      "name": "Anthony Borne",
+      "rating": 1432.54,
+      "rd": 34.33,
+      "ratingClass": "C",
+      "homeLocation": "Pizza J",
+      "homeLocationId": "6675",
+      "percentile": 21.34438906228164,
+      "changeDisplay": "+20.0",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m39942",
+      "name": "Sarah Maclean CT",
+      "rating": 1414.63,
+      "rd": 35.7,
+      "ratingClass": "C",
+      "homeLocation": "The Sanctum",
+      "homeLocationId": "5908",
+      "percentile": 16.336702846229095,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m33606",
+      "name": "Larry Flaps",
+      "rating": 1399.16,
+      "rd": 37.06,
+      "ratingClass": "D",
+      "homeLocation": "Pizza J",
+      "homeLocationId": "6675",
+      "percentile": 12.330553873387059,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i136784",
+      "name": "Matthew Pieper",
+      "rating": 1388.48,
+      "rd": 41.49,
+      "ratingClass": "D",
+      "homeLocation": "The Dusty Planet",
+      "homeLocationId": "11626",
+      "percentile": 9.940839427959194,
+      "changeDisplay": "+0.6",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m37767",
+      "name": "John Todd",
+      "rating": 1368.33,
+      "rd": 26.63,
+      "ratingClass": "D",
+      "homeLocation": "The Dusty Planet",
+      "homeLocationId": "11626",
+      "percentile": 6.461079796897564,
+      "changeDisplay": "-7.1",
+      "changeClass": "change-negative"
+    }
+  ]
+}

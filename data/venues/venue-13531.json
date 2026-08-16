@@ -1,0 +1,371 @@
+{
+  "locationId": "13531",
+  "name": "Crave 80s",
+  "address": "8628 36th Ave NE #100, Marysville, WA 98270, US",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 25,
+  "relatedVenues": [
+    {
+      "locationId": "1893",
+      "name": "The Ice Box",
+      "address": "615 NW Bright St, Seattle, WA 98107, USA",
+      "count": 35
+    },
+    {
+      "locationId": "5959",
+      "name": "Another Castle Arcade Edition Edmonds",
+      "address": "23303 Hwy 99 c, Edmonds, WA 98026, USA",
+      "count": 30
+    },
+    {
+      "locationId": "13134",
+      "name": "White Buffalo Saloon",
+      "address": "5614 Evergreen Way, Everett, WA 98203, US",
+      "count": 25
+    },
+    {
+      "locationId": "6881",
+      "name": "The Republic Bottle Shop",
+      "address": "9414 State Ave, Marysville, WA, 98270, US",
+      "count": 22
+    },
+    {
+      "locationId": "9778",
+      "name": "Black Raven Brewing - Woodinville",
+      "address": "15902 Redmond - Woodinville Rd NE, Woodinville, WA 98072, US",
+      "count": 19
+    },
+    {
+      "locationId": "8898",
+      "name": "Shorty's",
+      "address": "2222 2nd Avenue, Seattle, WA 98121, US",
+      "count": 14
+    },
+    {
+      "locationId": "10993",
+      "name": "Gary’s Place",
+      "address": "2820 Alki Ave SW, Seattle, WA 98116, US",
+      "count": 14
+    },
+    {
+      "locationId": "7165",
+      "name": "8-Bit Arcade Bar",
+      "address": "916 South 3rd Street, Renton, WA 98057, US",
+      "count": 11
+    },
+    {
+      "locationId": "8014",
+      "name": "Georgetown Pizza & Arcade",
+      "address": "5513 Airport Way S, Seattle, WA 98108, US",
+      "count": 11
+    },
+    {
+      "locationId": "7491",
+      "name": "Jupiter Gameroom",
+      "address": "2126 2nd Ave Suite A, Seattle, WA 98121, US",
+      "count": 10
+    }
+  ],
+  "players": [
+    {
+      "id": "m17561",
+      "name": "Matthew Roggenkamp",
+      "rating": 1693.23,
+      "rd": 20.97,
+      "ratingClass": "A",
+      "homeLocation": "Another Castle Arcade Edition Edmonds",
+      "homeLocationId": "5959",
+      "percentile": 96.14757534820887,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m4007",
+      "name": "Tim Collins",
+      "rating": 1632.43,
+      "rd": 21.41,
+      "ratingClass": "A",
+      "homeLocation": "Black Raven Brewing - Woodinville",
+      "homeLocationId": "9778",
+      "percentile": 89.04830670331206,
+      "changeDisplay": "+6.8",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m38356",
+      "name": "Andrew Meuser",
+      "rating": 1624.92,
+      "rd": 18.75,
+      "ratingClass": "A",
+      "homeLocation": "The Ice Box",
+      "homeLocationId": "1893",
+      "percentile": 87.59491312246705,
+      "changeDisplay": "+0.3",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m13692",
+      "name": "Jobie Allen",
+      "rating": 1587.27,
+      "rd": 26.2,
+      "ratingClass": "B",
+      "homeLocation": "The Republic Bottle Shop",
+      "homeLocationId": "6881",
+      "percentile": 78.64629431220011,
+      "changeDisplay": "+6.6",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m39658",
+      "name": "Joe Woodard",
+      "rating": 1582.73,
+      "rd": 25.95,
+      "ratingClass": "B",
+      "homeLocation": "Crave 80s Arcade Bar",
+      "homeLocationId": "6312",
+      "percentile": 77.3932081799972,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m22102",
+      "name": "Evan Adkins",
+      "rating": 1581.29,
+      "rd": 29.46,
+      "ratingClass": "B",
+      "homeLocation": "Another Castle Arcade Edition Edmonds",
+      "homeLocationId": "5959",
+      "percentile": 76.98793496995388,
+      "changeDisplay": "-1.5",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m37860",
+      "name": "Canyon Mosely",
+      "rating": 1580.85,
+      "rd": 16.79,
+      "ratingClass": "B",
+      "homeLocation": "Gary’s Place",
+      "homeLocationId": "10993",
+      "percentile": 76.89476871477152,
+      "changeDisplay": "+2.2",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "i32149",
+      "name": "Pat Robinson",
+      "rating": 1565.74,
+      "rd": 36.95,
+      "ratingClass": "B",
+      "homeLocation": "White Buffalo Saloon",
+      "homeLocationId": "13134",
+      "percentile": 72.19918945357992,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m22917",
+      "name": "Robert Bissell",
+      "rating": 1560.94,
+      "rd": 22.6,
+      "ratingClass": "B",
+      "homeLocation": "The Republic Bottle Shop",
+      "homeLocationId": "6881",
+      "percentile": 70.6246797409978,
+      "changeDisplay": "-4.6",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m3788",
+      "name": "Clinton Peterson",
+      "rating": 1558.95,
+      "rd": 24.09,
+      "ratingClass": "B",
+      "homeLocation": "NWPAS",
+      "homeLocationId": "6346",
+      "percentile": 69.98649089299856,
+      "changeDisplay": "+4.5",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m40608",
+      "name": "Julie Finco",
+      "rating": 1545.03,
+      "rd": 18.5,
+      "ratingClass": "B",
+      "homeLocation": "The Republic Bottle Shop",
+      "homeLocationId": "6881",
+      "percentile": 64.96482973866866,
+      "changeDisplay": "+6.8",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m7035",
+      "name": "Joseph Salender",
+      "rating": 1540.3,
+      "rd": 25.85,
+      "ratingClass": "B",
+      "homeLocation": "The Ice Box",
+      "homeLocationId": "1893",
+      "percentile": 63.24125401779476,
+      "changeDisplay": "-2.9",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m40409",
+      "name": "Todd Finco",
+      "rating": 1519.19,
+      "rd": 21.46,
+      "ratingClass": "B",
+      "homeLocation": "Crave 80s",
+      "homeLocationId": "13531",
+      "percentile": 54.82834117482648,
+      "changeDisplay": "-1.4",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "i26328",
+      "name": "Lefty Sitaras",
+      "rating": 1517.34,
+      "rd": 32.26,
+      "ratingClass": "B",
+      "homeLocation": "Crave 80s",
+      "homeLocationId": "13531",
+      "percentile": 54.14822751199515,
+      "changeDisplay": "+17.1",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m27904",
+      "name": "Patrick Willis",
+      "rating": 1508.99,
+      "rd": 26.14,
+      "ratingClass": "B",
+      "homeLocation": "The Republic Bottle Shop",
+      "homeLocationId": "6881",
+      "percentile": 50.80821726370709,
+      "changeDisplay": "-2.1",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "i48109",
+      "name": "Trent Davis",
+      "rating": 1507.24,
+      "rd": 61.44,
+      "ratingClass": "B",
+      "homeLocation": "The Republic Bottle Shop",
+      "homeLocationId": "6881",
+      "percentile": 50.07220384776634,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i159925",
+      "name": "Victor Jansen",
+      "rating": 1504.95,
+      "rd": 44.75,
+      "ratingClass": "B",
+      "homeLocation": "Crave 80s",
+      "homeLocationId": "13531",
+      "percentile": 49.27097405319793,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i93090",
+      "name": "Jenny Cline",
+      "rating": 1496.56,
+      "rd": 22.67,
+      "ratingClass": "C",
+      "homeLocation": "Next Level Pinball Museum",
+      "homeLocationId": "5246",
+      "percentile": 45.69804816695393,
+      "changeDisplay": "+15.1",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "i68823",
+      "name": "Trent Barton",
+      "rating": 1474.95,
+      "rd": 23.9,
+      "ratingClass": "C",
+      "homeLocation": "White Buffalo Saloon",
+      "homeLocationId": "13134",
+      "percentile": 36.87054548842409,
+      "changeDisplay": "+5.9",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m21233",
+      "name": "Jameson Culler",
+      "rating": 1464.56,
+      "rd": 58.62,
+      "ratingClass": "C",
+      "homeLocation": "Another Castle Arcade Edition Edmonds",
+      "homeLocationId": "5959",
+      "percentile": 32.65943075418083,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m5933",
+      "name": "Andrea Peterson",
+      "rating": 1453.39,
+      "rd": 29.99,
+      "ratingClass": "C",
+      "homeLocation": "The Ice Box",
+      "homeLocationId": "1893",
+      "percentile": 28.41570783062375,
+      "changeDisplay": "+2.9",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m50269",
+      "name": "Kevin Steenis",
+      "rating": 1427.22,
+      "rd": 56.48,
+      "ratingClass": "C",
+      "homeLocation": "Crave 80s",
+      "homeLocationId": "13531",
+      "percentile": 19.76987934969954,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m36887",
+      "name": "Karen Roggenkamp",
+      "rating": 1387.1,
+      "rd": 46.58,
+      "ratingClass": "D",
+      "homeLocation": "ADD-A-Ball",
+      "homeLocationId": "8582",
+      "percentile": 9.71258210276238,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m49009",
+      "name": "Lauren Fischer",
+      "rating": 1386.98,
+      "rd": 31.95,
+      "ratingClass": "D",
+      "homeLocation": "Another Castle Arcade Edition Edmonds",
+      "homeLocationId": "5959",
+      "percentile": 9.67997391344855,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m40290",
+      "name": "Cressa Johnson",
+      "rating": 1341.9,
+      "rd": 35.91,
+      "ratingClass": "D",
+      "homeLocation": "Crave 80s",
+      "homeLocationId": "13531",
+      "percentile": 3.400568314156612,
+      "changeDisplay": "+4.8",
+      "changeClass": "change-positive"
+    }
+  ]
+}

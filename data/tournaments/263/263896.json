@@ -1,0 +1,67 @@
+{
+  "tournamentId": 263896,
+  "name": "GLD Presents: CBar Weekly Tournament (LOOP)",
+  "date": "2026-07-26",
+  "locationId": "12908",
+  "locationName": "C-Bar",
+  "playerCount": 8,
+  "ratingsDate": "2026-07-26",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m6122",
+      "name": "John Hartman",
+      "rating": 1619.37,
+      "dailyRatingChange": 14.12
+    },
+    {
+      "position": 2,
+      "playerId": "m7530",
+      "name": "Mathew Peterson",
+      "rating": 1707.46,
+      "dailyRatingChange": 3.29
+    },
+    {
+      "position": 3,
+      "playerId": "m46624",
+      "name": "Nathan Doom",
+      "rating": 1557.91,
+      "dailyRatingChange": -5.6
+    },
+    {
+      "position": 4,
+      "playerId": "m14504",
+      "name": "Chris Johnson OR",
+      "rating": 1527.2,
+      "dailyRatingChange": 22.1
+    },
+    {
+      "position": 5,
+      "playerId": "i118825",
+      "name": "Kat Shannon",
+      "rating": 1491.42,
+      "dailyRatingChange": 18.81
+    },
+    {
+      "position": 6,
+      "playerId": "m8610",
+      "name": "Sean Goller",
+      "rating": 1550.74,
+      "dailyRatingChange": -1.19
+    },
+    {
+      "position": 7,
+      "playerId": "m582008",
+      "name": "Michael Gerdes",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 8,
+      "playerId": "m582010",
+      "name": "Ansel Day",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

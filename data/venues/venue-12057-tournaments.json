@@ -1,0 +1,118 @@
+{
+  "locationId": "12057",
+  "venueName": "Pinball Capital at Whitewater Cinemas",
+  "venueAddress": "151 East Pearson Ln, Whitewater, WI 53190, US",
+  "tournaments": [
+    {
+      "id": 266719,
+      "name": "Finals for Whitewater 13 Aug 2026",
+      "date": "8/13/2026",
+      "playerCount": 4,
+      "qualifying": {
+        "id": 266718,
+        "name": "Whitewater 13 Aug 2026",
+        "playerCount": 11
+      },
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m36459",
+          "name": "Mark Liberto",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m57086",
+          "name": "Hunter Riedel",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m49530",
+          "name": "Sean Kirkeng",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "i154675",
+          "name": "andrew lathrop",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 265859,
+      "name": "Finals for Whitewater 8/6/26",
+      "date": "8/6/2026",
+      "playerCount": 8,
+      "qualifying": {
+        "id": 265858,
+        "name": "Whitewater 8/6/26",
+        "playerCount": 16
+      },
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "i146789",
+          "name": "Bob Jenski",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m28862",
+          "name": "Trae Vance",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "i156644",
+          "name": "Justin Beales",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m57086",
+          "name": "Hunter Riedel",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 262709,
+      "name": "Finals for Whitewater 7/30/26",
+      "date": "7/30/2026",
+      "playerCount": 8,
+      "qualifying": {
+        "id": 262708,
+        "name": "Whitewater 7/30/26",
+        "playerCount": 15
+      },
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "i156644",
+          "name": "Justin Beales",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m28862",
+          "name": "Trae Vance",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m58123",
+          "name": "Josh Nast",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m57084",
+          "name": "Maddie Pfeiffer",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

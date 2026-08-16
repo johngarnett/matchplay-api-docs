@@ -1,0 +1,239 @@
+{
+  "locationId": "6467",
+  "name": "Peluche Resto Bar",
+  "address": "av libertador 2626 victoria buenos aires argentina",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 17,
+  "relatedVenues": [
+    {
+      "locationId": "11762",
+      "name": "Pinbar_10",
+      "address": "2173 Av. Álvarez Jonte, Buenos Aires, CABA, C1416, AR",
+      "count": 26
+    },
+    {
+      "locationId": "11714",
+      "name": "Ballester Pinball Club",
+      "address": "Junín 3564, B1653 Villa Ballester, Provincia de Buenos Aires",
+      "count": 21
+    },
+    {
+      "locationId": "13267",
+      "name": "Pinbar_10",
+      "address": "2173 Av. Álvarez Jonte, Buenos Aires, CABA C1416, AR",
+      "count": 2
+    },
+    {
+      "locationId": "1917",
+      "name": "FlippArena Vöcklabruck",
+      "address": "5 Vornbuch, Vornbuch, Oberösterreich, 4840, AT",
+      "count": 1
+    }
+  ],
+  "players": [
+    {
+      "id": "m29474",
+      "name": "Alejandro Fiorentino",
+      "rating": 1865.87,
+      "rd": 28.48,
+      "ratingClass": "Master",
+      "homeLocation": "Ballester Pinball Club",
+      "homeLocationId": "11714",
+      "percentile": 99.90683374481762,
+      "changeDisplay": "+7.6",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m28490",
+      "name": "Marton Larrosa",
+      "rating": 1834.43,
+      "rd": 28.64,
+      "ratingClass": "Master",
+      "homeLocation": "Ballester Pinball Club",
+      "homeLocationId": "11714",
+      "percentile": 99.82298411515349,
+      "changeDisplay": "+5.7",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m23563",
+      "name": "Sebastian Buccafusco",
+      "rating": 1673.3,
+      "rd": 30.4,
+      "ratingClass": "A",
+      "homeLocation": "Ballester Pinball Club",
+      "homeLocationId": "11714",
+      "percentile": 94.43331625285322,
+      "changeDisplay": "-8.6",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m58341",
+      "name": "Santiago Bernal",
+      "rating": 1651.28,
+      "rd": 27.79,
+      "ratingClass": "A",
+      "homeLocation": "Pinbar_10",
+      "homeLocationId": "11762",
+      "percentile": 91.87590254809707,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m20347",
+      "name": "Andres Compagnucci",
+      "rating": 1638.84,
+      "rd": 24.12,
+      "ratingClass": "A",
+      "homeLocation": "Pinbar_10",
+      "homeLocationId": "11762",
+      "percentile": 90.1336935761867,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i86436",
+      "name": "Adrian Bernal",
+      "rating": 1608,
+      "rd": 27.33,
+      "ratingClass": "A",
+      "homeLocation": "Pinbar_10",
+      "homeLocationId": "11762",
+      "percentile": 83.95211254483625,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i86392",
+      "name": "Pablo Leonardi",
+      "rating": 1606.84,
+      "rd": 31.14,
+      "ratingClass": "A",
+      "homeLocation": "Pinbar_10",
+      "homeLocationId": "11762",
+      "percentile": 83.6632971537709,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m52338",
+      "name": "Edgardo Awad",
+      "rating": 1586.89,
+      "rd": 37.7,
+      "ratingClass": "B",
+      "homeLocation": "Ballester Pinball Club",
+      "homeLocationId": "11714",
+      "percentile": 78.56244468253598,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i128115",
+      "name": "Gabriel Fersan",
+      "rating": 1563.6,
+      "rd": 27.48,
+      "ratingClass": "B",
+      "homeLocation": "Ballester Pinball Club",
+      "homeLocationId": "11714",
+      "percentile": 71.51907579074859,
+      "changeDisplay": "+2.9",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "i86507",
+      "name": "Faustino Paez",
+      "rating": 1543.75,
+      "rd": 32.17,
+      "ratingClass": "B",
+      "homeLocation": "Ballester Pinball Club",
+      "homeLocationId": "11714",
+      "percentile": 64.48036521172031,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i108729",
+      "name": "Matias Brenta",
+      "rating": 1540.03,
+      "rd": 35.41,
+      "ratingClass": "B",
+      "homeLocation": "Peluche Resto Bar",
+      "homeLocationId": "6467",
+      "percentile": 63.11547957329855,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m23278",
+      "name": "Hernan Salvador",
+      "rating": 1537.85,
+      "rd": 33.83,
+      "ratingClass": "B",
+      "homeLocation": "Peluche Resto Bar",
+      "homeLocationId": "6467",
+      "percentile": 62.19779195975218,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i144105",
+      "name": "Tomas Otamendi",
+      "rating": 1527.44,
+      "rd": 37.04,
+      "ratingClass": "B",
+      "homeLocation": "Peluche Resto Bar",
+      "homeLocationId": "6467",
+      "percentile": 57.97736059999068,
+      "changeDisplay": "+4.7",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m50826",
+      "name": "Sebastian Bustamante",
+      "rating": 1522.6,
+      "rd": 28.95,
+      "ratingClass": "B",
+      "homeLocation": "Ballester Pinball Club",
+      "homeLocationId": "11714",
+      "percentile": 56.17925187497088,
+      "changeDisplay": "+11.0",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "i86576",
+      "name": "Enrique Brachetti",
+      "rating": 1486.77,
+      "rd": 29.65,
+      "ratingClass": "C",
+      "homeLocation": "Ballester Pinball Club",
+      "homeLocationId": "11714",
+      "percentile": 41.64531606652071,
+      "changeDisplay": "+11.2",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m52225",
+      "name": "Jessica Praznik",
+      "rating": 1412.13,
+      "rd": 33.29,
+      "ratingClass": "C",
+      "homeLocation": "Pinbar_10",
+      "homeLocationId": "11762",
+      "percentile": 15.63329761960218,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i150072",
+      "name": "Almendra Abritta Peña",
+      "rating": 1372.75,
+      "rd": 36.18,
+      "ratingClass": "D",
+      "homeLocation": "Pinbar_10",
+      "homeLocationId": "11762",
+      "percentile": 7.12721852145153,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

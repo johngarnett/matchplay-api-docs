@@ -108,6 +108,12 @@ and where a report and a measurement disagreed, the measurement won.
 
 The evidence base:
 
+- **A 30-day global snapshot** of 2,755 tournaments with standings, from a community-analysis
+  pipeline. Useful for scale and for how a real integration models identity — but **derived,
+  not raw**: it nulls `type` and `status`, re-encodes player ids, and drops players it cannot
+  resolve. Nothing in this documentation's schemas was verified against it, for that reason.
+
+
 - **Live probes** — 46 requests across two rounds at one call per two seconds.
 - **A SQLite cache** of 6,148 real game objects across 131 tournaments.
 - **Fixture corpora** including 102 live tournaments spanning 13 formats, a 135-game

@@ -1,0 +1,67 @@
+{
+  "tournamentId": 264974,
+  "name": "The Pinball Room - August Monthly",
+  "date": "2026-08-01",
+  "locationId": "11041",
+  "locationName": "The Pinball Room",
+  "playerCount": 8,
+  "ratingsDate": "2026-08-01",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "i15385",
+      "name": "Nick Person",
+      "rating": 1652.33,
+      "dailyRatingChange": 14.31
+    },
+    {
+      "position": 2,
+      "playerId": "i88616",
+      "name": "Ryan Haugan",
+      "rating": 1610.07,
+      "dailyRatingChange": 15.77
+    },
+    {
+      "position": 3,
+      "playerId": "i133499",
+      "name": "Brendan Dix",
+      "rating": 1472.61,
+      "dailyRatingChange": 28.59
+    },
+    {
+      "position": 4,
+      "playerId": "m16631",
+      "name": "Ryan Nelson",
+      "rating": 1683.76,
+      "dailyRatingChange": -6.65
+    },
+    {
+      "position": 5,
+      "playerId": "i92801",
+      "name": "Mitchell Muske",
+      "rating": 1662.36,
+      "dailyRatingChange": -13.43
+    },
+    {
+      "position": 6,
+      "playerId": "m49191",
+      "name": "Kevin Allender",
+      "rating": 1562.5,
+      "dailyRatingChange": -5.83
+    },
+    {
+      "position": 7,
+      "playerId": "m32753",
+      "name": "Gwen Wheeler",
+      "rating": 1376.79,
+      "dailyRatingChange": -13.64
+    },
+    {
+      "position": 7,
+      "playerId": "i116394",
+      "name": "Tierza Lanham",
+      "rating": 1531.1,
+      "dailyRatingChange": -40.21
+    }
+  ]
+}

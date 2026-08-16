@@ -1,0 +1,227 @@
+{
+  "locationId": "11570",
+  "name": "TPDC Pinball at The Red Rocker",
+  "address": "15 Hershey Rd. Shippensburg, PA 17257",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 13,
+  "relatedVenues": [
+    {
+      "locationId": "7109",
+      "name": "Spinners Pinball Arcade",
+      "address": "1301 W Patrick St, Frederick, MD 21701",
+      "count": 40
+    },
+    {
+      "locationId": "11813",
+      "name": "Mountaineer Meat Smokers",
+      "address": "45 Monroe St, Martinsburg, WV 25404, US",
+      "count": 36
+    },
+    {
+      "locationId": "9887",
+      "name": "Tilty McFlipperz",
+      "address": "809 E Moler Ave, Martinsburg, WV 25404, US",
+      "count": 24
+    },
+    {
+      "locationId": "12658",
+      "name": "61PinBar / Cointaker",
+      "address": "1437 State Route 61 Sunbury, Pa 17801",
+      "count": 8
+    },
+    {
+      "locationId": "9505",
+      "name": "Jackpot Pinball Arcade",
+      "address": "144 N. 21st st. Purcellville VA 20132",
+      "count": 7
+    },
+    {
+      "locationId": "13569",
+      "name": "Experience Social - Ottawa Pinball Arcade",
+      "address": "250 Greenbank Rd, Ottawa, ON K2H 8P6, CA",
+      "count": 7
+    },
+    {
+      "locationId": "4804",
+      "name": "District 82 Pinball",
+      "address": "800 O Keefe Rd, De Pere, WI 54115, USA",
+      "count": 5
+    },
+    {
+      "locationId": "13309",
+      "name": "Urban House",
+      "address": "York",
+      "count": 4
+    },
+    {
+      "locationId": "13318",
+      "name": "Fauth House",
+      "address": "Lancaster",
+      "count": 4
+    },
+    {
+      "locationId": "13397",
+      "name": "Romano House",
+      "address": "Harrisburg",
+      "count": 4
+    }
+  ],
+  "players": [
+    {
+      "id": "m53471",
+      "name": "Derrick Bidlingmeyer",
+      "rating": 1665.74,
+      "rd": 43.43,
+      "ratingClass": "A",
+      "homeLocation": "TPDC Pinball at The Red Rocker",
+      "homeLocationId": "11570",
+      "percentile": 93.68798621139423,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m37143",
+      "name": "Tyler Pirrone",
+      "rating": 1640.74,
+      "rd": 22.72,
+      "ratingClass": "A",
+      "homeLocation": "Mountaineer Meat Smokers",
+      "homeLocationId": "11813",
+      "percentile": 90.45977546932501,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m22896",
+      "name": "Frank Marion",
+      "rating": 1626.24,
+      "rd": 21.32,
+      "ratingClass": "A",
+      "homeLocation": "Experience Social - Ottawa Pinball Arcade",
+      "homeLocationId": "13569",
+      "percentile": 87.82317044766386,
+      "changeDisplay": "+19.2",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m5841",
+      "name": "Justin Semke",
+      "rating": 1568.98,
+      "rd": 27.39,
+      "ratingClass": "B",
+      "homeLocation": "61PinBar / Cointaker",
+      "homeLocationId": "12658",
+      "percentile": 73.16811850747659,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m47449",
+      "name": "Matt Welker",
+      "rating": 1567.89,
+      "rd": 22,
+      "ratingClass": "B",
+      "homeLocation": "Spinners Pinball Arcade",
+      "homeLocationId": "7109",
+      "percentile": 72.83271998882005,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m13476",
+      "name": "Matt Newton",
+      "rating": 1565.08,
+      "rd": 22.63,
+      "ratingClass": "B",
+      "homeLocation": "Spinners Pinball Arcade",
+      "homeLocationId": "7109",
+      "percentile": 71.96627381562398,
+      "changeDisplay": "+2.0",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m57615",
+      "name": "JR Fogelsonger",
+      "rating": 1526.61,
+      "rd": 48.97,
+      "ratingClass": "B",
+      "homeLocation": "TPDC Pinball at The Red Rocker",
+      "homeLocationId": "11570",
+      "percentile": 57.674570270647976,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m28662",
+      "name": "Wendy Dunn",
+      "rating": 1489.7,
+      "rd": 21.98,
+      "ratingClass": "C",
+      "homeLocation": "Delaware Pinball Collective",
+      "homeLocationId": "5785",
+      "percentile": 42.889085573205385,
+      "changeDisplay": "+0.7",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m42806",
+      "name": "Melissa Hienkle",
+      "rating": 1467.66,
+      "rd": 20.47,
+      "ratingClass": "C",
+      "homeLocation": "Tilty McFlipperz",
+      "homeLocationId": "9887",
+      "percentile": 33.88922532258816,
+      "changeDisplay": "+7.0",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m59224",
+      "name": "Trey Fogelsonger",
+      "rating": 1463.16,
+      "rd": 50.46,
+      "ratingClass": "C",
+      "homeLocation": "TPDC Pinball at The Red Rocker",
+      "homeLocationId": "11570",
+      "percentile": 32.160991288955145,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m33022",
+      "name": "Kristy Abbe",
+      "rating": 1433.62,
+      "rd": 23.7,
+      "ratingClass": "C",
+      "homeLocation": "61PinBar / Cointaker",
+      "homeLocationId": "12658",
+      "percentile": 21.66581264266083,
+      "changeDisplay": "-18.5",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m47867",
+      "name": "Elaina Welker",
+      "rating": 1431.73,
+      "rd": 24.69,
+      "ratingClass": "C",
+      "homeLocation": "Spinners Pinball Arcade",
+      "homeLocationId": "7109",
+      "percentile": 21.09749848604835,
+      "changeDisplay": "-2.0",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m59223",
+      "name": "Dwayne Gutshall",
+      "rating": 1422.8,
+      "rd": 56.38,
+      "ratingClass": "C",
+      "homeLocation": "TPDC Pinball at The Red Rocker",
+      "homeLocationId": "11570",
+      "percentile": 18.484185028182793,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

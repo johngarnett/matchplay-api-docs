@@ -1,0 +1,67 @@
+{
+  "tournamentId": 258908,
+  "name": "Spinners Pinball League Summer 2026 - B Division - Playoffs",
+  "date": "2026-07-31",
+  "locationId": "12994",
+  "locationName": "Spinners Pinball Arcade",
+  "playerCount": 8,
+  "ratingsDate": "2026-07-31",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m47449",
+      "name": "Matt Welker",
+      "rating": 1567.89,
+      "dailyRatingChange": 11.39
+    },
+    {
+      "position": 2,
+      "playerId": "m57265",
+      "name": "Zsolt Szeless",
+      "rating": 1490.47,
+      "dailyRatingChange": 11.44
+    },
+    {
+      "position": 3,
+      "playerId": "m60095",
+      "name": "Josh Ray",
+      "rating": 1491.63,
+      "dailyRatingChange": 6.15
+    },
+    {
+      "position": 4,
+      "playerId": "m19977",
+      "name": "Steven Muse",
+      "rating": null,
+      "dailyRatingChange": -11.73
+    },
+    {
+      "position": 5,
+      "playerId": "m37021",
+      "name": "Jeff Martin",
+      "rating": 1508.59,
+      "dailyRatingChange": -0.32
+    },
+    {
+      "position": 6,
+      "playerId": "m24087",
+      "name": "Bob Sherman",
+      "rating": 1565.38,
+      "dailyRatingChange": -4.49
+    },
+    {
+      "position": 7,
+      "playerId": "m52300",
+      "name": "Jeffrey Garonzik",
+      "rating": 1473.37,
+      "dailyRatingChange": -9.63
+    },
+    {
+      "position": 7,
+      "playerId": "m57274",
+      "name": "Chad Hembrock",
+      "rating": 1476.37,
+      "dailyRatingChange": -8.96
+    }
+  ]
+}

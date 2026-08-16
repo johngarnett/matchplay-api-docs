@@ -1,0 +1,215 @@
+{
+  "locationId": "13712",
+  "name": "Nerd Alert Carriage Crossing",
+  "address": "4680 Merchants Park Cir, Collierville, TN 38017, US",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 12,
+  "relatedVenues": [
+    {
+      "locationId": "6223",
+      "name": "Flip⚡️Side",
+      "address": "1349 Autumn Ave, Memphis, TN 38104, USA",
+      "count": 156
+    },
+    {
+      "locationId": "9021",
+      "name": "Game Over Arcade Bar",
+      "address": "1868 1st Commercial Dr, Southaven, MS 38671, US",
+      "count": 142
+    },
+    {
+      "locationId": "3448",
+      "name": "Game Galaxy Arcade",
+      "address": "3 S Lowry St, Smyrna, TN 37167, USA",
+      "count": 7
+    },
+    {
+      "locationId": "2957",
+      "name": "Captain's Quarters",
+      "address": "2010 Bradford Pl, Flowood, MS 39232",
+      "count": 5
+    },
+    {
+      "locationId": "11652",
+      "name": "Hot Rod",
+      "address": "1022 Knight Road    Joel ton Tn",
+      "count": 3
+    },
+    {
+      "locationId": "6761",
+      "name": "Dobbins",
+      "address": "102 Broad Hollow Cv, Corinth MS 38834",
+      "count": 2
+    },
+    {
+      "locationId": "9049",
+      "name": "Pleasant Hill Pinranch",
+      "address": "7698 Reynoldsburg Rd Springville, TN",
+      "count": 2
+    },
+    {
+      "locationId": "11963",
+      "name": "Last Arcade",
+      "address": "1218 military rd benton,AR 72015",
+      "count": 2
+    },
+    {
+      "locationId": "3488",
+      "name": "BumperNets ",
+      "address": "2000 Galleria Cir, Birmingham, AL 35244, USA",
+      "count": 1
+    },
+    {
+      "locationId": "8271",
+      "name": "Rezzanine Esports",
+      "address": "1025 Washington Pike, Bridgeville, PA 15017, US",
+      "count": 1
+    }
+  ],
+  "players": [
+    {
+      "id": "m3600",
+      "name": "Tanner Wade",
+      "rating": 1766.22,
+      "rd": 15.97,
+      "ratingClass": "Expert",
+      "homeLocation": "Game Over Arcade Bar",
+      "homeLocationId": "9021",
+      "percentile": 99.12889551404481,
+      "changeDisplay": "+5.2",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m23339",
+      "name": "Colton Morgan",
+      "rating": 1707.99,
+      "rd": 18.55,
+      "ratingClass": "Expert",
+      "homeLocation": "Flip⚡️Side",
+      "homeLocationId": "6223",
+      "percentile": 97.07457958727349,
+      "changeDisplay": "-1.5",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m5645",
+      "name": "Bill Baggett",
+      "rating": 1689.63,
+      "rd": 15.88,
+      "ratingClass": "A",
+      "homeLocation": "Game Over Arcade Bar",
+      "homeLocationId": "9021",
+      "percentile": 95.89602645921647,
+      "changeDisplay": "+4.7",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m35622",
+      "name": "Cam Sczerba",
+      "rating": 1563.25,
+      "rd": 18.34,
+      "ratingClass": "B",
+      "homeLocation": "Game Over Arcade Bar",
+      "homeLocationId": "9021",
+      "percentile": 71.39330134625239,
+      "changeDisplay": "-8.3",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m43672",
+      "name": "Michael Adams TN2",
+      "rating": 1561.93,
+      "rd": 15.77,
+      "ratingClass": "B",
+      "homeLocation": "Game Over Arcade Bar",
+      "homeLocationId": "9021",
+      "percentile": 70.99268644896817,
+      "changeDisplay": "+3.0",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m24144",
+      "name": "Dustin Gibeson",
+      "rating": 1554.91,
+      "rd": 22.6,
+      "ratingClass": "B",
+      "homeLocation": "Flip⚡️Side",
+      "homeLocationId": "6223",
+      "percentile": 68.65887175664975,
+      "changeDisplay": "-1.2",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m6796",
+      "name": "Fred Jennings",
+      "rating": 1508.27,
+      "rd": 18.68,
+      "ratingClass": "B",
+      "homeLocation": "Flip⚡️Side",
+      "homeLocationId": "6223",
+      "percentile": 50.561326687473795,
+      "changeDisplay": "-12.1",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m47351",
+      "name": "Grahmy Boy",
+      "rating": 1503.41,
+      "rd": 20.32,
+      "ratingClass": "B",
+      "homeLocation": "Flip⚡️Side",
+      "homeLocationId": "6223",
+      "percentile": 48.534960637257186,
+      "changeDisplay": "+13.8",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m42810",
+      "name": "Brenna Walker",
+      "rating": 1469.99,
+      "rd": 15.4,
+      "ratingClass": "C",
+      "homeLocation": "Game Over Arcade Bar",
+      "homeLocationId": "9021",
+      "percentile": 34.87678762752131,
+      "changeDisplay": "+1.4",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m62379",
+      "name": "Tom Myers IL",
+      "rating": 1466.03,
+      "rd": 52.81,
+      "ratingClass": "C",
+      "homeLocation": "Flip⚡️Side",
+      "homeLocationId": "6223",
+      "percentile": 33.26501141286626,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m62105",
+      "name": "Allison Humphreys",
+      "rating": 1392.53,
+      "rd": 58.65,
+      "ratingClass": "D",
+      "homeLocation": "Nerd Alert Carriage Crossing",
+      "homeLocationId": "13712",
+      "percentile": 10.783994037359667,
+      "changeDisplay": "-21.6",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "i144154",
+      "name": "Rick Bennett",
+      "rating": 1379.39,
+      "rd": 17.45,
+      "ratingClass": "D",
+      "homeLocation": "Flip⚡️Side",
+      "homeLocationId": "6223",
+      "percentile": 8.217263707085294,
+      "changeDisplay": "+11.7",
+      "changeClass": "change-positive"
+    }
+  ]
+}

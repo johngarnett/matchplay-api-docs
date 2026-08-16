@@ -1,0 +1,60 @@
+{
+  "tournamentId": 260897,
+  "name": "Summer Strikes Thursdays @ Funspot #5",
+  "date": "2026-07-31",
+  "locationId": "11761",
+  "locationName": "Funspot",
+  "playerCount": 7,
+  "ratingsDate": "2026-07-31",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m34936",
+      "name": "Craig Barkal",
+      "rating": 1570.32,
+      "dailyRatingChange": 9.32
+    },
+    {
+      "position": 2,
+      "playerId": "m41336",
+      "name": "Skye Flanders",
+      "rating": 1572.82,
+      "dailyRatingChange": 10.5
+    },
+    {
+      "position": 3,
+      "playerId": "m33302",
+      "name": "Dave Tardif",
+      "rating": 1655.22,
+      "dailyRatingChange": -4.34
+    },
+    {
+      "position": 4,
+      "playerId": "m33063",
+      "name": "Sean Sturgill",
+      "rating": 1475.68,
+      "dailyRatingChange": 8.59
+    },
+    {
+      "position": 5,
+      "playerId": "m23415",
+      "name": "Michael Lupo",
+      "rating": 1568.2,
+      "dailyRatingChange": -5.87
+    },
+    {
+      "position": 6,
+      "playerId": "m24570",
+      "name": "Dave Lawton",
+      "rating": 1663.75,
+      "dailyRatingChange": -8.75
+    },
+    {
+      "position": 6,
+      "playerId": "m28693",
+      "name": "Eva Ashton",
+      "rating": 1461.78,
+      "dailyRatingChange": -3.68
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "tournamentId": 264571,
+  "name": "Finals for Pincity Pinball Addicts Learners club #13",
+  "date": "2026-07-30",
+  "locationId": "11676",
+  "locationName": "PinCity Pinball Addicts",
+  "playerCount": 9,
+  "ratingsDate": "2026-07-30",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m49768",
+      "name": "Christopher Wilson AUS",
+      "rating": 1578.83,
+      "dailyRatingChange": 3.58
+    },
+    {
+      "position": 2,
+      "playerId": "m536441",
+      "name": "Dallas Carroll",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 3,
+      "playerId": "m9665",
+      "name": "Mark Snell",
+      "rating": 1626.37,
+      "dailyRatingChange": -1.62
+    },
+    {
+      "position": 4,
+      "playerId": "m51584",
+      "name": "Trent Reeves",
+      "rating": 1640.7,
+      "dailyRatingChange": 3.31
+    },
+    {
+      "position": 5,
+      "playerId": "m41089",
+      "name": "Robert Lambert SA",
+      "rating": 1586.32,
+      "dailyRatingChange": -1.98
+    },
+    {
+      "position": 6,
+      "playerId": "m27800",
+      "name": "Luke Loop",
+      "rating": 1632.19,
+      "dailyRatingChange": -2.29
+    },
+    {
+      "position": 7,
+      "playerId": "m36306",
+      "name": "John Forster",
+      "rating": 1617.28,
+      "dailyRatingChange": -3.88
+    },
+    {
+      "position": 8,
+      "playerId": "m583000",
+      "name": "Eddie 340",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 9,
+      "playerId": "m35569",
+      "name": "Jack Kirk",
+      "rating": 1577.86,
+      "dailyRatingChange": -1.28
+    }
+  ]
+}

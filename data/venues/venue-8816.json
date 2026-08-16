@@ -1,0 +1,245 @@
+{
+  "locationId": "8816",
+  "name": "Iseman Arcade",
+  "address": "27 Maryvale Cres, Richmond Hill, ON",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 15,
+  "relatedVenues": [
+    {
+      "locationId": "11503",
+      "name": "PINFEST 2025",
+      "address": "Great Northern Exhibition - 2220 Fairgrounds Rd. Stayner, Ontario L0M 1S0",
+      "count": 11
+    },
+    {
+      "locationId": "6118",
+      "name": "Maple Pinball",
+      "address": "245 Matheson Boulevard East, Mississauga, ON L4Z 3K2, CA",
+      "count": 6
+    },
+    {
+      "locationId": "6680",
+      "name": "Bluffs Pinball",
+      "address": "442 Brimley Rd, Scarborough, ON M1J 1A1, Canada",
+      "count": 3
+    },
+    {
+      "locationId": "9864",
+      "name": "The Cow and Sow",
+      "address": "38 Colborne St, Kawartha Lakes, ON K0M 1N0, CA",
+      "count": 3
+    },
+    {
+      "locationId": "13261",
+      "name": "Nitro Toronto",
+      "address": "500 Rexdale Blvd. Etobicoke, ON",
+      "count": 3
+    },
+    {
+      "locationId": "3616",
+      "name": "Nick's",
+      "address": "",
+      "count": 2
+    },
+    {
+      "locationId": "6085",
+      "name": "Maple Pinball",
+      "address": "",
+      "count": 2
+    },
+    {
+      "locationId": "10209",
+      "name": "8-Bit Beans",
+      "address": "100 Brock St South, Whitby, ON, L1N 4J8, CA",
+      "count": 2
+    },
+    {
+      "locationId": "11366",
+      "name": "Angel International",
+      "address": "4 Allison Court",
+      "count": 1
+    }
+  ],
+  "players": [
+    {
+      "id": "m4528",
+      "name": "Chris Draper",
+      "rating": 1655.23,
+      "rd": 34.54,
+      "ratingClass": "A",
+      "homeLocation": "Iseman Arcade",
+      "homeLocationId": "8816",
+      "percentile": 92.44421670470956,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m49587",
+      "name": "James Englefield",
+      "rating": 1630.44,
+      "rd": 19.83,
+      "ratingClass": "A",
+      "homeLocation": "Bluffs Pinball",
+      "homeLocationId": "6680",
+      "percentile": 88.66632505706433,
+      "changeDisplay": "+1.9",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "i92411",
+      "name": "Carter Iseman",
+      "rating": 1614.43,
+      "rd": 48.2,
+      "ratingClass": "A",
+      "homeLocation": "Iseman Arcade",
+      "homeLocationId": "8816",
+      "percentile": 85.4381143149951,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m44378",
+      "name": "Mike Wellum",
+      "rating": 1592.65,
+      "rd": 30.72,
+      "ratingClass": "B",
+      "homeLocation": "PINFEST 2025",
+      "homeLocationId": "11503",
+      "percentile": 80.17887920995015,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m41926",
+      "name": "Mario Annecchiarico",
+      "rating": 1584.25,
+      "rd": 29.27,
+      "ratingClass": "B",
+      "homeLocation": "PINFEST 2025",
+      "homeLocationId": "11503",
+      "percentile": 77.83108957935437,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m56267",
+      "name": "Robbie Czirak",
+      "rating": 1570.78,
+      "rd": 33.62,
+      "ratingClass": "B",
+      "homeLocation": "Iseman Arcade",
+      "homeLocationId": "8816",
+      "percentile": 73.79699072995761,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i92413",
+      "name": "Brian Iseman",
+      "rating": 1549.76,
+      "rd": 46.56,
+      "ratingClass": "B",
+      "homeLocation": "Iseman Arcade",
+      "homeLocationId": "8816",
+      "percentile": 66.60921414263754,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m25582",
+      "name": "Jay Mackie",
+      "rating": 1530.03,
+      "rd": 30.63,
+      "ratingClass": "B",
+      "homeLocation": "Iseman Arcade",
+      "homeLocationId": "8816",
+      "percentile": 59.05343084734709,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i130049",
+      "name": "Guido Savosardaro",
+      "rating": 1513.73,
+      "rd": 31.17,
+      "ratingClass": "B",
+      "homeLocation": "PINFEST 2025",
+      "homeLocationId": "11503",
+      "percentile": 52.67620068011366,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m11738",
+      "name": "Nick Fattore",
+      "rating": 1506.85,
+      "rd": 33.32,
+      "ratingClass": "B",
+      "homeLocation": "Iseman Arcade",
+      "homeLocationId": "8816",
+      "percentile": 49.90450458843807,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i70378",
+      "name": "Mike Iaboni",
+      "rating": 1503.37,
+      "rd": 28.29,
+      "ratingClass": "B",
+      "homeLocation": "PINFEST 2025",
+      "homeLocationId": "11503",
+      "percentile": 48.51632738622071,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m26040",
+      "name": "Alan Zuckerman",
+      "rating": 1454.31,
+      "rd": 28.38,
+      "ratingClass": "C",
+      "homeLocation": "Maple Pinball",
+      "homeLocationId": "6085",
+      "percentile": 28.76973960031676,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m43937",
+      "name": "Steve McHugh",
+      "rating": 1434.21,
+      "rd": 35.12,
+      "ratingClass": "C",
+      "homeLocation": "Iseman Arcade",
+      "homeLocationId": "8816",
+      "percentile": 21.856803465784694,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i101902",
+      "name": "Rob Henry",
+      "rating": 1374.18,
+      "rd": 44.63,
+      "ratingClass": "D",
+      "homeLocation": "Iseman Arcade",
+      "homeLocationId": "8816",
+      "percentile": 7.285601155261564,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i61538",
+      "name": "Mike Faria",
+      "rating": null,
+      "rd": null,
+      "ratingClass": "N/A",
+      "homeLocation": "PINFEST 2025",
+      "homeLocationId": "11503",
+      "percentile": null,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

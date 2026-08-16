@@ -1,0 +1,53 @@
+{
+  "tournamentId": 265022,
+  "name": "Rickshaw’s Great Wall of Balls 8/1",
+  "date": "2026-08-02",
+  "locationId": "13485",
+  "locationName": "Rickshaw Restaurant & Lounge",
+  "playerCount": 6,
+  "ratingsDate": "2026-08-02",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m3045",
+      "name": "Timm Shere",
+      "rating": 1549.69,
+      "dailyRatingChange": 3.75
+    },
+    {
+      "position": 2,
+      "playerId": "m797",
+      "name": "Matt Galbraith",
+      "rating": 1601.03,
+      "dailyRatingChange": -3.32
+    },
+    {
+      "position": 3,
+      "playerId": "m32272",
+      "name": "Hunter Vogt",
+      "rating": 1523.55,
+      "dailyRatingChange": -1.16
+    },
+    {
+      "position": 4,
+      "playerId": "m4253",
+      "name": "Sandy Magallanes",
+      "rating": 1483.24,
+      "dailyRatingChange": 1.91
+    },
+    {
+      "position": 5,
+      "playerId": "m43660",
+      "name": "Chandler Lattin",
+      "rating": 1424.55,
+      "dailyRatingChange": -2.71
+    },
+    {
+      "position": 6,
+      "playerId": "m53373",
+      "name": "Noah Rubin",
+      "rating": 1365.2,
+      "dailyRatingChange": -6.52
+    }
+  ]
+}

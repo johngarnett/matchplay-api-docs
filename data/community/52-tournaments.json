@@ -1,0 +1,282 @@
+{
+  "communityId": "52",
+  "locations": [
+    {
+      "id": "12265",
+      "name": "Aftershock Classic Arcade",
+      "address": "1444 East Washington Avenue, Madison, WI 53703, US",
+      "tournaments": [
+        {
+          "id": 266966,
+          "name": "Pinball Social Club 8/13/26",
+          "date": "8/13/2026",
+          "playerCount": 16,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m11635",
+              "name": "Eric Thayer",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "i140583",
+              "name": "Justin Kurth",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m47780",
+              "name": "Scott Jensen",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m21915",
+              "name": "Roger Wolkoff",
+              "isCommunityMember": true
+            }
+          ]
+        },
+        {
+          "id": 266621,
+          "name": "Pinball Social Club 8/11/26",
+          "date": "8/11/2026",
+          "playerCount": 16,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m42418",
+              "name": "Mary Owen",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m38932",
+              "name": "True Garlynd",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m22653",
+              "name": "Eugene M Craven",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m47381",
+              "name": "Brad Van",
+              "isCommunityMember": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "12584",
+      "name": "I/O Arcade Bar",
+      "address": "924 Williamson St, Madison, WI 53703, US",
+      "tournaments": [
+        {
+          "id": 263443,
+          "name": "Finals for I/O Heads-Up Tournament August",
+          "date": "8/12/2026",
+          "playerCount": 4,
+          "qualifying": {
+            "id": 263354,
+            "name": "I/O Heads-Up Tournament August",
+            "playerCount": 20
+          },
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m5331",
+              "name": "Bryon Schmitz",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m9062",
+              "name": "Ken Kulig",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m14981",
+              "name": "Ryan Spindler",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m24124",
+              "name": "Kyle Stahl",
+              "isCommunityMember": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "12057",
+      "name": "Pinball Capital at Whitewater Cinemas",
+      "address": "151 East Pearson Ln, Whitewater, WI 53190, US",
+      "tournaments": [
+        {
+          "id": 266719,
+          "name": "Finals for Whitewater 13 Aug 2026",
+          "date": "8/13/2026",
+          "playerCount": 4,
+          "qualifying": {
+            "id": 266718,
+            "name": "Whitewater 13 Aug 2026",
+            "playerCount": 11
+          },
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m36459",
+              "name": "Mark Liberto",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m57086",
+              "name": "Hunter Riedel",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m49530",
+              "name": "Sean Kirkeng",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "i154675",
+              "name": "andrew lathrop",
+              "isCommunityMember": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "10170",
+      "name": "The Kickback",
+      "address": "7622 Lisa Lane, Middleton WI 53562",
+      "tournaments": [
+        {
+          "id": 267092,
+          "name": "Friday Night Strikes @ The Kickback 08.14.26",
+          "date": "8/14/2026",
+          "playerCount": 17,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m58333",
+              "name": "Mike Gaspard",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m11635",
+              "name": "Eric Thayer",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m41973",
+              "name": "Stephen Anderson",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m27725",
+              "name": "Josh Hanford",
+              "isCommunityMember": false
+            }
+          ]
+        },
+        {
+          "id": 266844,
+          "name": "Finals for 2026.08.12 Belles & Chimes Madison at the Kickback",
+          "date": "8/12/2026",
+          "playerCount": 4,
+          "qualifying": {
+            "id": 265561,
+            "name": "2026.08.12 Belles & Chimes Madison at the Kickback",
+            "playerCount": 12
+          },
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m44890",
+              "name": "Donelle Sauby",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m36031",
+              "name": "Jacque Mackey",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "m37743",
+              "name": "Tiffany Han",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m46633",
+              "name": "Shayna Weisnicht",
+              "isCommunityMember": true
+            }
+          ]
+        },
+        {
+          "id": 265967,
+          "name": "Friday Night Strikes @ The Kickback 08.07.26",
+          "date": "8/7/2026",
+          "playerCount": 19,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m57023",
+              "name": "David Newman WI",
+              "isCommunityMember": true
+            },
+            {
+              "position": 2,
+              "playerId": "m55616",
+              "name": "James Evans WI",
+              "isCommunityMember": true
+            },
+            {
+              "position": 3,
+              "playerId": "i13137",
+              "name": "Mark Seidler",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m37362",
+              "name": "Aaron Malone",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m41973",
+              "name": "Stephen Anderson",
+              "isCommunityMember": true
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

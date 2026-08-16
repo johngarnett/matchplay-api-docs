@@ -1,0 +1,116 @@
+{
+  "tournamentId": 265955,
+  "name": "Time Out Pinball Tournament - August",
+  "date": "2026-08-08",
+  "locationId": "13514",
+  "locationName": "Time Out Ames",
+  "playerCount": 15,
+  "ratingsDate": "2026-08-08",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m35054",
+      "name": "Matt Abbott",
+      "rating": 1741.2,
+      "dailyRatingChange": 8.19
+    },
+    {
+      "position": 2,
+      "playerId": "m35265",
+      "name": "Trevor Blunk",
+      "rating": 1613.19,
+      "dailyRatingChange": 6.23
+    },
+    {
+      "position": 3,
+      "playerId": "m35055",
+      "name": "Chase Colton",
+      "rating": 1503.41,
+      "dailyRatingChange": 16.9
+    },
+    {
+      "position": 4,
+      "playerId": "m59750",
+      "name": "Layne Ristau",
+      "rating": 1577.04,
+      "dailyRatingChange": 10.06
+    },
+    {
+      "position": 4,
+      "playerId": "m36400",
+      "name": "Paul Brockman",
+      "rating": 1498.47,
+      "dailyRatingChange": 9.87
+    },
+    {
+      "position": 6,
+      "playerId": "m34237",
+      "name": "Justin Darner",
+      "rating": 1529.72,
+      "dailyRatingChange": -1.56
+    },
+    {
+      "position": 7,
+      "playerId": "m35061",
+      "name": "Brian Schacherer",
+      "rating": 1616.05,
+      "dailyRatingChange": -10.7
+    },
+    {
+      "position": 8,
+      "playerId": "m54820",
+      "name": "Jameson Neuwerth",
+      "rating": 1429.61,
+      "dailyRatingChange": 27.17
+    },
+    {
+      "position": 9,
+      "playerId": "i115115",
+      "name": "Grover Haggas",
+      "rating": 1485.54,
+      "dailyRatingChange": -0.8
+    },
+    {
+      "position": 9,
+      "playerId": "m48319",
+      "name": "Jamie Neuwerth",
+      "rating": 1580.64,
+      "dailyRatingChange": -2.29
+    },
+    {
+      "position": 11,
+      "playerId": "m54016",
+      "name": "Dan Anderson IA",
+      "rating": 1525.2,
+      "dailyRatingChange": -16.95
+    },
+    {
+      "position": 12,
+      "playerId": "i146853",
+      "name": "Shane Prather",
+      "rating": 1450.78,
+      "dailyRatingChange": 0.01
+    },
+    {
+      "position": 13,
+      "playerId": "m36154",
+      "name": "Tom Bern",
+      "rating": 1412.09,
+      "dailyRatingChange": -27.43
+    },
+    {
+      "position": 14,
+      "playerId": "m585621",
+      "name": "Jodie Johnson",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 15,
+      "playerId": "m55554",
+      "name": "Quentin Lee",
+      "rating": 1401.25,
+      "dailyRatingChange": -8.51
+    }
+  ]
+}

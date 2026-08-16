@@ -1,0 +1,407 @@
+{
+  "locationId": "1658",
+  "name": "North End Pub",
+  "address": "2100 Elmwood Ave, Lafayette, IN 47904, USA",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 28,
+  "relatedVenues": [
+    {
+      "locationId": "8405",
+      "name": "Tappers",
+      "address": "501 Virginia Ave Suite 102, Indianapolis, IN 46203, US",
+      "count": 22
+    },
+    {
+      "locationId": "1451",
+      "name": "Wizard's World",
+      "address": "14613 Lima Rd, Fort Wayne, IN 46818, USA",
+      "count": 19
+    },
+    {
+      "locationId": "7392",
+      "name": "Full Tilt Arcade & Pinball",
+      "address": "701 N Fail Rd, La Porte, IN 46350, US",
+      "count": 13
+    },
+    {
+      "locationId": "12802",
+      "name": "Scanlines Arcade",
+      "address": "2320 Valentine Dr, Kokomo, IN 46902, US",
+      "count": 13
+    },
+    {
+      "locationId": "5771",
+      "name": "The Pinvault",
+      "address": "1043 Virginia Ave, Indianapolis, IN 46203, USA",
+      "count": 8
+    },
+    {
+      "locationId": "11180",
+      "name": "Wild Fyre Tap",
+      "address": "1106 Prospect St, Indianapolis, IN 46203",
+      "count": 7
+    },
+    {
+      "locationId": "13048",
+      "name": "Level 1 Arcade Bar",
+      "address": "48 W Main St, Mesa, AZ 85201, US",
+      "count": 5
+    },
+    {
+      "locationId": "8902",
+      "name": "Rocksteady Pizza Parlour",
+      "address": "108 E Market St, Warsaw, IN  46580",
+      "count": 3
+    },
+    {
+      "locationId": "10370",
+      "name": "Cory's House",
+      "address": "3386 W Lake Storey Rd Galesburg, IL 61401",
+      "count": 2
+    },
+    {
+      "locationId": "13290",
+      "name": "Bonus Pints",
+      "address": "422 E Broadway, Logansport, IN 46947, US",
+      "count": 2
+    }
+  ],
+  "players": [
+    {
+      "id": "m13",
+      "name": "Tommy Skinner",
+      "rating": 1750.01,
+      "rd": 25.9,
+      "ratingClass": "Expert",
+      "homeLocation": "North End Pub",
+      "homeLocationId": "1658",
+      "percentile": 98.7515721805562,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m36803",
+      "name": "John Inman",
+      "rating": 1732.22,
+      "rd": 24.12,
+      "ratingClass": "Expert",
+      "homeLocation": "North End Pub",
+      "homeLocationId": "1658",
+      "percentile": 98.21586621325757,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m1759",
+      "name": "Ryan Donohue",
+      "rating": 1667.76,
+      "rd": 18.78,
+      "ratingClass": "A",
+      "homeLocation": "North End Pub",
+      "homeLocationId": "1658",
+      "percentile": 93.91158522383193,
+      "changeDisplay": "-3.7",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m26074",
+      "name": "Tony Giron",
+      "rating": 1627.04,
+      "rd": 24.83,
+      "ratingClass": "A",
+      "homeLocation": "North End Pub",
+      "homeLocationId": "1658",
+      "percentile": 87.98621139423301,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m11159",
+      "name": "Rick Dunkin",
+      "rating": 1615.94,
+      "rd": 32.59,
+      "ratingClass": "A",
+      "homeLocation": "North End Pub",
+      "homeLocationId": "1658",
+      "percentile": 85.71761308054224,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m56324",
+      "name": "Obby Bird",
+      "rating": 1614.21,
+      "rd": 24.6,
+      "ratingClass": "A",
+      "homeLocation": "Scanlines Arcade",
+      "homeLocationId": "12802",
+      "percentile": 85.40084781292217,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m19511",
+      "name": "Brett Heininger",
+      "rating": 1572.24,
+      "rd": 22.29,
+      "ratingClass": "B",
+      "homeLocation": "North End Pub",
+      "homeLocationId": "1658",
+      "percentile": 74.21623887827829,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m30542",
+      "name": "Tony Baldini",
+      "rating": 1567.22,
+      "rd": 16.04,
+      "ratingClass": "B",
+      "homeLocation": "Wizard's World",
+      "homeLocationId": "1451",
+      "percentile": 72.595146038105,
+      "changeDisplay": "-0.1",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m16824",
+      "name": "Dan Trapp",
+      "rating": 1562.6,
+      "rd": 27.19,
+      "ratingClass": "B",
+      "homeLocation": "North End Pub",
+      "homeLocationId": "1658",
+      "percentile": 71.1929938976103,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m27563",
+      "name": "Michael Wertz",
+      "rating": 1553.48,
+      "rd": 23.69,
+      "ratingClass": "B",
+      "homeLocation": "North End Pub",
+      "homeLocationId": "1658",
+      "percentile": 68.1464573531467,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m26618",
+      "name": "Sarah Crismore",
+      "rating": 1547.42,
+      "rd": 17.96,
+      "ratingClass": "B",
+      "homeLocation": "Tappers",
+      "homeLocationId": "8405",
+      "percentile": 65.73345134392324,
+      "changeDisplay": "+13.3",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m26073",
+      "name": "Lindsey Sickler",
+      "rating": 1546.59,
+      "rd": 22.59,
+      "ratingClass": "B",
+      "homeLocation": "North End Pub",
+      "homeLocationId": "1658",
+      "percentile": 65.43997764009876,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m10857",
+      "name": "Paul Earwood",
+      "rating": 1540.82,
+      "rd": 44.78,
+      "ratingClass": "B",
+      "homeLocation": "North End Pub",
+      "homeLocationId": "1658",
+      "percentile": 63.427586528159495,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m30954",
+      "name": "Amanda Akers",
+      "rating": 1519.9,
+      "rd": 22.28,
+      "ratingClass": "B",
+      "homeLocation": "North End Pub",
+      "homeLocationId": "1658",
+      "percentile": 55.149764755205666,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m4558",
+      "name": "Danielle Alexander",
+      "rating": 1516.62,
+      "rd": 29.12,
+      "ratingClass": "B",
+      "homeLocation": "North End Pub",
+      "homeLocationId": "1658",
+      "percentile": 53.854753808170685,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m52704",
+      "name": "Amber McGinley",
+      "rating": 1501.97,
+      "rd": 24.09,
+      "ratingClass": "B",
+      "homeLocation": "Full Tilt Arcade & Pinball",
+      "homeLocationId": "7392",
+      "percentile": 47.887455163739695,
+      "changeDisplay": "-4.1",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m1777",
+      "name": "Kerri Donohue",
+      "rating": 1491.99,
+      "rd": 22.5,
+      "ratingClass": "C",
+      "homeLocation": "North End Pub",
+      "homeLocationId": "1658",
+      "percentile": 43.83472306330647,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m8393",
+      "name": "Michael Alexander IN",
+      "rating": 1491.38,
+      "rd": 29.56,
+      "ratingClass": "C",
+      "homeLocation": "North End Pub",
+      "homeLocationId": "1658",
+      "percentile": 43.601807425350536,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m8076",
+      "name": "Casey Taylor",
+      "rating": 1483.75,
+      "rd": 27.79,
+      "ratingClass": "C",
+      "homeLocation": "North End Pub",
+      "homeLocationId": "1658",
+      "percentile": 40.424838123631616,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m26529",
+      "name": "Emma Giron",
+      "rating": 1470.34,
+      "rd": 30.17,
+      "ratingClass": "C",
+      "homeLocation": "North End Pub",
+      "homeLocationId": "1658",
+      "percentile": 35.00256207201752,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m49263",
+      "name": "Colleen Baker",
+      "rating": 1466,
+      "rd": 22.48,
+      "ratingClass": "C",
+      "homeLocation": "Tappers",
+      "homeLocationId": "8405",
+      "percentile": 33.25569478734802,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m32923",
+      "name": "Jerry Budd",
+      "rating": 1464.44,
+      "rd": 46.94,
+      "ratingClass": "C",
+      "homeLocation": "North End Pub",
+      "homeLocationId": "1658",
+      "percentile": 32.622164252107886,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m4165",
+      "name": "Scott Sarjent",
+      "rating": 1446.87,
+      "rd": 28.4,
+      "ratingClass": "C",
+      "homeLocation": "North End Pub",
+      "homeLocationId": "1658",
+      "percentile": 26.091209763823542,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i157213",
+      "name": "Lex Sell",
+      "rating": 1425.34,
+      "rd": 28.04,
+      "ratingClass": "C",
+      "homeLocation": "North End Pub",
+      "homeLocationId": "1658",
+      "percentile": 19.24349000791913,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m31483",
+      "name": "Brittany Rees",
+      "rating": 1394.51,
+      "rd": 45.03,
+      "ratingClass": "D",
+      "homeLocation": "North End Pub",
+      "homeLocationId": "1658",
+      "percentile": 11.170633996366517,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m56342",
+      "name": "Kelley Goodman",
+      "rating": 1386.79,
+      "rd": 38.08,
+      "ratingClass": "D",
+      "homeLocation": "North End Pub",
+      "homeLocationId": "1658",
+      "percentile": 9.647365724134719,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i124996",
+      "name": "Samantha Taylor",
+      "rating": 1364.24,
+      "rd": 28.77,
+      "ratingClass": "D",
+      "homeLocation": "Level 1 Arcade Bar",
+      "homeLocationId": "13048",
+      "percentile": 5.902082265803326,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m24945",
+      "name": "Spencer Armes",
+      "rating": null,
+      "rd": null,
+      "ratingClass": "N/A",
+      "homeLocation": "North End Pub",
+      "homeLocationId": "1658",
+      "percentile": null,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

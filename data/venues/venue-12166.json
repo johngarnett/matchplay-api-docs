@@ -1,0 +1,239 @@
+{
+  "locationId": "12166",
+  "name": "Level Up",
+  "address": "346 beaufort St highgate",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 15,
+  "relatedVenues": [
+    {
+      "locationId": "5414",
+      "name": "Planet Royale",
+      "address": "12 Lake St, Northbridge WA 6003, Australia",
+      "count": 32
+    },
+    {
+      "locationId": "13042",
+      "name": "Atomic Arcade",
+      "address": "248 Newcastle St, Perth, WA, 6000, AU",
+      "count": 25
+    },
+    {
+      "locationId": "7450",
+      "name": "The Clubhouse Moorooka",
+      "address": "76 Koala Road, Moorooka, QLD 4105, AU",
+      "count": 12
+    },
+    {
+      "locationId": "9580",
+      "name": "Aaron’s place",
+      "address": "Metricup rd metricup",
+      "count": 7
+    },
+    {
+      "locationId": "7180",
+      "name": "Netherworld",
+      "address": "186 Brunswick St, Fortitude Valley, QLD 4006, AU",
+      "count": 5
+    },
+    {
+      "locationId": "8872",
+      "name": "FLOP",
+      "address": "6 Scenic Drive Maslin Beach",
+      "count": 1
+    },
+    {
+      "locationId": "13611",
+      "name": "Morphettville Racecourse",
+      "address": "79 Morphett Road Morphettville, SA 5043",
+      "count": 1
+    },
+    {
+      "locationId": "13644",
+      "name": "Morphettville Racecourse",
+      "address": "79 Morphett Rd, Adelaide South Australia 5043",
+      "count": 1
+    }
+  ],
+  "players": [
+    {
+      "id": "m36847",
+      "name": "Zaylarni Matesich",
+      "rating": 1670.13,
+      "rd": 19.54,
+      "ratingClass": "A",
+      "homeLocation": "Planet Royale",
+      "homeLocationId": "5414",
+      "percentile": 94.10723435971491,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m16410",
+      "name": "Jason Matesich",
+      "rating": 1637.85,
+      "rd": 19.46,
+      "ratingClass": "A",
+      "homeLocation": "Planet Royale",
+      "homeLocationId": "5414",
+      "percentile": 89.9799692551358,
+      "changeDisplay": "+6.0",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m44628",
+      "name": "Marcus Staples",
+      "rating": 1622.36,
+      "rd": 22.24,
+      "ratingClass": "A",
+      "homeLocation": "Planet Royale",
+      "homeLocationId": "5414",
+      "percentile": 87.11510690827782,
+      "changeDisplay": "+15.0",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m48458",
+      "name": "Sean Grogan",
+      "rating": 1594.62,
+      "rd": 29.61,
+      "ratingClass": "B",
+      "homeLocation": "Planet Royale",
+      "homeLocationId": "5414",
+      "percentile": 80.7145851772488,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m18928",
+      "name": "Tas Paraskevas",
+      "rating": 1589.5,
+      "rd": 19.52,
+      "ratingClass": "B",
+      "homeLocation": "The Clubhouse Moorooka",
+      "homeLocationId": "7450",
+      "percentile": 79.33572460054968,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m7415",
+      "name": "Ash Bralich",
+      "rating": 1581.98,
+      "rd": 23.82,
+      "ratingClass": "B",
+      "homeLocation": "Atomic Arcade",
+      "homeLocationId": "13042",
+      "percentile": 77.19755904411421,
+      "changeDisplay": "-7.8",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m39163",
+      "name": "Andrew Clark WA",
+      "rating": 1567.91,
+      "rd": 33.92,
+      "ratingClass": "B",
+      "homeLocation": "Level Up",
+      "homeLocationId": "12166",
+      "percentile": 72.83737830157916,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m19232",
+      "name": "Peter Goodier",
+      "rating": 1552.8,
+      "rd": 26.45,
+      "ratingClass": "B",
+      "homeLocation": "Planet Royale",
+      "homeLocationId": "5414",
+      "percentile": 67.77845064517632,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m47427",
+      "name": "Elizabeth Fox",
+      "rating": 1546.65,
+      "rd": 20.22,
+      "ratingClass": "B",
+      "homeLocation": "Atomic Arcade",
+      "homeLocationId": "13042",
+      "percentile": 65.45861089113522,
+      "changeDisplay": "-4.1",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m38576",
+      "name": "Enzo La Pegna",
+      "rating": 1528.97,
+      "rd": 31.58,
+      "ratingClass": "B",
+      "homeLocation": "Planet Royale",
+      "homeLocationId": "5414",
+      "percentile": 58.63418269902642,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m38572",
+      "name": "Jesse Hennessy",
+      "rating": 1499.09,
+      "rd": 48.75,
+      "ratingClass": "C",
+      "homeLocation": "Level Up",
+      "homeLocationId": "12166",
+      "percentile": 46.722876973960034,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m13055",
+      "name": "Dan Bralich",
+      "rating": 1490.88,
+      "rd": 56.32,
+      "ratingClass": "C",
+      "homeLocation": "Level Up",
+      "homeLocationId": "12166",
+      "percentile": 43.35957516187637,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m48070",
+      "name": "Emma James",
+      "rating": 1424.25,
+      "rd": 42.95,
+      "ratingClass": "C",
+      "homeLocation": "Level Up",
+      "homeLocationId": "12166",
+      "percentile": 18.86616667443052,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i114121",
+      "name": "David Camera",
+      "rating": 1423.85,
+      "rd": 40.64,
+      "ratingClass": "C",
+      "homeLocation": "Level Up",
+      "homeLocationId": "12166",
+      "percentile": 18.745050542693438,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i114120",
+      "name": "Courtney Geidans",
+      "rating": 1382.15,
+      "rd": 50.4,
+      "ratingClass": "D",
+      "homeLocation": "Level Up",
+      "homeLocationId": "12166",
+      "percentile": 8.715703172310988,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "tournamentId": 263508,
+  "name": "Finals for Prickly Flippers @ Golden Cactus",
+  "date": "2026-07-24",
+  "locationId": "11508",
+  "locationName": "Golden Cactus Brewing",
+  "playerCount": 4,
+  "ratingsDate": "2026-07-24",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m51243",
+      "name": "Rob Vaughan",
+      "rating": 1699.17,
+      "dailyRatingChange": 36.52
+    },
+    {
+      "position": 2,
+      "playerId": "m32222",
+      "name": "Evan Graham",
+      "rating": 1764.52,
+      "dailyRatingChange": 5.44
+    },
+    {
+      "position": 3,
+      "playerId": "m45961",
+      "name": "Sarah Kuetemeier",
+      "rating": 1541.91,
+      "dailyRatingChange": 7.75
+    },
+    {
+      "position": 4,
+      "playerId": "m51245",
+      "name": "Dusty Fisher",
+      "rating": 1562.15,
+      "dailyRatingChange": 0.86
+    }
+  ]
+}

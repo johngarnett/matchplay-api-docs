@@ -1,0 +1,67 @@
+{
+  "tournamentId": 263947,
+  "name": "Finals for Double Tap Iowa City Weekly League",
+  "date": "2026-08-06",
+  "locationId": "13167",
+  "locationName": "Tap Tap | Double Tap Beercade",
+  "playerCount": 8,
+  "ratingsDate": "2026-08-06",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m12080",
+      "name": "Patrick Rhomberg",
+      "rating": 1744.63,
+      "dailyRatingChange": 6.09
+    },
+    {
+      "position": 2,
+      "playerId": "m56415",
+      "name": "Ben Stupar",
+      "rating": 1644.37,
+      "dailyRatingChange": 10.42
+    },
+    {
+      "position": 3,
+      "playerId": "m39366",
+      "name": "Harry Nelsen",
+      "rating": 1634.25,
+      "dailyRatingChange": -0.91
+    },
+    {
+      "position": 4,
+      "playerId": "m56418",
+      "name": "Todd A. Miller",
+      "rating": 1617.35,
+      "dailyRatingChange": -3.68
+    },
+    {
+      "position": 5,
+      "playerId": "m26574",
+      "name": "Brendan Fitzgerald",
+      "rating": 1585.75,
+      "dailyRatingChange": -1.35
+    },
+    {
+      "position": 6,
+      "playerId": "m57256",
+      "name": "Conor Schley",
+      "rating": 1531.55,
+      "dailyRatingChange": -1.48
+    },
+    {
+      "position": 7,
+      "playerId": "m29509",
+      "name": "Annie Fitzgerald",
+      "rating": 1492.13,
+      "dailyRatingChange": -2.31
+    },
+    {
+      "position": 8,
+      "playerId": "m34657",
+      "name": "Steve Bannatyne",
+      "rating": 1552.25,
+      "dailyRatingChange": -9.56
+    }
+  ]
+}

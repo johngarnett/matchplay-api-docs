@@ -1,0 +1,155 @@
+{
+  "locationId": "10452",
+  "name": "Coastal Hemp Company",
+  "address": "8211 Market St, Wilmington, NC 28411, US",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 10,
+  "relatedVenues": [
+    {
+      "locationId": "10710",
+      "name": "The Backyard Arcade @ Coastal Hemp Company",
+      "address": "8207 Market St. Unit I, Wilmington, NC, 28411, US",
+      "count": 27
+    },
+    {
+      "locationId": "11549",
+      "name": "Flight Deck NC",
+      "address": "9521 Lumley Rd, Morrisville, NC 27560, US",
+      "count": 5
+    },
+    {
+      "locationId": "7771",
+      "name": "The Pinball Foundry",
+      "address": "3310 Hemlock Way Winnabow NC 28479",
+      "count": 1
+    },
+    {
+      "locationId": "12137",
+      "name": "Mordecai Beverage Company",
+      "address": "2425 Crabtree Blvd, Raleigh, NC 27604, US",
+      "count": 1
+    }
+  ],
+  "players": [
+    {
+      "id": "m37191",
+      "name": "Lynn Sikma",
+      "rating": 1595.33,
+      "rd": 23.96,
+      "ratingClass": "B",
+      "homeLocation": "The Backyard Arcade @ Coastal Hemp Company",
+      "homeLocationId": "10710",
+      "percentile": 80.85899287278147,
+      "changeDisplay": "+10.2",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m32127",
+      "name": "Kristen Montefusco",
+      "rating": 1522.55,
+      "rd": 23.77,
+      "ratingClass": "B",
+      "homeLocation": "The Backyard Arcade @ Coastal Hemp Company",
+      "homeLocationId": "10710",
+      "percentile": 56.13732706013882,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m34697",
+      "name": "Alex Bridges",
+      "rating": 1489.43,
+      "rd": 25.13,
+      "ratingClass": "C",
+      "homeLocation": "The Backyard Arcade @ Coastal Hemp Company",
+      "homeLocationId": "10710",
+      "percentile": 42.78194437974566,
+      "changeDisplay": "-8.3",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m20319",
+      "name": "Melissa Provost",
+      "rating": 1470.71,
+      "rd": 28.56,
+      "ratingClass": "C",
+      "homeLocation": "Flight Deck NC",
+      "homeLocationId": "11549",
+      "percentile": 35.16094470582755,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i136019",
+      "name": "Debbie Pillion",
+      "rating": 1462.82,
+      "rd": 41.22,
+      "ratingClass": "C",
+      "homeLocation": "Coastal Hemp Company",
+      "homeLocationId": "10452",
+      "percentile": 32.05850840825453,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m49138",
+      "name": "Katie Bowman",
+      "rating": 1444.23,
+      "rd": 32.41,
+      "ratingClass": "C",
+      "homeLocation": "Coastal Hemp Company",
+      "homeLocationId": "10452",
+      "percentile": 25.16420552475893,
+      "changeDisplay": "+14.8",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "i134191",
+      "name": "Edna Batounis",
+      "rating": 1419.45,
+      "rd": 38.42,
+      "ratingClass": "C",
+      "homeLocation": "Coastal Hemp Company",
+      "homeLocationId": "10452",
+      "percentile": 17.477989472213164,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i136018",
+      "name": "Jennifer Iocco",
+      "rating": 1412.92,
+      "rd": 46.15,
+      "ratingClass": "C",
+      "homeLocation": "Coastal Hemp Company",
+      "homeLocationId": "10452",
+      "percentile": 15.9127963851493,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i139651",
+      "name": "Kelsey Burroughs",
+      "rating": 1319.89,
+      "rd": 40.31,
+      "ratingClass": "D",
+      "homeLocation": "Coastal Hemp Company",
+      "homeLocationId": "10452",
+      "percentile": 1.8400335398518657,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i137854",
+      "name": "Deeanna Kringle",
+      "rating": 1261.23,
+      "rd": 41.16,
+      "ratingClass": "E",
+      "homeLocation": "Coastal Hemp Company",
+      "homeLocationId": "10452",
+      "percentile": 0.35869008245213585,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

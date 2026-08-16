@@ -1,0 +1,35 @@
+{
+  "locationId": "13140",
+  "name": "Retro Rewind 209",
+  "address": "537 I St. Los Banos, Ca 93635",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 1,
+  "relatedVenues": [
+    {
+      "locationId": "12580",
+      "name": "Sparky's House",
+      "address": "7637 Mitchell Road, Ceres, CA  95307",
+      "count": 2
+    },
+    {
+      "locationId": "13118",
+      "name": "Fast Eddie's Moab Meal On Bun",
+      "address": "1228 Tully Rd, Modesto, CA 95350, US",
+      "count": 1
+    }
+  ],
+  "players": [
+    {
+      "id": "m49696",
+      "name": "chad schott",
+      "rating": 1651.71,
+      "rd": 29.59,
+      "ratingClass": "A",
+      "homeLocation": "Sparky's House",
+      "homeLocationId": "12580",
+      "percentile": 91.94111892672474,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "tournamentId": 263819,
+  "name": "A Finals for Random Saturday Series @ PCP 07-25-2026",
+  "date": "2026-07-26",
+  "locationId": "10621",
+  "locationName": "PCP",
+  "playerCount": 16,
+  "ratingsDate": "2026-07-26",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m35194",
+      "name": "Harrison Maxwell",
+      "rating": 1709.24,
+      "dailyRatingChange": 8.72
+    },
+    {
+      "position": 2,
+      "playerId": "m1241",
+      "name": "Austin Trent",
+      "rating": 1752.68,
+      "dailyRatingChange": 2.87
+    },
+    {
+      "position": 3,
+      "playerId": "m26061",
+      "name": "Rick Miller",
+      "rating": 1678.27,
+      "dailyRatingChange": 9
+    },
+    {
+      "position": 4,
+      "playerId": "m1240",
+      "name": "Kevin Rodriguez",
+      "rating": 1704.39,
+      "dailyRatingChange": -4.69
+    },
+    {
+      "position": 5,
+      "playerId": "m29933",
+      "name": "Brian Hayden",
+      "rating": 1681.26,
+      "dailyRatingChange": -2.71
+    },
+    {
+      "position": 6,
+      "playerId": "m5651",
+      "name": "Dwight Lehtinen",
+      "rating": 1635.3,
+      "dailyRatingChange": 8.87
+    },
+    {
+      "position": 6,
+      "playerId": "m14190",
+      "name": "Austin Kemp",
+      "rating": 1743.35,
+      "dailyRatingChange": -0.87
+    },
+    {
+      "position": 8,
+      "playerId": "m26400",
+      "name": "Daniel Martin",
+      "rating": 1639.51,
+      "dailyRatingChange": 0.18
+    },
+    {
+      "position": 9,
+      "playerId": "m3499",
+      "name": "Mark Beardsley",
+      "rating": 1657.23,
+      "dailyRatingChange": 3.25
+    },
+    {
+      "position": 10,
+      "playerId": "m28603",
+      "name": "Greg Gibson",
+      "rating": 1682.75,
+      "dailyRatingChange": -1.33
+    },
+    {
+      "position": 10,
+      "playerId": "m289",
+      "name": "Ken Kemp",
+      "rating": 1688.69,
+      "dailyRatingChange": -0.6
+    },
+    {
+      "position": 12,
+      "playerId": "m58482",
+      "name": "Joey Hamad",
+      "rating": 1530.64,
+      "dailyRatingChange": 1.01
+    },
+    {
+      "position": 13,
+      "playerId": "m36789",
+      "name": "Michael Hew",
+      "rating": 1657.15,
+      "dailyRatingChange": -4.1
+    },
+    {
+      "position": 13,
+      "playerId": "m34715",
+      "name": "Chris Noah",
+      "rating": 1638.45,
+      "dailyRatingChange": -2.43
+    },
+    {
+      "position": 13,
+      "playerId": "m43798",
+      "name": "Colby Borum",
+      "rating": 1707.25,
+      "dailyRatingChange": -7.5
+    },
+    {
+      "position": 16,
+      "playerId": "m12611",
+      "name": "Eric Anderson",
+      "rating": 1619.78,
+      "dailyRatingChange": -6.24
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "locationId": "13474",
+  "venueName": "Greensboro Pinball Museum",
+  "venueAddress": "2140 Lawndale Dr, Greensboro, NC 27408, US",
+  "tournaments": [
+    {
+      "id": 264800,
+      "name": "GSO Pinball League Season 1 #1",
+      "date": "8/9/2026",
+      "playerCount": 13,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m60001",
+          "name": "Jeremy Hakes",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m8888",
+          "name": "Jeremy Weaver",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m3090",
+          "name": "Drew Cedolia",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "i73999",
+          "name": "Scott Berry",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m30520",
+          "name": "Stephen Kulin",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 263262,
+      "name": "Pokemon Launch Party- GSO Pinball Museum Finals",
+      "date": "7/23/2026",
+      "playerCount": 4,
+      "qualifying": {
+        "id": 263237,
+        "name": "Pokemon Launch Party-GSO Pinball Museum",
+        "playerCount": 15
+      },
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m5322",
+          "name": "Tim McCool",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m60001",
+          "name": "Jeremy Hakes",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m8888",
+          "name": "Jeremy Weaver",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m28956",
+          "name": "Phillip Davis",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

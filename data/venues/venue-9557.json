@@ -1,0 +1,335 @@
+{
+  "locationId": "9557",
+  "name": "The Suburban Brew - Brewery & Taproom",
+  "address": "30 Provident Ave, Glynde, SA, 5070, AU",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 22,
+  "relatedVenues": [
+    {
+      "locationId": "10076",
+      "name": "South Australia Pinball and Arcade",
+      "address": "19 Playford Cres, Salisbury North, SA 5108, AU",
+      "count": 35
+    },
+    {
+      "locationId": "11555",
+      "name": "The Ice ArenA",
+      "address": "23 James Congdon Dr, Thebarton, SA 5031, AU",
+      "count": 28
+    },
+    {
+      "locationId": "10472",
+      "name": "The Suburban Brew",
+      "address": "96 Goodwood Rd, Goodwood, SA, 5034, AU",
+      "count": 22
+    },
+    {
+      "locationId": "12751",
+      "name": "Little Bang Brewing Company",
+      "address": "25 Henry St, Stepney, SA 5069, AU",
+      "count": 20
+    },
+    {
+      "locationId": "11676",
+      "name": "PinCity Pinball Addicts",
+      "address": "Unit 3, 10 kitawah st Lonsdale",
+      "count": 19
+    },
+    {
+      "locationId": "7450",
+      "name": "The Clubhouse Moorooka",
+      "address": "76 Koala Road, Moorooka, QLD 4105, AU",
+      "count": 13
+    },
+    {
+      "locationId": "8872",
+      "name": "FLOP",
+      "address": "6 Scenic Drive Maslin Beach",
+      "count": 10
+    },
+    {
+      "locationId": "356",
+      "name": "Amusement Worx",
+      "address": "",
+      "count": 9
+    },
+    {
+      "locationId": "13611",
+      "name": "Morphettville Racecourse",
+      "address": "79 Morphett Road Morphettville, SA 5043",
+      "count": 9
+    },
+    {
+      "locationId": "13600",
+      "name": "Morphettville Racecourse",
+      "address": "79 Morphett Rd, Morphettville, South Australia 5043",
+      "count": 7
+    }
+  ],
+  "players": [
+    {
+      "id": "m17455",
+      "name": "Cesar Federici",
+      "rating": 1664.02,
+      "rd": 22.65,
+      "ratingClass": "A",
+      "homeLocation": "The Suburban Brew",
+      "homeLocationId": "10472",
+      "percentile": 93.49699538827036,
+      "changeDisplay": "-2.9",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m51584",
+      "name": "Trent Reeves",
+      "rating": 1643.87,
+      "rd": 15.94,
+      "ratingClass": "A",
+      "homeLocation": "South Australia Pinball and Arcade",
+      "homeLocationId": "10076",
+      "percentile": 90.89765686868216,
+      "changeDisplay": "+1.7",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m3596",
+      "name": "Gary Regan",
+      "rating": 1599.03,
+      "rd": 19.74,
+      "ratingClass": "B",
+      "homeLocation": "The Clubhouse Moorooka",
+      "homeLocationId": "7450",
+      "percentile": 81.74407229701403,
+      "changeDisplay": "+11.2",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m35569",
+      "name": "Jack Kirk",
+      "rating": 1574.93,
+      "rd": 16.54,
+      "ratingClass": "B",
+      "homeLocation": "South Australia Pinball and Arcade",
+      "homeLocationId": "10076",
+      "percentile": 75.05007686216054,
+      "changeDisplay": "-0.3",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m41390",
+      "name": "Mitchell Elson",
+      "rating": 1572.96,
+      "rd": 22.78,
+      "ratingClass": "B",
+      "homeLocation": "The Ice ArenA",
+      "homeLocationId": "11555",
+      "percentile": 74.47244608002981,
+      "changeDisplay": "-3.4",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m43013",
+      "name": "Rory Brown",
+      "rating": 1560.87,
+      "rd": 26.72,
+      "ratingClass": "B",
+      "homeLocation": "FLOP",
+      "homeLocationId": "8872",
+      "percentile": 70.59207155168397,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m46830",
+      "name": "Brock Richards",
+      "rating": 1545.85,
+      "rd": 27.75,
+      "ratingClass": "B",
+      "homeLocation": "FLOP",
+      "homeLocationId": "8872",
+      "percentile": 65.27227838077049,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m56999",
+      "name": "Kym Deavin",
+      "rating": 1537.12,
+      "rd": 44.81,
+      "ratingClass": "B",
+      "homeLocation": "The Suburban Brew - Brewery & Taproom",
+      "homeLocationId": "9557",
+      "percentile": 61.94158475800066,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m57145",
+      "name": "Ryan Newton",
+      "rating": 1532.01,
+      "rd": 52.02,
+      "ratingClass": "B",
+      "homeLocation": "The Suburban Brew - Brewery & Taproom",
+      "homeLocationId": "9557",
+      "percentile": 59.87329389295197,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m38597",
+      "name": "Brad Lang",
+      "rating": 1522.78,
+      "rd": 25.82,
+      "ratingClass": "B",
+      "homeLocation": "The Suburban Brew - Brewery & Taproom",
+      "homeLocationId": "9557",
+      "percentile": 56.253784879116786,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m51118",
+      "name": "Grant Reeves",
+      "rating": 1521.81,
+      "rd": 16.54,
+      "ratingClass": "B",
+      "homeLocation": "South Australia Pinball and Arcade",
+      "homeLocationId": "10076",
+      "percentile": 55.890436483905525,
+      "changeDisplay": "+0.9",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m41293",
+      "name": "Courteney Hoile",
+      "rating": 1509.62,
+      "rd": 23.1,
+      "ratingClass": "B",
+      "homeLocation": "The Ice ArenA",
+      "homeLocationId": "11555",
+      "percentile": 51.0877160292542,
+      "changeDisplay": "+9.7",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "i124403",
+      "name": "Shane Heatlie",
+      "rating": 1477.9,
+      "rd": 41.92,
+      "ratingClass": "C",
+      "homeLocation": "The Suburban Brew - Brewery & Taproom",
+      "homeLocationId": "9557",
+      "percentile": 38.07704849303582,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i158332",
+      "name": "Steve Wood AUS",
+      "rating": 1475.34,
+      "rd": 39.98,
+      "ratingClass": "C",
+      "homeLocation": "The Suburban Brew - Brewery & Taproom",
+      "homeLocationId": "9557",
+      "percentile": 37.00097824567942,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m62002",
+      "name": "Scott Scharapel",
+      "rating": 1451.4,
+      "rd": 43.53,
+      "ratingClass": "C",
+      "homeLocation": "The Suburban Brew - Brewery & Taproom",
+      "homeLocationId": "9557",
+      "percentile": 27.670377789164764,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m2328",
+      "name": "Amity Wells",
+      "rating": 1450.35,
+      "rd": 19.2,
+      "ratingClass": "C",
+      "homeLocation": "The Clubhouse Moorooka",
+      "homeLocationId": "7450",
+      "percentile": 27.29771276843527,
+      "changeDisplay": "+1.9",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "i124404",
+      "name": "Aiden Luce",
+      "rating": 1430.53,
+      "rd": 36.5,
+      "ratingClass": "C",
+      "homeLocation": "The Suburban Brew - Brewery & Taproom",
+      "homeLocationId": "9557",
+      "percentile": 20.715516839800625,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m28173",
+      "name": "Sammi L",
+      "rating": 1424.52,
+      "rd": 21.3,
+      "ratingClass": "C",
+      "homeLocation": "Little Bang Brewing Company",
+      "homeLocationId": "12751",
+      "percentile": 18.97330786789025,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i124406",
+      "name": "Isaac Heatlie",
+      "rating": 1423.67,
+      "rd": 48,
+      "ratingClass": "C",
+      "homeLocation": "The Suburban Brew - Brewery & Taproom",
+      "homeLocationId": "9557",
+      "percentile": 18.684492476824893,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i156653",
+      "name": "Sally Deavin",
+      "rating": 1412.73,
+      "rd": 58.95,
+      "ratingClass": "C",
+      "homeLocation": "The Suburban Brew - Brewery & Taproom",
+      "homeLocationId": "9557",
+      "percentile": 15.833605068244283,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i140570",
+      "name": "Damien Walker",
+      "rating": 1397.12,
+      "rd": 52.6,
+      "ratingClass": "D",
+      "homeLocation": "The Suburban Brew - Brewery & Taproom",
+      "homeLocationId": "9557",
+      "percentile": 11.771556342292822,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m49226",
+      "name": "Owen Brown",
+      "rating": 1371.98,
+      "rd": 34.52,
+      "ratingClass": "D",
+      "homeLocation": "The Suburban Brew - Brewery & Taproom",
+      "homeLocationId": "9557",
+      "percentile": 7.038710579028276,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

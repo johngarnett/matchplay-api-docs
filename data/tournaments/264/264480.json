@@ -1,0 +1,102 @@
+{
+  "tournamentId": 264480,
+  "name": "Prescott Pinball League - Season 1 - Week 2",
+  "date": "2026-07-31",
+  "locationId": "13804",
+  "locationName": "Park Plaza Liquor & Deli",
+  "playerCount": 13,
+  "ratingsDate": "2026-07-31",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m60743",
+      "name": "Justin Leonard",
+      "rating": 1636.28,
+      "dailyRatingChange": 34.81
+    },
+    {
+      "position": 1,
+      "playerId": "m583167",
+      "name": "JD",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 3,
+      "playerId": "m582815",
+      "name": "Tom Stoxen",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 3,
+      "playerId": "m582817",
+      "name": "Lisa Huddleston",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 5,
+      "playerId": "m583166",
+      "name": "Greg Purcell",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 5,
+      "playerId": "m62423",
+      "name": "Larry Russo",
+      "rating": 1546.88,
+      "dailyRatingChange": 13.06
+    },
+    {
+      "position": 7,
+      "playerId": "m582822",
+      "name": "Ian Coony",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 7,
+      "playerId": "m62432",
+      "name": "Jailene Leonard",
+      "rating": 1499.58,
+      "dailyRatingChange": 10.85
+    },
+    {
+      "position": 9,
+      "playerId": "m62469",
+      "name": "Steve Huddleston",
+      "rating": 1508.98,
+      "dailyRatingChange": null
+    },
+    {
+      "position": 10,
+      "playerId": "m62436",
+      "name": "Sara Marie Berry",
+      "rating": 1435.18,
+      "dailyRatingChange": -53.55
+    },
+    {
+      "position": 11,
+      "playerId": "m582821",
+      "name": "Wednesday Magdalena",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 12,
+      "playerId": "m62434",
+      "name": "Teo Wall",
+      "rating": 1447.41,
+      "dailyRatingChange": -63.86
+    },
+    {
+      "position": 12,
+      "playerId": "m582819",
+      "name": "Jayla Wall",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

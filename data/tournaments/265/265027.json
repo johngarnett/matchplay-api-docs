@@ -1,0 +1,67 @@
+{
+  "tournamentId": 265027,
+  "name": "A Div SCPL Finals: Super Saturday Series 2026 #7 - NASA",
+  "date": "2026-08-01",
+  "locationId": "7731",
+  "locationName": "The Game Preserve NASA",
+  "playerCount": 8,
+  "ratingsDate": "2026-08-01",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m40863",
+      "name": "Branden Martin TX",
+      "rating": 1664.07,
+      "dailyRatingChange": 0.9
+    },
+    {
+      "position": 2,
+      "playerId": "m48153",
+      "name": "Troy Witherspoon",
+      "rating": 1498.64,
+      "dailyRatingChange": 12.8
+    },
+    {
+      "position": 3,
+      "playerId": "m24276",
+      "name": "Erin Anthony",
+      "rating": 1596.85,
+      "dailyRatingChange": 5.66
+    },
+    {
+      "position": 4,
+      "playerId": "m45494",
+      "name": "Eric Capps",
+      "rating": 1583.43,
+      "dailyRatingChange": 16.67
+    },
+    {
+      "position": 5,
+      "playerId": "m2038",
+      "name": "Edward Chavez ⚓️",
+      "rating": 1532.78,
+      "dailyRatingChange": 12.8
+    },
+    {
+      "position": 5,
+      "playerId": "m50033",
+      "name": "Vonyéa Williams",
+      "rating": 1498.07,
+      "dailyRatingChange": 13.55
+    },
+    {
+      "position": 7,
+      "playerId": "m10023",
+      "name": "Nicole Buergers 🍔",
+      "rating": 1510.15,
+      "dailyRatingChange": 2.37
+    },
+    {
+      "position": 8,
+      "playerId": "m42259",
+      "name": "Kevin Sturhan",
+      "rating": 1689.79,
+      "dailyRatingChange": -28.14
+    }
+  ]
+}

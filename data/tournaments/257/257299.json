@@ -1,0 +1,81 @@
+{
+  "tournamentId": 257299,
+  "name": "SCPL Westside Weekly’s @ The Cruz Room #3",
+  "date": "2026-07-30",
+  "locationId": "13324",
+  "locationName": "The Cruz Room",
+  "playerCount": 10,
+  "ratingsDate": "2026-07-30",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m50075",
+      "name": "Dean Wools",
+      "rating": 1546.69,
+      "dailyRatingChange": 5.74
+    },
+    {
+      "position": 2,
+      "playerId": "m558388",
+      "name": "DCheng",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 3,
+      "playerId": "m52019",
+      "name": "Banyan Wools",
+      "rating": 1589.41,
+      "dailyRatingChange": 0.81
+    },
+    {
+      "position": 3,
+      "playerId": "m49534",
+      "name": "Joachim Deguara",
+      "rating": 1486.88,
+      "dailyRatingChange": 8.03
+    },
+    {
+      "position": 5,
+      "playerId": "m60070",
+      "name": "Joe Quadara",
+      "rating": 1487.15,
+      "dailyRatingChange": 16.66
+    },
+    {
+      "position": 6,
+      "playerId": "m558390",
+      "name": "Mason Selman",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 7,
+      "playerId": "m568583",
+      "name": "Dylan Woodman",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 8,
+      "playerId": "i150513",
+      "name": "Pete Schwab",
+      "rating": 1512.02,
+      "dailyRatingChange": -10.35
+    },
+    {
+      "position": 9,
+      "playerId": "m568584",
+      "name": "Kai Peterson",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 9,
+      "playerId": "m582954",
+      "name": "Kian",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "locationId": "11042",
+  "venueName": "Pinballz Kingdom",
+  "venueAddress": "15201 S Interstate 35, Buda, TX 78610, US",
+  "tournaments": [
+    {
+      "id": 266977,
+      "name": "Pinballz Kingdom 8-13-26",
+      "date": "8/13/2026",
+      "playerCount": 4,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m39330",
+          "name": "Charles Speer",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m20698",
+          "name": "Joel Davis",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "i126225",
+          "name": "Andre Evrenos",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "i87441",
+          "name": "Clint Davis",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 264689,
+      "name": "Pinballz Kingdom 7-30-26",
+      "date": "7/30/2026",
+      "playerCount": 4,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m20698",
+          "name": "Joel Davis",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "i87441",
+          "name": "Clint Davis",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m39330",
+          "name": "Charles Speer",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "i126225",
+          "name": "Andre Evrenos",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

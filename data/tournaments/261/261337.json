@@ -1,0 +1,39 @@
+{
+  "tournamentId": 261337,
+  "name": "Finals for Flip Frenzy @ Point Break Arcade",
+  "date": "2026-07-21",
+  "locationId": "8421",
+  "locationName": "Point Break Arcade",
+  "playerCount": 4,
+  "ratingsDate": "2026-07-21",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "i109385",
+      "name": "Tim West",
+      "rating": 1647.63,
+      "dailyRatingChange": 41.24
+    },
+    {
+      "position": 2,
+      "playerId": "m23259",
+      "name": "Ben McGee",
+      "rating": 1538.94,
+      "dailyRatingChange": 13.88
+    },
+    {
+      "position": 3,
+      "playerId": "i33490",
+      "name": "Brian Leahy",
+      "rating": 1515.79,
+      "dailyRatingChange": 3.81
+    },
+    {
+      "position": 4,
+      "playerId": "i108911",
+      "name": "Kayla Evans",
+      "rating": 1467.79,
+      "dailyRatingChange": -6.34
+    }
+  ]
+}

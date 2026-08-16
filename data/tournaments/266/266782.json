@@ -1,0 +1,39 @@
+{
+  "tournamentId": 266782,
+  "name": "B-Finals for OPA Onsdag 12/08",
+  "date": "2026-08-12",
+  "locationId": "5700",
+  "locationName": "Odense Pinball Arkade",
+  "playerCount": 4,
+  "ratingsDate": "2026-08-12",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m38650",
+      "name": "Villads Legind",
+      "rating": 1547.46,
+      "dailyRatingChange": 0.12
+    },
+    {
+      "position": 2,
+      "playerId": "m52320",
+      "name": "Jesper Bangsholt",
+      "rating": 1436.41,
+      "dailyRatingChange": 4.74
+    },
+    {
+      "position": 3,
+      "playerId": "m60161",
+      "name": "Rune Jensen",
+      "rating": 1410.18,
+      "dailyRatingChange": -3.34
+    },
+    {
+      "position": 4,
+      "playerId": "i139570",
+      "name": "Rasmus Nørgaard",
+      "rating": 1501.14,
+      "dailyRatingChange": -11.66
+    }
+  ]
+}

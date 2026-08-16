@@ -1,0 +1,95 @@
+{
+  "tournamentId": 266690,
+  "name": "Tilt'n Tuesday Side Tournament Finals 8/11",
+  "date": "2026-08-12",
+  "locationId": "4804",
+  "locationName": "District 82 Pinball",
+  "playerCount": 12,
+  "ratingsDate": "2026-08-12",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m16103",
+      "name": "Joe DeCleene",
+      "rating": 1637.77,
+      "dailyRatingChange": 9.33
+    },
+    {
+      "position": 2,
+      "playerId": "m44005",
+      "name": "Todd Stock",
+      "rating": 1578.16,
+      "dailyRatingChange": 13.39
+    },
+    {
+      "position": 3,
+      "playerId": "m22674",
+      "name": "Ryan Eggers",
+      "rating": 1713.03,
+      "dailyRatingChange": 0.31
+    },
+    {
+      "position": 4,
+      "playerId": "m19072",
+      "name": "Elizabeth Boelke",
+      "rating": 1532.76,
+      "dailyRatingChange": 8.16
+    },
+    {
+      "position": 4,
+      "playerId": "m41345",
+      "name": "Todd Dorschner",
+      "rating": 1553.09,
+      "dailyRatingChange": 13.27
+    },
+    {
+      "position": 6,
+      "playerId": "m28141",
+      "name": "Mike Kennedy",
+      "rating": 1671.5,
+      "dailyRatingChange": -5.67
+    },
+    {
+      "position": 7,
+      "playerId": "m21173",
+      "name": "Bill Faster",
+      "rating": 1568.19,
+      "dailyRatingChange": -14.01
+    },
+    {
+      "position": 7,
+      "playerId": "i15723",
+      "name": "Gregory Hein",
+      "rating": 1590.44,
+      "dailyRatingChange": -6.2
+    },
+    {
+      "position": 9,
+      "playerId": "m20690",
+      "name": "Alex Phelps",
+      "rating": 1662.91,
+      "dailyRatingChange": -3.52
+    },
+    {
+      "position": 9,
+      "playerId": "m35038",
+      "name": "Jordan Cappaert",
+      "rating": 1601.59,
+      "dailyRatingChange": -13.1
+    },
+    {
+      "position": 9,
+      "playerId": "m31471",
+      "name": "Chrissy Klitzke",
+      "rating": 1539.46,
+      "dailyRatingChange": -2.07
+    },
+    {
+      "position": 12,
+      "playerId": "m44980",
+      "name": "Rowan Walters-Giblin",
+      "rating": 1556.3,
+      "dailyRatingChange": -7.39
+    }
+  ]
+}

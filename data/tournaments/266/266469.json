@@ -1,0 +1,116 @@
+{
+  "tournamentId": 266469,
+  "name": "Free Play Dallas Pinball Monday (8/10/26)",
+  "date": "2026-08-11",
+  "locationId": "7836",
+  "locationName": "Free Play Dallas",
+  "playerCount": 15,
+  "ratingsDate": "2026-08-11",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m26061",
+      "name": "Rick Miller",
+      "rating": 1679.5,
+      "dailyRatingChange": 10.12
+    },
+    {
+      "position": 2,
+      "playerId": "m28603",
+      "name": "Greg Gibson",
+      "rating": 1691.13,
+      "dailyRatingChange": 4.4
+    },
+    {
+      "position": 3,
+      "playerId": "m25466",
+      "name": "John Richardson",
+      "rating": 1659.4,
+      "dailyRatingChange": 4.12
+    },
+    {
+      "position": 4,
+      "playerId": "m5329",
+      "name": "Chris Delp",
+      "rating": 1645.94,
+      "dailyRatingChange": 3.01
+    },
+    {
+      "position": 5,
+      "playerId": "m43802",
+      "name": "Phil Robertson",
+      "rating": 1623.62,
+      "dailyRatingChange": -3.55
+    },
+    {
+      "position": 6,
+      "playerId": "m33469",
+      "name": "Jayson Limmer",
+      "rating": 1565.17,
+      "dailyRatingChange": -5.75
+    },
+    {
+      "position": 6,
+      "playerId": "m26400",
+      "name": "Daniel Martin",
+      "rating": 1636.76,
+      "dailyRatingChange": -2.61
+    },
+    {
+      "position": 6,
+      "playerId": "m56869",
+      "name": "Dylan Ornelas",
+      "rating": 1561.87,
+      "dailyRatingChange": -5.64
+    },
+    {
+      "position": 9,
+      "playerId": "m49338",
+      "name": "Darian Fazeli",
+      "rating": 1365.38,
+      "dailyRatingChange": 6.03
+    },
+    {
+      "position": 9,
+      "playerId": "m60589",
+      "name": "Abel Cardona",
+      "rating": 1496.2,
+      "dailyRatingChange": -5.84
+    },
+    {
+      "position": 11,
+      "playerId": "i155932",
+      "name": "Brandon Achey",
+      "rating": 1382.97,
+      "dailyRatingChange": 5.09
+    },
+    {
+      "position": 12,
+      "playerId": "m62352",
+      "name": "AvA F",
+      "rating": 1476.87,
+      "dailyRatingChange": -16.23
+    },
+    {
+      "position": 12,
+      "playerId": "m19204",
+      "name": "Colin Wood",
+      "rating": 1559.27,
+      "dailyRatingChange": -6.04
+    },
+    {
+      "position": 14,
+      "playerId": "m586293",
+      "name": "Jesus Cabrera",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 15,
+      "playerId": "m586262",
+      "name": "Bernice B",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

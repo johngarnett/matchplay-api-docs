@@ -1,0 +1,39 @@
+{
+  "tournamentId": 266343,
+  "name": "Finals for Reno Women's Hot August",
+  "date": "2026-08-10",
+  "locationId": "13859",
+  "locationName": "Club Cal Neva",
+  "playerCount": 4,
+  "ratingsDate": "2026-08-10",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m37852",
+      "name": "Daniela Sonnino",
+      "rating": 1590.92,
+      "dailyRatingChange": 2.89
+    },
+    {
+      "position": 2,
+      "playerId": "m15496",
+      "name": "Michelle Leutzinger",
+      "rating": 1624.39,
+      "dailyRatingChange": -1.44
+    },
+    {
+      "position": 3,
+      "playerId": "m50668",
+      "name": "Valorie Grace",
+      "rating": 1495.29,
+      "dailyRatingChange": -4.43
+    },
+    {
+      "position": 3,
+      "playerId": "m12614",
+      "name": "Stacee LaFrieda",
+      "rating": 1428.09,
+      "dailyRatingChange": 0.5
+    }
+  ]
+}

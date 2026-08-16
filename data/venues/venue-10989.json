@@ -1,0 +1,179 @@
+{
+  "locationId": "10989",
+  "name": "The Comet",
+  "address": "323 E Spring St, Saint Marys, OH, 45885, US",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 12,
+  "relatedVenues": [
+    {
+      "locationId": "3967",
+      "name": "Crazy Martin's",
+      "address": "",
+      "count": 28
+    },
+    {
+      "locationId": "2293",
+      "name": "Cartridge Gaming",
+      "address": "2815 Elida Rd, Lima, OH 45805, USA",
+      "count": 19
+    },
+    {
+      "locationId": "5479",
+      "name": "Canal Street Arcade and Deli",
+      "address": "308 East 1st St, Dayton, OH, 45402, US",
+      "count": 4
+    },
+    {
+      "locationId": "12788",
+      "name": "Pinky's Revenge",
+      "address": "250 Mill Street, Taylors, SC 29687, US",
+      "count": 1
+    }
+  ],
+  "players": [
+    {
+      "id": "m34116",
+      "name": "JP Elliot",
+      "rating": 1631.03,
+      "rd": 26.39,
+      "ratingClass": "A",
+      "homeLocation": "Crazy Martin's",
+      "homeLocationId": "3967",
+      "percentile": 88.810732752597,
+      "changeDisplay": "+3.7",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m46096",
+      "name": "Andy Heitkamp",
+      "rating": 1588.16,
+      "rd": 22.32,
+      "ratingClass": "B",
+      "homeLocation": "Cartridge Gaming",
+      "homeLocationId": "2293",
+      "percentile": 78.95374295430196,
+      "changeDisplay": "-9.3",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "i139333",
+      "name": "Angel Clevenger",
+      "rating": 1562.85,
+      "rd": 39.58,
+      "ratingClass": "B",
+      "homeLocation": "The Comet",
+      "homeLocationId": "10989",
+      "percentile": 71.26286858899707,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m26432",
+      "name": "John Quinlisk",
+      "rating": 1538.23,
+      "rd": 20.33,
+      "ratingClass": "B",
+      "homeLocation": "Cartridge Gaming",
+      "homeLocationId": "2293",
+      "percentile": 62.35617459356221,
+      "changeDisplay": "+5.0",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "i139332",
+      "name": "Brian Shannon",
+      "rating": 1529.9,
+      "rd": 37.23,
+      "ratingClass": "B",
+      "homeLocation": "The Comet",
+      "homeLocationId": "10989",
+      "percentile": 58.97423953044208,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i143591",
+      "name": "Calvin Steininger",
+      "rating": 1511.53,
+      "rd": 42.4,
+      "ratingClass": "B",
+      "homeLocation": "The Comet",
+      "homeLocationId": "10989",
+      "percentile": 51.847021008990545,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i139330",
+      "name": "Trish Neargarder",
+      "rating": 1487.32,
+      "rd": 42.92,
+      "ratingClass": "C",
+      "homeLocation": "The Comet",
+      "homeLocationId": "10989",
+      "percentile": 41.88754832999488,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i103322",
+      "name": "Kolin Brun",
+      "rating": 1469.96,
+      "rd": 61.86,
+      "ratingClass": "C",
+      "homeLocation": "The Comet",
+      "homeLocationId": "10989",
+      "percentile": 34.8721293147622,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m47308",
+      "name": "John Tobens",
+      "rating": 1445.98,
+      "rd": 37.46,
+      "ratingClass": "C",
+      "homeLocation": "Cartridge Gaming",
+      "homeLocationId": "2293",
+      "percentile": 25.732519681371407,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i160321",
+      "name": "Ethan kuhn",
+      "rating": 1425.43,
+      "rd": 56.57,
+      "ratingClass": "C",
+      "homeLocation": "The Comet",
+      "homeLocationId": "10989",
+      "percentile": 19.262123258955608,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i143124",
+      "name": "Sadie Shannon",
+      "rating": 1376.17,
+      "rd": 51.59,
+      "ratingClass": "D",
+      "homeLocation": "The Comet",
+      "homeLocationId": "10989",
+      "percentile": 7.6442912377137,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i156695",
+      "name": "Bill Alexander",
+      "rating": 1369.38,
+      "rd": 46.62,
+      "ratingClass": "D",
+      "homeLocation": "The Comet",
+      "homeLocationId": "10989",
+      "percentile": 6.619462430707598,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

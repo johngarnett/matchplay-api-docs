@@ -1,0 +1,51 @@
+{
+  "communityId": "77",
+  "locations": [
+    {
+      "id": "6438",
+      "name": "Bartari",
+      "address": "101 Adams Ave, Scranton, PA 18503, USA",
+      "tournaments": [
+        {
+          "id": 266567,
+          "name": "Scranton Pinball League - Season 16 #6",
+          "date": "8/12/2026",
+          "playerCount": 36,
+          "qualifying": null,
+          "standings": [
+            {
+              "position": 1,
+              "playerId": "m5470",
+              "name": "Ryan Altemose",
+              "isCommunityMember": true
+            },
+            {
+              "position": 1,
+              "playerId": "m23157",
+              "name": "Daniel Brennan",
+              "isCommunityMember": true
+            },
+            {
+              "position": 1,
+              "playerId": "m46970",
+              "name": "Caleb Hartnett",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "i56589",
+              "name": "Colin Moorhead",
+              "isCommunityMember": true
+            },
+            {
+              "position": 4,
+              "playerId": "m37406",
+              "name": "Philip Orzechowski",
+              "isCommunityMember": true
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

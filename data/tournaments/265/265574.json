@@ -1,0 +1,109 @@
+{
+  "tournamentId": 265574,
+  "name": "Every Other Wednesday Tourney week 32/2026",
+  "date": "2026-08-05",
+  "locationId": "10433",
+  "locationName": "Pinball Union",
+  "playerCount": 14,
+  "ratingsDate": "2026-08-05",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m52098",
+      "name": "Joonas Kangasvieri",
+      "rating": 1648.93,
+      "dailyRatingChange": 10.28
+    },
+    {
+      "position": 2,
+      "playerId": "m43069",
+      "name": "Kai Mononen",
+      "rating": 1595.55,
+      "dailyRatingChange": 9.45
+    },
+    {
+      "position": 3,
+      "playerId": "m47584",
+      "name": "Sami Nieminen",
+      "rating": 1457.31,
+      "dailyRatingChange": 19.43
+    },
+    {
+      "position": 4,
+      "playerId": "m43019",
+      "name": "Juhani Lindfors",
+      "rating": 1509,
+      "dailyRatingChange": 6.77
+    },
+    {
+      "position": 5,
+      "playerId": "m62107",
+      "name": "Juha Keskitalo",
+      "rating": 1512.41,
+      "dailyRatingChange": null
+    },
+    {
+      "position": 6,
+      "playerId": "m52692",
+      "name": "Ville Toivonen",
+      "rating": 1538.47,
+      "dailyRatingChange": 4.61
+    },
+    {
+      "position": 7,
+      "playerId": "m31993",
+      "name": "Harri Berglund",
+      "rating": 1596.85,
+      "dailyRatingChange": -4.54
+    },
+    {
+      "position": 8,
+      "playerId": "m12271",
+      "name": "Mikko Kulmala",
+      "rating": 1589.17,
+      "dailyRatingChange": -7.85
+    },
+    {
+      "position": 9,
+      "playerId": "m51282",
+      "name": "Janne Heikkinen",
+      "rating": 1507.96,
+      "dailyRatingChange": -3.14
+    },
+    {
+      "position": 10,
+      "playerId": "m46786",
+      "name": "Vili Siikakoski",
+      "rating": 1572.13,
+      "dailyRatingChange": -7.97
+    },
+    {
+      "position": 10,
+      "playerId": "m11453",
+      "name": "Heikki Tammisalo",
+      "rating": 1474.38,
+      "dailyRatingChange": -2.7
+    },
+    {
+      "position": 10,
+      "playerId": "m43255",
+      "name": "Janne Toivonen",
+      "rating": 1536.94,
+      "dailyRatingChange": -6.83
+    },
+    {
+      "position": 13,
+      "playerId": "m45131",
+      "name": "Jaska Kangasvieri",
+      "rating": 1522.16,
+      "dailyRatingChange": -16.84
+    },
+    {
+      "position": 14,
+      "playerId": "i109549",
+      "name": "Jasmin Hyvärinen",
+      "rating": 1366.66,
+      "dailyRatingChange": -5.74
+    }
+  ]
+}

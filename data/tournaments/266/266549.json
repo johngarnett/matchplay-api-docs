@@ -1,0 +1,95 @@
+{
+  "tournamentId": 266549,
+  "name": "Emporium Pinball League Season 9 #1",
+  "date": "2026-08-12",
+  "locationId": "11735",
+  "locationName": "Emporium New Orleans",
+  "playerCount": 12,
+  "ratingsDate": "2026-08-12",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m3039",
+      "name": "Roland Nadeau",
+      "rating": 1833.67,
+      "dailyRatingChange": 2.56
+    },
+    {
+      "position": 2,
+      "playerId": "i159486",
+      "name": "Lisa Mount",
+      "rating": 1615.6,
+      "dailyRatingChange": null
+    },
+    {
+      "position": 3,
+      "playerId": "m60655",
+      "name": "Sasha Robertson",
+      "rating": 1590.92,
+      "dailyRatingChange": 8.23
+    },
+    {
+      "position": 4,
+      "playerId": "i163568",
+      "name": "Katie Burkart",
+      "rating": 1452.51,
+      "dailyRatingChange": null
+    },
+    {
+      "position": 4,
+      "playerId": "i144165",
+      "name": "Stefan Canezaro",
+      "rating": 1499.97,
+      "dailyRatingChange": 4.17
+    },
+    {
+      "position": 6,
+      "playerId": "m61046",
+      "name": "Ash Sonefeld",
+      "rating": 1364.66,
+      "dailyRatingChange": 9.47
+    },
+    {
+      "position": 6,
+      "playerId": "m44424",
+      "name": "Marisol Getchell",
+      "rating": 1458.38,
+      "dailyRatingChange": 1.38
+    },
+    {
+      "position": 8,
+      "playerId": "m15119",
+      "name": "Larry Reiter",
+      "rating": 1565.23,
+      "dailyRatingChange": -8.23
+    },
+    {
+      "position": 9,
+      "playerId": "i159487",
+      "name": "Bernard M",
+      "rating": 1362.76,
+      "dailyRatingChange": 1.27
+    },
+    {
+      "position": 9,
+      "playerId": "m56896",
+      "name": "Elyse DaBeast",
+      "rating": 1458.05,
+      "dailyRatingChange": -6.74
+    },
+    {
+      "position": 11,
+      "playerId": "i161595",
+      "name": "Christine Moore",
+      "rating": 1400.81,
+      "dailyRatingChange": null
+    },
+    {
+      "position": 12,
+      "playerId": "m54718",
+      "name": "Chris Vazquez",
+      "rating": 1497.05,
+      "dailyRatingChange": -18.85
+    }
+  ]
+}

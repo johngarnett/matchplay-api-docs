@@ -1,0 +1,39 @@
+{
+  "tournamentId": 262879,
+  "name": "Finals for July Third Sunday monthly Reserve Artisan Ales",
+  "date": "2026-07-19",
+  "locationId": "8736",
+  "locationName": "Reserve Artisan Ales",
+  "playerCount": 4,
+  "ratingsDate": "2026-07-19",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "i132368",
+      "name": "Roger Conard",
+      "rating": 1510.81,
+      "dailyRatingChange": 34.26
+    },
+    {
+      "position": 2,
+      "playerId": "m28887",
+      "name": "CJ Krawcyk",
+      "rating": 1712.17,
+      "dailyRatingChange": 0.56
+    },
+    {
+      "position": 3,
+      "playerId": "m44040",
+      "name": "Cory Grimm",
+      "rating": 1591.35,
+      "dailyRatingChange": 9
+    },
+    {
+      "position": 4,
+      "playerId": "i132369",
+      "name": "Deb Conard",
+      "rating": 1393.19,
+      "dailyRatingChange": 12.9
+    }
+  ]
+}

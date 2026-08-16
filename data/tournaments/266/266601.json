@@ -1,0 +1,165 @@
+{
+  "tournamentId": 266601,
+  "name": "DPC Tuesday 2026 Summer Flip",
+  "date": "2026-08-12",
+  "locationId": null,
+  "locationName": null,
+  "playerCount": 22,
+  "ratingsDate": "2026-08-12",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m22315",
+      "name": "Matthew Hartmann",
+      "rating": 1734.1,
+      "dailyRatingChange": 3.82
+    },
+    {
+      "position": 2,
+      "playerId": "m30667",
+      "name": "Pete Jalbert",
+      "rating": 1587.52,
+      "dailyRatingChange": 4.38
+    },
+    {
+      "position": 3,
+      "playerId": "m23192",
+      "name": "Sonny Cieslak",
+      "rating": 1511.01,
+      "dailyRatingChange": 11.91
+    },
+    {
+      "position": 4,
+      "playerId": "m25093",
+      "name": "Samantha Jacob",
+      "rating": 1627.96,
+      "dailyRatingChange": 4.46
+    },
+    {
+      "position": 5,
+      "playerId": "m26268",
+      "name": "James Perugini",
+      "rating": 1749.3,
+      "dailyRatingChange": 0.11
+    },
+    {
+      "position": 6,
+      "playerId": "m6619",
+      "name": "Mike Germscheid",
+      "rating": 1659.33,
+      "dailyRatingChange": 0.23
+    },
+    {
+      "position": 6,
+      "playerId": "m29505",
+      "name": "Jennifer Richardson",
+      "rating": 1552.97,
+      "dailyRatingChange": 3.07
+    },
+    {
+      "position": 8,
+      "playerId": "m40800",
+      "name": "Erik Opderbeck",
+      "rating": 1594.33,
+      "dailyRatingChange": -0.38
+    },
+    {
+      "position": 9,
+      "playerId": "m570453",
+      "name": "Matt Darron",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 10,
+      "playerId": "m33566",
+      "name": "Megan Dellinger",
+      "rating": 1583.22,
+      "dailyRatingChange": -0.67
+    },
+    {
+      "position": 11,
+      "playerId": "m22009",
+      "name": "Megan Cooney",
+      "rating": 1537.7,
+      "dailyRatingChange": 0.55
+    },
+    {
+      "position": 12,
+      "playerId": "m30669",
+      "name": "Zena Perkins",
+      "rating": 1476.68,
+      "dailyRatingChange": 3.73
+    },
+    {
+      "position": 13,
+      "playerId": "m10933",
+      "name": "Scott Mott",
+      "rating": 1706.24,
+      "dailyRatingChange": -6.76
+    },
+    {
+      "position": 13,
+      "playerId": "m5917",
+      "name": "Jim Cardona",
+      "rating": 1499.47,
+      "dailyRatingChange": -1.81
+    },
+    {
+      "position": 13,
+      "playerId": "m20469",
+      "name": "Chad Asher",
+      "rating": 1467.5,
+      "dailyRatingChange": -0.31
+    },
+    {
+      "position": 16,
+      "playerId": "m570454",
+      "name": "Kim Hylenski",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 17,
+      "playerId": "m10084",
+      "name": "Bill Richardson",
+      "rating": 1561.83,
+      "dailyRatingChange": -2.77
+    },
+    {
+      "position": 18,
+      "playerId": "m28254",
+      "name": "Nick Turner",
+      "rating": 1583.01,
+      "dailyRatingChange": -6.21
+    },
+    {
+      "position": 19,
+      "playerId": "m37152",
+      "name": "PRESTON TURNER",
+      "rating": 1567.81,
+      "dailyRatingChange": -10.16
+    },
+    {
+      "position": 20,
+      "playerId": "i107798",
+      "name": "Joe Cardona",
+      "rating": 1500.71,
+      "dailyRatingChange": -6.64
+    },
+    {
+      "position": 21,
+      "playerId": "i102774",
+      "name": "Rob Perkins",
+      "rating": 1456.57,
+      "dailyRatingChange": -8.16
+    },
+    {
+      "position": 22,
+      "playerId": "m38281",
+      "name": "Cindy Opderbeck",
+      "rating": 1469.82,
+      "dailyRatingChange": -6.79
+    }
+  ]
+}

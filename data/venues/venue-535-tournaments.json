@@ -1,0 +1,373 @@
+{
+  "locationId": "535",
+  "venueName": "Superelectric Pinball Parlor",
+  "venueAddress": "6500 Detroit Ave, Cleveland, OH 44102, USA",
+  "tournaments": [
+    {
+      "id": 266922,
+      "name": "B&C CLE's Lowkey Ladies League #7",
+      "date": "8/13/2026",
+      "playerCount": 27,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m1300",
+          "name": "Valencia Kelly",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m24572",
+          "name": "Fiona Kelly",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m29155",
+          "name": "Sarah Kunz",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m45582",
+          "name": "Lydia Burke",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m49126",
+          "name": "Ava Simon",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m29084",
+          "name": "Desiree Lewis",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 266231,
+      "name": "Super Sundays 2 #4",
+      "date": "8/9/2026",
+      "playerCount": 29,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m24696",
+          "name": "Jon Hrobat",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m19141",
+          "name": "Kyle Shepard",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m9669",
+          "name": "Brent Reed",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "i103457",
+          "name": "Aubrey Volk",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 265875,
+      "name": "B&C CLE's Lowkey Ladies League #6",
+      "date": "8/6/2026",
+      "playerCount": 26,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m1300",
+          "name": "Valencia Kelly",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 1,
+          "playerId": "m45574",
+          "name": "Katie Kloss",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m24572",
+          "name": "Fiona Kelly",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m40851",
+          "name": "Jessica Reitz",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 265715,
+      "name": "Finals for Stern Army Transformers Launch Party @ Superelectric!",
+      "date": "8/5/2026",
+      "playerCount": 8,
+      "qualifying": {
+        "id": 265676,
+        "name": "Stern Army Transformers Launch Party @ Superelectric!",
+        "playerCount": 25
+      },
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m38953",
+          "name": "Jaden Rich",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m47604",
+          "name": "George Grivas",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m33506",
+          "name": "Mike Winzinek",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m38334",
+          "name": "Mike Prewett",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 263942,
+      "name": "Super Sundays 2 #3",
+      "date": "8/2/2026",
+      "playerCount": 29,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "p577965",
+          "name": "Andy Blanchard",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 1,
+          "playerId": "m47194",
+          "name": "Corey Jackson",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m24696",
+          "name": "Jon Hrobat",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m19141",
+          "name": "Kyle Shepard",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m47471",
+          "name": "Kaitlin Grocky",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m29512",
+          "name": "Josh Biszantz",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 264577,
+      "name": "B&C CLE's Lowkey Ladies League #5",
+      "date": "7/30/2026",
+      "playerCount": 26,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m40851",
+          "name": "Jessica Reitz",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 1,
+          "playerId": "m33223",
+          "name": "Jill Grunenwald",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m718",
+          "name": "Kelly McGowan",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m1300",
+          "name": "Valencia Kelly",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 263741,
+      "name": "Super Sundays 2 #2",
+      "date": "7/26/2026",
+      "playerCount": 28,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m9211",
+          "name": "Clay Hinson",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m29155",
+          "name": "Sarah Kunz",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m19141",
+          "name": "Kyle Shepard",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m1280",
+          "name": "Will Cooper CA",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 263430,
+      "name": "B&C CLE's Lowkey Ladies League #4",
+      "date": "7/23/2026",
+      "playerCount": 25,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m49126",
+          "name": "Ava Simon",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 1,
+          "playerId": "m40851",
+          "name": "Jessica Reitz",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m1300",
+          "name": "Valencia Kelly",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m29155",
+          "name": "Sarah Kunz",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 262871,
+      "name": "Finals for Superelectric Pinball Battle - July",
+      "date": "7/19/2026",
+      "playerCount": 8,
+      "qualifying": {
+        "id": 262799,
+        "name": "Superelectric Pinball Battle - July",
+        "playerCount": 20
+      },
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m23",
+          "name": "Andrew Lee",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m1300",
+          "name": "Valencia Kelly",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m47194",
+          "name": "Corey Jackson",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m28404",
+          "name": "Justin Reitz",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 262876,
+      "name": "Novice Finals for Superelectric Pinball Battle - July",
+      "date": "7/19/2026",
+      "playerCount": 4,
+      "qualifying": {
+        "id": 262799,
+        "name": "Superelectric Pinball Battle - July",
+        "playerCount": 20
+      },
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m23471",
+          "name": "Hailey Maletz",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "i93462",
+          "name": "Vincent Maletz",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m29349",
+          "name": "Clayton Parker",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m61600",
+          "name": "Titania Tupta",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

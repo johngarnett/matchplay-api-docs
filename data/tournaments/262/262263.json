@@ -1,0 +1,137 @@
+{
+  "tournamentId": 262263,
+  "name": "SCPL: Meteor Strikes BOUNTY at Little Dipper",
+  "date": "2026-07-19",
+  "locationId": "12571",
+  "locationName": "Little Dipper Lounge",
+  "playerCount": 18,
+  "ratingsDate": "2026-07-19",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m19775",
+      "name": "Mike Flanagan",
+      "rating": 1636.64,
+      "dailyRatingChange": 16.11
+    },
+    {
+      "position": 2,
+      "playerId": "m33978",
+      "name": "Darrin Schonefeld",
+      "rating": 1592.69,
+      "dailyRatingChange": 4.78
+    },
+    {
+      "position": 3,
+      "playerId": "m1610",
+      "name": "Erich Stinson",
+      "rating": 1653.86,
+      "dailyRatingChange": -1.08
+    },
+    {
+      "position": 4,
+      "playerId": "m240",
+      "name": "Jessica DeNardo",
+      "rating": 1610.2,
+      "dailyRatingChange": 0.73
+    },
+    {
+      "position": 4,
+      "playerId": "m12429",
+      "name": "Jamie Burchell 🐻",
+      "rating": 1564.17,
+      "dailyRatingChange": 4.74
+    },
+    {
+      "position": 6,
+      "playerId": "m1730",
+      "name": "Marc Gammons",
+      "rating": 1594.83,
+      "dailyRatingChange": 0.54
+    },
+    {
+      "position": 6,
+      "playerId": "m6478",
+      "name": "John Speights 🧶",
+      "rating": 1585.98,
+      "dailyRatingChange": 0.61
+    },
+    {
+      "position": 8,
+      "playerId": "m40091",
+      "name": "Paul Saunders",
+      "rating": 1519.53,
+      "dailyRatingChange": 4.02
+    },
+    {
+      "position": 8,
+      "playerId": "m22787",
+      "name": "Pete Kipp",
+      "rating": 1640.69,
+      "dailyRatingChange": -4.42
+    },
+    {
+      "position": 10,
+      "playerId": "m40033",
+      "name": "Andrew Murillo",
+      "rating": 1409.64,
+      "dailyRatingChange": 3.37
+    },
+    {
+      "position": 10,
+      "playerId": "m47770",
+      "name": "Jason Wylie",
+      "rating": 1509.4,
+      "dailyRatingChange": -1.09
+    },
+    {
+      "position": 12,
+      "playerId": "m2032",
+      "name": "Cat Gammons",
+      "rating": 1476.39,
+      "dailyRatingChange": -14.93
+    },
+    {
+      "position": 12,
+      "playerId": "m48153",
+      "name": "Troy Witherspoon",
+      "rating": 1496.13,
+      "dailyRatingChange": -1.44
+    },
+    {
+      "position": 14,
+      "playerId": "m49265",
+      "name": "Shelly Wylie",
+      "rating": 1430.16,
+      "dailyRatingChange": -1.57
+    },
+    {
+      "position": 14,
+      "playerId": "m2038",
+      "name": "Edward Chavez ⚓️",
+      "rating": 1512.36,
+      "dailyRatingChange": -5.19
+    },
+    {
+      "position": 14,
+      "playerId": "m60890",
+      "name": "Robert Ridall",
+      "rating": 1378.76,
+      "dailyRatingChange": -6.63
+    },
+    {
+      "position": 14,
+      "playerId": "m47917",
+      "name": "Henri de Ybarrondo 💃",
+      "rating": 1508.86,
+      "dailyRatingChange": -3.58
+    },
+    {
+      "position": 18,
+      "playerId": "m10354",
+      "name": "Dawn Freedkin 🐧",
+      "rating": 1484.9,
+      "dailyRatingChange": -4.85
+    }
+  ]
+}

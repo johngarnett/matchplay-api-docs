@@ -1,0 +1,235 @@
+{
+  "locationId": "5040",
+  "venueName": "Transmission Arcade",
+  "venueAddress": "1712 Main St, Columbia, SC 29201, USA",
+  "tournaments": [
+    {
+      "id": 258633,
+      "name": "C.R.A.P. S13 - W8",
+      "date": "8/12/2026",
+      "playerCount": 28,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m38183",
+          "name": "Jeffrey LeBlanc",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 1,
+          "playerId": "i76388",
+          "name": "Josh Rainwater",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 1,
+          "playerId": "m8204",
+          "name": "Steve Bertok",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m36182",
+          "name": "Don Barry",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m18180",
+          "name": "Egbert",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 266333,
+      "name": "Finals for T.A. Second Sunday - August '26",
+      "date": "8/9/2026",
+      "playerCount": 8,
+      "qualifying": {
+        "id": 266239,
+        "name": "T.A. Second Sunday - August '26",
+        "playerCount": 21
+      },
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m8204",
+          "name": "Steve Bertok",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "i76388",
+          "name": "Josh Rainwater",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m58524",
+          "name": "Patrick Bailey",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m23592",
+          "name": "Ansley Green",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 266325,
+      "name": "Finals for T.A. Second Sunday - August '26",
+      "date": "8/9/2026",
+      "playerCount": 8,
+      "qualifying": null,
+      "standings": []
+    },
+    {
+      "id": 258632,
+      "name": "C.R.A.P. S13 - W7",
+      "date": "8/5/2026",
+      "playerCount": 30,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m18180",
+          "name": "Egbert",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m8204",
+          "name": "Steve Bertok",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m28153",
+          "name": "Michael Moore",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m38114",
+          "name": "Brynne Maghan",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m55249",
+          "name": "Kevin Bloom",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 258631,
+      "name": "C.R.A.P. S13 - W6",
+      "date": "7/29/2026",
+      "playerCount": 32,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "i76388",
+          "name": "Josh Rainwater",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m38183",
+          "name": "Jeffrey LeBlanc",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m28153",
+          "name": "Michael Moore",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m36182",
+          "name": "Don Barry",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m21972",
+          "name": "Paul Lopresti",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 257744,
+      "name": "Cola Belles and Chimes Ladies Summer League #8 @ TA",
+      "date": "7/23/2026",
+      "playerCount": 36,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m40695",
+          "name": "Jen Floyd",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m52821",
+          "name": "Rebecca Drucker",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m18461",
+          "name": "Autumn Perkins",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m27925",
+          "name": "Sarah Buchanan",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 258630,
+      "name": "C.R.A.P. S13 - W5",
+      "date": "7/22/2026",
+      "playerCount": 35,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m43851",
+          "name": "John Foster",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 1,
+          "playerId": "m18180",
+          "name": "Egbert",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 1,
+          "playerId": "m8204",
+          "name": "Steve Bertok",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m19562",
+          "name": "Gabrielle Baggette",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

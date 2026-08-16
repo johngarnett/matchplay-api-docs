@@ -1,0 +1,95 @@
+{
+  "tournamentId": 265527,
+  "name": "NPC Season 3 at JR's Playhouse #4",
+  "date": "2026-08-05",
+  "locationId": "13691",
+  "locationName": "JR's House",
+  "playerCount": 12,
+  "ratingsDate": "2026-08-05",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m13526",
+      "name": "Traynor Gauthier",
+      "rating": 1674.16,
+      "dailyRatingChange": 12.76
+    },
+    {
+      "position": 2,
+      "playerId": "m106",
+      "name": "Theresa Nessel",
+      "rating": 1665.34,
+      "dailyRatingChange": 1.62
+    },
+    {
+      "position": 2,
+      "playerId": "m5653",
+      "name": "Jake Holz",
+      "rating": 1536.75,
+      "dailyRatingChange": 9.45
+    },
+    {
+      "position": 4,
+      "playerId": "m26025",
+      "name": "Matt Liskom",
+      "rating": 1574.7,
+      "dailyRatingChange": -0.23
+    },
+    {
+      "position": 4,
+      "playerId": "m1815",
+      "name": "Paul Conley",
+      "rating": 1566.04,
+      "dailyRatingChange": 4.31
+    },
+    {
+      "position": 6,
+      "playerId": "m43110",
+      "name": "Ryan Howard ME",
+      "rating": 1567.73,
+      "dailyRatingChange": -1.43
+    },
+    {
+      "position": 7,
+      "playerId": "m33610",
+      "name": "Sarah Plourde",
+      "rating": 1461.38,
+      "dailyRatingChange": 1.32
+    },
+    {
+      "position": 7,
+      "playerId": "m235",
+      "name": "Jake Erskine",
+      "rating": 1567.91,
+      "dailyRatingChange": -14.19
+    },
+    {
+      "position": 9,
+      "playerId": "m430",
+      "name": "Nate Straz",
+      "rating": 1592.81,
+      "dailyRatingChange": -5.27
+    },
+    {
+      "position": 9,
+      "playerId": "m44882",
+      "name": "Emilee Love",
+      "rating": 1487.32,
+      "dailyRatingChange": -2.02
+    },
+    {
+      "position": 11,
+      "playerId": "m38623",
+      "name": "Pedro Nieves",
+      "rating": 1406.58,
+      "dailyRatingChange": -2.15
+    },
+    {
+      "position": 12,
+      "playerId": "m32463",
+      "name": "Billy Marshall III",
+      "rating": 1448.57,
+      "dailyRatingChange": -4.17
+    }
+  ]
+}

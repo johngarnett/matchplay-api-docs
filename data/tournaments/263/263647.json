@@ -1,0 +1,109 @@
+{
+  "tournamentId": 263647,
+  "name": "Flippin' at Flaherty's #3",
+  "date": "2026-07-25",
+  "locationId": "13582",
+  "locationName": "Flahertys Arden Bowl",
+  "playerCount": 14,
+  "ratingsDate": "2026-07-25",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m28155",
+      "name": "Michelle Ebert",
+      "rating": 1616.68,
+      "dailyRatingChange": 16.15
+    },
+    {
+      "position": 2,
+      "playerId": "m24512",
+      "name": "Melissa DonCarlos",
+      "rating": 1545.33,
+      "dailyRatingChange": 6.58
+    },
+    {
+      "position": 3,
+      "playerId": "m21262",
+      "name": "Angie DonCarlos",
+      "rating": 1631.68,
+      "dailyRatingChange": -10.24
+    },
+    {
+      "position": 4,
+      "playerId": "m10047",
+      "name": "Brooke Hipsher",
+      "rating": 1535.82,
+      "dailyRatingChange": 1.04
+    },
+    {
+      "position": 5,
+      "playerId": "m40074",
+      "name": "Alyssa Tourdot",
+      "rating": 1453.23,
+      "dailyRatingChange": 3.36
+    },
+    {
+      "position": 5,
+      "playerId": "m20544",
+      "name": "Dana Platt-Nelson",
+      "rating": 1436.53,
+      "dailyRatingChange": 6.96
+    },
+    {
+      "position": 7,
+      "playerId": "m23621",
+      "name": "Amber Ringgenberg",
+      "rating": 1482.45,
+      "dailyRatingChange": 2.19
+    },
+    {
+      "position": 8,
+      "playerId": "m31560",
+      "name": "Tiffany Noll",
+      "rating": 1412.52,
+      "dailyRatingChange": 2.02
+    },
+    {
+      "position": 9,
+      "playerId": "i130003",
+      "name": "Naomi Montesa",
+      "rating": 1434.12,
+      "dailyRatingChange": 6.25
+    },
+    {
+      "position": 10,
+      "playerId": "m55545",
+      "name": "Krissy Rootes",
+      "rating": 1397.38,
+      "dailyRatingChange": -5.69
+    },
+    {
+      "position": 11,
+      "playerId": "m60126",
+      "name": "Carlee Wehrman",
+      "rating": 1365.67,
+      "dailyRatingChange": -18.81
+    },
+    {
+      "position": 12,
+      "playerId": "m61144",
+      "name": "Michelle Wright",
+      "rating": 1427,
+      "dailyRatingChange": -43.02
+    },
+    {
+      "position": 13,
+      "playerId": "m581533",
+      "name": "Anna Nordquist",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 14,
+      "playerId": "m45604",
+      "name": "Jari Corbo",
+      "rating": 1439.91,
+      "dailyRatingChange": -9.72
+    }
+  ]
+}

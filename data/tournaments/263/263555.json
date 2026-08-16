@@ -1,0 +1,109 @@
+{
+  "tournamentId": 263555,
+  "name": "OddPitch Sunday Head-To-Head",
+  "date": "2026-07-27",
+  "locationId": "10091",
+  "locationName": "OddPitch Brewing",
+  "playerCount": 14,
+  "ratingsDate": "2026-07-27",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m47986",
+      "name": "Jimmy Best",
+      "rating": 1752.93,
+      "dailyRatingChange": 10.99
+    },
+    {
+      "position": 2,
+      "playerId": "m33245",
+      "name": "John Carls",
+      "rating": 1656.43,
+      "dailyRatingChange": 4.52
+    },
+    {
+      "position": 3,
+      "playerId": "m51051",
+      "name": "Maxx Tondu",
+      "rating": 1601.99,
+      "dailyRatingChange": 2.14
+    },
+    {
+      "position": 4,
+      "playerId": "m57446",
+      "name": "Brian Hugelen",
+      "rating": 1443.3,
+      "dailyRatingChange": 15.72
+    },
+    {
+      "position": 5,
+      "playerId": "m33054",
+      "name": "Mitch Whitener",
+      "rating": 1593.83,
+      "dailyRatingChange": -4.38
+    },
+    {
+      "position": 5,
+      "playerId": "m35435",
+      "name": "Eugenia Fedoseyeva",
+      "rating": 1347.26,
+      "dailyRatingChange": 11.61
+    },
+    {
+      "position": 7,
+      "playerId": "m50520",
+      "name": "Ryan Douglas MT",
+      "rating": 1550.54,
+      "dailyRatingChange": -1.36
+    },
+    {
+      "position": 8,
+      "playerId": "m62330",
+      "name": "Lucas Freeman",
+      "rating": 1466.68,
+      "dailyRatingChange": null
+    },
+    {
+      "position": 8,
+      "playerId": "m34035",
+      "name": "Gretchen Neal",
+      "rating": 1562.27,
+      "dailyRatingChange": -4.58
+    },
+    {
+      "position": 10,
+      "playerId": "m33053",
+      "name": "Larry Turville",
+      "rating": 1505.29,
+      "dailyRatingChange": -7.02
+    },
+    {
+      "position": 10,
+      "playerId": "m50521",
+      "name": "Mica Clarkson",
+      "rating": 1429.29,
+      "dailyRatingChange": -1.73
+    },
+    {
+      "position": 10,
+      "playerId": "m62332",
+      "name": "Alyssa Red",
+      "rating": 1452.35,
+      "dailyRatingChange": null
+    },
+    {
+      "position": 13,
+      "playerId": "m27564",
+      "name": "Joshua Harwood",
+      "rating": 1477.19,
+      "dailyRatingChange": -9.19
+    },
+    {
+      "position": 13,
+      "playerId": "m61330",
+      "name": "Julia Mills",
+      "rating": 1304.18,
+      "dailyRatingChange": null
+    }
+  ]
+}

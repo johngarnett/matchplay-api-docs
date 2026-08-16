@@ -1,0 +1,81 @@
+{
+  "locationId": "6030",
+  "venueName": "Louie's Tap House",
+  "venueAddress": "5689 Elevator Rd, Roscoe, IL 61073, USA",
+  "tournaments": [
+    {
+      "id": 265540,
+      "name": "Finals for Stern Army- 1st Thursdays @ Louie's Tap House- August",
+      "date": "8/6/2026",
+      "playerCount": 8,
+      "qualifying": {
+        "id": 265537,
+        "name": "Stern Army- 1st Thursdays @ Louie's Tap House- August",
+        "playerCount": 18
+      },
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m26434",
+          "name": "Joe Buchanan",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m24295",
+          "name": "Todd Eccles",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m28085",
+          "name": "Kyler Dittbenner",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m25335",
+          "name": "David Hoskins",
+          "isVenuePlayer": true
+        }
+      ]
+    },
+    {
+      "id": 262050,
+      "name": "Finals for Stern Army- Louie's Silverball Sunday Monthly- 30 Point Target Matchplay- July",
+      "date": "7/19/2026",
+      "playerCount": 6,
+      "qualifying": {
+        "id": 262049,
+        "name": "Stern Army- Louie's Silverball Sunday Monthly- 30 Point Target Matchplay- July",
+        "playerCount": 17
+      },
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m35843",
+          "name": "Glenn Stickels",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m12069",
+          "name": "Tom Menge",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m35535",
+          "name": "Mike Hancock",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "i114896",
+          "name": "Gabe Gonzales",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "locationId": "12903",
+  "venueName": "GameOn Bar+Arcade Annapolis",
+  "venueAddress": "114 West St, Annapolis, MD 21401, US",
+  "tournaments": [
+    {
+      "id": 264603,
+      "name": "Naptown 3 strike monthly 8-2",
+      "date": "8/2/2026",
+      "playerCount": 10,
+      "qualifying": null,
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "m3352",
+          "name": "Elliott Keith",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "m36420",
+          "name": "Tom Craven",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m47567",
+          "name": "Jeff Helgeson",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m30187",
+          "name": "Richard Kennison",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m11369",
+          "name": "Theresa Schultz",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 4,
+          "playerId": "m2595",
+          "name": "FL Ettlin",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

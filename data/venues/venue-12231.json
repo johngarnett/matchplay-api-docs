@@ -1,0 +1,101 @@
+{
+  "locationId": "12231",
+  "name": "Pinball arcade Forever",
+  "address": "5 Av. Gustave Eiffel 33700 Mérignac",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 6,
+  "relatedVenues": [
+    {
+      "locationId": "8617",
+      "name": "Biljardna Hisa Ljubljana - Slovenska",
+      "address": "Slovenska 58, 1000 Ljubljana",
+      "count": 3
+    },
+    {
+      "locationId": "13291",
+      "name": "Salon de Pontacq",
+      "address": "Salle Pierre Lacaze 64530 Pontacq",
+      "count": 2
+    },
+    {
+      "locationId": "13319",
+      "name": "Salle Pierre Lacaze",
+      "address": "12 rue du stade 64530 Pontacq",
+      "count": 1
+    }
+  ],
+  "players": [
+    {
+      "id": "m32309",
+      "name": "Tony Dalmolin",
+      "rating": 1601.72,
+      "rd": 26.77,
+      "ratingClass": "A",
+      "homeLocation": "Biljardna Hisa Ljubljana - Slovenska",
+      "homeLocationId": "8617",
+      "percentile": 82.45213583640006,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m34144",
+      "name": "Croquin Benoit",
+      "rating": 1584.36,
+      "rd": 30.34,
+      "ratingClass": "B",
+      "homeLocation": "Pinball arcade Forever",
+      "homeLocationId": "12231",
+      "percentile": 77.88233101970467,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i16849",
+      "name": "Bruno Jacomet",
+      "rating": 1541.82,
+      "rd": 37.22,
+      "ratingClass": "B",
+      "homeLocation": "Pinball arcade Forever",
+      "homeLocationId": "12231",
+      "percentile": 63.81888479992547,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i130060",
+      "name": "Alexis Chouteau",
+      "rating": 1519.67,
+      "rd": 31.58,
+      "ratingClass": "B",
+      "homeLocation": "Pinball arcade Forever",
+      "homeLocationId": "12231",
+      "percentile": 55.07989006381888,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m37795",
+      "name": "Eric Martin",
+      "rating": 1493.48,
+      "rd": 27.69,
+      "ratingClass": "C",
+      "homeLocation": "Pinball arcade Forever",
+      "homeLocationId": "12231",
+      "percentile": 44.48688684958308,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i130713",
+      "name": "Alexia Frit",
+      "rating": 1443.52,
+      "rd": 31.22,
+      "ratingClass": "C",
+      "homeLocation": "Pinball arcade Forever",
+      "homeLocationId": "12231",
+      "percentile": 24.945264825080358,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

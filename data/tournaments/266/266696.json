@@ -1,0 +1,291 @@
+{
+  "tournamentId": 266696,
+  "name": "Long Beach Pinball Season #27 #1 (clone)",
+  "date": "2026-08-12",
+  "locationId": "10114",
+  "locationName": "Long Beach Beer Lab",
+  "playerCount": 40,
+  "ratingsDate": "2026-08-12",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m6232",
+      "name": "Dennis Eichhorn",
+      "rating": 1748.96,
+      "dailyRatingChange": 1.99
+    },
+    {
+      "position": 1,
+      "playerId": "m22991",
+      "name": "Kane Mejia",
+      "rating": 1718.64,
+      "dailyRatingChange": 3.72
+    },
+    {
+      "position": 3,
+      "playerId": "m572472",
+      "name": "Sal Rangel",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 3,
+      "playerId": "m49252",
+      "name": "Jason Solomon",
+      "rating": 1600.92,
+      "dailyRatingChange": 3.47
+    },
+    {
+      "position": 3,
+      "playerId": "m41785",
+      "name": "Joe Intemann",
+      "rating": 1619.04,
+      "dailyRatingChange": 1.78
+    },
+    {
+      "position": 3,
+      "playerId": "m40942",
+      "name": "Elena Kingston",
+      "rating": 1438.97,
+      "dailyRatingChange": 13.37
+    },
+    {
+      "position": 7,
+      "playerId": "m35442",
+      "name": "Brian Dreebin",
+      "rating": 1624.2,
+      "dailyRatingChange": -3.18
+    },
+    {
+      "position": 7,
+      "playerId": "m26116",
+      "name": "Joe Pena",
+      "rating": 1534.49,
+      "dailyRatingChange": -4.18
+    },
+    {
+      "position": 7,
+      "playerId": "m36035",
+      "name": "Robin Craigen",
+      "rating": 1591.69,
+      "dailyRatingChange": 4.55
+    },
+    {
+      "position": 7,
+      "playerId": "m26155",
+      "name": "Jason DuVall",
+      "rating": 1568.21,
+      "dailyRatingChange": 3
+    },
+    {
+      "position": 7,
+      "playerId": "m34709",
+      "name": "Alex DelSolar",
+      "rating": 1496.75,
+      "dailyRatingChange": 12.03
+    },
+    {
+      "position": 7,
+      "playerId": "m1728",
+      "name": "Mike Gin",
+      "rating": 1558.55,
+      "dailyRatingChange": 3.98
+    },
+    {
+      "position": 13,
+      "playerId": "i106799",
+      "name": "Troy Kiesow",
+      "rating": 1547.31,
+      "dailyRatingChange": 2.75
+    },
+    {
+      "position": 13,
+      "playerId": "m50079",
+      "name": "Joe Stevens",
+      "rating": 1552.44,
+      "dailyRatingChange": 5.44
+    },
+    {
+      "position": 13,
+      "playerId": "m57505",
+      "name": "Jaims Gillis",
+      "rating": 1549.92,
+      "dailyRatingChange": 6.68
+    },
+    {
+      "position": 16,
+      "playerId": "i118848",
+      "name": "Ralph Lopez",
+      "rating": 1432.98,
+      "dailyRatingChange": 24.06
+    },
+    {
+      "position": 16,
+      "playerId": "m40609",
+      "name": "Ku Paik",
+      "rating": 1634.98,
+      "dailyRatingChange": -5.7
+    },
+    {
+      "position": 16,
+      "playerId": "m30345",
+      "name": "Micha Goldsman",
+      "rating": 1656.6,
+      "dailyRatingChange": -7.54
+    },
+    {
+      "position": 16,
+      "playerId": "m25958",
+      "name": "Billy Ralph",
+      "rating": 1591.05,
+      "dailyRatingChange": -4.35
+    },
+    {
+      "position": 16,
+      "playerId": "m31559",
+      "name": "David Guppenberger",
+      "rating": 1540.11,
+      "dailyRatingChange": 0.32
+    },
+    {
+      "position": 16,
+      "playerId": "m29700",
+      "name": "RJ Blaze",
+      "rating": 1441.71,
+      "dailyRatingChange": 3.36
+    },
+    {
+      "position": 22,
+      "playerId": "m60258",
+      "name": "Collin Sicard",
+      "rating": 1608.15,
+      "dailyRatingChange": -7.36
+    },
+    {
+      "position": 22,
+      "playerId": "m51116",
+      "name": "Steven Collins",
+      "rating": 1396.33,
+      "dailyRatingChange": 12.02
+    },
+    {
+      "position": 24,
+      "playerId": "i125787",
+      "name": "Heidi Pena",
+      "rating": 1322.28,
+      "dailyRatingChange": -0.33
+    },
+    {
+      "position": 24,
+      "playerId": "i99799",
+      "name": "Bob Benaderet",
+      "rating": 1498.65,
+      "dailyRatingChange": -7.57
+    },
+    {
+      "position": 24,
+      "playerId": "m529619",
+      "name": "Keegan Neathery",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 24,
+      "playerId": "m381226",
+      "name": "Chuck Rich",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 24,
+      "playerId": "m26151",
+      "name": "Mitch Kasse",
+      "rating": 1540.67,
+      "dailyRatingChange": -6.19
+    },
+    {
+      "position": 24,
+      "playerId": "m34576",
+      "name": "Carl Alvarez",
+      "rating": 1573.23,
+      "dailyRatingChange": -5.64
+    },
+    {
+      "position": 24,
+      "playerId": "m439415",
+      "name": "Alexander Hamilton",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 31,
+      "playerId": "m25304",
+      "name": "Matthew Luis",
+      "rating": 1551.55,
+      "dailyRatingChange": -6.94
+    },
+    {
+      "position": 31,
+      "playerId": "m36040",
+      "name": "John Leroux",
+      "rating": 1525.04,
+      "dailyRatingChange": -8.75
+    },
+    {
+      "position": 31,
+      "playerId": "m27133",
+      "name": "William Yocham",
+      "rating": 1491.22,
+      "dailyRatingChange": -6.17
+    },
+    {
+      "position": 31,
+      "playerId": "m41590",
+      "name": "Alan Paz",
+      "rating": 1500.09,
+      "dailyRatingChange": -4.09
+    },
+    {
+      "position": 35,
+      "playerId": "m51115",
+      "name": "Lesley Collins",
+      "rating": 1347.26,
+      "dailyRatingChange": 1.97
+    },
+    {
+      "position": 35,
+      "playerId": "m29970",
+      "name": "Les Kiesow",
+      "rating": 1473.32,
+      "dailyRatingChange": -10.57
+    },
+    {
+      "position": 35,
+      "playerId": "i125774",
+      "name": "Sam Ellenberger",
+      "rating": 1559.78,
+      "dailyRatingChange": -8.01
+    },
+    {
+      "position": 38,
+      "playerId": "m427929",
+      "name": "faye evans",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 39,
+      "playerId": "m408896",
+      "name": "Cesare Romano",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 39,
+      "playerId": "m586522",
+      "name": "Ann Thaiss",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

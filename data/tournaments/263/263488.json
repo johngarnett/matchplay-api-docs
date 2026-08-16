@@ -1,0 +1,102 @@
+{
+  "tournamentId": 263488,
+  "name": "Midtown Bar Thursday Matchplay 7/23",
+  "date": "2026-07-24",
+  "locationId": "5593",
+  "locationName": "Midtown Bar & Grill",
+  "playerCount": 13,
+  "ratingsDate": "2026-07-24",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m23871",
+      "name": "Tony Kramer",
+      "rating": 1772.45,
+      "dailyRatingChange": -2.81
+    },
+    {
+      "position": 2,
+      "playerId": "m6492",
+      "name": "Mike Moberg",
+      "rating": 1588.72,
+      "dailyRatingChange": 5.61
+    },
+    {
+      "position": 3,
+      "playerId": "m27035",
+      "name": "Joe latterell",
+      "rating": 1657.23,
+      "dailyRatingChange": 5.02
+    },
+    {
+      "position": 4,
+      "playerId": "m40999",
+      "name": "John Schollmeyer",
+      "rating": 1606,
+      "dailyRatingChange": 1.78
+    },
+    {
+      "position": 5,
+      "playerId": "m17129",
+      "name": "Drew Smith",
+      "rating": 1667.7,
+      "dailyRatingChange": -2.11
+    },
+    {
+      "position": 6,
+      "playerId": "m18721",
+      "name": "Curtis Kranz",
+      "rating": 1527.65,
+      "dailyRatingChange": 3.2
+    },
+    {
+      "position": 7,
+      "playerId": "m39537",
+      "name": "Don Smith",
+      "rating": 1615.56,
+      "dailyRatingChange": -3.65
+    },
+    {
+      "position": 8,
+      "playerId": "i96594",
+      "name": "Gabe Schmidt",
+      "rating": 1492.98,
+      "dailyRatingChange": 2.26
+    },
+    {
+      "position": 9,
+      "playerId": "i127103",
+      "name": "Bob Folger",
+      "rating": 1395.21,
+      "dailyRatingChange": 2.83
+    },
+    {
+      "position": 10,
+      "playerId": "m31047",
+      "name": "Vance Licht",
+      "rating": 1537.44,
+      "dailyRatingChange": -7.33
+    },
+    {
+      "position": 11,
+      "playerId": "i112613",
+      "name": "Karl Unger",
+      "rating": 1448.67,
+      "dailyRatingChange": -2.32
+    },
+    {
+      "position": 12,
+      "playerId": "i114276",
+      "name": "Kevin Reishus",
+      "rating": 1404.43,
+      "dailyRatingChange": -5.02
+    },
+    {
+      "position": 13,
+      "playerId": "m35830",
+      "name": "Vickie Unger",
+      "rating": 1407.81,
+      "dailyRatingChange": -7.46
+    }
+  ]
+}

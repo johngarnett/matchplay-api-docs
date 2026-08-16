@@ -1,0 +1,215 @@
+{
+  "locationId": "9214",
+  "name": "Replay Bar",
+  "address": "37 Elizabeth Mall, Hobart, TAS 7000, AU",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 12,
+  "relatedVenues": [
+    {
+      "locationId": "11310",
+      "name": "Rokeby Ghetto HQ",
+      "address": "private",
+      "count": 11
+    },
+    {
+      "locationId": "12074",
+      "name": "Brett's place",
+      "address": "Hobart",
+      "count": 9
+    },
+    {
+      "locationId": "7450",
+      "name": "The Clubhouse Moorooka",
+      "address": "76 Koala Road, Moorooka, QLD 4105, AU",
+      "count": 7
+    },
+    {
+      "locationId": "10481",
+      "name": "The Winston",
+      "address": "381 Elizabeth Street, North Hobart, TAS 7000, AU",
+      "count": 7
+    },
+    {
+      "locationId": "11563",
+      "name": "Deep South Brewing Co.",
+      "address": "220 Argyle St, North Hobart, TAS 7000, AU",
+      "count": 7
+    },
+    {
+      "locationId": "13052",
+      "name": "gpl hq",
+      "address": "",
+      "count": 7
+    },
+    {
+      "locationId": "7180",
+      "name": "Netherworld",
+      "address": "186 Brunswick St, Fortitude Valley, QLD 4006, AU",
+      "count": 5
+    },
+    {
+      "locationId": "12925",
+      "name": "GPL Brewery",
+      "address": "Private location email TD for details",
+      "count": 4
+    },
+    {
+      "locationId": "10800",
+      "name": "Illawarra Pinball Clubhouse",
+      "address": "147 Kembla Street, Wollongong",
+      "count": 3
+    },
+    {
+      "locationId": "13069",
+      "name": "The Fraternity Club",
+      "address": "11 Bourke St, Fairy Meadow",
+      "count": 2
+    }
+  ],
+  "players": [
+    {
+      "id": "m45942",
+      "name": "Tom Fonda",
+      "rating": 1711.41,
+      "rd": 28.52,
+      "ratingClass": "Expert",
+      "homeLocation": "Replay Bar",
+      "homeLocationId": "9214",
+      "percentile": 97.23762053384264,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m22583",
+      "name": "Joshua Hesketh",
+      "rating": 1710.89,
+      "rd": 22.72,
+      "ratingClass": "Expert",
+      "homeLocation": "Replay Bar",
+      "homeLocationId": "9214",
+      "percentile": 97.20967065728793,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m45421",
+      "name": "Wes Keys",
+      "rating": 1645,
+      "rd": 21.38,
+      "ratingClass": "A",
+      "homeLocation": "Replay Bar",
+      "homeLocationId": "9214",
+      "percentile": 91.02808962593748,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m40815",
+      "name": "Simon Voigt",
+      "rating": 1640.16,
+      "rd": 22.12,
+      "ratingClass": "A",
+      "homeLocation": "Replay Bar",
+      "homeLocationId": "9214",
+      "percentile": 90.35263427586528,
+      "changeDisplay": "-5.0",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m774",
+      "name": "Joe Wade AUS",
+      "rating": 1635.17,
+      "rd": 16.44,
+      "ratingClass": "A",
+      "homeLocation": "Netherworld",
+      "homeLocationId": "7180",
+      "percentile": 89.49550472818744,
+      "changeDisplay": "-4.4",
+      "changeClass": "change-negative"
+    },
+    {
+      "id": "m30882",
+      "name": "Patrick Hewitt",
+      "rating": 1624.18,
+      "rd": 24.21,
+      "ratingClass": "A",
+      "homeLocation": "Replay Bar",
+      "homeLocationId": "9214",
+      "percentile": 87.44118880141613,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m54317",
+      "name": "Bennet McComish",
+      "rating": 1560.98,
+      "rd": 25.19,
+      "ratingClass": "B",
+      "homeLocation": "Replay Bar",
+      "homeLocationId": "9214",
+      "percentile": 70.63865467927516,
+      "changeDisplay": "+4.5",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m47943",
+      "name": "Kev Mills AUS",
+      "rating": 1551.47,
+      "rd": 22.31,
+      "ratingClass": "B",
+      "homeLocation": "Replay Bar",
+      "homeLocationId": "9214",
+      "percentile": 67.2986444309871,
+      "changeDisplay": "+0.8",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m51379",
+      "name": "Brad Nichols",
+      "rating": 1541.61,
+      "rd": 25.13,
+      "ratingClass": "B",
+      "homeLocation": "Replay Bar",
+      "homeLocationId": "9214",
+      "percentile": 63.725718544743096,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i140999",
+      "name": "Jon Moody",
+      "rating": 1452.95,
+      "rd": 25.78,
+      "ratingClass": "C",
+      "homeLocation": "Replay Bar",
+      "homeLocationId": "9214",
+      "percentile": 28.280616760609306,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i138756",
+      "name": "Jackie Berry",
+      "rating": 1351.5,
+      "rd": 29.26,
+      "ratingClass": "D",
+      "homeLocation": "Replay Bar",
+      "homeLocationId": "9214",
+      "percentile": 4.430055433921833,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i146267",
+      "name": "Andrew Cottrell",
+      "rating": 1344.08,
+      "rd": 36.58,
+      "ratingClass": "D",
+      "homeLocation": "Replay Bar",
+      "homeLocationId": "9214",
+      "percentile": 3.6288256393534257,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

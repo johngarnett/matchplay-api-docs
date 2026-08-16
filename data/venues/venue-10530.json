@@ -1,0 +1,215 @@
+{
+  "locationId": "10530",
+  "name": "Free Play Abilene",
+  "address": "250 Cypress Street, Abilene, TX 79601",
+  "ratingsDate": "2026-08-12",
+  "playerCount": 12,
+  "relatedVenues": [
+    {
+      "locationId": "8994",
+      "name": "Bender Bar and Grill",
+      "address": "321 W Ben White Blvd Ste 300, Austin, TX 78704, US",
+      "count": 8
+    },
+    {
+      "locationId": "3790",
+      "name": "Cactus Jacks",
+      "address": "",
+      "count": 2
+    },
+    {
+      "locationId": "66",
+      "name": "Cactus Jack's",
+      "address": "",
+      "count": 1
+    },
+    {
+      "locationId": "3906",
+      "name": "Wylie Home",
+      "address": "Carrollton, TX, USA",
+      "count": 1
+    },
+    {
+      "locationId": "5624",
+      "name": "Cactus Jack's Family Fun Center",
+      "address": "1211 N. Council Road, Oklahoma City, OK, 73127, US",
+      "count": 1
+    },
+    {
+      "locationId": "7481",
+      "name": "Electric Bat Arcade",
+      "address": "25 W Southern Ave, Tempe, AZ 85282, US",
+      "count": 1
+    },
+    {
+      "locationId": "8271",
+      "name": "Rezzanine Esports",
+      "address": "1025 Washington Pike, Bridgeville, PA 15017, US",
+      "count": 1
+    },
+    {
+      "locationId": "10621",
+      "name": "PCP",
+      "address": "787 W FM 996 pottsboro tx 75076",
+      "count": 1
+    },
+    {
+      "locationId": "10631",
+      "name": "Austin Beerworks - Sprinkle Valley",
+      "address": "10300 Springdale Rd, Austin, TX 78754, US",
+      "count": 1
+    },
+    {
+      "locationId": "11561",
+      "name": "Austin Pinball Collective",
+      "address": "1106 Clayton Ln, Austin, TX 78723, US",
+      "count": 1
+    }
+  ],
+  "players": [
+    {
+      "id": "m22318",
+      "name": "Keith Shahan",
+      "rating": 1677.41,
+      "rd": 21.63,
+      "ratingClass": "A",
+      "homeLocation": "Free Play Abilene",
+      "homeLocationId": "10530",
+      "percentile": 94.88983090324685,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "m26959",
+      "name": "Robie Rowley",
+      "rating": 1637.26,
+      "rd": 22.55,
+      "ratingClass": "A",
+      "homeLocation": "Bender Bar and Grill",
+      "homeLocationId": "8994",
+      "percentile": 89.88680299995342,
+      "changeDisplay": "+0.8",
+      "changeClass": "change-positive"
+    },
+    {
+      "id": "m56988",
+      "name": "Christopher Reader",
+      "rating": 1611.23,
+      "rd": 29.57,
+      "ratingClass": "A",
+      "homeLocation": "Free Play Abilene",
+      "homeLocationId": "10530",
+      "percentile": 84.73470908836819,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i133353",
+      "name": "Sarah Kader",
+      "rating": 1510.87,
+      "rd": 29.6,
+      "ratingClass": "B",
+      "homeLocation": "Free Play Abilene",
+      "homeLocationId": "10530",
+      "percentile": 51.57218055620254,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i28696",
+      "name": "Kimberly Shahan",
+      "rating": 1492.84,
+      "rd": 43.66,
+      "ratingClass": "C",
+      "homeLocation": "Free Play Abilene",
+      "homeLocationId": "10530",
+      "percentile": 44.22602133507244,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i90025",
+      "name": "Vernon Lambert",
+      "rating": 1470.97,
+      "rd": 58.31,
+      "ratingClass": "C",
+      "homeLocation": "Free Play Abilene",
+      "homeLocationId": "10530",
+      "percentile": 35.2494526482508,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i133351",
+      "name": "Nick Fallecker",
+      "rating": 1445.25,
+      "rd": 43.21,
+      "ratingClass": "C",
+      "homeLocation": "Free Play Abilene",
+      "homeLocationId": "10530",
+      "percentile": 25.49028741789724,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i133352",
+      "name": "Fernando Acosta",
+      "rating": 1442.69,
+      "rd": 40.41,
+      "ratingClass": "C",
+      "homeLocation": "Free Play Abilene",
+      "homeLocationId": "10530",
+      "percentile": 24.605207993664692,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i135392",
+      "name": "Bailey Moreno",
+      "rating": 1426.28,
+      "rd": 45.87,
+      "ratingClass": "C",
+      "homeLocation": "Free Play Abilene",
+      "homeLocationId": "10530",
+      "percentile": 19.499697209670657,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i133350",
+      "name": "April Fallecker",
+      "rating": 1425.56,
+      "rd": 46.3,
+      "ratingClass": "C",
+      "homeLocation": "Free Play Abilene",
+      "homeLocationId": "10530",
+      "percentile": 19.294731448269438,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i133349",
+      "name": "Declan Moreno",
+      "rating": 1329.19,
+      "rd": 41.39,
+      "ratingClass": "D",
+      "homeLocation": "Free Play Abilene",
+      "homeLocationId": "10530",
+      "percentile": 2.422322634741697,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    },
+    {
+      "id": "i135391",
+      "name": "Rush Moreno",
+      "rating": 1312.79,
+      "rd": 45.06,
+      "ratingClass": "D",
+      "homeLocation": "Free Play Abilene",
+      "homeLocationId": "10530",
+      "percentile": 1.4953183956770857,
+      "changeDisplay": "-",
+      "changeClass": "change-none"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "locationId": "11059",
+  "venueName": "Grand Strand Brewing",
+  "venueAddress": "819 North Kings Hwy. Myrtle Beach, SC 29577",
+  "tournaments": [
+    {
+      "id": 262741,
+      "name": "Finals for Grand Strand Flippers Summer Slam",
+      "date": "7/18/2026",
+      "playerCount": 3,
+      "qualifying": {
+        "id": 262701,
+        "name": "Grand Strand Flippers Summer Slam",
+        "playerCount": 7
+      },
+      "standings": [
+        {
+          "position": 1,
+          "playerId": "i94832",
+          "name": "Jack Kuiken",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 2,
+          "playerId": "i26635",
+          "name": "Shawn Speir",
+          "isVenuePlayer": true
+        },
+        {
+          "position": 3,
+          "playerId": "m3553",
+          "name": "Kevin Myers MD",
+          "isVenuePlayer": true
+        }
+      ]
+    }
+  ]
+}

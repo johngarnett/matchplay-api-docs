@@ -1,0 +1,53 @@
+{
+  "tournamentId": 266992,
+  "name": "Finals for Harborcade Womxn’s Tournament August",
+  "date": "2026-08-14",
+  "locationId": "13219",
+  "locationName": "HarborCade @ Locust Cider",
+  "playerCount": 6,
+  "ratingsDate": null,
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m25037",
+      "name": "Kathleen Rush",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 2,
+      "playerId": "i57875",
+      "name": "Bon Bon",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 3,
+      "playerId": "m37896",
+      "name": "Lilly Brickner",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 4,
+      "playerId": "m20705",
+      "name": "Sarah Bay",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 5,
+      "playerId": "m15575",
+      "name": "Jessica Barron",
+      "rating": null,
+      "dailyRatingChange": 0
+    },
+    {
+      "position": 6,
+      "playerId": "m20960",
+      "name": "Rachel Fulton",
+      "rating": null,
+      "dailyRatingChange": 0
+    }
+  ]
+}

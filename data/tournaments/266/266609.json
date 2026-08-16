@@ -1,0 +1,81 @@
+{
+  "tournamentId": 266609,
+  "name": "DSPL Summer 2026 #1",
+  "date": "2026-08-12",
+  "locationId": "8354",
+  "locationName": "Black Circle Bistro",
+  "playerCount": 10,
+  "ratingsDate": "2026-08-12",
+  "standings": [
+    {
+      "position": 1,
+      "playerId": "m51697",
+      "name": "Midori Bartholomew",
+      "rating": 1555.82,
+      "dailyRatingChange": 9.6
+    },
+    {
+      "position": 2,
+      "playerId": "m49751",
+      "name": "Greg White",
+      "rating": 1587.51,
+      "dailyRatingChange": 1.68
+    },
+    {
+      "position": 2,
+      "playerId": "m18219",
+      "name": "David Creager",
+      "rating": 1595.23,
+      "dailyRatingChange": 2.5
+    },
+    {
+      "position": 4,
+      "playerId": "i148686",
+      "name": "Randi Grossnan",
+      "rating": 1461.15,
+      "dailyRatingChange": 13.66
+    },
+    {
+      "position": 5,
+      "playerId": "i102610",
+      "name": "Stephen Word",
+      "rating": 1497.03,
+      "dailyRatingChange": 2.03
+    },
+    {
+      "position": 6,
+      "playerId": "m46691",
+      "name": "Brandy Hale",
+      "rating": 1430.07,
+      "dailyRatingChange": 2.66
+    },
+    {
+      "position": 7,
+      "playerId": "i136862",
+      "name": "Danyelle Hale",
+      "rating": 1482.18,
+      "dailyRatingChange": -9.82
+    },
+    {
+      "position": 8,
+      "playerId": "i138898",
+      "name": "Yuki Lawrence",
+      "rating": 1396.83,
+      "dailyRatingChange": -0.87
+    },
+    {
+      "position": 9,
+      "playerId": "m55067",
+      "name": "Kashi Wetzel",
+      "rating": 1435.29,
+      "dailyRatingChange": -3.42
+    },
+    {
+      "position": 10,
+      "playerId": "m52781",
+      "name": "Kiyoko Lawrence",
+      "rating": 1462.62,
+      "dailyRatingChange": -11.87
+    }
+  ]
+}
