@@ -175,11 +175,11 @@ bulk data, use the [data exports](/exports.html) or contact Match Play.
 ### Endpoints that don't paginate at all
 
 `/tournaments/{id}/rounds` and `/tournaments/{id}/games` return everything in one response
-with no `links` or `meta` — a 135-game tournament came back whole. This is what makes
-seeding a tournament cheap: three calls regardless of size.
+with no `links` or `meta`, [however many games there are](/games.html#games-for-a-tournament).
+This is what makes seeding a tournament cheap: three calls regardless of size.
 
-Summary endpoints paginate but default to `per_page: 5000`, so one request is normally
-enough.
+[Summary endpoints](/summaries.html) paginate but default to a very large page size, so one
+request is normally enough.
 
 ## Timestamp formats
 

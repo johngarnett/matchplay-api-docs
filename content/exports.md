@@ -83,7 +83,7 @@ are unrelated, and the row date will often be days or weeks older.
 
 </div>
 
-<div class="callout callout-trap">
+<div class="callout callout-trap" id="most-rated-players-have-no-id-at-all">
 <span class="callout-title">Most rated players have no id at all</span>
 
 Match Play rates anyone who plays a rated tournament, whether or not they ever created an

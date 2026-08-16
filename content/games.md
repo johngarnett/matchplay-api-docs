@@ -177,9 +177,10 @@ naive code reads as "this player lost".
 
 **Always gate on `status === "completed"` before reading any result field.**
 
-In formats that permit ties, `resultPositions` stays partially null even *after* completion
-— in one captured tournament, 37 of 45 completed games had at least one null. Use
-`resultPoints` there instead. See [Scoring](/scoring.html).
+In formats that permit ties, `resultPositions` stays partially null even *after* completion,
+often enough to be the normal case rather than an edge case. Use `resultPoints` there
+instead — see [fair strikes](/scoring.html#2-fair-strikes) for the measurement and the
+method.
 </div>
 
 ## Byes

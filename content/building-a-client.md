@@ -98,7 +98,8 @@ count is `standings.length`.
 
 ### Budget
 
-Ten tournaments, all cold: 1 + (10 × 3) = **31 calls**, about 16 seconds at 525ms spacing.
+Ten tournaments, all cold: 1 + (10 × 3) = **31 calls**, about 16 seconds at the
+[serialized spacing](/rate-limits.html#serialized-spacing) shown earlier.
 Warm: **1 call**. A second player sharing eight of those tournaments: 1 + (2 × 3) = **7
 calls**.
 
@@ -149,7 +150,8 @@ periodically                                          →  refetch roster (silen
 ```
 
 Costs: 3 calls to seed, 3 per reconnect **per subscription**, 1 per round start,
-`ceil(n / 25)` per player change. Reconnect is your biggest burst — make sure it shares the
+one [resolve-unknown](/identity.html#resolve-unknown) batch per player change.
+Reconnect is your biggest burst — make sure it shares the
 rate limiter with everything else.
 
 See [the six silences](/realtime.html#the-six-silences) for why each REST call is unavoidable.

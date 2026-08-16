@@ -172,6 +172,14 @@ non-empty result set is not a match; filter for the exact name.
   directions.
 - **Where code and the official handbook disagree, document observed behaviour** and record
   the divergence in `content/divergences.md`.
+- **State each fact once, in the page where a reader needs it, and link from everywhere
+  else.** Every stale claim found so far was a *restatement*, not an original: the detailed
+  page got corrected and the bullet, table or checklist paraphrasing it did not. A link
+  cannot go stale; a duplicated number can. Teasers and summaries are fine — they should
+  name the trap and link, not repeat the measurement.
+
+  If the canonical statement lives in a callout rather than a heading, give the callout an
+  explicit `id` so other pages can link to it. `{#custom-id}` works on headings only.
 - **When correcting a claim, grep for every place that restates it.** Overview bullets,
   "what you get here" teasers and the divergences lists all paraphrase claims made in
   depth elsewhere, and a correction applied only to the detailed page leaves them behind.

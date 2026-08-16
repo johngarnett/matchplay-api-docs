@@ -150,8 +150,8 @@ the cost reasonable.
 `PlayersAdded`, `PlayersChanged`, `ArenasAdded` and `ArenasChanged` give you nothing but
 identifiers.
 
-**Workaround:** [`resolve-unknown`](/identity.html#resolve-unknown), which takes 25 ids per
-call. Coalesce `*Added` events — they often arrive in bursts during registration — but
+**Workaround:** [`resolve-unknown`](/identity.html#resolve-unknown), in batches. Coalesce
+`*Added` events — they often arrive in bursts during registration — but
 resolve `*Changed` promptly, since it usually signals a deactivation you want to reflect
 immediately.
 
