@@ -14,6 +14,7 @@ const MarkdownIt = require('markdown-it')
 const anchor = require('markdown-it-anchor')
 
 const { renderPage } = require('./layout')
+const { insertToc } = require('./toc')
 const { expandSchemaPlaceholders } = require('./schemaTables')
 const { writeOpenApiJson, writeJsonSchemas, writeLlmsTxt, writeLlmsFullTxt } = require('./emit')
 
@@ -186,7 +187,7 @@ function build() {
 
    for (const page of pages) {
       page.expandedMarkdown = stripClaimTags(expandSchemaPlaceholders(page.body, spec, asyncApiSpec))
-      const bodyHtml = md.render(page.expandedMarkdown)
+      const bodyHtml = insertToc(md.render(page.expandedMarkdown))
       const html = renderPage({
          title: page.title,
          description: page.description,

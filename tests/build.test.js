@@ -11,6 +11,7 @@ const { parseFrontMatter, loadPages, applyBasePath, addCalloutIds } = require('.
 const { renderSchemaTable, collectProperties, describeType, expandSchemaPlaceholders } = require('../src/schemaTables')
 const { renderPage } = require('../src/layout')
 const { rewriteRefs } = require('../src/emit')
+const { collectHeadings, renderToc, insertToc } = require('../src/toc')
 const { collect: collectClaims } = require('../scripts/claims')
 
 const ROOT = path.join(__dirname, '..')
@@ -269,4 +270,78 @@ test('rewriteRefs descends into arrays and nested objects', () => {
       items: { $ref: '#/components/schemas/Game' }
    })
    assert.equal(rewritten.items.$ref, './Game.json')
+})
+
+// ---- Table of contents ----------------------------------------------------
+
+const H2 = (id, text) => `<h2 id="${id}" tabindex="-1">${text} <a class="header-anchor" href="#${id}">#</a></h2>`
+const H3 = (id, text) => `<h3 id="${id}" tabindex="-1">${text} <a class="header-anchor" href="#${id}">#</a></h3>`
+
+// Enough headings to clear TOC_MIN_HEADINGS.
+function longPage() {
+   let html = '<p>Intro.</p>'
+   for (let i = 0; i < 7; i += 1) html += H2(`s${i}`, `Section ${i}`) + H3(`u${i}`, `Sub ${i}`)
+   return html
+}
+
+test('collectHeadings strips the permalink and any inline markup', () => {
+   const html = H2('points-map', 'The <code>pointsMap</code> field')
+   assert.deepEqual(collectHeadings(html), [{ level: 2, id: 'points-map', text: 'The pointsMap field' }])
+})
+
+test('collectHeadings ignores h4, which is used for sub-points', () => {
+   const html = H2('a', 'A') + '<h4 id="b" tabindex="-1">B</h4>'
+   assert.deepEqual(collectHeadings(html).map(h => h.id), ['a'])
+})
+
+test('renderToc nests an h3 inside the preceding h2 list item', () => {
+   const toc = renderToc([
+      { level: 2, id: 'a', text: 'A' },
+      { level: 3, id: 'b', text: 'B' }
+   ])
+   // The sublist must open inside the <li>, not after it closes.
+   assert.match(toc, /<li><a href="#a">A<\/a>\s*<ul>\s*<li><a href="#b">B<\/a><\/li>\s*<\/ul>\s*<\/li>/)
+})
+
+test('renderToc closes every tag it opens', () => {
+   const toc = renderToc([
+      { level: 2, id: 'a', text: 'A' },
+      { level: 3, id: 'b', text: 'B' },
+      { level: 2, id: 'c', text: 'C' }
+   ])
+   assert.equal((toc.match(/<ul>/g) || []).length, (toc.match(/<\/ul>/g) || []).length)
+   assert.equal((toc.match(/<li>/g) || []).length, (toc.match(/<\/li>/g) || []).length)
+})
+
+test('renderToc promotes an h3 that precedes any h2', () => {
+   const toc = renderToc([{ level: 3, id: 'orphan', text: 'Orphan' }])
+   assert.match(toc, /<ul>\s*<li><a href="#orphan">Orphan<\/a><\/li>\s*<\/ul>/)
+})
+
+test('insertToc leaves a short page alone', () => {
+   const html = H2('a', 'A') + H2('b', 'B')
+   assert.equal(insertToc(html), html)
+})
+
+test('insertToc places the contents before the first h2, not before the intro', () => {
+   const html = insertToc(longPage())
+   assert.ok(html.indexOf('<p>Intro.</p>') < html.indexOf('class="toc"'), 'intro comes first')
+   assert.ok(html.indexOf('class="toc"') < html.indexOf('id="s0"'), 'toc precedes the first section')
+})
+
+test('the contents never links to itself', () => {
+   const toc = insertToc(longPage()).match(/<nav class="toc"[\s\S]*?<\/nav>/)[0]
+   assert.ok(!toc.includes('href="#toc-heading"'))
+})
+
+test('every contents link points at an id that exists on the page', () => {
+   for (const name of fs.readdirSync(path.join(ROOT, 'dist')).filter(f => f.endsWith('.html'))) {
+      const html = fs.readFileSync(path.join(ROOT, 'dist', name), 'utf8')
+      const toc = html.match(/<nav class="toc"[\s\S]*?<\/nav>/)
+      if (!toc) continue
+
+      for (const [, id] of toc[0].matchAll(/href="#([^"]+)"/g)) {
+         assert.ok(html.includes(`id="${id}"`), `${name}: contents links to missing #${id}`)
+      }
+   }
 })
