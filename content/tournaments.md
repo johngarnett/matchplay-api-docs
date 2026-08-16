@@ -227,6 +227,93 @@ When there are no links the array is `null`, not `[]`.
 `linkType` has [six values](/enumerations.html#configuration-values), not two — a link also
 joins a tournament to a series, an arena, a queue or an entry list.
 
+<!-- claim:auto-close canonical -->
+### `status: "started"` and the two-day auto-close {#status-started}
+
+Organizers routinely start a tournament, run it, and then just close the laptop without
+marking it complete. Match Play cleans up after them: **a `started` tournament with no
+activity for two days is closed automatically.**
+
+Measured against the live `status=started` list:
+
+<div class="table-scroll">
+
+| Group | Count | Longest idle |
+| --- | --- | --- |
+| Scheduled window closed (`endLocal` in the past) | 77 | **1.68 days** |
+| Scheduled window still open (`endLocal` in the future) | 23 | 24.85 days |
+
+</div>
+
+Not one tournament past its scheduled end had been idle for even two days — a clean cliff,
+exactly where the auto-close predicts. The long-idle exceptions are all still inside their
+scheduled window, and all long-running asynchronous formats: `best_game` ×13,
+`card_best_game` ×2, `golf`, `group_matchplay`. A month-long best-game competition is
+*supposed* to sit quiet between sessions.
+
+This sample cannot separate whether the exemption keys on `endLocal` or on the format type,
+since those two overlap almost perfectly here.
+
+<div class="callout callout-warn">
+<span class="callout-title">Older guidance on this is wrong</span>
+
+Documentation and code written before the auto-close — including earlier notes behind this
+site — describe `started` as mostly meaning "finished but abandoned", citing samples with
+tournaments idle for over a month. **That no longer holds.** In the sample above, zero
+tournaments were idle more than 25 days and none at all past their scheduled end.
+
+The auto-close was described by Match Play's author as a recent policy change, which is
+consistent with what older captures show.
+</div>
+
+What this means in practice:
+
+- **`started` is now a reasonable liveness signal** for ordinary formats — a knockout or
+  match play tournament in that state was active within the last two days.
+- **It is not a signal at all for long-running formats.** A `best_game` tournament can be
+  `started` and untouched for weeks.
+- **Filtering on `status=completed` still loses tournaments** — the ones currently inside
+  their two-day grace period, plus every long-running event still in its window. Include
+  `started` when computing a player's record.
+- **For "is someone playing right now"**, `started` is not enough. Use a game with
+  `status: "started"`, or a non-empty `activeGames` on a
+  [standings row](/standings.html#live-display-columns).
+
+### The field set depends on the type
+
+Configuration keys are **absent**, not null, when they don't apply. This is a per-type
+schema, not one schema with optional fields.
+
+<div class="table-scroll">
+
+| Type | Format-specific keys present |
+| --- | --- |
+| `knockout` | `knockoutStrikeCount`, `byes`, `pairing`, `firstRoundPairing`, `seeding`, `playerOrder`, `arenaAssignment` |
+| `matchplay` | above plus `duration`, `gamesPerRound`, `tiebreaker` |
+| `group_matchplay` | `scoring`, `tiebreaker`, `duration`, `gamesPerRound`, `pairing` — but **no `byes`** |
+| `max_matchplay` | `maxMatchplay*` — **no** `seeding`, `pairing` or `byes` |
+| `best_game` | `bestGame*`, `useQueues` — **no** `seeding`, `pairing`, `byes` or `arenaAssignment` |
+| `card_best_game` | `cardBestGame*`, `bestGameOverallAttempts`, `useQueues` |
+| `frenzy` | `frenzyDuration`, `frenzyQueueSize`, `frenzyStandings`, `frenzyPausedSecondsLeft` |
+| `round_robin`, `double_round_robin` | `roundRobinGroupSize`, `byes`, `seeding` |
+| `group_bracket` | `roundCount`, `bracketSize`, `groupBracketDoubleByes` |
+| `golf`, `bowling` | `golf*`, `tiebreaker` |
+| `target` | `targetPoints`, `scoring` |
+| `amazingrace` | `seeding`, `arenaAssignment` only |
+
+</div>
+
+So `if (tournament.seeding === null)` and `if (!('seeding' in tournament))` mean different
+things, and iterating `Object.keys()` gives different results per tournament.
+
+<div class="callout">
+<span class="callout-title">There is no reliable round limit</span>
+
+`roundCount` exists on `group_bracket` only. A live `matchplay` tournament's full payload
+carries no round limit at all — one observed example had `duration: 0`, `gamesPerRound: 1`,
+and an `endUtc` it overran by about three hours. Treat `endUtc` as advisory.
+</div>
+
 ## Finding the playoff, or the qualifier {#finding-links}
 
 This is the question `linkedTournaments[]` exists to answer, and the answer turns on one rule
@@ -445,93 +532,6 @@ For 2,013 of the link-less tournaments a [`playoffsCutoffs`](#playoffscutoffs) e
 naming a final or playoff. That suggests the organizer intended one, and nothing more — it
 carries **no tournament id**, so it can never tell you *which* tournament the final is. Treat
 it as a display label, not as a link.
-
-<!-- claim:auto-close canonical -->
-### `status: "started"` and the two-day auto-close {#status-started}
-
-Organizers routinely start a tournament, run it, and then just close the laptop without
-marking it complete. Match Play cleans up after them: **a `started` tournament with no
-activity for two days is closed automatically.**
-
-Measured against the live `status=started` list:
-
-<div class="table-scroll">
-
-| Group | Count | Longest idle |
-| --- | --- | --- |
-| Scheduled window closed (`endLocal` in the past) | 77 | **1.68 days** |
-| Scheduled window still open (`endLocal` in the future) | 23 | 24.85 days |
-
-</div>
-
-Not one tournament past its scheduled end had been idle for even two days — a clean cliff,
-exactly where the auto-close predicts. The long-idle exceptions are all still inside their
-scheduled window, and all long-running asynchronous formats: `best_game` ×13,
-`card_best_game` ×2, `golf`, `group_matchplay`. A month-long best-game competition is
-*supposed* to sit quiet between sessions.
-
-This sample cannot separate whether the exemption keys on `endLocal` or on the format type,
-since those two overlap almost perfectly here.
-
-<div class="callout callout-warn">
-<span class="callout-title">Older guidance on this is wrong</span>
-
-Documentation and code written before the auto-close — including earlier notes behind this
-site — describe `started` as mostly meaning "finished but abandoned", citing samples with
-tournaments idle for over a month. **That no longer holds.** In the sample above, zero
-tournaments were idle more than 25 days and none at all past their scheduled end.
-
-The auto-close was described by Match Play's author as a recent policy change, which is
-consistent with what older captures show.
-</div>
-
-What this means in practice:
-
-- **`started` is now a reasonable liveness signal** for ordinary formats — a knockout or
-  match play tournament in that state was active within the last two days.
-- **It is not a signal at all for long-running formats.** A `best_game` tournament can be
-  `started` and untouched for weeks.
-- **Filtering on `status=completed` still loses tournaments** — the ones currently inside
-  their two-day grace period, plus every long-running event still in its window. Include
-  `started` when computing a player's record.
-- **For "is someone playing right now"**, `started` is not enough. Use a game with
-  `status: "started"`, or a non-empty `activeGames` on a
-  [standings row](/standings.html#live-display-columns).
-
-### The field set depends on the type
-
-Configuration keys are **absent**, not null, when they don't apply. This is a per-type
-schema, not one schema with optional fields.
-
-<div class="table-scroll">
-
-| Type | Format-specific keys present |
-| --- | --- |
-| `knockout` | `knockoutStrikeCount`, `byes`, `pairing`, `firstRoundPairing`, `seeding`, `playerOrder`, `arenaAssignment` |
-| `matchplay` | above plus `duration`, `gamesPerRound`, `tiebreaker` |
-| `group_matchplay` | `scoring`, `tiebreaker`, `duration`, `gamesPerRound`, `pairing` — but **no `byes`** |
-| `max_matchplay` | `maxMatchplay*` — **no** `seeding`, `pairing` or `byes` |
-| `best_game` | `bestGame*`, `useQueues` — **no** `seeding`, `pairing`, `byes` or `arenaAssignment` |
-| `card_best_game` | `cardBestGame*`, `bestGameOverallAttempts`, `useQueues` |
-| `frenzy` | `frenzyDuration`, `frenzyQueueSize`, `frenzyStandings`, `frenzyPausedSecondsLeft` |
-| `round_robin`, `double_round_robin` | `roundRobinGroupSize`, `byes`, `seeding` |
-| `group_bracket` | `roundCount`, `bracketSize`, `groupBracketDoubleByes` |
-| `golf`, `bowling` | `golf*`, `tiebreaker` |
-| `target` | `targetPoints`, `scoring` |
-| `amazingrace` | `seeding`, `arenaAssignment` only |
-
-</div>
-
-So `if (tournament.seeding === null)` and `if (!('seeding' in tournament))` mean different
-things, and iterating `Object.keys()` gives different results per tournament.
-
-<div class="callout">
-<span class="callout-title">There is no reliable round limit</span>
-
-`roundCount` exists on `group_bracket` only. A live `matchplay` tournament's full payload
-carries no round limit at all — one observed example had `duration: 0`, `gamesPerRound: 1`,
-and an `endUtc` it overran by about three hours. Treat `endUtc` as advisory.
-</div>
 
 ## Notable nested objects
 
