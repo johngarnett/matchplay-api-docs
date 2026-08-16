@@ -339,7 +339,8 @@ In order of how much you should trust them:
    venue and its neighbour can sit within a few metres of each other.
 4. **Player overlap**, and **whether the director plays at the other venue** — the fallbacks
    that work when a record has no external id at all, which is half of them. Used together
-   they catch 82.8% of provable duplicates while firing on 1.0% of unrelated pairs.
+   they catch 82.8% of provable duplicates while firing on 1.0% of unrelated pairs; adding a
+   name check takes the false-positive rate to 0.01%.
 
 <div class="callout callout-trap">
 <span class="callout-title">The name is not a key, and neither is the address</span>
@@ -351,6 +352,10 @@ half you cannot check.
 
 Matching on normalised names will therefore merge venues that share a common name
 (`"The Pinball Museum"`) while missing the pairs you actually needed to catch.
+
+As a *filter* on another signal it earns its place — see
+[requiring the name to match as well](#requiring-the-name-to-match-as-well). It is starting
+from the name that goes wrong.
 </div>
 
 ### Player overlap
@@ -480,6 +485,50 @@ duplicates that the overlap test missed — 6.2% of all true pairs — for 0.3 p
 false positives. A director can attend a neighbouring venue whose crowd barely intersects
 theirs, which is exactly the [restricted-field case](#locations) above: a small women's league
 and a large open one may share little but their organizers.
+
+### Requiring the name to match as well
+
+The name is [useless as a key on its own](#locations), but as a *filter* on another signal it
+is powerful. Directors are local, so one turning up at a second venue mostly means the two
+are in the same town — it does not make them the same building. Requiring the names to agree
+as well removes almost everything that survives:
+
+<div class="table-scroll">
+
+| Rule | Same venue | Different venues |
+| --- | --- | --- |
+| Director plays at the other location | 63.6% | 0.70% |
+| Similar name | 96.8% | 0.43% |
+| **Both** | **61.8%** | **0.01%** |
+
+</div>
+
+Roughly one in three of the pairs the director test flags is a genuine duplicate; requiring a
+similar name as well takes that to the great majority, at the cost of a couple of points of
+recall.
+
+<div class="callout callout-warn">
+<span class="callout-title">That 0.01% is an over-estimate, and the residue is not coincidence</span>
+
+These rates are measured against pairs with **different `scorbitVenueId`s**, treated as
+"different venues" — but Scorbit has duplicates of its own. Inspecting the ~90 survivors
+across 300,000 pairs, they are almost all one of three things, and only the last is an error:
+
+- **Venues Scorbit itself failed to unify.** `Flipperz Pinball` and `Flipperz Pinball` sit at
+  the same coordinates under two Scorbit ids; `Next Level Pinball Museum` and `Next Level` are
+  10 metres apart. These are correct answers being scored as mistakes.
+- **Two branches of one business in one metro** — `Barcade (Brooklyn)` and `Barcade FiDi`,
+  5 km apart; `Quarters Arcade Bar` and `Quarters Arcade Bar (Sugarhouse)`. Same brand, same
+  owner, genuinely different buildings. **This is the real limit of the technique**, and no
+  amount of name matching fixes it. Coordinates do.
+- **Generic words surviving normalisation** — `The Kraken Bar & Lounge` against
+  `Rickshaw Restaurant & Lounge`, matching on "lounge"; `Roshambo Beverage Company` against
+  `Mordecai Beverage Company`. Strip venue-type words (`bar`, `lounge`, `arcade`, `brewing`,
+  `company`, `tavern`) before comparing, or these are what you will get.
+
+What does *not* appear is an unrelated venue that coincidentally shares a name and a director.
+Treat a surviving disagreement as a branch or a Scorbit duplicate, not as a fluke.
+</div>
 
 ```js
 // Independent of roster overlap, and cheap: one id against a set.
