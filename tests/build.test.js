@@ -334,14 +334,17 @@ test('the contents never links to itself', () => {
    assert.ok(!toc.includes('href="#toc-heading"'))
 })
 
-test('every contents link points at an id that exists on the page', () => {
-   for (const name of fs.readdirSync(path.join(ROOT, 'dist')).filter(f => f.endsWith('.html'))) {
-      const html = fs.readFileSync(path.join(ROOT, 'dist', name), 'utf8')
-      const toc = html.match(/<nav class="toc"[\s\S]*?<\/nav>/)
-      if (!toc) continue
+// Whether every contents link resolves to a real id is checked against the
+// built site by tests/site.spec.js -- its link-integrity test already walks
+// `a[href^="#"]` on every page, which is exactly what the contents emits. A
+// copy here would have to read dist/, which does not exist when `npm test`
+// runs on a clean checkout.
+test('insertToc only emits links to headings it found', () => {
+   const html = insertToc(longPage())
+   const toc = html.match(/<nav class="toc"[\s\S]*?<\/nav>/)[0]
+   const ids = new Set(collectHeadings(html).map(h => h.id))
 
-      for (const [, id] of toc[0].matchAll(/href="#([^"]+)"/g)) {
-         assert.ok(html.includes(`id="${id}"`), `${name}: contents links to missing #${id}`)
-      }
+   for (const [, id] of toc.matchAll(/href="#([^"]+)"/g)) {
+      assert.ok(ids.has(id), `contents links to #${id}, which is not a heading on the page`)
    }
 })
