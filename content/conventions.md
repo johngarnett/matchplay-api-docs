@@ -28,6 +28,7 @@ Accept: application/json
 Tokens come from [app.matchplay.events/account/tokens](https://app.matchplay.events/account/tokens)
 and are Laravel Sanctum style: `<id>|<secret>`.
 
+<!-- claim:rate-budget -->
 The rate budget is charged against the **token**, not your IP — see
 [Rate limits](/rate-limits.html).
 
@@ -210,6 +211,7 @@ the **next day** in UTC. Anything user-facing ("tournaments this month") must gr
 zone if you need to convert.
 </div>
 
+<!-- claim:player-id-scope -->
 ## Identifier namespaces
 
 Three separate id spaces are in play, and confusing them is the most common source of bugs.

@@ -104,6 +104,7 @@ curl -s "https://app.matchplay.events/api/tournaments/261001?includePlayers=true
 
 ## Three things that will bite you
 
+<!-- claim:linked-tournament-id canonical -->
 ### `linkedTournamentId` is unreliable
 
 The scalar `linkedTournamentId` was `null` on **all 102 tournaments** in a sample of recent
@@ -129,6 +130,7 @@ When there are no links the array is `null`, not `[]`.
 
 `linkType` is `qualifying` or `playoff`.
 
+<!-- claim:auto-close canonical -->
 ### `status: "started"` and the two-day auto-close {#status-started}
 
 Organizers routinely start a tournament, run it, and then just close the laptop without

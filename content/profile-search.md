@@ -35,6 +35,7 @@ Results are full objects, not stubs: `type=users` returns complete
 [`Tournament`](/tournaments.html) objects. A search for `Jones` returned 192 users across 8
 pages.
 
+<!-- claim:idless-players -->
 <div class="callout callout-warn">
 <span class="callout-title">Matching is fuzzy, and account-only</span>
 

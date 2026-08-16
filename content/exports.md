@@ -83,6 +83,7 @@ are unrelated, and the row date will often be days or weeks older.
 
 </div>
 
+<!-- claim:idless-players canonical -->
 <div class="callout callout-trap" id="most-rated-players-have-no-id-at-all">
 <span class="callout-title">Most rated players have no id at all</span>
 

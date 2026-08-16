@@ -29,6 +29,7 @@ Three ideas carry most of the weight:
 
 Goal: a player's record over the last two months.
 
+<!-- claim:auto-close -->
 ### 1. Their tournaments — one call
 
 ```

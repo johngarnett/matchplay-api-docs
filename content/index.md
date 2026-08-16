@@ -56,6 +56,7 @@ attested it is.
 
 ## Start here
 
+<!-- claim:games-field-diff -->
 <div class="callout callout-trap">
 <span class="callout-title">Read this before you write any code</span>
 

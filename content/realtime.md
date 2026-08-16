@@ -163,6 +163,7 @@ There is no catch-up mechanism at all.
 rounds, games. Three calls per subscribed tournament. With many subscriptions this is your
 largest burst of API usage, so make sure your rate limiter is shared with it.
 
+<!-- claim:auto-close -->
 ### 5. Completion is often never sent
 
 Organizers frequently just stop, and no `TournamentUpdated` with `status: "completed"`
@@ -196,6 +197,7 @@ Freeze a round's `index` when you first see it and don't update it on subsequent
 the same `roundId`.
 </div>
 
+<!-- claim:live-result-arrays -->
 <div class="callout callout-warn">
 <span class="callout-title">Gate on <code>status</code> before reading results</span>
 

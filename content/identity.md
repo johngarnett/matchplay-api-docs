@@ -11,6 +11,7 @@ Three separate identifier namespaces coexist in this API, and Match Play's handb
 describe how they relate. Getting the model right is a prerequisite for almost any interesting query — "how
 did *this person* do?" is surprisingly hard to answer.
 
+<!-- claim:player-id-scope canonical -->
 ## The three namespaces
 
 <div class="table-scroll">
@@ -23,6 +24,7 @@ did *this person* do?" is surprisingly hard to answer.
 
 </div>
 
+<!-- claim:idless-players -->
 <div class="callout callout-warn">
 <span class="callout-title">A rated player may have none of the three</span>
 

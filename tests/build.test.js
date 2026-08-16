@@ -11,6 +11,7 @@ const { parseFrontMatter, loadPages, applyBasePath } = require('../src/build')
 const { renderSchemaTable, collectProperties, describeType, expandSchemaPlaceholders } = require('../src/schemaTables')
 const { renderPage } = require('../src/layout')
 const { rewriteRefs } = require('../src/emit')
+const { collect: collectClaims } = require('../scripts/claims')
 
 const ROOT = path.join(__dirname, '..')
 const spec = YAML.parse(fs.readFileSync(path.join(ROOT, 'spec', 'openapi.yaml'), 'utf8'))
@@ -121,6 +122,33 @@ test('the AsyncAPI reference renders every message', () => {
    for (const name of Object.keys(asyncApiSpec.components.messages)) {
       assert.ok(md.includes(`\`${name}\``), `${name} is missing from the websocket reference`)
    }
+})
+
+test('every claim tag has exactly one canonical location', () => {
+   // A claim explained in full on two pages is the duplication these tags exist
+   // to prevent; a claim referenced with no canonical has nowhere to point.
+   const problems = []
+
+   for (const [key, sites] of collectClaims()) {
+      const canonical = sites.filter(site => site.canonical)
+      if (canonical.length === 0) problems.push(`${key}: referenced but no canonical`)
+      if (canonical.length > 1) {
+         problems.push(`${key}: ${canonical.length} canonicals (${canonical.map(c => c.file).join(', ')})`)
+      }
+   }
+
+   assert.deepEqual(problems, [], 'run `npm run claims` to see the locations')
+})
+
+test('claim tags never reach the built output', () => {
+   const distDir = path.join(ROOT, 'dist')
+   if (!fs.existsSync(distDir)) return
+
+   const leaked = fs.readdirSync(distDir)
+      .filter(name => name.endsWith('.html') || name.endsWith('.txt'))
+      .filter(name => fs.readFileSync(path.join(distDir, name), 'utf8').includes('claim:'))
+
+   assert.deepEqual(leaked, [], 'claim tags are source-only bookkeeping')
 })
 
 test('applyBasePath prefixes root-relative href and src', () => {

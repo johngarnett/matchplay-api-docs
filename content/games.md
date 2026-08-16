@@ -8,6 +8,7 @@ order: 5
 
 # Games & rounds
 
+<!-- claim:games-field-diff canonical -->
 <div class="callout callout-trap">
 <span class="callout-title">There are two games endpoints and the documented one is the wrong one</span>
 
@@ -162,6 +163,7 @@ because they came second, you'd get `"4.00"` and credit them with the win.
 
 `userIds[i]` is `null` when that player entry has never been claimed by an account.
 
+<!-- claim:live-result-arrays canonical -->
 <div class="callout callout-trap">
 <span class="callout-title">A live game's <code>resultPositions</code> is null-filled, not empty</span>
 

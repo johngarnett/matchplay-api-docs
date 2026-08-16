@@ -45,6 +45,7 @@ Match Play ask that you **not request this more than once every 15 seconds** for
 tournament. For a completed tournament, fetch once and cache forever — standings never
 change after completion.
 
+<!-- claim:player-id-scope -->
 ## Keyed by `playerId`, not `userId`
 
 Every row identifies its player by `playerId`, which is scoped to the **organizer**, not to

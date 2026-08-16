@@ -35,6 +35,16 @@ const BASE_PATH = (process.env.BASE_PATH || '').replace(/\/$/, '')
 
 const FRONT_MATTER_RE = /^---\n([\s\S]*?)\n---\n/
 
+// Claim tags are source-only bookkeeping: `<!-- claim:auto-close -->` marks a
+// place that states or depends on a particular claim, so `npm run claims` can
+// list every page to check when that claim changes. They are stripped here so
+// they reach neither the HTML nor llms-full.txt.
+const CLAIM_TAG_RE = /^[ \t]*<!--\s*claim:[^>]*-->[ \t]*\r?\n?/gm
+
+function stripClaimTags(markdown) {
+   return markdown.replace(CLAIM_TAG_RE, '')
+}
+
 // Prefix every root-relative href/src with BASE_PATH.
 //
 // Done once on the finished document rather than at each of the ~100 places a
@@ -143,7 +153,7 @@ function build() {
    const generatedAt = new Date().toISOString().slice(0, 10)
 
    for (const page of pages) {
-      page.expandedMarkdown = expandSchemaPlaceholders(page.body, spec, asyncApiSpec)
+      page.expandedMarkdown = stripClaimTags(expandSchemaPlaceholders(page.body, spec, asyncApiSpec))
       const bodyHtml = md.render(page.expandedMarkdown)
       const html = renderPage({
          title: page.title,
@@ -175,4 +185,4 @@ function build() {
 
 if (require.main === module) build()
 
-module.exports = { build, parseFrontMatter, loadPages, applyBasePath, md }
+module.exports = { build, parseFrontMatter, loadPages, applyBasePath, stripClaimTags, md }

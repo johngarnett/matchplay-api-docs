@@ -189,6 +189,7 @@ no other object.
 ## Tests
 
 ```bash
+npm run claims        # where each cross-cutting claim is stated and referenced
 npm test              # node:test — build logic and spec integrity
 npx playwright test   # rendering, responsive layout, link integrity
 ```

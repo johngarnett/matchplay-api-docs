@@ -13,6 +13,7 @@ generous *on the understanding that consumers avoid causing needless load*. Trea
 guidance as part of the contract, not decoration — the practical consequence of ignoring it
 is an IP block.
 
+<!-- claim:rate-budget canonical -->
 <div class="callout callout-warn">
 <span class="callout-title">The budget belongs to your token, not your IP or your process</span>
 
@@ -125,6 +126,7 @@ and never look again. If you compute statistics for many players, most of them w
 played some of the same tournaments — a shared cache means the second player who attended a
 given event costs nothing.
 
+<!-- claim:auto-close -->
 ### Deciding when a tournament is final
 
 `status: "completed"` is the obvious signal, but it under-counts: organizers routinely
