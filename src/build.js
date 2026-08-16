@@ -45,6 +45,38 @@ function stripClaimTags(markdown) {
    return markdown.replace(CLAIM_TAG_RE, '')
 }
 
+// Give every callout an id derived from its title, so any callout can be linked
+// to without remembering to add one by hand.
+//
+// `{#custom-id}` works on headings only, and a callout is a div. Adding ids
+// manually was forgotten every time until this ran automatically. An explicit
+// id in the source is respected and left alone.
+const CALLOUT_RE = /<div class="(callout[^"]*)"(\s+id="[^"]*")?>\s*\n?\s*<span class="callout-title">([\s\S]*?)<\/span>/g
+
+function slugifyText(html) {
+   return html
+      .replace(/<[^>]+>/g, '')          // strip inline markup such as <code>
+      .replace(/&[a-z]+;/g, ' ')        // entities become separators
+      .toLowerCase()
+      .replace(/[^\w\s-]/g, '')
+      .trim()
+      .replace(/\s+/g, '-')
+}
+
+function addCalloutIds(html) {
+   const used = new Set()
+   return html.replace(CALLOUT_RE, (match, classes, existingId, title) => {
+      if (existingId) return match
+      let id = slugifyText(title)
+      if (!id) return match
+      // Two callouts on a page may share a title; keep ids unique.
+      let candidate = id
+      for (let n = 2; used.has(candidate); n += 1) candidate = `${id}-${n}`
+      used.add(candidate)
+      return match.replace(`<div class="${classes}">`, `<div class="${classes}" id="${candidate}">`)
+   })
+}
+
 // Prefix every root-relative href/src with BASE_PATH.
 //
 // Done once on the finished document rather than at each of the ~100 places a
@@ -163,7 +195,7 @@ function build() {
          currentSlug: page.slug,
          generatedAt
       })
-      fs.writeFileSync(path.join(DIST_DIR, page.outputName), applyBasePath(html))
+      fs.writeFileSync(path.join(DIST_DIR, page.outputName), applyBasePath(addCalloutIds(html)))
    }
 
    copyAssets()
@@ -185,4 +217,4 @@ function build() {
 
 if (require.main === module) build()
 
-module.exports = { build, parseFrontMatter, loadPages, applyBasePath, stripClaimTags, md }
+module.exports = { build, parseFrontMatter, loadPages, applyBasePath, addCalloutIds, stripClaimTags, md }

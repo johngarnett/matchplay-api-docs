@@ -178,8 +178,11 @@ non-empty result set is not a match; filter for the exact name.
   cannot go stale; a duplicated number can. Teasers and summaries are fine — they should
   name the trap and link, not repeat the measurement.
 
-  If the canonical statement lives in a callout rather than a heading, give the callout an
-  explicit `id` so other pages can link to it. `{#custom-id}` works on headings only.
+  Callouts are linkable without any effort: the build derives an id from the callout title,
+  so `<span class="callout-title">Trust, but verify</span>` becomes `#trust-but-verify`. An
+  explicit `id` on the div is respected if you need a stable one. (`{#custom-id}` still works
+  on headings only — this is the equivalent for callouts, and it is automatic because doing
+  it by hand was forgotten every single time.)
 ### Before writing a claim, check whether it already exists
 
 **Any time you state something factual about the API — a measurement, a behaviour, a limit —

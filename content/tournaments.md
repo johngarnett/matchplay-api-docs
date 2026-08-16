@@ -23,13 +23,37 @@ twenty-odd wildly different formats.
 | `owner` | integer | Tournaments created by this user id |
 | `status` | string | `planned`, `started` or `completed` |
 | `series` | integer | Tournaments in this [series](/series.html) |
+| `playedOrOrganized` | integer | Undocumented. Tournaments a user played **or** ran |
+| `dateInterval` | string | Undocumented. `startISO;endISO`, semicolon-separated |
 | `page` | integer | 1-based |
-| `limit` | integer | Default 25, maximum 100 |
+| `limit` | integer | Default 25, maximum 100 — but see below |
 
 </div>
 
-Results are sorted **descending by date**, furthest-future first. There is **no date filter**
-— to get a date range you fetch and filter client-side.
+Results are sorted **descending by date**, furthest-future first.
+
+### Two undocumented filters
+
+Neither appears in Match Play's handbook. Both were reported by the
+[PinPoint](https://github.com/johngarnett/matchplay-api-docs) team from their production
+integration and confirmed here on 2026-08-16.
+
+**`dateInterval=<start>;<end>`** filters by date, semicolon-separated ISO dates, and combines
+with `played`:
+
+```bash
+curl -s "https://app.matchplay.events/api/tournaments?played=5750&dateInterval=2026-07-01;2026-07-31" \
+  -H "Authorization: Bearer YOUR_API_TOKEN"
+```
+
+That returned 5 tournaments, all in July, against 100 spanning 2024–2026 for the same query
+without it. Fetching a player's whole history to filter client-side is therefore avoidable.
+
+**`playedOrOrganized=<userId>`** returns tournaments a user played or ran. Its exact
+semantics are unclear: over one three-month window `played` gave 11 and `owner` 10 with a
+union of 20, while `playedOrOrganized` returned 14 — fewer than the union, so it is **not**
+simply the two sets combined. Useful, but verify against `played` and `owner` before relying
+on the count.
 
 This endpoint uses the odd `simplePaginate` envelope and strips query parameters from its
 own `next` link. Read [Conventions](/conventions.html#tournaments-strips-your-query-parameters)
@@ -39,6 +63,42 @@ before paginating it.
 curl -s "https://app.matchplay.events/api/tournaments?played=5750&limit=5" \
   -H "Authorization: Bearer YOUR_API_TOKEN"
 ```
+
+<div class="callout callout-trap">
+<span class="callout-title">An invalid <code>status</code> is ignored, and looks like it worked</span>
+
+`status=active` and `status=bananas` both return the **unfiltered** list — no error, no empty
+set. The same silent-ignore behaviour as
+[unknown `include*` flags](#unknown-flags-are-silently-ignored).
+
+What makes this one nastier is that the result *looks* filtered. Because the list is sorted
+furthest-future first, an unfiltered page is dominated by `planned` tournaments, so a
+mistyped filter returns a uniform-looking page that is not what you asked for. Verified
+2026-08-16: `status=active`, `status=bananas` and no `status` at all each returned 100
+tournaments, all `planned`.
+
+Check `status` on the rows you get back rather than trusting the query.
+</div>
+
+<div class="callout callout-trap">
+<span class="callout-title"><code>limit</code> above 100 reverts to 25 rather than clamping</span>
+
+`limit=150` returns **25** rows, not 100. An over-max value is discarded and the default
+applies, so asking for too much gets you a quarter of what you would have had by asking for
+the maximum.
+
+This also explains the `per_page` typing: it echoes the `limit` you sent, **as a string**,
+and reports the default **as a number**.
+
+| Request | Rows | `meta.per_page` |
+| --- | --- | --- |
+| `limit=5` | 5 | `"5"` (string) |
+| `limit=100` | 100 | `"100"` (string) |
+| `limit=150` | **25** | `25` (number) |
+| no `limit` | 25 | `25` (number) |
+
+A numeric `per_page` therefore means your `limit` was not applied.
+</div>
 
 <div class="callout callout-warn">
 <span class="callout-title">An empty result is ambiguous</span>

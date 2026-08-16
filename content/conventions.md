@@ -121,7 +121,7 @@ The two paginators differ in ways that matter.
 
 | | Form A (`/tournaments`) | Form B (everything else) |
 | --- | --- | --- |
-| `meta.per_page` | **string** — `"100"` | **number** — `100` |
+| `meta.per_page` | **string** when your `limit` applied, [number when it did not](/tournaments.html#limit-above-100-reverts-to-25-rather-than-clamping) | **number** |
 | `meta.total` | absent | present |
 | `meta.last_page` | absent | present |
 | `meta.links[]` | absent | present |

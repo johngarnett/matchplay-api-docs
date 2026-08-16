@@ -7,7 +7,7 @@ const fs = require('node:fs')
 const path = require('node:path')
 const YAML = require('yaml')
 
-const { parseFrontMatter, loadPages, applyBasePath } = require('../src/build')
+const { parseFrontMatter, loadPages, applyBasePath, addCalloutIds } = require('../src/build')
 const { renderSchemaTable, collectProperties, describeType, expandSchemaPlaceholders } = require('../src/schemaTables')
 const { renderPage } = require('../src/layout')
 const { rewriteRefs } = require('../src/emit')
@@ -149,6 +149,27 @@ test('claim tags never reach the built output', () => {
       .filter(name => fs.readFileSync(path.join(distDir, name), 'utf8').includes('claim:'))
 
    assert.deepEqual(leaked, [], 'claim tags are source-only bookkeeping')
+})
+
+test('addCalloutIds derives an id from the callout title', () => {
+   const html = '<div class="callout callout-warn">\n<span class="callout-title">Trust, but verify</span>'
+   assert.match(addCalloutIds(html), /id="trust-but-verify"/)
+})
+
+test('addCalloutIds respects an explicit id and strips inline markup', () => {
+   const explicit = '<div class="callout" id="mine">\n<span class="callout-title">Whatever</span>'
+   assert.equal(addCalloutIds(explicit), explicit)
+
+   const code = '<div class="callout">\n<span class="callout-title"><code>limit</code> is dropped</span>'
+   assert.match(addCalloutIds(code), /id="limit-is-dropped"/)
+})
+
+test('addCalloutIds keeps ids unique within a page', () => {
+   const twice = '<div class="callout">\n<span class="callout-title">Same</span>'
+       + '<div class="callout">\n<span class="callout-title">Same</span>'
+   const out = addCalloutIds(twice)
+   assert.match(out, /id="same"/)
+   assert.match(out, /id="same-2"/)
 })
 
 test('applyBasePath prefixes root-relative href and src', () => {

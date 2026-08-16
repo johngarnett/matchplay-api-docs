@@ -157,6 +157,65 @@ rate limiter with everything else.
 
 See [the six silences](/realtime.html#the-six-silences) for why each REST call is unavoidable.
 
+## Keeping a mirror honest
+
+If you keep your own copy of Match Play data, the dangerous failures are not the ones that
+throw. They are the ones that return *fewer rows than they should* and look like success.
+
+<div class="callout callout-trap">
+<span class="callout-title">A watermark cursor does not self-heal after a truncated fetch</span>
+
+Incremental sync usually keys on "the newest thing I have seen". That is safe only while
+pagination is. If a walk terminates early, page one still holds the **newest** items, so the
+watermark advances past the gap — and because it advanced, the next run never looks back.
+One truncated fetch becomes permanent silent data loss.
+
+The PinPoint team hit exactly this when Match Play's tournaments list moved to
+[simple pagination](/conventions.html#pagination): loops terminating on `meta.last_page`
+stopped after page one, and 190 player histories were truncated to exactly 25 rows within two
+days, every one with a poisoned cursor.
+
+Two defences, both cheap:
+
+- **Terminate on `links.next` and nothing else.** Not `meta.last_page`, which this endpoint
+  does not send, and not a short-page heuristic — if your `limit` is
+  [silently dropped](/tournaments.html#limit-above-100-reverts-to-25-rather-than-clamping),
+  every page arrives at 25 rows with `links.next` still set, and "fewer rows than I asked
+  for" ends the walk on page one.
+- **Reconcile against a count you did not compute.** `tournamentPlayCount` from
+  [`/users/{id}?includeCounts=true`](/identity.html#get-a-user-profile) is an independent
+  figure. A mirror holding *exactly* a page-size multiple while Match Play reports more is
+  the signature of a truncated walk.
+</div>
+
+```js
+// A mirror sitting on an exact page-size boundary is suspicious, not merely behind.
+function looksTruncated(mirroredCount, matchplayCount, pageSize) {
+   return mirroredCount < matchplayCount && mirroredCount % pageSize === 0
+}
+```
+
+## Scale, roughly
+
+Measured by the PinPoint team against production traffic, useful for sizing a sync:
+
+<div class="table-scroll">
+
+| | |
+| --- | --- |
+| Completed tournaments worldwide | ~59 per 24 hours — about 3 pages at 25 |
+| One page of played history | ~200 ms |
+| A 500-tournament player at 25/page | ~20 calls, ~5 s |
+| The same player at `limit=100` | ~5 calls |
+
+</div>
+
+Two consequences. A discovery-style sync only needs a **shallow** periodic walk of the
+completed feed — which suits an API that
+[blocks deep pagination](/conventions.html#deep-pagination-is-blocked). And `limit=100` cuts
+call volume roughly fourfold for history backfills; sustained use at that size, under a
+client-side cap below the published ceiling, has been reported stable with no `429`s.
+
 ## Checklist of traps
 
 <div class="table-scroll">
@@ -169,6 +228,9 @@ See [the six silences](/realtime.html#the-six-silences) for why each REST call i
 | Progressive knockouts never score `0.00` | Branch on `knockoutProgressive` first |
 | Byes inflate records | Skip `bye === true` |
 | `status=completed` drops tournaments still in their 2-day grace period | Accept `started` too |
+| An invalid `status` returns the unfiltered list | Check `status` on the rows you get back |
+| `limit` above 100 reverts to 25, not 100 | A numeric `meta.per_page` means it was dropped |
+| A truncated walk poisons a watermark cursor permanently | Terminate on `links.next`; reconcile against `tournamentPlayCount` |
 | `links.next` on `/tournaments` drops filters | Build page URLs yourself |
 | Deep pagination returns `401` | Don't page deeply; use exports |
 | Misspelled `include*` flags are ignored | Diff payloads when an expansion "doesn't work" |

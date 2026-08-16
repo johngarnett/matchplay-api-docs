@@ -139,12 +139,22 @@ completeness, but their ratings carry little information, and
 [`Lower Bound`](/profile-search.html#reading-the-numbers) correctly ranks them low because of it.
 </div>
 
-<div class="callout callout-warn">
-<span class="callout-title">The file lags by a couple of days</span>
+<div class="callout">
+<span class="callout-title">The file is rebuilt daily; its contents lag by longer</span>
 
-Brand-new accounts will be absent. If your product validates user ids against this file,
-recently registered players will appear not to exist. Fall back to
-[`GET /users/{userId}`](/identity.html#get-a-user-profile) for a miss.
+Two different freshnesses, easily conflated:
+
+- **The file** regenerates **daily at about 06:15 UTC**. Checked 2026-08-16, `Last-Modified`
+  was `Sat, 15 Aug 2026 06:15:12 GMT` for the ratings CSV and `06:16:21` for the revisions
+  CSV. A conditional request or a `Last-Modified` check is enough to skip a re-download.
+- **The ratings inside it** are as of the date in the
+  [column header](#the-header-contains-a-date-that-changes-daily), which trails by a few days.
+
+So a brand-new account can be absent from a file downloaded minutes ago. If your product
+validates user ids against it, recently registered players will appear not to exist — fall
+back to [`GET /users/{userId}`](/identity.html#get-a-user-profile) for a miss.
+
+Reported by the PinPoint team from their import pipeline and confirmed here.
 </div>
 
 ## Rating revisions
@@ -159,6 +169,19 @@ period where the rating changed — `GlickoCalculator::advanceRD` in
 
 If you only need *today's* RD for one player, `calculatedRd` from
 [`/ratings/users/{userId}`](/profile-search.html#match-play-ratings) is already advanced.
+
+<div class="callout">
+<span class="callout-title">Resolving id-less revision rows</span>
+
+Many revision rows are IFPA-keyed with an empty `User ID`, which makes them hard to attach to
+an account. The rows in `latest-ratings.csv` that carry **both** ids work as a cross-walk:
+build an `IFPA ID → User ID` map from those, then apply it to the revisions.
+
+The PinPoint team report matching about 26,000 of roughly 530,000 revision rows to known
+users this way. It will not resolve everyone —
+[most rated players have no id at all](#most-rated-players-have-no-id-at-all) — but it
+recovers the ones where the information exists and is merely split across two files.
+</div>
 
 ## Per-tournament CSV exports
 

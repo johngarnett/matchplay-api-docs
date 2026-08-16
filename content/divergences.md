@@ -49,6 +49,8 @@ Not contradictions — gaps. Each is documented here from observation:
 <!-- claim:live-result-arrays -->
 - **In-progress games returning null-filled result arrays.**
 - **The six websocket silences.**
+- **Undocumented query parameters** on the tournaments list: `dateInterval` and
+  `playedOrOrganized`, plus `includeCounts` on the user object.
 - **Nine undocumented endpoints**: `/search`, `/players`, `/ratings/users/{id}`,
   `/ratings/ifpa/{id}`, `/series`, `/series/{id}`, `/events`, `/events/{id}` and
   `/clubs/{id}`.
@@ -66,6 +68,8 @@ Claims that circulate among API consumers which observation does not support:
 | Paging past the end returns an empty body | Returns `401` with a scraping message. An empty body may occur in other circumstances, so guard for both |
 | There is no standalone series endpoint | **Wrong.** `GET /series/{id}` and `GET /series` both exist and are undocumented. See [Series](/series.html) |
 | `linkedTournamentId` is a decoy that is always null | **Only true of recent tournaments.** Null across 102 sampled recent ones, but populated on 3 of 6 tournaments inside a 2023 event. Unreliable rather than unused — see [Tournaments](/tournaments.html) |
+| The tournaments list has no date filter | **Wrong.** The undocumented `dateInterval=<start>;<end>` filters by date and combines with `played` — see [Tournaments](/tournaments.html#two-undocumented-filters) |
+| `userCounts` is not a play count | **Wrong.** It is zero only because it needs the undocumented `includeCounts=true`; with it, `tournamentPlayCount` is accurate — see [Identity](/identity.html#usercounts-is-zero-unless-you-ask-for-it) |
 | `data` may collapse to a bare object on collections | Never observed on a collection. It *is* a bare object on `/tournaments/{id}`. Normalising defensively remains sensible |
 | `status: "started"` mostly means "finished but abandoned", with tournaments idle for over a month | **No longer true.** Match Play now auto-closes an idle tournament after two days; older captures predate that policy. Measurement and the long-running-format exception in [Tournaments](/tournaments.html#status-started) |
 
@@ -95,6 +99,12 @@ Every field in the [OpenAPI spec](/openapi.yaml) carries an `x-evidence` extensi
 | <span class="evidence evidence-unverified">unverified</span> | Asserted but unconfirmed | Documented somewhere, no evidence either way |
 
 </div>
+
+Some of it came from other people. The [PinPoint](https://github.com/johngarnett/matchplay-api-docs)
+team contributed the undocumented query parameters, the export refresh cadence, the
+revisions cross-walk, the watermark failure mode and the sizing figures, from their
+production integration. Everything they reported was re-verified here before publication,
+and where a report and a measurement disagreed, the measurement won.
 
 The evidence base:
 

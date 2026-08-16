@@ -283,14 +283,25 @@ record. It returns a clean `404` for an unknown id, which makes it the best way 
 **validate a user id** — unlike `?played=`, whose empty result is ambiguous.
 
 <div class="callout callout-warn">
-<span class="callout-title"><code>userCounts</code> is not a play count</span>
+<span class="callout-title"><code>userCounts</code> is zero unless you ask for it</span>
 
-In the response above every `userCounts` value is `0` — for an account whose own `rating`
-block reports 2,470 games and 5,495 results.
+In the response above every `userCounts` value is `0`. They are not broken — they are simply
+not computed without the undocumented **`includeCounts=true`** flag:
 
-Whatever these count, it is not lifetime activity. Don't display them as "tournaments
-played". If you need a real count, use `rating.gameCount` / `rating.resultCount`, or the
-length of `/tournaments?played=`.
+```bash
+curl -s "https://app.matchplay.events/api/users/5750?includeCounts=true" \
+  -H "Authorization: Bearer YOUR_API_TOKEN"
+```
+
+```json
+"userCounts": { "tournamentPlayCount": 552, "tournamentOrganizedCount": 28, "seriesOrganizedCount": 2 }
+```
+
+The zeros are worse than an omission: a client that reads them without the flag gets a
+plausible number that is silently wrong, rather than a missing field it would notice.
+
+With the flag, `tournamentPlayCount` is a genuinely useful figure — see
+[keeping a mirror honest](/building-a-client.html#keeping-a-mirror-honest).
 </div>
 
 <div class="callout callout-warn">
