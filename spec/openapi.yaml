@@ -62,6 +62,12 @@ tags:
     description: Computed placements.
   - name: Summaries
     description: Aggregated per-tournament statistics, available once a tournament completes.
+  - name: Statistics
+    description: The `/stats/*` family — timing and count breakdowns, returned without an envelope.
+  - name: Formats
+    description: Endpoints that only answer for one tournament type — Frenzy, Max Match Play and Best Game.
+  - name: Organizer resources
+    description: The machine and venue rosters belonging to the authenticated organizer.
   - name: Series
     description: Recurring competitions that group tournaments together.
   - name: Events
@@ -123,6 +129,16 @@ paths:
           description: Filter to tournaments belonging to this series id.
           schema: { type: integer }
           example: 6140
+        - name: type
+          in: query
+          description: |
+            Filter by tournament format. Undocumented by Match Play but working.
+
+            Unlike `status`, an unrecognised value is **not** ignored — it returns an empty
+            `data` array. The two parameters therefore fail in opposite directions on the
+            same endpoint.
+          schema: { $ref: '#/components/schemas/TournamentType' }
+          example: frenzy
       responses:
         '200':
           description: A page of tournaments.
@@ -188,8 +204,17 @@ paths:
           in: query
           description: |
             Adds `linkedTournaments[]` (qualifying/playoff links). Only the **plural** name
-            works; `includeLinkedTournament` is silently ignored. The scalar
-            `linkedTournamentId` field is always `null` and must not be relied on.
+            works; `includeLinkedTournament` is silently ignored. Prefer this array over the
+            scalar `linkedTournamentId`, which is populated inconsistently — null across a
+            102-tournament recent sample but set on older ones.
+          schema: { type: boolean }
+        - name: includeParent
+          in: query
+          description: Adds `parentTournament` when this tournament is a child of another.
+          schema: { type: boolean }
+        - name: includePlayoffs
+          in: query
+          description: Adds playoff structure for tournaments configured with one.
           schema: { type: boolean }
         - name: includeSeries
           in: query
@@ -554,6 +579,401 @@ paths:
                   links: { $ref: '#/components/schemas/PaginationLinks' }
                   meta: { $ref: '#/components/schemas/PaginationMeta' }
 
+  # ---------------------------------------------------------------- Statistics
+  # A family distinct from /summary/* despite the overlapping names. These
+  # return no `data` envelope at all — a bare object or a bare array.
+  /tournaments/{tournamentId}/stats/matchplay:
+    get:
+      tags: [Statistics]
+      operationId: getMatchplayStats
+      summary: Game totals for a tournament
+      description: |
+        Two aggregate counts. Returned as a bare object with no `data` wrapper.
+
+        Type-gated despite the generic name: a non-matchplay-style tournament returns
+        `400 "Tournament is not matchplay style."` Answers for tournaments still in progress.
+      parameters:
+        - $ref: '#/components/parameters/TournamentId'
+      responses:
+        '200':
+          description: Aggregate game counts.
+          content:
+            application/json:
+              schema: { $ref: '#/components/schemas/MatchplayStats' }
+        '400':
+          description: Not a matchplay-style tournament.
+          content:
+            application/json:
+              schema: { $ref: '#/components/schemas/Error' }
+
+  /tournaments/{tournamentId}/stats/rounds:
+    get:
+      tags: [Statistics]
+      operationId: getRoundStats
+      summary: Per-round durations and game counts
+      description: |
+        One row per round. Returned as a **bare array**. Note that `createdAt` and
+        `completedAt` here use the space-separated `YYYY-MM-DD HH:MM:SSZ` form rather than
+        ISO-8601 — the same divergence seen on the round objects themselves.
+      parameters:
+        - $ref: '#/components/parameters/TournamentId'
+      responses:
+        '200':
+          description: Round statistics rows.
+          content:
+            application/json:
+              schema:
+                type: array
+                items: { $ref: '#/components/schemas/RoundStatsRow' }
+
+  /tournaments/{tournamentId}/stats/arenas:
+    get:
+      tags: [Statistics]
+      operationId: getArenaStats
+      summary: Per-arena game counts and durations
+      description: |
+        One row per machine, with game count and duration spread. Returned as a **bare
+        array**.
+
+        Not to be confused with `/summary/arenas`, which also exists and returns a
+        different shape — that one carries `opdbId`/`opdbGroup` and play counts, this one
+        carries timing.
+      parameters:
+        - $ref: '#/components/parameters/TournamentId'
+      responses:
+        '200':
+          description: Arena statistics rows.
+          content:
+            application/json:
+              schema:
+                type: array
+                items: { $ref: '#/components/schemas/ArenaStatsRow' }
+
+  /tournaments/{tournamentId}/stats/players:
+    get:
+      tags: [Statistics]
+      operationId: getPlayerStats
+      summary: Per-player finishing positions, machines and opponents
+      description: |
+        Three parallel arrays, each row keyed by `playerId` with the remaining keys being
+        **dynamic**: finishing positions (`"0"`, `"1"`, …), arena ids, or opponent player
+        ids, each mapping to a count. Returned as a bare object.
+      parameters:
+        - $ref: '#/components/parameters/TournamentId'
+      responses:
+        '200':
+          description: Player statistics.
+          content:
+            application/json:
+              schema: { $ref: '#/components/schemas/PlayerStats' }
+
+  /tournaments/{tournamentId}/stats/bestgame:
+    get:
+      tags: [Statistics]
+      operationId: getBestGameStats
+      summary: Best-game entry and card counts
+      description: Counts of submitted and voided games and cards. Bare object.
+      parameters:
+        - $ref: '#/components/parameters/TournamentId'
+      responses:
+        '200':
+          description: Best-game counts.
+          content:
+            application/json:
+              schema: { $ref: '#/components/schemas/BestGameStats' }
+
+  /tournaments/{tournamentId}/stats/matches:
+    get:
+      tags: [Statistics]
+      operationId: getMatchStats
+      summary: Match statistics (requires a definite duration)
+      description: |
+        Returns `400` unless the tournament was configured with a specific duration:
+        `"This tournament does not have a definite duration. Give the tournament a specific
+        duration."` The success shape has not been observed.
+      parameters:
+        - $ref: '#/components/parameters/TournamentId'
+      responses:
+        '200':
+          description: Match statistics. Shape unobserved.
+          content:
+            application/json:
+              schema: { type: object, x-evidence: unverified }
+        '400':
+          description: The tournament has no definite duration.
+          content:
+            application/json:
+              schema: { $ref: '#/components/schemas/Error' }
+
+  # ----------------------------------------------------------- Format-specific
+  /tournaments/{tournamentId}/frenzy:
+    get:
+      tags: [Formats]
+      operationId: getFrenzy
+      summary: Flip Frenzy state
+      description: |
+        Live state for a `frenzy` tournament: current games, the waiting queue, and the
+        rolling average queue wait in seconds. Returns `400 "Tournament is not Frenzy"` for
+        any other type.
+      parameters:
+        - $ref: '#/components/parameters/TournamentId'
+      responses:
+        '200':
+          description: Frenzy state.
+          content:
+            application/json:
+              schema: { $ref: '#/components/schemas/FrenzyState' }
+        '400':
+          description: Not a Frenzy tournament.
+          content:
+            application/json:
+              schema: { $ref: '#/components/schemas/Error' }
+
+  /tournaments/{tournamentId}/max-matchplay:
+    get:
+      tags: [Formats]
+      operationId: getMaxMatchplay
+      summary: Max Match Play state
+      description: |
+        State for a `max_matchplay` tournament. Its `players[]` entries are **not** ordinary
+        player objects — they are per-player aggregates carrying opponent and arena
+        histograms. Returns `400 "Tournament is not Max Match Play"` otherwise.
+      parameters:
+        - $ref: '#/components/parameters/TournamentId'
+      responses:
+        '200':
+          description: Max Match Play state.
+          content:
+            application/json:
+              schema: { $ref: '#/components/schemas/MaxMatchplayState' }
+        '400':
+          description: Not a Max Match Play tournament.
+          content:
+            application/json:
+              schema: { $ref: '#/components/schemas/Error' }
+
+  /tournaments/{tournamentId}/queues:
+    get:
+      tags: [Formats]
+      operationId: getQueues
+      summary: Best-game waiting queue
+      description: |
+        Players waiting to play, for Best Game formats. Returns
+        `403 "Tournament is not Best Game."` for other types, and an empty array for a
+        completed tournament — a non-empty queue only exists while play is live.
+      parameters:
+        - $ref: '#/components/parameters/TournamentId'
+      responses:
+        '200':
+          description: Queue entries.
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  data:
+                    type: array
+                    items: { $ref: '#/components/schemas/QueueEntry' }
+        '403':
+          description: Not a Best Game tournament.
+          content:
+            application/json:
+              schema: { $ref: '#/components/schemas/Error' }
+
+  /tournaments/{tournamentId}/arenas/bgsummary:
+    get:
+      tags: [Formats]
+      operationId: getBestGameSummary
+      summary: Per-arena best-game summary
+      description: One row per machine with its best score and current queue. Bare array.
+      parameters:
+        - $ref: '#/components/parameters/TournamentId'
+      responses:
+        '200':
+          description: Best-game summary rows.
+          content:
+            application/json:
+              schema:
+                type: array
+                items: { $ref: '#/components/schemas/BestGameSummaryRow' }
+
+  /tournaments/{tournamentId}/arenas/{arenaId}/bgdetails:
+    get:
+      tags: [Formats]
+      operationId: getBestGameDetails
+      summary: Best-game detail for one machine
+      description: The machine, its submitted games, its queue and a voided count. Bare object.
+      parameters:
+        - $ref: '#/components/parameters/TournamentId'
+        - name: arenaId
+          in: path
+          required: true
+          schema: { type: integer }
+      responses:
+        '200':
+          description: Best-game detail.
+          content:
+            application/json:
+              schema: { $ref: '#/components/schemas/BestGameDetails' }
+
+  # --------------------------------------------------------------- Item-level
+  /tournaments/{tournamentId}/games/{gameId}:
+    get:
+      tags: [Rounds & games]
+      operationId: getGame
+      summary: A single game
+      description: |
+        One game by id. Unlike the collection endpoint this embeds the full `arena` object,
+        so it saves a lookup when you only need one game.
+      parameters:
+        - $ref: '#/components/parameters/TournamentId'
+        - name: gameId
+          in: path
+          required: true
+          schema: { type: integer }
+      responses:
+        '200':
+          description: The game.
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  data: { $ref: '#/components/schemas/Game' }
+
+  /tournaments/{tournamentId}/cards/{cardId}:
+    get:
+      tags: [Single player]
+      operationId: getCard
+      summary: A single card
+      description: One card by id, with its `singlePlayerGames` embedded.
+      parameters:
+        - $ref: '#/components/parameters/TournamentId'
+        - name: cardId
+          in: path
+          required: true
+          schema: { type: integer }
+      responses:
+        '200':
+          description: The card.
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  data: { $ref: '#/components/schemas/Card' }
+
+  /tournaments/{tournamentId}/single-player-games/{singlePlayerGameId}:
+    get:
+      tags: [Single player]
+      operationId: getSinglePlayerGame
+      summary: A single single-player game
+      description: One entry by id. Carries `tournamentId` and `roundId`, which the collection rows omit.
+      parameters:
+        - $ref: '#/components/parameters/TournamentId'
+        - name: singlePlayerGameId
+          in: path
+          required: true
+          schema: { type: integer }
+      responses:
+        '200':
+          description: The single-player game.
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  data: { $ref: '#/components/schemas/SinglePlayerGame' }
+
+  /tournaments/{tournamentId}/single-player-games/top-scores:
+    get:
+      tags: [Single player]
+      operationId: getTopScores
+      summary: Leading scores per machine
+      description: |
+        The best entries per machine for a best-game tournament, each carrying its `cardId`.
+        Note the path collides in shape with the item-level route above — `top-scores` is a
+        literal segment, not an id.
+      parameters:
+        - $ref: '#/components/parameters/TournamentId'
+      responses:
+        '200':
+          description: Top scoring entries.
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  data:
+                    type: array
+                    items: { $ref: '#/components/schemas/SinglePlayerGame' }
+
+  # ------------------------------------------------------- Organizer resources
+  /arenas:
+    get:
+      tags: [Organizer resources]
+      operationId: listArenas
+      summary: Machines owned by the caller's organizer
+      description: |
+        The machine roster for the authenticated organizer — not a global machine list.
+        Carries `opdbId`, so it joins to OPDB without a second lookup.
+      parameters:
+        - name: status
+          in: query
+          schema: { type: string, enum: [active, inactive] }
+        - name: arenas
+          in: query
+          description: Comma-separated arena ids.
+          schema: { type: string }
+        - $ref: '#/components/parameters/Page'
+      responses:
+        '200':
+          description: Arenas.
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  data:
+                    type: array
+                    items: { $ref: '#/components/schemas/Arena' }
+                  links: { $ref: '#/components/schemas/PaginationLinks' }
+                  meta: { $ref: '#/components/schemas/PaginationMeta' }
+
+  /locations:
+    get:
+      tags: [Organizer resources]
+      operationId: listLocations
+      summary: Venues owned by the caller's organizer
+      description: |
+        Venue roster for the authenticated organizer, with latitude/longitude and join keys
+        into Pinball Map and Scorbit.
+
+        Note that `GET /locations/{id}` returns `401` — the collection is readable but the
+        item is not.
+      parameters:
+        - name: status
+          in: query
+          schema: { type: string, enum: [active, inactive] }
+        - name: locations
+          in: query
+          description: Comma-separated location ids.
+          schema: { type: string }
+        - $ref: '#/components/parameters/Page'
+      responses:
+        '200':
+          description: Locations.
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  data:
+                    type: array
+                    items: { $ref: '#/components/schemas/Location' }
+                  links: { $ref: '#/components/schemas/PaginationLinks' }
+                  meta: { $ref: '#/components/schemas/PaginationMeta' }
+
   # -------------------------------------------------------------------- Series
   /series:
     get:
@@ -591,17 +1011,25 @@ paths:
         Undocumented by Match Play. Returns the series with its `organizer` and
         `rsvpConfiguration` embedded — neither of which appears on the list.
 
-        It does **not** return `tournamentIds`, so use `GET /tournaments?series={id}` or the
-        list endpoint to enumerate a series' tournaments.
+        **`includeDetails=true` is the one expansion that works**, and it changes the
+        response substantially: on a nine-tournament series it took the payload from 768
+        bytes to 17KB, adding `standings`, `tournamentPoints`, `playerLabels`, `players`
+        and `tournamentIds`. That is series-wide standings in a single call, without
+        walking the member tournaments.
 
-        Expansion parameters are ignored here: `?includeTournaments=true&includePlayers=true`
-        returned a byte-identical response to the bare request.
+        Invented expansion names are ignored, as everywhere else on this API —
+        `?includeTournaments=true&includePlayers=true` returns a byte-identical response to
+        the bare request. Only `includeDetails` is real.
       parameters:
         - name: seriesId
           in: path
           required: true
           schema: { type: integer }
           example: 6224
+        - name: includeDetails
+          in: query
+          description: Adds standings, per-tournament points, player roster and tournament ids.
+          schema: { type: boolean }
       responses:
         '200':
           description: The series.
@@ -613,6 +1041,56 @@ paths:
                   data: { $ref: '#/components/schemas/Series' }
         '404':
           $ref: '#/components/responses/NotFound'
+
+  /series/{seriesId}/stats:
+    get:
+      tags: [Series]
+      operationId: getSeriesStats
+      summary: Attendance statistics for a series
+      description: |
+        Bare object, no `data` wrapper. Alongside the series itself it carries three
+        `Aggregate` blocks (`overall`, `members`, `guests`) describing attendance per
+        tournament, plus several irregularly-shaped collections keyed by id rather than
+        arrays — see the schema.
+      parameters:
+        - name: seriesId
+          in: path
+          required: true
+          schema: { type: integer }
+      responses:
+        '200':
+          description: Series statistics.
+          content:
+            application/json:
+              schema: { $ref: '#/components/schemas/SeriesStats' }
+
+  /series/{seriesId}/stats/attendance:
+    get:
+      tags: [Series]
+      operationId: getSeriesAttendance
+      summary: Players who attended at least N events
+      description: The `count` parameter is required — it is the attendance threshold, not a page size.
+      parameters:
+        - name: seriesId
+          in: path
+          required: true
+          schema: { type: integer }
+        - name: count
+          in: query
+          required: true
+          description: Minimum number of tournaments attended.
+          schema: { type: integer }
+      responses:
+        '200':
+          description: Matching players.
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  data:
+                    type: array
+                    items: { $ref: '#/components/schemas/Player' }
 
   # ------------------------------------------------------------- Events & clubs
   /events:
@@ -1004,6 +1482,191 @@ paths:
         '404':
           $ref: '#/components/responses/NotFound'
 
+  /ifpa/{ifpaId}/rating-history:
+    get:
+      tags: [Ratings]
+      operationId: getIfpaRatingHistory
+      summary: Full rating-period history for a player
+      description: |
+        One row per rating period, paginated. This is a **richer shape** than the
+        `ratingHistory` array embedded in a rating bundle: it adds the revision id, the
+        rating deviation, the per-period delta and win/loss counts.
+      parameters:
+        - name: ifpaId
+          in: path
+          required: true
+          schema: { type: integer }
+          example: 32819
+        - name: limit
+          in: query
+          description: Rows per page. Defaults to 100.
+          schema: { type: integer }
+        - $ref: '#/components/parameters/Page'
+      responses:
+        '200':
+          description: Rating history rows.
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  data:
+                    type: array
+                    items: { $ref: '#/components/schemas/IfpaRatingHistoryPoint' }
+                  links: { $ref: '#/components/schemas/PaginationLinks' }
+                  meta: { $ref: '#/components/schemas/PaginationMeta' }
+
+  /ratings/compare:
+    get:
+      tags: [Ratings]
+      operationId: compareRatings
+      summary: Fetch several ratings at once
+      description: |
+        Takes a JSON body listing players by any mix of `userIds`, `ifpaIds` and
+        `playerIds`, and returns their ratings plus a `records` map keyed by `ratingId`.
+        Bare object, no `data` wrapper.
+
+        Two cautions. It is documented by its only known client as accepting **at most 24
+        ids per list**. And that client sends it as a `GET` with a body, which some HTTP
+        stacks drop silently — `POST` is verified working and is the safer choice.
+      requestBody:
+        content:
+          application/json:
+            schema:
+              type: object
+              properties:
+                userIds: { type: array, items: { type: integer } }
+                ifpaIds: { type: array, items: { type: integer } }
+                playerIds: { type: array, items: { type: integer } }
+      responses:
+        '200':
+          description: Ratings and records.
+          content:
+            application/json:
+              schema: { $ref: '#/components/schemas/RatingComparison' }
+    post:
+      tags: [Ratings]
+      operationId: compareRatingsPost
+      summary: Fetch several ratings at once (POST form)
+      description: The same operation as the `GET`, but with the body sent conventionally. Verified working.
+      requestBody:
+        content:
+          application/json:
+            schema:
+              type: object
+              properties:
+                userIds: { type: array, items: { type: integer } }
+                ifpaIds: { type: array, items: { type: integer } }
+                playerIds: { type: array, items: { type: integer } }
+      responses:
+        '200':
+          description: Ratings and records.
+          content:
+            application/json:
+              schema: { $ref: '#/components/schemas/RatingComparison' }
+
+  /ratings:
+    get:
+      tags: [Ratings]
+      operationId: listRatings
+      summary: Every rating, paginated
+      description: |
+        The global rating list, ordered by `ratingId`, so an unfiltered call starts at rating
+        1 rather than at anything relevant to you.
+
+        Filtering is done with a **JSON body on a `GET`** — `{"userIds": "5750"}` returns
+        just that user. This is verified working, but it is a fragile way to call an
+        endpoint: Node's `fetch` throws `Request with GET/HEAD method cannot have body`
+        rather than sending it, and other stacks drop it silently, in which case you get the
+        unfiltered list and no error. If your client cannot send it, use
+        `GET /ratings/users/{userId}` or `POST /ratings/compare` instead.
+
+        For bulk work prefer the CSV export, which has every player in one file.
+      parameters:
+        - $ref: '#/components/parameters/Page'
+      requestBody:
+        description: Comma-separated id lists. Sent as a body on a GET.
+        content:
+          application/json:
+            schema:
+              type: object
+              properties:
+                userIds: { type: string }
+                ifpaIds: { type: string }
+      responses:
+        '200':
+          description: A page of ratings.
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  data:
+                    type: array
+                    items: { $ref: '#/components/schemas/Rating' }
+                  links: { $ref: '#/components/schemas/PaginationLinks' }
+                  meta: { $ref: '#/components/schemas/PaginationMeta' }
+
+  /rating-periods/{periodDate}:
+    get:
+      tags: [Ratings]
+      operationId: getRatingPeriod
+      summary: One rating period by date (privileged)
+      description: |
+        Date as a `YYYY-MM-DD` path segment. Like the list, it returns
+        `401 "Not allowed (token)"` for an ordinary token, so the shape is **unverified**.
+      parameters:
+        - name: periodDate
+          in: path
+          required: true
+          schema: { type: string }
+          example: '2026-08-03'
+      responses:
+        '200':
+          description: The rating period with its tournaments. Shape unverified.
+          content:
+            application/json:
+              schema:
+                type: object
+                x-evidence: unverified
+                properties:
+                  ratingPeriod: { $ref: '#/components/schemas/RatingPeriod' }
+        '401':
+          description: Token is not permitted to read rating periods.
+          content:
+            application/json:
+              schema: { $ref: '#/components/schemas/Error' }
+
+  /rating-periods:
+    get:
+      tags: [Ratings]
+      operationId: listRatingPeriods
+      summary: Rating periods (privileged)
+      description: |
+        Returns `401 "Not allowed (token)"` for an ordinary API token — the route resolves,
+        but reading it needs privileges a normal account does not have. Listed here so you
+        can tell "not permitted" apart from "does not exist"; the success shape is
+        unverified and taken from a third-party client's data model.
+      parameters:
+        - $ref: '#/components/parameters/Page'
+      responses:
+        '200':
+          description: Rating periods. Shape unverified.
+          content:
+            application/json:
+              schema:
+                type: object
+                x-evidence: unverified
+                properties:
+                  data:
+                    type: array
+                    items: { $ref: '#/components/schemas/RatingPeriod' }
+        '401':
+          description: Token is not permitted to read rating periods.
+          content:
+            application/json:
+              schema: { $ref: '#/components/schemas/Error' }
+
   # ------------------------------------------------------------------ Machines
   /opdb/entries/{opdbId}:
     get:
@@ -1070,8 +1733,9 @@ paths:
       operationId: estimateWppr
       summary: Estimate WPPR value
       description: |
-        The API's only non-GET operation. It **computes** an estimate and stores nothing, so
-        it is safe to call on a read-only integration.
+        One of two non-GET operations, the other being `POST /ratings/compare`. It
+        **computes** an estimate and stores nothing, so it is safe to call on a read-only
+        integration.
 
         Supply exactly one of `tournamentId` or `seriesId`.
       requestBody:
@@ -1765,6 +2429,13 @@ components:
               description: Raw machine scores per slot. Null throughout most formats, which record only a winner.
               items: { type: [string, number, 'null'] }
             resultCountMismatch: { type: boolean, x-evidence: verified, description: Submitted results disagreed. }
+            arena:
+              $ref: '#/components/schemas/Arena'
+              x-evidence: verified
+              description: |
+                The full machine object, embedded only by the single-game endpoint
+                `GET /tournaments/{id}/games/{gameId}`. The collection endpoints return
+                `arenaId` alone.
             suggestions:
               type: array
               x-evidence: verified
@@ -2198,3 +2869,280 @@ components:
               womensRankValueIncluded: { type: boolean }
               wpprValue: { type: number }
               womensWpprValue: { type: number }
+
+    # --------------------------------------------------------- Statistics family
+    # These are the /stats/* shapes. All return without a `data` envelope.
+    MatchplayStats:
+      type: object
+      description: Aggregate game counts for a tournament. Returned bare.
+      properties:
+        avgGamesPerPlayer: { type: number, x-evidence: verified, description: Mean games per player, unrounded. }
+        totalGames: { type: integer, x-evidence: verified }
+
+    RoundStatsRow:
+      type: object
+      description: One round's timing and game count.
+      properties:
+        roundId: { type: integer, x-evidence: verified }
+        tournamentId: { type: integer, x-evidence: verified }
+        index: { type: integer, x-evidence: verified, description: Zero-based round number. }
+        name: { type: string, x-evidence: verified }
+        duration: { type: [integer, 'null'], x-evidence: verified, description: Seconds. }
+        createdAt: { type: [string, 'null'], x-evidence: verified, description: '`YYYY-MM-DD HH:MM:SSZ` — space-separated, not ISO-8601.' }
+        completedAt: { type: [string, 'null'], x-evidence: verified, description: Same non-ISO format as `createdAt`. }
+        gameCount: { type: integer, x-evidence: verified }
+
+    ArenaStatsRow:
+      type: object
+      description: |
+        One machine's game count and duration spread. Distinct from `ArenaSummaryRow`,
+        which is what `/summary/arenas` returns.
+      properties:
+        arenaId: { type: integer, x-evidence: verified }
+        name: { type: string, x-evidence: verified }
+        gameCount: { type: integer, x-evidence: verified }
+        avgDuration: { type: [number, 'null'], x-evidence: verified, description: Seconds. }
+        minDuration: { type: [integer, 'null'], x-evidence: verified }
+        maxDuration: { type: [integer, 'null'], x-evidence: verified }
+
+    PlayerCountRow:
+      type: object
+      description: |
+        A row of counts keyed by `playerId`, where **every other key is dynamic** — a
+        finishing position, an arena id or an opponent's player id, mapping to a count.
+        Iterate the keys; do not assume a fixed set.
+
+        `name` appears on the series-level variant and not on the tournament-level one.
+        Both are otherwise identical, so exclude `playerId` and `name` before treating the
+        remaining entries as counts.
+      properties:
+        playerId: { type: integer, x-evidence: verified }
+        name: { type: [string, 'null'], x-evidence: verified, description: 'Present on the `/series/{id}/stats` rows only.' }
+      additionalProperties: { type: integer }
+
+    PlayerStats:
+      type: object
+      description: Per-player breakdowns. Returned bare, with three parallel arrays.
+      properties:
+        positionCounts:
+          type: array
+          x-evidence: verified
+          description: Keys are finishing positions as strings — `"0"` is first place.
+          items: { $ref: '#/components/schemas/PlayerCountRow' }
+        arenaCounts:
+          type: array
+          x-evidence: verified
+          description: Keys are arena ids.
+          items: { $ref: '#/components/schemas/PlayerCountRow' }
+        opponentCounts:
+          type: array
+          x-evidence: verified
+          description: Keys are opponent player ids.
+          items: { $ref: '#/components/schemas/PlayerCountRow' }
+
+    BestGameStats:
+      type: object
+      description: Entry and card counts for a best-game tournament. Returned bare.
+      properties:
+        gameCount: { type: integer, x-evidence: verified }
+        voidedCount: { type: integer, x-evidence: verified, description: Games voided by an organizer. }
+        cardCount: { type: integer, x-evidence: verified }
+        voidedCardCount: { type: integer, x-evidence: verified }
+
+    # ------------------------------------------------------- Format-specific
+    QueueEntry:
+      type: object
+      description: A player waiting to play, in a Best Game or Frenzy tournament.
+      properties:
+        queueId: { type: integer, x-evidence: verified }
+        tournamentId: { type: integer, x-evidence: verified }
+        arenaId: { type: [integer, 'null'], x-evidence: verified }
+        roundId: { type: [integer, 'null'], x-evidence: verified }
+        playerId: { type: integer, x-evidence: verified }
+        index: { type: [integer, 'null'], x-evidence: verified, description: Position in the queue. }
+        createdAt: { type: [string, 'null'], x-evidence: verified }
+        completedAt: { type: [string, 'null'], x-evidence: verified }
+
+    FrenzyState:
+      type: object
+      description: Live state of a Flip Frenzy tournament. Returned bare.
+      properties:
+        games:
+          type: array
+          x-evidence: verified
+          description: Games in progress. `roundId` is `0` — Frenzy has no rounds.
+          items: { $ref: '#/components/schemas/Game' }
+        queue:
+          type: array
+          x-evidence: verified
+          items: { $ref: '#/components/schemas/QueueEntry' }
+        avgQueueDuration: { type: [number, 'null'], x-evidence: verified, description: Mean wait in seconds. }
+
+    MaxMatchplayPlayer:
+      type: object
+      description: |
+        A Max Match Play player aggregate. **Not** the ordinary `Player` shape — it carries
+        counts rather than identity, and has no `name`.
+      properties:
+        playerId: { type: integer, x-evidence: verified }
+        gameCount: { type: integer, x-evidence: verified }
+        completedTime: { type: [integer, 'null'], x-evidence: verified, description: 'Unix epoch **seconds** — not an ISO string, unlike every other timestamp on this API.' }
+        arenaCounts: { type: object, x-evidence: verified, description: Arena id to games played on it., additionalProperties: { type: integer } }
+        opponentCounts: { type: object, x-evidence: verified, description: Opponent player id to times faced., additionalProperties: { type: integer } }
+        allOpponents: { type: array, x-evidence: verified, items: { type: integer } }
+
+    MaxMatchplayState:
+      type: object
+      description: State of a Max Match Play tournament. Returned bare.
+      properties:
+        games:
+          type: array
+          x-evidence: verified
+          items: { $ref: '#/components/schemas/Game' }
+        players:
+          type: array
+          x-evidence: verified
+          items: { $ref: '#/components/schemas/MaxMatchplayPlayer' }
+        remainingGames: { type: integer, x-evidence: verified }
+        avgGameDuration: { type: [number, 'null'], x-evidence: verified, description: Seconds. }
+
+    BestGameSummaryRow:
+      type: object
+      description: One machine's best-game state. Returned in a bare array.
+      properties:
+        arenaId: { type: integer, x-evidence: verified }
+        gameQueue: { type: array, x-evidence: verified, description: Players waiting for this machine., items: { $ref: '#/components/schemas/QueueEntry' } }
+        gameDuration: { type: [number, 'null'], x-evidence: verified, description: Mean seconds per game on this machine. }
+        bestScore: { type: [integer, 'null'], x-evidence: verified, description: Highest score posted. Can exceed 2³¹ — use a 64-bit type. }
+        highlightedScore: { type: [integer, 'null'], x-evidence: verified }
+
+    BestGameDetails:
+      type: object
+      description: Full best-game detail for one machine. Returned bare.
+      properties:
+        arena: { $ref: '#/components/schemas/Arena', x-evidence: verified }
+        voidedGameCount: { type: integer, x-evidence: verified }
+        singlePlayerGames:
+          type: array
+          x-evidence: verified
+          items: { $ref: '#/components/schemas/SinglePlayerGame' }
+        queue:
+          type: array
+          x-evidence: verified
+          items: { $ref: '#/components/schemas/QueueEntry' }
+
+    # ------------------------------------------------- Series & ratings extras
+    Aggregate:
+      type: object
+      description: |
+        Six-number summary of a distribution. Every member except `sum` and `count` is
+        **null when the set is empty** — a series with no guests returns
+        `{sum: 0, count: 0, max: null, min: null, mean: null, median: null}`.
+      properties:
+        sum: { type: number, x-evidence: verified }
+        max: { type: [number, 'null'], x-evidence: verified }
+        min: { type: [number, 'null'], x-evidence: verified }
+        mean: { type: [number, 'null'], x-evidence: verified }
+        median: { type: [number, 'null'], x-evidence: verified }
+        count: { type: integer, x-evidence: verified }
+
+    SeriesStats:
+      type: object
+      description: |
+        Attendance statistics for a series. Returned bare. Three of its members are keyed
+        objects rather than arrays, which is worth handling explicitly.
+      properties:
+        series: { $ref: '#/components/schemas/Series', x-evidence: verified }
+        overall: { $ref: '#/components/schemas/Aggregate', x-evidence: verified, description: Attendance per tournament across everyone. }
+        members: { $ref: '#/components/schemas/Aggregate', x-evidence: verified, description: Series members only. }
+        guests: { $ref: '#/components/schemas/Aggregate', x-evidence: verified, description: Non-members only. }
+        tournaments:
+          type: object
+          x-evidence: verified
+          description: Keyed by tournament id (as a string), not an array.
+          additionalProperties:
+            type: object
+            properties:
+              name: { type: string }
+              total: { type: integer }
+              members: { type: integer }
+              guests: { type: integer }
+        playerAttendances:
+          type: object
+          x-evidence: verified
+          description: |
+            A histogram keyed by attendance count as a string — `{"1": 12}` means twelve
+            players attended exactly one tournament.
+          additionalProperties: { type: integer }
+        opponentCounts:
+          type: array
+          x-evidence: verified
+          description: Per-player opponent histograms, with `playerId` and `name` alongside the dynamic keys.
+          items: { $ref: '#/components/schemas/PlayerCountRow' }
+        arenaCounts:
+          type: array
+          x-evidence: verified
+          description: Per-player machine histograms. Empty on series whose tournaments record no arenas.
+          items: { $ref: '#/components/schemas/PlayerCountRow' }
+
+    SeriesStanding:
+      type: object
+      description: A row of series-wide standings, returned by `/series/{id}?includeDetails=true`.
+      properties:
+        playerId: { type: integer, x-evidence: verified }
+        position: { type: integer, x-evidence: verified }
+        points: { type: number, x-evidence: verified, description: Raw total across counted tournaments. }
+        pointsAdjusted: { type: [number, 'null'], x-evidence: verified, description: After `removedResults` drops the worst finishes. }
+        onCutoffBubble: { type: [boolean, 'null'], x-evidence: verified }
+        cutoffBubbleColor: { type: [string, 'null'], x-evidence: verified }
+        onCutoffBubble2: { type: [boolean, 'null'], x-evidence: verified }
+        manualTiebreakerGroup: { type: [integer, 'null'], x-evidence: verified }
+
+    IfpaRatingHistoryPoint:
+      type: object
+      description: |
+        One rating period from `/ifpa/{ifpaId}/rating-history`. Richer than the
+        `RatingHistoryPoint` embedded in a rating bundle, and not interchangeable with it.
+      properties:
+        ratingRevisionId: { type: integer, x-evidence: verified }
+        ratingId: { type: integer, x-evidence: verified }
+        ratingPeriod: { type: string, x-evidence: verified, description: 'Date, `YYYY-MM-DD`.' }
+        rating: { type: number, x-evidence: verified }
+        rd: { type: number, x-evidence: verified }
+        ratingClass: { type: [integer, 'null'], x-evidence: verified }
+        delta: { type: [string, 'null'], x-evidence: verified, description: Change over this period, as a string. }
+        gameCount: { type: integer, x-evidence: verified }
+        winCount: { type: integer, x-evidence: verified }
+        lossCount: { type: integer, x-evidence: verified }
+        resultCount: { type: integer, x-evidence: verified }
+        efficiencyPercent: { type: number, x-evidence: verified, description: 'Win efficiency over this period, 0–1.' }
+
+    RatingComparison:
+      type: object
+      description: Several ratings in one response. Returned bare.
+      properties:
+        ratings:
+          type: array
+          x-evidence: verified
+          items: { $ref: '#/components/schemas/Rating' }
+        records:
+          type: object
+          x-evidence: verified
+          description: Keyed by `ratingId` as a string. Empty arrays observed; populated contents unverified.
+          additionalProperties: { type: array, items: { type: object } }
+
+    RatingPeriod:
+      type: object
+      description: |
+        A global rating period. **Shape unverified** — reading `/rating-periods` requires
+        privileges an ordinary token lacks, so this is derived from a third-party client's
+        data model rather than an observed response.
+      x-evidence: unverified
+      properties:
+        ratingPeriodId: { type: integer }
+        periodDate: { type: string }
+        tournamentCount: { type: [integer, 'null'] }
+        challengeCount: { type: [integer, 'null'] }
+        extEventCount: { type: [integer, 'null'] }
+        resultCount: { type: [integer, 'null'] }
+        playerCount: { type: [integer, 'null'] }
