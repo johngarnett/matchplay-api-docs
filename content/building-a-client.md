@@ -242,6 +242,9 @@ client-side cap below the published ceiling, has been reported stable with no `4
 | Deep pagination returns `401` | Don't page deeply; use exports |
 | Misspelled `include*` flags are ignored | Diff payloads when an expansion "doesn't work" |
 | `linkedTournamentId` is populated inconsistently | Use `linkedTournaments[]` |
+| `linkType` names the *other* tournament's role | A `playoff` link means **this** one is the qualifier — [direction rule](/tournaments.html#finding-links) |
+| A `series` link has no `tournamentId` | Filter on `linkType` before dereferencing |
+| Rosters only compare within one organizer | `playerId` is organizer-scoped — [containment check](/tournaments.html#inferring-links) |
 | `startUtc` shifts evening events to the next day | Group on `startLocal` |
 | Config keys are absent, not null | Use `in`, not `!== null` |
 | Points arrive as strings | `Number()` and check `isFinite` |

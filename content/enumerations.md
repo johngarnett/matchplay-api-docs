@@ -94,10 +94,14 @@ Match Play add formats. Code defensively — an unrecognised `type` should degra
 
 </div>
 
+<!-- claim:link-types canonical -->
 ## Configuration values
 
 Counts from a 102-tournament worldwide sample. `null` means the key was present and null;
 remember that on many tournaments the key is [absent entirely](/tournaments.html#the-field-set-depends-on-the-type).
+
+For what the `linkType` values *mean* — which direction a `playoff` or `qualifying` link
+points — see [finding the playoff or the qualifier](/tournaments.html#finding-links).
 
 <div class="table-scroll">
 

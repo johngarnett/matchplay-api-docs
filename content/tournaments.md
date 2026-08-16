@@ -174,6 +174,12 @@ Match Play document eleven `include*` flags. Six of them actually add data:
 
 Both `true` and `1` are accepted.
 
+Two further flags, `includeParent` and `includePlayoffs`, are not in the handbook. A
+third-party client sends both on every request, but neither added a key to any response
+tried — including a qualifier and its final, where a parent or playoff structure is exactly
+what you would expect. They behave like the unknown flags below. To resolve playoff
+relationships use [`includeLinkedTournaments`](#finding-links).
+
 <div class="callout callout-trap">
 <span class="callout-title">Unknown flags are silently ignored</span>
 
@@ -217,7 +223,228 @@ When there are no links the array is `null`, not `[]`.
 ]
 ```
 
-`linkType` is `qualifying` or `playoff`.
+<!-- claim:link-types -->
+`linkType` has [six values](/enumerations.html#configuration-values), not two — a link also
+joins a tournament to a series, an arena, a queue or an entry list.
+
+## Finding the playoff, or the qualifier {#finding-links}
+
+This is the question `linkedTournaments[]` exists to answer, and the answer turns on one rule
+that is easy to get exactly backwards.
+
+<div class="callout callout-trap">
+<span class="callout-title"><code>linkType</code> describes the <em>other</em> tournament, not this one</span>
+
+A tournament carrying a **`playoff`** link **is the qualifier** — the link points at its final.
+
+A tournament carrying a **`qualifying`** link **is the final** — the link points at its
+qualifier.
+
+Read it the other way round and your code still runs, still returns a real tournament, and is
+wrong every time. There is nothing in the response to tell you.
+</div>
+
+The clearest way to see it is a reciprocal pair. Tournament 163691 is a monthly qualifier;
+221124 is its final. Each one names the *other*'s role:
+
+```jsonc
+// GET /tournaments/163691?includeLinkedTournaments=true   ← the qualifier
+"linkedTournaments": [
+  { "tournamentId": 221124, "name": "Finals for Craft and Draft monthly tournament (November)",
+    "linkType": "playoff", "linkIndex": 0 }
+]
+
+// GET /tournaments/221124?includeLinkedTournaments=true   ← the final
+"linkedTournaments": [
+  { "tournamentId": 163691, "name": "Craft and Draft monthly tournament (November)",
+    "linkType": "qualifying", "linkIndex": 0 }
+]
+```
+
+Across 19,761 links, 98.2% of `playoff` targets are named "final" or "playoff" against 5.2%
+of `qualifying` targets — the naming confirms the direction at scale.
+
+### Reading them safely
+
+```js
+const LINK_PLAYOFF = 'playoff'
+const LINK_QUALIFYING = 'qualifying'
+
+function linkedOfType(tournament, linkType) {
+   const links = tournament.linkedTournaments ?? []
+   return links
+      .filter(link => link.linkType === linkType && link.tournamentId != null)
+      .sort((a, b) => (a.linkIndex ?? 0) - (b.linkIndex ?? 0))
+}
+
+// The finals this tournament feeds into.
+const playoffsOf = tournament => linkedOfType(tournament, LINK_PLAYOFF)
+
+// The qualifiers that feed into this tournament.
+const qualifiersOf = tournament => linkedOfType(tournament, LINK_QUALIFYING)
+```
+
+Three things that guard is doing, each of which corresponds to a real case in the data:
+
+- **`?? []`** — when there are no links the field is `null`, not `[]`.
+- **`tournamentId != null`** — a `series` link has **no `tournamentId` at all**; it carries
+  `seriesId` instead. All 1,140 series links in the corpus lack the field, so an unfiltered
+  `.map(l => l.tournamentId)` yields `undefined` entries.
+- **Sorting on `linkIndex`, returning an array** — 709 tournaments carry more than one
+  `playoff` link, typically an A and B division. "The playoff" is often not singular.
+
+### A tournament can be both
+
+314 tournaments carry a `playoff` link *and* a `qualifying` link: they are a middle stage,
+qualifying out of one round and into another. So "is this a playoff?" has no correct boolean
+answer for them — ask the two questions separately:
+
+```js
+const isFinal     = qualifiersOf(tournament).length > 0
+const isQualifier = playoffsOf(tournament).length > 0   // both can be true
+```
+
+### Links are usually, but not always, mutual
+
+In 8,800 of 8,829 checkable pairs (99.7%) the target linked back. So you can normally walk
+from either end and get the same picture.
+
+The remaining 0.3% is why a program that must be complete should build a reverse index —
+scan the tournaments you have, and record for each id which other tournaments name it as
+`qualifying`. That catches a final whose own record is missing the link. It also matters
+whenever you are working over a *subset*: the counterpart may simply not be in the set you
+fetched, which was true of 411 link targets here.
+
+### When there are no links at all {#inferring-links}
+
+25,693 of the 44,081 tournaments examined carry no links. Several signals can still suggest a
+qualifier/final relationship, but none is authoritative — use them to *propose* a pair, and
+prefer a real link whenever one exists.
+
+Each was measured against the 8,829 linked qualifier/final pairs, and again against 376,865
+*unlinked* same-organizer pairs to see how often it fires on tournaments that are **not**
+related. Both numbers matter: a signal that matches every real pair is worthless if it also
+matches everything else.
+
+<div class="table-scroll">
+
+| Signal (on the candidate final) | Matches real pairs | Matches unrelated pairs |
+| --- | --- | --- |
+| Starts on the **same calendar day** | **98.8%** | **1.10%** |
+| Roster is a **subset** of the qualifier's | 97.7% | 4.45% |
+| Name **contains the qualifier's name** | 91.1% | 3.22% |
+| Name is exactly `Finals for {qualifier}` | 79.1% | 0.56% |
+| Name merely mentions "final" or "playoff" | 98.2% | **39.6%** |
+
+</div>
+
+<div class="callout callout-trap">
+<span class="callout-title">The most obvious signal is the least useful one</span>
+
+Searching for "final" or "playoff" in the name matches 98.2% of real finals — and **39.6% of
+unrelated tournaments too**. Organizers name things "Finals" constantly, so on its own it is
+close to worthless as a discriminator, despite looking like the strongest lead.
+
+Same-day timing is the opposite: almost identical recall at 98.8%, but it fires on only 1.10%
+of unrelated pairs. If you use one signal, use that one.
+</div>
+
+Same day is strong because a final is nearly always the back half of a single event: the
+median gap is **zero days**, and so is the 90th percentile. Only 28 pairs in 8,829 ran more
+than a day apart (the extreme being 49 days), and 13 finals carry a `startLocal` *earlier*
+than their qualifier — so compare dates for equality rather than asserting an order.
+
+#### Combining them
+
+Pairing two independent signals is what makes this reliable:
+
+<div class="table-scroll">
+
+| Rule | Matches real pairs | Matches unrelated pairs |
+| --- | --- | --- |
+| Same day **+** name contains qualifier's name | 90.3% | **0.23%** |
+| Same day **+** name mentions final/playoff | 97.0% | 0.67% |
+| Any **two of three** (day, name-contains, mentions-final) | 98.6% | 1.53% |
+
+</div>
+
+Same day plus a name mention is the best general-purpose rule — it recovers 97% of real pairs
+while firing on well under one percent of everything else. Tighten to full name containment if
+you would rather miss a few than guess wrong.
+
+```js
+// Propose a candidate final for a qualifier that has no playoff link.
+// Same organizer is required, not merely helpful — see below.
+function looksLikeFinalOf(final, qualifier) {
+   if (final.organizerId !== qualifier.organizerId) return false
+   if (final.startLocal.slice(0, 10) !== qualifier.startLocal.slice(0, 10)) return false
+
+   const mentionsFinal = /final|playoff/i.test(final.name)
+   const namesQualifier = final.name.toLowerCase().includes(qualifier.name.toLowerCase())
+
+   return mentionsFinal || namesQualifier
+}
+```
+
+Roster containment is the natural confirmation step once a candidate is proposed, since it
+draws on evidence the name and date cannot:
+
+```js
+function rosterIsSubset(final, qualifier) {
+   const field = new Set(qualifier.players.map(p => p.playerId))
+   const finalists = final.players.map(p => p.playerId)
+
+   return finalists.length > 0
+      && finalists.length < field.size
+      && finalists.every(playerId => field.has(playerId))
+}
+```
+
+<div class="callout callout-warn">
+<span class="callout-title">Every one of these is organizer-scoped</span>
+
+`playerId` is [scoped to the organizer](/identity.html), so a roster comparison across two
+organizers is not merely noisy — it is meaningless, because the same integer denotes different
+people. All 8,829 linked pairs shared an organizer.
+
+The same caution applies to the whole approach in bulk. A 1% false-positive rate is small per
+comparison and large across a corpus: the "same day" test alone produced over four thousand
+spurious matches here. These signals are good for **confirming a suspected pair** and poor for
+discovering pairs by brute force.
+</div>
+
+#### Field size
+
+The field shrinks, and usually by a lot. Across the same 8,829 pairs:
+
+<div class="table-scroll">
+
+| Reduction | Pairs | Share |
+| --- | --- | --- |
+| Cut by **more than** half | 6,936 | 78.6% |
+| Cut by **exactly** half | 1,224 | 13.9% |
+| Cut by **less than** half | 669 | 7.6% |
+
+</div>
+
+The median final is **38%** of its qualifier's field, and 90% of finals are at most half of it.
+So "half the field" is better read as a ceiling than as the typical case — a rule expecting
+exactly half would miss four finals in five.
+
+Requiring a ratio of ≤ 0.5 alongside containment removes 28.8% of the false positives above
+while still matching 92.5% of real pairs, which is a reasonable trade if you are scanning in
+bulk.
+
+Do not treat a shrinking field as required, though: in 130 pairs the "final" had **as many
+players as the qualifier or more**, the largest at 7.75×. A single final fed by several
+qualifiers looks like this from each qualifier's side.
+
+#### Playoff cutoffs
+
+For 2,013 of the link-less tournaments a [`playoffsCutoffs`](#playoffscutoffs) entry has text
+naming a final or playoff. That suggests the organizer intended one, and nothing more — it
+carries **no tournament id**, so it can never tell you *which* tournament the final is. Treat
+it as a display label, not as a link.
 
 <!-- claim:auto-close canonical -->
 ### `status: "started"` and the two-day auto-close {#status-started}
