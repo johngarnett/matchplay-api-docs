@@ -255,6 +255,18 @@ radius visible before you start.
   This is not hypothetical: the spec once claimed the tournament-scoped games endpoint was
   "the only way to learn who played a game", which was simply wrong — the websocket carries
   the same fields.
+- **A third-party client's data model is a map, not a source.** Typed clients (C# DTOs, TS
+  interfaces) are the best pointer to endpoints you don't know about — one of them revealed
+  ~22 working endpoints this project had missed. But their *shapes* drift. The same client
+  modelled `bgsummary` as `gameCount`/`queueCount` when the live endpoint returns
+  `gameQueue`/`gameDuration`/`highlightedScore`, called a `/dashboard` route that now 404s,
+  and had two methods stubbed with `NotImplementedException`. Use them to decide **what to
+  probe**, then write every schema from a captured payload.
+- **An error message is evidence an endpoint exists.** `400 "Tournament is not Frenzy"` and
+  `403 "Tournament is not Best Game."` prove the route resolves and is merely type-gated;
+  `401 "Not allowed (token)"` proves it exists and you lack permission. Only
+  `404 "The route api/… could not be found."` means absent. Document the first three; don't
+  let a non-200 convince you there is nothing there.
 - When a change is driven by new evidence, say so in the commit message and cite the
   evidence.
 
@@ -339,6 +351,16 @@ document it and update the badge:
   with it false never emits the event at all.
 - Whether `/tournaments/{id}/games` has an **upper item limit**. 135 came back in one
   response; the ceiling is unknown.
+- The success shape of **`/tournaments/{id}/stats/matches`** — it returns `400` unless the
+  tournament has a definite duration, and no tournament with one has been found to try.
+- The shape of **`/rating-periods`** and `/rating-periods/{date}`. Both return
+  `401 "Not allowed (token)"`, so the routes exist but no available token can read them. The
+  schema is derived from a third-party client and badged `unverified`.
+- The contents of **`records`** in `POST /ratings/compare` — an object keyed by `ratingId`,
+  observed only with empty arrays.
+- A **non-empty `queues` response**. `/tournaments/{id}/queues` needs a live Best Game
+  tournament; every completed one returns `[]`. This is the same live tournament needed for
+  the `QueueChanged` websocket event, so capture both at once.
 
 ## Capturing websocket events
 
