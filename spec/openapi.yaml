@@ -1334,22 +1334,31 @@ components:
             `includeLinkedTournaments`, which is populated consistently.
         estimatedTgp: { type: [number, 'null'], x-evidence: verified, description: Estimated Tournament Grading Percentage for IFPA. }
         pointsMap:
-          type: [array, 'null']
+          type: [array, string, 'null']
           x-evidence: verified
           description: |
             Points awarded by finishing position, indexed by group size minus one. Values are
             numbers for integer scoring and **strings** for fractional.
 
-            `null` for score-based formats such as golf, which award no positional points.
-            Over the websocket the same field arrives as an **object** keyed by stringified
-            group size rather than an array.
+            `null` for score-based formats such as golf, which award no positional points,
+            and the **string `"manual"`** when the organiser set points by hand — 836 of
+            44,081 tournaments examined. Over the websocket the same field arrives as an
+            **object** keyed by stringified group size rather than an array.
           items: { type: array, items: { type: [number, string] } }
         tiebreakerPointsMap:
-          type: [array, 'null']
+          type: [array, string, 'null']
           x-evidence: verified
-          description: Null for formats with no positional scoring.
+          description: |
+            Null for formats with no positional scoring, and the string `"manual"` when the
+            organiser set points by hand — the same sentinel `pointsMap` uses.
           items: { type: array, items: { type: string } }
-        pointsMapCustom: { type: [array, 'null'], x-evidence: verified }
+        pointsMapCustom:
+          type: ['object', 'null']
+          x-evidence: verified
+          description: |
+            The hand-entered point map behind `pointsMap: "manual"`. An **object** keyed by
+            group size, not an array — `{"3P": ["7","5","1"], "4P": ["7","5","3","1"],
+            "type": "matchplay"}`, with the values as strings.
         primaryConfigSettings:
           type: array
           x-evidence: verified
@@ -1376,17 +1385,17 @@ components:
         entryConfiguration: { type: ['object', 'null'], x-evidence: unverified, description: Requires `includeEntryConfiguration`. Observed null even on a best-game tournament; a populated example was not captured. }
         event: { type: ['object', 'null'], x-evidence: unverified, description: Requires `includeEvent`. No populated example captured. }
         shortcut: { type: ['object', 'null'], x-evidence: unverified, description: Requires `includeShortcut`. No populated example captured. }
-        seeding: { type: [string, 'null'], x-evidence: verified, enum: [random, manual, ifpa, mp_rating, mp_rating_rating, series_seed, null] }
-        pairing: { type: [string, 'null'], x-evidence: verified, enum: [swiss, strictswiss, balanced, balanced_series, tiers, random, null] }
-        firstRoundPairing: { type: [string, 'null'], x-evidence: verified, enum: [random, adjacent, cross, slaughter, null] }
-        playerOrder: { type: [string, 'null'], x-evidence: verified, enum: [balanced, random, rotating, seed, disabled, null] }
+        seeding: { type: [string, 'null'], x-evidence: verified, enum: [random, manual, ifpa, ifpa_womens, mp_rating, mp_rating_rating, series_seed, null] }
+        pairing: { type: [string, 'null'], x-evidence: verified, enum: [balanced, swiss, balanced_series, strictswiss, random, tiers, null] }
+        firstRoundPairing: { type: [string, 'null'], x-evidence: verified, enum: [random, slaughter, adjacent, cross, best_game, null] }
+        playerOrder: { type: [string, 'null'], x-evidence: verified, enum: [balanced, rotating, seed, seed_reverse, position, random, disabled, null] }
         playerOrderOpen: { type: [string, 'null'], x-evidence: verified, enum: [players, scorekeepers, null] }
-        arenaAssignment: { type: [string, 'null'], x-evidence: verified, enum: [balanced, random, manual, banks, category_banks, disabled, null] }
+        arenaAssignment: { type: [string, 'null'], x-evidence: verified, enum: [balanced, manual, random, disabled, balanced_series, banks, category_banks, manual_banks, null] }
         scorekeeping: { type: [string, 'null'], x-evidence: verified, enum: [user, disabled, null] }
         suggestions: { type: [string, 'null'], x-evidence: verified, enum: [automatic, restricted, disabled, null] }
         byes: { type: [string, 'null'], x-evidence: verified, enum: [full, half, zero, null] }
-        tiebreaker: { type: [string, 'null'], x-evidence: verified, enum: [standard, placement, placement_last, wins, losses, disabled, null] }
-        scoring: { type: [string, 'null'], x-evidence: verified, enum: [ifpa, papa, pinburgh, dcleague, winnerbonus, winwinlossloss, '', null] }
+        tiebreaker: { type: [string, 'null'], x-evidence: verified, enum: [disabled, standard, placement, placement_last, wins, losses, seed, none, null] }
+        scoring: { type: [string, 'null'], x-evidence: verified, enum: [ifpa, papa, pinburgh, bapa, nepl, dcleague, idaho, aussierules, winnerbonus, winneronly, winwinlossloss, progressive, custom, '', null] }
         duration: { type: [integer, 'null'], x-evidence: verified, description: 'Planned round count for fixed-round formats. **Not** seconds — the identically named field on `Round` is seconds.' }
         gamesPerRound: { type: [integer, 'null'], x-evidence: verified }
         knockoutStrikeCount: { type: [integer, 'null'], x-evidence: verified, description: Strikes required for elimination. }
@@ -1395,7 +1404,13 @@ components:
         knockoutFair: { type: [boolean, 'null'], x-evidence: verified, description: Fair-strikes group knockout. Mutually exclusive with `knockoutProgressive`. }
         knockoutProgressive: { type: [boolean, 'null'], x-evidence: verified, description: Progressive-strikes group knockout. }
         useQueues: { type: [boolean, 'null'], x-evidence: verified }
-        bestGameScoring: { type: [string, 'null'], x-evidence: verified, enum: [bg_linear, bg_papa, bg_circuit, bg_indisc, bg_50_percent_de, bg_95_pct_mod_de, null] }
+        bestGameScoring:
+          type: [string, 'null']
+          x-evidence: verified
+          enum: [bg_linear, bg_linear_200, bg_linear_300, bg_linear_500, bg_papa, bg_papa_150,
+                 bg_papa_200, bg_papa_qck_de, bg_circuit, bg_indisc, bg_indisc_200, bg_cax,
+                 bg_hella, bg_eurovision, bg_past_times, bg_top_25, bg_top_30,
+                 bg_50_percent_de, bg_90_percent_de, bg_95_pct_mod_de, custom, null]
         bestGameArenasCounted: { type: [integer, 'null'], x-evidence: verified }
         bestGameAttemptsOnArena: { type: [integer, 'null'], x-evidence: verified }
         bestGameNumberOfBestGames: { type: [integer, 'null'], x-evidence: verified }
@@ -1406,7 +1421,7 @@ components:
         cardBestGameScoring: { type: [integer, string, 'null'], x-evidence: verified, description: 'Observed as the integer `0`. Note its best-game sibling `bestGameScoring` is a string enum instead.' }
         roundCount: { type: [integer, 'null'], x-evidence: derived, description: Present on `group_bracket` only. }
         bracketSize: { type: [integer, 'null'], x-evidence: derived }
-        groupBracketDoubleByes: { type: [boolean, 'null'], x-evidence: derived }
+        groupBracketDoubleByes: { type: [integer, 'null'], x-evidence: verified, description: An integer, not a boolean — 0 or 1 in practice. }
         roundRobinGroupSize: { type: [integer, 'null'], x-evidence: derived }
         frenzyDuration: { type: [integer, 'null'], x-evidence: derived }
         frenzyQueueSize: { type: [integer, 'null'], x-evidence: derived }
@@ -1435,7 +1450,7 @@ components:
       properties:
         type: { type: string, x-evidence: verified, example: standard }
         private: { type: boolean, x-evidence: verified }
-        currency: { type: string, x-evidence: verified, example: '$' }
+        currency: { type: [string, 'null'], x-evidence: verified, example: '$' }
         rounding: { type: [integer, 'null'], x-evidence: verified }
         fixedAddition: { type: [number, 'null'], x-evidence: verified }
         fixedReduction: { type: [number, 'null'], x-evidence: verified }
@@ -1456,17 +1471,31 @@ components:
                   type: object
                   properties:
                     percentage: { type: [number, 'null'] }
-                    extra: { type: [number, 'null'] }
+                    extra: { type: [number, string, 'null'], description: 'An amount, or a description of a non-cash prize such as `"$20 gift card"`.' }
                     adjustment: { type: [number, 'null'] }
 
     LinkedTournament:
       type: object
-      description: A qualifying or playoff tournament linked to this one.
+      description: |
+        Something linked to a tournament. Usually a qualifying or playoff tournament, but
+        the same structure also links series, arenas, queues and entry lists.
       properties:
         tournamentId: { type: integer, x-evidence: verified }
-        name: { type: string, x-evidence: derived }
-        status: { $ref: '#/components/schemas/TournamentStatus', x-evidence: derived }
-        linkType: { type: string, enum: [qualifying, playoff], x-evidence: verified }
+        name: { type: string, x-evidence: verified }
+        status:
+          type: string
+          x-evidence: verified
+          enum: [completed, started, planned, active]
+          description: |
+            Includes `active`, which the tournament `status` enum does not — a link may point
+            at something other than a tournament.
+        linkType:
+          type: string
+          x-evidence: verified
+          enum: [playoff, qualifying, series, arena, queue, entry]
+          description: |
+            `playoff` and `qualifying` dominate, but the field also links a tournament to a
+            series, an arena, a queue or an entry list — 19,761 links examined.
         linkIndex: { type: [integer, 'null'], x-evidence: derived }
         test: { type: [boolean, 'null'], x-evidence: derived }
 
@@ -1866,13 +1895,24 @@ components:
           description: '**Scoring** adjustment. Unrelated to `tournamentPlayer.pointsAdjustment`, which is strikes in knockout formats.'
         entriesPlayed: { type: [integer, 'null'], x-evidence: verified, description: Best-game formats. }
         entriesAvailable: { type: [integer, 'null'], x-evidence: verified }
-        cardsCounted: { type: [integer, 'null'], x-evidence: verified, description: Card-based formats. }
+        cardsCounted:
+          type: [array, 'null']
+          x-evidence: verified
+          description: |
+            Card-based formats only, and an **array of card objects** rather than a count —
+            null on all but 1,487 of 465,945 standings rows examined.
+          items:
+            type: object
+            properties:
+              cardId: { type: integer }
+              points: { type: [string, number, 'null'] }
+              count: { type: integer }
         pointsList: { type: [array, 'null'], x-evidence: verified }
         frenzyWins: { type: [integer, 'null'], x-evidence: verified, description: Flip Frenzy only. }
         frenzyLosses: { type: [integer, 'null'], x-evidence: verified }
         activeGames: { type: array, x-evidence: verified, description: In-progress games, for live standings display., items: { type: [integer, object] } }
         activeGameColor: { type: [string, 'null'], x-evidence: verified }
-        onPaceBubble: { type: [boolean, 'null'], x-evidence: verified }
+        onPaceBubble: { type: ['object', 'null'], x-evidence: verified, description: An object, not a boolean, on the rows where it is populated. }
         onCutoffBubble: { type: [boolean, 'null'], x-evidence: verified, description: Pairs with the tournament's `playoffsCutoffs`. }
         onCutoffBubble2: { type: [boolean, 'null'], x-evidence: verified }
         cutoffBubbleColor: { type: [string, 'null'], x-evidence: verified }

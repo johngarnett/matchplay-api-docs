@@ -69,6 +69,9 @@ Claims that circulate among API consumers which observation does not support:
 | There is no standalone series endpoint | **Wrong.** `GET /series/{id}` and `GET /series` both exist and are undocumented. See [Series](/series.html) |
 | `linkedTournamentId` is a decoy that is always null | **Only true of recent tournaments.** Null across 102 sampled recent ones, but populated on 3 of 6 tournaments inside a 2023 event. Unreliable rather than unused — see [Tournaments](/tournaments.html) |
 | `scorbitId` is an integer | **Wrong.** It is a Scorbit UUID string. Null on all but 37 of 13,539 games, so every early sample was null and the field was typed — and badged verified — from an absence |
+| Nine of the settings enums were complete | **None were.** Validating against 44,081 tournaments added values to `seeding`, `pairing`, `firstRoundPairing`, `playerOrder`, `arenaAssignment`, `tiebreaker`, `scoring` and `bestGameScoring`, and doubled `linkType` from two values to six |
+| `pointsMap` is an array or null | **Also the string `"manual"`**, in 836 tournaments, with the hand-entered map in `pointsMapCustom` — itself an object, not an array |
+| `cardsCounted` is an integer | **An array of card objects** — `{cardId, points, count}` |
 | `scorbitLog` is an object | **Wrong.** A URL to a CSV session log on Scorbit's CDN. Null in all but 37 of 13,539 games — same cause as `scorbitId` |
 | Standings `points` is always a string | **Wrong.** A number in 20 of 294 tournaments, and both types within one standings array in a further tournament |
 | The tournaments list has no date filter | **Wrong.** The undocumented `dateInterval=<start>;<end>` filters by date and combines with `played` — see [Tournaments](/tournaments.html#two-undocumented-filters) |
@@ -108,6 +111,11 @@ team contributed the undocumented query parameters, the export refresh cadence, 
 revisions cross-walk, the watermark failure mode and the sizing figures, from their
 production integration. Everything they reported was re-verified here before publication,
 and where a report and a measurement disagreed, the measurement won.
+
+The largest single check: this site's schemas were validated against **1,301,505 records**
+from 44,081 completed tournaments of cached raw responses — every tournament, organizer,
+location, player entry, linked tournament and standings row. That found eleven schema errors,
+mostly enum values never seen in small samples, and now passes with zero failures.
 
 The evidence base:
 

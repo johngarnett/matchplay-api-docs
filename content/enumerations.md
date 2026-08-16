@@ -7,15 +7,24 @@ order: 12
 
 # Enumerations
 
-Values below were collected from live samples — a 102-tournament worldwide snapshot plus a
-100-tournament player history — and from application code that branches on them. Counts,
-where given, show real-world frequency.
+Values below come from validating this site's schemas against **44,081 completed tournaments**
+of cached raw API responses — 1.3 million records including 688,668 player entries and
+465,945 standings rows. Counts show real-world frequency in that corpus.
 
 None of this is published by Match Play.
 
+<div class="callout callout-warn">
+<span class="callout-title">That corpus is all completed tournaments</span>
+
+It comes from a pipeline that fetched `status=completed` only, so it says nothing about how
+common each status is, and it may under-represent settings used mainly by tournaments that
+never finish. Every *value* below was observed; the *frequencies* describe completed
+tournaments.
+</div>
+
 ## Tournament type
 
-Twenty-one values are known. Thirteen were observed live in a single snapshot.
+Twenty-one values, every one of them observed.
 
 <div class="table-scroll">
 
@@ -48,11 +57,16 @@ Twenty-one values are known. Thirteen were observed live in a single snapshot.
 The "no" rows return no game objects at all — see
 [Single-player formats](/single-player.html).
 
-Observed frequency in one player's 100-tournament history: `knockout` 80, `target` 6,
-`group_matchplay` 5, `group_knockout` 4, `golf` 2, `matchplay` 2, `max_matchplay` 1. In a
-worldwide `status=started` snapshot the spread was much wider, adding `best_game`,
-`card_best_game`, `frenzy`, `bowling`, `amazingrace`, `round_robin`, `double_round_robin`
-and `group_bracket`.
+All 21 were observed across 44,081 completed tournaments, in this order of frequency:
+`group_matchplay` (19,178), `group_bracket` (4,542), `group_knockout` (4,086), `knockout`
+(3,874), `matchplay` (2,141), `max_matchplay` (1,684), `frenzy` (1,611), `amazingrace`
+(1,307), `bracket` (1,178), `best_game` (1,053), `ladder` (697), `double_bracket` (560),
+`target` (520), `round_robin` (466), `golf` (399), `pace_matchplay` (270),
+`double_round_robin` (184), `golf_bracket` (125), `card_best_game` (102), `bowling` (56),
+`manual_matchplay` (48).
+
+Group match play alone is 43% of completed tournaments — worth knowing when deciding which
+[scoring regime](/scoring.html) to implement first.
 
 <div class="callout">
 <span class="callout-title">Treat this list as open</span>
@@ -89,20 +103,21 @@ remember that on many tournaments the key is [absent entirely](/tournaments.html
 
 | Field | Observed values |
 | --- | --- |
-| `seeding` | `random` (91), `mp_rating_rating` (4), `mp_rating` (2), `ifpa`, `manual`, `series_seed` |
-| `pairing` | `swiss` (63), `strictswiss` (22), `balanced` (10), `balanced_series` (2), `tiers`, `random` |
-| `firstRoundPairing` | `random` (83), `slaughter` (10), `adjacent` (4), `cross` |
-| `playerOrder` | `balanced` (96), `random` (2), `rotating`, `seed`, `disabled` |
-| `playerOrderOpen` | `scorekeepers` (96), `players` (2) |
-| `arenaAssignment` | `balanced` (94), `banks` (2), `disabled` (2), `random`, `manual`, `category_banks` |
-| `scorekeeping` | `disabled` (61), `user` (39) |
-| `suggestions` | `automatic` (78), `restricted` (17), `disabled` (5) |
-| `byes` | `full` (82), `half`, `zero` |
-| `tiebreaker` | `standard` (7), `disabled` (2), `placement_last` (1), `placement`, `wins`, `losses` |
-| `scoring` | `ifpa` (7), `papa` (3), `winnerbonus` (1), `pinburgh`, `dcleague`, `winwinlossloss`, and the empty string |
-| `bestGameScoring` | `bg_linear`, `bg_papa`, `bg_circuit`, `bg_indisc`, `bg_50_percent_de`, `bg_95_pct_mod_de` |
+| `seeding` | `random` (23,940), `manual` (11,677), `ifpa` (1,736), `series_seed` (1,044), `mp_rating` (295), `mp_rating_rating` (255), `ifpa_womens` (181) |
+| `pairing` | `balanced` (16,443), `swiss` (9,008), `balanced_series` (2,698), `strictswiss` (966), `random` (704), `tiers` (250) |
+| `firstRoundPairing` | `random` (24,364), `slaughter` (3,639), `adjacent` (1,993), `cross` (69), `best_game` (4) |
+| `playerOrder` | `balanced` (22,766), `rotating` (3,450), `seed` (2,466), `random` (2,079), `seed_reverse` (722), `position` (263), `disabled` (7) |
+| `playerOrderOpen` | `scorekeepers` (37,174), `players` (1,681) |
+| `arenaAssignment` | `balanced` (29,590), `manual` (5,695), `disabled` (1,510), `random` (1,099), `balanced_series` (1,052), `banks` (869), `category_banks` (779), `manual_banks` (266) |
+| `scorekeeping` | `disabled` (32,379), `user` (11,702) |
+| `suggestions` | `automatic` (17,524), `disabled` (13,195), `restricted` (10,217) |
+| `byes` | `full` (5,715), `zero` (732), `half` (218) |
+| `tiebreaker` | `disabled` (18,927), `standard` (5,237), `placement` (2,343), `wins` (1,428), `placement_last` (264), `none` (238), `losses` (83), `seed` (82) |
+| `scoring` | `ifpa` (17,408), `papa` (3,789), `winnerbonus` (1,381), `pinburgh` (600), `dcleague` (556), `idaho` (197), `aussierules` (162), `custom` (73), `bapa` (43), `winneronly` (32), `winwinlossloss` (22), `progressive` (15), `nepl` (10) |
+| `bestGameScoring` | 21 values: `bg_linear`(+`_200`/`_300`/`_500`), `bg_papa`(+`_150`/`_200`/`_qck_de`), `bg_indisc`(+`_200`), `bg_circuit`, `bg_cax`, `bg_hella`, `bg_eurovision`, `bg_past_times`, `bg_top_25`, `bg_top_30`, `bg_50_percent_de`, `bg_90_percent_de`, `bg_95_pct_mod_de`, `custom` |
 | `organizer.role` | `player`, `organizer` |
-| `linkedTournaments[].linkType` | `qualifying`, `playoff` |
+| `linkedTournaments[].linkType` | `playoff` (9,240), `qualifying` (9,149), `series` (1,140), `arena` (220), `queue` (11), `entry` (1) |
+| `linkedTournaments[].status` | `completed` (17,000), `started` (1,765), `active` (662), `planned` (334) |
 | `prizePool.type` | `standard` |
 | `search` `type` | `users`, `tournaments` — **only** these two |
 
