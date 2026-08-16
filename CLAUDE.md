@@ -192,9 +192,14 @@ npm run claims -- -f "resultPositions"    # is this already stated somewhere?
 The output shows every page whose prose mentions it, and which claim tags those pages
 already carry. Then:
 
-- **It already exists somewhere.** Do not restate the specifics. Either link to the existing
-  statement, or if this page genuinely needs its own mention, keep it to a sentence and tag
-  both sites with the shared key.
+- **It already exists somewhere.** First ask whether this page needs to say it at all — the
+  usual answer is a link, and a link cannot go stale. Delete before you tag: a tag makes
+  duplication *visible*, not *free*, and tagging something that should have been cut just
+  preserves it with extra ceremony.
+
+  If the page genuinely needs its own mention — because a reader acts on it there — keep it
+  to a sentence that adds something local, drop the shared specifics, and tag both sites
+  with the same key.
 - **Nothing similar exists.** It is a new claim. If it is the sort of thing that will be
   referenced elsewhere — a trap, a limit, a correction — tag it `canonical` now, so the
   second mention has something to point at.

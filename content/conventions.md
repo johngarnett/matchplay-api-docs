@@ -215,20 +215,20 @@ zone if you need to convert.
 ## Identifier namespaces
 
 Three separate id spaces are in play, and confusing them is the most common source of bugs.
+[Identity](/identity.html) explains the model; this is just where each one turns up:
 
 <div class="table-scroll">
 
-| Id | Scope | Where it appears |
-| --- | --- | --- |
-| `userId` | Global Match Play account | `game.userIds[]`, `organizer.userId`, `/users/{id}`, `?played=` |
-| `playerId` | An organizer's roster entry — one person has one per organizer | `standings[].playerId`, `game.playerIds[]`, `?player=` |
-| `ifpaId` | IFPA, external | `player.ifpaId`, `user.ifpaId`, `/ratings/ifpa/{id}` |
+| Id | Appears as |
+| --- | --- |
+| `userId` | `game.userIds[]`, `organizer.userId`, `/users/{id}`, `?played=` |
+| `playerId` | `standings[].playerId`, `game.playerIds[]`, `?player=` |
+| `ifpaId` | `player.ifpaId`, `user.ifpaId`, `/ratings/ifpa/{id}` |
 
 </div>
 
-`player.claimedBy` holds the `userId` that claimed a roster entry, or `null` if unclaimed.
-That field is the bridge. See [Identity](/identity.html) for the full model, including what
-to do when a format returns no games to read `userIds` from.
+The one thing worth knowing before you read further: **`playerId` is scoped to the
+organizer, not the tournament**, so one person has several.
 
 ## Numbers arrive as strings
 
