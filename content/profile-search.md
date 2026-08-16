@@ -3,7 +3,7 @@ title: Profiles, search & ratings
 navTitle: Profiles & ratings
 description: Undocumented endpoints for search, global players, and Match Play Ratings
 group: Reference
-order: 15
+order: 16
 ---
 
 # Profiles, search & ratings
@@ -165,6 +165,91 @@ cannot be reached by Match Play `userId`.
 
 For more than a handful of players, do **not** call these endpoints. The
 [ratings CSV export](/exports.html) has every player in one file and costs the API nothing.
+
+### Comparing several players {#compare}
+
+<div class="endpoint"><span class="method">POST</span> <span>/ratings/compare</span></div>
+
+Between "one player" and "the whole CSV" sits this: several ratings in one call, selected by
+any mix of `userIds`, `ifpaIds` and `playerIds`.
+
+```bash
+curl -s "https://app.matchplay.events/api/ratings/compare" \
+  -H "Authorization: Bearer YOUR_API_TOKEN" \
+  -H "Content-Type: application/json" \
+  -d '{"userIds": [5750]}'
+```
+
+It returns a bare object — `ratings[]` plus a `records` map keyed by `ratingId`.
+
+<div class="callout callout-trap">
+<span class="callout-title">Send it as <code>POST</code>, and keep each list to 24 ids</span>
+
+The client this endpoint was found in issues it as a **`GET` with a JSON body**. That is
+legal but widely mishandled — several HTTP stacks drop the body silently, and that client's
+own test suite marks the call as returning wrong data in code while working in Postman.
+`POST` is verified working here and avoids the problem entirely.
+
+The same client caps every id list at **24 entries**, which is good evidence of a server-side
+batch limit even though the limit is undocumented.
+</div>
+
+{{schema:RatingComparison}}
+
+### Full rating history {#rating-history}
+
+<div class="endpoint"><span class="method">GET</span> <span>/ifpa/{ifpaId}/rating-history</span></div>
+
+Paginated, one row per rating period, defaulting to 100 rows.
+
+This is **not** the same shape as the `ratingHistory` array embedded in a rating bundle. That
+one carries four fields; this one adds the revision id, rating deviation, the per-period
+`delta` and win/loss counts — enough to chart form over time rather than just rating.
+
+{{schema:IfpaRatingHistoryPoint}}
+
+### The global ratings list {#ratings-list}
+
+<div class="endpoint"><span class="method">GET</span> <span>/ratings</span></div>
+
+Every rating, paginated, ordered by `ratingId` — so an unfiltered call starts at rating 1 and
+tells you nothing in particular.
+
+<div class="callout callout-trap">
+<span class="callout-title">It filters on a JSON body sent with a <code>GET</code></span>
+
+```bash
+curl -s -X GET "https://app.matchplay.events/api/ratings?page=1" \
+  -H "Authorization: Bearer YOUR_API_TOKEN" \
+  -H "Accept: application/json" \
+  -H "Content-Type: application/json" \
+  -d '{"userIds": "5750"}'
+```
+
+That returns one rating. Drop the `-d` and the same URL returns the global list from
+`ratingId: 1`.
+
+The filter works, but **the failure mode is silent**: a client that discards the body gets a
+`200` and a full unfiltered page rather than an error. Node's `fetch` refuses outright
+(`Request with GET/HEAD method cannot have body`); other stacks simply drop it. This is
+almost certainly why the client that revealed this endpoint has its own test marked
+*"returns wrong data in code but not in Postman"*.
+
+Unless you specifically need this shape, prefer
+[`/ratings/users/{userId}`](#match-play-ratings) for one player or
+[`POST /ratings/compare`](#compare) for several — neither depends on your HTTP stack
+tolerating an unusual request.
+</div>
+
+### Rating periods {#rating-periods}
+
+<div class="endpoint"><span class="method">GET</span> <span>/rating-periods</span></div>
+<div class="endpoint"><span class="method">GET</span> <span>/rating-periods/{YYYY-MM-DD}</span></div>
+
+Both answer `401 "Not allowed (token)"` for an ordinary API token. The routes resolve — this
+is a permissions refusal, not a missing endpoint, and a `404` would read
+`The route api/… could not be found.` instead — but their response shapes are **unverified**
+here because no available token can read them.
 
 ## OPDB and PinTips
 

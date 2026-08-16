@@ -277,6 +277,53 @@ status, tournamentId
 
 No players. No results. No suggestions.
 
+## Fetching one game
+
+<div class="endpoint"><span class="method">GET</span> <span>/tournaments/{tournamentId}/games/{gameId}</span></div>
+
+One game by id. It returns everything the collection does **plus the full `arena` object**,
+so it saves a machine lookup when you only need a single game.
+
+## Format-specific views {#format-views}
+
+Two tournament types have their own endpoint instead of appearing usefully through the
+ordinary games collection. Both are **type-gated** — asking about a tournament of the wrong
+type returns `400` with a plain-language message rather than an empty result:
+
+```json
+{ "message": "Tournament is not Frenzy" }
+```
+
+Use the [`type` filter](/tournaments.html#type-filter) to find tournaments these apply to.
+
+### Flip Frenzy
+
+<div class="endpoint"><span class="method">GET</span> <span>/tournaments/{tournamentId}/frenzy</span></div>
+
+Frenzy has no rounds — games come back with `roundId: 0` — so round-based logic does not
+apply. Alongside the games you get the waiting queue and a rolling mean wait in seconds.
+
+{{schema:FrenzyState}}
+
+### Max Match Play
+
+<div class="endpoint"><span class="method">GET</span> <span>/tournaments/{tournamentId}/max-matchplay</span></div>
+
+<div class="callout callout-trap">
+<span class="callout-title"><code>players[]</code> here is not the ordinary player object</span>
+
+Every other endpoint that returns `players` gives you identity — `name`, `ifpaId`, `status`.
+This one gives you **aggregates**: `gameCount`, opponent and arena histograms, and a
+`completedTime` that is a Unix epoch integer rather than a date string. There is no `name`
+field at all, so you must join to `playerId` yourself.
+
+Code that reuses a shared player parser across endpoints will break here.
+</div>
+
+{{schema:MaxMatchplayState}}
+
+{{schema:MaxMatchplayPlayer}}
+
 ## Field reference
 
 ### Full game

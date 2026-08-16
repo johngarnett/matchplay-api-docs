@@ -11,20 +11,21 @@ A series groups tournaments into a recurring competition — a league season, a 
 circuit, a multi-week best-game event. Match Play document none of this.
 
 <div class="callout callout-trap">
-<span class="callout-title">The same series arrives in three different shapes</span>
+<span class="callout-title">The same series arrives in four different shapes</span>
 
 Which fields you get depends entirely on how you fetched it:
 
-| | `GET /series` | `GET /series/{id}` | `includeSeries` on a tournament |
-| --- | --- | --- | --- |
-| Core fields | ✓ | ✓ | ✓ |
-| `organizer` | — | **✓** | — |
-| `rsvpConfiguration` | — | **✓** | — |
-| `tournamentIds` | **✓** | — | — |
+| | `GET /series` | `GET /series/{id}` | `…?includeDetails=true` | `includeSeries` on a tournament |
+| --- | --- | --- | --- | --- |
+| Core fields | ✓ | ✓ | ✓ | ✓ |
+| `organizer` | — | **✓** | **✓** | — |
+| `rsvpConfiguration` | — | **✓** | **✓** | — |
+| `tournamentIds` | **✓** | — | **✓** | — |
+| `standings`, `players` | — | — | **✓** | — |
 
-So the endpoint that names a series' tournaments is **not** the one that fetches a single
-series. If you want both the organizer and the tournament list you need two calls, or one
-call plus `GET /tournaments?series={id}`.
+The bare single-series call is the weakest of the three server-side options — it is the only
+one that names neither the tournaments nor the players. Reach for
+[`includeDetails`](#include-details) unless you specifically want the small payload.
 </div>
 
 ## List series
@@ -94,16 +95,82 @@ curl -s "https://app.matchplay.events/api/series/6224" \
 An unknown id returns the usual `404` naming the Laravel model:
 `No query results for model [App\Models\Series] 99999999`.
 
-<div class="callout callout-warn">
-<span class="callout-title">Expansion parameters are ignored here</span>
+Invented expansion names are ignored, as everywhere else on this API:
+`?includeTournaments=true&includePlayers=true` returns a **byte-identical** response to the
+bare request, the same silent-ignore behaviour as
+[tournament expansions](/tournaments.html#expansion-flags). Only one expansion is real.
 
-`?includeTournaments=true&includePlayers=true` returned a **byte-identical** response to the
-bare request — the same silent-ignore behaviour as
-[tournament expansions](/tournaments.html#expansion-flags). There is no known way to expand
-a series.
+## `includeDetails` — the whole series in one call {#include-details}
+
+<div class="endpoint"><span class="method">GET</span> <span>/series/{seriesId}?includeDetails=true</span></div>
+
+This changes the response substantially. On a nine-tournament series it took the payload from
+768 bytes to 17KB, adding five keys:
+
+<div class="table-scroll">
+
+| Key | Contents |
+| --- | --- |
+| `standings` | Series-wide standings, one row per player |
+| `tournamentPoints` | Points per player, keyed by tournament id then player id |
+| `players` | The full roster, with each player's `tournamentPlayer` pivot |
+| `playerLabels` | Organizer labels and colours, keyed by player id |
+| `tournamentIds` | The member tournament ids |
+
 </div>
 
+**This is series-wide standings in a single call.** Without it, reproducing them means
+fetching every member tournament's standings and applying the series scoring rules yourself
+— including `removedResults`, which drops each player's worst finishes.
+
+```json
+{
+  "playerId": 573018, "position": 1,
+  "points": 640, "pointsAdjusted": 478,
+  "onCutoffBubble": null, "cutoffBubbleColor": null,
+  "onCutoffBubble2": null, "manualTiebreakerGroup": null
+}
+```
+
+`points` is the raw total; `pointsAdjusted` is what remains after `removedResults` — that
+series drops the worst five, hence 640 against 478. Rank on `pointsAdjusted`.
+
+Note that `tournamentPoints` is keyed by id rather than being an array:
+
+```json
+"tournamentPoints": { "258953": { "199818": 85, "225854": 78 } }
+```
+
+{{schema:SeriesStanding}}
+
 {{schema:Series}}
+
+## Series statistics {#stats}
+
+<div class="endpoint"><span class="method">GET</span> <span>/series/{seriesId}/stats</span></div>
+
+Attendance analysis, returned as a bare object. Three `Aggregate` blocks describe attendance
+per tournament — `overall`, `members` and `guests`:
+
+```json
+"overall": { "sum": 111, "max": 19, "min": 11, "mean": 13.875, "median": 13.5, "count": 8 }
+```
+
+Every member except `sum` and `count` is **null when the set is empty**, which is the normal
+case for `guests` on a members-only series.
+
+`playerAttendances` is a histogram keyed by attendance count — `{"1": 12}` means twelve
+players came exactly once. It answers "how much of my field is regulars versus one-timers"
+without any per-player work.
+
+{{schema:SeriesStats}}
+
+{{schema:Aggregate}}
+
+<div class="endpoint"><span class="method">GET</span> <span>/series/{seriesId}/stats/attendance?count={n}</span></div>
+
+The players who attended at least `n` tournaments. `count` is **required** and is the
+attendance threshold, not a page size — a natural misreading given the name.
 
 ## Finding a series' tournaments
 

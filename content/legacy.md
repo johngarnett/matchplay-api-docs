@@ -2,7 +2,7 @@
 title: Legacy endpoints
 description: The older unauthenticated API on the bare matchplay.events host
 group: Reference
-order: 17
+order: 18
 ---
 
 # Legacy endpoints
@@ -103,3 +103,37 @@ For linking users to Match Play's own pages:
 
 These are ordinary web pages. Link to them rather than scraping them — deep-linking is good
 practice and costs Match Play nothing.
+
+## Removed endpoints {#removed}
+
+These once worked and no longer do. They are listed so that finding them in an old
+repository does not send you chasing something that cannot answer — all were verified dead on
+**2026-08-15**.
+
+<div class="table-scroll">
+
+| Endpoint | Response now | Last seen working |
+| --- | --- | --- |
+| `GET /api/dashboard` | `404` `The route api/dashboard could not be found.` | Referenced by a client library that marked it removed in Dec 2025 |
+| `GET matchplay.events/data/tournaments/{slug}` | `404` | ~2019. Keyed by the **slug** from a `/live/` URL, not a numeric id |
+| `GET matchplay.events/data/tournaments/{slug}/arenas/{arenaId}/scores` | `404` | ~2019 |
+| `GET matchplay.events/api-beta/tournaments/{id}` | `404` | 2017. An entire `/api-beta/` generation, now gone |
+| `GET matchplay.events/api-beta/tournaments/{id}/standings` | `404` | 2017 |
+
+</div>
+
+The two older generations are worth a note for anyone reading code from that era: they were
+unauthenticated, returned **snake_case** fields (`player_id`, `ifpa_id`, `arena_id`) with no
+`data` envelope, and addressed tournaments by human-readable slug rather than numeric id.
+Nothing about their conventions carries over to the current API.
+
+<div class="callout">
+<span class="callout-title">No webhook endpoint was found</span>
+
+`GET /api/webhooks` returns `404` (checked 2026-08-15), and no webhook registration appears
+in Match Play's documentation or in any consuming application surveyed for this site.
+
+The push mechanism this site does document is the [Pusher websocket](/realtime.html), which
+you subscribe to rather than register a callback for. If you are looking for a way to have
+Match Play call your server, that is the closest equivalent found.
+</div>

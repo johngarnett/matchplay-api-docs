@@ -188,6 +188,63 @@ The standings row carries format-specific columns that are null everywhere else:
 
 </div>
 
+## Fetching one item
+
+Each collection has an item-level counterpart. They cost one call instead of a paginated
+walk when you already know the id, and they return slightly *more* than the collection rows:
+
+<div class="endpoint"><span class="method">GET</span> <span>/tournaments/{tournamentId}/cards/{cardId}</span></div>
+<div class="endpoint"><span class="method">GET</span> <span>/tournaments/{tournamentId}/single-player-games/{singlePlayerGameId}</span></div>
+
+The single game carries `tournamentId` and `roundId`, which the collection rows omit; the
+card embeds its `singlePlayerGames` in full.
+
+<div class="callout callout-trap">
+<span class="callout-title"><code>top-scores</code> is a literal path segment, not an id</span>
+
+`GET /tournaments/{id}/single-player-games/top-scores` sits in the same position as the
+item-level route above. If you build that URL by interpolating a variable, a value of
+`"top-scores"` silently changes which endpoint you hit.
+</div>
+
+<div class="endpoint"><span class="method">GET</span> <span>/tournaments/{tournamentId}/single-player-games/top-scores</span></div>
+
+The leading entries per machine, each carrying its `cardId`. Scores here routinely exceed
+2³¹ — one captured entry is `11396549120` — so parse them as 64-bit.
+
+## Best-game machine state
+
+<div class="endpoint"><span class="method">GET</span> <span>/tournaments/{tournamentId}/arenas/bgsummary</span></div>
+
+One row per machine: its best score, its queue and mean game duration. A **bare array**.
+
+{{schema:BestGameSummaryRow}}
+
+<div class="endpoint"><span class="method">GET</span> <span>/tournaments/{tournamentId}/arenas/{arenaId}/bgdetails</span></div>
+
+The same picture for a single machine, with every submitted game and a voided count.
+
+{{schema:BestGameDetails}}
+
+## The queue
+
+<div class="endpoint"><span class="method">GET</span> <span>/tournaments/{tournamentId}/queues</span></div>
+
+The REST counterpart to the `QueueChanged` event below. It is **type-gated**: any tournament
+that is not a Best Game format returns
+
+```json
+{ "message": "Tournament is not Best Game." }
+```
+
+with status `403` — note `403`, not `400`, which is the status the other format-specific
+endpoints use for the same class of refusal.
+
+A completed tournament always returns an empty array, since nobody is waiting. A non-empty
+queue only exists while play is live.
+
+{{schema:QueueEntry}}
+
 ## Real-time
 
 Two websocket events cover these formats — `SinglePlayerGameCreatedOrUpdated` and

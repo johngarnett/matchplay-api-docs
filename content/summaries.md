@@ -107,13 +107,113 @@ Both summary rows carry both. The distinction is useful:
 Aggregate on `opdbGroup` to answer "how does this player do on Godzilla" across every
 edition. Use `opdbId` when the specific model matters.
 
+## The `/stats/*` family {#stats}
+
+A second, entirely separate set of aggregates lives under `/stats/`. It is **not** the same
+data as `/summary/`, and it does not follow the same rules.
+
+<div class="callout callout-trap">
+<span class="callout-title"><code>/summary/arenas</code> and <code>/stats/arenas</code> both exist and are different</span>
+
+The names collide but the payloads do not overlap:
+
+| | Returns | Envelope |
+| --- | --- | --- |
+| `/summary/arenas` | `opdbId`, `opdbGroup`, play counts | `{data, links, meta}` |
+| `/stats/arenas` | `gameCount`, `avgDuration`, `minDuration`, `maxDuration` | **bare array** |
+
+Reach for `/summary/*` when you want machine identity to join against, and `/stats/*` when
+you want timing. Neither is a superset of the other.
+</div>
+
+Every endpoint in this family returns **no `data` wrapper** — see
+[response envelopes](/conventions.html#the-six-response-envelopes).
+
+Unlike `/summary/*`, they answer for a tournament that is still running: a `started`
+knockout returned live counts and round timings while play was in progress (verified
+2026-08-15 on tournament 267314, mid-tournament).
+
+<div class="endpoint"><span class="method">GET</span> <span>/tournaments/{tournamentId}/stats/matchplay</span></div>
+
+Two numbers, useful as a cheap size check before deciding whether to fetch games at all.
+
+```json
+{ "avgGamesPerPlayer": 5.947368421052632, "totalGames": 58 }
+```
+
+Despite the generic name, this one is **type-gated** like the format-specific endpoints —
+a best-game tournament returns
+
+```json
+{ "message": "Tournament is not matchplay style." }
+```
+
+with status `400`. The other `/stats/*` endpoints answered for every type tried.
+
+{{schema:MatchplayStats}}
+
+<div class="endpoint"><span class="method">GET</span> <span>/tournaments/{tournamentId}/stats/rounds</span></div>
+
+Per-round timing, as a bare array. Note that its `createdAt`/`completedAt` use the
+space-separated `…Z` form rather than ISO-8601, matching the round objects themselves.
+
+{{schema:RoundStatsRow}}
+
+<div class="endpoint"><span class="method">GET</span> <span>/tournaments/{tournamentId}/stats/arenas</span></div>
+
+{{schema:ArenaStatsRow}}
+
+<div class="endpoint"><span class="method">GET</span> <span>/tournaments/{tournamentId}/stats/players</span></div>
+
+Three parallel arrays of per-player histograms. Each row carries `playerId` and then
+**dynamic keys** — there is no fixed field set to destructure:
+
+```json
+{"positionCounts": [{ "0": 3, "1": 2, "playerId": 382617 }]}
+```
+
+That row says player 382617 finished first three times and second twice. Positions are
+zero-based and arrive as *string* keys. Read them by excluding the known fields:
+
+```js
+const KNOWN_KEYS = new Set(['playerId', 'name'])
+
+function counts(row) {
+   return Object.entries(row)
+      .filter(([key]) => !KNOWN_KEYS.has(key))
+      .map(([key, count]) => ({ key: Number(key), count }))
+}
+```
+
+`arenaCounts` and `opponentCounts` share the shape, keyed by arena id and opponent player
+id respectively.
+
+{{schema:PlayerStats}}
+
+{{schema:PlayerCountRow}}
+
+<div class="endpoint"><span class="method">GET</span> <span>/tournaments/{tournamentId}/stats/bestgame</span></div>
+
+{{schema:BestGameStats}}
+
+<div class="endpoint"><span class="method">GET</span> <span>/tournaments/{tournamentId}/stats/matches</span></div>
+
+Returns `400` unless the tournament was given a specific duration:
+
+```json
+{ "message": "This tournament does not have a definite duration. Give the tournament a specific duration." }
+```
+
+Its success shape has not been observed, so it carries no schema here.
+
 ## WPPR estimator {#wppr-estimator}
 
 <div class="endpoint"><span class="method">POST</span> <span>/ifpa/wppr-estimator</span></div>
 
-The API's **only non-GET operation**. It computes an estimate of the IFPA World Pinball
-Player Ranking value a tournament or series would award, and stores nothing — safe to call
-from a read-only integration.
+One of only two non-`GET` operations on the API — the other being
+[`POST /ratings/compare`](/profile-search.html#compare). It computes an estimate of the IFPA
+World Pinball Player Ranking value a tournament or series would award, and stores nothing —
+safe to call from a read-only integration.
 
 Supply exactly one of `tournamentId` or `seriesId`:
 

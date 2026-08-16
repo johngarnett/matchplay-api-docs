@@ -32,11 +32,12 @@ twenty-odd wildly different formats.
 
 Results are sorted **descending by date**, furthest-future first.
 
-### Two undocumented filters
+### Three undocumented filters
 
-Neither appears in Match Play's handbook. Both were reported by the
+None appear in Match Play's handbook. The first two were reported by the
 [PinPoint](https://pinpoint.lol/) team from their production
-integration and confirmed here on 2026-08-16.
+integration and confirmed here on 2026-08-16; the third was found in a third-party client
+and verified on 2026-08-15.
 
 **`dateInterval=<start>;<end>`** filters by date, semicolon-separated ISO dates, and combines
 with `played`:
@@ -54,6 +55,34 @@ semantics are unclear: over one three-month window `played` gave 11 and `owner` 
 union of 20, while `playedOrOrganized` returned 14 — fewer than the union, so it is **not**
 simply the two sets combined. Useful, but verify against `played` and `owner` before relying
 on the count.
+
+**`type=<tournamentType>`** filters by format, taking any value from the
+[tournament type list](/enumerations.html#tournament-type). It is the practical way to find
+a tournament of a given format — necessary for the
+[format-specific endpoints](/games.html#format-views), which refuse anything else. {#type-filter}
+
+```bash
+curl -s "https://app.matchplay.events/api/tournaments?type=frenzy&status=completed&limit=5" \
+  -H "Authorization: Bearer YOUR_API_TOKEN"
+```
+
+<div class="callout callout-trap">
+<span class="callout-title">An unknown <code>type</code> returns nothing — the opposite of <code>status</code></span>
+
+`type` and `status` sit on the same endpoint and handle bad input in **opposite** ways:
+
+| Query | Result |
+| --- | --- |
+| `status=bananas` | Filter ignored — full unfiltered list |
+| `type=bogusnonsense` | Empty `data: []` |
+
+So neither an empty result nor a full one proves your filter was understood. A typo in
+`type` looks exactly like "no tournaments of this format exist", and a typo in `status`
+looks exactly like a successful query.
+
+This is not hypothetical: a published third-party client sends `type=tournaments`
+unconditionally — not a valid type — and therefore fetches an empty list every time.
+</div>
 
 This endpoint uses the odd `simplePaginate` envelope and strips query parameters from its
 own `next` link. Read [Conventions](/conventions.html#tournaments-strips-your-query-parameters)
