@@ -9,8 +9,9 @@ order: 7
 
 <div class="endpoint"><span class="method">GET</span> <span>/tournaments/{tournamentId}/standings</span></div>
 
-The computed placement for every player. This is the **only** endpoint that returns a bare
-JSON array with no envelope at all.
+<!-- claim:response-envelopes -->
+The computed placement for every player. It returns a bare JSON array with no envelope —
+one of [several endpoints that do](/conventions.html#the-six-response-envelopes).
 
 ```bash
 curl -s "https://app.matchplay.events/api/tournaments/261001/standings" \

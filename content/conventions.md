@@ -8,8 +8,8 @@ order: 2
 # Conventions
 
 The single biggest obstacle to writing a generic Match Play client is that the API is not
-internally consistent. Responses come in five different envelope shapes, pagination comes in
-two incompatible flavours, and timestamps come in five formats — sometimes several within
+internally consistent. Responses come in six different envelope shapes, pagination comes in
+two incompatible flavours, and timestamps come in several formats — sometimes several within
 one object.
 
 None of this is documented by the vendor. All of it is load-bearing.
@@ -72,7 +72,8 @@ something else entirely.
 Please guess gently — space attempts out like any other call, and see
 [Rate limits](/rate-limits.html).
 
-## The five response envelopes
+<!-- claim:response-envelopes canonical -->
+## The six response envelopes
 
 <div class="table-scroll">
 
@@ -81,13 +82,18 @@ Please guess gently — space attempts out like any other call, and see
 | **A** | `{data, links, meta}` — simple pagination | `/tournaments` **only** |
 | **B** | `{data, links, meta}` — length-aware pagination | `/games`, `/players`, `/search`, `/single-player-games`, `/cards`, all `/summary/*` |
 | **C** | `{data}` alone, no pagination | `/tournaments/{id}`, `/rounds`, `/tournaments/{id}/games`, all `resolve-unknown`, `/users/profile` |
-| **D** | **Bare array**, no envelope | `/standings` |
-| **E** | Custom named sections | `/users/{id}`, `/ratings/*`, `/pintips`, `/opdb/entries/{id}` |
+| **D** | **Bare array**, no envelope | `/standings`, `/stats/rounds`, `/stats/arenas`, `/arenas/bgsummary` |
+| **E** | **Bare object**, no envelope | `/stats/matchplay`, `/stats/players`, `/stats/bestgame`, `/series/{id}/stats`, `/arenas/{id}/bgdetails`, `/ratings/compare` |
+| **F** | Custom named sections | `/users/{id}`, `/ratings/*`, `/pintips`, `/opdb/entries/{id}` |
 
 </div>
 
-A generic `payload.data ?? payload` unwrapper handles A–D. Form E needs per-endpoint
+A generic `payload.data ?? payload` unwrapper handles A–E. Form F needs per-endpoint
 handling.
+
+Forms D and E are the same omission seen twice: the newer statistics and format-specific
+endpoints skip the `data` wrapper entirely, returning the resource at the top level. Whether
+you get an array or an object is decided by the endpoint, not by any visible rule.
 
 ### Form C: `data` is not always an array
 
@@ -104,14 +110,20 @@ function dataArray(payload) {
 }
 ```
 
-### Form D: standings has no envelope
+### Forms D and E: no envelope at all
 
-`GET /tournaments/{id}/standings` returns a top-level JSON array. Handle both shapes so a
-future change doesn't break you:
+`GET /tournaments/{id}/standings` returns a top-level JSON array, and it is not alone —
+`/stats/rounds`, `/stats/arenas` and `/arenas/bgsummary` do the same. Handle both shapes so
+a future change doesn't break you:
 
 ```js
 const standings = Array.isArray(payload) ? payload : dataArray(payload)
 ```
+
+The statistics endpoints that return a single aggregate — `/stats/matchplay`,
+`/stats/bestgame`, `/stats/players`, `/series/{id}/stats` — return a **bare object** on the
+same principle. `payload.data ?? payload` covers both, which is why it is worth using
+everywhere rather than reaching for `payload.data` directly.
 
 ## Pagination
 
@@ -182,10 +194,11 @@ This is what makes seeding a tournament cheap: three calls regardless of size.
 [Summary endpoints](/summaries.html) paginate but default to a very large page size, so one
 request is normally enough.
 
+<!-- claim:timestamp-formats canonical -->
 ## Timestamp formats
 
-Five formats coexist, and which you get depends on the field, not the endpoint. Two of them
-appear in the *same* tournament object.
+Several incompatible formats coexist, and which you get depends on the **field**, not the
+endpoint. Two of them appear in the *same* tournament object.
 
 <div class="table-scroll">
 
@@ -195,12 +208,16 @@ appear in the *same* tournament object.
 | `startLocal`, `endLocal` | space separated, **no zone** | `2026-08-13 19:00:00` |
 | Tournament `createdAt`, `updatedAt` | space separated, **no `Z`** | `2026-06-26 00:40:31` |
 | Round `createdAt`, `completedAt` | space separated, **with `Z`** | `2026-07-08 06:30:13Z` |
+| `/stats/rounds` `createdAt`, `completedAt` | space separated, **with `Z`** | `2026-07-08 03:32:26Z` |
 | Game `startedAt` | ISO 8601 with microseconds | `2026-06-27T03:51:18.000000Z` |
 | Summary `tournamentDate` | date only | `2026-07-08` |
+| Max Match Play `completedTime` | **Unix epoch seconds**, an integer | `1786829694` |
 
 </div>
 
-Never assume ISO 8601 without checking the specific field.
+Never assume ISO 8601 without checking the specific field. The last row is the one most
+likely to catch you out: it is the only timestamp on the API that is not a string at all,
+so a parser that accepts anything string-shaped will fail on it rather than mis-parse it.
 
 <div class="callout">
 <span class="callout-title">Use <code>startLocal</code> for calendar grouping</span>

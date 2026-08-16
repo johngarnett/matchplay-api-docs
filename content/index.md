@@ -68,7 +68,7 @@ The undocumented `GET /api/tournaments/{tournamentId}/games` returns all of them
 one. See [Games](/games.html).
 </div>
 
-1. [Conventions](/conventions.html) — five response envelopes, five timestamp formats. Read
+1. [Conventions](/conventions.html) — six response envelopes, several timestamp formats. Read
    this first; it explains shapes you'll meet everywhere.
 2. [Rate limits](/rate-limits.html) — 120 requests/minute, charged against your token.
 3. [Tournaments](/tournaments.html) — the root object everything else hangs off.
@@ -89,8 +89,10 @@ Tokens look like `387|n1hm…` — an id, a pipe, then the secret.
 Some endpoints answer without authentication, but Match Play warn that unauthenticated use
 can get your IP blocked. Always send the header.
 
-The API is **read-only**. There is exactly one non-GET operation
-([the WPPR estimator](/summaries.html#wppr-estimator)), and it computes rather than stores.
+<!-- claim:read-only-api canonical -->
+The API is **read-only**. Two operations accept `POST`
+([the WPPR estimator](/summaries.html#wppr-estimator) and
+[ratings comparison](/profile-search.html#compare)), and both compute rather than store.
 You cannot register players or submit results through it.
 
 ## How claims here are marked

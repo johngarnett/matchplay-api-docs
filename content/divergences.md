@@ -3,7 +3,7 @@ title: Differences from the handbook
 navTitle: Divergences
 description: Where this documentation contradicts the official docs, and why
 group: Guides
-order: 22
+order: 23
 ---
 
 # Differences from the handbook
@@ -34,11 +34,14 @@ behaviour wins** — but the handbook's claim is recorded alongside it.
 
 Not contradictions — gaps. Each is documented here from observation:
 
-- **Five response envelope shapes**, including a bare array for standings and custom
-  envelopes for `/users/{id}` and `/ratings/*`.
+<!-- claim:response-envelopes -->
+- **Six response envelope shapes**, including envelope-free bare arrays and bare objects,
+  and custom envelopes for `/users/{id}` and `/ratings/*`.
 - **Two incompatible paginators**, with `per_page` typed differently in each.
 - **Query parameters stripped** from `/tournaments` pagination links.
-- **Five timestamp formats**, two of which appear in the same object.
+<!-- claim:timestamp-formats -->
+- **Several incompatible timestamp formats**, two of which appear in the same object, and
+  one of which is a bare Unix epoch integer.
 - **Scoring semantics** — the four regimes for reading `resultPoints` and `resultPositions`.
 - **The two-day auto-close** on idle tournaments, and what it means for reading
   `status: "started"`.
@@ -49,11 +52,14 @@ Not contradictions — gaps. Each is documented here from observation:
 <!-- claim:live-result-arrays -->
 - **In-progress games returning null-filled result arrays.**
 - **The six websocket silences.**
-- **Undocumented query parameters** on the tournaments list: `dateInterval` and
-  `playedOrOrganized`, plus `includeCounts` on the user object.
-- **Nine undocumented endpoints**: `/search`, `/players`, `/ratings/users/{id}`,
-  `/ratings/ifpa/{id}`, `/series`, `/series/{id}`, `/events`, `/events/{id}` and
-  `/clubs/{id}`.
+- **Undocumented query parameters** on the tournaments list: `dateInterval`,
+  `playedOrOrganized` and `type`, plus `includeCounts` and `includeIfpa` on the user object,
+  `includeDetails` on a series, and `includeParent`/`includePlayoffs` on a tournament.
+- **Most of the endpoint surface.** The handbook describes a fraction of what answers. Every
+  endpoint on the [REST reference](/reference-rest.html) not marked otherwise was found by
+  observation — including the whole `/stats/*` family, the format-specific
+  Frenzy/Max Match Play/Best Game endpoints, `/arenas`, `/locations`, `/series/{id}/stats`
+  and the ratings comparison and history endpoints.
 - **The legacy unauthenticated API** on the bare `matchplay.events` host.
 
 ## Corrections to earlier community understanding
@@ -74,7 +80,10 @@ Claims that circulate among API consumers which observation does not support:
 | `cardsCounted` is an integer | **An array of card objects** — `{cardId, points, count}` |
 | `scorbitLog` is an object | **Wrong.** A URL to a CSV session log on Scorbit's CDN. Null in all but 37 of 13,539 games — same cause as `scorbitId` |
 | Standings `points` is always a string | **Wrong.** A number in 20 of 294 tournaments, and both types within one standings array in a further tournament |
-| The tournaments list has no date filter | **Wrong.** The undocumented `dateInterval=<start>;<end>` filters by date and combines with `played` — see [Tournaments](/tournaments.html#two-undocumented-filters) |
+| The tournaments list has no date filter | **Wrong.** The undocumented `dateInterval=<start>;<end>` filters by date and combines with `played` — see [Tournaments](/tournaments.html#three-undocumented-filters) |
+| An unrecognised filter value is always ignored | **Only `status` behaves that way.** An unknown `type` returns an empty set instead, so the two parameters fail in opposite directions on the same endpoint — see [Tournaments](/tournaments.html#type-filter) |
+| The WPPR estimator is the only non-GET operation | **Wrong.** `POST /ratings/compare` also works, and likewise computes rather than stores |
+| A third-party client's data model can be trusted for shapes | **No.** The one that revealed most of these endpoints models `bgsummary` as `gameCount`/`queueCount`; the live endpoint returns `gameQueue`/`gameDuration`/`highlightedScore`. Its `/dashboard` route now 404s entirely. Every shape it suggested was re-captured live before being documented |
 | `userCounts` is not a play count | **Wrong.** It is zero only because it needs the undocumented `includeCounts=true`; with it, `tournamentPlayCount` is accurate — see [Identity](/identity.html#usercounts-is-zero-unless-you-ask-for-it) |
 | `data` may collapse to a bare object on collections | Never observed on a collection. It *is* a bare object on `/tournaments/{id}`. Normalising defensively remains sensible |
 | `status: "started"` mostly means "finished but abandoned", with tournaments idle for over a month | **No longer true.** Match Play now auto-closes an idle tournament after two days; older captures predate that policy. Measurement and the long-running-format exception in [Tournaments](/tournaments.html#status-started) |
