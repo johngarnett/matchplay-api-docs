@@ -78,6 +78,19 @@ Venues carry coordinates and two external join keys — `pinballmapId` for
 It takes the same three parameters, with `locations` in place of `arenas`.
 
 <div class="callout callout-trap">
+<span class="callout-title">A venue has one id per organizer, not one id</span>
+
+`locationId` is organizer-scoped like `playerId`. The same physical venue appears once per
+director who runs tournaments there — eleven times, in the worst case measured — and because
+half of all locations are typed by hand rather than taken from Scorbit, the duplicates often
+disagree about the name and address.
+
+If you are aggregating by venue, read
+[Locations](/identity.html#locations) first: it covers the join keys that work and the
+player-overlap fallback for the half that carry no external id.
+</div>
+
+<div class="callout callout-trap">
 <span class="callout-title">The collection reads but the item does not</span>
 
 `GET /locations` returns `200`. `GET /locations/{id}` returns **`401`** — for a venue that

@@ -247,6 +247,11 @@ Three separate id spaces are in play, and confusing them is the most common sour
 The one thing worth knowing before you read further: **`playerId` is scoped to the
 organizer, not the tournament**, so one person has several.
 
+`arenaId` and `locationId` are scoped the same way, so one machine and one venue also have
+several ids. Locations are the worst of the three, because each organizer types the venue's
+details in independently — see
+[resolving two ids to one venue](/identity.html#locations).
+
 ## Numbers arrive as strings
 
 Several numeric fields are JSON strings, not numbers:

@@ -278,8 +278,178 @@ An "arena" is a machine. They follow the same pivot pattern:
 - **Scorbit fields** wire the machine to Scorbit hardware. Note the lowercase `m` in
   `scorbitVenuemachineId`.
 
-There is **no global arenas endpoint**, and `/search?type=arenas` returns `422`. Machines
-reach you only embedded in a tournament or via `resolve-unknown`.
+There is **no global arenas endpoint**. [`GET /arenas`](/organizer-resources.html) returns
+only the machines belonging to your own organizer, and `/search?type=arenas` returns `422`.
+Another organizer's machines reach you only embedded in a tournament or via
+`resolve-unknown`.
+
+## Locations {#locations}
+
+A location is a venue, and it is scoped exactly like a player or a machine: **`locationId`
+belongs to the organizer, not to the venue.** When five directors run tournaments at one
+address, that address has five location ids.
+
+This is the more painful of the two scoping problems. A `playerId` at least describes one
+person consistently within an organizer; a location is free-text data that each organizer
+enters independently, so the same venue arrives spelled differently, or with an address on
+one row and nothing on another.
+
+Match Play offer a Scorbit venue lookup that fills the record in properly, but taking it is
+optional and **fewer than half do**. Of 3,097 locations across 1,701 organizers:
+
+<div class="table-scroll">
+
+| | Locations | Share |
+| --- | --- | --- |
+| Carry a `scorbitVenueId` | 1,307 | 42.2% |
+| Carry a `pinballmapId` | 1,524 | 49.2% |
+| Carry an `address` | 2,683 | 86.6% |
+| **No external id at all** — typed by hand | **1,539** | **49.7%** |
+
+</div>
+
+Two real tournaments at the same Seattle venue show what that looks like:
+
+```jsonc
+// tournament 266703, organizer 7059 — typed by hand
+{ "locationId": 5461, "name": "JUPITER",
+  "scorbitVenueId": null, "pinballmapId": null,
+  "address": null, "lat": null, "lng": null }
+
+// tournament 262812, organizer 18646 — taken from Scorbit
+{ "locationId": 10222, "name": "Jupiter Gameroom",
+  "scorbitVenueId": 5390, "scorbitVenueUuid": "b2e472a4-7882-4070-a511-1d19c51d201e",
+  "pinballmapId": 8947, "address": "2126 2nd Ave Suite A, Seattle, WA 98121, US",
+  "lat": 47.613171, "lng": -122.343849 }
+```
+
+Nothing in either record points at the other. The scale of the duplication is easy to
+under-estimate: 289 Scorbit venues appear under more than one `locationId` — 835 location
+rows between them — and **every one of those 289 spans multiple organizers**. The worst case
+is Ground Kontrol Classic Arcade in Portland, which exists as **eleven** separate locations.
+
+### Resolving two ids to one venue
+
+In order of how much you should trust them:
+
+1. **`scorbitVenueUuid` or `scorbitVenueId`** — a shared value is proof. Available on 42% of
+   locations, and only useful when *both* sides have it.
+2. **`pinballmapId`** — the same, and slightly more common at 49%.
+3. **`lat`/`lng`** — present on 59%. Nearby coordinates are strong evidence, though a large
+   venue and its neighbour can sit within a few metres of each other.
+4. **Player overlap** — the fallback that works when a record has no external id at all,
+   which is half of them.
+
+<div class="callout callout-trap">
+<span class="callout-title">The name is not a key, and neither is the address</span>
+
+Among duplicate groups that Scorbit *proves* are one venue, 6% still disagree on the name —
+and those are the well-behaved half, where both records came from the same source. The
+hand-entered half is where `JUPITER` and `Jupiter Gameroom` live, and it is precisely the
+half you cannot check.
+
+Matching on normalised names will therefore merge venues that share a common name
+(`"The Pinball Museum"`) while missing the pairs you actually needed to catch.
+</div>
+
+### Player overlap
+
+The people are the same even when the data is not. Comparing the players who appear at two
+locations separates real duplicates from unrelated venues sharply:
+
+<div class="table-scroll">
+
+| Overlap of the smaller player set | Same venue (proven by Scorbit) | Different venues |
+| --- | --- | --- |
+| Median | **0.557** | 0.000 |
+| At least 0.30 | 76.6% | **0.6%** |
+| At least 0.50 | 57.5% | 0.3% |
+
+</div>
+
+A threshold of 0.30 therefore recovers about three quarters of genuine duplicates while
+firing on well under one percent of unrelated pairs.
+
+<div class="callout callout-warn">
+<span class="callout-title">Restricted-field tournaments depress the overlap</span>
+
+Some tournaments are open only to a subset of players — women's and women/trans/femme/NB
+leagues are the common case, and around 4.7% of tournaments signal one in their name or
+description. A venue that hosts both an open monthly and a women's monthly will show a
+genuinely smaller intersection than its two rosters suggest, because half the pairing is
+drawing from a restricted pool by design.
+
+**No field encodes it.** Across 44,081 tournaments the tournament object uses 100 distinct
+top-level keys, and none of them describes eligibility — the closest name, `playerOrderOpen`,
+is about play order. The only signal is free text, as in this real description:
+
+> Jupiter's monthly womxn's pinball tournament! … Women/Trans/Femme/NB welcome
+
+So you cannot detect the situation reliably, and you should not try to parse your way to it.
+Treat a *low* overlap as weak evidence rather than as a refutation, and let the join keys and
+coordinates outrank it whenever they are available.
+</div>
+
+This is the concrete reason for the metric below. The two Jupiter locations are exactly this
+case — one open tournament series, one women's series — and they score very differently
+depending on how you measure:
+
+<div class="table-scroll">
+
+| Jupiter pair, 239 vs 60 claimed players, 36 shared | Score | At threshold 0.30 |
+| --- | --- | --- |
+| **Overlap coefficient** | **0.600** | match |
+| Jaccard | 0.137 | miss |
+
+</div>
+
+Jaccard divides by the union, so a small restricted roster sitting inside a much larger open
+one scores low however complete the containment is. That is the wrong answer here, and it is
+why the code below normalises by the smaller set.
+
+<div class="callout callout-warn">
+<span class="callout-title">Compare by <code>claimedBy</code>, never by <code>playerId</code></span>
+
+This is the trap the whole page is about, and it bites hardest here. Two locations with
+different `locationId`s almost always belong to **different organizers** — that is why they
+are duplicated in the first place — so their `playerId`s are drawn from different namespaces.
+Intersecting them compares unrelated integers and yields noise.
+
+Map to a global identity first: `player.claimedBy` (a `userId`), or `player.ifpaId`. Players
+who never claimed their account have neither, and simply drop out of the comparison.
+</div>
+
+```js
+const OVERLAP_THRESHOLD = 0.30
+const MIN_PLAYERS = 5
+
+// Global user ids for everyone who has played at a location.
+function claimedPlayers(tournaments) {
+   const users = new Set()
+   for (const tournament of tournaments) {
+      for (const player of tournament.players ?? []) {
+         if (player.claimedBy != null) users.add(player.claimedBy)
+      }
+   }
+   return users
+}
+
+// Overlap coefficient, not Jaccard. One organizer's roster at a venue is
+// routinely several times another's -- and a restricted-field tournament makes
+// that worse -- so dividing by the union punishes exactly the pairs you want to
+// catch. Measured on the Jupiter pair above: 0.600 here against 0.137 Jaccard.
+function sameVenue(usersA, usersB) {
+   if (usersA.size < MIN_PLAYERS || usersB.size < MIN_PLAYERS) return false
+
+   let shared = 0
+   for (const userId of usersA) if (usersB.has(userId)) shared += 1
+
+   return shared / Math.min(usersA.size, usersB.size) >= OVERLAP_THRESHOLD
+}
+```
+
+Treat a match as a proposal, as with the [playoff heuristics](/tournaments.html#inferring-links):
+confirm it against coordinates or an address before merging anything a user will see.
 
 ## Get a user profile
 
