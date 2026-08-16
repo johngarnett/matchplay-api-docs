@@ -35,7 +35,7 @@ Results are sorted **descending by date**, furthest-future first.
 ### Two undocumented filters
 
 Neither appears in Match Play's handbook. Both were reported by the
-[PinPoint](https://github.com/johngarnett/matchplay-api-docs) team from their production
+[PinPoint](https://pinpoint.lol/) team from their production
 integration and confirmed here on 2026-08-16.
 
 **`dateInterval=<start>;<end>`** filters by date, semicolon-separated ISO dates, and combines

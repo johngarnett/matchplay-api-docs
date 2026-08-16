@@ -154,7 +154,7 @@ So a brand-new account can be absent from a file downloaded minutes ago. If your
 validates user ids against it, recently registered players will appear not to exist — fall
 back to [`GET /users/{userId}`](/identity.html#get-a-user-profile) for a miss.
 
-Reported by the PinPoint team from their import pipeline and confirmed here.
+Reported by the [PinPoint](https://pinpoint.lol/) team from their import pipeline and confirmed here.
 </div>
 
 ## Rating revisions

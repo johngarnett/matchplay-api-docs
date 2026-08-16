@@ -100,7 +100,7 @@ Every field in the [OpenAPI spec](/openapi.yaml) carries an `x-evidence` extensi
 
 </div>
 
-Some of it came from other people. The [PinPoint](https://github.com/johngarnett/matchplay-api-docs)
+Some of it came from other people. The [PinPoint](https://pinpoint.lol/)
 team contributed the undocumented query parameters, the export refresh cadence, the
 revisions cross-walk, the watermark failure mode and the sizing figures, from their
 production integration. Everything they reported was re-verified here before publication,

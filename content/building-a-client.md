@@ -170,7 +170,7 @@ pagination is. If a walk terminates early, page one still holds the **newest** i
 watermark advances past the gap — and because it advanced, the next run never looks back.
 One truncated fetch becomes permanent silent data loss.
 
-The PinPoint team hit exactly this when Match Play's tournaments list moved to
+The [PinPoint](https://pinpoint.lol/) team hit exactly this when Match Play's tournaments list moved to
 [simple pagination](/conventions.html#pagination): loops terminating on `meta.last_page`
 stopped after page one, and 190 player histories were truncated to exactly 25 rows within two
 days, every one with a poisoned cursor.
