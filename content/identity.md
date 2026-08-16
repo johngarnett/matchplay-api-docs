@@ -337,8 +337,9 @@ In order of how much you should trust them:
 2. **`pinballmapId`** — the same, and slightly more common at 49%.
 3. **`lat`/`lng`** — present on 59%. Nearby coordinates are strong evidence, though a large
    venue and its neighbour can sit within a few metres of each other.
-4. **Player overlap** — the fallback that works when a record has no external id at all,
-   which is half of them.
+4. **Player overlap**, and **whether the director plays at the other venue** — the fallbacks
+   that work when a record has no external id at all, which is half of them. Used together
+   they catch 82.8% of provable duplicates while firing on 1.0% of unrelated pairs.
 
 <div class="callout callout-trap">
 <span class="callout-title">The name is not a key, and neither is the address</span>
@@ -445,6 +446,51 @@ function sameVenue(usersA, usersB) {
    for (const userId of usersA) if (usersB.has(userId)) shared += 1
 
    return shared / Math.min(usersA.size, usersB.size) >= OVERLAP_THRESHOLD
+}
+```
+
+### The organizer is a signal in their own right
+
+Directors are local. Of 357 organizers owning two or more located venues, the **median
+distance between their furthest-apart venues is 16 km**, and 73.9% keep everything within
+50 km. The tail is real, though — the 99th percentile is 2,154 km, and one organizer spans
+8,753 km — so treat "same organizer" as evidence of proximity, not proof of it.
+
+Directors also play. In **50.0%** of tournaments the organizer appears in their own player
+list, and they turn up at neighbouring venues too. That gives a signal independent of the
+crowd: if the director who runs location A shows up as a *player* at location B, the two are
+probably in the same town — and if the names also look alike, probably the same building.
+
+Conveniently, the organizer is always resolvable. Unlike players, who may never claim their
+account, **every organizer carries a `userId`** — 44,081 of 44,081 tournaments examined — so
+`organizer.userId` can always be intersected against another location's `claimedBy` values.
+
+<div class="table-scroll">
+
+| Rule | Same venue (proven by Scorbit) | Different venues |
+| --- | --- | --- |
+| Player overlap ≥ 0.30 | 76.6% | 0.6% |
+| Director plays at the other location | 63.6% | 0.7% |
+| **Either of the two** | **82.8%** | **1.0%** |
+
+</div>
+
+The two are worth combining because they fail differently. The director test found 57 real
+duplicates that the overlap test missed — 6.2% of all true pairs — for 0.3 points of extra
+false positives. A director can attend a neighbouring venue whose crowd barely intersects
+theirs, which is exactly the [restricted-field case](#locations) above: a small women's league
+and a large open one may share little but their organizers.
+
+```js
+// Independent of roster overlap, and cheap: one id against a set.
+function directorAttendsOther(locationA, locationB) {
+   for (const userId of locationA.organizerUserIds) {
+      if (locationB.playerUserIds.has(userId)) return true
+   }
+   for (const userId of locationB.organizerUserIds) {
+      if (locationA.playerUserIds.has(userId)) return true
+   }
+   return false
 }
 ```
 
