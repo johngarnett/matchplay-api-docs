@@ -20,7 +20,7 @@ machine-readable spec is gone: `app.matchplay.events/api-docs/` now redirects to
 handbook.
 
 This site fills the gap. Every schema here was reconstructed by observation — from live
-responses and from six independent applications that consume the API in production.
+responses and from five independent applications that consume the API.
 </div>
 
 <div class="callout callout-warn">

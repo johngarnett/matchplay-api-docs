@@ -169,7 +169,7 @@ See [the six silences](/realtime.html#the-six-silences) for why each REST call i
 | `links.next` on `/tournaments` drops filters | Build page URLs yourself |
 | Deep pagination returns `401` | Don't page deeply; use exports |
 | Misspelled `include*` flags are ignored | Diff payloads when an expansion "doesn't work" |
-| `linkedTournamentId` is always null | Use `linkedTournaments[]` |
+| `linkedTournamentId` is populated inconsistently | Use `linkedTournaments[]` |
 | `startUtc` shifts evening events to the next day | Group on `startLocal` |
 | Config keys are absent, not null | Use `in`, not `!== null` |
 | Points arrive as strings | `Number()` and check `isFinite` |

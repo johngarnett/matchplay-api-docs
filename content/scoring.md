@@ -9,8 +9,9 @@ order: 6
 # Scoring semantics
 
 A game object tells you `resultPositions` and `resultPoints`. Neither means the same thing
-across formats, and no documentation anywhere describes the differences. Get this wrong and
-you will produce win/loss records that look completely reasonable and are completely wrong.
+across formats, and Match Play's handbook does not describe the differences. Get this wrong
+and you will produce win/loss records that look completely reasonable and are completely
+wrong.
 
 There are four regimes. Which applies depends on `tournament.type` and, for group knockouts,
 on two boolean flags.
@@ -186,7 +187,7 @@ function strikeKnockoutRecord(game, playerId) {
 ```
 </div>
 
-## 4. Progressive knockout — why it needs the positions regime
+## Why progressive knockouts are not a fourth strike regime
 
 `knockoutProgressive: true` looks like a strike format but its `resultPoints` are graded:
 
@@ -207,7 +208,7 @@ you must branch on `knockoutProgressive` before doing anything with points.
 
 The number of strikes a player takes equals the number of co-players finishing ahead of them.
 
-## 5. None — score-based formats
+## 4. None — score-based formats
 
 `best_game`, `card_best_game`, `golf`, `golf_bracket`, `bowling` and `amazingrace` are not
 head-to-head. Players post scores alone; there are no opponents to beat.

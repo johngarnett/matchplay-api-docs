@@ -85,7 +85,7 @@ function writeLlmsTxt(pages, distDir, baseUrl) {
       '# Match Play Events API — unofficial reference',
       '',
       '> Reference documentation for the matchplay.events REST and websocket API,',
-      '> reconstructed from observed traffic and from six applications that consume it.',
+      '> reconstructed from observed traffic and from five applications that consume it.',
       '> The vendor handbook documents request paths only; this covers response schemas,',
       '> enumerations, scoring semantics and behavioural quirks.',
       '>',

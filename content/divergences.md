@@ -48,8 +48,9 @@ Not contradictions — gaps. Each is documented here from observation:
 - **`pointsMap` changing type** between REST and websocket.
 - **In-progress games returning null-filled result arrays.**
 - **The six websocket silences.**
-- **`/search`, `/players`, `/ratings/users/{id}`, `/ratings/ifpa/{id}`, `/series`,
-  `/series/{id}`** — six undocumented endpoints.
+- **Nine undocumented endpoints**: `/search`, `/players`, `/ratings/users/{id}`,
+  `/ratings/ifpa/{id}`, `/series`, `/series/{id}`, `/events`, `/events/{id}` and
+  `/clubs/{id}`.
 - **The legacy unauthenticated API** on the bare `matchplay.events` host.
 
 ## Corrections to earlier community understanding

@@ -7,8 +7,8 @@ order: 8
 
 # Identity
 
-Three separate identifier namespaces coexist in this API, and nothing documents how they
-relate. Getting the model right is a prerequisite for almost any interesting query — "how
+Three separate identifier namespaces coexist in this API, and Match Play's handbook does not
+describe how they relate. Getting the model right is a prerequisite for almost any interesting query — "how
 did *this person* do?" is surprisingly hard to answer.
 
 ## The three namespaces

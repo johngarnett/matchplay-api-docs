@@ -31,8 +31,8 @@ query parameters but documents **no response fields**. Their machine-readable sp
 
 This project fills the gap: complete response schemas, observed enumerations, scoring
 semantics, and the behavioural quirks that cost real debugging time. Everything was
-reconstructed by observation, from live probes and from six applications that consume the
-API in production.
+reconstructed by observation, from live probes and from five applications that consume the
+API.
 
 The headline finding, and the reason this exists at all: the handbook documents
 `GET /api/games`, which **does not return who played or who won**. The undocumented

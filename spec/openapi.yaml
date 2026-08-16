@@ -13,7 +13,7 @@ info:
     the handbook. This document fills that gap.
 
     Every schema here was reconstructed by observation — from live probe responses and from
-    six independent applications that consume the API. Each property carries an
+    five independent applications that consume the API. Each property carries an
     `x-evidence` extension recording how well it is attested:
 
       * `verified`   — seen in a real captured response
@@ -1211,7 +1211,7 @@ components:
         last:
           type: 'null'
           x-evidence: verified
-          description: Always null — the server does not know the last page.
+          description: Null on every observed response — the server does not report a last page.
         prev: { type: [string, 'null'], x-evidence: verified }
         next:
           type: [string, 'null']
