@@ -68,6 +68,9 @@ Claims that circulate among API consumers which observation does not support:
 | Paging past the end returns an empty body | Returns `401` with a scraping message. An empty body may occur in other circumstances, so guard for both |
 | There is no standalone series endpoint | **Wrong.** `GET /series/{id}` and `GET /series` both exist and are undocumented. See [Series](/series.html) |
 | `linkedTournamentId` is a decoy that is always null | **Only true of recent tournaments.** Null across 102 sampled recent ones, but populated on 3 of 6 tournaments inside a 2023 event. Unreliable rather than unused — see [Tournaments](/tournaments.html) |
+| `scorbitId` is an integer | **Wrong.** It is a Scorbit UUID string. Null on all but 37 of 13,539 games, so every early sample was null and the field was typed — and badged verified — from an absence |
+| `scorbitLog` is an object | **Wrong.** A URL to a CSV session log on Scorbit's CDN. Null in all but 37 of 13,539 games — same cause as `scorbitId` |
+| Standings `points` is always a string | **Wrong.** A number in 20 of 294 tournaments, and both types within one standings array in a further tournament |
 | The tournaments list has no date filter | **Wrong.** The undocumented `dateInterval=<start>;<end>` filters by date and combines with `played` — see [Tournaments](/tournaments.html#two-undocumented-filters) |
 | `userCounts` is not a play count | **Wrong.** It is zero only because it needs the undocumented `includeCounts=true`; with it, `tournamentPlayCount` is accurate — see [Identity](/identity.html#usercounts-is-zero-unless-you-ask-for-it) |
 | `data` may collapse to a bare object on collections | Never observed on a collection. It *is* a bare object on `/tournaments/{id}`. Normalising defensively remains sensible |

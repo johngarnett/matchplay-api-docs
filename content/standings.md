@@ -71,10 +71,30 @@ than the roster, which can include players who registered but never played.
 
 An **empty array is a legitimate response** for a tournament that was created but never run.
 
-## Numbers as strings
+## Numbers as strings — usually {#numbers-as-strings}
 
-`points`, `pointsWithTiebreaker` and the entries of `tiebreakers[]` are **strings**.
-`position`, `gamesPlayed`, `strikeCount` and `adjustment` are numbers.
+`pointsWithTiebreaker` and the entries of `tiebreakers[]` are strings. `position`,
+`strikeCount` and `adjustment` are numbers.
+
+<div class="callout callout-trap">
+<span class="callout-title"><code>points</code> is a string in most tournaments and a number in others</span>
+
+Across 294 tournaments and 5,375 standings rows:
+
+| | Tournaments |
+| --- | --- |
+| `points` a string throughout | 267 |
+| `points` a number throughout | 20 |
+| both types in one standings array | 1 |
+
+So it is *nearly* consistent within a tournament, which is the worst case: code that samples
+the first row and assumes the rest match will be right 293 times out of 294.
+
+`gamesPlayed` is null on about 6% of rows, overwhelmingly the same tournaments that return
+numeric points.
+
+Coerce with `Number()` and never call a string method on `points` without checking.
+</div>
 
 `tiebreakers` is heterogeneous — its contents vary by format and mix types:
 

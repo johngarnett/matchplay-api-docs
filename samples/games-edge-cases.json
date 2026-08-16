@@ -1,0 +1,45 @@
+{
+  "data": [
+    {
+      "gameId": 7704546,
+      "roundId": 1155984,
+      "tournamentId": 259242,
+      "challengeId": null,
+      "arenaId": 187085,
+      "bankId": null,
+      "index": 0,
+      "set": 0,
+      "playerIdAdvantage": 297172,
+      "scorekeeperId": 2177,
+      "status": "completed",
+      "startedAt": "2026-06-28T01:40:05.000000Z",
+      "duration": 1020,
+      "bye": false,
+      "scorbitId": "fbf99a22-7aec-45ef-8f1d-365d0e0dda46",
+      "scorbitLog": "https://cdn.scorbit.io/session_log/2026/06/28/22538/fbf99a22-7aec-45ef-8f1d-365d0e0dda46_5Xh2pxY.csv",
+      "playerIds": [
+        297172,
+        250035
+      ],
+      "userIds": [
+        17079,
+        15369
+      ],
+      "resultPositions": [
+        250035,
+        297172
+      ],
+      "resultPoints": [
+        "0.00",
+        "1.00"
+      ],
+      "resultScores": [
+        "149163490",
+        "213785840"
+      ],
+      "scorbitVerified": true,
+      "resultCountMismatch": false,
+      "suggestions": []
+    }
+  ]
+}

@@ -240,6 +240,12 @@ radius visible before you start.
   This has happened twice: the index still described `status: "started"` as meaning the
   opposite of what it says long after the auto-close correction, and the divergences page
   ended up contradicting itself about the same field on one screen.
+- **A field that is null in every sample has an unknown type.** Marking it `verified` from
+  its name is guessing with a badge on. All three Scorbit fields on `Game` were typed this
+  way and all three were wrong — `scorbitId` is a UUID string not an integer, `scorbitLog` a
+  URL string not an object — because every early sample was null. Type such fields
+  `unverified` and say why. `challengeId` is the remaining example: null in all 13,539 games
+  examined.
 - **Claim only what was checked.** Avoid superlatives and statements about the whole world:
   "the only X in existence", "nowhere else", "no such thing exists". Absence is nearly
   impossible to verify and ages badly — Match Play could publish a spec tomorrow. Prefer

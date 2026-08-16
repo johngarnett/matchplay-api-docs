@@ -235,7 +235,7 @@ organizer, not the tournament**, so one person has several.
 Several numeric fields are JSON strings, not numbers:
 
 - `resultPoints[]` — `"1.00"`, `"0.00"`
-- Standings `points`, `pointsWithTiebreaker` — `"9.00"`
+- Standings `pointsWithTiebreaker` — `"9.00"` (and `points`, [usually](/standings.html#numbers-as-strings))
 - `Rating.delta` — `"-9.12"`
 - `meta.per_page` on `/tournaments` — `"100"`
 

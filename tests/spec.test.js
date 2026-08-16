@@ -109,6 +109,10 @@ const SAMPLE_EXPECTATIONS = [
    { file: 'games-tournament-scoped.json', schema: 'Game', pick: body => body.data },
    { file: 'games-global.json', schema: 'GameSummary', pick: body => body.data },
    { file: 'standings.json', schema: 'StandingsRow', pick: body => body },
+   // Edge cases found by validating against a 13,539-game corpus: a UUID
+   // scorbitId, numeric points, and a null gamesPlayed.
+   { file: 'games-edge-cases.json', schema: 'Game', pick: body => body.data },
+   { file: 'standings-edge-cases.json', schema: 'StandingsRow', pick: body => body },
    { file: 'tournaments-played.json', schema: 'Tournament', pick: body => body.data },
    { file: 'tournament-series-expansions.json', schema: 'Tournament', pick: body => [body.data] },
    { file: 'resolve-players-scoped.json', schema: 'TournamentPlayerEntry', pick: body => body.data },

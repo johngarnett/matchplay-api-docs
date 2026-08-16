@@ -1,0 +1,51 @@
+[
+  {
+    "playerId": 399862,
+    "position": 1,
+    "points": 10,
+    "pointsWithTiebreaker": null,
+    "gamesPlayed": 12,
+    "entriesPlayed": 0,
+    "entriesAvailable": 0,
+    "strikeCount": 0,
+    "cardsCounted": null,
+    "adjustment": 0,
+    "frenzyWins": 11,
+    "frenzyLosses": 1,
+    "pointsList": null,
+    "tiebreakers": [
+      10,
+      11
+    ],
+    "activeGames": [],
+    "activeGameColor": null,
+    "onPaceBubble": null,
+    "onCutoffBubble": null,
+    "cutoffBubbleColor": null,
+    "onCutoffBubble2": null,
+    "manualTiebreakerGroup": null
+  },
+  {
+    "playerId": 577531,
+    "position": 1,
+    "points": 6,
+    "pointsWithTiebreaker": 6.5,
+    "gamesPlayed": null,
+    "entriesPlayed": null,
+    "entriesAvailable": null,
+    "strikeCount": null,
+    "cardsCounted": null,
+    "adjustment": null,
+    "frenzyWins": null,
+    "frenzyLosses": null,
+    "pointsList": null,
+    "tiebreakers": null,
+    "activeGames": [],
+    "activeGameColor": null,
+    "onPaceBubble": null,
+    "onCutoffBubble": null,
+    "cutoffBubbleColor": null,
+    "onCutoffBubble2": null,
+    "manualTiebreakerGroup": null
+  }
+]

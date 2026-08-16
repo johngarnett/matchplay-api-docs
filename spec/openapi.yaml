@@ -1660,7 +1660,13 @@ components:
         tournamentId: { type: integer, x-evidence: verified }
         arenaId: { type: [integer, 'null'], x-evidence: verified }
         bankId: { type: [integer, 'null'], x-evidence: verified }
-        challengeId: { type: [integer, 'null'], x-evidence: verified }
+        challengeId:
+          type: [integer, 'null']
+          x-evidence: unverified
+          description: |
+            Links a game to a challenge match. **Null in all 13,539 games examined**, so the
+            non-null type is assumed from the name rather than observed — the same mistake
+            that had `scorbitId` typed as an integer.
         index: { type: [integer, 'null'], x-evidence: verified, description: Position within the round, not the round number. Null for byes. }
         set: { type: integer, x-evidence: verified, description: 'Sub-group index within the round. `9999` is a sentinel marking a bye.' }
         status: { $ref: '#/components/schemas/GameStatus', x-evidence: verified }
@@ -1669,8 +1675,19 @@ components:
         bye: { type: boolean, x-evidence: verified }
         playerIdAdvantage: { type: [integer, 'null'], x-evidence: verified, description: Player holding position advantage. }
         scorekeeperId: { type: [integer, 'null'], x-evidence: verified }
-        scorbitId: { type: [integer, 'null'], x-evidence: verified }
-        scorbitLog: { type: ['object', 'null'], x-evidence: verified }
+        scorbitId:
+          type: [string, 'null']
+          x-evidence: verified
+          description: |
+            A Scorbit **UUID**, not a number — `fbf99a22-7aec-45ef-8f1d-365d0e0dda46`. Null on
+            all but 37 of 13,539 games examined, which is how it came to be documented here
+            as an integer: every early sample was null.
+        scorbitLog:
+          type: [string, 'null']
+          x-evidence: verified
+          description: |
+            A URL to a CSV session log on Scorbit's CDN, not an object —
+            `https://cdn.scorbit.io/session_log/…/<uuid>_<token>.csv`.
         scorbitVerified: { type: boolean, x-evidence: verified }
 
     Game:
@@ -1810,8 +1827,8 @@ components:
         duration: { type: [integer, 'null'], x-evidence: verified }
         createdAt: { type: string, x-evidence: verified }
         updatedAt: { type: string, x-evidence: verified }
-        scorbitId: { type: [integer, 'null'], x-evidence: verified }
-        scorbitLog: { type: ['object', 'null'], x-evidence: verified }
+        scorbitId: { type: [string, 'null'], x-evidence: verified, description: A Scorbit UUID. }
+        scorbitLog: { type: [string, 'null'], x-evidence: verified, description: A URL to a CSV session log on Scorbit's CDN. }
         scorbitVerified: { type: boolean, x-evidence: verified }
 
     # ------------------------------------------------------------- Standings
@@ -1823,10 +1840,25 @@ components:
       properties:
         playerId: { type: integer, x-evidence: verified }
         position: { type: integer, x-evidence: verified, description: Finishing rank. Tied players share a number. }
-        points: { type: [string, 'null'], x-evidence: verified, description: Total points, as a **string**. }
-        pointsWithTiebreaker: { type: [string, 'null'], x-evidence: verified }
+        points:
+          type: [string, number, 'null']
+          x-evidence: verified
+          description: |
+            Total points. **Usually a string, sometimes a number**: of 294 tournaments
+            examined, 267 returned strings throughout, 20 returned numbers throughout, and
+            one mixed both within a single standings array. Coerce; never assume string
+            methods are available.
+        pointsWithTiebreaker:
+          type: [string, number, 'null']
+          x-evidence: verified
+          description: Follows `points` — string in most tournaments, number in some.
         tiebreakers: { type: [array, 'null'], x-evidence: verified, description: 'Heterogeneous — strings and numbers mixed, e.g. `["45.00", 5, 2]`.', items: { type: [string, number] } }
-        gamesPlayed: { type: integer, x-evidence: verified }
+        gamesPlayed:
+          type: [integer, 'null']
+          x-evidence: verified
+          description: |
+            Null on about 6% of rows examined, overwhelmingly in the same tournaments whose
+            `points` come back as numbers.
         strikeCount: { type: [integer, 'null'], x-evidence: verified, description: Knockout formats. }
         adjustment:
           type: [number, 'null']
