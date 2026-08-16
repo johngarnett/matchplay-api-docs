@@ -210,11 +210,17 @@ paths:
           schema: { type: boolean }
         - name: includeParent
           in: query
-          description: Adds `parentTournament` when this tournament is a child of another.
+          description: |
+            Sent by a third-party client but **observed to add nothing** — no `parentTournament`
+            key appeared, including on tournaments with real playoff relationships. Currently
+            indistinguishable from an unknown flag, which this API accepts silently.
           schema: { type: boolean }
         - name: includePlayoffs
           in: query
-          description: Adds playoff structure for tournaments configured with one.
+          description: |
+            Sent by a third-party client but **observed to add nothing** — no `playoffs` key
+            appeared on a qualifier or on its final. Use `includeLinkedTournaments` to resolve
+            playoff relationships.
           schema: { type: boolean }
         - name: includeSeries
           in: query
@@ -2144,8 +2150,23 @@ components:
         Something linked to a tournament. Usually a qualifying or playoff tournament, but
         the same structure also links series, arenas, queues and entry lists.
       properties:
-        tournamentId: { type: integer, x-evidence: verified }
+        tournamentId:
+          type: integer
+          x-evidence: verified
+          description: |
+            **Absent on `series` links**, which carry `seriesId` instead. Present on 18,621 of
+            19,761 links examined; the 1,140 absences are exactly the series links. Filter on
+            `linkType` before dereferencing this.
+        seriesId:
+          type: integer
+          x-evidence: verified
+          description: Present only when `linkType` is `series`, in place of `tournamentId`.
         name: { type: string, x-evidence: verified }
+        type:
+          type: [string, 'null']
+          x-evidence: verified
+          description: The linked tournament's format. Absent on `series` links, like `tournamentId`.
+        organizerId: { type: integer, x-evidence: verified }
         status:
           type: string
           x-evidence: verified
@@ -2158,10 +2179,17 @@ components:
           x-evidence: verified
           enum: [playoff, qualifying, series, arena, queue, entry]
           description: |
-            `playoff` and `qualifying` dominate, but the field also links a tournament to a
-            series, an arena, a queue or an entry list — 19,761 links examined.
-        linkIndex: { type: [integer, 'null'], x-evidence: derived }
-        test: { type: [boolean, 'null'], x-evidence: derived }
+            Names the role of the **linked** object, not of the tournament you fetched: a
+            tournament carrying a `playoff` link is the qualifier, and one carrying a
+            `qualifying` link is the final. Counts across 19,761 links — `playoff` 9,240,
+            `qualifying` 9,149, `series` 1,140, `arena` 220, `queue` 11, `entry` 1.
+        linkIndex:
+          type: [integer, 'null']
+          x-evidence: verified
+          description: |
+            Orders multiple links of the same type; observed 0–8. 709 tournaments carry more
+            than one `playoff` link, usually divisions.
+        test: { type: [boolean, 'null'], x-evidence: verified }
 
     Event:
       type: object
